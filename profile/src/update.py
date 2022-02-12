@@ -107,7 +107,7 @@ def make_html_linked_time(timestamp):
     return f'<a href="{url}">{s}</a>'
 
 
-def get_upcoming_launches(cache_time=3600):
+def get_upcoming_launches(cache_time=3600//2):
     """
     get the upcoming launches from the space dev api
     """
