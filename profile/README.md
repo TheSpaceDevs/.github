@@ -6,8 +6,6 @@ thriving community by providing helpful data and tools, accessible to everyone
 for free.
 
 ## Realtime Space Launches 🚀
-Here's a small demonstration of the realtime data we're getting from our
-publicly available API's.
 
 ### Spotlight 💡
 The next launch, retrieved from our
@@ -83,7 +81,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T150825">2022-02-12 15:08:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220212T154913">2022-02-12 15:49:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
