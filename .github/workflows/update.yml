@@ -6,7 +6,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "*/3 * * * *"   # every 30 mins
+    - cron: "*/30 * * * *"   # every 30 mins
 
 jobs:
   build-and-deploy:
