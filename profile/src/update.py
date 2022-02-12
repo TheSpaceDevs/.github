@@ -3,8 +3,6 @@ import time
 import requests
 import json
 import os
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
 
 API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
@@ -189,35 +187,6 @@ def parse_launches_within_a_month(launches):
         if (t_launch > t_now) & (t_launch < t_now + 2592000):
             upcoming_launches.append(launch)
     return upcoming_launches
-
-
-def plot_launch_histogram_within_a_year(launches):
-    # get the launches within a year
-    launches_within_a_year = []
-    t_now = time.mktime(time.localtime())
-    for launch in launches:
-        t_launch = time.mktime(launch["datetime"])
-        if (t_launch > t_now) & (t_launch < t_now + 2592000):
-            launches_within_a_year.append(launch)
-
-    times = [time.mktime(launch["datetime"]) for launch in
-             launches_within_a_year]
-    # convert times array to epochs
-
-    mpl_data = mdates.date2num(times)
-
-    # plot the histogram
-    fig, ax = plt.subplots()
-    # print(launches_within_a_year)
-    ax.hist(mpl_data,
-            bins=30,
-            # range=(t_now, t_now + 2592000),
-            )
-    ax.set_xlabel("Launch date")
-    ax.xaxis.set_major_locator(mdates.DayLocator())
-    ax.xaxis.set_major_formatter(mdates.DateFormatter('%d.%m.%y'))
-    # save figure
-    fig.savefig("launch_histogram.png")
 
 
 # get readme data
