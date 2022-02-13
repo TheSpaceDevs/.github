@@ -9,27 +9,25 @@ for free.
 
 ### Spotlight 💡
 The next launch, retrieved from our
-<a href="https://thespacedevs.com/llapi"> Launch Library 2 API</a>, is the
-{{ next_launch.name }} at the
-<a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a> in
+<a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
+{{ next_launch.name }}. It is scheduled to launch from
+*<a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a>,
 {{ next_launch.pad.location.name }}
-<img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code)}}" />
+<img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code)}}" />*
 at {{ make_html_linked_time(next_launch.datetime) }}.  Until
 then, this launch pad will have seen {{ next_launch.pad.total_launch_count }}
-out of {{ next_launch.pad.location.total_launch_count }} launches in this
-region. The mission's status is currently {{ next_launch.status.name }}
-({{ next_launch.status.abbrev }}) {{ status_emoji(next_launch.status.abbrev) }} which means:
-*{{ first_letter_lower(next_launch.status.description)  }}* The mission type is
-{{ next_launch.mission.type }} and the payload will be injected
-into {{ add_a_an(next_launch.mission.orbit.name) }}
-({{ next_launch.mission.orbit.abbrev }}).
+out of {{ next_launch.pad.location.total_launch_count }} from this location. The launch status is currently *{{ next_launch.status.name }}
+({{ next_launch.status.abbrev }}) {{ status_emoji(next_launch.status.abbrev) }}*. The mission type is
+*{{ next_launch.mission.type }}* and the payload will be injected
+into *{{ add_a_an(next_launch.mission.orbit.name) }}
+({{ next_launch.mission.orbit.abbrev }})*.
 <br>
 <blockquote>
   {{ next_launch.mission.description }}
 </blockquote>
 
 <p float="left" align="center">
-  <a href="{{ next_launch.pad.wiki_url }}" >
+  <a href="{{ next_launch.rocket.configuration.wiki_url }}" >
     <img alt="launch-image" height="200" src="{{ next_launch.image }}" />
   </a>
   <a href="{{ next_launch.pad.map_url }}" >
