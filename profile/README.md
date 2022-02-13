@@ -8,16 +8,16 @@ for free.
 ## API Showcase - Launch Library 2 🚀
 
 ### Next Launch ⌛
-The next launch, retrieved from our
+The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 PSLV  | EOS-4 (RISAT-1A). It is scheduled to launch from
 *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>,
 Sriharikota, Republic of India
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />*
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220214T002900">2022-02-14 00:29:00 UTC</a>.  Until
-then, this launch pad will have seen 50
-out of 78 from this location. The launch status is currently *Go for Launch
-(Go) 🟩 *. The mission type is
+then, this pad will have been used for 50
+out of 78 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
@@ -78,12 +78,12 @@ into *a Sun-Synchronous Orbit
     </table>
 </p>
 
-## API Showcase - Launch Library 2 🚀
+## API Showcase - Spaceflight News API 📰
 *Coming Soon*
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T200659">2022-02-13 20:06:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T203312">2022-02-13 20:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
