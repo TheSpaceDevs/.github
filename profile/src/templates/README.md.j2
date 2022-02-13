@@ -1,13 +1,13 @@
-## The Space Devs
+## About us 🧑‍🚀
 The Space Devs is a group of space enthusiast developers working on a range of
 services, united in a common goal to improve public knowledge and accessibility
 of spaceflight information. We aim to bring space app developers together into a
 thriving community by providing helpful data and tools, accessible to everyone
 for free.
 
-## Realtime Space Launches 🚀
+## API Showcase - Launch Library 2 🚀
 
-### Spotlight 💡
+### Next Launch ⌛
 The next launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 {{ next_launch.name }}. It is scheduled to launch from
@@ -40,6 +40,7 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
 - \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code)}}" /> {{ status_emoji(launch.status.abbrev) }} {{ make_google_calender_href_icon(launch) }} **{{ launch.mission.name }}** in {{ launch.pad.location.name }}.
 {% endfor %}
 
+### Launch Statuses 🟩🟨🟧
 <p align="center">
     <table class="tg">
     <thead>
@@ -68,6 +69,9 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
     </tbody>
     </table>
 </p>
+
+## API Showcase - Launch Library 2 🚀
+*Coming Soon*
 
 <hr>
   <div align="center">
