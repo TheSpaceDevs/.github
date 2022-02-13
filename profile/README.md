@@ -9,7 +9,7 @@ for free.
 
 ### Spotlight 💡
 The next launch, retrieved from our
-<a href="https://thespacedevs.com/">our public API</a>, is the
+<a href="https://thespacedevs.com/llapi"> Launch Library 2 API</a>, is the
 PSLV  | EOS-4 (RISAT-1A) at the
 <a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a> in
 Sriharikota, Republic of India
@@ -81,7 +81,7 @@ into a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T184157">2022-02-13 18:41:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220213T193122">2022-02-13 19:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
