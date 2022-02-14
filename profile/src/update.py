@@ -173,12 +173,13 @@ def parse_launch_windows_to_datetime(launches):
     return launches
 
 
-def get_country_flag_svg(iso3_country_code):
+def get_country_flag_svg(iso3_country_code, country_reassign):
+    if country_reassign:
+        if iso3_country_code == 'KAZ':
+            iso3_country_code = 'RUS'
+        elif iso3_country_code == 'GUF':
+            iso3_country_code = 'FRA'
     # convert iso3 to iso2
-    # if iso3_country_code == 'KAZ':
-    #     iso3_country_code = 'RUS'
-    # elif iso3_country_code == 'GUF':
-    #     iso3_country_code = 'FRA'
     iso2_country_code = ISO3_2_ISO2[iso3_country_code]
     return f'https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/{iso2_country_code.lower()}.svg'
 
