@@ -4,7 +4,7 @@ import requests
 import json
 import os
 
-API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed"
+API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed&hide_recent_previous=true"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
 CACHE_DIR = "../cache"
 ISO3_JSON = "http://country.io/iso3.json"
