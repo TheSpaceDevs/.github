@@ -10,10 +10,10 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-{{ next_launch.name }}. It is scheduled to be launched from
+{{ next_launch.name }}. It is scheduled to be launched by *{{ next_launch.launch_service_provider.name }}* <img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code)}}" /> from
 *<a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a>,
 {{ next_launch.pad.location.name }}*
-at {{ make_html_linked_time(next_launch.datetime) }} by *{{ next_launch.launch_service_provider.name }}* <img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code)}}" />.  Until
+at {{ make_html_linked_time(next_launch.datetime) }}.  Until
 then, this pad will have been used for {{ next_launch.pad.total_launch_count }}
 out of {{ next_launch.pad.location.total_launch_count }} launches from this location. The launch status is currently
 *{{ next_launch.status.abbrev }}* {{ status_emoji(next_launch.status.abbrev) }}. The mission type is
