@@ -10,7 +10,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-{{ next_launch.name }}. It is scheduled to be launched by *{{ next_launch.launch_service_provider.name }}*
+**{{ next_launch.name }}**. It is scheduled to be launched by *{{ next_launch.launch_service_provider.name }}*
 <img width="17" src="{{get_country_flag_svg(next_launch.launch_service_provider.country_code, country_reassign=False)}}" />
 from *<a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a>, {{ next_launch.pad.location.name }}*
 <img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code, country_reassign=False)}}" />
