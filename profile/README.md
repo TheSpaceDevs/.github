@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman ready to launch newest Antares on NG-17
 - <a href="https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/" >🔗</a> **[SpaceNews]** OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival
 - <a href="https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/" >🔗</a> **[SpaceNews]** Russian ASAT debris creating “squalls” of close approaches with satellites
 - <a href="https://www.nasaspaceflight.com/2022/02/insight-exoplanet-evolution/" >🔗</a> **[NASA Spaceflight]** New research directly observes atmospheric loss on mini-Neptune exoplanets, provides insight into exoplanet evolution
 - <a href="https://mars.nasa.gov/news/9134/" >🔗</a> **[NASA]** NASA's Perseverance Celebrates First Year on Mars by Learning to Run
-- <a href="https://spacenews.com/state-fight-space-sector-is-humming-in-huntsville-alabama/" >🔗</a> **[SpaceNews]** State Fight: Space sector is humming in Huntsville, Alabama
 
 
 ### Launch-related News 🚀
@@ -93,11 +93,12 @@ into *a Low Earth Orbit
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-february-launch-from-virginia" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s February Launch from Virginia
 - <a href="http://www.nasa.gov/press-release/nasa-highlights-science-on-next-northrop-grumman-space-station-mission" >🔗</a> **[NASA]** NASA Highlights Science on Next Northrop Grumman Space Station Mission
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-opens-virtual-experience-for-next-cargo-launch" >🔗</a> **[NASA]** NASA Sets Coverage, Opens Virtual Experience for Next Cargo Launch
+- <a href="https://spaceflightnow.com/2022/02/18/northrop-grumman-ready-to-launch-space-station-resupply-mission/" >🔗</a> **[Spaceflight Now]** Northrop Grumman ready to launch space station resupply mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T150625">2022-02-19 15:06:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T153547">2022-02-19 15:35:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
