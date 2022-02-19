@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/" >🔗</a> **[SpaceNews]** State Fight: SpaceX brings business to Brownsville, Texas
+- <a href="https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/" >🔗</a> **[SpaceNews]** State Fight: New Mexico’s growing reputation as a space state
 - <a href="https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman ready to launch newest Antares on NG-17
 - <a href="https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/" >🔗</a> **[SpaceNews]** OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival
 - <a href="https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/" >🔗</a> **[SpaceNews]** Russian ASAT debris creating “squalls” of close approaches with satellites
-- <a href="https://www.nasaspaceflight.com/2022/02/insight-exoplanet-evolution/" >🔗</a> **[NASA Spaceflight]** New research directly observes atmospheric loss on mini-Neptune exoplanets, provides insight into exoplanet evolution
-- <a href="https://mars.nasa.gov/news/9134/" >🔗</a> **[NASA]** NASA's Perseverance Celebrates First Year on Mars by Learning to Run
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T170601">2022-02-19 17:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173203">2022-02-19 17:32:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
