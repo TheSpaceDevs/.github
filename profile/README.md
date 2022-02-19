@@ -97,11 +97,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-<<<<<<< HEAD
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T145827">2022-02-19 14:58:27 UTC</a>
-=======
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T143135">2022-02-19 14:31:35 UTC</a>
->>>>>>> 33d838023559a08fee603639dbca81d6f9ffb1a9
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T150109">2022-02-19 15:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
