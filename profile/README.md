@@ -10,34 +10,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)**. It is scheduled to be launched by *Northrop Grumman Innovation Systems*
+**Falcon 9 Block 5 | Starlink Group 4-8**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Launch Area 0 A</a>, Wallops Island, Virginia, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T174003">2022-02-19 17:40:03 UTC</a>.  Until
-then, this pad will have been used for 16
-out of 71 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T144400">2022-02-21 14:44:00 UTC</a>.  Until
+then, this pad will have been used for 135
+out of 834 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Resupply* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  This is the 17th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 16th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft is named after American astronaut and climate scientist Piers Sellers. Sellers was a part of three Space Shuttle missions tasked with assembly of the International Space Station.
+  A batch of 46 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Antares_(rocket)#Antares_200" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220128051224.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=37.8337+N,+75.4881+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T174003">2022-02-19 17:40:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)&location=Wallops Island, Virginia, USA&dates=20220219T174003Z%2F20220219T174003Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Cygnus CRS-2 NG-17 (S.S. Piers Sellers)** from Wallops Island, Virginia, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T161300">2022-02-20 16:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220220T161300Z%2F20220220T161300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-8** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T144400">2022-02-21 14:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-8&location=Cape Canaveral, FL, USA&dates=20220221T144400Z%2F20220221T144400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-8** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T234400">2022-02-25 23:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220225T234400Z%2F20220225T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **L-SAR 01B** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T013000">2022-02-27 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T013000Z%2F20220227T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T203500">2022-02-27 20:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl’s Night Continues&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220227T203500Z%2F20220227T203500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **StriX-β (The Owl’s Night Continues)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -83,22 +82,19 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/" >🔗</a> **[SpaceNews]** State Fight: SpaceX brings business to Brownsville, Texas
 - <a href="https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/" >🔗</a> **[SpaceNews]** State Fight: New Mexico’s growing reputation as a space state
-- <a href="https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman ready to launch newest Antares on NG-17
+- <a href="https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman launches newest Antares on NG-17
 - <a href="https://spacenews.com/oq-technologys-wake-up-patent-draws-yawn-from-iot-smallsat-rival/" >🔗</a> **[SpaceNews]** OQ Technology’s “wake-up” patent draws yawn from IoT smallsat rival
 - <a href="https://spacenews.com/russian-asat-debris-creating-squalls-of-close-approaches-with-satellites/" >🔗</a> **[SpaceNews]** Russian ASAT debris creating “squalls” of close approaches with satellites
 
 
 ### Launch-related News 🚀
 
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-february-launch-from-virginia" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s February Launch from Virginia
-- <a href="http://www.nasa.gov/press-release/nasa-highlights-science-on-next-northrop-grumman-space-station-mission" >🔗</a> **[NASA]** NASA Highlights Science on Next Northrop Grumman Space Station Mission
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-opens-virtual-experience-for-next-cargo-launch" >🔗</a> **[NASA]** NASA Sets Coverage, Opens Virtual Experience for Next Cargo Launch
-- <a href="https://spaceflightnow.com/2022/02/18/northrop-grumman-ready-to-launch-space-station-resupply-mission/" >🔗</a> **[Spaceflight Now]** Northrop Grumman ready to launch space station resupply mission
+- <a href="https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/" >🔗</a> **[Teslarati]** SpaceX to close out February with two more Starlink launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T173203">2022-02-19 17:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220219T180653">2022-02-19 18:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
