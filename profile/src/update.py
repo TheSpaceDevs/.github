@@ -3,8 +3,10 @@ import time
 import requests
 import json
 import os
+import html
 
-API_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed&hide_recent_previous=true"
+LL2_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed&hide_recent_previous=true"
+SNAPI_ENDPOINT = "https://api.spaceflightnewsapi.net/v3/articles"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
 CACHE_DIR = "../cache"
 ISO3_JSON = "http://country.io/iso3.json"
@@ -27,16 +29,15 @@ def first_letter_lower(s):
 def status_emoji(status):
     return STATUS_MAP[status]
 
-import html
 
 def make_google_calender_url(launch):
     return BASE_GOOGLE_CALENDAR_URL.format(
         text=html.escape(launch["name"]),
         location=html.escape(launch["pad"]["location"]["name"]),
         date1=time.strftime("%Y%m%dT%H%M%SZ", time.strptime(launch["window_start"],
-                                           "%Y-%m-%dT%H:%M:%SZ")),
+                                                            "%Y-%m-%dT%H:%M:%SZ")),
         date2=time.strftime("%Y%m%dT%H%M%SZ", time.strptime(launch["window_end"],
-                                           "%Y-%m-%dT%H:%M:%SZ")),
+                                                            "%Y-%m-%dT%H:%M:%SZ")),
     )
 
 
@@ -105,9 +106,9 @@ def make_html_linked_time(timestamp):
     return f'<a href="{url}">{s}</a>'
 
 
-def get_upcoming_launches(cache_time=3600//2):
+def get_upcoming_launches(cache_time=3600 // 2):
     """
-    get the upcoming launches from the space dev api
+    get upcoming launches from the Launch Library 2 API
     """
     # check if launches are cached
     # cache launches by the time
@@ -119,7 +120,7 @@ def get_upcoming_launches(cache_time=3600//2):
     # get the time of the last update from filename
     # if the file does not exist, create it
     try:
-        with open(os.path.join(CACHE_DIR, "last_update.txt"), "r") as f:
+        with open(os.path.join(CACHE_DIR, "launches_last_update.txt"), "r") as f:
             last_update = f.read()
     except FileNotFoundError:
         last_update = now
@@ -127,7 +128,7 @@ def get_upcoming_launches(cache_time=3600//2):
     # if the cache is older than 1 hour, update cache
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
-        r = requests.get(API_ENDPOINT)
+        r = requests.get(LL2_ENDPOINT)
         data = r.json()
 
         # write the data to the cache
@@ -135,7 +136,7 @@ def get_upcoming_launches(cache_time=3600//2):
             json.dump(data, f)
 
         # update the last update time
-        with open(os.path.join(CACHE_DIR, "last_update.txt"), "w") as f:
+        with open(os.path.join(CACHE_DIR, "launches_last_update.txt"), "w") as f:
             f.write(str(now))
 
     # read the cache
@@ -146,16 +147,16 @@ def get_upcoming_launches(cache_time=3600//2):
     return data
 
 
-def generate_next_launch(data):
-    """
-    generate the next launch readme
-    """
-    # get the template
-
-    # render the template
-    description = """
-    
-    """
+# def generate_next_launch(data):
+#     """
+#     generate the next launch readme
+#     """
+#     # get the template
+#
+#     # render the template
+#     description = """
+#
+#     """
 
 
 def add_a_an(s):
@@ -205,6 +206,8 @@ def get_readme_data():
     launches = get_upcoming_launches()["results"]
     launches = parse_launch_windows_to_datetime(launches)
     next_launch = launches[0]
+    latest_news = get_latest_news()
+    launch_news = get_launch_news(next_launch["id"])
     return {
         "timestamp": time.gmtime(),
         "launches": launches,
@@ -216,8 +219,92 @@ def get_readme_data():
         "status_emoji": status_emoji,
         "first_letter_lower": first_letter_lower,
         "add_a_an": add_a_an,
-        "make_google_calender_href_icon": make_google_calender_href_icon
+        "make_google_calender_href_icon": make_google_calender_href_icon,
+        "latest_news": latest_news,
+        "launch_news": launch_news
     }
+
+
+def get_latest_news(cache_time=3600 // 2):
+    """
+    get the latest news from the Spaceflight News API
+    """
+    # check if news are cached
+    # cache news by the time
+    # if cache is older than 1 hour, update cache
+
+    # get the current time
+    now = time.time()
+
+    # get the time of the last update from filename
+    # if the file does not exist, create it
+    try:
+        with open(os.path.join(CACHE_DIR, "latest_news_last_update.txt"), "r") as f:
+            last_update = f.read()
+    except FileNotFoundError:
+        last_update = now
+
+    # if the cache is older than 1 hour, update cache
+    if (now - float(last_update) > cache_time) | (last_update == now):
+        # get the data from the api
+        r = requests.get(SNAPI_ENDPOINT + '?_limit=5')
+        data = r.json()
+
+        # write the data to the cache
+        with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "w") as f:
+            json.dump(data, f)
+
+        # update the last update time
+        with open(os.path.join(CACHE_DIR, "latest_news_last_update.txt"), "w") as f:
+            f.write(str(now))
+
+    # read the cache
+    with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "r") as f:
+        data = json.load(f)
+
+    # return the data
+    return data
+
+
+def get_launch_news(launch_ID, cache_time=3600 // 2):
+    """
+    get all news related to a launch from the Spaceflight News API
+    """
+    # check if news are cached
+    # cache news by the time
+    # if cache is older than 1 hour, update cache
+
+    # get the current time
+    now = time.time()
+
+    # get the time of the last update from filename
+    # if the file does not exist, create it
+    try:
+        with open(os.path.join(CACHE_DIR, "launch_news_last_update.txt"), "r") as f:
+            last_update = f.read()
+    except FileNotFoundError:
+        last_update = now
+
+    # if the cache is older than 1 hour, update cache
+    if (now - float(last_update) > cache_time) | (last_update == now):
+        # get the data from the api
+        r = requests.get(SNAPI_ENDPOINT + '/launch/' + launch_ID)
+        data = r.json()
+
+        # write the data to the cache
+        with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "w") as f:
+            json.dump(data, f)
+
+        # update the last update time
+        with open(os.path.join(CACHE_DIR, "launch_news_last_update.txt"), "w") as f:
+            f.write(str(now))
+
+    # read the cache
+    with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "r") as f:
+        data = json.load(f)
+
+    # return the data
+    return data
 
 
 # load template file
@@ -233,5 +320,5 @@ if __name__ == "__main__":
     output = template.render(**data)
 
     # write output
-    with open(os.path.join("..", "README.md"), "w") as f:
+    with open(os.path.join("..", "README.md"), "w", encoding="utf-8") as f:
         f.write(output)

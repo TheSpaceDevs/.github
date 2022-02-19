@@ -71,7 +71,17 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
 </p>
 
 ## API Showcase - Spaceflight News API 📰
-*Coming Soon*
+
+### Latest News ⌛
+{% for article in latest_news -%}
+- <a href="{{ article.url }}" >🔗</a> **[{{article.newsSite}}]** {{article.title}}
+{% endfor %}
+
+### Launch-related News 🚀
+
+{% for article in launch_news -%}
+- <a href="{{ article.url }}" >🔗</a> **[{{article.newsSite}}]** {{article.title}}
+{% endfor %}
 
 <hr>
   <div align="center">
