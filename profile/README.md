@@ -81,8 +81,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/" >🔗</a> **[SpaceNews]** State Fight: Michigan economic plan emphasizes satellite communications
 - <a href="https://spacenews.com/state-fight-shoring-up-floridas-space-coast/" >🔗</a> **[SpaceNews]** State Fight: Shoring up Florida’s Space Coast
+- <a href="https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/" >🔗</a> **[SpaceNews]** State Fight: Michigan economic plan emphasizes satellite communications
 - <a href="http://www.nasa.gov/press-release/northrop-grumman-sends-nasa-science-cargo-to-international-space-station" >🔗</a> **[NASA]** Northrop Grumman Sends NASA Science, Cargo to International Space Station
 - <a href="https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/" >🔗</a> **[SpaceNews]** State Fight: New Mexico’s growing reputation as a space state
 - <a href="https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/" >🔗</a> **[SpaceNews]** State Fight: SpaceX brings business to Brownsville, Texas
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T203312">2022-02-20 20:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T210715">2022-02-20 21:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
