@@ -84,7 +84,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/state-fight-new-mexicos-growing-reputation-as-a-space-state/" >🔗</a> **[SpaceNews]** State Fight: New Mexico’s growing reputation as a space state
 - <a href="https://spacenews.com/state-fight-spacex-brings-business-to-brownsville-texas/" >🔗</a> **[SpaceNews]** State Fight: SpaceX brings business to Brownsville, Texas
 - <a href="https://www.nasaspaceflight.com/2022/02/antares-cygnus-ng-17/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman launches newest Antares on NG-17
-- <a href="https://spaceflightnow.com/2022/02/19/next-goes-weather-satellite-installed-atop-atlas-5-rocket/" >🔗</a> **[Spaceflight Now]** Next GOES weather satellite installed atop Atlas 5 rocket
+- <a href="https://spaceflightnow.com/2022/02/19/antares-rocket-launch-kicks-off-space-station-resupply-mission/" >🔗</a> **[Spaceflight Now]** Antares rocket launch kicks off space station resupply mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T003105">2022-02-20 00:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220220T015651">2022-02-20 01:56:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
