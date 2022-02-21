@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-to-launch-new-satellite-servicing-mission-in-2024/" >🔗</a> **[SpaceNews]** Northrop Grumman to launch new satellite-servicing mission in 2024
 - <a href="https://arstechnica.com/science/2022/02/russia-offers-to-provide-independent-flights-for-european-astronauts/" >🔗</a> **[Arstechnica]** Russia responds to European astronauts: We’ll give you independent spaceflight
 - <a href="https://spacenews.com/china-claims-rocket-stage-destined-for-lunar-impact-is-not-from-its-2014-moon-mission/" >🔗</a> **[SpaceNews]** China claims rocket stage destined for lunar impact is not from its 2014 moon mission
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-wfirst-ngrst-launch/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy likely to launch NASA telescope after ULA skips competition
 - <a href="https://spacenews.com/state-fight-shoring-up-floridas-space-coast/" >🔗</a> **[SpaceNews]** State Fight: Shoring up Florida’s Space Coast
-- <a href="https://spacenews.com/state-fight-michigan-economic-plan-emphasizes-satellite-communications/" >🔗</a> **[SpaceNews]** State Fight: Michigan economic plan emphasizes satellite communications
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T170724">2022-02-21 17:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T173331">2022-02-21 17:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
