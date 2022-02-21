@@ -91,11 +91,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-february-2022-two-more-starlink-launches/" >🔗</a> **[Teslarati]** SpaceX to close out February with Starlink launches on Monday and Friday [updated]
+- <a href="https://spaceflightnow.com/2022/02/20/next-spacex-launch-to-deploy-fewer-starlink-satellites-into-higher-orbit/" >🔗</a> **[Spaceflight Now]** Next SpaceX launch to deploy fewer Starlink satellites into higher orbit
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T103656">2022-02-21 10:36:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220221T110547">2022-02-21 11:05:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
