@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/02/russias-space-chief-is-very-unhappy-with-hostile-us-policy/" >🔗</a> **[Arstechnica]** Dmitry Rogozin says he does not appreciate “openly hostile” US policy
 - <a href="https://spacenews.com/nro-chief-warns-satellite-operators-to-secure-their-systems-as-ukraine-crisis-unfolds/" >🔗</a> **[SpaceNews]** NRO chief warns satellite operators to ‘secure their systems’ as Ukraine crisis unfolds
 - <a href="https://spacenews.com/moon-bound-rocket-stage-still-most-likely-from-2014-change-mission-despite-chinas-denial/" >🔗</a> **[SpaceNews]** Moon-bound rocket stage still most likely from 2014 Chang’e mission, despite China’s denial
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-virtual-future-of-aviation-showcase" >🔗</a> **[NASA]** NASA to Host Virtual Future of Aviation Showcase
 - <a href="http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission" >🔗</a> **[NASA]** NASA, Axiom to Discuss First Private Astronaut Space Station Mission
-- <a href="https://spacenews.com/northrop-grumman-wins-341-million-space-force-contract-to-develop-a-deep-space-tracking-radar/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $341 million Space Force contract to develop a deep-space tracking radar
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T203356">2022-02-23 20:33:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T210633">2022-02-23 21:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
