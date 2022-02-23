@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-seeking-information-on-commercial-space-situational-awareness-data/" >🔗</a> **[SpaceNews]** NOAA seeking information on commercial space situational awareness data
 - <a href="https://www.teslarati.com/spacex-spacelogistics-next-generation-satellite-servicing-vehicle-launch/" >🔗</a> **[Teslarati]** SpaceX to launch “next-generation satellite-servicing vehicle” for Northrop Grumman
 - <a href="https://spacenews.com/lynk-reveals-mobile-network-contracts/" >🔗</a> **[SpaceNews]** Lynk reveals mobile network contracts
 - <a href="https://spacenews.com/washington-state-space-economy/" >🔗</a> **[SpaceNews]** Washington state space economy more than doubles
 - <a href="https://spacenews.com/u-s-and-international-partners-to-share-launch-cost-of-new-communications-satellite/" >🔗</a> **[SpaceNews]** U.S. and international partners to share launch cost of new communications satellite
-- <a href="https://spacenews.com/u-s-and-allies-to-strengthen-cooperation-in-space/" >🔗</a> **[SpaceNews]** U.S. and allies to strengthen cooperation in space
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T121114">2022-02-23 12:11:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T125143">2022-02-23 12:51:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
