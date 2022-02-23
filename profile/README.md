@@ -37,7 +37,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T154000">2022-02-25 15:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-11&location=Vandenberg SFB, CA, USA&dates=20220225T154000Z%2F20220225T213700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-11** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T234400">2022-02-25 23:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220225T234400Z%2F20220225T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **L-SAR 01B** from Jiuquan, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T233300">2022-02-26 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | L-SAR 01B&location=Jiuquan, People&#x27;s Republic of China&dates=20220226T233300Z%2F20220226T235800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **L-SAR 01B** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T013000">2022-02-27 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T013000Z%2F20220227T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T000000">2022-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220228T000000Z%2F20220228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **CentiSpace-1 S3 (?)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203500">2022-02-28 20:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl’s Night Continues&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220228T203500Z%2F20220228T203500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **StriX-β (The Owl’s Night Continues)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-and-europe-say-space-cooperation-with-russia-not-affected-yet-by-ukraine-crisis/" >🔗</a> **[SpaceNews]** U.S. and Europe say space cooperation with Russia not affected yet by Ukraine crisis
+- <a href="https://spacenews.com/space-force-procurement-command-trying-to-bring-unity-of-effort-to-space-programs/" >🔗</a> **[SpaceNews]** Space Force procurement command trying to bring ‘unity of effort’ to space programs
 - <a href="https://arstechnica.com/science/2022/02/russias-space-chief-is-very-unhappy-with-hostile-us-policy/" >🔗</a> **[Arstechnica]** Dmitry Rogozin says he does not appreciate “openly hostile” US policy
 - <a href="https://spacenews.com/nro-chief-warns-satellite-operators-to-secure-their-systems-as-ukraine-crisis-unfolds/" >🔗</a> **[SpaceNews]** NRO chief warns satellite operators to ‘secure their systems’ as Ukraine crisis unfolds
 - <a href="https://spacenews.com/moon-bound-rocket-stage-still-most-likely-from-2014-change-mission-despite-chinas-denial/" >🔗</a> **[SpaceNews]** Moon-bound rocket stage still most likely from 2014 Chang’e mission, despite China’s denial
-- <a href="http://www.nasa.gov/press-release/nasa-to-host-virtual-future-of-aviation-showcase" >🔗</a> **[NASA]** NASA to Host Virtual Future of Aviation Showcase
-- <a href="http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission" >🔗</a> **[NASA]** NASA, Axiom to Discuss First Private Astronaut Space Station Mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T223456">2022-02-23 22:34:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T230655">2022-02-23 23:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
