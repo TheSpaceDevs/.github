@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-wins-341-million-space-force-contract-to-develop-a-deep-space-tracking-radar/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $341 million Space Force contract to develop a deep-space tracking radar
 - <a href="https://arstechnica.com/science/2022/02/virgin-galactic-has-lost-1-billion-during-the-last-two-years/" >🔗</a> **[Arstechnica]** Virgin Galactic has lost $1 billion during the last two years
 - <a href="https://spacenews.com/noaa-seeking-information-on-commercial-space-situational-awareness-data/" >🔗</a> **[SpaceNews]** NOAA seeking information on commercial space situational awareness data
 - <a href="https://www.teslarati.com/spacex-spacelogistics-next-generation-satellite-servicing-vehicle-launch/" >🔗</a> **[Teslarati]** SpaceX to launch “next-generation satellite-servicing vehicle” for Northrop Grumman
 - <a href="https://spacenews.com/lynk-reveals-mobile-network-contracts/" >🔗</a> **[SpaceNews]** Lynk reveals mobile network contracts
-- <a href="https://spacenews.com/washington-state-space-economy/" >🔗</a> **[SpaceNews]** Washington state space economy more than doubles
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T154227">2022-02-23 15:42:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220223T161310">2022-02-23 16:13:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
