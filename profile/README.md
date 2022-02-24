@@ -89,11 +89,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rockets scheduled to launch five Starlink missions in a row
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T153727">2022-02-24 15:37:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220224T161145">2022-02-24 16:11:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
