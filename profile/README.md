@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/" >🔗</a> **[SpaceNews]** NASA to roll out SLS in mid-March for launch rehearsal
 - <a href="https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/" >🔗</a> **[Arstechnica]** Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike
 - <a href="https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/" >🔗</a> **[Spaceflight Now]** Fifty more Starlink satellites ready for launch Friday
 - <a href="https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/" >🔗</a> **[Teslarati]** SpaceX set for third Starlink launch in a row [webcast]
 - <a href="https://www.teslarati.com/spacex-starbase-environmental-review-more-delays/" >🔗</a> **[Teslarati]** SpaceX’s Starbase environmental review delayed another month
-- <a href="https://www.teslarati.com/relativity-space-reveals-plans-to-rapidly-upgrade-3d-printed-terran-1-rocket/" >🔗</a> **[Teslarati]** Relativity Space reveals plans to rapidly upgrade 3D-printed Terran 1 rocket
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T121051">2022-02-25 12:10:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T125058">2022-02-25 12:50:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
