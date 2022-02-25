@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/02/the-russian-invasion-of-ukraine-will-have-myriad-impacts-on-spaceflight/" >🔗</a> **[Arstechnica]** The Russian invasion of Ukraine will have myriad impacts on spaceflight
 - <a href="https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/" >🔗</a> **[SpaceNews]** ULA: Russia sanctions not expected to disrupt Atlas 5 operations
 - <a href="https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/" >🔗</a> **[SpaceNews]** ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine
 - <a href="https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/" >🔗</a> **[SpaceNews]** NASA to roll out SLS in mid-March for launch rehearsal
 - <a href="https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/" >🔗</a> **[Arstechnica]** Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike
-- <a href="https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/" >🔗</a> **[Spaceflight Now]** Fifty more Starlink satellites ready for launch Friday
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T190555">2022-02-25 19:05:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T193148">2022-02-25 19:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
