@@ -81,21 +81,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/" >🔗</a> **[SpaceNews]** ULA: Russia sanctions not expected to disrupt Atlas 5 operations
 - <a href="https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/" >🔗</a> **[SpaceNews]** ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine
 - <a href="https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/" >🔗</a> **[SpaceNews]** NASA to roll out SLS in mid-March for launch rehearsal
 - <a href="https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/" >🔗</a> **[Arstechnica]** Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike
 - <a href="https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/" >🔗</a> **[Spaceflight Now]** Fifty more Starlink satellites ready for launch Friday
-- <a href="https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/" >🔗</a> **[Teslarati]** SpaceX set for third Starlink launch in a row [webcast]
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/" >🔗</a> **[Teslarati]** SpaceX set for third Starlink launch in a row [webcast]
+- <a href="https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/" >🔗</a> **[Spaceflight Now]** Fifty more Starlink satellites ready for launch Friday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T143209">2022-02-25 14:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T150701">2022-02-25 15:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
