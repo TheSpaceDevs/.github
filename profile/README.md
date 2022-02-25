@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/02/24/fifty-more-starlink-satellites-ready-for-launch-friday/" >🔗</a> **[Spaceflight Now]** Fifty more Starlink satellites ready for launch Friday
 - <a href="https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/" >🔗</a> **[Teslarati]** SpaceX set for third Starlink launch in a row [webcast]
 - <a href="https://www.teslarati.com/spacex-starbase-environmental-review-more-delays/" >🔗</a> **[Teslarati]** SpaceX’s Starbase environmental review delayed another month
 - <a href="https://www.teslarati.com/relativity-space-reveals-plans-to-rapidly-upgrade-3d-printed-terran-1-rocket/" >🔗</a> **[Teslarati]** Relativity Space reveals plans to rapidly upgrade 3D-printed Terran 1 rocket
 - <a href="https://spacenews.com/u-s-space-command-needs-help-identifying-hostile-intent-in-space/" >🔗</a> **[SpaceNews]** U.S. Space Command needs help identifying hostile intent in space
-- <a href="https://spacenews.com/spacelink-adds-smaller-satellites-to-roadmap/" >🔗</a> **[SpaceNews]** SpaceLink adds smaller satellites to data-relay constellation
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T060811">2022-02-25 06:08:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T064116">2022-02-25 06:41:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
