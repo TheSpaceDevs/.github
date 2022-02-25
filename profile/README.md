@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-selects-futuristic-space-technology-concepts-for-early-study" >🔗</a> **[NASA]** NASA Selects Futuristic Space Technology Concepts for Early Study
+- <a href="https://spacenews.com/ukraine-impact-on-u-s-russia-space-cooperation/" >🔗</a> **[SpaceNews]** Previous invasion of Ukraine had serious repercussions for the space sector
+- <a href="https://spacenews.com/more-spaceports-more-problems/" >🔗</a> **[SpaceNews]** More spaceports, more problems
 - <a href="https://arstechnica.com/science/2022/02/the-russian-invasion-of-ukraine-will-have-myriad-impacts-on-spaceflight/" >🔗</a> **[Arstechnica]** The Russian invasion of Ukraine will have myriad impacts on spaceflight
 - <a href="https://spacenews.com/ula-russia-sanctions-not-expected-to-disrupt-atlas-5-operations/" >🔗</a> **[SpaceNews]** ULA: Russia sanctions not expected to disrupt Atlas 5 operations
-- <a href="https://spacenews.com/esa-to-continue-cooperation-but-monitoring-situation-following-russias-invasion-of-ukraine/" >🔗</a> **[SpaceNews]** ESA to continue cooperation but monitoring situation following Russia’s invasion of Ukraine
-- <a href="https://spacenews.com/nasa-to-roll-out-sls-in-mid-march-for-launch-rehearsal/" >🔗</a> **[SpaceNews]** NASA to roll out SLS in mid-March for launch rehearsal
-- <a href="https://arstechnica.com/science/2022/02/rocket-report-sls-rocket-almost-ready-to-roll-ula-workers-prepared-to-strike/" >🔗</a> **[Arstechnica]** Rocket Report: SLS rocket almost ready to roll, ULA workers prepared to strike
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T193148">2022-02-25 19:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220225T200652">2022-02-25 20:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
