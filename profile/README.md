@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/02/26/russia-suspends-soyuz-launch-operations-in-french-guiana/" >🔗</a> **[Spaceflight Now]** Russia suspends Soyuz launch operations in French Guiana
 - <a href="https://spacenews.com/xplore-banks-16-2-million-to-date/" >🔗</a> **[SpaceNews]** Xplore banks $16.2 million for space-as-a-service
 - <a href="https://spacenews.com/russia-halts-soyuz-launches-from-french-guiana/" >🔗</a> **[SpaceNews]** Russia halts Soyuz launches from French Guiana
 - <a href="https://arstechnica.com/science/2022/02/russia-pulls-out-of-european-spaceport-abandoning-a-planned-launch/" >🔗</a> **[Arstechnica]** Russia pulls out of European spaceport, abandoning a planned launch
 - <a href="https://spacenews.com/sierra-space-to-study-dream-chaser-landings-in-japan/" >🔗</a> **[SpaceNews]** Sierra Space to study Dream Chaser landings in Japan
-- <a href="https://spacenews.com/spacex-makes-its-case-for-space-sustainability-with-latest-starlink-launch/" >🔗</a> **[SpaceNews]** SpaceX makes its case for space sustainability with latest Starlink launch
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T203259">2022-02-26 20:32:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T210440">2022-02-26 21:04:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
