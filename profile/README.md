@@ -10,33 +10,40 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 4C | L-SAR 01B**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T233300">2022-02-26 23:33:00 UTC</a>.  Until
-then, this pad will have been used for 77
-out of 157 launches from this location. The launch status is currently
+**Electron | The Owl’s Night Continues**. It is scheduled to be launched by *Rocket Lab Ltd*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203500">2022-02-28 20:35:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 23 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  Chinese civilian L-Band radar Earth observation satellite.
+  StriX β is a Japanese synthetic aperture radar satellite built by Synspective as a demonstrator for their planned 25 satellite constellation. It will feature an X-band synthetic aperture radar.
+
+StriX β is an upgraded version of the StriX α prototype. The satellite features two deployable panes, one side carrying solar cells, the other carrying the X-band radar antenna.
+
+The StriX satellite constellation can target data with a ground resolution of 1-3 m, single polarized (VV), and a swath width of more than 10-30 km. The StriX observation modes are Stripmap and Sliding Spotlight mode and each satellite has an SAR antenna that is 5 meters in length and stowed during launch. The simple design of the satellites allows for affordable development of the constellation.
+
+StriX β was planned to be launched in 2021 on a Soyuz-2-1a Fregat or Soyuz-2-1b Fregat rideshare mission, but as this mission was delayed, it was re-booked on a dedicated Electron KS launch.
+
+Synspective is planning a constellation of 25 satellites called StriX, comprised of 100-kilogram satellites capable of imaging at a resolution of one to three meters. By 2022 the company plans to have six satellites in orbit. The company has not set a date by which it hopes to achieve 25 satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_4C" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T025400">2022-02-27 02:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 (Core Only) | Hainan-1 to 4 and Others&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220227T025400Z%2F20220227T031900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203500">2022-02-28 20:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl’s Night Continues&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220228T203500Z%2F20220228T203500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **StriX-β (The Owl’s Night Continues)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T213800">2022-03-01 21:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | GOES-T&location=Cape Canaveral, FL, USA&dates=20220301T213800Z%2F20220301T233800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GOES-T** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T143200">2022-03-03 14:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-9&location=Kennedy Space Center, FL, USA&dates=20220303T143200Z%2F20220303T143200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-9** from Kennedy Space Center, FL, USA.
@@ -88,11 +95,12 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2022/02/23/rocket-lab-to-debut-new-launch-pad-on-next-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut new launch pad on next mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220226T233324">2022-02-26 23:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220227T030645">2022-02-27 03:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
