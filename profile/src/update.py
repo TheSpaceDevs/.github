@@ -208,6 +208,19 @@ def get_readme_data():
     next_launch = launches[0]
     latest_news = get_latest_news()
     launch_news = get_launch_news(next_launch["id"])
+    if next_launch["mission"] is None:
+        next_launch["mission"] = {}
+        next_launch["mission"]["name"] = "Unknown Payload"
+        next_launch["mission"]["type"] = "Unknown"
+        next_launch["mission"]["orbit"] = {}
+        next_launch["mission"]["orbit"]["name"] = "Unknown Orbit"
+        next_launch["mission"]["orbit"]["abbrev"] = "-"
+        next_launch["mission"]["description"] = "Unknown Payload"
+    elif next_launch["mission"]["orbit"] is None:
+        next_launch["mission"]["orbit"] = {}
+        next_launch["mission"]["orbit"]["name"] = "Unknown Orbit"
+        next_launch["mission"]["orbit"]["abbrev"] = "-"
+
     return {
         "timestamp": time.gmtime(),
         "launches": launches,
