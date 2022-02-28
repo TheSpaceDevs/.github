@@ -86,11 +86,11 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/" >🔗</a> **[Teslarati]** SpaceX a bastion of independent US, European spaceflight amid Russian threats
+- <a href="https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/" >🔗</a> **[SpaceNews]** GOES-T nears launch as NASA plans studies of next-generation weather satellite
 - <a href="https://spacenews.com/china-launches-national-record-22-satellites-on-long-march-8-commercial-rideshare/" >🔗</a> **[SpaceNews]** China launches national record 22 satellites on Long March 8 commercial rideshare
 - <a href="https://spacenews.com/satellite-imaging-companies-increase-profile-as-they-track-russias-invasion-of-ukraine/" >🔗</a> **[SpaceNews]** Satellite imaging companies increase profile as they track Russia’s invasion of Ukraine
 - <a href="https://spaceflightnow.com/2022/02/26/russia-suspends-soyuz-launch-operations-in-french-guiana/" >🔗</a> **[Spaceflight Now]** Russia suspends Soyuz launch operations in French Guiana
-- <a href="https://spacenews.com/xplore-banks-16-2-million-to-date/" >🔗</a> **[SpaceNews]** Xplore banks $16.2 million for space-as-a-service
-- <a href="https://spacenews.com/russia-halts-soyuz-launches-from-french-guiana/" >🔗</a> **[SpaceNews]** Russia halts Soyuz launches from French Guiana
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T121047">2022-02-28 12:10:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T125150">2022-02-28 12:51:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
