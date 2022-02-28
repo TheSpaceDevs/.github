@@ -87,10 +87,10 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/" >🔗</a> **[Spaceflight Now]** Watch live: Atlas 5 rocket rolling to launch pad with weather satellite
+- <a href="https://www.esa.int/Newsroom/Press_Releases/ESA_statement_regarding_cooperation_with_Russia_following_a_meeting_with_Member_States_on_28_February_2022" >🔗</a> **[ESA]** ESA statement regarding cooperation with Russia following a meeting with Member States on 28 February 2022
 - <a href="https://www.teslarati.com/spacex-russia-ukraine-invasion-western-spaceflight-independence/" >🔗</a> **[Teslarati]** SpaceX a bastion of independent US, European spaceflight amid Russian threats
 - <a href="https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/" >🔗</a> **[SpaceNews]** GOES-T nears launch as NASA plans studies of next-generation weather satellite
 - <a href="https://spacenews.com/china-launches-national-record-22-satellites-on-long-march-8-commercial-rideshare/" >🔗</a> **[SpaceNews]** China launches national record 22 satellites on Long March 8 commercial rideshare
-- <a href="https://spacenews.com/satellite-imaging-companies-increase-profile-as-they-track-russias-invasion-of-ukraine/" >🔗</a> **[SpaceNews]** Commercial spy satellites put Russia’s Ukraine invasion in the public eye
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T154214">2022-02-28 15:42:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T161233">2022-02-28 16:12:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
