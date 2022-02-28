@@ -78,11 +78,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/" >🔗</a> **[Teslarati]** SpaceX delivers truckload of Starlink dishes to Ukraine, as promised
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services" >🔗</a> **[NASA]** NASA Awards Contract for Safety and Mission Assurance Services
 - <a href="http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission" >🔗</a> **[NASA]** NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission
 - <a href="https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/" >🔗</a> **[SpaceNews]** Russia-Ukraine war raises questions for upcoming OneWeb launches
 - <a href="https://spacenews.com/spacex-heeds-ukraines-starlink-sos/" >🔗</a> **[SpaceNews]** SpaceX heeds Ukraine’s Starlink SOS
-- <a href="https://spacenews.com/esa-says-its-very-unlikely-exomars-will-launch-this-year/" >🔗</a> **[SpaceNews]** ESA says it’s “very unlikely” ExoMars will launch this year
 
 
 ### Launch-related News 🚀
@@ -97,7 +97,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T223926">2022-02-28 22:39:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T232247">2022-02-28 23:22:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
