@@ -87,11 +87,11 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/" >🔗</a> **[SpaceNews]** Russia-Ukraine war raises questions for upcoming OneWeb launches
 - <a href="https://spacenews.com/spacex-heeds-ukraines-starlink-sos/" >🔗</a> **[SpaceNews]** SpaceX heeds Ukraine’s Starlink SOS
 - <a href="https://spacenews.com/esa-says-its-very-unlikely-exomars-will-launch-this-year/" >🔗</a> **[SpaceNews]** ESA says it’s “very unlikely” ExoMars will launch this year
 - <a href="https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls to launch pad with weather satellite
 - <a href="https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/" >🔗</a> **[SpaceNews]** Lockheed Martin, Northrop Grumman, York Space selected to build DoD’s internet-in-space constellation
-- <a href="https://www.esa.int/Newsroom/Press_Releases/ESA_statement_regarding_cooperation_with_Russia_following_a_meeting_with_Member_States_on_28_February_2022" >🔗</a> **[ESA]** ESA statement regarding cooperation with Russia following a meeting with Member States on 28 February 2022
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T193624">2022-02-28 19:36:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T201224">2022-02-28 20:12:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
