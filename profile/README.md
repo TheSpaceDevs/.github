@@ -10,36 +10,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | The Owl’s Night Continues**. It is scheduled to be launched by *Rocket Lab Ltd*
+**Atlas V 541 | GOES-T**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203500">2022-02-28 20:35:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 23 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T213800">2022-03-01 21:38:00 UTC</a>.  Until
+then, this pad will have been used for 103
+out of 835 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  StriX β is a Japanese synthetic aperture radar satellite built by Synspective as a demonstrator for their planned 25 satellite constellation. It will feature an X-band synthetic aperture radar.
-
-StriX β is an upgraded version of the StriX α prototype. The satellite features two deployable panes, one side carrying solar cells, the other carrying the X-band radar antenna.
-
-The StriX satellite constellation can target data with a ground resolution of 1-3 m, single polarized (VV), and a swath width of more than 10-30 km. The StriX observation modes are Stripmap and Sliding Spotlight mode and each satellite has an SAR antenna that is 5 meters in length and stowed during launch. The simple design of the satellites allows for affordable development of the constellation.
-
-StriX β was planned to be launched in 2021 on a Soyuz-2-1a Fregat or Soyuz-2-1b Fregat rideshare mission, but as this mission was delayed, it was re-booked on a dedicated Electron KS launch.
-
-Synspective is planning a constellation of 25 satellites called StriX, comprised of 100-kilogram satellites capable of imaging at a resolution of one to three meters. By 2022 the company plans to have six satellites in orbit. The company has not set a date by which it hopes to achieve 25 satellites.
+  The Geostationary Operational Environmental Satellite T (GOES-T) is the third satellite in NOAA’s advanced GOES-R series. It is meant to operate as GOES West and work in tandem with GOES-16, which operates in the GOES East position
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
+  <a href="None" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20220228154837.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
@@ -86,21 +78,26 @@ Synspective is planning a constellation of 25 satellites called StriX, comprised
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services" >🔗</a> **[NASA]** NASA Awards Contract for Safety and Mission Assurance Services
+- <a href="http://www.nasa.gov/press-release/nasa-promotes-howard-hu-to-lead-orion-ahead-of-first-artemis-mission" >🔗</a> **[NASA]** NASA Promotes Howard Hu to Lead Orion Ahead of First Artemis Mission
 - <a href="https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/" >🔗</a> **[SpaceNews]** Russia-Ukraine war raises questions for upcoming OneWeb launches
 - <a href="https://spacenews.com/spacex-heeds-ukraines-starlink-sos/" >🔗</a> **[SpaceNews]** SpaceX heeds Ukraine’s Starlink SOS
 - <a href="https://spacenews.com/esa-says-its-very-unlikely-exomars-will-launch-this-year/" >🔗</a> **[SpaceNews]** ESA says it’s “very unlikely” ExoMars will launch this year
-- <a href="https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls to launch pad with weather satellite
-- <a href="https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/" >🔗</a> **[SpaceNews]** Lockheed Martin, Northrop Grumman, York Space selected to build DoD’s internet-in-space constellation
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2022/02/23/rocket-lab-to-debut-new-launch-pad-on-next-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut new launch pad on next mission
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-noaa-s-weather-observing-satellite-launch" >🔗</a> **[NASA]** NASA Invites Media to NOAA’s Weather Observing Satellite Launch
+- <a href="https://spacenews.com/goes-t-launch-preparations-underway/" >🔗</a> **[SpaceNews]** GOES-T launch preparations underway
+- <a href="http://www.nasa.gov/press-release/nasa-tv-to-air-noaa-s-goes-t-launch-prelaunch-activities" >🔗</a> **[NASA]** NASA TV to Air NOAA’s GOES-T Launch, Prelaunch Activities
+- <a href="https://spaceflightnow.com/2022/02/19/next-goes-weather-satellite-installed-atop-atlas-5-rocket/" >🔗</a> **[Spaceflight Now]** Next GOES weather satellite installed atop Atlas 5 rocket
+- <a href="https://spacenews.com/goes-t-nears-launch-as-nasa-plans-studies-of-next-generation-weather-satellite/" >🔗</a> **[SpaceNews]** GOES-T nears launch as NASA plans studies of next-generation weather satellite
+- <a href="https://spaceflightnow.com/2022/02/28/atlas-5-goes-t-rollout/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls to launch pad with weather satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T203919">2022-02-28 20:39:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220228T210934">2022-02-28 21:09:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
