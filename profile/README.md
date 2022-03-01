@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-electron-rocket-selects-virginia-for-neutron-factory/" >🔗</a> **[SpaceNews]** Rocket Lab launches Electron rocket, selects Virginia for Neutron factory
 - <a href="https://spacenews.com/eos-plea-for-imagery-of-ukraine/" >🔗</a> **[SpaceNews]** EOS Data Analytics issues urgent plea for imagery of Ukraine
 - <a href="https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/" >🔗</a> **[Arstechnica]** A wartime plea to Western satellite companies: “We need this data, please”
 - <a href="https://arstechnica.com/science/2022/02/despite-tensions-nasa-spaceflight-chief-urges-us-russia-cooperation-in-space/" >🔗</a> **[Arstechnica]** NASA wants to maintain Russia partnership but is studying “operational flexibilities”
 - <a href="https://www.teslarati.com/spacex-starlink-dishes-arrive-in-ukraine/" >🔗</a> **[Teslarati]** SpaceX delivers truckload of Starlink dishes to Ukraine, as promised
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-safety-and-mission-assurance-services" >🔗</a> **[NASA]** NASA Awards Contract for Safety and Mission Assurance Services
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T101131">2022-03-01 10:11:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220301T104840">2022-03-01 10:48:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
