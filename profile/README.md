@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/03/russia-places-extraordinary-demands-on-oneweb-prior-to-satellite-launch/" >🔗</a> **[Arstechnica]** Russia places extraordinary demands on OneWeb prior to satellite launch
+- <a href="https://spacenews.com/russian-sanctions-throw-south-korean-satellite-missions-into-uncertainty/" >🔗</a> **[SpaceNews]** Russian sanctions throw South Korean satellite missions into uncertainty
+- <a href="https://spacenews.com/cesiumastro-raises-60-million-in-series-b-funding-round/" >🔗</a> **[SpaceNews]** CesiumAstro raises $60 million in Series B funding round
 - <a href="https://spacenews.com/romania-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Romania signs the Artemis Accords
 - <a href="https://www.teslarati.com/spacex-falcon-9-third-booster-eleven-launches/" >🔗</a> **[Teslarati]** SpaceX prepares third Falcon 9 booster for eleventh launch and landing
-- <a href="https://spacenews.com/congress-presses-nasa-for-more-details-on-artemis-costs-and-schedules/" >🔗</a> **[SpaceNews]** Congress presses NASA for more details on Artemis costs and schedules
-- <a href="https://arstechnica.com/science/2022/03/nasa-inspector-general-says-sls-costs-are-unsustainable/" >🔗</a> **[Arstechnica]** Finally, we know production costs for SLS and Orion, and they’re wild
-- <a href="https://spacenews.com/lockheed-martin-plots-u-k-satellite-manufacturing-base/" >🔗</a> **[SpaceNews]** Lockheed Martin plots U.K. satellite manufacturing base
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T133930">2022-03-02 13:39:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T141142">2022-03-02 14:11:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
