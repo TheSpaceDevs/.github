@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-9-third-booster-eleven-launches/" >🔗</a> **[Teslarati]** SpaceX prepares third Falcon 9 booster for eleventh launch and landing
 - <a href="https://spacenews.com/congress-presses-nasa-for-more-details-on-artemis-costs-and-schedules/" >🔗</a> **[SpaceNews]** Congress presses NASA for more details on Artemis costs and schedules
 - <a href="https://arstechnica.com/science/2022/03/nasa-inspector-general-says-sls-costs-are-unsustainable/" >🔗</a> **[Arstechnica]** Finally, we know production costs for SLS and Orion, and they’re wild
 - <a href="https://spacenews.com/lockheed-martin-plots-u-k-satellite-manufacturing-base/" >🔗</a> **[SpaceNews]** Lockheed Martin plots U.K. satellite manufacturing base
 - <a href="http://www.nasa.gov/press-release/ohio-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Ohio Students to Hear from NASA Astronauts Aboard Space Station
-- <a href="https://spacenews.com/boeing-increases-use-of-3d-printing-to-speed-up-production-of-wgs-military-satellite/" >🔗</a> **[SpaceNews]** Boeing increases use of 3D printing to speed up production of WGS military satellite
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T113622">2022-03-02 11:36:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T121521">2022-03-02 12:15:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
