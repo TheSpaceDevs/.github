@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moon-impact-chinese-rocket-stage-still-in-space-says-u-s-space-command/" >🔗</a> **[SpaceNews]** Moon impact: Chinese rocket stage still in space says U.S. Space Command
 - <a href="https://spaceflightnow.com/2022/03/02/atlas-5-rocket-aces-another-on-target-launch-with-noaa-weather-satellite/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket aces another on-target launch with NOAA weather satellite
 - <a href="https://spacenews.com/rogozin-puts-poison-pill-conditions-on-oneweb-soyuz-launch/" >🔗</a> **[SpaceNews]** Rogozin puts poison-pill conditions on OneWeb Soyuz launch
 - <a href="https://arstechnica.com/science/2022/03/russia-places-extraordinary-demands-on-oneweb-prior-to-satellite-launch/" >🔗</a> **[Arstechnica]** Russia places extraordinary demands on OneWeb prior to satellite launch
 - <a href="https://spacenews.com/russian-sanctions-throw-south-korean-satellite-missions-into-uncertainty/" >🔗</a> **[SpaceNews]** Russian sanctions throw South Korean satellite missions into uncertainty
-- <a href="https://spacenews.com/cesiumastro-raises-60-million-in-series-b-funding-round/" >🔗</a> **[SpaceNews]** CesiumAstro raises $60 million in Series B funding round
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T171327">2022-03-02 17:13:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T173924">2022-03-02 17:39:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
