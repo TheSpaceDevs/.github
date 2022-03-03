@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/02/spacex-preps-for-another-starlink-launch-as-internet-terminals-arrive-in-ukraine/" >🔗</a> **[Spaceflight Now]** SpaceX preps for another Starlink launch as internet terminals arrive in Ukraine
+- <a href="https://spacenews.com/oneweb-leaves-baikonur-cosmodrome-after-roscosmos-ultimatum/" >🔗</a> **[SpaceNews]** OneWeb leaves Baikonur Cosmodrome after Roscosmos ultimatum
 - <a href="https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/" >🔗</a> **[SpaceNews]** Satellite images show Russia’s troop movements but can they reveal intent?
 - <a href="https://spacenews.com/skycorp-iss-connector-demonstration/" >🔗</a> **[SpaceNews]** Skycorp to test “USB for space” cable outside ISS
 - <a href="https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/" >🔗</a> **[Spaceflight Now]** Russia issues ultimatum to UK government over OneWeb launch
-- <a href="https://spacenews.com/moon-impact-chinese-rocket-stage-still-in-space-says-u-s-space-command/" >🔗</a> **[SpaceNews]** Moon impact: Chinese rocket stage still in space says U.S. Space Command
-- <a href="https://spaceflightnow.com/2022/03/02/atlas-5-rocket-aces-another-on-target-launch-with-noaa-weather-satellite/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket aces another on-target launch with NOAA weather satellite
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220302T233930">2022-03-02 23:39:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T003526">2022-03-03 00:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
