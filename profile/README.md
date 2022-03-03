@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nothing-to-share-south-korean-firm-turns-down-ukrainian-request-for-satellite-imagery/" >🔗</a> **[SpaceNews]** “Nothing to share”: South Korean firm turns down Ukrainian request for satellite imagery
+- <a href="https://spacenews.com/nasa-awards-spacex-three-additional-commercial-crew-missions/" >🔗</a> **[SpaceNews]** NASA awards SpaceX three additional commercial crew missions
 - <a href="https://spaceflightnow.com/2022/03/02/spacex-preps-for-another-starlink-launch-as-internet-terminals-arrive-in-ukraine/" >🔗</a> **[Spaceflight Now]** SpaceX preps for another Starlink launch as internet terminals arrive in Ukraine
 - <a href="https://spacenews.com/oneweb-leaves-baikonur-cosmodrome-after-roscosmos-ultimatum/" >🔗</a> **[SpaceNews]** OneWeb leaves Baikonur Cosmodrome after Roscosmos ultimatum
 - <a href="https://spacenews.com/satellite-images-show-russias-troop-movements-but-can-they-reveal-intent/" >🔗</a> **[SpaceNews]** Satellite images show Russia’s troop movements but can they reveal intent?
-- <a href="https://spacenews.com/skycorp-iss-connector-demonstration/" >🔗</a> **[SpaceNews]** Skycorp to test “USB for space” cable outside ISS
-- <a href="https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/" >🔗</a> **[Spaceflight Now]** Russia issues ultimatum to UK government over OneWeb launch
 
 
 ### Launch-related News 🚀
@@ -97,7 +97,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T110936">2022-03-03 11:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T114421">2022-03-03 11:44:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
