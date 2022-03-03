@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-air-force-sees-no-impact-from-russias-decision-to-cut-off-supply-of-rocket-engines/" >🔗</a> **[SpaceNews]** U.S. Air Force sees no impact from Russia’s decision to cut off supply of rocket engines
+- <a href="http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference" >🔗</a> **[NASA]** NASA to Share Tools, Resources at Upcoming Agriculture Conference
 - <a href="https://spacenews.com/kendall-space-order-of-battle-a-top-priority-in-u-s-defense-budget-and-strategy/" >🔗</a> **[SpaceNews]** Kendall: Space ‘order of battle’ a top priority in U.S. defense budget and strategy
 - <a href="https://www.teslarati.com/spacex-nine-launches-nine-weeks-2022/" >🔗</a> **[Teslarati]** SpaceX launches ninth Falcon 9 rocket in nine weeks
 - <a href="https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/" >🔗</a> **[Spaceflight Now]** After another Starlink mission, SpaceX on pace for one launch per week this year
-- <a href="https://arstechnica.com/science/2022/03/the-us-space-force-plans-to-extend-its-operations-to-the-moon/" >🔗</a> **[Arstechnica]** The US Space Force plans to start patrolling the area around the Moon
-- <a href="https://spacenews.com/roscosmos-head-again-questions-future-of-iss-while-nasa-emphasizes-cooperation/" >🔗</a> **[SpaceNews]** Roscosmos head again questions future of ISS while NASA emphasizes cooperation
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T213303">2022-03-03 21:33:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220303T220958">2022-03-03 22:09:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
