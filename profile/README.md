@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starbase-starship-factory-tent-era-over/" >🔗</a> **[Teslarati]** SpaceX’s South Texas Starship factory prepares for major upgrades
 - <a href="https://arstechnica.com/science/2022/03/rocket-report-russia-responds-to-western-sanctions-uk-spaceport-moves-ahead/" >🔗</a> **[Arstechnica]** Rocket Report: Russia responds to Western sanctions, UK spaceport moves ahead
 - <a href="https://spacenews.com/with-soyuz-off-the-table-oneweb-back-in-the-mix/" >🔗</a> **[SpaceNews]** With Soyuz off the table, OneWeb back in the mix
 - <a href="https://spacenews.com/air-force-secretary-were-worried-about-russia-but-china-is-a-bigger-strategic-threat/" >🔗</a> **[SpaceNews]** Air Force Secretary: We’re worried about Russia but China is a bigger strategic threat
 - <a href="https://spacenews.com/u-s-air-force-sees-no-impact-from-russias-decision-to-cut-off-supply-of-rocket-engines/" >🔗</a> **[SpaceNews]** U.S. Air Force sees no impact from Russia’s decision to cut off supply of rocket engines
-- <a href="http://www.nasa.gov/press-release/nasa-to-share-tools-resources-at-upcoming-agriculture-conference" >🔗</a> **[NASA]** NASA to Share Tools, Resources at Upcoming Agriculture Conference
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T121111">2022-03-04 12:11:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220304T125224">2022-03-04 12:52:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
