@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9141/" >🔗</a> **[NASA]** NASA's Angie Jackman Works to Develop Rocket That Will Bring Mars Samples to Earth
 - <a href="https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/" >🔗</a> **[SpaceNews]** Astra blames launch failure on wiring error and software flaw
 - <a href="https://www.teslarati.com/spacex-starbase-brownsville-port-connector-road/" >🔗</a> **[Teslarati]** SpaceX Starbase facilities already taking advantage of new “Port Connector Road”
 - <a href="https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/" >🔗</a> **[SpaceNews]** SpaceX worked for weeks to begin Starlink service in Ukraine
 - <a href="https://spacenews.com/beames-joins-spideroak/" >🔗</a> **[SpaceNews]** Beames becomes SpiderOak’s chairman of the board
-- <a href="https://spacenews.com/intelsat-picks-david-wajsgras-as-next-ceo/" >🔗</a> **[SpaceNews]** Intelsat picks David Wajsgras as next CEO
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T173529">2022-03-08 17:35:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T180806">2022-03-08 18:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
