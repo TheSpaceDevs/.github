@@ -85,7 +85,7 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2022/03/how-to-save-the-international-space-station-and-prevent-the-dreaded-gap/" >🔗</a> **[Arstechnica]** How to save the International Space Station and prevent the dreaded “gap”
 - <a href="https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/" >🔗</a> **[Teslarati]** SpaceX on track for fourth Starlink launch in two weeks
 - <a href="https://spacenews.com/china-launches-test-satellites-for-broadband-constellation/" >🔗</a> **[SpaceNews]** China launches test satellites for broadband constellation
-- <a href="https://spacenews.com/dod-wants-resilient-space-systems-but-how-to-get-there-is-still-unclear/" >🔗</a> **[SpaceNews]** DoD wants ‘resilient’ space systems, but how to get there is still unclear
+- <a href="https://www.teslarati.com/spacex-jupiter-launch-nasa-europa-clipper-assembly/" >🔗</a> **[Teslarati]** SpaceX’s first Jupiter launch a step closer as NASA begins assembling ‘Europa Clipper’
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T002815">2022-03-08 00:28:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T014937">2022-03-08 01:49:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
