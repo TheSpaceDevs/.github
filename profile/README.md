@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/08/long-march-rocket-deploys-six-chinese-internet-satellites/" >🔗</a> **[Spaceflight Now]** Long March rocket deploys six Chinese internet satellites
+- <a href="https://www.teslarati.com/spacex-starship-nose-dome-upgrades-2022/" >🔗</a> **[Teslarati]** SpaceX upgrading Starship noses and domes for easier assembly
 - <a href="https://mars.nasa.gov/news/9141/" >🔗</a> **[NASA]** NASA's Angie Jackman Works to Develop Rocket That Will Bring Mars Samples to Earth
 - <a href="https://spacenews.com/astra-blames-launch-failure-on-wiring-error-and-software-flaw/" >🔗</a> **[SpaceNews]** Astra blames launch failure on wiring error and software flaw
 - <a href="https://www.teslarati.com/spacex-starbase-brownsville-port-connector-road/" >🔗</a> **[Teslarati]** SpaceX Starbase facilities already taking advantage of new “Port Connector Road”
-- <a href="https://spacenews.com/spacex-worked-for-weeks-to-begin-starlink-service-in-ukraine/" >🔗</a> **[SpaceNews]** SpaceX worked for weeks to begin Starlink service in Ukraine
-- <a href="https://spacenews.com/beames-joins-spideroak/" >🔗</a> **[SpaceNews]** Beames becomes SpiderOak’s chairman of the board
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T203449">2022-03-08 20:34:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T210608">2022-03-08 21:06:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
