@@ -10,33 +10,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 4-10**. It is scheduled to be launched by *SpaceX*
+**Astra Rocket 3 | S4 CROSSOVER**. It is scheduled to be launched by *Astra Space*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a>, Pacific Spaceport Complex, Alaska, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T134500">2022-03-09 13:45:00 UTC</a>.  Until
-then, this pad will have been used for 136
-out of 836 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T152200">2022-03-13 15:22:00 UTC</a>.  Until
+then, this pad will have been used for 4
+out of 7 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Technology* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 48 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  The goal of the S4 CROSSOVER mission, is to obtain flight heritage testing for a prototype payload host platform. Features that will be tested for use in supporting future payloads, include a
+Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the larger Astra launch vehicle second stage to which it is permanently attached.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220221183432.png" />
+  <a href="https://en.wikipedia.org/wiki/Astra_Space" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="https://www.google.ee/maps/search/57.430673,-152.353077" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_25_20200803142500.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T134500">2022-03-09 13:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-10&location=Cape Canaveral, FL, USA&dates=20220309T134500Z%2F20220309T134500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-10** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220313T152200">2022-03-13 15:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220313T152200Z%2F20220313T162200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **S4 CROSSOVER** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T000000">2022-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220315T000000Z%2F20220315T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-12** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz MS-21** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -46,6 +46,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-02 (Microsat-2A) (Demo 1)&location=Sriharikota, Republic of India&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV Demo 1** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV  | EOS-6 (Oceansat-3)&location=Sriharikota, Republic of India&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Oceansat-3** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 1-3&location=Vandenberg SFB, CA, USA&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Maiden Flight** from Jiuquan, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -81,7 +82,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/" >🔗</a> **[Arstechnica]** NASA finally gets some clarity on its fiscal year 2022 budget
+- <a href="https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/" >🔗</a> **[Arstechnica]** Congress finally delivers a budget, and NASA gets most of what it wants
 - <a href="https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/" >🔗</a> **[SpaceNews]** Omnibus spending bill includes $24 billion for NASA for 2022
 - <a href="https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/" >🔗</a> **[SpaceNews]** SatixFy to go public through latest space SPAC deal
 - <a href="https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/" >🔗</a> **[SpaceNews]** U.S. intelligence report: Multinational efforts needed to prevent wars in space
@@ -90,13 +91,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-falcon-9-five-starlink-launches-in-a-row/" >🔗</a> **[Teslarati]** SpaceX set for third Starlink launch in a row [webcast]
-- <a href="https://www.teslarati.com/spacex-falcon-9-four-starlink-launches-two-weeks/" >🔗</a> **[Teslarati]** SpaceX on track for fourth Starlink launch in 16 days [webcast]
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T133541">2022-03-09 13:35:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T140630">2022-03-09 14:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
