@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/" >🔗</a> **[Arstechnica]** NASA finally gets some clarity on its fiscal year 2022 budget
 - <a href="https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/" >🔗</a> **[SpaceNews]** Omnibus spending bill includes $24 billion for NASA for 2022
 - <a href="https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/" >🔗</a> **[SpaceNews]** SatixFy to go public through latest space SPAC deal
 - <a href="https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/" >🔗</a> **[SpaceNews]** U.S. intelligence report: Multinational efforts needed to prevent wars in space
 - <a href="https://spaceflightnow.com/2022/03/08/irans-military-successfully-launches-satellite/" >🔗</a> **[Spaceflight Now]** Iran’s military successfully launches satellite
-- <a href="https://spacenews.com/u-s-general-starlink-in-ukraine-showing-us-what-megaconstellations-can-do/" >🔗</a> **[SpaceNews]** U.S. general: Starlink in Ukraine showing what megaconstellations can do
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T131314">2022-03-09 13:13:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T133541">2022-03-09 13:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
