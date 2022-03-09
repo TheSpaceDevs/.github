@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/" >🔗</a> **[SpaceNews]** SatixFy to go public through latest space SPAC deal
 - <a href="https://spacenews.com/u-s-intelligence-report-multinational-efforts-needed-to-prevent-wars-in-space/" >🔗</a> **[SpaceNews]** U.S. intelligence report: Multinational efforts needed to prevent wars in space
 - <a href="https://spaceflightnow.com/2022/03/08/irans-military-successfully-launches-satellite/" >🔗</a> **[Spaceflight Now]** Iran’s military successfully launches satellite
 - <a href="https://spacenews.com/u-s-general-starlink-in-ukraine-showing-us-what-megaconstellations-can-do/" >🔗</a> **[SpaceNews]** U.S. general: Starlink in Ukraine showing what megaconstellations can do
 - <a href="https://spaceflightnow.com/2022/03/08/long-march-rocket-deploys-six-chinese-internet-satellites/" >🔗</a> **[Spaceflight Now]** Long March rocket deploys six Chinese internet satellites
-- <a href="https://www.teslarati.com/spacex-starship-nose-dome-upgrades-2022/" >🔗</a> **[Teslarati]** SpaceX upgrading Starship noses and domes for easier assembly
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220308T233408">2022-03-08 23:34:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220309T002915">2022-03-09 00:29:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
