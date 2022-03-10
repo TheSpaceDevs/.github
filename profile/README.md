@@ -85,7 +85,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 - <a href="https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/" >🔗</a> **[SpaceNews]** Canada answers Ukraine’s call for satellite radar imagery
 - <a href="https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/" >🔗</a> **[Arstechnica]** Congress finally delivers a budget, and NASA gets most of what it wants
 - <a href="https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/" >🔗</a> **[SpaceNews]** Omnibus spending bill includes $24 billion for NASA for 2022
-- <a href="https://spacenews.com/satixfy-to-go-public-through-latest-space-spac-deal/" >🔗</a> **[SpaceNews]** SatixFy to go public through latest space SPAC deal
+- <a href="https://spaceflightnow.com/2022/03/09/spacex-broomstick-launches-40th-starlink-mission/" >🔗</a> **[Spaceflight Now]** SpaceX “broomstick” launches 40th Starlink mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T002755">2022-03-10 00:27:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T015832">2022-03-10 01:58:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
