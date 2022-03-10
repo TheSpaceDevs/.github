@@ -81,11 +81,11 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-launch-falcon-heavy-booster-reuse/" >🔗</a> **[Teslarati]** SpaceX rapidly reuses converted Falcon Heavy booster
+- <a href="https://spacenews.com/voters-block-agreement-for-planned-georgia-spaceport/" >🔗</a> **[SpaceNews]** Voters block agreement for planned Georgia spaceport
 - <a href="https://spacenews.com/uk-bans-space-related-exports-to-russia/" >🔗</a> **[SpaceNews]** UK bans space-related exports to Russia
 - <a href="https://spacenews.com/canada-answers-ukraines-call-for-satellite-radar-imagery/" >🔗</a> **[SpaceNews]** Canada answers Ukraine’s call for satellite radar imagery
 - <a href="https://arstechnica.com/science/2022/03/nasa-finally-gets-some-clarity-on-its-fiscal-year-2022-budget/" >🔗</a> **[Arstechnica]** Congress finally delivers a budget, and NASA gets most of what it wants
-- <a href="https://spacenews.com/omnibus-spending-bill-includes-24-billion-for-nasa-for-2022/" >🔗</a> **[SpaceNews]** Omnibus spending bill includes $24 billion for NASA for 2022
-- <a href="https://spaceflightnow.com/2022/03/09/spacex-broomstick-launches-40th-starlink-mission/" >🔗</a> **[Spaceflight Now]** SpaceX “broomstick” launches 40th Starlink mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T113148">2022-03-10 11:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220310T121115">2022-03-10 12:11:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
