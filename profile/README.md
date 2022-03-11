@@ -81,11 +81,11 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-ast-spacemobile-bluebird-launch-contract/" >🔗</a> **[Teslarati]** SpaceX to launch AST SpaceMobile’s first space-based cell towers
+- <a href="https://spacenews.com/china-to-open-space-station-to-commercial-activity/" >🔗</a> **[SpaceNews]** China to open space station to commercial activity
+- <a href="https://arstechnica.com/science/2022/03/rocket-report-ariane-6-workers-are-hyperstressed-spacex-retort-to-rogozin/" >🔗</a> **[Arstechnica]** Rocket Report: Ariane 6 workers are “hyperstressed,” SpaceX retort to Rogozin
 - <a href="https://spacenews.com/astrolab-unveils-artemis-lunar-rover-design/" >🔗</a> **[SpaceNews]** Astrolab unveils Artemis lunar rover design
 - <a href="https://www.teslarati.com/spacex-super-heavy-33-engine-prototype-stacked/" >🔗</a> **[Teslarati]** SpaceX’s first 33-engine Super Heavy booster reaches full height
-- <a href="https://spacenews.com/soyuz-orphans-draft/" >🔗</a> **[SpaceNews]** Soyuz embargo strands satellites with limited launch options
-- <a href="http://www.nasa.gov/press-release/coverage-activities-set-for-first-rollout-of-nasa-s-mega-moon-rocket" >🔗</a> **[NASA]** Coverage, Activities Set for First Rollout of NASA’s Mega Moon Rocket
-- <a href="http://www.nasa.gov/press-release/nasa-to-air-briefing-spacewalks-to-upgrade-space-station" >🔗</a> **[NASA]** NASA to Air Briefing, Spacewalks to Upgrade Space Station
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T121054">2022-03-11 12:10:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220311T125235">2022-03-11 12:52:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
