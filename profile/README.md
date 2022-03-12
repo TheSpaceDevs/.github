@@ -81,11 +81,11 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/from-the-archives-an-untethered-ukraine-seeks-new-orbits-for-its-space-industry/" >🔗</a> **[SpaceNews]** From the archives | An untethered Ukraine seeks new orbits for its space industry
 - <a href="https://spacenews.com/from-the-archives-how-crimeas-annexation-hurt-ukraines-space-program/" >🔗</a> **[SpaceNews]** From the archives | How Crimea’s annexation hurt Ukraine’s space program
 - <a href="https://spacenews.com/ingenuity-still-as-good-as-new-after-nearly-a-year-on-mars/" >🔗</a> **[SpaceNews]** Ingenuity still “as good as new” after nearly a year on Mars
 - <a href="https://spacenews.com/bahrain-joins-artemis-accords/" >🔗</a> **[SpaceNews]** Bahrain joins Artemis Accords
 - <a href="https://spacenews.com/ast-spacemobile-books-more-spacex-rides-months-after-canceling-soyuz-reservation/" >🔗</a> **[SpaceNews]** AST SpaceMobile books more SpaceX rides months after canceling Soyuz reservation
-- <a href="https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/" >🔗</a> **[Spaceflight Now]** Boeing Starliner test flight next on ULA’s launch schedule
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T213410">2022-03-12 21:34:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T220745">2022-03-12 22:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
