@@ -81,11 +81,11 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bahrain-joins-artemis-accords/" >🔗</a> **[SpaceNews]** Bahrain joins Artemis Accords
 - <a href="https://spacenews.com/ast-spacemobile-books-more-spacex-rides-months-after-canceling-soyuz-reservation/" >🔗</a> **[SpaceNews]** AST SpaceMobile books more SpaceX rides months after canceling Soyuz reservation
 - <a href="https://spaceflightnow.com/2022/03/11/boeing-starliner-test-flight-next-on-ulas-launch-schedule/" >🔗</a> **[Spaceflight Now]** Boeing Starliner test flight next on ULA’s launch schedule
 - <a href="https://arstechnica.com/science/2022/03/after-two-weeks-of-war-the-international-space-station-flies-on/" >🔗</a> **[Arstechnica]** No, Russia has not threatened to leave an American astronaut behind in space
 - <a href="https://www.teslarati.com/spacex-ast-spacemobile-bluebird-launch-contract/" >🔗</a> **[Teslarati]** SpaceX to launch AST SpaceMobile’s first space-based cell towers
-- <a href="https://spacenews.com/china-to-open-space-station-to-commercial-activity/" >🔗</a> **[SpaceNews]** China to open space station to commercial activity
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T121009">2022-03-12 12:10:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220312T125020">2022-03-12 12:50:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
