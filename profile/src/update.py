@@ -15,7 +15,8 @@ BASE_GOOGLE_CALENDAR_URL = "https://www.google.com/calendar/render?action=TEMPLA
 STATUS_MAP = {
     "Go": "🟩 ",
     "TBC": "🟨 ",
-    "TBD": "🟧 "
+    "TBD": "🟧 ",
+    "Hold": "🟪 "
 }
 
 # create cache dir if it doesnt exist
