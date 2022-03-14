@@ -82,11 +82,11 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-drone-ship-departure-fifth-back-to-back-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX drone ship leaves port for sixth back-to-back Starlink launch
+- <a href="https://spacenews.com/dod-decommissions-two-missile-tracking-satellites-after-12-years-in-orbit/" >🔗</a> **[SpaceNews]** DoD decommissions two missile-tracking satellites after 12 years in orbit
 - <a href="https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/" >🔗</a> **[SpaceNews]** Launch of U.S. Space Force missile-warning satellite delayed indefinitely
 - <a href="https://spaceflightnow.com/2022/03/14/oneweb-discussing-backup-launch-options-with-arianespace/" >🔗</a> **[Spaceflight Now]** OneWeb not eager to tear up launch contract with Arianespace
-- <a href="https://www.teslarati.com/spacex-drone-ship-departure-fifth-back-to-back-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX drone ship leaves port for fifth back-to-back Starlink launch
 - <a href="https://spacenews.com/dod-wants-to-change-how-it-buys-space-technology-but-can-it/" >🔗</a> **[SpaceNews]** DoD wants to change how it buys space technology – but can it?
-- <a href="https://spaceflightnow.com/2022/03/14/astra-lv0009/" >🔗</a> **[Spaceflight Now]** Astra scrubs return-to-flight launch from Alaska
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T223517">2022-03-14 22:35:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T230736">2022-03-14 23:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
