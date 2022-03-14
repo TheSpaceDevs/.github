@@ -82,11 +82,11 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/" >🔗</a> **[SpaceNews]** Launch of U.S. Space Force missile-warning satellite delayed indefinitely
+- <a href="https://spaceflightnow.com/2022/03/14/oneweb-discussing-backup-launch-options-with-arianespace/" >🔗</a> **[Spaceflight Now]** OneWeb not eager to tear up launch contract with Arianespace
+- <a href="https://www.teslarati.com/spacex-drone-ship-departure-fifth-back-to-back-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX drone ship leaves port for fifth back-to-back Starlink launch
+- <a href="https://spacenews.com/dod-wants-to-change-how-it-buys-space-technology-but-can-it/" >🔗</a> **[SpaceNews]** DoD wants to change how it buys space technology – but can it?
 - <a href="https://spaceflightnow.com/2022/03/14/astra-lv0009/" >🔗</a> **[Spaceflight Now]** Astra scrubs return-to-flight launch from Alaska
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-progress-as-webb-telescope-s-mirrors-align" >🔗</a> **[NASA]** NASA to Discuss Progress as Webb Telescope’s Mirrors Align
-- <a href="https://www.nasaspaceflight.com/2022/03/astra-return-to-flight/" >🔗</a> **[NASA Spaceflight]** Astra scrubs return to flight mission for weather
-- <a href="https://spacenews.com/astra-gears-up-for-next-launch-signs-spaceflight-contract/" >🔗</a> **[SpaceNews]** Astra gears up for next launch, signs Spaceflight contract
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-launch-delays-booster-appearance/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy booster spotted at Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T213314">2022-03-14 21:33:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T220704">2022-03-14 22:07:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
