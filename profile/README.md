@@ -10,7 +10,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Astra Rocket 3 | S4 CROSSOVER**. It is scheduled to be launched by *Astra Space*
+**Astra Rocket 3 | Spaceflight Astra-1**. It is scheduled to be launched by *Astra Space*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a>, Pacific Spaceport Complex, Alaska, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
@@ -23,8 +23,9 @@ into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  The goal of the S4 CROSSOVER mission, is to obtain flight heritage testing for a prototype payload host platform. Features that will be tested for use in supporting future payloads, include a
-Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the larger Astra launch vehicle second stage to which it is permanently attached.
+  S4 CROSSOVER is a technology demonstration mission to obtain flight heritage testing for a prototype payload host platform. It will test supporting future payloads, including a Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the Astra second stage to which it is permanently attached.
+
+Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSat satellite system built from scratch by students at Portland State University. Slated to be Oregon’s first satellite, the 1U CubeSat provides flight heritage for the modular, expandable, open source, and education-friendly OreSat bus. OreSat0 paves the way for OreSat, a NASA CSLI program 2U CubeSat with a global climate science and STEM outreach mission.
 </blockquote>
 
 <p float="left" align="center">
@@ -37,7 +38,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162200">2022-03-14 16:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | S4 CROSSOVER&location=Pacific Spaceport Complex, Alaska, USA&dates=20220314T162200Z%2F20220314T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **S4 CROSSOVER** from Pacific Spaceport Complex, Alaska, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T162200">2022-03-14 16:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | Spaceflight Astra-1&location=Pacific Spaceport Complex, Alaska, USA&dates=20220314T162200Z%2F20220314T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spaceflight Astra-1** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz MS-21** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T013000">2022-03-19 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T013000Z%2F20220319T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-12** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T133000">2022-03-23 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-20&location=Corn Ranch, USA&dates=20220323T133000Z%2F20220323T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NS-20** from Corn Ranch, USA.
@@ -93,7 +94,7 @@ Globalstar transmitter and an Iridium transceiver, as well space environmental i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T134127">2022-03-14 13:41:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220314T141240">2022-03-14 14:12:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
