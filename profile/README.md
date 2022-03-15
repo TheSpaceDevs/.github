@@ -10,35 +10,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Astra Rocket 3 | Spaceflight Astra-1**. It is scheduled to be launched by *Astra Space*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3B</a>, Pacific Spaceport Complex, Alaska, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T162200">2022-03-15 16:22:00 UTC</a>.  Until
-then, this pad will have been used for 4
-out of 7 launches from this location. The launch status is currently
+**Long March 4C | Yaogan 34-02 (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T070000">2022-03-17 07:00:00 UTC</a>.  Until
+then, this pad will have been used for 78
+out of 158 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Technology* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  S4 CROSSOVER is a technology demonstration mission to obtain flight heritage testing for a prototype payload host platform. It will test supporting future payloads, including a Globalstar transmitter and an Iridium transceiver, as well space environmental instruments to characterize the radiation and plasma densities to which the payloads will be exposed. S4 CROSSOVER is self powered and operates independently of the Astra second stage to which it is permanently attached.
-
-Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSat satellite system built from scratch by students at Portland State University. Slated to be Oregon’s first satellite, the 1U CubeSat provides flight heritage for the modular, expandable, open source, and education-friendly OreSat bus. OreSat0 paves the way for OreSat, a NASA CSLI program 2U CubeSat with a global climate science and STEM outreach mission.
+  Officially described as an optical remote-sensing satellite built by SAST.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Astra_Space" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220314155209.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_4C" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg" />
   </a>
-  <a href="https://www.google.ee/maps/search/57.430673,-152.353077" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_25_20200803142500.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T162200">2022-03-15 16:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Astra Rocket 3 | Spaceflight Astra-1&location=Pacific Spaceport Complex, Alaska, USA&dates=20220315T162200Z%2F20220315T165100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spaceflight Astra-1** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T070000">2022-03-17 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Yaogan 34-02 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220317T070000Z%2F20220317T072800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Yaogan 34-02** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz MS-21** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T025500">2022-03-19 02:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T025500Z%2F20220319T025500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-12** from Cape Canaveral, FL, USA.
@@ -91,14 +88,11 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/astra-gears-up-for-next-launch-signs-spaceflight-contract/" >🔗</a> **[SpaceNews]** Astra gears up for next launch, signs Spaceflight contract
-- <a href="https://spaceflightnow.com/2022/03/14/astra-lv0009/" >🔗</a> **[Spaceflight Now]** Astra scrubs return-to-flight launch from Alaska
-- <a href="https://www.nasaspaceflight.com/2022/03/astra-return-to-flight/" >🔗</a> **[NASA Spaceflight]** Astra return to flight mission targeted for Tuesday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T161329">2022-03-15 16:13:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T165138">2022-03-15 16:51:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
