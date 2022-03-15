@@ -82,11 +82,11 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-ready-to-roll-out-sls/" >🔗</a> **[SpaceNews]** NASA ready to roll out SLS
 - <a href="https://spacenews.com/space-station-operations-remain-normal-despite-geopolitical-tensions/" >🔗</a> **[SpaceNews]** Space station operations remain normal despite geopolitical tensions
 - <a href="https://www.teslarati.com/spacex-starship-third-full-stack-preparations/" >🔗</a> **[Teslarati]** SpaceX preparing for third Starship ‘full stack’
 - <a href="https://spacenews.com/agile-space-industries-lunar-lander-thrusters/" >🔗</a> **[SpaceNews]** Agile supplies thrusters for Astrobotic, ispace and Masten lunar landers
 - <a href="https://spacenews.com/dod-decommissions-two-missile-tracking-satellites-after-12-years-in-orbit/" >🔗</a> **[SpaceNews]** DoD decommissions two missile-tracking satellites after 12 years in orbit
-- <a href="https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/" >🔗</a> **[SpaceNews]** Launch of U.S. Space Force missile-warning satellite delayed indefinitely
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T113158">2022-03-15 11:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T121155">2022-03-15 12:11:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
