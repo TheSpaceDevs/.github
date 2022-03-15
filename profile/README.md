@@ -79,11 +79,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/" >🔗</a> **[SpaceNews]** Astra’s Rocket 3.3 returns to flight with successful launch
 - <a href="https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/" >🔗</a> **[SpaceNews]** Kymeta secures $84 million to scale up antenna production
 - <a href="https://spacenews.com/ukrainian-space-industry-players-continue-work-eye-european-projects-amid-war/" >🔗</a> **[SpaceNews]** Ukrainian space industry players continue work, eye European projects amid war
 - <a href="https://spaceflightnow.com/2022/03/15/iss-us-eva-79/" >🔗</a> **[Spaceflight Now]** Watch live: Astronauts head outside space station to prep for new solar arrays
 - <a href="https://www.nasaspaceflight.com/2022/03/us-eva-79/" >🔗</a> **[NASA Spaceflight]** ISS astronauts conduct spacewalk as busy period of station operations begins
-- <a href="https://spacenews.com/nasa-ready-to-roll-out-sls/" >🔗</a> **[SpaceNews]** NASA ready to roll out SLS
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T184022">2022-03-15 18:40:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T190607">2022-03-15 19:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
