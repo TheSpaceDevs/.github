@@ -93,12 +93,12 @@ Re-manifested from SXRS-6 / Transporter-3, OreSat0 is a fully open source CubeSa
 
 - <a href="https://spacenews.com/astra-gears-up-for-next-launch-signs-spaceflight-contract/" >🔗</a> **[SpaceNews]** Astra gears up for next launch, signs Spaceflight contract
 - <a href="https://spaceflightnow.com/2022/03/14/astra-lv0009/" >🔗</a> **[Spaceflight Now]** Astra scrubs return-to-flight launch from Alaska
-- <a href="https://www.nasaspaceflight.com/2022/03/astra-return-to-flight/" >🔗</a> **[NASA Spaceflight]** Astra scrubs return to flight mission for weather
+- <a href="https://www.nasaspaceflight.com/2022/03/astra-return-to-flight/" >🔗</a> **[NASA Spaceflight]** Astra return to flight mission targeted for Tuesday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T140655">2022-03-15 14:06:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220315T143721">2022-03-15 14:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
