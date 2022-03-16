@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/" >🔗</a> **[SpaceNews]** KSAT invests in dedicated lunar communications network
 - <a href="http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract" >🔗</a> **[NASA]** NASA Awards Ground Systems and Mission Operations-3 Contract
 - <a href="https://www.teslarati.com/spacex-crew-4-nrol-85-same-day-launch/" >🔗</a> **[Teslarati]** SpaceX schedules spy satellite, NASA astronaut launches on the same day
 - <a href="http://www.nasa.gov/press-release/california-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** California Students to Hear from NASA Astronaut Aboard Space Station
 - <a href="https://spacenews.com/boeings-satellite-communications-payload-for-u-s-space-force-passes-design-review/" >🔗</a> **[SpaceNews]** Boeing’s satellite communications payload for U.S. Space Force passes design review
-- <a href="https://spacenews.com/tomorrow-io-weather-satellites-pass-critical-design-review/" >🔗</a> **[SpaceNews]** Tomorrow.io weather satellites pass critical design review
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T223306">2022-03-16 22:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T230627">2022-03-16 23:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
