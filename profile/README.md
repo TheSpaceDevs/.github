@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeings-satellite-communications-payload-for-u-s-space-force-passes-design-review/" >🔗</a> **[SpaceNews]** Boeing’s satellite communications payload for U.S. Space Force passes design review
 - <a href="https://spacenews.com/tomorrow-io-weather-satellites-pass-critical-design-review/" >🔗</a> **[SpaceNews]** Tomorrow.io weather satellites pass critical design review
 - <a href="http://www.nasa.gov/press-release/el-telescopio-webb-de-la-nasa-alcanza-un-hito-en-su-alineaci-n" >🔗</a> **[NASA]** El telescopio Webb de la NASA alcanza un hito en su alineación
 - <a href="http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully" >🔗</a> **[NASA]** NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully
 - <a href="https://spacenews.com/nasas-plant-growing-technology-could-be-used-to-produce-food-at-military-bases/" >🔗</a> **[SpaceNews]** NASA’s plant-growing technology could be used to produce food at military bases
-- <a href="http://www.nasa.gov/press-release/nasa-mourns-passing-of-visionary-heliophysicist-eugene-parker" >🔗</a> **[NASA]** NASA Mourns Passing of Visionary Heliophysicist Eugene Parker
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T173528">2022-03-16 17:35:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T180824">2022-03-16 18:08:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
