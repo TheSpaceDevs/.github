@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/" >🔗</a> **[Teslarati]** SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’
+- <a href="https://spacenews.com/spire-to-build-space-situational-awareness-satellites-for-northstar/" >🔗</a> **[SpaceNews]** Spire to build space situational awareness satellites for NorthStar
 - <a href="https://spaceflightnow.com/2022/03/15/iss-us-eva-79/" >🔗</a> **[Spaceflight Now]** Astronauts prep for new solar arrays on nearly seven-hour spacewalk
 - <a href="https://mars.nasa.gov/news/9146/" >🔗</a> **[NASA]** NASA Extends Ingenuity Helicopter Mission
 - <a href="https://spacenews.com/dod-estimates-2-5-billion-price-tag-for-global-constellation-to-track-hypersonic-missiles/" >🔗</a> **[SpaceNews]** DoD estimates $2.5 billion price tag for global constellation to track hypersonic missiles
-- <a href="https://spacenews.com/astras-rocket-3-3-returns-to-flight-with-successful-launch/" >🔗</a> **[SpaceNews]** Astra’s Rocket 3.3 returns to flight with successful launch
-- <a href="https://spacenews.com/kymeta-secures-84-million-to-scale-up-antenna-production/" >🔗</a> **[SpaceNews]** Kymeta secures $84 million to scale up antenna production
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T113231">2022-03-16 11:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T121105">2022-03-16 12:11:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
