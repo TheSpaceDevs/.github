@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/el-telescopio-webb-de-la-nasa-alcanza-un-hito-en-su-alineaci-n" >🔗</a> **[NASA]** El telescopio Webb de la NASA alcanza un hito en su alineación
+- <a href="http://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully" >🔗</a> **[NASA]** NASA’s Webb Reaches Alignment Milestone, Optics Working Successfully
 - <a href="https://spacenews.com/nasas-plant-growing-technology-could-be-used-to-produce-food-at-military-bases/" >🔗</a> **[SpaceNews]** NASA’s plant-growing technology could be used to produce food at military bases
 - <a href="http://www.nasa.gov/press-release/nasa-mourns-passing-of-visionary-heliophysicist-eugene-parker" >🔗</a> **[NASA]** NASA Mourns Passing of Visionary Heliophysicist Eugene Parker
 - <a href="https://www.teslarati.com/spacex-starship-super-heavy-full-stack-round-three/" >🔗</a> **[Teslarati]** SpaceX rapidly stacks Starship and Super Heavy with ‘Mechazilla’
-- <a href="https://spacenews.com/spire-to-build-space-situational-awareness-satellites-for-northstar/" >🔗</a> **[SpaceNews]** Spire to build space situational awareness satellites for NorthStar
-- <a href="https://spaceflightnow.com/2022/03/15/iss-us-eva-79/" >🔗</a> **[Spaceflight Now]** Astronauts prep for new solar arrays on nearly seven-hour spacewalk
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T153840">2022-03-16 15:38:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220316T161230">2022-03-16 16:12:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
