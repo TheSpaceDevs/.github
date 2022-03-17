@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/" >🔗</a> **[Teslarati]** SpaceX tests fully stacked Starship rocket for the first time
 - <a href="https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-34 reconnaissance satellite
 - <a href="https://www.nasaspaceflight.com/2022/03/starship-full-stack-cryo/" >🔗</a> **[NASA Spaceflight]** Starship undergoing full-stack cryoproofing while Florida ramps up
 - <a href="https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/" >🔗</a> **[SpaceNews]** KSAT invests in dedicated lunar communications network
 - <a href="http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract" >🔗</a> **[NASA]** NASA Awards Ground Systems and Mission Operations-3 Contract
-- <a href="https://www.teslarati.com/spacex-crew-4-nrol-85-same-day-launch/" >🔗</a> **[Teslarati]** SpaceX schedules spy satellite, NASA astronaut launches on the same day
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T113133">2022-03-17 11:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T121303">2022-03-17 12:13:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
