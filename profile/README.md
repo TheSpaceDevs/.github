@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/" >🔗</a> **[NASA Spaceflight]** NASA moon rocket SLS ready for rollout to “rebuilt” LC-39B ahead of Artemis 1 rehearsal
 - <a href="https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/" >🔗</a> **[Spaceflight Now]** Watch live: NASA’s new moon rocket rolls to launch pad tonight
 - <a href="https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/" >🔗</a> **[SpaceNews]** ESA suspends work with Russia on ExoMars mission
 - <a href="https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies
 - <a href="https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/" >🔗</a> **[Teslarati]** SpaceX tests fully stacked Starship rocket for the first time
-- <a href="https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-34 reconnaissance satellite
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T173708">2022-03-17 17:37:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T181227">2022-03-17 18:12:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
