@@ -43,7 +43,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **CentiSpace-1 S3 (?)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Without Mission A Beat&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Without Mission A Beat** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T162400">2022-04-01 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 4 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20220401T162400Z%2F20220401T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Transporter 4 (Dedicated SSO Rideshare)** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T000000">2022-04-03 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 1&location=Kennedy Space Center, FL, USA&dates=20220403T000000Z%2F20220403T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Axiom Space Mission 1** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T171300">2022-04-03 17:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 1&location=Kennedy Space Center, FL, USA&dates=20220403T171300Z%2F20220403T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Axiom Space Mission 1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T000000">2022-04-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Cape Canaveral, FL, USA&dates=20220415T000000Z%2F20220415T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T123200">2022-04-15 12:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220415T123200Z%2F20220415T123200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Crew-4** from Kennedy Space Center, FL, USA.
 
@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/17/relic-of-apollo-will-carry-nasas-new-moon-rocket-to-launch-pad/" >🔗</a> **[Spaceflight Now]** Relic of Apollo will carry NASA’s new moon rocket to launch pad
+- <a href="https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies
 - <a href="https://www.teslarati.com/spacex-starship-first-full-stack-cryoproof/" >🔗</a> **[Teslarati]** SpaceX tests fully stacked Starship rocket for the first time
 - <a href="https://spacenews.com/china-launches-second-yaogan-34-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-34 reconnaissance satellite
 - <a href="https://www.nasaspaceflight.com/2022/03/starship-full-stack-cryo/" >🔗</a> **[NASA Spaceflight]** Starship undergoing full-stack cryoproofing while Florida ramps up
-- <a href="https://spacenews.com/ksat-invests-in-dedicated-lunar-communications-network/" >🔗</a> **[SpaceNews]** KSAT invests in dedicated lunar communications network
-- <a href="http://www.nasa.gov/press-release/nasa-awards-ground-systems-and-mission-operations-3-contract" >🔗</a> **[NASA]** NASA Awards Ground Systems and Mission Operations-3 Contract
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T131836">2022-03-17 13:18:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220317T134222">2022-03-17 13:42:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
