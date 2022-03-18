@@ -10,33 +10,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1a | Soyuz MS-21**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a>.  Until
-then, this pad will have been used for 400
-out of 1530 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 4-12**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T032400">2022-03-19 03:24:00 UTC</a>.  Until
+then, this pad will have been used for 137
+out of 837 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Soyuz MS-21 will carry Roscosmos cosmonauts Oleg Artemyev, Denis Matveev and Sergey Korsakov to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220225140920.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=45.996+N,+63.564+E" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T155519">2022-03-18 15:55:19 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-21&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220318T155519Z%2F20220318T155519Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz MS-21** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T032400">2022-03-19 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-12&location=Cape Canaveral, FL, USA&dates=20220319T032400Z%2F20220319T032400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-12** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T120000">2022-03-22 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meridian-M No.20L&location=Plesetsk Cosmodrome, Russian Federation&dates=20220322T120000Z%2F20220322T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Meridian-M No.20L** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T133000">2022-03-29 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-20&location=Corn Ranch, USA&dates=20220329T133000Z%2F20220329T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NS-20** from Corn Ranch, USA.
@@ -83,18 +82,20 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="http://www.nasa.gov/press-release/nasa-s-mega-moon-rocket-spacecraft-complete-first-roll-to-launch-pad" >🔗</a> **[NASA]** NASA’s Mega Moon Rocket, Spacecraft Complete First Roll to Launch Pad
 - <a href="https://spacenews.com/poland-virgin-orbit-partner-on-eastern-europe-launch-initiative/" >🔗</a> **[SpaceNews]** Poland, Virgin Orbit partner on Eastern Europe satellite launch initiative
-- <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/" >🔗</a> **[NASA Spaceflight]** Russia to launch first all-Roscosmos cosmonaut mission to station
+- <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/" >🔗</a> **[NASA Spaceflight]** Russia launches first all-Roscosmos cosmonaut mission to station
 - <a href="https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/" >🔗</a> **[Teslarati]** SpaceX set to break another Falcon 9 reusability record [webcast]
 - <a href="https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/" >🔗</a> **[SpaceNews]** China is developing new solid rockets to boost overall space capabilities
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/" >🔗</a> **[Spaceflight Now]** SpaceX to launch reusable booster for record 12th time
+- <a href="https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/" >🔗</a> **[Teslarati]** SpaceX set to break another Falcon 9 reusability record [webcast]
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T154229">2022-03-18 15:42:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T161324">2022-03-18 16:13:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
