@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/" >🔗</a> **[Spaceflight Now]** SpaceX to launch reusable booster for record 12th time
 - <a href="https://spacenews.com/orbit-fab-gets-12-million-to-integrate-refueling-port-with-military-satellites/" >🔗</a> **[SpaceNews]** Orbit Fab gets $12 million to integrate refueling port with military satellites
 - <a href="https://spacenews.com/international-talks-on-space-norms-will-continue-but-u-s-will-not-engage-directly-with-russia/" >🔗</a> **[SpaceNews]** International talks on space norms to continue but U.S. will not engage directly with Russia
 - <a href="https://www.nasaspaceflight.com/2022/03/sls-rollout-wet-dress-rehearsal/" >🔗</a> **[NASA Spaceflight]** NASA moon rocket SLS ready for rollout to “rebuilt” LC-39B ahead of Artemis 1 rehearsal
 - <a href="https://spacenews.com/esa-suspends-work-with-russia-on-exomars-mission/" >🔗</a> **[SpaceNews]** ESA suspends work with Russia on ExoMars mission
-- <a href="https://spacenews.com/sierra-space-to-work-with-mitsubishi-heavy-industries-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** Sierra Space to work with Mitsubishi Heavy Industries on commercial space station technologies
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T053226">2022-03-18 05:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T060830">2022-03-18 06:08:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
