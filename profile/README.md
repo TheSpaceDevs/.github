@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/" >🔗</a> **[NASA Spaceflight]** Russia to launch first all-Roscosmos cosmonaut mission to station
+- <a href="https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/" >🔗</a> **[Teslarati]** SpaceX set to break another Falcon 9 reusability record [webcast]
 - <a href="https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/" >🔗</a> **[SpaceNews]** China is developing new solid rockets to boost overall space capabilities
 - <a href="https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/" >🔗</a> **[SpaceNews]** SLS rolls out to pad for countdown test
 - <a href="https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/" >🔗</a> **[Spaceflight Now]** SpaceX to launch reusable booster for record 12th time
-- <a href="https://spacenews.com/orbit-fab-gets-12-million-to-integrate-refueling-port-with-military-satellites/" >🔗</a> **[SpaceNews]** Orbit Fab gets $12 million to integrate refueling port with military satellites
-- <a href="https://spacenews.com/international-talks-on-space-norms-will-continue-but-u-s-will-not-engage-directly-with-russia/" >🔗</a> **[SpaceNews]** International talks on space norms to continue but U.S. will not engage directly with Russia
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T113131">2022-03-18 11:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T121157">2022-03-18 12:11:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
