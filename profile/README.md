@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-mega-moon-rocket-spacecraft-complete-first-roll-to-launch-pad" >🔗</a> **[NASA]** NASA’s Mega Moon Rocket, Spacecraft Complete First Roll to Launch Pad
+- <a href="https://spacenews.com/poland-virgin-orbit-partner-on-eastern-europe-launch-initiative/" >🔗</a> **[SpaceNews]** Poland, Virgin Orbit partner on Eastern Europe satellite launch initiative
 - <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-21/" >🔗</a> **[NASA Spaceflight]** Russia to launch first all-Roscosmos cosmonaut mission to station
 - <a href="https://www.teslarati.com/spacex-set-to-break-another-falcon-9-reusability-record-webcast/" >🔗</a> **[Teslarati]** SpaceX set to break another Falcon 9 reusability record [webcast]
 - <a href="https://spacenews.com/china-is-developing-new-solid-rockets-to-boost-overall-space-capabilities/" >🔗</a> **[SpaceNews]** China is developing new solid rockets to boost overall space capabilities
-- <a href="https://spacenews.com/sls-rolls-out-to-pad-for-countdown-test/" >🔗</a> **[SpaceNews]** SLS rolls out to pad for countdown test
-- <a href="https://spaceflightnow.com/2022/03/18/spacex-to-launch-reusable-booster-for-record-12th-time/" >🔗</a> **[Spaceflight Now]** SpaceX to launch reusable booster for record 12th time
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T131449">2022-03-18 13:14:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220318T134119">2022-03-18 13:41:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
