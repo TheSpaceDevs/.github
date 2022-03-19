@@ -79,7 +79,7 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/" >🔗</a> **[NASA Spaceflight]** SpaceX to set new booster reuse record on Starlink mission
+- <a href="https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/" >🔗</a> **[NASA Spaceflight]** SpaceX sets new booster reuse record on Starlink mission
 - <a href="https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/" >🔗</a> **[SpaceNews]** Telesat mulls downsizing delayed LEO plan as costs mount
 - <a href="https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/" >🔗</a> **[SpaceNews]** Another startup joins race to provide high-speed lunar communications
 - <a href="https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/" >🔗</a> **[Arstechnica]** It’s huge, expensive, and years late—but the SLS rocket is finally here
@@ -92,7 +92,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T050550">2022-03-19 05:05:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T053132">2022-03-19 05:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
