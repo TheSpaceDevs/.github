@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/" >🔗</a> **[NASA Spaceflight]** SpaceX to set new booster reuse record on Starlink mission
 - <a href="https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/" >🔗</a> **[SpaceNews]** Telesat mulls downsizing delayed LEO plan as costs mount
 - <a href="https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/" >🔗</a> **[SpaceNews]** Another startup joins race to provide high-speed lunar communications
 - <a href="https://arstechnica.com/science/2022/03/its-huge-expensive-and-years-late-but-the-sls-rocket-is-finally-here/" >🔗</a> **[Arstechnica]** It’s huge, expensive, and years late—but the SLS rocket is finally here
 - <a href="https://mars.nasa.gov/news/9149/" >🔗</a> **[NASA]** NASA's Perseverance Rover Hightails It to Martian Delta
-- <a href="http://www.nasa.gov/press-release/nasa-s-mega-moon-rocket-spacecraft-complete-first-roll-to-launch-pad" >🔗</a> **[NASA]** NASA’s Mega Moon Rocket, Spacecraft Complete First Roll to Launch Pad
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T002852">2022-03-19 00:28:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220319T015057">2022-03-19 01:50:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
