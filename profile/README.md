@@ -81,11 +81,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cyber-warfare-gets-real-for-satellite-operators/" >🔗</a> **[SpaceNews]** Cyber warfare gets real for satellite operators
 - <a href="https://spacenews.com/general-dynamics-cloud-contract-with-nga-moves-forward-after-leidos-withdraws-protest/" >🔗</a> **[SpaceNews]** General Dynamics’ cloud contract with NGA moves forward after Leidos withdraws protest
 - <a href="https://spacenews.com/spacex-sets-reuse-and-payload-mass-records-in-starlink-launch/" >🔗</a> **[SpaceNews]** SpaceX sets reuse and payload mass records in Starlink launch
 - <a href="https://www.nasaspaceflight.com/2022/03/spacex-booster-reuse-record-starlink/" >🔗</a> **[NASA Spaceflight]** SpaceX sets new booster reuse record on Starlink mission
 - <a href="https://spacenews.com/telesat-mulls-downsizing-delayed-leo-plan-as-costs-mount/" >🔗</a> **[SpaceNews]** Telesat mulls downsizing delayed LEO plan as costs mount
-- <a href="https://spacenews.com/another-startup-joins-race-to-provide-high-speed-lunar-communications/" >🔗</a> **[SpaceNews]** Another startup joins race to provide high-speed lunar communications
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220320T223443">2022-03-20 22:34:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220320T230612">2022-03-20 23:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
