@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-artemis-strategy-for-astronaut-moon-landers" >🔗</a> **[NASA]** NASA to Discuss Artemis Strategy for Astronaut Moon Landers
 - <a href="https://arstechnica.com/science/2022/03/heres-why-russia-probably-wont-break-the-space-station-partnership/" >🔗</a> **[Arstechnica]** Legally, Russia can’t just take its Space Station and go home
 - <a href="https://spacenews.com/geo-operators-say-they-can-compete-against-leo-systems-on-cost/" >🔗</a> **[SpaceNews]** GEO operators say they can compete against LEO systems on cost
 - <a href="https://spacenews.com/telstra-teleports-for-oneweb/" >🔗</a> **[SpaceNews]** Telstra to build teleports for OneWeb constellation
 - <a href="https://www.teslarati.com/spacex-starship-super-heavy-new-orbital-test-flight-prototypes/" >🔗</a> **[Teslarati]** SpaceX assigns newer Starship, Super Heavy booster to orbital launch debut
-- <a href="https://spacenews.com/ses-to-acquire-leonardo-drs-satcom-business-for-450-million/" >🔗</a> **[SpaceNews]** SES to acquire Leonardo DRS satcom business for $450 million
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T190409">2022-03-22 19:04:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T193149">2022-03-22 19:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
