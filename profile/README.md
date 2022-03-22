@@ -36,7 +36,6 @@ into *an Elliptical Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T120000">2022-03-22 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meridian-M No.20L&location=Plesetsk Cosmodrome, Russian Federation&dates=20220322T120000Z%2F20220322T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Meridian-M No.20L** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T133000">2022-03-29 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-20&location=Corn Ranch, USA&dates=20220329T133000Z%2F20220329T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NS-20** from Corn Ranch, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Maiden Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **CentiSpace-1 S3 (?)** from Jiuquan, People's Republic of China.
@@ -81,11 +80,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-super-heavy-new-orbital-test-flight-prototypes/" >🔗</a> **[Teslarati]** SpaceX assigns newer Starship, Super Heavy booster to orbital launch debut
 - <a href="https://spacenews.com/ses-to-acquire-leonardo-drs-satcom-business-for-450-million/" >🔗</a> **[SpaceNews]** SES to acquire Leonardo DRS satcom business for $450 million
 - <a href="https://spacenews.com/lockheed-martin-to-launch-new-satellite-bus-aimed-at-mid-size-market/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch new satellite bus aimed at mid-size market
 - <a href="https://spacenews.com/e-space-taps-rocket-lab-to-launch-three-demo-sats-by-july/" >🔗</a> **[SpaceNews]** E-Space taps Rocket Lab to launch three demo sats by July
 - <a href="https://spacenews.com/spacex-severs-ties-with-spaceflight/" >🔗</a> **[SpaceNews]** SpaceX severs ties with longtime partner Spaceflight Inc.
-- <a href="https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility
 
 
 ### Launch-related News 🚀
@@ -94,7 +93,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T113205">2022-03-22 11:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T121117">2022-03-22 12:11:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
