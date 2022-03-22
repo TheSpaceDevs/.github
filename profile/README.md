@@ -81,11 +81,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-to-launch-new-satellite-bus-aimed-at-mid-size-market/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch new satellite bus aimed at mid-size market
 - <a href="https://spacenews.com/e-space-taps-rocket-lab-to-launch-three-demo-sats-by-july/" >🔗</a> **[SpaceNews]** E-Space taps Rocket Lab to launch three demo sats by July
 - <a href="https://spacenews.com/spacex-severs-ties-with-spaceflight/" >🔗</a> **[SpaceNews]** SpaceX severs ties with longtime partner Spaceflight Inc.
 - <a href="https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility
 - <a href="https://spacenews.com/focus-for-early-stage-space-companies-turning-to-workforce-challenges/" >🔗</a> **[SpaceNews]** Focus for early-stage space companies turning to workforce challenges
-- <a href="https://spacenews.com/industry-proposals-sought-for-cislunar-highway-patrol-satellite/" >🔗</a> **[SpaceNews]** Industry proposals sought for ‘cislunar highway patrol’ satellite
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220321T233437">2022-03-21 23:34:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T003042">2022-03-22 00:30:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
