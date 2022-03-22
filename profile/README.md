@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-balloon-operations-follow-on-contract" >🔗</a> **[NASA]** NASA Awards Balloon Operations Follow-On Contract
 - <a href="https://spacenews.com/u-s-government-urged-to-address-supply-risks-in-the-space-sector/" >🔗</a> **[SpaceNews]** U.S. government urged to address supply risks in the space sector
 - <a href="https://arstechnica.com/science/2022/03/the-manager-of-blue-origins-rocket-engine-program-has-left-the-company/" >🔗</a> **[Arstechnica]** The manager of Blue Origin’s rocket engine program has left the company
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-artemis-strategy-for-astronaut-moon-landers" >🔗</a> **[NASA]** NASA to Discuss Artemis Strategy for Astronaut Moon Landers
 - <a href="https://arstechnica.com/science/2022/03/heres-why-russia-probably-wont-break-the-space-station-partnership/" >🔗</a> **[Arstechnica]** Legally, Russia can’t just take its Space Station and go home
-- <a href="https://spacenews.com/geo-operators-say-they-can-compete-against-leo-systems-on-cost/" >🔗</a> **[SpaceNews]** GEO operators say they can compete against LEO systems on cost
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T203431">2022-03-22 20:34:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220322T210600">2022-03-22 21:06:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
