@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference" >🔗</a> **[NASA]** NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference
 - <a href="https://spacenews.com/ses-beat-multiple-bidders-for-leonardo-drs-satcom-business/" >🔗</a> **[SpaceNews]** SES beat multiple bidders for Leonardo DRS satcom business
 - <a href="https://spacenews.com/ukrainian-launch-startup-promin-juggles-research-territorial-defense/" >🔗</a> **[SpaceNews]** Ukrainian launch startup Promin juggles research, territorial defense
 - <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Watch live: Spacewalk underway for space station maintenance, upgrades
 - <a href="https://spacenews.com/boeing-satellite-2022/" >🔗</a> **[SpaceNews]** Boeing eyes investment candidates at Satellite 2022
-- <a href="https://spacenews.com/ubiquitous-connectivity-satellite-2022/" >🔗</a> **[SpaceNews]** Universal connectivity requires extensive collaboration
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T160823">2022-03-23 16:08:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T165053">2022-03-23 16:50:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
