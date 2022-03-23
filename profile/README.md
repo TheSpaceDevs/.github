@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-satellite-2022/" >🔗</a> **[SpaceNews]** Boeing eyes investment candidates at Satellite 2022
+- <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Spacewalk underway for space station maintenance, upgrades
+- <a href="https://spacenews.com/ubiquitous-connectivity-satellite-2022/" >🔗</a> **[SpaceNews]** Universal connectivity requires extensive collaboration
 - <a href="https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/" >🔗</a> **[SpaceNews]** PSN orders Indonesia-focused satellite from Boeing for 2023 launch
 - <a href="https://www.nasaspaceflight.com/2022/03/us-eva-80/" >🔗</a> **[NASA Spaceflight]** ISS astronauts to perform final spacewalk of Expedition 66
-- <a href="https://spacenews.com/ursa-space-series-c/" >🔗</a> **[SpaceNews]** Ursa Space raises $16 million in Series C round
-- <a href="https://spacenews.com/firefly-raises-75-million-as-it-prepares-for-second-launch/" >🔗</a> **[SpaceNews]** Firefly raises $75 million as it prepares for second launch
-- <a href="https://www.teslarati.com/spacex-crew-dragon-launches-delayed-2022/" >🔗</a> **[Teslarati]** SpaceX’s next Crew Dragon astronaut launch slips into April
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T132147">2022-03-23 13:21:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T134239">2022-03-23 13:42:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
