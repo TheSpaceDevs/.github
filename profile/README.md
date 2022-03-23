@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/la-nasa-te-invita-a-enviar-tu-nombre-a-la-luna-ahora-en-espa-ol" >🔗</a> **[NASA]** La NASA te invita a enviar tu nombre a la Luna, ¡ahora en español!
+- <a href="http://www.nasa.gov/press-release/nasa-invites-public-to-send-their-name-to-moon-now-in-spanish" >🔗</a> **[NASA]** NASA Invites Public to Send their Name to Moon – Now in Spanish!
 - <a href="http://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis" >🔗</a> **[NASA]** NASA Provides Update to Astronaut Moon Lander Plans Under Artemis
 - <a href="https://spacenews.com/hispasat-buys-teleport-operator-to-expand-managed-services-business/" >🔗</a> **[SpaceNews]** Hispasat buys teleport operator to expand managed services business
 - <a href="https://spacenews.com/satellite-supplier-with-in-house-production-bid-the-lowest-price-for-dod-constellation/" >🔗</a> **[SpaceNews]** Satellite supplier with in-house production bid the lowest price for DoD constellation
-- <a href="https://spacenews.com/vulcan-centaur-on-schedule-for-first-launch-in-2022-as-new-glenn-slips/" >🔗</a> **[SpaceNews]** Vulcan Centaur on schedule for first launch in 2022 as New Glenn slips
-- <a href="http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference" >🔗</a> **[NASA]** NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T203827">2022-03-23 20:38:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T210419">2022-03-23 21:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
