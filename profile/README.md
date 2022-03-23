@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/" >🔗</a> **[SpaceNews]** PSN orders Indonesia-focused satellite from Boeing for 2023 launch
+- <a href="https://www.nasaspaceflight.com/2022/03/us-eva-80/" >🔗</a> **[NASA Spaceflight]** ISS astronauts to perform final spacewalk of Expedition 66
+- <a href="https://spacenews.com/ursa-space-series-c/" >🔗</a> **[SpaceNews]** Ursa Space raises $16 million in Series C round
 - <a href="https://spacenews.com/firefly-raises-75-million-as-it-prepares-for-second-launch/" >🔗</a> **[SpaceNews]** Firefly raises $75 million as it prepares for second launch
 - <a href="https://www.teslarati.com/spacex-crew-dragon-launches-delayed-2022/" >🔗</a> **[Teslarati]** SpaceX’s next Crew Dragon astronaut launch slips into April
-- <a href="https://spacenews.com/blaming-inflation-spacex-raises-starlink-and-launch-prices/" >🔗</a> **[SpaceNews]** Blaming inflation, SpaceX raises Starlink and launch prices
-- <a href="https://arstechnica.com/science/2022/03/ursa-major-says-its-hadley-engine-supports-vertical-launch-and-hypersonic-uses/" >🔗</a> **[Arstechnica]** Ursa Major says its Hadley engine supports vertical launch and hypersonic uses
-- <a href="https://spacenews.com/satellite-supply-chains-coming-under-increasing-scrutiny/" >🔗</a> **[SpaceNews]** Satellite supply chains coming under increasing scrutiny
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T121626">2022-03-23 12:16:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T125756">2022-03-23 12:57:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
