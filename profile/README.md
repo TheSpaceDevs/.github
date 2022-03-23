@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-provides-update-to-astronaut-moon-lander-plans-under-artemis" >🔗</a> **[NASA]** NASA Provides Update to Astronaut Moon Lander Plans Under Artemis
+- <a href="https://spacenews.com/hispasat-buys-teleport-operator-to-expand-managed-services-business/" >🔗</a> **[SpaceNews]** Hispasat buys teleport operator to expand managed services business
+- <a href="https://spacenews.com/satellite-supplier-with-in-house-production-bid-the-lowest-price-for-dod-constellation/" >🔗</a> **[SpaceNews]** Satellite supplier with in-house production bid the lowest price for DoD constellation
 - <a href="https://spacenews.com/vulcan-centaur-on-schedule-for-first-launch-in-2022-as-new-glenn-slips/" >🔗</a> **[SpaceNews]** Vulcan Centaur on schedule for first launch in 2022 as New Glenn slips
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-axiom-mission-1-flight-readiness-media-teleconference" >🔗</a> **[NASA]** NASA to Host Axiom Mission 1 Flight Readiness Media Teleconference
-- <a href="https://spacenews.com/ses-beat-multiple-bidders-for-leonardo-drs-satcom-business/" >🔗</a> **[SpaceNews]** SES beat multiple bidders for Leonardo DRS satcom business
-- <a href="https://spacenews.com/ukrainian-launch-startup-promin-juggles-research-territorial-defense/" >🔗</a> **[SpaceNews]** Ukrainian launch startup Promin juggles research, territorial defense
-- <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Watch live: Spacewalk underway for space station maintenance, upgrades
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T184130">2022-03-23 18:41:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T190749">2022-03-23 19:07:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
