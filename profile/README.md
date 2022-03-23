@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-raises-75-million-as-it-prepares-for-second-launch/" >🔗</a> **[SpaceNews]** Firefly raises $75 million as it prepares for second launch
+- <a href="https://www.teslarati.com/spacex-crew-dragon-launches-delayed-2022/" >🔗</a> **[Teslarati]** SpaceX’s next Crew Dragon astronaut launch slips into April
 - <a href="https://spacenews.com/blaming-inflation-spacex-raises-starlink-and-launch-prices/" >🔗</a> **[SpaceNews]** Blaming inflation, SpaceX raises Starlink and launch prices
 - <a href="https://arstechnica.com/science/2022/03/ursa-major-says-its-hadley-engine-supports-vertical-launch-and-hypersonic-uses/" >🔗</a> **[Arstechnica]** Ursa Major says its Hadley engine supports vertical launch and hypersonic uses
 - <a href="https://spacenews.com/satellite-supply-chains-coming-under-increasing-scrutiny/" >🔗</a> **[SpaceNews]** Satellite supply chains coming under increasing scrutiny
-- <a href="https://spacenews.com/swarm-launched-satellites-on-astra-mission/" >🔗</a> **[SpaceNews]** Swarm launched satellites on Astra mission
-- <a href="http://www.nasa.gov/press-release/nasa-awards-balloon-operations-follow-on-contract" >🔗</a> **[NASA]** NASA Awards Balloon Operations Follow-On Contract
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T113202">2022-03-23 11:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T121626">2022-03-23 12:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
