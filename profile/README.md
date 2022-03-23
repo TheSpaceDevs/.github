@@ -80,8 +80,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Watch live: Spacewalk underway for space station maintenance, upgrades
 - <a href="https://spacenews.com/boeing-satellite-2022/" >🔗</a> **[SpaceNews]** Boeing eyes investment candidates at Satellite 2022
-- <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Spacewalk underway for space station maintenance, upgrades
 - <a href="https://spacenews.com/ubiquitous-connectivity-satellite-2022/" >🔗</a> **[SpaceNews]** Universal connectivity requires extensive collaboration
 - <a href="https://spacenews.com/psn-orders-indonesia-focused-satellite-from-boeing-for-2023-launch/" >🔗</a> **[SpaceNews]** PSN orders Indonesia-focused satellite from Boeing for 2023 launch
 - <a href="https://www.nasaspaceflight.com/2022/03/us-eva-80/" >🔗</a> **[NASA Spaceflight]** ISS astronauts to perform final spacewalk of Expedition 66
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T141127">2022-03-23 14:11:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220323T143728">2022-03-23 14:37:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
