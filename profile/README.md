@@ -81,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/millennium-space-to-launch-to-orbit-a-3d-printed-satellite-structure/" >🔗</a> **[SpaceNews]** Millennium Space to launch to orbit a 3D printed satellite structure
 - <a href="https://spacenews.com/arianespace-and-spacex-work-to-adjust-launch-manifests/" >🔗</a> **[SpaceNews]** Arianespace and SpaceX work to adjust launch manifests
 - <a href="http://www.nasa.gov/press-release/nasa-esa-assign-astronauts-to-space-station-mission-on-crew-dragon" >🔗</a> **[NASA]** NASA, ESA Assign Astronauts to Space Station Mission on Crew Dragon
 - <a href="https://mars.nasa.gov/news/9152/" >🔗</a> **[NASA]** NASA's Ingenuity Helicopter and Asteroid-Monitoring System Honored
 - <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Astronauts complete spacewalk for space station maintenance and upgrades
-- <a href="https://spacenews.com/nasa-to-support-development-of-second-artemis-lunar-lander/" >🔗</a> **[SpaceNews]** NASA to support development of second Artemis lunar lander
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T153825">2022-03-24 15:38:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T160835">2022-03-24 16:08:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
