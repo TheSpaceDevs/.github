@@ -83,8 +83,8 @@ into *a Suborbital
 - <a href="https://mars.nasa.gov/news/9152/" >🔗</a> **[NASA]** NASA's Ingenuity Helicopter and Asteroid-Monitoring System Honored
 - <a href="https://spaceflightnow.com/2022/03/23/us-eva-80/" >🔗</a> **[Spaceflight Now]** Astronauts complete spacewalk for space station maintenance and upgrades
 - <a href="https://spacenews.com/nasa-to-support-development-of-second-artemis-lunar-lander/" >🔗</a> **[SpaceNews]** NASA to support development of second Artemis lunar lander
-- <a href="http://www.nasa.gov/press-release/nasa-invites-public-to-send-their-name-to-moon-now-in-spanish" >🔗</a> **[NASA]** NASA Invites Public to Send their Name to Moon – Now in Spanish!
 - <a href="http://www.nasa.gov/press-release/la-nasa-te-invita-a-enviar-tu-nombre-a-la-luna-ahora-en-espa-ol" >🔗</a> **[NASA]** La NASA te invita a enviar tu nombre a la Luna, ¡ahora en español!
+- <a href="http://www.nasa.gov/press-release/nasa-invites-public-to-send-their-name-to-moon-now-in-spanish" >🔗</a> **[NASA]** NASA Invites Public to Send their Name to Moon – Now in Spanish!
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T060847">2022-03-24 06:08:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T064216">2022-03-24 06:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
