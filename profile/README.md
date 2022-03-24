@@ -81,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/" >🔗</a> **[SpaceNews]** Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing
 - <a href="https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/" >🔗</a> **[Teslarati]** SpaceX frees up orbital launch site for upgraded Super Heavy booster
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Record-Setting US Astronaut Return
 - <a href="https://spacenews.com/biggest-challenge-hiring/" >🔗</a> **[SpaceNews]** Panelists agree hiring remains the biggest challenge
 - <a href="https://spacenews.com/accelerating-satellite-production-timelines-improving-market-health/" >🔗</a> **[SpaceNews]** Accelerating satellite production timelines improving market health
-- <a href="https://www.nasaspaceflight.com/2022/03/artemis-1-wdr-prep/" >🔗</a> **[NASA Spaceflight]** EGS, Jacobs preparing Artemis 1 vehicle at pad for final pre-launch countdown test
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T223601">2022-03-24 22:36:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220324T230708">2022-03-24 23:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
