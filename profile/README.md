@@ -45,7 +45,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T000000">2022-04-14 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-14&location=Cape Canaveral, FL, USA&dates=20220414T000000Z%2F20220414T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-14** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T000000">2022-04-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Vandenberg SFB, CA, USA&dates=20220415T000000Z%2F20220415T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NROL-85** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T000000">2022-04-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | MKA-R&location=Plesetsk Cosmodrome, Russian Federation&dates=20220419T000000Z%2F20220419T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **MKA-R** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T104500">2022-04-19 10:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220419T104500Z%2F20220419T104500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Crew-4** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T105900">2022-04-19 10:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220419T105900Z%2F20220419T105900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Crew-4** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -81,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission" >🔗</a> **[NASA]** NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission
+- <a href="http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28" >🔗</a> **[NASA]** Annual State of NASA Address, Media Budget Briefing Set for March 28
 - <a href="https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/" >🔗</a> **[Spaceflight Now]** Hydrazine fueling operations underway for SLS booster steering system
 - <a href="https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/" >🔗</a> **[Teslarati]** SpaceX outfits Starship prototype with unique Starlink satellite dispenser
 - <a href="https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track
-- <a href="https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/" >🔗</a> **[SpaceNews]** Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing
-- <a href="https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/" >🔗</a> **[Teslarati]** SpaceX frees up orbital launch site for upgraded Super Heavy booster
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T213437">2022-03-25 21:34:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T220651">2022-03-25 22:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
