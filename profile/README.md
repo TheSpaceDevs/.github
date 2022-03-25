@@ -81,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/25/hydrazine-fueling-operations-underway-for-sls-booster-steering-system/" >🔗</a> **[Spaceflight Now]** Hydrazine fueling operations underway for SLS booster steering system
 - <a href="https://www.teslarati.com/spacex-starship-s24-starlink-dispenser/" >🔗</a> **[Teslarati]** SpaceX outfits Starship prototype with unique Starlink satellite dispenser
 - <a href="https://arstechnica.com/science/2022/03/rocket-report-spacex-broomstick-cleaning-up-contracts-astra-back-on-track/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX broomstick cleaning up contracts, Astra back on track
 - <a href="https://spacenews.com/northrop-grumman-says-customers-are-lined-up-for-its-satellite-servicing-vehicle/" >🔗</a> **[SpaceNews]** Northrop Grumman says customers are ‘lined up’ for on-orbit satellite servicing
 - <a href="https://www.teslarati.com/spacex-starbase-upgraded-starship-prototypes-2022/" >🔗</a> **[Teslarati]** SpaceX frees up orbital launch site for upgraded Super Heavy booster
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-record-setting-us-astronaut-return" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Record-Setting US Astronaut Return
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T193157">2022-03-25 19:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220325T200718">2022-03-25 20:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
