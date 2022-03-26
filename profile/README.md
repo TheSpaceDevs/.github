@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-again-delays-completion-of-starship-environmental-review/" >🔗</a> **[SpaceNews]** FAA again delays completion of Starship environmental review
 - <a href="https://spacenews.com/terran-orbital-merger-completed/" >🔗</a> **[SpaceNews]** Terran Orbital stock cleared for trading on NYSE
 - <a href="https://spacenews.com/additional-funding-unlikely-to-accelerate-commercial-space-station-projects/" >🔗</a> **[SpaceNews]** Additional funding unlikely to accelerate commercial space station projects
 - <a href="https://spacenews.com/space-force-using-spire-data-to-detect-satellite-jamming/" >🔗</a> **[SpaceNews]** Space Force using Spire data to detect satellite jamming
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-4-mission" >🔗</a> **[NASA]** NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-4 Mission
-- <a href="http://www.nasa.gov/press-release/annual-state-of-nasa-address-media-budget-briefing-set-for-march-28" >🔗</a> **[NASA]** Annual State of NASA Address, Media Budget Briefing Set for March 28
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T170713">2022-03-26 17:07:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220326T173353">2022-03-26 17:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
