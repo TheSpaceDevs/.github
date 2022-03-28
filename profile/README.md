@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/03/if-funded-nasas-budget-request-removes-excuses-for-further-artemis-delays/" >🔗</a> **[Arstechnica]** If funded, NASA’s budget request removes excuses for further Artemis delays
 - <a href="http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del" >🔗</a> **[NASA]** Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request" >🔗</a> **[NASA]** NASA Administrator Statement on President’s FY 2023 Budget Request
 - <a href="https://spacenews.com/bidens-2023-defense-budget-adds-billions-for-u-s-space-force/" >🔗</a> **[SpaceNews]** Biden’s 2023 defense budget adds billions for U.S. Space Force
 - <a href="https://spacenews.com/ses-orders-software-defined-replacement-satellite-from-thales/" >🔗</a> **[SpaceNews]** SES orders software-defined replacement satellite from Thales
-- <a href="https://www.nasaspaceflight.com/2022/03/cape-canaveral-missile-row/" >🔗</a> **[NASA Spaceflight]** “Missile Row” pads at Cape Canaveral returning to action
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T223602">2022-03-28 22:36:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T230640">2022-03-28 23:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
