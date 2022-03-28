@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/03/cape-canaveral-missile-row/" >🔗</a> **[NASA Spaceflight]** “Missile Row” pads at Cape Canaveral returning to action
+- <a href="https://spacenews.com/white-house-requests-26-billion-for-nasa-for-2023/" >🔗</a> **[SpaceNews]** White House requests $26 billion for NASA for 2023
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-updates-coverage-for-final-test-ahead-of-moon-mission" >🔗</a> **[NASA]** NASA to Provide Updates, Coverage for Final Test Ahead of Moon Mission
 - <a href="https://www.teslarati.com/spacex-starbase-faa-environmental-review-third-delay/" >🔗</a> **[Teslarati]** SpaceX’s Starbase environmental review suffers third delay
 - <a href="https://www.nasaspaceflight.com/2022/03/solar-orbiter-close-pass/" >🔗</a> **[NASA Spaceflight]** Solar Orbiter successfully completes historic close pass of the Sun
-- <a href="https://spacenews.com/nasa-to-delay-mars-sample-return-switch-to-dual-lander-approach/" >🔗</a> **[SpaceNews]** NASA to delay Mars Sample Return, switch to dual-lander approach
-- <a href="https://spacenews.com/french-startup-raises-funding-to-develop-solar-sails/" >🔗</a> **[SpaceNews]** French startup raises funding to develop solar sails
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T161211">2022-03-28 16:12:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220328T165252">2022-03-28 16:52:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
