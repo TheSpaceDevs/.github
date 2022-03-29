@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-first-long-march-rocket-with-solid-boosters/" >🔗</a> **[SpaceNews]** China launches first Long March rocket with solid boosters
 - <a href="https://spacenews.com/synspective-raises-100-million-series-b-round/" >🔗</a> **[SpaceNews]** Synspective raises $100 million Series B round
 - <a href="https://www.teslarati.com/spacex-april-2022-falcon-9-launch-plans/" >🔗</a> **[Teslarati]** SpaceX gears up for busiest April yet
 - <a href="https://arstechnica.com/science/2022/03/if-funded-nasas-budget-request-removes-excuses-for-further-artemis-delays/" >🔗</a> **[Arstechnica]** No more excuses: NASA in line to get funding needed for Artemis plan
 - <a href="http://www.nasa.gov/press-release/declaraci-n-del-administrador-de-la-nasa-sobre-la-solicitud-de-presupuesto-del" >🔗</a> **[NASA]** Declaración del administrador de la NASA sobre la solicitud de presupuesto del presidente para el año fiscal 2023
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-presidents-fy-2023-budget-request" >🔗</a> **[NASA]** NASA Administrator Statement on President’s FY 2023 Budget Request
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T121625">2022-03-29 12:16:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T130229">2022-03-29 13:02:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
