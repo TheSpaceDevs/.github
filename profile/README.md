@@ -80,11 +80,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-nasa-starship-moon-lander-new-contract/" >🔗</a> **[Teslarati]** NASA contracts SpaceX for a second crewed Starship Moon landing
+- <a href="http://www.nasa.gov/press-release/nasa-names-winners-of-lunar-robotics-design-contest" >🔗</a> **[NASA]** NASA Names Winners of Lunar Robotics Design Contest
 - <a href="https://spacenews.com/lockheed-martin-signs-deal-to-use-spideroak-cybersecurity-to-protect-satellite-networks/" >🔗</a> **[SpaceNews]** Lockheed Martin signs deal to use SpiderOak cybersecurity to protect satellite networks
 - <a href="https://spacenews.com/singapore-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Singapore signs the Artemis Accords
 - <a href="https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/" >🔗</a> **[Arstechnica]** Impulse Space is betting on a future where launch is cheap
-- <a href="https://spacenews.com/china-launches-first-long-march-rocket-with-solid-boosters/" >🔗</a> **[SpaceNews]** China launches first Long March rocket with solid boosters
-- <a href="https://spacenews.com/synspective-raises-100-million-series-b-round/" >🔗</a> **[SpaceNews]** Synspective raises $100 million Series B round
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T193149">2022-03-29 19:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T200721">2022-03-29 20:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
