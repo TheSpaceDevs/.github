@@ -80,11 +80,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/" >🔗</a> **[SpaceNews]** NASA ready for high-stakes, low-profile SLS test
 - <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/" >🔗</a> **[NASA Spaceflight]** Soyuz MS-19 to land in Kazakhstan amid tense U.S.-Russian relations
 - <a href="https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/" >🔗</a> **[SpaceNews]** Pixxel raises $25 million for hyperspectral imaging constellation
 - <a href="https://www.teslarati.com/spacex-nasa-starship-moon-lander-new-contract/" >🔗</a> **[Teslarati]** NASA contracts SpaceX for a second crewed Starship Moon landing
 - <a href="http://www.nasa.gov/press-release/nasa-names-winners-of-lunar-robotics-design-contest" >🔗</a> **[NASA]** NASA Names Winners of Lunar Robotics Design Contest
-- <a href="https://spacenews.com/lockheed-martin-signs-deal-to-use-spideroak-cybersecurity-to-protect-satellite-networks/" >🔗</a> **[SpaceNews]** Lockheed Martin signs deal to use SpiderOak cybersecurity to protect satellite networks
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220329T233526">2022-03-29 23:35:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T003036">2022-03-30 00:30:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
