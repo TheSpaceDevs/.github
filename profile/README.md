@@ -78,11 +78,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/" >🔗</a> **[SpaceNews]** Soyuz returns astronaut and cosmonauts from space station
 - <a href="https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/" >🔗</a> **[SpaceNews]** Virgin Orbit looks beyond satellite launch for growth opportunities
 - <a href="https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/" >🔗</a> **[SpaceNews]** China to launch Einstein Probe in 2023 to observe violent cosmic events
 - <a href="https://www.teslarati.com/spacex-ends-crew-dragon-production-starship-future/" >🔗</a> **[Teslarati]** SpaceX to end Crew Dragon capsule production as Starship’s shadow grows
 - <a href="https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/" >🔗</a> **[SpaceNews]** NASA ready for high-stakes, low-profile SLS test
-- <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/" >🔗</a> **[NASA Spaceflight]** Soyuz MS-19 lands in Kazakhstan amid tense U.S.-Russian relations
 
 
 ### Launch-related News 🚀
@@ -91,7 +91,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T121626">2022-03-30 12:16:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T125809">2022-03-30 12:58:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
