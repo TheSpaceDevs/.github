@@ -10,33 +10,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Zhuque-2 | Maiden Flight**. It is scheduled to be launched by *LandSpace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="">Unknown Pad</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>.  Until
-then, this pad will have been used for 29
-out of 159 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
-*Test Flight* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+**New Shepard | NS-20**. It is scheduled to be launched by *Blue Origin*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T133000">2022-03-31 13:30:00 UTC</a>.  Until
+then, this pad will have been used for 19
+out of 19 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  First flight of the new methalox rocket developed by Chinese startup LandSpace.
+  NS-20 is the fourth crewed New Shepard flight, carrying six passengers.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg" />
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg" />
   </a>
-  <a href="" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T000000">2022-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220331T000000Z%2F20220331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Maiden Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T133000">2022-03-31 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-20&location=Corn Ranch, USA&dates=20220331T133000Z%2F20220331T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NS-20** from Corn Ranch, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T123500">2022-04-01 12:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Without Mission A Beat&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220401T123500Z%2F20220401T123500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Without Mission A Beat** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T162400">2022-04-01 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 4 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20220401T162400Z%2F20220401T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Transporter 4 (Dedicated SSO Rideshare)** from Cape Canaveral, FL, USA.
@@ -88,12 +87,11 @@ into *an Unknown Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/chinas-landspace-appears-to-be-preparing-to-launch-its-new-methane-fueled-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace appears to be preparing to launch its new methane-fueled rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T031012">2022-03-30 03:10:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T034723">2022-03-30 03:47:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
