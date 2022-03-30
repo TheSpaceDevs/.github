@@ -78,11 +78,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mattews-joins-radian/" >🔗</a> **[SpaceNews]** Jeff Matthews joins Radian Aerospace as director of strategy
+- <a href="https://arstechnica.com/science/2022/03/a-nasa-astronaut-just-landed-in-a-russian-spacecraft-and-all-is-well/" >🔗</a> **[Arstechnica]** A NASA astronaut just landed in a Russian spacecraft, and all is well
 - <a href="https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/" >🔗</a> **[SpaceNews]** Soyuz returns astronaut and cosmonauts from space station
 - <a href="https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/" >🔗</a> **[SpaceNews]** Virgin Orbit looks beyond satellite launch for growth opportunities
 - <a href="https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/" >🔗</a> **[SpaceNews]** China to launch Einstein Probe in 2023 to observe violent cosmic events
-- <a href="https://www.teslarati.com/spacex-ends-crew-dragon-production-starship-future/" >🔗</a> **[Teslarati]** SpaceX to end Crew Dragon capsule production as Starship’s shadow grows
-- <a href="https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/" >🔗</a> **[SpaceNews]** NASA ready for high-stakes, low-profile SLS test
 
 
 ### Launch-related News 🚀
@@ -91,7 +91,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T125809">2022-03-30 12:58:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T132829">2022-03-30 13:28:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
