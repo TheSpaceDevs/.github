@@ -78,11 +78,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/" >🔗</a> **[SpaceNews]** China to launch Einstein Probe in 2023 to observe destructive cosmic events
+- <a href="https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/" >🔗</a> **[SpaceNews]** Virgin Orbit looks beyond satellite launch for growth opportunities
+- <a href="https://spacenews.com/china-to-launch-einstein-probe-in-2023-to-observe-destructive-cosmic-events/" >🔗</a> **[SpaceNews]** China to launch Einstein Probe in 2023 to observe violent cosmic events
+- <a href="https://www.teslarati.com/spacex-ends-crew-dragon-production-starship-future/" >🔗</a> **[Teslarati]** SpaceX to end Crew Dragon capsule production as Starship’s shadow grows
 - <a href="https://spacenews.com/nasa-ready-for-high-stakes-low-profile-sls-test/" >🔗</a> **[SpaceNews]** NASA ready for high-stakes, low-profile SLS test
-- <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/" >🔗</a> **[NASA Spaceflight]** Soyuz MS-19 to land in Kazakhstan amid tense U.S.-Russian relations
-- <a href="https://spacenews.com/pixxel-raises-25-million-for-hyperspectral-imaging-constellation/" >🔗</a> **[SpaceNews]** Pixxel raises $25 million for hyperspectral imaging constellation
-- <a href="https://www.teslarati.com/spacex-nasa-starship-moon-lander-new-contract/" >🔗</a> **[Teslarati]** NASA contracts SpaceX for a second crewed Starship Moon landing
+- <a href="https://www.nasaspaceflight.com/2022/03/soyuz-ms-19-undock/" >🔗</a> **[NASA Spaceflight]** Soyuz MS-19 lands in Kazakhstan amid tense U.S.-Russian relations
 
 
 ### Launch-related News 🚀
@@ -91,7 +91,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T113146">2022-03-30 11:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220330T121626">2022-03-30 12:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
