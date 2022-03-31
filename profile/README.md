@@ -81,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-to-work-with-northstar-on-space-situational-awareness/" >🔗</a> **[SpaceNews]** SES to work with NorthStar on space situational awareness
+- <a href="https://www.teslarati.com/spacex-super-heavy-booster-7-test-plans/" >🔗</a> **[Teslarati]** SpaceX rolls upgraded Super Heavy booster to the launch pad
 - <a href="https://spacenews.com/northrop-grumman-weighing-options-for-new-artemis-lunar-lander-competition/" >🔗</a> **[SpaceNews]** Northrop Grumman weighing options for new Artemis lunar lander competition
 - <a href="https://spacenews.com/mattews-joins-radian/" >🔗</a> **[SpaceNews]** Jeff Matthews joins Radian Aerospace as director of strategy
 - <a href="https://arstechnica.com/science/2022/03/a-nasa-astronaut-just-landed-in-a-russian-spacecraft-and-all-is-well/" >🔗</a> **[Arstechnica]** A NASA astronaut just landed in a Russian spacecraft, and all is well
-- <a href="https://spacenews.com/soyuz-returns-astronaut-and-cosmonauts-from-space-station/" >🔗</a> **[SpaceNews]** Soyuz returns astronaut and cosmonauts from space station
-- <a href="https://spacenews.com/virgin-orbit-looks-beyond-satellite-launch-for-growth-opportunities/" >🔗</a> **[SpaceNews]** Virgin Orbit looks beyond satellite launch for growth opportunities
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T113242">2022-03-31 11:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T121204">2022-03-31 12:12:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
