@@ -10,28 +10,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-20**. It is scheduled to be launched by *Blue Origin*
+**Electron | Without Mission A Beat**. It is scheduled to be launched by *Rocket Lab Ltd*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T131000">2022-03-31 13:10:00 UTC</a>.  Until
-then, this pad will have been used for 19
-out of 19 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T123500">2022-04-01 12:35:00 UTC</a>.  Until
+then, this pad will have been used for 23
+out of 24 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  NS-20 is the fourth crewed New Shepard flight, carrying six passengers.
+  Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
@@ -45,6 +45,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-14&location=Cape Canaveral, FL, USA&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-14** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nilesat-301&location=Cape Canaveral, FL, USA&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meteor-M No.2-3&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Vostochny Cosmodrome, Siberia, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | NROL-162 (RASR-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Onenui Station, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -80,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin flies fourth suborbital crew mission
+- <a href="https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/" >🔗</a> **[SpaceNews]** Starlink eyes Southeast Asia foothold with the Philippines
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast
 - <a href="https://spacenews.com/slingshot-wins-25-million-space-force-contract-to-develop-digital-twin-of-the-space-environment/" >🔗</a> **[SpaceNews]** Slingshot wins $25 million Space Force contract to develop digital twin of the space environment
 - <a href="https://spacenews.com/chinese-spacecraft-reenters-atmosphere-ahead-of-new-space-station-missions/" >🔗</a> **[SpaceNews]** Chinese spacecraft reenters atmosphere ahead of new space station missions
-- <a href="https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin ready for fourth suborbital crew flight today
-- <a href="https://www.nasaspaceflight.com/2022/03/blue-origin-ns-20/" >🔗</a> **[NASA Spaceflight]** Blue Origin ready for launch of NS-20 suborbital crew mission
 
 
 ### Launch-related News 🚀
@@ -93,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T141133">2022-03-31 14:11:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T143707">2022-03-31 14:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
