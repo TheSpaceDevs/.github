@@ -17,7 +17,7 @@ from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital L
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T131000">2022-03-31 13:10:00 UTC</a>.  Until
 then, this pad will have been used for 19
 out of 19 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Tourism* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast
+- <a href="https://spacenews.com/slingshot-wins-25-million-space-force-contract-to-develop-digital-twin-of-the-space-environment/" >🔗</a> **[SpaceNews]** Slingshot wins $25 million Space Force contract to develop digital twin of the space environment
 - <a href="https://spacenews.com/chinese-spacecraft-reenters-atmosphere-ahead-of-new-space-station-missions/" >🔗</a> **[SpaceNews]** Chinese spacecraft reenters atmosphere ahead of new space station missions
 - <a href="https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin ready for fourth suborbital crew flight today
 - <a href="https://www.nasaspaceflight.com/2022/03/blue-origin-ns-20/" >🔗</a> **[NASA Spaceflight]** Blue Origin ready for launch of NS-20 suborbital crew mission
-- <a href="https://spacenews.com/ses-to-work-with-northstar-on-space-situational-awareness/" >🔗</a> **[SpaceNews]** SES to work with NorthStar on space situational awareness
-- <a href="https://www.teslarati.com/spacex-super-heavy-booster-7-test-plans/" >🔗</a> **[Teslarati]** SpaceX rolls upgraded Super Heavy booster to the launch pad
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T133028">2022-03-31 13:30:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220331T134404">2022-03-31 13:44:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
