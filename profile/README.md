@@ -81,21 +81,23 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-astronaut-to-discuss-american-space-record-in-news-conference" >🔗</a> **[NASA]** NASA Astronaut to Discuss American Space Record in News Conference
 - <a href="https://mars.nasa.gov/news/9158/" >🔗</a> **[NASA]** What Sounds Captured by NASA's Perseverance Rover Reveal About Mars
 - <a href="https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/" >🔗</a> **[Arstechnica]** NASA’s big rocket faces its last test before launching
 - <a href="https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April
 - <a href="https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites on fourth dedicated rideshare mission
-- <a href="https://arstechnica.com/science/2022/04/rocket-report-spacex-to-do-right-by-oneweb-esa-looks-at-backup-launch-plans/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX to do “right” by OneWeb, ESA looks at backup launch plans
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-april-2022-falcon-9-launch-plans/" >🔗</a> **[Teslarati]** SpaceX gears up for busiest April yet
+- <a href="https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites on fourth dedicated rideshare mission
+- <a href="https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T154159">2022-04-01 15:41:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T161323">2022-04-01 16:13:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
