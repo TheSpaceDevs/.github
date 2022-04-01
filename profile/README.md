@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites on fourth dedicated rideshare mission
+- <a href="https://arstechnica.com/science/2022/04/rocket-report-spacex-to-do-right-by-oneweb-esa-looks-at-backup-launch-plans/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX to do “right” by OneWeb, ESA looks at backup launch plans
 - <a href="https://spacenews.com/nasa-still-working-with-russia-on-iss-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA still working with Russia on ISS seat barter agreement
 - <a href="https://spacenews.com/blue-origin-flies-six-on-first-new-shepard-suborbital-flight-of-2022/" >🔗</a> **[SpaceNews]** Blue Origin flies six on first New Shepard suborbital flight of 2022
 - <a href="https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin flies fourth suborbital crew mission
-- <a href="https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/" >🔗</a> **[SpaceNews]** Starlink eyes Southeast Asia foothold with the Philippines
-- <a href="http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T113242">2022-04-01 11:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T121311">2022-04-01 12:13:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
