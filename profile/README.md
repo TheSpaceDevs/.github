@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/" >🔗</a> **[Arstechnica]** NASA’s big rocket faces its last test before launching
 - <a href="https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Transporter-4, first of six missions for Falcon 9 in April
 - <a href="https://www.teslarati.com/spacex-transporter-4-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites on fourth dedicated rideshare mission
 - <a href="https://arstechnica.com/science/2022/04/rocket-report-spacex-to-do-right-by-oneweb-esa-looks-at-backup-launch-plans/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX to do “right” by OneWeb, ESA looks at backup launch plans
 - <a href="https://spacenews.com/nasa-still-working-with-russia-on-iss-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA still working with Russia on ISS seat barter agreement
-- <a href="https://spacenews.com/blue-origin-flies-six-on-first-new-shepard-suborbital-flight-of-2022/" >🔗</a> **[SpaceNews]** Blue Origin flies six on first New Shepard suborbital flight of 2022
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T141125">2022-04-01 14:11:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T143919">2022-04-01 14:39:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
