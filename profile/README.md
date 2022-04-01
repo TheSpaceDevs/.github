@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-still-working-with-russia-on-iss-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA still working with Russia on ISS seat barter agreement
 - <a href="https://spacenews.com/blue-origin-flies-six-on-first-new-shepard-suborbital-flight-of-2022/" >🔗</a> **[SpaceNews]** Blue Origin flies six on first New Shepard suborbital flight of 2022
 - <a href="https://spaceflightnow.com/2022/03/31/blue-origin-ns-20-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin flies fourth suborbital crew mission
 - <a href="https://spacenews.com/starlink-eyes-southeast-asia-foothold-with-the-philippines/" >🔗</a> **[SpaceNews]** Starlink eyes Southeast Asia foothold with the Philippines
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast
-- <a href="https://spacenews.com/slingshot-wins-25-million-space-force-contract-to-develop-digital-twin-of-the-space-environment/" >🔗</a> **[SpaceNews]** Slingshot wins $25 million Space Force contract to develop digital twin of the space environment
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T093701">2022-04-01 09:37:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T101225">2022-04-01 10:12:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
