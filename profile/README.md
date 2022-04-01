@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-broadcast-select-panels" >🔗</a> **[NASA]** NASA to Participate in Space Symposium, Broadcast Select Panels
 - <a href="https://spaceflightnow.com/2022/04/01/forty-payloads-ride-into-orbit-on-spacex-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Forty payloads ride into orbit on SpaceX Falcon 9 rocket
 - <a href="http://www.nasa.gov/press-release/nasa-astronaut-to-discuss-american-space-record-in-news-conference" >🔗</a> **[NASA]** NASA Astronaut to Discuss American Space Record in News Conference
 - <a href="https://mars.nasa.gov/news/9158/" >🔗</a> **[NASA]** What Sounds Captured by NASA's Perseverance Rover Reveal About Mars
 - <a href="https://arstechnica.com/science/2022/04/nasas-big-rocket-faces-its-last-test-before-launching/" >🔗</a> **[Arstechnica]** NASA’s big rocket faces its last test before launching
-- <a href="https://www.nasaspaceflight.com/2022/04/spacex-transporter-4-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Transporter-4, first of six missions for Falcon 9 in April
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T213349">2022-04-01 21:33:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220401T220656">2022-04-01 22:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
