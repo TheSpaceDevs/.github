@@ -81,7 +81,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/" >🔗</a> **[NASA Spaceflight]** Rocket Lab’s Electron to launch two BlackSky satellites on 25th mission
+- <a href="https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/" >🔗</a> **[NASA Spaceflight]** Rocket Lab’s Electron launches two BlackSky satellites on 25th mission
 - <a href="https://spacenews.com/spacex-launches-fourth-dedicated-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth dedicated rideshare mission
 - <a href="https://spaceflightnow.com/2022/04/01/nasa-begins-critical-artemis-countdown-rehearsal-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA begins critical Artemis countdown rehearsal at Kennedy Space Center
 - <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-broadcast-select-panels" >🔗</a> **[NASA]** NASA to Participate in Space Symposium, Broadcast Select Panels
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T131320">2022-04-02 13:13:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T133607">2022-04-02 13:36:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
