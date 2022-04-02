@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/37th-space-symposium-attendance-to-top-10000/" >🔗</a> **[SpaceNews]** 37th Space Symposium attendance to top 10,000
 - <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellites-as-it-prepares-for-mid-air-booster-recovery/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellites as it prepares for mid-air booster recovery
 - <a href="https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/" >🔗</a> **[Arstechnica]** Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink
 - <a href="https://www.nasaspaceflight.com/2022/04/electron-blacksky-25th-mission/" >🔗</a> **[NASA Spaceflight]** Rocket Lab’s Electron launches two BlackSky satellites on 25th mission
 - <a href="https://spacenews.com/spacex-launches-fourth-dedicated-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth dedicated rideshare mission
-- <a href="https://spaceflightnow.com/2022/04/01/nasa-begins-critical-artemis-countdown-rehearsal-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA begins critical Artemis countdown rehearsal at Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T170754">2022-04-02 17:07:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220402T173455">2022-04-02 17:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
