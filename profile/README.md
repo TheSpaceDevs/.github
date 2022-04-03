@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/" >🔗</a> **[NASA Spaceflight]** SLS wet dress rehearsal brings final major pre-flight test for NASA moon rocket
 - <a href="https://www.nasaspaceflight.com/2022/04/march-iss/" >🔗</a> **[NASA Spaceflight]** Spacewalks, crewed missions, and science: March in orbit aboard the ISS
 - <a href="https://spaceflightnow.com/2022/04/02/commercial-blacksky-imaging-satellites-ride-with-rocket-lab/" >🔗</a> **[Spaceflight Now]** Commercial BlackSky imaging satellites ride with Rocket Lab
 - <a href="https://spacenews.com/37th-space-symposium-attendance-to-top-10000/" >🔗</a> **[SpaceNews]** 37th Space Symposium attendance to top 10,000
 - <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellites-as-it-prepares-for-mid-air-booster-recovery/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellites as it prepares for mid-air booster recovery
-- <a href="https://arstechnica.com/science/2022/04/no-no-no-russia-is-not-halting-cooperation-on-the-space-station/" >🔗</a> **[Arstechnica]** Russia asked NASA to end sanctions to save the ISS, but the West didn’t blink
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T121043">2022-04-03 12:10:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T125230">2022-04-03 12:52:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
