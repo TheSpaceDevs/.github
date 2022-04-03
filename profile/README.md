@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rogozin-delays-decision-on-space-station-future/" >🔗</a> **[SpaceNews]** Rogozin delays decision on space station future
 - <a href="https://spacenews.com/private-mission-ready-for-launch-to-the-iss/" >🔗</a> **[SpaceNews]** Private mission ready for launch to the ISS
-- <a href="https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/" >🔗</a> **[NASA Spaceflight]** SLS wet dress rehearsal brings final major pre-flight test for NASA moon rocket
+- <a href="https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/" >🔗</a> **[NASA Spaceflight]** SLS wet dress rehearsal scrubbed ahead of final major pre-flight test for NASA moon rocket
 - <a href="https://www.nasaspaceflight.com/2022/04/march-iss/" >🔗</a> **[NASA Spaceflight]** Spacewalks, crewed missions, and science: March in orbit aboard the ISS
 - <a href="https://spaceflightnow.com/2022/04/02/commercial-blacksky-imaging-satellites-ride-with-rocket-lab/" >🔗</a> **[Spaceflight Now]** Commercial BlackSky imaging satellites ride with Rocket Lab
-- <a href="https://spacenews.com/37th-space-symposium-attendance-to-top-10000/" >🔗</a> **[SpaceNews]** 37th Space Symposium attendance to top 10,000
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T160811">2022-04-03 16:08:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T164953">2022-04-03 16:49:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
