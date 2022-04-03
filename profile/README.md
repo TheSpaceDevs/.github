@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-aces-12th-falcon-9-launch-2022/" >🔗</a> **[Teslarati]** SpaceX aces 12th launch of 2022, delivering dozens of satellites to orbit
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-today-on-last-major-artemis-test-before-launch" >🔗</a> **[NASA]** NASA to Provide Update Today on Last Major Artemis Test Before Launch
 - <a href="https://spacenews.com/nasa-scrubs-first-attempt-at-sls-countdown-rehearsal/" >🔗</a> **[SpaceNews]** NASA scrubs first attempt at SLS countdown rehearsal
 - <a href="https://spacenews.com/rogozin-delays-decision-on-space-station-future/" >🔗</a> **[SpaceNews]** Rogozin delays decision on space station future
 - <a href="https://spacenews.com/private-mission-ready-for-launch-to-the-iss/" >🔗</a> **[SpaceNews]** Private mission ready for launch to the ISS
-- <a href="https://www.nasaspaceflight.com/2022/04/sls-wet-dress-rehearsal/" >🔗</a> **[NASA Spaceflight]** SLS wet dress rehearsal scrubbed ahead of final major pre-flight test for NASA moon rocket
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T213314">2022-04-03 21:33:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220403T220653">2022-04-03 22:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
