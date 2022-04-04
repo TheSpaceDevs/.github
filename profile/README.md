@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-releases-open-source-satellite-interface-for-on-orbit-docking/" >🔗</a> **[SpaceNews]** Lockheed Martin releases open-source satellite interface for on-orbit docking
 - <a href="https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s second private Crew Dragon astronaut launch slips to April 8th
 - <a href="https://spacenews.com/telesat-gets-security-clearance-to-serve-us-government-directly/" >🔗</a> **[SpaceNews]** Telesat gets security clearance to serve US government directly
-- <a href="https://spacenews.com/space-experiment-to-push-standardization-in-small-satellites/" >🔗</a> **[SpaceNews]** Space experiment to push standardization in small satellites
 - <a href="https://spacenews.com/the-space-arms-race-keeps-accelerating-new-reports-warn/" >🔗</a> **[SpaceNews]** The space arms race keeps accelerating, new reports warn
-- <a href="https://www.teslarati.com/spacex-aces-12th-falcon-9-launch-2022/" >🔗</a> **[Teslarati]** SpaceX aces 12th launch of 2022, delivering dozens of satellites to orbit
+- <a href="https://spacenews.com/space-experiment-to-push-standardization-in-small-satellites/" >🔗</a> **[SpaceNews]** Space experiment to push standardization in small satellites
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T121623">2022-04-04 12:16:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T125755">2022-04-04 12:57:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
