@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-l3harris-space-boss-says-its-time-to-rethink-risk-tolerance/" >🔗</a> **[SpaceNews]** New L3Harris space boss says it’s time to rethink risk tolerance
+- <a href="https://spacenews.com/head-of-u-s-space-force-launch-operations-watching-starship-closely/" >🔗</a> **[SpaceNews]** Head of U.S. Space Force launch operations ‘watching Starship closely’
+- <a href="https://spacenews.com/space-industry-struggling-to-attract-more-skilled-workers/" >🔗</a> **[SpaceNews]** Space industry struggling to attract more skilled workers
 - <a href="https://spacenews.com/xplore-acquires-kubos/" >🔗</a> **[SpaceNews]** Xplore acquires Kubos and Major Tom software
-- <a href="https://spacenews.com/millennium-mass-manufacturing/" >🔗</a> **[SpaceNews]** Millennium prepares for mass manufacturing
-- <a href="https://spacenews.com/nasa-plans-talks-with-partners-on-iss-and-artemis/" >🔗</a> **[SpaceNews]** NASA plans talks with partners on ISS and Artemis
 - <a href="https://spacenews.com/space-investors-predict-more-acquisitions-to-combat-hiring-challenges/" >🔗</a> **[SpaceNews]** Space investors predict more acquisitions to combat hiring challenges
-- <a href="https://spacenews.com/millennium-smallsat-factory/" >🔗</a> **[SpaceNews]** Millennium works with Boeing to address smallsat demand
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T220619">2022-04-04 22:06:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T223626">2022-04-04 22:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
