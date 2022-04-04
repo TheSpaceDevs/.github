@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-adjusts-polar-satellite-design-to-tackle-supply-issues/" >🔗</a> **[SpaceNews]** Telesat adjusts polar satellite design to tackle supply issues
 - <a href="https://spacenews.com/lockheed-martin-releases-open-source-satellite-interface-for-on-orbit-docking/" >🔗</a> **[SpaceNews]** Lockheed Martin releases open-source satellite interface for on-orbit docking
 - <a href="https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s second private Crew Dragon astronaut launch slips to April 8th
 - <a href="https://spacenews.com/telesat-gets-security-clearance-to-serve-us-government-directly/" >🔗</a> **[SpaceNews]** Telesat gets security clearance to serve US government directly
 - <a href="https://spacenews.com/the-space-arms-race-keeps-accelerating-new-reports-warn/" >🔗</a> **[SpaceNews]** The space arms race keeps accelerating, new reports warn
-- <a href="https://spacenews.com/space-experiment-to-push-standardization-in-small-satellites/" >🔗</a> **[SpaceNews]** Space experiment to push standardization in small satellites
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T151228">2022-04-04 15:12:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T154257">2022-04-04 15:42:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
