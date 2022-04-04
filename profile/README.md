@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/spaceborne-computer-2-symposium-2022/" >🔗</a> **[SpaceNews]** Spaceborne Computer-2 completes 24 experiments on ISS
-- <a href="https://spacenews.com/telesat-adjusts-polar-satellite-design-to-tackle-supply-issues/" >🔗</a> **[SpaceNews]** Telesat adjusts polar satellite design to tackle supply issues
-- <a href="https://spacenews.com/lockheed-martin-releases-open-source-satellite-interface-for-on-orbit-docking/" >🔗</a> **[SpaceNews]** Lockheed Martin releases open-source satellite interface for on-orbit docking
-- <a href="https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s second private Crew Dragon astronaut launch slips to April 8th
-- <a href="https://spacenews.com/telesat-gets-security-clearance-to-serve-us-government-directly/" >🔗</a> **[SpaceNews]** Telesat gets security clearance to serve US government directly
+- <a href="https://spacenews.com/xplore-acquires-kubos/" >🔗</a> **[SpaceNews]** Xplore acquires Kubos and Major Tom software
+- <a href="https://spacenews.com/millennium-mass-manufacturing/" >🔗</a> **[SpaceNews]** Millennium prepares for mass manufacturing
+- <a href="https://spacenews.com/nasa-plans-talks-with-partners-on-iss-and-artemis/" >🔗</a> **[SpaceNews]** NASA plans talks with partners on ISS and Artemis
+- <a href="https://spacenews.com/space-investors-predict-more-acquisitions-to-combat-hiring-challenges/" >🔗</a> **[SpaceNews]** Space investors predict more acquisitions to combat hiring challenges
+- <a href="https://spacenews.com/millennium-smallsat-factory/" >🔗</a> **[SpaceNews]** Millennium works with Boeing to address smallsat demand
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T213354">2022-04-04 21:33:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220404T220619">2022-04-04 22:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
