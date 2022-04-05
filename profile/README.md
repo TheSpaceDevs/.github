@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-signs-multibillion-dollar-project-kuiper-launch-contracts/" >🔗</a> **[SpaceNews]** Amazon signs multibillion-dollar Project Kuiper launch contracts
+- <a href="https://arstechnica.com/science/2022/04/amazon-signs-blockbuster-launch-deal-for-its-satellite-megaconstellation/" >🔗</a> **[Arstechnica]** Amazon signs blockbuster launch deal for its satellite megaconstellation
 - <a href="https://www.teslarati.com/elon-musk-starlink-us-air-force-tests/" >🔗</a> **[Teslarati]** US Air Force tests Elon Musk’s Starlink for F-35A Lightning II communications
 - <a href="https://spacenews.com/space-force-looking-to-ease-barriers-to-entry-for-commercial-companies/" >🔗</a> **[SpaceNews]** Space Force looking to ease barriers to entry for commercial companies
-- <a href="https://spacenews.com/head-of-u-s-space-force-launch-operations-watching-starship-closely/" >🔗</a> **[SpaceNews]** Head of U.S. Space Force launch operations ‘watching Starship closely’
 - <a href="https://spacenews.com/new-l3harris-space-boss-says-its-time-to-rethink-risk-tolerance/" >🔗</a> **[SpaceNews]** New L3Harris space boss says it’s time to rethink risk tolerance
-- <a href="https://spacenews.com/space-industry-struggling-to-attract-more-skilled-workers/" >🔗</a> **[SpaceNews]** Space industry struggling to attract more skilled workers
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T103545">2022-04-05 10:35:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T111121">2022-04-05 11:11:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
