@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/partnerships-to-counter-threats/" >🔗</a> **[SpaceNews]** To counter threats, U.S. intelligence community leans on partners
+- <a href="https://spacenews.com/amazon-launch-contracts-drive-changes-to-launch-vehicle-production/" >🔗</a> **[SpaceNews]** Amazon launch contracts drive changes to launch vehicle production
 - <a href="https://spacenews.com/space-industry-ceos-pledge-to-create-more-inclusive-workforce/" >🔗</a> **[SpaceNews]** Space industry CEOs pledge to create more inclusive workforce
 - <a href="https://spacenews.com/raymond-2023-budget-proposal-allows-space-force-to-pivot-to-next-generation-systems/" >🔗</a> **[SpaceNews]** Raymond: 2023 budget proposal allows Space Force to ‘pivot’ to next-generation systems
 - <a href="https://spacenews.com/kendall-space-force-budget-boost-speaks-to-the-value-of-space-in-defense-strategy/" >🔗</a> **[SpaceNews]** Kendall: Space Force budget boost speaks to the value of space in defense strategy
-- <a href="https://spacenews.com/benchmark-triples-production/" >🔗</a> **[SpaceNews]** Benchmark to triple production capacity to meet demand
-- <a href="https://spacenews.com/orbital-reef-passes-design-review/" >🔗</a> **[SpaceNews]** Orbital Reef passes design review
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T190932">2022-04-05 19:09:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T193154">2022-04-05 19:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
