@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/japans-arkedge-space-closes-18-7-million-series-a-for-nanosatellite-projects/" >🔗</a> **[SpaceNews]** Japan’s ArkEdge Space closes $18.7 million Series A for nanosatellite projects
+- <a href="https://spacenews.com/orbital-reef-passes-design-review/" >🔗</a> **[SpaceNews]** Orbital Reef passes design review
 - <a href="https://spacenews.com/york-space-to-triple-satellite-production-to-meet-military-and-commercial-demand/" >🔗</a> **[SpaceNews]** York Space to triple satellite production to meet military and commercial demand
+- <a href="https://spacenews.com/japans-arkedge-space-closes-18-7-million-series-a-for-nanosatellite-projects/" >🔗</a> **[SpaceNews]** Japan’s ArkEdge Space closes $18.7 million Series A for nanosatellite projects
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-final-test-status-today-before-artemis-moon-mission" >🔗</a> **[NASA]** NASA to Discuss Final Test Status Today Before Artemis Moon Mission
 - <a href="https://www.teslarati.com/spacex-super-heavy-b7-first-cryoproof-test/" >🔗</a> **[Teslarati]** SpaceX’s upgraded Super Heavy booster sails through first major test
-- <a href="https://spacenews.com/amazon-signs-multibillion-dollar-project-kuiper-launch-contracts/" >🔗</a> **[SpaceNews]** Amazon signs multibillion-dollar Project Kuiper launch contracts
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T134055">2022-04-05 13:40:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T141145">2022-04-05 14:11:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
