@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9161/" >🔗</a> **[NASA]** NASA's Pioneering Ingenuity Mars Helicopter Awarded Collier Trophy
 - <a href="https://spacenews.com/speedcast-sees-a-dearth-of-satellite-capacity-ahead/" >🔗</a> **[SpaceNews]** Speedcast sees a dearth of satellite capacity ahead
 - <a href="https://spacenews.com/amazon-hails-progress-in-driving-down-project-kuiper-antenna-costs/" >🔗</a> **[SpaceNews]** Amazon hails progress in driving down Project Kuiper antenna costs
 - <a href="https://www.teslarati.com/amazon-project-kuiper-launch-contracts-everyone-but-spacex/" >🔗</a> **[Teslarati]** Amazon chooses everyone but SpaceX to launch its Starlink competitor
 - <a href="https://spacenews.com/partnerships-to-counter-threats/" >🔗</a> **[SpaceNews]** To counter threats, U.S. intelligence community leans on partners
-- <a href="https://spacenews.com/amazon-launch-contracts-drive-changes-to-launch-vehicle-production/" >🔗</a> **[SpaceNews]** Amazon launch contracts drive changes to launch vehicle production
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220405T233538">2022-04-05 23:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T003311">2022-04-06 00:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
