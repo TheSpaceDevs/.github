@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/addressing-nefarious-space-activity/" >🔗</a> **[SpaceNews]** Consequences for nefarious activity in space
 - <a href="https://www.nasaspaceflight.com/2022/04/spacex-retires-vehicles-new-test/" >🔗</a> **[NASA Spaceflight]** SpaceX retires old Starship vehicles, puts new ones to the test
 - <a href="https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/" >🔗</a> **[SpaceNews]** New Chinese small sat manufacturing capacity could have international ramifications
 - <a href="https://arstechnica.com/science/2022/04/that-time-when-soviet-rocket-scientists-nearly-nuked-new-york-city/" >🔗</a> **[Arstechnica]** That time when Soviet rocket scientists nearly nuked New York City
 - <a href="https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/" >🔗</a> **[Teslarati]** SpaceX rolls out Dragon and Falcon 9 for second private astronaut launch
-- <a href="https://spacenews.com/sls-countdown-test-on-hold-after-second-scrub/" >🔗</a> **[SpaceNews]** SLS countdown test on hold after second scrub
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T140807">2022-04-06 14:08:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T143707">2022-04-06 14:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
