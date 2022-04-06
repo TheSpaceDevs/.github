@@ -81,7 +81,7 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 rocket, Crew Dragon capsule on launch pad for test-firing today
+- <a href="https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/" >🔗</a> **[Spaceflight Now]** Falcon 9 rocket test-fired for Axiom commercial crew mission
 - <a href="https://spacenews.com/addressing-nefarious-space-activity/" >🔗</a> **[SpaceNews]** Consequences for nefarious activity in space
 - <a href="https://www.nasaspaceflight.com/2022/04/spacex-retires-vehicles-new-test/" >🔗</a> **[NASA Spaceflight]** SpaceX retires old Starship vehicles, puts new ones to the test
 - <a href="https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/" >🔗</a> **[SpaceNews]** New Chinese small sat manufacturing capacity could have international ramifications
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T184002">2022-04-06 18:40:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T190436">2022-04-06 19:04:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
