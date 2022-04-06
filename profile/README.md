@@ -38,7 +38,7 @@ into *an Unknown Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T233600">2022-04-06 23:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B (?) | SJ-6 Group 06 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220406T233600Z%2F20220407T000400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T103000">2022-04-07 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Lotos-S1 #6&location=Plesetsk Cosmodrome, Russian Federation&dates=20220407T103000Z%2F20220407T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Lotos-S1** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T151700">2022-04-08 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 1&location=Kennedy Space Center, FL, USA&dates=20220408T151700Z%2F20220408T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Axiom Space Mission 1** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T151700">2022-04-08 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 1&location=Kennedy Space Center, FL, USA&dates=20220408T151700Z%2F20220408T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Axiom Space Mission 1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T125900">2022-04-15 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Vandenberg SFB, CA, USA&dates=20220415T125900Z%2F20220415T142500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NROL-85** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T000000">2022-04-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220419T000000Z%2F20220419T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **There and Back Again** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T103700">2022-04-20 10:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220420T103700Z%2F20220420T103700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Crew-4** from Kennedy Space Center, FL, USA.
@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-chinese-small-sat-manufacturing-capacity-could-have-international-ramifications/" >🔗</a> **[SpaceNews]** New Chinese small sat manufacturing capacity could have international ramifications
+- <a href="https://arstechnica.com/science/2022/04/that-time-when-soviet-rocket-scientists-nearly-nuked-new-york-city/" >🔗</a> **[Arstechnica]** That time when Soviet rocket scientists nearly nuked New York City
+- <a href="https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/" >🔗</a> **[Teslarati]** SpaceX rolls out Dragon and Falcon 9 for second private astronaut launch
+- <a href="https://spacenews.com/sls-countdown-test-on-hold-after-second-scrub/" >🔗</a> **[SpaceNews]** SLS countdown test on hold after second scrub
 - <a href="https://spacenews.com/tory-bruno-amazons-launch-contracts-a-big-deal-for-u-s-and-allies-industrial-competitiveness/" >🔗</a> **[SpaceNews]** Tory Bruno: Amazon’s launch contracts a ‘big deal’ for U.S. and allies’ industrial competitiveness
-- <a href="https://mars.nasa.gov/news/9161/" >🔗</a> **[NASA]** NASA's Pioneering Ingenuity Mars Helicopter Awarded Collier Trophy
-- <a href="https://spacenews.com/speedcast-sees-a-dearth-of-satellite-capacity-ahead/" >🔗</a> **[SpaceNews]** Speedcast sees a dearth of satellite capacity ahead
-- <a href="https://spacenews.com/amazon-hails-progress-in-driving-down-project-kuiper-antenna-costs/" >🔗</a> **[SpaceNews]** Amazon hails progress in driving down Project Kuiper antenna costs
-- <a href="https://www.teslarati.com/amazon-project-kuiper-launch-contracts-everyone-but-spacex/" >🔗</a> **[Teslarati]** Amazon chooses everyone but SpaceX to launch its Starlink competitor
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T113224">2022-04-06 11:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220406T121727">2022-04-06 12:17:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
