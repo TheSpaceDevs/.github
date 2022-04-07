@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/" >🔗</a> **[SpaceNews]** Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management
 - <a href="https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/" >🔗</a> **[NASA Spaceflight]** Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon
 - <a href="https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/" >🔗</a> **[SpaceNews]** Path to sustainable space unclear after Russia’s Ukraine invasion
 - <a href="https://spacenews.com/starlink-loses-french-spectrum-license/" >🔗</a> **[SpaceNews]** Starlink loses French spectrum license
 - <a href="https://mars.nasa.gov/news/9163/" >🔗</a> **[NASA]** NASA's Curiosity Mars Rover Reroutes Away From 'Gator-Back' Rocks
-- <a href="https://spacenews.com/e-space-sheds-more-light-on-sustainable-megaconstellation-plan/" >🔗</a> **[SpaceNews]** E-Space sheds more light on sustainable megaconstellation plan
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T190551">2022-04-07 19:05:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T193142">2022-04-07 19:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
