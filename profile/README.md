@@ -10,28 +10,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b | Lotos-S1 #6**. It is scheduled to be launched by *Russian Space Forces*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T103000">2022-04-07 10:30:00 UTC</a>.  Until
-then, this pad will have been used for 4
-out of 1648 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Axiom Space Mission 1**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T151700">2022-04-08 15:17:00 UTC</a>.  Until
+then, this pad will have been used for 141
+out of 198 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
+*Tourism* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital electronic intelligence.
+  This is a Crew Dragon flight for a private company Axiom Space. The mission will carry a commander professionally trained by Axiom alongside three private astronauts to and from the International Space Station. This crew will stay aboard space station for  at least eight days.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220406211302.jpeg" />
   </a>
-  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_6_20200803142434.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
   </a>
 </p>
 
@@ -45,6 +45,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meteor-M No.2-3&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | NROL-162 (RASR-3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | NROL-199 (RASR-4)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-16&location=Cape Canaveral, FL, USA&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-16** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -80,20 +81,40 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-astranis-dedicated-falcon-9-launch-2023/" >🔗</a> **[Teslarati]** SpaceX to launch quartet of mini geostationary satellites in 2023
 - <a href="https://spacenews.com/artemis-lunar-lander-contenders-revisit-team-rosters-for-round-two/" >🔗</a> **[SpaceNews]** Artemis lunar lander contenders revisit team rosters for round two
 - <a href="https://spacenews.com/esa-continues-talks-with-nasa-on-exomars-cooperation/" >🔗</a> **[SpaceNews]** ESA continues talks with NASA on ExoMars cooperation
 - <a href="https://spacenews.com/space-force-to-shore-up-cybersecurity-as-threats-proliferate/" >🔗</a> **[SpaceNews]** Space Force to shore up cybersecurity as threats proliferate
 - <a href="https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center
-- <a href="https://spacenews.com/as-russia-prepared-to-invade-u-s-government-and-satellite-imagery-suppliers-teamed-up-to-help-ukraine/" >🔗</a> **[SpaceNews]** As Russia prepared to invade, U.S. opened commercial imagery pipeline to Ukraine
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/axiom-to-fly-crew-dragon-mission-to-the-space-station/" >🔗</a> **[SpaceNews]** Axiom to fly Crew Dragon mission to the space station
+- <a href="https://spaceflightnow.com/2020/03/05/axiom-strikes-deal-with-spacex-to-ferry-private-astronauts-to-space-station/" >🔗</a> **[Spaceflight Now]** Axiom strikes deal with SpaceX to ferry private astronauts to space station
+- <a href="https://spaceflightnow.com/2020/09/23/axiom-finalizing-agreements-for-private-astronaut-mission-to-space-station/" >🔗</a> **[Spaceflight Now]** Axiom finalizing agreements for private astronaut mission to space station
+- <a href="https://spacenews.com/axiom-space-finalizing-first-commercial-iss-mission/" >🔗</a> **[SpaceNews]** Axiom Space finalizing first commercial ISS mission
+- <a href="https://www.teslarati.com/spacex-private-astronaut-launch-debut-crew-dragon-reuse/" >🔗</a> **[Teslarati]** SpaceX private astronaut launch debut to reuse Crew-1 Dragon spacecraft
+- <a href="https://spacenews.com/axiom-announces-crew-for-first-private-iss-mission/" >🔗</a> **[SpaceNews]** Axiom announces crew for first private ISS mission
+- <a href="http://www.nasa.gov/press-release/nasa-axiom-space-to-host-media-briefing-on-private-astronaut-mission" >🔗</a> **[NASA]** NASA, Axiom Space to Host Media Briefing on Private Astronaut Mission
+- <a href="http://www.nasa.gov/press-release/nasa-axiom-agree-to-first-private-astronaut-mission-on-space-station" >🔗</a> **[NASA]** NASA, Axiom Agree to First Private Astronaut Mission on Space Station
+- <a href="https://spaceflightnow.com/2021/05/10/nasa-axiom-sign-agreements-moving-ahead-with-first-commercial-station-visit/" >🔗</a> **[Spaceflight Now]** NASA, Axiom sign agreements moving ahead with first commercial station visit
+- <a href="https://www.nasaspaceflight.com/2021/11/axiom-1-science/" >🔗</a> **[NASA Spaceflight]** Axiom-1 science & the push toward greater commercialization of space research
+- <a href="https://spacenews.com/axiom-space-outlines-research-plans-for-first-iss-mission/" >🔗</a> **[SpaceNews]** Axiom Space outlines research plans for first ISS mission
+- <a href="https://www.teslarati.com/spacex-next-two-astronaut-launches-update/" >🔗</a> **[Teslarati]** NASA updates status of SpaceX’s next two astronaut launches
+- <a href="http://www.nasa.gov/press-release/nasa-space-station-partners-approve-first-axiom-mission-astronauts" >🔗</a> **[NASA]** NASA, Space Station Partners Approve First Axiom Mission Astronauts
+- <a href="http://www.nasa.gov/press-release/nasa-axiom-to-discuss-first-private-astronaut-space-station-mission" >🔗</a> **[NASA]** NASA, Axiom to Discuss First Private Astronaut Space Station Mission
+- <a href="https://spacenews.com/iss-operations-remain-normal-ahead-of-private-astronaut-mission/" >🔗</a> **[SpaceNews]** ISS operations remain normal ahead of private astronaut mission
+- <a href="http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast
+- <a href="https://spacenews.com/private-mission-ready-for-launch-to-the-iss/" >🔗</a> **[SpaceNews]** Private mission ready for launch to the ISS
+- <a href="https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s second private Crew Dragon astronaut launch slips to April 8th
+- <a href="https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/" >🔗</a> **[Teslarati]** SpaceX’s second private astronaut launch on track after Falcon 9 static fire
+- <a href="https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T110855">2022-04-07 11:08:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T113247">2022-04-07 11:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
