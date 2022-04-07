@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys" >🔗</a> **[NASA]** NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS
 - <a href="https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/" >🔗</a> **[SpaceNews]** Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management
 - <a href="https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/" >🔗</a> **[NASA Spaceflight]** Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon
 - <a href="https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/" >🔗</a> **[SpaceNews]** Path to sustainable space unclear after Russia’s Ukraine invasion
 - <a href="https://spacenews.com/starlink-loses-french-spectrum-license/" >🔗</a> **[SpaceNews]** Starlink loses French spectrum license
-- <a href="https://mars.nasa.gov/news/9163/" >🔗</a> **[NASA]** NASA's Curiosity Mars Rover Reroutes Away From 'Gator-Back' Rocks
 
 
 ### Launch-related News 🚀
@@ -108,13 +108,13 @@ into *a Low Earth Orbit
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-axiom-mission-1-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for Axiom Mission 1 Briefings, Events, Broadcast
 - <a href="https://spacenews.com/private-mission-ready-for-launch-to-the-iss/" >🔗</a> **[SpaceNews]** Private mission ready for launch to the ISS
 - <a href="https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s second private Crew Dragon astronaut launch slips to April 8th
-- <a href="https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/" >🔗</a> **[Teslarati]** SpaceX’s second private astronaut launch on track after Falcon 9 static fire
+- <a href="https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/" >🔗</a> **[Teslarati]** SpaceX set for first private astronaut launch to the International Space Station
 - <a href="https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T203608">2022-04-07 20:36:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T210717">2022-04-07 21:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
