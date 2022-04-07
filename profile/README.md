@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/private-astronaut-mission-cleared-for-launch/" >🔗</a> **[SpaceNews]** Private astronaut mission cleared for launch
 - <a href="https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/" >🔗</a> **[SpaceNews]** Astroscale to restart debris-removal demo with half the thrusters
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys" >🔗</a> **[NASA]** NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS
 - <a href="https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/" >🔗</a> **[SpaceNews]** Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management
 - <a href="https://www.nasaspaceflight.com/2022/04/kuiper-awards-2022/" >🔗</a> **[NASA Spaceflight]** Arianespace, ULA, Blue Origin discuss executing ambitious Kuiper constellation missions for Amazon
-- <a href="https://spacenews.com/path-to-sustainable-space-unclear-after-russias-ukraine-invasion/" >🔗</a> **[SpaceNews]** Path to sustainable space unclear after Russia’s Ukraine invasion
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T223607">2022-04-07 22:36:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T230658">2022-04-07 23:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
