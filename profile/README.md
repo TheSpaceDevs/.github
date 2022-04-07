@@ -28,7 +28,7 @@ into *a Low Earth Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220406211302.jpeg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220407135314.jpg" />
   </a>
   <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
@@ -81,7 +81,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/antonov-aircraft-shortage-threatens-more-delays-for-geo-satellites/" >🔗</a> **[SpaceNews]** Antonov aircraft shortage threatens more delays for GEO satellites
+- <a href="https://spacenews.com/antonov-aircraft-shortage-threatens-more-delays-for-geo-satellites/" >🔗</a> **[SpaceNews]** Antonov shortage threatens delivery delays for the biggest satellites
 - <a href="https://www.teslarati.com/spacex-astranis-dedicated-falcon-9-launch-2023/" >🔗</a> **[Teslarati]** SpaceX to launch quartet of mini geostationary satellites in 2023
 - <a href="https://spacenews.com/artemis-lunar-lander-contenders-revisit-team-rosters-for-round-two/" >🔗</a> **[SpaceNews]** Artemis lunar lander contenders revisit team rosters for round two
 - <a href="https://spacenews.com/esa-continues-talks-with-nasa-on-exomars-cooperation/" >🔗</a> **[SpaceNews]** ESA continues talks with NASA on ExoMars cooperation
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T141120">2022-04-07 14:11:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220407T144026">2022-04-07 14:40:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
