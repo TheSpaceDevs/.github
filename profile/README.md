@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/" >🔗</a> **[Arstechnica]** The Axiom-1 crew launches today—are these guys tourists, astronauts, or what?
 - <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-launch/" >🔗</a> **[NASA Spaceflight]** Axiom-1, the first ever private crewed mission to ISS, set for liftoff
 - <a href="https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/" >🔗</a> **[Arstechnica]** Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase
 - <a href="https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** BlackSky looks to expand its military business amid growing interest in commercial satellite imagery
 - <a href="https://spacenews.com/private-astronaut-mission-cleared-for-launch/" >🔗</a> **[SpaceNews]** Private astronaut mission cleared for launch
-- <a href="https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/" >🔗</a> **[SpaceNews]** Astroscale to restart debris-removal demo with half the thrusters
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T121137">2022-04-08 12:11:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T130426">2022-04-08 13:04:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
