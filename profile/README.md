@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-launch/" >🔗</a> **[NASA Spaceflight]** Axiom-1, the first ever private crewed mission to ISS, set for liftoff
+- <a href="https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/" >🔗</a> **[Arstechnica]** Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase
 - <a href="https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** BlackSky looks to expand its military business amid growing interest in commercial satellite imagery
 - <a href="https://spacenews.com/private-astronaut-mission-cleared-for-launch/" >🔗</a> **[SpaceNews]** Private astronaut mission cleared for launch
 - <a href="https://spacenews.com/astroscale-to-restart-debris-removal-demo-with-half-the-thrusters/" >🔗</a> **[SpaceNews]** Astroscale to restart debris-removal demo with half the thrusters
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-modeling-simulation-capabilities-to-ansys" >🔗</a> **[NASA]** NASA Awards Contract for Modeling, Simulation Capabilities to ANSYS
-- <a href="https://spacenews.com/getting-a-jump-on-traffic-the-sudden-urgency-of-government-industry-partnerships-in-space-traffic-management/" >🔗</a> **[SpaceNews]** Getting a jump on traffic: The sudden urgency of government-industry partnerships in space traffic management
 
 
 ### Launch-related News 🚀
@@ -109,12 +109,15 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/private-mission-ready-for-launch-to-the-iss/" >🔗</a> **[SpaceNews]** Private mission ready for launch to the ISS
 - <a href="https://www.teslarati.com/spacex-axiom-1-private-astronaut-iss-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s second private Crew Dragon astronaut launch slips to April 8th
 - <a href="https://www.teslarati.com/spacex-axiom-1-dragon-falcon-9-rollout/" >🔗</a> **[Teslarati]** SpaceX set for first private astronaut launch to the International Space Station
+- <a href="https://spaceflightnow.com/2022/04/06/falcon-9-axiom-1-static-fire/" >🔗</a> **[Spaceflight Now]** Falcon 9 rocket test-fired for Axiom commercial crew mission
 - <a href="https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center
+- <a href="https://spacenews.com/private-astronaut-mission-cleared-for-launch/" >🔗</a> **[SpaceNews]** Private astronaut mission cleared for launch
+- <a href="https://spaceflightnow.com/2022/04/07/spacex-ready-for-launch-of-first-all-commercial-crew-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX ready for launch of first all-commercial crew to space station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T113225">2022-04-08 11:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T121137">2022-04-08 12:11:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
