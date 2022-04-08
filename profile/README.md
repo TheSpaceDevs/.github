@@ -113,11 +113,13 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2022/04/06/nasas-sls-moon-rocket-spacexs-falcon-9-share-the-scene-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket, SpaceX’s Falcon 9 share the scene at Kennedy Space Center
 - <a href="https://spacenews.com/private-astronaut-mission-cleared-for-launch/" >🔗</a> **[SpaceNews]** Private astronaut mission cleared for launch
 - <a href="https://spaceflightnow.com/2022/04/07/spacex-ready-for-launch-of-first-all-commercial-crew-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX ready for launch of first all-commercial crew to space station
+- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-launch/" >🔗</a> **[NASA Spaceflight]** Axiom-1, the first ever private crewed mission to ISS, set for liftoff
+- <a href="https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/" >🔗</a> **[Arstechnica]** The Axiom-1 crew launches today—are these guys tourists, astronauts, or what?
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T143828">2022-04-08 14:38:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T151134">2022-04-08 15:11:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
