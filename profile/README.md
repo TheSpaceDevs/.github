@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/08/first-of-its-kind-commercial-astronaut-mission-heads-for-space-station/" >🔗</a> **[Spaceflight Now]** First-of-its-kind commercial astronaut mission heads for space station
 - <a href="https://www.teslarati.com/spacex-aces-first-all-private-space-station-launch/" >🔗</a> **[Teslarati]** SpaceX launches first all-private astronaut crew to the International Space Station
 - <a href="http://www.nasa.gov/press-release/axiom-private-astronauts-headed-to-international-space-station" >🔗</a> **[NASA]** Axiom Private Astronauts Headed to International Space Station
 - <a href="https://spacenews.com/spacex-launches-commercial-mission-to-iss/" >🔗</a> **[SpaceNews]** SpaceX launches commercial mission to ISS
 - <a href="https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/" >🔗</a> **[Arstechnica]** Dragon launches, carrying four private citizens to the space station [Updated]
-- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-launch/" >🔗</a> **[NASA Spaceflight]** Axiom-1 launches first ever private crewed mission to ISS
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T213826">2022-04-08 21:38:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T220713">2022-04-08 22:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
