@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/axiom-private-astronauts-headed-to-international-space-station" >🔗</a> **[NASA]** Axiom Private Astronauts Headed to International Space Station
 - <a href="https://spacenews.com/spacex-launches-commercial-mission-to-iss/" >🔗</a> **[SpaceNews]** SpaceX launches commercial mission to ISS
-- <a href="https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/" >🔗</a> **[Arstechnica]** The Axiom-1 crew launches today—are these guys tourists, astronauts, or what?
-- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-launch/" >🔗</a> **[NASA Spaceflight]** Axiom-1, the first ever private crewed mission to ISS, set for liftoff
+- <a href="https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/" >🔗</a> **[Arstechnica]** Dragon launches, carrying four private citizens to the space station [Updated]
+- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-launch/" >🔗</a> **[NASA Spaceflight]** Axiom-1 launches first ever private crewed mission to ISS
 - <a href="https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/" >🔗</a> **[Arstechnica]** Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase
-- <a href="https://spacenews.com/blacksky-looks-to-expand-its-military-business-amid-growing-interest-in-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** BlackSky looks to expand its military business amid growing interest in commercial satellite imagery
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T161321">2022-04-08 16:13:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220408T165828">2022-04-08 16:58:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
