@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-mission-arrives-at-iss/" >🔗</a> **[SpaceNews]** Axiom mission arrives at ISS
 - <a href="https://spaceflightnow.com/2022/04/09/citing-valve-problem-nasa-will-load-only-the-sls-core-stage-in-next-countdown-test/" >🔗</a> **[Spaceflight Now]** Citing valve problem, NASA will load only the SLS core stage in next countdown test
 - <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-docking/" >🔗</a> **[NASA Spaceflight]** Axiom-1 arrives at ISS for science-packed week on orbit
 - <a href="https://spacenews.com/vega-c-to-launch-sentinel-1c-in-2023/" >🔗</a> **[SpaceNews]** Vega C to launch Sentinel-1C in 2023
 - <a href="https://spaceflightnow.com/2022/04/08/first-of-its-kind-commercial-astronaut-mission-heads-for-space-station/" >🔗</a> **[Spaceflight Now]** First-of-its-kind commercial astronaut mission heads for space station
-- <a href="https://www.teslarati.com/spacex-aces-first-all-private-space-station-launch/" >🔗</a> **[Teslarati]** SpaceX launches first all-private astronaut crew to the International Space Station
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T153748">2022-04-09 15:37:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T160804">2022-04-09 16:08:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
