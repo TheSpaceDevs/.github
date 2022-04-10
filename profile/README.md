@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-to-delay-modify-sls-countdown-rehearsal/" >🔗</a> **[SpaceNews]** NASA to delay, modify SLS countdown rehearsal
 - <a href="https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/" >🔗</a> **[SpaceNews]** Air Force space experiment will seek to demonstrate multi-orbit satellite navigation
 - <a href="https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/" >🔗</a> **[Spaceflight Now]** First crew of private astronauts welcomed aboard International Space Station
 - <a href="https://spacenews.com/japanese-satellite-laser-comm-startup-warpspace-draws-bead-on-u-s-market/" >🔗</a> **[SpaceNews]** Japanese satellite laser-comm startup Warpspace draws bead on U.S. market
 - <a href="https://spacenews.com/axiom-mission-arrives-at-iss/" >🔗</a> **[SpaceNews]** Axiom mission arrives at ISS
-- <a href="https://spaceflightnow.com/2022/04/09/citing-valve-problem-nasa-will-load-only-the-sls-core-stage-in-next-countdown-test/" >🔗</a> **[Spaceflight Now]** Citing valve problem, NASA will load only the SLS core stage in next countdown test
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220409T233432">2022-04-09 23:34:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T003238">2022-04-10 00:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
