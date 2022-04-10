@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/" >🔗</a> **[NASA Spaceflight]** Euclid moving into final phase of testing following integration milestone
+- <a href="https://spacenews.com/house-committee-leaders-ask-white-house-to-withdraw-proposed-ntsb-regulations-on-commercial-launch-investigations/" >🔗</a> **[SpaceNews]** House committee leaders ask White House to withdraw proposed NTSB regulations on commercial launch investigations
 - <a href="https://spacenews.com/space-development-agency-to-accelerate-deployment-of-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency to accelerate deployment of missile-tracking satellites
 - <a href="https://spacenews.com/nasa-to-delay-modify-sls-countdown-rehearsal/" >🔗</a> **[SpaceNews]** NASA to delay, modify SLS countdown rehearsal
 - <a href="https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/" >🔗</a> **[SpaceNews]** Air Force space experiment will seek to demonstrate multi-orbit satellite navigation
-- <a href="https://spaceflightnow.com/2022/04/09/first-crew-of-private-astronauts-welcomed-aboard-international-space-station/" >🔗</a> **[Spaceflight Now]** First crew of private astronauts welcomed aboard International Space Station
-- <a href="https://spacenews.com/japanese-satellite-laser-comm-startup-warpspace-draws-bead-on-u-s-market/" >🔗</a> **[SpaceNews]** Japanese satellite laser-comm startup Warpspace draws bead on U.S. market
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T203448">2022-04-10 20:34:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220410T210728">2022-04-10 21:07:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
