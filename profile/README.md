@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-astronauts-to-discuss-mission-splashdown" >🔗</a> **[NASA]** NASA’s SpaceX Crew-3 Astronauts to Discuss Mission, Splashdown
 - <a href="https://spacenews.com/download-your-news-from-the-37th-space-symposium-special-digital-edition/" >🔗</a> **[SpaceNews]** Download your ‘News from the 37th Space Symposium’ special digital edition
 - <a href="https://spaceflightnow.com/2022/04/11/china-launches-three-more-space-missions-debuts-new-rocket-configuration/" >🔗</a> **[Spaceflight Now]** China launches three space missions, debuts new rocket configuration
 - <a href="https://spacenews.com/space-national-guard-put-on-indefinite-hold/" >🔗</a> **[SpaceNews]** Space National Guard put on indefinite hold
 - <a href="https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/" >🔗</a> **[Arstechnica]** Company that aims to race SpaceX to Mars plays with fire
-- <a href="https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/" >🔗</a> **[SpaceNews]** SatixFy architect Yoel Gat dies amid SPAC merger plans
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T190739">2022-04-11 19:07:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T193144">2022-04-11 19:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
