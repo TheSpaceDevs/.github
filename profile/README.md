@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-nrol-85-falcon-9-static-fire-complete/" >🔗</a> **[Teslarati]** SpaceX static fires Falcon 9 rocket for next NRO spy satellite launch
+- <a href="https://spacenews.com/companies-build-up-teams-to-compete-for-artemis-lunar-rover/" >🔗</a> **[SpaceNews]** Companies build up teams to compete for Artemis lunar rover
 - <a href="https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/" >🔗</a> **[NASA Spaceflight]** Euclid moving into final phase of testing following integration milestone
 - <a href="https://spacenews.com/house-committee-leaders-ask-white-house-to-withdraw-proposed-ntsb-regulations-on-commercial-launch-investigations/" >🔗</a> **[SpaceNews]** House committee leaders ask White House to withdraw proposed NTSB regulations on commercial launch investigations
 - <a href="https://spacenews.com/space-development-agency-to-accelerate-deployment-of-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency to accelerate deployment of missile-tracking satellites
-- <a href="https://spacenews.com/nasa-to-delay-modify-sls-countdown-rehearsal/" >🔗</a> **[SpaceNews]** NASA to delay, modify SLS countdown rehearsal
-- <a href="https://spacenews.com/air-force-research-lab-experiment-to-assess-benefits-of-multi-orbit-satellite-navigation/" >🔗</a> **[SpaceNews]** Air Force space experiment will seek to demonstrate multi-orbit satellite navigation
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T103959">2022-04-11 10:39:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T110601">2022-04-11 11:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
