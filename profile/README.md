@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/" >🔗</a> **[SpaceNews]** ULA orders 116 engines from Aerojet Rocketdyne for Vulcan’s upper stage
 - <a href="https://www.teslarati.com/spacex-nrol-85-falcon-9-static-fire-complete/" >🔗</a> **[Teslarati]** SpaceX static fires Falcon 9 rocket for next NRO spy satellite launch
 - <a href="https://spacenews.com/companies-build-up-teams-to-compete-for-artemis-lunar-rover/" >🔗</a> **[SpaceNews]** Companies build up teams to compete for Artemis lunar rover
 - <a href="https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/" >🔗</a> **[NASA Spaceflight]** Euclid moving into final phase of testing following integration milestone
 - <a href="https://spacenews.com/house-committee-leaders-ask-white-house-to-withdraw-proposed-ntsb-regulations-on-commercial-launch-investigations/" >🔗</a> **[SpaceNews]** House committee leaders ask White House to withdraw proposed NTSB regulations on commercial launch investigations
-- <a href="https://spacenews.com/space-development-agency-to-accelerate-deployment-of-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency to accelerate deployment of missile-tracking satellites
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T133025">2022-04-11 13:30:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T134819">2022-04-11 13:48:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
