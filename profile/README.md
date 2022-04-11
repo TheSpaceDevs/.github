@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/" >🔗</a> **[Arstechnica]** Pythom Space tests its rocket with questionable safety practices
 - <a href="https://spacenews.com/satixfy-architect-yoel-gat-dies-amid-spac-merger-plans/" >🔗</a> **[SpaceNews]** SatixFy architect Yoel Gat dies amid SPAC merger plans
-- <a href="https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/" >🔗</a> **[SpaceNews]** ULA orders 116 Aerojet Rocketdyne engines for Vulcan’s upper stage
 - <a href="https://spacenews.com/south-korea-hires-spacex-to-launch-five-spy-satellites-by-2025/" >🔗</a> **[SpaceNews]** South Korea hires SpaceX to launch five spy satellites by 2025
+- <a href="https://spacenews.com/ula-orders-116-engines-from-aerojet-rocketdyne-for-vulcans-upper-stage/" >🔗</a> **[SpaceNews]** ULA orders 116 Aerojet Rocketdyne engines for Vulcan’s upper stage
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-plans-today-for-artemis-moon-mission-modified-test" >🔗</a> **[NASA]** NASA to Discuss Plans Today for Artemis Moon Mission Modified Test
-- <a href="https://www.teslarati.com/spacex-nrol-85-falcon-9-static-fire-complete/" >🔗</a> **[Teslarati]** SpaceX static fires Falcon 9 rocket for next NRO spy satellite launch
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T143918">2022-04-11 14:39:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220411T151157">2022-04-11 15:11:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
