@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9167/" >🔗</a> **[NASA]** NASA, UAE Mars Missions Agree to Share Science Data
 - <a href="https://arstechnica.com/science/2022/04/nasa-to-restart-fueling-test-of-sls-rocket-with-key-modifications/" >🔗</a> **[Arstechnica]** NASA to restart fueling test of SLS rocket, with key modifications
 - <a href="https://spacenews.com/us-india-agree-to-cooperate-on-space-situational-awareness/" >🔗</a> **[SpaceNews]** US, India agree to cooperate on space situational awareness
 - <a href="https://spacenews.com/astra-wins-order-for-electric-thrusters-from-leostella/" >🔗</a> **[SpaceNews]** Astra wins order for electric thrusters from LeoStella
 - <a href="https://www.teslarati.com/spacex-south-korea-425-project-five-launches/" >🔗</a> **[Teslarati]** SpaceX to launch five South Korean military satellites by 2025
-- <a href="https://spacenews.com/nasa-defends-decision-to-proceed-with-modified-sls-countdown-test/" >🔗</a> **[SpaceNews]** NASA defends decision to proceed with modified SLS countdown test
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T171415">2022-04-12 17:14:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T174520">2022-04-12 17:45:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
