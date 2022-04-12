@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/04/nasa-to-restart-fueling-test-of-sls-rocket-with-key-modifications/" >🔗</a> **[Arstechnica]** NASA to restart fueling test of SLS rocket, with key modifications
+- <a href="https://spacenews.com/us-india-agree-to-cooperate-on-space-situational-awareness/" >🔗</a> **[SpaceNews]** US, India agree to cooperate on space situational awareness
 - <a href="https://spacenews.com/astra-wins-order-for-electric-thrusters-from-leostella/" >🔗</a> **[SpaceNews]** Astra wins order for electric thrusters from LeoStella
 - <a href="https://www.teslarati.com/spacex-south-korea-425-project-five-launches/" >🔗</a> **[Teslarati]** SpaceX to launch five South Korean military satellites by 2025
 - <a href="https://spacenews.com/nasa-defends-decision-to-proceed-with-modified-sls-countdown-test/" >🔗</a> **[SpaceNews]** NASA defends decision to proceed with modified SLS countdown test
-- <a href="https://spacenews.com/how-sherpas-guide-startups-through-government-contracting-terrain/" >🔗</a> **[SpaceNews]** How sherpas guide startups through government contracting terrain
-- <a href="https://spaceflightnow.com/2022/04/11/rocket-lab-confirms-plan-to-catch-booster-with-helicopter-later-this-month/" >🔗</a> **[Spaceflight Now]** Rocket Lab confirms plan to catch booster with helicopter later this month
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T143826">2022-04-12 14:38:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220412T151157">2022-04-12 15:11:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
