@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellites-to-test-fly-new-cyber-software/" >🔗</a> **[SpaceNews]** Satellites to test-fly new cyber software
 - <a href="https://spaceflightnow.com/2022/04/12/nasa-restarts-moon-rocket-wet-dress-rehearsal-countdown/" >🔗</a> **[Spaceflight Now]** NASA restarts moon rocket wet dress rehearsal countdown
 - <a href="https://spacenews.com/gao-completes-investigation-of-the-decision-to-relocate-u-s-space-command/" >🔗</a> **[SpaceNews]** GAO completes investigation of the decision to relocate U.S. Space Command
 - <a href="https://spacenews.com/astranis-adds-extra-year-of-life-to-small-geo-satellite-design/" >🔗</a> **[SpaceNews]** Astranis adds extra year of life to small GEO satellite design
 - <a href="https://spacenews.com/defense-intelligence-agency-calls-attention-to-chinas-and-russias-growing-presence-in-space/" >🔗</a> **[SpaceNews]** Defense Intelligence Agency calls attention to China’s and Russia’s growing presence in space
-- <a href="https://mars.nasa.gov/news/9167/" >🔗</a> **[NASA]** NASA, UAE Mars Missions Agree to Share Science Data
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T070749">2022-04-13 07:07:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T073435">2022-04-13 07:34:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
