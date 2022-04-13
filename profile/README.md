@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/white-house-releases-in-space-servicing-strategy/" >🔗</a> **[SpaceNews]** White House releases in-space servicing strategy
+- <a href="https://www.teslarati.com/spacex-starship-florida-launch-pad-tower-progress/" >🔗</a> **[Teslarati]** SpaceX rapidly constructing Starship’s first Florida launch pad and tower
 - <a href="https://spacenews.com/satellites-to-test-fly-new-cyber-software/" >🔗</a> **[SpaceNews]** Satellites to test-fly new cyber software
 - <a href="https://spaceflightnow.com/2022/04/12/nasa-restarts-moon-rocket-wet-dress-rehearsal-countdown/" >🔗</a> **[Spaceflight Now]** NASA restarts moon rocket wet dress rehearsal countdown
 - <a href="https://spacenews.com/gao-completes-investigation-of-the-decision-to-relocate-u-s-space-command/" >🔗</a> **[SpaceNews]** GAO completes investigation of the decision to relocate U.S. Space Command
-- <a href="https://spacenews.com/astranis-adds-extra-year-of-life-to-small-geo-satellite-design/" >🔗</a> **[SpaceNews]** Astranis adds extra year of life to small GEO satellite design
-- <a href="https://spacenews.com/defense-intelligence-agency-calls-attention-to-chinas-and-russias-growing-presence-in-space/" >🔗</a> **[SpaceNews]** Defense Intelligence Agency calls attention to China’s and Russia’s growing presence in space
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T113233">2022-04-13 11:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220413T121630">2022-04-13 12:16:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
