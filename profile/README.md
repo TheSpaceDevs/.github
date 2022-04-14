@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/russian-invasion-of-ukraine-exposes-cybersecurity-threat-to-commercial-satellites/" >🔗</a> **[SpaceNews]** Russian invasion of Ukraine exposes cybersecurity threat to commercial satellites
 - <a href="https://spacenews.com/esa-ends-cooperation-with-russia-on-lunar-missions/" >🔗</a> **[SpaceNews]** ESA ends cooperation with Russia on lunar missions
 - <a href="https://spacenews.com/hoke-joins-plasmos/" >🔗</a> **[SpaceNews]** Dirk Hoke to lead propulsion startup Plasmos
 - <a href="https://spacenews.com/intelligence-official-says-u-s-government-is-not-micromanaging-commercial-imagery/" >🔗</a> **[SpaceNews]** Intelligence official says U.S. government is not micromanaging commercial imagery
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalks-outside-space-station" >🔗</a> **[NASA]** NASA Sets Coverage for Russian Spacewalks Outside Space Station
-- <a href="https://arstechnica.com/science/2022/04/trying-to-sound-impressive-putin-says-russia-will-resume-lunar-program/" >🔗</a> **[Arstechnica]** Trying to sound impressive, Putin says Russia will resume lunar program
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T084113">2022-04-14 08:41:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T091054">2022-04-14 09:10:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
