@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space domain awareness: A secret weapon against shadowy threats in orbit
 - <a href="https://spacenews.com/kepler-validates-intersatellite-data-relay-terminal/" >🔗</a> **[SpaceNews]** Kepler validates intersatellite data-relay terminal
-- <a href="http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible" >🔗</a> **[NASA]** La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos
 - <a href="http://www.nasa.gov/press-release/nasa-releases-equity-action-plan-to-make-space-more-accessible-to-all" >🔗</a> **[NASA]** NASA Releases Equity Action Plan to Make Space More Accessible to All
+- <a href="http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible" >🔗</a> **[NASA]** La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos
 - <a href="https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/" >🔗</a> **[SpaceNews]** CAPSTONE cubesat ready for cislunar mission
-- <a href="https://spacenews.com/capella-3-new-products/" >🔗</a> **[SpaceNews]** Capella unveils automated tasking products
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T180837">2022-04-14 18:08:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T183955">2022-04-14 18:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
