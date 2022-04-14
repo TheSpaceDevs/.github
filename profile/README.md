@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/capella-3-new-products/" >🔗</a> **[SpaceNews]** Capella unveils automated tasking products
 - <a href="https://www.nasaspaceflight.com/2022/04/sls-wdr-2/" >🔗</a> **[NASA Spaceflight]** NASA into next attempt to complete modified Artemis 1 Wet Dress Rehearsal
 - <a href="https://spacenews.com/china-gears-up-for-new-space-station-missions-record-breaking-crew-set-to-return-home/" >🔗</a> **[SpaceNews]** China gears up for new space station missions, record-breaking crew set to return home
 - <a href="https://spacenews.com/nasa-shifts-earth-science-mission-to-previously-flown-falcon-9/" >🔗</a> **[SpaceNews]** NASA shifts Earth science mission to previously flown Falcon 9
 - <a href="https://www.teslarati.com/spacex-nasa-crew-4-launch-delay-axiom-science/" >🔗</a> **[Teslarati]** SpaceX, NASA refine Crew-4 launch date as Axiom astronauts focus on science
-- <a href="https://spacenews.com/russian-invasion-of-ukraine-exposes-cybersecurity-threat-to-commercial-satellites/" >🔗</a> **[SpaceNews]** Russian invasion of Ukraine exposes cybersecurity threat to commercial satellites
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T130116">2022-04-14 13:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T134350">2022-04-14 13:43:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
