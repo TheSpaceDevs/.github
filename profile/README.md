@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-halts-third-attempt-at-sls-practice-countdown/" >🔗</a> **[SpaceNews]** NASA halts third attempt at SLS practice countdown
 - <a href="https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/" >🔗</a> **[SpaceNews]** Astranis eyes U.S. military customers for its small geostationary satellites
 - <a href="https://spacenews.com/avanti-sheds-550-million-of-debt-to-free-up-growth-plan/" >🔗</a> **[SpaceNews]** Avanti sheds $550 million of debt to free up growth plan
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-cover-boeing-s-orbital-flight-test-2-mission" >🔗</a> **[NASA]** NASA Invites Media to Cover Boeing’s Orbital Flight Test-2 Mission
 - <a href="https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space domain awareness: A secret weapon against shadowy threats in orbit
-- <a href="https://spacenews.com/kepler-validates-intersatellite-data-relay-terminal/" >🔗</a> **[SpaceNews]** Kepler validates intersatellite data-relay terminal
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T213508">2022-04-14 21:35:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T220832">2022-04-14 22:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
