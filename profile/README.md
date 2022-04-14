@@ -85,11 +85,11 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/" >🔗</a> **[SpaceNews]** Astranis eyes U.S. military customers for its small geostationary satellites
 - <a href="https://spacenews.com/avanti-sheds-550-million-of-debt-to-free-up-growth-plan/" >🔗</a> **[SpaceNews]** Avanti sheds $550 million of debt to free up growth plan
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-cover-boeing-s-orbital-flight-test-2-mission" >🔗</a> **[NASA]** NASA Invites Media to Cover Boeing’s Orbital Flight Test-2 Mission
 - <a href="https://spacenews.com/space-domain-awareness-a-secret-weapon-against-shadowy-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space domain awareness: A secret weapon against shadowy threats in orbit
 - <a href="https://spacenews.com/kepler-validates-intersatellite-data-relay-terminal/" >🔗</a> **[SpaceNews]** Kepler validates intersatellite data-relay terminal
-- <a href="http://www.nasa.gov/press-release/la-nasa-publica-un-plan-de-acci-n-para-la-equidad-para-hacer-el-espacio-m-s-accesible" >🔗</a> **[NASA]** La NASA publica un Plan de acción para la equidad, para hacer el espacio más accesible a todos
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The satellite is being manufactured by CAST and will be launched onboard a CZ-3B
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T203609">2022-04-14 20:36:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220414T210626">2022-04-14 21:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
