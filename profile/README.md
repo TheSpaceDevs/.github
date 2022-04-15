@@ -14,7 +14,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T125900">2022-04-16 12:59:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T131300">2022-04-17 13:13:00 UTC</a>.  Until
 then, this pad will have been used for 89
 out of 695 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -36,7 +36,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T125900">2022-04-16 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Vandenberg SFB, CA, USA&dates=20220416T125900Z%2F20220416T142500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NROL-85** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T131300">2022-04-17 13:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-85&location=Vandenberg SFB, CA, USA&dates=20220417T131300Z%2F20220417T131300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **NROL-85** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T151600">2022-04-21 15:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-14&location=Cape Canaveral, FL, USA&dates=20220421T151600Z%2F20220421T151600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-14** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T223500">2022-04-22 22:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220422T223500Z%2F20220423T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **There and Back Again** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T092600">2022-04-23 09:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220423T092600Z%2F20220423T092600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Crew-4** from Kennedy Space Center, FL, USA.
@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/15/chinese-astronauts-undock-from-space-station-head-for-landing/" >🔗</a> **[Spaceflight Now]** Chinese astronauts undock from space station, head for landing
 - <a href="https://spacenews.com/nasa-and-space-force-cooperate-on-near-earth-object-data/" >🔗</a> **[SpaceNews]** NASA and Space Force cooperate on near Earth object data
 - <a href="https://spacenews.com/chinese-shiyan-10-satellite-reappears-in-new-molniya-orbit-months-after-launch-anomaly/" >🔗</a> **[SpaceNews]** Chinese Shiyan-10 satellite reappears in new Molniya orbit months after launch anomaly
 - <a href="http://www.nasa.gov/press-release/nasa-coverage-set-for-axiom-mission-1-departure-from-space-station" >🔗</a> **[NASA]** NASA Coverage Set for Axiom Mission 1 Departure from Space Station
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-7-stress-testing/" >🔗</a> **[Teslarati]** SpaceX begins stress-testing upgraded Super Heavy booster
-- <a href="https://arstechnica.com/science/2022/04/rocket-report-nasa-scrubs-third-sls-fueling-test-pythom-space-strikes-back/" >🔗</a> **[Arstechnica]** Rocket Report: NASA scrubs third SLS fueling test, Pythom Space strikes back
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T223633">2022-04-15 22:36:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T230735">2022-04-15 23:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
