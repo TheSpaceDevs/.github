@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-shiyan-10-satellite-reappears-in-new-molniya-orbit-months-after-launch-anomaly/" >🔗</a> **[SpaceNews]** Chinese Shiyan-10 satellite reappears in new Molniya orbit months after launch anomaly
+- <a href="http://www.nasa.gov/press-release/nasa-coverage-set-for-axiom-mission-1-departure-from-space-station" >🔗</a> **[NASA]** NASA Coverage Set for Axiom Mission 1 Departure from Space Station
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-7-stress-testing/" >🔗</a> **[Teslarati]** SpaceX begins stress-testing upgraded Super Heavy booster
 - <a href="https://arstechnica.com/science/2022/04/rocket-report-nasa-scrubs-third-sls-fueling-test-pythom-space-strikes-back/" >🔗</a> **[Arstechnica]** Rocket Report: NASA scrubs third SLS fueling test, Pythom Space strikes back
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-4-briefing-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast
-- <a href="https://spacenews.com/nasa-halts-third-attempt-at-sls-practice-countdown/" >🔗</a> **[SpaceNews]** NASA halts third attempt at SLS practice countdown
-- <a href="https://spacenews.com/astranis-eyes-u-s-military-customers-for-its-small-geostationary-satellites/" >🔗</a> **[SpaceNews]** Astranis eyes U.S. military customers for its small geostationary satellites
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T140645">2022-04-15 14:06:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220415T143333">2022-04-15 14:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
