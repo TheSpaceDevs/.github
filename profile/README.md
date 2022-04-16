@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/" >🔗</a> **[SpaceNews]** Far side: the moon’s use as a new astronomical site
 - <a href="https://spaceflightnow.com/2022/04/16/chinese-astronauts-return-to-earth-after-six-month-mission-on-space-station/" >🔗</a> **[Spaceflight Now]** Chinese astronauts return to Earth after six-month mission on space station
 - <a href="https://www.nasaspaceflight.com/2022/04/shenzhou-13-return/" >🔗</a> **[NASA Spaceflight]** Shenzhou-13 mission ends with safe return of Chinese taikonaut trio
 - <a href="https://spacenews.com/nasa-ready-for-ax-1-return-and-crew-4-launch/" >🔗</a> **[SpaceNews]** NASA ready for Ax-1 return and Crew-4 launch
 - <a href="https://spaceflightnow.com/2022/04/15/chinese-astronauts-undock-from-space-station-head-for-landing/" >🔗</a> **[Spaceflight Now]** Chinese astronauts undock from space station, head for landing
-- <a href="https://spacenews.com/nasa-and-space-force-cooperate-on-near-earth-object-data/" >🔗</a> **[SpaceNews]** NASA and Space Force cooperate on near Earth object data
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T121111">2022-04-16 12:11:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220416T125405">2022-04-16 12:54:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
