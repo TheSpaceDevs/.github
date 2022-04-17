@@ -85,7 +85,7 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/" >🔗</a> **[Spaceflight Now]** NASA to return Artemis moon rocket to assembly building for repairs
 - <a href="https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/" >🔗</a> **[SpaceNews]** Shenzhou-13 astronauts return to Earth after 182-day mission
 - <a href="https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/" >🔗</a> **[SpaceNews]** Far side: the moon’s use as a new astronomical site
-- <a href="https://spaceflightnow.com/2022/04/16/chinese-astronauts-return-to-earth-after-six-month-mission-on-space-station/" >🔗</a> **[Spaceflight Now]** Chinese astronauts return to Earth after six-month mission on space station
+- <a href="https://spaceflightnow.com/2022/04/16/photos-falcon-9-rocket-vertical-on-vandenberg-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Falcon 9 rocket vertical on Vandenberg launch pad
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T113143">2022-04-17 11:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T121048">2022-04-17 12:10:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
