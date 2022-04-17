@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/04/falcon-9-nrol-85/" >🔗</a> **[NASA Spaceflight]** Falcon 9 to launch NROL-85 mission for National Reconnaissance Office
+- <a href="https://spacenews.com/spacex-launches-nrol-85-spy-satellite-for-u-s-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-85 spy satellite for U.S. National Reconnaissance Office
+- <a href="https://www.nasaspaceflight.com/2022/04/falcon-9-nrol-85/" >🔗</a> **[NASA Spaceflight]** Falcon 9 launches NROL-85 mission for National Reconnaissance Office
 - <a href="https://arstechnica.com/science/2022/04/nasa-to-roll-back-its-mega-rocket-after-failing-to-complete-countdown-test/" >🔗</a> **[Arstechnica]** NASA to roll back its mega rocket after failing to complete countdown test
 - <a href="https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/" >🔗</a> **[Spaceflight Now]** NASA to return Artemis moon rocket to assembly building for repairs
 - <a href="https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/" >🔗</a> **[SpaceNews]** Shenzhou-13 astronauts return to Earth after 182-day mission
-- <a href="https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/" >🔗</a> **[SpaceNews]** Far side: the moon’s use as a new astronomical site
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T140657">2022-04-17 14:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T143309">2022-04-17 14:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
