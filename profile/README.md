@@ -81,11 +81,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/nasa-works-to-track-down-source-of-hydrogen-leak-from-sls-countdown-test/" >🔗</a> **[SpaceNews]** NASA works to track down source of hydrogen leak from SLS countdown test
+- <a href="https://spaceflightnow.com/2022/04/17/nasa-to-return-artemis-moon-rocket-to-assembly-building-for-repairs/" >🔗</a> **[Spaceflight Now]** NASA to return Artemis moon rocket to assembly building for repairs
 - <a href="https://spacenews.com/shenzhou-13-astronauts-return-to-earth-after-182-day-mission/" >🔗</a> **[SpaceNews]** Shenzhou-13 astronauts return to Earth after 182-day mission
 - <a href="https://spacenews.com/far-side-the-moons-use-as-a-new-astronomical-site/" >🔗</a> **[SpaceNews]** Far side: the moon’s use as a new astronomical site
 - <a href="https://spaceflightnow.com/2022/04/16/chinese-astronauts-return-to-earth-after-six-month-mission-on-space-station/" >🔗</a> **[Spaceflight Now]** Chinese astronauts return to Earth after six-month mission on space station
-- <a href="https://www.nasaspaceflight.com/2022/04/shenzhou-13-return/" >🔗</a> **[NASA Spaceflight]** Shenzhou-13 mission ends with safe return of Chinese taikonaut trio
+- <a href="https://spacenews.com/nasa-works-to-track-down-source-of-hydrogen-leak-from-sls-countdown-test/" >🔗</a> **[SpaceNews]** NASA to roll back SLS for repairs
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T003458">2022-04-17 00:34:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220417T022419">2022-04-17 02:24:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
