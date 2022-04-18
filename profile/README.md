@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/" >🔗</a> **[NASA Spaceflight]** Cosmonauts preparing for spacewalk to activate space station’s European Robotic Arm
 - <a href="https://spacenews.com/mars-scientists-look-to-less-expensive-missions/" >🔗</a> **[SpaceNews]** Mars scientists look to less expensive missions
 - <a href="https://www.teslarati.com/nasa-spacex-dragon-xl-lunar-cargo-spacecraft-rfi/" >🔗</a> **[Teslarati]** NASA asks SpaceX to decide the fate of ‘Dragon XL’ lunar cargo spacecraft
 - <a href="https://spacenews.com/seeking-growth-in-unpredictable-times-a-conversation-with-ses-ceo-steve-collar/" >🔗</a> **[SpaceNews]** Seeking growth in unpredictable times: A conversation with SES CEO Steve Collar
 - <a href="https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/" >🔗</a> **[SpaceNews]** COMSPOC executive to join DoD space policy office
-- <a href="https://www.teslarati.com/spacex-second-nro-spy-satellite-launch-two-months/" >🔗</a> **[Teslarati]** SpaceX reuses Falcon 9 booster for second spy satellite launch in two months
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T132646">2022-04-18 13:26:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T134415">2022-04-18 13:44:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
