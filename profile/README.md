@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seeking-growth-in-unpredictable-times-a-conversation-with-ses-ceo-steve-collar/" >🔗</a> **[SpaceNews]** Seeking growth in unpredictable times: A conversation with SES CEO Steve Collar
 - <a href="https://spacenews.com/comspoc-executive-to-join-dods-space-policy-office/" >🔗</a> **[SpaceNews]** COMSPOC executive to join DoD space policy office
 - <a href="https://www.teslarati.com/spacex-second-nro-spy-satellite-launch-two-months/" >🔗</a> **[Teslarati]** SpaceX reuses Falcon 9 booster for second spy satellite launch in two months
 - <a href="https://spacenews.com/spacex-launches-nrol-85-spy-satellite-for-u-s-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-85 spy satellite for U.S. National Reconnaissance Office
 - <a href="https://www.nasaspaceflight.com/2022/04/falcon-9-nrol-85/" >🔗</a> **[NASA Spaceflight]** Falcon 9 launches NROL-85 mission for National Reconnaissance Office
-- <a href="https://arstechnica.com/science/2022/04/nasa-to-roll-back-its-mega-rocket-after-failing-to-complete-countdown-test/" >🔗</a> **[Arstechnica]** NASA to roll back its mega rocket after failing to complete countdown test
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T080911">2022-04-18 08:09:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220418T084119">2022-04-18 08:41:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
