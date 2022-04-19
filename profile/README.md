@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/" >🔗</a> **[Spaceflight Now]** Ingenuity’s record-breaking year transforms Mars exploration
 - <a href="https://spacenews.com/lonestar-emerges-from-stealth-with-plans-for-lunar-data-centers/" >🔗</a> **[SpaceNews]** Lonestar emerges from stealth with plans for lunar data centers
 - <a href="https://mars.nasa.gov/news/9170/" >🔗</a> **[NASA]** NASA's Perseverance Rover Arrives at Delta for New Science Campaign
 - <a href="https://spaceflightnow.com/2022/04/19/robotic-mission-to-uranus-receives-top-priority-in-decadal-survey/" >🔗</a> **[Spaceflight Now]** Robotic mission to Uranus receives top priority in decadal survey
 - <a href="https://spacenews.com/planetary-science-decadal-endorses-mars-sample-return-outer-planets-missions/" >🔗</a> **[SpaceNews]** Planetary science decadal endorses Mars sample return, outer planets missions
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-white-house-asat-announcement" >🔗</a> **[NASA]** NASA Administrator Statement on White House ASAT Announcement
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T213444">2022-04-19 21:34:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T220639">2022-04-19 22:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
