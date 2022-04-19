@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9170/" >🔗</a> **[NASA]** NASA's Perseverance Rover Arrives at Delta for New Science Campaign
 - <a href="https://spaceflightnow.com/2022/04/19/robotic-mission-to-uranus-receives-top-priority-in-decadal-survey/" >🔗</a> **[Spaceflight Now]** Robotic mission to Uranus receives top priority in decadal survey
 - <a href="https://spacenews.com/planetary-science-decadal-endorses-mars-sample-return-outer-planets-missions/" >🔗</a> **[SpaceNews]** Planetary science decadal endorses Mars sample return, outer planets missions
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-white-house-asat-announcement" >🔗</a> **[NASA]** NASA Administrator Statement on White House ASAT Announcement
 - <a href="https://arstechnica.com/science/2022/04/united-states-commits-to-ending-reckless-anti-satellite-missile-testing/" >🔗</a> **[Arstechnica]** United States commits to ending “reckless” anti-satellite missile testing
-- <a href="https://spacenews.com/india-examining-crashed-space-debris-suspected-to-be-parts-of-chinas-long-march-rocket/" >🔗</a> **[SpaceNews]** India examining crashed space debris suspected to be parts of China’s Long March rocket
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T161427">2022-04-19 16:14:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T165820">2022-04-19 16:58:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
