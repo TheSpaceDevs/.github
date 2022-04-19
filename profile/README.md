@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planetary-science-decadal-endorses-mars-sample-return-outer-planets-missions/" >🔗</a> **[SpaceNews]** Planetary science decadal endorses Mars sample return, outer planets missions
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-white-house-asat-announcement" >🔗</a> **[NASA]** NASA Administrator Statement on White House ASAT Announcement
 - <a href="https://arstechnica.com/science/2022/04/united-states-commits-to-ending-reckless-anti-satellite-missile-testing/" >🔗</a> **[Arstechnica]** United States commits to ending “reckless” anti-satellite missile testing
 - <a href="https://spacenews.com/india-examining-crashed-space-debris-suspected-to-be-parts-of-chinas-long-march-rocket/" >🔗</a> **[SpaceNews]** India examining crashed space debris suspected to be parts of China’s Long March rocket
 - <a href="https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/" >🔗</a> **[Teslarati]** SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches
-- <a href="http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling" >🔗</a> **[NASA]** NASA Celebrates Earth Day with Every #NASAEarthling
-- <a href="https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/" >🔗</a> **[SpaceNews]** Lockheed Martin proposes multi-layer space network for missile defense
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T144027">2022-04-19 14:40:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T151230">2022-04-19 15:12:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
