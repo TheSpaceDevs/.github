@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/04/united-states-commits-to-ending-reckless-anti-satellite-missile-testing/" >🔗</a> **[Arstechnica]** United States commits to ending “reckless” anti-satellite missile testing
+- <a href="https://spacenews.com/india-examining-crashed-space-debris-suspected-to-be-parts-of-chinas-long-march-rocket/" >🔗</a> **[SpaceNews]** India examining crashed space debris suspected to be parts of China’s Long March rocket
 - <a href="https://www.teslarati.com/spacex-back-to-back-starlink-crew-dragon-launch-2022/" >🔗</a> **[Teslarati]** SpaceX sends two drone ships to sea for back-to-back Starlink, astronaut launches
 - <a href="http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-every-nasaearthling" >🔗</a> **[NASA]** NASA Celebrates Earth Day with Every #NASAEarthling
 - <a href="https://spacenews.com/lockheed-martin-proposes-multi-layer-space-network-for-missile-defense/" >🔗</a> **[SpaceNews]** Lockheed Martin proposes multi-layer space network for missile defense
-- <a href="https://www.nasaspaceflight.com/2022/04/cosmonauts-spacewalk-european-robotic-arm/" >🔗</a> **[NASA Spaceflight]** Cosmonauts complete spacewalk to activate space station’s European Robotic Arm
-- <a href="https://spacenews.com/mars-scientists-look-to-less-expensive-missions/" >🔗</a> **[SpaceNews]** Mars scientists look to less expensive missions
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T121622">2022-04-19 12:16:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220419T130836">2022-04-19 13:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
