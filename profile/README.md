@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/20/watch-live-spacex-preps-for-falcon-9-test-firing-today/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX preps for Falcon 9 test-firing today
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-uranus-mission-decadal-survey/" >🔗</a> **[Teslarati]** SpaceX-launched Uranus mission a top priority of new decadal survey
 - <a href="https://spaceflightnow.com/2022/04/20/axioms-private-astronaut-crew-gets-extra-time-on-space-station-after-weather-delays-landing/" >🔗</a> **[Spaceflight Now]** Axiom’s private crew gets extra time on space station after landing delay
 - <a href="https://spacenews.com/weather-delays-ax-1-return/" >🔗</a> **[SpaceNews]** Weather delays Ax-1 return
 - <a href="https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission
-- <a href="https://spaceflightnow.com/2022/04/19/ingenuitys-record-breaking-year-transforms-mars-exploration/" >🔗</a> **[Spaceflight Now]** Ingenuity’s record-breaking year transforms Mars exploration
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T121724">2022-04-20 12:17:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T130954">2022-04-20 13:09:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
