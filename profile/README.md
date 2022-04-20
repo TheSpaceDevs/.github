@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/20/crew-4-delayed-to-wait-for-ax-1-return/" >🔗</a> **[Spaceflight Now]** Next SpaceX crew launch on hold to wait for return of private astronaut mission
+- <a href="https://www.nasaspaceflight.com/2022/04/astrobotic-griffin-lander/" >🔗</a> **[NASA Spaceflight]** Astrobotic into testing of Griffin lunar lander for NASA’s Artemis program
 - <a href="https://arstechnica.com/science/2022/04/nasa-rover-captures-an-amazing-view-of-a-solar-eclipse-on-mars/" >🔗</a> **[Arstechnica]** This 40-second solar eclipse seen from the surface of Mars is sublime
 - <a href="https://arstechnica.com/science/2022/04/nasas-other-moon-program-is-about-to-take-center-stage/" >🔗</a> **[Arstechnica]** NASA is supporting some seriously risky missions to the Moon—it’s about time
 - <a href="https://spacenews.com/canadas-answer-to-space-force/" >🔗</a> **[SpaceNews]** Canada’s answer to Space Force
-- <a href="https://spaceflightnow.com/2022/04/20/watch-live-spacex-preps-for-falcon-9-test-firing-today/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX preps for Falcon 9 test-firing today
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-uranus-mission-decadal-survey/" >🔗</a> **[Teslarati]** SpaceX-launched Uranus mission a top priority of new decadal survey
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T193150">2022-04-20 19:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T200849">2022-04-20 20:08:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
