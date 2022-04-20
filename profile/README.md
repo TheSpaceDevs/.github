@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/" >🔗</a> **[SpaceNews]** OneWeb signs contract to launch satellites from India in 2022
+- <a href="https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/" >🔗</a> **[SpaceNews]** DoD a main proponent of anti-satellite test ban: ‘We are not disarming’
+- <a href="http://www.nasa.gov/press-release/nasa-industry-to-collaborate-on-space-communications-by-2025" >🔗</a> **[NASA]** NASA, Industry to Collaborate on Space Communications by 2025
 - <a href="https://spaceflightnow.com/2022/04/20/crew-4-delayed-to-wait-for-ax-1-return/" >🔗</a> **[Spaceflight Now]** Next SpaceX crew launch on hold to wait for return of private astronaut mission
 - <a href="https://www.nasaspaceflight.com/2022/04/astrobotic-griffin-lander/" >🔗</a> **[NASA Spaceflight]** Astrobotic into testing of Griffin lunar lander for NASA’s Artemis program
-- <a href="https://arstechnica.com/science/2022/04/nasa-rover-captures-an-amazing-view-of-a-solar-eclipse-on-mars/" >🔗</a> **[Arstechnica]** This 40-second solar eclipse seen from the surface of Mars is sublime
-- <a href="https://arstechnica.com/science/2022/04/nasas-other-moon-program-is-about-to-take-center-stage/" >🔗</a> **[Arstechnica]** NASA is supporting some seriously risky missions to the Moon—it’s about time
-- <a href="https://spacenews.com/canadas-answer-to-space-force/" >🔗</a> **[SpaceNews]** Canada’s answer to Space Force
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T203722">2022-04-20 20:37:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220420T210740">2022-04-20 21:07:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
