@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-pelican-details/" >🔗</a> **[SpaceNews]** Planet Pelicans to offer high resolution and revisit rates
+- <a href="https://www.teslarati.com/spacex-crew-4-falcon-9-static-fire-axiom-1-return-delay/" >🔗</a> **[Teslarati]** SpaceX static fires Crew-4’s Falcon 9 rocket as Axiom-1 return delay grows
 - <a href="https://spacenews.com/astrobotic-lunar-lander-on-track-for-late-2022-launch/" >🔗</a> **[SpaceNews]** Astrobotic lunar lander on track for late 2022 launch
 - <a href="https://spacenews.com/south-koreas-double-digit-space-budget-boost/" >🔗</a> **[SpaceNews]** South Korea’s double-digit space budget boost
 - <a href="https://spacenews.com/nasa-selects-six-companies-to-demonstrate-commercial-successors-to-tdrs/" >🔗</a> **[SpaceNews]** NASA selects six companies to demonstrate commercial successors to TDRS
-- <a href="https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/" >🔗</a> **[SpaceNews]** DoD a main proponent of anti-satellite test ban: ‘We are not disarming’
-- <a href="https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/" >🔗</a> **[SpaceNews]** OneWeb signs contract to launch satellites from India in 2022
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T113324">2022-04-21 11:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T121510">2022-04-21 12:15:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
