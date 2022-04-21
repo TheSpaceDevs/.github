@@ -79,11 +79,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-in-talks-to-launch-more-backup-satellites-this-year/" >🔗</a> **[SpaceNews]** Iridium in talks to launch more backup satellites this year
+- <a href="https://spacenews.com/viasat-to-begin-integration-of-long-delayed-link-16-military-communications-satellite/" >🔗</a> **[SpaceNews]** Viasat to begin integration of long-delayed Link 16 military communications satellite
 - <a href="https://www.nasaspaceflight.com/2022/04/spacex-boosters-florida-factory/" >🔗</a> **[NASA Spaceflight]** SpaceX testing and building boosters at Starbase as Florida Starship factory begins construction
 - <a href="https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/" >🔗</a> **[Teslarati]** SpaceX launches and lands another Falcon 9 booster 12 times
 - <a href="https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/" >🔗</a> **[Spaceflight Now]** ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight
-- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-axiom-mission-1-departure-from-space-station" >🔗</a> **[NASA]** NASA Updates Coverage for Axiom Mission 1 Departure from Space Station
-- <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-14-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX launch cadence moves forward with 53 more Starlink satellites to orbit
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T223659">2022-04-21 22:36:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T230659">2022-04-21 23:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
