@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/south-koreas-double-digit-space-budget-boost/" >🔗</a> **[SpaceNews]** South Korea’s double-digit space budget boost
 - <a href="https://spacenews.com/nasa-selects-six-companies-to-demonstrate-commercial-successors-to-tdrs/" >🔗</a> **[SpaceNews]** NASA selects six companies to demonstrate commercial successors to TDRS
 - <a href="https://spacenews.com/dod-a-main-proponent-of-anti-satellite-test-ban-we-are-not-disarming/" >🔗</a> **[SpaceNews]** DoD a main proponent of anti-satellite test ban: ‘We are not disarming’
 - <a href="https://spacenews.com/oneweb-signs-contract-to-launch-satellites-from-india-in-2022/" >🔗</a> **[SpaceNews]** OneWeb signs contract to launch satellites from India in 2022
 - <a href="http://www.nasa.gov/press-release/nasa-industry-to-collaborate-on-space-communications-by-2025" >🔗</a> **[NASA]** NASA, Industry to Collaborate on Space Communications by 2025
-- <a href="https://spaceflightnow.com/2022/04/20/crew-4-delayed-to-wait-for-ax-1-return/" >🔗</a> **[Spaceflight Now]** Next SpaceX crew launch on hold to wait for return of private astronaut mission
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T081400">2022-04-21 08:14:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220421T084725">2022-04-21 08:47:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
