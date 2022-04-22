@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/" >🔗</a> **[SpaceNews]** Japan’s ispace negotiating first commercial moon landing insurance
+- <a href="https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/" >🔗</a> **[SpaceNews]** Space Force radar that monitors low Earth orbit to feed data directly to cloud platform
 - <a href="https://spacenews.com/starlink-signs-first-inflight-wi-fi-deal-for-services-later-this-year/" >🔗</a> **[SpaceNews]** Starlink signs first inflight Wi-Fi deal for services later this year
 - <a href="https://spacenews.com/south-korea-welcomes-u-s-moratorium-on-anti-satellite-missile-tests-china-skeptical/" >🔗</a> **[SpaceNews]** South Korea “welcomes” U.S. moratorium on anti-satellite missile tests; China skeptical
 - <a href="https://spacenews.com/house-appropriator-promises-to-mark-up-nasa-spending-bill-on-schedule/" >🔗</a> **[SpaceNews]** House appropriator promises to mark up NASA spending bill on schedule
-- <a href="https://spacenews.com/chinese-reusable-rocket-startup-secures-new-funding-round/" >🔗</a> **[SpaceNews]** Chinese reusable rocket startup secures new funding round
-- <a href="https://www.teslarati.com/spacex-starbase-upgraded-starship-factory-construction/" >🔗</a> **[Teslarati]** SpaceX’s upgraded Starship factory begins to take shape in South Texas
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T193142">2022-04-22 19:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T200750">2022-04-22 20:07:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
