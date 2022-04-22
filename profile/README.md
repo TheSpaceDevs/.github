@@ -38,6 +38,7 @@ into *a Low Earth Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T081500">2022-04-26 08:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-4&location=Kennedy Space Center, FL, USA&dates=20220426T081500Z%2F20220426T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Crew-4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T000000">2022-04-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | MKA-R&location=Plesetsk Cosmodrome, Russian Federation&dates=20220427T000000Z%2F20220427T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **MKA-R** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T031900">2022-04-27 03:19:00 UTC</a>\]  <img width="17" src="None" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 11 | Jilin-1 HR-03D-04 to 09 &amp; 04A&location=Sea Launch&dates=20220427T031900Z%2F20220427T043400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T223500">2022-04-27 22:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220427T223500Z%2F20220428T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **There and Back Again** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-16&location=Cape Canaveral, FL, USA&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starlink Group 4-16** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T000000">2022-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | CentiSpace-1 S3 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20220430T000000Z%2F20220430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **CentiSpace-1 S3 (?)** from Jiuquan, People's Republic of China.
@@ -79,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-appropriator-promises-to-mark-up-nasa-spending-bill-on-schedule/" >🔗</a> **[SpaceNews]** House appropriator promises to mark up NASA spending bill on schedule
+- <a href="https://spacenews.com/chinese-reusable-rocket-startup-secures-new-funding-round/" >🔗</a> **[SpaceNews]** Chinese reusable rocket startup secures new funding round
+- <a href="https://www.teslarati.com/spacex-starbase-upgraded-starship-factory-construction/" >🔗</a> **[Teslarati]** SpaceX’s upgraded Starship factory begins to take shape in South Texas
+- <a href="https://arstechnica.com/science/2022/04/rocket-report-falcon-9-says-aloha-to-hawaii-blue-origin-to-abandon-ship/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 says Aloha to Hawaii, Blue Origin to abandon ship?
 - <a href="https://spacenews.com/iridium-in-talks-to-launch-more-backup-satellites-this-year/" >🔗</a> **[SpaceNews]** Iridium in talks to launch more backup satellites this year
-- <a href="https://spacenews.com/viasat-to-begin-integration-of-long-delayed-link-16-military-communications-satellite/" >🔗</a> **[SpaceNews]** Viasat to begin integration of long-delayed Link 16 military communications satellite
-- <a href="https://www.nasaspaceflight.com/2022/04/spacex-boosters-florida-factory/" >🔗</a> **[NASA Spaceflight]** SpaceX testing and building boosters at Starbase as Florida Starship factory begins construction
-- <a href="https://www.teslarati.com/spacex-falcon-9-booster-12th-launch-round-2/" >🔗</a> **[Teslarati]** SpaceX launches and lands another Falcon 9 booster 12 times
-- <a href="https://spaceflightnow.com/2022/04/21/ula-begins-stacking-atlas-5-rocket-for-boeings-starliner-test-flight/" >🔗</a> **[Spaceflight Now]** ULA begins stacking Atlas 5 rocket for Boeing’s Starliner test flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T073437">2022-04-22 07:34:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220422T120656">2022-04-22 12:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
