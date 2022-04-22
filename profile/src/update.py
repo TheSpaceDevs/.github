@@ -185,7 +185,7 @@ def get_country_flag_svg(iso3_country_code, country_reassign):
         # convert iso3 to iso2
         iso2_country_code = ISO3_2_ISO2[iso3_country_code]
         return f'https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/{iso2_country_code.lower()}.svg'
-    return
+    return f'https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg'
 
 
 def parse_launches_within_a_month(launches):
