@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/" >🔗</a> **[SpaceNews]** Iridium and General Dynamics submit joint bid for Space Development Agency contract
 - <a href="https://spacenews.com/oconnell-works-with-copernic-space/" >🔗</a> **[SpaceNews]** Copernic Space welcomes Kevin O’Connell to advisory board
-- <a href="https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/" >🔗</a> **[SpaceNews]** Japan’s ispace negotiating first commercial moon landing insurance
 - <a href="https://spacenews.com/space-force-radar-that-monitors-low-earth-orbit-to-feed-data-directly-to-cloud-platform/" >🔗</a> **[SpaceNews]** Space Force radar that monitors low Earth orbit to feed data directly to cloud platform
+- <a href="https://spacenews.com/japans-ispace-negotiating-first-commercial-moon-landing-insurance/" >🔗</a> **[SpaceNews]** Japan’s ispace negotiating first commercial moon landing insurance
 - <a href="https://spacenews.com/starlink-signs-first-inflight-wi-fi-deal-for-services-later-this-year/" >🔗</a> **[SpaceNews]** Starlink signs first inflight Wi-Fi deal for services later this year
-- <a href="https://spacenews.com/south-korea-welcomes-u-s-moratorium-on-anti-satellite-missile-tests-china-skeptical/" >🔗</a> **[SpaceNews]** South Korea “welcomes” U.S. moratorium on anti-satellite missile tests; China skeptical
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T100814">2022-04-23 10:08:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220423T103825">2022-04-23 10:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
