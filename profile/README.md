@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/" >🔗</a> **[Spaceflight Now]** NASA readies SLS moon rocket for return to Vehicle Assembly Building
+- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission set for return from ISS as Crew-4 prepares for launch
 - <a href="https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/" >🔗</a> **[SpaceNews]** China to conduct asteroid deflection test around 2025
 - <a href="https://spacenews.com/space-startups-argue-for-more-agile-business-models/" >🔗</a> **[SpaceNews]** Space startups argue for more agile business models
 - <a href="https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/" >🔗</a> **[Spaceflight Now]** SpaceX again waves off return of Axiom crew mission
-- <a href="https://spacenews.com/iridium-and-general-dynamics-submit-joint-bid-for-space-development-agency-contract/" >🔗</a> **[SpaceNews]** Iridium and General Dynamics submit joint bid for Space Development Agency contract
-- <a href="https://spacenews.com/nasa-space-technology-programs-face-constraining-budget/" >🔗</a> **[SpaceNews]** NASA space technology programs face “constraining” budget
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T213356">2022-04-24 21:33:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220424T220649">2022-04-24 22:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
