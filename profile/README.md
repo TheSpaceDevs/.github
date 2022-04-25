@@ -82,10 +82,10 @@ into *an Unknown Orbit
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/" >🔗</a> **[Spaceflight Now]** NASA readies SLS moon rocket for return to Vehicle Assembly Building
-- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission set for return from ISS as Crew-4 prepares for launch
+- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch
 - <a href="https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/" >🔗</a> **[SpaceNews]** China to conduct asteroid deflection test around 2025
+- <a href="https://spacenews.com/ax-1-undocks-from-space-station-after-extended-stay/" >🔗</a> **[SpaceNews]** Ax-1 undocks from space station after extended stay
 - <a href="https://spacenews.com/space-startups-argue-for-more-agile-business-models/" >🔗</a> **[SpaceNews]** Space startups argue for more agile business models
-- <a href="https://spaceflightnow.com/2022/04/23/spacex-again-waves-off-return-of-axiom-crew-mission/" >🔗</a> **[Spaceflight Now]** SpaceX again waves off return of Axiom crew mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T003112">2022-04-25 00:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T024543">2022-04-25 02:45:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
