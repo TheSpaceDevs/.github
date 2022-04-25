@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/" >🔗</a> **[Teslarati]** SpaceX’s private Dragon astronauts leave space station five days late
+- <a href="https://spacenews.com/u-s-asat-ban-meant-to-support-u-n-discussions-on-space-threats/" >🔗</a> **[SpaceNews]** U.S. ASAT ban meant to support U.N. discussions on space threats
 - <a href="https://spaceflightnow.com/2022/04/25/axioms-private-astronauts-depart-space-station-after-15-day-stay/" >🔗</a> **[Spaceflight Now]** Axiom’s private astronauts depart space station after 15-day stay
 - <a href="https://spacenews.com/kleos-mission-as-a-service/" >🔗</a> **[SpaceNews]** Kleos unveils dedicated, taskable RF monitoring missions
 - <a href="https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/" >🔗</a> **[Spaceflight Now]** NASA readies SLS moon rocket for return to Vehicle Assembly Building
-- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch
-- <a href="https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/" >🔗</a> **[SpaceNews]** China to conduct asteroid deflection test around 2025
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T104021">2022-04-25 10:40:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T110738">2022-04-25 11:07:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
