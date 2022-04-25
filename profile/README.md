@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kleos-mission-as-a-service/" >🔗</a> **[SpaceNews]** Kleos unveils dedicated, taskable RF monitoring missions
 - <a href="https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/" >🔗</a> **[Spaceflight Now]** NASA readies SLS moon rocket for return to Vehicle Assembly Building
 - <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch
 - <a href="https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/" >🔗</a> **[SpaceNews]** China to conduct asteroid deflection test around 2025
 - <a href="https://spacenews.com/ax-1-undocks-from-space-station-after-extended-stay/" >🔗</a> **[SpaceNews]** Ax-1 undocks from space station after extended stay
-- <a href="https://spacenews.com/space-startups-argue-for-more-agile-business-models/" >🔗</a> **[SpaceNews]** Space startups argue for more agile business models
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T053506">2022-04-25 05:35:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T061001">2022-04-25 06:10:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
