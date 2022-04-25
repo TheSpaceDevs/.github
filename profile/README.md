@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/25/axioms-private-astronauts-depart-space-station-after-15-day-stay/" >🔗</a> **[Spaceflight Now]** Axiom’s private astronauts depart space station after 15-day stay
 - <a href="https://spacenews.com/kleos-mission-as-a-service/" >🔗</a> **[SpaceNews]** Kleos unveils dedicated, taskable RF monitoring missions
 - <a href="https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/" >🔗</a> **[Spaceflight Now]** NASA readies SLS moon rocket for return to Vehicle Assembly Building
 - <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returning from ISS as Crew-4 prepares for launch
 - <a href="https://spacenews.com/china-to-conduct-asteroid-deflection-test-around-2025/" >🔗</a> **[SpaceNews]** China to conduct asteroid deflection test around 2025
-- <a href="https://spacenews.com/ax-1-undocks-from-space-station-after-extended-stay/" >🔗</a> **[SpaceNews]** Ax-1 undocks from space station after extended stay
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T091223">2022-04-25 09:12:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T094223">2022-04-25 09:42:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
