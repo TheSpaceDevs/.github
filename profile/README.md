@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/25/photos-close-ups-of-nasas-moon-rocket-on-the-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Close-ups of NASA’s moon rocket on the launch pad
+- <a href="https://spacenews.com/mantech-tracking-foreign-influence-using-open-source-intelligence/" >🔗</a> **[SpaceNews]** ManTech tracking foreign influence using open-source intelligence
 - <a href="https://arstechnica.com/science/2022/04/first-all-private-mission-to-the-space-station-will-finally-come-home/" >🔗</a> **[Arstechnica]** First all-private mission to the space station will finally come home
 - <a href="https://spacenews.com/a-boom-in-earth-observation-satellites-creating-new-demands-for-intelligence/" >🔗</a> **[SpaceNews]** A boom in Earth observation satellites creating new demands for intelligence
 - <a href="https://spacenews.com/capella-series-c/" >🔗</a> **[SpaceNews]** Capella raises $97 million to expand radar constellation
-- <a href="https://spacenews.com/orbital-insight-satellogic-partnership/" >🔗</a> **[SpaceNews]** Orbital Insight brings Satellogic data into its platform
-- <a href="https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/" >🔗</a> **[Teslarati]** SpaceX’s private Dragon astronauts leave space station five days late
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T144022">2022-04-25 14:40:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T151323">2022-04-25 15:13:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
