@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/" >🔗</a> **[Teslarati]** SpaceX Dragon returns private astronauts to Earth after an extra week in space
 - <a href="https://spacenews.com/vice-adm-sharp-commercial-satellites-a-key-counterforce-to-russian-disinformation/" >🔗</a> **[SpaceNews]** Vice Adm. Sharp: Commercial satellites a key counterforce to Russian disinformation
 - <a href="https://mars.nasa.gov/news/9175/" >🔗</a> **[NASA]** NASA Extends Exploration for 8 Planetary Science Missions
 - <a href="http://www.nasa.gov/press-release/coverage-updated-for-nasa-s-spacex-crew-4-briefing-events-broadcast" >🔗</a> **[NASA]** Coverage Updated for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast
 - <a href="https://spacenews.com/crew-dragon-splashes-down-to-end-ax-1-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Crew Dragon splashes down to end Ax-1 private astronaut mission
-- <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returned from ISS as Crew-4 prepares for launch
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T203655">2022-04-25 20:36:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T211125">2022-04-25 21:11:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
