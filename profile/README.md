@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbital-insight-satellogic-partnership/" >🔗</a> **[SpaceNews]** Orbital Insight brings Satellogic data into its platform
 - <a href="https://www.teslarati.com/spacex-axiom-1-crew-dragon-iss-departure/" >🔗</a> **[Teslarati]** SpaceX’s private Dragon astronauts leave space station five days late
 - <a href="https://spacenews.com/u-s-asat-ban-meant-to-support-u-n-discussions-on-space-threats/" >🔗</a> **[SpaceNews]** U.S. ASAT ban meant to support U.N. discussions on space threats
 - <a href="https://spaceflightnow.com/2022/04/25/axioms-private-astronauts-depart-space-station-after-15-day-stay/" >🔗</a> **[Spaceflight Now]** Axiom’s private astronauts depart space station after 15-day stay
 - <a href="https://spacenews.com/kleos-mission-as-a-service/" >🔗</a> **[SpaceNews]** Kleos unveils dedicated, taskable RF monitoring missions
-- <a href="https://spaceflightnow.com/2022/04/24/nasa-sls-artemis-1-return-to-vab/" >🔗</a> **[Spaceflight Now]** NASA readies SLS moon rocket for return to Vehicle Assembly Building
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T113333">2022-04-25 11:33:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T121735">2022-04-25 12:17:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
