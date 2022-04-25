@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9175/" >🔗</a> **[NASA]** NASA Extends Exploration for 8 Planetary Science Missions
+- <a href="http://www.nasa.gov/press-release/coverage-updated-for-nasa-s-spacex-crew-4-briefing-events-broadcast" >🔗</a> **[NASA]** Coverage Updated for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast
 - <a href="https://spacenews.com/crew-dragon-splashes-down-to-end-ax-1-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Crew Dragon splashes down to end Ax-1 private astronaut mission
 - <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returned from ISS as Crew-4 prepares for launch
 - <a href="https://spacenews.com/starlink-secures-first-major-airline-wi-fi-deal-with-hawaiian-airlines/" >🔗</a> **[SpaceNews]** Starlink secures first major airline Wi-Fi deal with Hawaiian Airlines
-- <a href="https://spaceflightnow.com/2022/04/25/photos-close-ups-of-nasas-moon-rocket-on-the-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Close-ups of NASA’s moon rocket on the launch pad
-- <a href="https://spacenews.com/mantech-tracking-foreign-influence-using-open-source-intelligence/" >🔗</a> **[SpaceNews]** ManTech tracking foreign influence using open-source intelligence
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T191038">2022-04-25 19:10:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220425T193157">2022-04-25 19:31:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
