@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ligado-networks-critics-step-up-opposition-as-service-launch-nears/" >🔗</a> **[SpaceNews]** Ligado Networks critics step up opposition as service launch nears
 - <a href="https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/" >🔗</a> **[SpaceNews]** NASA expects decisions on ISS crew swaps by June
 - <a href="https://spaceflightnow.com/2022/04/26/nasas-moon-rocket-rolls-back-to-vehicle-assembly-building-for-repairs/" >🔗</a> **[Spaceflight Now]** NASA’s moon rocket rolls back to Vehicle Assembly Building for repairs
 - <a href="https://spacenews.com/act-carbon-mapper/" >🔗</a> **[SpaceNews]** ACT to embed thermal management in Carbon Mapper structures
 - <a href="https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/" >🔗</a> **[NASA Spaceflight]** Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets
-- <a href="https://spacenews.com/halifax-international-raising-funds-to-build-imaging-satellites-for-ukraine/" >🔗</a> **[SpaceNews]** Halifax International raising funds to build imaging satellites for Ukraine
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T193145">2022-04-26 19:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T200758">2022-04-26 20:07:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
