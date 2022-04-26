@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/" >🔗</a> **[NASA Spaceflight]** Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets
+- <a href="https://spacenews.com/halifax-international-raising-funds-to-build-imaging-satellites-for-ukraine/" >🔗</a> **[SpaceNews]** Halifax International raising funds to build imaging satellites for Ukraine
 - <a href="https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/" >🔗</a> **[Arstechnica]** SpaceX rapidly pivots from Dragon landing to another launch in 39 hours
 - <a href="https://spacenews.com/space-companies-donate-funds-for-humanitarian-efforts-in-ukraine/" >🔗</a> **[SpaceNews]** Space companies donate funds for humanitarian efforts in Ukraine
 - <a href="https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/" >🔗</a> **[SpaceNews]** U.S., South Korea agree to cooperate on space situational awareness for military purposes
-- <a href="https://spacenews.com/adranos-a-startup-that-makes-solid-rocket-motors-closes-20-million-funding-round/" >🔗</a> **[SpaceNews]** Adranos, a startup that makes solid rocket motors, closes $20 million funding round
-- <a href="https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/" >🔗</a> **[Teslarati]** SpaceX rapidly turns around drone ship for sixth launch this month
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T161220">2022-04-26 16:12:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T165651">2022-04-26 16:56:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
