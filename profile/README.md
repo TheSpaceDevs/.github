@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-south-korea-agree-to-cooperate-on-space-situational-awareness-for-military-purposes/" >🔗</a> **[SpaceNews]** U.S., South Korea agree to cooperate on space situational awareness for military purposes
 - <a href="https://spacenews.com/adranos-a-startup-that-makes-solid-rocket-motors-closes-20-million-funding-round/" >🔗</a> **[SpaceNews]** Adranos, a startup that makes solid rocket motors, closes $20 million funding round
 - <a href="https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/" >🔗</a> **[Teslarati]** SpaceX rapidly turns around drone ship for sixth launch this month
 - <a href="https://spacenews.com/predasar-nears-first-launch-of-its-radar-imaging-constellation/" >🔗</a> **[SpaceNews]** PredaSAR nears first launch of its radar imaging constellation
 - <a href="https://spacenews.com/nasa-to-repurpose-osiris-rex-for-second-asteroid-encounter/" >🔗</a> **[SpaceNews]** NASA to repurpose OSIRIS-REx for second asteroid encounter
-- <a href="https://spacenews.com/nro-short-long-term-commercial-data-strategy/" >🔗</a> **[SpaceNews]** NRO plans for immediate and long-term acquisition of commercial satellite data
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T131150">2022-04-26 13:11:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T135625">2022-04-26 13:56:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
