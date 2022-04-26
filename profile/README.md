@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/" >🔗</a> **[SpaceNews]** NASA expects decisions on ISS crew swaps by June
+- <a href="https://spaceflightnow.com/2022/04/26/nasas-moon-rocket-rolls-back-to-vehicle-assembly-building-for-repairs/" >🔗</a> **[Spaceflight Now]** NASA’s moon rocket rolls back to Vehicle Assembly Building for repairs
 - <a href="https://spacenews.com/act-carbon-mapper/" >🔗</a> **[SpaceNews]** ACT to embed thermal management in Carbon Mapper structures
 - <a href="https://www.nasaspaceflight.com/2022/04/hubble-discovers-exoplanet-forming-an-extreme-confirms-5000-exoplanets/" >🔗</a> **[NASA Spaceflight]** Hubble discovers exoplanet unconventionally forming at an extreme distance, NASA confirms 5,000 discovered exoplanets
 - <a href="https://spacenews.com/halifax-international-raising-funds-to-build-imaging-satellites-for-ukraine/" >🔗</a> **[SpaceNews]** Halifax International raising funds to build imaging satellites for Ukraine
-- <a href="https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/" >🔗</a> **[Arstechnica]** SpaceX rapidly pivots from Dragon landing to another launch in 39 hours
-- <a href="https://spacenews.com/space-companies-donate-funds-for-humanitarian-efforts-in-ukraine/" >🔗</a> **[SpaceNews]** Space companies donate funds for humanitarian efforts in Ukraine
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T190525">2022-04-26 19:05:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T193145">2022-04-26 19:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
