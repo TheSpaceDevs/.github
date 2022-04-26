@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/synthetic-data-geoint/" >🔗</a> **[SpaceNews]** Synthetic data helps train algorithms to spot rare objects
+- <a href="https://www.nasaspaceflight.com/2022/04/crew-4-launch/" >🔗</a> **[NASA Spaceflight]** Crew-4 mission to ISS set for pre-dawn liftoff
 - <a href="https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX, NASA on track for Wednesday astronaut launch [webcast]
 - <a href="https://spacenews.com/ligado-networks-critics-step-up-opposition-as-service-launch-nears/" >🔗</a> **[SpaceNews]** Ligado Networks critics step up opposition as service launch nears
 - <a href="https://spacenews.com/nasa-expects-decisions-on-iss-crew-swaps-by-june/" >🔗</a> **[SpaceNews]** NASA expects decisions on ISS crew swaps by June
-- <a href="https://spaceflightnow.com/2022/04/26/nasas-moon-rocket-rolls-back-to-vehicle-assembly-building-for-repairs/" >🔗</a> **[Spaceflight Now]** NASA’s moon rocket rolls back to Vehicle Assembly Building for repairs
-- <a href="https://spacenews.com/act-carbon-mapper/" >🔗</a> **[SpaceNews]** ACT to embed thermal management in Carbon Mapper structures
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T213536">2022-04-26 21:35:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T220703">2022-04-26 22:07:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
