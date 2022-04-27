@@ -110,11 +110,17 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-crew-4-falcon-9-static-fire-axiom-1-return-delay/" >🔗</a> **[Teslarati]** SpaceX static fires Crew-4’s Falcon 9 rocket as Axiom-1 return delay grows
 - <a href="https://www.nasaspaceflight.com/2022/04/axiom-1-return-from-iss/" >🔗</a> **[NASA Spaceflight]** Historic Axiom-1 mission returned from ISS as Crew-4 prepares for launch
 - <a href="http://www.nasa.gov/press-release/coverage-updated-for-nasa-s-spacex-crew-4-briefing-events-broadcast" >🔗</a> **[NASA]** Coverage Updated for NASA’s SpaceX Crew-4 Briefing, Events, Broadcast
+- <a href="https://www.teslarati.com/spacex-rapid-drone-ship-turnaround-starlink-launch-prep-2022/" >🔗</a> **[Teslarati]** SpaceX rapidly turns around drone ship for sixth launch this month
+- <a href="https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/" >🔗</a> **[Arstechnica]** Watch live: SpaceX to launch its sixth crew mission in two years tonight
+- <a href="https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX, NASA on track for Wednesday astronaut launch [webcast]
+- <a href="https://www.nasaspaceflight.com/2022/04/crew-4-launch/" >🔗</a> **[NASA Spaceflight]** Crew-4 mission to ISS set for pre-dawn liftoff
+- <a href="https://spaceflightnow.com/2022/04/26/spacex-poised-for-quick-turnaround-between-astronaut-missions/" >🔗</a> **[Spaceflight Now]** SpaceX poised for quick turnaround between astronaut missions
+- <a href="https://spaceflightnow.com/2022/04/27/crew-4-mission-timeline/" >🔗</a> **[Spaceflight Now]** Crew-4 mission timeline
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T060922">2022-04-27 06:09:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T064514">2022-04-27 06:45:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
