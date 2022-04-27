@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/27/crew-4-mission-timeline/" >🔗</a> **[Spaceflight Now]** Crew-4 mission timeline
+- <a href="https://spacenews.com/dixon-calls-for-transparency-interoperability/" >🔗</a> **[SpaceNews]** Dixon calls for greater transparency and data interoperability
+- <a href="https://arstechnica.com/science/2022/04/spacex-rapidly-pivots-from-dragon-landing-to-another-launch-in-39-hours/" >🔗</a> **[Arstechnica]** Watch live: SpaceX to launch its sixth crew mission in two years tonight
 - <a href="http://www.nasa.gov/press-release/nasa-selects-investigation-teams-to-join-geospace-dynamics-mission" >🔗</a> **[NASA]** NASA Selects Investigation Teams to Join Geospace Dynamics Mission
 - <a href="https://spaceflightnow.com/2022/04/26/spacex-poised-for-quick-turnaround-between-astronaut-missions/" >🔗</a> **[Spaceflight Now]** SpaceX poised for quick turnaround between astronaut missions
-- <a href="https://spacenews.com/synthetic-data-geoint/" >🔗</a> **[SpaceNews]** Synthetic data helps train algorithms to spot rare objects
-- <a href="https://www.nasaspaceflight.com/2022/04/crew-4-launch/" >🔗</a> **[NASA Spaceflight]** Crew-4 mission to ISS set for pre-dawn liftoff
-- <a href="https://www.teslarati.com/spacex-nasa-crew-4-astronaut-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX, NASA on track for Wednesday astronaut launch [webcast]
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220426T233648">2022-04-26 23:36:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220427T004005">2022-04-27 00:40:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
