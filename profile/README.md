@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
 - <a href="https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/" >🔗</a> **[SpaceNews]** China’s Wenchang aims to become commercial space hub
 - <a href="https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/" >🔗</a> **[SpaceNews]** Inmarsat’s telemetry network for rockets ready for launch
 - <a href="https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/" >🔗</a> **[Teslarati]** SpaceX director says six Crew Dragon launches per year is a sustainable goal
 - <a href="https://spacenews.com/crew-4-arrives-at-iss/" >🔗</a> **[SpaceNews]** Crew-4 arrives at ISS
-- <a href="https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/" >🔗</a> **[Spaceflight Now]** Four astronauts arrive at space station for long-term stay
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T151227">2022-04-28 15:12:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T154623">2022-04-28 15:46:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
