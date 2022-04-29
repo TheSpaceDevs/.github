@@ -80,11 +80,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-dream-chaser-vehicle-takes-shape/" >🔗</a> **[SpaceNews]** First Dream Chaser vehicle takes shape
+- <a href="https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/" >🔗</a> **[Teslarati]** SpaceX smashes Falcon 9 booster turnaround record
 - <a href="https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/" >🔗</a> **[Spaceflight Now]** Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt
 - <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launch to break SpaceX turnaround records
 - <a href="https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/" >🔗</a> **[SpaceNews]** Arabsat orders first fully software-defined satellite
-- <a href="http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program" >🔗</a> **[NASA]** NASA Invites Comment on Initial Plans for Mars Sample Return Program
-- <a href="https://arstechnica.com/science/2022/04/spacex-makes-progress-on-cadence-and-reuse-as-it-passes-150-launches/" >🔗</a> **[Arstechnica]** After flying 150th Falcon 9, SpaceX continues to make efficiency gains
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T220729">2022-04-29 22:07:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223759">2022-04-29 22:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
