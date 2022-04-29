@@ -83,7 +83,7 @@ into *an Unknown Orbit
 - <a href="https://spacenews.com/first-dream-chaser-vehicle-takes-shape/" >🔗</a> **[SpaceNews]** First Dream Chaser vehicle takes shape
 - <a href="https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/" >🔗</a> **[Teslarati]** SpaceX smashes Falcon 9 booster turnaround record
 - <a href="https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/" >🔗</a> **[Spaceflight Now]** Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt
-- <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launch to break SpaceX turnaround records
+- <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launches, breaks SpaceX turnaround records
 - <a href="https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/" >🔗</a> **[SpaceNews]** Arabsat orders first fully software-defined satellite
 
 
@@ -93,7 +93,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T230657">2022-04-29 23:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T233630">2022-04-29 23:36:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
