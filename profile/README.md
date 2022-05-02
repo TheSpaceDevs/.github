@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/" >🔗</a> **[Teslarati]** SpaceX still on track to launch one Falcon rocket per week in 2022
 - <a href="https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/" >🔗</a> **[SpaceNews]** Calvelli to assume duties as U.S. Air Force’s space acquisition executive
 - <a href="https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/" >🔗</a> **[NASA Spaceflight]** Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission
 - <a href="https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/" >🔗</a> **[Arstechnica]** SpaceX engineer says NASA should plan for Starship’s “significant” capability
 - <a href="https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/" >🔗</a> **[SpaceNews]** Vyoma agrees data management partnership for SSA constellation
-- <a href="https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/" >🔗</a> **[Arstechnica]** The Western space community should put Dmitry Rogozin on “ignore”
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T213202">2022-05-02 21:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T220712">2022-05-02 22:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
