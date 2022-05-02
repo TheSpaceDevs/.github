@@ -82,10 +82,10 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/" >🔗</a> **[SpaceNews]** U.S. to ramp up spending on classified communications satellites
+- <a href="https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/" >🔗</a> **[SpaceNews]** Falcon 9 busier than ever as Starship reviews delayed again
 - <a href="https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/" >🔗</a> **[SpaceNews]** Emirati astronaut to fly long-duration space station mission
 - <a href="https://spacenews.com/first-dream-chaser-vehicle-takes-shape/" >🔗</a> **[SpaceNews]** First Dream Chaser vehicle takes shape
 - <a href="https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/" >🔗</a> **[Teslarati]** SpaceX smashes Falcon 9 booster turnaround record
-- <a href="https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/" >🔗</a> **[Spaceflight Now]** Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T003609">2022-05-02 00:36:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T031442">2022-05-02 03:14:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
