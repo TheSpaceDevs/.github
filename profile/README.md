@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/" >🔗</a> **[SpaceNews]** South Korea’s Innospace schedules December test launch carrying Brazilian military payload
+- <a href="https://mars.nasa.gov/news/9179/" >🔗</a> **[NASA]** NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team
+- <a href="https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/" >🔗</a> **[Arstechnica]** NASA chief says cost-plus contracts are a “plague” on the space agency
 - <a href="https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/" >🔗</a> **[Arstechnica]** Rocket Lab catches a 1-ton booster falling back from space
 - <a href="https://spacenews.com/capstone-up-next-for-rocket-lab/" >🔗</a> **[SpaceNews]** CAPSTONE up next for Rocket Lab
-- <a href="https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/" >🔗</a> **[Teslarati]** Rocket Lab catches Electron booster with a helicopter on first attempt
-- <a href="https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/" >🔗</a> **[SpaceNews]** Space Force selects 125 industry proposals for on-orbit servicing technologies
-- <a href="https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/" >🔗</a> **[SpaceNews]** ‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T161527">2022-05-03 16:15:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T170032">2022-05-03 17:00:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
