@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/exomars-official-says-launch-unlikely-before-2028/" >🔗</a> **[SpaceNews]** ExoMars official says launch unlikely before 2028
 - <a href="https://spacenews.com/ast-spacemobile-licensed-to-connect-test-satellite-to-us-cellular-phones/" >🔗</a> **[SpaceNews]** AST SpaceMobile licensed to connect test satellite to US cellular phones
 - <a href="https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab briefly catches booster in mid-air after successful launch
 - <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Announces Winners of 2022 Human Exploration Rover Challenge
 - <a href="https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/" >🔗</a> **[SpaceNews]** South Korea’s Innospace schedules December test launch carrying Brazilian military payload
-- <a href="https://mars.nasa.gov/news/9179/" >🔗</a> **[NASA]** NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T230703">2022-05-03 23:07:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T233429">2022-05-03 23:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
