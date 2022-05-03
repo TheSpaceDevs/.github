@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/" >🔗</a> **[SpaceNews]** Space Force selects 125 industry proposals for on-orbit servicing technologies
 - <a href="https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/" >🔗</a> **[SpaceNews]** ‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat
 - <a href="https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/" >🔗</a> **[Teslarati]** SpaceX still on track to launch one Falcon rocket per week in 2022
 - <a href="https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/" >🔗</a> **[SpaceNews]** Calvelli to assume duties as U.S. Air Force’s space acquisition executive
-- <a href="https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/" >🔗</a> **[NASA Spaceflight]** Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission
-- <a href="https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/" >🔗</a> **[Arstechnica]** SpaceX engineer says NASA should plan for Starship’s “significant” capability
+- <a href="https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/" >🔗</a> **[NASA Spaceflight]** Rocket Lab makes first booster catch attempt during successful There And Back Again mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T233718">2022-05-02 23:37:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T003600">2022-05-03 00:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
