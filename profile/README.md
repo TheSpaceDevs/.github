@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/" >🔗</a> **[SpaceNews]** Nelson criticizes “plague” of cost-plus NASA contracts
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy payload arrives in Florida for the first time in years
 - <a href="https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/" >🔗</a> **[SpaceNews]** NaraSpace Technology closes $7.88 million Series A for nanosatellite project
 - <a href="https://spacenews.com/exomars-official-says-launch-unlikely-before-2028/" >🔗</a> **[SpaceNews]** ExoMars official says launch unlikely before 2028
 - <a href="https://spacenews.com/ast-spacemobile-licensed-to-connect-test-satellite-to-us-cellular-phones/" >🔗</a> **[SpaceNews]** AST SpaceMobile licensed to connect test satellite to US cellular phones
-- <a href="https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab briefly catches booster in mid-air after successful launch
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T113336">2022-05-04 11:33:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T121425">2022-05-04 12:14:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
