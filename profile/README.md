@@ -81,20 +81,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth" >🔗</a> **[NASA]** NASA, ESA Astronauts Safely Return to Earth
 - <a href="https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/" >🔗</a> **[SpaceNews]** Crew-3 splashes down in Gulf of Mexico
 - <a href="https://spaceflightnow.com/2022/05/05/psyche-asteroid-explorer-arrives-at-kennedy-space-center-for-final-launch-preps/" >🔗</a> **[Spaceflight Now]** Psyche asteroid explorer arrives at Kennedy Space Center for launch preps
 - <a href="https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch
 - <a href="https://www.nasaspaceflight.com/2022/05/one-year-since-sn15-starbase-lays-groundwork-for-orbital-attempt/" >🔗</a> **[NASA Spaceflight]** One year since SN15, Starbase lays groundwork for orbital attempt
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-25th-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 25th Cargo Launch to Space Station
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch
+- <a href="https://spaceflightnow.com/2022/05/05/spacex-rolls-out-rocket-for-another-starlink-deployment-mission/" >🔗</a> **[Spaceflight Now]** SpaceX rolls out rocket for another Starlink deployment mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T053534">2022-05-06 05:35:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T061025">2022-05-06 06:10:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
