@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-planning-next-sls-countdown-rehearsal-in-june/" >🔗</a> **[SpaceNews]** NASA planning next SLS countdown rehearsal in June
+- <a href="https://arstechnica.com/science/2022/05/rocket-report-virgin-galactic-delayed-again-june-targeted-for-next-sls-test/" >🔗</a> **[Arstechnica]** Rocket Report: Virgin Galactic delayed again, June targeted for next SLS test
 - <a href="https://www.nasaspaceflight.com/2022/05/starlink-4-17/" >🔗</a> **[NASA Spaceflight]** SpaceX launches morning Starlink mission from Kennedy Space Center
 - <a href="https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/" >🔗</a> **[Arstechnica]** SpaceX caps an incredibly busy month with a NASA crew landing Friday morning
 - <a href="http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth" >🔗</a> **[NASA]** NASA, ESA Astronauts Safely Return to Earth
-- <a href="https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/" >🔗</a> **[SpaceNews]** Crew-3 splashes down in Gulf of Mexico
-- <a href="https://spaceflightnow.com/2022/05/05/psyche-asteroid-explorer-arrives-at-kennedy-space-center-for-final-launch-preps/" >🔗</a> **[Spaceflight Now]** Psyche asteroid explorer arrives at Kennedy Space Center for launch preps
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T113343">2022-05-06 11:33:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T121718">2022-05-06 12:17:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
