@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/" >🔗</a> **[NASA Spaceflight]** 30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality
 - <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
 - <a href="https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace completes kilometer-level rocket launch and landing test
 - <a href="https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/" >🔗</a> **[NASA Spaceflight]** Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS
 - <a href="https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/" >🔗</a> **[Spaceflight Now]** Splashdown of SpaceX capsule caps busy season of space station crew rotations
-- <a href="https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/" >🔗</a> **[SpaceNews]** Telesat to order 100 fewer satellites for LEO constellation
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T190616">2022-05-07 19:06:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T193317">2022-05-07 19:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
