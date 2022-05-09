@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth" >🔗</a> **[NASA]** NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth
 - <a href="https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/" >🔗</a> **[SpaceNews]** CACI to launch experimental satellite to demonstrate alternative to GPS navigation
 - <a href="https://www.nasaspaceflight.com/2022/05/centaur-turns-60/" >🔗</a> **[NASA Spaceflight]** As Centaur turns 60 years old, ULA prepares to evolve Centaur V
 - <a href="https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/" >🔗</a> **[Arstechnica]** After losing contact with its helicopter, NASA put the entire Mars mission on hold
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/" >🔗</a> **[Teslarati]** SpaceX Super Heavy booster returns to launch pad after major repairs
-- <a href="https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/" >🔗</a> **[SpaceNews]** Momentus receives approvals for first tug launch
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T151253">2022-05-09 15:12:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T154628">2022-05-09 15:46:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
