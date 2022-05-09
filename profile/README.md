@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/" >🔗</a> **[Arstechnica]** After losing contact with its helicopter, NASA put the entire Mars mission on hold
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/" >🔗</a> **[Teslarati]** SpaceX Super Heavy booster returns to launch pad after major repairs
 - <a href="https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/" >🔗</a> **[SpaceNews]** Momentus receives approvals for first tug launch
 - <a href="https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/" >🔗</a> **[SpaceNews]** NASA defends decision to shut down SOFIA
 - <a href="https://spacenews.com/faa-and-ntsb-discussing-roles-in-commercial-spaceflight-investigations/" >🔗</a> **[SpaceNews]** FAA and NTSB discussing roles in commercial spaceflight investigations
-- <a href="https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/" >🔗</a> **[NASA Spaceflight]** 30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T130928">2022-05-09 13:09:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T135631">2022-05-09 13:56:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
