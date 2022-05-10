@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-france-agree-to-cooperate-on-secure-access-to-outer-space-space-based-challenges/" >🔗</a> **[SpaceNews]** India, France agree to cooperate on secure access to outer space, space-based challenges
+- <a href="https://arstechnica.com/science/2022/05/entrepreneurs-create-a-space-academy-as-commercial-space-flourishes/" >🔗</a> **[Arstechnica]** Entrepreneurs create a space “academy” as commercial space flourishes
+- <a href="https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** National Reconnaissance Office to launch mission on Virgin Orbit rocket from U.K. spaceport
 - <a href="https://www.teslarati.com/spacex-back-to-back-starlink-launches-may-2022/" >🔗</a> **[Teslarati]** SpaceX preparing for back-to-back Starlink launches from California and Florida
 - <a href="https://spacenews.com/astra-to-launch-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** Astra to launch from U.K. spaceport
-- <a href="https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-4 cargo craft docks with Chinese space station
-- <a href="https://mars.nasa.gov/news/9185/" >🔗</a> **[NASA]** NASA's InSight Records Monster Quake on Mars
-- <a href="https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/" >🔗</a> **[Teslarati]** SpaceX agrees to launch dozens of Satellogic Earth imaging satellites
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T121934">2022-05-10 12:19:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T132433">2022-05-10 13:24:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
