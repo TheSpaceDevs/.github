@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/" >🔗</a> **[SpaceNews]** Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes
+- <a href="https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/" >🔗</a> **[Teslarati]** SpaceX President updates schedule for Starship’s orbital launch debut
+- <a href="https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/" >🔗</a> **[SpaceNews]** Electric vehicle company with NASA contract issues financial warning
 - <a href="https://spaceflightnow.com/2022/05/10/spacex-training-begins-this-month-for-first-commercial-spacewalk-mission/" >🔗</a> **[Spaceflight Now]** SpaceX training begins this month for first commercial spacewalk mission
 - <a href="https://spacenews.com/space-force-to-invest-in-testing-infrastructure-to-evaluate-new-systems/" >🔗</a> **[SpaceNews]** Space Force to invest in testing infrastructure to evaluate new systems
-- <a href="https://spacenews.com/spire-global-adding-high-capacity-ku-band-antennas-to-satellites/" >🔗</a> **[SpaceNews]** Spire Global adding high-capacity Ku-band antennas to satellites
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-insight-mars-lander" >🔗</a> **[NASA]** NASA to Provide Update on InSight Mars Lander
-- <a href="https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** National Reconnaissance Office partners with U.K. on space mission to fly on Virgin Orbit rocket
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T110636">2022-05-11 11:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T113344">2022-05-11 11:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
