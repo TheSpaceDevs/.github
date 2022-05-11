@@ -85,7 +85,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/" >🔗</a> **[SpaceNews]** Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes
 - <a href="https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/" >🔗</a> **[Teslarati]** SpaceX President updates schedule for Starship’s orbital launch debut
 - <a href="https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/" >🔗</a> **[SpaceNews]** Electric vehicle company with NASA contract issues financial warning
-- <a href="https://spaceflightnow.com/2022/05/10/spacex-training-begins-this-month-for-first-commercial-spacewalk-mission/" >🔗</a> **[Spaceflight Now]** SpaceX training begins this month for first commercial spacewalk mission
+- <a href="https://www.reuters.com/business/aerospace-defense/exclusive-boeing-clashes-with-key-supplier-ahead-starliner-spacecraft-launch-2022-05-11/" >🔗</a> **[Reuters]** Boeing clashes with key supplier ahead of Starliner spacecraft launch
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T121919">2022-05-11 12:19:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T131040">2022-05-11 13:10:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
