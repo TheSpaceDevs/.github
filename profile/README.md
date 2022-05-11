@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/" >🔗</a> **[SpaceNews]** Orbex unveils prototype of rocket preparing for UK’s first vertical launch
 - <a href="https://spacenews.com/colombia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Colombia signs Artemis Accords
 - <a href="https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/" >🔗</a> **[SpaceNews]** Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes
 - <a href="https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/" >🔗</a> **[Teslarati]** SpaceX President updates schedule for Starship’s orbital launch debut
 - <a href="https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/" >🔗</a> **[SpaceNews]** Electric vehicle company with NASA contract issues financial warning
-- <a href="https://www.reuters.com/business/aerospace-defense/exclusive-boeing-clashes-with-key-supplier-ahead-starliner-spacecraft-launch-2022-05-11/" >🔗</a> **[Reuters]** Boeing clashes with key supplier ahead of Starliner spacecraft launch
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T181318">2022-05-11 18:13:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T184754">2022-05-11 18:47:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
