@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-considering-redesign-of-starliner-valves/" >🔗</a> **[SpaceNews]** Boeing considering redesign of Starliner valves
 - <a href="https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/" >🔗</a> **[SpaceNews]** Melting Arctic ice opens new front in strategic power competition
 - <a href="https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/" >🔗</a> **[Teslarati]** SpaceX ready to begin training astronauts for first private spacewalk
 - <a href="https://www.nasaspaceflight.com/2022/05/oft-2-frr/" >🔗</a> **[NASA Spaceflight]** Boeing, NASA teams give Starliner final go for OFT-2 mission
 - <a href="https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/" >🔗</a> **[SpaceNews]** As US blames Russia for KA-SAT hack, Starlink sees growing threat
-- <a href="https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/" >🔗</a> **[Spaceflight Now]** Vega C prepped for maiden flight in June
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T113420">2022-05-12 11:34:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T121732">2022-05-12 12:17:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
