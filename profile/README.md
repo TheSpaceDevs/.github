@@ -83,11 +83,11 @@ NOTE: Payload identity unconfirmed.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/" >🔗</a> **[Spaceflight Now]** NOAA reveals first images from new weather satellite
+- <a href="https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/" >🔗</a> **[SpaceNews]** Manchin introduces bipartisan bill to establish Space National Guard
 - <a href="https://spaceflightnow.com/2022/05/12/astronomers-unveil-first-image-of-the-milky-ways-central-black-hole/" >🔗</a> **[Spaceflight Now]** Astronomers unveil first image of the Milky Way’s central black hole
 - <a href="http://www.nasa.gov/press-release/colorado-students-to-hear-from-astronauts-aboard-space-station" >🔗</a> **[NASA]** Colorado Students to Hear from Astronauts Aboard Space Station
 - <a href="https://spacenews.com/boeing-considering-redesign-of-starliner-valves/" >🔗</a> **[SpaceNews]** Boeing considering redesign of Starliner valves
-- <a href="https://spacenews.com/melting-arctic-ice-opens-new-front-in-strategic-power-competition/" >🔗</a> **[SpaceNews]** Melting Arctic ice opens new front in strategic power competition
-- <a href="https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/" >🔗</a> **[Teslarati]** SpaceX ready to begin training astronauts for first private spacewalk
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ NOTE: Payload identity unconfirmed.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T203829">2022-05-12 20:38:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T210621">2022-05-12 21:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
