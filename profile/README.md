@@ -80,21 +80,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/" >🔗</a> **[Spaceflight Now]** SpaceX planning two Starlink launches Friday and Saturday, weather permitting
 - <a href="https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/" >🔗</a> **[SpaceNews]** Chinese rocket company suffers third consecutive launch failure
 - <a href="https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/" >🔗</a> **[Teslarati]** SpaceX’s repaired Starship booster survives back-to-back cryoproof tests
 - <a href="https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/" >🔗</a> **[SpaceNews]** ISS partnership feeling some effects of sanctions on Russia
 - <a href="https://spacenews.com/arctic-connectivity-competition-is-heating-up/" >🔗</a> **[SpaceNews]** Arctic connectivity competition is heating up
-- <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-back-to-back-starlink-launches-may-2022/" >🔗</a> **[Teslarati]** SpaceX preparing for back-to-back Starlink launches from California and Florida
+- <a href="https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/" >🔗</a> **[Spaceflight Now]** SpaceX planning two Starlink launches Friday and Saturday, weather permitting
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T151056">2022-05-13 15:10:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T154314">2022-05-13 15:43:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
