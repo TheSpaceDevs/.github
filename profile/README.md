@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/" >🔗</a> **[SpaceNews]** Chinese rocket company suffers third consecutive launch failure
+- <a href="https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/" >🔗</a> **[Teslarati]** SpaceX’s repaired Starship booster survives back-to-back cryoproof tests
+- <a href="https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/" >🔗</a> **[SpaceNews]** ISS partnership feeling some effects of sanctions on Russia
 - <a href="https://spacenews.com/arctic-connectivity-competition-is-heating-up/" >🔗</a> **[SpaceNews]** Arctic connectivity competition is heating up
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast
-- <a href="https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/" >🔗</a> **[SpaceNews]** SES mulls direct-to-handheld 5G satellite business
-- <a href="https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/" >🔗</a> **[Spaceflight Now]** NOAA reveals first images from new weather satellite
-- <a href="https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/" >🔗</a> **[SpaceNews]** Manchin introduces bipartisan bill to establish Space National Guard
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T113523">2022-05-13 11:35:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T132520">2022-05-13 13:25:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
