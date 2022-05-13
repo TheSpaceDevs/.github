@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arctic-connectivity-competition-is-heating-up/" >🔗</a> **[SpaceNews]** Arctic connectivity competition is heating up
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast
 - <a href="https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/" >🔗</a> **[SpaceNews]** SES mulls direct-to-handheld 5G satellite business
 - <a href="https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/" >🔗</a> **[Spaceflight Now]** NOAA reveals first images from new weather satellite
 - <a href="https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/" >🔗</a> **[SpaceNews]** Manchin introduces bipartisan bill to establish Space National Guard
-- <a href="https://spaceflightnow.com/2022/05/12/astronomers-unveil-first-image-of-the-milky-ways-central-black-hole/" >🔗</a> **[Spaceflight Now]** Astronomers unveil first image of the Milky Way’s central black hole
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T104150">2022-05-13 10:41:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T110642">2022-05-13 11:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
