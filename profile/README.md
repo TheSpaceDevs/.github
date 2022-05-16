@@ -79,11 +79,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-hit-by-more-suspected-space-debris/" >🔗</a> **[SpaceNews]** India hit by more suspected space debris
 - <a href="https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/" >🔗</a> **[SpaceNews]** U.S. Space Force sees future demand for surveillance beyond Earth orbit
 - <a href="https://arstechnica.com/science/2022/05/actually-boeing-is-probably-the-savior-of-nasas-commercial-crew-program/" >🔗</a> **[Arstechnica]** Former NASA leaders praise Boeing’s willingness to risk commercial crew
 - <a href="https://spacenews.com/chinese-satellite-propulsion-startup-secures-funding-as-countrys-constellation-projects-grow/" >🔗</a> **[SpaceNews]** Chinese satellite propulsion startup secures funding as country’s constellation projects grow
 - <a href="https://www.teslarati.com/spacex-two-starlink-launches-24-hours-2022/" >🔗</a> **[Teslarati]** SpaceX launches two Starlink missions in 24 hours
-- <a href="https://spacenews.com/launcher-announces-customers-for-first-orbiter-space-tug-mission/" >🔗</a> **[SpaceNews]** Launcher announces customers for first Orbiter space tug mission
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T174201">2022-05-16 17:42:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T181342">2022-05-16 18:13:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
