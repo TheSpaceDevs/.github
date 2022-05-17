@@ -80,11 +80,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch record-breaking communications satellite
 - <a href="https://spacenews.com/space-systems-dominate-rocket-lab-revenue/" >🔗</a> **[SpaceNews]** Space systems dominate Rocket Lab revenue
 - <a href="https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/" >🔗</a> **[SpaceNews]** ABL Space Systems completes acceptance testing of RS1 upper stage
 - <a href="https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/" >🔗</a> **[NASA Spaceflight]** NASA, Air Liquide continue working on Artemis 1 WDR issues
 - <a href="https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/" >🔗</a> **[SpaceNews]** Spacecom plots maritime expansion after netting first customer
-- <a href="https://spacenews.com/india-hit-by-more-suspected-space-debris/" >🔗</a> **[SpaceNews]** India hit by more suspected space debris
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T110619">2022-05-17 11:06:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T113401">2022-05-17 11:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
