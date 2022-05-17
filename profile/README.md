@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/" >🔗</a> **[SpaceNews]** Satellites key to Canada’s Arctic surveillance strategy
+- <a href="https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/" >🔗</a> **[SpaceNews]** DIU selects nuclear-powered spacecraft designs for 2027 demonstrations
 - <a href="https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/" >🔗</a> **[SpaceNews]** Uzbekistan woos Starlink, OneWeb to bring satellite broadband
+- <a href="https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/" >🔗</a> **[SpaceNews]** Satellites key to Canada’s Arctic surveillance strategy
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch record-breaking communications satellite
 - <a href="https://spacenews.com/space-systems-dominate-rocket-lab-revenue/" >🔗</a> **[SpaceNews]** Space systems dominate Rocket Lab revenue
-- <a href="https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/" >🔗</a> **[SpaceNews]** ABL Space Systems completes acceptance testing of RS1 upper stage
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T140554">2022-05-17 14:05:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T143541">2022-05-17 14:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
