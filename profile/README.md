@@ -81,7 +81,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Military experiment demonstrates intersatellite laser communications in Low Earth orbit
+- <a href="https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Military experiment demonstrates intersatellite laser communications in low Earth orbit
 - <a href="https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX already raising Falcon 9 rocket vertical for next Starlink launch
 - <a href="https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/" >🔗</a> **[SpaceNews]** Operational AST SpaceMobile satellites could proceed without prototype
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions" >🔗</a> **[NASA]** NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T213615">2022-05-17 21:36:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T220826">2022-05-17 22:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
