@@ -83,11 +83,11 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/" >🔗</a> **[SpaceNews]** Military buyers challenged to stay up on the latest commercial space innovations
+- <a href="https://spacenews.com/ball-and-raytheon-weather-instruments/" >🔗</a> **[SpaceNews]** Ball and Raytheon win weather instrument study contracts
 - <a href="https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/" >🔗</a> **[SpaceNews]** Kongsberg orders satellites for Norwegian maritime surveillance
 - <a href="https://www.teslarati.com/spacex-21st-falcon-9-launch-2022/" >🔗</a> **[Teslarati]** SpaceX completes 21st launch and landing of 2022
 - <a href="https://spacenews.com/proposed-constellations-would-enhance-arctic-weather-observations/" >🔗</a> **[SpaceNews]** Proposed constellations would enhance Arctic weather observations
-- <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Starlink 4-18, third Starlink mission in five days
-- <a href="https://spacenews.com/nasa-confirms-impending-end-for-insight/" >🔗</a> **[SpaceNews]** NASA confirms impending end for InSight
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T184327">2022-05-18 18:43:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T190601">2022-05-18 19:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
