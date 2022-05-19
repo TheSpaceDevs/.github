@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/" >🔗</a> **[Arstechnica]** Today’s the day when Boeing’s Starliner takes to the skies. Probably
 - <a href="https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing set for second Starliner test flight
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/" >🔗</a> **[Teslarati]** SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster
 - <a href="https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/" >🔗</a> **[SpaceNews]** NASA puts ISS spacewalks on hold to investigate water leak
 - <a href="https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/" >🔗</a> **[SpaceNews]** Military buyers challenged to stay up on the latest commercial space innovations
-- <a href="https://spacenews.com/ball-and-raytheon-weather-instruments/" >🔗</a> **[SpaceNews]** Ball and Raytheon win weather instrument study contracts
 
 
 ### Launch-related News 🚀
@@ -146,12 +146,16 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2022/05/oft-2-frr/" >🔗</a> **[NASA Spaceflight]** Boeing, NASA teams give Starliner final go for OFT-2 mission
 - <a href="https://spaceflightnow.com/2022/05/11/nasa-managers-clear-boeings-starliner-capsule-for-second-try-to-reach-space-station/" >🔗</a> **[Spaceflight Now]** NASA managers clear Boeing’s Starliner for second try to reach space station
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast
+- <a href="https://spaceflightnow.com/2022/05/17/nasa-boeing-ready-for-long-delayed-high-stakes-starliner-test-flight/" >🔗</a> **[Spaceflight Now]** NASA, Boeing ready for long-delayed, high-stakes Starliner test flight
 - <a href="https://spaceflightnow.com/2022/05/18/starliner-astronauts-eager-to-see-results-of-crew-capsule-test-flight/" >🔗</a> **[Spaceflight Now]** Starliner astronauts eager to see results from crew capsule test flight
+- <a href="https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing set for second Starliner test flight
+- <a href="https://spaceflightnow.com/2022/05/18/atlas-5-rocket-and-starliner-capsule-return-to-florida-launch-pad/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket and Starliner capsule return to Florida launch pad
+- <a href="https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/" >🔗</a> **[Arstechnica]** Today’s the day when Boeing’s Starliner takes to the skies. Probably
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T130857">2022-05-19 13:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T135318">2022-05-19 13:53:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
