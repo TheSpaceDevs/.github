@@ -16,7 +16,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>.  Until
 then, this pad will have been used for 142
-out of 842 launches from this location. The launch status is currently
+out of 843 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
 *Dedicated Rideshare* and the payload will be injected
 into *a Sun-Synchronous Orbit
@@ -93,7 +93,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T161015">2022-05-20 16:10:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T165600">2022-05-20 16:56:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
