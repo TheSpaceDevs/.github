@@ -80,7 +80,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-perspective-raises-17-million/" >🔗</a> **[SpaceNews]** Space Perspective raises $17 million
-- <a href="https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars into orbit, About those Raptor RUDs in Texas
+- <a href="https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas
 - <a href="https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2" >🔗</a> **[The Verge]** Boeing successfully launches Starliner spacecraft to orbit in do-over test flight
 - <a href="https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace raises $59.9 million in Series A round
 - <a href="http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa" >🔗</a> **[NASA]** Starliner Launches to Space Station on Uncrewed Flight Test for NASA
@@ -93,7 +93,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T121330">2022-05-20 12:13:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T130553">2022-05-20 13:05:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
