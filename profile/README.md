@@ -80,11 +80,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa" >🔗</a> **[NASA]** Starliner Launches to Space Station on Uncrewed Flight Test for NASA
+- <a href="https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/" >🔗</a> **[SpaceNews]** Atlas 5 launches Starliner on second uncrewed test flight
 - <a href="https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/" >🔗</a> **[SpaceNews]** Telesat tests LEO broadband prototype in India
 - <a href="https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/" >🔗</a> **[SpaceNews]** Inmarsat uses ships as stepping stones in mesh network trial
 - <a href="https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/" >🔗</a> **[SpaceNews]** NASA seeks input on human exploration objectives
-- <a href="https://spacenews.com/ice-giants-and-icy-moons-the-planetary-science-decadal-survey-looks-beyond-mars-to-the-outer-solar-system/" >🔗</a> **[SpaceNews]** Ice giants and icy moons: The planetary science decadal survey looks beyond Mars to the outer solar system
-- <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T233719">2022-05-19 23:37:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T003546">2022-05-20 00:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
