@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/" >🔗</a> **[SpaceNews]** NASA plans early June rollout of SLS for next countdown test
 - <a href="https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner capsule completes first “nail-biting” docking at space station
 - <a href="https://www.nasaspaceflight.com/2022/05/oft-2-docking/" >🔗</a> **[NASA Spaceflight]** Starliner makes first docking with ISS on OFT-2 mission
 - <a href="https://spacenews.com/space-perspective-raises-17-million/" >🔗</a> **[SpaceNews]** Space Perspective raises $17 million
 - <a href="https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas
-- <a href="https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2" >🔗</a> **[The Verge]** Boeing successfully launches Starliner spacecraft to orbit in do-over test flight
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T223704">2022-05-21 22:37:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T230721">2022-05-21 23:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
