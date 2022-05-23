@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/05/23/launch-of-nasas-psyche-asteroid-mission-delayed-to-late-september/" >🔗</a> **[Spaceflight Now]** Launch of NASA’s Psyche asteroid mission delayed to late September
+- <a href="https://spacenews.com/lockheed-martin-filecoin-foundation-plan-demonstration-of-decentralized-data-storage-in-space/" >🔗</a> **[SpaceNews]** Lockheed Martin, Filecoin Foundation plan demonstration of decentralized data storage in space
 - <a href="https://spaceflightnow.com/2022/05/23/russian-spy-satellite-launched-by-soyuz-rocket/" >🔗</a> **[Spaceflight Now]** Russian spy satellite launched by Soyuz rocket
 - <a href="http://www.nasa.gov/press-release/president-biden-nasa-to-welcome-japanese-astronaut-aboard-gateway" >🔗</a> **[NASA]** President Biden: NASA to Welcome Japanese Astronaut Aboard Gateway
 - <a href="https://www.teslarati.com/spacex-127-billion-valuation-new-funding-round-2022/" >🔗</a> **[Teslarati]** SpaceX valuation set to reach $127 billion after new $1.7 billion funding round
-- <a href="https://spacenews.com/biden-vows-to-expand-space-cooperation-with-south-korea-japan/" >🔗</a> **[SpaceNews]** Biden vows to expand space cooperation with South Korea, Japan
-- <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-orbital-flight-test-2-return-to-earth" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing Orbital Flight Test-2 Return to Earth
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T230724">2022-05-23 23:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T233728">2022-05-23 23:37:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
