@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-announces-armstrong-flight-research-center-director-to-retire" >🔗</a> **[NASA]** NASA Announces Armstrong Flight Research Center Director to Retire
 - <a href="https://arstechnica.com/science/2022/05/how-nasa-finally-melted-its-giant-self-licking-ice-cream-cone/" >🔗</a> **[Arstechnica]** How NASA finally melted its giant “self-licking ice cream cone”
 - <a href="https://spacenews.com/industry-pushes-for-nasa-reauthorization/" >🔗</a> **[SpaceNews]** Industry pushes for NASA reauthorization
 - <a href="https://www.teslarati.com/boing-starliner-space-crew-dragon-space-station-meetup/" >🔗</a> **[Teslarati]** Boeing Starliner joins SpaceX’s Crew Dragon at the International Space Station
 - <a href="https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/" >🔗</a> **[SpaceNews]** Military looking for new ways to acquire and use commercial satellite data
-- <a href="https://spacenews.com/starliner-launches-to-remain-on-atlas-5/" >🔗</a> **[SpaceNews]** Starliner launches to remain on Atlas 5
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T171346">2022-05-23 17:13:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T174025">2022-05-23 17:40:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
