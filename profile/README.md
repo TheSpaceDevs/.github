@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-pushes-for-nasa-reauthorization/" >🔗</a> **[SpaceNews]** Industry pushes for NASA reauthorization
+- <a href="https://www.teslarati.com/boing-starliner-space-crew-dragon-space-station-meetup/" >🔗</a> **[Teslarati]** Boeing Starliner joins SpaceX’s Crew Dragon at the International Space Station
 - <a href="https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/" >🔗</a> **[SpaceNews]** Military looking for new ways to acquire and use commercial satellite data
 - <a href="https://spacenews.com/starliner-launches-to-remain-on-atlas-5/" >🔗</a> **[SpaceNews]** Starliner launches to remain on Atlas 5
 - <a href="https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/" >🔗</a> **[SpaceNews]** NASA plans early June rollout of SLS for next countdown test
-- <a href="https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner capsule completes first “nail-biting” docking at space station
-- <a href="https://www.nasaspaceflight.com/2022/05/oft-2-docking/" >🔗</a> **[NASA Spaceflight]** Starliner makes first docking with ISS on OFT-2 mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T110648">2022-05-23 11:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T113457">2022-05-23 11:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
