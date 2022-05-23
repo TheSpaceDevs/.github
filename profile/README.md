@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-launches-to-remain-on-atlas-5/" >🔗</a> **[SpaceNews]** Starliner launches to remain on Atlas 5
 - <a href="https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/" >🔗</a> **[SpaceNews]** NASA plans early June rollout of SLS for next countdown test
 - <a href="https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner capsule completes first “nail-biting” docking at space station
 - <a href="https://www.nasaspaceflight.com/2022/05/oft-2-docking/" >🔗</a> **[NASA Spaceflight]** Starliner makes first docking with ISS on OFT-2 mission
 - <a href="https://spacenews.com/space-perspective-raises-17-million/" >🔗</a> **[SpaceNews]** Space Perspective raises $17 million
-- <a href="https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220522T233646">2022-05-22 23:36:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T003721">2022-05-23 00:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
