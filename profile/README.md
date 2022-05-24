@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/experimental-payload-with-robotic-arm-to-attempt-metal-cutting-on-orbit/" >🔗</a> **[SpaceNews]** Experimental payload with robotic arm to attempt metal cutting on orbit
 - <a href="https://spaceflightnow.com/2022/05/23/launch-of-nasas-psyche-asteroid-mission-delayed-to-late-september/" >🔗</a> **[Spaceflight Now]** Launch of NASA’s Psyche asteroid mission delayed to late September
 - <a href="https://spacenews.com/lockheed-martin-filecoin-foundation-plan-demonstration-of-decentralized-data-storage-in-space/" >🔗</a> **[SpaceNews]** Lockheed Martin, Filecoin Foundation plan demonstration of decentralized data storage in space
 - <a href="https://spaceflightnow.com/2022/05/23/russian-spy-satellite-launched-by-soyuz-rocket/" >🔗</a> **[Spaceflight Now]** Russian spy satellite launched by Soyuz rocket
 - <a href="http://www.nasa.gov/press-release/president-biden-nasa-to-welcome-japanese-astronaut-aboard-gateway" >🔗</a> **[NASA]** President Biden: NASA to Welcome Japanese Astronaut Aboard Gateway
-- <a href="https://www.teslarati.com/spacex-127-billion-valuation-new-funding-round-2022/" >🔗</a> **[Teslarati]** SpaceX valuation set to reach $127 billion after new $1.7 billion funding round
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T233728">2022-05-23 23:37:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T004024">2022-05-24 00:40:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
