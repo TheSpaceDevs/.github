@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-supported-solar-sail-could-take-science-to-new-heights" >🔗</a> **[NASA]** NASA-Supported Solar Sail Could Take Science to New Heights
 - <a href="https://spacenews.com/microsoft-custom-vision/" >🔗</a> **[SpaceNews]** Azure Space offers Custom Vision tools for satellite imagery
 - <a href="https://spacenews.com/leolabs-contract-japan-ministry-of-defense/" >🔗</a> **[SpaceNews]** Japan Air Self Defense Force awards contract to LeoLabs
 - <a href="https://arstechnica.com/science/2022/05/red-dust-has-completely-covered-nasas-seismic-spacecraft-on-mars/" >🔗</a> **[Arstechnica]** New photo reveals a NASA spacecraft cloaked in Martian dust
 - <a href="https://spacenews.com/quad-nations-unveil-satellite-based-maritime-monitoring-initiative/" >🔗</a> **[SpaceNews]** Quad nations unveil satellite-based maritime monitoring initiative
-- <a href="https://spacenews.com/software-problem-delays-nasa-psyche-launch/" >🔗</a> **[SpaceNews]** Software problem delays NASA Psyche launch
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T160939">2022-05-24 16:09:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T165737">2022-05-24 16:57:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
