@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/aws-picks-10-startups-for-2022-space-accelerator/" >🔗</a> **[SpaceNews]** AWS picks 10 startups for 2022 space accelerator
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Science
+- <a href="https://spaceflightnow.com/2022/05/24/spacex-swapping-heat-shield-for-next-crew-mission-due-to-manufacturing-defect/" >🔗</a> **[Spaceflight Now]** SpaceX swapping heat shield for next crew flight due to ‘manufacturing defect’
 - <a href="https://spacenews.com/bluehalo-wins-1-4-billion-contract-to-upgrade-u-s-satellite-control-network/" >🔗</a> **[SpaceNews]** BlueHalo wins $1.4 billion contract to upgrade U.S. satellite control network
+- <a href="https://spacenews.com/aws-picks-10-startups-for-2022-space-accelerator/" >🔗</a> **[SpaceNews]** AWS picks 10 startups for 2022 space accelerator
 - <a href="https://spacenews.com/starlinks-rv-service-enables-lets-users-jump-the-line-for-a-price/" >🔗</a> **[SpaceNews]** Starlink’s RV service lets users jump the line for a price
-- <a href="http://www.nasa.gov/press-release/nasa-supported-solar-sail-could-take-science-to-new-heights" >🔗</a> **[NASA]** NASA-Supported Solar Sail Could Take Science to New Heights
-- <a href="https://spacenews.com/microsoft-custom-vision/" >🔗</a> **[SpaceNews]** Azure Space offers Custom Vision tools for satellite imagery
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T200850">2022-05-24 20:08:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T203922">2022-05-24 20:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
