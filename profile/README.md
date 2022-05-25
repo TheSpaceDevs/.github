@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/" >🔗</a> **[SpaceNews]** Supply chain challenges also present opportunities for the space industry
 - <a href="https://spacenews.com/advice-for-entrepreneurs/" >🔗</a> **[SpaceNews]** Experts offer advice for space sector entrepreneurs
 - <a href="https://spacenews.com/ssc-front-door-pathways/" >🔗</a> **[SpaceNews]** Space Systems Command refines front-door concept
 - <a href="https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/" >🔗</a> **[Teslarati]** NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Sciences
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Science
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T090710">2022-05-25 09:07:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T093658">2022-05-25 09:36:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
