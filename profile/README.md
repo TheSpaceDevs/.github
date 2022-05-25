@@ -80,11 +80,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/" >🔗</a> **[Arstechnica]** Earth’s orbital debris problem is worsening, and policy solutions are difficult
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research" >🔗</a> **[NASA]** NASA Invites Media to Discuss Space Station Science, Climate Research
 - <a href="https://www.nasaspaceflight.com/2022/05/transporter-5-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission
 - <a href="https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/" >🔗</a> **[SpaceNews]** Launcher wins Space Force contract to support engine development
 - <a href="https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more
-- <a href="https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/" >🔗</a> **[SpaceNews]** Supply chain challenges also present opportunities for the space industry
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T150823">2022-05-25 15:08:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T154159">2022-05-25 15:41:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
