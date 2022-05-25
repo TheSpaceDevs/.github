@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX delivers 59 spacecraft to orbit on fifth flawless rideshare launch
 - <a href="https://www.nasaspaceflight.com/2022/05/oft-2-return/" >🔗</a> **[NASA Spaceflight]** Starliner undocks from the ISS, prepares to return to Earth
 - <a href="https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/" >🔗</a> **[SpaceNews]** BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery
 - <a href="https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/" >🔗</a> **[SpaceNews]** Industry looks to decentralized approaches to space sustainability
 - <a href="https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/" >🔗</a> **[Arstechnica]** Earth’s orbital debris problem is worsening, and policy solutions are difficult
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research" >🔗</a> **[NASA]** NASA Invites Media to Discuss Space Station Science, Climate Research
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T193231">2022-05-25 19:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T200805">2022-05-25 20:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
