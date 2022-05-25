@@ -10,33 +10,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+**New Shepard | NS-21**. It is scheduled to be launched by *Blue Origin*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>.  Until
-then, this pad will have been used for 142
-out of 843 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T133000">2022-05-31 13:30:00 UTC</a>.  Until
+then, this pad will have been used for 20
+out of 20 launches from this location. The launch status is currently
+*TBD* 🟧 . The mission type is
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Transporter 5 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  NS-20 is the fifth crewed New Shepard flight, carrying six passengers.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20220525T182700Z%2F20220525T182700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T133000">2022-05-31 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-21&location=Corn Ranch, USA&dates=20220531T133000Z%2F20220531T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-21** from Corn Ranch, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093200">2022-06-03 09:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-20 (81P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220603T093200Z%2F20220603T093200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-20 (81P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T000000">2022-06-05 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 14&location=Jiuquan, People&#x27;s Republic of China&dates=20220605T000000Z%2F20220605T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 14** from Jiuquan, People's Republic of China.
@@ -80,23 +79,20 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/oft-2-return/" >🔗</a> **[NASA Spaceflight]** Starliner undocks from the ISS, prepares to return to Earth
 - <a href="https://spacenews.com/blacksky-maxar-planet-win-10-year-nro-contracts-for-satellite-imagery/" >🔗</a> **[SpaceNews]** BlackSky, Maxar, Planet win 10-year NRO contracts for satellite imagery
 - <a href="https://spacenews.com/industry-looks-to-decentralized-approaches-to-space-sustainability/" >🔗</a> **[SpaceNews]** Industry looks to decentralized approaches to space sustainability
 - <a href="https://arstechnica.com/science/2022/05/earths-orbital-debris-problem-is-worsening-and-policy-solutions-are-difficult/" >🔗</a> **[Arstechnica]** Earth’s orbital debris problem is worsening, and policy solutions are difficult
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research" >🔗</a> **[NASA]** NASA Invites Media to Discuss Space Station Science, Climate Research
-- <a href="https://www.nasaspaceflight.com/2022/05/transporter-5-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/ghgsat-to-launch-three-spacecraft-on-falcon-9/" >🔗</a> **[SpaceNews]** GHGSat to launch three spacecraft on Falcon 9
-- <a href="https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more
-- <a href="https://www.nasaspaceflight.com/2022/05/transporter-5-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T180851">2022-05-25 18:08:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T184408">2022-05-25 18:44:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
