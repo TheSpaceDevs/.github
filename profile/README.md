@@ -80,21 +80,23 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-climate-research" >🔗</a> **[NASA]** NASA Invites Media to Discuss Space Station Science, Climate Research
+- <a href="https://www.nasaspaceflight.com/2022/05/transporter-5-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission
 - <a href="https://spacenews.com/launcher-wins-space-force-contract-to-support-engine-development/" >🔗</a> **[SpaceNews]** Launcher wins Space Force contract to support engine development
 - <a href="https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more
 - <a href="https://spacenews.com/supply-chain-challenges-also-present-opportunities-for-the-space-industry/" >🔗</a> **[SpaceNews]** Supply chain challenges also present opportunities for the space industry
-- <a href="https://spacenews.com/advice-for-entrepreneurs/" >🔗</a> **[SpaceNews]** Experts offer advice for space sector entrepreneurs
-- <a href="https://spacenews.com/ssc-front-door-pathways/" >🔗</a> **[SpaceNews]** Space Systems Command refines front-door concept
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/ghgsat-to-launch-three-spacecraft-on-falcon-9/" >🔗</a> **[SpaceNews]** GHGSat to launch three spacecraft on Falcon 9
+- <a href="https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set to launch NASA laser satellite, in-space manufacturing demo, and more
+- <a href="https://www.nasaspaceflight.com/2022/05/transporter-5-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Falcon 9 on Transporter-5 Rideshare Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T141156">2022-05-25 14:11:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T143606">2022-05-25 14:36:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
