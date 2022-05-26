@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/starliner-concludes-oft-2-test-flight-with-landing-in-new-mexico/" >🔗</a> **[SpaceNews]** Starliner concludes OFT-2 test flight with landing in New Mexico
-- <a href="https://spacenews.com/gogos-oneweb-partnership-could-face-starlink-in-business-aviation-market/" >🔗</a> **[SpaceNews]** Gogo’s OneWeb partnership could face Starlink in business aviation market
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts" >🔗</a> **[NASA]** NASA Administrator, Arizona Students to Hear from Station Astronauts
-- <a href="https://spacenews.com/virgin-orbit-expects-first-u-k-launch-in-august/" >🔗</a> **[SpaceNews]** Virgin Orbit expects first U.K. launch in August
-- <a href="https://www.teslarati.com/spacex-transporter-5-rideshare-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX delivers 59 spacecraft to orbit on fifth flawless rideshare launch
+- <a href="http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration" >🔗</a> **[NASA]** NASA Supports Small Business Research to Power Future Exploration
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
+- <a href="https://spacenews.com/economy-could-dampen-growth-of-space-industry/" >🔗</a> **[SpaceNews]** Economy could dampen growth of space industry
+- <a href="https://spacenews.com/additive-space-tech-expo/" >🔗</a> **[SpaceNews]** Additive manufacturing has progressed far beyond brackets
+- <a href="https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-5 dedicated smallsat rideshare mission
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T200844">2022-05-26 20:08:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T203859">2022-05-26 20:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
