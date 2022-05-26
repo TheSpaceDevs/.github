@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/" >🔗</a> **[SpaceNews]** Space Force rolls out cybersecurity standards for commercial providers of satellite services
 - <a href="http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration" >🔗</a> **[NASA]** NASA Supports Small Business Research to Power Future Exploration
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
-- <a href="https://spacenews.com/economy-could-dampen-growth-of-space-industry/" >🔗</a> **[SpaceNews]** Economy could dampen growth of space industry
 - <a href="https://spacenews.com/additive-space-tech-expo/" >🔗</a> **[SpaceNews]** Additive manufacturing has progressed far beyond brackets
-- <a href="https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-5 dedicated smallsat rideshare mission
+- <a href="https://spacenews.com/economy-could-dampen-growth-of-space-industry/" >🔗</a> **[SpaceNews]** Economy could dampen growth of space industry
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T210724">2022-05-26 21:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T213648">2022-05-26 21:36:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
