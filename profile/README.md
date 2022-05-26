@@ -79,20 +79,21 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/additive-space-tech-expo/" >🔗</a> **[SpaceNews]** Additive manufacturing has progressed far beyond brackets
-- <a href="https://arstechnica.com/science/2022/05/nasas-verdict-on-starliner-a-great-vehicle-for-crew-transportation/" >🔗</a> **[Arstechnica]** NASA’s verdict on Starliner: “A great vehicle for crew transportation”
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-final-test-needed-for-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss Status of Final Test Needed for Artemis I Moon Mission
-- <a href="https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-5 dedicated smallsat rideshare mission
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s NASA Psyche Falcon Heavy launch slips to September
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4984039570>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f49840397f0>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e2f7f0>
 
 
 ### Launch-related News 🚀
 
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e8ecb0>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e98930>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e2f4b0>
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T180923">2022-05-26 18:09:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T184526">2022-05-26 18:45:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
