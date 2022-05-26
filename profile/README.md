@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking" >🔗</a> **[NASA]** NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking
+- <a href="https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/" >🔗</a> **[SpaceNews]** General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation
 - <a href="https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/" >🔗</a> **[SpaceNews]** Space Force rolls out cybersecurity standards for commercial providers of satellite services
 - <a href="http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration" >🔗</a> **[NASA]** NASA Supports Small Business Research to Power Future Exploration
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
-- <a href="https://spacenews.com/additive-space-tech-expo/" >🔗</a> **[SpaceNews]** Additive manufacturing has progressed far beyond brackets
-- <a href="https://spacenews.com/economy-could-dampen-growth-of-space-industry/" >🔗</a> **[SpaceNews]** Economy could dampen growth of space industry
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T220806">2022-05-26 22:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T223836">2022-05-26 22:38:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
