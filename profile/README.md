@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-final-test-needed-for-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss Status of Final Test Needed for Artemis I Moon Mission
 - <a href="https://spacenews.com/spacex-launches-transporter-5-dedicated-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-5 dedicated smallsat rideshare mission
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s NASA Psyche Falcon Heavy launch slips to September
 - <a href="https://spacenews.com/starliner-concludes-oft-2-test-flight-with-landing-in-new-mexico/" >🔗</a> **[SpaceNews]** Starliner concludes OFT-2 test flight with landing in New Mexico
 - <a href="https://spacenews.com/gogos-oneweb-partnership-could-face-starlink-in-business-aviation-market/" >🔗</a> **[SpaceNews]** Gogo’s OneWeb partnership could face Starlink in business aviation market
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-arizona-students-to-hear-from-station-astronauts" >🔗</a> **[NASA]** NASA Administrator, Arizona Students to Hear from Station Astronauts
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T140655">2022-05-26 14:06:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T143606">2022-05-26 14:36:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
