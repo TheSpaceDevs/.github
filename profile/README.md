@@ -79,21 +79,21 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4984039570>
-- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f49840397f0>
-- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e2f7f0>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7fea27e0a870>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7fea27e0a570>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7fea27e0a970>
 
 
 ### Launch-related News 🚀
 
-- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e8ecb0>
-- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e98930>
-- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7f4983e2f4b0>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7fea27e0a8f0>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7fea27e0a930>
+- <a href="" >🔗</a> **[]** <built-in method title of str object at 0x7fea27e0aa30>
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T184526">2022-05-26 18:45:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220526T190520">2022-05-26 19:05:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
