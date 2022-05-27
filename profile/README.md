@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/" >🔗</a> **[Teslarati]** SpaceX rolls out first new Starship prototype in nine months
+- <a href="https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/" >🔗</a> **[Arstechnica]** Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?
 - <a href="http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking" >🔗</a> **[NASA]** NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking
 - <a href="https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/" >🔗</a> **[SpaceNews]** General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation
 - <a href="https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/" >🔗</a> **[SpaceNews]** Space Force rolls out cybersecurity standards for commercial providers of satellite services
-- <a href="http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration" >🔗</a> **[NASA]** NASA Supports Small Business Research to Power Future Exploration
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T110732">2022-05-27 11:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T113511">2022-05-27 11:35:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
