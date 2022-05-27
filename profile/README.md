@@ -79,11 +79,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uks-open-cosmos-gets-esa-funding-for-space-weather-constellation/" >🔗</a> **[SpaceNews]** UK’s Open Cosmos gets ESA funding for space weather constellation
 - <a href="https://spacenews.com/the-philippines-gives-green-light-to-starlink/" >🔗</a> **[SpaceNews]** The Philippines gives green light to Starlink
 - <a href="https://spacenews.com/astroscale-gets-funds-for-2024-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale gets funds for 2024 debris-removal mission
 - <a href="https://spacenews.com/china-targets-permanently-shadowed-regions-at-lunar-south-pole/" >🔗</a> **[SpaceNews]** China targets permanently shadowed regions at lunar south pole
 - <a href="https://www.teslarati.com/spacex-starship-first-new-prototype-nine-months/" >🔗</a> **[Teslarati]** SpaceX rolls out first new Starship prototype in nine months
-- <a href="https://arstechnica.com/science/2022/05/rocket-report-meet-the-gravity-1-rocket-will-starship-really-cut-launch-costs/" >🔗</a> **[Arstechnica]** Rocket Report: Meet the Gravity-1 rocket; will Starship really cut launch costs?
 
 
 ### Launch-related News 🚀
@@ -92,7 +92,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T143628">2022-05-27 14:36:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T150735">2022-05-27 15:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
