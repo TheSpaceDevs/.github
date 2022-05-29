@@ -80,11 +80,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-14 crewed mission
 - <a href="https://www.nasaspaceflight.com/2022/05/kplo-name-testing/" >🔗</a> **[NASA Spaceflight]** KARI names KPLO as it begins communication testing
 - <a href="https://spacenews.com/nasa-to-reexamine-space-based-solar-power/" >🔗</a> **[SpaceNews]** NASA to reexamine space-based solar power
 - <a href="https://spacenews.com/starlink-approved-in-nigeria-and-mozambique-says-elon-musk/" >🔗</a> **[SpaceNews]** Starlink approved in Nigeria and Mozambique, says Elon Musk
 - <a href="https://spacenews.com/noaa-ocean-color-sensors/" >🔗</a> **[SpaceNews]** Ball and Raytheon to develop NOAA ocean sensors
-- <a href="https://mars.nasa.gov/news/9197/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Captures Video of Record Flight
 
 
 ### Launch-related News 🚀
@@ -93,7 +93,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T110556">2022-05-29 11:05:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220529T113313">2022-05-29 11:33:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
