@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lawmakers-seek-another-big-increase-for-dod-responsive-launch/" >🔗</a> **[SpaceNews]** Lawmakers seek another big increase for DoD ‘responsive launch’
+- <a href="https://spaceflightnow.com/2022/05/30/uk-launched-rocket-promises-to-transform-microsatellite-launch-business/" >🔗</a> **[Spaceflight Now]** UK-launched rocket promises to transform microsatellite launch business
 - <a href="https://www.teslarati.com/spacex-elon-musk-next-gen-starlink-satellite-details/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk reveals next-generation Starlink satellite details
 - <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-14 crewed mission
 - <a href="https://spacenews.com/next-sls-countdown-rehearsal-scheduled-for-june-19/" >🔗</a> **[SpaceNews]** Next SLS countdown rehearsal scheduled for June 19
-- <a href="https://www.nasaspaceflight.com/2022/05/kplo-name-testing/" >🔗</a> **[NASA Spaceflight]** KARI names KPLO as it begins communication testing
-- <a href="https://spacenews.com/nasa-to-reexamine-space-based-solar-power/" >🔗</a> **[SpaceNews]** NASA to reexamine space-based solar power
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T160928">2022-05-30 16:09:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T165549">2022-05-30 16:55:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
