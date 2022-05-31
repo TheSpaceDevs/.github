@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/" >🔗</a> **[SpaceNews]** Astrocast buying Hiber to boost funding and expansion plans
 - <a href="https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/" >🔗</a> **[Arstechnica]** AstroForge aims to succeed where other asteroid mining companies have failed
 - <a href="https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/" >🔗</a> **[SpaceNews]** Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules
 - <a href="https://spacenews.com/rocket-to-launch-chinas-next-space-station-module-arrives-at-launch-center/" >🔗</a> **[SpaceNews]** Rocket to launch China’s next space station module arrives at launch center
 - <a href="https://spacenews.com/against-quad-china-launches-satellite-based-earth-observation-initiative-with-brics-nations/" >🔗</a> **[SpaceNews]** Against Quad? China launches satellite-based Earth observation initiative with BRICS nations
-- <a href="https://spacenews.com/house-committee-questions-proposed-delay-in-nasa-asteroid-mission/" >🔗</a> **[SpaceNews]** House committee questions proposed delay in NASA asteroid mission
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T180857">2022-05-31 18:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T184434">2022-05-31 18:44:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
