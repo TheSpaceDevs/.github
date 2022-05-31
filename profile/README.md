@@ -81,20 +81,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Cargo Launch, Docking
 - <a href="https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/" >🔗</a> **[SpaceNews]** Astrocast buying Hiber to boost funding and expansion plans
 - <a href="https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/" >🔗</a> **[Arstechnica]** AstroForge aims to succeed where other asteroid mining companies have failed
 - <a href="https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/" >🔗</a> **[SpaceNews]** Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules
 - <a href="https://spacenews.com/rocket-to-launch-chinas-next-space-station-module-arrives-at-launch-center/" >🔗</a> **[SpaceNews]** Rocket to launch China’s next space station module arrives at launch center
-- <a href="https://spacenews.com/against-quad-china-launches-satellite-based-earth-observation-initiative-with-brics-nations/" >🔗</a> **[SpaceNews]** Against Quad? China launches satellite-based Earth observation initiative with BRICS nations
 
 
 ### Launch-related News 🚀
 
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Cargo Launch, Docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T190555">2022-05-31 19:05:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T193252">2022-05-31 19:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
