@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/" >🔗</a> **[Teslarati]** SpaceX to begin launching new ‘shell’ of Starlink satellites in July
 - <a href="https://www.teslarati.com/spacex-starbase-environmental-review-fifth-delay-progress/" >🔗</a> **[Teslarati]** SpaceX’s Starbase environmental review is inches from the finish line
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Cargo Launch, Docking
 - <a href="https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/" >🔗</a> **[SpaceNews]** Astrocast buying Hiber to boost funding and expansion plans
 - <a href="https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/" >🔗</a> **[Arstechnica]** AstroForge aims to succeed where other asteroid mining companies have failed
-- <a href="https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/" >🔗</a> **[SpaceNews]** Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T110639">2022-06-01 11:06:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T113552">2022-06-01 11:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
