@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/" >🔗</a> **[NASA Spaceflight]** MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors
+- <a href="https://spacenews.com/analysts-nro-contracts-will-have-long-term-ripple-effects-on-satellite-imagery-industry/" >🔗</a> **[SpaceNews]** Analysts: NRO contracts will have long-term ripple effects on satellite imagery industry
 - <a href="https://spacenews.com/arianespace-narrows-vega-c-and-ariane-6-maiden-flight-windows/" >🔗</a> **[SpaceNews]** Arianespace narrows Vega C and Ariane 6 maiden flight windows
 - <a href="https://arstechnica.com/science/2022/06/nasa-still-pushing-for-a-russian-cosmonaut-to-fly-on-next-spacex-mission/" >🔗</a> **[Arstechnica]** NASA still “pushing” for a Russian cosmonaut to fly on next SpaceX mission
 - <a href="https://spacenews.com/avio-qa-powering-the-growth-trajectory/" >🔗</a> **[SpaceNews]** Avio Q&A: Powering the growth trajectory
-- <a href="https://spacenews.com/startups-raise-millions-for-lunar-rovers-and-asteroid-mining/" >🔗</a> **[SpaceNews]** Startups raise millions for lunar rovers and asteroid mining
-- <a href="https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/" >🔗</a> **[Teslarati]** SpaceX to begin launching new ‘shell’ of Starlink satellites in July
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T161002">2022-06-01 16:10:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T165813">2022-06-01 16:58:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
