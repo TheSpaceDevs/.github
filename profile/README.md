@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arianespace-narrows-vega-c-and-ariane-6-maiden-flight-windows/" >🔗</a> **[SpaceNews]** Arianespace narrows Vega C and Ariane 6 maiden flight windows
+- <a href="https://arstechnica.com/science/2022/06/nasa-still-pushing-for-a-russian-cosmonaut-to-fly-on-next-spacex-mission/" >🔗</a> **[Arstechnica]** NASA still “pushing” for a Russian cosmonaut to fly on next SpaceX mission
 - <a href="https://spacenews.com/avio-qa-powering-the-growth-trajectory/" >🔗</a> **[SpaceNews]** Avio Q&A: Powering the growth trajectory
 - <a href="https://spacenews.com/startups-raise-millions-for-lunar-rovers-and-asteroid-mining/" >🔗</a> **[SpaceNews]** Startups raise millions for lunar rovers and asteroid mining
 - <a href="https://www.teslarati.com/spacex-new-starlink-shell-launches-july-2022/" >🔗</a> **[Teslarati]** SpaceX to begin launching new ‘shell’ of Starlink satellites in July
-- <a href="https://www.teslarati.com/spacex-starbase-environmental-review-fifth-delay-progress/" >🔗</a> **[Teslarati]** SpaceX’s Starbase environmental review is inches from the finish line
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Cargo Launch, Docking
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T150828">2022-06-01 15:08:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T154449">2022-06-01 15:44:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
