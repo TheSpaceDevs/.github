@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative" >🔗</a> **[NASA]** NASA Administrator to Launch Artemis Learning Lunchbox Initiative
 - <a href="http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews" >🔗</a> **[NASA]** NASA Scientists Available for 2022 Hurricane Season Interviews
 - <a href="http://www.nasa.gov/press-release/nasa-partners-with-industry-for-new-spacewalking-moonwalking-services" >🔗</a> **[NASA]** NASA Partners with Industry for New Spacewalking, Moonwalking Services
 - <a href="https://mars.nasa.gov/news/9200/" >🔗</a> **[NASA]** NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode
 - <a href="http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes" >🔗</a> **[NASA]** Científicas de la NASA disponibles para entrevistas sobre huracanes
-- <a href="https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/" >🔗</a> **[NASA Spaceflight]** MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T193319">2022-06-01 19:33:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T200811">2022-06-01 20:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
