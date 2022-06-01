@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9200/" >🔗</a> **[NASA]** NASA's MAVEN Spacecraft Resumes Science & Operations, Exits Safe Mode
+- <a href="http://www.nasa.gov/press-release/cient-ficas-de-la-nasa-disponibles-para-entrevistas-sobre-huracanes" >🔗</a> **[NASA]** Científicas de la NASA disponibles para entrevistas sobre huracanes
 - <a href="https://www.nasaspaceflight.com/2022/06/mda-robotics-lm-gm/" >🔗</a> **[NASA Spaceflight]** MDA sees Canadarm3 commercial spinoff success in robotic partnership with Lockheed Martin, General Motors
 - <a href="https://spacenews.com/analysts-nro-contracts-will-have-long-term-ripple-effects-on-satellite-imagery-industry/" >🔗</a> **[SpaceNews]** Analysts: NRO contracts will have long-term ripple effects on satellite imagery industry
 - <a href="https://spacenews.com/arianespace-narrows-vega-c-and-ariane-6-maiden-flight-windows/" >🔗</a> **[SpaceNews]** Arianespace narrows Vega C and Ariane 6 maiden flight windows
-- <a href="https://arstechnica.com/science/2022/06/nasa-still-pushing-for-a-russian-cosmonaut-to-fly-on-next-spacex-mission/" >🔗</a> **[Arstechnica]** NASA still “pushing” for a Russian cosmonaut to fly on next SpaceX mission
-- <a href="https://spacenews.com/avio-qa-powering-the-growth-trajectory/" >🔗</a> **[SpaceNews]** Avio Q&A: Powering the growth trajectory
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T172342">2022-06-01 17:23:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T174436">2022-06-01 17:44:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
