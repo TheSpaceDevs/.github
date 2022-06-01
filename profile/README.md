@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/" >🔗</a> **[Arstechnica]** NASA chooses two companies to build spacesuits for its 21st century Moonwalkers
 - <a href="https://mars.nasa.gov/news/9201/" >🔗</a> **[NASA]** NASA's Perseverance Studies the Wild Winds of Jezero Crater
 - <a href="https://spacenews.com/nasa-selects-axiom-space-and-collins-aerospace-for-spacesuit-contracts/" >🔗</a> **[SpaceNews]** NASA selects Axiom Space and Collins Aerospace for spacesuit contracts
 - <a href="https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/" >🔗</a> **[Teslarati]** SpaceX, ULA awarded eight more US military launch contracts
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-to-launch-artemis-learning-lunchbox-initiative" >🔗</a> **[NASA]** NASA Administrator to Launch Artemis Learning Lunchbox Initiative
-- <a href="http://www.nasa.gov/press-release/nasa-scientists-available-for-2022-hurricane-season-interviews" >🔗</a> **[NASA]** NASA Scientists Available for 2022 Hurricane Season Interviews
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T220742">2022-06-01 22:07:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T223958">2022-06-01 22:39:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
