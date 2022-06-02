@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon" >🔗</a> **[NASA]** NASA Selects New Instruments for Priority Artemis Science on Moon
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts" >🔗</a> **[NASA]** NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts
+- <a href="https://spacenews.com/lockheed-and-abls-first-uk-vertical-launch-slips-into-2023/" >🔗</a> **[SpaceNews]** Lockheed and ABL’s first UK vertical launch slips into 2023
 - <a href="https://spacenews.com/gao-u-s-space-command-basing-decision-process-fell-short-on-transparency-and-credibility/" >🔗</a> **[SpaceNews]** GAO: U.S. Space Command basing decision process fell short on ‘transparency and credibility’
 - <a href="https://www.nasaspaceflight.com/2022/06/lockheed-martin-mars-sample-return/" >🔗</a> **[NASA Spaceflight]** How Lockheed Martin, NASA will send a rocket to Mars to launch samples off the planet to a waiting European Orbiter
-- <a href="https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/" >🔗</a> **[Arstechnica]** After 9 difficult months, Firefly is set to take its next shot at orbit
-- <a href="https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/" >🔗</a> **[SpaceNews]** Long March 2C launches 9 navigation test satellites for Chinese automaker
-- <a href="https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/" >🔗</a> **[SpaceNews]** Momentus attempting to fix anomalies with first Vigoride tug
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T193147">2022-06-02 19:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T200805">2022-06-02 20:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
