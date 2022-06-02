@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gao-u-s-space-command-basing-decision-process-fell-short-on-transparency-and-credibility/" >🔗</a> **[SpaceNews]** GAO: U.S. Space Command basing decision process fell short on ‘transparency and credibility’
+- <a href="https://www.nasaspaceflight.com/2022/06/lockheed-martin-mars-sample-return/" >🔗</a> **[NASA Spaceflight]** How Lockheed Martin, NASA will send a rocket to Mars to launch samples off the planet to a waiting European Orbiter
 - <a href="https://arstechnica.com/science/2022/06/after-9-difficult-months-firefly-is-set-to-take-its-next-shot-at-orbit/" >🔗</a> **[Arstechnica]** After 9 difficult months, Firefly is set to take its next shot at orbit
 - <a href="https://spacenews.com/long-march-2c-launches-nine-navigation-test-satellites-for-chinese-automaker/" >🔗</a> **[SpaceNews]** Long March 2C launches 9 navigation test satellites for Chinese automaker
 - <a href="https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/" >🔗</a> **[SpaceNews]** Momentus attempting to fix anomalies with first Vigoride tug
-- <a href="https://spaceflightnow.com/2022/06/02/chinese-automaker-launches-nine-satellites-to-aid-self-driving-cars/" >🔗</a> **[Spaceflight Now]** Chinese automaker launches nine satellites to aid self-driving cars
-- <a href="https://www.teslarati.com/spacex-super-heavy-booster-7-static-fire-prep/" >🔗</a> **[Teslarati]** SpaceX making good progress towards Super Heavy static fire campaign
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T154302">2022-06-02 15:43:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T161320">2022-06-02 16:13:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
