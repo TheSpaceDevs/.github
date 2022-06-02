@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation" >🔗</a> **[NASA]** NASA Funds Projects that Aim to Inspire Artemis Generation
+- <a href="https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/" >🔗</a> **[SpaceNews]** NASA to buy five additional Crew Dragon flights
 - <a href="http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon" >🔗</a> **[NASA]** NASA Selects New Instruments for Priority Artemis Science on Moon
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts" >🔗</a> **[NASA]** NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts
 - <a href="https://spacenews.com/lockheed-and-abls-first-uk-vertical-launch-slips-into-2023/" >🔗</a> **[SpaceNews]** Lockheed and ABL’s first UK vertical launch slips into 2023
-- <a href="https://spacenews.com/gao-u-s-space-command-basing-decision-process-fell-short-on-transparency-and-credibility/" >🔗</a> **[SpaceNews]** GAO: U.S. Space Command basing decision process fell short on ‘transparency and credibility’
-- <a href="https://www.nasaspaceflight.com/2022/06/lockheed-martin-mars-sample-return/" >🔗</a> **[NASA Spaceflight]** How Lockheed Martin, NASA will send a rocket to Mars to launch samples off the planet to a waiting European Orbiter
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T203541">2022-06-02 20:35:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T210709">2022-06-02 21:07:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
