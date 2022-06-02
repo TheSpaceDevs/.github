@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/" >🔗</a> **[Arstechnica]** NASA just bought the rest of the space station crew flights from SpaceX
 - <a href="http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation" >🔗</a> **[NASA]** NASA Funds Projects that Aim to Inspire Artemis Generation
 - <a href="https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/" >🔗</a> **[SpaceNews]** NASA to buy five additional Crew Dragon flights
 - <a href="http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon" >🔗</a> **[NASA]** NASA Selects New Instruments for Priority Artemis Science on Moon
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-headquarters-to-meet-commercial-crew-astronauts" >🔗</a> **[NASA]** NASA Invites Media to Headquarters to Meet Commercial Crew Astronauts
-- <a href="https://spacenews.com/lockheed-and-abls-first-uk-vertical-launch-slips-into-2023/" >🔗</a> **[SpaceNews]** Lockheed and ABL’s first UK vertical launch slips into 2023
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T213343">2022-06-02 21:33:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T220630">2022-06-02 22:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
