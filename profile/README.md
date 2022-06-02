@@ -85,7 +85,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/momentus-attempting-to-fix-anomalies-with-first-vigoride-tug/" >🔗</a> **[SpaceNews]** Momentus attempting to fix anomalies with first Vigoride tug
 - <a href="https://spaceflightnow.com/2022/06/02/chinese-automaker-launches-nine-satellites-to-aid-self-driving-cars/" >🔗</a> **[Spaceflight Now]** Chinese automaker launches nine satellites to aid self-driving cars
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-7-static-fire-prep/" >🔗</a> **[Teslarati]** SpaceX making good progress towards Super Heavy static fire campaign
-- <a href="https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/" >🔗</a> **[Arstechnica]** NASA chooses two companies to build spacesuits for its 21st century Moonwalkers
+- <a href="https://arstechnica.com/science/2022/06/nasa-announces-a-new-plan-to-buy-private-spacesuits-to-make-lunar-landing-date/" >🔗</a> **[Arstechnica]** NASA chooses two companies to build spacesuits for its 21st-century Moonwalkers
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T121317">2022-06-02 12:13:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220602T131448">2022-06-02 13:14:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
