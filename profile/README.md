@@ -81,7 +81,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/" >🔗</a> **[Spaceflight Now]** Russian Soyuz rocket poised for launch with space station cargo freighter
+- <a href="https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/" >🔗</a> **[Spaceflight Now]** Russian Soyuz rocket launches with space station cargo freighter
 - <a href="https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/" >🔗</a> **[Arstechnica]** NASA just bought the rest of the space station crew flights from SpaceX
 - <a href="http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation" >🔗</a> **[NASA]** NASA Funds Projects that Aim to Inspire Artemis Generation
 - <a href="https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/" >🔗</a> **[SpaceNews]** NASA to buy five additional Crew Dragon flights
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093713">2022-06-03 09:37:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T100729">2022-06-03 10:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
