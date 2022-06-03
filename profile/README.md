@@ -91,11 +91,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Cargo Launch, Docking
+- <a href="https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/" >🔗</a> **[Spaceflight Now]** Russian Soyuz rocket poised for launch with space station cargo freighter
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T080838">2022-06-03 08:08:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T083923">2022-06-03 08:39:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
