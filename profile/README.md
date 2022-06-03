@@ -23,7 +23,7 @@ into *a Suborbital
 (Sub)*.
 <br>
 <blockquote>
-  NS-20 is the fifth crewed New Shepard flight, carrying six passengers.
+  NS-21 is the fifth crewed New Shepard flight, carrying six passengers.
 </blockquote>
 
 <p float="left" align="center">
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T143221">2022-06-03 14:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T150650">2022-06-03 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
