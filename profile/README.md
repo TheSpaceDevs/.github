@@ -81,11 +81,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/may-iss-roundup/" >🔗</a> **[NASA Spaceflight]** May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting
+- <a href="https://spacenews.com/sony-launches-space-laser-communications-business/" >🔗</a> **[SpaceNews]** Sony launches space laser communications business
+- <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-student-launch-competition" >🔗</a> **[NASA]** NASA Announces Winners of 2022 Student Launch Competition
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-mission-studying-thunderstorms" >🔗</a> **[NASA]** NASA Invites Media to Learn About Mission Studying Thunderstorms
 - <a href="https://spacenews.com/european-parliamentarian-seeks-to-build-up-ties-between-u-s-and-e-u-in-space/" >🔗</a> **[SpaceNews]** European parliamentarian seeks to build up ties between U.S. and E.U. in space
-- <a href="https://www.teslarati.com/spacex-starship-24-passes-cryoproof-after-repairs/" >🔗</a> **[Teslarati]** SpaceX’s upgraded Starship passes first ‘cryoproof’ test after repairs
-- <a href="https://arstechnica.com/science/2022/06/rocket-report-india-wants-its-own-spacex-firefly-targets-july-for-alpha-launch/" >🔗</a> **[Arstechnica]** Rocket Report: India wants its own SpaceX, Firefly targets July for Alpha launch
-- <a href="https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/" >🔗</a> **[Spaceflight Now]** Russian Soyuz rocket launches with space station cargo freighter
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T190502">2022-06-03 19:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T193137">2022-06-03 19:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
