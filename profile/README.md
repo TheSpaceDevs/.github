@@ -81,8 +81,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six people to suborbital space
 - <a href="https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard completes fifth crewed suborbital flight
-- <a href="https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/" >🔗</a> **[Spaceflight Now]** Blue Origin set to launch six more people to suborbital space
 - <a href="http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage" >🔗</a> **[NASA]** NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage
 - <a href="https://www.nasaspaceflight.com/2022/06/may-iss-roundup/" >🔗</a> **[NASA Spaceflight]** May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting
 - <a href="https://spacenews.com/sony-launches-space-laser-communications-business/" >🔗</a> **[SpaceNews]** Sony launches space laser communications business
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T143141">2022-06-04 14:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T150609">2022-06-04 15:06:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
