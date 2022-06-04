@@ -81,21 +81,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/" >🔗</a> **[Spaceflight Now]** Chinese astronauts prep for six-month space station construction flight
 - <a href="https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six people to suborbital space
 - <a href="https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard completes fifth crewed suborbital flight
 - <a href="http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage" >🔗</a> **[NASA]** NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage
 - <a href="https://www.nasaspaceflight.com/2022/06/may-iss-roundup/" >🔗</a> **[NASA Spaceflight]** May on the station: Starliner’s ISS debut, research, and spacesuit troubleshooting
-- <a href="https://spacenews.com/sony-launches-space-laser-communications-business/" >🔗</a> **[SpaceNews]** Sony launches space laser communications business
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-14 crewed mission
+- <a href="https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/" >🔗</a> **[Spaceflight Now]** Chinese astronauts prep for six-month space station construction flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T170628">2022-06-04 17:06:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220604T173429">2022-06-04 17:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
