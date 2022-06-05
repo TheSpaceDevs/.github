@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-14-crewed-mission-arrives-at-chinese-space-station/" >🔗</a> **[SpaceNews]** Shenzhou-14 crewed mission arrives at Chinese space station
 - <a href="https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/" >🔗</a> **[NASA Spaceflight]** China launches Shenzhou 14 mission to support module installation
 - <a href="https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/" >🔗</a> **[Spaceflight Now]** Chinese astronauts prep for six-month space station construction flight
 - <a href="https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six people to suborbital space
 - <a href="https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard completes fifth crewed suborbital flight
-- <a href="http://www.nasa.gov/press-release/nasa-to-highlight-climate-research-on-cargo-launch-sets-tv-coverage" >🔗</a> **[NASA]** NASA to Highlight Climate Research on Cargo Launch, Sets TV Coverage
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T103548">2022-06-05 10:35:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T110515">2022-06-05 11:05:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
