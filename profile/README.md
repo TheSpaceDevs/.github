@@ -10,33 +10,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2F/G | Shenzhou 14**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T023700">2022-06-05 02:37:00 UTC</a>.  Until
-then, this pad will have been used for 16
-out of 164 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+**Falcon 9 Block 5 | Nilesat-301**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T210400">2022-06-08 21:04:00 UTC</a>.  Until
+then, this pad will have been used for 143
+out of 844 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Geostationary Orbit
+(Direct-GEO)*.
 <br>
 <blockquote>
-  Third crewed flight to the Chinese large modular space station.
+  Nilesat 301, to be launched into Nilesat's 7 ° West slot, is built by Thales Alenia Space on the Spacebus-4000B2 platform and is expected to weigh 4100 kilograms at launch. It will provide digital broadband and internet connectivity services for the Egyptian operator Nilesat.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T023700">2022-06-05 02:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 14&location=Jiuquan, People&#x27;s Republic of China&dates=20220605T023700Z%2F20220605T025500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 14** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T210400">2022-06-08 21:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nilesat-301&location=Cape Canaveral, FL, USA&dates=20220608T210400Z%2F20220608T210400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nilesat-301** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T142200">2022-06-10 14:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220610T142200Z%2F20220610T142200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-25** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T090300">2022-06-13 09:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | CAPSTONE&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220613T090300Z%2F20220613T090300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | CAPSTONE** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -46,6 +45,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T120000">2022-06-26 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV | TDS-01&location=Sriharikota, Republic of India&dates=20220626T120000Z%2F20220626T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV | TDS-01** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T000000">2022-06-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-22&location=Cape Canaveral, FL, USA&dates=20220628T000000Z%2F20220628T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T000000">2022-06-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | USSF-12&location=Cape Canaveral, FL, USA&dates=20220629T000000Z%2F20220629T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 541 | USSF-12** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T030000">2022-06-29 03:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220629T030000Z%2F20220629T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Straight Up** from Air launch to orbit.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,14 +90,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-14 crewed mission
-- <a href="https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/" >🔗</a> **[Spaceflight Now]** Chinese astronauts prep for six-month space station construction flight
-- <a href="https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/" >🔗</a> **[NASA Spaceflight]** China to launch Shenzhou 14 mission to support module installation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T004119">2022-06-05 00:41:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T024419">2022-06-05 02:44:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
