@@ -81,7 +81,7 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/" >🔗</a> **[NASA Spaceflight]** China to launch Shenzhou 14 mission to support module installation
+- <a href="https://www.nasaspaceflight.com/2022/06/shenzhou-14-mission-launch/" >🔗</a> **[NASA Spaceflight]** China launches Shenzhou 14 mission to support module installation
 - <a href="https://spaceflightnow.com/2022/06/04/chinese-astronauts-prep-for-six-month-space-station-construction-flight/" >🔗</a> **[Spaceflight Now]** Chinese astronauts prep for six-month space station construction flight
 - <a href="https://spaceflightnow.com/2022/06/04/blue-origin-ns-21/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six people to suborbital space
 - <a href="https://spacenews.com/new-shepard-completes-fifth-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard completes fifth crewed suborbital flight
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T024419">2022-06-05 02:44:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T032931">2022-06-05 03:29:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
