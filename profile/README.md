@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/" >🔗</a> **[SpaceNews]** India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project
+- <a href="https://arstechnica.com/science/2022/06/russia-and-germany-are-fighting-over-an-x-ray-telescope-in-space/" >🔗</a> **[Arstechnica]** Russia seeks to hijack German telescope on its X-ray spacecraft
 - <a href="https://www.teslarati.com/spacex-nasa-crew-dragon-manifest-doubles/" >🔗</a> **[Teslarati]** SpaceX’s NASA Crew Dragon launch manifest doubles in three months
 - <a href="https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket returning to launch pad today for more testing
 - <a href="https://www.teslarati.com/spacex-elon-musk-all-hands-meeting-starship-starlink-falcon-2022/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk teases next-gen Starlink satellites, Starship factories
-- <a href="https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/" >🔗</a> **[NASA Spaceflight]** NASA rolling Artemis 1 back to the pad to finish WDR
-- <a href="https://spacenews.com/commercial-providers-of-satellite-services-face-a-trust-gap-with-military-buyers/" >🔗</a> **[SpaceNews]** Commercial providers of satellite services face a trust gap with military buyers
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T143211">2022-06-06 14:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T150647">2022-06-06 15:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
