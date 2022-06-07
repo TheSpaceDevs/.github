@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/" >🔗</a> **[SpaceNews]** Elon Musk reportedly extends timeline for potential Starlink IPO
 - <a href="https://www.teslarati.com/spacex-falcon-9-egyptian-satellite-nilesat-301-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket set to launch Egyptian communications satellite
 - <a href="https://spacenews.com/xona-to-test-gps-alternative-demo-satellite-with-customer/" >🔗</a> **[SpaceNews]** Xona to test GPS-alternative demo satellite with customer
 - <a href="http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo" >🔗</a> **[NASA]** NASA to Inflate Heat Shield on Earth Before Spaceflight Demo
 - <a href="https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/" >🔗</a> **[Spaceflight Now]** Globalstar spare satellite to launch on SpaceX rocket this month
-- <a href="https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/" >🔗</a> **[SpaceNews]** Redwire, MDA, to produce tactical communications antennas for military satellites
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T223555">2022-06-07 22:35:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T230634">2022-06-07 23:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
