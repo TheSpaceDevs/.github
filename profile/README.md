@@ -81,9 +81,9 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/" >🔗</a> **[SpaceNews]** Redwire, MDA, to produce tactical communications antennas for military satellites
 - <a href="https://spacenews.com/south-korea-cancels-apophis-probe/" >🔗</a> **[SpaceNews]** South Korea cancels Apophis probe
-- <a href="https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/" >🔗</a> **[Arstechnica]** NASA delays Cargo Dragon flight due to a propellant issue
-- <a href="https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/" >🔗</a> **[SpaceNews]** Redwire to produce tactical communications antennas for military satellites
+- <a href="https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/" >🔗</a> **[Arstechnica]** NASA and SpaceX stand down on Dragon launch to study hydrazine issue
 - <a href="https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/" >🔗</a> **[Teslarati]** SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak
 - <a href="https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes" >🔗</a> **[ESA]** Cheops AO-3 Programmes
 
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T154001">2022-06-07 15:40:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T160854">2022-06-07 16:08:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
