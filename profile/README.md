@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/" >🔗</a> **[Teslarati]** SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak
 - <a href="https://sci.esa.int/web/cheops/-/cheops-ao-3-programmes" >🔗</a> **[ESA]** Cheops AO-3 Programmes
 - <a href="https://spaceflightnow.com/2022/06/06/spacex-cargo-mission-grounded-to-investigate-possible-fuel-leak/" >🔗</a> **[Spaceflight Now]** SpaceX cargo mission grounded to investigate possible fuel leak
 - <a href="https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/" >🔗</a> **[Spaceflight Now]** NASA’s SLS moon rocket returns to launch pad for more testing
 - <a href="https://spacenews.com/starlink-regains-permission-to-operate-in-france/" >🔗</a> **[SpaceNews]** Starlink regains permission to operate in France
-- <a href="https://spacenews.com/indias-bellatrix-aerospace-raises-8-million-series-a-for-in-space-propulsion-project/" >🔗</a> **[SpaceNews]** India’s Bellatrix Aerospace raises $8 million Series A for in-space propulsion project
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T110645">2022-06-07 11:06:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T113252">2022-06-07 11:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
