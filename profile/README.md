@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo" >🔗</a> **[NASA]** NASA to Inflate Heat Shield on Earth Before Spaceflight Demo
 - <a href="https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/" >🔗</a> **[Spaceflight Now]** Globalstar spare satellite to launch on SpaceX rocket this month
 - <a href="https://spacenews.com/redwire-to-produce-tactical-communications-antennas-for-military-satellites/" >🔗</a> **[SpaceNews]** Redwire, MDA, to produce tactical communications antennas for military satellites
 - <a href="https://spacenews.com/south-korea-cancels-apophis-probe/" >🔗</a> **[SpaceNews]** South Korea cancels Apophis probe
 - <a href="https://arstechnica.com/science/2022/06/nasa-delays-cargo-dragon-flight-due-to-a-propellant-issue/" >🔗</a> **[Arstechnica]** NASA and SpaceX stand down on Dragon launch to study hydrazine issue
-- <a href="https://www.teslarati.com/spacex-nasa-cargo-dragon-fuel-leak-crs-25/" >🔗</a> **[Teslarati]** SpaceX, NASA call off Cargo Dragon launch after discovering fuel leak
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T171403">2022-06-07 17:14:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T174017">2022-06-07 17:40:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
