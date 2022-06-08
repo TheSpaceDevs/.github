@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-fema-release-comprehensive-climate-action-guide" >🔗</a> **[NASA]** NASA, FEMA Release Comprehensive Climate Action Guide
+- <a href="https://arstechnica.com/science/2022/06/the-large-vulcan-rocket-is-unlikely-to-make-its-debut-in-2022/" >🔗</a> **[Arstechnica]** The large Vulcan rocket is unlikely to make its debut in 2022
 - <a href="https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/" >🔗</a> **[SpaceNews]** China aims for space-based solar power test in LEO in 2028, GEO in 2030
 - <a href="https://spacenews.com/france-joins-artemis-accords/" >🔗</a> **[SpaceNews]** France joins Artemis Accords
 - <a href="https://www.teslarati.com/spacex-starship-florida-launch-tower-crane-assembly/" >🔗</a> **[Teslarati]** SpaceX preparing giant crane to assemble Starship’s first Florida launch tower
-- <a href="https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/" >🔗</a> **[SpaceNews]** Elon Musk reportedly extends timeline for potential Starlink IPO
-- <a href="https://www.teslarati.com/spacex-falcon-9-egyptian-satellite-nilesat-301-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket set to launch Egyptian communications satellite
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T170932">2022-06-08 17:09:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T173742">2022-06-08 17:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
