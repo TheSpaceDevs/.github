@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis" >🔗</a> **[NASA]** NASA Administrator, STEM Partner Connect Orlando Children with Artemis
+- <a href="https://spacenews.com/northrop-grumman-to-boost-production-of-solid-rocket-motors-following-big-contract-from-ula/" >🔗</a> **[SpaceNews]** Northrop Grumman to boost production of solid rocket motors following big contract from ULA
 - <a href="http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting" >🔗</a> **[NASA]** NASA Leadership to Advocate for Agency Missions at ESA Council Meeting
 - <a href="https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/" >🔗</a> **[NASA Spaceflight]** SpaceX preparing to launch Nilesat-301 on first GTO mission of 2022
 - <a href="http://www.nasa.gov/press-release/nasa-fema-release-comprehensive-climate-action-guide" >🔗</a> **[NASA]** NASA, FEMA Release Comprehensive Climate Action Guide
-- <a href="https://arstechnica.com/science/2022/06/the-large-vulcan-rocket-is-unlikely-to-make-its-debut-in-2022/" >🔗</a> **[Arstechnica]** The large Vulcan rocket is unlikely to make its debut in 2022
-- <a href="https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/" >🔗</a> **[SpaceNews]** China aims for space-based solar power test in LEO in 2028, GEO in 2030
 
 
 ### Launch-related News 🚀
@@ -97,7 +97,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T193136">2022-06-08 19:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T200744">2022-06-08 20:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
