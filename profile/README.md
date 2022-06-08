@@ -81,11 +81,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting" >🔗</a> **[NASA]** NASA Leadership to Advocate for Agency Missions at ESA Council Meeting
 - <a href="https://www.nasaspaceflight.com/2022/06/falcon-9-nilesat-301/" >🔗</a> **[NASA Spaceflight]** SpaceX preparing to launch Nilesat-301 on first GTO mission of 2022
 - <a href="http://www.nasa.gov/press-release/nasa-fema-release-comprehensive-climate-action-guide" >🔗</a> **[NASA]** NASA, FEMA Release Comprehensive Climate Action Guide
 - <a href="https://arstechnica.com/science/2022/06/the-large-vulcan-rocket-is-unlikely-to-make-its-debut-in-2022/" >🔗</a> **[Arstechnica]** The large Vulcan rocket is unlikely to make its debut in 2022
 - <a href="https://spacenews.com/china-aims-for-space-based-solar-power-test-in-leo-in-2028-geo-in-2030/" >🔗</a> **[SpaceNews]** China aims for space-based solar power test in LEO in 2028, GEO in 2030
-- <a href="https://spacenews.com/france-joins-artemis-accords/" >🔗</a> **[SpaceNews]** France joins Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -97,7 +97,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T184116">2022-06-08 18:41:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T191023">2022-06-08 19:10:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
