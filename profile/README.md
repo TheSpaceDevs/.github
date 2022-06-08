@@ -83,11 +83,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-23rd-falcon-9-launch-2022-nilesat-301/" >🔗</a> **[Teslarati]** SpaceX’s 23rd launch of the year carries Egyptian satellite into orbit
 - <a href="https://spacenews.com/house-armed-services-panel-calls-on-dod-to-buy-commercial-space-technology-and-data/" >🔗</a> **[SpaceNews]** House armed services panel calls on DoD to buy commercial space technology and data
 - <a href="https://spacenews.com/inmarsat-satellite-tests-signal-for-replacing-lost-uk-navigation-capability/" >🔗</a> **[SpaceNews]** Inmarsat satellite tests signal for replacing lost UK navigation capability
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-stem-partner-connect-orlando-children-with-artemis" >🔗</a> **[NASA]** NASA Administrator, STEM Partner Connect Orlando Children with Artemis
 - <a href="https://spacenews.com/northrop-grumman-to-boost-production-of-solid-rocket-motors-following-big-contract-from-ula/" >🔗</a> **[SpaceNews]** Northrop Grumman to boost production of solid rocket motors following big contract from ULA
-- <a href="http://www.nasa.gov/press-release/nasa-leadership-to-advocate-for-agency-missions-at-esa-council-meeting" >🔗</a> **[NASA]** NASA Leadership to Advocate for Agency Missions at ESA Council Meeting
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T223604">2022-06-08 22:36:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T230649">2022-06-08 23:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
