@@ -83,11 +83,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-audit-reveals-massive-overruns-in-sls-mobile-launch-platform/" >🔗</a> **[SpaceNews]** NASA audit reveals massive overruns in SLS mobile launch platform
 - <a href="https://arstechnica.com/science/2022/06/nasas-second-mobile-launcher-is-too-heavy-years-late-and-pushing-1-billion/" >🔗</a> **[Arstechnica]** NASA’s second mobile launcher is too heavy, years late, and pushing $1 billion
 - <a href="https://www.nasaspaceflight.com/2022/06/starbase-duo-static-fire-campaign-ksc-progress/" >🔗</a> **[NASA Spaceflight]** Starbase orbital duo preps for Static Fire campaign – KSC Starship Progress
 - <a href="https://spacenews.com/egypts-nilesat-301-passes-health-checks-after-spacex-launch/" >🔗</a> **[SpaceNews]** Egypt’s Nilesat 301 passes health checks after SpaceX launch
 - <a href="https://spacenews.com/space-force-delivers-first-of-two-u-s-payloads-to-launch-on-space-norways-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** Space Force delivers first of two U.S. payloads to launch on Space Norway’s arctic broadband mission
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today" >🔗</a> **[NASA]** NASA to Discuss New Unidentified Aerial Phenomena Study Today
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T193136">2022-06-09 19:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T200753">2022-06-09 20:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
