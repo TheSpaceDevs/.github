@@ -16,7 +16,7 @@ from *<a href="https://en.wikipedia.org/wiki/Spaceport_Florida_Launch_Complex_46
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T160000">2022-06-12 16:00:00 UTC</a>.  Until
 then, this pad will have been used for 5
-out of 844 launches from this location. The launch status is currently
+out of 845 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Low Earth Orbit
@@ -83,11 +83,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/starbase-duo-static-fire-campaign-ksc-progress/" >🔗</a> **[NASA Spaceflight]** Starbase orbital duo preps for Static Fire campaign – KSC Starship Progress
+- <a href="https://spacenews.com/egypts-nilesat-301-passes-health-checks-after-spacex-launch/" >🔗</a> **[SpaceNews]** Egypt’s Nilesat 301 passes health checks after SpaceX launch
 - <a href="https://spacenews.com/space-force-delivers-first-of-two-u-s-payloads-to-launch-on-space-norways-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** Space Force delivers first of two U.S. payloads to launch on Space Norway’s arctic broadband mission
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-new-unidentified-aerial-phenomena-study-today" >🔗</a> **[NASA]** NASA to Discuss New Unidentified Aerial Phenomena Study Today
 - <a href="https://spacenews.com/psyche-launch-delay-forcing-revamp-of-rideshare-mission/" >🔗</a> **[SpaceNews]** Psyche launch delay forcing revamp of rideshare mission
-- <a href="https://www.teslarati.com/spacex-starship-upgraded-dome-test-tank-2022/" >🔗</a> **[Teslarati]** SpaceX rolls out Starship tank prototype to test upgraded domes
-- <a href="https://arstechnica.com/science/2022/06/rocket-report-four-falcon-heavy-launches-this-year-meet-the-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Four Falcon Heavy launches this year; meet the Baguette-one
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T160853">2022-06-09 16:08:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T165512">2022-06-09 16:55:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
