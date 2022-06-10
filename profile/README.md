@@ -83,11 +83,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-conduct-test-to-prepare-for-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss, Conduct Test to Prepare for Artemis I Moon Mission
 - <a href="https://spacenews.com/xenesis-signs-launch-with-evolution-space/" >🔗</a> **[SpaceNews]** Xenesis signs launch pact with Evolution Space
 - <a href="https://spacenews.com/efforts-continue-to-fully-deploy-lucy-solar-array/" >🔗</a> **[SpaceNews]** Efforts continue to fully deploy Lucy solar array
 - <a href="http://www.nasa.gov/press-release/nasa-student-business-competition-gets-boost-by-white-house-initiative" >🔗</a> **[NASA]** NASA Student Business Competition Gets Boost by White House Initiative
 - <a href="https://www.nasaspaceflight.com/2022/06/orion-status-update/" >🔗</a> **[NASA Spaceflight]** Lockheed Martin powers up Artemis 2 Orion, updates status on other capsules
-- <a href="https://spacenews.com/nasa-embraces-high-risk-high-reward-research-with-uap-study/" >🔗</a> **[SpaceNews]** NASA embraces high-risk, high-reward research with UAP study
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T213325">2022-06-10 21:33:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T220625">2022-06-10 22:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
