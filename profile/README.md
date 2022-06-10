@@ -95,11 +95,12 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 - <a href="https://spacenews.com/four-nasa-earth-science-missions-to-launch-in-2022/" >🔗</a> **[SpaceNews]** Four NASA Earth Science missions to launch in 2022
 - <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
 - <a href="http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission" >🔗</a> **[NASA]** NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission
+- <a href="https://spacenews.com/astra-ready-for-first-of-three-nasa-tropics-launches/" >🔗</a> **[SpaceNews]** Astra ready for first of three NASA TROPICS launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T070734">2022-06-10 07:07:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T073442">2022-06-10 07:34:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
