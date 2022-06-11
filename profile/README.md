@@ -96,11 +96,12 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 - <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
 - <a href="http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission" >🔗</a> **[NASA]** NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission
 - <a href="https://spacenews.com/astra-ready-for-first-of-three-nasa-tropics-launches/" >🔗</a> **[SpaceNews]** Astra ready for first of three NASA TROPICS launches
+- <a href="https://spaceflightnow.com/2022/06/10/astra-poised-to-begin-three-launch-campaign-with-nasa-hurricane-research-satellites/" >🔗</a> **[Spaceflight Now]** Astra to begin three-launch campaign with NASA hurricane research satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T090641">2022-06-11 09:06:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220611T093410">2022-06-11 09:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
