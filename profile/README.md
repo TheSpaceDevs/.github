@@ -17,7 +17,7 @@ from *<a href="https://en.wikipedia.org/wiki/Spaceport_Florida_Launch_Complex_46
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T160000">2022-06-12 16:00:00 UTC</a>.  Until
 then, this pad will have been used for 5
 out of 845 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+*Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -101,7 +101,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T170614">2022-06-12 17:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T173337">2022-06-12 17:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
