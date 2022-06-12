@@ -10,30 +10,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Astra Rocket 3 | TROPICS-1**. It is scheduled to be launched by *Astra Space*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Spaceport_Florida_Launch_Complex_46">Space Launch Complex 46</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T160000">2022-06-12 16:00:00 UTC</a>.  Until
-then, this pad will have been used for 5
-out of 845 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+**Nuri | Flight Test 2**. It is scheduled to be launched by *Korea Aerospace Research Institute*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Naro_Space_Center">LC-2</a>, Naro Space Center, South Korea*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 4 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  First two operational (TROPICS-02 & TROPICS-03) satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
-
-The CubeSats are designed to provide rapid-refresh microwave measurements that can be used to determine temperature, pressure, and humidity inside hurricanes as they form and evolve.
+  Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy Payload of 1500 kg to sun-synchronous orbit.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Astra_Space" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220608181903.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/KSLV-2" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/nuri_image_20211020165148.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.4584,-80.5284" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="https://maps.google.com/maps?q=34.431867,127.535069" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_9_20200803142441.jpg"  />
   </a>
 </p>
 
@@ -47,6 +45,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T070000">2022-06-28 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220628T070000Z%2F20220628T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-25** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T230000">2022-06-28 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-22&location=Cape Canaveral, FL, USA&dates=20220628T230000Z%2F20220628T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T000000">2022-06-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 541 | USSF-12&location=Cape Canaveral, FL, USA&dates=20220629T000000Z%2F20220629T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 541 | USSF-12** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,17 +90,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/four-nasa-earth-science-missions-to-launch-in-2022/" >🔗</a> **[SpaceNews]** Four NASA Earth Science missions to launch in 2022
-- <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
-- <a href="http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission" >🔗</a> **[NASA]** NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission
-- <a href="https://spacenews.com/astra-ready-for-first-of-three-nasa-tropics-launches/" >🔗</a> **[SpaceNews]** Astra ready for first of three NASA TROPICS launches
-- <a href="https://spaceflightnow.com/2022/06/10/astra-poised-to-begin-three-launch-campaign-with-nasa-hurricane-research-satellites/" >🔗</a> **[Spaceflight Now]** Astra to begin three-launch campaign with NASA hurricane research satellites
-- <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra to launch first TROPICS flight for NASA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T173337">2022-06-12 17:33:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T180734">2022-06-12 18:07:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
