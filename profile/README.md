@@ -81,7 +81,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra to launch first TROPICS flight for NASA
+- <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra launch fails on first TROPICS flight for NASA
 - <a href="https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** DoD space agency to acquire 10 satellites for experiments in low Earth orbit
 - <a href="https://www.nasaspaceflight.com/2022/06/europa-clippers-update/" >🔗</a> **[NASA Spaceflight]** Europa Clipper’s main body complete, teams continue work toward 2024 launch
 - <a href="https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/" >🔗</a> **[Spaceflight Now]** U.S. Space Force orders eight launches from ULA and SpaceX
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T180734">2022-06-12 18:07:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T183853">2022-06-12 18:38:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
