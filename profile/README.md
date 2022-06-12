@@ -83,11 +83,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra to launch first TROPICS flight for NASA
+- <a href="https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** DoD space agency to acquire 10 satellites for experiments in low Earth orbit
 - <a href="https://www.nasaspaceflight.com/2022/06/europa-clippers-update/" >🔗</a> **[NASA Spaceflight]** Europa Clipper’s main body complete, teams continue work toward 2024 launch
 - <a href="https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/" >🔗</a> **[Spaceflight Now]** U.S. Space Force orders eight launches from ULA and SpaceX
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-conduct-test-to-prepare-for-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss, Conduct Test to Prepare for Artemis I Moon Mission
-- <a href="https://spacenews.com/xenesis-signs-launch-with-evolution-space/" >🔗</a> **[SpaceNews]** Xenesis signs launch pact with Evolution Space
-- <a href="https://spacenews.com/efforts-continue-to-fully-deploy-lucy-solar-array/" >🔗</a> **[SpaceNews]** Efforts continue to fully deploy Lucy solar array
 
 
 ### Launch-related News 🚀
@@ -97,11 +97,12 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 - <a href="http://www.nasa.gov/press-release/nasa-offers-earth-scientist-interviews-ahead-of-tropics-mission" >🔗</a> **[NASA]** NASA Offers Earth Scientist Interviews Ahead of TROPICS Mission
 - <a href="https://spacenews.com/astra-ready-for-first-of-three-nasa-tropics-launches/" >🔗</a> **[SpaceNews]** Astra ready for first of three NASA TROPICS launches
 - <a href="https://spaceflightnow.com/2022/06/10/astra-poised-to-begin-three-launch-campaign-with-nasa-hurricane-research-satellites/" >🔗</a> **[Spaceflight Now]** Astra to begin three-launch campaign with NASA hurricane research satellites
+- <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra to launch first TROPICS flight for NASA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T143144">2022-06-12 14:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T150624">2022-06-12 15:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
