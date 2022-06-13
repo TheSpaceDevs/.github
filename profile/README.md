@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-a-big-step-closer-to-orbital-starship-launches-after-passing-faa-environmental-review/" >🔗</a> **[Teslarati]** SpaceX a big step closer to orbital Starship launches after passing FAA environmental review
+- <a href="https://spacenews.com/atlas-diu-contract/" >🔗</a> **[SpaceNews]** Atlas wins Defense Innovation Unit Award for hybrid network
 - <a href="https://spacenews.com/faa-environmental-review-to-allow-starship-orbital-launches-after-changes/" >🔗</a> **[SpaceNews]** FAA environmental review to allow Starship orbital launches after changes
 - <a href="https://spacenews.com/ariane-6-launch-debut-pushed-into-2023/" >🔗</a> **[SpaceNews]** Ariane 6 launch debut pushed into 2023
 - <a href="https://spaceflightnow.com/2022/06/13/faa-moves-spacex-a-step-closer-to-receiving-starship-launch-license/" >🔗</a> **[Spaceflight Now]** FAA moves SpaceX a step closer to receiving Starship launch license
-- <a href="https://spacenews.com/bluewalker-3-launch-window-opens-aug-15/" >🔗</a> **[SpaceNews]** BlueWalker 3 launch window opens Aug. 15
-- <a href="http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting" >🔗</a> **[NASA]** NASA Discoveries Highlighted at American Astronomical Society Meeting
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T213505">2022-06-13 21:35:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T220708">2022-06-13 22:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
