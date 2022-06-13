@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/" >🔗</a> **[SpaceNews]** GAO finds CASIS not making full use of advisory committee
 - <a href="https://spaceflightnow.com/2022/06/12/photos-artemis-1-rocket-hauled-to-launch-pad-for-another-countdown-rehearsal/" >🔗</a> **[Spaceflight Now]** Photos: Artemis 1 rocket hauled to launch pad for another countdown rehearsal
 - <a href="https://spaceflightnow.com/2022/06/12/two-hurricane-research-satellites-lost-in-astra-launch-failure/" >🔗</a> **[Spaceflight Now]** Two hurricane research satellites lost in Astra launch failure
 - <a href="https://spacenews.com/astra-launch-of-nasa-tropics-cubesats-fails/" >🔗</a> **[SpaceNews]** Astra launch of NASA TROPICS cubesats fails
 - <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra launch fails on first TROPICS flight for NASA
-- <a href="https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** DoD space agency to acquire 10 satellites for experiments in low Earth orbit
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T110611">2022-06-13 11:06:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T113236">2022-06-13 11:32:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
