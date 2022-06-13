@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/13/faa-moves-spacex-a-step-closer-to-receiving-starship-launch-license/" >🔗</a> **[Spaceflight Now]** FAA moves SpaceX a step closer to receiving Starship launch license
 - <a href="https://spacenews.com/bluewalker-3-launch-window-opens-aug-15/" >🔗</a> **[SpaceNews]** BlueWalker 3 launch window opens Aug. 15
 - <a href="http://www.nasa.gov/press-release/nasa-discoveries-highlighted-at-american-astronomical-society-meeting" >🔗</a> **[NASA]** NASA Discoveries Highlighted at American Astronomical Society Meeting
 - <a href="https://spacenews.com/gao-finds-casis-not-making-full-use-of-advisory-committee/" >🔗</a> **[SpaceNews]** GAO finds CASIS not making full use of advisory committee
 - <a href="https://www.reuters.com/technology/spacex-faces-nasa-hurdle-starship-backup-launch-pad-2022-06-13/" >🔗</a> **[Reuters]** SpaceX faces NASA hurdle for Starship backup launch pad
-- <a href="https://spaceflightnow.com/2022/06/12/photos-artemis-1-rocket-hauled-to-launch-pad-for-another-countdown-rehearsal/" >🔗</a> **[Spaceflight Now]** Photos: Artemis 1 rocket hauled to launch pad for another countdown rehearsal
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T180918">2022-06-13 18:09:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T184307">2022-06-13 18:43:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
