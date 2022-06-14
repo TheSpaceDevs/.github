@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/" >🔗</a> **[SpaceNews]** Northrop Grumman demonstrates Mynaric laser terminals for military constellation
 - <a href="https://spacenews.com/cargo-dragon-launch-rescheduled-for-july-after-identifying-hydrazine-leak/" >🔗</a> **[SpaceNews]** Cargo Dragon launch rescheduled for July after identifying hydrazine leak
 - <a href="https://www.teslarati.com/spacex-nasa-cargo-dragon-crs-25-delay-update/" >🔗</a> **[Teslarati]** SpaceX, NASA blame Cargo Dragon leak on faulty valve, delay launch further
 - <a href="https://spacenews.com/chinese-university-completes-space-based-solar-power-ground-test-facility/" >🔗</a> **[SpaceNews]** Chinese university completes space-based solar power ground test facility
 - <a href="https://spacenews.com/bluehalo-wins-11-million-air-force-contract-for-laser-communications-terminals/" >🔗</a> **[SpaceNews]** BlueHalo wins $11 million Air Force contract for laser communications terminals
-- <a href="https://spacenews.com/air-force-scientist-takes-over-as-director-of-space-force-rapid-procurement-agency/" >🔗</a> **[SpaceNews]** Air Force scientist takes over as director of Space Force rapid procurement agency
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T130321">2022-06-14 13:03:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T134748">2022-06-14 13:47:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
