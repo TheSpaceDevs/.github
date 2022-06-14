@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bluehalo-wins-11-million-air-force-contract-for-laser-communications-terminals/" >🔗</a> **[SpaceNews]** BlueHalo wins $11 million Air Force contract for laser communications terminals
 - <a href="https://spacenews.com/air-force-scientist-takes-over-as-director-of-space-force-rapid-procurement-agency/" >🔗</a> **[SpaceNews]** Air Force scientist takes over as director of Space Force rapid procurement agency
 - <a href="https://www.teslarati.com/spacex-a-big-step-closer-to-orbital-starship-launches-after-passing-faa-environmental-review/" >🔗</a> **[Teslarati]** SpaceX a big step closer to orbital Starship launches after passing FAA environmental review
 - <a href="https://spacenews.com/atlas-diu-contract/" >🔗</a> **[SpaceNews]** Atlas wins Defense Innovation Unit Award for hybrid network
 - <a href="https://spacenews.com/faa-environmental-review-to-allow-starship-orbital-launches-after-changes/" >🔗</a> **[SpaceNews]** FAA environmental review to allow Starship orbital launches after changes
-- <a href="https://spacenews.com/ariane-6-launch-debut-pushed-into-2023/" >🔗</a> **[SpaceNews]** Ariane 6 launch debut pushed into 2023
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T070709">2022-06-14 07:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T073342">2022-06-14 07:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
