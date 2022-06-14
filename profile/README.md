@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aerospacelab-factory-charleroi/" >🔗</a> **[SpaceNews]** Aerospacelab to build “megafactory” in Belgium
+- <a href="https://www.nasaspaceflight.com/2022/06/osiris-rex-update/" >🔗</a> **[NASA Spaceflight]** Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis
 - <a href="https://spacenews.com/explosion-at-chinese-space-launch-center-revealed-by-satellite-imagery/" >🔗</a> **[SpaceNews]** Explosion at Chinese space launch center revealed by satellite imagery
 - <a href="https://spacenews.com/sierra-space-to-start-astronaut-training-program/" >🔗</a> **[SpaceNews]** Sierra Space to start astronaut training program
 - <a href="https://mars.nasa.gov/news/9205/" >🔗</a> **[NASA]** NASA, Partner Establish New Research Group for Mars Sample Return Program
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-public-to-view-webb-telescope-s-first-images" >🔗</a> **[NASA]** NASA Invites Media, Public to View Webb Telescope’s First Images
-- <a href="https://spacenews.com/northrop-grumman-demonstrates-mynaric-laser-terminals-for-military-constellation/" >🔗</a> **[SpaceNews]** Northrop Grumman demonstrates Mynaric laser terminals for military constellation
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T173823">2022-06-14 17:38:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T180836">2022-06-14 18:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
