@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/" >🔗</a> **[Spaceflight Now]** Momentus orbital transfer vehicle suffers power problem after launch
 - <a href="https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/" >🔗</a> **[SpaceNews]** Starlink and OneWeb reach spectrum coordination plan
 - <a href="https://spacenews.com/aerospacelab-factory-charleroi/" >🔗</a> **[SpaceNews]** Aerospacelab to build “megafactory” in Belgium
 - <a href="https://www.nasaspaceflight.com/2022/06/osiris-rex-update/" >🔗</a> **[NASA Spaceflight]** Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis
 - <a href="https://spacenews.com/sierra-space-to-start-astronaut-training-program/" >🔗</a> **[SpaceNews]** Sierra Space to start astronaut training program
-- <a href="https://spacenews.com/explosion-at-chinese-space-launch-center-revealed-by-satellite-imagery/" >🔗</a> **[SpaceNews]** Explosion at Chinese space launch center revealed by satellite imagery
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T213229">2022-06-14 21:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T220620">2022-06-14 22:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
