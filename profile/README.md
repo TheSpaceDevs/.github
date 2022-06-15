@@ -17,7 +17,7 @@ from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>.  Until
 then, this pad will have been used for 145
 out of 202 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -36,7 +36,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-19&location=Kennedy Space Center, FL, USA&dates=20220617T160850Z%2F20220617T160850Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-19** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-19&location=Kennedy Space Center, FL, USA&dates=20220617T160850Z%2F20220617T160850Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-19** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T135000">2022-06-18 13:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 1&location=Vandenberg SFB, CA, USA&dates=20220618T135000Z%2F20220618T135000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SARah 1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T042500">2022-06-19 04:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar-2 FM15 &amp; others&location=Cape Canaveral, FL, USA&dates=20220619T042500Z%2F20220619T042500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Globalstar-2 FM15 & others** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Measat-3d &amp; GSAT 24&location=Kourou, French Guiana&dates=20220622T210300Z%2F20220622T224300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Measat-3d & GSAT 24** from Kourou, French Guiana.
@@ -85,7 +85,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/" >🔗</a> **[SpaceNews]** House appropriators approve funding increase for DoD, support space programs
 - <a href="https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/" >🔗</a> **[NASA Spaceflight]** Tensions mount between Russia and Europe over joint Spektr-RG telescope
 - <a href="http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts" >🔗</a> **[NASA]** NASA, Partner Agency Leaders to Talk to Space Station Astronauts
-- <a href="https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/" >🔗</a> **[Arstechnica]** NASA says it’s ready for a fourth attempt to fuel the massive SLS rocket
+- <a href="https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/" >🔗</a> **[Arstechnica]** NASA says its ready for a fourth attempt to fuel the massive SLS rocket
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T223654">2022-06-15 22:36:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T230709">2022-06-15 23:07:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
