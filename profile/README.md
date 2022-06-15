@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July
 - <a href="https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/" >🔗</a> **[SpaceNews]** Momentus increasingly pessimistic about first Vigoride mission
 - <a href="https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/" >🔗</a> **[Spaceflight Now]** Momentus orbital transfer vehicle suffers power problem after launch
 - <a href="https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/" >🔗</a> **[SpaceNews]** Starlink and OneWeb reach spectrum coordination plan
 - <a href="https://spacenews.com/aerospacelab-factory-charleroi/" >🔗</a> **[SpaceNews]** Aerospacelab to build “megafactory” in Belgium
-- <a href="https://www.nasaspaceflight.com/2022/06/osiris-rex-update/" >🔗</a> **[NASA Spaceflight]** Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T113351">2022-06-15 11:33:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T121237">2022-06-15 12:12:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
