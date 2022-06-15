@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/" >🔗</a> **[NASA Spaceflight]** Tensions mount between Russia and Europe over joint Spektr-RG telescope
+- <a href="http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts" >🔗</a> **[NASA]** NASA, Partner Agency Leaders to Talk to Space Station Astronauts
+- <a href="https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/" >🔗</a> **[Arstechnica]** NASA says it’s ready for a fourth attempt to fuel the massive SLS rocket
+- <a href="https://spacenews.com/esa-and-nasa-to-cooperate-on-earth-science-and-lunar-mission/" >🔗</a> **[SpaceNews]** ESA and NASA to cooperate on Earth science and lunar mission
 - <a href="https://spacenews.com/retired-four-star-general-john-hyten-joins-blue-origin-as-strategic-advisor/" >🔗</a> **[SpaceNews]** Retired four-star general John Hyten joins Blue Origin as strategic advisor
-- <a href="http://www.nasa.gov/press-release/nasa-esa-finalize-agreements-on-climate-artemis-cooperation" >🔗</a> **[NASA]** NASA, ESA Finalize Agreements on Climate, Artemis Cooperation
-- <a href="https://spacenews.com/an-in-orbit-game-of-cat-and-mouse-close-approaches-prompt-calls-for-communications-and-norms/" >🔗</a> **[SpaceNews]** An In-Orbit Game of Cat and Mouse: Close approaches prompt calls for communications and norms
-- <a href="https://www.teslarati.com/spacex-elon-musk-starship-orbital-launch-debut-schedule/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk claims Starship will be ready for first orbital launch in July
-- <a href="https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/" >🔗</a> **[SpaceNews]** Momentus increasingly pessimistic about first Vigoride mission
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T193146">2022-06-15 19:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T201153">2022-06-15 20:11:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
