@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/" >🔗</a> **[SpaceNews]** OneWeb tests inflight connectivity on Boeing 777
 - <a href="https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/" >🔗</a> **[SpaceNews]** House appropriators approve funding increase for DoD, support space programs
 - <a href="https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/" >🔗</a> **[NASA Spaceflight]** Tensions mount between Russia and Europe over joint Spektr-RG telescope
 - <a href="http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts" >🔗</a> **[NASA]** NASA, Partner Agency Leaders to Talk to Space Station Astronauts
 - <a href="https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/" >🔗</a> **[Arstechnica]** NASA says it’s ready for a fourth attempt to fuel the massive SLS rocket
-- <a href="https://spacenews.com/esa-and-nasa-to-cooperate-on-earth-science-and-lunar-mission/" >🔗</a> **[SpaceNews]** ESA and NASA to cooperate on Earth science and lunar mission
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T213404">2022-06-15 21:34:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T220649">2022-06-15 22:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
