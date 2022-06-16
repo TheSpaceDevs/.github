@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/" >🔗</a> **[SpaceNews]** Quadsat gets ESA funding for ready-to-fly antenna testing kits
 - <a href="https://spacenews.com/euroconsult-last-mile-logistics/" >🔗</a> **[SpaceNews]** Euroconsult anticipates growing demand for last-mile logistics
 - <a href="https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/" >🔗</a> **[Spaceflight Now]** SpaceX planning another trifecta of launches this weekend
 - <a href="https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/" >🔗</a> **[SpaceNews]** Firefly co-founder Markusic to step down as CEO
 - <a href="https://spacenews.com/d-orbit-ambitions/" >🔗</a> **[SpaceNews]** D-Orbit charts ambitious course for space logistics business
-- <a href="https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/" >🔗</a> **[SpaceNews]** Fourth SLS countdown test set for June 20
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T160931">2022-06-16 16:09:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T165510">2022-06-16 16:55:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
