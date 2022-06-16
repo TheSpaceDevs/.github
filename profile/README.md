@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/06/europes-major-new-rocket-the-ariane-6-is-delayed-again/" >🔗</a> **[Arstechnica]** Europe’s major new rocket, the Ariane 6, is delayed again
 - <a href="http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight" >🔗</a> **[NASA]** NASA Updates Astronaut Assignments for Boeing Starliner Test Flight
 - <a href="https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/" >🔗</a> **[SpaceNews]** Quadsat gets ESA funding for ready-to-fly antenna testing kits
 - <a href="https://spacenews.com/euroconsult-last-mile-logistics/" >🔗</a> **[SpaceNews]** Euroconsult anticipates growing demand for last-mile logistics
 - <a href="https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/" >🔗</a> **[Spaceflight Now]** SpaceX planning another trifecta of launches this weekend
-- <a href="https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/" >🔗</a> **[SpaceNews]** Firefly co-founder Markusic to step down as CEO
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T190456">2022-06-16 19:04:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T193158">2022-06-16 19:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
