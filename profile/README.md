@@ -81,21 +81,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/euroconsult-last-mile-logistics/" >🔗</a> **[SpaceNews]** Euroconsult anticipates growing demand for last-mile logistics
+- <a href="https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/" >🔗</a> **[Spaceflight Now]** SpaceX planning another trifecta of launches this weekend
 - <a href="https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/" >🔗</a> **[SpaceNews]** Firefly co-founder Markusic to step down as CEO
 - <a href="https://spacenews.com/d-orbit-ambitions/" >🔗</a> **[SpaceNews]** D-Orbit charts ambitious course for space logistics business
 - <a href="https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/" >🔗</a> **[SpaceNews]** Fourth SLS countdown test set for June 20
-- <a href="https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/" >🔗</a> **[SpaceNews]** OneWeb tests inflight connectivity on Boeing 777
-- <a href="https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/" >🔗</a> **[SpaceNews]** House appropriators approve funding increase for DoD, support space programs
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-nilesat-301-booster-return-starlink-launch-prep/" >🔗</a> **[Teslarati]** SpaceX wraps up Falcon 9 launch, sends drone ship to sea for the next one
+- <a href="https://spaceflightnow.com/2022/06/16/spacex-planning-another-trifecta-of-launches-this-weekend/" >🔗</a> **[Spaceflight Now]** SpaceX planning another trifecta of launches this weekend
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T143348">2022-06-16 14:33:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T150652">2022-06-16 15:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
