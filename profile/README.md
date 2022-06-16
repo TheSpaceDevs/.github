@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/d-orbit-ambitions/" >🔗</a> **[SpaceNews]** D-Orbit charts ambitious course for space logistics business
+- <a href="https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/" >🔗</a> **[SpaceNews]** Fourth SLS countdown test set for June 20
 - <a href="https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/" >🔗</a> **[SpaceNews]** OneWeb tests inflight connectivity on Boeing 777
 - <a href="https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/" >🔗</a> **[SpaceNews]** House appropriators approve funding increase for DoD, support space programs
 - <a href="https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/" >🔗</a> **[NASA Spaceflight]** Tensions mount between Russia and Europe over joint Spektr-RG telescope
-- <a href="http://www.nasa.gov/press-release/nasa-partner-agency-leaders-to-talk-to-space-station-astronauts" >🔗</a> **[NASA]** NASA, Partner Agency Leaders to Talk to Space Station Astronauts
-- <a href="https://arstechnica.com/science/2022/06/nasa-says-its-ready-for-a-fourth-attempt-to-fuel-the-massive-sls-rocket/" >🔗</a> **[Arstechnica]** NASA says its ready for a fourth attempt to fuel the massive SLS rocket
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T233611">2022-06-15 23:36:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T003709">2022-06-16 00:37:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
