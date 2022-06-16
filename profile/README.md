@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-co-founder-markusic-to-step-down-as-ceo/" >🔗</a> **[SpaceNews]** Firefly co-founder Markusic to step down as CEO
 - <a href="https://spacenews.com/d-orbit-ambitions/" >🔗</a> **[SpaceNews]** D-Orbit charts ambitious course for space logistics business
 - <a href="https://spacenews.com/fourth-sls-countdown-test-set-for-june-20/" >🔗</a> **[SpaceNews]** Fourth SLS countdown test set for June 20
 - <a href="https://spacenews.com/oneweb-tests-inflight-connectivity-on-boeing-777/" >🔗</a> **[SpaceNews]** OneWeb tests inflight connectivity on Boeing 777
 - <a href="https://spacenews.com/house-appropriators-approve-funding-increase-for-dod-support-space-programs/" >🔗</a> **[SpaceNews]** House appropriators approve funding increase for DoD, support space programs
-- <a href="https://www.nasaspaceflight.com/2022/06/tensions-spektr-rg/" >🔗</a> **[NASA Spaceflight]** Tensions mount between Russia and Europe over joint Spektr-RG telescope
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T113211">2022-06-16 11:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T121331">2022-06-16 12:13:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
