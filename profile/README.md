@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/" >🔗</a> **[SpaceNews]** Impulse Space raises an additional $10 million for orbital transfer vehicles
 - <a href="https://spacenews.com/getting-ssa-off-the-ground/" >🔗</a> **[SpaceNews]** Getting SSA off the ground
 - <a href="https://www.teslarati.com/spacex-falcon-9-record-breaking-starlink-launch-june-2022/" >🔗</a> **[Teslarati]** SpaceX to kick off launch triple-header with record-breaking Falcon reuse
 - <a href="https://www.nasaspaceflight.com/2022/06/starlink-4-19/" >🔗</a> **[NASA Spaceflight]** SpaceX set to launch Starlink satellites on booster’s 13th flight
 - <a href="https://spacenews.com/astronomers-renew-concerns-about-starlink-satellite-brightness/" >🔗</a> **[SpaceNews]** Astronomers renew concerns about Starlink satellite brightness
-- <a href="https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/" >🔗</a> **[Reuters]** SpaceX fires employees involved in letter rebuking Musk
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T150649">2022-06-17 15:06:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T154431">2022-06-17 15:44:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
