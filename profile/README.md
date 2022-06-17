@@ -81,11 +81,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.reuters.com/technology/spacex-fires-employees-involved-letter-rebuking-musk-nyt-2022-06-17/" >🔗</a> **[Reuters]** SpaceX fires employees involved in letter rebuking Musk
 - <a href="https://spacenews.com/astronomers-want-strong-finish-for-sofia/" >🔗</a> **[SpaceNews]** Astronomers want “strong finish” for SOFIA
 - <a href="https://spacenews.com/nasa-assigns-two-astronauts-to-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA assigns two astronauts to Starliner test flight
 - <a href="https://arstechnica.com/science/2022/06/europes-major-new-rocket-the-ariane-6-is-delayed-again/" >🔗</a> **[Arstechnica]** Europe’s major new rocket, the Ariane 6, is delayed again
 - <a href="http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight" >🔗</a> **[NASA]** NASA Updates Astronaut Assignments for Boeing Starliner Test Flight
-- <a href="https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/" >🔗</a> **[SpaceNews]** Quadsat gets ESA funding for ready-to-fly antenna testing kits
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T080929">2022-06-17 08:09:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T084153">2022-06-17 08:41:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
