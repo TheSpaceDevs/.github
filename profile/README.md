@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/speedcast-plotting-major-satellite-capacity-expansion/" >🔗</a> **[SpaceNews]** Speedcast plotting major satellite capacity expansion
 - <a href="https://spacenews.com/south-korean-rockets-second-launch-rescheduled-for-june-21/" >🔗</a> **[SpaceNews]** South Korean rocket’s second launch rescheduled for June 21
 - <a href="https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/" >🔗</a> **[SpaceNews]** Impulse Space raises an additional $10 million for orbital transfer vehicles
 - <a href="https://spacenews.com/getting-ssa-off-the-ground/" >🔗</a> **[SpaceNews]** Getting SSA off the ground
 - <a href="https://www.teslarati.com/spacex-falcon-9-record-breaking-starlink-launch-june-2022/" >🔗</a> **[Teslarati]** SpaceX to kick off launch triple-header with record-breaking Falcon reuse
-- <a href="https://www.nasaspaceflight.com/2022/06/starlink-4-19/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Starlink satellites on booster’s 13th flight
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T193139">2022-06-17 19:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T200630">2022-06-17 20:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
