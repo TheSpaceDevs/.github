@@ -81,7 +81,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/" >🔗</a> **[NASA Spaceflight]** Falcon 9 to launch Germany’s SARah-1 from Vandenberg
+- <a href="https://www.nasaspaceflight.com/2022/06/falcon-9-sarah-1/" >🔗</a> **[NASA Spaceflight]** Falcon 9 launches Germany’s SARah-1 from Vandenberg
 - <a href="https://spacenews.com/speedcast-plotting-major-satellite-capacity-expansion/" >🔗</a> **[SpaceNews]** Speedcast plotting major satellite capacity expansion
 - <a href="https://spacenews.com/south-korean-rockets-second-launch-rescheduled-for-june-21/" >🔗</a> **[SpaceNews]** South Korean rocket’s second launch rescheduled for June 21
 - <a href="https://spacenews.com/impulse-space-raises-an-additional-10-million-for-orbital-transfer-vehicles/" >🔗</a> **[SpaceNews]** Impulse Space raises an additional $10 million for orbital transfer vehicles
@@ -97,7 +97,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T143242">2022-06-18 14:32:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T150621">2022-06-18 15:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
