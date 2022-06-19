@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/" >🔗</a> **[NASA Spaceflight]** Researchers use Hubble to observe dead star destroying planetary system
 - <a href="https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/" >🔗</a> **[SpaceNews]** SpaceX performs three launches within two days amid internal dissent
 - <a href="https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/" >🔗</a> **[Spaceflight Now]** SpaceX launches third Falcon 9 rocket in less than two days
 - <a href="https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Globalstar satellite on mysterious Falcon 9 mission
 - <a href="https://spaceflightnow.com/2022/06/18/globalstar-hush-hush-ahead-of-launch-with-spacex/" >🔗</a> **[Spaceflight Now]** Globalstar hush-hush ahead of launch with SpaceX
-- <a href="https://spaceflightnow.com/2022/06/18/spacex-launches-german-military-radar-satellite-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX launches German military radar satellite from California
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T173421">2022-06-19 17:34:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T180738">2022-06-19 18:07:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
