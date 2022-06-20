@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/" >🔗</a> **[Teslarati]** SpaceX to attempt to crush Starship test tank
+- <a href="https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/" >🔗</a> **[Arstechnica]** We got a leaked look at NASA’s future Moon missions—and likely delays
+- <a href="https://spacenews.com/china-aims-to-bring-mars-samples-to-earth-2-years-before-nasa-esa-mission/" >🔗</a> **[SpaceNews]** China aims to bring Mars samples to Earth 2 years before NASA, ESA mission
 - <a href="https://spacenews.com/space-force-to-establish-intelligence-unit-at-wright-patterson-air-force-base/" >🔗</a> **[SpaceNews]** Space Force to establish intelligence unit at Wright-Patterson Air Force Base
 - <a href="https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/" >🔗</a> **[Teslarati]** SpaceX launches three Falcon 9 rockets in 36 hours
-- <a href="https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/" >🔗</a> **[NASA Spaceflight]** Researchers use Hubble to observe dead star destroying planetary system
-- <a href="https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/" >🔗</a> **[SpaceNews]** SpaceX performs three launches within two days amid internal dissent
-- <a href="https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/" >🔗</a> **[Spaceflight Now]** SpaceX launches third Falcon 9 rocket in less than two days
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T104020">2022-06-20 10:40:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T111036">2022-06-20 11:10:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
