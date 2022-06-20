@@ -81,11 +81,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/" >🔗</a> **[NASA Spaceflight]** NASA making fourth attempt to complete Artemis 1 Wet Dress Rehearsal
 - <a href="https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/" >🔗</a> **[Teslarati]** SpaceX to attempt to crush Starship test tank
 - <a href="https://arstechnica.com/science/2022/06/we-got-a-leaked-look-at-nasas-future-moon-missions-and-likely-delays/" >🔗</a> **[Arstechnica]** We got a leaked look at NASA’s future Moon missions—and likely delays
 - <a href="https://spacenews.com/china-aims-to-bring-mars-samples-to-earth-2-years-before-nasa-esa-mission/" >🔗</a> **[SpaceNews]** China aims to bring Mars samples to Earth 2 years before NASA, ESA mission
 - <a href="https://spacenews.com/space-force-to-establish-intelligence-unit-at-wright-patterson-air-force-base/" >🔗</a> **[SpaceNews]** Space Force to establish intelligence unit at Wright-Patterson Air Force Base
-- <a href="https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/" >🔗</a> **[Teslarati]** SpaceX launches three Falcon 9 rockets in 36 hours
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T130543">2022-06-20 13:05:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T135219">2022-06-20 13:52:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
