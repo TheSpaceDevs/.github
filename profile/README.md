@@ -84,7 +84,7 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/disksat-demo-mission/" >🔗</a> **[SpaceNews]** NASA approves demonstration flight for circular DiskSats
 - <a href="https://spacenews.com/epsilon3-raises-15-million-for-space-project-management-platform/" >🔗</a> **[SpaceNews]** Epsilon3 raises $15 million for space project management platform
 - <a href="https://spacenews.com/house-armed-services-bill-proposes-75-million-for-rapid-space-launch-activities/" >🔗</a> **[SpaceNews]** House Armed Services bill proposes $75 million for rapid space launch activities
-- <a href="https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/" >🔗</a> **[NASA Spaceflight]** NASA making fourth attempt to complete Artemis 1 Wet Dress Rehearsal
+- <a href="https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/" >🔗</a> **[NASA Spaceflight]** NASA completes fourth Artemis 1 Wet Dress Rehearsal attempt
 - <a href="https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/" >🔗</a> **[Teslarati]** SpaceX to attempt to crush Starship test tank
 
 
@@ -94,7 +94,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T003920">2022-06-21 00:39:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T025729">2022-06-21 02:57:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
