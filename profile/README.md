@@ -19,11 +19,17 @@ then, this pad will have been used for 1
 out of 4 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy Payload of 1500 kg to sun-synchronous orbit.
+  Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy performance verification satellite (PVSAT) Payload of 1500 kg to sun-synchronous orbit.
+
+The mission will in addition launch four Cubesats:
+- CubeSat (6U) STEP Cube Lab-II
+- CubeSat (3U) SNUGLITE-II
+- CubeSat (3U) MIMAN
+- CubeSat (3U) RANDEV
 </blockquote>
 
 <p float="left" align="center">
@@ -94,7 +100,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T025729">2022-06-21 02:57:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T035432">2022-06-21 03:54:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
