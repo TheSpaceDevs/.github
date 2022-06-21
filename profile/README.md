@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9207/" >🔗</a> **[NASA]** NASA's InSight Gets a Few Extra Weeks of Mars Science
 - <a href="https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA counts down to within 29 seconds of launching the large SLS rocket
 - <a href="https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/" >🔗</a> **[SpaceNews]** House Appropriations Committee warns of cost pressures in Space Force programs
 - <a href="http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon" >🔗</a> **[NASA]** NASA Announces Artemis Concept Awards for Nuclear Power on Moon
 - <a href="https://spacenews.com/through-starling-nasa-will-test-complex-swarm-operations/" >🔗</a> **[SpaceNews]** Through Starling, NASA will test complex swarm operations
-- <a href="https://spacenews.com/nasa-spacex-to-test-satellite-crash-prevention-strategies/" >🔗</a> **[SpaceNews]** NASA, SpaceX to test satellite crash-prevention strategies
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T190408">2022-06-21 19:04:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T193136">2022-06-21 19:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
