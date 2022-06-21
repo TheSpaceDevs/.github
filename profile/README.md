@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-announces-artemis-concept-awards-for-nuclear-power-on-moon" >🔗</a> **[NASA]** NASA Announces Artemis Concept Awards for Nuclear Power on Moon
+- <a href="https://spacenews.com/nasa-spacex-to-test-satellite-crash-prevention-strategies/" >🔗</a> **[SpaceNews]** NASA, SpaceX to test satellite crash-prevention strategies
+- <a href="https://spacenews.com/through-starling-nasa-will-test-complex-swarm-operations/" >🔗</a> **[SpaceNews]** Through Starling, NASA will test complex swarm operations
 - <a href="https://www.nasaspaceflight.com/2022/06/nuri-second-test-flight/" >🔗</a> **[NASA Spaceflight]** KARI reaches orbit on second test flight of domestic Nuri rocket
 - <a href="https://spacenews.com/sierra-space-signs-agreement-for-dream-chaser-landings-at-spaceport-america/" >🔗</a> **[SpaceNews]** Sierra Space signs agreement for Dream Chaser landings at Spaceport America
-- <a href="https://spacenews.com/south-korean-rocket-puts-satellites-in-orbit-for-the-first-time-in-second-flight/" >🔗</a> **[SpaceNews]** South Korean rocket puts satellites in orbit for the first time in second flight
-- <a href="https://spacenews.com/disksat-demo-mission/" >🔗</a> **[SpaceNews]** NASA approves demonstration flight for circular DiskSats
-- <a href="https://spacenews.com/epsilon3-raises-15-million-for-space-project-management-platform/" >🔗</a> **[SpaceNews]** Epsilon3 raises $15 million for space project management platform
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T150746">2022-06-21 15:07:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T154054">2022-06-21 15:40:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
