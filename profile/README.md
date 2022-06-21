@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sierra-space-signs-agreement-for-dream-chaser-landings-at-spaceport-america/" >🔗</a> **[SpaceNews]** Sierra Space signs agreement for Dream Chaser landings at Spaceport America
+- <a href="https://spacenews.com/south-korean-rocket-puts-satellites-in-orbit-for-the-first-time-in-second-flight/" >🔗</a> **[SpaceNews]** South Korean rocket puts satellites in orbit for the first time in second flight
 - <a href="https://spacenews.com/disksat-demo-mission/" >🔗</a> **[SpaceNews]** NASA approves demonstration flight for circular DiskSats
 - <a href="https://spacenews.com/epsilon3-raises-15-million-for-space-project-management-platform/" >🔗</a> **[SpaceNews]** Epsilon3 raises $15 million for space project management platform
 - <a href="https://spacenews.com/house-armed-services-bill-proposes-75-million-for-rapid-space-launch-activities/" >🔗</a> **[SpaceNews]** House Armed Services bill proposes $75 million for rapid space launch activities
-- <a href="https://www.nasaspaceflight.com/2022/06/artemis-1-wdr-4/" >🔗</a> **[NASA Spaceflight]** NASA completes fourth Artemis 1 Wet Dress Rehearsal attempt
-- <a href="https://www.teslarati.com/spacex-starship-booster-tank-can-crusher-test/" >🔗</a> **[Teslarati]** SpaceX to attempt to crush Starship test tank
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T121357">2022-06-21 12:13:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T130858">2022-06-21 13:08:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
