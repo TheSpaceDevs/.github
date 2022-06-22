@@ -81,11 +81,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/plasmos-velo3d/" >🔗</a> **[SpaceNews]** Velo3D makes in-kind investment in Plasmos
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-announces-next-nac-meeting-new-members" >🔗</a> **[NASA]** NASA Administrator Announces Next NAC Meeting, New Members
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services" >🔗</a> **[NASA]** NASA Awards Contracts for Mission Enabling Services
 - <a href="https://spacenews.com/nasa-moves-up-lunar-trailblazer-launch/" >🔗</a> **[SpaceNews]** NASA moves up Lunar Trailblazer launch
 - <a href="http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors" >🔗</a> **[NASA]** NASA Introduces 2022 Class of Flight Directors
-- <a href="http://www.nasa.gov/press-release/la-nasa-presenta-sus-nuevos-directores-de-vuelo" >🔗</a> **[NASA]** La NASA presenta sus nuevos directores de vuelo
 
 
 ### Launch-related News 🚀
@@ -94,7 +94,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T230642">2022-06-22 23:06:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T233652">2022-06-22 23:36:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
