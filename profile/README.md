@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kuaizhou-1a-returns-to-flight-with-test-satellite-launch/" >🔗</a> **[SpaceNews]** Kuaizhou-1A returns to flight with test satellite launch
+- <a href="https://www.teslarati.com/spacex-project-echo-bastrop-county-texas-permits/" >🔗</a> **[Teslarati]** SpaceX gets permit for “Project Echo” in Central Texas
 - <a href="https://spacenews.com/first-collegiate-smallsat-c/" >🔗</a> **[SpaceNews]** SmallSat Alliance unveils Collegiate Space Competition
 - <a href="https://spacenews.com/spacex-warns-5g-plan-would-deny-starlink-to-most-americans/" >🔗</a> **[SpaceNews]** SpaceX warns 5G plan would deny Starlink to most Americans
 - <a href="https://mars.nasa.gov/news/9207/" >🔗</a> **[NASA]** NASA's InSight Gets a Few Extra Weeks of Mars Science
-- <a href="https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA counts down to within 29 seconds of launching the large SLS rocket
-- <a href="https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/" >🔗</a> **[SpaceNews]** House Appropriations Committee warns of cost pressures in Space Force programs
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T090640">2022-06-22 09:06:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T093631">2022-06-22 09:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
