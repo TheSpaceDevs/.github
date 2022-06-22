@@ -17,7 +17,7 @@ from *<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a>, Kou
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>.  Until
 then, this pad will have been used for 113
 out of 312 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Communications* and the payload will be injected
 into *a Geostationary Transfer Orbit
 (GTO)*.
@@ -36,7 +36,6 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Measat-3d &amp; GSAT 24&location=Kourou, French Guiana&dates=20220622T210300Z%2F20220622T224300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Measat-3d & GSAT 24** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T021100">2022-06-23 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20220623T021100Z%2F20220623T023100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T100000">2022-06-25 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | CAPSTONE&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220625T100000Z%2F20220625T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | CAPSTONE** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T210400">2022-06-28 21:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-22&location=Cape Canaveral, FL, USA&dates=20220628T210400Z%2F20220628T210400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-22** from Cape Canaveral, FL, USA.
@@ -81,11 +80,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services" >🔗</a> **[NASA]** NASA Awards Contracts for Mission Enabling Services
+- <a href="https://spacenews.com/nasa-moves-up-lunar-trailblazer-launch/" >🔗</a> **[SpaceNews]** NASA moves up Lunar Trailblazer launch
 - <a href="http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors" >🔗</a> **[NASA]** NASA Introduces 2022 Class of Flight Directors
 - <a href="http://www.nasa.gov/press-release/la-nasa-presenta-sus-nuevos-directores-de-vuelo" >🔗</a> **[NASA]** La NASA presenta sus nuevos directores de vuelo
 - <a href="https://spacenews.com/uk-mulls-starlink-expansion-plan-under-new-ngso-regulations/" >🔗</a> **[SpaceNews]** UK mulls Starlink expansion plan under new NGSO regulations
-- <a href="https://www.nasaspaceflight.com/2022/06/ariane-5-final-five/" >🔗</a> **[NASA Spaceflight]** The final five: Ariane 5’s march to retirement begins with dual passenger launch
-- <a href="https://mars.nasa.gov/news/9209/" >🔗</a> **[NASA]** NASA's Curiosity Captures Stunning Views of a Changing Mars Landscape
 
 
 ### Launch-related News 🚀
@@ -96,7 +95,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T203626">2022-06-22 20:36:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210631">2022-06-22 21:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
