@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dod-satcom-big-money-for-military-satellites-slow-shift-to-commercial-services/" >🔗</a> **[SpaceNews]** DoD Satcom: Big money for military satellites, slow shift to commercial services
 - <a href="https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/" >🔗</a> **[SpaceNews]** Viasat shareholders approve Inmarsat acquisition
 - <a href="https://spacenews.com/house-bill-trims-nasa-budget-proposal/" >🔗</a> **[SpaceNews]** House bill trims NASA budget proposal
 - <a href="https://spacenews.com/nasa-encouraged-by-sls-countdown-rehearsal/" >🔗</a> **[SpaceNews]** NASA encouraged by SLS countdown rehearsal
 - <a href="https://spacenews.com/kuaizhou-1a-returns-to-flight-with-test-satellite-launch/" >🔗</a> **[SpaceNews]** Kuaizhou-1A returns to flight with test satellite launch
-- <a href="https://www.teslarati.com/spacex-project-echo-bastrop-county-texas-permits/" >🔗</a> **[Teslarati]** SpaceX gets permit for “Project Echo” in Central Texas
 
 
 ### Launch-related News 🚀
@@ -95,7 +95,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T140948">2022-06-22 14:09:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T143432">2022-06-22 14:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
