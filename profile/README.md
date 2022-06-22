@@ -81,11 +81,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors" >🔗</a> **[NASA]** NASA Introduces 2022 Class of Flight Directors
 - <a href="http://www.nasa.gov/press-release/la-nasa-presenta-sus-nuevos-directores-de-vuelo" >🔗</a> **[NASA]** La NASA presenta sus nuevos directores de vuelo
 - <a href="https://spacenews.com/uk-mulls-starlink-expansion-plan-under-new-ngso-regulations/" >🔗</a> **[SpaceNews]** UK mulls Starlink expansion plan under new NGSO regulations
 - <a href="https://www.nasaspaceflight.com/2022/06/ariane-5-final-five/" >🔗</a> **[NASA Spaceflight]** The final five: Ariane 5’s march to retirement begins with dual passenger launch
 - <a href="https://mars.nasa.gov/news/9209/" >🔗</a> **[NASA]** NASA's Curiosity Captures Stunning Views of a Changing Mars Landscape
-- <a href="https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/" >🔗</a> **[Arstechnica]** For the first time, a small rocket will launch a private spacecraft to the Moon
 
 
 ### Launch-related News 🚀
@@ -96,7 +96,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T193139">2022-06-22 19:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T200722">2022-06-22 20:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
