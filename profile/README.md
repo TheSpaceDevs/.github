@@ -10,28 +10,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ariane 5 ECA+ | Measat-3d & GSAT 24**. It is scheduled to be launched by *Arianespace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
-from *<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a>, Kourou, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>.  Until
-then, this pad will have been used for 113
-out of 312 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T021100">2022-06-23 02:11:00 UTC</a>.  Until
+then, this pad will have been used for 61
+out of 170 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  Measat-3d is a Malaysian geostationary communications satellite built by Airbus Space Systems. GSAT 24 is a communications satellite of the Indian Space Research Organization.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/?q=5.239,-52.769" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg"  />
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
   </a>
 </p>
 
@@ -45,6 +45,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Maiden Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220630T050000Z%2F20220630T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Straight Up** from Air launch to orbit.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-CA | DS-EO & others** from Sriharikota, Republic of India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220707T111300Z%2F20220707T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | LARES-2 (Maiden flight)** from Kourou, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -80,22 +81,20 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-announces-next-nac-meeting-new-members" >🔗</a> **[NASA]** NASA Administrator Announces Next NAC Meeting, New Members
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-mission-enabling-services" >🔗</a> **[NASA]** NASA Awards Contracts for Mission Enabling Services
 - <a href="https://spacenews.com/nasa-moves-up-lunar-trailblazer-launch/" >🔗</a> **[SpaceNews]** NASA moves up Lunar Trailblazer launch
 - <a href="http://www.nasa.gov/press-release/nasa-introduces-2022-class-of-flight-directors" >🔗</a> **[NASA]** NASA Introduces 2022 Class of Flight Directors
 - <a href="http://www.nasa.gov/press-release/la-nasa-presenta-sus-nuevos-directores-de-vuelo" >🔗</a> **[NASA]** La NASA presenta sus nuevos directores de vuelo
-- <a href="https://spacenews.com/uk-mulls-starlink-expansion-plan-under-new-ngso-regulations/" >🔗</a> **[SpaceNews]** UK mulls Starlink expansion plan under new NGSO regulations
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/" >🔗</a> **[SpaceNews]** First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24
-- <a href="https://www.nasaspaceflight.com/2022/06/ariane-5-final-five/" >🔗</a> **[NASA Spaceflight]** The final five: Ariane 5’s march to retirement begins with dual passenger launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T213520">2022-06-22 21:35:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T220634">2022-06-22 22:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
