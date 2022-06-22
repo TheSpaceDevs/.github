@@ -81,21 +81,22 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/ariane-5-final-five/" >🔗</a> **[NASA Spaceflight]** The final five: Ariane 5’s march to retirement begins with dual passenger launch
 - <a href="https://mars.nasa.gov/news/9209/" >🔗</a> **[NASA]** NASA's Curiosity Captures Stunning Views of a Changing Mars Landscape
 - <a href="https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/" >🔗</a> **[Arstechnica]** For the first time, a small rocket will launch a private spacecraft to the Moon
 - <a href="https://spacenews.com/dod-satcom-big-money-for-military-satellites-slow-shift-to-commercial-services/" >🔗</a> **[SpaceNews]** DoD Satcom: Big money for military satellites, slow shift to commercial services
 - <a href="https://spacenews.com/viasat-shareholders-approve-inmarsat-acquisition/" >🔗</a> **[SpaceNews]** Viasat shareholders approve Inmarsat acquisition
-- <a href="https://spacenews.com/house-bill-trims-nasa-budget-proposal/" >🔗</a> **[SpaceNews]** House bill trims NASA budget proposal
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/" >🔗</a> **[SpaceNews]** First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24
+- <a href="https://www.nasaspaceflight.com/2022/06/ariane-5-final-five/" >🔗</a> **[NASA Spaceflight]** The final five: Ariane 5’s march to retirement begins with dual passenger launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T171738">2022-06-22 17:17:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T174457">2022-06-22 17:44:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
