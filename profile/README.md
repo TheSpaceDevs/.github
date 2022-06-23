@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/" >🔗</a> **[SpaceNews]** First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific
 - <a href="https://spaceflightnow.com/2022/06/23/second-segment-added-to-starship-launch-tower-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Second segment added to Starship launch tower at Kennedy Space Center
 - <a href="https://spacenews.com/noaa-microsoft-xplore-noaa-18/" >🔗</a> **[SpaceNews]** Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations
 - <a href="https://spacenews.com/office-of-space-commerce-on-a-listening-tour-for-civil-space-traffic-management/" >🔗</a> **[SpaceNews]** Office of Space Commerce on a “listening tour” for civil space traffic management
 - <a href="https://www.teslarati.com/spacex-record-breaking-falcon-9-booster-returns-to-port-2022/" >🔗</a> **[Teslarati]** SpaceX’s record-breaking Falcon 9 booster returns to port
-- <a href="https://spacenews.com/house-armed-services-committee-advances-2023-ndaa-increases-dod-spending-by-37-billion/" >🔗</a> **[SpaceNews]** House Armed Services Committee advances 2023 NDAA, increases DoD spending by $37 billion
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T150823">2022-06-23 15:08:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T154136">2022-06-23 15:41:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
