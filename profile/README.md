@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/" >🔗</a> **[SpaceNews]** Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base
+- <a href="https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/" >🔗</a> **[SpaceNews]** SatixFy names CEO to lead its public company transformation
 - <a href="https://spacenews.com/first-ariane-5-flight-of-2022-launches-two-satellites-for-asia-pacific/" >🔗</a> **[SpaceNews]** First Ariane 5 flight of 2022 launches two satellites for Asia-Pacific
 - <a href="https://spaceflightnow.com/2022/06/23/second-segment-added-to-starship-launch-tower-at-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Second segment added to Starship launch tower at Kennedy Space Center
 - <a href="https://spacenews.com/noaa-microsoft-xplore-noaa-18/" >🔗</a> **[SpaceNews]** Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations
-- <a href="https://spacenews.com/office-of-space-commerce-on-a-listening-tour-for-civil-space-traffic-management/" >🔗</a> **[SpaceNews]** Office of Space Commerce on a “listening tour” for civil space traffic management
-- <a href="https://www.teslarati.com/spacex-record-breaking-falcon-9-booster-returns-to-port-2022/" >🔗</a> **[Teslarati]** SpaceX’s record-breaking Falcon 9 booster returns to port
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T190427">2022-06-23 19:04:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T193144">2022-06-23 19:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
