@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-microsoft-xplore-noaa-18/" >🔗</a> **[SpaceNews]** Microsoft, Xplore and NOAA demonstrate cloud-based satellite operations
 - <a href="https://spacenews.com/office-of-space-commerce-on-a-listening-tour-for-civil-space-traffic-management/" >🔗</a> **[SpaceNews]** Office of Space Commerce on a “listening tour” for civil space traffic management
 - <a href="https://www.teslarati.com/spacex-record-breaking-falcon-9-booster-returns-to-port-2022/" >🔗</a> **[Teslarati]** SpaceX’s record-breaking Falcon 9 booster returns to port
 - <a href="https://spacenews.com/house-armed-services-committee-advances-2023-ndaa-increases-dod-spending-by-37-billion/" >🔗</a> **[SpaceNews]** House Armed Services Committee advances 2023 NDAA, increases DoD spending by $37 billion
 - <a href="https://spacenews.com/plasmos-velo3d/" >🔗</a> **[SpaceNews]** Velo3D makes in-kind investment in Plasmos
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-announces-next-nac-meeting-new-members" >🔗</a> **[NASA]** NASA Administrator Announces Next NAC Meeting, New Members
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T121402">2022-06-23 12:14:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T130703">2022-06-23 13:07:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
