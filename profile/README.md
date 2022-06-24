@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/parallel-paths-for-space-sustainability/" >🔗</a> **[SpaceNews]** Parallel Paths for Space Sustainability
 - <a href="https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/" >🔗</a> **[SpaceNews]** OneWeb to resume launches in fourth quarter
-- <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
 - <a href="https://mars.nasa.gov/news/9211/" >🔗</a> **[NASA]** NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps
+- <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
 - <a href="https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/" >🔗</a> **[SpaceNews]** SatixFy names CEO to lead its public company transformation
-- <a href="https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/" >🔗</a> **[SpaceNews]** Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T080909">2022-06-24 08:09:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T084347">2022-06-24 08:43:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
