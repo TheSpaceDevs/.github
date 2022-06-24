@@ -82,8 +82,8 @@ into *a Lunar Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/" >🔗</a> **[SpaceNews]** OneWeb to resume launches in fourth quarter
-- <a href="https://mars.nasa.gov/news/9211/" >🔗</a> **[NASA]** NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps
 - <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
+- <a href="https://mars.nasa.gov/news/9211/" >🔗</a> **[NASA]** NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps
 - <a href="https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/" >🔗</a> **[SpaceNews]** SatixFy names CEO to lead its public company transformation
 - <a href="https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/" >🔗</a> **[SpaceNews]** Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base
 
@@ -100,11 +100,12 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/capstone-up-next-for-rocket-lab/" >🔗</a> **[SpaceNews]** CAPSTONE up next for Rocket Lab
 - <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
 - <a href="https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/" >🔗</a> **[Arstechnica]** For the first time, a small rocket will launch a private spacecraft to the Moon
+- <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T070651">2022-06-24 07:06:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T073426">2022-06-24 07:34:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
