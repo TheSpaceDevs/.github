@@ -43,9 +43,9 @@ into *a Lunar Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220630T000000Z%2F20220630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Maiden Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220630T050000Z%2F20220630T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Straight Up** from Air launch to orbit.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-CA | DS-EO & others** from Sriharikota, Republic of India.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T040000">2022-07-07 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220707T040000Z%2F20220707T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-25** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220707T111300Z%2F20220707T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | LARES-2 (Maiden flight)** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Cape Canaveral, FL, USA&dates=20220707T223000Z%2F20220707T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-21** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T000000">2022-07-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-1&location=Vandenberg SFB, CA, USA&dates=20220708T000000Z%2F20220708T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-1** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/" >🔗</a> **[SpaceNews]** New head of Space Force acquisitions looks to get back to basics
 - <a href="https://spacenews.com/telespazio-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Telespazio to play key role in satellite servicing market
 - <a href="https://spacenews.com/software-testing-problem-delays-psyche-launch/" >🔗</a> **[SpaceNews]** Software testing problem delays Psyche launch
 - <a href="https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/" >🔗</a> **[SpaceNews]** Telesat requests UK license to connect Lightspeed terminals
 - <a href="http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0" >🔗</a> **[NASA]** NASA Awards Facilities Engineering Design, Inspection Services Contract
-- <a href="http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA Announces Launch Delay for Psyche Asteroid Mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T223554">2022-06-24 22:35:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T230637">2022-06-24 23:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
