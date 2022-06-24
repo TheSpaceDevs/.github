@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/software-testing-problem-delays-psyche-launch/" >🔗</a> **[SpaceNews]** Software testing problem delays Psyche launch
+- <a href="https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/" >🔗</a> **[SpaceNews]** Telesat requests UK license to connect Lightspeed terminals
+- <a href="http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0" >🔗</a> **[NASA]** NASA Awards Facilities Engineering Design, Inspection Services Contract
 - <a href="http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA Announces Launch Delay for Psyche Asteroid Mission
 - <a href="https://spacenews.com/space-force-establishes-intelligence-unit-to-put-sharper-focus-on-orbital-threats/" >🔗</a> **[SpaceNews]** Space Force establishes intelligence unit to put sharper focus on orbital threats
-- <a href="https://www.nasaspaceflight.com/2022/06/sls-readiness-june-2022/" >🔗</a> **[NASA Spaceflight]** SLS readies for roll back to VAB; final launch preparations to begin
-- <a href="https://spacenews.com/nasa-declares-sls-countdown-rehearsal-complete/" >🔗</a> **[SpaceNews]** NASA declares SLS countdown rehearsal complete
-- <a href="https://spacenews.com/orbion-ga-ems-weather-satellite/" >🔗</a> **[SpaceNews]** Orbion to supply propulsion for General Atomics weather satellite
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T203617">2022-06-24 20:36:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T210608">2022-06-24 21:06:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
