@@ -28,7 +28,7 @@ into *a Lunar Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220624215445.jpg" />
   </a>
   <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telespazio-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Telespazio to play key role in satellite servicing market
 - <a href="https://spacenews.com/software-testing-problem-delays-psyche-launch/" >🔗</a> **[SpaceNews]** Software testing problem delays Psyche launch
 - <a href="https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/" >🔗</a> **[SpaceNews]** Telesat requests UK license to connect Lightspeed terminals
 - <a href="http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0" >🔗</a> **[NASA]** NASA Awards Facilities Engineering Design, Inspection Services Contract
 - <a href="http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA Announces Launch Delay for Psyche Asteroid Mission
-- <a href="https://spacenews.com/space-force-establishes-intelligence-unit-to-put-sharper-focus-on-orbital-threats/" >🔗</a> **[SpaceNews]** Space Force establishes intelligence unit to put sharper focus on orbital threats
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T213420">2022-06-24 21:34:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T220637">2022-06-24 22:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
