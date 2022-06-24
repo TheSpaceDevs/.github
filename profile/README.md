@@ -81,11 +81,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA Announces Launch Delay for Psyche Asteroid Mission
 - <a href="https://spacenews.com/space-force-establishes-intelligence-unit-to-put-sharper-focus-on-orbital-threats/" >🔗</a> **[SpaceNews]** Space Force establishes intelligence unit to put sharper focus on orbital threats
 - <a href="https://www.nasaspaceflight.com/2022/06/sls-readiness-june-2022/" >🔗</a> **[NASA Spaceflight]** SLS readies for roll back to VAB; final launch preparations to begin
 - <a href="https://spacenews.com/nasa-declares-sls-countdown-rehearsal-complete/" >🔗</a> **[SpaceNews]** NASA declares SLS countdown rehearsal complete
 - <a href="https://spacenews.com/orbion-ga-ems-weather-satellite/" >🔗</a> **[SpaceNews]** Orbion to supply propulsion for General Atomics weather satellite
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA to Discuss Psyche Asteroid Mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T180940">2022-06-24 18:09:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T184324">2022-06-24 18:43:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
