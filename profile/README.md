@@ -1,3 +1,6 @@
+![Cover](https://raw.githubusercontent.com/TheSpaceDevs/Tutorials/main/assets/tsd_cover.png)
+
+
 [![Website](https://raw.githubusercontent.com/TheSpaceDevs/Tutorials/172c461a01e8348dadd27326682d72423e452269/assets/WEBSITE.svg)](https://thespacedevs.com/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p7ntkNA)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheSpaceDevs)
@@ -110,7 +113,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T111120">2022-06-25 11:11:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T111239">2022-06-25 11:12:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
