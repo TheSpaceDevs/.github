@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/" >🔗</a> **[NASA Spaceflight]** InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater
 - <a href="https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/" >🔗</a> **[SpaceNews]** New head of Space Force acquisitions looks to get back to basics
 - <a href="https://spacenews.com/telespazio-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Telespazio to play key role in satellite servicing market
 - <a href="https://spacenews.com/software-testing-problem-delays-psyche-launch/" >🔗</a> **[SpaceNews]** Software testing problem delays Psyche launch
 - <a href="https://spacenews.com/telesat-requests-uk-license-to-connect-lightspeed-terminals/" >🔗</a> **[SpaceNews]** Telesat requests UK license to connect Lightspeed terminals
-- <a href="http://www.nasa.gov/press-release/nasa-awards-facilities-engineering-design-inspection-services-contract-0" >🔗</a> **[NASA]** NASA Awards Facilities Engineering Design, Inspection Services Contract
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T170733">2022-06-25 17:07:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T173439">2022-06-25 17:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
