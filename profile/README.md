@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Black Brant IX | XQC**. It is scheduled to be launched by *Equatorial Launch Australia*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a>, Arnhem Space Centre*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T131400">2022-06-26 13:14:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 0 launches from this location. The launch status is currently
+**Electron | CAPSTONE**. It is scheduled to be launched by *Rocket Lab Ltd*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T100000">2022-06-27 10:00:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 26 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Astrophysics* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Planetary Science* and the payload will be injected
+into *a Lunar Orbit
+(LO)*.
 <br>
 <blockquote>
-  The X-ray Quantum Calorimeter Experiment (XQC) is a payload from the University of Wisconsin. Its objective is to measure X-rays with unprecedented precision to better understand the interstellar medium and its influence on the structure and evolution of galaxies and stars.
+  CAPSTONE (Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment) is a 12-U cubesat mission to test operations in near rectiliniar halo orbit around the Moon, which is to be used for the Lunar Gateway space station. Mission will verify the  near rectilinear halo orbit characteristics, spacecraft-to-spacecraft navigation services in that orbit, and provide valuable experience of small sat launch to the Moon.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Black_Brant_(rocket)#Black_Brant_IX" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220624215445.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=-12.3892948,136.7903215" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_arnhem_space_centre_20220622160552.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-CA | DS-EO & others** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T105400">2022-07-04 10:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | SISTINE&location=Arnhem Space Centre&dates=20220704T105400Z%2F20220704T105400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Black Brant IX | SISTINE** from Arnhem Space Centre.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | LARES-2 (Maiden flight)&location=Kourou, French Guiana&dates=20220707T111300Z%2F20220707T111300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | LARES-2 (Maiden flight)** from Kourou, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Cape Canaveral, FL, USA&dates=20220707T223000Z%2F20220707T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-21** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -97,11 +98,22 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/rocket-lab-wins-contract-to-launch-nasa-lunar-cubesat-mission/" >🔗</a> **[SpaceNews]** Rocket Lab wins contract to launch NASA lunar cubesat mission
+- <a href="https://spaceflightnow.com/2020/02/15/nasa-picks-rocket-lab-to-launch-lunar-cubesat-mission/" >🔗</a> **[Spaceflight Now]** NASA picks Rocket Lab to launch lunar CubeSat mission
+- <a href="https://spacenews.com/rocket-lab-shifts-capstone-launch-to-new-zealand/" >🔗</a> **[SpaceNews]** Rocket Lab shifts CAPSTONE launch to New Zealand
+- <a href="https://www.nasaspaceflight.com/2021/08/nasa-rocket-lab-capstone-new-zealand/" >🔗</a> **[NASA Spaceflight]** NASA, Rocket Lab move first Artemis Moon launch – CAPSTONE – to New Zealand
+- <a href="https://spacenews.com/capstone-launch-delayed-to-march-2022/" >🔗</a> **[SpaceNews]** CAPSTONE launch delayed to March 2022
+- <a href="https://spacenews.com/capstone-lunar-cubesat-mission-to-launch-this-spring/" >🔗</a> **[SpaceNews]** CAPSTONE lunar cubesat mission to launch this spring
+- <a href="https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/" >🔗</a> **[SpaceNews]** CAPSTONE cubesat ready for cislunar mission
+- <a href="https://spacenews.com/capstone-up-next-for-rocket-lab/" >🔗</a> **[SpaceNews]** CAPSTONE up next for Rocket Lab
+- <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
+- <a href="https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/" >🔗</a> **[Arstechnica]** For the first time, a small rocket will launch a private spacecraft to the Moon
+- <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T140517">2022-06-26 14:05:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T143233">2022-06-26 14:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
