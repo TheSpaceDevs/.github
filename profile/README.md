@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/" >🔗</a> **[Spaceflight Now]** After software delays, NASA says Psyche asteroid mission won’t launch this year
 - <a href="https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/" >🔗</a> **[SpaceNews]** House appropriators partially restore funding for planetary defense mission
 - <a href="https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/" >🔗</a> **[NASA Spaceflight]** Orbital Starship prepares for Static Fire campaign
 - <a href="http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman Cygnus Departure from Space Station
 - <a href="https://arstechnica.com/science/2022/06/lawmakers-seek-to-accelerate-asteroid-finder-and-want-more-mars-helicopters/" >🔗</a> **[Arstechnica]** Lawmakers seek to accelerate asteroid finder and want more Mars helicopters
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T172027">2022-06-27 17:20:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T174129">2022-06-27 17:41:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
