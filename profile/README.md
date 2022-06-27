@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-cover-northrop-grumman-cygnus-departure-from-space-station" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman Cygnus Departure from Space Station
 - <a href="https://arstechnica.com/science/2022/06/lawmakers-seek-to-accelerate-asteroid-finder-and-want-more-mars-helicopters/" >🔗</a> **[Arstechnica]** Lawmakers seek to accelerate asteroid finder and want more Mars helicopters
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023
 - <a href="https://spacenews.com/axiom-and-collins-only-bidders-for-nasa-spacesuit-contracts/" >🔗</a> **[SpaceNews]** Axiom and Collins only bidders for NASA spacesuit contracts
 - <a href="https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/" >🔗</a> **[SpaceNews]** U.K. government announces new space sustainability measures
-- <a href="https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/" >🔗</a> **[NASA Spaceflight]** InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T143602">2022-06-27 14:36:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T150813">2022-06-27 15:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
