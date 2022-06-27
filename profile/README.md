@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-and-collins-only-bidders-for-nasa-spacesuit-contracts/" >🔗</a> **[SpaceNews]** Axiom and Collins only bidders for NASA spacesuit contracts
 - <a href="https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/" >🔗</a> **[SpaceNews]** U.K. government announces new space sustainability measures
 - <a href="https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/" >🔗</a> **[NASA Spaceflight]** InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater
 - <a href="https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/" >🔗</a> **[SpaceNews]** New head of Space Force acquisitions looks to get back to basics
 - <a href="https://spacenews.com/telespazio-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Telespazio to play key role in satellite servicing market
-- <a href="https://spaceflightnow.com/2022/06/24/nasa-targeting-late-summer-launch-for-first-artemis-moon-rocket/" >🔗</a> **[Spaceflight Now]** NASA targeting late summer launch for first Artemis moon rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T233433">2022-06-26 23:34:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T004233">2022-06-27 00:42:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
