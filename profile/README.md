@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023
 - <a href="https://spacenews.com/axiom-and-collins-only-bidders-for-nasa-spacesuit-contracts/" >🔗</a> **[SpaceNews]** Axiom and Collins only bidders for NASA spacesuit contracts
 - <a href="https://spacenews.com/u-k-government-announces-new-space-sustainability-measures/" >🔗</a> **[SpaceNews]** U.K. government announces new space sustainability measures
 - <a href="https://www.nasaspaceflight.com/2022/06/insight-curiosity-june-2022/" >🔗</a> **[NASA Spaceflight]** InSight teams push for more science in lander’s final months, Curiosity continues trek around Gale Crater
 - <a href="https://spacenews.com/new-head-of-space-force-acquisitions-looks-to-get-back-to-basics/" >🔗</a> **[SpaceNews]** New head of Space Force acquisitions looks to get back to basics
-- <a href="https://spacenews.com/telespazio-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Telespazio to play key role in satellite servicing market
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T113350">2022-06-27 11:33:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T121451">2022-06-27 12:14:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
