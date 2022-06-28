@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | CAPSTONE**. It is scheduled to be launched by *Rocket Lab Ltd*
+**Falcon 9 Block 5 | SES-22**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T095500">2022-06-28 09:55:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 26 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210400">2022-06-29 21:04:00 UTC</a>.  Until
+then, this pad will have been used for 145
+out of 847 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Planetary Science* and the payload will be injected
-into *a Lunar Orbit
-(LO)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  CAPSTONE (Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment) is a 12-U cubesat mission to test operations in near rectiliniar halo orbit around the Moon, which is to be used for the Lunar Gateway space station. Mission will verify the  near rectilinear halo orbit characteristics, spacecraft-to-spacecraft navigation services in that orbit, and provide valuable experience of small sat launch to the Moon.
+  Geostationary communications satellite
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220624215445.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T095500">2022-06-28 09:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | CAPSTONE&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220628T095500Z%2F20220628T095500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | CAPSTONE** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210400">2022-06-29 21:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-22&location=Cape Canaveral, FL, USA&dates=20220629T210400Z%2F20220629T231300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Straight Up&location=Air launch to orbit&dates=20220630T050000Z%2F20220630T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Straight Up** from Air launch to orbit.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | DS-EO &amp; others&location=Sriharikota, Republic of India&dates=20220630T123000Z%2F20220630T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-CA | DS-EO & others** from Sriharikota, Republic of India.
@@ -54,6 +53,7 @@ into *a Lunar Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-21&location=Cape Canaveral, FL, USA&dates=20220707T223000Z%2F20220707T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-21** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T000000">2022-07-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-1&location=Vandenberg SFB, CA, USA&dates=20220708T000000Z%2F20220708T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T000000">2022-07-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-22&location=Cape Canaveral, FL, USA&dates=20220710T000000Z%2F20220710T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-22** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T020000">2022-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-25&location=Kennedy Space Center, FL, USA&dates=20220711T020000Z%2F20220711T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-25** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,24 +98,11 @@ into *a Lunar Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/rocket-lab-wins-contract-to-launch-nasa-lunar-cubesat-mission/" >🔗</a> **[SpaceNews]** Rocket Lab wins contract to launch NASA lunar cubesat mission
-- <a href="https://spaceflightnow.com/2020/02/15/nasa-picks-rocket-lab-to-launch-lunar-cubesat-mission/" >🔗</a> **[Spaceflight Now]** NASA picks Rocket Lab to launch lunar CubeSat mission
-- <a href="https://spacenews.com/rocket-lab-shifts-capstone-launch-to-new-zealand/" >🔗</a> **[SpaceNews]** Rocket Lab shifts CAPSTONE launch to New Zealand
-- <a href="https://www.nasaspaceflight.com/2021/08/nasa-rocket-lab-capstone-new-zealand/" >🔗</a> **[NASA Spaceflight]** NASA, Rocket Lab move first Artemis Moon launch – CAPSTONE – to New Zealand
-- <a href="https://spacenews.com/capstone-launch-delayed-to-march-2022/" >🔗</a> **[SpaceNews]** CAPSTONE launch delayed to March 2022
-- <a href="https://spacenews.com/capstone-lunar-cubesat-mission-to-launch-this-spring/" >🔗</a> **[SpaceNews]** CAPSTONE lunar cubesat mission to launch this spring
-- <a href="https://spacenews.com/capstone-cubesat-ready-for-cislunar-mission/" >🔗</a> **[SpaceNews]** CAPSTONE cubesat ready for cislunar mission
-- <a href="https://spacenews.com/capstone-up-next-for-rocket-lab/" >🔗</a> **[SpaceNews]** CAPSTONE up next for Rocket Lab
-- <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
-- <a href="https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/" >🔗</a> **[Arstechnica]** For the first time, a small rocket will launch a private spacecraft to the Moon
-- <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
-- <a href="https://www.nasaspaceflight.com/2022/06/capstone-launch/" >🔗</a> **[NASA Spaceflight]** Rocket Lab & NASA ready to launch CAPSTONE to the Moon
-- <a href="https://spaceflightnow.com/2022/06/27/mini-mission-to-blaze-nasas-trail-back-to-the-moon/" >🔗</a> **[Spaceflight Now]** Mini-mission to blaze NASA’s trail back to the moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T093655">2022-06-28 09:36:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T100733">2022-06-28 10:07:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
