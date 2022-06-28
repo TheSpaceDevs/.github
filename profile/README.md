@@ -89,7 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/06/capstone-launch/" >🔗</a> **[NASA Spaceflight]** Rocket Lab & NASA ready to launch CAPSTONE to the Moon
+- <a href="https://www.nasaspaceflight.com/2022/06/capstone-launch/" >🔗</a> **[NASA Spaceflight]** Rocket Lab & NASA launch CAPSTONE to the Moon
 - <a href="https://mars.nasa.gov/news/9214/" >🔗</a> **[NASA]** NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars
 - <a href="https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/" >🔗</a> **[Spaceflight Now]** After software delays, NASA says Psyche asteroid mission won’t launch this year
 - <a href="https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/" >🔗</a> **[SpaceNews]** House appropriators partially restore funding for planetary defense mission
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T100733">2022-06-28 10:07:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T104037">2022-06-28 10:40:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
