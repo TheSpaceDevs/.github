@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s Cygnus supply ship departs space station
+- <a href="https://spacenews.com/electron-launches-capstone-lunar-cubesat/" >🔗</a> **[SpaceNews]** Electron launches CAPSTONE lunar cubesat
+- <a href="https://spacenews.com/cygnus-departs-iss-after-reboost-test/" >🔗</a> **[SpaceNews]** Cygnus departs ISS after reboost test
 - <a href="http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions" >🔗</a> **[NASA]** CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions
-- <a href="https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/" >🔗</a> **[Spaceflight Now]** Watch live: Northrop Grumman’s Cygnus supply ship to depart space station
 - <a href="https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/" >🔗</a> **[Teslarati]** SpaceX to surpass weekly launch target in first half of 2022
-- <a href="https://www.nasaspaceflight.com/2022/06/capstone-launch/" >🔗</a> **[NASA Spaceflight]** Rocket Lab & NASA launch CAPSTONE to the Moon
-- <a href="https://mars.nasa.gov/news/9214/" >🔗</a> **[NASA]** NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113308">2022-06-28 11:33:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T121414">2022-06-28 12:14:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
