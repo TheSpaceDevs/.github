@@ -110,11 +110,12 @@ into *a Lunar Orbit
 - <a href="https://arstechnica.com/science/2022/06/for-the-first-time-a-small-rocket-will-launch-a-private-spacecraft-to-the-moon/" >🔗</a> **[Arstechnica]** For the first time, a small rocket will launch a private spacecraft to the Moon
 - <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
 - <a href="https://www.nasaspaceflight.com/2022/06/capstone-launch/" >🔗</a> **[NASA Spaceflight]** Rocket Lab & NASA ready to launch CAPSTONE to the Moon
+- <a href="https://spaceflightnow.com/2022/06/27/mini-mission-to-blaze-nasas-trail-back-to-the-moon/" >🔗</a> **[Spaceflight Now]** Mini-mission to blaze NASA’s trail back to the moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T070624">2022-06-28 07:06:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T073443">2022-06-28 07:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
