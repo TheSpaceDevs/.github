@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9215/" >🔗</a> **[NASA]** Help NASA Scientists Find Clouds on Mars
+- <a href="https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/" >🔗</a> **[SpaceNews]** Chinese commercial launch firm Expace raises $237 million
 - <a href="https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s Cygnus supply ship departs space station
 - <a href="https://spacenews.com/electron-launches-capstone-lunar-cubesat/" >🔗</a> **[SpaceNews]** Electron launches CAPSTONE lunar cubesat
 - <a href="https://spacenews.com/cygnus-departs-iss-after-reboost-test/" >🔗</a> **[SpaceNews]** Cygnus departs ISS after reboost test
-- <a href="http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions" >🔗</a> **[NASA]** CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions
-- <a href="https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/" >🔗</a> **[Teslarati]** SpaceX to surpass weekly launch target in first half of 2022
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T160932">2022-06-28 16:09:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T165852">2022-06-28 16:58:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
