@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/28/capstone-cubesat-launches-on-scouting-mission-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** CubeSat launches on scouting mission for NASA’s Artemis moon program
+- <a href="https://spacenews.com/ovzon-needs-to-piggyback-another-ariane-5-ride-for-late-2022-launch/" >🔗</a> **[SpaceNews]** Ovzon needs to piggyback another Ariane 5 ride for late 2022 launch
 - <a href="https://mars.nasa.gov/news/9215/" >🔗</a> **[NASA]** Help NASA Scientists Find Clouds on Mars
 - <a href="https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/" >🔗</a> **[SpaceNews]** Chinese commercial launch firm Expace raises $237 million
 - <a href="https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s Cygnus supply ship departs space station
-- <a href="https://spacenews.com/electron-launches-capstone-lunar-cubesat/" >🔗</a> **[SpaceNews]** Electron launches CAPSTONE lunar cubesat
-- <a href="https://spacenews.com/cygnus-departs-iss-after-reboost-test/" >🔗</a> **[SpaceNews]** Cygnus departs ISS after reboost test
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T180830">2022-06-28 18:08:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T184814">2022-06-28 18:48:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
