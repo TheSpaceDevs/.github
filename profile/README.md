@@ -89,20 +89,21 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/capstone-launches-to-test-new-orbit-for-nasa-s-artemis-moon-missions" >🔗</a> **[NASA]** CAPSTONE Launches to Test New Orbit for NASA’s Artemis Moon Missions
+- <a href="https://spaceflightnow.com/2022/06/28/ng-17-iss-departure/" >🔗</a> **[Spaceflight Now]** Watch live: Northrop Grumman’s Cygnus supply ship to depart space station
+- <a href="https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/" >🔗</a> **[Teslarati]** SpaceX to surpass weekly launch target in first half of 2022
 - <a href="https://www.nasaspaceflight.com/2022/06/capstone-launch/" >🔗</a> **[NASA Spaceflight]** Rocket Lab & NASA launch CAPSTONE to the Moon
 - <a href="https://mars.nasa.gov/news/9214/" >🔗</a> **[NASA]** NASA's Curiosity Takes Inventory of Key Life Ingredient on Mars
-- <a href="https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/" >🔗</a> **[Spaceflight Now]** After software delays, NASA says Psyche asteroid mission won’t launch this year
-- <a href="https://spacenews.com/house-appropriators-partially-restore-funding-for-planetary-defense-mission/" >🔗</a> **[SpaceNews]** House appropriators partially restore funding for planetary defense mission
-- <a href="https://www.nasaspaceflight.com/2022/06/orbital-starship-static-fire-campaign/" >🔗</a> **[NASA Spaceflight]** Orbital Starship prepares for Static Fire campaign
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/" >🔗</a> **[Teslarati]** SpaceX to surpass weekly launch target in first half of 2022
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T110622">2022-06-28 11:06:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T113308">2022-06-28 11:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
