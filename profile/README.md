@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-acquisition-chief-to-meet-with-ula-and-blue-origin-expects-vulcan-to-launch-in-december/" >🔗</a> **[SpaceNews]** Space Force acquisition chief to meet with ULA and Blue Origin, expects Vulcan to launch in December
+- <a href="https://spacenews.com/virgin-orbit-ready-for-first-night-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit ready for first night launch
 - <a href="https://arstechnica.com/science/2022/06/nasa-aims-to-launch-the-sls-rocket-in-just-2-months/" >🔗</a> **[Arstechnica]** NASA aims to launch the SLS rocket in just 2 months
 - <a href="https://spaceflightnow.com/2022/06/28/capstone-cubesat-launches-on-scouting-mission-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** CubeSat launches on scouting mission for NASA’s Artemis moon program
 - <a href="https://spacenews.com/ovzon-needs-to-piggyback-another-ariane-5-ride-for-late-2022-launch/" >🔗</a> **[SpaceNews]** Ovzon needs to piggyback another Ariane 5 ride for late 2022 launch
-- <a href="https://mars.nasa.gov/news/9215/" >🔗</a> **[NASA]** Help NASA Scientists Find Clouds on Mars
-- <a href="https://spacenews.com/chinese-commercial-launch-firm-expace-raises-237-million/" >🔗</a> **[SpaceNews]** Chinese commercial launch firm Expace raises $237 million
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T230641">2022-06-28 23:06:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T233542">2022-06-28 23:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
