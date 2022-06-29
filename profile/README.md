@@ -36,7 +36,7 @@ into *a Geostationary Transfer Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220629172224.jpeg" />
   </a>
   <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
+- <a href="https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/" >🔗</a> **[Arstechnica]** NASA teases extraordinary images captured by its Webb telescope
 - <a href="https://www.nasaspaceflight.com/2022/06/ses-22-launch/" >🔗</a> **[NASA Spaceflight]** Falcon 9 set to launch SES-22 geostationary communications satellite
 - <a href="https://mars.nasa.gov/news/9217/" >🔗</a> **[NASA]** My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater
 - <a href="https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/" >🔗</a> **[SpaceNews]** Avio gets pandemic recovery funds to develop launchers for the 2030s
-- <a href="https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/" >🔗</a> **[SpaceNews]** Sierra Space signs agreement with Turkish Space Agency
-- <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA ready to roll Atlas 5 rocket to launch pad today
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171823">2022-06-29 17:18:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T175801">2022-06-29 17:58:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
