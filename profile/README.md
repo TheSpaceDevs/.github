@@ -90,7 +90,7 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
-- <a href="https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/" >🔗</a> **[Arstechnica]** NASA teases extraordinary images captured by its Webb telescope
+- <a href="https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/" >🔗</a> **[Arstechnica]** NASA scientists say images from the Webb telescope nearly brought them to tears
 - <a href="https://www.nasaspaceflight.com/2022/06/ses-22-launch/" >🔗</a> **[NASA Spaceflight]** Falcon 9 set to launch SES-22 geostationary communications satellite
 - <a href="https://mars.nasa.gov/news/9217/" >🔗</a> **[NASA]** My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater
 - <a href="https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/" >🔗</a> **[SpaceNews]** Avio gets pandemic recovery funds to develop launchers for the 2030s
@@ -106,7 +106,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T182013">2022-06-29 18:20:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T184624">2022-06-29 18:46:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
