@@ -90,11 +90,11 @@ It will carry seven satellites from multiple government agencies that are experi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches SES-22 C-band replacement satellite
 - <a href="https://spacenews.com/nasa-administrator-tests-positive-for-covid/" >🔗</a> **[SpaceNews]** NASA administrator tests positive for COVID
 - <a href="http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions" >🔗</a> **[NASA]** NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions
 - <a href="https://spacenews.com/space-force-considering-strategy-for-procuring-national-security-launch-services/" >🔗</a> **[SpaceNews]** Space Force considering strategy for procuring national security launch services
 - <a href="http://www.nasa.gov/press-release/nasa-shares-climate-earth-science-resources-at-folklife-festival" >🔗</a> **[NASA]** NASA Shares Climate, Earth Science Resources at Folklife Festival
-- <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ It will carry seven satellites from multiple government agencies that are experi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T213517">2022-06-29 21:35:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T220650">2022-06-29 22:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
