@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/ses-22-launch/" >🔗</a> **[NASA Spaceflight]** Falcon 9 set to launch SES-22 geostationary communications satellite
+- <a href="https://mars.nasa.gov/news/9217/" >🔗</a> **[NASA]** My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater
 - <a href="https://spacenews.com/avio-gets-pandemic-recovery-funds-to-develop-launchers-for-the-2030s/" >🔗</a> **[SpaceNews]** Avio gets pandemic recovery funds to develop launchers for the 2030s
 - <a href="https://spacenews.com/sierra-space-signs-agreement-with-turkish-space-agency/" >🔗</a> **[SpaceNews]** Sierra Space signs agreement with Turkish Space Agency
 - <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA ready to roll Atlas 5 rocket to launch pad today
-- <a href="https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/" >🔗</a> **[Teslarati]** SpaceX, ULA targeting back-to-back geostationary launches
-- <a href="https://spacenews.com/space-force-acquisition-chief-to-meet-with-ula-and-blue-origin-expects-vulcan-to-launch-in-december/" >🔗</a> **[SpaceNews]** Space Force acquisition chief to meet with ULA and Blue Origin, expects Vulcan to launch in December
 
 
 ### Launch-related News 🚀
@@ -101,11 +101,12 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/" >🔗</a> **[Teslarati]** SpaceX to surpass weekly launch target in first half of 2022
 - <a href="https://spaceflightnow.com/2022/06/28/spacex-mission-this-week-to-kick-off-busy-launch-calendar-for-ses/" >🔗</a> **[Spaceflight Now]** SpaceX mission this week to kick off busy launch calendar for SES
 - <a href="https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/" >🔗</a> **[Teslarati]** SpaceX, ULA targeting back-to-back geostationary launches
+- <a href="https://www.nasaspaceflight.com/2022/06/ses-22-launch/" >🔗</a> **[NASA Spaceflight]** Falcon 9 set to launch SES-22 geostationary communications satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T160653">2022-06-29 16:06:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T171823">2022-06-29 17:18:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
