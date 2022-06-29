@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions" >🔗</a> **[NASA]** NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions
+- <a href="https://spacenews.com/space-force-considering-strategy-for-procuring-national-security-launch-services/" >🔗</a> **[SpaceNews]** Space Force considering strategy for procuring national security launch services
 - <a href="http://www.nasa.gov/press-release/nasa-shares-climate-earth-science-resources-at-folklife-festival" >🔗</a> **[NASA]** NASA Shares Climate, Earth Science Resources at Folklife Festival
 - <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
 - <a href="https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/" >🔗</a> **[Arstechnica]** NASA scientists say images from the Webb telescope nearly brought them to tears
-- <a href="https://www.nasaspaceflight.com/2022/06/ses-22-launch/" >🔗</a> **[NASA Spaceflight]** Falcon 9 set to launch SES-22 geostationary communications satellite
-- <a href="https://mars.nasa.gov/news/9217/" >🔗</a> **[NASA]** My Favorite Martian Image: 'Enchanted' Rocks at Jezero Crater
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T193241">2022-06-29 19:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T200813">2022-06-29 20:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
