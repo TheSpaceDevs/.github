@@ -18,28 +18,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | SES-22**. It is scheduled to be launched by *SpaceX*
+**LauncherOne | Straight Up**. It is scheduled to be launched by *Virgin Orbit*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210400">2022-06-29 21:04:00 UTC</a>.  Until
-then, this pad will have been used for 145
-out of 847 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port">Mojave Air and Space Port</a>, Air launch to orbit*
+<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 4
+out of 49 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Geostationary communications satellite
+  Launch contracted by the U.S. Space Force for the Rocket Systems Launch Program (RSLP), with payloads provided by the DoD Space Test Program (STP) as part of the Space Force’s STP-28A mission.
+It will carry seven satellites from multiple government agencies that are experiments intended to demonstrate novel modular satellite bus, space domain awareness, and adaptive radio frequency technologies. The target orbit is approximately 500 km above the Earth’s surface at 45 degrees inclination.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220629172224.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/LauncherOne" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="https://www.google.com/maps/place/35Â°03'34.0"N+118Â°09'06.0"W/" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_20_20200803142433.jpg"  />
   </a>
 </p>
 
@@ -53,6 +54,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T000000">2022-07-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-1&location=Vandenberg SFB, CA, USA&dates=20220708T000000Z%2F20220708T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T000000">2022-07-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-22&location=Cape Canaveral, FL, USA&dates=20220710T000000Z%2F20220710T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T105700">2022-07-12 10:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Black Brant IX | DEUCE&location=Arnhem Space Centre&dates=20220712T105700Z%2F20220712T105700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Black Brant IX | DEUCE** from Arnhem Space Centre.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T000000">2022-07-14 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-25&location=Cape Canaveral, FL, USA&dates=20220714T000000Z%2F20220714T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-25** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,24 +90,21 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-administrator-tests-positive-for-covid/" >🔗</a> **[SpaceNews]** NASA administrator tests positive for COVID
 - <a href="http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions" >🔗</a> **[NASA]** NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions
 - <a href="https://spacenews.com/space-force-considering-strategy-for-procuring-national-security-launch-services/" >🔗</a> **[SpaceNews]** Space Force considering strategy for procuring national security launch services
 - <a href="http://www.nasa.gov/press-release/nasa-shares-climate-earth-science-resources-at-folklife-festival" >🔗</a> **[NASA]** NASA Shares Climate, Earth Science Resources at Folklife Festival
 - <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
-- <a href="https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/" >🔗</a> **[Arstechnica]** NASA scientists say images from the Webb telescope nearly brought them to tears
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-achieves-elon-musk-weekly-launch-target-2022/" >🔗</a> **[Teslarati]** SpaceX to surpass weekly launch target in first half of 2022
-- <a href="https://spaceflightnow.com/2022/06/28/spacex-mission-this-week-to-kick-off-busy-launch-calendar-for-ses/" >🔗</a> **[Spaceflight Now]** SpaceX mission this week to kick off busy launch calendar for SES
-- <a href="https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/" >🔗</a> **[Teslarati]** SpaceX, ULA targeting back-to-back geostationary launches
-- <a href="https://www.nasaspaceflight.com/2022/06/ses-22-launch/" >🔗</a> **[NASA Spaceflight]** Falcon 9 set to launch SES-22 geostationary communications satellite
+- <a href="https://spacenews.com/virgin-orbit-ready-for-first-night-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit ready for first night launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T210634">2022-06-29 21:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T213517">2022-06-29 21:35:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
