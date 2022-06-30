@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon launch slips to mid-July
 - <a href="http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract" >🔗</a> **[NASA]** NASA Awards Engineering, Technology, Science Contract
 - <a href="http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Florida Students to Hear from NASA Astronauts Aboard Space Station
 - <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** ULA Atlas V to launch USSF-12 with two experimental military satellites
 - <a href="https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/" >🔗</a> **[SpaceNews]** China looks to launch liquid propellant rockets from the seas
-- <a href="https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/" >🔗</a> **[Teslarati]** SpaceX completes 35th Falcon 9 launch in 33 weeks
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T210623">2022-06-30 21:06:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T213631">2022-06-30 21:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
