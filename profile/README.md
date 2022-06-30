@@ -101,11 +101,12 @@ into *a Geosynchronous Orbit
 - <a href="https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/" >🔗</a> **[SpaceNews]** Launch of U.S. Space Force missile-warning satellite delayed indefinitely
 - <a href="https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/" >🔗</a> **[Teslarati]** SpaceX, ULA targeting back-to-back geostationary launches
 - <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** ULA Atlas V to launch USSF-12 with two experimental military satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T193142">2022-06-30 19:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T200729">2022-06-30 20:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
