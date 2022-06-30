@@ -24,7 +24,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T220000">2022-06-30 22:00:00 UTC</a>.  Until
 then, this pad will have been used for 105
-out of 847 launches from this location. The launch status is currently
+out of 848 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
 into *a Geosynchronous Orbit
@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** ULA Atlas V to launch USSF-12 with two experimental military satellites
 - <a href="https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/" >🔗</a> **[SpaceNews]** China looks to launch liquid propellant rockets from the seas
 - <a href="https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/" >🔗</a> **[Teslarati]** SpaceX completes 35th Falcon 9 launch in 33 weeks
 - <a href="https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/" >🔗</a> **[NASA Spaceflight]** Virgin Orbit delays launch of seven satellites for US Space Force and NASA
 - <a href="https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches SES-22 C-band replacement satellite
-- <a href="https://spacenews.com/nasa-administrator-tests-positive-for-covid/" >🔗</a> **[SpaceNews]** NASA administrator tests positive for COVID
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T160938">2022-06-30 16:09:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T165935">2022-06-30 16:59:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
