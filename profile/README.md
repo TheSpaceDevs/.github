@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/" >🔗</a> **[SpaceNews]** China looks to launch liquid propellant rockets from the seas
 - <a href="https://www.teslarati.com/spacex-falcon-9-rocket-35-launches-33-weeks/" >🔗</a> **[Teslarati]** SpaceX completes 35th Falcon 9 launch in 33 weeks
 - <a href="https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/" >🔗</a> **[NASA Spaceflight]** Virgin Orbit delays launch of seven satellites for US Space Force and NASA
 - <a href="https://spacenews.com/spacex-launches-ses-22-c-band-replacement-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches SES-22 C-band replacement satellite
 - <a href="https://spacenews.com/nasa-administrator-tests-positive-for-covid/" >🔗</a> **[SpaceNews]** NASA administrator tests positive for COVID
-- <a href="http://www.nasa.gov/press-release/nasa-to-industry-let-s-develop-flight-tech-to-reduce-carbon-emissions" >🔗</a> **[NASA]** NASA to Industry: Let’s Develop Flight Tech to Reduce Carbon Emissions
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T110555">2022-06-30 11:05:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T113321">2022-06-30 11:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
