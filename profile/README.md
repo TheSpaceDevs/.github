@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/07/yes-boeings-starliner-spacecraft-really-could-fly-astronauts-this-year/" >🔗</a> **[Arstechnica]** Yes, Boeing’s Starliner spacecraft really could fly astronauts this year
 - <a href="https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** Atlas V to make second launch attempt with USSF-12 mission
 - <a href="https://spacenews.com/oneweb-to-launch-second-generation-satellites-with-relativity-space/" >🔗</a> **[SpaceNews]** OneWeb to launch second-generation satellites with Relativity Space
 - <a href="https://arstechnica.com/science/2022/07/rocket-report-ula-starts-military-lobbying-campaign-sls-to-launch-in-2-months/" >🔗</a> **[Arstechnica]** Rocket Report: ULA starts military lobbying campaign, SLS to launch in 2 months
 - <a href="https://spacenews.com/venus-orbiter-lunar-constellation-and-exoplanets-telescopes-among-candidates-as-china-selects-new-space-science-missions/" >🔗</a> **[SpaceNews]** Venus orbiter, lunar constellation and exoplanets telescopes among candidates as China selects new space science missions
-- <a href="https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon launch slips to mid-July
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T160843">2022-07-01 16:08:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T165836">2022-07-01 16:58:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
