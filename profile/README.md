@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T220000">2022-07-01 22:00:00 UTC</a>.  Until
 then, this pad will have been used for 105
 out of 848 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+*Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
 into *a Geosynchronous Orbit
 (GSO)*.
@@ -107,7 +107,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T223604">2022-07-01 22:36:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T230715">2022-07-01 23:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
