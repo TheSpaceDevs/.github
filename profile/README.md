@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-to-launch-second-generation-satellites-with-relativity-space/" >🔗</a> **[SpaceNews]** OneWeb to launch second-generation satellites with Relativity Space
 - <a href="https://arstechnica.com/science/2022/07/rocket-report-ula-starts-military-lobbying-campaign-sls-to-launch-in-2-months/" >🔗</a> **[Arstechnica]** Rocket Report: ULA starts military lobbying campaign, SLS to launch in 2 months
 - <a href="https://spacenews.com/venus-orbiter-lunar-constellation-and-exoplanets-telescopes-among-candidates-as-china-selects-new-space-science-missions/" >🔗</a> **[SpaceNews]** Venus orbiter, lunar constellation and exoplanets telescopes among candidates as China selects new space science missions
 - <a href="https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon launch slips to mid-July
 - <a href="http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract" >🔗</a> **[NASA]** NASA Awards Engineering, Technology, Science Contract
-- <a href="http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Florida Students to Hear from NASA Astronauts Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T113239">2022-07-01 11:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T121402">2022-07-01 12:14:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
