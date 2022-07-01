@@ -92,7 +92,7 @@ into *a Geosynchronous Orbit
 - <a href="https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon launch slips to mid-July
 - <a href="http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract" >🔗</a> **[NASA]** NASA Awards Engineering, Technology, Science Contract
 - <a href="http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Florida Students to Hear from NASA Astronauts Aboard Space Station
-- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** ULA Atlas V to launch USSF-12 with two experimental military satellites
+- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** Atlas V launch with two experimental military satellites delayed due to weather
 - <a href="https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/" >🔗</a> **[SpaceNews]** China looks to launch liquid propellant rockets from the seas
 
 
@@ -101,12 +101,12 @@ into *a Geosynchronous Orbit
 - <a href="https://spacenews.com/launch-of-u-s-space-force-missile-warning-satellite-delayed-indefinitely/" >🔗</a> **[SpaceNews]** Launch of U.S. Space Force missile-warning satellite delayed indefinitely
 - <a href="https://www.teslarati.com/spacex-ula-back-to-back-geostationary-launches/" >🔗</a> **[Teslarati]** SpaceX, ULA targeting back-to-back geostationary launches
 - <a href="https://spaceflightnow.com/2022/06/29/atlas-5-ussf-12-rollout/" >🔗</a> **[Spaceflight Now]** ULA rolls Atlas 5 rocket to launch pad at Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** ULA Atlas V to launch USSF-12 with two experimental military satellites
+- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** Atlas V launch with two experimental military satellites delayed due to weather
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T004123">2022-07-01 00:41:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T031948">2022-07-01 03:19:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
