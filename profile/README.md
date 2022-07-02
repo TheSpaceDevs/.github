@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/" >🔗</a> **[NASA Spaceflight]** SLS rolled back to VAB for final launch preparations
 - <a href="https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/" >🔗</a> **[Spaceflight Now]** In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar
 - <a href="https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission
 - <a href="https://spacenews.com/virgin-orbit-launches-space-force-mission/" >🔗</a> **[SpaceNews]** Virgin Orbit launches Space Force mission
 - <a href="https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/" >🔗</a> **[Spaceflight Now]** Watch live: NASA moving SLS moon rocket back to hangar tonight
-- <a href="https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T213307">2022-07-02 21:33:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T220644">2022-07-02 22:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
