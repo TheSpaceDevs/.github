@@ -101,11 +101,12 @@ It will carry seven satellites from multiple government agencies that are experi
 - <a href="https://spacenews.com/virgin-orbit-ready-for-first-night-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit ready for first night launch
 - <a href="https://www.nasaspaceflight.com/2022/06/virgin-orbit-straight-up/" >🔗</a> **[NASA Spaceflight]** Virgin Orbit delays launch of seven satellites for US Space Force and NASA
 - <a href="https://spaceflightnow.com/2022/06/29/virgin-orbit-ready-for-first-night-launch-on-space-force-mission/" >🔗</a> **[Spaceflight Now]** Virgin Orbit ready for first night launch on Space Force mission
+- <a href="https://www.nasaspaceflight.com/2022/07/virgin-orbit-straight-up/" >🔗</a> **[NASA Spaceflight]** Virgin Orbit to launch seven satellites for US Space Force and NASA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T053517">2022-07-02 05:35:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T060850">2022-07-02 06:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
