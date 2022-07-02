@@ -90,11 +90,11 @@ It will carry seven satellites from multiple government agencies that are experi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/02/watch-live-nasa-moving-sls-moon-rocket-back-to-hangar-tonight/" >🔗</a> **[Spaceflight Now]** Watch live: NASA moving SLS moon rocket back to hangar tonight
 - <a href="https://spacenews.com/ulas-atlas-5-launches-u-s-space-force-experimental-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches U.S. Space Force experimental missile-warning satellite
 - <a href="https://spacenews.com/agile-consolidates-design-manufacturing-production/" >🔗</a> **[SpaceNews]** Agile to consolidate operations in new Colorado plant
 - <a href="https://arstechnica.com/science/2022/07/yes-boeings-starliner-spacecraft-really-could-fly-astronauts-this-year/" >🔗</a> **[Arstechnica]** Yes, Boeing’s Starliner spacecraft really could fly astronauts this year
-- <a href="https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** Atlas V to make second launch attempt with USSF-12 mission
-- <a href="https://spacenews.com/oneweb-to-launch-second-generation-satellites-with-relativity-space/" >🔗</a> **[SpaceNews]** OneWeb to launch second-generation satellites with Relativity Space
+- <a href="https://www.nasaspaceflight.com/2022/07/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** Atlas V launches two experimental military satellites on USSF-12 mission
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ It will carry seven satellites from multiple government agencies that are experi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T004024">2022-07-02 00:40:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T030356">2022-07-02 03:03:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
