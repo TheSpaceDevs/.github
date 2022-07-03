@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
 - <a href="https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/" >🔗</a> **[NASA Spaceflight]** Lucy continues to stabilize its solar array before its October flyby
 - <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter discussions
 - <a href="https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/" >🔗</a> **[NASA Spaceflight]** SLS rolled back to VAB for final launch preparations
 - <a href="https://spaceflightnow.com/2022/07/02/artemis-1-rollback-to-vab/" >🔗</a> **[Spaceflight Now]** In a step closer to launch, NASA’s Artemis 1 moon rocket rolls back to hangar
-- <a href="https://spaceflightnow.com/2022/07/02/atlas-5-rocket-launches-two-u-s-military-satellites-on-1-1-billion-mission/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket launches two U.S. military satellites on $1.1 billion mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T223520">2022-07-03 22:35:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220703T230726">2022-07-03 23:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
