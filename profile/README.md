@@ -91,9 +91,9 @@ into *a Suborbital
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
 - <a href="https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/" >🔗</a> **[NASA Spaceflight]** Lucy continues to stabilize its solar array before its October flyby
+- <a href="https://www.teslarati.com/spacex-starship-super-heavy-39-raptors-installed/" >🔗</a> **[Teslarati]** SpaceX outfits Starship, Super Heavy with dozens of Raptor engines
 - <a href="https://spacenews.com/new-zealand-joins-asat-testing-ban/" >🔗</a> **[SpaceNews]** New Zealand joins ASAT testing ban
 - <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter discussions
-- <a href="https://www.nasaspaceflight.com/2022/07/sls-rolled-back-final-launch-preps/" >🔗</a> **[NASA Spaceflight]** SLS rolled back to VAB for final launch preparations
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T050343">2022-07-04 05:03:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T054345">2022-07-04 05:43:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
