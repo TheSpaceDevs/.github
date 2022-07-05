@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/" >🔗</a> **[Arstechnica]** Russian astronauts use space station to promote anti-Ukraine propaganda
 - <a href="https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/" >🔗</a> **[SpaceNews]** Kongsberg to acquire majority stake in NanoAvionics
 - <a href="https://www.nasaspaceflight.com/2022/07/june-on-the-iss/" >🔗</a> **[NASA Spaceflight]** Space botany, cargo arrivals, and autonomous robots: a busy June on the ISS
 - <a href="https://spacenews.com/capstone-heads-to-the-moon/" >🔗</a> **[SpaceNews]** CAPSTONE heads to the moon
 - <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
-- <a href="https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/" >🔗</a> **[NASA Spaceflight]** Lucy continues to stabilize its solar array before its October flyby
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T121257">2022-07-05 12:12:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T131842">2022-07-05 13:18:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
