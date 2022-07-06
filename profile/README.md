@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/" >🔗</a> **[SpaceNews]** Virgin Galactic selects Aurora Flight Sciences to build new motherships
 - <a href="https://spacenews.com/l3harris-makes-strategic-investment-in-mynaric/" >🔗</a> **[SpaceNews]** L3Harris makes strategic investment in Mynaric
 - <a href="https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/" >🔗</a> **[SpaceNews]** New launch vehicles set for test flights from China’s Jiuquan spaceport
 - <a href="https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/" >🔗</a> **[Teslarati]** Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters
 - <a href="https://spacenews.com/capstone-suffers-communications-problem/" >🔗</a> **[SpaceNews]** CAPSTONE suffers communications problem
-- <a href="https://spacenews.com/northrop-grumman-selects-airbus-to-supply-satellite-buses-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Northrop Grumman selects Airbus to supply satellite buses for U.S. military constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T203626">2022-07-06 20:36:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T210631">2022-07-06 21:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
