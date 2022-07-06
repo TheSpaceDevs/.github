@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/" >🔗</a> **[SpaceNews]** New launch vehicles set for test flights from China’s Jiuquan spaceport
 - <a href="https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/" >🔗</a> **[Teslarati]** Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters
 - <a href="https://spacenews.com/capstone-suffers-communications-problem/" >🔗</a> **[SpaceNews]** CAPSTONE suffers communications problem
 - <a href="https://spacenews.com/northrop-grumman-selects-airbus-to-supply-satellite-buses-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Northrop Grumman selects Airbus to supply satellite buses for U.S. military constellation
 - <a href="https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/" >🔗</a> **[Arstechnica]** Russian astronauts use space station to promote anti-Ukraine propaganda
-- <a href="https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/" >🔗</a> **[SpaceNews]** Kongsberg to acquire majority stake in NanoAvionics
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T090725">2022-07-06 09:07:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T093854">2022-07-06 09:38:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
