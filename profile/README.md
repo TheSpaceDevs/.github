@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-21-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX to start off busy second half of 2022 with Starlink launch
 - <a href="https://spacenews.com/capstone-communications-restored/" >🔗</a> **[SpaceNews]** CAPSTONE communications restored
 - <a href="https://spacenews.com/satellite-companies-watching-where-dod-goes-with-5g/" >🔗</a> **[SpaceNews]** Satellite companies watching where DoD goes with 5G
 - <a href="https://spacenews.com/communications-established-with-payload-on-stabilized-pslv-upper-stage/" >🔗</a> **[SpaceNews]** Communications established with payload on stabilized PSLV upper stage
 - <a href="https://arstechnica.com/science/2022/07/looking-to-the-future-virgin-galactic-purchases-2-more-motherships/" >🔗</a> **[Arstechnica]** Looking to the future, Virgin Galactic purchases 2 more motherships
-- <a href="https://spacenews.com/virgin-galactic-selects-aurora-flight-sciences-to-build-new-motherships/" >🔗</a> **[SpaceNews]** Virgin Galactic selects Aurora Flight Sciences to build new motherships
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T110645">2022-07-07 11:06:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T113449">2022-07-07 11:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
