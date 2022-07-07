@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal" >🔗</a> **[NASA]** NASA Updates Coverage for Webb Telescope’s First Images Reveal
 - <a href="https://spacenews.com/introducing-stellar-ventures/" >🔗</a> **[SpaceNews]** Stellar Ventures unveils $23 million early-stage fund
 - <a href="https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/" >🔗</a> **[SpaceNews]** Defense Innovation Unit selects contractors to build hybrid space network
 - <a href="https://arstechnica.com/science/2022/07/even-the-webb-telescopes-engineering-test-images-manage-to-wow/" >🔗</a> **[Arstechnica]** Even the Webb telescope’s engineering test images manage to wow
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-21-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX opens busy second half of 2022 with Starlink launch
-- <a href="https://spacenews.com/capstone-communications-restored/" >🔗</a> **[SpaceNews]** CAPSTONE communications restored
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T190508">2022-07-07 19:05:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T193156">2022-07-07 19:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
