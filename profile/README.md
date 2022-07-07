@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/" >🔗</a> **[SpaceNews]** Dish says SpaceX’s Starlink 5G interference study is flawed
+- <a href="https://spacenews.com/space-force-effort-to-open-doors-to-private-sector-is-a-slow-go/" >🔗</a> **[SpaceNews]** Space Force effort to open doors to private sector is a slow go
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal" >🔗</a> **[NASA]** NASA Updates Coverage for Webb Telescope’s First Images Reveal
 - <a href="https://spacenews.com/introducing-stellar-ventures/" >🔗</a> **[SpaceNews]** Stellar Ventures unveils $23 million early-stage fund
 - <a href="https://spacenews.com/defense-innovation-unit-selects-contractors-to-build-hybrid-space-network/" >🔗</a> **[SpaceNews]** Defense Innovation Unit selects contractors to build hybrid space network
-- <a href="https://arstechnica.com/science/2022/07/even-the-webb-telescopes-engineering-test-images-manage-to-wow/" >🔗</a> **[Arstechnica]** Even the Webb telescope’s engineering test images manage to wow
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-21-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX opens busy second half of 2022 with Starlink launch
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T213435">2022-07-07 21:34:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T220635">2022-07-07 22:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
