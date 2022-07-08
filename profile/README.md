@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/" >🔗</a> **[NASA Spaceflight]** Artemis 1 launch team overcomes obstacles to complete WDR test objectives
 - <a href="https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/" >🔗</a> **[Arstechnica]** Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad
 - <a href="https://www.teslarati.com/starlink-maritime/" >🔗</a> **[Teslarati]** Starlink Maritime is now available for ocean-going vessels.
 - <a href="https://spacenews.com/space-force-coming-to-grips-with-cybersecurity-threats/" >🔗</a> **[SpaceNews]** Space Force coming to grips with cybersecurity threats
 - <a href="https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/" >🔗</a> **[Arstechnica]** NASA rebukes Russian use of space station for propaganda purposes [Updated]
-- <a href="https://spacenews.com/esa-studies-options-for-vega-c-upper-stage-engine-ahead-of-first-launch/" >🔗</a> **[SpaceNews]** ESA studies options for Vega C upper stage engine ahead of first launch
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T143656">2022-07-08 14:36:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T150657">2022-07-08 15:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
