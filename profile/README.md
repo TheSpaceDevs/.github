@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/elon-musk-detailed-tour-spacex-raptor-2/" >🔗</a> **[Teslarati]** Elon Musk & Everyday Astronaut share detailed tour of SpaceX Raptor 2 engine
 - <a href="https://spacenews.com/northrop-grumman-gets-22-million-space-force-contract-to-build-small-satellite-carrier-bus/" >🔗</a> **[SpaceNews]** Northrop Grumman gets $22 million Space Force contract to build small-satellite carrier bus
 - <a href="https://spacenews.com/second-commercial-lynk-global-satellite-still-looking-for-launch/" >🔗</a> **[SpaceNews]** Second commercial Lynk Global satellite still looking for launch
 - <a href="http://www.nasa.gov/press-release/nasa-highlights-climate-research-on-cargo-launch-sets-coverage" >🔗</a> **[NASA]** NASA Highlights Climate Research on Cargo Launch, Sets Coverage
 - <a href="https://www.nasaspaceflight.com/2022/07/artemis-1-wdr-review/" >🔗</a> **[NASA Spaceflight]** Artemis 1 launch team overcomes obstacles to complete WDR test objectives
-- <a href="https://arstechnica.com/science/2022/07/rocket-report-a-minotaur-explodes-after-launch-starship-rolls-to-the-pad/" >🔗</a> **[Arstechnica]** Rocket Report: A Minotaur explodes after launch; Starship rolls to the pad
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220709T203513">2022-07-09 20:35:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220709T210609">2022-07-09 21:06:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
