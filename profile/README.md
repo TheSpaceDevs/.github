@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** Astronomers eagerly await first images from the James Webb Space Telescope
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-1/" >🔗</a> **[NASA Spaceflight]** SpaceX ready to begin launching third Starlink shell
 - <a href="https://www.teslarati.com/elon-musk-detailed-tour-spacex-raptor-2/" >🔗</a> **[Teslarati]** Elon Musk & Everyday Astronaut share detailed tour of SpaceX Raptor 2 engine
 - <a href="https://spacenews.com/northrop-grumman-gets-22-million-space-force-contract-to-build-small-satellite-carrier-bus/" >🔗</a> **[SpaceNews]** Northrop Grumman gets $22 million Space Force contract to build small-satellite carrier bus
 - <a href="https://spacenews.com/second-commercial-lynk-global-satellite-still-looking-for-launch/" >🔗</a> **[SpaceNews]** Second commercial Lynk Global satellite still looking for launch
-- <a href="http://www.nasa.gov/press-release/nasa-highlights-climate-research-on-cargo-launch-sets-coverage" >🔗</a> **[NASA]** NASA Highlights Climate Research on Cargo Launch, Sets Coverage
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T223604">2022-07-10 22:36:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T230702">2022-07-10 23:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
