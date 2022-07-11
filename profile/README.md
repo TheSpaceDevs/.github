@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japanese-startup-to-demo-robotic-arm-onboard-iss-in-2023/" >🔗</a> **[SpaceNews]** Japanese startup to demo robotic arm onboard ISS in 2023
 - <a href="https://spacenews.com/hyten-space-force-hasnt-cracked-the-code-on-faster-acquisitions/" >🔗</a> **[SpaceNews]** Hyten: Space Force ‘hasn’t cracked the code’ on faster acquisitions
 - <a href="https://spaceflightnow.com/2022/07/11/webb-first-image/" >🔗</a> **[Spaceflight Now]** Watch live: President Biden to unveil first science image from Webb telescope
 - <a href="https://mars.nasa.gov/news/9222/" >🔗</a> **[NASA]** NASA's Perseverance Scouts Mars Sample Return Campaign Landing Sites
 - <a href="https://spacenews.com/space-industry-warned-to-prepare-for-impact-from-lurking-recession/" >🔗</a> **[SpaceNews]** Space industry warned to prepare for impact from lurking recession
-- <a href="https://spacenews.com/department-of-homeland-security-publishes-space-policy/" >🔗</a> **[SpaceNews]** Department of Homeland Security publishes space policy
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T213446">2022-07-11 21:34:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T220635">2022-07-11 22:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
