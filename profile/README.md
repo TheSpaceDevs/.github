@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9222/" >🔗</a> **[NASA]** NASA's Perseverance Scouts Mars Sample Return Campaign Landing Sites
+- <a href="https://spacenews.com/space-industry-warned-to-prepare-for-impact-from-lurking-recession/" >🔗</a> **[SpaceNews]** Space industry warned to prepare for impact from lurking recession
 - <a href="https://spacenews.com/department-of-homeland-security-publishes-space-policy/" >🔗</a> **[SpaceNews]** Department of Homeland Security publishes space policy
 - <a href="https://arstechnica.com/science/2022/07/a-year-after-sir-richards-historic-flight-were-still-waiting-for-an-encore/" >🔗</a> **[Arstechnica]** Richard Branson won the space tourism battle, but his company lost the war
 - <a href="https://spaceflightnow.com/2022/07/11/spacexs-50th-dedicated-starlink-mission-begins-filling-new-network-layer/" >🔗</a> **[Spaceflight Now]** SpaceX’s 50th dedicated Starlink mission begins filling new network layer
-- <a href="https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** Astronomers eagerly await first images from the James Webb Space Telescope
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-1/" >🔗</a> **[NASA Spaceflight]** SpaceX launches first mission to third shell of Starlink constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T174554">2022-07-11 17:45:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T181836">2022-07-11 18:18:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
