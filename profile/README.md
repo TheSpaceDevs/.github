@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/11/spacexs-50th-dedicated-starlink-mission-begins-filling-new-network-layer/" >🔗</a> **[Spaceflight Now]** SpaceX’s 50th dedicated Starlink mission begins filling new network layer
 - <a href="https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** Astronomers eagerly await first images from the James Webb Space Telescope
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-1/" >🔗</a> **[NASA Spaceflight]** SpaceX launches first mission to third shell of Starlink constellation
 - <a href="https://www.teslarati.com/spacex-starlink-launch-new-polar-shell/" >🔗</a> **[Teslarati]** SpaceX begins launching new shell of polar Starlink satellites
 - <a href="https://www.teslarati.com/elon-musk-detailed-tour-spacex-raptor-2/" >🔗</a> **[Teslarati]** Elon Musk & Everyday Astronaut share detailed tour of SpaceX Raptor 2 engine
-- <a href="https://spacenews.com/northrop-grumman-gets-22-million-space-force-contract-to-build-small-satellite-carrier-bus/" >🔗</a> **[SpaceNews]** Northrop Grumman gets $22 million Space Force contract to build small-satellite carrier bus
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T061008">2022-07-11 06:10:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T064540">2022-07-11 06:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
