@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/12/stephans-quintet-five-galaxies-imaged-by-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** Stephan’s Quintet: Five galaxies imaged by James Webb Space Telescope
 - <a href="https://spaceflightnow.com/2022/07/12/webb-views-the-cosmic-cliffs-of-carina-nebula/" >🔗</a> **[Spaceflight Now]** Webb views the ‘cosmic cliffs’ of Carina Nebula
-- <a href="http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe" >🔗</a> **[NASA]** NASA Reveals Webb Telescope’s First Images of Unseen Universe
 - <a href="http://www.nasa.gov/press-release/la-nasa-revela-las-primeras-im-genes-del-telescopio-webb-de-un-universo-nunca-antes" >🔗</a> **[NASA]** La NASA revela las primeras imágenes del telescopio Webb de un universo nunca antes visto
+- <a href="http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe" >🔗</a> **[NASA]** NASA Reveals Webb Telescope’s First Images of Unseen Universe
 - <a href="https://arstechnica.com/science/2022/07/spacex-starts-testing-its-super-heavy-booster-and-its-not-good/" >🔗</a> **[Arstechnica]** SpaceX starts testing its Super Heavy booster, and it’s “not good”
-- <a href="https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/" >🔗</a> **[SpaceNews]** NRO space missions mark new level of US-Australia cooperation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T173848">2022-07-12 17:38:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T181500">2022-07-12 18:15:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
