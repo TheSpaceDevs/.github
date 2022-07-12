@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-tasking/" >🔗</a> **[SpaceNews]** Earth imagery companies reimagine satellite tasking
+- <a href="https://spacenews.com/blacksky-esri-tasking/" >🔗</a> **[SpaceNews]** BlackSky and Esri unveil tasking through ArcGIS Online
 - <a href="https://spacenews.com/starship-booster-test-ends-in-fiery-anomaly/" >🔗</a> **[SpaceNews]** Starship booster test ends in fiery anomaly
 - <a href="https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** ABL static fires rocket for first orbital launch attempt
 - <a href="https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/" >🔗</a> **[SpaceNews]** NASA releases first color image from James Webb Space Telescope
-- <a href="https://spaceflightnow.com/2022/07/11/webb-first-image/" >🔗</a> **[Spaceflight Now]** Webb telescope peers deeper into the universe than ever before
-- <a href="https://arstechnica.com/science/2022/07/webbs-first-light-reveals-a-plethora-of-galaxies-in-a-tiny-patch-of-sky/" >🔗</a> **[Arstechnica]** Webb’s first image reveals fine details of galaxies from billions of years ago
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T113331">2022-07-12 11:33:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T121439">2022-07-12 12:14:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
