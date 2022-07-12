@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/" >🔗</a> **[SpaceNews]** Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board
+- <a href="https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/" >🔗</a> **[SpaceNews]** NRO space missions mark new level of US-Australia cooperation
+- <a href="https://spaceflightnow.com/2022/07/12/webb-first-light/" >🔗</a> **[Spaceflight Now]** Watch live: Scientists releasing more images from Webb telescope today
 - <a href="https://spacenews.com/bae-systems-delivers-jam-resistant-gps-receivers-to-germany/" >🔗</a> **[SpaceNews]** BAE Systems delivers jam-resistant GPS receivers to Germany
+- <a href="https://spacenews.com/space-cybersecurity-firm-spideroak-adds-retired-general-pawlikowski-to-its-advisory-board/" >🔗</a> **[SpaceNews]** Space cybersecurity firm SpiderOak adds retired general Pawlikowski to its advisory board
 - <a href="https://spacenews.com/china-to-target-near-earth-object-2020-pn1-for-asteroid-deflection-mission/" >🔗</a> **[SpaceNews]** China to target near-Earth object 2020 PN1 for asteroid deflection mission
-- <a href="https://spacenews.com/satellite-tasking/" >🔗</a> **[SpaceNews]** Earth imagery companies reimagine satellite tasking
-- <a href="https://spacenews.com/blacksky-esri-tasking/" >🔗</a> **[SpaceNews]** BlackSky and Esri unveil tasking through ArcGIS Online
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T140650">2022-07-12 14:06:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T144350">2022-07-12 14:43:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
