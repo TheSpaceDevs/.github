@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/" >🔗</a> **[SpaceNews]** OneWeb backs up Starlink 5G interference warning
 - <a href="https://spaceflightnow.com/2022/07/12/a-dying-star-through-the-eyes-of-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** A dying star through the eyes of the James Webb Space Telescope
 - <a href="https://spaceflightnow.com/2022/07/12/stephans-quintet-five-galaxies-imaged-by-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** Stephan’s Quintet: Five galaxies imaged by James Webb Space Telescope
 - <a href="https://spaceflightnow.com/2022/07/12/webb-views-the-cosmic-cliffs-of-carina-nebula/" >🔗</a> **[Spaceflight Now]** Webb views the ‘cosmic cliffs’ of Carina Nebula
 - <a href="http://www.nasa.gov/press-release/la-nasa-revela-las-primeras-im-genes-del-telescopio-webb-de-un-universo-nunca-antes" >🔗</a> **[NASA]** La NASA revela las primeras imágenes del telescopio Webb de un universo nunca antes visto
-- <a href="http://www.nasa.gov/press-release/nasa-reveals-webb-telescope-s-first-images-of-unseen-universe" >🔗</a> **[NASA]** NASA Reveals Webb Telescope’s First Images of Unseen Universe
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T210617">2022-07-12 21:06:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T213455">2022-07-12 21:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
