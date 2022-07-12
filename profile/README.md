@@ -89,11 +89,11 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-releases-first-color-image-from-james-webb-space-telescope/" >🔗</a> **[SpaceNews]** NASA releases first color image from James Webb Space Telescope
+- <a href="https://spaceflightnow.com/2022/07/11/webb-first-image/" >🔗</a> **[Spaceflight Now]** Webb telescope peers deeper into the universe than ever before
+- <a href="https://arstechnica.com/science/2022/07/webbs-first-light-reveals-a-plethora-of-galaxies-in-a-tiny-patch-of-sky/" >🔗</a> **[Arstechnica]** Webb’s first image reveals fine details of galaxies from billions of years ago
 - <a href="http://www.nasa.gov/press-release/president-biden-reveals-first-image-from-nasa-s-webb-telescope" >🔗</a> **[NASA]** President Biden Reveals First Image from NASA’s Webb Telescope
 - <a href="http://www.nasa.gov/press-release/biden-revela-la-primera-imagen-del-telescopio-webb-de-la-nasa" >🔗</a> **[NASA]** Biden revela la primera imagen del telescopio Webb de la NASA
-- <a href="https://spacenews.com/japanese-startup-to-demo-robotic-arm-onboard-iss-in-2023/" >🔗</a> **[SpaceNews]** Japanese startup to demo robotic arm onboard ISS in 2023
-- <a href="https://spacenews.com/hyten-space-force-hasnt-cracked-the-code-on-faster-acquisitions/" >🔗</a> **[SpaceNews]** Hyten: Space Force ‘hasn’t cracked the code’ on faster acquisitions
-- <a href="https://spaceflightnow.com/2022/07/11/webb-first-image/" >🔗</a> **[Spaceflight Now]** Watch live: President Biden to unveil first science image from Webb telescope
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T233553">2022-07-11 23:35:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T004227">2022-07-12 00:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
