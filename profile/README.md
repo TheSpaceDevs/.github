@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-completes-draft-environmental-review-of-u-s-space-command-candidate-locations/" >🔗</a> **[SpaceNews]** Air Force completes draft environmental review of U.S. Space Command candidate locations
 - <a href="https://www.nasaspaceflight.com/2022/07/webb-first-images/" >🔗</a> **[NASA Spaceflight]** NASA, ESA, CSA release historic first images from the James Webb Space Telescope
 - <a href="http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row" >🔗</a> **[NASA]** Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row
 - <a href="https://spacenews.com/vega-c-lifts-off-on-maiden-flight/" >🔗</a> **[SpaceNews]** Vega C lifts off on maiden flight
 - <a href="https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/" >🔗</a> **[Arstechnica]** As rumors swirl about his future, Russia’s space chief darkens his rhetoric
-- <a href="https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/" >🔗</a> **[SpaceNews]** Russia threatens ISS European robotic arm after ExoMars termination
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T190603">2022-07-13 19:06:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T193148">2022-07-13 19:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
