@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/" >🔗</a> **[SpaceNews]** Office of Space Commerce to start developing architecture for traffic management
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-joins-president-biden-s-cancer-cabinet" >🔗</a> **[NASA]** NASA Administrator Joins President Biden’s Cancer Cabinet
 - <a href="https://spacenews.com/second-viasat-3-payload-arrives-in-california-for-integration/" >🔗</a> **[SpaceNews]** Second ViaSat-3 payload arrives in California for integration
 - <a href="https://spacenews.com/air-force-completes-draft-environmental-review-of-u-s-space-command-candidate-locations/" >🔗</a> **[SpaceNews]** Air Force completes draft environmental review of U.S. Space Command candidate locations
 - <a href="https://www.nasaspaceflight.com/2022/07/webb-first-images/" >🔗</a> **[NASA Spaceflight]** NASA, ESA, CSA release historic first images from the James Webb Space Telescope
-- <a href="http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row" >🔗</a> **[NASA]** Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row
-- <a href="https://spacenews.com/vega-c-lifts-off-on-maiden-flight/" >🔗</a> **[SpaceNews]** Vega C lifts off on maiden flight
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T223558">2022-07-13 22:35:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T230658">2022-07-13 23:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
