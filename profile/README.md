@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/" >🔗</a> **[SpaceNews]** NASA sees JWST success helping win agency support and funding
 - <a href="https://spacenews.com/analysis-space-force-budget-growth-could-be-short-lived/" >🔗</a> **[SpaceNews]** Analysis: Space Force budget growth could be short lived
 - <a href="https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/" >🔗</a> **[SpaceNews]** First JWST images excite and relieve astronomers
 - <a href="https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/" >🔗</a> **[NASA Spaceflight]** Rocket Lab launches first of two back-to-back missions for NRO
 - <a href="https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/" >🔗</a> **[Spaceflight Now]** JWST teases new era in exoplanet astronomy
-- <a href="https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/" >🔗</a> **[SpaceNews]** OneWeb backs up Starlink 5G interference warning
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T081010">2022-07-13 08:10:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T084220">2022-07-13 08:42:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
