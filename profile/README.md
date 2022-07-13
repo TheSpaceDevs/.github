@@ -31,7 +31,7 @@ into *a Medium Earth Orbit
 (MEO)*.
 <br>
 <blockquote>
-  Maiden flight of the Vega-C launch vehicle, carrying the LARES-2 passive satellite. It is a 40 cm diameter sphere with laser mirrors to study the Earth gravitational field and relativistic effects.
+  Maiden flight of the Vega-C launch vehicle, carrying the LARES-2 passive satellite. It is a 40 cm diameter sphere with laser mirrors to study the Earth gravitational field and relativistic effects. Also onboard are six European research cubesats.
 </blockquote>
 
 <p float="left" align="center">
@@ -107,7 +107,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T100929">2022-07-13 10:09:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T104239">2022-07-13 10:42:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
