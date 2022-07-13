@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/vega-c-lifts-off-on-maiden-flight/" >🔗</a> **[SpaceNews]** Vega-C lifts off on maiden flight
+- <a href="https://www.nasaspaceflight.com/2022/07/webb-first-images/" >🔗</a> **[NASA Spaceflight]** NASA, ESA, CSA release historic first images from the James Webb Space Telescope
+- <a href="http://www.nasa.gov/press-release/decade-of-excellence-nasa-named-best-place-to-work-10th-year-in-a-row" >🔗</a> **[NASA]** Decade of Excellence: NASA Named Best Place to Work 10th Year in a Row
+- <a href="https://spacenews.com/vega-c-lifts-off-on-maiden-flight/" >🔗</a> **[SpaceNews]** Vega C lifts off on maiden flight
+- <a href="https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/" >🔗</a> **[Arstechnica]** As rumors swirl about his future, Russia’s space chief darkens his rhetoric
 - <a href="https://spacenews.com/russia-threatens-iss-european-robotic-arm-after-exomars-termination/" >🔗</a> **[SpaceNews]** Russia threatens ISS European robotic arm after ExoMars termination
-- <a href="https://www.nasaspaceflight.com/2022/07/vega-c-debut-launch/" >🔗</a> **[NASA Spaceflight]** ESA launches upgraded Vega-C rocket on first mission
-- <a href="https://spacenews.com/nasa-sees-jwst-success-helping-win-agency-support-and-funding/" >🔗</a> **[SpaceNews]** NASA sees JWST success helping win agency support and funding
-- <a href="https://spacenews.com/analysis-space-force-budget-growth-could-be-short-lived/" >🔗</a> **[SpaceNews]** Analysis: Space Force budget growth could be short lived
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T160928">2022-07-13 16:09:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T165722">2022-07-13 16:57:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
