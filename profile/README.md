@@ -91,9 +91,9 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/" >🔗</a> **[SpaceNews]** First JWST images excite and relieve astronomers
 - <a href="https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/" >🔗</a> **[NASA Spaceflight]** Rocket Lab to launch first of two back-to-back missions for NRO
-- <a href="https://spaceflightnow.com/2022/07/12/webb-first-light/" >🔗</a> **[Spaceflight Now]** NASA unveils new “first light” images from Webb
 - <a href="https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/" >🔗</a> **[Spaceflight Now]** JWST teases new era in exoplanet astronomy
 - <a href="https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/" >🔗</a> **[SpaceNews]** OneWeb backs up Starlink 5G interference warning
+- <a href="https://spaceflightnow.com/2022/07/12/a-dying-star-through-the-eyes-of-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** A dying star through the eyes of the James Webb Space Telescope
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T040951">2022-07-13 04:09:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T045642">2022-07-13 04:56:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
