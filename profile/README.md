@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/" >🔗</a> **[Spaceflight Now]** SpaceX ready to launch space station resupply mission after five-week delay
 - <a href="https://spacenews.com/national-reconnaissance-office-seeks-proposals-from-commercial-rf-space-imagery/" >🔗</a> **[SpaceNews]** National Reconnaissance Office seeks proposals from commercial providers of RF space imagery
 - <a href="https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX and NASA set to launch CRS-25 mission to the ISS
 - <a href="https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/" >🔗</a> **[SpaceNews]** China prepares for July 24 launch of second space station module
 - <a href="https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos nearing completion of seat barter agreement
-- <a href="https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/" >🔗</a> **[SpaceNews]** Office of Space Commerce to start developing architecture for traffic management
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T203752">2022-07-14 20:37:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T210735">2022-07-14 21:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
