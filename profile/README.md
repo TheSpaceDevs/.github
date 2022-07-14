@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos nearing completion of seat barter agreement
 - <a href="https://spacenews.com/office-of-space-commerce-to-start-developing-architecture-for-traffic-management/" >🔗</a> **[SpaceNews]** Office of Space Commerce to start developing architecture for traffic management
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-joins-president-biden-s-cancer-cabinet" >🔗</a> **[NASA]** NASA Administrator Joins President Biden’s Cancer Cabinet
 - <a href="https://spacenews.com/second-viasat-3-payload-arrives-in-california-for-integration/" >🔗</a> **[SpaceNews]** Second ViaSat-3 payload arrives in California for integration
 - <a href="https://spacenews.com/air-force-completes-draft-environmental-review-of-u-s-space-command-candidate-locations/" >🔗</a> **[SpaceNews]** Air Force completes draft environmental review of U.S. Space Command candidate locations
-- <a href="https://www.nasaspaceflight.com/2022/07/webb-first-images/" >🔗</a> **[NASA Spaceflight]** NASA, ESA, CSA release historic first images from the James Webb Space Telescope
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T113250">2022-07-14 11:32:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T121326">2022-07-14 12:13:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
