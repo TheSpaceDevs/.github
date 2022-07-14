@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/" >🔗</a> **[SpaceNews]** Georgia approves Starlink services in Eastern Europe
+- <a href="https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/" >🔗</a> **[SpaceNews]** NASA division proposing program to send scientists to ISS
+- <a href="https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/" >🔗</a> **[SpaceNews]** A common ground system for military satellites is proving to be harder than envisioned
+- <a href="https://spacenews.com/noaa-cwdp-space-weather/" >🔗</a> **[SpaceNews]** GeoOptics, PlanetIQ and Spire to supply NOAA with space weather data
 - <a href="https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/" >🔗</a> **[Spaceflight Now]** SpaceX ready to launch space station resupply mission after five-week delay
-- <a href="https://spacenews.com/national-reconnaissance-office-seeks-proposals-from-commercial-rf-space-imagery/" >🔗</a> **[SpaceNews]** National Reconnaissance Office seeks proposals from commercial providers of RF space imagery
-- <a href="https://www.nasaspaceflight.com/2022/07/spacex-crs-25-launch/" >🔗</a> **[NASA Spaceflight]** SpaceX and NASA set to launch CRS-25 mission to the ISS
-- <a href="https://spacenews.com/china-prepares-for-july-24-launch-of-second-space-station-module/" >🔗</a> **[SpaceNews]** China prepares for July 24 launch of second space station module
-- <a href="https://spacenews.com/nasa-and-roscosmos-nearing-completion-of-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos nearing completion of seat barter agreement
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T213549">2022-07-14 21:35:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T220746">2022-07-14 22:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
