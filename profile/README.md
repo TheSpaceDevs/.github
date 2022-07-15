@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/elon-musk-tesla-protect-life-earth/" >🔗</a> **[Teslarati]** Elon Musk: “Tesla is to protect life on Earth”
 - <a href="https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/" >🔗</a> **[SpaceNews]** Rogozin removed as head of Roscosmos as seat barter agreement signed
 - <a href="https://spacenews.com/we-want-to-hear-from-you/" >🔗</a> **[SpaceNews]** We want to hear from you
 - <a href="http://www.nasa.gov/press-release/registration-now-open-for-nasa-2022-international-space-apps-challenge" >🔗</a> **[NASA]** Registration Now Open for NASA 2022 International Space Apps Challenge
 - <a href="https://arstechnica.com/science/2022/07/its-official-a-russian-cosmonaut-will-fly-on-crew-dragon-this-fall/" >🔗</a> **[Arstechnica]** The trampoline is now international: NASA and Roscosmos agree to seat swap
-- <a href="https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/" >🔗</a> **[Arstechnica]** Dmitry Rogozin has been dismissed as director general of Roscosmos [Updated]
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T172029">2022-07-15 17:20:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T174301">2022-07-15 17:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
