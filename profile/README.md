@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/" >🔗</a> **[SpaceNews]** Georgia approves Starlink services in Eastern Europe
+- <a href="https://spacenews.com/virgin-galactic-selects-arizona-for-spaceplane-manufacturing-facility/" >🔗</a> **[SpaceNews]** Virgin Galactic selects Arizona for spaceplane manufacturing facility
+- <a href="https://arstechnica.com/science/2022/07/rocket-report-vega-c-is-a-sight-to-see-will-europe-push-spacex-aside/" >🔗</a> **[Arstechnica]** Rocket Report: Vega-C is a sight to see; will Europe push SpaceX aside?
 - <a href="https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/" >🔗</a> **[SpaceNews]** A common ground system for military satellites is proving to be harder than envisioned
 - <a href="https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/" >🔗</a> **[SpaceNews]** NASA division proposing program to send scientists to ISS
-- <a href="https://spacenews.com/noaa-cwdp-space-weather/" >🔗</a> **[SpaceNews]** GeoOptics, PlanetIQ and Spire to supply NOAA with space weather data
-- <a href="https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/" >🔗</a> **[Spaceflight Now]** SpaceX ready to launch space station resupply mission after five-week delay
+- <a href="https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/" >🔗</a> **[SpaceNews]** Georgia approves Starlink services in Eastern Europe
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T113249">2022-07-15 11:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T121427">2022-07-15 12:14:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
