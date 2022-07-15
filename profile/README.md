@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/07/its-official-a-russian-cosmonaut-will-fly-on-crew-dragon-this-fall/" >🔗</a> **[Arstechnica]** The trampoline is now international: NASA and Roscosmos agree to seat swap
 - <a href="https://arstechnica.com/science/2022/07/as-rumors-swirl-about-his-future-russias-space-chief-darkens-his-rhetoric/" >🔗</a> **[Arstechnica]** Dmitry Rogozin has been dismissed as director general of Roscosmos [Updated]
 - <a href="https://spacenews.com/virgin-galactic-selects-arizona-for-spaceplane-manufacturing-facility/" >🔗</a> **[SpaceNews]** Virgin Galactic selects Arizona for spaceplane manufacturing facility
 - <a href="https://arstechnica.com/science/2022/07/rocket-report-vega-c-is-a-sight-to-see-will-europe-push-spacex-aside/" >🔗</a> **[Arstechnica]** Rocket Report: Vega-C is a sight to see; will Europe push SpaceX aside?
 - <a href="https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/" >🔗</a> **[SpaceNews]** NASA division proposing program to send scientists to ISS
-- <a href="https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/" >🔗</a> **[SpaceNews]** A common ground system for military satellites is proving to be harder than envisioned
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T140031">2022-07-15 14:00:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T143853">2022-07-15 14:38:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
