@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow" >🔗</a> **[NASA]** NASA Administrator, Deputy to Attend Farnborough Airshow
 - <a href="https://www.teslarati.com/elon-musk-tesla-protect-life-earth/" >🔗</a> **[Teslarati]** Elon Musk: “Tesla is to protect life on Earth”
 - <a href="https://spacenews.com/rogozin-removed-as-head-of-roscosmos-as-seat-barter-agreement-signed/" >🔗</a> **[SpaceNews]** Rogozin removed as head of Roscosmos as seat barter agreement signed
 - <a href="https://spacenews.com/we-want-to-hear-from-you/" >🔗</a> **[SpaceNews]** We want to hear from you
 - <a href="http://www.nasa.gov/press-release/registration-now-open-for-nasa-2022-international-space-apps-challenge" >🔗</a> **[NASA]** Registration Now Open for NASA 2022 International Space Apps Challenge
-- <a href="https://arstechnica.com/science/2022/07/its-official-a-russian-cosmonaut-will-fly-on-crew-dragon-this-fall/" >🔗</a> **[Arstechnica]** The trampoline is now international: NASA and Roscosmos agree to seat swap
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T203657">2022-07-15 20:36:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T210640">2022-07-15 21:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
