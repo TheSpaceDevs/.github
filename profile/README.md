@@ -89,8 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX cargo ship delivers dust storm instrument to International Space Station
 - <a href="https://www.nasaspaceflight.com/2022/07/crs-25-docking/" >🔗</a> **[NASA Spaceflight]** Cargo Dragon C208-3 arrives at Station loaded with science experiments
-- <a href="https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX cargo ship on course for docking at International Space Station
 - <a href="https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches 25th Dragon resupply mission to space station
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow" >🔗</a> **[NASA]** NASA Administrator, Deputy to Attend Farnborough Airshow
 - <a href="https://www.teslarati.com/elon-musk-tesla-protect-life-earth/" >🔗</a> **[Teslarati]** Elon Musk: “Tesla is to protect life on Earth”
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T160757">2022-07-16 16:07:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T164826">2022-07-16 16:48:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
