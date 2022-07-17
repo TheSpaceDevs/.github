@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year
 - <a href="https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/" >🔗</a> **[Teslarati]** SpaceX ties annual launch record seven months into 2022
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation reaches 1,000 satellites
 - <a href="https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/" >🔗</a> **[Teslarati]** Return To Space documentary nominated for an Emmy
 - <a href="https://spacenews.com/saudi-arabia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Saudi Arabia signs Artemis Accords
-- <a href="https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX cargo ship delivers dust storm instrument to International Space Station
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T213411">2022-07-17 21:34:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T220656">2022-07-17 22:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
