@@ -89,7 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation to reach 1,000 satellites
+- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation reaches 1,000 satellites
 - <a href="https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/" >🔗</a> **[Teslarati]** Return To Space documentary nominated for an Emmy
 - <a href="https://spacenews.com/saudi-arabia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Saudi Arabia signs Artemis Accords
 - <a href="https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX cargo ship delivers dust storm instrument to International Space Station
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T143330">2022-07-17 14:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T150632">2022-07-17 15:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
