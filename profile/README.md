@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/" >🔗</a> **[Teslarati]** Return To Space documentary nominated for an Emmy
 - <a href="https://spacenews.com/saudi-arabia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Saudi Arabia signs Artemis Accords
 - <a href="https://spaceflightnow.com/2022/07/16/spacex-crs-25-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX cargo ship delivers dust storm instrument to International Space Station
 - <a href="https://www.nasaspaceflight.com/2022/07/crs-25-docking/" >🔗</a> **[NASA Spaceflight]** Cargo Dragon C208-3 arrives at Station loaded with science experiments
 - <a href="https://spaceflightnow.com/2022/07/15/spacex-launches-25th-dragon-resupply-mission-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches 25th Dragon resupply mission to space station
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-deputy-to-attend-farnborough-airshow" >🔗</a> **[NASA]** NASA Administrator, Deputy to Attend Farnborough Airshow
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220716T233430">2022-07-16 23:34:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T004112">2022-07-17 00:41:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
