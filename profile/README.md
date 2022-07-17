@@ -99,11 +99,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
+- <a href="https://spaceflightnow.com/2022/07/16/weather-iffy-for-spacexs-next-starlink-launch-sunday/" >🔗</a> **[Spaceflight Now]** Weather iffy for SpaceX’s next Starlink launch Sunday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T090636">2022-07-17 09:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T093540">2022-07-17 09:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
