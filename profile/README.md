@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/" >🔗</a> **[SpaceNews]** UAE announces plans for radar satellite constellation and space fund
 - <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
 - <a href="https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year
 - <a href="https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/" >🔗</a> **[Teslarati]** SpaceX ties annual launch record seven months into 2022
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation reaches 1,000 satellites
-- <a href="https://www.teslarati.com/spacex-super-heavy-booster-fireball-repairs/" >🔗</a> **[Teslarati]** Fireball sends SpaceX Super Heavy booster back to the factory
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T111126">2022-07-18 11:11:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T113829">2022-07-18 11:38:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
