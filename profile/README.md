@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/" >🔗</a> **[NASA Spaceflight]** As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form
 - <a href="https://arstechnica.com/science/2022/07/spacex-just-matched-its-record-for-annual-launches-and-its-only-july/" >🔗</a> **[Arstechnica]** SpaceX is now launching 10 rockets for every one by its main competitor
 - <a href="https://spacenews.com/raytheon-to-acquire-uk-startup-northern-space-and-security/" >🔗</a> **[SpaceNews]** Raytheon to acquire UK startup Northern Space and Security
 - <a href="https://spacenews.com/us-uk-special-relationship-deepens-in-space/" >🔗</a> **[SpaceNews]** US-UK special relationship deepens in space
 - <a href="https://spacenews.com/uae-announces-plans-for-radar-satellite-constellation-and-space-fund/" >🔗</a> **[SpaceNews]** UAE announces plans for radar satellite constellation and space fund
-- <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T180827">2022-07-18 18:08:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T184228">2022-07-18 18:42:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
