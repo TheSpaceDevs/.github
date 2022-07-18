@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year
 - <a href="https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/" >🔗</a> **[Teslarati]** SpaceX ties annual launch record seven months into 2022
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation reaches 1,000 satellites
-- <a href="https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/" >🔗</a> **[Teslarati]** Return To Space documentary nominated for an Emmy
+- <a href="https://www.teslarati.com/spacex-super-heavy-booster-fireball-repairs/" >🔗</a> **[Teslarati]** Fireball sends SpaceX Super Heavy booster back to the factory
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T070631">2022-07-18 07:06:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T073520">2022-07-18 07:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
