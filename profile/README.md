@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/" >🔗</a> **[Arstechnica]** Two companies join SpaceX in the race to Mars, with a launch possible in 2024
+- <a href="https://www.nasaspaceflight.com/2022/07/relativity-impulse-mars/" >🔗</a> **[NASA Spaceflight]** Relativity to launch Impulse Space’s Mars Lander as early as 2024
 - <a href="https://spacenews.com/nasa-delays-viper-lunar-rover-launch-by-a-year/" >🔗</a> **[SpaceNews]** NASA delays VIPER lunar rover launch by a year
 - <a href="https://spacenews.com/the-great-british-lift-off/" >🔗</a> **[SpaceNews]** The Great British Lift-Off
 - <a href="https://spacenews.com/directv-says-5g-plan-would-degrade-satellite-tv-reception/" >🔗</a> **[SpaceNews]** DirecTV says 5G plan would degrade satellite TV reception
-- <a href="https://spacenews.com/solstar-halo-wi-fi/" >🔗</a> **[SpaceNews]** Northrop Grumman taps Solstar for HALO Module Wi-Fi
-- <a href="https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/" >🔗</a> **[SpaceNews]** L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T121518">2022-07-19 12:15:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T130828">2022-07-19 13:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
