@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-delays-viper-lunar-rover-launch-by-a-year/" >🔗</a> **[SpaceNews]** NASA delays VIPER lunar rover launch by a year
 - <a href="https://spacenews.com/the-great-british-lift-off/" >🔗</a> **[SpaceNews]** The Great British Lift-Off
 - <a href="https://spacenews.com/directv-says-5g-plan-would-degrade-satellite-tv-reception/" >🔗</a> **[SpaceNews]** DirecTV says 5G plan would degrade satellite TV reception
 - <a href="https://spacenews.com/solstar-halo-wi-fi/" >🔗</a> **[SpaceNews]** Northrop Grumman taps Solstar for HALO Module Wi-Fi
 - <a href="https://spacenews.com/l3harris-northrop-grumman-to-build-28-missile-tracking-satellites-for-u-s-space-development-agency/" >🔗</a> **[SpaceNews]** L3Harris, Northrop Grumman to build 28 missile-tracking satellites for U.S. Space Development Agency
-- <a href="https://www.nasaspaceflight.com/2022/07/spitzer-brown-dwarfs-silicate-clouds/" >🔗</a> **[NASA Spaceflight]** As Webb begins observing exoplanets, scientists use Spitzer data & brown dwarfs to reveal how silicate clouds form
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T110607">2022-07-19 11:06:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T113350">2022-07-19 11:33:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
