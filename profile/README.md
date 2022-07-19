@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope
 - <a href="http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station
 - <a href="https://spacenews.com/oss-sstl-wrapped-rib/" >🔗</a> **[SpaceNews]** Oxford Space and SSTL unveil Wrapped Rib SAR antenna
 - <a href="https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/" >🔗</a> **[SpaceNews]** ESA funds Skimsat demonstrator study for VLEO
 - <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-roman-space-telescope" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Roman Space Telescope
-- <a href="https://spacenews.com/microsoft-azure-space-partner-community/" >🔗</a> **[SpaceNews]** Microsoft reveals Azure Space Partner Community
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T213530">2022-07-19 21:35:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T220657">2022-07-19 22:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
