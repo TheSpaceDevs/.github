@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/microsoft-azure-space-partner-community/" >🔗</a> **[SpaceNews]** Microsoft reveals Azure Space Partner Community
 - <a href="https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/" >🔗</a> **[Arstechnica]** Two companies join SpaceX in the race to Mars, with a launch possible in 2024
 - <a href="https://www.nasaspaceflight.com/2022/07/relativity-impulse-mars/" >🔗</a> **[NASA Spaceflight]** Relativity to launch Impulse Space’s Mars Lander as early as 2024
 - <a href="https://spacenews.com/nasa-delays-viper-lunar-rover-launch-by-a-year/" >🔗</a> **[SpaceNews]** NASA delays VIPER lunar rover launch by a year
 - <a href="https://spacenews.com/the-great-british-lift-off/" >🔗</a> **[SpaceNews]** The Great British Lift-Off
-- <a href="https://spacenews.com/directv-says-5g-plan-would-degrade-satellite-tv-reception/" >🔗</a> **[SpaceNews]** DirecTV says 5G plan would degrade satellite TV reception
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T150725">2022-07-19 15:07:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T154240">2022-07-19 15:42:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
