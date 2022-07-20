@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/" >🔗</a> **[Arstechnica]** NASA sets a late-August launch date for SLS, and it may actually happen
+- <a href="https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/" >🔗</a> **[SpaceNews]** Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-european-spacewalk" >🔗</a> **[NASA]** NASA Sets Coverage for Russian, European Spacewalk
 - <a href="https://spacenews.com/oneweb-and-hanwha-partner-to-tap-australias-military-broadband-market/" >🔗</a> **[SpaceNews]** OneWeb and Hanwha partner to tap Australia’s military broadband market
 - <a href="https://spacenews.com/impulse-and-relativity-announce-proposal-for-joint-mars-landing-mission/" >🔗</a> **[SpaceNews]** Impulse and Relativity announce proposal for joint Mars landing mission
-- <a href="https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/" >🔗</a> **[SpaceNews]** The UK’s ‘Astra Carta’ moment: Building a Space Sustainability Growth Platform
-- <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Roman Space Telescope
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T160932">2022-07-20 16:09:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T165554">2022-07-20 16:55:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
