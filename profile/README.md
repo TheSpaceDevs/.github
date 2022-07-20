@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spire-adding-microwave-sounders-to-improve-weather-forecasts/" >🔗</a> **[SpaceNews]** Spire adding microwave sounders to improve weather forecasts
 - <a href="https://www.nasaspaceflight.com/2022/07/fsb-2-test/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman to conduct FSB-2 SLS solid rocket booster test
 - <a href="https://spacenews.com/nasa-sets-late-august-and-early-september-launch-dates-for-artemis-1/" >🔗</a> **[SpaceNews]** NASA sets late August and early September launch dates for Artemis 1
 - <a href="https://www.teslarati.com/spacex-starlink-v2-satellites-spotted-starbase/" >🔗</a> **[Teslarati]** SpaceX’s first Starlink V2 satellites spotted at Starbase
 - <a href="https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/" >🔗</a> **[Arstechnica]** The SLS rocket finally has a believable launch date, and it’s soon
-- <a href="https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/" >🔗</a> **[SpaceNews]** Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T213604">2022-07-20 21:36:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T220652">2022-07-20 22:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
