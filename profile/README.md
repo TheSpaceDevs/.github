@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-and-hanwha-partner-to-tap-australias-military-broadband-market/" >🔗</a> **[SpaceNews]** OneWeb and Hanwha partner to tap Australia’s military broadband market
 - <a href="https://spacenews.com/impulse-and-relativity-announce-proposal-for-joint-mars-landing-mission/" >🔗</a> **[SpaceNews]** Impulse and Relativity announce proposal for joint Mars landing mission
 - <a href="https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/" >🔗</a> **[SpaceNews]** The UK’s ‘Astra Carta’ moment: Building a Space Sustainability Growth Platform
 - <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Roman Space Telescope
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope
-- <a href="http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T143554">2022-07-20 14:35:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T150814">2022-07-20 15:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
