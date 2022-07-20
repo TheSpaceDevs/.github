@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/" >🔗</a> **[Arstechnica]** NASA sets a late-August launch date for SLS, and it may actually happen
+- <a href="https://www.teslarati.com/spacex-starlink-v2-satellites-spotted-starbase/" >🔗</a> **[Teslarati]** SpaceX’s first Starlink V2 satellites spotted at Starbase
+- <a href="https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/" >🔗</a> **[Arstechnica]** The SLS rocket finally has a believable launch date, and it’s soon
 - <a href="https://spacenews.com/millennium-space-reveals-results-of-darpas-red-eye-smallsat-experiment/" >🔗</a> **[SpaceNews]** Millennium Space reveals results of DARPA’s ‘Red-Eye’ smallsat experiment
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-european-spacewalk" >🔗</a> **[NASA]** NASA Sets Coverage for Russian, European Spacewalk
 - <a href="https://spacenews.com/oneweb-and-hanwha-partner-to-tap-australias-military-broadband-market/" >🔗</a> **[SpaceNews]** OneWeb and Hanwha partner to tap Australia’s military broadband market
-- <a href="https://spacenews.com/impulse-and-relativity-announce-proposal-for-joint-mars-landing-mission/" >🔗</a> **[SpaceNews]** Impulse and Relativity announce proposal for joint Mars landing mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T171644">2022-07-20 17:16:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T174127">2022-07-20 17:41:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
