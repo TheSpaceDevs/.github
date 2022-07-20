@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-and-relativity-announce-proposal-for-joint-mars-landing-mission/" >🔗</a> **[SpaceNews]** Impulse and Relativity announce proposal for joint Mars landing mission
 - <a href="https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/" >🔗</a> **[SpaceNews]** The UK’s ‘Astra Carta’ moment: Building a Space Sustainability Growth Platform
 - <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Roman Space Telescope
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope
 - <a href="http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station
-- <a href="https://spacenews.com/oss-sstl-wrapped-rib/" >🔗</a> **[SpaceNews]** Oxford Space and SSTL unveil Wrapped Rib SAR antenna
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T110606">2022-07-20 11:06:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T113256">2022-07-20 11:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
