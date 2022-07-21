@@ -98,11 +98,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
+- <a href="https://www.teslarati.com/spacex-california-launch-pad-record-turnaround/" >🔗</a> **[Teslarati]** SpaceX Starlink launch to smash California pad turnaround record
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T080946">2022-07-21 08:09:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T084159">2022-07-21 08:41:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
