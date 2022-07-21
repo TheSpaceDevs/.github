@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-ndaa-directs-independent-review-how-the-space-force-acquires-technologies/" >🔗</a> **[SpaceNews]** Senate NDAA directs independent review how the Space Force acquires technologies
+- <a href="https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/" >🔗</a> **[Spaceflight Now]** Watch live: SLS moon rocket booster ready for test-firing in Utah
+- <a href="https://spacenews.com/satellite-vu-orders-second-satellite-for-tracking-heat-waste/" >🔗</a> **[SpaceNews]** Satellite Vu orders second satellite for tracking heat waste
+- <a href="http://www.nasa.gov/press-release/nasa-esa-to-discuss-mars-sample-return-mission" >🔗</a> **[NASA]** NASA, ESA to Discuss Mars Sample Return Mission
 - <a href="https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX scrubs Starlink 3-2 launch attempt
-- <a href="https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/" >🔗</a> **[SpaceNews]** China could shift to fully reusable super heavy-launcher in wake of Starship
-- <a href="https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/" >🔗</a> **[Spaceflight Now]** SpaceX adds fourth tower segment to Florida Starship launch pad
-- <a href="https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/" >🔗</a> **[SpaceNews]** Isar Aerospace to launch from French Guiana
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T190707">2022-07-21 19:07:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T193214">2022-07-21 19:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
