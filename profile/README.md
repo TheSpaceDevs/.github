@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX to break 2021 record with 32nd launch of 2022
+- <a href="https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/" >🔗</a> **[SpaceNews]** China could shift to fully reusable super heavy-launcher in wake of Starship
 - <a href="https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/" >🔗</a> **[Spaceflight Now]** SpaceX adds fourth tower segment to Florida Starship launch pad
 - <a href="https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/" >🔗</a> **[SpaceNews]** Isar Aerospace to launch from French Guiana
 - <a href="https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/" >🔗</a> **[SpaceNews]** UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead
-- <a href="https://spaceflightnow.com/2022/07/20/nasa-tentatively-targeting-aug-29-for-maiden-flight-of-sls-moon-rocket/" >🔗</a> **[Spaceflight Now]** NASA tentatively targeting Aug. 29 for maiden flight of SLS moon rocket
-- <a href="https://spacenews.com/nasa-authorization-included-in-chips-act/" >🔗</a> **[SpaceNews]** NASA authorization included in CHIPS Act
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T150732">2022-07-21 15:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T154207">2022-07-21 15:42:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
