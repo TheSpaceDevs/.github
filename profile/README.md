@@ -88,22 +88,23 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX to break 2021 record with 32nd launch of 2022
 - <a href="https://spacenews.com/china-could-shift-to-fully-reusable-super-heavy-launcher-in-wake-of-starship/" >🔗</a> **[SpaceNews]** China could shift to fully reusable super heavy-launcher in wake of Starship
 - <a href="https://spaceflightnow.com/2022/07/21/spacex-adds-fourth-tower-segment-to-florida-starship-launch-pad/" >🔗</a> **[Spaceflight Now]** SpaceX adds fourth tower segment to Florida Starship launch pad
 - <a href="https://spacenews.com/isar-aerospace-to-launch-from-french-guiana/" >🔗</a> **[SpaceNews]** Isar Aerospace to launch from French Guiana
-- <a href="https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/" >🔗</a> **[SpaceNews]** UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
 - <a href="https://www.teslarati.com/spacex-california-launch-pad-record-turnaround/" >🔗</a> **[Teslarati]** SpaceX Starlink launch to smash California pad turnaround record
+- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX to break 2021 record with 32nd launch of 2022
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T160906">2022-07-21 16:09:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T165232">2022-07-21 16:52:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
