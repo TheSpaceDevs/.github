@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-selects-draper-to-fly-research-to-far-side-of-moon" >🔗</a> **[NASA]** NASA Selects Draper to Fly Research to Far Side of Moon
 - <a href="https://spacenews.com/senate-ndaa-directs-independent-review-how-the-space-force-acquires-technologies/" >🔗</a> **[SpaceNews]** Senate NDAA directs independent review how the Space Force acquires technologies
 - <a href="https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/" >🔗</a> **[Spaceflight Now]** Watch live: SLS moon rocket booster ready for test-firing in Utah
 - <a href="https://spacenews.com/satellite-vu-orders-second-satellite-for-tracking-heat-waste/" >🔗</a> **[SpaceNews]** Satellite Vu orders second satellite for tracking heat waste
 - <a href="http://www.nasa.gov/press-release/nasa-esa-to-discuss-mars-sample-return-mission" >🔗</a> **[NASA]** NASA, ESA to Discuss Mars Sample Return Mission
-- <a href="https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonaut, European astronaut head outside ISS on spacewalk
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T200819">2022-07-21 20:08:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T203852">2022-07-21 20:38:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
