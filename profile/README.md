@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-uks-astra-carta-moment-building-a-space-sustainability-growth-platform/" >🔗</a> **[SpaceNews]** UK’s ‘Astra Carta’ movement sees space sustainability as chance to lead
+- <a href="https://spaceflightnow.com/2022/07/20/nasa-tentatively-targeting-aug-29-for-maiden-flight-of-sls-moon-rocket/" >🔗</a> **[Spaceflight Now]** NASA tentatively targeting Aug. 29 for maiden flight of SLS moon rocket
+- <a href="https://spacenews.com/nasa-authorization-included-in-chips-act/" >🔗</a> **[SpaceNews]** NASA authorization included in CHIPS Act
 - <a href="https://spacenews.com/spire-adding-microwave-sounders-to-improve-weather-forecasts/" >🔗</a> **[SpaceNews]** Spire adding microwave sounders to improve weather forecasts
 - <a href="https://www.nasaspaceflight.com/2022/07/fsb-2-test/" >🔗</a> **[NASA Spaceflight]** Northrop Grumman to conduct FSB-2 SLS solid rocket booster test
-- <a href="https://spacenews.com/nasa-sets-late-august-and-early-september-launch-dates-for-artemis-1/" >🔗</a> **[SpaceNews]** NASA sets late August and early September launch dates for Artemis 1
-- <a href="https://www.teslarati.com/spacex-starlink-v2-satellites-spotted-starbase/" >🔗</a> **[Teslarati]** SpaceX’s first Starlink V2 satellites spotted at Starbase
-- <a href="https://arstechnica.com/science/2022/07/nasa-sets-a-late-august-launch-date-for-sls-and-it-may-actually-happen/" >🔗</a> **[Arstechnica]** The SLS rocket finally has a believable launch date, and it’s soon
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T233707">2022-07-20 23:37:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T004138">2022-07-21 00:41:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
