@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/07/rocket-report-a-heavy-lift-rocket-funded-by-crypto-falcon-9-damaged-in-transport/" >🔗</a> **[Arstechnica]** Rocket Report: A heavy-lift rocket funded by crypto; Falcon 9 damaged in transport
 - <a href="https://spacenews.com/nasa-safety-advisers-warn-iss-transition-plans-on-precarious-trajectory/" >🔗</a> **[SpaceNews]** NASA safety advisers warn ISS transition plans on “precarious trajectory”
 - <a href="https://spacenews.com/mapping-the-sky-finding-asteroids-requires-a-combination-of-tools/" >🔗</a> **[SpaceNews]** Mapping the Sky: Finding asteroids requires a combination of tools
 - <a href="https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/" >🔗</a> **[Spaceflight Now]** Russian cosmonaut, European astronaut complete joint spacewalk
 - <a href="https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/" >🔗</a> **[Spaceflight Now]** SpaceX calls rare last-minute abort during California launch countdown
-- <a href="https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/" >🔗</a> **[SpaceNews]** Crew Dragon mission delayed after booster damaged in transport
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T110644">2022-07-22 11:06:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T113436">2022-07-22 11:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
