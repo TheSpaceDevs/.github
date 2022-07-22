@@ -99,12 +99,14 @@ into *a Low Earth Orbit
 
 - <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
 - <a href="https://www.teslarati.com/spacex-california-launch-pad-record-turnaround/" >🔗</a> **[Teslarati]** SpaceX Starlink launch to smash California pad turnaround record
+- <a href="https://spaceflightnow.com/2022/07/20/spacex-going-for-record-breaking-32nd-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** SpaceX going for record-breaking 32nd launch of the year
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX scrubs Starlink 3-2 launch attempt
+- <a href="https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/" >🔗</a> **[Spaceflight Now]** SpaceX calls rare last-minute abort during California launch countdown
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T060957">2022-07-22 06:09:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T064822">2022-07-22 06:48:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
