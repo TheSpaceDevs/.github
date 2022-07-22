@@ -88,7 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX to make second Starlink 3-2 launch attempt
+- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX breaks 2021 record with 32nd launch of the year
 - <a href="https://arstechnica.com/science/2022/07/rocket-report-a-heavy-lift-rocket-funded-by-crypto-falcon-9-damaged-in-transport/" >🔗</a> **[Arstechnica]** Rocket Report: A heavy-lift rocket funded by crypto; Falcon 9 damaged in transport
 - <a href="https://spacenews.com/nasa-safety-advisers-warn-iss-transition-plans-on-precarious-trajectory/" >🔗</a> **[SpaceNews]** NASA safety advisers warn ISS transition plans on “precarious trajectory”
 - <a href="https://spacenews.com/mapping-the-sky-finding-asteroids-requires-a-combination-of-tools/" >🔗</a> **[SpaceNews]** Mapping the Sky: Finding asteroids requires a combination of tools
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T180857">2022-07-22 18:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T184441">2022-07-22 18:44:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
