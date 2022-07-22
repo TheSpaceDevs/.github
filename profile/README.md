@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-and-mattel-create-rocket-ship-toys/" >🔗</a> **[Teslarati]** SpaceX and Mattel partner to create rocket ship toys to encourage tapping into your inner space explorer
 - <a href="https://spacenews.com/uk-launches-consultation-on-virgin-orbit-launch/" >🔗</a> **[SpaceNews]** UK launches consultation on Virgin Orbit launch
 - <a href="https://spacenews.com/scout-wins-defense-contract-to-demonstrate-utility-of-commercial-data-from-sensors-in-space/" >🔗</a> **[SpaceNews]** SCOUT wins defense contract to demonstrate utility of commercial data from sensors in space
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-2/" >🔗</a> **[NASA Spaceflight]** SpaceX breaks 2021 record with 32nd launch of the year
 - <a href="https://arstechnica.com/science/2022/07/rocket-report-a-heavy-lift-rocket-funded-by-crypto-falcon-9-damaged-in-transport/" >🔗</a> **[Arstechnica]** Rocket Report: A heavy-lift rocket funded by crypto; Falcon 9 damaged in transport
-- <a href="https://spacenews.com/nasa-safety-advisers-warn-iss-transition-plans-on-precarious-trajectory/" >🔗</a> **[SpaceNews]** NASA safety advisers warn ISS transition plans on “precarious trajectory”
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T220718">2022-07-22 22:07:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T223750">2022-07-22 22:37:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
