@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/" >🔗</a> **[SpaceNews]** Second module docks at China’s space station, large rocket stage tracked in orbit
 - <a href="https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/" >🔗</a> **[SpaceNews]** Roman Space Telescope top challenge for new NASA astrophysics director
 - <a href="https://www.teslarati.com/spacex-falcon-9-over-moon/" >🔗</a> **[Teslarati]** Video: SpaceX Falcon 9 over the moon
 - <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-25/" >🔗</a> **[NASA Spaceflight]** SpaceX continues Starlink deployment with Starlink 4-25 mission
 - <a href="https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/" >🔗</a> **[Spaceflight Now]** New science lab for China’s space station launches on Long March 5B rocket
-- <a href="https://www.nasaspaceflight.com/2022/07/wentian-launch/" >🔗</a> **[NASA Spaceflight]** Chang Zheng 5B launches Wentian Laboratory Module
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T203715">2022-07-24 20:37:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T210605">2022-07-24 21:06:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
