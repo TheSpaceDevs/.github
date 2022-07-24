@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/" >🔗</a> **[Spaceflight Now]** Watch live: New science lab for China’s space station poised for launch Sunday
 - <a href="https://www.nasaspaceflight.com/2022/07/wentian-launch/" >🔗</a> **[NASA Spaceflight]** Chang Zheng 5B set to launch Wentian Laboratory Module
 - <a href="https://www.nasaspaceflight.com/2022/07/vaya-space-star-3d/" >🔗</a> **[NASA Spaceflight]** Vaya Space aims for flight operations next year with STAR-3D vortex hybrid engine
 - <a href="https://www.teslarati.com/starlink-available-36-countries/" >🔗</a> **[Teslarati]** Starlink is now available in 36 countries
 - <a href="https://spaceflightnow.com/2022/07/23/starlink-4-25-static-fire/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires Falcon 9 rocket for Sunday launch from Florida
-- <a href="https://spaceflightnow.com/2022/07/23/watch-live-spacex-preps-for-falcon-9-test-firing-in-florida/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX preps for Falcon 9 test-firing in Florida
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T030628">2022-07-24 03:06:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T040636">2022-07-24 04:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
