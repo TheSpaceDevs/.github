@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/" >🔗</a> **[SpaceNews]** Eutelsat and OneWeb discussing multi-orbit merger plan
 - <a href="https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/" >🔗</a> **[SpaceNews]** Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill
 - <a href="https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/" >🔗</a> **[SpaceNews]** Second module docks at China’s space station, large rocket stage tracked in orbit
 - <a href="https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/" >🔗</a> **[SpaceNews]** Roman Space Telescope top challenge for new NASA astrophysics director
 - <a href="https://www.teslarati.com/spacex-falcon-9-over-moon/" >🔗</a> **[Teslarati]** Video: SpaceX Falcon 9 over the moon
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-25/" >🔗</a> **[NASA Spaceflight]** SpaceX continues Starlink deployment with Starlink 4-25 mission
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T130836">2022-07-25 13:08:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T135636">2022-07-25 13:56:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
