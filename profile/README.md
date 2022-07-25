@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire" >🔗</a> **[NASA]** NASA Goddard Center Director Shares Plans to Retire
 - <a href="https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/" >🔗</a> **[NASA Spaceflight]** Boeing aiming to deliver second SLS Core Stage to NASA in March
 - <a href="http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference" >🔗</a> **[NASA]** NASA Air’s Space Station R&D, Benefits to Humanity Conference
 - <a href="https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/" >🔗</a> **[SpaceNews]** Eutelsat and OneWeb discussing multi-orbit merger plan
 - <a href="https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/" >🔗</a> **[SpaceNews]** Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill
-- <a href="https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/" >🔗</a> **[SpaceNews]** Second module docks at China’s space station, large rocket stage tracked in orbit
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T171623">2022-07-25 17:16:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T174224">2022-07-25 17:42:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
