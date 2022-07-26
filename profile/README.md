@@ -90,7 +90,7 @@ into *an Unknown Orbit
 - <a href="http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire" >🔗</a> **[NASA]** NASA Goddard Center Director Shares Plans to Retire
 - <a href="https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/" >🔗</a> **[NASA Spaceflight]** Boeing aiming to deliver second SLS Core Stage to NASA in March
 - <a href="http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference" >🔗</a> **[NASA]** NASA Air’s Space Station R&D, Benefits to Humanity Conference
-- <a href="https://spacenews.com/eutelsat-and-oneweb-discussing-multi-orbit-merger-plan/" >🔗</a> **[SpaceNews]** Eutelsat and OneWeb discussing multi-orbit merger plan
+- <a href="https://spacenews.com/streamlined-and-ready-for-africas-growth-markets-qa-with-avanti-communications-ceo-kyle-whitehill/" >🔗</a> **[SpaceNews]** Streamlined and ready for Africa’s growth markets: Q&A with Avanti Communications CEO Kyle Whitehill
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T061049">2022-07-26 06:10:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T064550">2022-07-26 06:45:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
