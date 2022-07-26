@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-no-notification-by-russia-to-end-iss-participation/" >🔗</a> **[SpaceNews]** NASA: no notification by Russia to end ISS participation
 - <a href="https://spacenews.com/sierra-space-establishes-national-security-advisory-group/" >🔗</a> **[SpaceNews]** Sierra Space establishes national security advisory group
 - <a href="https://spacenews.com/orbit-fab-to-donate-regolith-to-lunar-resources-trust/" >🔗</a> **[SpaceNews]** Orbit Fab to donate regolith to lunar resources trust
 - <a href="https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/" >🔗</a> **[SpaceNews]** HawkEye 360 opens satellite manufacturing facility in Virginia
 - <a href="https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** DoD signaling demand for satellite support services in geostationary orbit
-- <a href="http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire" >🔗</a> **[NASA]** NASA Goddard Center Director Shares Plans to Retire
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T160903">2022-07-26 16:09:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T165251">2022-07-26 16:52:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
