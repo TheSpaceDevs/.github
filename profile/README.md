@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/" >🔗</a> **[SpaceNews]** ESA selects Viasat for multi-orbit satellite communications study
 - <a href="https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/" >🔗</a> **[SpaceNews]** Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices
 - <a href="http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract" >🔗</a> **[NASA]** NASA Prepares for Space Launch System Rocket Services Contract
 - <a href="https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/" >🔗</a> **[SpaceNews]** Massive Long March 5B booster predicted to reenter on July 31
 - <a href="https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat" >🔗</a> **[euronews]** Russia says it will quit the International Space Station after 2024 and build its own
-- <a href="https://www.nasaspaceflight.com/2022/07/osiris-rex-bennu-aging/" >🔗</a> **[NASA Spaceflight]** Data from OSIRIS-REx reveals loose surface of asteroid Bennu and “early aging” of asteroids
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T220656">2022-07-26 22:06:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T223824">2022-07-26 22:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
