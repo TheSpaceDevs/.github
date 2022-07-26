@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbit-fab-to-donate-regolith-to-lunar-resources-trust/" >🔗</a> **[SpaceNews]** Orbit Fab to donate regolith to lunar resources trust
 - <a href="https://spacenews.com/hawkeye-360-opens-satellite-manufacturing-facility-in-virginia/" >🔗</a> **[SpaceNews]** HawkEye 360 opens satellite manufacturing facility in Virginia
 - <a href="https://spacenews.com/dod-signaling-demand-for-satellite-support-services-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** DoD signaling demand for satellite support services in geostationary orbit
 - <a href="http://www.nasa.gov/press-release/nasa-goddard-center-director-shares-plans-to-retire" >🔗</a> **[NASA]** NASA Goddard Center Director Shares Plans to Retire
 - <a href="https://www.nasaspaceflight.com/2022/07/boeing-second-sls-core-march/" >🔗</a> **[NASA Spaceflight]** Boeing aiming to deliver second SLS Core Stage to NASA in March
-- <a href="http://www.nasa.gov/press-release/nasa-air-s-space-station-rd-benefits-to-humanity-conference" >🔗</a> **[NASA]** NASA Air’s Space Station R&D, Benefits to Humanity Conference
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T130905">2022-07-26 13:09:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T135354">2022-07-26 13:53:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
