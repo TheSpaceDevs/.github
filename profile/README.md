@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-announces-astronaut-shane-kimbrough-to-retire" >🔗</a> **[NASA]** NASA Announces Astronaut Shane Kimbrough to Retire
 - <a href="https://mars.nasa.gov/news/9232/" >🔗</a> **[NASA]** NASA Marks 25 Years Since Pathfinder Touched Down on Mars
 - <a href="https://www.nasaspaceflight.com/2022/07/orion-artemis-1-home-stretch/" >🔗</a> **[NASA Spaceflight]** Orion teams ready for Artemis 1 as pre-launch preparations head into the home stretch
 - <a href="http://www.nasa.gov/press-release/nasa-will-inspire-world-when-it-returns-mars-samples-to-earth-in-2033" >🔗</a> **[NASA]** NASA Will Inspire World When It Returns Mars Samples to Earth in 2033
 - <a href="https://spacenews.com/nasa-prepares-to-award-sls-launch-services-contract-to-boeing-northrop-joint-venture/" >🔗</a> **[SpaceNews]** NASA prepares to award SLS launch services contract to Boeing-Northrop joint venture
-- <a href="https://spacenews.com/cas-space-puts-six-satellites-in-orbit-with-first-orbital-launch/" >🔗</a> **[SpaceNews]** CAS Space puts six satellites in orbit with first orbital launch
 
 
 ### Launch-related News 🚀
@@ -99,7 +99,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T190701">2022-07-27 19:07:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T193340">2022-07-27 19:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
