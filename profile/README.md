@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-esa-remove-rover-from-mars-sample-return-plans/" >🔗</a> **[SpaceNews]** NASA and ESA remove rover from Mars Sample Return plans
+- <a href="https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/" >🔗</a> **[SpaceNews]** Iridium enters development deal to bring its network to smartphones
+- <a href="https://spacenews.com/rocket-lab-to-supply-solar-power-units-for-u-s-space-force-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to supply solar power units for U.S. Space Force missile warning satellites
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-briefings-to-preview-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Host Briefings to Preview Artemis I Moon Mission
 - <a href="http://www.nasa.gov/press-release/nasa-announces-astronaut-shane-kimbrough-to-retire" >🔗</a> **[NASA]** NASA Announces Astronaut Shane Kimbrough to Retire
-- <a href="https://mars.nasa.gov/news/9232/" >🔗</a> **[NASA]** NASA Marks 25 Years Since Pathfinder Touched Down on Mars
-- <a href="https://www.nasaspaceflight.com/2022/07/orion-artemis-1-home-stretch/" >🔗</a> **[NASA Spaceflight]** Orion teams ready for Artemis 1 as pre-launch preparations head into the home stretch
-- <a href="http://www.nasa.gov/press-release/nasa-will-inspire-world-when-it-returns-mars-samples-to-earth-in-2033" >🔗</a> **[NASA]** NASA Will Inspire World When It Returns Mars Samples to Earth in 2033
 
 
 ### Launch-related News 🚀
@@ -99,7 +99,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T230707">2022-07-27 23:07:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T233610">2022-07-27 23:36:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
