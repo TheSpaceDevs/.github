@@ -85,11 +85,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/" >🔗</a> **[NASA Spaceflight]** Awaiting Static Fire as SpaceX sets up Starship’s test campaign
+- <a href="https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/" >🔗</a> **[SpaceNews]** Senate appropriators boost military space programs in proposed 2023 spending bill
 - <a href="https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/" >🔗</a> **[SpaceNews]** Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged
 - <a href="http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html" >🔗</a> **[NASA]** SOAR High School Student Wins NASA Armstrong Scholarship
 - <a href="https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/" >🔗</a> **[SpaceNews]** Boeing takes another Starliner charge against its earnings
-- <a href="https://spacenews.com/saltzman-tapped-to-succeed-raymond-as-chief-of-the-u-s-space-force/" >🔗</a> **[SpaceNews]** Saltzman tapped to succeed Raymond as chief of the U.S. Space Force
-- <a href="https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/" >🔗</a> **[SpaceNews]** Iridium enters development deal to bring its network to smartphones
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T200732">2022-07-28 20:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T203807">2022-07-28 20:38:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
