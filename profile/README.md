@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-takes-another-starliner-charge-against-its-earnings/" >🔗</a> **[SpaceNews]** Boeing takes another Starliner charge against its earnings
 - <a href="https://spacenews.com/saltzman-tapped-to-succeed-raymond-as-chief-of-the-u-s-space-force/" >🔗</a> **[SpaceNews]** Saltzman tapped to succeed Raymond as chief of the U.S. Space Force
 - <a href="https://spacenews.com/iridium-agrees-development-deal-to-bring-its-network-to-smartphones/" >🔗</a> **[SpaceNews]** Iridium enters development deal to bring its network to smartphones
 - <a href="https://spacenews.com/nasa-and-esa-remove-rover-from-mars-sample-return-plans/" >🔗</a> **[SpaceNews]** NASA and ESA remove rover from Mars Sample Return plans
 - <a href="https://spacenews.com/rocket-lab-to-supply-solar-power-units-for-u-s-space-force-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to supply solar power units for U.S. Space Force missile warning satellites
-- <a href="http://www.nasa.gov/press-release/nasa-to-host-briefings-to-preview-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Host Briefings to Preview Artemis I Moon Mission
 
 
 ### Launch-related News 🚀
@@ -99,7 +99,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T100757">2022-07-28 10:07:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220728T104114">2022-07-28 10:41:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
