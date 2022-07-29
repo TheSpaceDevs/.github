@@ -86,11 +86,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/" >🔗</a> **[SpaceNews]** Hydrosat secures Tier 1 remote sensing operating license
 - <a href="https://spacenews.com/masten-space-systems-files-for-bankruptcy/" >🔗</a> **[SpaceNews]** Masten Space Systems files for bankruptcy
 - <a href="https://spacenews.com/congress-passes-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** Congress passes NASA authorization bill
 - <a href="https://spacenews.com/draft-senate-appropriations-bill-matches-overall-nasa-request-for-fiscal-year-2023/" >🔗</a> **[SpaceNews]** Draft Senate appropriations bill matches overall NASA request for fiscal year 2023
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill" >🔗</a> **[NASA]** NASA Administrator Statement on Agency Authorization Bill
-- <a href="https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/" >🔗</a> **[NASA Spaceflight]** Awaiting Static Fire as SpaceX sets up Starship’s test campaign
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T200755">2022-07-29 20:07:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T203829">2022-07-29 20:38:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
