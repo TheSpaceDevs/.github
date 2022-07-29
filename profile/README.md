@@ -86,11 +86,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congress-passes-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** Congress passes NASA authorization bill
 - <a href="https://spacenews.com/draft-senate-appropriations-bill-matches-overall-nasa-request-for-fiscal-year-2023/" >🔗</a> **[SpaceNews]** Draft Senate appropriations bill matches overall NASA request for fiscal year 2023
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill" >🔗</a> **[NASA]** NASA Administrator Statement on Agency Authorization Bill
 - <a href="https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/" >🔗</a> **[NASA Spaceflight]** Awaiting Static Fire as SpaceX sets up Starship’s test campaign
 - <a href="https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/" >🔗</a> **[SpaceNews]** Senate appropriators boost military space programs in proposed 2023 spending bill
-- <a href="https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/" >🔗</a> **[SpaceNews]** Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged
 
 
 ### Launch-related News 🚀
@@ -99,7 +99,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T110611">2022-07-29 11:06:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T113314">2022-07-29 11:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
