@@ -87,11 +87,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/" >🔗</a> **[SpaceNews]** Long March 5B rocket stage makes uncontrolled reentry over Indian Ocean
 - <a href="https://spaceflightnow.com/2022/07/30/long-march-5b-re-entry/" >🔗</a> **[Spaceflight Now]** Large Chinese rocket booster expected to fall back to Earth today
 - <a href="https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/" >🔗</a> **[Spaceflight Now]** NASA taps Draper for first U.S. landing on far side of the moon
 - <a href="https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/" >🔗</a> **[SpaceNews]** Hydrosat secures Tier 1 remote sensing operating license
 - <a href="https://spacenews.com/masten-space-systems-files-for-bankruptcy/" >🔗</a> **[SpaceNews]** Masten Space Systems files for bankruptcy
-- <a href="https://spaceflightnow.com/2022/07/29/masten-space-systems-one-of-nasas-moon-landing-contractors-files-for-bankruptcy/" >🔗</a> **[Spaceflight Now]** Masten Space Systems, a NASA moon landing contractor, files for bankruptcy
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T173515">2022-07-30 17:35:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T180751">2022-07-30 18:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
