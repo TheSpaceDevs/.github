@@ -87,11 +87,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/07/30/long-march-5b-re-entry/" >🔗</a> **[Spaceflight Now]** Large Chinese rocket booster expected to fall back to Earth today
 - <a href="https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/" >🔗</a> **[Spaceflight Now]** NASA taps Draper for first U.S. landing on far side of the moon
 - <a href="https://spacenews.com/hydrosat-secures-tier-1-remote-sensing-operating-license/" >🔗</a> **[SpaceNews]** Hydrosat secures Tier 1 remote sensing operating license
 - <a href="https://spacenews.com/masten-space-systems-files-for-bankruptcy/" >🔗</a> **[SpaceNews]** Masten Space Systems files for bankruptcy
-- <a href="https://spacenews.com/congress-passes-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** Congress passes NASA authorization bill
-- <a href="https://spacenews.com/draft-senate-appropriations-bill-matches-overall-nasa-request-for-fiscal-year-2023/" >🔗</a> **[SpaceNews]** Draft Senate appropriations bill matches overall NASA request for fiscal year 2023
+- <a href="https://spaceflightnow.com/2022/07/29/masten-space-systems-one-of-nasas-moon-landing-contractors-files-for-bankruptcy/" >🔗</a> **[Spaceflight Now]** Masten Space Systems, a NASA moon landing contractor, files for bankruptcy
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T153732">2022-07-30 15:37:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T160836">2022-07-30 16:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
