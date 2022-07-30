@@ -87,11 +87,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/" >🔗</a> **[NASA Spaceflight]** NASA, ESA unveil advanced architecture for Mars Sample Return
 - <a href="https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** ESA scaling back design of X-ray astronomy mission
 - <a href="https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/" >🔗</a> **[SpaceNews]** Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-chinese-space-debris" >🔗</a> **[NASA]** NASA Administrator Statement on Chinese Space Debris
 - <a href="https://spaceflightnow.com/2022/07/30/long-march-5b-re-entry/" >🔗</a> **[Spaceflight Now]** Large Chinese rocket booster expected to fall back to Earth today
-- <a href="https://spaceflightnow.com/2022/07/29/nasa-taps-draper-for-first-u-s-landing-on-far-side-of-the-moon/" >🔗</a> **[Spaceflight Now]** NASA taps Draper for first U.S. landing on far side of the moon
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T203528">2022-07-30 20:35:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220730T210601">2022-07-30 21:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
