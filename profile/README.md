@@ -87,7 +87,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.teslarati.com/spacex-shares-how-its-making-starlink-satellite-less-bright/" >🔗</a> **[Teslarati]** SpaceX shares how it’s making Starlink satellite less bright.
+- <a href="https://spacenews.com/house-appropriator-discusses-space-priorities/" >🔗</a> **[SpaceNews]** House appropriator discusses space priorities
 - <a href="https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/" >🔗</a> **[NASA Spaceflight]** NASA, ESA unveil advanced architecture for Mars Sample Return
 - <a href="https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** ESA scaling back design of X-ray astronomy mission
 - <a href="https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/" >🔗</a> **[SpaceNews]** Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T150643">2022-07-31 15:06:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T153756">2022-07-31 15:37:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
