@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/sls-stages-assembly-maf-future-launches/" >🔗</a> **[NASA Spaceflight]** SLS Stages in assembly at MAF for future NASA Artemis launches
 - <a href="https://spacenews.com/isotropic-rebrands-as-all-space/" >🔗</a> **[SpaceNews]** Isotropic Systems rebrands as All.Space and unveils latest terminal
 - <a href="https://arstechnica.com/science/2022/08/the-atlantic-hurricane-season-is-off-to-a-slow-start-but-that-probably-wont-last/" >🔗</a> **[Arstechnica]** We’re about to enter the heart of the Atlantic hurricane season
 - <a href="https://spacenews.com/space-force-to-take-on-bigger-role-planning-future-dod-space-investments/" >🔗</a> **[SpaceNews]** Space Force to take on bigger role planning future DoD space investments
 - <a href="https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/" >🔗</a> **[SpaceNews]** Roscosmos head revises comments about quitting ISS after 2024
-- <a href="https://spacenews.com/house-appropriator-discusses-space-priorities/" >🔗</a> **[SpaceNews]** House appropriator discusses space priorities
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T161011">2022-08-01 16:10:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T165726">2022-08-01 16:57:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
