@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-take-on-bigger-role-planning-future-dod-space-investments/" >🔗</a> **[SpaceNews]** Space Force to take on bigger role planning future DoD space investments
 - <a href="https://spacenews.com/isotropic-rebrands-as-all-space/" >🔗</a> **[SpaceNews]** Isotropic Systems rebrands as All.Space and unveils latest terminal
 - <a href="https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/" >🔗</a> **[SpaceNews]** Roscosmos head revises comments about quitting ISS after 2024
 - <a href="https://spacenews.com/house-appropriator-discusses-space-priorities/" >🔗</a> **[SpaceNews]** House appropriator discusses space priorities
 - <a href="https://spacenews.com/nasa-companies-reject-concerns-over-commercial-space-station-development-schedules/" >🔗</a> **[SpaceNews]** NASA, companies reject concerns over commercial space station development schedules
-- <a href="https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/" >🔗</a> **[NASA Spaceflight]** NASA, ESA unveil advanced architecture for Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T113347">2022-08-01 11:33:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T121525">2022-08-01 12:15:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
