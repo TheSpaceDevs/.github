@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/" >🔗</a> **[NASA Spaceflight]** Rocket Lab’s Electron to launch NROL-199 mission
 - <a href="http://www.nasa.gov/press-release/nasa-television-transponder-change-monday-aug-29" >🔗</a> **[NASA]** NASA Television Transponder Change Monday, Aug. 29
 - <a href="https://spacenews.com/december-launch-planned-for-polaris-dawn/" >🔗</a> **[SpaceNews]** December launch planned for Polaris Dawn
 - <a href="https://spacenews.com/ses-closes-450-million-acquisition-of-drs-satellite-communications-business/" >🔗</a> **[SpaceNews]** SES closes $450 million acquisition of DRS’ satellite communications business
 - <a href="https://www.nasaspaceflight.com/2022/08/sls-stages-assembly-maf-future-launches/" >🔗</a> **[NASA Spaceflight]** SLS Stages in assembly at MAF for future NASA Artemis launches
-- <a href="https://spacenews.com/isotropic-rebrands-as-all-space/" >🔗</a> **[SpaceNews]** Isotropic Systems rebrands as All.Space and unveils latest terminal
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T220717">2022-08-01 22:07:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T223841">2022-08-01 22:38:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
