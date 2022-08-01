@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isotropic-rebrands-as-all-space/" >🔗</a> **[SpaceNews]** Isotropic Systems rebrands as All.Space and unveils latest terminal
 - <a href="https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/" >🔗</a> **[SpaceNews]** Roscosmos head revises comments about quitting ISS after 2024
 - <a href="https://spacenews.com/house-appropriator-discusses-space-priorities/" >🔗</a> **[SpaceNews]** House appropriator discusses space priorities
 - <a href="https://spacenews.com/nasa-companies-reject-concerns-over-commercial-space-station-development-schedules/" >🔗</a> **[SpaceNews]** NASA, companies reject concerns over commercial space station development schedules
 - <a href="https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/" >🔗</a> **[NASA Spaceflight]** NASA, ESA unveil advanced architecture for Mars Sample Return
-- <a href="https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** ESA scaling back design of X-ray astronomy mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T073957">2022-08-01 07:39:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T081030">2022-08-01 08:10:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
