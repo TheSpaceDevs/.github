@@ -91,9 +91,9 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/" >🔗</a> **[SpaceNews]** Roscosmos head revises comments about quitting ISS after 2024
 - <a href="https://spacenews.com/house-appropriator-discusses-space-priorities/" >🔗</a> **[SpaceNews]** House appropriator discusses space priorities
+- <a href="https://spacenews.com/nasa-companies-reject-concerns-over-commercial-space-station-development-schedules/" >🔗</a> **[SpaceNews]** NASA, companies reject concerns over commercial space station development schedules
 - <a href="https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/" >🔗</a> **[NASA Spaceflight]** NASA, ESA unveil advanced architecture for Mars Sample Return
 - <a href="https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** ESA scaling back design of X-ray astronomy mission
-- <a href="https://spacenews.com/long-march-5b-rocket-stage-makes-uncontrolled-reentry-over-indian-ocean/" >🔗</a> **[SpaceNews]** Long March 5B rocket stage makes fiery uncontrolled reentry over Indian Ocean
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T004849">2022-08-01 00:48:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T032256">2022-08-01 03:22:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
