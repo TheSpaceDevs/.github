@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/" >🔗</a> **[SpaceNews]** Report: U.S. should push for global rules on space traffic management
 - <a href="https://arstechnica.com/science/2022/08/why-space-debris-keeps-falling-out-of-the-sky-and-will-continue-to-do-so/" >🔗</a> **[Arstechnica]** Why space debris keeps falling out of the sky—and will continue to do so
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-5-mission" >🔗</a> **[NASA]** NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-5 Mission
 - <a href="https://spacenews.com/hyundai-partners-with-research-institutes-to-develop-vehicle-for-lunar-surface-exploration/" >🔗</a> **[SpaceNews]** Hyundai partners with research institutes to develop vehicle for lunar surface exploration
 - <a href="https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/" >🔗</a> **[SpaceNews]** NASA revises requirements for ISS private astronaut missions
-- <a href="https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/" >🔗</a> **[NASA Spaceflight]** Rocket Lab’s Electron to launch NROL-199 mission
 
 
 ### Launch-related News 🚀
@@ -101,11 +101,12 @@ into *an Unknown
 - <a href="https://spacenews.com/nro-space-missions-mark-new-level-of-us-australia-cooperation/" >🔗</a> **[SpaceNews]** NRO space missions mark new level of US-Australia cooperation
 - <a href="https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/" >🔗</a> **[NASA Spaceflight]** Rocket Lab launches first of two back-to-back missions for NRO
 - <a href="https://spaceflightnow.com/2022/07/18/rocket-labs-next-launch-for-the-nro-postponed-for-software-updates/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s next launch for the NRO postponed for software updates
+- <a href="https://www.nasaspaceflight.com/2022/08/rocket-labs-nrol-199/" >🔗</a> **[NASA Spaceflight]** Rocket Lab’s Electron to launch NROL-199 mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T172122">2022-08-02 17:21:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T174339">2022-08-02 17:43:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
