@@ -95,11 +95,11 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/" >🔗</a> **[Spaceflight Now]** ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite
+- <a href="https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/" >🔗</a> **[SpaceNews]** Biden to sign chips bill in a boost for satellite supply chains
 - <a href="https://spacenews.com/report-u-s-should-push-for-global-rules-on-space-traffic-management/" >🔗</a> **[SpaceNews]** Report: U.S. should push for global rules on space traffic management
 - <a href="https://arstechnica.com/science/2022/08/why-space-debris-keeps-falling-out-of-the-sky-and-will-continue-to-do-so/" >🔗</a> **[Arstechnica]** Why space debris keeps falling out of the sky—and will continue to do so
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-briefings-interviews-for-agency-s-spacex-crew-5-mission" >🔗</a> **[NASA]** NASA to Host Briefings, Interviews for Agency’s SpaceX Crew-5 Mission
-- <a href="https://spacenews.com/hyundai-partners-with-research-institutes-to-develop-vehicle-for-lunar-surface-exploration/" >🔗</a> **[SpaceNews]** Hyundai partners with research institutes to develop vehicle for lunar surface exploration
-- <a href="https://spacenews.com/nasa-revises-requirements-for-iss-private-astronaut-missions/" >🔗</a> **[SpaceNews]** NASA revises requirements for ISS private astronaut missions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T230655">2022-08-02 23:06:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T233704">2022-08-02 23:37:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
