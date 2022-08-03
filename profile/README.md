@@ -95,11 +95,11 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/" >🔗</a> **[SpaceNews]** First SLS launch remains on schedule for late August
 - <a href="https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/" >🔗</a> **[Arstechnica]** With solar arrays now operational, Lucy’s got some shimmering to do
 - <a href="https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/" >🔗</a> **[SpaceNews]** Lockheed invests in Xona’s GPS-alternative constellation
 - <a href="https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/" >🔗</a> **[NASA Spaceflight]** SpaceX working to improve fairing recovery for continued success
 - <a href="https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/" >🔗</a> **[Arstechnica]** Russia wants a better look at what America’s newest spy satellite can do
-- <a href="https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/" >🔗</a> **[SpaceNews]** ESA ends efforts to recover Sentinel-1B
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T220710">2022-08-03 22:07:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T223812">2022-08-03 22:38:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
