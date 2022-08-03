@@ -95,11 +95,11 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/" >🔗</a> **[Arstechnica]** Russia apparently just launched a satellite to snoop on a new US satellite
 - <a href="https://spacenews.com/esa-ends-efforts-to-recover-sentinel-1b/" >🔗</a> **[SpaceNews]** ESA ends efforts to recover Sentinel-1B
 - <a href="https://spacenews.com/slingshot-acquires-numericas-space-tracking-business-and-uk-space-data-firm-seradata/" >🔗</a> **[SpaceNews]** Slingshot acquires Numerica’s space-tracking business and UK space data firm Seradata
 - <a href="https://spacenews.com/momentus-deploys-additional-satellites-from-vigoride-tug/" >🔗</a> **[SpaceNews]** Momentus deploys additional satellites from Vigoride tug
 - <a href="https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/" >🔗</a> **[Spaceflight Now]** ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite
-- <a href="https://spacenews.com/biden-to-sign-chips-bill-in-a-boost-for-satellite-supply-chains/" >🔗</a> **[SpaceNews]** Biden to sign chips bill in a boost for satellite supply chains
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The satellite will operate in a sun-synchronous orbit at a height of 506 km, at 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T160912">2022-08-03 16:09:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220803T165227">2022-08-03 16:52:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
