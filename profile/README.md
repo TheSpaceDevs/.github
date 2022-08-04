@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9239/" >🔗</a> **[NASA]** SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars
+- <a href="https://spacenews.com/nros-spy-satellite-fleet-to-become-more-diverse/" >🔗</a> **[SpaceNews]** NRO’s spy satellite fleet to become more diverse
+- <a href="https://spaceflightnow.com/2022/08/04/rocket-lab-launches-top-secret-payload-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches top secret payload for U.S. spy satellite agency
 - <a href="https://spacenews.com/insurance-claim-for-failed-measat-3-satellite-in-dispute/" >🔗</a> **[SpaceNews]** Insurance claim for failed Measat-3 satellite in dispute
 - <a href="https://spacenews.com/consolidation-wave-pushes-rivals-ses-and-intelsat-into-merger-talks/" >🔗</a> **[SpaceNews]** Consolidation wave pushes rivals SES and Intelsat into merger talks
-- <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six more passengers to suborbital space
-- <a href="https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches sixth New Shepard crewed suborbital flight
-- <a href="https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/" >🔗</a> **[SpaceNews]** Geospatial analysis provider Descartes Labs sold to private equity firm
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T180849">2022-08-04 18:08:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T184325">2022-08-04 18:43:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
