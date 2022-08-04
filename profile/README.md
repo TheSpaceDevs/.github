@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Rocket Lab launches classified mission for National Reconnaissance Office
 - <a href="https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/" >🔗</a> **[SpaceNews]** First SLS launch remains on schedule for late August
 - <a href="https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/" >🔗</a> **[Arstechnica]** With solar arrays now operational, Lucy’s got some shimmering to do
 - <a href="https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/" >🔗</a> **[SpaceNews]** Lockheed invests in Xona’s GPS-alternative constellation
 - <a href="https://www.nasaspaceflight.com/2022/08/spacex-fairing-recovery/" >🔗</a> **[NASA Spaceflight]** SpaceX working to improve fairing recovery for continued success
-- <a href="https://arstechnica.com/science/2022/08/russia-apparently-just-launched-a-satellite-to-snoop-on-a-new-us-satellite/" >🔗</a> **[Arstechnica]** Russia wants a better look at what America’s newest spy satellite can do
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T070637">2022-08-04 07:06:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T073457">2022-08-04 07:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
