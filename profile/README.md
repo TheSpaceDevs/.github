@@ -36,7 +36,7 @@ into *a Geostationary Transfer Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Atlas_V" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_421_image_20210519053741.jpeg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20220804055901.jpeg" />
   </a>
   <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
@@ -100,11 +100,12 @@ into *a Geostationary Transfer Orbit
 
 - <a href="https://spaceflightnow.com/2022/08/02/ulas-atlas-5-rocket-moved-to-launch-pad-with-u-s-military-missile-warning-satellite/" >🔗</a> **[Spaceflight Now]** ULA’s Atlas 5 rocket moved to launch pad with U.S. military missile warning satellite
 - <a href="https://spaceflightnow.com/2022/08/02/final-sbirs-missile-warning-satellite-ready-for-launch/" >🔗</a> **[Spaceflight Now]** Final SBIRS missile warning satellite ready for launch
+- <a href="https://spaceflightnow.com/2022/08/03/cape-canaveral-on-the-cusp-of-new-records-as-blistering-launch-rate-continues/" >🔗</a> **[Spaceflight Now]** Cape Canaveral on the cusp of new records amid blistering launch rate
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T054436">2022-08-04 05:44:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T061006">2022-08-04 06:10:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
