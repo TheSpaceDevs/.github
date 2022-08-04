@@ -18,28 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-22**. It is scheduled to be launched by *Blue Origin*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133000">2022-08-04 13:30:00 UTC</a>.  Until
-then, this pad will have been used for 21
-out of 21 launches from this location. The launch status is currently
+**Long March 2F | Chinese Reusable Space Vehicle (???)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a>.  Until
+then, this pad will have been used for 17
+out of 168 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  NS-22 is the sixth crewed New Shepard flight, carrying six passengers.
+  Note: Identity of launch itself and launch vehicle/payload extremely uncertain; information may be completely wrong.
+
+Probable reflight of the Chinese spaceplane capable of returning to Earth, which flew in orbit September 4 - 6, 2020.
+
+Existence of mission currently based on probable rocket drop zones only with high uncertainty.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2f_image_20210513092238.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
@@ -53,6 +57,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Epsilon | RAISE-3 & Others** from Uchinoura Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Maiden Flight** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-27** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,21 +93,20 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches sixth New Shepard crewed suborbital flight
 - <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin to launch six more passengers to suborbital space
 - <a href="https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/" >🔗</a> **[SpaceNews]** Geospatial analysis provider Descartes Labs sold to private equity firm
 - <a href="https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA launches the last SBIRS U.S. Space Force missile warning satellite
 - <a href="https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/" >🔗</a> **[NASA Spaceflight]** ULA’s Atlas V launches final SBIRS GEO missile detection satellite
-- <a href="https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Rocket Lab launches classified mission for National Reconnaissance Office
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin to launch six more passengers to suborbital space
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T140631">2022-08-04 14:06:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T143445">2022-08-04 14:34:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
