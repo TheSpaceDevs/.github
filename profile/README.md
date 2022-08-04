@@ -93,11 +93,11 @@ Existence of mission currently based on probable rocket drop zones only with hig
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/consolidation-wave-pushes-rivals-ses-and-intelsat-into-merger-talks/" >🔗</a> **[SpaceNews]** Consolidation wave pushes rivals SES and Intelsat into merger talks
 - <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six more passengers to suborbital space
 - <a href="https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches sixth New Shepard crewed suborbital flight
 - <a href="https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/" >🔗</a> **[SpaceNews]** Geospatial analysis provider Descartes Labs sold to private equity firm
 - <a href="https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA launches the last SBIRS U.S. Space Force missile warning satellite
-- <a href="https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/" >🔗</a> **[NASA Spaceflight]** ULA’s Atlas V launches final SBIRS GEO missile detection satellite
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Existence of mission currently based on probable rocket drop zones only with hig
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T150814">2022-08-04 15:08:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T154158">2022-08-04 15:41:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
