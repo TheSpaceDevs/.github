@@ -18,32 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2F | Chinese Reusable Space Vehicle (???)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a>.  Until
-then, this pad will have been used for 17
-out of 168 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>.  Until
+then, this pad will have been used for 148
+out of 852 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Lunar Exploration* and the payload will be injected
+into *an Elliptical Orbit
+(Elliptical)*.
 <br>
 <blockquote>
-  Note: Identity of launch itself and launch vehicle/payload extremely uncertain; information may be completely wrong.
-
-Probable reflight of the Chinese spaceplane capable of returning to Earth, which flew in orbit September 4 - 6, 2020.
-
-Existence of mission currently based on probable rocket drop zones only with high uncertainty.
+  Lunar orbiter designed by the Korea Aerospace Research Institute (KARI) to demonstrate technologies, survey lunar resources and produce a topographic map.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2f_image_20210513092238.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
@@ -57,6 +53,7 @@ Existence of mission currently based on probable rocket drop zones only with hig
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Epsilon | RAISE-3 & Others** from Uchinoura Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Maiden Flight** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-27** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-3** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,20 +89,25 @@ Existence of mission currently based on probable rocket drop zones only with hig
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/insurance-claim-for-failed-measat-3-satellite-in-dispute/" >🔗</a> **[SpaceNews]** Insurance claim for failed Measat-3 satellite in dispute
 - <a href="https://spacenews.com/consolidation-wave-pushes-rivals-ses-and-intelsat-into-merger-talks/" >🔗</a> **[SpaceNews]** Consolidation wave pushes rivals SES and Intelsat into merger talks
 - <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Blue Origin launches six more passengers to suborbital space
 - <a href="https://spacenews.com/blue-origin-launches-sixth-new-shepard-crewed-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches sixth New Shepard crewed suborbital flight
 - <a href="https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/" >🔗</a> **[SpaceNews]** Geospatial analysis provider Descartes Labs sold to private equity firm
-- <a href="https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA launches the last SBIRS U.S. Space Force missile warning satellite
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2022/05/kplo-name-testing/" >🔗</a> **[NASA Spaceflight]** KARI names KPLO as it begins communication testing
+- <a href="https://www.teslarati.com/spacex-south-korea-moon-launch-preparations/" >🔗</a> **[Teslarati]** SpaceX closing in on South Korean Moon launch
+- <a href="https://spaceflightnow.com/2022/07/30/south-korean-spacecraft-fueled-for-ride-from-cape-canaveral-to-the-moon/" >🔗</a> **[Spaceflight Now]** South Korean spacecraft fueled for ride from Cape Canaveral to the moon
+- <a href="https://spaceflightnow.com/2022/08/03/cape-canaveral-on-the-cusp-of-new-records-as-blistering-launch-rate-continues/" >🔗</a> **[Spaceflight Now]** Cape Canaveral on the cusp of new records amid blistering launch rate
+- <a href="https://www.teslarati.com/spacex-first-moon-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set for first Moon launch [webcast]
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T161014">2022-08-04 16:10:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T165621">2022-08-04 16:56:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
