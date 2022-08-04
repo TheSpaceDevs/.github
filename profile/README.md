@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saic-carahsoft-noaa-cloud/" >🔗</a> **[SpaceNews]** NESDIS awards enterprise cloud contract to SAIC and Carahsoft
 - <a href="https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/" >🔗</a> **[SpaceNews]** Spire to host second optical payload for South Korea’s Hancom
 - <a href="https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/" >🔗</a> **[Arstechnica]** Key Russian official confirms his country’s commitment to the space station
 - <a href="https://mars.nasa.gov/news/9239/" >🔗</a> **[NASA]** SAM's Top 5 Discoveries Aboard NASA's Curiosity Rover at Mars
 - <a href="https://spacenews.com/nros-spy-satellite-fleet-to-become-more-diverse/" >🔗</a> **[SpaceNews]** NRO’s spy satellite fleet to become more diverse
-- <a href="https://spaceflightnow.com/2022/08/04/rocket-lab-launches-top-secret-payload-for-u-s-spy-satellite-agency/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches top secret payload for U.S. spy satellite agency
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T193318">2022-08-04 19:33:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T200813">2022-08-04 20:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
