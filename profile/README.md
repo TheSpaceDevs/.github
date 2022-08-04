@@ -44,7 +44,6 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133000">2022-08-04 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-22&location=Corn Ranch, USA&dates=20220804T133000Z%2F20220804T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-22** from Corn Ranch, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T155200">2022-08-04 15:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F | Chinese Reusable Space Vehicle (???)&location=Jiuquan, People&#x27;s Republic of China&dates=20220804T155200Z%2F20220804T174000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F | Chinese Reusable Space Vehicle (???)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)&location=Cape Canaveral, FL, USA&dates=20220804T230800Z%2F20220804T230800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T034800">2022-08-07 03:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-02 (Microsat-2A) (Demo 1)&location=Sriharikota, Republic of India&dates=20220807T034800Z%2F20220807T034800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV | EOS-02 (Microsat-2A) (Demo 1)** from Sriharikota, Republic of India.
@@ -89,20 +88,21 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin to launch six more passengers to suborbital space
 - <a href="https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/" >🔗</a> **[SpaceNews]** Geospatial analysis provider Descartes Labs sold to private equity firm
 - <a href="https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA launches the last SBIRS U.S. Space Force missile warning satellite
 - <a href="https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/" >🔗</a> **[NASA Spaceflight]** ULA’s Atlas V launches final SBIRS GEO missile detection satellite
 - <a href="https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Rocket Lab launches classified mission for National Reconnaissance Office
-- <a href="https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/" >🔗</a> **[SpaceNews]** First SLS launch remains on schedule for late August
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2022/08/04/blue-origin-ns-22-live-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin to launch six more passengers to suborbital space
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130716">2022-08-04 13:07:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T135146">2022-08-04 13:51:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
