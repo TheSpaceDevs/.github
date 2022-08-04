@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geospatial-analysis-provider-descartes-labs-sold-to-private-equity-firm/" >🔗</a> **[SpaceNews]** Geospatial analysis provider Descartes Labs sold to private equity firm
 - <a href="https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA launches the last SBIRS U.S. Space Force missile warning satellite
 - <a href="https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/" >🔗</a> **[NASA Spaceflight]** ULA’s Atlas V launches final SBIRS GEO missile detection satellite
 - <a href="https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Rocket Lab launches classified mission for National Reconnaissance Office
 - <a href="https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/" >🔗</a> **[SpaceNews]** First SLS launch remains on schedule for late August
-- <a href="https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/" >🔗</a> **[Arstechnica]** With solar arrays now operational, Lucy’s got some shimmering to do
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T121259">2022-08-04 12:12:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T130716">2022-08-04 13:07:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
