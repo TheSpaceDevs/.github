@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/" >🔗</a> **[NASA Spaceflight]** ULA’s Atlas V to launch final SBIRS GEO missile detection satellite
+- <a href="https://spacenews.com/ula-launches-the-last-sbirs-u-s-space-force-missile-warning-satellite/" >🔗</a> **[SpaceNews]** ULA launches the last SBIRS U.S. Space Force missile warning satellite
+- <a href="https://www.nasaspaceflight.com/2022/08/atlas-final-sbirs-geo/" >🔗</a> **[NASA Spaceflight]** ULA’s Atlas V launches final SBIRS GEO missile detection satellite
 - <a href="https://spacenews.com/rocket-lab-launches-classified-mission-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Rocket Lab launches classified mission for National Reconnaissance Office
 - <a href="https://spacenews.com/first-sls-launch-remains-on-schedule-for-late-august/" >🔗</a> **[SpaceNews]** First SLS launch remains on schedule for late August
 - <a href="https://arstechnica.com/science/2022/08/with-solar-arrays-now-operational-lucys-got-some-shimmering-to-do/" >🔗</a> **[Arstechnica]** With solar arrays now operational, Lucy’s got some shimmering to do
-- <a href="https://spacenews.com/lockheed-invests-in-xonas-gps-alternative-constellation/" >🔗</a> **[SpaceNews]** Lockheed invests in Xona’s GPS-alternative constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T110624">2022-08-04 11:06:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T113324">2022-08-04 11:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
