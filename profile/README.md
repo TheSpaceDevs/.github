@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>.  Until
-then, this pad will have been used for 148
-out of 852 launches from this location. The launch status is currently
+**SSLV | EOS-02 (Microsat-2A) (Demo 1)**. It is scheduled to be launched by *Indian Space Research Organization*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Sriharikota, Republic of India*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T034800">2022-08-07 03:48:00 UTC</a>.  Until
+then, this pad will have been used for 51
+out of 80 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Lunar Exploration* and the payload will be injected
-into *an Elliptical Orbit
-(Elliptical)*.
+*Test Flight* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Lunar orbiter designed by the Korea Aerospace Research Institute (KARI) to demonstrate technologies, survey lunar resources and produce a topographic map.
+  First test flight of Indian SSLV (Small Satellite Launch Vehicle).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Small_Satellite_Launch_Vehicle" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/sslv_image_20190830213312.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="https://www.google.com/maps?q=13.733,80.235" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_14_20200803142403.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *an Elliptical Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Epsilon | RAISE-3 & Others** from Uchinoura Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Maiden Flight** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-27** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-91** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,26 +89,20 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/" >🔗</a> **[SpaceNews]** NASA and Roscosmos officials restate intent to operate ISS after 2024
 - <a href="https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Danuri, South Korea’s first mission to the Moon
 - <a href="https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/" >🔗</a> **[SpaceNews]** China launches secretive reusable test spacecraft
 - <a href="https://spacenews.com/saic-carahsoft-noaa-cloud/" >🔗</a> **[SpaceNews]** NESDIS awards enterprise cloud contract to SAIC and Carahsoft
 - <a href="https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/" >🔗</a> **[SpaceNews]** Spire to host second optical payload for South Korea’s Hancom
-- <a href="https://arstechnica.com/science/2022/08/key-russian-official-confirms-his-countrys-commitment-to-the-space-station/" >🔗</a> **[Arstechnica]** Key Russian official confirms his country’s commitment to the space station
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2022/05/kplo-name-testing/" >🔗</a> **[NASA Spaceflight]** KARI names KPLO as it begins communication testing
-- <a href="https://www.teslarati.com/spacex-south-korea-moon-launch-preparations/" >🔗</a> **[Teslarati]** SpaceX closing in on South Korean Moon launch
-- <a href="https://spaceflightnow.com/2022/07/30/south-korean-spacecraft-fueled-for-ride-from-cape-canaveral-to-the-moon/" >🔗</a> **[Spaceflight Now]** South Korean spacecraft fueled for ride from Cape Canaveral to the moon
-- <a href="https://spaceflightnow.com/2022/08/03/cape-canaveral-on-the-cusp-of-new-records-as-blistering-launch-rate-continues/" >🔗</a> **[Spaceflight Now]** Cape Canaveral on the cusp of new records amid blistering launch rate
-- <a href="https://www.teslarati.com/spacex-first-moon-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX set for first Moon launch [webcast]
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Danuri, South Korea’s first mission to the Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T233602">2022-08-04 23:36:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T005026">2022-08-05 00:50:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
