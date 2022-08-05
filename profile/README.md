@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/08/as-losses-mount-astra-announces-a-radical-pivot-to-a-larger-launch-vehicle/" >🔗</a> **[Arstechnica]** As losses mount, Astra announces a radical pivot to a larger launch vehicle
+- <a href="https://mars.nasa.gov/news/9240/" >🔗</a> **[NASA]** 10 Years Since Landing, NASA's Curiosity Mars Rover Still Has Drive
 - <a href="https://spacenews.com/south-koreas-first-lunar-orbiter-on-way-to-the-moon/" >🔗</a> **[SpaceNews]** South Korea’s first lunar orbiter on way to the moon
 - <a href="https://arstechnica.com/science/2022/08/rocket-report-spacex-launches-korea-to-the-moon-georgias-litigious-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX launches Korea to the Moon, Georgia’s litigious spaceport
 - <a href="https://spacenews.com/chinese-space-firm-raises-funds-for-commercial-weather-data-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese space firm raises funds for commercial weather data satellite constellation
-- <a href="https://spacenews.com/virgin-galactic-again-delays-start-of-commercial-suborbital-flights/" >🔗</a> **[SpaceNews]** Virgin Galactic again delays start of commercial suborbital flights
-- <a href="https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/" >🔗</a> **[SpaceNews]** NASA and Roscosmos officials restate intent to operate ISS after 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T161044">2022-08-05 16:10:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T165728">2022-08-05 16:57:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
