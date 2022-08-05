@@ -90,7 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/" >🔗</a> **[SpaceNews]** NASA and Roscosmos officials restate intent to operate ISS after 2024
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Danuri, South Korea’s first mission to the Moon
+- <a href="https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Danuri, South Korea’s first mission to the Moon
 - <a href="https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/" >🔗</a> **[SpaceNews]** China launches secretive reusable test spacecraft
 - <a href="https://spacenews.com/saic-carahsoft-noaa-cloud/" >🔗</a> **[SpaceNews]** NESDIS awards enterprise cloud contract to SAIC and Carahsoft
 - <a href="https://spacenews.com/spire-to-host-second-optical-payload-for-south-koreas-hancom/" >🔗</a> **[SpaceNews]** Spire to host second optical payload for South Korea’s Hancom
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T005026">2022-08-05 00:50:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T030732">2022-08-05 03:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
