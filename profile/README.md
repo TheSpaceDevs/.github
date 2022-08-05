@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-space-firm-raises-funds-for-commercial-weather-data-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese space firm raises funds for commercial weather data satellite constellation
 - <a href="https://spacenews.com/virgin-galactic-again-delays-start-of-commercial-suborbital-flights/" >🔗</a> **[SpaceNews]** Virgin Galactic again delays start of commercial suborbital flights
 - <a href="https://spacenews.com/nasa-and-roscosmos-officials-restate-intent-to-operate-iss-after-2024/" >🔗</a> **[SpaceNews]** NASA and Roscosmos officials restate intent to operate ISS after 2024
 - <a href="https://www.nasaspaceflight.com/2022/08/spacex-danuri-south-korea/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Danuri, South Korea’s first mission to the Moon
 - <a href="https://spacenews.com/china-launches-secretive-reusable-test-spacecraft/" >🔗</a> **[SpaceNews]** China launches secretive reusable test spacecraft
-- <a href="https://spacenews.com/saic-carahsoft-noaa-cloud/" >🔗</a> **[SpaceNews]** NESDIS awards enterprise cloud contract to SAIC and Carahsoft
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T100801">2022-08-05 10:08:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220805T103852">2022-08-05 10:38:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
