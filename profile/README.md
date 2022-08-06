@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/" >🔗</a> **[Teslarati]** Ellie In Space X Teslarati (double interview)
+- <a href="https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/" >🔗</a> **[SpaceNews]** Entire NASA astronaut corps eligible for Artemis missions
+- <a href="https://www.nasaspaceflight.com/2022/08/curiosity-10-years/" >🔗</a> **[NASA Spaceflight]** Curiosity marks 10 years on Mars as discoveries continue
 - <a href="https://spacenews.com/italian-satellite-may-fly-nasa-earth-science-payload/" >🔗</a> **[SpaceNews]** Italian satellite may fly NASA Earth science payload
 - <a href="https://spacenews.com/space-development-agency-to-take-another-stab-at-space-to-aircraft-laser-communications/" >🔗</a> **[SpaceNews]** Space Development Agency to take another stab at space-to-aircraft laser communications
-- <a href="https://spacenews.com/aging-telesat-satellite-running-out-of-fuel-as-projected-leo-costs-soar/" >🔗</a> **[SpaceNews]** Aging Telesat satellite running out of fuel as projected LEO costs soar
-- <a href="https://spacenews.com/fcc-considers-opening-up-more-ku-band-to-non-geo-satellite-operators/" >🔗</a> **[SpaceNews]** FCC considers opening up more Ku-band to non-GEO satellite operators
-- <a href="https://arstechnica.com/science/2022/08/as-losses-mount-astra-announces-a-radical-pivot-to-a-larger-launch-vehicle/" >🔗</a> **[Arstechnica]** As losses mount, Astra announces a radical pivot to a larger launch vehicle
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T153733">2022-08-06 15:37:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220806T160839">2022-08-06 16:08:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
