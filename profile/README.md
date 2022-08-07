@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/" >🔗</a> **[SpaceNews]** India’s new SSLV rocket suffers “data loss” in maiden flight; satellites’ status unaccounted for
 - <a href="https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/" >🔗</a> **[Spaceflight Now]** India’s new small satellite launcher fails to put satellites into correct orbit
 - <a href="https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/" >🔗</a> **[Teslarati]** Ellie In Space X Teslarati (double interview)
 - <a href="https://spacenews.com/entire-nasa-astronaut-corps-eligible-for-artemis-missions/" >🔗</a> **[SpaceNews]** Entire NASA astronaut corps eligible for Artemis missions
 - <a href="https://www.nasaspaceflight.com/2022/08/curiosity-10-years/" >🔗</a> **[NASA Spaceflight]** Curiosity marks 10 years on Mars as discoveries continue
-- <a href="https://spacenews.com/italian-satellite-may-fly-nasa-earth-science-payload/" >🔗</a> **[SpaceNews]** Italian satellite may fly NASA Earth science payload
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T132121">2022-08-07 13:21:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T134121">2022-08-07 13:41:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
