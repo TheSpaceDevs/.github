@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities" >🔗</a> **[NASA]** NASA Announces New CubeSat Launch Initiative Partnership Opportunities
+- <a href="https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/" >🔗</a> **[SpaceNews]** SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field
 - <a href="https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/" >🔗</a> **[SpaceNews]** Benchmark acquires Alameda Applied Science Corp. electric propulsion
 - <a href="https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/" >🔗</a> **[SpaceNews]** India’s new SSLV rocket fails in first launch
 - <a href="https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/" >🔗</a> **[Spaceflight Now]** India’s new small satellite launcher fails to put satellites into correct orbit
-- <a href="https://spacenews.com/nasa-heliophysics-smallsats-to-share-launch-with-astrophysics-mission/" >🔗</a> **[SpaceNews]** NASA heliophysics smallsats to share launch with astrophysics mission
-- <a href="https://www.teslarati.com/ellie-in-space-x-teslarati-double-interview/" >🔗</a> **[Teslarati]** Ellie In Space X Teslarati (double interview)
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T160944">2022-08-08 16:09:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T165425">2022-08-08 16:54:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
