@@ -91,11 +91,11 @@ Two commercial Earth observation satellites built by Minospace.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/" >🔗</a> **[Teslarati]** Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft
 - <a href="https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/" >🔗</a> **[SpaceNews]** Launch startup SpaceRyde fortifies advisory board
 - <a href="https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/" >🔗</a> **[SpaceNews]** Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats
 - <a href="https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/" >🔗</a> **[SpaceNews]** NASA looking for new launch of remaining TROPICS cubesats
 - <a href="https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/" >🔗</a> **[Arstechnica]** Peter Beck explains why Electron may only ever launch 10-15 times a year [Updated]
-- <a href="https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/" >🔗</a> **[SpaceNews]** Northrop Grumman and Firefly to partner on upgraded Antares
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Two commercial Earth observation satellites built by Minospace.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T220810">2022-08-08 22:08:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T223833">2022-08-08 22:38:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
