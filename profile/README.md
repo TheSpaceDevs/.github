@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/" >🔗</a> **[Arstechnica]** Peter Beck explains why Electron may only ever launch 10-15 times a year
+- <a href="https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/" >🔗</a> **[SpaceNews]** Northrop Grumman and Firefly to partner on upgraded Antares
 - <a href="http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities" >🔗</a> **[NASA]** NASA Announces New CubeSat Launch Initiative Partnership Opportunities
 - <a href="https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/" >🔗</a> **[SpaceNews]** SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field
 - <a href="https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/" >🔗</a> **[SpaceNews]** Benchmark acquires Alameda Applied Science Corp. electric propulsion
-- <a href="https://spacenews.com/indias-new-sslv-rocket-suffers-data-loss-in-maiden-flight-satellites-status-unaccounted-for/" >🔗</a> **[SpaceNews]** India’s new SSLV rocket fails in first launch
-- <a href="https://spaceflightnow.com/2022/08/07/indias-new-small-satellite-launcher-fails-to-put-satellites-into-correct-orbit/" >🔗</a> **[Spaceflight Now]** India’s new small satellite launcher fails to put satellites into correct orbit
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T171400">2022-08-08 17:14:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T174048">2022-08-08 17:40:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
