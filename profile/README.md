@@ -91,11 +91,11 @@ Two commercial Earth observation satellites built by Minospace.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/" >🔗</a> **[SpaceNews]** NASA looking for new launch of remaining TROPICS cubesats
 - <a href="https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/" >🔗</a> **[Arstechnica]** Peter Beck explains why Electron may only ever launch 10-15 times a year
 - <a href="https://spacenews.com/northrop-grumman-and-firefly-to-partner-on-upgraded-antares/" >🔗</a> **[SpaceNews]** Northrop Grumman and Firefly to partner on upgraded Antares
 - <a href="http://www.nasa.gov/press-release/nasa-announces-new-cubesat-launch-initiative-partnership-opportunities" >🔗</a> **[NASA]** NASA Announces New CubeSat Launch Initiative Partnership Opportunities
 - <a href="https://spacenews.com/spacelink-and-u-s-army-to-study-use-of-relay-constellation-to-deliver-data-to-troops-in-the-field/" >🔗</a> **[SpaceNews]** SpaceLink and U.S. Army to study use of relay constellation to deliver data to troops in the field
-- <a href="https://spacenews.com/benchmark-acquires-aasc-electric-propulsion/" >🔗</a> **[SpaceNews]** Benchmark acquires Alameda Applied Science Corp. electric propulsion
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Two commercial Earth observation satellites built by Minospace.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T190528">2022-08-08 19:05:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T193241">2022-08-08 19:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
