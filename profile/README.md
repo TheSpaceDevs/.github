@@ -18,7 +18,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b/Fregat-M | Khayyam**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+**Soyuz 2.1b/Fregat-M | Khayyam & rideshare**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
@@ -46,7 +46,7 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T055200">2022-08-09 05:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Khayyam&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220809T055200Z%2F20220809T055200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Khayyam** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T055200">2022-08-09 05:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Khayyam &amp; rideshare&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220809T055200Z%2F20220809T055200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Khayyam & rideshare** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T225700">2022-08-09 22:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-26&location=Kennedy Space Center, FL, USA&dates=20220809T225700Z%2F20220809T225700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-26** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T044300">2022-08-10 04:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Jilin-1 x n&location=Taiyuan, People&#x27;s Republic of China&dates=20220810T044300Z%2F20220810T052100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Jilin-1 x n** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T213000">2022-08-12 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T213000Z%2F20220812T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-3** from Vandenberg SFB, CA, USA.
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T041236">2022-08-09 04:12:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T050103">2022-08-09 05:01:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
