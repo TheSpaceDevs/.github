@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/aerospace-optical-ground/" >🔗</a> **[SpaceNews]** Aerospace develops low-cost optical ground network
+- <a href="https://spacenews.com/d-orbit-to-deploy-20-astrocast-satellites-over-three-years/" >🔗</a> **[SpaceNews]** D-Orbit to deploy 20 Astrocast satellites over three years
 - <a href="https://spacenews.com/maxar-to-supply-14-satellites-for-u-s-military-missile-tracking-constellation/" >🔗</a> **[SpaceNews]** Maxar to supply 14 satellites for U.S. military missile-tracking constellation
+- <a href="https://spacenews.com/aerospace-optical-ground/" >🔗</a> **[SpaceNews]** Aerospace develops low-cost optical ground network
 - <a href="https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/" >🔗</a> **[SpaceNews]** Sidus Space could launch LizzieSat-1 without thrusters
 - <a href="https://www.nasaspaceflight.com/2022/08/starlink-4-26/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-26 slated for Tuesday launch from LC-39A
-- <a href="https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/" >🔗</a> **[Arstechnica]** China’s secretive space plane flies higher and longer than before
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T213558">2022-08-09 21:35:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T220657">2022-08-09 22:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
