@@ -89,20 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station" >🔗</a> **[NASA]** California, Indiana Students to Hear from Astronauts on Space Station
+- <a href="https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/" >🔗</a> **[Spaceflight Now]** SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A
 - <a href="https://spacenews.com/busek-expansion/" >🔗</a> **[SpaceNews]** Busek finds headroom to double in size
 - <a href="https://spacenews.com/galactic-energy-of-china-registers-third-consecutive-successful-launch/" >🔗</a> **[SpaceNews]** Galactic Energy of China registers third consecutive successful launch
 - <a href="https://spacenews.com/transastra-and-slooh-to-offer-students-asteroid-detection-tool/" >🔗</a> **[SpaceNews]** TransAstra and Slooh to offer students asteroid detection tool
-- <a href="https://spacenews.com/benchmark-cola-kit/" >🔗</a> **[SpaceNews]** Benchmark unveils small satellite collision-avoidance kit
-- <a href="https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/" >🔗</a> **[Teslarati]** Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2022/08/09/spacex-rolls-out-falcon-9-rocket-as-starship-work-continues-at-pad-39a/" >🔗</a> **[Spaceflight Now]** SpaceX rolls out Falcon 9 rocket as Starship work continues at pad 39A
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T140035">2022-08-09 14:00:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T143736">2022-08-09 14:37:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
