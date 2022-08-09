@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aerospace-optical-ground/" >🔗</a> **[SpaceNews]** Aerospace develops lost-cost optical ground network
+- <a href="https://arstechnica.com/science/2022/08/chinas-secretive-space-plane-flies-higher-and-longer-than-before/" >🔗</a> **[Arstechnica]** China’s secretive space plane flies higher and longer than before
 - <a href="https://spacenews.com/spacex-sees-continued-strong-demand-for-rideshare-missions/" >🔗</a> **[SpaceNews]** SpaceX sees continued strong demand for rideshare missions
 - <a href="https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/" >🔗</a> **[SpaceNews]** Sidus open to ISS and rideshare deployments for LizzieSat constellation
-- <a href="https://spacenews.com/telespazio-ease-product-line/" >🔗</a> **[SpaceNews]** Telespazio unveils product line for NewSpace market
 - <a href="https://spacenews.com/atlas-user-interface/" >🔗</a> **[SpaceNews]** Atlas Space Operations upgrades user interface to ease scheduling
-- <a href="https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Tuesday ‘News from the 2022 Small Satellite show’ digital edition
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T200816">2022-08-09 20:08:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T203825">2022-08-09 20:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
