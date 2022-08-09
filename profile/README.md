@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/" >🔗</a> **[SpaceNews]** Sidus Space mulls rideshare mission for debut satellite
-- <a href="https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your ‘News from the 2022 Small Satellite show’ digital edition
+- <a href="https://spacenews.com/sidus-space-mulls-rideshare-mission-for-debut-satellite/" >🔗</a> **[SpaceNews]** Sidus open to ISS and rideshare deployments for LizzieSat constellation
+- <a href="https://spacenews.com/atlas-user-interface/" >🔗</a> **[SpaceNews]** Atlas Space Operations upgrades user interface to ease scheduling
+- <a href="https://spacenews.com/telespazio-ease-product-line/" >🔗</a> **[SpaceNews]** Telespazio unveils product line for NewSpace market
+- <a href="https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Tuesday ‘News from the 2022 Small Satellite show’ digital edition
 - <a href="https://spacenews.com/terran-orbital-prioritizes-work-on-sda-smallsats-over-predasar/" >🔗</a> **[SpaceNews]** Terran Orbital prioritizes work on SDA smallsats over PredaSAR
-- <a href="https://spacenews.com/starlink-satellites-encounter-russian-asat-debris-squalls/" >🔗</a> **[SpaceNews]** Starlink satellites encounter Russian ASAT debris squalls
-- <a href="http://www.nasa.gov/press-release/california-indiana-students-to-hear-from-astronauts-on-space-station" >🔗</a> **[NASA]** California, Indiana Students to Hear from Astronauts on Space Station
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T190647">2022-08-09 19:06:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T193550">2022-08-09 19:35:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
