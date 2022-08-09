@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/benchmark-cola-kit/" >🔗</a> **[SpaceNews]** Benchmark unveils small satellite collision-avoidance kit
 - <a href="https://www.teslarati.com/northrop-grumman-firefly-next-gen-antares-rocket/" >🔗</a> **[Teslarati]** Northrop Grumman partners with Firefly and SpaceX to save Antares rocket, launch Cygnus spacecraft
 - <a href="https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/" >🔗</a> **[SpaceNews]** Launch startup SpaceRyde fortifies advisory board
 - <a href="https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/" >🔗</a> **[SpaceNews]** Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats
 - <a href="https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/" >🔗</a> **[SpaceNews]** NASA looking for new launch of remaining TROPICS cubesats
-- <a href="https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/" >🔗</a> **[Arstechnica]** Rocket Lab’s launch cadence now “100 percent” driven by market demand [Updated]
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T070639">2022-08-09 07:06:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T073431">2022-08-09 07:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
