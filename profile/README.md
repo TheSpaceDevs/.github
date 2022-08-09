@@ -95,7 +95,7 @@ Two commercial Earth observation satellites built by Minospace.
 - <a href="https://spacenews.com/launch-startup-spaceryde-fortifies-advisory-board/" >🔗</a> **[SpaceNews]** Launch startup SpaceRyde fortifies advisory board
 - <a href="https://spacenews.com/beck-capstone-demonstrates-feasibility-of-low-cost-interplanetary-smallsats/" >🔗</a> **[SpaceNews]** Beck: CAPSTONE demonstrates feasibility of low-cost interplanetary smallsats
 - <a href="https://spacenews.com/nasa-looking-for-new-launch-of-remaining-tropics-cubesats/" >🔗</a> **[SpaceNews]** NASA looking for new launch of remaining TROPICS cubesats
-- <a href="https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/" >🔗</a> **[Arstechnica]** Peter Beck explains why Electron may only ever launch 10-15 times a year [Updated]
+- <a href="https://arstechnica.com/science/2022/08/peter-beck-explains-why-electron-may-only-ever-launch-10-15-times-a-year/" >🔗</a> **[Arstechnica]** Rocket Lab’s launch cadence now “100 percent” driven by market demand [Updated]
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Two commercial Earth observation satellites built by Minospace.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220808T233739">2022-08-08 23:37:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T004607">2022-08-09 00:46:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
