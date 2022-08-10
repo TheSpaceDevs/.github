@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-army-a-key-customer-of-blackskys-next-generation-imaging-satellite/" >🔗</a> **[SpaceNews]** U.S. Army a key customer of BlackSky’s next-generation imaging satellite
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalk" >🔗</a> **[NASA]** NASA Sets Coverage for Russian Spacewalk
 - <a href="https://spacenews.com/darpa-selects-companies-for-inter-satellite-laser-communications-project/" >🔗</a> **[SpaceNews]** DARPA selects companies for inter-satellite laser communications project
 - <a href="http://www.nasa.gov/press-release/la-nasa-busca-experimentos-de-estudiantes-para-remontarse-en-el-segundo-reto-techrise" >🔗</a> **[NASA]** La NASA busca experimentos de estudiantes para remontarse en el segundo reto TechRise
 - <a href="https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/" >🔗</a> **[SpaceNews]** NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns
-- <a href="http://www.nasa.gov/press-release/nasa-seeks-student-experiments-to-soar-in-second-techrise-challenge" >🔗</a> **[NASA]** NASA Seeks Student Experiments to Soar in Second TechRise Challenge
-- <a href="https://spacenews.com/maxars-satellite-business-looks-to-gain-foothold-in-defense-market/" >🔗</a> **[SpaceNews]** Maxar’s satellite business looks to gain foothold in defense market
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T203709">2022-08-10 20:37:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T210645">2022-08-10 21:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
