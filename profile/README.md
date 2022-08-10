@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/darpa-selects-companies-for-inter-satellite-laser-communications-project/" >🔗</a> **[SpaceNews]** DARPA selects companies for inter-satellite laser communications project
 - <a href="http://www.nasa.gov/press-release/la-nasa-busca-experimentos-de-estudiantes-para-remontarse-en-el-segundo-reto-techrise" >🔗</a> **[NASA]** La NASA busca experimentos de estudiantes para remontarse en el segundo reto TechRise
 - <a href="https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/" >🔗</a> **[SpaceNews]** NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns
 - <a href="http://www.nasa.gov/press-release/nasa-seeks-student-experiments-to-soar-in-second-techrise-challenge" >🔗</a> **[NASA]** NASA Seeks Student Experiments to Soar in Second TechRise Challenge
 - <a href="https://spacenews.com/maxars-satellite-business-looks-to-gain-foothold-in-defense-market/" >🔗</a> **[SpaceNews]** Maxar’s satellite business looks to gain foothold in defense market
-- <a href="https://www.nasaspaceflight.com/2022/08/expedition-67-july/" >🔗</a> **[NASA Spaceflight]** Expedition 67 in final stretch as European Robotic Arm commissioning continues
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T193152">2022-08-10 19:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T200749">2022-08-10 20:07:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
