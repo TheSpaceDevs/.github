@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/expedition-67-july/" >🔗</a> **[NASA Spaceflight]** Expedition 67 in final stretch as European Robotic Arm commissioning continues
 - <a href="https://spacenews.com/first-cubesat-completed-for-nasa-space-science-constellation/" >🔗</a> **[SpaceNews]** First cubesat completed for NASA space science constellation
 - <a href="https://spacenews.com/student-payloads-rocketstar-flight/" >🔗</a> **[SpaceNews]** Student payloads to fly on RocketStar suborbital test flight
 - <a href="https://spacenews.com/nanoavionics-expands-into-heavier-smallsat-market/" >🔗</a> **[SpaceNews]** NanoAvionics expands into heavier smallsat market
 - <a href="https://arstechnica.com/science/2022/08/spacex-breathes-fire-in-south-texas-for-the-first-time-in-2022/" >🔗</a> **[Arstechnica]** SpaceX breathes fire in South Texas for the first time in 2022
-- <a href="https://spacenews.com/capella-acadia/" >🔗</a> **[SpaceNews]** Capella unveils a new generation of radar satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T171907">2022-08-10 17:19:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T174026">2022-08-10 17:40:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
