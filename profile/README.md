@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/08/spacex-breathes-fire-in-south-texas-for-the-first-time-in-2022/" >🔗</a> **[Arstechnica]** SpaceX breathes fire in South Texas for the first time in 2022
 - <a href="https://spacenews.com/capella-acadia/" >🔗</a> **[SpaceNews]** Capella unveils a new generation of radar satellites
 - <a href="https://spacenews.com/blue-canyon-tomorrow-io/" >🔗</a> **[SpaceNews]** Blue Canyon Technologies to build Tomorrow.io microwave satellites
 - <a href="https://spacenews.com/nelson-satisfied-with-nasa-authorization-act/" >🔗</a> **[SpaceNews]** Nelson satisfied with NASA authorization act
 - <a href="https://spaceflightnow.com/2022/08/10/falcon-9-rocket-deploys-spacexs-3000th-starlink-internet-satellite/" >🔗</a> **[Spaceflight Now]** Falcon 9 rocket deploys SpaceX’s 3,000th Starlink internet satellite
-- <a href="https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/" >🔗</a> **[Teslarati]** SpaceX fires up Starship booster at orbital launch pad
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T140649">2022-08-10 14:06:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T143508">2022-08-10 14:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
