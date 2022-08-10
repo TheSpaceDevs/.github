@@ -46,7 +46,6 @@ Possibly 10+ new Earth observation satellites for the Jilin-1 commercial Earth o
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T044300">2022-08-10 04:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Jilin-1 x n&location=Taiyuan, People&#x27;s Republic of China&dates=20220810T044300Z%2F20220810T052100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Jilin-1 x n** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T213000">2022-08-12 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T213000Z%2F20220812T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T123300">2022-08-29 12:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis-1&location=Kennedy Space Center, FL, USA&dates=20220829T123300Z%2F20220829T143300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis-1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Maiden Flight** from Cape Canaveral, FL, USA.
@@ -91,11 +90,11 @@ Possibly 10+ new Earth observation satellites for the Jilin-1 commercial Earth o
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-canyon-tomorrow-io/" >🔗</a> **[SpaceNews]** Blue Canyon Technologies to build Tomorrow.io constellation
 - <a href="https://www.teslarati.com/spacex-starship-booster-7-first-static-fire/" >🔗</a> **[Teslarati]** SpaceX fires up Starship booster at orbital launch pad
 - <a href="https://spacenews.com/u-s-space-command-basing-decision-approaching-final-stretch/" >🔗</a> **[SpaceNews]** U.S. Space Command basing decision approaching final stretch
 - <a href="https://spacenews.com/d-orbit-to-deploy-20-astrocast-satellites-over-three-years/" >🔗</a> **[SpaceNews]** D-Orbit to deploy 20 Astrocast satellites over three years
 - <a href="https://spacenews.com/aerospace-optical-ground/" >🔗</a> **[SpaceNews]** Aerospace develops low-cost optical ground network
-- <a href="https://spacenews.com/maxar-to-supply-14-satellites-for-u-s-military-missile-tracking-constellation/" >🔗</a> **[SpaceNews]** Maxar to supply 14 satellites for U.S. military missile-tracking constellation
 
 
 ### Launch-related News 🚀
@@ -104,7 +103,7 @@ Possibly 10+ new Earth observation satellites for the Jilin-1 commercial Earth o
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T040915">2022-08-10 04:09:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T044528">2022-08-10 04:45:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
