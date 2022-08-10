@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-loses-900-million-rural-broadband-subsidy/" >🔗</a> **[SpaceNews]** SpaceX loses $900 million in rural broadband subsidies
+- <a href="https://spacenews.com/increased-solar-activity-creates-new-challenges-for-smallsats/" >🔗</a> **[SpaceNews]** Increased solar activity creates new challenges for smallsats
+- <a href="http://www.nasa.gov/press-release/nasa-to-stream-artemis-i-rollout-briefings-on-science-tech-payloads" >🔗</a> **[NASA]** NASA to Stream Artemis I Rollout, Briefings on Science, Tech Payloads
 - <a href="https://spacenews.com/u-s-army-a-key-customer-of-blackskys-next-generation-imaging-satellite/" >🔗</a> **[SpaceNews]** U.S. Army a key customer of BlackSky’s next-generation imaging satellite
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-russian-spacewalk" >🔗</a> **[NASA]** NASA Sets Coverage for Russian Spacewalk
-- <a href="https://spacenews.com/darpa-selects-companies-for-inter-satellite-laser-communications-project/" >🔗</a> **[SpaceNews]** DARPA selects companies for inter-satellite laser communications project
-- <a href="http://www.nasa.gov/press-release/la-nasa-busca-experimentos-de-estudiantes-para-remontarse-en-el-segundo-reto-techrise" >🔗</a> **[NASA]** La NASA busca experimentos de estudiantes para remontarse en el segundo reto TechRise
-- <a href="https://spacenews.com/nasa-cubesat-bumped-from-rideshare-launch-because-of-orbital-debris-mitigation-concerns/" >🔗</a> **[SpaceNews]** NASA cubesat bumped from rideshare launch because of orbital debris mitigation concerns
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T213506">2022-08-10 21:35:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T220655">2022-08-10 22:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
