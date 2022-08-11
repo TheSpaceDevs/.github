@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-starliner-progress" >🔗</a> **[NASA]** NASA, Boeing to Hold Media Update on Starliner Progress
 - <a href="https://spacenews.com/small-launch-vehicle-industry-growth-slows/" >🔗</a> **[SpaceNews]** Small launch vehicle industry growth slows
 - <a href="https://spacenews.com/kayhan-update-smallsat-22/" >🔗</a> **[SpaceNews]** Kayhan updates Pathfinder spaceflight safety platform
 - <a href="https://spacenews.com/fcc-considers-new-rules-for-emerging-space-capabilities/" >🔗</a> **[SpaceNews]** FCC considers new rules for emerging space capabilities
 - <a href="https://spacenews.com/download-your-news-from-the-2022-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Thursday ‘News from the 2022 Small Satellite show’ digital edition
-- <a href="https://www.nasaspaceflight.com/2022/08/lro-surface-pit-temperatures/" >🔗</a> **[NASA Spaceflight]** Lunar Reconnaissance Orbiter discovers thermally stable areas in surface pits suitable for future lunar bases
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T190525">2022-08-11 19:05:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T193311">2022-08-11 19:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
