@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/canadas-mda-eyes-uk-expansion/" >🔗</a> **[SpaceNews]** Canada’s MDA eyes UK expansion
 - <a href="https://spacenews.com/lockheed-martins-venture-fund-to-increase-investments-in-space-companies/" >🔗</a> **[SpaceNews]** Lockheed Martin’s venture fund to increase investments in space companies
 - <a href="https://spacenews.com/orbital-insight-asterra/" >🔗</a> **[SpaceNews]** Orbital Insight and Asterra join forces to monitor infrastructure
 - <a href="https://spacenews.com/spacex-loses-900-million-rural-broadband-subsidy/" >🔗</a> **[SpaceNews]** SpaceX loses $900 million in rural broadband subsidies
 - <a href="https://spacenews.com/increased-solar-activity-creates-new-challenges-for-smallsats/" >🔗</a> **[SpaceNews]** Increased solar activity creates new challenges for smallsats
-- <a href="http://www.nasa.gov/press-release/nasa-to-stream-artemis-i-rollout-briefings-on-science-tech-payloads" >🔗</a> **[NASA]** NASA to Stream Artemis I Rollout, Briefings on Science, Tech Payloads
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220810T233611">2022-08-10 23:36:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220811T004044">2022-08-11 00:40:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
