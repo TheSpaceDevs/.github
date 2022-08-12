@@ -89,22 +89,23 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** SpaceX preps 46 more Starlink satellites for launch into polar orbit
 - <a href="https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/" >🔗</a> **[SpaceNews]** Anuvu buys Signal Mountain Networks to expand government business
 - <a href="https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb to provide multi-orbit inflight connectivity
 - <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX to continue Starlink expansion with third launch to shell 3
 - <a href="https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran
-- <a href="https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/" >🔗</a> **[Teslarati]** SpaceX set to launch third batch of sun-synchronous Starlink satellites
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/" >🔗</a> **[Teslarati]** SpaceX set to launch third batch of sun-synchronous Starlink satellites
 - <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX to continue Starlink expansion with third launch to shell 3
+- <a href="https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** SpaceX preps 46 more Starlink satellites for launch into polar orbit
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T193200">2022-08-12 19:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T200753">2022-08-12 20:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
