@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 3-3**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 4-27**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a>.  Until
-then, this pad will have been used for 94
-out of 700 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T000000">2022-08-19 00:00:00 UTC</a>.  Until
+then, this pad will have been used for 149
+out of 853 launches from this location. The launch status is currently
+*TBD* 🟧 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 46 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220630114044.png" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T214020">2022-08-12 21:40:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-3&location=Vandenberg SFB, CA, USA&dates=20220812T214020Z%2F20220812T214020Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T000000">2022-08-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-27&location=Cape Canaveral, FL, USA&dates=20220819T000000Z%2F20220819T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-27** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T000000">2022-08-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-23&location=Cape Canaveral, FL, USA&dates=20220824T000000Z%2F20220824T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-23** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T123300">2022-08-29 12:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis-1&location=Kennedy Space Center, FL, USA&dates=20220829T123300Z%2F20220829T143300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis-1** from Kennedy Space Center, FL, USA.
@@ -54,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20&location=Cape Canaveral, FL, USA&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-20** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220831T000000Z%2F20220831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Maiden Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T000000">2022-09-06 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Eutelsat Konnect VHTS&location=Kourou, French Guiana&dates=20220906T000000Z%2F20220906T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Eutelsat Konnect VHTS** from Kourou, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T000000">2022-09-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 531 | SES-20 &amp; SES-21&location=Cape Canaveral, FL, USA&dates=20220907T000000Z%2F20220907T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 531 | SES-20 & SES-21** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,23 +89,20 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/" >🔗</a> **[SpaceNews]** Harris says U.S. to update commercial space regulations
 - <a href="https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** SpaceX preps 46 more Starlink satellites for launch into polar orbit
 - <a href="https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/" >🔗</a> **[SpaceNews]** Anuvu buys Signal Mountain Networks to expand government business
 - <a href="https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb to provide multi-orbit inflight connectivity
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX to continue Starlink expansion with third launch to shell 3
-- <a href="https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran
+- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX continues Starlink expansion with third launch to shell 3
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/" >🔗</a> **[Teslarati]** SpaceX set to launch third batch of sun-synchronous Starlink satellites
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX to continue Starlink expansion with third launch to shell 3
-- <a href="https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** SpaceX preps 46 more Starlink satellites for launch into polar orbit
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T213508">2022-08-12 21:35:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T220830">2022-08-12 22:08:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
