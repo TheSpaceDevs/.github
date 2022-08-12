@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX to continue Starlink expansion with third launch to shell 3
 - <a href="https://arstechnica.com/science/2022/08/rocket-report-a-big-deal-to-keep-cygnus-flying-sizing-up-the-methalox-race/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX sees rideshare demand, Russia’s odd launch deal with Iran
 - <a href="https://www.teslarati.com/spacex-sun-synchronous-starlink-launch-3/" >🔗</a> **[Teslarati]** SpaceX set to launch third batch of sun-synchronous Starlink satellites
 - <a href="https://spacenews.com/army-looking-at-new-ways-to-use-space-technology-for-unconventional-warfare/" >🔗</a> **[SpaceNews]** Army looking at new ways to use space technology for unconventional warfare
 - <a href="http://www.nasa.gov/press-release/nasa-tv-to-cover-spacex-cargo-dragon-departure-from-space-station" >🔗</a> **[NASA]** NASA TV to Cover SpaceX Cargo Dragon Departure from Space Station
-- <a href="http://www.nasa.gov/press-release/nasa-transfers-landsat-9-satellite-to-usgs-to-monitor-earth-s-changes" >🔗</a> **[NASA]** NASA Transfers Landsat 9 Satellite to USGS to Monitor Earth’s Changes
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T161037">2022-08-12 16:10:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220812T165836">2022-08-12 16:58:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
