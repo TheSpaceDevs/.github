@@ -36,10 +36,10 @@ into *a Low Earth Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722151528.png?AWSAccessKeyId=C3OTWS65TQCG2BM7OY73&Signature=0w8AFLQXW3724A3bMPxMpwJhAJk%3D&Expires=1660404850" />
+    <img alt="launch-image" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722151528.png?AWSAccessKeyId=C3OTWS65TQCG2BM7OY73&Signature=KjHCKHPkgLaOSydFgD2WBVyIGWI%3D&Expires=1660406828" />
   </a>
   <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/location_12_20200803142519.jpg?AWSAccessKeyId=C3OTWS65TQCG2BM7OY73&Signature=%2B1EIvPkuIIiHvdPZjee7BI6UY1E%3D&Expires=1660404850"  />
+    <img alt="pad-location" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/location_12_20200803142519.jpg?AWSAccessKeyId=C3OTWS65TQCG2BM7OY73&Signature=jHwBu6PSs23oilzaZ%2BLGe%2Fh%2B9MM%3D&Expires=1660406828"  />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T143413">2022-08-13 14:34:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T150711">2022-08-13 15:07:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
