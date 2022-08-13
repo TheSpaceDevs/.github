@@ -36,10 +36,10 @@ into *a Low Earth Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722151528.png?AWSAccessKeyId=C3OTWS65TQCG2BM7OY73&Signature=fyVEauVFAroYx%2F07U2Sag1eoi6s%3D&Expires=1660390698" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png" />
   </a>
   <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/location_12_20200803142519.jpg?AWSAccessKeyId=C3OTWS65TQCG2BM7OY73&Signature=xTiBR%2BNPQ%2FBdKuKGJaxNq7PeST4%3D&Expires=1660390698"  />
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T110602">2022-08-13 11:06:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T113220">2022-08-13 11:32:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
