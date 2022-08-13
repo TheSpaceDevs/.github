@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-space-force-resolve-sls-flight-termination-system-issue/" >🔗</a> **[SpaceNews]** NASA, Space Force resolve SLS flight termination system issue
 - <a href="https://spacenews.com/harris-says-u-s-to-update-commercial-space-regulations/" >🔗</a> **[SpaceNews]** Harris says U.S. to update commercial space regulations
 - <a href="https://spaceflightnow.com/2022/08/12/spacex-preps-46-more-starlink-satellites-for-launch-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** SpaceX preps 46 more Starlink satellites for launch into polar orbit
 - <a href="https://spacenews.com/anuvu-buys-signal-mountain-networks-to-expand-government-business/" >🔗</a> **[SpaceNews]** Anuvu buys Signal Mountain Networks to expand government business
 - <a href="https://spacenews.com/intelsat-and-oneweb-to-provide-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb to provide multi-orbit inflight connectivity
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-3-3/" >🔗</a> **[NASA Spaceflight]** SpaceX continues Starlink expansion with third launch to shell 3
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T213405">2022-08-13 21:34:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220813T220653">2022-08-13 22:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
