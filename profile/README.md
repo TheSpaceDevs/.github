@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/" >🔗</a> **[Arstechnica]** No, seriously, NASA’s Space Launch System is ready to take flight
 - <a href="https://spacenews.com/d-orbit-cancels-spac-merger-plan/" >🔗</a> **[SpaceNews]** D-Orbit cancels SPAC merger plan
 - <a href="https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/" >🔗</a> **[SpaceNews]** SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa
 - <a href="https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/" >🔗</a> **[Arstechnica]** Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight
 - <a href="https://spacenews.com/virgin-orbit-reduces-launch-forecast-while-increasing-per-launch-revenue/" >🔗</a> **[SpaceNews]** Virgin Orbit reduces launch forecast while increasing per-launch revenue
-- <a href="https://spaceflightnow.com/2022/08/14/reusable-chinese-spacecraft-marks-10-days-in-orbit/" >🔗</a> **[Spaceflight Now]** Chinese spaceplane marks 10 days in orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T180944">2022-08-15 18:09:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T184522">2022-08-15 18:45:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
