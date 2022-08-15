@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-next-generation-spaceflight-computing-processor-contract" >🔗</a> **[NASA]** NASA Awards Next-Generation Spaceflight Computing Processor Contract
 - <a href="http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting" >🔗</a> **[NASA]** NASA Science Leadership to Hold Town Hall Meeting
 - <a href="https://arstechnica.com/science/2022/08/nasa-declares-that-its-space-launch-system-rocket-is-now-ready-to-fly/" >🔗</a> **[Arstechnica]** No, seriously, NASA’s Space Launch System is ready to take flight
 - <a href="https://spacenews.com/d-orbit-cancels-spac-merger-plan/" >🔗</a> **[SpaceNews]** D-Orbit cancels SPAC merger plan
 - <a href="https://spacenews.com/spacex-gets-1-9-million-air-force-contract-for-starlink-services-in-europe-and-africa/" >🔗</a> **[SpaceNews]** SpaceX gets $1.9 million Air Force contract for Starlink services in Europe and Africa
-- <a href="https://arstechnica.com/science/2022/08/a-peek-behind-the-curtain-of-what-a-nasa-spouse-endures-during-spaceflight/" >🔗</a> **[Arstechnica]** Stacey Morgan recounts hitting “the wall” during her husband’s spaceflight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T203712">2022-08-15 20:37:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220815T210651">2022-08-15 21:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
