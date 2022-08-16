@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/" >🔗</a> **[SpaceNews]** Orion Space wins U.S. Space Force contract for on-orbit services experiment
 - <a href="https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/" >🔗</a> **[NASA Spaceflight]** SLS ready to roll to LC-39B for launch, teams prepare for multiple launch trajectories
 - <a href="https://arstechnica.com/science/2022/08/after-icbm-test-us-stresses-it-was-not-the-result-of-current-world-events/" >🔗</a> **[Arstechnica]** After ICBM test, US stresses it was “not the result of current world events”
 - <a href="https://spacenews.com/astrobotic-bids-for-masten-space-systems-assets/" >🔗</a> **[SpaceNews]** Astrobotic bids for Masten Space Systems assets
 - <a href="https://spacenews.com/chinas-spaceplane-remains-in-orbit-but-clues-emerge-from-recovered-launch-debris/" >🔗</a> **[SpaceNews]** China’s spaceplane remains in orbit but clues emerge from recovered launch debris
-- <a href="http://www.nasa.gov/press-release/nasa-awards-next-generation-spaceflight-computing-processor-contract" >🔗</a> **[NASA]** NASA Awards Next-Generation Spaceflight Computing Processor Contract
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T203700">2022-08-16 20:37:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T210642">2022-08-16 21:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
