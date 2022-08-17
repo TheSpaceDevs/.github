@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/jpss-2-testing-complete/" >🔗</a> **[NASA Spaceflight]** NOAA, NASA, and Northrop Grumman complete major testing for JPSS-2 before launch
 - <a href="https://spaceflightnow.com/2022/08/17/russian-eva-54/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts begin spacewalk to continue outfitting European robot arm
 - <a href="https://www.nasaspaceflight.com/2022/08/rs-eva-54-2/" >🔗</a> **[NASA Spaceflight]** Russian spacewalk continues preps on European Robotic Arm
 - <a href="https://arstechnica.com/science/2022/08/rocket-lab-will-self-fund-a-mission-to-search-for-life-in-the-clouds-of-venus/" >🔗</a> **[Arstechnica]** Rocket Lab will self-fund a mission to search for life in the clouds of Venus
 - <a href="https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/" >🔗</a> **[SpaceNews]** Seeking Regulatory Mercy: The case for extending constellation deployment deadlines
-- <a href="https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/" >🔗</a> **[SpaceNews]** AST SpaceMobile delays commercial satellite debut by six months
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T160852">2022-08-17 16:08:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T165825">2022-08-17 16:58:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
