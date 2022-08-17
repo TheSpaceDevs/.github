@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seeking-regulatory-mercy-the-case-for-extending-constellation-deployment-deadlines/" >🔗</a> **[SpaceNews]** Seeking Regulatory Mercy: The case for extending constellation deployment deadlines
 - <a href="https://spaceflightnow.com/2022/08/17/russian-eva-54/" >🔗</a> **[Spaceflight Now]** Russian cosmonauts to continue outfitting European robotic arm outside space station
 - <a href="https://spacenews.com/ast-spacemobile-delays-commercial-satellite-debut-by-six-months/" >🔗</a> **[SpaceNews]** AST SpaceMobile delays commercial satellite debut by six months
 - <a href="https://spacenews.com/blue-origin-scraps-original-recovery-ship-for-new-glenn-boosters/" >🔗</a> **[SpaceNews]** Blue Origin scraps original recovery ship for New Glenn boosters
 - <a href="https://spacenews.com/orion-space-wins-u-s-space-force-contract-for-on-orbit-services-experiment/" >🔗</a> **[SpaceNews]** Orion Space wins U.S. Space Force contract for on-orbit services experiment
-- <a href="https://www.nasaspaceflight.com/2022/08/artemis-1-launch-rollout/" >🔗</a> **[NASA Spaceflight]** SLS rolling to LC-39B for launch, teams prepare for multiple launch trajectories
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T073437">2022-08-17 07:34:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220817T080937">2022-08-17 08:09:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
