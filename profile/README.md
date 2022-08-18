@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/as-dod-shifts-to-smaller-satellites-new-questions-emerge-on-how-to-manage-rideshare-launches/" >🔗</a> **[SpaceNews]** As DoD shifts to smaller satellites, new questions emerge on how to manage rideshare launches
+- <a href="https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/" >🔗</a> **[SpaceNews]** Maxar receives delayed Ovzon 3 satellite parts
 - <a href="https://www.teslarati.com/spacex-starship-first-satellite-launch-contract/" >🔗</a> **[Teslarati]** SpaceX’s next-gen Starship rocket wins first satellite launch contract
 - <a href="http://www.nasa.gov/press-release/nasa-selects-proposals-to-study-stellar-explosions-galaxies-stars" >🔗</a> **[NASA]** NASA Selects Proposals to Study Stellar Explosions, Galaxies, Stars
 - <a href="http://www.nasa.gov/press-release/media-invited-to-learn-about-nasa-tools-resources-for-agriculture" >🔗</a> **[NASA]** Media Invited to Learn About NASA Tools, Resources for Agriculture
-- <a href="https://spacenews.com/sky-perfect-jsat-picks-spacexs-starship-for-2024-satellite-launch/" >🔗</a> **[SpaceNews]** Sky Perfect JSAT picks SpaceX’s Starship for 2024 satellite launch
-- <a href="https://spacenews.com/iceye-ukraine-sar/" >🔗</a> **[SpaceNews]** Ukraine gains enhanced access to Iceye imagery and data
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T220757">2022-08-18 22:07:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T223759">2022-08-18 22:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
