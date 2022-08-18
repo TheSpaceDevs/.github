@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/" >🔗</a> **[Arstechnica]** European space chief says continent will lead in space-based solar power
+- <a href="https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/" >🔗</a> **[Arstechnica]** Europe is seriously considering a major investment in space-based solar power
 - <a href="https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/" >🔗</a> **[SpaceNews]** Mynaric hires president to oversee production of laser communications systems
 - <a href="https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/" >🔗</a> **[SpaceNews]** R3-IoT becomes Krucial to branch out of aquaculture
 - <a href="http://www.nasa.gov/press-release/nasa-to-announce-candidate-landing-regions-for-artemis-iii-moon-mission" >🔗</a> **[NASA]** NASA to Announce Candidate Landing Regions for Artemis III Moon Mission
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T131051">2022-08-18 13:10:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T135619">2022-08-18 13:56:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
