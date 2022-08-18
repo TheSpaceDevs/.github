@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iceye-ukraine-sar/" >🔗</a> **[SpaceNews]** Ukraine gains enhanced access to Iceye imagery and data
 - <a href="http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio" >🔗</a> **[NASA]** La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue
 - <a href="http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews" >🔗</a> **[NASA]** NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews
 - <a href="https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/" >🔗</a> **[Arstechnica]** Europe is seriously considering a major investment in space-based solar power
 - <a href="https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/" >🔗</a> **[SpaceNews]** Mynaric hires president to oversee production of laser communications systems
-- <a href="https://spacenews.com/scottish-startup-rebrands-as-krucial-to-branch-out-of-aquaculture/" >🔗</a> **[SpaceNews]** R3-IoT becomes Krucial to branch out of aquaculture
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T180845">2022-08-18 18:08:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T184259">2022-08-18 18:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
