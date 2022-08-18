@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/media-invited-to-learn-about-nasa-tools-resources-for-agriculture" >🔗</a> **[NASA]** Media Invited to Learn About NASA Tools, Resources for Agriculture
+- <a href="https://spacenews.com/sky-perfect-jsat-picks-spacexs-starship-for-2024-satellite-launch/" >🔗</a> **[SpaceNews]** Sky Perfect JSAT picks SpaceX’s Starship for 2024 satellite launch
 - <a href="https://spacenews.com/iceye-ukraine-sar/" >🔗</a> **[SpaceNews]** Ukraine gains enhanced access to Iceye imagery and data
 - <a href="http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio" >🔗</a> **[NASA]** La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue
 - <a href="http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews" >🔗</a> **[NASA]** NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews
-- <a href="https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/" >🔗</a> **[Arstechnica]** Europe is seriously considering a major investment in space-based solar power
-- <a href="https://spacenews.com/mynaric-hires-president-to-oversee-production-of-laser-communications-systems/" >🔗</a> **[SpaceNews]** Mynaric hires president to oversee production of laser communications systems
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T193207">2022-08-18 19:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220818T200840">2022-08-18 20:08:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
