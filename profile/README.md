@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelsat-working-to-regain-control-of-galaxy-15-satellite/" >🔗</a> **[SpaceNews]** Intelsat working to regain control of Galaxy 15 satellite
 - <a href="https://spacenews.com/big-plans-for-mini-launchers/" >🔗</a> **[SpaceNews]** Big plans for mini-launchers
 - <a href="https://spacenews.com/nasa-selects-potential-lunar-landing-sites-for-artemis-3/" >🔗</a> **[SpaceNews]** NASA selects potential lunar landing sites for Artemis 3
 - <a href="https://spaceflightnow.com/2022/08/19/spacexs-starlink-fleet-gets-53-new-satellites-with-successful-launch-from-florida/" >🔗</a> **[Spaceflight Now]** SpaceX’s Starlink fleet gets 53 new satellites with launch from Florida
 - <a href="http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano" >🔗</a> **[NASA]** La NASA identifica regiones candidatas para un alunizaje humano
-- <a href="http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon" >🔗</a> **[NASA]** NASA Identifies Candidate Regions for Landing Next Americans on Moon
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T230706">2022-08-19 23:07:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T233622">2022-08-19 23:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
