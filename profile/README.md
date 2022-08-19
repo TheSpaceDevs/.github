@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/08/19/dragon-crs-25-iss-undocking/" >🔗</a> **[Spaceflight Now]** Watch live: Dragon cargo ship ready to depart space station
+- <a href="https://spaceflightnow.com/2022/08/19/dragon-crs-25-iss-undocking/" >🔗</a> **[Spaceflight Now]** Dragon cargo ship departs space station, heads for splashdown near Florida
 - <a href="http://www.nasa.gov/press-release/nasa-sets-launch-coverage-for-artemis-mega-moon-rocket-spacecraft" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Artemis Mega Moon Rocket, Spacecraft
 - <a href="https://spacenews.com/nasa-selects-astrophysics-mission-proposals-for-study/" >🔗</a> **[SpaceNews]** NASA selects astrophysics mission proposals for study
 - <a href="https://arstechnica.com/science/2022/08/rocket-report-europe-wants-a-super-heavy-lifter-starship-nets-launch-contract/" >🔗</a> **[Arstechnica]** Rocket Report: Europe wants a super-heavy lifter, Starship nets launch contract
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T150833">2022-08-19 15:08:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T154406">2022-08-19 15:44:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
