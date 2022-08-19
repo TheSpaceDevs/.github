@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/08/19/spacexs-starlink-fleet-gets-53-new-satellites-with-successful-launch-from-florida/" >🔗</a> **[Spaceflight Now]** SpaceX’s Starlink fleet gets 53 new satellites with launch from Florida
 - <a href="http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano" >🔗</a> **[NASA]** La NASA identifica regiones candidatas para un alunizaje humano
 - <a href="http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon" >🔗</a> **[NASA]** NASA Identifies Candidate Regions for Landing Next Americans on Moon
 - <a href="https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/" >🔗</a> **[Spaceflight Now]** SpaceX rolls out Falcon 9 rocket for Starlink launch
 - <a href="http://www.nasa.gov/press-release/kentucky-oklahoma-students-to-hear-from-nasa-astronaut-in-space" >🔗</a> **[NASA]** Kentucky, Oklahoma Students to Hear from NASA Astronaut in Space
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/" >🔗</a> **[NASA Spaceflight]** SpaceX launches third Starlink mission in less than two weeks
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T203754">2022-08-19 20:37:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T210651">2022-08-19 21:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
