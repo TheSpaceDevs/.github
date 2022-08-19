@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon" >🔗</a> **[NASA]** NASA Identifies Candidate Regions for Landing Next Americans on Moon
 - <a href="http://www.nasa.gov/press-release/la-nasa-identifica-regiones-candidatas-para-un-alunizaje-humano" >🔗</a> **[NASA]** La NASA identifica regiones candidatas para un alunizaje humano
+- <a href="http://www.nasa.gov/press-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon" >🔗</a> **[NASA]** NASA Identifies Candidate Regions for Landing Next Americans on Moon
 - <a href="https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/" >🔗</a> **[Spaceflight Now]** SpaceX rolls out Falcon 9 rocket for Starlink launch
 - <a href="http://www.nasa.gov/press-release/kentucky-oklahoma-students-to-hear-from-nasa-astronaut-in-space" >🔗</a> **[NASA]** Kentucky, Oklahoma Students to Hear from NASA Astronaut in Space
-- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch third Starlink mission in less than two weeks
+- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/" >🔗</a> **[NASA Spaceflight]** SpaceX launches third Starlink mission in less than two weeks
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T193147">2022-08-19 19:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T200833">2022-08-19 20:08:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
