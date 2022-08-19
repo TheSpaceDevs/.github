@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/08/19/spacex-rolls-out-falcon-9-rocket-for-starlink-launch/" >🔗</a> **[Spaceflight Now]** SpaceX rolls out Falcon 9 rocket for Starlink launch
+- <a href="http://www.nasa.gov/press-release/kentucky-oklahoma-students-to-hear-from-nasa-astronaut-in-space" >🔗</a> **[NASA]** Kentucky, Oklahoma Students to Hear from NASA Astronaut in Space
+- <a href="https://www.nasaspaceflight.com/2022/08/spacex-starlink-4-27/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch third Starlink mission in less than two weeks
 - <a href="https://spaceflightnow.com/2022/08/19/dragon-crs-25-iss-undocking/" >🔗</a> **[Spaceflight Now]** Dragon cargo ship departs space station, heads for splashdown near Florida
 - <a href="http://www.nasa.gov/press-release/nasa-sets-launch-coverage-for-artemis-mega-moon-rocket-spacecraft" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Artemis Mega Moon Rocket, Spacecraft
-- <a href="https://spacenews.com/nasa-selects-astrophysics-mission-proposals-for-study/" >🔗</a> **[SpaceNews]** NASA selects astrophysics mission proposals for study
-- <a href="https://arstechnica.com/science/2022/08/rocket-report-europe-wants-a-super-heavy-lifter-starship-nets-launch-contract/" >🔗</a> **[Arstechnica]** Rocket Report: Europe wants a super-heavy lifter, Starship nets launch contract
-- <a href="https://spacenews.com/maxar-receives-delayed-ovzon-3-satellite-parts/" >🔗</a> **[SpaceNews]** Maxar receives delayed Ovzon 3 satellite parts
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T160956">2022-08-19 16:09:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220819T165652">2022-08-19 16:56:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
