@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/" >🔗</a> **[SpaceNews]** Space Force wargame challenges satellite operators to think critically
 - <a href="https://spacenews.com/nasa-asks-industry-for-input-on-iss-deorbit-capabilities/" >🔗</a> **[SpaceNews]** NASA asks industry for input on ISS deorbit capabilities
 - <a href="https://www.nasaspaceflight.com/2022/08/gaia-reveals-sun-evolution/" >🔗</a> **[NASA Spaceflight]** Data from ESA’s Gaia mission reveals our Sun’s future and past
 - <a href="https://spacenews.com/intelsat-working-to-regain-control-of-galaxy-15-satellite/" >🔗</a> **[SpaceNews]** Intelsat working to regain control of Galaxy 15 satellite
 - <a href="https://spacenews.com/big-plans-for-mini-launchers/" >🔗</a> **[SpaceNews]** Big plans for mini-launchers
-- <a href="https://spacenews.com/nasa-selects-potential-lunar-landing-sites-for-artemis-3/" >🔗</a> **[SpaceNews]** NASA selects potential lunar landing sites for Artemis 3
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T173646">2022-08-21 17:36:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220821T180832">2022-08-21 18:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
