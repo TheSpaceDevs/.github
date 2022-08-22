@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apls-future-vision-qa-with-robert-braun/" >🔗</a> **[SpaceNews]** APL’s Future Vision: Q&A with Robert Braun
 - <a href="https://spacenews.com/orbital-reef-passes-nasa-review/" >🔗</a> **[SpaceNews]** Orbital Reef passes NASA review
 - <a href="https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/" >🔗</a> **[Arstechnica]** For its latest images, the Webb telescope looked closer to home
 - <a href="https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/" >🔗</a> **[SpaceNews]** SpaceLink partners with Parsons for DARPA’s inter-satellite communications project
 - <a href="https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/" >🔗</a> **[SpaceNews]** China claims progress on rockets for crewed lunar landings and moon base
-- <a href="https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/" >🔗</a> **[SpaceNews]** NASA cautions planetary science funding falls short of decadal projections
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T160918">2022-08-22 16:09:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T165159">2022-08-22 16:51:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
