@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacelink-partners-with-parsons-for-darpas-inter-satellite-communications-project/" >🔗</a> **[SpaceNews]** SpaceLink partners with Parsons for DARPA’s inter-satellite communications project
+- <a href="https://spacenews.com/china-claims-progress-on-rockets-for-crewed-lunar-landings-and-moon-base/" >🔗</a> **[SpaceNews]** China claims progress on rockets for crewed lunar landings and moon base
 - <a href="https://spacenews.com/nasa-cautions-planetary-science-funding-falls-short-of-decadal-projections/" >🔗</a> **[SpaceNews]** NASA cautions planetary science funding falls short of decadal projections
 - <a href="https://spacenews.com/five-companies-win-4-8-billion-in-contracts-from-the-national-air-and-space-intelligence-center/" >🔗</a> **[SpaceNews]** Five companies win $4.8 billion in contracts from the National Air and Space Intelligence Center
 - <a href="https://www.nasaspaceflight.com/2022/08/booster-7-additional-tests/" >🔗</a> **[NASA Spaceflight]** Booster 7 prepares for additional Static Fires as future plans evolve
-- <a href="https://spacenews.com/space-force-wargame-challenges-satellite-operators-to-think-critically/" >🔗</a> **[SpaceNews]** Space Force wargame challenges satellite operators to think critically
-- <a href="https://spacenews.com/nasa-asks-industry-for-input-on-iss-deorbit-capabilities/" >🔗</a> **[SpaceNews]** NASA asks industry for input on ISS deorbit capabilities
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T121446">2022-08-22 12:14:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220822T130950">2022-08-22 13:09:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
