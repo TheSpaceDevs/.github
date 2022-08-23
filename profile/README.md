@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-taps-epsilon3-software-platform-for-space-station-development/" >🔗</a> **[SpaceNews]** Axiom taps Epsilon3 software platform for space station development
 - <a href="https://arstechnica.com/science/2022/08/chinese-view-of-nasas-moon-plans-trying-hard-to-relive-apollo-glories/" >🔗</a> **[Arstechnica]** China’s official view of NASA’s Artemis program appears to be dismissive
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test" >🔗</a> **[NASA]** NASA Invites Media to Witness World’s First Planetary Defense Test
 - <a href="http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria" >🔗</a> **[NASA]** La NASA invita a la prensa a la primera prueba de defensa planetaria
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-witness-world-s-first-planetary-defense-test" >🔗</a> **[NASA]** NASA Invites Media to Witness World’s First Planetary Defense Test
 - <a href="https://arstechnica.com/science/2022/08/the-sls-rocket-is-the-worst-thing-to-happen-to-nasa-but-maybe-also-the-best/" >🔗</a> **[Arstechnica]** The SLS rocket is the worst thing to happen to NASA—but maybe also the best?
-- <a href="https://spacenews.com/artemis-1-passes-flight-readiness-review/" >🔗</a> **[SpaceNews]** Artemis 1 passes flight readiness review
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T190554">2022-08-23 19:05:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T193157">2022-08-23 19:31:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
