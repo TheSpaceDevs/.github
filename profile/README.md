@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/08/the-sls-rocket-is-the-worst-thing-to-happen-to-nasa-but-maybe-also-the-best/" >🔗</a> **[Arstechnica]** The SLS rocket is the worst thing to happen to NASA—but maybe also the best?
+- <a href="https://spacenews.com/artemis-1-passes-flight-readiness-review/" >🔗</a> **[SpaceNews]** Artemis 1 passes flight readiness review
 - <a href="https://spacenews.com/schiess-takes-over-u-s-space-commands-coalition-forces-component/" >🔗</a> **[SpaceNews]** Schiess takes over U.S. Space Command’s coalition forces component
 - <a href="https://spacenews.com/spacex-adds-falcon-9-back-to-second-gen-starlink-launch-plan/" >🔗</a> **[SpaceNews]** SpaceX adds Falcon 9 back to second-gen Starlink launch plan
 - <a href="https://spacenews.com/apls-future-vision-qa-with-robert-braun/" >🔗</a> **[SpaceNews]** APL’s Future Vision: Q&A with Robert Braun
-- <a href="https://spacenews.com/orbital-reef-passes-nasa-review/" >🔗</a> **[SpaceNews]** Orbital Reef passes NASA review
-- <a href="https://arstechnica.com/science/2022/08/new-webb-images-of-jupiter-show-dazzling-auroras-and-two-small-moons/" >🔗</a> **[Arstechnica]** For its latest images, the Webb telescope looked closer to home
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T110650">2022-08-23 11:06:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T113359">2022-08-23 11:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
