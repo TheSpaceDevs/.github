@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-rice-university-mark-60th-anniversary-of-john-f-kennedy-speech" >🔗</a> **[NASA]** NASA, Rice University Mark 60th Anniversary of John F. Kennedy Speech
+- <a href="https://www.nasaspaceflight.com/2022/08/starship-countdown-procedures/" >🔗</a> **[NASA Spaceflight]** SpaceX teams refining countdown procedures for Starship testing
 - <a href="http://www.nasa.gov/press-release/three-companies-to-help-nasa-advance-solar-array-technology-for-moon" >🔗</a> **[NASA]** Three Companies to Help NASA Advance Solar Array Technology for Moon
 - <a href="https://spacenews.com/report-industry-has-to-face-reality-that-commercial-satellites-will-be-targets-in-war/" >🔗</a> **[SpaceNews]** Report: Industry has to face reality that commercial satellites will be targets in war
 - <a href="https://spacenews.com/axiom-taps-epsilon3-software-platform-for-space-station-development/" >🔗</a> **[SpaceNews]** Axiom taps Epsilon3 software platform for space station development
-- <a href="https://arstechnica.com/science/2022/08/chinese-view-of-nasas-moon-plans-trying-hard-to-relive-apollo-glories/" >🔗</a> **[Arstechnica]** China’s official view of NASA’s Artemis program appears to be dismissive
-- <a href="http://www.nasa.gov/press-release/la-nasa-invita-a-la-prensa-a-la-primera-prueba-de-defensa-planetaria" >🔗</a> **[NASA]** La NASA invita a la prensa a la primera prueba de defensa planetaria
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T213535">2022-08-23 21:35:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T220720">2022-08-23 22:07:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
