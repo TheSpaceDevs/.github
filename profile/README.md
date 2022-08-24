@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-t-mobile-plans-increase-connectivity/" >🔗</a> **[Teslarati]** SpaceX & T-Mobile plan to announce plans to increase connectivity
+- <a href="https://spacenews.com/megaconstellation-startup-e-space-expands-leadership-team/" >🔗</a> **[SpaceNews]** Megaconstellation startup E-Space expands leadership team
 - <a href="https://spacenews.com/astrobotic-wins-nasa-funding-for-cuberover-mission/" >🔗</a> **[SpaceNews]** Astrobotic wins NASA funding for CubeRover mission
 - <a href="https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/" >🔗</a> **[SpaceNews]** Scout Space and university labs win contracts for on-orbit servicing project
 - <a href="https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/" >🔗</a> **[SpaceNews]** Starship uncrewed lunar lander test a “skeleton” of crewed lander
-- <a href="https://www.teslarati.com/spacex-starship-booster-launch-pad-fifth-time/" >🔗</a> **[Teslarati]** SpaceX Starship booster heads to launch pad for the fifth time
-- <a href="http://www.nasa.gov/press-release/nasa-rice-university-mark-60th-anniversary-of-john-f-kennedy-speech" >🔗</a> **[NASA]** NASA, Rice University Mark 60th Anniversary of John F. Kennedy Speech
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T173802">2022-08-24 17:38:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T181945">2022-08-24 18:19:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
