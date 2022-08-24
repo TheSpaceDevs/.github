@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/saturn-test-flights-to-sls/" >🔗</a> **[NASA Spaceflight]** Following in the footsteps of Saturn, SLS prepares for test flight
 - <a href="https://www.teslarati.com/spacex-t-mobile-plans-increase-connectivity/" >🔗</a> **[Teslarati]** SpaceX & T-Mobile plan to announce plans to increase connectivity
 - <a href="https://spacenews.com/megaconstellation-startup-e-space-expands-leadership-team/" >🔗</a> **[SpaceNews]** Megaconstellation startup E-Space expands leadership team
 - <a href="https://spacenews.com/astrobotic-wins-nasa-funding-for-cuberover-mission/" >🔗</a> **[SpaceNews]** Astrobotic wins NASA funding for CubeRover mission
 - <a href="https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/" >🔗</a> **[SpaceNews]** Scout Space and university labs win contracts for on-orbit servicing project
-- <a href="https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/" >🔗</a> **[SpaceNews]** Starship uncrewed lunar lander test a “skeleton” of crewed lander
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T181945">2022-08-24 18:19:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T185059">2022-08-24 18:50:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
