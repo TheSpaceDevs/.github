@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/scout-space-and-university-labs-win-contracts-for-on-orbit-servicing-project/" >🔗</a> **[SpaceNews]** Scout Space and university labs win contracts for on-orbit servicing project
 - <a href="https://spacenews.com/starship-uncrewed-lunar-lander-test-a-skeleton-of-crewed-lander/" >🔗</a> **[SpaceNews]** Starship uncrewed lunar lander test a “skeleton” of crewed lander
 - <a href="https://www.teslarati.com/spacex-starship-booster-launch-pad-fifth-time/" >🔗</a> **[Teslarati]** SpaceX Starship booster heads to launch pad for the fifth time
 - <a href="http://www.nasa.gov/press-release/nasa-rice-university-mark-60th-anniversary-of-john-f-kennedy-speech" >🔗</a> **[NASA]** NASA, Rice University Mark 60th Anniversary of John F. Kennedy Speech
 - <a href="https://www.nasaspaceflight.com/2022/08/starship-countdown-procedures/" >🔗</a> **[NASA Spaceflight]** SpaceX teams refining countdown procedures for Starship testing
-- <a href="http://www.nasa.gov/press-release/three-companies-to-help-nasa-advance-solar-array-technology-for-moon" >🔗</a> **[NASA]** Three Companies to Help NASA Advance Solar Array Technology for Moon
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T121510">2022-08-24 12:15:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220824T130444">2022-08-24 13:04:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
