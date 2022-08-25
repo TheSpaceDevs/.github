@@ -98,11 +98,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-falcon-9-starlink-launch-before-nasa-moon-rocket/" >🔗</a> **[Teslarati]** SpaceX to squeeze in Falcon 9 Starlink launch before NASA’s Moon rocket debut
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T071731">2022-08-25 07:17:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T073944">2022-08-25 07:39:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
