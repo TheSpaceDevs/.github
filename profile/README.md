@@ -89,22 +89,23 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** U.S. Army signs agreement to test space data from HawkEye 360 satellites
+- <a href="https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires repaired booster for weekend Starlink launch
 - <a href="https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX readies Falcon 9 rocket for weekend launch
 - <a href="https://spacenews.com/esa-ready-for-historic-artemis-1-mission/" >🔗</a> **[SpaceNews]** ESA ready for “historic” Artemis 1 mission
 - <a href="https://spacenews.com/nasa-astronaut-ready-for-soyuz-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA astronaut ready for Soyuz flight to ISS
-- <a href="https://arstechnica.com/science/2022/08/former-nasa-official-on-trying-to-stop-sls-there-was-just-such-visible-hostility/" >🔗</a> **[Arstechnica]** Former NASA official on trying to stop SLS: “There was just such visible hostility”
-- <a href="https://spacenews.com/team-miles-cubesat-artemis-1/" >🔗</a> **[SpaceNews]** Team Miles prepares for inflight test of new thruster technology
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-falcon-9-starlink-launch-before-nasa-moon-rocket/" >🔗</a> **[Teslarati]** SpaceX to squeeze in Falcon 9 Starlink launch before NASA’s Moon rocket debut
 - <a href="https://spaceflightnow.com/2022/08/25/watch-live-spacex-readies-falcon-9-rocket-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX readies Falcon 9 rocket for weekend launch
+- <a href="https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires repaired booster for weekend Starlink launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T160939">2022-08-25 16:09:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T165335">2022-08-25 16:53:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
