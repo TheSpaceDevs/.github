@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/" >🔗</a> **[NASA Spaceflight]** Work on Orion capsules continue as Artemis I prepares to launch
+- <a href="https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/" >🔗</a> **[SpaceNews]** Turion Space licensed to sell commercial SSA data
+- <a href="https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/" >🔗</a> **[Spaceflight Now]** Orion crew module hatch closed for Artemis 1 test flight
 - <a href="https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/" >🔗</a> **[SpaceNews]** NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’
 - <a href="https://spacenews.com/starliner-crewed-test-flight-slips-to-early-2023/" >🔗</a> **[SpaceNews]** Starliner crewed test flight slips to early 2023
-- <a href="http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space" >🔗</a> **[NASA]** Colorado, Indiana Students to Hear from NASA Astronaut in Space
-- <a href="https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/" >🔗</a> **[SpaceNews]** FCC Commissioner criticizes Starlink’s $900 million subsidy rejection
-- <a href="https://mars.nasa.gov/news/9252/" >🔗</a> **[NASA]** NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T223730">2022-08-25 22:37:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T234334">2022-08-25 23:43:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
