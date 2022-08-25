@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nro-to-add-more-commercial-imagery-providers-as-it-builds-a-hybrid-architecture/" >🔗</a> **[SpaceNews]** NRO to add more commercial imagery providers as it builds a ‘hybrid architecture’
+- <a href="https://spacenews.com/starliner-crewed-test-flight-slips-to-early-2023/" >🔗</a> **[SpaceNews]** Starliner crewed test flight slips to early 2023
 - <a href="http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space" >🔗</a> **[NASA]** Colorado, Indiana Students to Hear from NASA Astronaut in Space
 - <a href="https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/" >🔗</a> **[SpaceNews]** FCC Commissioner criticizes Starlink’s $900 million subsidy rejection
 - <a href="https://mars.nasa.gov/news/9252/" >🔗</a> **[NASA]** NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater
-- <a href="http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem" >🔗</a> **[NASA]** NASA Awards Services Contract to Help Immerse Students in STEM
-- <a href="https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** U.S. Army signs agreement to test space data from HawkEye 360 satellites
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T213612">2022-08-25 21:36:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T220804">2022-08-25 22:08:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
