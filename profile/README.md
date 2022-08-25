@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/colorado-indiana-students-to-hear-from-nasa-astronaut-in-space" >🔗</a> **[NASA]** Colorado, Indiana Students to Hear from NASA Astronaut in Space
 - <a href="https://spacenews.com/fcc-commissioner-criticizes-starlinks-900-million-subsidy-rejection/" >🔗</a> **[SpaceNews]** FCC Commissioner criticizes Starlink’s $900 million subsidy rejection
 - <a href="https://mars.nasa.gov/news/9252/" >🔗</a> **[NASA]** NASA's Perseverance Makes New Discoveries in Mars' Jezero Crater
 - <a href="http://www.nasa.gov/press-release/nasa-awards-services-contract-to-help-immerse-students-in-stem" >🔗</a> **[NASA]** NASA Awards Services Contract to Help Immerse Students in STEM
 - <a href="https://spacenews.com/u-s-army-signs-agreement-to-test-space-data-from-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** U.S. Army signs agreement to test space data from HawkEye 360 satellites
-- <a href="https://spaceflightnow.com/2022/08/25/falcon-9-starlink-4-23-static-fire/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires repaired booster for weekend Starlink launch
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T203818">2022-08-25 20:38:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220825T210710">2022-08-25 21:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
