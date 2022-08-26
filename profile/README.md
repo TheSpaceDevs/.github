@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-makes-progress-in-reusability-with-secretive-second-flight-of-suborbital-spaceplane/" >🔗</a> **[SpaceNews]** China makes progress in reusability with secretive second flight of suborbital spaceplane
 - <a href="https://spacenews.com/lunar-trailblazer-faces-nasa-review-after-cost-overruns/" >🔗</a> **[SpaceNews]** Lunar Trailblazer faces NASA review after cost overruns
 - <a href="https://www.teslarati.com/spacex-nasa-astronaut-launch-russian-cosmonaut/" >🔗</a> **[Teslarati]** SpaceX, NASA announce date for next Crew Dragon astronaut launch
 - <a href="https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/" >🔗</a> **[Arstechnica]** Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage
 - <a href="https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/" >🔗</a> **[NASA Spaceflight]** Work on Orion capsules continue as Artemis I prepares to launch
-- <a href="https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/" >🔗</a> **[SpaceNews]** Turion Space licensed to sell commercial SSA data
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T090727">2022-08-26 09:07:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T093742">2022-08-26 09:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
