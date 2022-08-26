@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lunar-trailblazer-faces-nasa-review-after-cost-overruns/" >🔗</a> **[SpaceNews]** Lunar Trailblazer faces NASA review after cost overruns
 - <a href="https://www.teslarati.com/spacex-nasa-astronaut-launch-russian-cosmonaut/" >🔗</a> **[Teslarati]** SpaceX, NASA announce date for next Crew Dragon astronaut launch
 - <a href="https://arstechnica.com/science/2022/08/forget-5g-wireless-spacex-and-t-mobile-want-to-offer-zero-g-coverage/" >🔗</a> **[Arstechnica]** Forget 5G wireless, SpaceX and T-Mobile want to offer Zero-G coverage
 - <a href="https://www.nasaspaceflight.com/2022/08/orion-capsules-artemis-i-prepares-launch/" >🔗</a> **[NASA Spaceflight]** Work on Orion capsules continue as Artemis I prepares to launch
 - <a href="https://spacenews.com/turion-space-licensed-to-sell-commercial-ssa-data/" >🔗</a> **[SpaceNews]** Turion Space licensed to sell commercial SSA data
-- <a href="https://spaceflightnow.com/2022/08/25/orion-crew-module-hatch-closed-for-artemis-1-test-flight/" >🔗</a> **[Spaceflight Now]** Orion crew module hatch closed for Artemis 1 test flight
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T081030">2022-08-26 08:10:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220826T084334">2022-08-26 08:43:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
