@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/countdown-for-first-artemis-1-launch-attempt-begins/" >🔗</a> **[SpaceNews]** Countdown for first Artemis 1 launch attempt begins
 - <a href="https://www.nasaspaceflight.com/2022/08/artemis-i-countdown-begins/" >🔗</a> **[NASA Spaceflight]** Aiming for the Moon: Artemis I countdown begins for historic flight
 - <a href="https://spacenews.com/us-appeals-court-upholds-starlink-deployment-change/" >🔗</a> **[SpaceNews]** US appeals court upholds Starlink deployment change
 - <a href="https://www.nasaspaceflight.com/2022/08/european-service-module/" >🔗</a> **[NASA Spaceflight]** Airbus highlights European Service Module work for Artemis
 - <a href="https://www.teslarati.com/spacex-sattelite-deployment-backed-by-court/" >🔗</a> **[Teslarati]** SpaceX satellite deployment plan backed by U.S. appeals court
-- <a href="https://spacenews.com/cubesats-to-hitch-rides-on-artemis-1/" >🔗</a> **[SpaceNews]** Cubesats to hitch rides on Artemis 1
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T180908">2022-08-27 18:09:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220827T184207">2022-08-27 18:42:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
