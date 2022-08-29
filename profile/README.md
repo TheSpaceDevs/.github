@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-continues-to-study-issues-that-caused-artemis-1-launch-scrub/" >🔗</a> **[SpaceNews]** NASA continues to study issues that caused Artemis 1 launch scrub
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission-status" >🔗</a> **[NASA]** NASA to Provide Update on Artemis I Moon Mission Status
 - <a href="https://spacenews.com/new-head-of-afrl-space-vehicles-looking-for-talent-to-help-push-technology-forward/" >🔗</a> **[SpaceNews]** New head of AFRL space vehicles looking for talent to help push technology forward
 - <a href="http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt" >🔗</a> **[NASA]** NASA Waves Off First Artemis I Launch Attempt
 - <a href="https://arstechnica.com/science/2022/08/warning-sign-nasa-never-finished-a-fueling-test-before-todays-sls-launch-attempt/" >🔗</a> **[Arstechnica]** Warning sign? NASA never finished a fueling test before today’s SLS launch attempt
-- <a href="http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt-to-provide-media-update" >🔗</a> **[NASA]** NASA Waves Off First Artemis I Launch Attempt, to Provide Media Update
-- <a href="https://spacenews.com/first-artemis-1-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** First Artemis 1 launch attempt scrubbed
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T210712">2022-08-29 21:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T213625">2022-08-29 21:36:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
