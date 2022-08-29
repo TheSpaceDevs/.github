@@ -91,9 +91,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="http://www.nasa.gov/press-release/nasa-waves-off-first-artemis-i-launch-attempt-to-provide-media-update" >🔗</a> **[NASA]** NASA Waves Off First Artemis I Launch Attempt, to Provide Media Update
 - <a href="https://spacenews.com/first-artemis-1-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** First Artemis 1 launch attempt scrubbed
+- <a href="https://www.nasaspaceflight.com/2022/08/artemis-i-launch/" >🔗</a> **[NASASpaceflight]** SLS scrubs first Artemis I launch attempt
 - <a href="https://arstechnica.com/science/2022/08/the-final-countdown-begins-for-nasas-hulking-new-rocket/" >🔗</a> **[Arstechnica]** NASA scrubs first SLS launch attempt due to engine issue [Updated]
 - <a href="https://spacenews.com/china-plans-reusable-long-march-2d/" >🔗</a> **[SpaceNews]** China plans to make aging Long March rocket reusable and non-toxic
-- <a href="https://www.teslarati.com/spacex-falcon-9-payload-record-repaired-booster/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket breaks payload mass record with repaired booster
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T171358">2022-08-29 17:13:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T174055">2022-08-29 17:40:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
