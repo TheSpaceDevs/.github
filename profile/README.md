@@ -91,9 +91,9 @@ into *a Lunar Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/sls-ready-for-long-delayed-first-launch/" >🔗</a> **[SpaceNews]** SLS ready for long-delayed first launch
 - <a href="https://www.nasaspaceflight.com/2022/08/artemis-i-launch/" >🔗</a> **[NASA Spaceflight]** The Artemis generation begins, SLS ready for debut flight
+- <a href="https://spaceflightnow.com/2022/08/28/photos-aerial-survey-of-the-cape-canaveral-spaceport-on-the-eve-of-artemis-1/" >🔗</a> **[Spaceflight Now]** Photos: Aerial survey of Kennedy Space Center on the eve of Artemis 1
+- <a href="https://spaceflightnow.com/2022/08/28/artemis-1-flight-to-moon-depends-on-precision-rocket-firings-to-pull-off-a-complex-trajectory/" >🔗</a> **[Spaceflight Now]** Artemis 1 flight to moon depends on precision rocket firings to pull off a complex trajectory
 - <a href="https://spaceflightnow.com/2022/08/27/nasas-most-powerful-rocket-poised-for-launch-on-historic-artemis-1-moon-mission/" >🔗</a> **[Spaceflight Now]** NASA’s most powerful rocket poised for launch on Artemis 1 moon mission
-- <a href="https://www.teslarati.com/starlink-available-southern-norway/" >🔗</a> **[Teslarati]** Starlink is now available in southern regions of Norway
-- <a href="https://spacenews.com/dawn-grants-2022/" >🔗</a> **[SpaceNews]** Grants fuel Dawn Aerospace propulsion development
 
 
 ### Launch-related News 🚀
@@ -202,7 +202,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220828T233818">2022-08-28 23:38:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T004441">2022-08-29 00:44:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
