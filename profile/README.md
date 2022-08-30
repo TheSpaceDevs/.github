@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/" >🔗</a> **[Teslarati]** Royal Caribbean will be the first in the cruise industry to adopt Starlink
 - <a href="https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to attempt 150th Falcon recovery on Starlink Group 3-4
 - <a href="https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/" >🔗</a> **[SpaceNews]** South Korea seeks $459 million for lunar lander project
 - <a href="https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/" >🔗</a> **[SpaceNews]** Orbit Fab announces in-space hydrazine refueling service
 - <a href="https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/" >🔗</a> **[SpaceNews]** Astra to sell electric thrusters to Airbus OneWeb Satellites
-- <a href="https://spaceflightnow.com/2022/08/29/sls-launch-scrubbed-after-weather-delay-engine-cooling-issue/" >🔗</a> **[Spaceflight Now]** SLS launch scrubbed after weather delay, engine cooling issue
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T213506">2022-08-30 21:35:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T220820">2022-08-30 22:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
