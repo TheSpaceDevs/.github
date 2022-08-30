@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-to-sell-electric-thrusters-to-airbus-oneweb-satellites/" >🔗</a> **[SpaceNews]** Astra to sell electric thrusters to Airbus OneWeb Satellites
 - <a href="https://spaceflightnow.com/2022/08/29/sls-launch-scrubbed-after-weather-delay-engine-cooling-issue/" >🔗</a> **[Spaceflight Now]** SLS launch scrubbed after weather delay, engine cooling issue
 - <a href="https://spacenews.com/direct-to-cell-startups-welcome-musks-arrival/" >🔗</a> **[SpaceNews]** Direct-to-cell startups welcome Musk’s arrival
 - <a href="https://spacenews.com/nasa-continues-to-study-issues-that-caused-artemis-1-launch-scrub/" >🔗</a> **[SpaceNews]** NASA continues to study issues that caused Artemis 1 launch scrub
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission-status" >🔗</a> **[NASA]** NASA to Provide Update on Artemis I Moon Mission Status
-- <a href="https://spacenews.com/new-head-of-afrl-space-vehicles-looking-for-talent-to-help-push-technology-forward/" >🔗</a> **[SpaceNews]** New head of AFRL space vehicles looking for talent to help push technology forward
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T100806">2022-08-30 10:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T103956">2022-08-30 10:39:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
