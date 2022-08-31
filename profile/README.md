@@ -45,6 +45,7 @@ into *a Suborbital
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T133000">2022-08-31 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-23&location=Corn Ranch, USA&dates=20220831T133000Z%2F20220831T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-23** from Corn Ranch, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T234800">2022-09-02 23:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20220902T234800Z%2F20220903T000400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T181700">2022-09-03 18:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20220903T181700Z%2F20220903T201700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T003200">2022-09-05 00:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20 &amp; Varuna&location=Cape Canaveral, FL, USA&dates=20220905T003200Z%2F20220905T003200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-20 & Varuna** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T214500">2022-09-06 21:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Eutelsat Konnect VHTS&location=Kourou, French Guiana&dates=20220906T214500Z%2F20220906T214500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Eutelsat Konnect VHTS** from Kourou, French Guiana.
@@ -53,7 +54,6 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T220000">2022-09-11 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Flight Two&location=Vandenberg SFB, CA, USA&dates=20220911T220000Z%2F20220911T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Flight Two** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120000">2022-09-13 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220913T120000Z%2F20220913T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135400">2022-09-21 13:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135400Z%2F20220921T135400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-22** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T000000">2022-09-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220924T000000Z%2F20220924T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-91** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/" >🔗</a> **[SpaceNews]** Chinese megawatt-level space nuclear reactor passes review
 - <a href="https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/" >🔗</a> **[SpaceNews]** Starlink secures first cruise line customer with Royal Caribbean
 - <a href="https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/" >🔗</a> **[Teslarati]** Royal Caribbean will be the first in the cruise industry to adopt Starlink
 - <a href="https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/" >🔗</a> **[NASASpaceflight]** SpaceX nails 150th Falcon recovery attempt on Starlink Group 3-4
 - <a href="https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/" >🔗</a> **[SpaceNews]** South Korea seeks $459 million for lunar lander project
-- <a href="https://spacenews.com/orbit-fab-announces-in-space-hydrazine-refueling-service/" >🔗</a> **[SpaceNews]** Orbit Fab announces in-space hydrazine refueling service
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T100809">2022-08-31 10:08:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T104052">2022-08-31 10:40:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
