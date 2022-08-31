@@ -22,10 +22,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T133000">2022-08-31 13:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133000">2022-09-01 13:30:00 UTC</a>.  Until
 then, this pad will have been used for 22
 out of 22 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBD* 🟧 . The mission type is
 *Suborbital* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -44,7 +44,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T133000">2022-08-31 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-23&location=Corn Ranch, USA&dates=20220831T133000Z%2F20220831T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-23** from Corn Ranch, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T133000">2022-09-01 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-23&location=Corn Ranch, USA&dates=20220901T133000Z%2F20220901T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-23** from Corn Ranch, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T234800">2022-09-02 23:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20220902T234800Z%2F20220903T000400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T181700">2022-09-03 18:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20220903T181700Z%2F20220903T201700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T003200">2022-09-05 00:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20 &amp; Varuna&location=Cape Canaveral, FL, USA&dates=20220905T003200Z%2F20220905T003200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-20 & Varuna** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine
 - <a href="https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/" >🔗</a> **[SpaceNews]** U.S. looking to encourage more countries to join ASAT testing ban
 - <a href="https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/" >🔗</a> **[SpaceNews]** Chinese megawatt-level space nuclear reactor passes review
 - <a href="https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/" >🔗</a> **[SpaceNews]** Starlink secures first cruise line customer with Royal Caribbean
 - <a href="https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/" >🔗</a> **[Teslarati]** Royal Caribbean will be the first in the cruise industry to adopt Starlink
-- <a href="https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/" >🔗</a> **[NASASpaceflight]** SpaceX nails 150th Falcon recovery attempt on Starlink Group 3-4
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T113441">2022-08-31 11:34:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T121626">2022-08-31 12:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
