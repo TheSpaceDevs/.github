@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-looking-to-encourage-more-countries-to-join-asat-testing-ban/" >🔗</a> **[SpaceNews]** U.S. looking to encourage more countries to join ASAT testing ban
 - <a href="https://spacenews.com/chinese-megawatt-level-space-nuclear-reactor-passes-review/" >🔗</a> **[SpaceNews]** Chinese megawatt-level space nuclear reactor passes review
 - <a href="https://spacenews.com/starlink-secures-first-cruise-line-customer-with-royal-caribbean/" >🔗</a> **[SpaceNews]** Starlink secures first cruise line customer with Royal Caribbean
 - <a href="https://www.teslarati.com/royal-caribbean-will-be-the-first-in-the-cruise-industry-to-adopt-starlink/" >🔗</a> **[Teslarati]** Royal Caribbean will be the first in the cruise industry to adopt Starlink
 - <a href="https://www.nasaspaceflight.com/2022/08/starlink-3-4-launch/" >🔗</a> **[NASASpaceflight]** SpaceX nails 150th Falcon recovery attempt on Starlink Group 3-4
-- <a href="https://spacenews.com/south-korea-seeks-459-million-for-lunar-lander-project/" >🔗</a> **[SpaceNews]** South Korea seeks $459 million for lunar lander project
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T110633">2022-08-31 11:06:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T113441">2022-08-31 11:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
