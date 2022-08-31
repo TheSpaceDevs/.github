@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-command-calls-for-investment-in-technologies-for-deep-space-missions/" >🔗</a> **[SpaceNews]** U.S. Space Command calls for investment in technologies for deep space missions
 - <a href="http://www.nasa.gov/press-release/nasa-axiom-sign-second-private-astronaut-mission-to-space-station-order" >🔗</a> **[NASA]** NASA, Axiom Sign Second Private Astronaut Mission to Space Station Order
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-next-launch-attempt" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis I Moon Mission Next Launch Attempt
 - <a href="https://arstechnica.com/science/2022/08/nasa-will-make-second-attempt-to-launch-the-sls-rocket-on-saturday/" >🔗</a> **[Arstechnica]** A faulty sensor may have scrubbed the launch of NASA’s massive SLS rocket
 - <a href="https://spacenews.com/nasa-and-china-are-eyeing-the-same-landing-sites-near-the-lunar-south-pole/" >🔗</a> **[SpaceNews]** NASA and China are eyeing the same landing sites near the lunar south pole
-- <a href="https://spacenews.com/ursa-major-wins-3-6-million-u-s-air-force-contract-to-flight-qualify-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major wins $3.6 million U.S. Air Force contract to flight-qualify rocket engine
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T190621">2022-08-31 19:06:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T193254">2022-08-31 19:32:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
