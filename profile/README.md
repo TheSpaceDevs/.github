@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-releases-military-space-power-doctrine/" >🔗</a> **[SpaceNews]** UK releases military ‘space power’ doctrine
+- <a href="https://spacenews.com/spire-thrustme/" >🔗</a> **[SpaceNews]** Spire to add ThrustMe propulsion to Lemur cubesats
 - <a href="https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/" >🔗</a> **[Spaceflight Now]** Webb telescope eyes Phantom Galaxy with mid-infrared camera
 - <a href="http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch" >🔗</a> **[NASA]** NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch
 - <a href="https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/" >🔗</a> **[SpaceNews]** Space Force building ground station in Alaska ahead of launch of Arctic satcom mission
-- <a href="https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/" >🔗</a> **[SpaceNews]** Startups Scout and Privateer to collaborate on space-tracking technologies
-- <a href="https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/" >🔗</a> **[Spaceflight Now]** Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T203754">2022-09-01 20:37:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T210743">2022-09-01 21:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
