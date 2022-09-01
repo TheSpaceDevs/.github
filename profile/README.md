@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-filing-massive-building-bastrop/" >🔗</a> **[Teslarati]** SpaceX filing shows plans for massive building in Bastrop County
 - <a href="https://www.teslarati.com/spacex-targeting-100-launches-in-2023/" >🔗</a> **[Teslarati]** SpaceX targeting 100 launches in 2023
 - <a href="https://spacenews.com/uk-releases-military-space-power-doctrine/" >🔗</a> **[SpaceNews]** UK releases military ‘space power’ doctrine
 - <a href="https://spacenews.com/spire-thrustme/" >🔗</a> **[SpaceNews]** Spire to add ThrustMe propulsion to Lemur cubesats
 - <a href="https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/" >🔗</a> **[Spaceflight Now]** Webb telescope eyes Phantom Galaxy with mid-infrared camera
-- <a href="http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch" >🔗</a> **[NASA]** NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T230833">2022-09-01 23:08:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T234019">2022-09-01 23:40:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
