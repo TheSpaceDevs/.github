@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Firefly hires new CEO ahead of second launch
 - <a href="https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA and SpaceX finalize extension of commercial crew contract
 - <a href="https://spacenews.com/intelsats-galaxy-15-mutes-payload-as-its-drifts-into-other-satellite-paths/" >🔗</a> **[SpaceNews]** Intelsat’s Galaxy 15 mutes payload as it drifts into other satellite paths
 - <a href="https://spacenews.com/u-s-space-command-calls-for-investment-in-technologies-for-deep-space-missions/" >🔗</a> **[SpaceNews]** U.S. Space Command calls for investment in technologies for deep space missions
 - <a href="http://www.nasa.gov/press-release/nasa-axiom-sign-second-private-astronaut-mission-to-space-station-order" >🔗</a> **[NASA]** NASA, Axiom Sign Second Private Astronaut Mission to Space Station Order
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-next-launch-attempt" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis I Moon Mission Next Launch Attempt
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T110650">2022-09-01 11:06:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T113500">2022-09-01 11:35:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
