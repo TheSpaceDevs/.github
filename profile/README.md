@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/" >🔗</a> **[Spaceflight Now]** Webb telescope eyes Phantom Galaxy with mid-infrared camera
+- <a href="http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch" >🔗</a> **[NASA]** NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch
 - <a href="https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/" >🔗</a> **[SpaceNews]** Space Force building ground station in Alaska ahead of launch of Arctic satcom mission
 - <a href="https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/" >🔗</a> **[SpaceNews]** Startups Scout and Privateer to collaborate on space-tracking technologies
 - <a href="https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/" >🔗</a> **[Spaceflight Now]** Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio
-- <a href="https://spacenews.com/startup-oq-technology-raises-13-million-to-expand-satellite-iot-network/" >🔗</a> **[SpaceNews]** Startup OQ Technology raises $13 million to expand satellite IoT network
-- <a href="https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/" >🔗</a> **[Spaceflight Now]** Video: Interview with former NASA astronaut Doug Hurley
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T181011">2022-09-01 18:10:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T184530">2022-09-01 18:45:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
