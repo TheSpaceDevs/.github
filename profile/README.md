@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-building-ground-station-in-alaska-ahead-of-launch-of-arctic-satcom-mission/" >🔗</a> **[SpaceNews]** Space Force building ground station in Alaska ahead of launch of Arctic satcom mission
+- <a href="https://spacenews.com/startups-scout-and-privateer-to-collaborate-on-space-tracking-technologies/" >🔗</a> **[SpaceNews]** Startups Scout and Privateer to collaborate on space-tracking technologies
 - <a href="https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/" >🔗</a> **[Spaceflight Now]** Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio
 - <a href="https://spacenews.com/startup-oq-technology-raises-13-million-to-expand-satellite-iot-network/" >🔗</a> **[SpaceNews]** Startup OQ Technology raises $13 million to expand satellite IoT network
 - <a href="https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/" >🔗</a> **[Spaceflight Now]** Video: Interview with former NASA astronaut Doug Hurley
-- <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-russian-spacewalk" >🔗</a> **[NASA]** NASA Sets TV Coverage for Russian Spacewalk
-- <a href="https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/" >🔗</a> **[Arstechnica]** NASA will pay Boeing more than twice as much as SpaceX for crew seats
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T171452">2022-09-01 17:14:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T174128">2022-09-01 17:41:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
