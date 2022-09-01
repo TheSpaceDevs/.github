@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/09/01/video-replay-of-artemis-1-wet-dress-rehearsal-now-with-countdown-audio/" >🔗</a> **[Spaceflight Now]** Video: Replay of Artemis 1 wet dress rehearsal, now with countdown audio
+- <a href="https://spacenews.com/startup-oq-technology-raises-13-million-to-expand-satellite-iot-network/" >🔗</a> **[SpaceNews]** Startup OQ Technology raises $13 million to expand satellite IoT network
 - <a href="https://spaceflightnow.com/2022/09/01/video-interview-with-former-nasa-astronaut-doug-hurley/" >🔗</a> **[Spaceflight Now]** Video: Interview with former NASA astronaut Doug Hurley
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-russian-spacewalk" >🔗</a> **[NASA]** NASA Sets TV Coverage for Russian Spacewalk
 - <a href="https://arstechnica.com/science/2022/09/nasa-will-pay-boeing-more-than-twice-as-much-as-spacex-for-crew-seats/" >🔗</a> **[Arstechnica]** NASA will pay Boeing more than twice as much as SpaceX for crew seats
-- <a href="https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Firefly hires new CEO ahead of second launch
-- <a href="https://spacenews.com/nasa-and-spacex-finalize-extension-of-commercial-crew-contract/" >🔗</a> **[SpaceNews]** NASA and SpaceX finalize extension of commercial crew contract
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T160933">2022-09-01 16:09:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220901T165517">2022-09-01 16:55:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
