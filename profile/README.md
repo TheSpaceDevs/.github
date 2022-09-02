@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/09/02/lunar-demo-mission-to-provide-stress-test-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** Lunar demo mission to provide “stress test” for NASA’s Artemis moon program
 - <a href="https://spaceflightnow.com/2022/09/02/watch-live-russian-cosmonauts-on-spacewalk-outside-space-station/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts on spacewalk outside space station
 - <a href="https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/" >🔗</a> **[NASASpaceflight]** Airbus discusses technical aspects of the European Service Module
 - <a href="https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/" >🔗</a> **[Arstechnica]** Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go
 - <a href="https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** Countdown begins for second Artemis 1 launch attempt
-- <a href="https://www.teslarati.com/spacex-filing-massive-building-bastrop/" >🔗</a> **[Teslarati]** SpaceX filing shows plans for massive building in Bastrop County
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T230732">2022-09-02 23:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T233943">2022-09-02 23:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
