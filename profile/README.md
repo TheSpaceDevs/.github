@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** Countdown begins for second Artemis 1 launch attempt
 - <a href="https://www.teslarati.com/spacex-filing-massive-building-bastrop/" >🔗</a> **[Teslarati]** SpaceX filing shows plans for massive building in Bastrop County
 - <a href="https://www.teslarati.com/spacex-targeting-100-launches-in-2023/" >🔗</a> **[Teslarati]** SpaceX targeting 100 launches in 2023
 - <a href="https://spacenews.com/uk-releases-military-space-power-doctrine/" >🔗</a> **[SpaceNews]** UK releases military ‘space power’ doctrine
 - <a href="https://spacenews.com/spire-thrustme/" >🔗</a> **[SpaceNews]** Spire to add ThrustMe propulsion to Lemur cubesats
-- <a href="https://spaceflightnow.com/2022/09/01/webb-telescope-eyes-phantom-galaxy-with-mid-infrared-camera/" >🔗</a> **[Spaceflight Now]** Webb telescope eyes Phantom Galaxy with mid-infrared camera
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T080948">2022-09-02 08:09:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T084347">2022-09-02 08:43:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
