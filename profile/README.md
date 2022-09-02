@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/" >🔗</a> **[NASASpaceflight]** Airbus discusses technical aspects of the European Service Module
 - <a href="https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/" >🔗</a> **[Arstechnica]** Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go
 - <a href="https://spacenews.com/countdown-begins-for-second-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** Countdown begins for second Artemis 1 launch attempt
 - <a href="https://www.teslarati.com/spacex-filing-massive-building-bastrop/" >🔗</a> **[Teslarati]** SpaceX filing shows plans for massive building in Bastrop County
 - <a href="https://www.teslarati.com/spacex-targeting-100-launches-in-2023/" >🔗</a> **[Teslarati]** SpaceX targeting 100 launches in 2023
-- <a href="https://spacenews.com/uk-releases-military-space-power-doctrine/" >🔗</a> **[SpaceNews]** UK releases military ‘space power’ doctrine
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T140647">2022-09-02 14:06:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220902T143532">2022-09-02 14:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
