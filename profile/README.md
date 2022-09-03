@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/" >🔗</a> **[Arstechnica]** After careful consideration, NASA ready to launch SLS rocket as is
 - <a href="https://www.nasaspaceflight.com/2022/09/artemis-i-launch/" >🔗</a> **[NASASpaceflight]** SLS ready for second attempt as Artemis I launch nears
 - <a href="https://spaceflightnow.com/2022/09/02/lunar-demo-mission-to-provide-stress-test-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** Lunar demo mission to provide “stress test” for NASA’s Artemis moon program
 - <a href="https://spaceflightnow.com/2022/09/02/watch-live-russian-cosmonauts-on-spacewalk-outside-space-station/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts on spacewalk outside space station
 - <a href="https://www.nasaspaceflight.com/2022/09/airbus-discusses-esm/" >🔗</a> **[NASASpaceflight]** Airbus discusses technical aspects of the European Service Module
-- <a href="https://arstechnica.com/science/2022/09/rocket-report-used-electron-engine-gets-re-tested-canadian-spaceport-is-a-go/" >🔗</a> **[Arstechnica]** Rocket Report: Used Electron engine gets retested; Canadian spaceport is a go
 
 
 ### Launch-related News 🚀
@@ -202,7 +202,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T110601">2022-09-03 11:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T113324">2022-09-03 11:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
