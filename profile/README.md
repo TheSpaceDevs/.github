@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday" >🔗</a> **[NASA]** NASA to Provide Artemis I Launch Update Saturday
 - <a href="https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Second Artemis 1 launch attempt scrubbed
 - <a href="https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]
 - <a href="https://www.space.com/solar-orbiter-venus-flyby-3-magnetic-field" >🔗</a> **[Space.com]** Solar Orbiter to look at Venus' magnetic field as it swings by the planet
 - <a href="https://www.nasaspaceflight.com/2022/09/artemis-i-launch/" >🔗</a> **[NASASpaceflight]** SLS ready for second attempt as Artemis I launch nears
-- <a href="https://spaceflightnow.com/2022/09/02/lunar-demo-mission-to-provide-stress-test-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** Lunar demo mission to provide “stress test” for NASA’s Artemis moon program
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T173735">2022-09-03 17:37:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220903T180902">2022-09-03 18:09:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
