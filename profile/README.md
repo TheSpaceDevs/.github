@@ -31,7 +31,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Spaceflight's propulsive Sherpa-LTC2 space tug is also onboard as a rideshare to deploy into Boeing’s Varuna Technology Demonstration Mission in a higher orbit.
+  A batch of 51 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Spaceflight's propulsive Sherpa-LTC2 space tug is also onboard as a rideshare to deploy into Boeing’s Varuna Technology Demonstration Mission in a higher orbit.
 </blockquote>
 
 <p float="left" align="center">
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T190550">2022-09-04 19:05:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220904T193152">2022-09-04 19:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
