@@ -90,10 +90,10 @@ into *an Unknown Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink rideshare mission of 2022
+- <a href="https://spaceflightnow.com/2022/09/04/falcon-9-starlink-4-20-live-coverage/" >🔗</a> **[Spaceflight Now]** Falcon 9 launches Starlink satellites, Boeing rideshare payload
+- <a href="https://www.teslarati.com/spacex-starlink-rideshare-boeing-test-sat/" >🔗</a> **[Teslarati]** SpaceX sends Starlink satellites, Boeing demonstrator into orbit on 40th launch of 2022
 - <a href="https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/" >🔗</a> **[Arstechnica]** Years after shuttle, NASA rediscovers the perils of liquid hydrogen
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday" >🔗</a> **[NASA]** NASA to Provide Artemis I Launch Update Saturday
-- <a href="https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Second Artemis 1 launch attempt scrubbed
-- <a href="https://arstechnica.com/science/2022/09/nasa-making-second-attempt-to-launch-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA scrubs second attempt to launch Artemis I after hydrogen leak [Updated]
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T033429">2022-09-05 03:34:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T052008">2022-09-05 05:20:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
