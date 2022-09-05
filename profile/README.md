@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/starlink-maritime-instagrammed-superyacht/" >🔗</a> **[Teslarati]** Starlink Maritime deployed on the most Instagrammed superyacht
 - <a href="https://www.nasaspaceflight.com/2022/09/iss-update-august-22/" >🔗</a> **[NASASpaceflight]** Research, spacewalks, and maintenance: Expedition 67’s final month aboard the ISS
 - <a href="https://spacenews.com/space-force-extends-saber-astronautics-contract-for-space-visualization-software/" >🔗</a> **[SpaceNews]** Space Force extends Saber Astronautics’ contract for space visualization software
 - <a href="https://spacenews.com/china-begins-launch-campaign-for-final-space-station-module/" >🔗</a> **[SpaceNews]** China begins launch campaign for final space station module
 - <a href="https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink rideshare mission of 2022
-- <a href="https://spaceflightnow.com/2022/09/04/falcon-9-starlink-4-20-live-coverage/" >🔗</a> **[Spaceflight Now]** Falcon 9 launches Starlink satellites, Boeing rideshare payload
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T213616">2022-09-05 21:36:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T220739">2022-09-05 22:07:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
