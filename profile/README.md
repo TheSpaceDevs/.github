@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 4-20 & Varuna-TDM**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T020940">2022-09-05 02:09:40 UTC</a>.  Until
-then, this pad will have been used for 151
-out of 855 launches from this location. The launch status is currently
+**Kuaizhou-1A | Unknown Payload**. It is scheduled to be launched by *ExPace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="">Unknown Pad</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T021300">2022-09-06 02:13:00 UTC</a>.  Until
+then, this pad will have been used for 31
+out of 171 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  A batch of 51 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. Spaceflight's propulsive Sherpa-LTC2 space tug is also onboard as a rideshare to deploy into Boeing’s Varuna Technology Demonstration Mission in a higher orbit.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png" />
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
+    <img alt="launch-image" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/kuaizhou_image_20191027094423.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="" >
+    <img alt="pad-location" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T020940">2022-09-05 02:09:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-20 &amp; Varuna-TDM&location=Cape Canaveral, FL, USA&dates=20220905T020940Z%2F20220905T020940Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-20 & Varuna-TDM** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T021300">2022-09-06 02:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20220906T021300Z%2F20220906T024900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T214500">2022-09-06 21:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Eutelsat Konnect VHTS&location=Kourou, French Guiana&dates=20220906T214500Z%2F20220906T225100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Eutelsat Konnect VHTS** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T220000">2022-09-10 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220910T220000Z%2F20220911T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
@@ -54,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T120000">2022-09-13 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220913T120000Z%2F20220913T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T203000">2022-09-14 20:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl Spreads Its Wings&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220914T203000Z%2F20220914T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Owl Spreads Its Wings** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135400">2022-09-21 13:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135400Z%2F20220921T135400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-22** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T000000">2022-09-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220924T000000Z%2F20220924T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-91** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,7 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-20 to be first Starlink rideshare mission in 2022
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink rideshare mission of 2022
 - <a href="https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/" >🔗</a> **[Arstechnica]** Years after shuttle, NASA rediscovers the perils of liquid hydrogen
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-artemis-i-launch-update-saturday" >🔗</a> **[NASA]** NASA to Provide Artemis I Launch Update Saturday
 - <a href="https://spacenews.com/second-artemis-1-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Second Artemis 1 launch attempt scrubbed
@@ -98,12 +98,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2022/09/starlink-group-4-20/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-20 to be first Starlink rideshare mission in 2022
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T004846">2022-09-05 00:48:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220905T033429">2022-09-05 03:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
