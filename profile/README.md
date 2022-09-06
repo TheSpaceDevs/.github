@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-performs-two-launches-inside-two-hours/" >🔗</a> **[SpaceNews]** China performs two launches inside two hours
 - <a href="https://www.teslarati.com/starlink-maritime-instagrammed-superyacht/" >🔗</a> **[Teslarati]** Starlink Maritime deployed on the most Instagrammed superyacht
 - <a href="https://www.nasaspaceflight.com/2022/09/iss-update-august-22/" >🔗</a> **[NASASpaceflight]** Research, spacewalks, and maintenance: Expedition 67’s final month aboard the ISS
 - <a href="https://spacenews.com/space-force-extends-saber-astronautics-contract-for-space-visualization-software/" >🔗</a> **[SpaceNews]** Space Force extends Saber Astronautics’ contract for space visualization software
 - <a href="https://spacenews.com/china-begins-launch-campaign-for-final-space-station-module/" >🔗</a> **[SpaceNews]** China begins launch campaign for final space station module
-- <a href="https://www.teslarati.com/spacex-starship-super-heavy-raptor-testing-round-3/" >🔗</a> **[Teslarati]** SpaceX preps Starship, Super Heavy for another week of Raptor testing
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T121614">2022-09-06 12:16:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T131108">2022-09-06 13:11:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
