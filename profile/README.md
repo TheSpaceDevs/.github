@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aerospace-opens-100-million-facility-in-colorado-springs-for-military-space-activities/" >🔗</a> **[SpaceNews]** Aerospace opens $100 million facility in Colorado Springs for military space activities
 - <a href="https://spacenews.com/dod-updates-space-policy-formally-adopts-tenets-of-responsible-behavior/" >🔗</a> **[SpaceNews]** DoD updates space policy, formally adopts ‘tenets of responsible behavior’
 - <a href="https://arstechnica.com/science/2022/09/astounding-new-webb-image-reveals-tens-of-thousands-of-young-stars/" >🔗</a> **[Arstechnica]** Astounding new Webb image reveals tens of thousands of young stars
 - <a href="https://arstechnica.com/science/2022/09/european-space-chief-cannot-see-a-return-to-cooperation-with-russia/" >🔗</a> **[Arstechnica]** European space chief “cannot see” a return to cooperation with Russia
 - <a href="https://spacenews.com/south-korean-lunar-orbiter-succeeds-in-critical-trajectory-correction-maneuver/" >🔗</a> **[SpaceNews]** South Korean lunar orbiter succeeds in critical trajectory correction maneuver
-- <a href="https://spacenews.com/china-performs-two-launches-inside-two-hours/" >🔗</a> **[SpaceNews]** China performs two launches inside two hours
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T180920">2022-09-06 18:09:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T184556">2022-09-06 18:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
