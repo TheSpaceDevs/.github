@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bae-systems-developing-multi-sensor-satellite-cluster-for-military-intelligence/" >🔗</a> **[SpaceNews]** BAE Systems developing multi-sensor satellite cluster for military intelligence
+- <a href="https://spacenews.com/albedo-series-a/" >🔗</a> **[SpaceNews]** Albedo announces $48 million Series A funding round
 - <a href="https://spacenews.com/kmi-wins-three-space-force-study-contracts-for-debris-cleanup-technology/" >🔗</a> **[SpaceNews]** KMI wins three Space Force study contracts for debris cleanup technology
 - <a href="https://spacenews.com/oneweb-takes-229-million-charge-for-canceled-soyuz-launches/" >🔗</a> **[SpaceNews]** OneWeb takes $229 million charge for canceled Soyuz launches
 - <a href="https://spacenews.com/rocket-lab-signs-on-to-u-s-militarys-rocket-cargo-program/" >🔗</a> **[SpaceNews]** Rocket Lab signs on to U.S. military’s ‘rocket cargo’ program
-- <a href="https://www.nasaspaceflight.com/2022/09/double-launch-spacewalk/" >🔗</a> **[NASASpaceflight]** China launches twice in under two hours and conducts spacewalk
-- <a href="https://spaceflightnow.com/2022/09/06/powerhouse-european-broadband-satellite-set-for-launch-from-french-guiana-this-week/" >🔗</a> **[Spaceflight Now]** High-power European broadband satellite set for launch from French Guiana
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T121532">2022-09-07 12:15:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T132219">2022-09-07 13:22:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
