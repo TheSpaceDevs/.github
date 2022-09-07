@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/" >🔗</a> **[SpaceNews]** U.S.-French Earth science satellite ready to ship for December launch
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-next-artemis-i-moon-mission-launch-attempt" >🔗</a> **[NASA]** NASA to Discuss Status of Next Artemis I Moon Mission Launch Attempt
 - <a href="http://www.nasa.gov/press-release/nasa-taps-axiom-space-for-first-artemis-moonwalking-spacesuits" >🔗</a> **[NASA]** NASA Taps Axiom Space for First Artemis Moonwalking Spacesuits
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations" >🔗</a> **[NASA]** NASA Awards Contract for Marshall’s Mission Operations
 - <a href="https://spacenews.com/gao-defense-intelligence-agencies-need-a-better-plan-to-buy-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** GAO: Defense, intelligence agencies need a better plan to buy commercial satellite imagery
-- <a href="https://spaceflightnow.com/2022/09/07/nasa-to-repair-artemis-1-moon-rockets-leaky-hydrogen-connector-at-launch-pad/" >🔗</a> **[Spaceflight Now]** NASA to repair Artemis 1 moon rocket’s leaky hydrogen connector at launch pad
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T230915">2022-09-07 23:09:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T234319">2022-09-07 23:43:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
