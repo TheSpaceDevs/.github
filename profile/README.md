@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/near-space-labs-grant-program/" >🔗</a> **[SpaceNews]** Near Space Labs offers free imagery for researchers
+- <a href="https://www.nasaspaceflight.com/2022/09/ariane-5-konnect-vhts/" >🔗</a> **[NASASpaceflight]** Ariane 5 to launch advanced broadband satellite for Eutelsat
 - <a href="https://spacenews.com/indias-skyroot-aerospace-raises-51-million-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** India’s Skyroot Aerospace raises $51 million ahead of inaugural launch
+- <a href="https://spacenews.com/near-space-labs-grant-program/" >🔗</a> **[SpaceNews]** Near Space Labs offers free imagery for researchers
 - <a href="https://spacenews.com/bae-systems-developing-multi-sensor-satellite-cluster-for-military-intelligence/" >🔗</a> **[SpaceNews]** BAE Systems developing multi-sensor satellite cluster for military intelligence
 - <a href="https://spacenews.com/albedo-series-a/" >🔗</a> **[SpaceNews]** Albedo announces $48 million Series A funding round
-- <a href="https://spacenews.com/kmi-wins-three-space-force-study-contracts-for-debris-cleanup-technology/" >🔗</a> **[SpaceNews]** KMI wins three Space Force study contracts for debris cleanup technology
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T160936">2022-09-07 16:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220907T165705">2022-09-07 16:57:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
