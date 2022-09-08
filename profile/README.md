@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/" >🔗</a> **[NASASpaceflight]** NASA discusses path to SLS repairs as launch uncertainty looms for September, October
 - <a href="https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/" >🔗</a> **[SpaceNews]** Apple to be largest user of Globalstar’s satellite network for iPhone messaging
 - <a href="https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/" >🔗</a> **[SpaceNews]** NASA selects Axiom Space to develop Artemis spacesuit
 - <a href="https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/" >🔗</a> **[SpaceNews]** Ariane 5 launches Konnect VHTS satellite for Eutelsat
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
-- <a href="https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/" >🔗</a> **[SpaceNews]** U.S.-French Earth science satellite ready to ship for December launch
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T170041">2022-09-08 17:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T174735">2022-09-08 17:47:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
