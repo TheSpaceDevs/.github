@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-preparing-for-late-september-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** NASA preparing for late September Artemis 1 launch attempt
+- <a href="https://spacenews.com/solid-rocket-fuel-startup-adranos-opens-fuel-production-facility-in-indiana/" >🔗</a> **[SpaceNews]** Solid rocket startup Adranos opens fuel-production facility in Indiana
 - <a href="https://spacenews.com/blue-canyon-delivers-first-satellite-bus-for-darpas-blackjack-constellation/" >🔗</a> **[SpaceNews]** Blue Canyon delivers first satellite bus for DARPA’s Blackjack constellation
-- <a href="https://spacenews.com/solid-rocket-fuel-startup-adranos-opens-fuel-production-facility-in-indiana/" >🔗</a> **[SpaceNews]** Solid rocket fuel startup Adranos opens fuel-production facility in Indiana
 - <a href="https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/" >🔗</a> **[NASASpaceflight]** NASA discusses path to SLS repairs as launch uncertainty looms for September, October
 - <a href="https://spacenews.com/apple-to-be-largest-user-of-globalstars-satellite-network-for-iphone-messaging/" >🔗</a> **[SpaceNews]** Apple to be largest user of Globalstar’s satellite network for iPhone messaging
-- <a href="https://spacenews.com/nasa-selects-axiom-space-to-develop-artemis-spacesuit/" >🔗</a> **[SpaceNews]** NASA selects Axiom Space to develop Artemis spacesuit
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T220801">2022-09-08 22:08:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T224039">2022-09-08 22:40:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
