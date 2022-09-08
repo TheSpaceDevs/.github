@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ariane-5-launches-konnect-vhts-satellite-for-eutelsat/" >🔗</a> **[SpaceNews]** Ariane 5 launches Konnect VHTS satellite for Eutelsat
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
 - <a href="https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/" >🔗</a> **[SpaceNews]** U.S.-French Earth science satellite ready to ship for December launch
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-next-artemis-i-moon-mission-launch-attempt" >🔗</a> **[NASA]** NASA to Discuss Status of Next Artemis I Moon Mission Launch Attempt
 - <a href="http://www.nasa.gov/press-release/nasa-taps-axiom-space-for-first-artemis-moonwalking-spacesuits" >🔗</a> **[NASA]** NASA Taps Axiom Space for First Artemis Moonwalking Spacesuits
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-marshall-s-mission-operations" >🔗</a> **[NASA]** NASA Awards Contract for Marshall’s Mission Operations
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T100843">2022-09-08 10:08:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220908T104257">2022-09-08 10:42:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
