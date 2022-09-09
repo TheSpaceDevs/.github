@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/mls-spaceport-nova-scotia/" >🔗</a> **[NASASpaceflight]** Maritime Launch Services breaks ground on Canada’s first orbital launch site
 - <a href="https://spacenews.com/hawkeye-360-plans-new-funding-round-as-it-positions-to-go-public/" >🔗</a> **[SpaceNews]** HawkEye 360 plans new funding round as it positions to go public
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-national-space-council-meeting-at-johnson-space-center" >🔗</a> **[NASA]** NASA to Host National Space Council Meeting at Johnson Space Center
 - <a href="https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/" >🔗</a> **[SpaceNews]** SpaceX to launch five spare Iridium satellites
 - <a href="https://arstechnica.com/science/2022/09/rocket-report-sls-launch-targeted-for-late-september-unique-view-of-falcon-9/" >🔗</a> **[Arstechnica]** Rocket Report: SLS launch targeted for late September, unique view of Falcon 9
-- <a href="https://spacenews.com/private-chinese-satellite-internet-firm-galaxyspace-secures-major-new-funding/" >🔗</a> **[SpaceNews]** Private Chinese satellite internet firm GalaxySpace secures major new funding
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T181006">2022-09-09 18:10:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T184723">2022-09-09 18:47:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
