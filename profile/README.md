@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/" >🔗</a> **[SpaceNews]** SpaceX to launch five spare Iridium satellites
+- <a href="https://arstechnica.com/science/2022/09/rocket-report-sls-launch-targeted-for-late-september-unique-view-of-falcon-9/" >🔗</a> **[Arstechnica]** Rocket Report: SLS launch targeted for late September, unique view of Falcon 9
 - <a href="https://spacenews.com/private-chinese-satellite-internet-firm-galaxyspace-secures-major-new-funding/" >🔗</a> **[SpaceNews]** Private Chinese satellite internet firm GalaxySpace secures major new funding
 - <a href="https://spacenews.com/nasa-preparing-for-late-september-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** NASA preparing for late September Artemis 1 launch attempt
 - <a href="https://spacenews.com/solid-rocket-fuel-startup-adranos-opens-fuel-production-facility-in-indiana/" >🔗</a> **[SpaceNews]** Solid rocket startup Adranos opens fuel-production facility in Indiana
-- <a href="https://spacenews.com/blue-canyon-delivers-first-satellite-bus-for-darpas-blackjack-constellation/" >🔗</a> **[SpaceNews]** Blue Canyon delivers first satellite bus for DARPA’s Blackjack constellation
-- <a href="https://www.nasaspaceflight.com/2022/09/artemis-i-update-sept8/" >🔗</a> **[NASASpaceflight]** NASA discusses path to SLS repairs as launch uncertainty looms for September, October
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T110709">2022-09-09 11:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T113655">2022-09-09 11:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
