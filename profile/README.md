@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/" >🔗</a> **[SpaceNews]** Commerce and Defense Departments sign agreement on space traffic management cooperation
 - <a href="https://www.teslarati.com/spacex-appeals-fcc-starlink/" >🔗</a> **[Teslarati]** SpaceX appeals FCC decision to reverse $885.5M Starlink subsidies
 - <a href="https://www.teslarati.com/seadream-travel-line-starlink/" >🔗</a> **[Teslarati]** SeaDream Yacht Club first boutique travel line to deploy Starlink
 - <a href="https://spacenews.com/report-ligados-wireless-network-will-interfere-with-iridium-and-some-gps-services/" >🔗</a> **[SpaceNews]** Report: Ligado’s wireless network will interfere with Iridium and some GPS services
 - <a href="https://www.nasaspaceflight.com/2022/09/mls-spaceport-nova-scotia/" >🔗</a> **[NASASpaceflight]** Maritime Launch Services breaks ground on Canada’s first orbital launch site
-- <a href="https://spacenews.com/hawkeye-360-plans-new-funding-round-as-it-positions-to-go-public/" >🔗</a> **[SpaceNews]** HawkEye 360 plans new funding round as it positions to go public
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T230815">2022-09-09 23:08:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220909T234150">2022-09-09 23:41:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
