@@ -89,22 +89,23 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 test-firing imminent at Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Starlink 4-2 mission with BlueWalker 3 rideshare
 - <a href="https://spacenews.com/sierra-space-and-u-s-military-to-explore-using-dream-chaser-for-point-to-point-cargo-delivery/" >🔗</a> **[SpaceNews]** Sierra Space and U.S. military to explore using Dream Chaser for point-to-point cargo delivery
 - <a href="https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX planning two weekend launches in Florida
 - <a href="https://spacenews.com/scitec-wins-272-million-space-force-contract-for-data-analytics-software/" >🔗</a> **[SpaceNews]** SciTec wins $272 million Space Force contract for data analytics software
-- <a href="https://spacenews.com/u-s-to-introduce-u-n-resolution-on-asat-testing-ban/" >🔗</a> **[SpaceNews]** U.S. to introduce U.N. resolution on ASAT testing ban
-- <a href="https://spacenews.com/commerce-and-defense-departments-sign-agreement-on-space-traffic-management-cooperation/" >🔗</a> **[SpaceNews]** Commerce and Defense Departments sign agreement on space traffic management cooperation
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
 - <a href="https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX planning two weekend launches in Florida
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Starlink 4-2 mission with BlueWalker 3 rideshare
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T210709">2022-09-10 21:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220910T213724">2022-09-10 21:37:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
