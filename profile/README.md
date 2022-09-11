@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly aims for orbit on second demonstration flight
 - <a href="https://www.teslarati.com/starlink-former-tesla-employee-desert/" >🔗</a> **[Teslarati]** Starlink keeps this former Tesla employee online in the desert
 - <a href="https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/" >🔗</a> **[Arstechnica]** This should be the absolute peak of hurricane season—but it’s dead quiet out there
 - <a href="https://spacenews.com/capstone-enters-safe-mode-during-trajectory-correction-maneuver/" >🔗</a> **[SpaceNews]** CAPSTONE enters safe mode during trajectory correction maneuver
 - <a href="https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/" >🔗</a> **[Teslarati]** SpaceX ramps hiring for T-Mobile Starlink cell service partnership
-- <a href="https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 test-firing imminent at Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T171419">2022-09-11 17:14:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T174135">2022-09-11 17:41:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
