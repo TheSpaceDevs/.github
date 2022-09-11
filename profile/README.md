@@ -25,7 +25,7 @@ from *<a href="">Space Launch Complex 2W</a>, Vandenberg SFB, CA, USA*
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T220000">2022-09-11 22:00:00 UTC</a>.  Until
 then, this pad will have been used for 93
 out of 702 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+*Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T220826">2022-09-11 22:08:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T224014">2022-09-11 22:40:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
