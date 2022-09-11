@@ -36,10 +36,10 @@ into *a Low Earth Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
-    <img alt="launch-image" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/firefly_alpha_image_20210429094607.jpg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg" />
   </a>
   <a href="http://maps.google.com/maps?q=34.7556+N,+120.6224+W" >
-    <img alt="pad-location" height="200" src="https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/location_11_20200803142416.jpg"  />
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/spacex-hiring-t-mobile-starlink-cell-service/" >🔗</a> **[Teslarati]** SpaceX ramps hiring for T-Mobile Starlink cell service partnership
 - <a href="https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 test-firing imminent at Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Starlink 4-2 mission with BlueWalker 3 rideshare
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches Starlink 4-2 mission with BlueWalker 3 rideshare
 - <a href="https://spacenews.com/sierra-space-and-u-s-military-to-explore-using-dream-chaser-for-point-to-point-cargo-delivery/" >🔗</a> **[SpaceNews]** Sierra Space and U.S. military to explore using Dream Chaser for point-to-point cargo delivery
 - <a href="https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX planning two weekend launches in Florida
 
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T032753">2022-09-11 03:27:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220911T044505">2022-09-11 04:45:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
