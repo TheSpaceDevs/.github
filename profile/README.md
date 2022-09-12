@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/" >🔗</a> **[SpaceNews]** Eutelsat and OneWeb consider second-generation LEO plans
 - <a href="https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin capsule escapes rocket failure on uncrewed flight over Texas
 - <a href="https://spacenews.com/techstars-fall-2022-accelerator/" >🔗</a> **[SpaceNews]** Six space companies join Techstars aerospace accelerator
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations" >🔗</a> **[NASA]** NASA to Host Briefing on Perseverance Mars Rover Mission Operations
 - <a href="https://arstechnica.com/science/2022/09/blue-origin-rocket-explodes-on-ascent-but-spacecraft-escape-system-works-well/" >🔗</a> **[Arstechnica]** After Blue Origin’s rocket explodes, its spacecraft makes a dramatic escape
-- <a href="https://spacenews.com/new-shepard-suffers-in-flight-abort-on-uncrewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard suffers in-flight abort on uncrewed suborbital flight
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T174647">2022-09-12 17:46:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
