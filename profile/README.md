@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin capsule escapes rocket failure on uncrewed flight over Texas
+- <a href="https://spacenews.com/techstars-fall-2022-accelerator/" >🔗</a> **[SpaceNews]** Six space companies join Techstars aerospace accelerator
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-briefing-on-perseverance-mars-rover-mission-operations" >🔗</a> **[NASA]** NASA to Host Briefing on Perseverance Mars Rover Mission Operations
+- <a href="https://arstechnica.com/science/2022/09/blue-origin-rocket-explodes-on-ascent-but-spacecraft-escape-system-works-well/" >🔗</a> **[Arstechnica]** After Blue Origin’s rocket explodes, its spacecraft makes a dramatic escape
 - <a href="https://spacenews.com/new-shepard-suffers-in-flight-abort-on-uncrewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard suffers in-flight abort on uncrewed suborbital flight
-- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly aiming for orbit on second Alpha demonstration flight
-- <a href="https://spacenews.com/lunar-computer-missions/" >🔗</a> **[SpaceNews]** Startups to test advanced computing technology on lunar missions
-- <a href="https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/" >🔗</a> **[SpaceNews]** Major operator consolidation is a long time coming
-- <a href="https://spacenews.com/riding-the-consolidation-wave/" >🔗</a> **[SpaceNews]** Riding the consolidation wave
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T161231">2022-09-12 16:12:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T170106">2022-09-12 17:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
