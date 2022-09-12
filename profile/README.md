@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-shepard-suffers-in-flight-abort-on-uncrewed-suborbital-flight/" >🔗</a> **[SpaceNews]** New Shepard suffers in-flight abort on uncrewed suborbital flight
+- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly aiming for orbit on second Alpha demonstration flight
 - <a href="https://spacenews.com/lunar-computer-missions/" >🔗</a> **[SpaceNews]** Startups to test advanced computing technology on lunar missions
 - <a href="https://spacenews.com/major-operator-consolidation-is-a-long-time-coming/" >🔗</a> **[SpaceNews]** Major operator consolidation is a long time coming
 - <a href="https://spacenews.com/riding-the-consolidation-wave/" >🔗</a> **[SpaceNews]** Riding the consolidation wave
-- <a href="https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/" >🔗</a> **[Spaceflight Now]** Watch live: Blue Origin ready for uncrewed suborbital launch today
-- <a href="https://spacenews.com/euroconsult-forecast-wsbw-2022/" >🔗</a> **[SpaceNews]** Surging demand for satellite data services, Euroconsult forecast
 
 
 ### Launch-related News 🚀
@@ -104,14 +104,14 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
 - <a href="https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Firefly hires new CEO ahead of second launch
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
-- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly scrubs second Alpha demonstration flight
+- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly aiming for orbit on second Alpha demonstration flight
 - <a href="https://spaceflightnow.com/2022/09/10/fireflys-second-rocket-set-for-launch-from-california/" >🔗</a> **[Spaceflight Now]** Firefly’s second rocket set for launch from California
 - <a href="https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Firefly’s second Alpha rocket raised on launch pad
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T150836">2022-09-12 15:08:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T154607">2022-09-12 15:46:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
