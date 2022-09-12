@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/white-house-requests-proposals-for-regulating-novel-commercial-space-activities/" >🔗</a> **[SpaceNews]** White House requests proposals for regulating novel commercial space activities
 - <a href="https://spacenews.com/kt-sat-orders-koreasat-6a-communications-satellite-from-thales/" >🔗</a> **[SpaceNews]** KT SAT orders Koreasat 6A communications satellite from Thales
 - <a href="https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Firefly’s second Alpha rocket raised on launch pad
 - <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly scrubs second Alpha demonstration flight
 - <a href="https://www.teslarati.com/starlink-former-tesla-employee-desert/" >🔗</a> **[Teslarati]** Starlink keeps this former Tesla employee online in the desert
-- <a href="https://arstechnica.com/science/2022/09/this-should-be-the-absolute-peak-of-hurricane-season-but-its-dead-quiet-out-there/" >🔗</a> **[Arstechnica]** This should be the absolute peak of hurricane season—but it’s dead quiet out there
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T100918">2022-09-12 10:09:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T104332">2022-09-12 10:43:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
