@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-zhongxing-1e-military-communications-satellite/" >🔗</a> **[SpaceNews]** China launches Zhongxing-1E military communications satellite
 - <a href="https://arstechnica.com/science/2022/09/as-summer-turns-to-fall-ula-still-waiting-for-its-be-4-rocket-engines/" >🔗</a> **[Arstechnica]** As summer turns to fall, ULA still waiting for its BE-4 rocket engines
 - <a href="https://spacenews.com/data-relay-networks/" >🔗</a> **[SpaceNews]** Competition is growing in the space-data-relay sector
-- <a href="https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/" >🔗</a> **[SpaceNews]** Speedcast nets first Starlink reseller deal for enterprise and maritime
 - <a href="https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/" >🔗</a> **[SpaceNews]** Slingshot Aerospace rolls out free space-traffic control service
-- <a href="https://spacenews.com/artemis-1-launch-plans-slip-again/" >🔗</a> **[SpaceNews]** Artemis 1 launch plans slip again
+- <a href="https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/" >🔗</a> **[SpaceNews]** Speedcast nets first Starlink reseller deal for enterprise and maritime
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T161027">2022-09-13 16:10:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T165832">2022-09-13 16:58:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
