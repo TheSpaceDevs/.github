@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/" >🔗</a> **[SpaceNews]** Space Force nominee sees growing threats to U.S. satellites from rival powers
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-34 mission to complete SpaceX doubleheader
 - <a href="https://spacenews.com/arianespace-and-oneweb-reach-settlement-for-suspended-launches/" >🔗</a> **[SpaceNews]** Arianespace and OneWeb reach settlement for suspended launches
 - <a href="http://www.nasa.gov/press-release/nasa-announces-pending-departure-of-science-associate-administrator" >🔗</a> **[NASA]** NASA Announces Pending Departure of Science Associate Administrator
 - <a href="https://spacenews.com/china-launches-zhongxing-1e-military-communications-satellite/" >🔗</a> **[SpaceNews]** China launches Zhongxing-1E military communications satellite
-- <a href="https://arstechnica.com/science/2022/09/as-summer-turns-to-fall-ula-still-waiting-for-its-be-4-rocket-engines/" >🔗</a> **[Arstechnica]** As summer turns to fall, ULA still waiting for its BE-4 rocket engines
-- <a href="https://spacenews.com/data-relay-networks/" >🔗</a> **[SpaceNews]** Competition is growing in the space-data-relay sector
 
 
 ### Launch-related News 🚀
@@ -101,11 +101,12 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
 - <a href="https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX planning next two Falcon 9 launches in Florida
 - <a href="https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 test-firing imminent at Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-34 mission to complete SpaceX doubleheader
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T181008">2022-09-13 18:10:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T184737">2022-09-13 18:47:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
