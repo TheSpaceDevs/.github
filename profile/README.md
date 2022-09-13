@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-and-sodern-to-cooperate-on-star-tracker/" >🔗</a> **[SpaceNews]** Redwire and Sodern to cooperate on star tracker
 - <a href="https://spacenews.com/esa-seeks-major-funding-increase-at-ministerial/" >🔗</a> **[SpaceNews]** ESA seeks major funding increase at ministerial
 - <a href="https://spaceflightnow.com/2022/09/12/ground-teams-trying-to-regain-control-of-scouting-satellite-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** Ground teams trying to regain control of scouting satellite for NASA’s Artemis moon program
 - <a href="http://www.nasa.gov/press-release/georgia-illinois-students-to-hear-from-space-station-astronauts" >🔗</a> **[NASA]** Georgia, Illinois Students to Hear from Space Station Astronauts
 - <a href="https://spacenews.com/eutelsat-and-oneweb-consider-second-generation-leo-plans/" >🔗</a> **[SpaceNews]** Eutelsat and OneWeb consider second-generation LEO plans
-- <a href="https://spaceflightnow.com/2022/09/12/blue-origin-ns-23-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin capsule escapes rocket failure on uncrewed flight over Texas
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T091028">2022-09-13 09:10:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T094212">2022-09-13 09:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
