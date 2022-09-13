@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/slingshot-aerospace-rolls-out-free-space-traffic-control-service/" >🔗</a> **[SpaceNews]** Slingshot Aerospace rolls out free space-traffic control service
+- <a href="https://spacenews.com/speedcast-nets-first-starlink-reseller-deal-for-enterprise-and-maritime/" >🔗</a> **[SpaceNews]** Speedcast nets first Starlink reseller deal for enterprise and maritime
 - <a href="https://spacenews.com/artemis-1-launch-plans-slip-again/" >🔗</a> **[SpaceNews]** Artemis 1 launch plans slip again
 - <a href="https://spacenews.com/redwire-and-sodern-to-cooperate-on-star-tracker/" >🔗</a> **[SpaceNews]** Redwire and Sodern to cooperate on star tracker
 - <a href="https://spacenews.com/esa-seeks-major-funding-increase-at-ministerial/" >🔗</a> **[SpaceNews]** ESA seeks major funding increase at ministerial
-- <a href="https://spaceflightnow.com/2022/09/12/ground-teams-trying-to-regain-control-of-scouting-satellite-for-nasas-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** Ground teams trying to regain control of scouting satellite for NASA’s Artemis moon program
-- <a href="http://www.nasa.gov/press-release/georgia-illinois-students-to-hear-from-space-station-astronauts" >🔗</a> **[NASA]** Georgia, Illinois Students to Hear from Space Station Astronauts
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T113723">2022-09-13 11:37:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T121726">2022-09-13 12:17:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
