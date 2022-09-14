@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/investors-take-long-term-view-of-space-industry-amid-near-term-challenges/" >🔗</a> **[SpaceNews]** Investors take long-term view of space industry amid near-term challenges
 - <a href="https://spacenews.com/wireless-communications-startup-repurposes-technology-from-googles-balloon-internet-project/" >🔗</a> **[SpaceNews]** Wireless communications startup repurposes technology from Google’s balloon internet project
 - <a href="https://www.teslarati.com/starlink-t-mobile-5g-ai-cameras/" >🔗</a> **[Teslarati]** How Starlink & T-Mobile’s partnership will impact 5G for the better for AI cameras
 - <a href="http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability" >🔗</a> **[NASA]** NASA Funds Projects to Study Orbital Debris, Space Sustainability
 - <a href="https://spacenews.com/space-force-nominee-sees-growing-threats-to-u-s-satellites-from-rival-powers/" >🔗</a> **[SpaceNews]** Space Force nominee sees growing threats to U.S. satellites from rival powers
-- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Weather delays Starlink Group 4-34 mission
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T033315">2022-09-14 03:33:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T051722">2022-09-14 05:17:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
