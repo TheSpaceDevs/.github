@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T014840">2022-09-15 01:48:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-34&location=Cape Canaveral, FL, USA&dates=20220915T014840Z%2F20220915T014840Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-34** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T203000">2022-09-15 20:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Owl Spreads Its Wings&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220915T203000Z%2F20220915T204500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Owl Spreads Its Wings** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T000000">2022-09-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-35&location=Cape Canaveral, FL, USA&dates=20220919T000000Z%2F20220919T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-35** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T180000">2022-09-19 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-35&location=Cape Canaveral, FL, USA&dates=20220919T180000Z%2F20220919T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-35** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T220000">2022-09-19 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA002 (To The Black)&location=Vandenberg SFB, CA, USA&dates=20220919T220000Z%2F20220920T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA002 (To The Black)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135400">2022-09-21 13:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135400Z%2F20220921T135400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-22** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T205000">2022-09-24 20:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220924T205000Z%2F20220924T231200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-91** from Vandenberg SFB, CA, USA.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/microsoft-azure-wsbw-2022/" >🔗</a> **[SpaceNews]** Microsoft continues expanding Azure Space
 - <a href="https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/" >🔗</a> **[SpaceNews]** Bandwidth-hungry regional satellite operators hunting for options
 - <a href="https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/" >🔗</a> **[SpaceNews]** AST SpaceMobile secures communications with prototype
 - <a href="https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/" >🔗</a> **[SpaceNews]** Japan, Germany declare moratorium on anti-satellite missile tests
 - <a href="https://spacenews.com/morpheus-series-a/" >🔗</a> **[SpaceNews]** Morpheus Space raises $28 million in Series A round
-- <a href="https://spacenews.com/nasa-science-head-to-step-down/" >🔗</a> **[SpaceNews]** NASA science head to step down
 
 
 ### Launch-related News 🚀
@@ -102,11 +102,12 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX planning next two Falcon 9 launches in Florida
 - <a href="https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 test-firing imminent at Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Weather delays Starlink Group 4-34 mission
+- <a href="https://spaceflightnow.com/2022/09/13/falcon-9-starlink-3-34-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs launch of 54 more Starlink satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T150817">2022-09-14 15:08:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T154345">2022-09-14 15:43:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
