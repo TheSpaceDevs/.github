@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-says-still-super-early-into-new-shepard-launch-failure-investigation/" >🔗</a> **[SpaceNews]** Blue Origin says still “super early” into New Shepard launch failure investigation
 - <a href="https://spacenews.com/iceye-satlantis-tandem4eo/" >🔗</a> **[SpaceNews]** Iceye and Satlantis propose optical and radar satellite constellation
 - <a href="https://spacenews.com/investors-take-long-term-view-of-space-industry-amid-near-term-challenges/" >🔗</a> **[SpaceNews]** Investors take long-term view of space industry amid near-term challenges
 - <a href="https://spacenews.com/wireless-communications-startup-repurposes-technology-from-googles-balloon-internet-project/" >🔗</a> **[SpaceNews]** Wireless communications startup repurposes technology from Google’s balloon internet project
 - <a href="https://www.teslarati.com/starlink-t-mobile-5g-ai-cameras/" >🔗</a> **[Teslarati]** How Starlink & T-Mobile’s partnership will impact 5G for the better for AI cameras
-- <a href="http://www.nasa.gov/press-release/nasa-funds-projects-to-study-orbital-debris-space-sustainability" >🔗</a> **[NASA]** NASA Funds Projects to Study Orbital Debris, Space Sustainability
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T081039">2022-09-14 08:10:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T084808">2022-09-14 08:48:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
