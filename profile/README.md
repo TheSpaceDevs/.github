@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/" >🔗</a> **[SpaceNews]** Japan, Germany declare moratorium on anti-satellite missile tests
+- <a href="https://spacenews.com/morpheus-series-a/" >🔗</a> **[SpaceNews]** Morpheus Space raises $28 million in Series A round
 - <a href="https://spacenews.com/nasa-science-head-to-step-down/" >🔗</a> **[SpaceNews]** NASA science head to step down
 - <a href="https://spacenews.com/blue-origin-says-still-super-early-into-new-shepard-launch-failure-investigation/" >🔗</a> **[SpaceNews]** Blue Origin says still “super early” into New Shepard launch failure investigation
 - <a href="https://spacenews.com/iceye-satlantis-tandem4eo/" >🔗</a> **[SpaceNews]** Iceye and Satlantis propose optical and radar satellite constellation
-- <a href="https://spacenews.com/investors-take-long-term-view-of-space-industry-amid-near-term-challenges/" >🔗</a> **[SpaceNews]** Investors take long-term view of space industry amid near-term challenges
-- <a href="https://spacenews.com/wireless-communications-startup-repurposes-technology-from-googles-balloon-internet-project/" >🔗</a> **[SpaceNews]** Wireless communications startup repurposes technology from Google’s balloon internet project
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T121701">2022-09-14 12:17:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T132102">2022-09-14 13:21:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
