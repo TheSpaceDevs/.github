@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/starship-next-phase-of-testing/" >🔗</a> **[NASASpaceflight]** Starship vehicles move to next phase of testing despite issues
 - <a href="https://spacenews.com/microsoft-azure-wsbw-2022/" >🔗</a> **[SpaceNews]** Microsoft continues expanding Azure Space
 - <a href="https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/" >🔗</a> **[SpaceNews]** Bandwidth-hungry regional satellite operators hunting for options
 - <a href="https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/" >🔗</a> **[SpaceNews]** AST SpaceMobile secures communications with prototype
 - <a href="https://spacenews.com/japan-germany-declare-moratorium-on-anti-satellite-missile-tests/" >🔗</a> **[SpaceNews]** Japan, Germany declare moratorium on anti-satellite missile tests
-- <a href="https://spacenews.com/morpheus-series-a/" >🔗</a> **[SpaceNews]** Morpheus Space raises $28 million in Series A round
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T161051">2022-09-14 16:10:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T170041">2022-09-14 17:00:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
