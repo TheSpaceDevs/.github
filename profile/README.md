@@ -90,7 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/" >🔗</a> **[SpaceNews]** Satellite operators weigh strategies for an industry in transformation
-- <a href="https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/" >🔗</a> **[NASASpaceflight]** Rocket Lab’s “The Owl Spreads Its Wings” mission set for launch
+- <a href="https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches “The Owl Spreads Its Wings” mission
 - <a href="https://mars.nasa.gov/news/9261/" >🔗</a> **[NASA]** NASA's Perseverance Rover Investigates Geologically Rich Mars Terrain
 - <a href="http://www.nasa.gov/press-release/nasa-s-perseverance-rover-investigates-geologically-rich-mars-terrain" >🔗</a> **[NASA]** NASA’s Perseverance Rover Investigates Geologically Rich Mars Terrain
 - <a href="https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/" >🔗</a> **[SpaceNews]** GHGSat taps Spire to expand greenhouse gas monitoring constellation
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T220747">2022-09-15 22:07:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T224059">2022-09-15 22:40:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
