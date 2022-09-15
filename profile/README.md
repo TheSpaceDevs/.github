@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ghgsat-taps-spire-to-expand-greenhouse-gas-monitoring-constellation/" >🔗</a> **[SpaceNews]** GHGSat taps Spire to expand greenhouse gas monitoring constellation
 - <a href="https://spacenews.com/satlantis-orders-ohb-sweden-satellites-for-multispectral-mission/" >🔗</a> **[SpaceNews]** Satlantis orders OHB Sweden satellites for multispectral mission
 - <a href="https://spacenews.com/nasa-requests-proposals-for-two-iss-private-astronaut-missions/" >🔗</a> **[SpaceNews]** NASA requests proposals for two ISS private astronaut missions
 - <a href="https://spacenews.com/vast-space-intro/" >🔗</a> **[SpaceNews]** Vast Space to develop artificial-gravity space station
 - <a href="https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/" >🔗</a> **[SpaceNews]** New launch vehicles inch towards the pad
-- <a href="https://spacenews.com/telespazio-signs-european-distribution-deal-for-northstars-ssa-data/" >🔗</a> **[SpaceNews]** Telespazio signs European distribution deal for NorthStar’s SSA data
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T121829">2022-09-15 12:18:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T132159">2022-09-15 13:21:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
