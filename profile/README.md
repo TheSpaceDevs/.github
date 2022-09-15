@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-space-intro/" >🔗</a> **[SpaceNews]** Vast Space to develop artificial-gravity space station
+- <a href="https://spacenews.com/new-launch-vehicles-inch-towards-the-pad/" >🔗</a> **[SpaceNews]** New launch vehicles inch towards the pad
+- <a href="https://spacenews.com/telespazio-signs-european-distribution-deal-for-northstars-ssa-data/" >🔗</a> **[SpaceNews]** Telespazio signs European distribution deal for NorthStar’s SSA data
 - <a href="https://spacenews.com/space-development-agencys-first-launch-slips-due-to-supply-chain-setbacks/" >🔗</a> **[SpaceNews]** Space Development Agency’s first launch slips due to supply chain setbacks
 - <a href="https://www.nasaspaceflight.com/2022/09/starship-next-phase-of-testing/" >🔗</a> **[NASASpaceflight]** Starship vehicles move to next phase of testing despite issues
-- <a href="https://spacenews.com/microsoft-azure-wsbw-2022/" >🔗</a> **[SpaceNews]** Microsoft continues expanding Azure Space
-- <a href="https://spacenews.com/bandwidth-hungry-regional-satellite-operators-hunting-for-options/" >🔗</a> **[SpaceNews]** Bandwidth-hungry regional satellite operators hunting for options
-- <a href="https://spacenews.com/ast-spacemobile-secures-communications-with-prototype/" >🔗</a> **[SpaceNews]** AST SpaceMobile secures communications with prototype
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T081127">2022-09-15 08:11:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220915T085022">2022-09-15 08:50:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
