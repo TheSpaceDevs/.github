@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-high-performance-internet-residential-users/" >🔗</a> **[Teslarati]** SpaceX rolls out “high-performance” satellite internet for residential users
 - <a href="https://spacenews.com/rocket-lab-launches-japanese-radar-imaging-satellite-on-30th-electron-mission/" >🔗</a> **[SpaceNews]** Rocket Lab launches Japanese radar imaging satellite on 30th Electron mission
 - <a href="https://spacenews.com/u-s-weighing-options-to-compensate-commercial-companies-if-satellites-are-attacked/" >🔗</a> **[SpaceNews]** U.S. weighing options to compensate commercial companies if satellites are attacked
 - <a href="https://spacenews.com/satellite-operators-weigh-strategies-for-an-industry-in-transformation/" >🔗</a> **[SpaceNews]** Satellite operators weigh strategies for an industry in transformation
 - <a href="https://www.nasaspaceflight.com/2022/09/the-owl-spreads-its-wings/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches “The Owl Spreads Its Wings” mission
-- <a href="https://mars.nasa.gov/news/9261/" >🔗</a> **[NASA]** NASA's Perseverance Rover Investigates Geologically Rich Mars Terrain
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T081045">2022-09-16 08:10:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T084605">2022-09-16 08:46:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
