@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasats-inmarsat-acquisition-clears-uk-national-security-review/" >🔗</a> **[SpaceNews]** Viasat’s Inmarsat acquisition clears UK national security review
 - <a href="https://spacenews.com/satellite-radar-startups-spar-over-commercial-market-importance/" >🔗</a> **[SpaceNews]** Satellite radar startups spar over commercial market importance
 - <a href="https://arstechnica.com/science/2022/09/in-a-bid-to-expand-its-moon-business-intuitive-machines-will-go-public/" >🔗</a> **[Arstechnica]** In a bid to expand its Moon business, Intuitive Machines will go public
 - <a href="https://spacenews.com/intuitive-machines-to-go-public-in-spac-merger/" >🔗</a> **[SpaceNews]** Intuitive Machines to go public in SPAC merger
 - <a href="https://spacenews.com/pld-space-completes-static-fire-tests-of-miura-1/" >🔗</a> **[SpaceNews]** PLD Space completes static-fire tests of Miura 1
-- <a href="https://spacenews.com/earthdaily-analytics-wsbw/" >🔗</a> **[SpaceNews]** EarthDaily constellation built for change-detection analysis
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T140514">2022-09-16 14:05:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220916T144613">2022-09-16 14:46:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
