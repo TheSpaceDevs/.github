@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T001800">2022-09-19 00:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-34&location=Cape Canaveral, FL, USA&dates=20220919T001800Z%2F20220919T001800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-34** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135400">2022-09-21 13:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135400Z%2F20220921T135400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-22** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135449">2022-09-21 13:54:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-22&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20220921T135449Z%2F20220921T135449Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-22** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T205000">2022-09-24 20:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-91&location=Vandenberg SFB, CA, USA&dates=20220924T205000Z%2F20220924T231200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-91** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T220000">2022-09-26 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20220926T220000Z%2F20220927T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T000000">2022-09-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA002 (To The Black)&location=Vandenberg SFB, CA, USA&dates=20220929T000000Z%2F20220929T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA002 (To The Black)** from Vandenberg SFB, CA, USA.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/" >🔗</a> **[SpaceNews]** NASA requests proposal for second Artemis crewed lunar lander
 - <a href="https://spacenews.com/new-tri-agency-office-to-coordinate-u-s-missile-defense-space-programs/" >🔗</a> **[SpaceNews]** New tri-agency office to coordinate U.S. missile-defense space programs
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions" >🔗</a> **[NASA]** NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions
 - <a href="http://www.nasa.gov/press-release/nasa-to-televise-artemis-i-demonstration-test-host-media-call" >🔗</a> **[NASA]** NASA to Televise Artemis I Demonstration Test, Host Media Call
-- <a href="https://www.nasaspaceflight.com/2022/09/crew-5-preperations/" >🔗</a> **[NASASpaceflight]** SpaceX and NASA in final preparations for Crew-5 mission
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T110637">2022-09-18 11:06:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T113556">2022-09-18 11:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
