@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/" >🔗</a> **[SpaceNews]** Private industry aims to fill demand for space threat intelligence
 - <a href="https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/" >🔗</a> **[SpaceNews]** Shanghai rocket maker considering developing huge methane-fueled rockets
 - <a href="https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/" >🔗</a> **[SpaceNews]** NASA requests proposal for second Artemis crewed lunar lander
 - <a href="https://spacenews.com/new-tri-agency-office-to-coordinate-u-s-missile-defense-space-programs/" >🔗</a> **[SpaceNews]** New tri-agency office to coordinate U.S. missile-defense space programs
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station
-- <a href="http://www.nasa.gov/press-release/nasa-pursues-astronaut-lunar-landers-for-future-artemis-moon-missions" >🔗</a> **[NASA]** NASA Pursues Astronaut Lunar Landers for Future Artemis Moon Missions
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T140637">2022-09-18 14:06:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T143711">2022-09-18 14:37:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
