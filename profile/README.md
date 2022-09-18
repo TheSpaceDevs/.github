@@ -101,13 +101,13 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
 - <a href="https://spaceflightnow.com/2022/09/10/spacex-planning-two-weekend-launches-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX planning next two Falcon 9 launches in Florida
 - <a href="https://spaceflightnow.com/2022/09/10/falcon-9-starlink-4-34-static-fire/" >🔗</a> **[Spaceflight Now]** Watch live: Falcon 9 test-firing imminent at Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-34 mission now targeting Saturday after weather delays
+- <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-34 mission now targeting Sunday after weather delays
 - <a href="https://spaceflightnow.com/2022/09/13/falcon-9-starlink-3-34-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs launch of 54 more Starlink satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T143711">2022-09-18 14:37:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220918T150811">2022-09-18 15:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
