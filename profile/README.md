@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/" >🔗</a> **[NASASpaceflight]** Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe
 - <a href="https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/" >🔗</a> **[SpaceNews]** Private industry aims to fill demand for space threat intelligence
 - <a href="https://spacenews.com/shanghai-rocket-maker-considering-developing-huge-methane-fueled-rockets/" >🔗</a> **[SpaceNews]** Shanghai rocket maker considering developing huge methane-fueled rockets
-- <a href="https://spacenews.com/nasa-requests-proposal-for-second-artemis-crewed-lunar-lander/" >🔗</a> **[SpaceNews]** NASA requests proposal for second Artemis crewed lunar lander
+- <a href="https://spaceflightnow.com/2022/09/18/falcon-9-starlink-4-34-live-coverage-2/" >🔗</a> **[Spaceflight Now]** SpaceX successfully launches Starlink mission on sixth try
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T034240">2022-09-19 03:42:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T052148">2022-09-19 05:21:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
