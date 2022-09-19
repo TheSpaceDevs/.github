@@ -31,7 +31,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Soyuz MS-22 will carry Roscosmos cosmonauts Sergei Prokopeyev, Anna Kikina and Dmitry Petelin to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
+  Soyuz MS-22 will carry Roscosmos cosmonauts Sergei Prokopeyev, Dmitry Petelin and NASA astronaut Frank Rubio to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
 </blockquote>
 
 <p float="left" align="center">
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T052148">2022-09-19 05:21:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T063933">2022-09-19 06:39:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
