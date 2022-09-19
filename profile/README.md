@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial" >🔗</a> **[NASA]** Cobertura de la misión Soyuz con tripulación a la estación espacial
 - <a href="https://spacenews.com/lynk-global-gets-first-commercial-satellite-direct-to-cell-operating-license/" >🔗</a> **[SpaceNews]** Lynk Global gets first commercial satellite direct-to-cell operating license
 - <a href="http://www.nasa.gov/press-release/texas-students-to-hear-from-nasa-astronauts-aboard-space-station-0" >🔗</a> **[NASA]** Texas Students to Hear from NASA Astronauts Aboard Space Station
 - <a href="https://spacenews.com/uae-rover-to-fly-on-chinas-change-7-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** UAE rover to fly on China’s Chang’e-7 lunar south pole mission
 - <a href="https://spacenews.com/astrobotic-announces-plans-for-lunar-power-service/" >🔗</a> **[SpaceNews]** Astrobotic announces plans for lunar power service
-- <a href="https://mars.nasa.gov/news/9264/" >🔗</a> **[NASA]** NASA's InSight 'Hears' Its First Meteoroid Impacts on Mars
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T190956">2022-09-19 19:09:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T193608">2022-09-19 19:36:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
