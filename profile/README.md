@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-hyperspectral-details/" >🔗</a> **[SpaceNews]** Planet shares information on Tanager hyperspectral constellation
 - <a href="https://spacenews.com/france-to-increase-space-spending-by-25/" >🔗</a> **[SpaceNews]** France to increase space spending by 25%
 - <a href="https://spacenews.com/satellite-imaging-companies-look-for-growth-in-data-analytics/" >🔗</a> **[SpaceNews]** Satellite imaging companies look for growth in data analytics
 - <a href="https://www.nasaspaceflight.com/2022/09/starlink-4-34/" >🔗</a> **[NASASpaceflight]** Starlink Group 4-34 mission finally lifts off after weather delays
 - <a href="https://www.nasaspaceflight.com/2022/09/ngc-346-spiral/" >🔗</a> **[NASASpaceflight]** Hubble and VLT discover spiraling structure of young stars, hints at star formation in early universe
-- <a href="https://spacenews.com/private-industry-aims-to-fill-demand-for-space-threat-intelligence/" >🔗</a> **[SpaceNews]** Private industry aims to fill demand for space threat intelligence
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T121737">2022-09-19 12:17:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220919T132145">2022-09-19 13:21:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
