@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/" >🔗</a> **[SpaceNews]** NASA set for “kinder, gentler” SLS tanking test
 - <a href="https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/" >🔗</a> **[SpaceNews]** New report raises questions on DoD’s multi-orbit plan for space sensors
 - <a href="https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/" >🔗</a> **[SpaceNews]** SAIC to build small satellites with startup Rogue Space
 - <a href="https://spacenews.com/space-force-shifting-resources-to-intelligence-and-cybersecurity/" >🔗</a> **[SpaceNews]** Space Force shifting resources to intelligence and cybersecurity
 - <a href="http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial" >🔗</a> **[NASA]** Cobertura de la misión Soyuz con tripulación a la estación espacial
-- <a href="https://spacenews.com/lynk-global-gets-first-commercial-satellite-direct-to-cell-operating-license/" >🔗</a> **[SpaceNews]** Lynk Global gets first commercial satellite direct-to-cell operating license
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T110712">2022-09-20 11:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T113750">2022-09-20 11:37:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
