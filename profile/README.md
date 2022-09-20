@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/" >🔗</a> **[SpaceNews]** SAIC to build small satellites with startup Rogue Space
 - <a href="https://spacenews.com/space-force-shifting-resources-to-intelligence-and-cybersecurity/" >🔗</a> **[SpaceNews]** Space Force shifting resources to intelligence and cybersecurity
 - <a href="http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial" >🔗</a> **[NASA]** Cobertura de la misión Soyuz con tripulación a la estación espacial
 - <a href="https://spacenews.com/lynk-global-gets-first-commercial-satellite-direct-to-cell-operating-license/" >🔗</a> **[SpaceNews]** Lynk Global gets first commercial satellite direct-to-cell operating license
 - <a href="http://www.nasa.gov/press-release/texas-students-to-hear-from-nasa-astronauts-aboard-space-station-0" >🔗</a> **[NASA]** Texas Students to Hear from NASA Astronauts Aboard Space Station
-- <a href="https://spacenews.com/uae-rover-to-fly-on-chinas-change-7-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** UAE rover to fly on China’s Chang’e-7 lunar south pole mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T063058">2022-09-20 06:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T071840">2022-09-20 07:18:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
