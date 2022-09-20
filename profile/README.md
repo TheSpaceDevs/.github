@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T230600">2022-09-20 23:06:00 UTC</a>.  Until
-then, this pad will have been used for 84
-out of 172 launches from this location. The launch status is currently
+**Soyuz 2.1a | Soyuz MS-22**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T135449">2022-09-21 13:54:49 UTC</a>.  Until
+then, this pad will have been used for 403
+out of 1533 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Human Exploration* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  Soyuz MS-22 will carry Roscosmos cosmonauts Sergei Prokopeyev, Dmitry Petelin and NASA astronaut Frank Rubio to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="http://maps.google.com/maps?q=45.996+N,+63.564+E" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Maiden Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-36** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K2&location=Plesetsk Cosmodrome, Russian Federation&dates=20220930T000000Z%2F20220930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K2** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T070100">2022-09-30 07:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA002 (To The Black)&location=Vandenberg SFB, CA, USA&dates=20220930T070100Z%2F20220930T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA002 (To The Black)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,20 +89,27 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-procurement-chief-criticizes-over-engineered-satellite-programs/" >🔗</a> **[SpaceNews]** Space Force procurement chief criticizes over-engineered satellite programs
 - <a href="https://spacenews.com/next-batch-of-oneweb-satellites-arrive-in-india-for-launch/" >🔗</a> **[SpaceNews]** Next batch of OneWeb satellites arrive in India for launch
 - <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/" >🔗</a> **[NASASpaceflight]** Soyuz MS-22 to loft two Russians and one American to ISS
 - <a href="http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning" >🔗</a> **[NASA]** NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning
 - <a href="https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/" >🔗</a> **[SpaceNews]** NASA set for “kinder, gentler” SLS tanking test
-- <a href="https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/" >🔗</a> **[SpaceNews]** New report raises questions on DoD’s multi-orbit plan for space sensors
 
 
 ### Launch-related News 🚀
 
+- <a href="http://www.nasa.gov/press-release/nasa-hosts-astronaut-frank-rubio-s-prelaunch-news-briefing-interviews" >🔗</a> **[NASA]** NASA Hosts Astronaut Frank Rubio’s Prelaunch News Briefing, Interviews
+- <a href="http://www.nasa.gov/press-release/la-nasa-ofrece-una-sesi-n-informativa-y-entrevistas-con-el-astronauta-frank-rubio" >🔗</a> **[NASA]** La NASA ofrece una sesión informativa y entrevistas con el astronauta Frank Rubio antes de su despegue
+- <a href="https://spacenews.com/nasa-astronaut-ready-for-soyuz-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA astronaut ready for Soyuz flight to ISS
+- <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-crewed-soyuz-mission-to-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Crewed Soyuz Mission to Space Station
+- <a href="http://www.nasa.gov/press-release/cobertura-de-la-misi-n-soyuz-con-tripulaci-n-a-la-estaci-n-espacial" >🔗</a> **[NASA]** Cobertura de la misión Soyuz con tripulación a la estación espacial
+- <a href="https://spaceflightnow.com/2022/09/18/soyuz-rocket-rolls-out-for-launch-of-russian-american-crew-to-space-station/" >🔗</a> **[Spaceflight Now]** Soyuz rocket rolls out for launch of Russian-American crew to space station
+- <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/" >🔗</a> **[NASASpaceflight]** Soyuz MS-22 to loft two Russians and one American to ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T230823">2022-09-20 23:08:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T234316">2022-09-20 23:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
