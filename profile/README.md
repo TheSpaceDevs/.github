@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/" >🔗</a> **[NASASpaceflight]** Soyuz MS-22 to loft two Russians and one American to ISS
 - <a href="http://www.nasa.gov/press-release/nasa-s-stakeholder-collaborations-help-inform-moon-to-mars-planning" >🔗</a> **[NASA]** NASA’s Stakeholder Collaborations Help Inform Moon to Mars Planning
 - <a href="https://spacenews.com/nasa-set-for-kinder-gentler-sls-tanking-test/" >🔗</a> **[SpaceNews]** NASA set for “kinder, gentler” SLS tanking test
 - <a href="https://spacenews.com/new-report-questions-dods-multi-orbit-plan-for-space-sensors/" >🔗</a> **[SpaceNews]** New report raises questions on DoD’s multi-orbit plan for space sensors
 - <a href="https://spacenews.com/saic-to-build-small-satellites-with-startup-rogue-space/" >🔗</a> **[SpaceNews]** SAIC to build small satellites with startup Rogue Space
-- <a href="https://spacenews.com/space-force-shifting-resources-to-intelligence-and-cybersecurity/" >🔗</a> **[SpaceNews]** Space Force shifting resources to intelligence and cybersecurity
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T172316">2022-09-20 17:23:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220920T174648">2022-09-20 17:46:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
