@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-orbital-launch-date-elon-musk-2022/" >🔗</a> **[Teslarati]** SpaceX’s first orbital Starship launch “highly likely” in November, says Elon Musk
+- <a href="https://spaceflightnow.com/2022/09/21/nasa-astronaut-launches-to-space-station-aboard-russian-rocket/" >🔗</a> **[Spaceflight Now]** NASA astronaut launches to space station aboard Russian rocket
+- <a href="https://spacenews.com/l3harris-missile-tracking-satellites-will-use-a-newly-designed-maxar-bus/" >🔗</a> **[SpaceNews]** L3Harris’ missile-tracking satellites will use a newly designed Maxar bus
+- <a href="https://spacenews.com/amazon-and-telesat-coordinate-their-planned-ngso-constellations/" >🔗</a> **[SpaceNews]** Amazon and Telesat coordinate their planned NGSO constellations
 - <a href="http://www.nasa.gov/press-release/nasa-astronaut-frank-rubio-crewmates-arrive-safely-at-space-station" >🔗</a> **[NASA]** NASA Astronaut Frank Rubio, Crewmates Arrive Safely at Space Station
-- <a href="https://www.teslarati.com/spacex-starlink-school-buses/" >🔗</a> **[Teslarati]** SpaceX filing shows plans to bring Starlink to U.S. school buses
-- <a href="https://spacenews.com/arkisys-applique/" >🔗</a> **[SpaceNews]** Arkisys’ first flight to demonstrate universal interface adapter
-- <a href="https://spacenews.com/spaced-ventures-spacex-petition/" >🔗</a> **[SpaceNews]** Spaced Ventures petition for SpaceX shares hits $11.4 million
-- <a href="https://spacenews.com/lander-companies-prepare-to-shoot-for-the-moon/" >🔗</a> **[SpaceNews]** Lander companies prepare to shoot for the moon
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T220806">2022-09-21 22:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T224321">2022-09-21 22:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
