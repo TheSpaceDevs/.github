@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-22/" >🔗</a> **[NASASpaceflight]** Soyuz MS-22 lofts two Russians and one American to ISS
 - <a href="https://spacenews.com/maxar-offering-new-space-monitoring-service-to-help-track-objects-in-orbit/" >🔗</a> **[SpaceNews]** Maxar offering new space-monitoring service to help track objects in orbit
 - <a href="https://arstechnica.com/science/2022/09/webb-telescope-captures-dazzling-views-of-neptune-and-its-moons/" >🔗</a> **[Arstechnica]** New JWST image reveals full glory of Neptune, its moons, and rings
 - <a href="https://spacenews.com/artemis-accords-signatories-hold-first-meeting/" >🔗</a> **[SpaceNews]** Artemis Accords signatories hold first meeting
 - <a href="https://www.nasaspaceflight.com/2022/09/artemis-i-fueling-test/" >🔗</a> **[NASASpaceflight]** NASA teams prepare for SLS fueling test to inform launch date
-- <a href="https://spacenews.com/draft-solicitation-for-national-security-space-launch-services-expected-in-early-2023/" >🔗</a> **[SpaceNews]** Draft solicitation for national security space launch services expected in early 2023
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T140809">2022-09-21 14:08:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220921T144619">2022-09-21 14:46:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
