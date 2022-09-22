@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/as-dod-grows-more-reliant-on-space-industry-it-needs-to-define-the-relationship/" >🔗</a> **[SpaceNews]** As DoD grows more reliant on space industry, it needs to define the relationship
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-demonstration-test-artemis-i-mission" >🔗</a> **[NASA]** NASA to Provide Media Update on Demonstration Test, Artemis I Mission
 - <a href="https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/" >🔗</a> **[Teslarati]** Marlink plans to offer Starlink to maritime customers
 - <a href="https://spacenews.com/mangata-seeks-permission-to-connect-uk-user-terminals/" >🔗</a> **[SpaceNews]** Mangata seeks permission to connect UK user terminals
 - <a href="https://spacenews.com/marlink-to-offer-starlink-to-maritime-and-enterprise-customers/" >🔗</a> **[SpaceNews]** Marlink to offer Starlink to maritime and enterprise customers
-- <a href="https://spacenews.com/nasa-studying-issue-with-jwst-instrument/" >🔗</a> **[SpaceNews]** NASA studying issue with JWST instrument
-- <a href="https://spacenews.com/dod-to-end-procurements-of-geosynchronous-missile-warning-satellites/" >🔗</a> **[SpaceNews]** DoD to end procurements of geosynchronous missile-warning satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T210739">2022-09-22 21:07:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T213947">2022-09-22 21:39:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
