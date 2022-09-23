@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-considering-quantum-cryptography-satellite-system/" >🔗</a> **[SpaceNews]** SES considering quantum cryptography satellite system
 - <a href="https://spacenews.com/ses-led-group-to-deploy-quantum-security-satellite-for-europe-in-2024/" >🔗</a> **[SpaceNews]** SES-led group to deploy quantum security satellite for Europe in 2024
 - <a href="https://spacenews.com/as-dod-grows-more-reliant-on-space-industry-it-needs-to-define-the-relationship/" >🔗</a> **[SpaceNews]** As DoD grows more reliant on space industry, it needs to define the relationship
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-demonstration-test-artemis-i-mission" >🔗</a> **[NASA]** NASA to Provide Media Update on Demonstration Test, Artemis I Mission
 - <a href="https://www.teslarati.com/marlink-plans-to-offer-starlink-to-maritime-customers/" >🔗</a> **[Teslarati]** Marlink plans to offer Starlink to maritime customers
-- <a href="https://spacenews.com/mangata-seeks-permission-to-connect-uk-user-terminals/" >🔗</a> **[SpaceNews]** Mangata seeks permission to connect UK user terminals
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T062532">2022-09-23 06:25:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T070546">2022-09-23 07:05:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
