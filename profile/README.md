@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review" >🔗</a> **[NASA]** NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review
 - <a href="https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/" >🔗</a> **[Arstechnica]** NASA seems to be in full “send it” mode for the Artemis I mission
 - <a href="https://www.teslarati.com/elon-musk-starlink-iran-us-sec-of-state/" >🔗</a> **[Teslarati]** Elon Musk activates Starlink for Iranian citizens after US Sec of State issued a General License
 - <a href="https://spacenews.com/avanti-turns-to-regional-operator-partnerships-to-expand-satellite-coverage/" >🔗</a> **[SpaceNews]** Avanti turns to regional operator partnerships to expand satellite coverage
 - <a href="https://spacenews.com/nasa-updates-exploration-objectives/" >🔗</a> **[SpaceNews]** NASA updates exploration objectives
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-crew-activities" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Crew Activities
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T220936">2022-09-23 22:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220923T224419">2022-09-23 22:44:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
