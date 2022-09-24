@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/" >🔗</a> **[SpaceNews]** NASA postpones Artemis 1 launch because of tropical storm
 - <a href="https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/" >🔗</a> **[Arstechnica]** NASA cancels Artemis I launch attempt, but will delay roll back decision
 - <a href="https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/" >🔗</a> **[NASASpaceflight]** Last West Coast Delta IV Heavy to launch with NROL-91
 - <a href="http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review" >🔗</a> **[NASA]** NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review
 - <a href="https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/" >🔗</a> **[Arstechnica]** NASA seems to be in full “send it” mode for the Artemis I mission
-- <a href="https://www.teslarati.com/elon-musk-starlink-iran-us-sec-of-state/" >🔗</a> **[Teslarati]** Elon Musk activates Starlink for Iranian citizens after US Sec of State issued a General License
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T160940">2022-09-24 16:09:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T165430">2022-09-24 16:54:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
