@@ -98,11 +98,12 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/ulas-delta-4-prepares-for-final-west-coast-launch-as-vandenberg-officials-seek-new-tenants/" >🔗</a> **[SpaceNews]** ULA’s Delta 4 prepares for final West Coast launch as Vandenberg seeks new tenants
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T071031">2022-09-24 07:10:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T073815">2022-09-24 07:38:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
