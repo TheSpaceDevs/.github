@@ -90,7 +90,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/" >🔗</a> **[SpaceNews]** NASA postpones Artemis 1 launch because of tropical storm
-- <a href="https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/" >🔗</a> **[Arstechnica]** NASA cancels Artemis I launch attempt, but will delay roll back decision
+- <a href="https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/" >🔗</a> **[Arstechnica]** NASA cancels Artemis I launch attempt but delays roll back decision
 - <a href="https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/" >🔗</a> **[NASASpaceflight]** Last West Coast Delta IV Heavy to launch with NROL-91
 - <a href="http://www.nasa.gov/press-release/nasa-to-cover-crew-arrival-to-launch-site-flight-readiness-review" >🔗</a> **[NASA]** NASA to Cover Crew Arrival to Launch Site, Flight Readiness Review
 - <a href="https://arstechnica.com/science/2022/09/nasa-seems-to-be-in-full-send-it-mode-for-the-artemis-i-mission/" >🔗</a> **[Arstechnica]** NASA seems to be in full “send it” mode for the Artemis I mission
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T181038">2022-09-24 18:10:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T184635">2022-09-24 18:46:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
