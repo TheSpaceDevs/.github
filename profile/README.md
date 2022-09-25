@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/dart-on-track-for-asteroid-collision/" >🔗</a> **[SpaceNews]** DART on track for asteroid collision
 - <a href="https://spacenews.com/nro-satellite-flies-to-orbit-in-delta-4s-final-west-coast-launch/" >🔗</a> **[SpaceNews]** NRO satellite flies to orbit in Delta 4’s final West Coast launch
 - <a href="https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/" >🔗</a> **[Spaceflight Now]** NASA waves off Tuesday launch for Artemis moon rocket
-- <a href="https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/" >🔗</a> **[SpaceNews]** NASA postpones Artemis 1 launch because of tropical storm
+- <a href="https://spaceflightnow.com/2022/09/24/delta-4-heavy-rocket-deploys-spy-satellite-on-final-planned-mission-from-slick-six-launch-pad/" >🔗</a> **[Spaceflight Now]** Delta 4-Heavy rocket deploys spysat on final planned mission from ‘Slick Six’
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T210722">2022-09-25 21:07:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T213813">2022-09-25 21:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
