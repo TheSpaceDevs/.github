@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/" >🔗</a> **[Spaceflight Now]** NASA waves off Tuesday launch for Artemis moon rocket
 - <a href="https://spacenews.com/nasa-postpones-artemis-1-launch-because-of-tropical-storm/" >🔗</a> **[SpaceNews]** NASA postpones Artemis 1 launch because of tropical storm
 - <a href="https://arstechnica.com/science/2022/09/nasa-cancels-artemis-i-launch-attempt-but-will-delay-rollback-decision/" >🔗</a> **[Arstechnica]** NASA cancels Artemis I launch attempt but delays roll back decision
-- <a href="https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/" >🔗</a> **[NASASpaceflight]** Last West Coast Delta IV Heavy to launch with NROL-91
+- <a href="https://www.nasaspaceflight.com/2022/09/delta-iv-nrol-91/" >🔗</a> **[NASASpaceflight]** Last West Coast Delta IV Heavy launches with NROL-91
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220924T234137">2022-09-24 23:41:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220925T004349">2022-09-25 00:43:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
