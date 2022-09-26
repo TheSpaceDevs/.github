@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/starlink-is-now-activated-in-iran/" >🔗</a> **[Teslarati]** Starlink is now activated in Iran
 - <a href="https://spacenews.com/dart-on-track-for-asteroid-collision/" >🔗</a> **[SpaceNews]** DART on track for asteroid collision
-- <a href="https://www.teslarati.com/spacex-new-launch-pad-turnaround-record-2022/" >🔗</a> **[Teslarati]** SpaceX pad breaks record with two Falcon 9 launches in six days
+- <a href="https://www.teslarati.com/spacex-new-launch-pad-turnaround-record-2022/" >🔗</a> **[Teslarati]** SpaceX breaks pad turnaround record with two Falcon 9 launches in six days
 - <a href="https://spacenews.com/nro-satellite-flies-to-orbit-in-delta-4s-final-west-coast-launch/" >🔗</a> **[SpaceNews]** NRO satellite flies to orbit in Delta 4’s final West Coast launch
 - <a href="https://spaceflightnow.com/2022/09/24/nasa-waves-off-tuesday-launch-for-artemis-moon-rocket/" >🔗</a> **[Spaceflight Now]** NASA waves off Tuesday launch for Artemis moon rocket
 
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T004839">2022-09-26 00:48:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T034304">2022-09-26 03:43:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
