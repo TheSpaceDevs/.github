@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-rollback" >🔗</a> **[NASA]** NASA to Provide Media Update on Artemis I Rollback
+- <a href="https://arstechnica.com/science/2022/09/ian-reaches-major-hurricane-status-will-be-a-historic-storm-for-florida/" >🔗</a> **[Arstechnica]** Ian reaches major hurricane status, will be a historic storm for Florida
 - <a href="https://spacenews.com/lawmakers-press-air-force-for-final-decision-on-u-s-space-command/" >🔗</a> **[SpaceNews]** Lawmakers press Air Force for final decision on U.S. Space Command
 - <a href="https://spacenews.com/transastra-celestron-telescopes/" >🔗</a> **[SpaceNews]** TransAstra and Celestron to modify telescopes for spaceflight
 - <a href="https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/" >🔗</a> **[SpaceNews]** UK shortlists Astroscale and ClearSpace for multi-debris removal mission
-- <a href="https://www.nasaspaceflight.com/2022/09/dart-impact/" >🔗</a> **[NASASpaceflight]** Brace for impact: DART successfully slams into asteroid
-- <a href="https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/" >🔗</a> **[Spaceflight Now]** Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T121821">2022-09-27 12:18:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T132527">2022-09-27 13:25:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
