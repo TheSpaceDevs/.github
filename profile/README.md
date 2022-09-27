@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 6 | Shiyan 16 A/B & Shiyan 17 (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Zhuque-2 | Maiden Flight**. It is scheduled to be launched by *LandSpace*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 16</a>, Taiyuan, People's Republic of China*
+from *<a href="">Unknown Pad</a>, Jiuquan, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T234300">2022-09-26 23:43:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 113 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T000000">2022-09-30 00:00:00 UTC</a>.  Until
+then, this pad will have been used for 32
+out of 173 launches from this location. The launch status is currently
+*TBD* 🟧 . The mission type is
+*Test Flight* and the payload will be injected
 into *an Unknown Orbit
 (-)*.
 <br>
 <blockquote>
-  Unknown Payload
+  First flight of the new methalox rocket developed by Chinese startup LandSpace.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg" />
+  <a href="None" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=38.868222+N,+111.580240+E" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
+  <a href="" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T230700">2022-10-05 23:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221005T230700Z%2F20221006T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 33 & 34** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T004700">2022-10-07 00:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20221007T004700Z%2F20221007T005800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Epsilon | RAISE-3 & Others** from Uchinoura Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T220000">2022-10-10 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221010T220000Z%2F20221011T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T000000">2022-10-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | AngoSat-2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221012T000000Z%2F20221012T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | AngoSat-2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,7 +90,7 @@ into *an Unknown Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/" >🔗</a> **[SpaceNews]** UK shortlists Astroscale and ClearSpace for multi-debris removal mission
-- <a href="https://www.nasaspaceflight.com/2022/09/dart-impact/" >🔗</a> **[NASASpaceflight]** Brace for impact: NASA teams ready for DART’s asteroid impact test
+- <a href="https://www.nasaspaceflight.com/2022/09/dart-impact/" >🔗</a> **[NASASpaceflight]** Brace for impact: DART successfully slams into asteroid
 - <a href="https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/" >🔗</a> **[Spaceflight Now]** Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar
 - <a href="https://arstechnica.com/science/2022/09/nasa-makes-the-call-to-protect-its-artemis-i-mission-from-hurricane-ian/" >🔗</a> **[Arstechnica]** NASA makes the call to protect its Artemis I mission from Hurricane Ian
 - <a href="https://spacenews.com/sls-to-roll-back-to-vab-as-hurricane-approaches-florida/" >🔗</a> **[SpaceNews]** SLS to roll back to VAB as hurricane approaches Florida
@@ -97,11 +98,13 @@ into *an Unknown Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/chinas-landspace-appears-to-be-preparing-to-launch-its-new-methane-fueled-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace appears to be preparing to launch its new methane-fueled rocket
+- <a href="https://spacenews.com/new-launch-vehicles-set-for-test-flights-from-chinas-jiuquan-spaceport/" >🔗</a> **[SpaceNews]** New launch vehicles set for test flights from China’s Jiuquan spaceport
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220926T234754">2022-09-26 23:47:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T005242">2022-09-27 00:52:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
