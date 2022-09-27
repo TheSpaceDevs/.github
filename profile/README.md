@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lawmakers-press-air-force-for-final-decision-on-u-s-space-command/" >🔗</a> **[SpaceNews]** Lawmakers press Air Force for final decision on U.S. Space Command
 - <a href="https://spacenews.com/transastra-celestron-telescopes/" >🔗</a> **[SpaceNews]** TransAstra and Celestron to modify telescopes for spaceflight
 - <a href="https://spacenews.com/uk-shortlists-astroscale-and-clearspace-for-multi-debris-removal-mission/" >🔗</a> **[SpaceNews]** UK shortlists Astroscale and ClearSpace for multi-debris removal mission
 - <a href="https://www.nasaspaceflight.com/2022/09/dart-impact/" >🔗</a> **[NASASpaceflight]** Brace for impact: DART successfully slams into asteroid
 - <a href="https://spaceflightnow.com/2022/09/26/hurricane-ian-prompts-nasa-to-move-artemis-moon-rocket-back-to-its-hangar/" >🔗</a> **[Spaceflight Now]** Hurricane Ian prompts NASA to move Artemis moon rocket back to its hangar
-- <a href="https://arstechnica.com/science/2022/09/nasa-makes-the-call-to-protect-its-artemis-i-mission-from-hurricane-ian/" >🔗</a> **[Arstechnica]** NASA makes the call to protect its Artemis I mission from Hurricane Ian
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T101137">2022-09-27 10:11:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T104627">2022-09-27 10:46:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
