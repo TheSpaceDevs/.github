@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/" >🔗</a> **[NASASpaceflight]** China conducts three launches with Shiyan and Yaogan satellites
 - <a href="http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract" >🔗</a> **[NASA]** NASA Awards Laboratory Support Services Contract
 - <a href="https://spacenews.com/crew-5-launch-preparations-continue-amid-hurricane-threat/" >🔗</a> **[SpaceNews]** Crew-5 launch preparations continue amid hurricane threat
 - <a href="https://spacenews.com/china-conducts-trio-of-orbital-launches-across-two-days/" >🔗</a> **[SpaceNews]** China conducts trio of orbital launches across two days
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-rollback" >🔗</a> **[NASA]** NASA to Provide Media Update on Artemis I Rollback
-- <a href="https://arstechnica.com/science/2022/09/ian-reaches-major-hurricane-status-will-be-a-historic-storm-for-florida/" >🔗</a> **[Arstechnica]** Ian reaches major hurricane status, will be a historic storm for Florida
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T161518">2022-09-27 16:15:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220927T170600">2022-09-27 17:06:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
