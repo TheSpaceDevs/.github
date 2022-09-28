@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-commercial-small-satellite-data-acquisition-agreement" >🔗</a> **[NASA]** NASA Awards Commercial Small Satellite Data Acquisition Agreement
 - <a href="https://spacenews.com/lynk-global-to-deploy-experimental-5g-payload-in-december/" >🔗</a> **[SpaceNews]** Lynk Global to deploy experimental 5G payload in December
 - <a href="https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/" >🔗</a> **[SpaceNews]** NRO signs agreements with six commercial providers of space-based RF data
 - <a href="https://spaceflightnow.com/2022/09/28/hurricane-ian-impacts-ksc-live/" >🔗</a> **[Spaceflight Now]** Watch live views from Kennedy Space Center as Hurricane Ian impacts Florida
 - <a href="https://www.nasaspaceflight.com/2022/09/brace-for-ian/" >🔗</a> **[NASASpaceflight]** Florida spaceports brace for Hurricane Ian
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T193857">2022-09-28 19:38:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T200952">2022-09-28 20:09:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
