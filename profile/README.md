@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kayhan-astroscale-ut-austin-win-space-force-study-contract-for-in-orbit-servicing-technology/" >🔗</a> **[SpaceNews]** Kayhan, Astroscale, UT Austin win Space Force study contract for in-orbit servicing technology
 - <a href="https://spacenews.com/china-seeks-new-partners-for-lunar-and-deep-space-exploration/" >🔗</a> **[SpaceNews]** China seeks new partners for lunar and deep space exploration
 - <a href="https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/" >🔗</a> **[NASASpaceflight]** China conducts three launches with Shiyan and Yaogan satellites
 - <a href="http://www.nasa.gov/press-release/nasa-awards-laboratory-support-services-contract" >🔗</a> **[NASA]** NASA Awards Laboratory Support Services Contract
 - <a href="https://spacenews.com/crew-5-launch-preparations-continue-amid-hurricane-threat/" >🔗</a> **[SpaceNews]** Crew-5 launch preparations continue amid hurricane threat
-- <a href="https://spacenews.com/china-conducts-trio-of-orbital-launches-across-two-days/" >🔗</a> **[SpaceNews]** China conducts trio of orbital launches across two days
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T110847">2022-09-28 11:08:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T114007">2022-09-28 11:40:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
