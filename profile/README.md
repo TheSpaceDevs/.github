@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/brace-for-ian/" >🔗</a> **[NASASpaceflight]** Florida spaceports brace for Hurricane Ian
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch
 - <a href="https://arstechnica.com/science/2022/09/as-a-meteorologist-hurricane-ian-is-the-nightmare-storm-i-worry-about-most/" >🔗</a> **[Arstechnica]** As a meteorologist, Hurricane Ian is the nightmare storm I worry about most
 - <a href="https://spacenews.com/kayhan-astroscale-ut-austin-win-space-force-study-contract-for-in-orbit-servicing-technology/" >🔗</a> **[SpaceNews]** Kayhan, Astroscale, UT Austin win Space Force study contract for in-orbit servicing technology
 - <a href="https://spacenews.com/china-seeks-new-partners-for-lunar-and-deep-space-exploration/" >🔗</a> **[SpaceNews]** China seeks new partners for lunar and deep space exploration
-- <a href="https://www.nasaspaceflight.com/2022/09/china-three-launches-shiyan-yaogan/" >🔗</a> **[NASASpaceflight]** China conducts three launches with Shiyan and Yaogan satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T161645">2022-09-28 16:16:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T170935">2022-09-28 17:09:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
