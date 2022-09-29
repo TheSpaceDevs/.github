@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/" >🔗</a> **[SpaceNews]** Majority of tracked Russian ASAT debris has deorbited
 - <a href="https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/" >🔗</a> **[Spaceflight Now]** Russian Soyuz brings three cosmonauts home from space station
 - <a href="https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/" >🔗</a> **[Arstechnica]** Juno swoops past Europa, revealing the mysterious, icy world [Updated]
+- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly slated for another launch attempt for second Alpha flight
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-descent-landing-technology" >🔗</a> **[NASA]** NASA Awards Contracts in Support of Entry, Descent, Landing Technology
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-new-science-commercial-study-today" >🔗</a> **[NASA]** NASA Invites Media to Discuss New Science, Commercial Study Today
-- <a href="https://spacenews.com/fcc-approves-new-orbital-debris-rule/" >🔗</a> **[SpaceNews]** FCC approves new orbital debris rule
 
 
 ### Launch-related News 🚀
@@ -104,14 +104,14 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
 - <a href="https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Firefly hires new CEO ahead of second launch
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
-- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly stands down from second launch attempt due to weather
+- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly slated for another launch attempt for second Alpha flight
 - <a href="https://spaceflightnow.com/2022/09/10/fireflys-second-rocket-set-for-launch-from-california/" >🔗</a> **[Spaceflight Now]** Firefly’s second rocket set for launch from California
 - <a href="https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Firefly’s second Alpha rocket raised on launch pad
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T201036">2022-09-29 20:10:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T204433">2022-09-29 20:44:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
