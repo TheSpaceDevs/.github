@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/" >🔗</a> **[Arstechnica]** Juno just raced by Europa, providing our best look in 20 years at the icy world
 - <a href="https://spacenews.com/nasa-and-astra-modify-tropics-launch-contract/" >🔗</a> **[SpaceNews]** NASA and Astra modify TROPICS launch contract
 - <a href="https://spacenews.com/house-committee-questions-fcc-orbital-debris-rule/" >🔗</a> **[SpaceNews]** House committee questions FCC orbital debris rule
 - <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/" >🔗</a> **[NASASpaceflight]** Soyuz MS-21 lands on the Kazakh steppe to complete 195 day mission
 - <a href="https://spacenews.com/remote-working-trend/" >🔗</a> **[SpaceNews]** Shift to remote work draws mixed reactions
-- <a href="https://spacenews.com/lamborn-merit-on-both-sides-of-debate-over-space-national-guard/" >🔗</a> **[SpaceNews]** Lamborn: ‘Merit on both sides’ of debate over Space National Guard
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T132357">2022-09-29 13:23:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T140647">2022-09-29 14:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
