@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-viasat-3-enters-environmental-testing/" >🔗</a> **[SpaceNews]** First ViaSat-3 enters environmental testing
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium" >🔗</a> **[NASA]** NASA Awards Contract for Acquisition of Gaseous, Liquid Helium
+- <a href="https://spacenews.com/hungarys-4ig-to-buy-a-majority-of-spacecom-in-stages/" >🔗</a> **[SpaceNews]** Hungary’s 4iG to buy a majority of Spacecom in stages
 - <a href="https://spacenews.com/kendall-power-competition-in-space-becoming-more-destabilizing/" >🔗</a> **[SpaceNews]** Kendall: Power competition in space becoming more destabilizing
 - <a href="https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/" >🔗</a> **[SpaceNews]** Majority of tracked Russian ASAT debris has deorbited
-- <a href="https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/" >🔗</a> **[Spaceflight Now]** Russian Soyuz brings three cosmonauts home from space station
-- <a href="https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/" >🔗</a> **[Arstechnica]** Juno swoops past Europa, revealing the mysterious, icy world [Updated]
-- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly slated for another launch attempt for second Alpha flight
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T220842">2022-09-29 22:08:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T224335">2022-09-29 22:43:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
