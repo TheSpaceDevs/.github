@@ -90,7 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/house-committee-questions-fcc-orbital-debris-rule/" >🔗</a> **[SpaceNews]** House committee questions FCC orbital debris rule
-- <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/" >🔗</a> **[NASASpaceflight]** Soyuz MS-21 scheduled to land on the Kazakh steppe on Thursday
+- <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/" >🔗</a> **[NASASpaceflight]** Soyuz MS-21 lands on the Kazakh steppe to complete 195 day mission
 - <a href="https://spacenews.com/remote-working-trend/" >🔗</a> **[SpaceNews]** Shift to remote work draws mixed reactions
 - <a href="https://spacenews.com/lamborn-merit-on-both-sides-of-debate-over-space-national-guard/" >🔗</a> **[SpaceNews]** Lamborn: ‘Merit on both sides’ of debate over Space National Guard
 - <a href="https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/" >🔗</a> **[Spaceflight Now]** SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T110742">2022-09-29 11:07:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T113953">2022-09-29 11:39:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
