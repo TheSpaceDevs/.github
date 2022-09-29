@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/09/soyuz-ms-21-landing/" >🔗</a> **[NASASpaceflight]** Soyuz MS-21 scheduled to land on the Kazakh steppe on Thursday
+- <a href="https://spacenews.com/remote-working-trend/" >🔗</a> **[SpaceNews]** Shift to remote work draws mixed reactions
 - <a href="https://spacenews.com/lamborn-merit-on-both-sides-of-debate-over-space-national-guard/" >🔗</a> **[SpaceNews]** Lamborn: ‘Merit on both sides’ of debate over Space National Guard
 - <a href="https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/" >🔗</a> **[Spaceflight Now]** SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida
 - <a href="http://www.nasa.gov/press-release/nasa-awards-commercial-small-satellite-data-acquisition-agreement" >🔗</a> **[NASA]** NASA Awards Commercial Small Satellite Data Acquisition Agreement
-- <a href="https://spacenews.com/lynk-global-to-deploy-experimental-5g-payload-in-december/" >🔗</a> **[SpaceNews]** Lynk Global to deploy experimental 5G payload in December
-- <a href="https://spacenews.com/nro-signs-agreements-with-six-commercial-providers-of-space-based-rf-data/" >🔗</a> **[SpaceNews]** NRO signs agreements with six commercial providers of space-based RF data
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220928T234541">2022-09-28 23:45:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T005908">2022-09-29 00:59:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
