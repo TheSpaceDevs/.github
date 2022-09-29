@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kendall-power-competition-in-space-becoming-more-destabilizing/" >🔗</a> **[SpaceNews]** Kendall: Power competition in space becoming more destabilizing
 - <a href="https://spacenews.com/majority-of-tracked-russian-asat-debris-has-deorbited/" >🔗</a> **[SpaceNews]** Majority of tracked Russian ASAT debris has deorbited
 - <a href="https://spaceflightnow.com/2022/09/29/russian-soyuz-brings-three-cosmonauts-home-from-space-station/" >🔗</a> **[Spaceflight Now]** Russian Soyuz brings three cosmonauts home from space station
 - <a href="https://arstechnica.com/science/2022/09/nasa-just-made-a-close-flyby-of-jupiters-most-intriguing-moon/" >🔗</a> **[Arstechnica]** Juno swoops past Europa, revealing the mysterious, icy world [Updated]
 - <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly slated for another launch attempt for second Alpha flight
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-in-support-of-entry-descent-landing-technology" >🔗</a> **[NASA]** NASA Awards Contracts in Support of Entry, Descent, Landing Technology
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T210830">2022-09-29 21:08:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220929T214226">2022-09-29 21:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
