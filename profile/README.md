@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
 - <a href="https://spacenews.com/firefly-hires-new-ceo-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Firefly hires new CEO ahead of second launch
 - <a href="https://www.teslarati.com/spacex-firefly-three-launches-one-weekend/" >🔗</a> **[Teslarati]** SpaceX, Firefly Aerospace targeting three rocket launches in two days
-- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly slated for another launch attempt for second Alpha flight
+- <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly scrubs launch attempt for second Alpha flight
 - <a href="https://spaceflightnow.com/2022/09/10/fireflys-second-rocket-set-for-launch-from-california/" >🔗</a> **[Spaceflight Now]** Firefly’s second rocket set for launch from California
 - <a href="https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Firefly’s second Alpha rocket raised on launch pad
 - <a href="https://spaceflightnow.com/2022/09/29/firefly-ready-for-another-try-to-launch-test-flight-of-smallsat-rocket/" >🔗</a> **[Spaceflight Now]** Firefly ready for another try to launch test flight of smallsat rocket
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T081837">2022-09-30 08:18:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T085951">2022-09-30 08:59:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
