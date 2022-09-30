@@ -107,11 +107,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2022/09/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly slated for another launch attempt for second Alpha flight
 - <a href="https://spaceflightnow.com/2022/09/10/fireflys-second-rocket-set-for-launch-from-california/" >🔗</a> **[Spaceflight Now]** Firefly’s second rocket set for launch from California
 - <a href="https://spaceflightnow.com/2022/09/11/photos-fireflys-second-alpha-rocket-raised-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Photos: Firefly’s second Alpha rocket raised on launch pad
+- <a href="https://spaceflightnow.com/2022/09/29/firefly-ready-for-another-try-to-launch-test-flight-of-smallsat-rocket/" >🔗</a> **[Spaceflight Now]** Firefly ready for another try to launch test flight of smallsat rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T055049">2022-09-30 05:50:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T064317">2022-09-30 06:43:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
