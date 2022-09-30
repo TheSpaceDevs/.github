@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/south-korea-seeks-32-9-million-to-launch-satellites-grounded-by-russia-sanctions/" >🔗</a> **[SpaceNews]** South Korea seeks $32.9 million to launch satellites grounded by Russia sanctions
+- <a href="https://spacenews.com/nasa-and-spacex-to-study-possible-private-hubble-servicing-mission/" >🔗</a> **[SpaceNews]** NASA and SpaceX to study possible private Hubble servicing mission
 - <a href="https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/" >🔗</a> **[Arstechnica]** Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show
 - <a href="https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/" >🔗</a> **[Teslarati]** SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft
 - <a href="https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/" >🔗</a> **[Arstechnica]** NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life
-- <a href="https://spacenews.com/first-viasat-3-enters-environmental-testing/" >🔗</a> **[SpaceNews]** First ViaSat-3 enters environmental testing
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium" >🔗</a> **[NASA]** NASA Awards Contract for Acquisition of Gaseous, Liquid Helium
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T121831">2022-09-30 12:18:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T132603">2022-09-30 13:26:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
