@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-5-events-broadcast-launch" >🔗</a> **[NASA]** Coverage Set for NASA’s SpaceX Crew-5 Events, Broadcast, Launch
+- <a href="https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/" >🔗</a> **[Arstechnica]** Florida’s Space Coast on track after Ian, set for 3 launches in 3 days
 - <a href="https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/" >🔗</a> **[SpaceNews]** US candidate to be first woman to lead UN telecoms agency
 - <a href="https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/" >🔗</a> **[SpaceNews]** Space surveillance telescope developed by the U.S. begins operations in Australia
 - <a href="https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/" >🔗</a> **[SpaceNews]** National Space Council to seek industry input on future regulatory framework
-- <a href="http://www.nasa.gov/press-release/nasa-usgs-map-minerals-to-understand-earth-makeup-climate-change" >🔗</a> **[NASA]** NASA, USGS Map Minerals to Understand Earth Makeup, Climate Change
-- <a href="https://spacenews.com/space-force-studying-requirements-for-cislunar-space-domain-awareness/" >🔗</a> **[SpaceNews]** Space Force studying requirements for cislunar space domain awareness
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T220844">2022-09-30 22:08:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T224410">2022-09-30 22:44:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
