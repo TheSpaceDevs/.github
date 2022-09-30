@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/" >🔗</a> **[Arstechnica]** Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show
 - <a href="https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/" >🔗</a> **[Teslarati]** SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft
 - <a href="https://arstechnica.com/science/2022/09/nasa-and-spacex-are-studying-a-hubble-telescope-boost-adding-15-to-20-years-of-life/" >🔗</a> **[Arstechnica]** NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life
 - <a href="https://spacenews.com/first-viasat-3-enters-environmental-testing/" >🔗</a> **[SpaceNews]** First ViaSat-3 enters environmental testing
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-acquisition-of-gaseous-liquid-helium" >🔗</a> **[NASA]** NASA Awards Contract for Acquisition of Gaseous, Liquid Helium
-- <a href="https://spacenews.com/hungarys-4ig-to-buy-a-majority-of-spacecom-in-stages/" >🔗</a> **[SpaceNews]** Hungary’s 4iG to buy a majority of Spacecom in stages
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T110721">2022-09-30 11:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T113931">2022-09-30 11:39:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
