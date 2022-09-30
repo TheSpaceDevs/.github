@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/" >🔗</a> **[SpaceNews]** Space surveillance telescope developed by the U.S. begins operations in Australia
+- <a href="https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/" >🔗</a> **[SpaceNews]** National Space Council to seek industry input on future regulatory framework
+- <a href="http://www.nasa.gov/press-release/nasa-usgs-map-minerals-to-understand-earth-makeup-climate-change" >🔗</a> **[NASA]** NASA, USGS Map Minerals to Understand Earth Makeup, Climate Change
+- <a href="https://spacenews.com/space-force-studying-requirements-for-cislunar-space-domain-awareness/" >🔗</a> **[SpaceNews]** Space Force studying requirements for cislunar space domain awareness
 - <a href="http://www.nasa.gov/press-release/nasa-updates-crew-assignments-for-first-starliner-crew-rotation-flight" >🔗</a> **[NASA]** NASA Updates Crew Assignments for First Starliner Crew Rotation Flight
-- <a href="https://spacenews.com/south-korea-seeks-32-9-million-to-launch-satellites-grounded-by-russia-sanctions/" >🔗</a> **[SpaceNews]** South Korea seeks $32.9 million to launch satellites grounded by Russia sanctions
-- <a href="https://spacenews.com/nasa-and-spacex-to-study-possible-private-hubble-servicing-mission/" >🔗</a> **[SpaceNews]** NASA and SpaceX to study possible private Hubble servicing mission
-- <a href="https://arstechnica.com/science/2022/09/rocket-report-be-4-engine-breathes-fire-delta-iv-heavy-puts-on-a-show/" >🔗</a> **[Arstechnica]** Rocket Report: BE-4 engine breathes fire; Delta IV Heavy puts on a show
-- <a href="https://www.teslarati.com/spacex-nasa-hubble-space-telescope-orbit-boost-study/" >🔗</a> **[Teslarati]** SpaceX wants to boost Hubble Space Telescope’s orbit with Dragon spacecraft
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T151222">2022-09-30 15:12:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T175347">2022-09-30 17:53:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
