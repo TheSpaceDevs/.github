@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/us-candidate-to-be-first-woman-to-lead-un-telecoms-agency/" >🔗</a> **[SpaceNews]** US candidate to be first woman to lead UN telecoms agency
 - <a href="https://spacenews.com/space-surveillance-telescope-developed-by-the-u-s-begins-operations-in-australia/" >🔗</a> **[SpaceNews]** Space surveillance telescope developed by the U.S. begins operations in Australia
 - <a href="https://spacenews.com/national-space-council-to-seek-industry-input-on-future-regulatory-framework/" >🔗</a> **[SpaceNews]** National Space Council to seek industry input on future regulatory framework
 - <a href="http://www.nasa.gov/press-release/nasa-usgs-map-minerals-to-understand-earth-makeup-climate-change" >🔗</a> **[NASA]** NASA, USGS Map Minerals to Understand Earth Makeup, Climate Change
 - <a href="https://spacenews.com/space-force-studying-requirements-for-cislunar-space-domain-awareness/" >🔗</a> **[SpaceNews]** Space Force studying requirements for cislunar space domain awareness
-- <a href="http://www.nasa.gov/press-release/nasa-updates-crew-assignments-for-first-starliner-crew-rotation-flight" >🔗</a> **[NASA]** NASA Updates Crew Assignments for First Starliner Crew Rotation Flight
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T210751">2022-09-30 21:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220930T214102">2022-09-30 21:41:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
