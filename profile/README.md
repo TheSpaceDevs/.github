@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/" >🔗</a> **[Spaceflight Now]** Preps resume for SpaceX crew launch after Hurricane Ian
 - <a href="https://spacenews.com/firefly-millennium-space-selected-for-u-s-space-force-rapid-launch-demonstration/" >🔗</a> **[SpaceNews]** Firefly, Millennium Space selected for U.S. Space Force rapid-launch demonstration
 - <a href="https://spacenews.com/fireflys-alpha-rocket-reaches-orbit-on-second-launch/" >🔗</a> **[SpaceNews]** Firefly’s Alpha rocket reaches orbit on second launch
 - <a href="https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/" >🔗</a> **[NASASpaceflight]** Firefly succeeds on second Alpha flight
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-5-events-broadcast-launch" >🔗</a> **[NASA]** Coverage Set for NASA’s SpaceX Crew-5 Events, Broadcast, Launch
-- <a href="https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/" >🔗</a> **[Arstechnica]** Florida’s Space Coast on track after Ian, set for 3 launches in 3 days
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T210719">2022-10-01 21:07:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221001T213950">2022-10-01 21:39:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
