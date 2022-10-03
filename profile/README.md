@@ -18,34 +18,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 4-29**. It is scheduled to be launched by *SpaceX*
+**Atlas V 531 | SES-20 & SES-21**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T235600">2022-10-03 23:56:00 UTC</a>.  Until
-then, this pad will have been used for 96
-out of 704 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a>.  Until
+then, this pad will have been used for 107
+out of 858 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Geostationary Orbit
+(Direct-GEO)*.
 <br>
 <blockquote>
-  A batch of 52 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  SES-20 & SES-21 are a pair of C-band communication satellites built by Boeing, using the highly efficient all-electric propulsion BSS-702SP satellite bus.
+
+These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use while seamlessly migrating SES’s existing C-band customers and ensuring the continued delivery of digital television to nearly 120 million American TV homes and other critical data services.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221001060433.png" />
+  <a href="None" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520531_image_20190222030726.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T235600">2022-10-03 23:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221003T235600Z%2F20221003T235600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-29** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 531 | SES-20 &amp; SES-21&location=Cape Canaveral, FL, USA&dates=20221004T213600Z%2F20221004T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 531 | SES-20 & SES-21** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T234810">2022-10-04 23:48:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221004T234810Z%2F20221004T234810Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-29** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T160000">2022-10-05 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-5&location=Kennedy Space Center, FL, USA&dates=20221005T160000Z%2F20221005T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-5** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T170000">2022-10-06 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | It Argos Up From Here&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221006T170000Z%2F20221006T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | It Argos Up From Here** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221006T230700Z%2F20221007T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 33 & 34** from Cape Canaveral, FL, USA.
@@ -91,19 +93,24 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/" >🔗</a> **[SpaceNews]** Redwire back on acquisition trail with deal for QinetiQ Space
 - <a href="https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/" >🔗</a> **[SpaceNews]** EnerStar Solutions announces third Starlink enterprise reseller deal
-- <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX preparing for launch of 52 Starlink satellites from Vandenberg
+- <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX delays launch of 52 Starlink satellites from Vandenberg
 - <a href="https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats
 - <a href="https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/" >🔗</a> **[Arstechnica]** After an amazing run at Mars, India says its orbiter has no more fuel
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX preparing for launch of 52 Starlink satellites from Vandenberg
+- <a href="https://spaceflightnow.com/2020/08/05/ula-spacex-win-contracts-to-launch-satellites-for-ses-in-2022/" >🔗</a> **[Spaceflight Now]** ULA, SpaceX win contracts to launch satellites for SES in 2022
+- <a href="https://spacenews.com/spacex-ula-to-launch-c-band-satellites-for-ses/" >🔗</a> **[SpaceNews]** SpaceX, ULA to launch C-band satellites for SES
+- <a href="https://www.teslarati.com/spacex-falcon-9-ula-atlas-v-win-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX Falcon 9, ULA Atlas V rockets win dual satellite launch contracts
+- <a href="https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/" >🔗</a> **[Spaceflight Now]** SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida
+- <a href="https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/" >🔗</a> **[Arstechnica]** Florida’s Space Coast on track after Ian, set for 3 launches in 3 days
+- <a href="https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T230949">2022-10-03 23:09:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T234635">2022-10-03 23:46:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
