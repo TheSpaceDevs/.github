@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2022/10/starship-booster-7-return/" >🔗</a> **[NASASpaceflight]** Amid Starship milestones, Booster 7 set to return for pre-launch testing
+- <a href="https://spacenews.com/nasa-pushes-back-artemis-1-launch-to-november/" >🔗</a> **[SpaceNews]** NASA pushes back Artemis 1 launch to November
 - <a href="https://spacenews.com/space-development-agency-is-now-officially-part-of-the-space-force/" >🔗</a> **[SpaceNews]** Space Development Agency is now officially part of the Space Force
 - <a href="https://spaceflightnow.com/2022/10/01/nasa-rules-out-launch-of-artemis-1-moon-rocket-before-mid-november/" >🔗</a> **[Spaceflight Now]** NASA rules out launch of Artemis 1 moon rocket before mid-November
 - <a href="https://spaceflightnow.com/2022/10/01/preps-resume-for-spacex-crew-launch-after-hurricane-ian/" >🔗</a> **[Spaceflight Now]** Preps resume for SpaceX crew launch after Hurricane Ian
-- <a href="https://spaceflightnow.com/2022/10/01/firefly-reaches-orbit-in-successful-demonstration-launch-from-california/" >🔗</a> **[Spaceflight Now]** Firefly reaches orbit in successful demonstration launch from California
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T004802">2022-10-03 00:48:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T025614">2022-10-03 02:56:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
