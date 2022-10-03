@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/" >🔗</a> **[SpaceNews]** Redwire back on acquisition trail with deal for QinetiQ Space
+- <a href="https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/" >🔗</a> **[SpaceNews]** EnerStar Solutions announces third Starlink enterprise reseller deal
 - <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX preparing for launch of 52 Starlink satellites from Vandenberg
 - <a href="https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats
 - <a href="https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/" >🔗</a> **[Arstechnica]** After an amazing run at Mars, India says its orbiter has no more fuel
-- <a href="https://spacenews.com/viasat-sells-tactical-data-communications-business-to-l3harris-for-1-96-billion/" >🔗</a> **[SpaceNews]** Viasat sells tactical data communications business to L3Harris for $1.96 billion
-- <a href="https://arstechnica.com/science/2022/10/with-orbital-launch-firefly-takes-an-early-lead-in-the-1-ton-rocket-race/" >🔗</a> **[Arstechnica]** With orbital launch, Firefly takes an early lead in the 1-ton rocket race
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T220907">2022-10-03 22:09:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221003T224518">2022-10-03 22:45:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
