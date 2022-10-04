@@ -47,8 +47,8 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T213600">2022-10-04 21:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 531 | SES-20 &amp; SES-21&location=Cape Canaveral, FL, USA&dates=20221004T213600Z%2F20221004T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 531 | SES-20 & SES-21** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T234810">2022-10-04 23:48:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221004T234810Z%2F20221004T234810Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-29** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T160000">2022-10-05 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-5&location=Kennedy Space Center, FL, USA&dates=20221005T160000Z%2F20221005T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-5** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T231000">2022-10-05 23:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-29&location=Vandenberg SFB, CA, USA&dates=20221005T231000Z%2F20221005T231000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-29** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T170000">2022-10-06 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | It Argos Up From Here&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20221006T170000Z%2F20221006T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | It Argos Up From Here** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T230700">2022-10-06 23:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221006T230700Z%2F20221007T001400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 33 & 34** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T004700">2022-10-07 00:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Epsilon | RAISE-3 &amp; Others&location=Uchinoura Space Center, Japan&dates=20221007T004700Z%2F20221007T005800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Epsilon | RAISE-3 & Others** from Uchinoura Space Center, Japan.
@@ -91,11 +91,11 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aei-acquires-york-stake/" >🔗</a> **[SpaceNews]** AEI claims majority stake in York Space Systems
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown" >🔗</a> **[NASA]** NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown
 - <a href="https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/" >🔗</a> **[NASASpaceflight]** Final Atlas V 531 to launch dual SES-20 and SES-21 satellites
 - <a href="http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday" >🔗</a> **[NASA]** NASA Science Leadership to Hold Town Hall Meeting Thursday
 - <a href="https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/" >🔗</a> **[Arstechnica]** SpaceX has been bidding against itself for NASA’s science missions for a while
-- <a href="https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/" >🔗</a> **[SpaceNews]** Redwire back on acquisition trail with deal for QinetiQ Space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T201044">2022-10-04 20:10:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T204601">2022-10-04 20:46:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
