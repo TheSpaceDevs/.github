@@ -91,11 +91,11 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/" >🔗</a> **[Arstechnica]** For most science missions, NASA is down to a single launch provider
 - <a href="https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/" >🔗</a> **[SpaceNews]** Redwire back on acquisition trail with deal for QinetiQ Space
 - <a href="https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/" >🔗</a> **[SpaceNews]** EnerStar Solutions announces third Starlink enterprise reseller deal
 - <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX delays launch of 52 Starlink satellites from Vandenberg
 - <a href="https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats
-- <a href="https://arstechnica.com/science/2022/10/after-an-amazing-run-at-mars-india-says-its-orbiter-has-no-more-fuel/" >🔗</a> **[Arstechnica]** After an amazing run at Mars, India says its orbiter has no more fuel
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T121830">2022-10-04 12:18:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T132630">2022-10-04 13:26:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
