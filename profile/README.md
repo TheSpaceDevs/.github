@@ -91,11 +91,11 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/" >🔗</a> **[NASASpaceflight]** Final Atlas V 531 to launch dual SES-20 and SES-21 satellites
 - <a href="http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday" >🔗</a> **[NASA]** NASA Science Leadership to Hold Town Hall Meeting Thursday
 - <a href="https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/" >🔗</a> **[Arstechnica]** SpaceX has been bidding against itself for NASA’s science missions for a while
-- <a href="https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/" >🔗</a> **[SpaceNews]** EnerStar Solutions announces third Starlink enterprise reseller deal
 - <a href="https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/" >🔗</a> **[SpaceNews]** Redwire back on acquisition trail with deal for QinetiQ Space
-- <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX delays launch of 52 Starlink satellites from Vandenberg
+- <a href="https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/" >🔗</a> **[SpaceNews]** EnerStar Solutions announces third Starlink enterprise reseller deal
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T151352">2022-10-04 15:13:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T154843">2022-10-04 15:48:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
