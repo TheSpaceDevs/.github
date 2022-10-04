@@ -91,11 +91,11 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown" >🔗</a> **[NASA]** NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown
 - <a href="https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/" >🔗</a> **[NASASpaceflight]** Final Atlas V 531 to launch dual SES-20 and SES-21 satellites
 - <a href="http://www.nasa.gov/press-release/nasa-science-leadership-to-hold-town-hall-meeting-thursday" >🔗</a> **[NASA]** NASA Science Leadership to Hold Town Hall Meeting Thursday
 - <a href="https://arstechnica.com/science/2022/10/for-most-science-missions-nasa-is-down-to-a-single-launch-provider/" >🔗</a> **[Arstechnica]** SpaceX has been bidding against itself for NASA’s science missions for a while
 - <a href="https://spacenews.com/redwire-back-on-acquisition-trail-with-deal-for-qinetiq-space/" >🔗</a> **[SpaceNews]** Redwire back on acquisition trail with deal for QinetiQ Space
-- <a href="https://spacenews.com/enerstar-solutions-announces-third-starlink-enterprise-reseller-deal/" >🔗</a> **[SpaceNews]** EnerStar Solutions announces third Starlink enterprise reseller deal
 
 
 ### Launch-related News 🚀
@@ -106,11 +106,12 @@ These satellites will enable SES to clear 280MHz of mid-band spectrum for 5G use
 - <a href="https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/" >🔗</a> **[Spaceflight Now]** SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida
 - <a href="https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/" >🔗</a> **[Arstechnica]** Florida’s Space Coast on track after Ian, set for 3 launches in 3 days
 - <a href="https://spaceflightnow.com/2022/10/03/atlas-5-rollout-for-ses-launch/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket rolls launch pad at Cape Canaveral with two SES comsats
+- <a href="https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/" >🔗</a> **[NASASpaceflight]** Final Atlas V 531 to launch dual SES-20 and SES-21 satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T161447">2022-10-04 16:14:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221004T170803">2022-10-04 17:08:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
