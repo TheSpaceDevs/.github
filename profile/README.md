@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-south-korea-join-asat-test-ban-raising-like-minded-countries-to-seven/" >🔗</a> **[SpaceNews]** UK, South Korea join ASAT test ban, raising like-minded countries to seven
+- <a href="https://spacenews.com/ses-closer-to-4-billion-payout-after-ula-launch-to-near-geostationary-orbit/" >🔗</a> **[SpaceNews]** SES closer to $4 billion payout after ULA launch to near-geostationary orbit
 - <a href="https://spacenews.com/sherpa-tug-yet-to-start-raising-orbit-a-month-after-launch/" >🔗</a> **[SpaceNews]** Sherpa tug yet to start raising orbit a month after launch
 - <a href="https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/" >🔗</a> **[NASASpaceflight]** American, Russian, and Japanese astronauts ready for SpaceX Crew-5 launch
 - <a href="https://spaceflightnow.com/2022/10/05/atlas-5-rocket-completes-high-altitude-tandem-satellite-delivery-for-ses/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket completes high-altitude tandem satellite delivery for SES
-- <a href="https://spacenews.com/space-force-in-discussions-with-industry-on-future-market-for-space-surveillance-data/" >🔗</a> **[SpaceNews]** Space Force in discussions with industry on future market for space surveillance data
-- <a href="https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/" >🔗</a> **[SpaceNews]** Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T121631">2022-10-05 12:16:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133757">2022-10-05 13:37:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
