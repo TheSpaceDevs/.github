@@ -119,11 +119,12 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2022/10/02/crew-dress-rehearsal-rocket-test-firing-complete-at-spacex-launch-pad/" >🔗</a> **[Spaceflight Now]** Crew dress rehearsal, rocket test-firing complete at SpaceX launch pad
 - <a href="https://www.teslarati.com/spacex-three-launches-three-pads-one-week/" >🔗</a> **[Teslarati]** SpaceX targeting three launches from three pads in 31 hours
 - <a href="https://spaceflightnow.com/2022/10/03/spacex-crew-mission-top-priority-amid-busy-week-of-falcon-9-launches/" >🔗</a> **[Spaceflight Now]** SpaceX crew mission ‘top priority’ amid busy week of Falcon 9 launches
+- <a href="https://spaceflightnow.com/2022/10/04/russian-cosmonaut-set-to-ride-us-crew-capsule-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Russian cosmonaut set to ride U.S. crew capsule to International Space Station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T081238">2022-10-05 08:12:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T084935">2022-10-05 08:49:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
