@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/" >🔗</a> **[SpaceNews]** SpaceX says 5G plan could disrupt Starlink more than previously thought
 - <a href="https://www.teslarati.com/ukraine-using-starlink-connected/" >🔗</a> **[Teslarati]** On the ground in Ukraine using Starlink to stay connected
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-inflatable-heat-shield-demo" >🔗</a> **[NASA]** NASA Invites Media to Learn About Inflatable Heat Shield Demo
 - <a href="https://arstechnica.com/science/2022/10/crew-dragon-launches-safely-carrying-first-russian-from-us-soil-in-20-years/" >🔗</a> **[Arstechnica]** Crew Dragon launches safely, carrying first Russian from US soil in 20 years
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 Launches to International Space Station
-- <a href="https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/" >🔗</a> **[SpaceNews]** SpaceX launches Crew-5 mission to the space station
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T210808">2022-10-05 21:08:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T214053">2022-10-05 21:40:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
