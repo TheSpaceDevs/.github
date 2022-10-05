@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/05/atlas-5-rocket-completes-high-altitude-tandem-satellite-delivery-for-ses/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket completes high-altitude tandem satellite delivery for SES
 - <a href="https://spacenews.com/space-force-in-discussions-with-industry-on-future-market-for-space-surveillance-data/" >🔗</a> **[SpaceNews]** Space Force in discussions with industry on future market for space surveillance data
 - <a href="https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/" >🔗</a> **[SpaceNews]** Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency
 - <a href="https://spacenews.com/aei-acquires-york-stake/" >🔗</a> **[SpaceNews]** AEI claims majority stake in York Space Systems
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown" >🔗</a> **[NASA]** NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown
-- <a href="https://www.nasaspaceflight.com/2022/10/final-atlas-v-531/" >🔗</a> **[NASASpaceflight]** Final Atlas V 531 launches dual SES-20 and SES-21 satellites
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T052309">2022-10-05 05:23:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T060417">2022-10-05 06:04:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
