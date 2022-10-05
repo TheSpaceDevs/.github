@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-inflatable-heat-shield-demo" >🔗</a> **[NASA]** NASA Invites Media to Learn About Inflatable Heat Shield Demo
+- <a href="https://arstechnica.com/science/2022/10/crew-dragon-launches-safely-carrying-first-russian-from-us-soil-in-20-years/" >🔗</a> **[Arstechnica]** Crew Dragon launches safely, carrying first Russian from US soil in 20 years
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 Launches to International Space Station
 - <a href="https://spacenews.com/spacex-launches-crew-5-mission-to-the-space-station/" >🔗</a> **[SpaceNews]** SpaceX launches Crew-5 mission to the space station
 - <a href="https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/" >🔗</a> **[Spaceflight Now]** Crew-5 mission timeline
-- <a href="https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/" >🔗</a> **[Arstechnica]** Who is ready for a fleet of cubesats flying over cities, displaying ads?
-- <a href="https://spacenews.com/uk-south-korea-join-asat-test-ban-raising-like-minded-countries-to-seven/" >🔗</a> **[SpaceNews]** UK, South Korea join ASAT test ban, raising like-minded countries to seven
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T192619">2022-10-05 19:26:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T194524">2022-10-05 19:45:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
