@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/" >🔗</a> **[NASASpaceflight]** American, Russian, and Japanese astronauts ready for SpaceX Crew-5 launch
 - <a href="https://spaceflightnow.com/2022/10/05/atlas-5-rocket-completes-high-altitude-tandem-satellite-delivery-for-ses/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket completes high-altitude tandem satellite delivery for SES
 - <a href="https://spacenews.com/space-force-in-discussions-with-industry-on-future-market-for-space-surveillance-data/" >🔗</a> **[SpaceNews]** Space Force in discussions with industry on future market for space surveillance data
 - <a href="https://spacenews.com/ball-aerospace-wins-176-million-contract-to-build-10-satellites-for-space-development-agency/" >🔗</a> **[SpaceNews]** Ball Aerospace wins $176 million contract to build and operate 10 satellites for Space Development Agency
 - <a href="https://spacenews.com/aei-acquires-york-stake/" >🔗</a> **[SpaceNews]** AEI claims majority stake in York Space Systems
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-to-discuss-mission-splashdown" >🔗</a> **[NASA]** NASA’s SpaceX Crew-4 Astronauts to Discuss Mission, Splashdown
 
 
 ### Launch-related News 🚀
@@ -120,11 +120,12 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-three-launches-three-pads-one-week/" >🔗</a> **[Teslarati]** SpaceX targeting three launches from three pads in 31 hours
 - <a href="https://spaceflightnow.com/2022/10/03/spacex-crew-mission-top-priority-amid-busy-week-of-falcon-9-launches/" >🔗</a> **[Spaceflight Now]** SpaceX crew mission ‘top priority’ amid busy week of Falcon 9 launches
 - <a href="https://spaceflightnow.com/2022/10/04/russian-cosmonaut-set-to-ride-us-crew-capsule-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Russian cosmonaut set to ride U.S. crew capsule to International Space Station
+- <a href="https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/" >🔗</a> **[NASASpaceflight]** American, Russian, and Japanese astronauts ready for SpaceX Crew-5 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T101029">2022-10-05 10:10:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T104705">2022-10-05 10:47:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
