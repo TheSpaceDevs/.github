@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/05/crew-5-mission-timeline/" >🔗</a> **[Spaceflight Now]** Crew-5 mission timeline
+- <a href="https://arstechnica.com/science/2022/10/russian-space-scientists-have-the-worst-idea-ever-space-based-advertising/" >🔗</a> **[Arstechnica]** Who is ready for a fleet of cubesats flying over cities, displaying ads?
 - <a href="https://spacenews.com/uk-south-korea-join-asat-test-ban-raising-like-minded-countries-to-seven/" >🔗</a> **[SpaceNews]** UK, South Korea join ASAT test ban, raising like-minded countries to seven
 - <a href="https://spacenews.com/ses-closer-to-4-billion-payout-after-ula-launch-to-near-geostationary-orbit/" >🔗</a> **[SpaceNews]** SES closer to $4 billion payout after ULA launch to near-geostationary orbit
 - <a href="https://spacenews.com/sherpa-tug-yet-to-start-raising-orbit-a-month-after-launch/" >🔗</a> **[SpaceNews]** Sherpa tug yet to start raising orbit a month after launch
-- <a href="https://www.nasaspaceflight.com/2022/10/spacex-crew-5-launch/" >🔗</a> **[NASASpaceflight]** American, Russian, and Japanese astronauts ready for SpaceX Crew-5 launch
-- <a href="https://spaceflightnow.com/2022/10/05/atlas-5-rocket-completes-high-altitude-tandem-satellite-delivery-for-ses/" >🔗</a> **[Spaceflight Now]** Atlas 5 rocket completes high-altitude tandem satellite delivery for SES
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T133757">2022-10-05 13:37:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T144012">2022-10-05 14:40:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
