@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/" >🔗</a> **[SpaceNews]** After successful first launch, Firefly sets sight on national security market
+- <a href="https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/" >🔗</a> **[Spaceflight Now]** After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month
 - <a href="https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/" >🔗</a> **[SpaceNews]** SpaceX says 5G plan could disrupt Starlink more than previously thought
 - <a href="https://www.teslarati.com/ukraine-using-starlink-connected/" >🔗</a> **[Teslarati]** On the ground in Ukraine using Starlink to stay connected
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-learn-about-inflatable-heat-shield-demo" >🔗</a> **[NASA]** NASA Invites Media to Learn About Inflatable Heat Shield Demo
-- <a href="https://arstechnica.com/science/2022/10/crew-dragon-launches-safely-carrying-first-russian-from-us-soil-in-20-years/" >🔗</a> **[Arstechnica]** Crew Dragon launches safely, carrying first Russian from US soil in 20 years
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-launches-to-international-space-station" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 Launches to International Space Station
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T220902">2022-10-05 22:09:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221005T224532">2022-10-05 22:45:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
