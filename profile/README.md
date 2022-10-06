@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-highlights-u-s-concerns-over-chinas-space-infrastructure-in-south-america/" >🔗</a> **[SpaceNews]** Report highlights U.S. concerns over China’s space infrastructure in South America
 - <a href="https://spacenews.com/jpss-2-launch-briefing/" >🔗</a> **[SpaceNews]** Next NOAA weather satellite launching just in time
 - <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-29/" >🔗</a> **[NASASpaceflight]** SpaceX launches Starlink 4-29 from Vandenberg hours after crew mission
 - <a href="https://spacenews.com/after-successful-first-launch-firefly-sets-sight-on-national-security-market/" >🔗</a> **[SpaceNews]** After successful first launch, Firefly sets sight on national security market
 - <a href="https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/" >🔗</a> **[Spaceflight Now]** After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month
-- <a href="https://spacenews.com/spacex-says-5g-plan-could-disrupt-starlink-more-than-previously-thought/" >🔗</a> **[SpaceNews]** SpaceX says 5G plan could disrupt Starlink more than previously thought
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T113936">2022-10-06 11:39:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T121757">2022-10-06 12:17:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
