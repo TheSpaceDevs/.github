@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/" >🔗</a> **[SpaceNews]** York Space wins $200 million Space Development Agency contract for 12 satellites
 - <a href="https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/" >🔗</a> **[NASASpaceflight]** SpaceX to carry Intelsat Galaxy sats on third launch of the week
 - <a href="https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/" >🔗</a> **[Spaceflight Now]** Dual satellite launch for Intelsat next on SpaceX’s launch schedule
 - <a href="https://spacenews.com/uk-competition-watchdog-has-concerns-about-viasats-inmarsat-takeover/" >🔗</a> **[SpaceNews]** UK competition watchdog has concerns about Viasat’s Inmarsat takeover
 - <a href="https://spacenews.com/sierra-space-hires-former-spacex-executive-as-cio/" >🔗</a> **[SpaceNews]** Sierra Space hires former SpaceX executive as CIO
-- <a href="https://spacenews.com/roscosmos-official-supports-continued-cooperation-with-nasa-on-iss/" >🔗</a> **[SpaceNews]** Roscosmos official supports continued cooperation with NASA on ISS
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T191814">2022-10-06 19:18:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221006T194203">2022-10-06 19:42:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
