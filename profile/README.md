@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/" >🔗</a> **[NASASpaceflight]** Rocket Lab set to launch “It Argos Up From Here” mission
 - <a href="https://spacenews.com/ariane-6-upper-stage-testing-underway/" >🔗</a> **[SpaceNews]** Ariane 6 upper stage testing underway
 - <a href="https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative
 - <a href="https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/" >🔗</a> **[SpaceNews]** AFRL developing ‘cyber range’ for space operators
 - <a href="https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/" >🔗</a> **[SpaceNews]** India on track for OneWeb launch in second half of October
-- <a href="https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/" >🔗</a> **[SpaceNews]** York Space wins $200 million Space Development Agency contract for 12 satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T141122">2022-10-07 14:11:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T145149">2022-10-07 14:51:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
