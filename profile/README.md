@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T230600">2022-10-07 23:06:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230500">2022-10-08 23:05:00 UTC</a>.  Until
 then, this pad will have been used for 154
 out of 859 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -44,7 +44,7 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T230600">2022-10-07 23:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221007T230600Z%2F20221008T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 33 & 34** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T230500">2022-10-08 23:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 33 &amp; 34&location=Cape Canaveral, FL, USA&dates=20221008T230500Z%2F20221009T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 33 & 34** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T233200">2022-10-08 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221008T233200Z%2F20221008T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T025200">2022-10-10 02:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 17&location=Plesetsk Cosmodrome, Russian Federation&dates=20221010T025200Z%2F20221010T025200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 17** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T000000">2022-10-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | AngoSat-2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221012T000000Z%2F20221012T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | AngoSat-2** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -93,7 +93,7 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/" >🔗</a> **[SpaceNews]** Eutelsat says satellite jammers within Iran are disrupting foreign channels
 - <a href="https://spacenews.com/rocket-lab-launches-argos-tracking-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches Argos tracking payload
 - <a href="https://mars.nasa.gov/news/9275/" >🔗</a> **[NASA]** NASA's InSight Waits Out Dust Storm
-- <a href="https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches “It Argos Up From Here” mission
+- <a href="https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/" >🔗</a> **[NASASpaceflight]** SpaceX launch with Intelsat Galaxy sats scrubbed again Friday
 
 
 ### Launch-related News 🚀
@@ -101,13 +101,13 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/" >🔗</a> **[Arstechnica]** Florida’s Space Coast on track after Ian, set for 3 launches in 3 days
 - <a href="https://www.teslarati.com/spacex-three-launches-three-pads-one-week/" >🔗</a> **[Teslarati]** SpaceX targeting three launches from three pads in 31 hours
 - <a href="https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/" >🔗</a> **[Spaceflight Now]** Dual satellite launch for Intelsat next on SpaceX’s launch schedule
-- <a href="https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/" >🔗</a> **[NASASpaceflight]** SpaceX launch with Intelsat Galaxy sats now set for Friday
+- <a href="https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/" >🔗</a> **[NASASpaceflight]** SpaceX launch with Intelsat Galaxy sats scrubbed again Friday
 - <a href="https://www.teslarati.com/spacex-aborts-third-falcon-9-launch-31-hours-helium-leak/" >🔗</a> **[Teslarati]** SpaceX’s third Falcon 9 launch in 31 hours aborted by “tiny helium leak”
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T220900">2022-10-07 22:09:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T224509">2022-10-07 22:45:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
