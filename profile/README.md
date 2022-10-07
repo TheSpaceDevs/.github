@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | It Argos Up From Here**. It is scheduled to be launched by *Rocket Lab Ltd*
+**Falcon 9 Block 5 | Galaxy 33 & 34**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T170000">2022-10-07 17:00:00 UTC</a>.  Until
-then, this pad will have been used for 4
-out of 30 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T230600">2022-10-07 23:06:00 UTC</a>.  Until
+then, this pad will have been used for 154
+out of 859 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Technology* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  The “It Argos Up From Here” mission will launch the General Atomics Electromagnetic Systems designed and manufactured satellite GAzelle, carrying Argos-4 Advanced Data Collection System (A-DCS) hosted payload, part of the international Argos program that collects data from thousands of sensors and transmitters located around the world.
+  Galaxy 33, 34 are two geostationary communications satellites manufactured by Northrop Grumman and operated by Intelsat.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T184200">2022-10-21 18:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 14&location=Sriharikota, Republic of India&dates=20221021T184200Z%2F20221021T184200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk III | OneWeb 14** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T230600">2022-10-21 23:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221021T230600Z%2F20221021T230600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & others** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T001900">2022-10-26 00:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T001900Z%2F20221026T001900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-21 (82P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T000000">2022-10-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221028T000000Z%2F20221028T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-44** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,7 +90,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://mars.nasa.gov/news/9275/" >🔗</a> **[NASA]** NASA's InSight Waits Out Dust Storm
-- <a href="https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/" >🔗</a> **[NASASpaceflight]** Rocket Lab set to launch “It Argos Up From Here” mission
+- <a href="https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches “It Argos Up From Here” mission
 - <a href="https://spacenews.com/ariane-6-upper-stage-testing-underway/" >🔗</a> **[SpaceNews]** Ariane 6 upper stage testing underway
 - <a href="https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative
 - <a href="https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/" >🔗</a> **[SpaceNews]** AFRL developing ‘cyber range’ for space operators
@@ -97,12 +98,16 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/" >🔗</a> **[NASASpaceflight]** Rocket Lab set to launch “It Argos Up From Here” mission
+- <a href="https://arstechnica.com/science/2022/09/floridas-space-coast-on-track-after-ian-set-for-3-launches-in-3-days/" >🔗</a> **[Arstechnica]** Florida’s Space Coast on track after Ian, set for 3 launches in 3 days
+- <a href="https://www.teslarati.com/spacex-three-launches-three-pads-one-week/" >🔗</a> **[Teslarati]** SpaceX targeting three launches from three pads in 31 hours
+- <a href="https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/" >🔗</a> **[Spaceflight Now]** Dual satellite launch for Intelsat next on SpaceX’s launch schedule
+- <a href="https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/" >🔗</a> **[NASASpaceflight]** SpaceX launch with Intelsat Galaxy sats now set for Friday
+- <a href="https://www.teslarati.com/spacex-aborts-third-falcon-9-launch-31-hours-helium-leak/" >🔗</a> **[Teslarati]** SpaceX’s third Falcon 9 launch in 31 hours aborted by “tiny helium leak”
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T170714">2022-10-07 17:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T175741">2022-10-07 17:57:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
