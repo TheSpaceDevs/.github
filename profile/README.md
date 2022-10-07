@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative
 - <a href="https://spacenews.com/afrl-developing-cyber-range-to-test-vulnerabilities-of-space-networks/" >🔗</a> **[SpaceNews]** AFRL developing ‘cyber range’ for space operators
 - <a href="https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/" >🔗</a> **[SpaceNews]** India on track for OneWeb launch in second half of October
 - <a href="https://spacenews.com/york-space-wins-200-million-space-development-agency-contract-for-12-satellites/" >🔗</a> **[SpaceNews]** York Space wins $200 million Space Development Agency contract for 12 satellites
 - <a href="https://www.nasaspaceflight.com/2022/10/spacex-galaxy-33-34/" >🔗</a> **[NASASpaceflight]** SpaceX scrubs Intelsat Galaxy sats launch
-- <a href="https://spaceflightnow.com/2022/10/06/dual-satellite-launch-for-intelsat-next-on-spacexs-launch-schedule/" >🔗</a> **[Spaceflight Now]** Dual satellite launch for Intelsat next on SpaceX’s launch schedule
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T111147">2022-10-07 11:11:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T114042">2022-10-07 11:40:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
