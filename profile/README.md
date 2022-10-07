@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test" >🔗</a> **[NASA]** NASA to Provide Update on DART, World’s First Planetary Defense Test
+- <a href="https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/" >🔗</a> **[SpaceNews]** Eutelsat says satellite jammers within Iran are disrupting foreign channels
 - <a href="https://spacenews.com/rocket-lab-launches-argos-tracking-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches Argos tracking payload
 - <a href="https://mars.nasa.gov/news/9275/" >🔗</a> **[NASA]** NASA's InSight Waits Out Dust Storm
 - <a href="https://www.nasaspaceflight.com/2022/10/it-argos-up-from-here/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches “It Argos Up From Here” mission
-- <a href="https://spacenews.com/ariane-6-upper-stage-testing-underway/" >🔗</a> **[SpaceNews]** Ariane 6 upper stage testing underway
-- <a href="https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T193830">2022-10-07 19:38:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221007T200944">2022-10-07 20:09:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
