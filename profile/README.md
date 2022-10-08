@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/expedition-68-iss/" >🔗</a> **[NASASpaceflight]** Expedition 68 underway as Crew-4 prepares to return home
 - <a href="https://www.teslarati.com/starlink-support-ukraine-exceed-100m/" >🔗</a> **[Teslarati]** Starlink support for Ukraine will exceed $100M by end of year
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test" >🔗</a> **[NASA]** NASA to Provide Update on DART, World’s First Planetary Defense Test
 - <a href="https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/" >🔗</a> **[SpaceNews]** Eutelsat says satellite jammers within Iran are disrupting foreign channels
 - <a href="https://spacenews.com/rocket-lab-launches-argos-tracking-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches Argos tracking payload
-- <a href="https://mars.nasa.gov/news/9275/" >🔗</a> **[NASA]** NASA's InSight Waits Out Dust Storm
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T150808">2022-10-08 15:08:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221008T154356">2022-10-08 15:43:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
