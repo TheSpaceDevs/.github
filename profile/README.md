@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-arctic-strategy-calls-for-investment-in-climate-monitoring-communications-technologies/" >🔗</a> **[SpaceNews]** U.S. Arctic strategy calls for investment in climate monitoring, communications technologies
 - <a href="https://spacenews.com/capstone-attitude-control-restored/" >🔗</a> **[SpaceNews]** CAPSTONE attitude control restored
 - <a href="https://www.nasaspaceflight.com/2022/10/expedition-68-iss/" >🔗</a> **[NASASpaceflight]** Expedition 68 underway as Crew-4 prepares to return home
 - <a href="https://spaceflightnow.com/2022/10/08/two-intelsat-video-relay-satellites-ride-to-orbit-on-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Two Intelsat video relay satellites ride to orbit on SpaceX rocket
 - <a href="https://www.teslarati.com/starlink-support-ukraine-exceed-100m/" >🔗</a> **[Teslarati]** Starlink support for Ukraine will exceed $100M by end of year
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test" >🔗</a> **[NASA]** NASA to Provide Update on DART, World’s First Planetary Defense Test
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T161140">2022-10-09 16:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T165825">2022-10-09 16:58:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
