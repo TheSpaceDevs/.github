@@ -91,9 +91,9 @@ into *a Medium Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/capstone-attitude-control-restored/" >🔗</a> **[SpaceNews]** CAPSTONE attitude control restored
 - <a href="https://www.nasaspaceflight.com/2022/10/expedition-68-iss/" >🔗</a> **[NASASpaceflight]** Expedition 68 underway as Crew-4 prepares to return home
+- <a href="https://spaceflightnow.com/2022/10/08/two-intelsat-video-relay-satellites-ride-to-orbit-on-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Two Intelsat video relay satellites ride to orbit on SpaceX rocket
 - <a href="https://www.teslarati.com/starlink-support-ukraine-exceed-100m/" >🔗</a> **[Teslarati]** Starlink support for Ukraine will exceed $100M by end of year
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-dart-world-s-first-planetary-defense-test" >🔗</a> **[NASA]** NASA to Provide Update on DART, World’s First Planetary Defense Test
-- <a href="https://spacenews.com/eutelsat-says-satellite-jammers-within-iran-are-disrupting-foreign-channels/" >🔗</a> **[SpaceNews]** Eutelsat says satellite jammers within Iran are disrupting foreign channels
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T004807">2022-10-09 00:48:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221009T032532">2022-10-09 03:25:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
