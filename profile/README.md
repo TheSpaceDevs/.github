@@ -91,9 +91,9 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2022/10/magellanic-clouds-corona/" >🔗</a> **[NASASpaceflight]** Researchers discover galactic shield of gas surrounding the Magellanic Cloud galaxies
 - <a href="https://spacenews.com/u-s-arctic-strategy-calls-for-investment-in-climate-monitoring-communications-technologies/" >🔗</a> **[SpaceNews]** U.S. Arctic strategy calls for investment in climate monitoring, communications technologies
+- <a href="https://www.teslarati.com/spacex-drone-ship-new-falcon-9-jellyfish-view/" >🔗</a> **[Teslarati]** SpaceX drone ship captures Falcon 9 ‘jellyfish’ from a new angle
 - <a href="https://spacenews.com/capstone-attitude-control-restored/" >🔗</a> **[SpaceNews]** CAPSTONE attitude control restored
 - <a href="https://www.nasaspaceflight.com/2022/10/expedition-68-iss/" >🔗</a> **[NASASpaceflight]** Expedition 68 underway as Crew-4 prepares to return home
-- <a href="https://spaceflightnow.com/2022/10/08/two-intelsat-video-relay-satellites-ride-to-orbit-on-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Two Intelsat video relay satellites ride to orbit on SpaceX rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T050601">2022-10-10 05:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T062551">2022-10-10 06:25:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
