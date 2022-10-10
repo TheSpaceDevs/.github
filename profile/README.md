@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/launch-on-demand-if-satellites-are-shot-down-will-space-force-be-ready-to-restock/" >🔗</a> **[SpaceNews]** Launch on demand: If satellites are shot down, will Space Force be ready to restock?
 - <a href="https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/" >🔗</a> **[Arstechnica]** Stoke Space aims to build rapidly reusable rocket with a completely novel design
 - <a href="https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/" >🔗</a> **[SpaceNews]** Firefly says Alpha launch a success despite payload reentries
 - <a href="https://www.nasaspaceflight.com/2022/10/magellanic-clouds-corona/" >🔗</a> **[NASASpaceflight]** Researchers discover galactic shield of gas surrounding the Magellanic Cloud galaxies
 - <a href="https://spacenews.com/u-s-arctic-strategy-calls-for-investment-in-climate-monitoring-communications-technologies/" >🔗</a> **[SpaceNews]** U.S. Arctic strategy calls for investment in climate monitoring, communications technologies
-- <a href="https://www.teslarati.com/spacex-drone-ship-new-falcon-9-jellyfish-view/" >🔗</a> **[Teslarati]** SpaceX drone ship captures Falcon 9 ‘jellyfish’ from a new angle
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T132844">2022-10-10 13:28:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221010T142124">2022-10-10 14:21:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
