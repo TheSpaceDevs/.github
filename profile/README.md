@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth" >🔗</a> **[NASA]** NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth
 - <a href="https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/" >🔗</a> **[SpaceNews]** Yahsat invests in direct-to-cell enabler eSAT Global
 - <a href="https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/" >🔗</a> **[SpaceNews]** Jumping on the direct-to-cell bandwagon
 - <a href="https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/" >🔗</a> **[NASASpaceflight]** JAXA to launch sixth Epsilon flight with RAISE-3 and others
 - <a href="https://spacenews.com/nasa-communications-study-contracts/" >🔗</a> **[SpaceNews]** NASA taps KSAT and SpaceLink for communications studies
-- <a href="https://spacenews.com/nasas-dart-spacecraft-changes-asteroids-orbit/" >🔗</a> **[SpaceNews]** NASA’s DART spacecraft changes asteroid’s orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T231047">2022-10-11 23:10:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T234846">2022-10-11 23:48:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
