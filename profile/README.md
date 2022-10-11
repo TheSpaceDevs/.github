@@ -92,8 +92,8 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/spacex-deploys-two-of-six-c-band-satellites-intelsat-is-launching-this-year/" >🔗</a> **[SpaceNews]** SpaceX deploys two of six C-band satellites Intelsat is launching this year
 - <a href="https://spacenews.com/former-ses-ceo-joins-megaconstellation-startup-e-space/" >🔗</a> **[SpaceNews]** Former SES CEO joins megaconstellation startup E-Space
 - <a href="https://spacenews.com/launch-on-demand-if-satellites-are-shot-down-will-space-force-be-ready-to-restock/" >🔗</a> **[SpaceNews]** Launch on demand: If satellites are shot down, will Space Force be ready to restock?
+- <a href="https://www.reuters.com/lifestyle/science/united-launch-alliances-debut-vulcan-mission-slips-2023-ceo-2022-10-10/" >🔗</a> **[Reuters]** United Launch Alliance's debut Vulcan mission slips to 2023 -CEO
 - <a href="https://arstechnica.com/science/2022/10/stoke-space-aims-to-build-rapidly-reusable-rocket-with-a-completely-novel-design/" >🔗</a> **[Arstechnica]** Stoke Space aims to build rapidly reusable rocket with a completely novel design
-- <a href="https://spacenews.com/firefly-says-alpha-launch-a-success-despite-payload-reentries/" >🔗</a> **[SpaceNews]** Firefly says Alpha launch a success despite payload reentries
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T070500">2022-10-11 07:05:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T075725">2022-10-11 07:57:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
