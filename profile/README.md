@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space" >🔗</a> **[NASA]** NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space
+- <a href="https://spacenews.com/nasas-dart-spacecraft-changes-asteroids-orbit/" >🔗</a> **[SpaceNews]** NASA’s DART spacecraft changes asteroid’s orbit
 - <a href="http://www.nasa.gov/press-release/el-impacto-de-dart-cambi-el-movimiento-de-un-asteroide-en-el-espacio" >🔗</a> **[NASA]** El impacto de DART cambió el movimiento de un asteroide en el espacio
+- <a href="http://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space" >🔗</a> **[NASA]** NASA Confirms DART Mission Impact Changed Asteroid’s Motion in Space
 - <a href="https://spacenews.com/inmarsat-wins-980-million-u-s-navy-contract-for-global-communications-services/" >🔗</a> **[SpaceNews]** Inmarsat wins $980 million U.S. Navy contract for global communications services
 - <a href="https://spacenews.com/exotrail-wins-contract-to-demonstrate-orbital-transfer-for-french-agencies/" >🔗</a> **[SpaceNews]** ExoTrail wins contract to demonstrate orbital transfer for French agencies
-- <a href="https://spacenews.com/solestial-seed-round/" >🔗</a> **[SpaceNews]** Solestial closes $10 million round led by Airbus Ventures
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T201140">2022-10-11 20:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221011T204610">2022-10-11 20:46:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
