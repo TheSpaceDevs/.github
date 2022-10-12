@@ -93,11 +93,11 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/" >🔗</a> **[SpaceNews]** Japan’s Epsilon fails after liftoff, destroying smallsat payload
 - <a href="https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/" >🔗</a> **[Arstechnica]** SpaceX announces a second private flight to the Moon aboard Starship
 - <a href="http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth" >🔗</a> **[NASA]** NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth
 - <a href="https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/" >🔗</a> **[SpaceNews]** Yahsat invests in direct-to-cell enabler eSAT Global
 - <a href="https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/" >🔗</a> **[SpaceNews]** Jumping on the direct-to-cell bandwagon
-- <a href="https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/" >🔗</a> **[NASASpaceflight]** JAXA Epsilon fails on sixth flight carrying RAISE-3 and others
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T132312">2022-10-12 13:23:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T141521">2022-10-12 14:15:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
