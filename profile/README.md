@@ -18,32 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Proton-M/Blok DM-03 | AngoSat-2**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="">81/24 (81P)</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T150000">2022-10-12 15:00:00 UTC</a>.  Until
-then, this pad will have been used for 90
-out of 1534 launches from this location. The launch status is currently
+**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="">Launch Complex 9</a>, Taiyuan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T224400">2022-10-12 22:44:00 UTC</a>.  Until
+then, this pad will have been used for 37
+out of 114 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Orbit
-(Direct-GEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  The AngoSat 2 is a communications satellite built for Angola to replace the failed AngoSat 1.
-
-The Angosat Project calls for development of a communications satellite with C- and Ku-band transponders, its launch into a geostationary orbit and development of the ground communication and TV broadcasting infrastructure.
-
-In August 2019 it was revealed the replacement satellite is being built by ISS Reshetnev (Bus) and Airbus Defence & Space (payload). Construction has started in February 2018.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Proton-M" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=46.071+N,+62.985+E" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg"  />
+  <a href="http://maps.google.com/maps?q=38.849+N,+111.608+E" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
   </a>
 </p>
 
@@ -57,6 +53,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T230600">2022-10-21 23:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221021T230600Z%2F20221021T230600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & others** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T001900">2022-10-26 00:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T001900Z%2F20221026T001900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-21 (82P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T000000">2022-10-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221028T000000Z%2F20221028T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-44** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T000000">2022-10-29 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Amber-1&location=Air launch to orbit&dates=20221029T000000Z%2F20221029T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Amber-1** from Air launch to orbit.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,11 +89,11 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-2022-innovation-challenge/" >🔗</a> **[SpaceNews]** OneWeb unveils Innovation Challenge competition
 - <a href="https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/" >🔗</a> **[SpaceNews]** Japan’s Epsilon fails after liftoff, destroying smallsat payload
 - <a href="https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/" >🔗</a> **[Arstechnica]** SpaceX announces a second private flight to the Moon aboard Starship
 - <a href="http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth" >🔗</a> **[NASA]** NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth
 - <a href="https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/" >🔗</a> **[SpaceNews]** Yahsat invests in direct-to-cell enabler eSAT Global
-- <a href="https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/" >🔗</a> **[SpaceNews]** Jumping on the direct-to-cell bandwagon
 
 
 ### Launch-related News 🚀
@@ -105,7 +102,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T151433">2022-10-12 15:14:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T155245">2022-10-12 15:52:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
