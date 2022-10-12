@@ -96,7 +96,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 - <a href="http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth" >🔗</a> **[NASA]** NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth
 - <a href="https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/" >🔗</a> **[SpaceNews]** Yahsat invests in direct-to-cell enabler eSAT Global
 - <a href="https://spacenews.com/jumping-on-the-direct-to-cell-bandwagon/" >🔗</a> **[SpaceNews]** Jumping on the direct-to-cell bandwagon
-- <a href="https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/" >🔗</a> **[NASASpaceflight]** JAXA to launch sixth Epsilon flight with RAISE-3 and others
+- <a href="https://www.nasaspaceflight.com/2022/10/epsilon-raise-3/" >🔗</a> **[NASASpaceflight]** JAXA Epsilon fails on sixth flight carrying RAISE-3 and others
 - <a href="https://spacenews.com/nasa-communications-study-contracts/" >🔗</a> **[SpaceNews]** NASA taps KSAT and SpaceLink for communications studies
 
 
@@ -106,7 +106,7 @@ In August 2019 it was revealed the replacement satellite is being built by ISS R
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T010206">2022-10-12 01:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T034251">2022-10-12 03:42:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
