@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9276/" >🔗</a> **[NASA]** Mars Mission Shields Up for Tests
 - <a href="https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/" >🔗</a> **[Spaceflight Now]** Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-to-assess-near-space-communications-capabilities" >🔗</a> **[NASA]** NASA Awards Contracts to Assess Near-Space Communications Capabilities
 - <a href="https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/" >🔗</a> **[SpaceNews]** Amazon to launch two Project Kuiper satellites on Vulcan’s first flight
 - <a href="https://arstechnica.com/science/2022/10/nasa-targets-mid-november-for-its-third-artemis-i-launch-attempt/" >🔗</a> **[Arstechnica]** NASA says the Artemis I mission will be ready to launch in one month
-- <a href="https://spacenews.com/on-space-matters-bidens-national-security-strategy-adopts-a-less-combative-tone/" >🔗</a> **[SpaceNews]** On space matters, Biden’s national security strategy adopts a less combative tone
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T210932">2022-10-12 21:09:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T214149">2022-10-12 21:41:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
