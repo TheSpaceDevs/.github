@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 2D | Yaogan 36 Group 02 (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="">Launch Complex 9</a>, Taiyuan, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T224400">2022-10-12 22:44:00 UTC</a>.  Until
-then, this pad will have been used for 37
-out of 114 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T190200">2022-10-14 19:02:00 UTC</a>.  Until
+then, this pad will have been used for 66
+out of 177 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  3 Chinese military reconnaissance satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=38.849+N,+111.608+E" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T001900">2022-10-26 00:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T001900Z%2F20221026T001900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-21 (82P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T000000">2022-10-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221028T000000Z%2F20221028T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T000000">2022-10-29 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Amber-1&location=Air launch to orbit&dates=20221029T000000Z%2F20221029T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Amber-1** from Air launch to orbit.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T000000">2022-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221031T000000Z%2F20221031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -101,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T230910">2022-10-12 23:09:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T234615">2022-10-12 23:46:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
