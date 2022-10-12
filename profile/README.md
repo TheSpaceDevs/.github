@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/" >🔗</a> **[Spaceflight Now]** Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-to-assess-near-space-communications-capabilities" >🔗</a> **[NASA]** NASA Awards Contracts to Assess Near-Space Communications Capabilities
 - <a href="https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/" >🔗</a> **[SpaceNews]** Amazon to launch two Project Kuiper satellites on Vulcan’s first flight
 - <a href="https://arstechnica.com/science/2022/10/nasa-targets-mid-november-for-its-third-artemis-i-launch-attempt/" >🔗</a> **[Arstechnica]** NASA says the Artemis I mission will be ready to launch in one month
 - <a href="https://spacenews.com/on-space-matters-bidens-national-security-strategy-adopts-a-less-combative-tone/" >🔗</a> **[SpaceNews]** On space matters, Biden’s national security strategy adopts a less combative tone
-- <a href="https://spacenews.com/oneweb-2022-innovation-challenge/" >🔗</a> **[SpaceNews]** OneWeb unveils Innovation Challenge competition
-- <a href="https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/" >🔗</a> **[SpaceNews]** Japan’s Epsilon fails after liftoff, destroying smallsat payload
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T171430">2022-10-12 17:14:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T175828">2022-10-12 17:58:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
