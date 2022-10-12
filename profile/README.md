@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/" >🔗</a> **[SpaceNews]** Amazon to launch two Project Kuiper satellites on Vulcan’s first flight
+- <a href="https://arstechnica.com/science/2022/10/nasa-targets-mid-november-for-its-third-artemis-i-launch-attempt/" >🔗</a> **[Arstechnica]** NASA says the Artemis I mission will be ready to launch in one month
+- <a href="https://spacenews.com/on-space-matters-bidens-national-security-strategy-adopts-a-less-combative-tone/" >🔗</a> **[SpaceNews]** On space matters, Biden’s national security strategy adopts a less combative tone
 - <a href="https://spacenews.com/oneweb-2022-innovation-challenge/" >🔗</a> **[SpaceNews]** OneWeb unveils Innovation Challenge competition
 - <a href="https://spacenews.com/japans-epsilon-fails-after-liftoff-destroying-smallsat-payload/" >🔗</a> **[SpaceNews]** Japan’s Epsilon fails after liftoff, destroying smallsat payload
-- <a href="https://arstechnica.com/science/2022/10/spacex-announces-a-second-private-flight-to-the-moon-aboard-starship/" >🔗</a> **[Arstechnica]** SpaceX announces a second private flight to the Moon aboard Starship
-- <a href="http://www.nasa.gov/press-release/nasa-tv-to-air-crew-activities-as-astronauts-prepare-return-to-earth" >🔗</a> **[NASA]** NASA TV to Air Crew Activities as Astronauts Prepare, Return to Earth
-- <a href="https://spacenews.com/yahsat-invests-in-direct-to-cell-enabler-esat-global/" >🔗</a> **[SpaceNews]** Yahsat invests in direct-to-cell enabler eSAT Global
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T161936">2022-10-12 16:19:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221012T171430">2022-10-12 17:14:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
