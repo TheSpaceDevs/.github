@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astras-strategy-to-address-nasdaq-warning/" >🔗</a> **[SpaceNews]** Astra’s strategy to address NASDAQ warning
+- <a href="https://spacenews.com/starlinks-market-dominance-affecting-dods-hybrid-network-plans/" >🔗</a> **[SpaceNews]** Starlink’s market dominance affecting DoD’s hybrid network plans
+- <a href="https://spacenews.com/starlink-kicks-off-asia-expansion-in-search-of-more-subscribers/" >🔗</a> **[SpaceNews]** Starlink kicks off Asia expansion in search of more subscribers
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-facilities-operations-maintenance-service" >🔗</a> **[NASA]** NASA Awards Contract for Facilities Operations, Maintenance Service
 - <a href="https://spacenews.com/phase-four-adopts-iodine-for-next-gen-max-v-engine/" >🔗</a> **[SpaceNews]** Phase Four adopts iodine for next-gen Max-V engine
-- <a href="https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/" >🔗</a> **[SpaceNews]** Artemis 1, ispace lander set November launch dates
-- <a href="https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/" >🔗</a> **[SpaceNews]** China launches radar satellite for environmental monitoring
-- <a href="https://mars.nasa.gov/news/9276/" >🔗</a> **[NASA]** Mars Mission Shields Up for Tests
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T211033">2022-10-13 21:10:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T214117">2022-10-13 21:41:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
