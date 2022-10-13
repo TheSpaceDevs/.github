@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/" >🔗</a> **[SpaceNews]** Artemis 1, ispace lander set November launch dates
+- <a href="https://spacenews.com/china-launches-radar-satellite-for-environmental-monitoring/" >🔗</a> **[SpaceNews]** China launches radar satellite for environmental monitoring
 - <a href="https://mars.nasa.gov/news/9276/" >🔗</a> **[NASA]** Mars Mission Shields Up for Tests
 - <a href="https://spaceflightnow.com/2022/10/12/dennis-tito-the-first-space-tourist-books-trip-around-the-moon-on-spacexs-starship/" >🔗</a> **[Spaceflight Now]** Dennis Tito, first space tourist, books trip around the moon on SpaceX’s Starship
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-to-assess-near-space-communications-capabilities" >🔗</a> **[NASA]** NASA Awards Contracts to Assess Near-Space Communications Capabilities
-- <a href="https://spacenews.com/amazon-to-launch-two-project-kuiper-satellites-on-vulcans-first-flight/" >🔗</a> **[SpaceNews]** Amazon to launch two Project Kuiper satellites on Vulcan’s first flight
-- <a href="https://arstechnica.com/science/2022/10/nasa-targets-mid-november-for-its-third-artemis-i-launch-attempt/" >🔗</a> **[Arstechnica]** NASA says the Artemis I mission will be ready to launch in one month
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T101039">2022-10-13 10:10:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221013T104719">2022-10-13 10:47:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
