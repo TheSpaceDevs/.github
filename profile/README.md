@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/" >🔗</a> **[SpaceNews]** Amazon to link Kuiper satellites to DoD’s mesh network in space
 - <a href="https://www.nasaspaceflight.com/2022/10/hotbird-13f/" >🔗</a> **[NASASpaceflight]** Hotbird-13F ready for launch aboard Falcon 9 from Cape Canaveral
 - <a href="https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/" >🔗</a> **[SpaceNews]** Viasat’s Inmarsat takeover faces delay as UK expands merger review
 - <a href="https://www.nasaspaceflight.com/2022/10/crew-4-return/" >🔗</a> **[NASASpaceflight]** SpaceX Crew-4 undocks from the ISS ahead of return to Earth
 - <a href="https://spacenews.com/commercial-space-station-developers-seek-clarity-on-regulations/" >🔗</a> **[SpaceNews]** Commercial space station developers seek clarity on regulations
-- <a href="https://arstechnica.com/science/2022/10/rocket-report-amazing-view-of-falcon-9-landing-spaceport-suit-down-under/" >🔗</a> **[Arstechnica]** Rocket Report: Amazing view of Falcon 9 landing, spaceport suit Down Under
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T200944">2022-10-14 20:09:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T204726">2022-10-14 20:47:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
