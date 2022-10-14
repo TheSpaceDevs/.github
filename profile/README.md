@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/14/spacex-launch-to-deploy-first-in-new-generation-of-airbus-built-satellites/" >🔗</a> **[Spaceflight Now]** SpaceX launch to deploy first in new generation of Airbus-built satellites
+- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-astronauts-safely-splash-down-in-atlantic" >🔗</a> **[NASA]** NASA’s SpaceX Crew-4 Astronauts Safely Splash Down in Atlantic
+- <a href="https://arstechnica.com/science/2022/10/since-crew-dragons-debut-spacex-has-flown-more-astronauts-than-anyone/" >🔗</a> **[Arstechnica]** Since Crew Dragon’s debut, SpaceX has flown more astronauts than anyone
 - <a href="https://spacenews.com/earth-observation-interoperability/" >🔗</a> **[SpaceNews]** Merging Earth observation remains messy, time-consuming
 - <a href="https://www.nasaspaceflight.com/2022/10/crew-4-return/" >🔗</a> **[NASASpaceflight]** SpaceX Crew-4 returns to Earth with Atlantic splashdown
-- <a href="https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/" >🔗</a> **[SpaceNews]** Amazon to link Kuiper satellites to DoD’s mesh network in space
-- <a href="https://www.nasaspaceflight.com/2022/10/hotbird-13f/" >🔗</a> **[NASASpaceflight]** Hotbird-13F ready for launch aboard Falcon 9 from Cape Canaveral
-- <a href="https://spacenews.com/viasats-inmarsat-takeover-faces-delay-as-uk-expands-merger-review/" >🔗</a> **[SpaceNews]** Viasat’s Inmarsat takeover faces delay as UK expands merger review
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T220849">2022-10-14 22:08:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221014T224440">2022-10-14 22:44:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
