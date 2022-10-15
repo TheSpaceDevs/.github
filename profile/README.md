@@ -24,7 +24,7 @@ from *<a href="">43/4 (43R)</a>, Plesetsk Cosmodrome, Russian Federation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T190000">2022-10-18 19:00:00 UTC</a>.  Until
 then, this pad will have been used for 307
-out of 1654 launches from this location. The launch status is currently
+out of 1655 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
 into *a Sun-Synchronous Orbit
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T210724">2022-10-15 21:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221015T214024">2022-10-15 21:40:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
