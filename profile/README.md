@@ -47,7 +47,7 @@ Unidentified classified satellites for the Russian military.
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T190000">2022-10-18 19:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v/Volga | MKA #1/2/3&location=Plesetsk Cosmodrome, Russian Federation&dates=20221018T190000Z%2F20221018T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1v/Volga | MKA #1/2/3** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T144500">2022-10-20 14:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20221020T144500Z%2F20221020T144500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-36** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T145000">2022-10-20 14:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20221020T145000Z%2F20221020T145000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-36** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T230600">2022-10-21 23:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221021T230600Z%2F20221021T230600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & others** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T183700">2022-10-22 18:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 14&location=Sriharikota, Republic of India&dates=20221022T183700Z%2F20221022T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk III | OneWeb 14** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T000000">2022-10-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-37&location=Cape Canaveral, FL, USA&dates=20221026T000000Z%2F20221026T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-37** from Cape Canaveral, FL, USA.
@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/" >🔗</a> **[NASASpaceflight]** Firefly looking ahead after “To The Black” payloads reenter early
 - <a href="https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/" >🔗</a> **[SpaceNews]** SES to appeal Intelsat C-band sharing decision
 - <a href="https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/" >🔗</a> **[SpaceNews]** Satellite broadband players poised to compete for U.S. military customers
 - <a href="https://spacenews.com/china-considering-mission-to-ceres-and-large-dark-matter-space-telescope/" >🔗</a> **[SpaceNews]** China considering mission to Ceres and large dark matter space telescope
 - <a href="https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/" >🔗</a> **[SpaceNews]** NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture
-- <a href="https://www.nasaspaceflight.com/2022/10/starship-update-oct-2022/" >🔗</a> **[NASASpaceflight]** Starship set for full stack fueling test ahead of static fire campaign
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T201002">2022-10-17 20:10:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T204450">2022-10-17 20:44:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
