@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-outlines-case-for-making-sole-source-sls-award-to-boeing-northrop-joint-venture/" >🔗</a> **[SpaceNews]** NASA outlines case for making sole-source SLS award to Boeing-Northrop joint venture
 - <a href="https://www.nasaspaceflight.com/2022/10/starship-update-oct-2022/" >🔗</a> **[NASASpaceflight]** Starship set for full stack fueling test ahead of static fire campaign
 - <a href="https://spaceflightnow.com/2022/10/15/spacex-launches-european-tv-broadcasting-satellite/" >🔗</a> **[Spaceflight Now]** SpaceX launches European TV broadcasting satellite
 - <a href="https://www.nasaspaceflight.com/2022/10/lucy-first-earth-flyby/" >🔗</a> **[NASASpaceflight]** Lucy completes its first Earth gravity assist after a year in space
 - <a href="https://spacenews.com/dod-eyeing-options-to-provide-satcom-in-ukraine-as-it-continues-talks-with-spacex/" >🔗</a> **[SpaceNews]** DoD eyeing options to provide satcom in Ukraine as it continues talks with SpaceX
-- <a href="https://spacenews.com/crew-4-returns-to-earth/" >🔗</a> **[SpaceNews]** Crew-4 returns to Earth
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T090031">2022-10-17 09:00:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221017T095518">2022-10-17 09:55:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
