@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/" >🔗</a> **[SpaceNews]** SDA slide reveals Tranche 0 optical terminal manufacturers
+- <a href="https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/" >🔗</a> **[SpaceNews]** NASA gives green light for space station spacewalks to resume
 - <a href="https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/" >🔗</a> **[SpaceNews]** Inmarsat sale clears Australia’s foreign investment watchdog
 - <a href="https://spacenews.com/pentagon-its-up-to-spacex-to-decide-what-to-do-about-starlink-in-ukraine/" >🔗</a> **[SpaceNews]** Pentagon: It’s up to SpaceX to decide what to do about Starlink in Ukraine
 - <a href="https://spacenews.com/eutelsat-fortifying-jamming-defenses-over-middle-east/" >🔗</a> **[SpaceNews]** Eutelsat fortifying jamming defenses over Middle East
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-simulated-artemis-moon-mission-site-in-arizona" >🔗</a> **[NASA]** NASA Invites Media to Simulated Artemis Moon Mission Site in Arizona
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-4-to-discuss-mission-after-returning-to-earth" >🔗</a> **[NASA]** NASA’s SpaceX Crew-4 to Discuss Mission After Returning to Earth
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T230957">2022-10-18 23:09:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T234822">2022-10-18 23:48:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
