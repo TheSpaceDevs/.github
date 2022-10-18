@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/tess-safe-mode-incident/" >🔗</a> **[NASASpaceflight]** TESS returns from safe mode, the case of the missing exoplanet atmosphere
 - <a href="https://spacenews.com/panasonic-avionics-to-bring-oneweb-leo-broadband-to-planes/" >🔗</a> **[SpaceNews]** Panasonic Avionics to bring OneWeb LEO broadband to planes
 - <a href="https://spacenews.com/partnerships-seen-as-key-for-leo-operators-to-enter-asia/" >🔗</a> **[SpaceNews]** Partnerships seen as key for LEO operators to enter Asia
 - <a href="https://spacenews.com/china-gears-up-for-launches-to-complete-tiangong-space-station/" >🔗</a> **[SpaceNews]** China gears up for launches to complete Tiangong space station
 - <a href="https://spacenews.com/orbex-raises-series-c-round/" >🔗</a> **[SpaceNews]** Orbex raises Series C round
-- <a href="https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/" >🔗</a> **[SpaceNews]** Falcon 9 leading candidate to launch European science mission
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T161850">2022-10-18 16:18:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T170917">2022-10-18 17:09:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
