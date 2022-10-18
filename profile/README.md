@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/" >🔗</a> **[SpaceNews]** Falcon 9 leading candidate to launch European science mission
 - <a href="http://www.nasa.gov/press-release/apollo-astronaut-james-mcdivitt-dies-at-age-93" >🔗</a> **[NASA]** Apollo Astronaut James McDivitt Dies at Age 93
 - <a href="https://spacenews.com/u-s-military-waiting-for-industry-to-demonstrate-space-transportation-concepts/" >🔗</a> **[SpaceNews]** U.S. military waiting for industry to demonstrate space transportation concepts
 - <a href="https://www.nasaspaceflight.com/2022/10/firefly-to-the-black-reentry/" >🔗</a> **[NASASpaceflight]** Firefly looking ahead after “To The Black” payloads reenter early
 - <a href="https://spacenews.com/ses-to-appeal-intelsat-c-band-sharing-decision/" >🔗</a> **[SpaceNews]** SES to appeal Intelsat C-band sharing decision
-- <a href="https://spacenews.com/satellite-broadband-players-poised-to-compete-for-u-s-military-customers/" >🔗</a> **[SpaceNews]** Satellite broadband players poised to compete for U.S. military customers
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T073019">2022-10-18 07:30:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221018T081721">2022-10-18 08:17:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
