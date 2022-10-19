@@ -46,8 +46,7 @@ Unidentified classified satellites for the Russian military.
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T190000">2022-10-19 19:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v/Volga | MKA #1/2/3&location=Plesetsk Cosmodrome, Russian Federation&dates=20221019T190000Z%2F20221019T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1v/Volga | MKA #1/2/3** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T145000">2022-10-20 14:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20221020T145000Z%2F20221020T145000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-36** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T145000">2022-10-20 14:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-36&location=Cape Canaveral, FL, USA&dates=20221020T145000Z%2F20221020T145000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-36** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T183700">2022-10-22 18:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 14&location=Sriharikota, Republic of India&dates=20221022T183700Z%2F20221022T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk III | OneWeb 14** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T195700">2022-10-22 19:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221022T195700Z%2F20221022T195700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & others** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T002000">2022-10-26 00:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T002000Z%2F20221026T002000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-21 (82P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -91,11 +90,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/ariane-6-slips/" >🔗</a> **[NASASpaceflight]** Ariane 6 debut slips to end of 2023, teams prep for Combined Test
 - <a href="https://spacenews.com/ariane-6-first-launch-slips-to-late-2023/" >🔗</a> **[SpaceNews]** Ariane 6 first launch slips to late 2023
 - <a href="https://mars.nasa.gov/news/9281/" >🔗</a> **[NASA]** Curiosity Mars Rover Reaches Long-Awaited Salty Region
 - <a href="https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/" >🔗</a> **[SpaceNews]** Canada to contribute satellite and instruments to NASA-led Earth science mission
 - <a href="https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/" >🔗</a> **[Teslarati]** SpaceX slashes base price of smallsat rideshare program, adds “Plates”
-- <a href="https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/" >🔗</a> **[SpaceNews]** NASA gives green light for space station spacewalks to resume
 
 
 ### Launch-related News 🚀
@@ -104,7 +103,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T180308">2022-10-19 18:03:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T190143">2022-10-19 19:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
