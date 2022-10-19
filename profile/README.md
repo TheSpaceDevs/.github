@@ -93,8 +93,8 @@ Unidentified classified satellites for the Russian military.
 ### Latest News ⌛
 - <a href="https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/" >🔗</a> **[SpaceNews]** Canada to contribute satellite and instruments to NASA-led Earth science mission
 - <a href="https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/" >🔗</a> **[Teslarati]** SpaceX slashes base price of smallsat rideshare program, adds “Plates”
-- <a href="https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/" >🔗</a> **[SpaceNews]** SDA slide reveals Tranche 0 optical terminal manufacturers
 - <a href="https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/" >🔗</a> **[SpaceNews]** NASA gives green light for space station spacewalks to resume
+- <a href="https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/" >🔗</a> **[SpaceNews]** SDA slide reveals Tranche 0 optical terminal manufacturers
 - <a href="https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/" >🔗</a> **[SpaceNews]** Inmarsat sale clears Australia’s foreign investment watchdog
 
 
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T132838">2022-10-19 13:28:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T141144">2022-10-19 14:11:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
