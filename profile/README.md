@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-defense-committee-calls-for-thorough-eutelsat-oneweb-review/" >🔗</a> **[SpaceNews]** UK defense committee calls for thorough Eutelsat/OneWeb review
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-northrop-grumman-space-station-mission" >🔗</a> **[NASA]** NASA to Discuss Science on Next Northrop Grumman Space Station Mission
 - <a href="https://www.nasaspaceflight.com/2022/10/ariane-6-slips/" >🔗</a> **[NASASpaceflight]** Ariane 6 debut slips to end of 2023, teams prep for Combined Test
 - <a href="https://spacenews.com/ariane-6-first-launch-slips-to-late-2023/" >🔗</a> **[SpaceNews]** Ariane 6 first launch slips to late 2023
 - <a href="https://mars.nasa.gov/news/9281/" >🔗</a> **[NASA]** Curiosity Mars Rover Reaches Long-Awaited Salty Region
-- <a href="https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/" >🔗</a> **[SpaceNews]** Canada to contribute satellite and instruments to NASA-led Earth science mission
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T210912">2022-10-19 21:09:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T214206">2022-10-19 21:42:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
