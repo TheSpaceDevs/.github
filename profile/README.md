@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/canada-to-contribute-satellite-and-instruments-to-nasa-led-earth-science-mission/" >🔗</a> **[SpaceNews]** Canada to contribute satellite and instruments to NASA-led Earth science mission
 - <a href="https://www.teslarati.com/spacex-upgrades-smallsat-rideshare-program-new-base-price/" >🔗</a> **[Teslarati]** SpaceX slashes base price of smallsat rideshare program, adds “Plates”
 - <a href="https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/" >🔗</a> **[SpaceNews]** SDA slide reveals Tranche 0 optical terminal manufacturers
 - <a href="https://spacenews.com/nasa-gives-green-light-for-space-station-spacewalks-to-resume/" >🔗</a> **[SpaceNews]** NASA gives green light for space station spacewalks to resume
 - <a href="https://spacenews.com/inmarsat-sale-clears-australias-foreign-investment-watchdog/" >🔗</a> **[SpaceNews]** Inmarsat sale clears Australia’s foreign investment watchdog
-- <a href="https://spacenews.com/pentagon-its-up-to-spacex-to-decide-what-to-do-about-starlink-in-ukraine/" >🔗</a> **[SpaceNews]** Pentagon: It’s up to SpaceX to decide what to do about Starlink in Ukraine
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T082008">2022-10-19 08:20:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221019T085930">2022-10-19 08:59:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
