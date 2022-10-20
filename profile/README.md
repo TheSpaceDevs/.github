@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/20/falcon-9-starlink-4-36-live-coverage/" >🔗</a> **[Spaceflight Now]** Another batch of Starlink satellites launch from Cape Canaveral
 - <a href="https://spacenews.com/china-looked-at-putting-a-monitoring-satellite-in-retrograde-geostationary-orbit-via-the-moon/" >🔗</a> **[SpaceNews]** China looked at putting a monitoring satellite in retrograde geostationary orbit via the moon
 - <a href="https://spacenews.com/esa-moves-two-missions-to-falcon-9/" >🔗</a> **[SpaceNews]** ESA moves two missions to Falcon 9
 - <a href="https://www.nasaspaceflight.com/2022/10/spacex-3500-starlink/" >🔗</a> **[NASASpaceflight]** SpaceX launches the 3,500th Starlink satellite
 - <a href="https://spacenews.com/relativity-space-expands-engine-test-facilities-at-stennis/" >🔗</a> **[SpaceNews]** Relativity Space expands engine test facilities at Stennis
-- <a href="https://spacenews.com/space-force-briefing-on-military-space-race-catches-jeff-bezos-attention/" >🔗</a> **[SpaceNews]** Space Force briefing on military space race catches Jeff Bezos’ attention
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T161740">2022-10-20 16:17:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T170946">2022-10-20 17:09:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
