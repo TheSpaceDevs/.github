@@ -99,11 +99,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://spaceflightnow.com/2022/09/28/spacex-ula-postpone-launches-as-hurricane-ian-threatens-florida/" >🔗</a> **[Spaceflight Now]** SpaceX, ULA postpone launches as Hurricane Ian moves toward Florida
+- <a href="https://www.teslarati.com/spacex-30th-starlink-launch-2022-webcast/" >🔗</a> **[Teslarati]** SpaceX ready for 30th Starlink launch of 2022
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T070156">2022-10-20 07:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221020T074748">2022-10-20 07:47:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
