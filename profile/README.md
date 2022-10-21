@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch" >🔗</a> **[NASA]** NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch
+- <a href="https://mars.nasa.gov/news/9284/" >🔗</a> **[NASA]** NASA To Host Briefing on Insight, Mars Reconnaissance Orbiter Findings
 - <a href="https://spacenews.com/space-force-to-award-up-to-50-million-in-contracts-for-space-test-program-experiments/" >🔗</a> **[SpaceNews]** Space Force to award up to $50 million in contracts for Space Test Program experiments
 - <a href="https://spacenews.com/iridium-sheds-more-light-on-direct-to-smartphone-plan/" >🔗</a> **[SpaceNews]** Iridium sheds more light on direct-to-smartphone plan
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-briefing-on-insight-mars-reconnaissance-orbiter-findings" >🔗</a> **[NASA]** NASA to Host Briefing on InSight, Mars Reconnaissance Orbiter Findings
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-latest-emit-findings-helps-address-climate-change" >🔗</a> **[NASA]** NASA to Discuss Latest EMIT Findings, Helps Address Climate Change
-- <a href="https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/" >🔗</a> **[SpaceNews]** OneWeb launch sign of greater role for India in commercial launch market
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T220855">2022-10-21 22:08:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T224515">2022-10-21 22:45:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
