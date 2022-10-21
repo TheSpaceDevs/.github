@@ -91,11 +91,11 @@ Unidentified classified satellites for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/introducing-grasp-global/" >🔗</a> **[SpaceNews]** Grasp acquires AirPhoton to form Grasp Global
 - <a href="https://spacenews.com/esa-finalizes-package-for-ministerial/" >🔗</a> **[SpaceNews]** ESA finalizes package for ministerial
 - <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-ascend-conference-brief-media-on-tech-demo" >🔗</a> **[NASA]** NASA to Participate in ASCEND Conference, Brief Media on Tech Demo
 - <a href="https://www.teslarati.com/video-starlink-terminal-iran/" >🔗</a> **[Teslarati]** Video of Starlink terminal in Iran shared on Instagram
 - <a href="https://spacenews.com/space-force-tries-to-turn-over-a-new-leaf-in-satellite-procurement/" >🔗</a> **[SpaceNews]** Space Force tries to turn over a new leaf in satellite procurement
-- <a href="https://mars.nasa.gov/news/9283/" >🔗</a> **[NASA]** Why NASA Is Trying To Crash Land on Mars
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Unidentified classified satellites for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T110938">2022-10-21 11:09:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221021T114038">2022-10-21 11:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
