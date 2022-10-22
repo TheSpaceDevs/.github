@@ -99,11 +99,13 @@ into *a Polar Orbit
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/" >🔗</a> **[SpaceNews]** India on track for OneWeb launch in second half of October
+- <a href="https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/" >🔗</a> **[SpaceNews]** OneWeb launch sign of greater role for India in commercial launch market
+- <a href="https://spaceflightnow.com/2022/10/21/oneweb-set-to-resume-launches-on-indian-rocket/" >🔗</a> **[Spaceflight Now]** OneWeb set to resume launches on Indian rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T113810">2022-10-22 11:38:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T121536">2022-10-22 12:15:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
