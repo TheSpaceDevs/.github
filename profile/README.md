@@ -18,33 +18,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**GSLV Mk III | OneWeb 14**. It is scheduled to be launched by *Indian Space Research Organization*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a>, Sriharikota, Republic of India*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T183700">2022-10-22 18:37:00 UTC</a>.  Until
-then, this pad will have been used for 21
-out of 81 launches from this location. The launch status is currently
+**Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1S</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T195700">2022-10-22 19:57:00 UTC</a>.  Until
+then, this pad will have been used for 11
+out of 11 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.
+  Gonets-M are an upgraded version of Gonets satellites, derived from military communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.
+
+Also onboard is the Skif-D demonstration satellite for the planned Russian Sfera LEO communication satellite constellation.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520iii_image_20190604000938.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg" />
   </a>
-  <a href="https://www.google.com/maps?q=13.7199,80.2304" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_14_20200803142403.jpg"  />
+  <a href="https://www.google.ee/maps/place/51Â°53'03.8"N+128Â°20'02.2"E/" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_18_20200803142401.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T183700">2022-10-22 18:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 14&location=Sriharikota, Republic of India&dates=20221022T183700Z%2F20221022T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk III | OneWeb 14** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T195700">2022-10-22 19:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 &amp; Skif-D&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20221022T195700Z%2F20221022T195700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T002000">2022-10-26 00:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-21 (82P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20221026T002000Z%2F20221026T002000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-21 (82P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T010000">2022-10-27 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-31&location=Vandenberg SFB, CA, USA&dates=20221027T010000Z%2F20221027T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-31** from Vandenberg SFB, CA, USA.
@@ -54,6 +55,7 @@ into *a Polar Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T060000">2022-10-31 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B | Mengtian&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221031T060000Z%2F20221031T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5B | Mengtian** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T134400">2022-10-31 13:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221031T134400Z%2F20221031T134400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T092500">2022-11-01 09:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)&location=Vandenberg SFB, CA, USA&dates=20221101T092500Z%2F20221101T092500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T000000">2022-11-05 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221105T000000Z%2F20221105T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 31 & 32** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,15 +100,11 @@ into *a Polar Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/india-on-track-for-oneweb-launch-in-second-half-of-october/" >🔗</a> **[SpaceNews]** India on track for OneWeb launch in second half of October
-- <a href="https://spacenews.com/oneweb-launch-sign-of-greater-role-for-india-in-commercial-launch-market/" >🔗</a> **[SpaceNews]** OneWeb launch sign of greater role for India in commercial launch market
-- <a href="https://spaceflightnow.com/2022/10/21/oneweb-set-to-resume-launches-on-indian-rocket/" >🔗</a> **[Spaceflight Now]** OneWeb set to resume launches on Indian rocket
-- <a href="https://www.nasaspaceflight.com/2022/10/oneweb-gslv-mk-iii/" >🔗</a> **[NASASpaceflight]** OneWeb to resume launches on first commercial GSLV Mk.III
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T181050">2022-10-22 18:10:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221022T184916">2022-10-22 18:49:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
