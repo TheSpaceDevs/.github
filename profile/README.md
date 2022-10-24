@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-crystals/" >🔗</a> **[SpaceNews]** Sending DNA-infused Space Crystals to the moon
+- <a href="https://spacenews.com/final-two-pleiades-neo-imagery-satellites-land-in-french-guiana/" >🔗</a> **[SpaceNews]** Final two Pléiades Neo imagery satellites land in French Guiana
 - <a href="https://spacenews.com/space-force-to-activate-sensor-on-wide-field-of-view-missile-warning-satellite/" >🔗</a> **[SpaceNews]** Space Force to activate sensor on Wide-Field-of-View missile warning satellite
 - <a href="https://arstechnica.com/science/2022/10/on-eve-of-first-launch-relativity-space-seeks-to-join-spacex-as-disruptor/" >🔗</a> **[Arstechnica]** On eve of first launch, Relativity Space seeks to join SpaceX as “disruptor”
 - <a href="https://spacenews.com/war-in-ukraine-shifts-priorities-among-european-government-agencies/" >🔗</a> **[SpaceNews]** War in Ukraine shifts priorities among European government agencies
-- <a href="http://www.nasa.gov/press-release/maryland-students-navy-pilots-to-hear-from-nasa-astronauts-in-space" >🔗</a> **[NASA]** Maryland Students, Navy Pilots to Hear from NASA Astronauts in Space
-- <a href="https://www.nasaspaceflight.com/2022/10/rfa-reuse-interview/" >🔗</a> **[NASASpaceflight]** Rocket Factory Augsburg talks reusability plans and 3D printing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T220925">2022-10-24 22:09:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T224502">2022-10-24 22:45:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
