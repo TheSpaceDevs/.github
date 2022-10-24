@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/10/rfa-reuse-interview/" >🔗</a> **[NASASpaceflight]** Rocket Factory Augsburg talks reusability plans and 3D printing
 - <a href="https://spacenews.com/apex-raises-seed-round-to-mass-produce-smallsats/" >🔗</a> **[SpaceNews]** Apex raises seed round to mass produce smallsats
 - <a href="https://spacenews.com/preligens-expands-in-u-s/" >🔗</a> **[SpaceNews]** Preligens aims to become a long-term DoD supplier
 - <a href="https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/" >🔗</a> **[Teslarati]** SpaceX assembles Falcon Heavy rocket for first launch in 40 months
 - <a href="https://spacenews.com/report-offers-wide-ranging-recommendations-on-space-safety/" >🔗</a> **[SpaceNews]** Report offers wide-ranging recommendations on space safety
-- <a href="https://spaceflightnow.com/2022/10/22/soyuz-gonets-skif-d/" >🔗</a> **[Spaceflight Now]** Soyuz rocket launches with demo satellite for Russian internet constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T161627">2022-10-24 16:16:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221024T170555">2022-10-24 17:05:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
