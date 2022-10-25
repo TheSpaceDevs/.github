@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/introducing-array-labs/" >🔗</a> **[SpaceNews]** Array Labs raises $5 million for 3D-imagery constellation
 - <a href="https://spaceflightnow.com/2022/10/25/soyuz-progress-ms-21-launch/" >🔗</a> **[Spaceflight Now]** Russian cargo ship arrives at launch pad for flight to space station
 - <a href="https://arstechnica.com/science/2022/10/nearly-a-year-after-anti-satellite-test-the-iss-is-still-dodging-russian-debris/" >🔗</a> **[Arstechnica]** The ISS has had to maneuver yet again from Russian satellite debris
 - <a href="https://spacenews.com/orbit-fab-secures-new-investor-to-support-satellite-refueling-efforts/" >🔗</a> **[SpaceNews]** Orbit Fab secures new investor to support satellite refueling efforts
 - <a href="https://spacenews.com/chinas-spaceplane-raises-orbit-and-national-funding/" >🔗</a> **[SpaceNews]** China’s spaceplane raises orbit and national funding
-- <a href="https://spacenews.com/polaris-dawn-crewed-mission-could-suffer-additional-delays/" >🔗</a> **[SpaceNews]** Polaris Dawn crewed mission could suffer additional delays
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T172442">2022-10-25 17:24:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221025T181435">2022-10-25 18:14:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
