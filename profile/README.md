@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/" >🔗</a> **[Arstechnica]** SpaceX becomes NASA’s second-largest vendor, surpassing Boeing
 - <a href="https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/" >🔗</a> **[SpaceNews]** ISS partners weigh options for using commercial space stations
 - <a href="https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/" >🔗</a> **[SpaceNews]** Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’
 - <a href="https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/" >🔗</a> **[SpaceNews]** Newly acquired NanoAvionics plots major smallsat expansion
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-26th-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 26th Resupply Launch to Space Station
-- <a href="https://spacenews.com/starlinks-survivability-in-war-a-good-sign-for-dods-future-constellation/" >🔗</a> **[SpaceNews]** Starlink’s survivability in war a good sign for DoD’s future constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T140442">2022-10-26 14:04:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T144307">2022-10-26 14:43:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
