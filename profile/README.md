@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-starlink-dish-kit-enables-services-on-any-moving-land-object/" >🔗</a> **[SpaceNews]** New Starlink dish kit enables services ‘on any moving land object’
 - <a href="https://spacenews.com/quantum-space-announces-first-cislunar-mission/" >🔗</a> **[SpaceNews]** Quantum Space announces first cislunar mission
 - <a href="https://arstechnica.com/science/2022/10/spacex-becomes-nasas-second-largest-vendor-surpassing-boeing/" >🔗</a> **[Arstechnica]** SpaceX becomes NASA’s second-largest vendor, surpassing Boeing
 - <a href="https://spacenews.com/iss-partners-weigh-options-for-using-commercial-space-stations/" >🔗</a> **[SpaceNews]** ISS partners weigh options for using commercial space stations
 - <a href="https://spacenews.com/space-force-to-seek-budget-boost-beyond-2023-chinas-capabilities-are-close-to-ours/" >🔗</a> **[SpaceNews]** Space Force to seek budget boost beyond 2023, China’s capabilities are ‘close to ours’
-- <a href="https://spacenews.com/newly-acquired-nanoavionics-plots-major-smallsat-expansion/" >🔗</a> **[SpaceNews]** Newly acquired NanoAvionics plots major smallsat expansion
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T190627">2022-10-26 19:06:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221026T193249">2022-10-26 19:32:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
