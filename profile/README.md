@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-national-defense-strategy-calls-for-resilient-redundant-space-networks/" >🔗</a> **[SpaceNews]** U.S. national defense strategy calls for ‘resilient, redundant’ space networks
 - <a href="https://spacenews.com/as-clock-ticks-on-amazons-constellation-buying-starship-launches-not-out-of-the-question/" >🔗</a> **[SpaceNews]** As clock ticks on Amazon’s constellation, buying Starship launches not out of the question
 - <a href="https://mars.nasa.gov/news/9289/" >🔗</a> **[NASA]** NASA's InSight Lander Detects Stunning Meteoroid Impact on Mars
 - <a href="https://www.nasaspaceflight.com/2022/10/starlink-4-31/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch Starlink Group 4-31 from Vandenberg
 - <a href="https://arstechnica.com/science/2022/10/russia-threatens-a-retaliatory-strike-against-us-commercial-satellites/" >🔗</a> **[Arstechnica]** Russia threatens a retaliatory strike against US commercial satellites
-- <a href="http://www.nasa.gov/press-release/nasa-s-economic-benefit-reaches-all-50-states" >🔗</a> **[NASA]** NASA’s Economic Benefit Reaches All 50 States
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T210659">2022-10-27 21:06:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221027T213708">2022-10-27 21:37:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
