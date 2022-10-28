@@ -91,11 +91,11 @@ Officially described as an optical remote-sensing satellite built by SAST.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/10/28/spacex-adds-53-more-starlink-satellites-to-internet-constellation/" >🔗</a> **[Spaceflight Now]** SpaceX adds 53 more Starlink satellites to internet constellation
 - <a href="https://spaceflightnow.com/2022/10/28/progress-ms-21-iss-docking/" >🔗</a> **[Spaceflight Now]** Russian cargo ship docks at space station
 - <a href="https://spacenews.com/russia-escalates-rhetoric-on-commercial-satellites-calls-them-legitimate-targets-for-retaliation/" >🔗</a> **[SpaceNews]** Russia escalates rhetoric on commercial satellites, calls them ‘legitimate targets for retaliation’
 - <a href="https://spacenews.com/u-s-national-defense-strategy-calls-for-resilient-redundant-space-networks/" >🔗</a> **[SpaceNews]** U.S. national defense strategy calls for ‘resilient, redundant’ space networks
 - <a href="https://spacenews.com/as-clock-ticks-on-amazons-constellation-buying-starship-launches-not-out-of-the-question/" >🔗</a> **[SpaceNews]** As clock ticks on Amazon’s constellation, buying Starship launches not out of the question
-- <a href="https://mars.nasa.gov/news/9289/" >🔗</a> **[NASA]** NASA's InSight Lander Detects Stunning Meteoroid Impact on Mars
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T061058">2022-10-28 06:10:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T064655">2022-10-28 06:46:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
