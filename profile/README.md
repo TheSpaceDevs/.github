@@ -91,11 +91,11 @@ Officially described as an optical remote-sensing satellite built by SAST.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Provide Update on Artemis I Moon Mission
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Cargo Launch to International Space Station
 - <a href="https://mars.nasa.gov/news/9286/" >🔗</a> **[NASA]** NASA and ESA Agree on Next Steps to Return Mars Samples to Earth
 - <a href="https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/" >🔗</a> **[SpaceNews]** Next Artemis 1 launch attempt on schedule for mid-November
 - <a href="https://arstechnica.com/science/2022/10/rocket-report-amazon-may-consider-launching-on-spacex-a-canadian-space-race/" >🔗</a> **[Arstechnica]** Rocket Report: Norway’s nuclear rocket concerns; Ariane 6 delayed again
-- <a href="https://spacenews.com/chinese-commercial-remote-sensing-satellite-firm-to-double-size-of-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial remote sensing satellite firm to double size of constellation
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Officially described as an optical remote-sensing satellite built by SAST.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T161023">2022-10-28 16:10:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221028T165358">2022-10-28 16:53:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
