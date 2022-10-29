@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/psyche-launch-rescheduled-for-october-2023/" >🔗</a> **[SpaceNews]** Psyche launch rescheduled for October 2023
 - <a href="https://spacenews.com/constellation-antenna-provider-satixfy-goes-public-after-spac-merger/" >🔗</a> **[SpaceNews]** Constellation antenna provider SatixFy goes public after SPAC merger
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-update-on-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Provide Update on Artemis I Moon Mission
-- <a href="https://mars.nasa.gov/news/9286/" >🔗</a> **[NASA]** NASA and ESA Agree on Next Steps to Return Mars Samples to Earth
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Cargo Launch to International Space Station
-- <a href="https://spacenews.com/next-artemis-1-launch-attempt-on-schedule-for-mid-november/" >🔗</a> **[SpaceNews]** Next Artemis 1 launch attempt on schedule for mid-November
+- <a href="https://mars.nasa.gov/news/9286/" >🔗</a> **[NASA]** NASA and ESA Agree on Next Steps to Return Mars Samples to Earth
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T042601">2022-10-29 04:26:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221029T045758">2022-10-29 04:57:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
