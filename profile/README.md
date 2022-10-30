@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/" >🔗</a> **[SpaceNews]** Lunar landing restored for Artemis 4 mission
 - <a href="https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/" >🔗</a> **[NASASpaceflight]** China to launch Mengtian science module to Tiangong space station
 - <a href="https://spacenews.com/first-northstar-ssa-satellites-to-launch-in-2023-by-virgin-orbit/" >🔗</a> **[SpaceNews]** First NorthStar SSA satellites to launch in 2023 by Virgin Orbit
 - <a href="https://spacenews.com/for-u-s-space-force-raymonds-retirement-marks-the-end-of-an-era/" >🔗</a> **[SpaceNews]** For U.S. Space Force, Raymond’s retirement marks the end of an era
 - <a href="https://spacenews.com/centaur-issue-delays-jpss-2-launch/" >🔗</a> **[SpaceNews]** Centaur issue delays JPSS-2 launch
-- <a href="https://spacenews.com/psyche-launch-rescheduled-for-october-2023/" >🔗</a> **[SpaceNews]** Psyche launch rescheduled for October 2023
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T230804">2022-10-30 23:08:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221030T234019">2022-10-30 23:40:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
