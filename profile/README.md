@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T072500">2022-10-31 07:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B | Mengtian&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221031T072500Z%2F20221031T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5B | Mengtian** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T134100">2022-11-01 13:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221101T134100Z%2F20221101T141100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T060000">2022-11-02 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)&location=Plesetsk Cosmodrome, Russian Federation&dates=20221102T060000Z%2F20221102T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T032400">2022-11-03 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hotbird 13G&location=Cape Canaveral, FL, USA&dates=20221103T032400Z%2F20221103T032400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hotbird 13G** from Cape Canaveral, FL, USA.
@@ -100,11 +99,12 @@ into *a Low Earth Orbit
 
 - <a href="https://spacenews.com/china-begins-launch-campaign-for-final-space-station-module/" >🔗</a> **[SpaceNews]** China begins launch campaign for final space station module
 - <a href="https://spacenews.com/china-gears-up-for-launches-to-complete-tiangong-space-station/" >🔗</a> **[SpaceNews]** China gears up for launches to complete Tiangong space station
+- <a href="https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/" >🔗</a> **[NASASpaceflight]** China to launch Mengtian science module to Tiangong space station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T070848">2022-10-31 07:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T073636">2022-10-31 07:36:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
