@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/" >🔗</a> **[Arstechnica]** China launches third space station module, but rocket will return uncontrollably
+- <a href="https://spacenews.com/australia-joins-asat-test-ban-raising-like-minded-countries-to-eight/" >🔗</a> **[SpaceNews]** Australia joins ASAT test ban, raising like-minded countries to eight
 - <a href="https://spacenews.com/perseverance-to-establish-sample-cache-for-later-return-to-earth/" >🔗</a> **[SpaceNews]** Perseverance to establish sample cache for later return to Earth
 - <a href="https://spacenews.com/china-tests-engines-for-moon-mission-rocket/" >🔗</a> **[SpaceNews]** China tests engines for moon mission rocket
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-starship-amazon-internet-satellite-launches/" >🔗</a> **[Teslarati]** SpaceX still an option for future Amazon internet satellite launches, says Senior VP
-- <a href="https://spacenews.com/lunar-landing-restored-for-artemis-4-mission/" >🔗</a> **[SpaceNews]** Lunar landing restored for Artemis 4 mission
-- <a href="https://www.nasaspaceflight.com/2022/10/china-launch-mengtian/" >🔗</a> **[NASASpaceflight]** China launches Mengtian science module to Tiangong space station
 
 
 ### Launch-related News 🚀
@@ -122,11 +122,12 @@ into *a Geostationary Orbit
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-rocket-first-launch-three-years-take-two/" >🔗</a> **[Teslarati]** SpaceX’s first Falcon Heavy launch in three years eyes late-October liftoff
 - <a href="https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/" >🔗</a> **[Teslarati]** SpaceX assembles Falcon Heavy rocket for first launch in 40 months
 - <a href="https://www.teslarati.com/spacex-fires-up-fourth-falcon-heavy-rocket/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket passes static fire test three years in the making
+- <a href="https://spaceflightnow.com/2022/10/28/spacexs-falcon-heavy-test-fired-on-launch-pad-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX’s Falcon Heavy test-fired on launch pad in Florida
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T131321">2022-10-31 13:13:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140712">2022-10-31 14:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
