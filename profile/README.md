@@ -89,7 +89,7 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/" >🔗</a> **[Arstechnica]** China launches third space station module, but rocket will return uncontrollably
+- <a href="https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/" >🔗</a> **[Arstechnica]** It’s time to play “find the falling Chinese rocket” once again
 - <a href="https://spacenews.com/australia-joins-asat-test-ban-raising-like-minded-countries-to-eight/" >🔗</a> **[SpaceNews]** Australia joins ASAT test ban, raising like-minded countries to eight
 - <a href="https://spacenews.com/perseverance-to-establish-sample-cache-for-later-return-to-earth/" >🔗</a> **[SpaceNews]** Perseverance to establish sample cache for later return to Earth
 - <a href="https://spacenews.com/china-tests-engines-for-moon-mission-rocket/" >🔗</a> **[SpaceNews]** China tests engines for moon mission rocket
@@ -127,7 +127,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T140712">2022-10-31 14:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T144549">2022-10-31 14:45:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
