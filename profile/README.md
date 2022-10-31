@@ -123,11 +123,12 @@ into *a Geostationary Orbit
 - <a href="https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/" >🔗</a> **[Teslarati]** SpaceX assembles Falcon Heavy rocket for first launch in 40 months
 - <a href="https://www.teslarati.com/spacex-fires-up-fourth-falcon-heavy-rocket/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket passes static fire test three years in the making
 - <a href="https://spaceflightnow.com/2022/10/28/spacexs-falcon-heavy-test-fired-on-launch-pad-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX’s Falcon Heavy test-fired on launch pad in Florida
+- <a href="https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/" >🔗</a> **[Arstechnica]** The world’s most powerful rocket finally returns after a 3-year absence
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T193247">2022-10-31 19:32:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T200921">2022-10-31 20:09:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
