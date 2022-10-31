@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacelink-wind-down/" >🔗</a> **[SpaceNews]** SpaceLink to wind down operations, barring last-minute investment
 - <a href="https://spacenews.com/lockheed-martin-ups-stake-in-terran-orbital-invests-100-million-to-expand-smallsat-manufacturing/" >🔗</a> **[SpaceNews]** Lockheed Martin ups stake in Terran Orbital, invests $100 million to expand smallsat manufacturing
 - <a href="https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/" >🔗</a> **[Arstechnica]** The world’s most powerful rocket finally returns after a 3-year absence
 - <a href="https://arstechnica.com/science/2022/10/china-launches-its-third-space-station-module-but-rocket-will-return-controllably/" >🔗</a> **[Arstechnica]** It’s time to play “find the falling Chinese rocket” once again
 - <a href="https://spacenews.com/australia-joins-asat-test-ban-raising-like-minded-countries-to-eight/" >🔗</a> **[SpaceNews]** Australia joins ASAT test ban, raising like-minded countries to eight
-- <a href="https://spacenews.com/perseverance-to-establish-sample-cache-for-later-return-to-earth/" >🔗</a> **[SpaceNews]** Perseverance to establish sample cache for later return to Earth
 
 
 ### Launch-related News 🚀
@@ -128,7 +128,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T200921">2022-10-31 20:09:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221031T204021">2022-10-31 20:40:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
