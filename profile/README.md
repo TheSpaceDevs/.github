@@ -45,7 +45,7 @@ into *an Elliptical Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T060000">2022-11-02 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)&location=Plesetsk Cosmodrome, Russian Federation&dates=20221102T060000Z%2F20221102T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T032400">2022-11-03 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hotbird 13G&location=Cape Canaveral, FL, USA&dates=20221103T032400Z%2F20221103T052300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hotbird 13G** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T032600">2022-11-03 03:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hotbird 13G&location=Cape Canaveral, FL, USA&dates=20221103T032600Z%2F20221103T052600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hotbird 13G** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T105013">2022-11-06 10:50:13 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)&location=Wallops Island, Virginia, USA&dates=20221106T105013Z%2F20221106T105013Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T000000">2022-11-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221108T000000Z%2F20221108T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 31 & 32** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T092500">2022-11-09 09:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)&location=Vandenberg SFB, CA, USA&dates=20221109T092500Z%2F20221109T092500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)** from Vandenberg SFB, CA, USA.
@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/" >🔗</a> **[SpaceNews]** Space Force funds experiment on use of AI to predict satellite failures
+- <a href="https://mars.nasa.gov/news/9292/" >🔗</a> **[NASA]** NASA Prepares to Say 'Farewell' to InSight Spacecraft
 - <a href="https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/" >🔗</a> **[Arstechnica]** SpaceX successfully launches its first Falcon Heavy in 40 months
 - <a href="https://spacenews.com/spacex-falcon-heavy-launches-first-u-s-national-security-mission/" >🔗</a> **[SpaceNews]** SpaceX Falcon Heavy launches first U.S. national security mission
 - <a href="https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/" >🔗</a> **[SpaceNews]** Japanese lunar lander, with NASA rideshare, to launch this month
-- <a href="https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/" >🔗</a> **[SpaceNews]** New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’
-- <a href="https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/" >🔗</a> **[NASASpaceflight]** SpaceX Falcon Heavy lofts USSF-44 on first flight in three years
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T161149">2022-11-01 16:11:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T165907">2022-11-01 16:59:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
