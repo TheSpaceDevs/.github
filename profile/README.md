@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saudi-astronauts-to-fly-on-ax-2-mission-to-iss/" >🔗</a> **[SpaceNews]** Saudi astronauts to fly on Ax-2 mission to ISS
 - <a href="https://arstechnica.com/science/2022/11/a-camera-next-to-the-falcon-landing-pads-captured-tuesdays-dramatic-return/" >🔗</a> **[Arstechnica]** The close-up view of two Falcon rockets landing is as majestic as you think
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-rocket-aces-geostationary-launch-dual-landing/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket back in action after a three-year hiatus
 - <a href="https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/" >🔗</a> **[SpaceNews]** Spire selected to design satellite for DARPA experiment in very low orbit
 - <a href="https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/" >🔗</a> **[SpaceNews]** Wyvern raises $7 million for hyperspectral imaging constellation
-- <a href="https://spacenews.com/leidos-selected-by-northrop-grumman-to-supply-sensor-payloads-for-u-s-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Leidos selected by Northrop Grumman to supply sensor payloads for U.S. missile-tracking satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T213812">2022-11-01 21:38:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T220909">2022-11-01 22:09:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
