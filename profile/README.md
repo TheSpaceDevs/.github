@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon Heavy | USSF-44**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T134100">2022-11-01 13:41:00 UTC</a>.  Until
-then, this pad will have been used for 151
-out of 208 launches from this location. The launch status is currently
+**Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)**. It is scheduled to be launched by *Russian Space Forces*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="">43/3 (43L)</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T060000">2022-11-02 06:00:00 UTC</a>.  Until
+then, this pad will have been used for 225
+out of 1656 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
-into *a Geostationary Orbit
-(Direct-GEO)*.
+into *an Elliptical Orbit
+(Elliptical)*.
 <br>
 <blockquote>
-  Classified US Space Force carrying two payloads directly to geostationary orbit. One is called the Shepherd Demonstration, and the other is LDPE 2 spacecraft that carries three hosted payloads and three deployable sub-satellites. One of them is an experimental microsatellite called TETRA-1.
+  The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
+  <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=62.9273+N,+40.450+E&amp;ie=UTF8&amp;z=16&amp;ll=62.92755,40.450008&amp;spn=0.004365,0.021629&amp;t=h&amp;om=0&amp;iwloc=addr" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_6_20200803142434.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T134100">2022-11-01 13:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-44&location=Kennedy Space Center, FL, USA&dates=20221101T134100Z%2F20221101T141100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T060000">2022-11-02 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)&location=Plesetsk Cosmodrome, Russian Federation&dates=20221102T060000Z%2F20221102T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | EKS 6 (Tundra 6)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T032400">2022-11-03 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hotbird 13G&location=Cape Canaveral, FL, USA&dates=20221103T032400Z%2F20221103T032400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hotbird 13G** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T105013">2022-11-06 10:50:13 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)&location=Wallops Island, Virginia, USA&dates=20221106T105013Z%2F20221106T105013Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)** from Wallops Island, Virginia, USA.
@@ -54,6 +53,7 @@ into *a Geostationary Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T050700">2022-11-14 05:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221114T050700Z%2F20221114T061600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220000">2022-11-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221114T220000Z%2F20221115T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T214000">2022-11-20 21:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221120T214000Z%2F20221120T214000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T000000">2022-11-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221122T000000Z%2F20221122T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,37 +98,11 @@ into *a Geostationary Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-first-dual-drone-ship-landing/" >🔗</a> **[Teslarati]** SpaceX’s next Falcon Heavy launch to feature first dual rocket landing of its kind
-- <a href="https://spacenews.com/millennium-space-delivers-cubesat-for-upcoming-u-s-space-force-rideshare-mission/" >🔗</a> **[SpaceNews]** Millennium Space delivers cubesat for upcoming U.S. Space Force rideshare mission
-- <a href="https://spaceflightnow.com/2020/04/27/falcon-heavy-on-track-for-design-validation-milestone-before-late-2020-launch/" >🔗</a> **[Spaceflight Now]** Falcon Heavy set for design validation milestone before late 2020 launch
-- <a href="https://www.teslarati.com/spacex-next-falcon-heavy-launch-surprise-payload/" >🔗</a> **[Teslarati]** SpaceX’s next Falcon Heavy launch on track to carry multiple military satellites
-- <a href="https://www.teslarati.com/spacex-next-falcon-heavy-launch-delayed-2021/" >🔗</a> **[Teslarati]** SpaceX’s next Falcon Heavy launch slips into 2021
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-side-booster-texas-arrival/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy side booster arrives at Texas test facilities
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-ussf-44-first-booster-delivery/" >🔗</a> **[Teslarati]** SpaceX begins Falcon Heavy booster deliveries for first launch in two years
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-center-core-texas-bound/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy ‘center core’ passes through Arizona on its way to Texas
-- <a href="https://spaceflightnow.com/2021/05/23/falcon-heavys-first-national-security-launch-slips-to-october/" >🔗</a> **[Spaceflight Now]** Falcon Heavy’s first national security launch slips to October
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-ussf-44-launch-delay/" >🔗</a> **[Teslarati]** SpaceX’s next Falcon Heavy launches delayed by military satellite issues
-- <a href="https://arstechnica.com/science/2021/05/rocket-report-russia-plans-nuclear-space-tug-falcon-heavy-launch-delays/" >🔗</a> **[Arstechnica]** Rocket Report: Russia plans nuclear space tug, Falcon Heavy launch delays
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-first-launch-two-years/" >🔗</a> **[Teslarati]** SpaceX’s first Falcon Heavy launch in two years is finally coming together
-- <a href="https://www.teslarati.com/spacex-first-falcon-heavy-launch-two-years-october/" >🔗</a> **[Teslarati]** SpaceX schedules first Falcon Heavy launch in two years in early October
-- <a href="https://arstechnica.com/science/2021/09/rocket-report-next-falcon-heavy-launch-date-set-soyuz-5-engines-clear-tests/" >🔗</a> **[Arstechnica]** Rocket Report: Next Falcon Heavy launch date set, Soyuz 5 engines clear tests
-- <a href="https://spaceflightnow.com/2021/10/04/payload-issue-delays-spacexs-next-falcon-heavy-launch-to-early-2022/" >🔗</a> **[Spaceflight Now]** Payload issue delays SpaceX’s next Falcon Heavy launch to early 2022
-- <a href="https://www.teslarati.com/spacex-fourth-falcon-heavy-launch-delayed-2022/" >🔗</a> **[Teslarati]** SpaceX to launch Falcon Heavy rocket 3 times in 6 months after latest payload delay
-- <a href="https://arstechnica.com/science/2021/10/rocket-report-spacex-snaps-up-italian-satellite-capt-kirk-set-for-launch/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon Heavy delayed due to payload issue, DART gets a date
-- <a href="https://spacenews.com/falcon-heavy-could-launch-three-u-s-space-force-missions-in-2022/" >🔗</a> **[SpaceNews]** Falcon Heavy could launch three U.S. Space Force missions in 2022
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-five-launches-2022/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket is scheduled to launch five times next year
-- <a href="https://spaceflightnow.com/2022/10/05/after-a-three-year-wait-spacexs-falcon-heavy-could-launch-again-later-this-month/" >🔗</a> **[Spaceflight Now]** After a three-year wait, SpaceX’s Falcon Heavy could launch again later this month
-- <a href="https://arstechnica.com/science/2022/10/rocket-report-falcon-heavy-launch-on-tap-south-korea-seeks-russia-alternative/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-rocket-first-launch-three-years-take-two/" >🔗</a> **[Teslarati]** SpaceX’s first Falcon Heavy launch in three years eyes late-October liftoff
-- <a href="https://www.teslarati.com/spacex-assembles-first-falcon-heavy-rocket-in-40-months/" >🔗</a> **[Teslarati]** SpaceX assembles Falcon Heavy rocket for first launch in 40 months
-- <a href="https://www.teslarati.com/spacex-fires-up-fourth-falcon-heavy-rocket/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket passes static fire test three years in the making
-- <a href="https://spaceflightnow.com/2022/10/28/spacexs-falcon-heavy-test-fired-on-launch-pad-in-florida/" >🔗</a> **[Spaceflight Now]** SpaceX’s Falcon Heavy test-fired on launch pad in Florida
-- <a href="https://arstechnica.com/science/2022/10/the-worlds-most-powerful-rocket-finally-returns-after-a-3-year-absence/" >🔗</a> **[Arstechnica]** The world’s most powerful rocket finally returns after a 3-year absence
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T132324">2022-11-01 13:23:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T140055">2022-11-01 14:00:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
