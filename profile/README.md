@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/" >🔗</a> **[SpaceNews]** New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’
 - <a href="https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/" >🔗</a> **[NASASpaceflight]** SpaceX Falcon Heavy to loft USSF-44 on first flight in three years
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing
 - <a href="https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/" >🔗</a> **[SpaceNews]** Arianespace partners with Australian space tug startup
 - <a href="https://spaceflightnow.com/2022/10/31/falcon-heavy-rocket-on-the-launch-pad-for-one-of-spacexs-most-complex-missions/" >🔗</a> **[Spaceflight Now]** Falcon Heavy rocket on the launch pad for one of SpaceX’s most complex missions
-- <a href="https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/" >🔗</a> **[SpaceNews]** NASA predicts first Starship orbital launch as soon as December
 
 
 ### Launch-related News 🚀
@@ -128,7 +128,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T110712">2022-11-01 11:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T113558">2022-11-01 11:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
