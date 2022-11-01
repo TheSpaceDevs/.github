@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/" >🔗</a> **[Arstechnica]** SpaceX successfully launches its first Falcon Heavy in 40 months
+- <a href="https://spacenews.com/spacex-falcon-heavy-launches-first-u-s-national-security-mission/" >🔗</a> **[SpaceNews]** SpaceX Falcon Heavy launches first U.S. national security mission
 - <a href="https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/" >🔗</a> **[SpaceNews]** Japanese lunar lander, with NASA rideshare, to launch this month
 - <a href="https://spacenews.com/new-guidance-from-space-force-acquisition-boss-the-traditional-ways-must-be-reformed/" >🔗</a> **[SpaceNews]** New guidance from Space Force acquisition boss: ‘The traditional ways must be reformed’
 - <a href="https://www.nasaspaceflight.com/2022/10/falcon-heavy-ussf-44/" >🔗</a> **[NASASpaceflight]** SpaceX Falcon Heavy lofts USSF-44 on first flight in three years
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-rocket-tuesday-launch-dual-booster-landing/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket rolls to pad for Tuesday launch, dual booster landing
-- <a href="https://spacenews.com/arianespace-partners-with-australian-space-tug-startup/" >🔗</a> **[SpaceNews]** Arianespace partners with Australian space tug startup
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T150842">2022-11-01 15:08:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T154331">2022-11-01 15:43:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
