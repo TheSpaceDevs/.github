@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spire-selected-to-design-satellite-for-darpa-experiment-in-very-low-orbit/" >🔗</a> **[SpaceNews]** Spire selected to design satellite for DARPA experiment in very low orbit
 - <a href="https://spacenews.com/wyvern-raises-7-million-for-hyperspectral-imaging-constellation/" >🔗</a> **[SpaceNews]** Wyvern raises $7 million for hyperspectral imaging constellation
 - <a href="https://spacenews.com/leidos-selected-by-northrop-grumman-to-supply-sensor-payloads-for-u-s-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Leidos selected by Northrop Grumman to supply sensor payloads for U.S. missile-tracking satellites
 - <a href="https://spacenews.com/space-force-funds-experiment-on-use-of-ai-to-predict-satellite-failures/" >🔗</a> **[SpaceNews]** Space Force funds experiment on use of AI to predict satellite failures
 - <a href="https://mars.nasa.gov/news/9292/" >🔗</a> **[NASA]** NASA Prepares to Say 'Farewell' to InSight Spacecraft
-- <a href="https://arstechnica.com/science/2022/11/spacex-successfully-launches-its-first-falcon-heavy-in-40-months/" >🔗</a> **[Arstechnica]** SpaceX successfully launches its first Falcon Heavy in 40 months
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T193321">2022-11-01 19:33:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221101T200927">2022-11-01 20:09:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
