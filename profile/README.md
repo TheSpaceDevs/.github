@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/hotbird-13g/" >🔗</a> **[NASASpaceflight]** SpaceX to launch second Hotbird satellite for Eutelsat
+- <a href="https://spaceflightnow.com/2022/11/02/spacex-teams-in-florida-prep-for-second-launch-in-as-many-days/" >🔗</a> **[Spaceflight Now]** SpaceX teams in Florida prep for second launch in as many days
 - <a href="https://spacenews.com/virgin-galactic-picks-suppliers-for-future-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic picks suppliers for future spaceplanes
 - <a href="https://spacenews.com/saltzman-takes-command-as-new-chief-of-the-u-s-space-force/" >🔗</a> **[SpaceNews]** Saltzman takes command as new chief of the U.S. Space Force
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-discuss-space-station-science-experiments" >🔗</a> **[NASA]** NASA Invites Media to Discuss Space Station Science, Experiments
-- <a href="https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/" >🔗</a> **[Arstechnica]** SpaceX is now building a Raptor engine a day, NASA says
-- <a href="https://spacenews.com/chinas-mystery-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s mystery spaceplane releases object into orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T223740">2022-11-02 22:37:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T230743">2022-11-02 23:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
