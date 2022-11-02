@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/" >🔗</a> **[Arstechnica]** SpaceX is now building a Raptor engine a day, NASA says
 - <a href="https://spacenews.com/chinas-mystery-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s mystery spaceplane releases object into orbit
 - <a href="https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/" >🔗</a> **[SpaceNews]** Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project
 - <a href="https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/" >🔗</a> **[SpaceNews]** Rocket Lab to attempt booster recovery on upcoming Electron launch
 - <a href="https://spacenews.com/orbex-to-build-scottish-launch-site/" >🔗</a> **[SpaceNews]** Orbex to build Scottish launch site
-- <a href="https://spacenews.com/saudi-astronauts-to-fly-on-ax-2-mission-to-iss/" >🔗</a> **[SpaceNews]** Saudi astronauts to fly on Ax-2 mission to ISS
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T140519">2022-11-02 14:05:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T144357">2022-11-02 14:43:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
