@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-microsoft-spikeroak-join-defense-innovation-units-hybrid-space-network-project/" >🔗</a> **[SpaceNews]** Amazon, Microsoft, SpiderOak join Defense Innovation Unit’s hybrid space network project
 - <a href="https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/" >🔗</a> **[SpaceNews]** Rocket Lab to attempt booster recovery on upcoming Electron launch
 - <a href="https://spacenews.com/orbex-to-build-scottish-launch-site/" >🔗</a> **[SpaceNews]** Orbex to build Scottish launch site
 - <a href="https://spacenews.com/saudi-astronauts-to-fly-on-ax-2-mission-to-iss/" >🔗</a> **[SpaceNews]** Saudi astronauts to fly on Ax-2 mission to ISS
 - <a href="https://arstechnica.com/science/2022/11/a-camera-next-to-the-falcon-landing-pads-captured-tuesdays-dramatic-return/" >🔗</a> **[Arstechnica]** The close-up view of two Falcon rockets landing is as majestic as you think
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-rocket-aces-geostationary-launch-dual-landing/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket back in action after a three-year hiatus
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T121723">2022-11-02 12:17:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221102T132215">2022-11-02 13:22:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
