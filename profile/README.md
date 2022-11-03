@@ -52,7 +52,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T010000">2022-11-12 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-5&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221112T010000Z%2F20221112T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7  | Tianzhou-5** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T050700">2022-11-14 05:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221114T050700Z%2F20221114T061600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220000">2022-11-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221114T220000Z%2F20221115T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T214000">2022-11-20 21:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221120T214000Z%2F20221120T214000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T222700">2022-11-18 22:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221118T222700Z%2F20221118T222700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T000000">2022-11-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221122T000000Z%2F20221122T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 
 
@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks" >🔗</a> **[NASA]** NASA to Provide Coverage of Preview Briefing, US Spacewalks
 - <a href="https://spacenews.com/fcc-proposes-new-bureau-for-space-activities/" >🔗</a> **[SpaceNews]** FCC proposes new bureau for space activities
 - <a href="https://spacenews.com/rocket-from-chinese-space-station-module-launch-predicted-to-uncontrolled-reentry-nov-4/" >🔗</a> **[SpaceNews]** Rocket from Chinese space station module launch predicted to make uncontrolled reentry Nov. 4
 - <a href="https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/" >🔗</a> **[SpaceNews]** SpaceX launches Hotbird 3G to extend Eutelsat’s broadcast coverage
 - <a href="https://arstechnica.com/science/2022/11/your-chance-of-dying-from-a-falling-chinese-rocket-less-than-1-in-a-trillion/" >🔗</a> **[Arstechnica]** Falling Chinese rocket expected to enter Earth’s atmosphere in <2 days
-- <a href="https://spacenews.com/exotrail-signs-launch-agreement-with-isar-aerospace/" >🔗</a> **[SpaceNews]** Exotrail signs launch agreement with Isar Aerospace
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T161358">2022-11-03 16:13:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T165523">2022-11-03 16:55:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
