@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/" >🔗</a> **[NASASpaceflight]** SLS to return to LC-39B for next Artemis I launch opportunity
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-preview-briefing-us-spacewalks" >🔗</a> **[NASA]** NASA to Provide Coverage of Preview Briefing, US Spacewalks
 - <a href="https://spacenews.com/fcc-proposes-new-bureau-for-space-activities/" >🔗</a> **[SpaceNews]** FCC proposes new bureau for space activities
 - <a href="https://spacenews.com/rocket-from-chinese-space-station-module-launch-predicted-to-uncontrolled-reentry-nov-4/" >🔗</a> **[SpaceNews]** Rocket from Chinese space station module launch predicted to make uncontrolled reentry Nov. 4
 - <a href="https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/" >🔗</a> **[SpaceNews]** SpaceX launches Hotbird 3G to extend Eutelsat’s broadcast coverage
-- <a href="https://arstechnica.com/science/2022/11/your-chance-of-dying-from-a-falling-chinese-rocket-less-than-1-in-a-trillion/" >🔗</a> **[Arstechnica]** Falling Chinese rocket expected to enter Earth’s atmosphere in <2 days
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T190618">2022-11-03 19:06:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221103T193222">2022-11-03 19:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
