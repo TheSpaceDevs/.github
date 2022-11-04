@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/" >🔗</a> **[SpaceNews]** Virgin Galactic delays introduction of second suborbital spaceship
 - <a href="https://spacenews.com/long-march-5b-stage-reenters-over-pacific-ocean-after-forcing-airspace-closures-in-europe/" >🔗</a> **[SpaceNews]** Long March 5B rocket reenters over Pacific Ocean after forcing airspace closures in Europe
 - <a href="https://arstechnica.com/science/2022/11/rocket-report-sls-boosters-may-expire-in-december-blue-origin-delivers-the-be-4s/" >🔗</a> **[Arstechnica]** Rocket Report: SLS boosters may expire in December; Blue Origin delivers the BE-4s
 - <a href="https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/" >🔗</a> **[SpaceNews]** SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage
 - <a href="https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/" >🔗</a> **[SpaceNews]** NRO to sign deals with commercial providers of hyperspectral imaging
-- <a href="https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/" >🔗</a> **[SpaceNews]** Civilian space traffic management office coming along, but ‘don’t expect magic’
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T113330">2022-11-04 11:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T121640">2022-11-04 12:16:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
