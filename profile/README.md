@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/11/03/nasas-artemis-1-moon-rocket-ready-for-ride-back-to-launch-pad/" >🔗</a> **[Spaceflight Now]** NASA’s Artemis 1 moon rocket ready for ride back to launch pad
 - <a href="https://spacenews.com/spacex-launches-hotbird-3g-to-extend-eutelsats-broadcast-coverage/" >🔗</a> **[SpaceNews]** SpaceX launches Hotbird 13G to extend Eutelsat’s broadcast coverage
 - <a href="https://spacenews.com/nro-to-sign-deals-with-commercial-providers-of-hyperspectral-imaging/" >🔗</a> **[SpaceNews]** NRO to sign deals with commercial providers of hyperspectral imaging
 - <a href="https://spacenews.com/civilian-space-traffic-management-office-coming-along-but-dont-expect-magic/" >🔗</a> **[SpaceNews]** Civilian space traffic management office coming along, but ‘don’t expect magic’
 - <a href="https://spacenews.com/first-starliner-crewed-flight-further-delayed/" >🔗</a> **[SpaceNews]** First Starliner crewed flight further delayed
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-psyche-independent-review-board-results" >🔗</a> **[NASA]** NASA to Discuss Psyche Independent Review Board Results
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T050110">2022-11-04 05:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T054018">2022-11-04 05:40:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
