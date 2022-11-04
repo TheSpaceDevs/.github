@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/" >🔗</a> **[SpaceNews]** Rocket Lab launches Swedish satellite, fails to catch booster
+- <a href="http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review" >🔗</a> **[NASA]** As Psyche Mission Moves Forward, NASA Responds to Independent Review
 - <a href="http://www.nasa.gov/press-release/nasa-leaders-to-participate-in-annual-global-climate-conference" >🔗</a> **[NASA]** NASA Leaders to Participate in Annual Global Climate Conference
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis I Moon Mission Launch
 - <a href="https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches successfully, fails mid-air recovery attempt
-- <a href="https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/" >🔗</a> **[Arstechnica]** Virgin Galactic delays development of ship capable of higher flight rate
-- <a href="https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/" >🔗</a> **[NASASpaceflight]** SLS returns to LC-39B for next Artemis I launch opportunity
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T193201">2022-11-04 19:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T200847">2022-11-04 20:08:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
