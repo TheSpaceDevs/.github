@@ -89,21 +89,22 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/" >🔗</a> **[NASASpaceflight]** Catch Me If You Can: Rocket Lab to attempt mid-air recovery again
 - <a href="https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/" >🔗</a> **[Arstechnica]** Virgin Galactic delays development of ship capable of higher flight rate
 - <a href="https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/" >🔗</a> **[NASASpaceflight]** SLS returns to LC-39B for next Artemis I launch opportunity
 - <a href="https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/" >🔗</a> **[SpaceNews]** Virgin Galactic delays introduction of second suborbital spaceship
 - <a href="https://spacenews.com/long-march-5b-stage-reenters-over-pacific-ocean-after-forcing-airspace-closures-in-europe/" >🔗</a> **[SpaceNews]** Long March 5B rocket reenters over Pacific Ocean after forcing airspace closures in Europe
-- <a href="https://arstechnica.com/science/2022/11/rocket-report-sls-boosters-may-expire-in-december-blue-origin-delivers-the-be-4s/" >🔗</a> **[Arstechnica]** Rocket Report: SLS boosters may expire in December; Blue Origin delivers the BE-4s
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/rocket-lab-to-attempt-booster-recovery-on-upcoming-electron-launch/" >🔗</a> **[SpaceNews]** Rocket Lab to attempt booster recovery on upcoming Electron launch
+- <a href="https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/" >🔗</a> **[NASASpaceflight]** Catch Me If You Can: Rocket Lab to attempt mid-air recovery again
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T150740">2022-11-04 15:07:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T154202">2022-11-04 15:42:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
