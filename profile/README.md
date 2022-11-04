@@ -89,7 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/" >🔗</a> **[NASASpaceflight]** Catch Me If You Can: Rocket Lab to attempt mid-air recovery again
+- <a href="https://www.nasaspaceflight.com/2022/11/catch-me-if-you-can/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches successfully, fails mid-air recovery attempt
 - <a href="https://arstechnica.com/science/2022/11/virgin-galactic-delays-development-of-ship-capable-of-higher-flight-rate/" >🔗</a> **[Arstechnica]** Virgin Galactic delays development of ship capable of higher flight rate
 - <a href="https://www.nasaspaceflight.com/2022/11/sls-return-to-lc-39b/" >🔗</a> **[NASASpaceflight]** SLS returns to LC-39B for next Artemis I launch opportunity
 - <a href="https://spacenews.com/virgin-galactic-delays-introduction-of-second-suborbital-spaceship/" >🔗</a> **[SpaceNews]** Virgin Galactic delays introduction of second suborbital spaceship
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T173929">2022-11-04 17:39:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221104T180949">2022-11-04 18:09:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
