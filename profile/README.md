@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/psyche-review-finds-institutional-problems-at-jpl/" >🔗</a> **[SpaceNews]** Psyche review finds institutional problems at JPL
 - <a href="https://www.nasaspaceflight.com/2022/11/ng-18-launch/" >🔗</a> **[NASASpaceflight]** Penultimate Antares 230+ to launch NG-18 with Antares 330 development underway
 - <a href="http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development" >🔗</a> **[NASA]** NASA, USAID Partnership Strengthens Global Development
 - <a href="https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/" >🔗</a> **[SpaceNews]** Rocket Lab launches Swedish satellite, fails to catch booster
 - <a href="https://spaceflightnow.com/2022/11/04/nasas-artemis-1-moon-rocket-back-on-pad-39b-for-nighttime-launch-attempt/" >🔗</a> **[Spaceflight Now]** NASA’s Artemis 1 moon rocket back on pad 39B for nighttime launch attempt
-- <a href="http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review" >🔗</a> **[NASA]** As Psyche Mission Moves Forward, NASA Responds to Independent Review
 
 
 ### Launch-related News 🚀
@@ -101,11 +101,12 @@ into *a Low Earth Orbit
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-northrop-grumman-space-station-mission" >🔗</a> **[NASA]** NASA to Discuss Science on Next Northrop Grumman Space Station Mission
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Cargo Launch to International Space Station
+- <a href="https://www.nasaspaceflight.com/2022/11/ng-18-launch/" >🔗</a> **[NASASpaceflight]** Penultimate Antares 230+ to launch NG-18 with Antares 330 development underway
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T213346">2022-11-05 21:33:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T220650">2022-11-05 22:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
