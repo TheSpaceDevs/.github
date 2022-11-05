@@ -91,9 +91,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="http://www.nasa.gov/press-release/nasa-usaid-partnership-strengthens-global-development" >🔗</a> **[NASA]** NASA, USAID Partnership Strengthens Global Development
 - <a href="https://spacenews.com/rocket-lab-launches-swedish-satellite-fails-to-catch-booster/" >🔗</a> **[SpaceNews]** Rocket Lab launches Swedish satellite, fails to catch booster
+- <a href="https://spaceflightnow.com/2022/11/04/nasas-artemis-1-moon-rocket-back-on-pad-39b-for-nighttime-launch-attempt/" >🔗</a> **[Spaceflight Now]** NASA’s Artemis 1 moon rocket back on pad 39B for nighttime launch attempt
 - <a href="http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review" >🔗</a> **[NASA]** As Psyche Mission Moves Forward, NASA Responds to Independent Review
 - <a href="http://www.nasa.gov/press-release/nasa-leaders-to-participate-in-annual-global-climate-conference" >🔗</a> **[NASA]** NASA Leaders to Participate in Annual Global Climate Conference
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-artemis-i-moon-mission-launch" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis I Moon Mission Launch
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T193148">2022-11-05 19:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T201024">2022-11-05 20:10:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
