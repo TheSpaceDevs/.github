@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 3B | ChinaSat 19**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T114000">2022-11-05 11:40:00 UTC</a>.  Until
-then, this pad will have been used for 90
-out of 178 launches from this location. The launch status is currently
+**Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)**. It is scheduled to be launched by *Northrop Grumman Space Systems*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="">Launch Area 0 A</a>, Wallops Island, Virginia, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T105013">2022-11-06 10:50:13 UTC</a>.  Until
+then, this pad will have been used for 17
+out of 72 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+*Resupply* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  ChinaSat 19 (Zhongxing 19) is a Chinese high throughput (HTS) Ka-band communications satellite based on the DFH-4E satellite bus for serving China-US air routes.
+  This is the 18th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 17th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Antares_(rocket)#Antares_200" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
+  <a href="http://maps.google.com/maps?q=37.8337+N,+75.4881+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T114000">2022-11-05 11:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B | ChinaSat 19&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221105T114000Z%2F20221105T121500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B | ChinaSat 19** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221106T105013">2022-11-06 10:50:13 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)&location=Wallops Island, Virginia, USA&dates=20221106T105013Z%2F20221106T105013Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T160600">2022-11-08 16:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221108T160600Z%2F20221108T180600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 31 & 32** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T092500">2022-11-10 09:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)&location=Vandenberg SFB, CA, USA&dates=20221110T092500Z%2F20221110T092500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)** from Vandenberg SFB, CA, USA.
@@ -54,6 +53,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T222700">2022-11-18 22:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221118T222700Z%2F20221118T222700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T000000">2022-11-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221122T000000Z%2F20221122T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T000000">2022-11-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221123T000000Z%2F20221123T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Pléiades Neo 5 & 6** from Kourou, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 15&location=Kennedy Space Center, FL, USA&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 15** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,11 +98,14 @@ into *a Geostationary Transfer Orbit
 
 ### Launch-related News 🚀
 
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-s-antares-cargo-resupply-launch" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s Antares Cargo Resupply Launch
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-northrop-grumman-space-station-mission" >🔗</a> **[NASA]** NASA to Discuss Science on Next Northrop Grumman Space Station Mission
+- <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-cargo-launch-to-international-space-station" >🔗</a> **[NASA]** NASA Sets TV Coverage for Cargo Launch to International Space Station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T113153">2022-11-05 11:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221105T121250">2022-11-05 12:12:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
