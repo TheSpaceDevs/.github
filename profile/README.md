@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/safran-buys-syrlinks-space-based-radio-frequency-business/" >🔗</a> **[SpaceNews]** Safran buys Syrlinks space-based radio frequency business
+- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo" >🔗</a> **[NASA]** NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo
 - <a href="https://www.teslarati.com/11-starlink-dishes-norwegian-cruise/" >🔗</a> **[Teslarati]** 11 Starlink dishes spotted on a Norwegian Breakaway cruise
 - <a href="https://spacenews.com/intelsat-orders-small-geo-satellite-from-3d-printing-specialist/" >🔗</a> **[SpaceNews]** Intelsat orders small GEO satellite from 3D printing specialist
 - <a href="https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Cygnus cargo ship launches to space station, deploys one of two solar arrays
-- <a href="https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad
-- <a href="https://spacenews.com/inmarsat-wins-410-million-u-s-army-contract-to-connect-tracking-devices/" >🔗</a> **[SpaceNews]** Inmarsat wins $410 million U.S. Army contract to connect tracking devices
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T230841">2022-11-07 23:08:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T234034">2022-11-07 23:40:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
