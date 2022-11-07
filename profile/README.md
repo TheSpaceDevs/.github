@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s ‘S.S. Sally Ride’ cargo ship launches on flight to space station
 - <a href="https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/" >🔗</a> **[SpaceNews]** Antares launches Cygnus cargo mission to ISS
 - <a href="https://spacenews.com/maxar-acquires-another-tech-company-as-it-pursues-growth-in-gaming-and-media/" >🔗</a> **[SpaceNews]** Maxar acquires another tech company as it pursues growth in gaming and media
 - <a href="https://www.nasaspaceflight.com/2022/11/ng-18-launch/" >🔗</a> **[NASASpaceflight]** SS Sally Ride Cygnus launches to ISS on NG-18 mission
 - <a href="https://spacenews.com/space-force-lays-out-timeline-for-2023-rapid-response-launch-experiment/" >🔗</a> **[SpaceNews]** Space Force lays out timeline for 2023 rapid-response launch experiment
-- <a href="https://www.teslarati.com/spacex-starship-200th-upgraded-raptor-engine/" >🔗</a> **[Teslarati]** SpaceX ships Starship’s 200th upgraded Raptor engine
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T113403">2022-11-07 11:34:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T121642">2022-11-07 12:16:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
