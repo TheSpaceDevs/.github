@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-names-glenn-research-center-director" >🔗</a> **[NASA]** NASA Administrator Names Glenn Research Center Director
 - <a href="https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s ‘S.S. Sally Ride’ cargo ship launches on flight to space station
 - <a href="https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/" >🔗</a> **[SpaceNews]** Antares launches Cygnus cargo mission to ISS
 - <a href="https://spacenews.com/maxar-acquires-another-tech-company-as-it-pursues-growth-in-gaming-and-media/" >🔗</a> **[SpaceNews]** Maxar acquires another tech company as it pursues growth in gaming and media
 - <a href="https://www.nasaspaceflight.com/2022/11/ng-18-launch/" >🔗</a> **[NASASpaceflight]** SS Sally Ride Cygnus launches to ISS on NG-18 mission
-- <a href="https://spaceflightnow.com/2022/11/06/china-launches-high-power-ka-band-communications-satellite/" >🔗</a> **[Spaceflight Now]** China launches high-power Ka-band communications satellite
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T171740">2022-11-07 17:17:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T174524">2022-11-07 17:45:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
