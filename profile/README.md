@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Cygnus cargo ship launches to space station, deploys one of two solar arrays
+- <a href="https://spaceflightnow.com/2022/11/07/subtropical-storm-nicole-delays-spacex-launch-artemis-1-moon-rocket-stays-on-launch-pad/" >🔗</a> **[Spaceflight Now]** Subtropical Storm Nicole delays SpaceX launch; Artemis 1 rocket stays on pad
 - <a href="https://spacenews.com/inmarsat-wins-410-million-u-s-army-contract-to-connect-tracking-devices/" >🔗</a> **[SpaceNews]** Inmarsat wins $410 million U.S. Army contract to connect tracking devices
 - <a href="https://spacenews.com/space-force-official-we-need-the-commerce-departments-space-traffic-office-to-be-successful/" >🔗</a> **[SpaceNews]** Space Force official: We need the Commerce Department’s space traffic office to be successful
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-names-glenn-research-center-director" >🔗</a> **[NASA]** NASA Administrator Names Glenn Research Center Director
-- <a href="https://spaceflightnow.com/2022/11/07/northrop-grummans-s-s-sally-ride-cargo-ship-launches-on-flight-to-international-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s ‘S.S. Sally Ride’ cargo ship launches on flight to space station
-- <a href="https://spacenews.com/antares-launches-cygnus-cargo-mission-to-iss/" >🔗</a> **[SpaceNews]** Antares launches Cygnus cargo mission to ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T200849">2022-11-07 20:08:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221107T203859">2022-11-07 20:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
