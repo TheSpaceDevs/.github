@@ -106,11 +106,12 @@ into *a Sun-Synchronous Orbit
 - <a href="http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch" >🔗</a> **[NASA]** NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch
 - <a href="https://spacenews.com/centaur-issue-delays-jpss-2-launch/" >🔗</a> **[SpaceNews]** Centaur issue delays JPSS-2 launch
 - <a href="https://spaceflightnow.com/2022/10/31/final-atlas-5-launch-from-california-delayed-for-battery-replacement/" >🔗</a> **[Spaceflight Now]** Final Atlas 5 launch from California delayed for battery replacement
+- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo" >🔗</a> **[NASA]** NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T081147">2022-11-08 08:11:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T084535">2022-11-08 08:45:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
