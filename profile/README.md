@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/darpas-robot-could-start-servicing-satellites-in-2025/" >🔗</a> **[SpaceNews]** DARPA’s robot could start servicing satellites in 2025
 - <a href="https://spacenews.com/introducing-canopy-aerospace/" >🔗</a> **[SpaceNews]** Canopy Aerospace to supply thermal protection for spacecraft and hypersonics
 - <a href="https://www.nasaspaceflight.com/2022/11/rfa-second-stage/" >🔗</a> **[NASASpaceflight]** RFA reveals second stage and updates test path to 2023 launch
 - <a href="https://spacenews.com/cognitive-space-gets-1-2-million-u-s-air-force-contract-extension-for-satellite-tasking-software/" >🔗</a> **[SpaceNews]** Cognitive Space gets $1.2 million  U.S. Air Force contract extension for satellite-tasking software
 - <a href="https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/" >🔗</a> **[Arstechnica]** NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida
-- <a href="https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/" >🔗</a> **[SpaceNews]** Virgin Orbit says U.K launch licensing taking longer than expected
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T200910">2022-11-08 20:09:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T203914">2022-11-08 20:39:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
