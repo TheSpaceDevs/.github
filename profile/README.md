@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/nasa-will-leave-its-4-1-billion-rocket-outside-as-nicole-approaches-florida/" >🔗</a> **[Arstechnica]** NASA will leave its $4.1 billion rocket outside as Nicole approaches Florida
 - <a href="https://spacenews.com/virgin-orbit-says-u-k-launch-licensing-taking-longer-than-expected/" >🔗</a> **[SpaceNews]** Virgin Orbit says U.K launch licensing taking longer than expected
 - <a href="https://spacenews.com/safran-buys-syrlinks-space-based-radio-frequency-business/" >🔗</a> **[SpaceNews]** Safran buys Syrlinks space-based radio frequency business
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo" >🔗</a> **[NASA]** NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo
 - <a href="https://www.teslarati.com/11-starlink-dishes-norwegian-cruise/" >🔗</a> **[Teslarati]** 11 Starlink dishes spotted on a Norwegian Breakaway cruise
-- <a href="https://spacenews.com/intelsat-orders-small-geo-satellite-from-3d-printing-specialist/" >🔗</a> **[SpaceNews]** Intelsat orders small GEO satellite from 3D printing specialist
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T130955">2022-11-08 13:09:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221108T135730">2022-11-08 13:57:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
