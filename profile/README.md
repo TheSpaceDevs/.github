@@ -52,8 +52,8 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T012700">2022-11-15 01:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Yaogan 34-03 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221115T012700Z%2F20221115T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Yaogan 34-03 (?)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221116T060400Z%2F20221116T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T061100">2022-11-16 06:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54&location=Jiuquan, People&#x27;s Republic of China&dates=20221116T061100Z%2F20221116T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54** from Jiuquan, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T233300">2022-11-17 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221117T233300Z%2F20221117T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 10B** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T222700">2022-11-18 22:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221118T222700Z%2F20221118T222700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T060000">2022-11-22 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221122T060000Z%2F20221122T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9299/" >🔗</a> **[NASA]** NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm
+- <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
 - <a href="https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/" >🔗</a> **[Arstechnica]** China ditches expendable rocket plan for its Moon program
 - <a href="https://spacenews.com/china-scraps-expendable-long-march-9-rocket-plan-in-favor-of-reusable-version/" >🔗</a> **[SpaceNews]** China scraps expendable Long March 9 rocket plan in favor of reusable version
 - <a href="https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/" >🔗</a> **[SpaceNews]** Cygnus arrives at space station despite solar array problem
-- <a href="https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/" >🔗</a> **[SpaceNews]** Astra lays off 16% to focus on spacecraft thrusters and new rocket
-- <a href="https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/" >🔗</a> **[Spaceflight Now]** Cygnus cargo ship arrive at space station after solar array trouble
 
 
 ### Launch-related News 🚀
@@ -107,11 +107,12 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/centaur-issue-delays-jpss-2-launch/" >🔗</a> **[SpaceNews]** Centaur issue delays JPSS-2 launch
 - <a href="https://spaceflightnow.com/2022/10/31/final-atlas-5-launch-from-california-delayed-for-battery-replacement/" >🔗</a> **[Spaceflight Now]** Final Atlas 5 launch from California delayed for battery replacement
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo" >🔗</a> **[NASA]** NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo
+- <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T203814">2022-11-09 20:38:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T210732">2022-11-09 21:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
