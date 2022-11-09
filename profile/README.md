@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-scraps-expendable-long-march-9-rocket-plan-in-favor-of-reusable-version/" >🔗</a> **[SpaceNews]** China scraps expendable Long March 9 rocket plan in favor of reusable version
 - <a href="https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/" >🔗</a> **[SpaceNews]** Cygnus arrives at space station despite solar array problem
 - <a href="https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/" >🔗</a> **[SpaceNews]** Astra lays off 16% to focus on spacecraft thrusters and new rocket
 - <a href="https://spaceflightnow.com/2022/11/09/cygnus-cargo-ship-arrive-at-space-station-after-solar-array-trouble/" >🔗</a> **[Spaceflight Now]** Cygnus cargo ship arrive at space station after solar array trouble
 - <a href="https://spacenews.com/telesat-buys-in-orbit-satellite-to-help-cover-anik-f2-shortfall/" >🔗</a> **[SpaceNews]** Telesat buys in-orbit satellite to help cover Anik F2 shortfall
-- <a href="https://spacenews.com/darpas-robot-could-start-servicing-satellites-in-2025/" >🔗</a> **[SpaceNews]** DARPA’s robot could start servicing satellites in 2025
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T150807">2022-11-09 15:08:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T154127">2022-11-09 15:41:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
