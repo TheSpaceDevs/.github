@@ -89,7 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/" >🔗</a> **[Arstechnica]** China is scrapping plans for an SLS-like rocket in favor of reusable booster
+- <a href="https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/" >🔗</a> **[Arstechnica]** China ditches expendable rocket plan for its Moon program
 - <a href="https://spacenews.com/china-scraps-expendable-long-march-9-rocket-plan-in-favor-of-reusable-version/" >🔗</a> **[SpaceNews]** China scraps expendable Long March 9 rocket plan in favor of reusable version
 - <a href="https://spacenews.com/cygnus-arrives-at-space-station-despite-solar-array-problem/" >🔗</a> **[SpaceNews]** Cygnus arrives at space station despite solar array problem
 - <a href="https://spacenews.com/astra-lays-off-16-to-focus-on-spacecraft-thrusters-and-new-rocket/" >🔗</a> **[SpaceNews]** Astra lays off 16% to focus on spacecraft thrusters and new rocket
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T193152">2022-11-09 19:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T200855">2022-11-09 20:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
