@@ -18,30 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2) & LOFTID**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 3E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T092500">2022-11-10 09:25:00 UTC</a>.  Until
-then, this pad will have been used for 47
-out of 706 launches from this location. The launch status is currently
+**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9A</a>, Taiyuan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221500">2022-11-11 22:15:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 115 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  JPSS is a collaborative program between NOAA and NASA. JPSS-2 is one of five satellites that will comprise the JPSS constellation. These spacecraft gather global measurements of atmospheric, terrestrial and oceanic conditions, including sea and land surface temperatures, vegetation, clouds, rainfall, snow and ice cover, fire locations and smoke plumes, atmospheric temperature, water vapor and ozone.
-
-LOFTID is a tech demo for the inflatable heatshield technology. It will attempt to survive a reentry from orbit after JPSS 2 is separated. This test will validate the technology for various applications, such as landing large payloads on Mars and engine reuse on ULA’s Vulcan rocket.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Atlas_V" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_401_image_20211015133735.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6a_image_20221109174525.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.640+N,+120.5895+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="http://maps.google.com/maps?q=38.8583+N,+111.5802+E" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
   </a>
 </p>
 
@@ -55,6 +53,7 @@ LOFTID is a tech demo for the inflatable heatshield technology. It will attempt 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T061100">2022-11-16 06:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54&location=Jiuquan, People&#x27;s Republic of China&dates=20221116T061100Z%2F20221116T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T233300">2022-11-17 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221117T233300Z%2F20221117T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 10B** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T222700">2022-11-18 22:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221118T222700Z%2F20221118T222700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T091700">2022-11-22 09:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221122T091700Z%2F20221122T091700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,22 +98,11 @@ LOFTID is a tech demo for the inflatable heatshield technology. It will attempt 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/noaa-finalizes-secondary-payload-for-jpss-2-launch/" >🔗</a> **[SpaceNews]** NOAA finalizes secondary payload for JPSS-2 launch
-- <a href="https://spacenews.com/four-nasa-earth-science-missions-to-launch-in-2022/" >🔗</a> **[SpaceNews]** Four NASA Earth Science missions to launch in 2022
-- <a href="http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo" >🔗</a> **[NASA]** NASA to Inflate Heat Shield on Earth Before Spaceflight Demo
-- <a href="http://www.nasa.gov/press-release/nasa-noaa-invite-media-to-polar-orbiting-weather-satellite-launch" >🔗</a> **[NASA]** NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch
-- <a href="https://spacenews.com/jpss-2-launch-briefing/" >🔗</a> **[SpaceNews]** Next NOAA weather satellite launching just in time
-- <a href="http://www.nasa.gov/press-release/nasa-coverage-set-for-noaa-s-joint-polar-satellite-system-2-launch" >🔗</a> **[NASA]** NASA Coverage Set for NOAA’s Joint Polar Satellite System-2 Launch
-- <a href="https://spacenews.com/centaur-issue-delays-jpss-2-launch/" >🔗</a> **[SpaceNews]** Centaur issue delays JPSS-2 launch
-- <a href="https://spaceflightnow.com/2022/10/31/final-atlas-5-launch-from-california-delayed-for-battery-replacement/" >🔗</a> **[Spaceflight Now]** Final Atlas 5 launch from California delayed for battery replacement
-- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo" >🔗</a> **[NASA]** NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo
-- <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
-- <a href="https://www.nasaspaceflight.com/2022/11/jpss-2-launch/" >🔗</a> **[NASASpaceflight]** Atlas rocket bids farewell to California as ULA readies for Vulcan
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T093827">2022-11-10 09:38:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T100838">2022-11-10 10:08:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
