@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/" >🔗</a> **[SpaceNews]** HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil
+- <a href="https://www.nasaspaceflight.com/2022/11/jpss-2-launch/" >🔗</a> **[NASASpaceflight]** Atlas rocket bids farewell to California as ULA readies for Vulcan
 - <a href="https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites
+- <a href="https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/" >🔗</a> **[SpaceNews]** HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil
 - <a href="https://mars.nasa.gov/news/9299/" >🔗</a> **[NASA]** NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm
 - <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
-- <a href="https://arstechnica.com/science/2022/11/china-is-scrapping-plans-for-an-sls-like-rocket-in-favor-of-reusable-booster/" >🔗</a> **[Arstechnica]** China ditches expendable rocket plan for its Moon program
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221109T234021">2022-11-09 23:40:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T004158">2022-11-10 00:41:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
