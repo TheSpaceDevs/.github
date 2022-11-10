@@ -90,8 +90,8 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2022/11/jpss-2-launch/" >🔗</a> **[NASASpaceflight]** Atlas rocket bids farewell to California as ULA readies for Vulcan
-- <a href="https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites
 - <a href="https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/" >🔗</a> **[SpaceNews]** HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil
+- <a href="https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites
 - <a href="https://mars.nasa.gov/news/9299/" >🔗</a> **[NASA]** NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm
 - <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
 
@@ -108,11 +108,12 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2022/10/31/final-atlas-5-launch-from-california-delayed-for-battery-replacement/" >🔗</a> **[Spaceflight Now]** Final Atlas 5 launch from California delayed for battery replacement
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-jpss-2-weather-satellite-loftid-tech-demo" >🔗</a> **[NASA]** NASA Updates Coverage of JPSS-2 Weather Satellite, LOFTID Tech Demo
 - <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
+- <a href="https://www.nasaspaceflight.com/2022/11/jpss-2-launch/" >🔗</a> **[NASASpaceflight]** Atlas rocket bids farewell to California as ULA readies for Vulcan
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T070720">2022-11-10 07:07:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T073435">2022-11-10 07:34:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
