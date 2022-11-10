@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/antenna-developer-nxt-comms-assets-up-for-sale/" >🔗</a> **[SpaceNews]** Antenna developer NXT Comm’s assets up for sale
 - <a href="https://arstechnica.com/science/2022/11/nasas-artemis-i-rocket-just-endured-hours-of-hurricane-like-wind-gusts/" >🔗</a> **[Arstechnica]** NASA leaves its Artemis I rocket exposed to winds above design limits
 - <a href="https://spacenews.com/nasa-to-continue-lunar-trailblazer-despite-cost-overrun/" >🔗</a> **[SpaceNews]** NASA to continue Lunar Trailblazer despite cost overrun
 - <a href="https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/" >🔗</a> **[SpaceNews]** Atlas 5 launches weather satellite, reentry tech demo mission
 - <a href="https://www.nasaspaceflight.com/2022/11/jpss-2-launch/" >🔗</a> **[NASASpaceflight]** Atlas rocket bids farewell to California as ULA readies for Vulcan
-- <a href="https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T153947">2022-11-10 15:39:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T161020">2022-11-10 16:10:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
