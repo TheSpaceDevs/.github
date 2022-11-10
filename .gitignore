@@ -2,11 +2,5 @@ out
 *.ipynb_checkpoints
 *.ipynb
 .vscode
-.idea/vcs.xml
-.idea/modules.xml
-.idea/misc.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/discord.xml
-.idea/.github.iml
-.idea/workspace.xml
-.idea/inspectionProfiles/Project_Default.xml
+.idea
+__pycache__
