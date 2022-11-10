@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atlas-5-launches-weather-satellite-reentry-tech-demo-mission/" >🔗</a> **[SpaceNews]** Atlas 5 launches weather satellite, reentry tech demo mission
 - <a href="https://www.nasaspaceflight.com/2022/11/jpss-2-launch/" >🔗</a> **[NASASpaceflight]** Atlas rocket bids farewell to California as ULA readies for Vulcan
 - <a href="https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/" >🔗</a> **[SpaceNews]** HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil
 - <a href="https://spacenews.com/rocket-lab-wins-14-million-in-contracts-to-supply-hardware-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab wins $14 million in contracts to supply hardware for U.S. military satellites
 - <a href="https://mars.nasa.gov/news/9299/" >🔗</a> **[NASA]** NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm
-- <a href="https://spacenews.com/atlas-launch-to-test-inflatable-heat-shield/" >🔗</a> **[SpaceNews]** Atlas launch to test inflatable heat shield
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T113442">2022-11-10 11:34:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221110T121510">2022-11-10 12:15:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
