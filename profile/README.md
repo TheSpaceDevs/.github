@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 7  | Tianzhou-5**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9A</a>, Taiyuan, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center">Wenchang</a>, Wenchang Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221500">2022-11-11 22:15:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 115 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T015300">2022-11-12 01:53:00 UTC</a>.  Until
+then, this pad will have been used for 15
+out of 20 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Resupply* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  Fourth cargo delivery mission to the Chinese large modular space station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6a_image_20221109174525.png" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_7" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=38.8583+N,+111.5802+E" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
+  <a href="http://maps.google.com/maps?q=19.614354,110.951057" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T032200">2022-11-17 03:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221117T032200Z%2F20221117T032200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T233300">2022-11-17 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221117T233300Z%2F20221117T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 10B** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T211500">2022-11-21 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221121T211500Z%2F20221121T211500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T091700">2022-11-22 09:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221122T091700Z%2F20221122T091700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** NASA moving ahead with Nov. 16 Artemis 1 launch attempt
+- <a href="http://www.nasa.gov/press-release/nasa-sets-new-coverage-for-artemis-i-moon-mission-launch" >🔗</a> **[NASA]** NASA Sets New Coverage for Artemis I Moon Mission Launch
 - <a href="https://arstechnica.com/science/2022/11/nasa-says-its-sls-rocket-is-good-to-go-for-a-launch-attempt-next-wednesday/" >🔗</a> **[Arstechnica]** NASA says its SLS rocket is good to go for a launch attempt next Wednesday
 - <a href="https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/" >🔗</a> **[SpaceNews]** Starfish books launch for in-orbit satellite docking mission next fall
 - <a href="https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/" >🔗</a> **[SpaceNews]** Space Force orders new weather satellite from Ball Aerospace
-- <a href="https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/" >🔗</a> **[SpaceNews]** SES, Hughes demonstrate satellite internet on General Atomics surveillance drone
-- <a href="http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today" >🔗</a> **[NASA]** NASA to Brief Status of Artemis I Moon Mission Today
 
 
 ### Launch-related News 🚀
@@ -101,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T230756">2022-11-11 23:07:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T233815">2022-11-11 23:38:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
