@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/" >🔗</a> **[SpaceNews]** SES, Hughes demonstrate satellite internet on General Atomics surveillance drone
+- <a href="http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today" >🔗</a> **[NASA]** NASA to Brief Status of Artemis I Moon Mission Today
+- <a href="https://www.nasaspaceflight.com/2022/11/expedition-68-first-month/" >🔗</a> **[NASASpaceflight]** Expedition 68 completes first full month with new crew and cargo
 - <a href="https://spacenews.com/jpss-2-deploys-solar-array-after-delay/" >🔗</a> **[SpaceNews]** JPSS-2 deploys solar array after delay
 - <a href="https://spacenews.com/china-wants-to-ramp-up-the-launch-rate-of-its-long-march-5b-rocket/" >🔗</a> **[SpaceNews]** China wants to ramp up the launch rate of its Long March 5B rocket
-- <a href="https://spacenews.com/nasa-investigating-very-minor-artemis-hurricane-damage/" >🔗</a> **[SpaceNews]** NASA investigating “very minor” Artemis hurricane damage
-- <a href="https://arstechnica.com/science/2022/11/rocket-report-indian-commercial-rocket-has-launch-date-branson-must-face-lawsuit/" >🔗</a> **[Arstechnica]** Rocket Report: Indian commercial rocket has launch date; Branson must face lawsuit
-- <a href="https://spacenews.com/advanced-space-wins-72-million-air-force-contract-for-lunar-experiment/" >🔗</a> **[SpaceNews]** Advanced Space wins $72 million Air Force contract for lunar experiment
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T171200">2022-11-11 17:12:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T173910">2022-11-11 17:39:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
