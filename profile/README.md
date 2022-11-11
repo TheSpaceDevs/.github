@@ -44,7 +44,6 @@ into *an Unknown Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T221500">2022-11-11 22:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20221111T221500Z%2F20221111T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T015300">2022-11-12 01:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-5&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20221112T015300Z%2F20221112T020800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7  | Tianzhou-5** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T160600">2022-11-12 16:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 31 &amp; 32&location=Cape Canaveral, FL, USA&dates=20221112T160600Z%2F20221112T180600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 31 & 32** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T012700">2022-11-15 01:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Yaogan 34-03 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221115T012700Z%2F20221115T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Yaogan 34-03 (?)** from Jiuquan, People's Republic of China.
@@ -89,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/nasa-says-its-sls-rocket-is-good-to-go-for-a-launch-attempt-next-wednesday/" >🔗</a> **[Arstechnica]** NASA says its SLS rocket is good to go for a launch attempt next Wednesday
+- <a href="https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/" >🔗</a> **[SpaceNews]** Starfish books launch for in-orbit satellite docking mission next fall
 - <a href="https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/" >🔗</a> **[SpaceNews]** Space Force orders new weather satellite from Ball Aerospace
 - <a href="https://spacenews.com/ses-hughes-demonstrate-satellite-internet-on-general-atomics-surveillance-drone/" >🔗</a> **[SpaceNews]** SES, Hughes demonstrate satellite internet on General Atomics surveillance drone
 - <a href="http://www.nasa.gov/press-release/nasa-to-brief-status-of-artemis-i-moon-mission-today" >🔗</a> **[NASA]** NASA to Brief Status of Artemis I Moon Mission Today
-- <a href="https://www.nasaspaceflight.com/2022/11/expedition-68-first-month/" >🔗</a> **[NASASpaceflight]** Expedition 68 completes first full month with new crew and cargo
-- <a href="https://spacenews.com/jpss-2-deploys-solar-array-after-delay/" >🔗</a> **[SpaceNews]** JPSS-2 deploys solar array after delay
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T220732">2022-11-11 22:07:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T223853">2022-11-11 22:38:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
