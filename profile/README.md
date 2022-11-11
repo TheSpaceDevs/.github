@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/rocket-report-indian-commercial-rocket-has-launch-date-branson-must-face-lawsuit/" >🔗</a> **[Arstechnica]** Rocket Report: Indian commercial rocket has launch date; Branson must face lawsuit
 - <a href="https://spacenews.com/advanced-space-wins-72-million-air-force-contract-for-lunar-experiment/" >🔗</a> **[SpaceNews]** Advanced Space wins $72 million Air Force contract for lunar experiment
 - <a href="https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/" >🔗</a> **[SpaceNews]** Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’
 - <a href="https://spacenews.com/apple-lays-the-groundwork-for-emergency-sos-via-satellite-service/" >🔗</a> **[SpaceNews]** Apple lays the groundwork for emergency SOS via satellite service
 - <a href="https://www.teslarati.com/starlink-donation-website/" >🔗</a> **[Teslarati]** Starlink launches donation website
-- <a href="http://www.nasa.gov/press-release/pioneering-astronaut-bob-behnken-retires-from-nasa" >🔗</a> **[NASA]** Pioneering Astronaut Bob Behnken Retires from NASA
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T113430">2022-11-11 11:34:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221111T121511">2022-11-11 12:15:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
