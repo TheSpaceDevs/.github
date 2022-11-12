@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/galaxy-31-32/" >🔗</a> **[NASASpaceflight]** Falcon 9 B1051 to make final flight on Galaxy-31 & 32 mission
 - <a href="https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** NASA moving ahead with Nov. 16 Artemis 1 launch attempt
 - <a href="http://www.nasa.gov/press-release/nasa-sets-new-coverage-for-artemis-i-moon-mission-launch" >🔗</a> **[NASA]** NASA Sets New Coverage for Artemis I Moon Mission Launch
 - <a href="https://arstechnica.com/science/2022/11/nasa-says-its-sls-rocket-is-good-to-go-for-a-launch-attempt-next-wednesday/" >🔗</a> **[Arstechnica]** NASA says its SLS rocket is good to go for a launch attempt next Wednesday
 - <a href="https://spacenews.com/starfish-books-launch-for-in-orbit-satellite-docking-mission-next-fall/" >🔗</a> **[SpaceNews]** Starfish books launch for in-orbit satellite docking mission next fall
-- <a href="https://spacenews.com/space-force-orders-new-weather-satellite-from-ball-aerospace/" >🔗</a> **[SpaceNews]** Space Force orders new weather satellite from Ball Aerospace
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T140640">2022-11-12 14:06:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221112T143438">2022-11-12 14:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
