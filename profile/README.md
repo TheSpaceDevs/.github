@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/" >🔗</a> **[SpaceNews]** Delayed NASA Venus mission looks for a reprieve
 - <a href="https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/" >🔗</a> **[SpaceNews]** ESA seeks funding for navigation technology programs at ministerial
 - <a href="https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/" >🔗</a> **[SpaceNews]** X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit
 - <a href="https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 booster into retirement on Intelsat mission
 - <a href="https://www.nasaspaceflight.com/2022/11/galaxy-31-32/" >🔗</a> **[NASASpaceflight]** Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission
-- <a href="https://spacenews.com/nasa-moving-ahead-with-nov-16-artemis-1-launch-attempt/" >🔗</a> **[SpaceNews]** NASA moving ahead with Nov. 16 Artemis 1 launch attempt
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T143502">2022-11-13 14:35:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221113T150729">2022-11-13 15:07:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
