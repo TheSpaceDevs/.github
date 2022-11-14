@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-booster-most-powerful-rocket-in-the-world/" >🔗</a> **[Teslarati]** SpaceX’s Starship briefly becomes the most powerful active rocket in the world
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-acquisition-of-liquid-hydrogen" >🔗</a> **[NASA]** NASA Awards Contracts for Acquisition of Liquid Hydrogen
 - <a href="https://spacenews.com/spacex-launches-a-pair-of-intelsat-satellites-on-expendable-falcon-9/" >🔗</a> **[SpaceNews]** SpaceX launches a pair of Intelsat satellites on expendable Falcon 9
 - <a href="https://www.nasaspaceflight.com/2022/11/b7-resumes-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 7 resumes static fire testing as SpaceX ramps up Starship production
 - <a href="https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/" >🔗</a> **[Arstechnica]** The first cubesat to fly and operate at the Moon has successfully arrived
-- <a href="https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/" >🔗</a> **[Arstechnica]** The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220922">2022-11-14 22:09:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T224110">2022-11-14 22:41:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
