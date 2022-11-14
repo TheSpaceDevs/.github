@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220000">2022-11-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221114T220000Z%2F20221115T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T012700">2022-11-15 01:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Yaogan 34-03 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20221115T012700Z%2F20221115T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Yaogan 34-03 (?)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221116T060400Z%2F20221116T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T061100">2022-11-16 06:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54&location=Jiuquan, People&#x27;s Republic of China&dates=20221116T061100Z%2F20221116T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54** from Jiuquan, People's Republic of China.
@@ -89,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-acquisition-of-liquid-hydrogen" >🔗</a> **[NASA]** NASA Awards Contracts for Acquisition of Liquid Hydrogen
 - <a href="https://spacenews.com/spacex-launches-a-pair-of-intelsat-satellites-on-expendable-falcon-9/" >🔗</a> **[SpaceNews]** SpaceX launches a pair of Intelsat satellites on expendable Falcon 9
 - <a href="https://www.nasaspaceflight.com/2022/11/b7-resumes-static-fire/" >🔗</a> **[NASASpaceflight]** Booster 7 resumes static fire testing as SpaceX ramps up Starship production
 - <a href="https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/" >🔗</a> **[Arstechnica]** The first cubesat to fly and operate at the Moon has successfully arrived
 - <a href="https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/" >🔗</a> **[Arstechnica]** The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III
-- <a href="https://spacenews.com/capstone-enters-lunar-orbit/" >🔗</a> **[SpaceNews]** CAPSTONE enters lunar orbit
 
 
 ### Launch-related News 🚀
@@ -106,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T213623">2022-11-14 21:36:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T220922">2022-11-14 22:09:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
