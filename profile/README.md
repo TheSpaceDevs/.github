@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/" >🔗</a> **[SpaceNews]** Delayed NASA Venus mission looks for a reprieve
+- <a href="https://www.teslarati.com/spacex-expends-first-falcon-9-booster-three-years/" >🔗</a> **[Teslarati]** SpaceX expends Falcon 9 booster for the first time in almost three years
+- <a href="https://spaceflightnow.com/2022/11/13/engineers-assessing-hurricane-damaged-insulation-before-artemis-1-launch-wednesday/" >🔗</a> **[Spaceflight Now]** Engineers assessing hurricane-damaged insulation before Artemis launch Wednesday
 - <a href="https://spacenews.com/esa-seeks-funding-for-navigation-technology-programs-at-ministerial/" >🔗</a> **[SpaceNews]** ESA seeks funding for navigation technology programs at ministerial
 - <a href="https://spacenews.com/x-37b-space-plane-completes-its-sixth-mission-lands-after-nearly-30-months-in-orbit/" >🔗</a> **[SpaceNews]** X-37B space plane completes its sixth mission, lands after nearly 30 months in orbit
-- <a href="https://spaceflightnow.com/2022/11/12/falcon-9-galaxy-31-32-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 booster into retirement on Intelsat mission
-- <a href="https://www.nasaspaceflight.com/2022/11/galaxy-31-32/" >🔗</a> **[NASASpaceflight]** Falcon 9 B1051 makes final flight on Galaxy-31 & 32 mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T073514">2022-11-14 07:35:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T081104">2022-11-14 08:11:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
