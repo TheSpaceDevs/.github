@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/" >🔗</a> **[Arstechnica]** The first cubesat to fly and operate at the Moon has successfully arrived
 - <a href="https://arstechnica.com/science/2022/11/the-oracle-who-predicted-slss-launch-in-2023-has-thoughts-about-artemis-iii/" >🔗</a> **[Arstechnica]** The oracle who predicted SLS’s launch in 2023 has thoughts about Artemis III
 - <a href="https://spacenews.com/capstone-enters-lunar-orbit/" >🔗</a> **[SpaceNews]** CAPSTONE enters lunar orbit
 - <a href="https://spacenews.com/delayed-nasa-venus-mission-looks-for-a-reprieve/" >🔗</a> **[SpaceNews]** Delayed NASA Venus mission looks for a reprieve
 - <a href="https://www.teslarati.com/spacex-expends-first-falcon-9-booster-three-years/" >🔗</a> **[Teslarati]** SpaceX expends Falcon 9 booster for the first time in almost three years
-- <a href="https://spaceflightnow.com/2022/11/13/engineers-assessing-hurricane-damaged-insulation-before-artemis-1-launch-wednesday/" >🔗</a> **[Spaceflight Now]** Engineers assessing hurricane-damaged insulation before Artemis launch Wednesday
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T161017">2022-11-14 16:10:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221114T165809">2022-11-14 16:58:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
