@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/myradar-noaa-grant/" >🔗</a> **[SpaceNews]** MyRadar expands wildfire detection with NOAA funding
 - <a href="https://spacenews.com/nga-to-increase-spending-on-commercial-earth-monitoring-services/" >🔗</a> **[SpaceNews]** NGA to increase spending on commercial Earth monitoring services
 - <a href="https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/" >🔗</a> **[NASASpaceflight]** NASA, partners ready for SLS’s debut flight: Artemis I to the Moon
 - <a href="https://arstechnica.com/science/2022/11/is-tonight-the-night-that-nasas-massive-sls-rocket-finally-takes-flight/" >🔗</a> **[Arstechnica]** Is tonight the night that NASA’s massive SLS rocket finally takes flight?
 - <a href="https://spacenews.com/europe-seeks-greater-autonomy-and-independence-in-space/" >🔗</a> **[SpaceNews]** Europe seeks greater autonomy and independence in space
-- <a href="http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station" >🔗</a> **[NASA]** NASA Plans Coverage of Roscosmos Spacewalks at Space Station
 
 
 ### Launch-related News 🚀
@@ -202,7 +202,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T203630">2022-11-15 20:36:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T210705">2022-11-15 21:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
