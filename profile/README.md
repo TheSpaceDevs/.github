@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-continues-with-artemis-1-launch-attempt-after-evaluating-hurricane-damage/" >🔗</a> **[SpaceNews]** NASA continues with Artemis 1 launch attempt after evaluating hurricane damage
 - <a href="https://spacenews.com/clearspace-announces-life-extension-collaboration-with-intelsat/" >🔗</a> **[SpaceNews]** ClearSpace announces life extension collaboration with Intelsat
 - <a href="https://spacenews.com/terran-orbital-sees-staff-departures-as-it-turns-focus-to-military-satellites/" >🔗</a> **[SpaceNews]** Terran Orbital sees staff departures as it turns focus to military satellites
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Sets Coverage for Next SpaceX Resupply Launch to Space Station
 - <a href="https://www.teslarati.com/spacex-starship-booster-most-powerful-rocket-in-the-world/" >🔗</a> **[Teslarati]** SpaceX’s Starship briefly becomes the most powerful active rocket in the world
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-acquisition-of-liquid-hydrogen" >🔗</a> **[NASA]** NASA Awards Contracts for Acquisition of Liquid Hydrogen
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T070740">2022-11-15 07:07:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T073253">2022-11-15 07:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
