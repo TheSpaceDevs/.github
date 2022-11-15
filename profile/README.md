@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalks-at-space-station" >🔗</a> **[NASA]** NASA Plans Coverage of Roscosmos Spacewalks at Space Station
 - <a href="https://spacenews.com/boeings-anti-jam-satellite-communications-payload-on-track-for-2024-launch/" >🔗</a> **[SpaceNews]** Boeing’s anti-jam satellite communications payload on track for 2024 launch
 - <a href="https://spacenews.com/eutelsats-board-approves-oneweb-merger/" >🔗</a> **[SpaceNews]** Eutelsat’s board approves OneWeb merger
 - <a href="https://spacenews.com/south-koreas-danuri-orbiter-demonstrates-space-internet-en-route-to-moon/" >🔗</a> **[SpaceNews]** South Korea’s Danuri orbiter demonstrates ‘space internet’ en route to moon
 - <a href="https://spacenews.com/leocloud-and-axiom-pact/" >🔗</a> **[SpaceNews]** LEOcloud and Axiom Space cooperate on edge processing in space
-- <a href="https://www.nasaspaceflight.com/2022/11/artemis-i-lh2-update-prelaunch/" >🔗</a> **[NASASpaceflight]** Artemis I launch team planning on gentle LH2 cycle to stop leaks on next attempt
 
 
 ### Launch-related News 🚀
@@ -202,7 +202,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T180915">2022-11-15 18:09:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221115T184130">2022-11-15 18:41:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
