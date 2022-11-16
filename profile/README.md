@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon" >🔗</a> **[NASA]** Liftoff! NASA’s Artemis I Mega Rocket Launches Orion to Moon
 - <a href="https://arstechnica.com/science/2022/11/nasa-gets-its-mojo-back-with-a-stunning-nighttime-launch-of-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA gets its mojo back with a stunning nighttime launch of the SLS rocket
+- <a href="https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/" >🔗</a> **[NASASpaceflight]** SLS makes successful debut flight, sending Artemis I to the Moon
 - <a href="https://spacenews.com/sls-launches-artemis-1-mission/" >🔗</a> **[SpaceNews]** SLS launches Artemis 1 mission
 - <a href="http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0" >🔗</a> **[NASA]** NASA Awards SpaceX Second Contract Option for Artemis Moon Landing
-- <a href="http://www.nasa.gov/press-release/experts-available-to-discuss-nasa-webb-telescope-science-results" >🔗</a> **[NASA]** Experts Available to Discuss NASA Webb Telescope Science Results
-- <a href="http://www.nasa.gov/press-release/nasa-to-share-first-results-of-inflatable-heat-shield-technology-test" >🔗</a> **[NASA]** NASA to Share First Results of Inflatable Heat Shield Technology Test
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T093627">2022-11-16 09:36:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T100810">2022-11-16 10:08:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
