@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a>.  Until
 then, this pad will have been used for 57
 out of 209 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Human Exploration* and the payload will be injected
 into *a Lunar Orbit
 (LO)*.
@@ -44,7 +44,6 @@ into *a Lunar Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060400">2022-11-16 06:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis I&location=Kennedy Space Center, FL, USA&dates=20221116T060400Z%2F20221116T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T061100">2022-11-16 06:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54&location=Jiuquan, People&#x27;s Republic of China&dates=20221116T061100Z%2F20221116T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221117T220000">2022-11-17 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221117T220000Z%2F20221118T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T043900">2022-11-18 04:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221118T043900Z%2F20221118T043900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
@@ -202,7 +201,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T053438">2022-11-16 05:34:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T060953">2022-11-16 06:09:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
