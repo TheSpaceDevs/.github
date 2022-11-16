@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/companies-have-diverging-views-on-the-future-of-european-launch/" >🔗</a> **[SpaceNews]** Companies have diverging views on the future of European launch
 - <a href="http://www.nasa.gov/press-release/liftoff-nasa-s-artemis-i-mega-rocket-launches-orion-to-moon" >🔗</a> **[NASA]** Liftoff! NASA’s Artemis I Mega Rocket Launches Orion to Moon
 - <a href="https://arstechnica.com/science/2022/11/nasa-gets-its-mojo-back-with-a-stunning-nighttime-launch-of-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA gets its mojo back with a stunning nighttime launch of the SLS rocket
 - <a href="https://www.nasaspaceflight.com/2022/11/artemis-i-launch-nov/" >🔗</a> **[NASASpaceflight]** SLS makes successful debut flight, sending Artemis I to the Moon
 - <a href="https://spacenews.com/sls-launches-artemis-1-mission/" >🔗</a> **[SpaceNews]** SLS launches Artemis 1 mission
-- <a href="http://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0" >🔗</a> **[NASA]** NASA Awards SpaceX Second Contract Option for Artemis Moon Landing
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T143509">2022-11-16 14:35:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221116T150738">2022-11-16 15:07:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
