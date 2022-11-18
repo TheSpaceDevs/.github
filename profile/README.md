@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts" >🔗</a> **[NASA]** Maryland, Oklahoma Students to Hear from Space Station Astronauts
 - <a href="https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/" >🔗</a> **[SpaceNews]** Japanese lunar lander slated to launch Nov. 28 at the earliest
 - <a href="https://spacenews.com/japan-agrees-to-space-station-extension-and-gateway-contributions/" >🔗</a> **[SpaceNews]** Japan agrees to space station extension and Gateway contributions
 - <a href="https://arstechnica.com/science/2022/11/rocket-report-long-march-6a-breaks-apart-after-launch-sls-soars-in-debut/" >🔗</a> **[Arstechnica]** Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut
 - <a href="https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/" >🔗</a> **[SpaceNews]** NASA calls test of inflatable heat shield a success
-- <a href="https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/" >🔗</a> **[SpaceNews]** Skyrora working towards 2023 orbital launch after suborbital failure
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T150716">2022-11-18 15:07:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T153741">2022-11-18 15:37:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
