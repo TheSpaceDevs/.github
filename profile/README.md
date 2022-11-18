@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-extension-for-space-earth-science-data-analysis-contract" >🔗</a> **[NASA]** NASA Awards Extension for Space, Earth Science Data Analysis Contract
+- <a href="https://spacenews.com/ast-spacemobile-searching-for-funds-to-accelerate-constellation/" >🔗</a> **[SpaceNews]** AST SpaceMobile searching for funds to accelerate constellation
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-helium-acquisition-at-kennedy" >🔗</a> **[NASA]** NASA Awards Contract for Liquid Helium Acquisition at Kennedy
 - <a href="https://spacenews.com/europe-reaches-funding-deal-for-sovereign-broadband-constellation/" >🔗</a> **[SpaceNews]** Europe reaches funding deal for sovereign broadband constellation
 - <a href="http://www.nasa.gov/press-release/maryland-oklahoma-students-to-hear-from-space-station-astronauts" >🔗</a> **[NASA]** Maryland, Oklahoma Students to Hear from Space Station Astronauts
-- <a href="https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/" >🔗</a> **[SpaceNews]** Japanese lunar lander slated to launch Nov. 28 at the earliest
-- <a href="https://spacenews.com/japan-agrees-to-space-station-extension-and-gateway-contributions/" >🔗</a> **[SpaceNews]** Japan agrees to space station extension and Gateway contributions
-- <a href="https://arstechnica.com/science/2022/11/rocket-report-long-march-6a-breaks-apart-after-launch-sls-soars-in-debut/" >🔗</a> **[Arstechnica]** Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T213317">2022-11-18 21:33:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T220705">2022-11-18 22:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
