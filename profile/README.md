@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/rocket-report-long-march-6a-breaks-apart-after-launch-sls-soars-in-debut/" >🔗</a> **[Arstechnica]** Rocket Report: Long March 6A breaks apart after launch; SLS soars in debut
 - <a href="https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/" >🔗</a> **[SpaceNews]** NASA calls test of inflatable heat shield a success
 - <a href="https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/" >🔗</a> **[SpaceNews]** Skyrora working towards 2023 orbital launch after suborbital failure
 - <a href="https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/" >🔗</a> **[SpaceNews]** Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight
 - <a href="https://www.nasaspaceflight.com/2022/11/three-spacewalks/" >🔗</a> **[NASASpaceflight]** Three spacewalks completed across two days on two space stations
-- <a href="https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/" >🔗</a> **[Teslarati]** Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T113159">2022-11-18 11:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T121344">2022-11-18 12:13:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
