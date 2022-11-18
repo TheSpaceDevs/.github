@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-calls-test-of-inflatable-heat-shield-a-success/" >🔗</a> **[SpaceNews]** NASA calls test of inflatable heat shield a success
+- <a href="https://spacenews.com/skyrora-working-towards-2023-orbital-launch-after-suborbital-failure/" >🔗</a> **[SpaceNews]** Skyrora working towards 2023 orbital launch after suborbital failure
 - <a href="https://spacenews.com/tory-bruno-dod-should-block-buy-heavy-launch-services-as-supply-is-tight/" >🔗</a> **[SpaceNews]** Tory Bruno: DoD should ‘block buy’ heavy launch services as supply is tight
 - <a href="https://www.nasaspaceflight.com/2022/11/three-spacewalks/" >🔗</a> **[NASASpaceflight]** Three spacewalks completed across two days on two space stations
 - <a href="https://www.teslarati.com/conspiracy-theorist-fcc-complaints-starlink/" >🔗</a> **[Teslarati]** Conspiracy theorists flood FCC with complaints about Elon Musk & Starlink
-- <a href="https://spacenews.com/boeing-reorganizes-defense-unit-kay-sears-to-lead-space-and-launch-business/" >🔗</a> **[SpaceNews]** Boeing reorganizes defense unit, Kay Sears to lead space and launch business
-- <a href="https://mars.nasa.gov/news/9304/" >🔗</a> **[NASA]** NASA's Perseverance Rover Investigates Intriguing Martian Bedrock
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T093538">2022-11-18 09:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221118T100805">2022-11-18 10:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
