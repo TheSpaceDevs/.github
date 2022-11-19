@@ -22,10 +22,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3C</a>, Pacific Spaceport Complex, Alaska, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T220000">2022-11-20 22:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T220000">2022-11-21 22:00:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 8 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
+*Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221120T220000">2022-11-20 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221120T220000Z%2F20221121T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T220000">2022-11-21 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221121T220000Z%2F20221122T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T025200">2022-11-22 02:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 10B&location=Cape Canaveral, FL, USA&dates=20221122T025200Z%2F20221122T030200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 10B** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T205400">2022-11-22 20:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221122T205400Z%2F20221122T205400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T133800">2022-11-24 13:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Yaogan 36 Group 03 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221124T133800Z%2F20221124T135900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Yaogan 36 Group 03 (?)** from Xichang Satellite Launch Center, People's Republic of China.
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T213220">2022-11-19 21:32:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221119T220711">2022-11-19 22:07:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
