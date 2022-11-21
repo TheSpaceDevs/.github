@@ -91,9 +91,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/artemis-1-launch-boosts-esas-exploration-ambitions/" >🔗</a> **[SpaceNews]** Artemis 1 launch boosts ESA’s exploration ambitions
 - <a href="https://spacenews.com/space-force-opens-door-to-blue-origin-with-new-cooperative-agreement/" >🔗</a> **[SpaceNews]** Space Force opens door to Blue Origin with new cooperative agreement
+- <a href="https://spaceflightnow.com/2022/11/20/orion-capsule-closes-in-for-lunar-flyby/" >🔗</a> **[Spaceflight Now]** Orion capsule closes in for lunar flyby
 - <a href="https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/" >🔗</a> **[SpaceNews]** SpaceX to launch last new cargo Dragon spacecraft
 - <a href="https://spacenews.com/orion-ready-for-lunar-flyby-maneuver/" >🔗</a> **[SpaceNews]** Orion ready for lunar flyby maneuver
-- <a href="https://spacenews.com/white-house-congress-praise-long-delayed-first-sls-launch/" >🔗</a> **[SpaceNews]** White House, Congress praise long-delayed first SLS launch
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T050722">2022-11-21 05:07:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T053456">2022-11-21 05:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
