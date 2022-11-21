@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/" >🔗</a> **[SpaceNews]** Space Force to recompete contract for integration of rideshare payloads
 - <a href="http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions" >🔗</a> **[NASA]** CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions
 - <a href="https://spaceflightnow.com/2022/11/21/nasas-orion-spacecraft-completes-powered-flyby-of-the-moon/" >🔗</a> **[Spaceflight Now]** NASA’s Orion spacecraft completes powered flyby of the moon
 - <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Eutelsat-10B on final flight of booster B1049
 - <a href="https://arstechnica.com/science/2022/11/orion-soars-around-the-moon-with-a-lonely-earth-in-the-distance/" >🔗</a> **[Arstechnica]** Orion soars around the Moon with a lonely Earth in the distance
-- <a href="https://spacenews.com/canadian-startup-developing-lunar-rover-to-deliver-power/" >🔗</a> **[SpaceNews]** Canadian startup developing lunar rover to deliver power
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T193155">2022-11-21 19:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221121T200731">2022-11-21 20:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
