@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/" >🔗</a> **[SpaceNews]** The not-quite-tangible reality of Virtual Ground Stations
+- <a href="http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign" >🔗</a> **[NASA]** NASA Invites Public Comment on Plans for Mars Sample Return Campaign
 - <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Dragon to ISS on CRS-26 mission
 - <a href="https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/" >🔗</a> **[Arstechnica]** NASA’s new rocket blows the doors off its mobile launch tower
 - <a href="https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/" >🔗</a> **[SpaceNews]** Europe looks to commercialize lunar exploration efforts
-- <a href="https://spacenews.com/esa-leadership-optimistic-about-funding-as-ministerial-begins/" >🔗</a> **[SpaceNews]** ESA leadership optimistic about funding as ministerial begins
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-nasa-financial-support-services" >🔗</a> **[NASA]** NASA Awards Contract for NASA Financial Support Services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T190618">2022-11-22 19:06:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T193152">2022-11-22 19:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
