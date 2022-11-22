@@ -89,22 +89,22 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station
+- <a href="https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Space Force establishes permanent presence in Indo-Pacific region
+- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX now targeting Tuesday evening for Eutelsat-10B launch
 - <a href="https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/" >🔗</a> **[SpaceNews]** The not-quite-tangible reality of Virtual Ground Stations
 - <a href="http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign" >🔗</a> **[NASA]** NASA Invites Public Comment on Plans for Mars Sample Return Campaign
-- <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Dragon to ISS on CRS-26 mission
-- <a href="https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/" >🔗</a> **[Arstechnica]** NASA’s new rocket blows the doors off its mobile launch tower
-- <a href="https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/" >🔗</a> **[SpaceNews]** Europe looks to commercialize lunar exploration efforts
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-falcon-9-expendable-booster-recoverable-fairing/" >🔗</a> **[Teslarati]** SpaceX ship headed 1000 kilometers out to sea for expendable Falcon 9 launch
-- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX targets doubleheader with Eutelsat-10B launch
+- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX now targeting Tuesday evening for Eutelsat-10B launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T223642">2022-11-22 22:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T230645">2022-11-22 23:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
