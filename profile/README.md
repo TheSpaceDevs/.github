@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/nasas-new-rocket-blows-the-doors-off-its-mobile-launch-tower/" >🔗</a> **[Arstechnica]** NASA’s new rocket blows the doors off its mobile launch tower
 - <a href="https://spacenews.com/europe-looks-to-commercialize-lunar-exploration-efforts/" >🔗</a> **[SpaceNews]** Europe looks to commercialize lunar exploration efforts
 - <a href="https://spacenews.com/esa-leadership-optimistic-about-funding-as-ministerial-begins/" >🔗</a> **[SpaceNews]** ESA leadership optimistic about funding as ministerial begins
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-nasa-financial-support-services" >🔗</a> **[NASA]** NASA Awards Contract for NASA Financial Support Services
 - <a href="https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/" >🔗</a> **[SpaceNews]** Space Force to recompete contract for integration of rideshare payloads
-- <a href="http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions" >🔗</a> **[NASA]** CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T140714">2022-11-22 14:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T143544">2022-11-22 14:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
