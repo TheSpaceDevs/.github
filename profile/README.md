@@ -95,7 +95,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://spacenews.com/space-force-to-recompete-contract-for-integration-of-rideshare-payloads/" >🔗</a> **[SpaceNews]** Space Force to recompete contract for integration of rideshare payloads
 - <a href="http://www.nasa.gov/press-release/capstone-forges-new-path-for-nasa-s-future-artemis-moon-missions" >🔗</a> **[NASA]** CAPSTONE Forges New Path for NASA’s Future Artemis Moon Missions
 - <a href="https://spaceflightnow.com/2022/11/21/nasas-orion-spacecraft-completes-powered-flyby-of-the-moon/" >🔗</a> **[Spaceflight Now]** NASA’s Orion spacecraft completes powered flyby of the moon
-- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Eutelsat-10B on final flight of booster B1049
+- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX delays Eutelsat-10B launch on final flight of B1049
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T024231">2022-11-22 02:42:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T033321">2022-11-22 03:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
