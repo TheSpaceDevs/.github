@@ -18,39 +18,39 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Yaogan 36 Group 03 (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T133800">2022-11-24 13:38:00 UTC</a>.  Until
-then, this pad will have been used for 67
-out of 179 launches from this location. The launch status is currently
+**Vega-C | Pléiades Neo 5 & 6**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1</a>, Kourou, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T014700">2022-11-25 01:47:00 UTC</a>.  Until
+then, this pad will have been used for 47
+out of 315 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  3 Chinese military reconnaissance satellites.
+  Pléiades Neo 5 and 6 are the last two in a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg" />
   </a>
-  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
+  <a href="https://www.google.com/maps/?q=5.239,-52.775" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221124T133800">2022-11-24 13:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Yaogan 36 Group 03 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221124T133800Z%2F20221124T135900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Yaogan 36 Group 03 (?)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T014700">2022-11-25 01:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221125T014700Z%2F20221125T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Pléiades Neo 5 & 6** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T060000">2022-11-26 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | EOS-6 (Oceansat-3)&location=Sriharikota, Republic of India&dates=20221126T060000Z%2F20221126T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | EOS-6 (Oceansat-3)** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T192000">2022-11-26 19:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-26&location=Kennedy Space Center, FL, USA&dates=20221126T192000Z%2F20221126T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-26** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T150000">2022-11-27 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Glonass-M No. 61&location=Plesetsk Cosmodrome, Russian Federation&dates=20221127T150000Z%2F20221127T173000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Glonass-M No. 61** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T084200">2022-11-29 08:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221129T084200Z%2F20221129T084200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Yaogan 36 Group 03 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Yaogan 36 Group 03 (?)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 15&location=Jiuquan, People&#x27;s Republic of China&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 15** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Maiden Flight&location=Cape Canaveral, FL, USA&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Maiden Flight** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T000000">2022-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Amber-1&location=Air launch to orbit&dates=20221130T000000Z%2F20221130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Amber-1** from Air launch to orbit.
@@ -92,17 +92,18 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/" >🔗</a> **[SpaceNews]** Viasat wins $325 million U.S. Special Operations Command contract
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station
 - <a href="https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Space Force establishes permanent presence in Indo-Pacific region
-- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX now targeting Tuesday evening for Eutelsat-10B launch
+- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX dodges weather to launch Eutelsat-10B
 - <a href="https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/" >🔗</a> **[SpaceNews]** The not-quite-tangible reality of Virtual Ground Stations
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/final-two-pleiades-neo-imagery-satellites-land-in-french-guiana/" >🔗</a> **[SpaceNews]** Final two Pléiades Neo imagery satellites land in French Guiana
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T040840">2022-11-23 04:08:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T044025">2022-11-23 04:40:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
