@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Hungary to spend $100 million on private astronaut mission to ISS
 - <a href="https://spacenews.com/france-germany-and-italy-sign-agreement-on-launch-vehicle-development/" >🔗</a> **[SpaceNews]** France, Germany and Italy sign agreement on launch vehicle development
 - <a href="https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/" >🔗</a> **[SpaceNews]** Viasat wins $325 million U.S. Special Operations Command contract
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station
 - <a href="https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Space Force establishes permanent presence in Indo-Pacific region
-- <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX dodges weather to launch Eutelsat-10B
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T093340">2022-11-23 09:33:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T100802">2022-11-23 10:08:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
