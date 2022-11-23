@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Task Order for TROPICS CubeSats Mission
+- <a href="https://spacenews.com/134683-2/" >🔗</a> **[SpaceNews]** SpaceX launches Eutelsat 10B on expendable Falcon 9
 - <a href="https://spacenews.com/maxar-to-compensate-echostar-for-jupiter-3-delays/" >🔗</a> **[SpaceNews]** Maxar to compensate Echostar for Jupiter 3 delays
 - <a href="https://spacenews.com/china-to-use-space-station-to-test-space-based-solar-power/" >🔗</a> **[SpaceNews]** China to use space station to test space-based solar power
 - <a href="https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Hungary to spend $100 million on private astronaut mission to ISS
-- <a href="https://spacenews.com/france-germany-and-italy-sign-agreement-on-launch-vehicle-development/" >🔗</a> **[SpaceNews]** France, Germany and Italy sign agreement on launch vehicle development
-- <a href="https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/" >🔗</a> **[SpaceNews]** Viasat wins $325 million U.S. Special Operations Command contract
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T140635">2022-11-23 14:06:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T143344">2022-11-23 14:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
