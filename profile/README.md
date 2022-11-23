@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/" >🔗</a> **[NASASpaceflight]** “Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing
+- <a href="https://arstechnica.com/science/2022/11/the-long-tangled-journey-of-a-european-rover-to-mars-takes-another-twist/" >🔗</a> **[Arstechnica]** The long, tangled journey of a European rover to Mars takes another twist
 - <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Task Order for TROPICS CubeSats Mission
 - <a href="https://spacenews.com/134683-2/" >🔗</a> **[SpaceNews]** SpaceX launches Eutelsat 10B on expendable Falcon 9
 - <a href="https://spacenews.com/maxar-to-compensate-echostar-for-jupiter-3-delays/" >🔗</a> **[SpaceNews]** Maxar to compensate Echostar for Jupiter 3 delays
-- <a href="https://spacenews.com/china-to-use-space-station-to-test-space-based-solar-power/" >🔗</a> **[SpaceNews]** China to use space station to test space-based solar power
-- <a href="https://spacenews.com/hungary-to-spend-100-million-on-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Hungary to spend $100 million on private astronaut mission to ISS
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T170558">2022-11-23 17:05:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T173204">2022-11-23 17:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
