@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-wins-325-million-u-s-special-operations-command-contract/" >🔗</a> **[SpaceNews]** Viasat wins $325 million U.S. Special Operations Command contract
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station
 - <a href="https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Space Force establishes permanent presence in Indo-Pacific region
 - <a href="https://www.nasaspaceflight.com/2022/11/eutelsat-10b/" >🔗</a> **[NASASpaceflight]** SpaceX now targeting Tuesday evening for Eutelsat-10B launch
 - <a href="https://spacenews.com/the-not-quite-tangible-reality-of-virtual-ground-stations/" >🔗</a> **[SpaceNews]** The not-quite-tangible reality of Virtual Ground Stations
-- <a href="http://www.nasa.gov/press-release/nasa-invites-public-comment-on-plans-for-mars-sample-return-campaign" >🔗</a> **[NASA]** NASA Invites Public Comment on Plans for Mars Sample Return Campaign
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221122T233345">2022-11-22 23:33:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221123T003615">2022-11-23 00:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
