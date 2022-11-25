@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/" >🔗</a> **[SpaceNews]** Equipment defect delays first commercial Vega C flight
 - <a href="https://spacenews.com/esa-announces-new-astronaut-class/" >🔗</a> **[SpaceNews]** ESA announces new astronaut class
 - <a href="https://spacenews.com/esa-secures-16-9-billion-euros-at-ministerial/" >🔗</a> **[SpaceNews]** ESA secures 16.9 billion euros at ministerial
 - <a href="https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/" >🔗</a> **[NASASpaceflight]** “Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing
 - <a href="https://arstechnica.com/science/2022/11/the-long-tangled-journey-of-a-european-rover-to-mars-takes-another-twist/" >🔗</a> **[Arstechnica]** The long, tangled journey of a European rover to Mars takes another twist
-- <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Task Order for TROPICS CubeSats Mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T170609">2022-11-25 17:06:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T173303">2022-11-25 17:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
