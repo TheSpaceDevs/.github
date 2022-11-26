@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX ready for second attempt to launch CRS-26 mission to ISS
 - <a href="https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/" >🔗</a> **[SpaceNews]** Orion enters lunar distant retrograde orbit
 - <a href="http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth" >🔗</a> **[NASA]** NASA to Share Artemis I Update with Orion at Farthest Point from Earth
 - <a href="https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/" >🔗</a> **[NASASpaceflight]** ISRO launches ocean research satellite aboard PSLV
 - <a href="https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch remaining NASA TROPICS satellites
-- <a href="https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/" >🔗</a> **[SpaceNews]** Equipment defect delays first commercial Vega C flight
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Sets Coverage for Next SpaceX Resupply Launch to Space Station
 - <a href="https://spacenews.com/spacex-to-launch-last-new-cargo-dragon-spacecraft/" >🔗</a> **[SpaceNews]** SpaceX to launch last new cargo Dragon spacecraft
 - <a href="https://www.teslarati.com/spacex-two-falcon-9-launches-six-hours-delay/" >🔗</a> **[Teslarati]** SpaceX doubleheader struck down by poor weather
-- <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** Weather delays NASA, SpaceX CRS-26 mission to ISS
+- <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX ready for second attempt to launch CRS-26 mission to ISS
 - <a href="https://spaceflightnow.com/2022/11/21/second-pair-of-new-space-station-solar-arrays-ready-for-launch-on-dragon-cargo-ship/" >🔗</a> **[Spaceflight Now]** Second pair of new space station solar arrays set for launch on Dragon cargo ship
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Updates Coverage for Next SpaceX Resupply Launch to Space Station
 - <a href="https://spaceflightnow.com/2022/11/22/falcon-9-spacex-crs-26-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX resupply launch to space station delayed until Saturday
@@ -113,7 +113,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T143136">2022-11-26 14:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T150621">2022-11-26 15:06:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
