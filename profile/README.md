@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-pslv-rocket-launches-nine-satellites-in-final-mission-of-2022/" >🔗</a> **[SpaceNews]** India’s PSLV rocket launches nine satellites in final mission of 2022
 - <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX ready for second attempt to launch CRS-26 mission to ISS
 - <a href="https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/" >🔗</a> **[SpaceNews]** Orion enters lunar distant retrograde orbit
 - <a href="http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth" >🔗</a> **[NASA]** NASA to Share Artemis I Update with Orion at Farthest Point from Earth
 - <a href="https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/" >🔗</a> **[NASASpaceflight]** ISRO launches ocean research satellite aboard PSLV
-- <a href="https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch remaining NASA TROPICS satellites
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T153329">2022-11-26 15:33:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T160817">2022-11-26 16:08:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
