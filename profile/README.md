@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orion-enters-lunar-distant-retrograde-orbit/" >🔗</a> **[SpaceNews]** Orion enters lunar distant retrograde orbit
+- <a href="http://www.nasa.gov/press-release/nasa-to-share-artemis-i-update-with-orion-at-farthest-point-from-earth" >🔗</a> **[NASA]** NASA to Share Artemis I Update with Orion at Farthest Point from Earth
+- <a href="https://www.nasaspaceflight.com/2022/11/isro-pslv-oceansat-3/" >🔗</a> **[NASASpaceflight]** ISRO to launch ocean research satellite aboard PSLV
 - <a href="https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch remaining NASA TROPICS satellites
 - <a href="https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/" >🔗</a> **[SpaceNews]** Equipment defect delays first commercial Vega C flight
-- <a href="https://spacenews.com/esa-announces-new-astronaut-class/" >🔗</a> **[SpaceNews]** ESA announces new astronaut class
-- <a href="https://spacenews.com/esa-secures-16-9-billion-euros-at-ministerial/" >🔗</a> **[SpaceNews]** ESA secures 16.9 billion euros at ministerial
-- <a href="https://www.nasaspaceflight.com/2022/11/callisto-orion-demonstration/" >🔗</a> **[NASASpaceflight]** “Alexa, turn on the lights”; Lockheed Martin, Amazon, Cisco test virtual assistant, deep space video conferencing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221125T233307">2022-11-25 23:33:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T003358">2022-11-26 00:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
