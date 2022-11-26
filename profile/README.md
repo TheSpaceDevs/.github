@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches Dragon cargo ship to deliver new solar arrays to space station
 - <a href="https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/" >🔗</a> **[SpaceNews]** SpaceX launches new cargo Dragon spacecraft to space station
 - <a href="http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship" >🔗</a> **[NASA]** Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship
 - <a href="https://spacenews.com/join-us-for-a-fireside-chat-with-lori-garver-jim-bridenstine/" >🔗</a> **[SpaceNews]** Join us for a fireside chat with Lori Garver & Jim Bridenstine
 - <a href="https://spacenews.com/indias-pslv-rocket-launches-nine-satellites-in-final-mission-of-2022/" >🔗</a> **[SpaceNews]** India’s PSLV rocket launches nine satellites in final mission of 2022
-- <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX ready for second attempt to launch CRS-26 mission to ISS
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T213147">2022-11-26 21:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221126T220614">2022-11-26 22:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
