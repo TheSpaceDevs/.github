@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/millennium-spaces-missile-warning-satellite-clears-design-review/" >🔗</a> **[SpaceNews]** Millennium Space’s missile-warning satellite clears design review
 - <a href="https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX supply ship docks at space station
 - <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX launch and dock CRS-26 mission to ISS
 - <a href="https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches Dragon cargo ship to deliver new solar arrays to space station
 - <a href="https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/" >🔗</a> **[SpaceNews]** SpaceX launches new cargo Dragon spacecraft to space station
-- <a href="http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship" >🔗</a> **[NASA]** Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T223412">2022-11-27 22:34:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T230655">2022-11-27 23:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
