@@ -89,7 +89,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX supply ship on track to arrive at space station
+- <a href="https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX supply ship docks at space station
 - <a href="https://spaceflightnow.com/2022/11/26/spacex-launches-dragon-cargo-ship-to-deliver-new-solar-arrays-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches Dragon cargo ship to deliver new solar arrays to space station
 - <a href="https://spacenews.com/spacex-launches-new-cargo-dragon-spacecraft-to-space-station/" >🔗</a> **[SpaceNews]** SpaceX launches new cargo Dragon spacecraft to space station
 - <a href="http://www.nasa.gov/press-release/moon-microscope-solar-arrays-launch-on-nasa-s-spacex-cargo-ship" >🔗</a> **[NASA]** Moon Microscope, Solar Arrays Launch on NASA’s SpaceX Cargo Ship
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T131459">2022-11-27 13:14:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221127T133526">2022-11-27 13:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
