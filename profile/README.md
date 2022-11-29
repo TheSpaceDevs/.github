@@ -89,20 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esas-exomars-plans-depend-on-nasa-contributions/" >🔗</a> **[SpaceNews]** ESA’s ExoMars plans depend on NASA contributions
 - <a href="https://spacenews.com/artemis-1-mission-reaches-halfway-point/" >🔗</a> **[SpaceNews]** Artemis 1 mission reaches halfway point
 - <a href="https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/" >🔗</a> **[SpaceNews]** Demonstration of new layer of missile-warning satellites planned for 2026
 - <a href="https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/" >🔗</a> **[Arstechnica]** We’ve reached the end of a bizarre Atlantic hurricane season
 - <a href="https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/" >🔗</a> **[SpaceNews]** China outlines pathway for lunar and deep space exploration
-- <a href="https://spaceflightnow.com/2022/11/28/three-chinese-astronauts-ready-for-flight-to-tiangong-space-station/" >🔗</a> **[Spaceflight Now]** Three Chinese astronauts ready for flight to Tiangong space station
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2022/11/28/three-chinese-astronauts-ready-for-flight-to-tiangong-space-station/" >🔗</a> **[Spaceflight Now]** Three Chinese astronauts ready for flight to Tiangong space station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T132129">2022-11-29 13:21:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T134055">2022-11-29 13:40:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
