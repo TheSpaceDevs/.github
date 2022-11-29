@@ -91,11 +91,11 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/" >🔗</a> **[SpaceNews]** NASA cancels GeoCarb greenhouse gas monitoring mission
+- <a href="https://spacenews.com/har-noy-to-edgybees/" >🔗</a> **[SpaceNews]** Shay Har-Noy takes the helm at Edgybees
+- <a href="https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Falcon 9 with private Japanese moon lander
+- <a href="https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/" >🔗</a> **[Arstechnica]** SpaceX fires up 11 engines as it prepares massive rocket for orbital test
 - <a href="https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/" >🔗</a> **[SpaceNews]** SiriusXM orders pair of satellites to expand in Canada and Alaska
-- <a href="https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/" >🔗</a> **[SpaceNews]** U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia
-- <a href="https://spacenews.com/uk-firm-to-release-geo-compatible-smartphone-early-next-year/" >🔗</a> **[SpaceNews]** UK firm to release GEO-compatible smartphone early next year
-- <a href="https://spacenews.com/pentagon-report-chinas-space-strategy-shaped-by-technological-change/" >🔗</a> **[SpaceNews]** Pentagon report: China’s space strategy shaped by technological change
-- <a href="http://www.nasa.gov/press-release/nasa-to-cancel-geocarb-mission-expands-greenhouse-gas-portfolio" >🔗</a> **[NASA]** NASA to Cancel GeoCarb Mission, Expands Greenhouse Gas Portfolio
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T223427">2022-11-29 22:34:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T230705">2022-11-29 23:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
