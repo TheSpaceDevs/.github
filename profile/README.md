@@ -91,11 +91,11 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-command-supports-use-of-responsive-launch-to-deter-china-and-russia/" >🔗</a> **[SpaceNews]** U.S. Space Command supports use of ‘responsive launch’ to deter China and Russia
 - <a href="https://spacenews.com/uk-firm-to-release-geo-compatible-smartphone-early-next-year/" >🔗</a> **[SpaceNews]** UK firm to release GEO-compatible smartphone early next year
 - <a href="https://spacenews.com/pentagon-report-chinas-space-strategy-shaped-by-technological-change/" >🔗</a> **[SpaceNews]** Pentagon report: China’s space strategy shaped by technological change
 - <a href="http://www.nasa.gov/press-release/nasa-to-cancel-geocarb-mission-expands-greenhouse-gas-portfolio" >🔗</a> **[NASA]** NASA to Cancel GeoCarb Mission, Expands Greenhouse Gas Portfolio
 - <a href="https://www.cnbc.com/2022/11/29/amazon-aws-experiment-satellite-orbit.html" >🔗</a> **[CNBC]** Amazon used AWS on a satellite in orbit to speed up data analysis in ‘first-of-its kind’ experiment
-- <a href="https://spacenews.com/134853-2/" >🔗</a> **[SpaceNews]** South Korean leader eyes “landing on moon in 2032, Mars in 2045”
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T203248">2022-11-29 20:32:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T210703">2022-11-29 21:07:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
