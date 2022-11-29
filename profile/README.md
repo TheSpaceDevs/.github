@@ -89,21 +89,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-icon-advance-lunar-construction-technology-for-moon-missions" >🔗</a> **[NASA]** NASA, ICON Advance Lunar Construction Technology for Moon Missions
+- <a href="https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/" >🔗</a> **[NASASpaceflight]** China to finish busy Space station year with Shenzhou-15
+- <a href="https://arstechnica.com/science/2022/11/orion-flies-far-beyond-the-moon-returns-an-instantly-iconic-photo/" >🔗</a> **[Arstechnica]** Orion flies far beyond the Moon, returns an instantly iconic photo
 - <a href="https://spacenews.com/esas-exomars-plans-depend-on-nasa-contributions/" >🔗</a> **[SpaceNews]** ESA’s ExoMars plans depend on NASA contributions
 - <a href="https://spacenews.com/artemis-1-mission-reaches-halfway-point/" >🔗</a> **[SpaceNews]** Artemis 1 mission reaches halfway point
-- <a href="https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/" >🔗</a> **[SpaceNews]** Demonstration of new layer of missile-warning satellites planned for 2026
-- <a href="https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/" >🔗</a> **[Arstechnica]** We’ve reached the end of a bizarre Atlantic hurricane season
-- <a href="https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/" >🔗</a> **[SpaceNews]** China outlines pathway for lunar and deep space exploration
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spaceflightnow.com/2022/11/28/three-chinese-astronauts-ready-for-flight-to-tiangong-space-station/" >🔗</a> **[Spaceflight Now]** Three Chinese astronauts ready for flight to Tiangong space station
+- <a href="https://www.nasaspaceflight.com/2022/11/shenzhou-15-launch/" >🔗</a> **[NASASpaceflight]** China to finish busy Space station year with Shenzhou-15
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T140659">2022-11-29 14:06:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T143352">2022-11-29 14:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
