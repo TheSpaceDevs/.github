@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/" >🔗</a> **[SpaceNews]** Demonstration of new layer of missile-warning satellites planned for 2026
 - <a href="https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/" >🔗</a> **[Arstechnica]** We’ve reached the end of a bizarre Atlantic hurricane season
 - <a href="https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/" >🔗</a> **[SpaceNews]** China outlines pathway for lunar and deep space exploration
+- <a href="https://spacenews.com/space-force-orders-three-gps-satellites-for-744-million/" >🔗</a> **[SpaceNews]** Space Force orders three GPS satellites for $744 million
 - <a href="https://spacenews.com/millennium-spaces-missile-warning-satellite-clears-design-review/" >🔗</a> **[SpaceNews]** Millennium Space’s missile-warning satellite clears design review
-- <a href="https://spaceflightnow.com/2022/11/27/spacex-crs-26-iss-docking/" >🔗</a> **[Spaceflight Now]** SpaceX supply ship docks at space station
-- <a href="https://www.nasaspaceflight.com/2022/11/crs-26-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX launch and dock CRS-26 mission to ISS
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221128T233435">2022-11-28 23:34:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T003812">2022-11-29 00:38:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
