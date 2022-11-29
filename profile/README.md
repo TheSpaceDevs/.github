@@ -92,8 +92,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/demonstration-of-new-layer-of-missile-warning-satellites-planned-for-2026/" >🔗</a> **[SpaceNews]** Demonstration of new layer of missile-warning satellites planned for 2026
 - <a href="https://arstechnica.com/science/2022/11/a-most-abnormal-atlantic-hurricane-season-officially-ends-this-week/" >🔗</a> **[Arstechnica]** We’ve reached the end of a bizarre Atlantic hurricane season
 - <a href="https://spacenews.com/china-outlines-pathway-for-lunar-and-deep-space-exploration/" >🔗</a> **[SpaceNews]** China outlines pathway for lunar and deep space exploration
+- <a href="https://www.teslarati.com/spacex-ispace-japanese-moon-lander-nasa-cubesat-launch/" >🔗</a> **[Teslarati]** SpaceX set to launch Japanese Moon lander, NASA ice surveyor cubesat
 - <a href="https://spacenews.com/space-force-delivers-final-payload-for-space-norways-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** Space Force delivers final payload for Space Norway’s arctic broadband mission
-- <a href="https://spacenews.com/space-force-orders-three-gps-satellites-for-744-million/" >🔗</a> **[SpaceNews]** Space Force orders three GPS satellites for $744 million
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T050652">2022-11-29 05:06:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T053246">2022-11-29 05:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
