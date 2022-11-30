@@ -91,11 +91,11 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/" >🔗</a> **[SpaceNews]** Shenzhou 15 astronauts arrive at China’s space station for first crew handover
 - <a href="https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/" >🔗</a> **[SpaceNews]** NASA cancels GeoCarb greenhouse gas monitoring mission
 - <a href="https://spacenews.com/har-noy-to-edgybees/" >🔗</a> **[SpaceNews]** Shay Har-Noy takes the helm at Edgybees
 - <a href="https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Falcon 9 with private Japanese moon lander
 - <a href="https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/" >🔗</a> **[Arstechnica]** SpaceX fires up 11 engines as it prepares massive rocket for orbital test
-- <a href="https://spacenews.com/siriusxm-orders-pair-of-satellites-to-expand-in-canada-and-alaska/" >🔗</a> **[SpaceNews]** SiriusXM orders pair of satellites to expand in Canada and Alaska
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221129T233451">2022-11-29 23:34:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T003807">2022-11-30 00:38:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
