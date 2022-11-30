@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/" >🔗</a> **[Arstechnica]** SpaceX set to launch two spacecraft to the Moon tonight
 - <a href="http://www.nasa.gov/press-release/nasa-responds-to-independent-review-of-earth-system-observatory" >🔗</a> **[NASA]** NASA Responds to Independent Review of Earth System Observatory
 - <a href="https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/" >🔗</a> **[SpaceNews]** Vega C to launch five Copernicus spacecraft
 - <a href="https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/" >🔗</a> **[SpaceNews]** China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting
 - <a href="https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/" >🔗</a> **[SpaceNews]** Shenzhou 15 astronauts arrive at China’s space station for first crew handover
-- <a href="https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/" >🔗</a> **[SpaceNews]** NASA cancels GeoCarb greenhouse gas monitoring mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T173436">2022-11-30 17:34:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T180856">2022-11-30 18:08:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
