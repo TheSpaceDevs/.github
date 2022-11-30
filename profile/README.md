@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/" >🔗</a> **[SpaceNews]** China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting
 - <a href="https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/" >🔗</a> **[SpaceNews]** Shenzhou 15 astronauts arrive at China’s space station for first crew handover
 - <a href="https://spacenews.com/nasa-cancels-geocarb-greenhouse-gas-monitoring-mission/" >🔗</a> **[SpaceNews]** NASA cancels GeoCarb greenhouse gas monitoring mission
 - <a href="https://spacenews.com/har-noy-to-edgybees/" >🔗</a> **[SpaceNews]** Shay Har-Noy takes the helm at Edgybees
 - <a href="https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/" >🔗</a> **[NASASpaceflight]** SpaceX delays Falcon 9 launch with private Japanese moon lander
-- <a href="https://arstechnica.com/science/2022/11/spacex-completes-long-duration-test-fire-of-super-heavy-booster/" >🔗</a> **[Arstechnica]** SpaceX fires up 11 engines as it prepares massive rocket for orbital test
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T103736">2022-11-30 10:37:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T110612">2022-11-30 11:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
