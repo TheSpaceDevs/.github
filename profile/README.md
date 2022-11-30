@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/11/core-stage-sls-update/" >🔗</a> **[NASASpaceflight]** Boeing talks Core Stage performance on Artemis I, looks ahead to future Core Stages and EUS debut
 - <a href="https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/" >🔗</a> **[Arstechnica]** SpaceX set to launch two spacecraft to the Moon tonight
 - <a href="http://www.nasa.gov/press-release/nasa-responds-to-independent-review-of-earth-system-observatory" >🔗</a> **[NASA]** NASA Responds to Independent Review of Earth System Observatory
 - <a href="https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/" >🔗</a> **[SpaceNews]** Vega C to launch five Copernicus spacecraft
 - <a href="https://spacenews.com/chinas-tianzhou-4-cargo-spacecraft-deployed-a-small-satellite-before-deorbiting/" >🔗</a> **[SpaceNews]** China’s Tianzhou-4 cargo spacecraft deployed a small satellite before deorbiting
-- <a href="https://spacenews.com/shenzhou-15-astronauts-arrive-at-chinas-space-station-for-first-crew-handover/" >🔗</a> **[SpaceNews]** Shenzhou 15 astronauts arrive at China’s space station for first crew handover
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T190552">2022-11-30 19:05:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T193144">2022-11-30 19:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
