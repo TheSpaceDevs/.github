@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2022/12/01/investing-in-space-moon-rising.html" >🔗</a> **[CNBC]** Investing in Space: Moon rising
 - <a href="https://arstechnica.com/science/2022/12/a-new-satellite-has-become-one-of-the-20-brightest-stars-in-the-sky/" >🔗</a> **[Arstechnica]** Astronomers say a new, huge satellite is as bright as the brightest stars
 - <a href="https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/" >🔗</a> **[SpaceNews]** Cognitive Space hires retired general as strategic advisor
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-us-spacewalks-outside-space-station" >🔗</a> **[NASA]** NASA to Provide Live Coverage of US Spacewalks Outside Space Station
 - <a href="https://spacenews.com/ast-spacemobile-plots-86-million-share-sale/" >🔗</a> **[SpaceNews]** AST SpaceMobile plots $86 million share sale
-- <a href="https://spacenews.com/wide-field-of-view-missile-warning-satellite-transmits-first-images/" >🔗</a> **[SpaceNews]** Wide-Field-of-View missile warning satellite transmits first images
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T160914">2022-12-01 16:09:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T164622">2022-12-01 16:46:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
