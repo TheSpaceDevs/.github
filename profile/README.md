@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-plots-86-million-share-sale/" >🔗</a> **[SpaceNews]** AST SpaceMobile plots $86 million share sale
 - <a href="https://spacenews.com/wide-field-of-view-missile-warning-satellite-transmits-first-images/" >🔗</a> **[SpaceNews]** Wide-Field-of-View missile warning satellite transmits first images
 - <a href="http://www.nasa.gov/press-release/us-vice-president-french-president-visit-nasa-headquarters" >🔗</a> **[NASA]** US Vice President, French President Visit NASA Headquarters
 - <a href="https://spacenews.com/hiber-demands-astrocast-cash-after-failed-acquisition/" >🔗</a> **[SpaceNews]** Hiber demands Astrocast cash after failed acquisition
 - <a href="https://spacenews.com/ororatech-raises-funding-for-additional-thermal-mapping-satellites/" >🔗</a> **[SpaceNews]** OroraTech raises funding for additional thermal mapping satellites
-- <a href="https://www.nasaspaceflight.com/2022/11/core-stage-sls-update/" >🔗</a> **[NASASpaceflight]** Boeing talks Core Stage performance on Artemis I, looks ahead to future Core Stages and EUS debut
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T140650">2022-12-01 14:06:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T143409">2022-12-01 14:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
