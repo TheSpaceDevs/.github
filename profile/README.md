@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/artemis-i-srb-review/" >🔗</a> **[NASASpaceflight]** Solid Rocket Boosters meet performance targets in first-look data review for Artemis I
 - <a href="https://www.cnbc.com/2022/12/01/investing-in-space-moon-rising.html" >🔗</a> **[CNBC]** Investing in Space: Moon rising
 - <a href="https://arstechnica.com/science/2022/12/a-new-satellite-has-become-one-of-the-20-brightest-stars-in-the-sky/" >🔗</a> **[Arstechnica]** Astronomers say a new, huge satellite is as bright as the brightest stars
 - <a href="https://spacenews.com/cognitive-space-hires-retired-general-as-strategic-advisor/" >🔗</a> **[SpaceNews]** Cognitive Space hires retired general as strategic advisor
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-us-spacewalks-outside-space-station" >🔗</a> **[NASA]** NASA to Provide Live Coverage of US Spacewalks Outside Space Station
-- <a href="https://spacenews.com/ast-spacemobile-plots-86-million-share-sale/" >🔗</a> **[SpaceNews]** AST SpaceMobile plots $86 million share sale
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T190554">2022-12-01 19:05:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221201T193154">2022-12-01 19:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
