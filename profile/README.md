@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
 - <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
 - <a href="https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html" >🔗</a> **[CNBC]** Astra chief engineer resigns in another blow for beleaguered rocket builder
 - <a href="https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round
 - <a href="https://spacenews.com/fcc-grants-partial-approval-for-starlink-second-generation-constellation/" >🔗</a> **[SpaceNews]** FCC grants partial approval for Starlink second-generation constellation
-- <a href="https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/" >🔗</a> **[SpaceNews]** Orion begins return leg of Artemis 1 mission
 
 
 ### Launch-related News 🚀
@@ -108,11 +108,12 @@ into *a Polar Orbit
 - <a href="https://spaceflightnow.com/2022/03/21/oneweb-signs-with-spacex-to-resume-launching-internet-constellation/" >🔗</a> **[Spaceflight Now]** OneWeb signs with SpaceX to resume launching internet constellation
 - <a href="https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/" >🔗</a> **[Arstechnica]** OneWeb turns to a competitor—SpaceX—to complete its constellation
 - <a href="https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility
+- <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T153215">2022-12-02 15:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T160842">2022-12-02 16:08:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
