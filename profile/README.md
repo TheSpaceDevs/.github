@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round
 - <a href="https://spacenews.com/fcc-grants-partial-approval-for-starlink-second-generation-constellation/" >🔗</a> **[SpaceNews]** FCC grants partial approval for Starlink second-generation constellation
 - <a href="https://spacenews.com/orion-begins-return-leg-of-artemis-1-mission/" >🔗</a> **[SpaceNews]** Orion begins return leg of Artemis 1 mission
 - <a href="https://www.teslarati.com/spacex-starlink-gen2-constellation-fcc-license-partial-grant/" >🔗</a> **[Teslarati]** SpaceX Starlink Gen2 constellation weakened by “partial” FCC grant
 - <a href="https://spacenews.com/rocket-lab-launches-subsidiary-focused-on-national-security-market/" >🔗</a> **[SpaceNews]** Rocket Lab launches subsidiary focused on national security market
-- <a href="https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/" >🔗</a> **[Spaceflight Now]** Orion capsule leaves lunar orbit, heads for moon flyby and return to Earth
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T131443">2022-12-02 13:14:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T133515">2022-12-02 13:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
