@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/" >🔗</a> **[NASASpaceflight]** RS-25 engine performance “perfect” on Artemis I debut launch
 - <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
 - <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
 - <a href="https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html" >🔗</a> **[CNBC]** Astra chief engineer resigns, CEO shakes up management ‘to execute faster’
 - <a href="https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round
-- <a href="https://spacenews.com/fcc-grants-partial-approval-for-starlink-second-generation-constellation/" >🔗</a> **[SpaceNews]** FCC grants partial approval for Starlink second-generation constellation
 
 
 ### Launch-related News 🚀
@@ -109,11 +109,12 @@ into *a Polar Orbit
 - <a href="https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/" >🔗</a> **[Arstechnica]** OneWeb turns to a competitor—SpaceX—to complete its constellation
 - <a href="https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility
 - <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
+- <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T193148">2022-12-02 19:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T200657">2022-12-02 20:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
