@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-establishes-component-at-u-s-central-command/" >🔗</a> **[SpaceNews]** Space Force establishes component at U.S. Central Command
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown" >🔗</a> **[NASA]** NASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown
 - <a href="https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/" >🔗</a> **[NASASpaceflight]** RS-25 engine performance “perfect” on Artemis I debut launch
 - <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
 - <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
-- <a href="https://www.cnbc.com/2022/12/02/astra-chief-engineer-benjamin-lyon-resigns-from-rocket-builder.html" >🔗</a> **[CNBC]** Astra chief engineer resigns, CEO shakes up management ‘to execute faster’
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T223308">2022-12-02 22:33:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T230620">2022-12-02 23:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
