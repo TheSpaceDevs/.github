@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-gen2-constellation-fcc-license-partial-grant/" >🔗</a> **[Teslarati]** SpaceX Starlink Gen2 constellation weakened by “partial” FCC grant
 - <a href="https://spacenews.com/rocket-lab-launches-subsidiary-focused-on-national-security-market/" >🔗</a> **[SpaceNews]** Rocket Lab launches subsidiary focused on national security market
 - <a href="https://spaceflightnow.com/2022/12/01/artemis-1-orion-dro-departure/" >🔗</a> **[Spaceflight Now]** Orion capsule leaves lunar orbit, heads for moon flyby and return to Earth
 - <a href="https://spacenews.com/eutelsat-orders-geo-broadband-satellite-with-leo-in-mind/" >🔗</a> **[SpaceNews]** Eutelsat orders GEO broadband satellite with LEO in mind
 - <a href="https://www.cnbc.com/2022/12/01/fcc-authorizes-spacex-gen2-starlink-up-to-7500-satellites.html" >🔗</a> **[CNBC]** FCC authorizes SpaceX to begin deploying up to 7,500 next-generation Starlink satellites
-- <a href="http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-restoration-services-contract" >🔗</a> **[NASA]** NASA Awards Environmental Compliance, Restoration Services Contract
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T073143">2022-12-02 07:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221202T080853">2022-12-02 08:08:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
