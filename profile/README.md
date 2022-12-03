@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-rolls-out-new-business-line-focused-on-military-satellite-services/" >🔗</a> **[SpaceNews]** SpaceX rolls out new business line focused on military satellite services
 - <a href="https://spaceflightnow.com/2022/12/03/iss-eva-82/" >🔗</a> **[Spaceflight Now]** Watch live: Astronauts install new solar array outside International Space Station
 - <a href="https://spacenews.com/space-force-establishes-component-at-u-s-central-command/" >🔗</a> **[SpaceNews]** Space Force establishes component at U.S. Central Command
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-of-orion-s-historic-moon-mission-return-splashdown" >🔗</a> **[NASA]** NASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown
 - <a href="https://www.nasaspaceflight.com/2022/12/artemis-i-rs25-review/" >🔗</a> **[NASASpaceflight]** RS-25 engine performance “perfect” on Artemis I debut launch
-- <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T153139">2022-12-03 15:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221203T160743">2022-12-03 16:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
