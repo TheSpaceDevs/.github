@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html" >🔗</a> **[CNBC]** SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites
 - <a href="https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/" >🔗</a> **[Arstechnica]** Dmitry Rogozin may be in some trouble in Russia
 - <a href="https://spacenews.com/e-space-buys-rf-hardware-developer-commagility/" >🔗</a> **[SpaceNews]** E-Space buys RF hardware developer CommAgility
 - <a href="https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/" >🔗</a> **[SpaceNews]** Growth of SSA systems could create problems for satellite operators
 - <a href="https://arstechnica.com/science/2022/12/artemis-i-has-finally-launched-what-comes-next/" >🔗</a> **[Arstechnica]** After the Artemis I mission’s brilliant success, why is an encore 2 years away?
-- <a href="https://spacenews.com/pearson-becomes-agile-ceo/" >🔗</a> **[SpaceNews]** Chris Pearson takes the reins at Agile Space Industries
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T160842">2022-12-05 16:08:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T164441">2022-12-05 16:44:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
