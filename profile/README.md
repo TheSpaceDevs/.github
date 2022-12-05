@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/dmitry-rogozin-may-be-in-some-trouble-in-russia/" >🔗</a> **[Arstechnica]** Dmitry Rogozin may be in some trouble in Russia
+- <a href="https://spacenews.com/e-space-buys-rf-hardware-developer-commagility/" >🔗</a> **[SpaceNews]** E-Space buys RF hardware developer CommAgility
 - <a href="https://spacenews.com/growth-of-ssa-systems-could-create-problems-for-satellite-operators/" >🔗</a> **[SpaceNews]** Growth of SSA systems could create problems for satellite operators
 - <a href="https://arstechnica.com/science/2022/12/artemis-i-has-finally-launched-what-comes-next/" >🔗</a> **[Arstechnica]** After the Artemis I mission’s brilliant success, why is an encore 2 years away?
 - <a href="https://spacenews.com/pearson-becomes-agile-ceo/" >🔗</a> **[SpaceNews]** Chris Pearson takes the reins at Agile Space Industries
-- <a href="https://spacenews.com/u-s-space-force-chief-the-use-of-space-technology-in-ukraine-is-what-we-can-expect-in-the-future/" >🔗</a> **[SpaceNews]** U.S. Space Force chief: The use of space technology in Ukraine ‘is what we can expect in the future’
-- <a href="https://spaceflightnow.com/2022/12/03/iss-eva-82/" >🔗</a> **[Spaceflight Now]** Astronauts install new solar array outside International Space Station
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T143235">2022-12-05 14:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221205T150727">2022-12-05 15:07:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
