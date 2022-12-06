@@ -18,44 +18,42 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T080400">2022-12-07 08:04:00 UTC</a>.  Until
-then, this pad will have been used for 160
-out of 865 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Lunar Exploration* and the payload will be injected
-into *a Lunar Orbit
-(LO)*.
+**Kuaizhou 11 | Unknown Payload**. It is scheduled to be launched by *ExPace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T010400">2022-12-07 01:04:00 UTC</a>.  Until
+then, this pad will have been used for 7
+out of 178 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  First mission of the Hakuto-R commercial lunar lander developed by private Japanese company ispace.
-
-Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water ice at the Moon’s South Pole.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+  <a href="None" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou-11_image_20190726062549.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T010400">2022-12-07 01:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 11 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20221207T010400Z%2F20221207T013600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 11 | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T080400">2022-12-07 08:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221207T080400Z%2F20221207T080400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T220000">2022-12-07 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221207T220000Z%2F20221208T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T223200">2022-12-07 22:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 15&location=Kennedy Space Center, FL, USA&dates=20221207T223200Z%2F20221207T223200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 15** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T045000">2022-12-09 04:50:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Maiden Flight&location=Sea Launch&dates=20221209T045000Z%2F20221209T080500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Maiden Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T230000">2022-12-09 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20221209T230000Z%2F20221210T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Virginia is for Launch Lovers** from Wallops Island, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T082200">2022-12-10 08:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Maiden Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20221210T082200Z%2F20221210T104400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Maiden Flight** from Jiuquan, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T182200">2022-12-10 18:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20221210T182200Z%2F20221210T190500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T203000">2022-12-13 20:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Galaxy 35 &amp; 36, MTG-I1&location=Kourou, French Guiana&dates=20221213T203000Z%2F20221213T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Galaxy 35 & 36, MTG-I1** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T212000">2022-12-13 21:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 1 &amp; 2&location=Cape Canaveral, FL, USA&dates=20221213T212000Z%2F20221213T212000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 1 & 2** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T114640">2022-12-15 11:46:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography&location=Vandenberg SFB, CA, USA&dates=20221215T114640Z%2F20221215T114640Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T014700">2022-12-21 01:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221221T014700Z%2F20221221T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Pléiades Neo 5 & 6** from Kourou, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T065800">2022-12-29 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EROS-C3&location=Vandenberg SFB, CA, USA&dates=20221229T065800Z%2F20221229T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EROS-C3** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T000000">2022-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20221231T000000Z%2F20221231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -100,22 +98,11 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/artemis-1-ispace-lander-set-november-launch-dates/" >🔗</a> **[SpaceNews]** Artemis 1, ispace lander set November launch dates
-- <a href="https://www.teslarati.com/spacex-nasa-two-moon-launches-days-apart/" >🔗</a> **[Teslarati]** SpaceX, NASA targeting separate Moon launches days apart
-- <a href="https://spacenews.com/japanese-lunar-lander-with-nasa-rideshare-to-launch-this-month/" >🔗</a> **[SpaceNews]** Japanese lunar lander, with NASA rideshare, to launch this month
-- <a href="https://spacenews.com/japanese-lunar-lander-slated-to-launch-nov-28-at-the-earliest/" >🔗</a> **[SpaceNews]** Japanese lunar lander slated to launch Nov. 28 at the earliest
-- <a href="https://www.teslarati.com/spacex-ispace-japanese-moon-lander-nasa-cubesat-launch/" >🔗</a> **[Teslarati]** SpaceX’s Japanese Moon lander launch back on the calendar after indefinite delay
-- <a href="https://www.nasaspaceflight.com/2022/11/hakuto-r-m1/" >🔗</a> **[NASASpaceflight]** SpaceX delays Falcon 9 launch carrying private Japanese moon lander
-- <a href="https://spaceflightnow.com/2022/11/29/japanese-commercial-moon-lander-uae-rover-ready-for-launch-on-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Japanese commercial moon lander, UAE rover ready for launch on SpaceX rocket
-- <a href="https://arstechnica.com/science/2022/11/spacex-set-to-launch-two-spacecraft-to-the-moon-tonight/" >🔗</a> **[Arstechnica]** SpaceX set to launch two spacecraft to the Moon tonight
-- <a href="https://www.teslarati.com/spacex-second-indefinite-falcon-9-launch-delay-two-weeks/" >🔗</a> **[Teslarati]** SpaceX indefinitely delays second Falcon 9 launch in two weeks
-- <a href="https://spaceflightnow.com/2022/11/30/spacex-rocket-trouble-postpones-japanese-moon-lander-launch/" >🔗</a> **[Spaceflight Now]** SpaceX rocket trouble postpones Japanese moon lander launch
-- <a href="https://arstechnica.com/science/2022/12/rocket-report-sls-gets-an-excellent-report-card-canadian-companys-sexbomb/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX launch delayed indefinitely; Virgin Orbit cancels funding round
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T050700">2022-12-06 05:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T053147">2022-12-06 05:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
