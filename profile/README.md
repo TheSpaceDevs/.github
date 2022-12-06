@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orion-swings-by-the-moon-on-its-way-back-to-earth/" >🔗</a> **[SpaceNews]** Orion swings by the moon on its way back to Earth
 - <a href="https://spacenews.com/advisory-panel-to-examine-dods-demand-for-commercial-space-systems/" >🔗</a> **[SpaceNews]** Advisory panel to examine DoD’s demand for commercial space systems
 - <a href="https://spacenews.com/promin-perseveres/" >🔗</a> **[SpaceNews]** Ukraine’s Promin Aerospace on track for 2023 flight test
 - <a href="https://spaceflightnow.com/2022/12/05/artemis-1-capsule-beams-back-spectacular-farewell-views-of-the-moon/" >🔗</a> **[Spaceflight Now]** Artemis 1 capsule beams back spectacular farewell views of the moon
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-names-new-leadership-at-two-agency-centers" >🔗</a> **[NASA]** NASA Administrator Names New Leadership at Two Agency Centers
-- <a href="https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html" >🔗</a> **[CNBC]** SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T103500">2022-12-06 10:35:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T110526">2022-12-06 11:05:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
