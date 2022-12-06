@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/after-lunar-flyby-nasas-orion-spacecraft-is-set-to-splashdown-on-sunday/" >🔗</a> **[Arstechnica]** After lunar flyby, NASA’s Orion spacecraft is set to splash down on Sunday
 - <a href="https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/" >🔗</a> **[SpaceNews]** Chinese commercial methane-fueled rocket set for first launch
 - <a href="https://spacenews.com/slingshot-aerospace-completes-40-8-million-funding-round/" >🔗</a> **[SpaceNews]** Slingshot Aerospace completes $40.8 million funding round
 - <a href="https://spacenews.com/orion-swings-by-the-moon-on-its-way-back-to-earth/" >🔗</a> **[SpaceNews]** Orion swings by the moon on its way back to Earth
 - <a href="https://spacenews.com/advisory-panel-to-examine-dods-demand-for-commercial-space-systems/" >🔗</a> **[SpaceNews]** Advisory panel to examine DoD’s demand for commercial space systems
-- <a href="https://spacenews.com/promin-perseveres/" >🔗</a> **[SpaceNews]** Ukraine’s Promin Aerospace on track for 2023 flight test
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T143221">2022-12-06 14:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T150652">2022-12-06 15:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
