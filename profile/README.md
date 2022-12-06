@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites for Starlink rival OneWeb
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-astronauts-bring-space-to-washington-schools" >🔗</a> **[NASA]** NASA Administrator, Astronauts Bring Space to Washington Schools
 - <a href="https://spacenews.com/defense-commerce-departments-select-companies-to-prototype-space-traffic-management-solutions/" >🔗</a> **[SpaceNews]** Defense, Commerce Departments select companies to prototype space traffic management solutions
 - <a href="https://www.nasaspaceflight.com/2022/12/blue-origin-new-glenn/" >🔗</a> **[NASASpaceflight]** Blue Origin conducts fairing testing amid quiet New Glenn progress
 - <a href="https://arstechnica.com/science/2022/12/after-lunar-flyby-nasas-orion-spacecraft-is-set-to-splashdown-on-sunday/" >🔗</a> **[Arstechnica]** After lunar flyby, NASA’s Orion spacecraft is set to splash down on Sunday
-- <a href="https://spacenews.com/chinese-commercial-methane-fueled-rocket-set-for-first-launch/" >🔗</a> **[SpaceNews]** Chinese commercial methane-fueled rocket set for first launch
-- <a href="https://spacenews.com/slingshot-aerospace-completes-40-8-million-funding-round/" >🔗</a> **[SpaceNews]** Slingshot Aerospace completes $40.8 million funding round
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T213145">2022-12-06 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221206T220627">2022-12-06 22:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
