@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-support-services-contract-1" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance Support Services Contract
+- <a href="https://spacenews.com/ndaa-compromise-bill-wants-more-focus-on-satellite-protection-responsive-launch/" >🔗</a> **[SpaceNews]** NDAA compromise bill wants more focus on satellite protection, responsive launch
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-hydrogen" >🔗</a> **[NASA]** NASA Awards Contract for Liquid Hydrogen
 - <a href="https://spacenews.com/blue-origin-and-dynetics-bidding-on-second-artemis-lunar-lander/" >🔗</a> **[SpaceNews]** Blue Origin and Dynetics bidding on second Artemis lunar lander
 - <a href="https://mars.nasa.gov/news/9311/" >🔗</a> **[NASA]** NASA's Perseverance Rover Gets the Dirt on Mars
-- <a href="https://www.nasaspaceflight.com/2022/12/booster-7-9-flow-milestones/" >🔗</a> **[NASASpaceflight]** Boosters 7 and 9 in dual flow toward Starbase test milestones
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-swot-water-survey-mission-launch" >🔗</a> **[NASA]** NASA Sets Coverage for SWOT Water Survey Mission Launch
-- <a href="https://arstechnica.com/science/2022/12/fifty-years-later-remastered-images-reveal-apollo-17-in-stunning-clarity/" >🔗</a> **[Arstechnica]** Fifty years later, remastered images reveal Apollo 17 in stunning clarity
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T213139">2022-12-07 21:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T220632">2022-12-07 22:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
