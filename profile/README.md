@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trisept-and-spideroak-unveil-strategic-partnership/" >🔗</a> **[SpaceNews]** TriSept and SpiderOak unveil strategic partnership
+- <a href="https://spacenews.com/nasa-confirms-neo-surveyor-for-2028-launch/" >🔗</a> **[SpaceNews]** NASA confirms NEO Surveyor for 2028 launch
 - <a href="https://spacenews.com/china-is-considering-expanding-its-tiangong-space-station/" >🔗</a> **[SpaceNews]** China is considering expanding its Tiangong space station
 - <a href="https://spacenews.com/space-force-procurement-chief-emphatic-about-the-need-for-speed/" >🔗</a> **[SpaceNews]** Space Force procurement chief emphatic about the ‘need for speed’
 - <a href="https://spacenews.com/mangata-networks-gets-funds-for-scottish-satellite-manufacturing-hub/" >🔗</a> **[SpaceNews]** Mangata Networks gets funds for Scottish satellite manufacturing hub
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-climate-research-mitigation-efforts" >🔗</a> **[NASA]** NASA to Discuss Climate Research, Mitigation Efforts
-- <a href="https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites for Starlink rival OneWeb
 
 
 ### Launch-related News 🚀
@@ -110,11 +110,12 @@ into *a Polar Orbit
 - <a href="https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility
 - <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
 - <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
+- <a href="https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites for Starlink rival OneWeb
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T131536">2022-12-07 13:15:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T133619">2022-12-07 13:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
