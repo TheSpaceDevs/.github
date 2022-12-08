@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/ml-rollback-mod-timelines/" >🔗</a> **[NASASpaceflight]** NASA talks Mobile Launcher refurbishment, modifications needed for Artemis II crew debut of SLS
 - <a href="https://spacenews.com/astrobotic-lander-undergoes-tests-ahead-of-launch/" >🔗</a> **[SpaceNews]** Astrobotic lander undergoes tests ahead of launch
 - <a href="https://spacenews.com/nasa-loses-contact-with-icon-spacecraft/" >🔗</a> **[SpaceNews]** NASA loses contact with ICON spacecraft
 - <a href="https://spacenews.com/defense-innovation-unit-seeks-commercial-options-to-deploy-satellites-in-deep-space/" >🔗</a> **[SpaceNews]** Defense Innovation Unit seeks commercial options to deploy satellites in deep space
 - <a href="https://spacenews.com/nasa-and-boeing-change-sls-core-stage-assembly-process/" >🔗</a> **[SpaceNews]** NASA and Boeing change SLS core stage assembly process
-- <a href="https://www.teslarati.com/spacex-fcc-request-direct-to-cell/" >🔗</a> **[Teslarati]** SpaceX files FCC request to put payloads on satellites for direct-to-cell system with T-Mobile
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T143141">2022-12-08 14:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T150650">2022-12-08 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
