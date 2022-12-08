@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-innovation-unit-seeks-commercial-options-to-deploy-satellites-in-deep-space/" >🔗</a> **[SpaceNews]** Defense Innovation Unit seeks commercial options to deploy satellites in deep space
+- <a href="https://spacenews.com/nasa-and-boeing-change-sls-core-stage-assembly-process/" >🔗</a> **[SpaceNews]** NASA and Boeing change SLS core stage assembly process
 - <a href="https://www.teslarati.com/spacex-fcc-request-direct-to-cell/" >🔗</a> **[Teslarati]** SpaceX files FCC request to put payloads on satellites for direct-to-cell system with T-Mobile
 - <a href="https://spacenews.com/cryogenics-specialist-orders-first-satellite-for-detecting-methane-leaks/" >🔗</a> **[SpaceNews]** Cryogenics specialist orders first satellite for detecting methane leaks
 - <a href="http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-support-services-contract-1" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance Support Services Contract
-- <a href="https://spacenews.com/ndaa-compromise-bill-wants-more-focus-on-satellite-protection-responsive-launch/" >🔗</a> **[SpaceNews]** NDAA compromise bill wants more focus on satellite protection, responsive launch
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-liquid-hydrogen" >🔗</a> **[NASA]** NASA Awards Contract for Liquid Hydrogen
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221207T233215">2022-12-07 23:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T003358">2022-12-08 00:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
