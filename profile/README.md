@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**RS1 | Maiden Flight**. It is scheduled to be launched by *ABL Space Systems*
+**Falcon 9 Block 5 | OneWeb 15**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska">Launch Pad 3C</a>, Pacific Spaceport Complex, Alaska, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220000">2022-12-08 22:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 8 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T222700">2022-12-08 22:27:00 UTC</a>.  Until
+then, this pad will have been used for 153
+out of 211 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Communications* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  This is the first launch of RS1 launch vehicle developed and built by ABL Space Systems. This launch carries two satellites for L2 Aerospace.
+  A batch of 40 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/ABL_Space_Systems#RS1" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220322195146.jpeg" />
   </a>
-  <a href="https://www.google.ee/maps/search/57.431239,-152.350749" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_25_20200803142500.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220000">2022-12-08 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20221208T220000Z%2F20221209T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T222700">2022-12-08 22:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 15&location=Kennedy Space Center, FL, USA&dates=20221208T222700Z%2F20221208T222700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 15** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T062500">2022-12-09 06:25:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Maiden Flight&location=Sea Launch&dates=20221209T062500Z%2F20221209T073800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Maiden Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T073800">2022-12-11 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hakuto-R M1 &amp; Lunar Flashlight&location=Cape Canaveral, FL, USA&dates=20221211T073800Z%2F20221211T073800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight** from Cape Canaveral, FL, USA.
@@ -89,25 +88,35 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/12/oneweb-15/" >🔗</a> **[NASASpaceflight]** SpaceX to launch its first of three missions for OneWeb
-- <a href="https://spacenews.com/virgin-orbit-delays-first-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit delays first U.K. launch
-- <a href="https://www.cnbc.com/2022/12/08/investing-in-space-temper-your-expectations.html" >🔗</a> **[CNBC]** Investing in Space: Temper your expectations
-- <a href="https://www.nasaspaceflight.com/2022/12/ml-rollback-mod-timelines/" >🔗</a> **[NASASpaceflight]** NASA talks Mobile Launcher refurbishment, modifications needed for Artemis II crew debut of SLS
-- <a href="https://spacenews.com/astrobotic-lander-undergoes-tests-ahead-of-launch/" >🔗</a> **[SpaceNews]** Astrobotic lander undergoes tests ahead of launch
+- <a href="https://spacenews.com/ses-government-unit-rebranded-as-ses-space-defense/" >🔗</a> **[SpaceNews]** SES government unit rebranded as SES Space & Defense
+- <a href="http://www.nasa.gov/press-release/nasa-selects-eastern-region-protective-services-contractor" >🔗</a> **[NASA]** NASA Selects Eastern Region Protective Services Contractor
+- <a href="https://spacenews.com/collins-aerospace-selected-to-develop-new-space-station-spacesuit/" >🔗</a> **[SpaceNews]** Collins Aerospace selected to develop new space station spacesuit
+- <a href="http://www.nasa.gov/press-release/nasa-taps-collins-aerospace-to-develop-new-space-station-spacesuits" >🔗</a> **[NASA]** NASA Taps Collins Aerospace to Develop New Space Station Spacesuits
+- <a href="https://spacenews.com/terran-orbit-creates-new-business-unit-to-produce-imaging-satellites/" >🔗</a> **[SpaceNews]** Terran Orbital creates new business unit to produce imaging satellites
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/abl-space-systems-rocket-stage-destroyed-in-test-accident/" >🔗</a> **[SpaceNews]** ABL Space Systems rocket stage destroyed in test accident
-- <a href="https://spacenews.com/abl-space-systems-test-accident-to-delay-first-launch-by-three-months/" >🔗</a> **[SpaceNews]** ABL Space Systems test accident to delay first launch by three months
-- <a href="https://spacenews.com/abl-static-fires-rocket-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** ABL static fires rocket for first orbital launch attempt
-- <a href="https://spaceflightnow.com/2022/11/13/abl-space-systems-on-verge-of-first-orbital-launch-attempt/" >🔗</a> **[Spaceflight Now]** ABL Space Systems on verge of first orbital launch attempt
-- <a href="https://spaceflightnow.com/2022/11/22/abls-first-orbital-test-flight-postponed-after-series-of-launch-attempts/" >🔗</a> **[Spaceflight Now]** ABL’s first orbital test flight postponed after series of launch attempts
+- <a href="https://spacenews.com/russia-ukraine-war-raises-questions-for-upcoming-oneweb-launches/" >🔗</a> **[SpaceNews]** Russia-Ukraine war raises questions for upcoming OneWeb launches
+- <a href="https://arstechnica.com/science/2022/03/russia-places-extraordinary-demands-on-oneweb-prior-to-satellite-launch/" >🔗</a> **[Arstechnica]** Russia places extraordinary demands on OneWeb prior to satellite launch
+- <a href="https://spacenews.com/rogozin-puts-poison-pill-conditions-on-oneweb-soyuz-launch/" >🔗</a> **[SpaceNews]** Rogozin puts poison-pill conditions on OneWeb Soyuz launch
+- <a href="https://spaceflightnow.com/2022/03/02/russia-issues-ultimatum-to-u-k-government-over-oneweb-launch/" >🔗</a> **[Spaceflight Now]** Russia issues ultimatum to UK government over OneWeb launch
+- <a href="https://spacenews.com/oneweb-leaves-baikonur-cosmodrome-after-roscosmos-ultimatum/" >🔗</a> **[SpaceNews]** OneWeb leaves Baikonur Cosmodrome after Roscosmos ultimatum
+- <a href="https://spacenews.com/with-soyuz-off-the-table-oneweb-back-in-the-mix/" >🔗</a> **[SpaceNews]** With Soyuz off the table, OneWeb back in the mix
+- <a href="https://spacenews.com/oneweb-reaches-launch-deal-with-spacex/" >🔗</a> **[SpaceNews]** OneWeb reaches launch deal with SpaceX
+- <a href="https://spaceflightnow.com/2022/03/21/oneweb-signs-with-spacex-to-resume-launching-internet-constellation/" >🔗</a> **[Spaceflight Now]** OneWeb signs with SpaceX to resume launching internet constellation
+- <a href="https://arstechnica.com/science/2022/03/oneweb-turns-to-a-competitor-spacex-to-complete-its-constellation/" >🔗</a> **[Arstechnica]** OneWeb turns to a competitor—SpaceX—to complete its constellation
+- <a href="https://www.teslarati.com/spacex-wins-oneweb-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX wins OneWeb launch contracts, demonstrating extreme flexibility
+- <a href="https://spacenews.com/oneweb-aims-to-deploy-a-record-40-satellites-in-spacex-mission/" >🔗</a> **[SpaceNews]** OneWeb aims to deploy a record 40 satellites in SpaceX mission
+- <a href="https://arstechnica.com/science/2022/12/oneweb-sets-a-launch-date-for-next-week-on-a-falcon-9-rocket/" >🔗</a> **[Arstechnica]** After bankruptcy and war, OneWeb turns to a competitor for help
+- <a href="https://www.teslarati.com/spacex-falcon-9-rocket-first-oneweb-launch/" >🔗</a> **[Teslarati]** SpaceX set to launch 40 satellites for Starlink rival OneWeb
+- <a href="https://spaceflightnow.com/2022/12/07/oneweb-readies-for-15th-launch-and-first-with-spacex/" >🔗</a> **[Spaceflight Now]** OneWeb readies for 15th launch, and first with SpaceX
+- <a href="https://www.nasaspaceflight.com/2022/12/oneweb-15/" >🔗</a> **[NASASpaceflight]** SpaceX to launch its first of three missions for OneWeb
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T213145">2022-12-08 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221208T220643">2022-12-08 22:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
