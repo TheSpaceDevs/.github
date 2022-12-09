@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/" >🔗</a> **[Arstechnica]** Rocket Report: First UK launch slips to 2023; Ukrainian rocket startup perseveres
+- <a href="https://spacenews.com/nasa-preparing-for-orion-splashdown-to-conclude-artemis-1/" >🔗</a> **[SpaceNews]** NASA preparing for Orion splashdown to conclude Artemis 1
+- <a href="https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/" >🔗</a> **[Arstechnica]** Rocket Report: Starship flight test slips to 2023; first methane launch is imminent
 - <a href="https://spacenews.com/china-launches-14-satellites-with-new-solid-rocket-from-mobile-sea-platform/" >🔗</a> **[SpaceNews]** China launches 14 satellites with new solid rocket from mobile sea platform
 - <a href="https://spacenews.com/spacex-requests-permission-for-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** SpaceX requests permission for direct-to-smartphone service
 - <a href="http://www.nasa.gov/press-release/michigan-students-to-hear-from-current-nasa-space-station-astronaut" >🔗</a> **[NASA]** Michigan Students to Hear from Current NASA Space Station Astronaut
-- <a href="https://spacenews.com/dawn-raises-20-million/" >🔗</a> **[SpaceNews]** Dawn Aerospace raises $20 million for propulsion and spaceplane work
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T121153">2022-12-09 12:11:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T125229">2022-12-09 12:52:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
