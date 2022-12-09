@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/" >🔗</a> **[SpaceNews]** House committee leaders introduce bipartisan bills to update satellite rules
 - <a href="https://spacenews.com/space-development-agencys-first-launch-slips-to-march-due-to-satellite-glitch/" >🔗</a> **[SpaceNews]** Space Development Agency’s first launch slips to March due to satellite glitch
 - <a href="https://arstechnica.com/science/2022/12/nasas-orion-spacecraft-is-about-to-face-its-final-test-and-its-a-big-one/" >🔗</a> **[Arstechnica]** NASA’s Orion spacecraft is about to face its final test—and it’s a big one
 - <a href="https://spacenews.com/japanese-billionaire-selects-crew-for-circumlunar-starship-flight/" >🔗</a> **[SpaceNews]** Japanese billionaire selects crew for circumlunar Starship flight
 - <a href="https://spacenews.com/nasa-preparing-for-orion-splashdown-to-conclude-artemis-1/" >🔗</a> **[SpaceNews]** NASA preparing for Orion splashdown to conclude Artemis 1
-- <a href="https://arstechnica.com/science/2022/12/rocket-report-first-uk-launch-slips-to-2023-ukrainian-rocket-startup-perseveres/" >🔗</a> **[Arstechnica]** Rocket Report: Starship flight test slips to 2023; first methane launch is imminent
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T193141">2022-12-09 19:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221209T200707">2022-12-09 20:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
