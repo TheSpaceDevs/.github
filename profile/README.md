@@ -93,9 +93,9 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2022/12/boeing-expanding-cs-prod/" >🔗</a> **[NASASpaceflight]** Boeing expanding SLS Core Stage production to KSC to build Artemis inventory
 - <a href="https://spacenews.com/europe-celebrates-performance-of-orion-service-module/" >🔗</a> **[SpaceNews]** Europe celebrates performance of Orion service module
+- <a href="https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/" >🔗</a> **[NASASpaceflight]** SpaceX now ready for Falcon 9 launch carrying private Japanese moon lander
 - <a href="https://spacenews.com/antenna-maker-anywaves-plots-aggressive-us-expansion/" >🔗</a> **[SpaceNews]** Antenna maker Anywaves plots aggressive US expansion
 - <a href="http://www.nasa.gov/press-release/nasa-commits-to-future-artemis-moon-rocket-production" >🔗</a> **[NASA]** NASA Commits to Future Artemis Moon Rocket Production
-- <a href="https://spacenews.com/house-committee-leaders-introduce-bipartisan-bills-to-update-satellite-rules/" >🔗</a> **[SpaceNews]** House committee leaders introduce bipartisan bills to update satellite rules
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Rideshare includes Lunar Flashlight, NASA's cubesat that will search for water i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T203141">2022-12-10 20:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221210T210519">2022-12-10 21:05:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
