@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/after-decades-of-false-starts-nasa-really-is-returning-to-the-moon-this-time/" >🔗</a> **[Arstechnica]** After decades of false starts, NASA really is returning to the Moon this time
 - <a href="https://www.cnbc.com/2022/12/11/spacex-launches-japanese-ispace-lunar-lander-first-mission.html" >🔗</a> **[CNBC]** SpaceX launches lunar lander for Japanese venture ispace, which aims to create moon economy
 - <a href="http://www.nasa.gov/press-release/splashdown-nasa-s-orion-returns-to-earth-after-historic-moon-mission" >🔗</a> **[NASA]** Splashdown! NASA’s Orion Returns to Earth After Historic Moon Mission
 - <a href="https://www.cnbc.com/2022/12/11/nasa-completes-artemis-i-moon-mission-with-orion-capsule-splash-down.html" >🔗</a> **[CNBC]** NASA’s Orion capsule splashes down, completing the first Artemis moon mission
 - <a href="https://spacenews.com/orion-splashes-down-to-end-artemis-1/" >🔗</a> **[SpaceNews]** Orion splashes down to end Artemis 1
-- <a href="https://spacenews.com/space-command-promotes-role-in-artemis-1/" >🔗</a> **[SpaceNews]** Space Command promotes role in Artemis 1
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T213152">2022-12-11 21:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T220557">2022-12-11 22:05:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
