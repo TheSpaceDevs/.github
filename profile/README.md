@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2022/12/11/nasa-completes-artemis-i-moon-mission-with-orion-capsule-splash-down.html" >🔗</a> **[CNBC]** NASA’s Orion capsule splashes down, completing the first Artemis moon mission
+- <a href="https://spacenews.com/orion-splashes-down-to-end-artemis-1/" >🔗</a> **[SpaceNews]** Orion splashes down to end Artemis 1
 - <a href="https://spacenews.com/space-command-promotes-role-in-artemis-1/" >🔗</a> **[SpaceNews]** Space Command promotes role in Artemis 1
-- <a href="https://www.nasaspaceflight.com/2022/12/artemis-i-eom/" >🔗</a> **[NASASpaceflight]** Orion into final critical in-flight test as reentry and splashdown arrive
+- <a href="https://www.nasaspaceflight.com/2022/12/artemis-i-eom/" >🔗</a> **[NASASpaceflight]** Orion aces final in-flight test with nominal reentry and splashdown
 - <a href="https://spaceflightnow.com/2022/12/11/falcon-9-ispace-mission-1-live-coverage/" >🔗</a> **[Spaceflight Now]** Japanese moon lander, NASA hitchhiker payload launched by SpaceX
-- <a href="https://spacenews.com/falcon-9-launches-ispace-lander-and-nasa-cubesat-to-the-moon/" >🔗</a> **[SpaceNews]** Falcon 9 launches ispace lander and NASA cubesat to the moon
-- <a href="https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/" >🔗</a> **[NASASpaceflight]** SpaceX launches Falcon 9 carrying private Japanese moon lander
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T173146">2022-12-11 17:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221211T180756">2022-12-11 18:07:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
