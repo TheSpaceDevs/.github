@@ -90,11 +90,11 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/technical-issue-likely-to-blame-for-iranian-news-channel-outage-says-eutelsat/" >🔗</a> **[SpaceNews]** Technical issue likely to blame for Iranian news channel outage, says Eutelsat
 - <a href="https://www.nasaspaceflight.com/2022/12/icps-artemis-i-review/" >🔗</a> **[NASASpaceflight]** Artemis I review shows perfect ICPS performance, ULA looks to next Artemis launches
 - <a href="https://arstechnica.com/science/2022/12/nasa-official-very-confident-artemis-spacesuits-will-be-ready-on-time/" >🔗</a> **[Arstechnica]** NASA official “very confident” Artemis spacesuits will be ready on time
 - <a href="https://spacenews.com/artemis-1-success-earns-widespread-praise/" >🔗</a> **[SpaceNews]** Artemis 1 success earns widespread praise
 - <a href="https://arstechnica.com/science/2022/12/after-decades-of-false-starts-nasa-really-is-returning-to-the-moon-this-time/" >🔗</a> **[Arstechnica]** Here’s why NASA’s Artemis I mission is so rare, and so remarkable
-- <a href="https://www.cnbc.com/2022/12/11/spacex-launches-japanese-ispace-lunar-lander-first-mission.html" >🔗</a> **[CNBC]** SpaceX launches lunar lander for Japanese venture ispace, which aims to create moon economy
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T203149">2022-12-12 20:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221212T210639">2022-12-12 21:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
