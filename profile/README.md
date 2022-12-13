@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/" >🔗</a> **[SpaceNews]** Ariane 5 launches triple satellite mission to geostationary transfer orbit
 - <a href="http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more" >🔗</a> **[NASA]** NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More
 - <a href="https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/" >🔗</a> **[Arstechnica]** Bill Nelson came to NASA to do two things, and he’s all out of bubblegum
-- <a href="https://www.nasaspaceflight.com/2022/12/ariane-5-va259/" >🔗</a> **[NASASpaceflight]** Arianespace to launch three spacecraft, Intelsat talks satellite refresh efforts
+- <a href="https://www.nasaspaceflight.com/2022/12/ariane-5-va259/" >🔗</a> **[NASASpaceflight]** Arianespace launches three spacecraft, Intelsat talks satellite refresh efforts
 - <a href="https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/" >🔗</a> **[SpaceNews]** Quantum Space raises $15 million for cislunar spacecraft
-- <a href="https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/" >🔗</a> **[Arstechnica]** After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T213142">2022-12-13 21:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T220631">2022-12-13 22:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
