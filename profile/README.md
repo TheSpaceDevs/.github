@@ -99,11 +99,12 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2022/12/ariane-5-va259/" >🔗</a> **[NASASpaceflight]** Arianespace to launch three spacecraft, Intelsat talks satellite refresh efforts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T173205">2022-12-13 17:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T180826">2022-12-13 18:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
