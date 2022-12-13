@@ -90,11 +90,11 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/" >🔗</a> **[Arstechnica]** Bill Nelson came to NASA to do two things, and he’s all out of bubblegum
 - <a href="https://www.nasaspaceflight.com/2022/12/ariane-5-va259/" >🔗</a> **[NASASpaceflight]** Arianespace to launch three spacecraft, Intelsat talks satellite refresh efforts
 - <a href="https://spacenews.com/quantum-space-raises-15-million-for-cislunar-spacecraft/" >🔗</a> **[SpaceNews]** Quantum Space raises $15 million for cislunar spacecraft
 - <a href="https://arstechnica.com/science/2022/12/nasa-is-negotiating-with-uae-to-provide-an-airlock-for-the-lunar-gateway/" >🔗</a> **[Arstechnica]** After Russia’s exit from the Lunar Gateway, NASA has found a new partner in UAE
 - <a href="https://spacenews.com/united-nations-general-assembly-approves-asat-test-ban-resolution/" >🔗</a> **[SpaceNews]** United Nations General Assembly approves ASAT test ban resolution
-- <a href="https://spacenews.com/elons-twitter-dilemma/" >🔗</a> **[SpaceNews]** Elon’s Twitter dilemma
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ MTG-I1 is the first of EUMETSAT's third generation of weather satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T193149">2022-12-13 19:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221213T200730">2022-12-13 20:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
