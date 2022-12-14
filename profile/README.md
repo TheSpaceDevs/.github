@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-launch-supply-chokepoint-puts-u-s-in-vulnerable-spot-expert-warns/" >🔗</a> **[SpaceNews]** Space launch supply chokepoint puts U.S. in vulnerable spot, expert warns
 - <a href="https://spacenews.com/historic-first-launch-of-chinese-private-methane-fueled-rocket-ends-in-failure/" >🔗</a> **[SpaceNews]** Historic first launch of Chinese private methane-fueled rocket ends in failure
 - <a href="https://arstechnica.com/science/2022/12/space-debris-expert-orbits-will-be-lost-and-people-will-die-later-this-decade/" >🔗</a> **[Arstechnica]** Space debris expert: Orbits will be lost—and people will die—later this decade
 - <a href="https://spaceflightnow.com/2022/12/13/ariane-5-rocket-launches-new-european-meteosat-satellite-two-intelsat-comsats/" >🔗</a> **[Spaceflight Now]** Ariane 5 rocket launches new European Meteosat satellite, two Intelsat comsats
 - <a href="https://spacenews.com/first-african-nations-sign-artemis-accords/" >🔗</a> **[SpaceNews]** First African nations sign Artemis Accords
-- <a href="https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/" >🔗</a> **[SpaceNews]** Ariane 5 launches triple satellite mission to geostationary transfer orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T173237">2022-12-14 17:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T180837">2022-12-14 18:08:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
