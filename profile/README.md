@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/space-debris-expert-orbits-will-be-lost-and-people-will-die-later-this-decade/" >🔗</a> **[Arstechnica]** Space debris expert: Orbits will be lost—and people will die—later this decade
 - <a href="https://spaceflightnow.com/2022/12/13/ariane-5-rocket-launches-new-european-meteosat-satellite-two-intelsat-comsats/" >🔗</a> **[Spaceflight Now]** Ariane 5 rocket launches new European Meteosat satellite, two Intelsat comsats
 - <a href="https://spacenews.com/first-african-nations-sign-artemis-accords/" >🔗</a> **[SpaceNews]** First African nations sign Artemis Accords
 - <a href="https://spacenews.com/ariane-5-launches-triple-satellite-mission-to-geostationary-transfer-orbit/" >🔗</a> **[SpaceNews]** Ariane 5 launches triple satellite mission to geostationary transfer orbit
 - <a href="http://www.nasa.gov/press-release/nasa-s-big-2022-historic-moon-mission-webb-telescope-images-more" >🔗</a> **[NASA]** NASA’s Big 2022: Historic Moon Mission, Webb Telescope Images, More
-- <a href="https://arstechnica.com/science/2022/12/bill-nelson-came-to-nasa-to-do-two-things-and-hes-all-out-of-bubblegum/" >🔗</a> **[Arstechnica]** Bill Nelson came to NASA to do two things, and he’s all out of bubblegum
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T113202">2022-12-14 11:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T121248">2022-12-14 12:12:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
