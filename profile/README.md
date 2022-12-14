@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Yaogan 36 Group 04 (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T181500">2022-12-14 18:15:00 UTC</a>.  Until
-then, this pad will have been used for 68
-out of 180 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T114640">2022-12-15 11:46:40 UTC</a>.  Until
+then, this pad will have been used for 98
+out of 707 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
+*Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  3 Chinese military reconnaissance satellites.
+  Satellite altimeter jointly developed by NASA and CNES, the French space agency, in partnership with the Canadian Space Agency (CSA) and UK Space Agency (UKSA) designed to make the first global survey of the Earth's surface water, to observe the fine details of the ocean surface topography, and to measure how terrestrial surface water bodies change over time.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214174537.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T065800">2022-12-29 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EROS-C3&location=Vandenberg SFB, CA, USA&dates=20221229T065800Z%2F20221229T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EROS-C3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T000000">2022-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20221231T000000Z%2F20221231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T000000">2022-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Fengyun-3F&location=Unknown Location&dates=20221231T000000Z%2F20221231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Fengyun-3F** from Unknown Location.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T000000">2022-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LauncherOne | Start Me Up&location=Air launch to orbit&dates=20221231T000000Z%2F20221231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LauncherOne | Start Me Up** from Air launch to orbit.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -97,11 +98,20 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2021/11/nasa-and-cnes-to-begin-swot-testing-as-its-launch-date-approaches/" >🔗</a> **[NASASpaceflight]** NASA and CNES to begin SWOT testing as its launch date approaches
+- <a href="https://spacenews.com/four-nasa-earth-science-missions-to-launch-in-2022/" >🔗</a> **[SpaceNews]** Four NASA Earth Science missions to launch in 2022
+- <a href="https://www.teslarati.com/spacex-nasa-swot-launch-reused-falcon-9/" >🔗</a> **[Teslarati]** SpaceX to launch NASA’s SWOT water topography satellite on reused Falcon 9
+- <a href="https://spacenews.com/nasa-shifts-earth-science-mission-to-previously-flown-falcon-9/" >🔗</a> **[SpaceNews]** NASA shifts Earth science mission to previously flown Falcon 9
+- <a href="https://spacenews.com/u-s-french-earth-science-satellite-ready-to-ship-for-december-launch/" >🔗</a> **[SpaceNews]** U.S.-French Earth science satellite ready to ship for December launch
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-launch-of-water-monitoring-satellite" >🔗</a> **[NASA]** NASA Invites Media to Launch of Water-Monitoring Satellite
+- <a href="http://www.nasa.gov/press-release/nasa-to-brief-media-on-first-earth-water-monitoring-satellite-mission" >🔗</a> **[NASA]** NASA to Brief Media on First Earth Water-Monitoring Satellite Mission
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-swot-water-survey-mission-launch" >🔗</a> **[NASA]** NASA Sets Coverage for SWOT Water Survey Mission Launch
+- <a href="https://www.teslarati.com/spacex-targeting-three-back-to-back-launches-later-this-week/" >🔗</a> **[Teslarati]** SpaceX targeting salvo of three Falcon 9 launches this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T183617">2022-12-14 18:36:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221214T190531">2022-12-14 19:05:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
