@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/soyuz-leak-cancels-space-station-spacewalk/" >🔗</a> **[SpaceNews]** Soyuz leak cancels space station spacewalk
 - <a href="https://spaceflightnow.com/2022/12/15/spacewalk-canceled-after-coolant-leak-from-russian-soyuz-spacecraft/" >🔗</a> **[Spaceflight Now]** Russian engineers assessing leak from Soyuz crew spacecraft
 - <a href="https://arstechnica.com/science/2022/12/a-russian-spacecraft-started-leaking-uncontrollably-on-monday-night/" >🔗</a> **[Arstechnica]** A Russian spacecraft started leaking uncontrollably on Wednesday night
 - <a href="https://www.nasaspaceflight.com/2022/12/falcon-9-swot/" >🔗</a> **[NASASpaceflight]** SpaceX delays Falcon 9 launch of SWOT ocean research mission
 - <a href="https://spacenews.com/microsoft-and-viasat-partner-to-expand-global-connectivity-access/" >🔗</a> **[SpaceNews]** Microsoft and Viasat partner to expand global connectivity access
-- <a href="https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/" >🔗</a> **[SpaceNews]** NASA and Rocket Lab ready for first Electron launch from Wallops
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T121244">2022-12-15 12:12:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221215T125415">2022-12-15 12:54:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
