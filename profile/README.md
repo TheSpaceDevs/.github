@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2022/12/16/maxar-selling-to-private-equity-investors-advent-bci.html" >🔗</a> **[CNBC]** Space company Maxar agrees to go private in $6.4 billion deal 
 - <a href="http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water" >🔗</a> **[NASA]** NASA Launches International Mission to Survey Earth’s Water
 - <a href="https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/" >🔗</a> **[SpaceNews]** Falcon 9 launches ocean science mission for NASA and CNES
 - <a href="https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/" >🔗</a> **[SpaceNews]** Maxar Technologies acquired by private equity firm in $6.4 billion deal
 - <a href="https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/" >🔗</a> **[Arstechnica]** Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut
-- <a href="https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/" >🔗</a> **[SpaceNews]** China completes seventh space launch inside 10 days
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T143135">2022-12-16 14:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T150751">2022-12-16 15:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
