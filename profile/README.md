@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/" >🔗</a> **[SpaceNews]** China completes seventh space launch inside 10 days
 - <a href="https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/" >🔗</a> **[SpaceNews]** EOI Space forges equity and sales pact with Japan’s NTT Data
 - <a href="https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/" >🔗</a> **[SpaceNews]** Space acquisition chief: DoD will buy small satellites, at fixed prices
 - <a href="https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/" >🔗</a> **[SpaceNews]** Arqit drops plan to operate quantum encryption satellites
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations" >🔗</a> **[NASA]** NASA Awards Contract to Maintain Webb Telescope Operations
-- <a href="http://www.nasa.gov/press-release/nasa-ast-science-sign-joint-spaceflight-safety-agreement" >🔗</a> **[NASA]** NASA, AST & Science Sign Joint Spaceflight Safety Agreement
 
 
 ### Launch-related News 🚀
@@ -109,11 +109,12 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-targeting-three-back-to-back-launches-later-this-week/" >🔗</a> **[Teslarati]** SpaceX targeting salvo of three Falcon 9 launches this week
 - <a href="https://www.nasaspaceflight.com/2022/12/falcon-9-swot/" >🔗</a> **[NASASpaceflight]** SpaceX targeting Friday morning launch of SWOT ocean research mission
 - <a href="https://spaceflightnow.com/2022/12/14/spacex-launch-from-california-delayed-to-review-engine-data/" >🔗</a> **[Spaceflight Now]** SpaceX launch from California delayed to review engine data
+- <a href="https://spaceflightnow.com/2022/12/15/satellite-to-take-pulse-of-earths-water-cycle-ready-for-launch-on-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Satellite to take pulse of Earth’s water cycle ready for launch on SpaceX rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T093142">2022-12-16 09:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T100705">2022-12-16 10:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
