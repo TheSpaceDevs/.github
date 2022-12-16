@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-launches-international-mission-to-survey-earth-s-water" >🔗</a> **[NASA]** NASA Launches International Mission to Survey Earth’s Water
+- <a href="https://spacenews.com/falcon-9-launches-ocean-science-mission-for-nasa-and-cnes/" >🔗</a> **[SpaceNews]** Falcon 9 launches ocean science mission for NASA and CNES
+- <a href="https://spacenews.com/maxar-technologies-acquired-by-private-equity-firm-in-6-4-billion-deal/" >🔗</a> **[SpaceNews]** Maxar Technologies acquired by private equity firm in $6.4 billion deal
 - <a href="https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/" >🔗</a> **[Arstechnica]** Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut
 - <a href="https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/" >🔗</a> **[SpaceNews]** China completes seventh space launch inside 10 days
-- <a href="https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/" >🔗</a> **[SpaceNews]** EOI Space forges equity and sales pact with Japan’s NTT Data
-- <a href="https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/" >🔗</a> **[SpaceNews]** Space acquisition chief: DoD will buy small satellites, at fixed prices
-- <a href="https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/" >🔗</a> **[SpaceNews]** Arqit drops plan to operate quantum encryption satellites
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T131122">2022-12-16 13:11:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T133229">2022-12-16 13:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
