@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/rocket-report-spacex-may-launch-twice-in-18-minutes-the-us-electron-is-nigh/" >🔗</a> **[Arstechnica]** Rocket Report: Meet the Blue Origin Space Rangers; methane rocket fails in debut
 - <a href="https://spacenews.com/china-completes-seventh-space-launch-inside-10-days/" >🔗</a> **[SpaceNews]** China completes seventh space launch inside 10 days
 - <a href="https://spacenews.com/eoi-space-forges-equity-and-sales-pact-with-japans-ntt-data/" >🔗</a> **[SpaceNews]** EOI Space forges equity and sales pact with Japan’s NTT Data
 - <a href="https://spacenews.com/space-acquisition-chief-dod-will-buy-small-satellites-at-fixed-prices/" >🔗</a> **[SpaceNews]** Space acquisition chief: DoD will buy small satellites, at fixed prices
 - <a href="https://spacenews.com/arqit-drops-plan-to-operate-quantum-encryption-satellites/" >🔗</a> **[SpaceNews]** Arqit drops plan to operate quantum encryption satellites
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-maintain-webb-telescope-operations" >🔗</a> **[NASA]** NASA Awards Contract to Maintain Webb Telescope Operations
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T121119">2022-12-16 12:11:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221216T124903">2022-12-16 12:49:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
