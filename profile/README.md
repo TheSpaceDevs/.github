@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/" >🔗</a> **[SpaceNews]** NASA postpones spacewalk to support Soyuz investigation
 - <a href="https://spacenews.com/venturescope-refinery/" >🔗</a> **[SpaceNews]** VentureScope sets up accelerator for U.S. Air Force personnel
 - <a href="https://spacenews.com/white-house-revamps-membership-of-national-space-council-advisory-group/" >🔗</a> **[SpaceNews]** White House revamps membership of National Space Council advisory group
 - <a href="https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/" >🔗</a> **[NASASpaceflight]** SpaceX launches first of two missions from Florida in two days
 - <a href="https://arstechnica.com/science/2022/12/heres-what-we-know-and-what-we-dont-about-the-damaged-soyuz-spacecraft/" >🔗</a> **[Arstechnica]** Here’s what we know, and what we don’t, about the damaged Soyuz spacecraft
-- <a href="https://mars.nasa.gov/news/9319/" >🔗</a> **[NASA]** NASA's Perseverance Rover to Begin Building Martian Sample Depot
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T143152">2022-12-17 14:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221217T150637">2022-12-17 15:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
