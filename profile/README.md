@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/" >🔗</a> **[NASASpaceflight]** SpaceX launches second mission from Florida within two days
 - <a href="https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/" >🔗</a> **[Spaceflight Now]** SpaceX booster launches for record 15th time on Starlink mission
-- <a href="https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/" >🔗</a> **[NASASpaceflight]** SpaceX to launch second mission from Florida within two days
 - <a href="https://spacenews.com/nasa-postpones-spacewalk-to-support-soyuz-investigation/" >🔗</a> **[SpaceNews]** NASA postpones spacewalk to support Soyuz investigation
+- <a href="https://spacenews.com/perseverance-prepares-to-deposit-mars-sample-cache/" >🔗</a> **[SpaceNews]** Perseverance prepares to deposit Mars sample cache
 - <a href="https://spacenews.com/venturescope-refinery/" >🔗</a> **[SpaceNews]** VentureScope sets up accelerator for U.S. Air Force personnel
-- <a href="https://spacenews.com/white-house-revamps-membership-of-national-space-council-advisory-group/" >🔗</a> **[SpaceNews]** White House revamps membership of National Space Council advisory group
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T030705">2022-12-18 03:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T033148">2022-12-18 03:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
