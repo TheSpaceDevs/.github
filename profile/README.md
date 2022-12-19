@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation" >🔗</a> **[NASA]** NASA to Air Live Coverage of US Spacewalk for Solar Array Installation
 - <a href="https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/" >🔗</a> **[NASASpaceflight]** With Hubble and Spitzer, researchers discover water-filled exoplanets
 - <a href="https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/" >🔗</a> **[Arstechnica]** Russia says it will take no immediate action on damaged Soyuz spacecraft
 - <a href="https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/" >🔗</a> **[SpaceNews]** South Korean spacecraft enters lunar orbit with deceleration maneuver
 - <a href="https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/" >🔗</a> **[Teslarati]** SpaceX aces three Falcon 9 launches in 34 hours
-- <a href="https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/" >🔗</a> **[SpaceNews]** L3Harris to acquire Aerojet Rocketdyne for $4.7 billion
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T203152">2022-12-19 20:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T210628">2022-12-19 21:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
