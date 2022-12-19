@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/" >🔗</a> **[Teslarati]** SpaceX aces three Falcon 9 launches in 34 hours
 - <a href="https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/" >🔗</a> **[SpaceNews]** L3Harris to acquire Aerojet Rocketdyne for $4.7 billion
 - <a href="https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/" >🔗</a> **[SpaceNews]** NASA signs spaceflight safety agreement with AST SpaceMobile
 - <a href="https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Upper level winds scrub first Electron launch from American soil
 - <a href="https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/" >🔗</a> **[NASASpaceflight]** SpaceX launches second mission from Florida within two days
-- <a href="https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/" >🔗</a> **[Spaceflight Now]** SpaceX booster launches for record 15th time on Starlink mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T103603">2022-12-19 10:36:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T110514">2022-12-19 11:05:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
