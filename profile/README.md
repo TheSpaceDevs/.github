@@ -52,6 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T000000">2023-01-09 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T000000Z%2F20230109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-67** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T000000">2023-01-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV06&location=Cape Canaveral, FL, USA&dates=20230118T000000Z%2F20230118T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV06** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -87,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/" >🔗</a> **[SpaceNews]** L3Harris to acquire Aerojet Rocketdyne for $4.7 billion
 - <a href="https://spacenews.com/nasa-signs-spaceflight-safety-agreement-with-ast-spacemobile/" >🔗</a> **[SpaceNews]** NASA signs spaceflight safety agreement with AST SpaceMobile
 - <a href="https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Rocket Lab Electron ready to make first launch from American soil
 - <a href="https://www.nasaspaceflight.com/2022/12/o3b-mpower-starlink-4-37/" >🔗</a> **[NASASpaceflight]** SpaceX launches second mission from Florida within two days
 - <a href="https://spaceflightnow.com/2022/12/17/falcon-9-starlink-4-37-launch/" >🔗</a> **[Spaceflight Now]** SpaceX booster launches for record 15th time on Starlink mission
-- <a href="https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/" >🔗</a> **[Spaceflight Now]** FAA clears Rocket Lab for first launch from U.S. spaceport
 
 
 ### Launch-related News 🚀
@@ -103,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221218T233144">2022-12-18 23:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T003104">2022-12-19 00:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
