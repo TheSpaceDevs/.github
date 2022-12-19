@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/" >🔗</a> **[SpaceNews]** SpaceX preparing to start Starlink Gen2 launches this month
 - <a href="http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation" >🔗</a> **[NASA]** NASA to Air Live Coverage of US Spacewalk for Solar Array Installation
 - <a href="https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/" >🔗</a> **[NASASpaceflight]** With Hubble and Spitzer, researchers discover water-filled exoplanets
 - <a href="https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/" >🔗</a> **[Arstechnica]** Russia says it will take no immediate action on damaged Soyuz spacecraft
 - <a href="https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/" >🔗</a> **[SpaceNews]** South Korean spacecraft enters lunar orbit with deceleration maneuver
-- <a href="https://www.teslarati.com/spacex-three-falcon-9-launches-34-hours-dec-2022/" >🔗</a> **[Teslarati]** SpaceX aces three Falcon 9 launches in 34 hours
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T213157">2022-12-19 21:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T220603">2022-12-19 22:06:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
