@@ -51,7 +51,6 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T145500">2023-01-02 14:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20230102T145500Z%2F20230102T145500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T000000">2023-01-09 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T000000Z%2F20230109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-67** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T000000">2023-01-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230110T000000Z%2F20230110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T000000">2023-01-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV06&location=Cape Canaveral, FL, USA&dates=20230118T000000Z%2F20230118T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV06** from Cape Canaveral, FL, USA.
 
 
@@ -88,11 +87,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/" >🔗</a> **[Teslarati]** SpaceX’s Starlink satellite internet surpasses one million active users
 - <a href="https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/" >🔗</a> **[SpaceNews]** SpaceX preparing to start Starlink Gen2 launches this month
 - <a href="http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation" >🔗</a> **[NASA]** NASA to Air Live Coverage of US Spacewalk for Solar Array Installation
 - <a href="https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/" >🔗</a> **[NASASpaceflight]** With Hubble and Spitzer, researchers discover water-filled exoplanets
 - <a href="https://arstechnica.com/science/2022/12/russia-says-it-will-take-no-immediate-action-on-damaged-soyuz-spacecraft/" >🔗</a> **[Arstechnica]** Russia says it will take no immediate action on damaged Soyuz spacecraft
-- <a href="https://spacenews.com/south-korean-spacecraft-enters-lunar-orbit-with-deceleration-maneuver/" >🔗</a> **[SpaceNews]** South Korean spacecraft enters lunar orbit with deceleration maneuver
 
 
 ### Launch-related News 🚀
@@ -103,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T083541">2022-12-20 08:35:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T090736">2022-12-20 09:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
