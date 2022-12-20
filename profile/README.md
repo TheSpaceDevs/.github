@@ -87,11 +87,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/" >🔗</a> **[Arstechnica]** NASA’s InSight lander has probably phoned home for the last time
 - <a href="https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/" >🔗</a> **[SpaceNews]** Fiscal year 2023 omnibus bill provides $25.4 billion for NASA
 - <a href="https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/" >🔗</a> **[Teslarati]** SpaceX’s Starlink satellite internet surpasses one million active users
 - <a href="https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/" >🔗</a> **[SpaceNews]** SpaceX preparing to start Starlink Gen2 launches this month
 - <a href="http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-us-spacewalk-for-solar-array-installation" >🔗</a> **[NASA]** NASA to Air Live Coverage of US Spacewalk for Solar Array Installation
-- <a href="https://www.nasaspaceflight.com/2022/12/kepler-138-water-worlds/" >🔗</a> **[NASASpaceflight]** With Hubble and Spitzer, researchers discover water-filled exoplanets
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T160920">2022-12-20 16:09:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T164330">2022-12-20 16:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
