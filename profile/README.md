@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Virginia is for Launch Lovers**. It is scheduled to be launched by *Rocket Lab Ltd*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Island, Virginia, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T230000">2022-12-20 23:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 73 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+**Vega-C | Pléiades Neo 5 & 6**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1</a>, Kourou, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T014700">2022-12-21 01:47:00 UTC</a>.  Until
+then, this pad will have been used for 47
+out of 316 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Government/Top Secret* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Rideshare mission with 3 HawkEye 360 satellites and other payloads.
+  Pléiades Neo 5 and 6 are the last two in a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg" />
   </a>
-  <a href="None" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg"  />
+  <a href="https://www.google.com/maps/?q=5.239,-52.775" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T230000">2022-12-20 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20221220T230000Z%2F20221221T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Virginia is for Launch Lovers** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T014700">2022-12-21 01:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Pléiades Neo 5 &amp; 6&location=Kourou, French Guiana&dates=20221221T014700Z%2F20221221T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Pléiades Neo 5 & 6** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T100000">2022-12-28 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-1&location=Cape Canaveral, FL, USA&dates=20221228T100000Z%2F20221228T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T065800">2022-12-29 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EROS-C3&location=Vandenberg SFB, CA, USA&dates=20221229T065800Z%2F20221229T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EROS-C3** from Vandenberg SFB, CA, USA.
@@ -98,16 +97,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission
-- <a href="https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/" >🔗</a> **[SpaceNews]** HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil
-- <a href="https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/" >🔗</a> **[SpaceNews]** NASA and Rocket Lab ready for first Electron launch from Wallops
-- <a href="https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Upper level winds scrub first Electron launch from American soil
-- <a href="https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/" >🔗</a> **[Spaceflight Now]** FAA clears Rocket Lab for first launch from U.S. spaceport
+- <a href="https://spacenews.com/final-two-pleiades-neo-imagery-satellites-land-in-french-guiana/" >🔗</a> **[SpaceNews]** Final two Pléiades Neo imagery satellites land in French Guiana
+- <a href="https://spacenews.com/equipment-defect-delays-first-commercial-vega-c-flight/" >🔗</a> **[SpaceNews]** Equipment defect delays first commercial Vega C flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221219T233153">2022-12-19 23:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221220T003523">2022-12-20 00:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
