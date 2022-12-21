@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-orbit-receives-license-for-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit receives license for U.K. launch
 - <a href="https://spacenews.com/omnibus-includes-budget-increases-for-office-of-space-commerce-and-faa-commercial-space-office/" >🔗</a> **[SpaceNews]** Omnibus includes budget increases for Office of Space Commerce and FAA commercial space office
 - <a href="https://spaceflightnow.com/2022/12/21/two-pleiades-neo-earth-imaging-satellites-lost-in-failure-of-europes-vega-c-rocket/" >🔗</a> **[Spaceflight Now]** Two Pléiades Neo Earth-imaging satellites lost in failure of Europe’s Vega C rocket
 - <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-sentinel-6b-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Sentinel-6B Mission
 - <a href="https://www.nasaspaceflight.com/2022/12/vega-c-vv22/" >🔗</a> **[NASASpaceflight]** Arianespace suffers failure on first operational Vega-C mission
-- <a href="https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/" >🔗</a> **[Arstechnica]** After a long struggle with Martian dust, NASA’s InSight probe has gone quiet
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T131333">2022-12-21 13:13:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T133308">2022-12-21 13:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
