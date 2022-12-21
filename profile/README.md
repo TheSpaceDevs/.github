@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-declares-end-of-insight-mars-mission/" >🔗</a> **[SpaceNews]** NASA declares end of InSight Mars mission
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-media-briefing-on-space-station-spacecraft-leak-probe" >🔗</a> **[NASA]** NASA to Host Media Briefing on Space Station Spacecraft Leak Probe
 - <a href="http://www.nasa.gov/press-release/nasa-retires-insight-mars-lander-mission-after-years-of-science" >🔗</a> **[NASA]** NASA Retires InSight Mars Lander Mission After Years of Science
 - <a href="https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/" >🔗</a> **[NASASpaceflight]** Debris avoidance maneuver delays spacewalk to install fourth iROSA
 - <a href="https://spacenews.com/virgin-orbit-receives-license-for-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit receives license for U.K. launch
-- <a href="https://spacenews.com/omnibus-includes-budget-increases-for-office-of-space-commerce-and-faa-commercial-space-office/" >🔗</a> **[SpaceNews]** Omnibus includes budget increases for Office of Space Commerce and FAA commercial space office
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T173143">2022-12-21 17:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T180805">2022-12-21 18:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
