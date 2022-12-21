@@ -87,7 +87,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-sentinel-6b-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Sentinel-6B Mission
-- <a href="https://www.nasaspaceflight.com/2022/12/vega-c-vv22/" >🔗</a> **[NASASpaceflight]** Arianespace to launch first operational Vega-C with two Earth observation satellites
+- <a href="https://www.nasaspaceflight.com/2022/12/vega-c-vv22/" >🔗</a> **[NASASpaceflight]** Arianespace suffers failure on first operational Vega-C mission
 - <a href="https://arstechnica.com/science/2022/12/nasas-insight-lander-has-probably-phoned-home-for-the-last-time/" >🔗</a> **[Arstechnica]** After a long struggle with Martian dust, NASA’s InSight probe has gone quiet
 - <a href="https://spacenews.com/fiscal-year-2023-omnibus-bill-provides-25-4-billion-for-nasa/" >🔗</a> **[SpaceNews]** Fiscal year 2023 omnibus bill provides $25.4 billion for NASA
 - <a href="https://www.teslarati.com/spacex-starlink-one-million-subscriber-milestone/" >🔗</a> **[Teslarati]** SpaceX’s Starlink satellite internet surpasses one million active users
@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T020302">2022-12-21 02:03:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221221T024517">2022-12-21 02:45:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
