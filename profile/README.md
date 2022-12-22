@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/12/22/iss-eva-83/" >🔗</a> **[Spaceflight Now]** Watch live: Spacewalk begins outside space station after debris threat
 - <a href="https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/" >🔗</a> **[SpaceNews]** China sets out clear and independent long-term vision for space
+- <a href="https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/" >🔗</a> **[NASASpaceflight]** US spacewalk underway to install fourth iROSA after debris avoidance maneuver
 - <a href="https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Independent panel to investigate Vega C launch failure
 - <a href="https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation
-- <a href="https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/" >🔗</a> **[Spaceflight Now]** NASA’s InSight lander bows out after ground-shaking Mars mission
-- <a href="https://mars.nasa.gov/news/9323/" >🔗</a> **[NASA]** NASA's Perseverance Rover Deposits First Sample on Mars Surface
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T143129">2022-12-22 14:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T150714">2022-12-22 15:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
