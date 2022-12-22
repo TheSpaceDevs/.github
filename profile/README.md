@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation
 - <a href="https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/" >🔗</a> **[Spaceflight Now]** NASA’s InSight lander bows out after ground-shaking Mars mission
 - <a href="https://mars.nasa.gov/news/9323/" >🔗</a> **[NASA]** NASA's Perseverance Rover Deposits First Sample on Mars Surface
 - <a href="https://spacenews.com/walking-a-narrow-beam-laser-links-are-great-for-satellite-relay-but-challenges-abound-for-taking-it-to-ground/" >🔗</a> **[SpaceNews]** Laser links are great for satellite relay, but challenges abound for taking it to ground
 - <a href="https://www.nasaspaceflight.com/2022/12/terran-testing/" >🔗</a> **[NASASpaceflight]** Terran 1 and Terran R testing in full swing before Relativity’s debut
-- <a href="https://spacenews.com/nasa-declares-end-of-insight-mars-mission/" >🔗</a> **[SpaceNews]** NASA declares end of InSight Mars mission
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T103429">2022-12-22 10:34:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T110521">2022-12-22 11:05:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
