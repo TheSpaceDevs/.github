@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-tests-space-solar-power/" >🔗</a> **[SpaceNews]** Northrop Grumman demonstrates key technology for space-based solar power
+- <a href="https://spacenews.com/south-korean-pharma-invests-50-million-in-axiom-space/" >🔗</a> **[SpaceNews]** South Korean pharma invests $50 million in Axiom Space
 - <a href="https://spacenews.com/studies-flag-environmental-impact-of-reentry/" >🔗</a> **[SpaceNews]** Studies flag environmental impact of reentry
 - <a href="https://spaceflightnow.com/2022/12/22/iss-eva-83/" >🔗</a> **[Spaceflight Now]** Watch live: Spacewalk begins outside space station after debris threat
 - <a href="https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/" >🔗</a> **[SpaceNews]** China sets out clear and independent long-term vision for space
-- <a href="https://www.nasaspaceflight.com/2022/12/irosa-eva-dec-3/" >🔗</a> **[NASASpaceflight]** US spacewalk underway to install fourth iROSA after debris avoidance maneuver
-- <a href="https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Independent panel to investigate Vega C launch failure
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T173141">2022-12-22 17:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T180815">2022-12-22 18:08:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
