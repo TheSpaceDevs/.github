@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-sets-out-clear-and-independent-long-term-vision-for-space/" >🔗</a> **[SpaceNews]** China sets out clear and independent long-term vision for space
+- <a href="https://spacenews.com/independent-panel-to-investigate-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Independent panel to investigate Vega C launch failure
 - <a href="https://spacenews.com/terran-orbital-delivers-10-satellite-buses-to-lockheed-martin-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Terran Orbital delivers 10 satellite buses to Lockheed Martin for U.S. military constellation
 - <a href="https://spaceflightnow.com/2022/12/21/nasas-insight-lander-bows-out-after-ground-shaking-mars-mission/" >🔗</a> **[Spaceflight Now]** NASA’s InSight lander bows out after ground-shaking Mars mission
 - <a href="https://mars.nasa.gov/news/9323/" >🔗</a> **[NASA]** NASA's Perseverance Rover Deposits First Sample on Mars Surface
-- <a href="https://spacenews.com/walking-a-narrow-beam-laser-links-are-great-for-satellite-relay-but-challenges-abound-for-taking-it-to-ground/" >🔗</a> **[SpaceNews]** Laser links are great for satellite relay, but challenges abound for taking it to ground
-- <a href="https://www.nasaspaceflight.com/2022/12/terran-testing/" >🔗</a> **[NASASpaceflight]** Terran 1 and Terran R testing in full swing before Relativity’s debut
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T131338">2022-12-22 13:13:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T133412">2022-12-22 13:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
