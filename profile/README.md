@@ -96,11 +96,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/spacex-preparing-to-start-starlink-gen2-launches-this-month/" >🔗</a> **[SpaceNews]** SpaceX preparing to start Starlink Gen2 launches this month
+- <a href="https://www.teslarati.com/spacex-first-starlink-gen2-satellite-launch-2022/" >🔗</a> **[Teslarati]** SpaceX might launch first Starlink Gen2 satellites next week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T093143">2022-12-22 09:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T100701">2022-12-22 10:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
