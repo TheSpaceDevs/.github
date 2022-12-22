@@ -85,7 +85,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/northrop-grumman-tests-space-solar-power/" >🔗</a> **[SpaceNews]** Northrop Grumman demonstrates key technology for space-based solar power
+- <a href="https://spacenews.com/northrop-grumman-tests-space-solar-power/" >🔗</a> **[SpaceNews]** Northrop Grumman clears key hurdle for space-based solar power
 - <a href="https://spacenews.com/south-korean-pharma-invests-50-million-in-axiom-space/" >🔗</a> **[SpaceNews]** South Korean pharma invests $50 million in Axiom Space
 - <a href="https://spacenews.com/studies-flag-environmental-impact-of-reentry/" >🔗</a> **[SpaceNews]** Studies flag environmental impact of reentry
 - <a href="https://spaceflightnow.com/2022/12/22/iss-eva-83/" >🔗</a> **[Spaceflight Now]** Watch live: Spacewalk begins outside space station after debris threat
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T183541">2022-12-22 18:35:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221222T190412">2022-12-22 19:04:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
