@@ -88,9 +88,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://mars.nasa.gov/news/9326/" >🔗</a> **[NASA]** NASA Explores a Winter Wonderland on Mars
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-aircraft-support-services" >🔗</a> **[NASA]** NASA Awards Contract for Aircraft Support Services
-- <a href="https://spacenews.com/nasa-request-information-on-hubble-reboost-options/" >🔗</a> **[SpaceNews]** NASA request information on Hubble reboost options
 - <a href="https://spacenews.com/eutelsat-taking-financial-hit-from-tv-sanctions-against-russia-and-iran/" >🔗</a> **[SpaceNews]** Eutelsat taking financial hit from TV sanctions against Russia and Iran
 - <a href="https://spacenews.com/northrop-grumman-tests-space-solar-power/" >🔗</a> **[SpaceNews]** Northrop Grumman clears key hurdle for space-based solar power
+- <a href="https://spacenews.com/south-korean-pharma-invests-50-million-in-axiom-space/" >🔗</a> **[SpaceNews]** South Korean pharma invests $50 million in Axiom Space
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T093134">2022-12-23 09:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221223T100658">2022-12-23 10:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
