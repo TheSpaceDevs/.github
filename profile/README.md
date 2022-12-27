@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/spacex-starlink-5-1-launch/" >🔗</a> **[NASASpaceflight]** SpaceX begins launching Starlink second generation constellation
 - <a href="https://spacenews.com/introducing-magnestar/" >🔗</a> **[SpaceNews]** Magnestar creates platform to predict RF interference
 - <a href="https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/" >🔗</a> **[Teslarati]** SpaceX’s first “next-gen” Starlink satellites are suspiciously familiar
 - <a href="https://spacenews.com/congress-adds-1-7-billion-for-u-s-space-force-in-2023-spending-bill/" >🔗</a> **[SpaceNews]** Congress adds $1.7 billion for U.S. Space Force in 2023 spending bill
 - <a href="https://spacenews.com/senate-passes-orbit-debris-cleanup-bill/" >🔗</a> **[SpaceNews]** Senate passes orbit debris cleanup bill
-- <a href="https://www.nasaspaceflight.com/2022/12/iss-2022-roundup/" >🔗</a> **[NASASpaceflight]** New spacecraft, new firsts, new hardware – International Space Station wraps up a busy and historic 2022
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T213154">2022-12-27 21:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221227T220606">2022-12-27 22:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
