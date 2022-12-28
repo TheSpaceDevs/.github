@@ -87,11 +87,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/russia-ambitious-2023/" >🔗</a> **[NASASpaceflight]** Russian space program facing challenges ahead of ambitious 2023
 - <a href="https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/" >🔗</a> **[SpaceNews]** Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing
 - <a href="https://spacenews.com/nasa-made-sole-source-award-for-space-station-spacesuit/" >🔗</a> **[SpaceNews]** NASA made sole-source award for space station spacesuit
 - <a href="https://arstechnica.com/science/2022/12/top-us-launch-companies-of-2022-the-ars-technica-power-ranking/" >🔗</a> **[Arstechnica]** Top US launch companies of 2022—The Ars Technica power ranking
 - <a href="https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches first mission for Starlink Gen2 constellation
-- <a href="https://www.teslarati.com/spacex-aces-60th-orbital-launch-of-2022/" >🔗</a> **[Teslarati]** SpaceX aces 60th orbital launch of 2022
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T213141">2022-12-28 21:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T220559">2022-12-28 22:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
