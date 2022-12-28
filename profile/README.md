@@ -88,11 +88,11 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/12/top-us-launch-companies-of-2022-the-ars-technica-power-ranking/" >🔗</a> **[Arstechnica]** Top US launch companies of 2022—The Ars Technica power ranking
 - <a href="https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches first mission for Starlink Gen2 constellation
 - <a href="https://www.teslarati.com/spacex-aces-60th-orbital-launch-of-2022/" >🔗</a> **[Teslarati]** SpaceX aces 60th orbital launch of 2022
 - <a href="https://www.nasaspaceflight.com/2022/12/spacex-starlink-5-1-launch/" >🔗</a> **[NASASpaceflight]** SpaceX begins launching Starlink second generation constellation
 - <a href="https://spacenews.com/introducing-magnestar/" >🔗</a> **[SpaceNews]** Magnestar creates platform to predict RF interference
-- <a href="https://www.teslarati.com/spacex-last-starlink-launch-2022-mystery/" >🔗</a> **[Teslarati]** SpaceX’s first “next-gen” Starlink satellites are suspiciously familiar
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T131134">2022-12-28 13:11:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T133231">2022-12-28 13:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
