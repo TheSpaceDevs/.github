@@ -18,34 +18,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | EROS-C3**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T065800">2022-12-30 06:58:00 UTC</a>.  Until
-then, this pad will have been used for 99
-out of 708 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+**Long March 3B/E | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a>, Xichang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T043300">2022-12-29 04:33:00 UTC</a>.  Until
+then, this pad will have been used for 91
+out of 182 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  Israeli Earth Observation satellite with 38 cm resolution in panchromatic mode and 76 cm resolution in multi-spectral mode, covering a swath of ~12.5 km.
-
-The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IAI) for the Italian Defense Ministry.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T043300">2022-12-29 04:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20221229T043300Z%2F20221229T050800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T065800">2022-12-30 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EROS-C3&location=Vandenberg SFB, CA, USA&dates=20221230T065800Z%2F20221230T065800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EROS-C3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230102T145500">2023-01-02 14:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)&location=Cape Canaveral, FL, USA&dates=20230102T145500Z%2F20230102T145500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T000000">2023-01-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 16&location=Kennedy Space Center, FL, USA&dates=20230108T000000Z%2F20230108T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 16** from Kennedy Space Center, FL, USA.
@@ -88,11 +87,11 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/" >🔗</a> **[SpaceNews]** Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing
 - <a href="https://spacenews.com/nasa-made-sole-source-award-for-space-station-spacesuit/" >🔗</a> **[SpaceNews]** NASA made sole-source award for space station spacesuit
 - <a href="https://arstechnica.com/science/2022/12/top-us-launch-companies-of-2022-the-ars-technica-power-ranking/" >🔗</a> **[Arstechnica]** Top US launch companies of 2022—The Ars Technica power ranking
 - <a href="https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches first mission for Starlink Gen2 constellation
 - <a href="https://www.teslarati.com/spacex-aces-60th-orbital-launch-of-2022/" >🔗</a> **[Teslarati]** SpaceX aces 60th orbital launch of 2022
-- <a href="https://www.nasaspaceflight.com/2022/12/spacex-starlink-5-1-launch/" >🔗</a> **[NASASpaceflight]** SpaceX begins launching Starlink second generation constellation
 
 
 ### Launch-related News 🚀
@@ -101,7 +100,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T143146">2022-12-28 14:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221228T150633">2022-12-28 15:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
