@@ -88,11 +88,11 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/" >🔗</a> **[SpaceNews]** China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022
 - <a href="https://www.nasaspaceflight.com/2022/12/russia-ambitious-2023/" >🔗</a> **[NASASpaceflight]** Russian space program facing challenges ahead of ambitious 2023
 - <a href="https://spacenews.com/thales-alenia-space-studying-reusable-spacecraft-for-in-orbit-manufacturing/" >🔗</a> **[SpaceNews]** Thales Alenia Space studying reusable spacecraft for in-orbit manufacturing
 - <a href="https://spacenews.com/nasa-made-sole-source-award-for-space-station-spacesuit/" >🔗</a> **[SpaceNews]** NASA made sole-source award for space station spacesuit
 - <a href="https://arstechnica.com/science/2022/12/top-us-launch-companies-of-2022-the-ars-technica-power-ranking/" >🔗</a> **[Arstechnica]** Top US launch companies of 2022—The Ars Technica power ranking
-- <a href="https://spaceflightnow.com/2022/12/28/falcon-9-starlink-5-1-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches first mission for Starlink Gen2 constellation
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T121130">2022-12-29 12:11:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T124953">2022-12-29 12:49:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
