@@ -27,8 +27,8 @@ then, this pad will have been used for 99
 out of 708 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
 *Earth Science* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
   Israeli Earth Observation satellite with 38 cm resolution in panchromatic mode and 76 cm resolution in multi-spectral mode, covering a swath of ~12.5 km.
@@ -101,7 +101,7 @@ The satellite is similar to OPTSAT-3000 built by Israel Aerospace Industries (IA
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T170536">2022-12-29 17:05:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221229T173138">2022-12-29 17:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
