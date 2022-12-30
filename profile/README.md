@@ -85,11 +85,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/12/eros-c3-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch EROS-C3 observation satellite from Vandenberg
+- <a href="https://www.teslarati.com/spacex-ties-42-year-old-record-last-launch-2022/" >🔗</a> **[Teslarati]** SpaceX ties 42-year-old Soviet record with last launch of 2022
+- <a href="https://www.nasaspaceflight.com/2022/12/eros-c3-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches EROS-C3 observation satellite from Vandenberg
 - <a href="https://www.cnbc.com/2022/12/29/investing-in-space-a-year-to-forget-for-space-stocks.html" >🔗</a> **[CNBC]** Investing in Space: A year to forget for space stocks
 - <a href="https://spacenews.com/cubesat-launched-on-artemis-1-trying-to-fix-propulsion-system/" >🔗</a> **[SpaceNews]** Cubesat launched on Artemis 1 trying to fix propulsion system
 - <a href="https://spacenews.com/china-sends-second-shiyan-10-test-satellite-sent-into-orbit-with-its-final-launch-of-2022/" >🔗</a> **[SpaceNews]** China sends second Shiyan-10 test satellite sent into orbit with its final launch of 2022
-- <a href="https://spacenews.com/esa-to-hire-more-staff-after-budget-increase/" >🔗</a> **[SpaceNews]** ESA to hire more staff after budget increase
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T083359">2022-12-30 08:33:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221230T090616">2022-12-30 09:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
