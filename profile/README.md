@@ -85,11 +85,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/12/spacex-2022-2023/" >🔗</a> **[NASASpaceflight]** SpaceX will try to follow record-breaking 2022 with busier 2023
 - <a href="https://www.teslarati.com/spacex-2022-holiday-party-tiktok/" >🔗</a> **[Teslarati]** SpaceX threw its annual 2022 holiday parties and was a hit on TikTok
 - <a href="https://www.nasaspaceflight.com/2022/12/china-2023/" >🔗</a> **[NASASpaceflight]** China to launch new station modules and collaborate with Europe on science missions in 2023
 - <a href="https://www.teslarati.com/starlink-azerbaijan/" >🔗</a> **[Teslarati]** Starlink opens offices in Azerbaijan
 - <a href="https://spacenews.com/china-looks-to-build-space-partnerships-with-gulf-nations/" >🔗</a> **[SpaceNews]** China looks to build space partnerships with Gulf nations
-- <a href="https://spacenews.com/spacex-completes-record-year-with-israeli-imaging-satellite-launch/" >🔗</a> **[SpaceNews]** SpaceX completes record year with Israeli imaging satellite launch
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T183302">2022-12-31 18:33:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221231T190344">2022-12-31 19:03:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
