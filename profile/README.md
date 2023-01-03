@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-planetary-science-budget-remains-under-stress/" >🔗</a> **[SpaceNews]** NASA planetary science budget remains under stress
 - <a href="https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/" >🔗</a> **[Teslarati]** SpaceX to ring in the new year with 114-payload rideshare launch
 - <a href="https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/" >🔗</a> **[NASASpaceflight]** SpaceX ringing in 2023 with Transporter-6 rideshare mission
 - <a href="https://spaceflightnow.com/2023/01/02/space-solar-power-experiment-36-planet-earth-imaging-satellites-on-spacex-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Space solar power experiment, 36 Planet imaging satellites on SpaceX rideshare mission
 - <a href="https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/" >🔗</a> **[Spaceflight Now]** Military officials forecast 87 launches from Florida’s Space Coast in 2023
-- <a href="https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/" >🔗</a> **[SpaceNews]** Revenue shortfall causes layoffs and delays at Satellogic
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T131415">2023-01-03 13:14:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T133334">2023-01-03 13:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
