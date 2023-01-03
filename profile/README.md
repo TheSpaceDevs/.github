@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/" >🔗</a> **[Teslarati]** SpaceX kicks off 2023 with second largest rideshare launch
 - <a href="https://spacenews.com/space-force-launches-weather-imaging-cubesat-for-year-long-demonstration/" >🔗</a> **[SpaceNews]** Space Force launches weather-imaging cubesat for year-long demonstration
 - <a href="https://spacenews.com/iridium-enters-service-agreement-for-direct-to-smartphone-satellite-service/" >🔗</a> **[SpaceNews]** Iridium enters service agreement for direct-to-smartphone satellite service
 - <a href="https://spacenews.com/spacex-begins-2023-with-transporter-6-launch/" >🔗</a> **[SpaceNews]** SpaceX begins 2023 with Transporter-6 launch
 - <a href="https://arstechnica.com/science/2023/01/after-doubling-launch-record-in-2022-can-spacex-take-another-step-up-in-2023/" >🔗</a> **[Arstechnica]** After doubling launch record in 2022, can SpaceX take another step up in 2023?
-- <a href="https://spacenews.com/nasa-planetary-science-budget-remains-under-stress/" >🔗</a> **[SpaceNews]** NASA planetary science budget remains under stress
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T203139">2023-01-03 20:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T210623">2023-01-03 21:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
