@@ -91,9 +91,9 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/" >🔗</a> **[Teslarati]** SpaceX to ring in the new year with 114-payload rideshare launch
 - <a href="https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/" >🔗</a> **[NASASpaceflight]** SpaceX ringing in 2023 with Transporter-6 rideshare mission
+- <a href="https://spaceflightnow.com/2023/01/02/space-solar-power-experiment-36-planet-earth-imaging-satellites-on-spacex-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Space solar power experiment, 36 Planet imaging satellites on SpaceX rideshare mission
 - <a href="https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/" >🔗</a> **[Spaceflight Now]** Military officials forecast 87 launches from Florida’s Space Coast in 2023
 - <a href="https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/" >🔗</a> **[SpaceNews]** Revenue shortfall causes layoffs and delays at Satellogic
-- <a href="https://www.nasaspaceflight.com/2022/12/spacex-2022-2023/" >🔗</a> **[NASASpaceflight]** SpaceX will try to follow record-breaking 2022 with busier 2023
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T121148">2023-01-03 12:11:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T125313">2023-01-03 12:53:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
