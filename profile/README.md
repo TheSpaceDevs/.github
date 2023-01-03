@@ -90,10 +90,10 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2023/01/spacex-transporter-6/" >🔗</a> **[NASASpaceflight]** SpaceX ringing in 2023 with Transporter-6 rideshare mission
+- <a href="https://spaceflightnow.com/2023/01/02/military-officials-forecast-87-launches-from-floridas-space-coast-in-2023/" >🔗</a> **[Spaceflight Now]** Military officials forecast 87 launches from Florida’s Space Coast in 2023
 - <a href="https://spacenews.com/revenue-shortfall-causes-layoffs-and-delays-at-satellogic/" >🔗</a> **[SpaceNews]** Revenue shortfall causes layoffs and delays at Satellogic
 - <a href="https://www.nasaspaceflight.com/2022/12/spacex-2022-2023/" >🔗</a> **[NASASpaceflight]** SpaceX will try to follow record-breaking 2022 with busier 2023
 - <a href="https://www.teslarati.com/spacex-2022-holiday-party-tiktok/" >🔗</a> **[Teslarati]** SpaceX threw its annual 2022 holiday parties and was a hit on TikTok
-- <a href="https://spaceflightnow.com/2022/12/30/spacex-launch-of-israeli-satellite-marks-companys-61st-mission-of-2022/" >🔗</a> **[Spaceflight Now]** SpaceX launch of Israeli satellite marks company’s 61st mission of 2022
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T053138">2023-01-03 05:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T060735">2023-01-03 06:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
