@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/apollo-astronaut-walter-cunningham-dies-at-90" >🔗</a> **[NASA]** Apollo Astronaut Walter Cunningham Dies at 90
+- <a href="https://spaceflightnow.com/2023/01/03/falcon-9-transporter-6-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches 114 small satellites on first mission of 2023
 - <a href="http://www.nasa.gov/press-release/nasa-awards-space-and-earth-sciences-data-analysis-v-contract" >🔗</a> **[NASA]** NASA Awards Space and Earth Sciences Data Analysis-V Contract
 - <a href="https://www.teslarati.com/spacex-first-launch-2023-second-largest-rideshare-mission/" >🔗</a> **[Teslarati]** SpaceX kicks off 2023 with second largest rideshare launch
 - <a href="https://spacenews.com/space-force-launches-weather-imaging-cubesat-for-year-long-demonstration/" >🔗</a> **[SpaceNews]** Space Force launches weather-imaging cubesat for year-long demonstration
-- <a href="https://spacenews.com/iridium-enters-service-agreement-for-direct-to-smartphone-satellite-service/" >🔗</a> **[SpaceNews]** Iridium enters service agreement for direct-to-smartphone satellite service
-- <a href="https://spacenews.com/spacex-begins-2023-with-transporter-6-launch/" >🔗</a> **[SpaceNews]** SpaceX begins 2023 with Transporter-6 launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T223213">2023-01-03 22:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230103T230623">2023-01-03 23:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
