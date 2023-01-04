@@ -99,11 +99,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-delays-starlink-launch-after-falcon-9-static-fire/" >🔗</a> **[Teslarati]** SpaceX delays Starlink launch after Falcon 9 static fire test
+- <a href="https://www.teslarati.com/spacex-california-first-starlink-launch-2023/" >🔗</a> **[Teslarati]** SpaceX eyes West Coast for first Starlink launch of 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T093151">2023-01-04 09:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T100743">2023-01-04 10:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
