@@ -18,32 +18,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 2-4**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T025400">2023-01-09 02:54:00 UTC</a>.  Until
-then, this pad will have been used for 100
-out of 709 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+**Long March 7A | Shijian 23**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T210000">2023-01-08 21:00:00 UTC</a>.  Until
+then, this pad will have been used for 5
+out of 21 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Possible experimental Chinese High-throughput communication satellite based on the DFH-4E satellite bus; details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221009234147.png" />
+  <a href="None" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7a_image_20210311201838.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="http://maps.google.com/maps?q=19.614354,110.948863" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T210000">2023-01-08 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Shijian 23&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230108T210000Z%2F20230109T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Shijian 23** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T025400">2023-01-09 02:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20230109T025400Z%2F20230109T063800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T044500">2023-01-09 04:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 16&location=Cape Canaveral, FL, USA&dates=20230109T044500Z%2F20230109T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 16** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T220000">2023-01-09 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T220000Z%2F20230110T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
@@ -53,7 +54,6 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T010000">2023-01-25 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230125T010000Z%2F20230125T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar-7** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-3&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-2** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,13 +98,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-delays-starlink-launch-after-falcon-9-static-fire/" >🔗</a> **[Teslarati]** SpaceX delays Starlink launch after Falcon 9 static fire test
-- <a href="https://www.teslarati.com/spacex-california-first-starlink-launch-2023/" >🔗</a> **[Teslarati]** SpaceX eyes West Coast for first Starlink launch of 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T183650">2023-01-04 18:36:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230104T190625">2023-01-04 19:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
