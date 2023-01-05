@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/" >🔗</a> **[SpaceNews]** Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite
+- <a href="https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/" >🔗</a> **[SpaceNews]** NorthStar raises $35 million for debris-tracking satellites
 - <a href="https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/" >🔗</a> **[SpaceNews]** Airbus joins Starlab commercial space station project
+- <a href="https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/" >🔗</a> **[SpaceNews]** Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite
 - <a href="https://arstechnica.com/science/2023/01/so-long-richard-shelby-and-thanks-for-all-the-pork/" >🔗</a> **[Arstechnica]** So long, Richard Shelby, and thanks for all the pork
 - <a href="https://spacenews.com/space-regulatory-bootcamp/" >🔗</a> **[SpaceNews]** Bootcamp to help space startups clear regulatory hurdles
-- <a href="https://spacenews.com/china-is-expanding-its-wenchang-spaceport-to-host-commercial-and-crewed-moon-launches/" >🔗</a> **[SpaceNews]** China is expanding its Wenchang spaceport to host commercial and crewed moon launches
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T103500">2023-01-05 10:35:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T110608">2023-01-05 11:06:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
