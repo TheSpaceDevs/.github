@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T210000">2023-01-08 21:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T215000">2023-01-08 21:50:00 UTC</a>.  Until
 then, this pad will have been used for 5
 out of 21 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -44,7 +44,7 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T210000">2023-01-08 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Shijian 23&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230108T210000Z%2F20230109T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Shijian 23** from Wenchang Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T215000">2023-01-08 21:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Shijian 23&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20230108T215000Z%2F20230109T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Shijian 23** from Wenchang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T044500">2023-01-09 04:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 16&location=Cape Canaveral, FL, USA&dates=20230109T044500Z%2F20230109T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 16** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T045500">2023-01-09 04:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230109T045500Z%2F20230109T055000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T220000">2023-01-09 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Maiden Flight&location=Pacific Spaceport Complex, Alaska, USA&dates=20230109T220000Z%2F20230110T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Maiden Flight** from Pacific Spaceport Complex, Alaska, USA.
@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit preparing for first U.K. launch
 - <a href="https://spacenews.com/impulse-space-announces-first-orbital-transfer-vehicle-mission/" >🔗</a> **[SpaceNews]** Impulse Space announces first orbital transfer vehicle mission
 - <a href="https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/" >🔗</a> **[SpaceNews]** NorthStar raises $35 million for debris-tracking satellites
-- <a href="https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/" >🔗</a> **[SpaceNews]** Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite
 - <a href="https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/" >🔗</a> **[SpaceNews]** Airbus joins Starlab commercial space station project
-- <a href="https://arstechnica.com/science/2023/01/so-long-richard-shelby-and-thanks-for-all-the-pork/" >🔗</a> **[Arstechnica]** So long, Richard Shelby, and thanks for all the pork
+- <a href="https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/" >🔗</a> **[SpaceNews]** Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T131641">2023-01-05 13:16:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T133714">2023-01-05 13:37:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
