@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/" >🔗</a> **[SpaceNews]** Iridium and Qualcomm to bring satellite connectivity to smartphones this year
+- <a href="https://www.nasaspaceflight.com/2023/01/nustar-black-hole/" >🔗</a> **[NASASpaceflight]** Astronomers witness unprecedented corona formation, evolution around black hole
 - <a href="https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit preparing for first U.K. launch
 - <a href="https://spacenews.com/impulse-space-announces-first-orbital-transfer-vehicle-mission/" >🔗</a> **[SpaceNews]** Impulse Space announces first orbital transfer vehicle mission
 - <a href="https://spacenews.com/northstar-raises-35-million-for-debris-tracking-satellites/" >🔗</a> **[SpaceNews]** NorthStar raises $35 million for debris-tracking satellites
-- <a href="https://spacenews.com/airbus-joins-starlab-commercial-space-station-project/" >🔗</a> **[SpaceNews]** Airbus joins Starlab commercial space station project
-- <a href="https://spacenews.com/raytheon-selects-lockheed-martin-bus-for-u-s-space-force-missile-tracking-satellite/" >🔗</a> **[SpaceNews]** Raytheon selects Lockheed Martin bus for U.S. Space Force missile-tracking satellite
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T203211">2023-01-05 20:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230105T210603">2023-01-05 21:06:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
