@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/" >🔗</a> **[Arstechnica]** Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut
 - <a href="https://spacenews.com/independent-review-warns-of-cost-growth-on-key-earth-science-mission/" >🔗</a> **[SpaceNews]** Independent review warns of cost growth on key Earth science mission
 - <a href="https://spacenews.com/general-atomics-selected-to-build-satellite-for-afrl-cislunar-mission/" >🔗</a> **[SpaceNews]** General Atomics selected to build satellite for AFRL cislunar mission
 - <a href="https://spacenews.com/iridium-and-qualcomm-to-bring-satellite-connectivity-to-smartphones-this-year/" >🔗</a> **[SpaceNews]** Iridium and Qualcomm to bring satellite connectivity to smartphones this year
 - <a href="https://www.nasaspaceflight.com/2023/01/nustar-black-hole/" >🔗</a> **[NASASpaceflight]** Astronomers witness unprecedented corona formation, evolution around black hole
-- <a href="https://spacenews.com/virgin-orbit-preparing-for-first-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit preparing for first U.K. launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T121200">2023-01-06 12:12:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230106T125125">2023-01-06 12:51:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
