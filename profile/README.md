@@ -93,7 +93,7 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/baris-erkmen-hedron/" >🔗</a> **[SpaceNews]** Aiming for instantaneous Earth-observation data
 - <a href="https://arstechnica.com/science/2023/01/blue-origin-is-developing-a-space-tug-for-its-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Some details have emerged about Blue Origin’s “Blue Ring” project
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-spacex-cargo-craft-station-departure" >🔗</a> **[NASA]** NASA to Provide Live Coverage of SpaceX Cargo Craft Station Departure
-- <a href="https://spacenews.com/nasa-faces-budget-crunch-for-extended-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA faces budget crunch for extended Earth science missions
+- <a href="https://spaceflightnow.com/2023/01/06/florida-starship-launch-pad-construction-ramps-up-with-arrival-of-chopsticks-carriage/" >🔗</a> **[Spaceflight Now]** Florida Starship pad construction ramps up with arrival of chopsticks carriage
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T143141">2023-01-07 14:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230107T150555">2023-01-07 15:05:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
