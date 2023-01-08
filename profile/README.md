@@ -90,10 +90,10 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/defunct-nasa-satellite-to-reenter/" >🔗</a> **[SpaceNews]** Defunct NASA satellite to reenter
+- <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
 - <a href="https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/" >🔗</a> **[SpaceNews]** Delta throws down the gauntlet with free Wi-Fi plan
 - <a href="https://spacenews.com/baris-erkmen-hedron/" >🔗</a> **[SpaceNews]** Aiming for instantaneous Earth-observation data
 - <a href="https://arstechnica.com/science/2023/01/blue-origin-is-developing-a-space-tug-for-its-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Some details have emerged about Blue Origin’s “Blue Ring” project
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-spacex-cargo-craft-station-departure" >🔗</a> **[NASA]** NASA to Provide Live Coverage of SpaceX Cargo Craft Station Departure
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T073142">2023-01-08 07:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230108T080813">2023-01-08 08:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
