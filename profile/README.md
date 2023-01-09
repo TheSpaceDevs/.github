@@ -91,9 +91,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit ready for first U.K. launch
 - <a href="https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/" >🔗</a> **[SpaceNews]** SpaceX gearing up for Falcon Heavy’s second national security launch
+- <a href="https://www.teslarati.com/spacex-starship-orbital-launch-mount-stress-testing/" >🔗</a> **[Teslarati]** Elon Musk: SpaceX’s first orbital Starship launch “highly likely” in Q1 2023
 - <a href="https://spacenews.com/defunct-nasa-satellite-to-reenter/" >🔗</a> **[SpaceNews]** Defunct NASA satellite to reenter
 - <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
-- <a href="https://spacenews.com/delta-airlines-throws-down-the-gauntlet-with-free-wi-fi-plan/" >🔗</a> **[SpaceNews]** Delta throws down the gauntlet with free Wi-Fi plan
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T063701">2023-01-09 06:37:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T070647">2023-01-09 07:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
