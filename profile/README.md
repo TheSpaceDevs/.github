@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/goes-18-becomes-goes-west/" >🔗</a> **[SpaceNews]** NOAA declares GOES-18 operational ahead of schedule
 - <a href="http://www.nasa.gov/press-release/nasa-names-new-agency-wide-chief-technologist" >🔗</a> **[NASA]** NASA Names New Agency-Wide Chief Technologist
 - <a href="https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/" >🔗</a> **[NASASpaceflight]** Virgin Orbit to conduct first mission from the UK with Start Me Up
 - <a href="https://arstechnica.com/science/2023/01/the-first-orbital-launch-from-western-europe-could-happen-tonight/" >🔗</a> **[Arstechnica]** Virgin Orbit says it is ready to make history in the United Kingdom tonight
 - <a href="https://spacenews.com/rogue-space-hires-sustainability-expert-to-advocate-for-startup-friendly-policies/" >🔗</a> **[SpaceNews]** Rogue Space hires sustainability expert to advocate for startup-friendly policies
-- <a href="https://spacenews.com/chinas-tianwen-1-mars-orbiter-and-rover-appear-to-be-in-trouble/" >🔗</a> **[SpaceNews]** China’s Tianwen-1 Mars orbiter and rover appear to be in trouble
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T183642">2023-01-09 18:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T190525">2023-01-09 19:05:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
