@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket rolls out for first launch of 2023
+- <a href="http://www.nasa.gov/press-release/nasa-selects-experimental-space-technology-concepts-for-initial-study" >🔗</a> **[NASA]** NASA Selects Experimental Space Technology Concepts for Initial Study
+- <a href="https://spacenews.com/space-force-looking-to-extend-laser-communications-to-satellites-in-higher-orbits/" >🔗</a> **[SpaceNews]** Space Force looking to extend laser communications to satellites in higher orbits
 - <a href="https://spacenews.com/goes-18-becomes-goes-west/" >🔗</a> **[SpaceNews]** NOAA declares GOES-18 operational ahead of schedule
 - <a href="http://www.nasa.gov/press-release/nasa-names-new-agency-wide-chief-technologist" >🔗</a> **[NASA]** NASA Names New Agency-Wide Chief Technologist
-- <a href="https://www.nasaspaceflight.com/2023/01/virgin-orbit-start-me-up/" >🔗</a> **[NASASpaceflight]** Virgin Orbit to conduct first mission from the UK with Start Me Up
-- <a href="https://arstechnica.com/science/2023/01/the-first-orbital-launch-from-western-europe-could-happen-tonight/" >🔗</a> **[Arstechnica]** Virgin Orbit says it is ready to make history in the United Kingdom tonight
-- <a href="https://spacenews.com/rogue-space-hires-sustainability-expert-to-advocate-for-startup-friendly-policies/" >🔗</a> **[SpaceNews]** Rogue Space hires sustainability expert to advocate for startup-friendly policies
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T203314">2023-01-09 20:33:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T210627">2023-01-09 21:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
