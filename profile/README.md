@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX Dragon cargo capsule set to depart space station
+- <a href="https://spaceflightnow.com/2023/01/09/spacex-crs-26-undocking/" >🔗</a> **[Spaceflight Now]** SpaceX cargo capsule undocks from space station, heads for splashdown
+- <a href="https://spacenews.com/european-firms-partner-for-leo-collision-avoidance-demo/" >🔗</a> **[SpaceNews]** European firms partner for LEO collision avoidance demo
+- <a href="https://spacenews.com/cubespark-constellation/" >🔗</a> **[SpaceNews]** Observing lightning with a cubesat constellation
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket rolls out for first launch of 2023
 - <a href="http://www.nasa.gov/press-release/nasa-selects-experimental-space-technology-concepts-for-initial-study" >🔗</a> **[NASA]** NASA Selects Experimental Space Technology Concepts for Initial Study
-- <a href="https://spacenews.com/space-force-looking-to-extend-laser-communications-to-satellites-in-higher-orbits/" >🔗</a> **[SpaceNews]** Space Force looking to extend laser communications to satellites in higher orbits
-- <a href="https://spacenews.com/goes-18-becomes-goes-west/" >🔗</a> **[SpaceNews]** NOAA declares GOES-18 operational ahead of schedule
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T223226">2023-01-09 22:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T230608">2023-01-09 23:06:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
