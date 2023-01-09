@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-tianwen-1-mars-orbiter-and-rover-appear-to-be-in-trouble/" >🔗</a> **[SpaceNews]** China’s Tianwen-1 Mars orbiter and rover appear to be in trouble
 - <a href="https://spacenews.com/pair-of-chinese-launches-put-classified-and-commercial-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Pair of Chinese launches put classified and commercial satellites into orbit
 - <a href="https://spacenews.com/virgin-orbit-ready-for-first-u-k-launch/" >🔗</a> **[SpaceNews]** Virgin Orbit ready for first U.K. launch
 - <a href="https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/" >🔗</a> **[SpaceNews]** SpaceX gearing up for Falcon Heavy’s second national security launch
 - <a href="https://www.teslarati.com/spacex-starship-orbital-launch-mount-stress-testing/" >🔗</a> **[Teslarati]** Elon Musk: SpaceX’s first orbital Starship launch “highly likely” in Q1 2023
-- <a href="https://spacenews.com/defunct-nasa-satellite-to-reenter/" >🔗</a> **[SpaceNews]** Defunct NASA satellite to reenter
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T121304">2023-01-09 12:13:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230109T125323">2023-01-09 12:53:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
