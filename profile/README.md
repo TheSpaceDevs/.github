@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/01/10/capella-space-raises-60-million-from-billionaire-thomas-tulls-fund.html" >🔗</a> **[CNBC]** Capella Space raises $60 million from fund run by billionaire entertainment exec Thomas Tull
+- <a href="https://spacenews.com/oneweb-two-launches-away-from-going-global-after-spacex-launch/" >🔗</a> **[SpaceNews]** OneWeb two launches away from going global after SpaceX mission
 - <a href="https://spacenews.com/kwast-joins-skycorp/" >🔗</a> **[SpaceNews]** Steven Kwast, a retired U.S. Air Force general, is Skycorp’s new CEO
 - <a href="https://arstechnica.com/science/2023/01/last-year-marked-the-end-of-an-era-in-spaceflight-heres-what-were-watching-next/" >🔗</a> **[Arstechnica]** Last year marked the end of an era in spaceflight—here’s what we’re watching next
 - <a href="https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX sends 40 more OneWeb internet satellites into orbit
-- <a href="https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches OneWeb Flight #16 mission from Florida
-- <a href="https://spacenews.com/noaa-enterprise-ground-architecture/" >🔗</a> **[SpaceNews]** Commercial innovation for NOAA ground enterprise architecture
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T133611">2023-01-10 13:36:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T140818">2023-01-10 14:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
