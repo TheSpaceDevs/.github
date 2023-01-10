@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-noaa-to-announce-2022-global-temperatures-climate-conditions" >🔗</a> **[NASA]** NASA, NOAA to Announce 2022 Global Temperatures, Climate Conditions
+- <a href="https://spacenews.com/astronomers-celebrate-performance-of-jwst/" >🔗</a> **[SpaceNews]** Astronomers celebrate performance of JWST
 - <a href="https://arstechnica.com/science/2023/01/even-before-mondays-launch-failure-virgin-orbits-finances-were-dismal/" >🔗</a> **[Arstechnica]** Even before Monday’s launch failure, Virgin Orbit’s finances were dismal
 - <a href="https://www.cnbc.com/2023/01/10/capella-space-raises-60-million-from-billionaire-thomas-tulls-fund.html" >🔗</a> **[CNBC]** Capella Space raises $60 million from fund run by billionaire entertainment exec Thomas Tull
 - <a href="https://spacenews.com/oneweb-two-launches-away-from-going-global-after-spacex-launch/" >🔗</a> **[SpaceNews]** OneWeb two launches away from going global after SpaceX mission
-- <a href="https://spacenews.com/kwast-joins-skycorp/" >🔗</a> **[SpaceNews]** Steven Kwast, a retired U.S. Air Force general, is Skycorp’s new CEO
-- <a href="https://arstechnica.com/science/2023/01/last-year-marked-the-end-of-an-era-in-spaceflight-heres-what-were-watching-next/" >🔗</a> **[Arstechnica]** Last year marked the end of an era in spaceflight—here’s what we’re watching next
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T173425">2023-01-10 17:34:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T180822">2023-01-10 18:08:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
