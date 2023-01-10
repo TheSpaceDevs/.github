@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/" >🔗</a> **[SpaceNews]** Geospatial industry investor Keith Masback joins board of directors of Cognitive Space
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-media-update-on-space-station-plans-soyuz-status" >🔗</a> **[NASA]** NASA to Host Media Update on Space Station Plans, Soyuz Status
 - <a href="https://www.nasaspaceflight.com/2023/01/clps/" >🔗</a> **[NASASpaceflight]** NASA’s commercial lunar program ready to start flying in 2023
 - <a href="https://spacenews.com/rep-mike-rogers-named-chairman-of-house-armed-services-committee/" >🔗</a> **[SpaceNews]** Rep. Mike Rogers named chairman of House Armed Services Committee
 - <a href="http://www.nasa.gov/press-release/nasa-noaa-to-announce-2022-global-temperatures-climate-conditions" >🔗</a> **[NASA]** NASA, NOAA to Announce 2022 Global Temperatures, Climate Conditions
-- <a href="https://spacenews.com/astronomers-celebrate-performance-of-jwst/" >🔗</a> **[SpaceNews]** Astronomers celebrate performance of JWST
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T193141">2023-01-10 19:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T200717">2023-01-10 20:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
