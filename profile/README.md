@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/last-year-marked-the-end-of-an-era-in-spaceflight-heres-what-were-watching-next/" >🔗</a> **[Arstechnica]** Last year marked the end of an era in spaceflight—here’s what we’re watching next
 - <a href="https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX sends 40 more OneWeb internet satellites into orbit
 - <a href="https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches OneWeb Flight #16 mission from Florida
 - <a href="https://spacenews.com/noaa-enterprise-ground-architecture/" >🔗</a> **[SpaceNews]** Commercial innovation for NOAA ground enterprise architecture
 - <a href="https://arstechnica.com/science/2023/01/virgin-orbits-launcherone-rocket-suffers-anomaly-fails-to-reach-orbit/" >🔗</a> **[Arstechnica]** The first orbital launch attempt from the UK ends in failure
-- <a href="https://www.cnbc.com/2023/01/09/virgin-orbit-stock-plummets-after-uk-launch-failure.html" >🔗</a> **[CNBC]** Virgin Orbit stock plummets after failure of its first UK rocket launch
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T121219">2023-01-10 12:12:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T125346">2023-01-10 12:53:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
