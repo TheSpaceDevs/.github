@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX launches from Florida; California launch delayed
+- <a href="https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches OneWeb Flight #16 mission from Florida
 - <a href="https://spacenews.com/noaa-enterprise-ground-architecture/" >🔗</a> **[SpaceNews]** Commercial innovation for NOAA ground enterprise architecture
-- <a href="https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX set for launch from Florida; California launch delayed
 - <a href="https://arstechnica.com/science/2023/01/virgin-orbits-launcherone-rocket-suffers-anomaly-fails-to-reach-orbit/" >🔗</a> **[Arstechnica]** The first orbital launch attempt from the UK ends in failure
 - <a href="https://www.cnbc.com/2023/01/09/virgin-orbit-stock-plummets-after-uk-launch-failure.html" >🔗</a> **[CNBC]** Virgin Orbit stock plummets after failure of its first UK rocket launch
-- <a href="https://www.nasaspaceflight.com/2023/01/oneweb-flight-16-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch OneWeb Flight #16 mission from Florida
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T063724">2023-01-10 06:37:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T070628">2023-01-10 07:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
