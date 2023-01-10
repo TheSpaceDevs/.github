@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/goes-u-compact-coronagraph/" >🔗</a> **[SpaceNews]** NOAA might revise geostationary weather satellite timeline
+- <a href="https://www.teslarati.com/spacex-starship-fully-stacked-prelaunch-testing-2023/" >🔗</a> **[Teslarati]** SpaceX stacks Starship and Super Heavy booster for “wet dress rehearsal” test
 - <a href="https://spacenews.com/caes-space-systems-becomes-frontgrade-technologies/" >🔗</a> **[SpaceNews]** CAES Space Systems becomes Frontgrade Technologies
 - <a href="https://spacenews.com/20-billion-geoxo-program/" >🔗</a> **[SpaceNews]** Full steam ahead for NOAA’s $20 billion GeoXO program
 - <a href="https://www.teslarati.com/airbaltic-starlink/" >🔗</a> **[Teslarati]** airBaltic will equip its fleet with Starlink
-- <a href="https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/" >🔗</a> **[SpaceNews]** Geospatial industry investor Keith Masback joins board of directors of Cognitive Space
-- <a href="http://www.nasa.gov/press-release/nasa-to-host-media-update-on-space-station-plans-soyuz-status" >🔗</a> **[NASA]** NASA to Host Media Update on Space Station Plans, Soyuz Status
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T223311">2023-01-10 22:33:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230110T230634">2023-01-10 23:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
