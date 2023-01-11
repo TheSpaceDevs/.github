@@ -101,11 +101,12 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-delays-starlink-launch-after-falcon-9-static-fire/" >🔗</a> **[Teslarati]** SpaceX delays Starlink launch after Falcon 9 static fire test
 - <a href="https://www.teslarati.com/spacex-california-first-starlink-launch-2023/" >🔗</a> **[Teslarati]** SpaceX eyes West Coast for first Starlink launch of 2023
 - <a href="https://spaceflightnow.com/2023/01/09/spacexs-first-starlink-launch-of-2023-set-to-fly-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX’s first Starlink launch of 2023 set to fly from California
+- <a href="https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/" >🔗</a> **[Teslarati]** SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T103840">2023-01-11 10:38:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T110600">2023-01-11 11:06:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
