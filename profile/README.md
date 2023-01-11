@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-spectrum/" >🔗</a> **[SpaceNews]** NOAA takes stock of spectrum amid ongoing challenges
 - <a href="https://arstechnica.com/science/2023/01/russia-will-abandon-soyuz-on-orbit-fly-up-a-new-one-to-bring-crew-home/" >🔗</a> **[Arstechnica]** Russia will abandon Soyuz on orbit, fly up a new one to bring crew home
-- <a href="https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html" >🔗</a> **[CNBC]** Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launchpad
+- <a href="https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html" >🔗</a> **[CNBC]** Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launch pad
 - <a href="https://spacenews.com/roscosmos-to-launch-uncrewed-soyuz-to-replace-damaged-spacecraft-at-iss/" >🔗</a> **[SpaceNews]** Roscosmos to launch uncrewed Soyuz to replace damaged spacecraft at ISS
 - <a href="https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/" >🔗</a> **[Teslarati]** SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations
-- <a href="https://spacenews.com/goes-u-compact-coronagraph/" >🔗</a> **[SpaceNews]** NOAA might revise geostationary weather satellite timeline
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T171140">2023-01-11 17:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T173650">2023-01-11 17:36:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
