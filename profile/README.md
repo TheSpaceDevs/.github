@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch
+- <a href="https://spacenews.com/space-weather-ams-2023/" >🔗</a> **[SpaceNews]** Progress and obstacles for space weather forecasting
+- <a href="https://spacenews.com/europes-investment-arm-loans-ses-300-million-euros-to-bolster-space-industry/" >🔗</a> **[SpaceNews]** Europe’s investment arm loans SES 300 million euros to bolster space industry
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-human-capital-support-services" >🔗</a> **[NASA]** NASA Awards Contracts for Human Capital Support Services
 - <a href="https://spaceflightnow.com/2023/01/11/russia-to-launch-replacement-for-damaged-soyuz-crew-capsule-at-space-station/" >🔗</a> **[Spaceflight Now]** Russia to launch replacement for damaged Soyuz crew ship at space station
-- <a href="https://spacenews.com/noaa-spectrum/" >🔗</a> **[SpaceNews]** NOAA takes stock of spectrum amid ongoing challenges
-- <a href="https://arstechnica.com/science/2023/01/russia-will-abandon-soyuz-on-orbit-fly-up-a-new-one-to-bring-crew-home/" >🔗</a> **[Arstechnica]** Russia will abandon Soyuz on orbit, fly up a new one to bring crew home
-- <a href="https://www.cnbc.com/2023/01/11/abl-space-inaugural-launch-fails-damages-alaska-launchpad.html" >🔗</a> **[CNBC]** Rocket builder ABL’s inaugural launch fails shortly after liftoff, damages launch pad
-- <a href="https://spacenews.com/roscosmos-to-launch-uncrewed-soyuz-to-replace-damaged-spacecraft-at-iss/" >🔗</a> **[SpaceNews]** Roscosmos to launch uncrewed Soyuz to replace damaged spacecraft at ISS
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T213153">2023-01-11 21:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230111T220713">2023-01-11 22:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
