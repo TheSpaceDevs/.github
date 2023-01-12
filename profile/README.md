@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2C / YZ-1S | APStar 6E**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 2F | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T180000">2023-01-12 18:00:00 UTC</a>.  Until
-then, this pad will have been used for 69
-out of 183 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T065200">2023-01-13 06:52:00 UTC</a>.  Until
+then, this pad will have been used for 19
+out of 182 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  APStar 6E is a small high-throughput communication satellite for Hong Kong based APT Satellite. It is based on the new DFH-3E small GEO platform developed by the China Academy of Space Technology (CAST), featuring all-electric propulsion. The satellite will provide satellite telecommunication services in the Asia-Pacific region.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2f_image_20210513092238.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.958093,100.291188" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T010000">2023-01-25 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230125T010000Z%2F20230125T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar-7** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-3&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-2** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/01/insight-final-days/" >🔗</a> **[NASASpaceflight]** InSight Principal Investigator talks Mars lander’s final days
 - <a href="https://spacenews.com/space-force-weather-ams/" >🔗</a> **[SpaceNews]** U.S. Space Force considers a second NOAA weather satellite
 - <a href="https://spacenews.com/spideroak-series-c/" >🔗</a> **[SpaceNews]** SpiderOak raises $16.4 million in Series C funding round
 - <a href="https://www.cnbc.com/2023/01/12/investing-in-space-digital-orbital-danger-spideroak-fundraise.html" >🔗</a> **[CNBC]** Investing in Space: Digital orbital danger
 - <a href="http://www.nasa.gov/press-release/nasa-says-2022-fifth-warmest-year-on-record-warming-trend-continues" >🔗</a> **[NASA]** NASA Says 2022 Fifth Warmest Year on Record, Warming Trend Continues
-- <a href="http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado" >🔗</a> **[NASA]** La NASA afirma que 2022 es el quinto año más cálido registrado
 
 
 ### Launch-related News 🚀
@@ -101,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T180922">2023-01-12 18:09:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T183758">2023-01-12 18:37:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
