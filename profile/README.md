@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-weather-ams/" >🔗</a> **[SpaceNews]** U.S. Space Force considers a second NOAA weather satellite
 - <a href="https://spacenews.com/spideroak-series-c/" >🔗</a> **[SpaceNews]** SpiderOak raises $16.4 million in Series C funding round
 - <a href="https://www.cnbc.com/2023/01/12/investing-in-space-digital-orbital-danger-spideroak-fundraise.html" >🔗</a> **[CNBC]** Investing in Space: Digital orbital danger
-- <a href="http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado" >🔗</a> **[NASA]** La NASA afirma que 2022 es el quinto año más cálido registrado
 - <a href="http://www.nasa.gov/press-release/nasa-says-2022-fifth-warmest-year-on-record-warming-trend-continues" >🔗</a> **[NASA]** NASA Says 2022 Fifth Warmest Year on Record, Warming Trend Continues
-- <a href="https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/" >🔗</a> **[Arstechnica]** Here’s the story of a lunar image that doesn’t look remarkable, but really is
+- <a href="http://www.nasa.gov/nasa.gov/press-release/2022-quinto-mas-calido-registrado" >🔗</a> **[NASA]** La NASA afirma que 2022 es el quinto año más cálido registrado
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T170446">2023-01-12 17:04:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T174216">2023-01-12 17:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
