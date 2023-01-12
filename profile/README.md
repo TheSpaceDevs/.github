@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/koreas-new-orbiter-just-gave-us-a-remarkable-view-of-the-moons-hidden-pole/" >🔗</a> **[Arstechnica]** Here’s the story of a lunar image that doesn’t look remarkable, but really is
 - <a href="https://spacenews.com/virgin-orbit-blames-launch-failure-on-upper-stage-anomaly/" >🔗</a> **[SpaceNews]** Virgin Orbit blames launch failure on upper stage anomaly
 - <a href="https://www.teslarati.com/spacex-crs-26-cargo-dragon-reentry-recovery/" >🔗</a> **[Teslarati]** SpaceX Dragon spacecraft returns NASA cargo to Earth after six weeks in space
 - <a href="https://spacenews.com/space-force-official-to-beat-china-u-s-has-to-spend-smarter/" >🔗</a> **[SpaceNews]** Space Force official: To beat China, U.S. has to spend smarter
 - <a href="http://www.nasa.gov/press-release/japan-s-prime-minister-us-secretary-of-state-to-visit-nasa" >🔗</a> **[NASA]** Japan’s Prime Minister, US Secretary of State to Visit NASA
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T140900">2023-01-12 14:09:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T144229">2023-01-12 14:42:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
