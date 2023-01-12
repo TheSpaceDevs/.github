@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/" >🔗</a> **[SpaceNews]** ESPA satellites maturing as the preferred ride for small national security payloads
+- <a href="http://www.nasa.gov/press-release/nasa-to-announce-major-eco-friendly-aviation-project-update" >🔗</a> **[NASA]** NASA to Announce Major Eco-Friendly Aviation Project Update
 - <a href="http://www.nasa.gov/press-release/el-reto-techrise-de-la-nasa-premia-a-estudiantes-con-una-oportunidad-de-volar" >🔗</a> **[NASA]** El reto TechRise de la NASA premia a estudiantes con una oportunidad de volar
 - <a href="http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-services-contract" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance, Services Contract
 - <a href="https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/" >🔗</a> **[SpaceNews]** NSF and SpaceX reach agreement to reduce Starlink effects on astronomy
-- <a href="http://www.nasa.gov/press-release/nasa-awards-students-flight-opportunity-in-techrise-challenge" >🔗</a> **[NASA]** NASA Awards Students Flight Opportunity in TechRise Challenge
-- <a href="https://www.nasaspaceflight.com/2023/01/insight-final-days/" >🔗</a> **[NASASpaceflight]** InSight Principal Investigator talks Mars lander’s final days
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T223323">2023-01-12 22:33:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T230715">2023-01-12 23:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
