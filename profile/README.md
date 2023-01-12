@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/" >🔗</a> **[SpaceNews]** NSF and SpaceX reach agreement to reduce Starlink effects on astronomy
+- <a href="http://www.nasa.gov/press-release/nasa-awards-students-flight-opportunity-in-techrise-challenge" >🔗</a> **[NASA]** NASA Awards Students Flight Opportunity in TechRise Challenge
 - <a href="https://www.nasaspaceflight.com/2023/01/insight-final-days/" >🔗</a> **[NASASpaceflight]** InSight Principal Investigator talks Mars lander’s final days
 - <a href="https://spacenews.com/space-force-weather-ams/" >🔗</a> **[SpaceNews]** U.S. Space Force considers a second NOAA weather satellite
 - <a href="https://spacenews.com/spideroak-series-c/" >🔗</a> **[SpaceNews]** SpiderOak raises $16.4 million in Series C funding round
-- <a href="https://www.cnbc.com/2023/01/12/investing-in-space-digital-orbital-danger-spideroak-fundraise.html" >🔗</a> **[CNBC]** Investing in Space: Digital orbital danger
-- <a href="http://www.nasa.gov/press-release/nasa-says-2022-fifth-warmest-year-on-record-warming-trend-continues" >🔗</a> **[NASA]** NASA Says 2022 Fifth Warmest Year on Record, Warming Trend Continues
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T193156">2023-01-12 19:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230112T200730">2023-01-12 20:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
