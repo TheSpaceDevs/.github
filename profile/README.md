@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/rocket-report-starship-may-actually-be-near-liftoff-chinas-copycat-booster-designs/" >🔗</a> **[Arstechnica]** Rocket Report: Starship may actually be near liftoff; China’s copycat booster designs
 - <a href="https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/" >🔗</a> **[SpaceNews]** ESPA satellites maturing as the preferred ride for small national security payloads
 - <a href="http://www.nasa.gov/press-release/nasa-to-announce-major-eco-friendly-aviation-project-update" >🔗</a> **[NASA]** NASA to Announce Major Eco-Friendly Aviation Project Update
 - <a href="http://www.nasa.gov/press-release/el-reto-techrise-de-la-nasa-premia-a-estudiantes-con-una-oportunidad-de-volar" >🔗</a> **[NASA]** El reto TechRise de la NASA premia a estudiantes con una oportunidad de volar
 - <a href="http://www.nasa.gov/press-release/nasa-awards-safety-mission-assurance-services-contract" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance, Services Contract
-- <a href="https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/" >🔗</a> **[SpaceNews]** NSF and SpaceX reach agreement to reduce Starlink effects on astronomy
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T121219">2023-01-13 12:12:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T125212">2023-01-13 12:52:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
