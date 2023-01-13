@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T224500">2023-01-14 22:45:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T225500">2023-01-14 22:55:00 UTC</a>.  Until
 then, this pad will have been used for 155
 out of 213 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -44,7 +44,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T224500">2023-01-14 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230114T224500Z%2F20230115T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-67** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T225500">2023-01-14 22:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230114T225500Z%2F20230114T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-67** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T030400">2023-01-15 03:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230115T030400Z%2F20230115T033900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T161800">2023-01-15 16:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20230115T161800Z%2F20230115T161800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T120000">2023-01-18 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV06&location=Cape Canaveral, FL, USA&dates=20230118T120000Z%2F20230118T132300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV06** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Stratospheric ballooning company World View to go public in SPAC deal
 - <a href="http://www.nasa.gov/press-release/nasa-selects-shawn-quinn-to-lead-exploration-ground-systems-program" >🔗</a> **[NASA]** NASA Selects Shawn Quinn to Lead Exploration Ground Systems Program
 - <a href="https://spacenews.com/spacex-edges-closer-to-first-starship-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX edges closer to first Starship orbital launch attempt
 - <a href="https://arstechnica.com/science/2023/01/rocket-report-starship-may-actually-be-near-liftoff-chinas-copycat-booster-designs/" >🔗</a> **[Arstechnica]** Rocket Report: Starship may actually be near liftoff; China’s copycat booster designs
 - <a href="https://spacenews.com/espa-satellites-maturing-as-the-preferred-ride-for-small-national-security-payloads/" >🔗</a> **[SpaceNews]** ESPA satellites maturing as the preferred ride for small national security payloads
-- <a href="http://www.nasa.gov/press-release/nasa-to-announce-major-eco-friendly-aviation-project-update" >🔗</a> **[NASA]** NASA to Announce Major Eco-Friendly Aviation Project Update
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T183524">2023-01-13 18:35:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T190427">2023-01-13 19:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
