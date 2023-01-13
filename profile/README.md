@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/" >🔗</a> **[NASASpaceflight]** Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin
 - <a href="https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/" >🔗</a> **[SpaceNews]** NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits
 - <a href="https://spacenews.com/space-force-weighing-new-approach-for-selecting-national-security-launch-providers/" >🔗</a> **[SpaceNews]** Space Force weighing new approach for selecting national security launch providers
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference" >🔗</a> **[NASA]** NASA to Provide Coverage of US Spacewalk, Preview News Conference
 - <a href="https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Stratospheric ballooning company World View to go public in SPAC deal
-- <a href="http://www.nasa.gov/press-release/nasa-selects-shawn-quinn-to-lead-exploration-ground-systems-program" >🔗</a> **[NASA]** NASA Selects Shawn Quinn to Lead Exploration Ground Systems Program
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T223212">2023-01-13 22:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T230626">2023-01-13 23:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
