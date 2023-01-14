@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/" >🔗</a> **[SpaceNews]** NASA studying thruster problem with lunar cubesat
 - <a href="https://www.nasaspaceflight.com/2023/01/ussf-67-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy launch of USSF-67 slips to Sunday
 - <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride
 - <a href="http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters" >🔗</a> **[NASA]** US, Japan Sign Space Collaboration Agreement at NASA Headquarters
 - <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/" >🔗</a> **[NASASpaceflight]** Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin
-- <a href="https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/" >🔗</a> **[SpaceNews]** NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T223128">2023-01-14 22:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T230605">2023-01-14 23:06:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
