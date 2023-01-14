@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride
 - <a href="http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters" >🔗</a> **[NASA]** US, Japan Sign Space Collaboration Agreement at NASA Headquarters
 - <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/" >🔗</a> **[NASASpaceflight]** Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin
 - <a href="https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/" >🔗</a> **[SpaceNews]** NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits
 - <a href="https://spacenews.com/space-force-weighing-new-approach-for-selecting-national-security-launch-providers/" >🔗</a> **[SpaceNews]** Space Force weighing new approach for selecting national security launch providers
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference" >🔗</a> **[NASA]** NASA to Provide Coverage of US Spacewalk, Preview News Conference
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T160740">2023-01-14 16:07:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T163941">2023-01-14 16:39:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
