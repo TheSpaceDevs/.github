@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters" >🔗</a> **[NASA]** US, Japan Sign Space Collaboration Agreement at NASA Headquarters
 - <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/" >🔗</a> **[NASASpaceflight]** Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin
 - <a href="https://spacenews.com/northstar-using-axelspaces-earth-imaging-satellites-to-monitor-orbits/" >🔗</a> **[SpaceNews]** NorthStar using Axelspace’s Earth-imaging satellites to monitor orbits
 - <a href="https://spacenews.com/space-force-weighing-new-approach-for-selecting-national-security-launch-providers/" >🔗</a> **[SpaceNews]** Space Force weighing new approach for selecting national security launch providers
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-of-us-spacewalk-preview-news-conference" >🔗</a> **[NASA]** NASA to Provide Coverage of US Spacewalk, Preview News Conference
-- <a href="https://spacenews.com/stratospheric-ballooning-company-world-view-to-go-public-in-spac-deal/" >🔗</a> **[SpaceNews]** Stratospheric ballooning company World View to go public in SPAC deal
 
 
 ### Launch-related News 🚀
@@ -113,12 +113,12 @@ into *an Unknown
 - <a href="https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/" >🔗</a> **[SpaceNews]** SpaceX gearing up for Falcon Heavy’s second national security launch
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket rolls out for first launch of 2023
 - <a href="https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/" >🔗</a> **[Teslarati]** SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket tests 27 engines for military rideshare launch
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket on track for Saturday launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230113T233150">2023-01-13 23:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230114T003405">2023-01-14 00:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
