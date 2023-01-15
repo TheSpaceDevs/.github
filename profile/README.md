@@ -89,9 +89,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** Watch live: SpaceX set to launch first of five Falcon Heavy missions this year
 - <a href="https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/" >🔗</a> **[SpaceNews]** NASA studying thruster problem with lunar cubesat
 - <a href="https://www.nasaspaceflight.com/2023/01/ussf-67-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set for USSF-67 launch from 39A
-- <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride
 - <a href="http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters" >🔗</a> **[NASA]** US, Japan Sign Space Collaboration Agreement at NASA Headquarters
 - <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-update-jan-2023/" >🔗</a> **[NASASpaceflight]** Dragonfly mission heads toward PDR, element fabrication from Lockheed Martin set to begin
 
@@ -115,13 +115,13 @@ into *an Unknown
 - <a href="https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/" >🔗</a> **[Teslarati]** SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/" >🔗</a> **[Teslarati]** SpaceX’s fifth Falcon Heavy launch slips to Sunday
 - <a href="https://spaceflightnow.com/2023/01/13/u-s-military-payloads-mated-to-spacex-falcon-heavy-rocket-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** U.S. military payloads mated to SpaceX Falcon Heavy rocket for weekend launch
-- <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** After a slow start, SpaceX’s Falcon Heavy rocket is about to hit its stride
+- <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** Watch live: SpaceX set to launch first of five Falcon Heavy missions this year
 - <a href="https://www.nasaspaceflight.com/2023/01/ussf-67-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set for USSF-67 launch from 39A
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T213156">2023-01-15 21:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T220513">2023-01-15 22:05:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
