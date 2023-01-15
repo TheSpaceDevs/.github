@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon Heavy | USSF-67**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | GPS III SV06**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T225600">2023-01-15 22:56:00 UTC</a>.  Until
-then, this pad will have been used for 155
-out of 213 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T120000">2023-01-18 12:00:00 UTC</a>.  Until
+then, this pad will have been used for 165
+out of 870 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Navigation* and the payload will be injected
+into *a Medium Earth Orbit
+(MEO)*.
 <br>
 <blockquote>
-  USSF-67 is a mission for the United States Space Force with two satellites, including the LDPE-3A rapid prototype platform hosting 5 USSF payloads.
+  GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as "tranche") of GPS III satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520heav_image_20230114185830.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T225600">2023-01-15 22:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | USSF-67&location=Kennedy Space Center, FL, USA&dates=20230115T225600Z%2F20230115T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | USSF-67** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T120000">2023-01-18 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV06&location=Cape Canaveral, FL, USA&dates=20230118T120000Z%2F20230118T123600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV06** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T152310">2023-01-19 15:23:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-4&location=Vandenberg SFB, CA, USA&dates=20230119T152310Z%2F20230119T152310Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T230000">2023-01-23 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20230123T230000Z%2F20230124T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Virginia is for Launch Lovers** from Wallops Island, Virginia, USA.
@@ -54,6 +53,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-4&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Fengyun-3F&location=Unknown Location&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Fengyun-3F** from Unknown Location.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T000000">2023-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-2&location=Cape Canaveral, FL, USA&dates=20230131T000000Z%2F20230131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-2** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,30 +98,11 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/news-analysis-with-pentagon-award-spacex-joins-the-establishment/" >🔗</a> **[SpaceNews]** News Analysis | With Pentagon award, SpaceX joins the establishment
-- <a href="https://spacenews.com/pentagon-picks-spacex-and-ula-to-launch-national-security-satellites-for-next-five-years/" >🔗</a> **[SpaceNews]** Breaking News | Pentagon picks SpaceX and ULA to launch national security satellites for next five years
-- <a href="https://arstechnica.com/science/2020/08/the-air-force-selects-ula-and-spacex-for-mid-2020s-launches/" >🔗</a> **[Arstechnica]** The Air Force selects ULA and SpaceX for mid-2020s launches
-- <a href="https://spaceflightnow.com/2020/08/07/ula-spacex-win-landmark-launch-agreements-with-pentagon/" >🔗</a> **[Spaceflight Now]** ULA, SpaceX win landmark multibillion-dollar launch agreements with Pentagon
-- <a href="https://spacenews.com/air-force-to-end-agreements-with-blue-origin-and-northrop-grumman-prepares-for-launch-contract-protests/" >🔗</a> **[SpaceNews]** Air Force to end agreements with Blue Origin and Northrop Grumman, prepares for launch contract protests
-- <a href="https://www.teslarati.com/spacex-ula-win-multibillion-dollar-military-contract/" >🔗</a> **[Teslarati]** SpaceX, ULA win multibillion-dollar military launch contract years in the making
-- <a href="https://www.nasaspaceflight.com/2020/08/nrol-44-stacked-nssl-awards/" >🔗</a> **[NASASpaceflight]** Payload stacked for NROL-44; ULA, SpaceX win NSSL awards
-- <a href="https://spacenews.com/falcon-heavy-could-launch-three-u-s-space-force-missions-in-2022/" >🔗</a> **[SpaceNews]** Falcon Heavy could launch three U.S. Space Force missions in 2022
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-five-launches-2022/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket is scheduled to launch five times next year
-- <a href="https://www.teslarati.com/spacex-fifth-falcon-heavy-launch-on-track-early-2023/" >🔗</a> **[Teslarati]** SpaceX’s next Falcon Heavy rocket on track for early 2023 launch
-- <a href="https://www.teslarati.com/spacex-2023-falcon-heavy-launch-plans/" >🔗</a> **[Teslarati]** SpaceX gears up for busy year of Falcon Heavy launches
-- <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
-- <a href="https://spacenews.com/spacex-gearing-up-for-falcon-heavys-second-national-security-launch/" >🔗</a> **[SpaceNews]** SpaceX gearing up for Falcon Heavy’s second national security launch
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-ussf-67-rollout-launch-prep/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket rolls out for first launch of 2023
-- <a href="https://www.teslarati.com/spacex-four-pads-four-rockets-two-dragons/" >🔗</a> **[Teslarati]** SpaceX flexes might with simultaneous Starship, Falcon 9, Falcon Heavy, Dragon operations
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-static-fire-ussf-67/" >🔗</a> **[Teslarati]** SpaceX’s fifth Falcon Heavy launch slips to Sunday
-- <a href="https://spaceflightnow.com/2023/01/13/u-s-military-payloads-mated-to-spacex-falcon-heavy-rocket-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** U.S. military payloads mated to SpaceX Falcon Heavy rocket for weekend launch
-- <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** Watch live: SpaceX set to launch first of five Falcon Heavy missions this year
-- <a href="https://www.nasaspaceflight.com/2023/01/ussf-67-launch/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set for USSF-67 launch from 39A
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T223137">2023-01-15 22:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230115T230607">2023-01-15 23:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
