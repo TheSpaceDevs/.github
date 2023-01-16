@@ -91,9 +91,9 @@ into *a Medium Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy
 - <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** Watch live: SpaceX set to launch first of five Falcon Heavy missions this year
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket kicks off fifth mission with most spectacular launch yet
+- <a href="https://spacenews.com/united-states-and-japan-sign-space-cooperation-framework-agreement/" >🔗</a> **[SpaceNews]** United States and Japan sign space cooperation framework agreement
 - <a href="https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/" >🔗</a> **[SpaceNews]** NASA studying thruster problem with lunar cubesat
-- <a href="https://www.nasaspaceflight.com/2023/01/ussf-67-launch/" >🔗</a> **[NASASpaceflight]** SpaceX Falcon Heavy launches USSF-67 from 39A
-- <a href="http://www.nasa.gov/press-release/us-japan-sign-space-collaboration-agreement-at-nasa-headquarters" >🔗</a> **[NASA]** US, Japan Sign Space Collaboration Agreement at NASA Headquarters
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T003523">2023-01-16 00:35:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T020951">2023-01-16 02:09:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
