@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-prepares-next-steps-in-development-of-future-large-space-telescope/" >🔗</a> **[SpaceNews]** NASA prepares next steps in development of future large space telescope
+- <a href="https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/" >🔗</a> **[Arstechnica]** From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery
 - <a href="https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy
 - <a href="https://arstechnica.com/science/2023/01/the-first-of-five-falcon-heavy-launches-this-year-could-take-flight-today/" >🔗</a> **[Arstechnica]** Watch live: SpaceX set to launch first of five Falcon Heavy missions this year
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-launch-spectacular-jellyfish/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket kicks off fifth mission with most spectacular launch yet
-- <a href="https://spacenews.com/united-states-and-japan-sign-space-cooperation-framework-agreement/" >🔗</a> **[SpaceNews]** United States and Japan sign space cooperation framework agreement
-- <a href="https://spacenews.com/nasa-studying-thruster-problem-with-lunar-cubesat/" >🔗</a> **[SpaceNews]** NASA studying thruster problem with lunar cubesat
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T183535">2023-01-16 18:35:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T190427">2023-01-16 19:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
