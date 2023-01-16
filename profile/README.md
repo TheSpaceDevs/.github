@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacexs-spectacular-ussf-67-falcon-heavy-launch-in-photos/" >🔗</a> **[Teslarati]** SpaceX’s spectacular USSF-67 Falcon Heavy launch in photos
 - <a href="https://www.nasaspaceflight.com/2023/01/jwst-science-aas/" >🔗</a> **[NASASpaceflight]** Webb peers at young star’s dusty disk, discovers an exoplanet, and uncovers star formation
 - <a href="https://spacenews.com/study-space-industry-deploying-more-satellites-that-deliver-sharper-images/" >🔗</a> **[SpaceNews]** Study: Space industry deploying more satellites that deliver sharper images
 - <a href="https://spacenews.com/nasa-prepares-next-steps-in-development-of-future-large-space-telescope/" >🔗</a> **[SpaceNews]** NASA prepares next steps in development of future large space telescope
 - <a href="https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/" >🔗</a> **[Arstechnica]** From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery
-- <a href="https://spacenews.com/spacex-launches-u-s-space-forces-first-mission-of-2023-on-falcon-heavy/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force’s first mission of 2023 on Falcon Heavy
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T223140">2023-01-16 22:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230116T230617">2023-01-16 23:06:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
