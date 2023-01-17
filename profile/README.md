@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spanish-startup-to-upgrade-tiny-satellites-to-take-on-global-iot-market/" >🔗</a> **[SpaceNews]** Spanish startup to upgrade tiny satellites to take on global IoT market
 - <a href="https://spacenews.com/raytheon-to-develop-planning-software-for-military-cargo-missions-that-would-fly-on-space-rockets/" >🔗</a> **[SpaceNews]** Raytheon to develop planning software for military cargo missions that would fly on space rockets
 - <a href="https://spacenews.com/u-s-delivers-first-of-two-space-sensors-to-be-hosted-on-japanese-satellites/" >🔗</a> **[SpaceNews]** U.S. delivers first of two space sensors to be hosted on Japanese satellites
 - <a href="https://spacenews.com/cesiumastro-buys-txmission/" >🔗</a> **[SpaceNews]** CesiumAstro acquires U.K. startup TXMission
 - <a href="https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/" >🔗</a> **[SpaceNews]** China launch plans more than 70 launches in 2023
-- <a href="https://spacenews.com/sweden-opens-orbital-launch-site-looking-for-users/" >🔗</a> **[SpaceNews]** Sweden opens orbital launch site looking for users
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T213152">2023-01-17 21:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T220632">2023-01-17 22:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
