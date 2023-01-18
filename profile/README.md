@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/reports-calls-on-nasa-to-improve-coordination-of-artemis-international-partnerships/" >🔗</a> **[SpaceNews]** Reports calls on NASA to improve coordination of Artemis international partnerships
 - <a href="https://spacenews.com/spacex-launches-gps-satellite-falcon-9s-fifth-national-security-launch/" >🔗</a> **[SpaceNews]** SpaceX launches GPS satellite, Falcon 9’s fifth national security launch
 - <a href="https://spacenews.com/china-to-launch-relay-satellite-next-year-to-support-moon-landing-missions/" >🔗</a> **[SpaceNews]** China to launch relay satellite next year to support moon landing missions
 - <a href="https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/" >🔗</a> **[Teslarati]** SpaceX installs new Starship on static fire test stand
 - <a href="https://spacenews.com/rocket-lab-cautiously-optimistic-about-neutrons-future-in-national-security-launch/" >🔗</a> **[SpaceNews]** Rocket Lab cautiously optimistic about Neutron’s future in national security launch
-- <a href="https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/" >🔗</a> **[NASASpaceflight]** SpaceX to launch sixth next-generation GPS satellite
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T131415">2023-01-18 13:14:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T133503">2023-01-18 13:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
