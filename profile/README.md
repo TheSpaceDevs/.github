@@ -98,11 +98,14 @@ into *a Medium Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/" >🔗</a> **[NASASpaceflight]** SpaceX to launch sixth next-generation GPS satellite
+- <a href="https://www.teslarati.com/spacex-ships-head-to-sea-fifth-upgraded-gps-satellite-launch/" >🔗</a> **[Teslarati]** SpaceX ships head to sea for fifth upgraded GPS satellite launch [webcast]
+- <a href="https://spaceflightnow.com/2023/01/17/gps-navigation-satellite-set-for-launch-on-spacex-rocket/" >🔗</a> **[Spaceflight Now]** GPS navigation satellite set for launch on SpaceX rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T083649">2023-01-18 08:36:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T090645">2023-01-18 09:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
