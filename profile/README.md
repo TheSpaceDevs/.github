@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-installs-new-starship-on-static-fire-test-stand/" >🔗</a> **[Teslarati]** SpaceX installs new Starship on static fire test stand
+- <a href="https://spacenews.com/rocket-lab-cautiously-optimistic-about-neutrons-future-in-national-security-launch/" >🔗</a> **[SpaceNews]** Rocket Lab cautiously optimistic about Neutron’s future in national security launch
+- <a href="https://www.nasaspaceflight.com/2023/01/gps-iii-sv06/" >🔗</a> **[NASASpaceflight]** SpaceX to launch sixth next-generation GPS satellite
 - <a href="https://spacenews.com/spanish-startup-to-upgrade-tiny-satellites-to-take-on-global-iot-market/" >🔗</a> **[SpaceNews]** Spanish startup to upgrade tiny satellites to take on global IoT market
 - <a href="https://spacenews.com/raytheon-to-develop-planning-software-for-military-cargo-missions-that-would-fly-on-space-rockets/" >🔗</a> **[SpaceNews]** Raytheon to develop planning software for military cargo missions that would fly on space rockets
-- <a href="https://spacenews.com/u-s-delivers-first-of-two-space-sensors-to-be-hosted-on-japanese-satellites/" >🔗</a> **[SpaceNews]** U.S. delivers first of two space sensors to be hosted on Japanese satellites
-- <a href="https://spacenews.com/cesiumastro-buys-txmission/" >🔗</a> **[SpaceNews]** CesiumAstro acquires U.K. startup TXMission
-- <a href="https://spacenews.com/china-launch-plans-more-than-70-launches-in-2023/" >🔗</a> **[SpaceNews]** China launch plans more than 70 launches in 2023
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230117T233157">2023-01-17 23:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T003707">2023-01-18 00:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
