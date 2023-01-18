@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission" >🔗</a> **[NASA]** Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission
+- <a href="https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/" >🔗</a> **[Teslarati]** SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch
 - <a href="https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/" >🔗</a> **[SpaceNews]** Space Force procurement chief looking for big wins in 2023
 - <a href="https://www.nasaspaceflight.com/2023/01/starship-update-jan-23/" >🔗</a> **[NASASpaceflight]** Starship preparing for the business end of pre-launch testing
 - <a href="http://www.nasa.gov/press-release/nasa-issues-award-for-greener-more-fuel-efficient-airliner-of-future" >🔗</a> **[NASA]** NASA Issues Award for Greener, More Fuel-Efficient Airliner of Future
-- <a href="https://arstechnica.com/science/2023/01/it-looks-like-nasa-will-finally-have-an-astronaut-live-in-space-for-a-full-year/" >🔗</a> **[Arstechnica]** It looks like NASA will finally have an astronaut live in space for a full year
-- <a href="https://spacenews.com/reports-calls-on-nasa-to-improve-coordination-of-artemis-international-partnerships/" >🔗</a> **[SpaceNews]** Report calls on NASA to improve coordination of Artemis international partnerships
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T213151">2023-01-18 21:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T220627">2023-01-18 22:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
