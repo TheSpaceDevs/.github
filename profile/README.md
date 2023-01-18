@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/anuvu-gets-deal-to-resell-starlink-to-maritime-customers-amid-telesat-uncertainty/" >🔗</a> **[SpaceNews]** Anuvu gets deal to resell Starlink to maritime customers amid Telesat uncertainty
 - <a href="http://www.nasa.gov/press-release/briefings-interviews-set-for-nasa-s-spacex-crew-6-mission" >🔗</a> **[NASA]** Briefings, Interviews Set for NASA’s SpaceX Crew-6 Mission
 - <a href="https://www.teslarati.com/spacex-gps-iii-sv06-falcon-9-sunrise-launch/" >🔗</a> **[Teslarati]** SpaceX follows up Falcon Heavy spectacle with sunrise Falcon 9 launch
 - <a href="https://spacenews.com/space-force-procurement-chief-looking-for-big-wins-in-2023/" >🔗</a> **[SpaceNews]** Space Force procurement chief looking for big wins in 2023
 - <a href="https://www.nasaspaceflight.com/2023/01/starship-update-jan-23/" >🔗</a> **[NASASpaceflight]** Starship preparing for the business end of pre-launch testing
-- <a href="http://www.nasa.gov/press-release/nasa-issues-award-for-greener-more-fuel-efficient-airliner-of-future" >🔗</a> **[NASA]** NASA Issues Award for Greener, More Fuel-Efficient Airliner of Future
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T223214">2023-01-18 22:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230118T230629">2023-01-18 23:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
