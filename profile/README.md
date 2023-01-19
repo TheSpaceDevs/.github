@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/" >🔗</a> **[SpaceNews]** Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship
+- <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration" >🔗</a> **[NASA]** NASA to Participate in Aerospace Conference, Discuss New Collaboration
 - <a href="https://spacenews.com/u-s-space-force-chief-calls-for-greater-collaboration-with-allies/" >🔗</a> **[SpaceNews]** U.S. Space Force chief calls for greater collaboration with allies
 - <a href="https://www.teslarati.com/spacex-first-starlink-launch-2023-eight-delays/" >🔗</a> **[Teslarati]** SpaceX launches first Starlink mission of 2023 after eight delays
 - <a href="https://spacenews.com/hawkeye-360-satellites-to-provide-data-for-u-s-space-force-threat-detection-system/" >🔗</a> **[SpaceNews]** HawkEye 360 satellites to provide data for U.S. Space Force threat-detection system
-- <a href="https://spacenews.com/geoxo-sounder/" >🔗</a> **[SpaceNews]** Geostationary sounder is a key ingredient of near-term forecasts
-- <a href="https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/" >🔗</a> **[SpaceNews]** Eutelsat 5 West A successfully retired in graveyard orbit
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T223237">2023-01-19 22:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T230715">2023-01-19 23:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
