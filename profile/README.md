@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html" >🔗</a> **[CNBC]** Investing in Space: Looking up in 2023
 - <a href="https://spacenews.com/with-starshield-spacex-readies-for-battle/" >🔗</a> **[SpaceNews]** With Starshield, SpaceX readies for battle
 - <a href="https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/" >🔗</a> **[Arstechnica]** Amid economic downturn, space investment plummeted in 2022
 - <a href="https://spacenews.com/space-capital-q4-2022/" >🔗</a> **[SpaceNews]** Space Capital sees upside to 2022 decline in space investment
 - <a href="https://spacenews.com/nasa-faces-difficult-choices-for-current-and-future-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA faces “difficult choices” for current and future Earth science missions
-- <a href="https://spacenews.com/clearspace-raises-29-million-ahead-of-first-debris-removal-mission/" >🔗</a> **[SpaceNews]** ClearSpace raises $29 million ahead of first debris removal mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T160844">2023-01-19 16:08:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T164333">2023-01-19 16:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
