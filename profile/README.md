@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geoxo-sounder/" >🔗</a> **[SpaceNews]** Geostationary sounder is a key ingredient of near-term forecasts
+- <a href="https://spacenews.com/eutelsat-5-west-a-successfully-retired-in-graveyard-orbit/" >🔗</a> **[SpaceNews]** Eutelsat 5 West A successfully retired in graveyard orbit
 - <a href="https://www.cnbc.com/2023/01/19/investing-in-space-looking-up-in-2023.html" >🔗</a> **[CNBC]** Investing in Space: Looking up in 2023
 - <a href="https://spacenews.com/with-starshield-spacex-readies-for-battle/" >🔗</a> **[SpaceNews]** With Starshield, SpaceX readies for battle
 - <a href="https://arstechnica.com/science/2023/01/amid-economic-downturn-space-investment-plummeted-in-2022/" >🔗</a> **[Arstechnica]** Amid economic downturn, space investment plummeted in 2022
-- <a href="https://spacenews.com/space-capital-q4-2022/" >🔗</a> **[SpaceNews]** Space Capital sees upside to 2022 decline in space investment
-- <a href="https://spacenews.com/nasa-faces-difficult-choices-for-current-and-future-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA faces “difficult choices” for current and future Earth science missions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T203151">2023-01-19 20:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230119T210603">2023-01-19 21:06:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
