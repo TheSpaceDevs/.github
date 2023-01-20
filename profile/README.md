@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/01/us-eva-84/" >🔗</a> **[NASASpaceflight]** Astronauts conduct EVA to lay groundwork for final set of iROSA arrays
 - <a href="https://spaceflightnow.com/2023/01/20/us-eva-84/" >🔗</a> **[Spaceflight Now]** Watch live: Astronauts on spacewalk to prep for new ISS solar arrays
 - <a href="https://spacenews.com/esa-seeks-global-adoption-of-zero-debris-policy/" >🔗</a> **[SpaceNews]** ESA seeks global adoption of “zero debris” policy
 - <a href="https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure
 - <a href="https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/" >🔗</a> **[SpaceNews]** Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship
-- <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration" >🔗</a> **[NASA]** NASA to Participate in Aerospace Conference, Discuss New Collaboration
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T153334">2023-01-20 15:33:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T160838">2023-01-20 16:08:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
