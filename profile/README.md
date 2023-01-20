@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-seeks-global-adoption-of-zero-debris-policy/" >🔗</a> **[SpaceNews]** ESA seeks global adoption of “zero debris” policy
 - <a href="https://arstechnica.com/science/2023/01/rocket-report-spacex-reaches-ludicrous-cadence-abl-explains-rs1-failure/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX reaches ‘ludicrous’ cadence; ABL explains RS1 failure
 - <a href="https://spacenews.com/chinese-startups-conduct-hot-fire-tests-for-mini-version-of-spacexs-starship/" >🔗</a> **[SpaceNews]** Chinese startups conduct hot fire tests for mini version of SpaceX’s Starship
 - <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-aerospace-conference-discuss-new-collaboration" >🔗</a> **[NASA]** NASA to Participate in Aerospace Conference, Discuss New Collaboration
 - <a href="https://spacenews.com/u-s-space-force-chief-calls-for-greater-collaboration-with-allies/" >🔗</a> **[SpaceNews]** U.S. Space Force chief calls for greater collaboration with allies
-- <a href="https://www.teslarati.com/spacex-first-starlink-launch-2023-eight-delays/" >🔗</a> **[Teslarati]** SpaceX launches first Starlink mission of 2023 after eight delays
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T131506">2023-01-20 13:15:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230120T133509">2023-01-20 13:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
