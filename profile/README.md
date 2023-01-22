@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-eyes-international-customers-for-gps-augmentation-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin eyes international customers for GPS augmentation systems
 - <a href="https://www.nasaspaceflight.com/2023/01/insight-importance/" >🔗</a> **[NASASpaceflight]** InSight’s importance: Seismic measurements, new terrain highlight ground-breaking mission
 - <a href="https://spacenews.com/nasa-suspends-efforts-to-fully-deploy-lucy-solar-array/" >🔗</a> **[SpaceNews]** NASA suspends efforts to fully deploy Lucy solar array
 - <a href="https://spacenews.com/europes-jupiter-bound-juice-spacecraft-is-ready-for-april-launch/" >🔗</a> **[SpaceNews]** Europe’s Jupiter-bound JUICE spacecraft is ready for April launch
 - <a href="https://spacenews.com/canadian-government-to-establish-commercial-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** Canadian government to establish commercial launch licensing regulations
-- <a href="http://www.nasa.gov/press-release/nasa-observes-day-of-remembrance-ahead-of-columbia-20th-anniversary" >🔗</a> **[NASA]** NASA Observes Day of Remembrance Ahead of Columbia 20th Anniversary
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T113144">2023-01-22 11:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T121047">2023-01-22 12:10:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
