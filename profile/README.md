@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-renames-constellation-to-reflect-focus-on-u-s-warfighter/" >🔗</a> **[SpaceNews]** Space Development Agency renames constellation to reflect focus on U.S. warfighter
 - <a href="https://spacenews.com/europe-grappling-with-space-access-challenges/" >🔗</a> **[SpaceNews]** Europe grappling with space access challenges
 - <a href="https://spacenews.com/ams-interference-2023/" >🔗</a> **[SpaceNews]** 
 - <a href="http://www.nasa.gov/press-release/montana-students-to-hear-from-nasa-astronaut-on-space-station" >🔗</a> **[NASA]** Montana Students to Hear from NASA Astronaut on Space Station
 - <a href="https://spacenews.com/its-belt-cinching-time-for-space-startups/" >🔗</a> **[SpaceNews]** It’s belt-cinching time for space startups
-- <a href="https://arstechnica.com/science/2023/01/spacex-may-perform-a-wet-dress-rehearsal-of-its-starship-launch-system-today/" >🔗</a> **[Arstechnica]** SpaceX may perform a wet dress rehearsal of its Starship launch system today
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T193145">2023-01-23 19:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T200659">2023-01-23 20:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
