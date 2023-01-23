@@ -91,9 +91,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-launch-space-station-view/" >🔗</a> **[Teslarati]** SpaceX’s latest Falcon Heavy launch captured from a rare perspective
 - <a href="https://spacenews.com/lockheed-martin-eyes-international-customers-for-gps-augmentation-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin eyes international customers for GPS augmentation systems
+- <a href="https://www.teslarati.com/spacex-starlink-internet-antacrtica-coldex-nsf-testing/" >🔗</a> **[Teslarati]** SpaceX Starlink satellite internet tested in the field in Antarctica
 - <a href="https://www.nasaspaceflight.com/2023/01/insight-importance/" >🔗</a> **[NASASpaceflight]** InSight’s importance: Seismic measurements, new terrain highlight ground-breaking mission
 - <a href="https://spacenews.com/nasa-suspends-efforts-to-fully-deploy-lucy-solar-array/" >🔗</a> **[SpaceNews]** NASA suspends efforts to fully deploy Lucy solar array
-- <a href="https://spacenews.com/europes-jupiter-bound-juice-spacecraft-is-ready-for-april-launch/" >🔗</a> **[SpaceNews]** Europe’s Jupiter-bound JUICE spacecraft is ready for April launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230122T233149">2023-01-22 23:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230123T003349">2023-01-23 00:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
