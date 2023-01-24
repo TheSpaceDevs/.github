@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/" >🔗</a> **[Arstechnica]** European launch chief insists there be no competition with Ariane rockets
 - <a href="https://spacenews.com/thales-leading-another-esa-push-to-develop-quantum-communications/" >🔗</a> **[SpaceNews]** Thales Alenia Space leading another ESA push to develop quantum comms
 - <a href="https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/" >🔗</a> **[SpaceNews]** Quindar raises seed round to provide mission management software services
+- <a href="https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Rocket Lab to conduct first Electron launch from American soil
 - <a href="https://www.cnbc.com/2023/01/24/spacex-completes-starship-rocket-test-in-prep-for-first-orbital-launch.html" >🔗</a> **[CNBC]** SpaceX completes major Starship test in prep for rocket’s first orbital launch attempt
-- <a href="https://spacenews.com/spacex-completes-starship-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** SpaceX completes Starship wet dress rehearsal
-- <a href="https://spacenews.com/introducing-charter-space/" >🔗</a> **[SpaceNews]** Channeling frustration into program management software
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T153249">2023-01-24 15:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T160828">2023-01-24 16:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
