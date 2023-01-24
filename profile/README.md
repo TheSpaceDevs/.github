@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Virginia is for Launch Lovers**. It is scheduled to be launched by *Rocket Lab Ltd*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Island, Virginia, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230000">2023-01-24 23:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 73 launches from this location. The launch status is currently
+**H-IIA 202 | IGS Radar-7**. It is scheduled to be launched by *Mitsubishi Heavy Industries*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex</a>, Tanegashima, Japan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T014920">2023-01-26 01:49:20 UTC</a>.  Until
+then, this pad will have been used for 39
+out of 84 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Rideshare mission with 3 HawkEye 360 satellites and other payloads.
+  The IGS-Radar 7 is a Japanese radar reconnaissance satellite. The satellite is operated by the Cabinet Satellite Information Center. The satellite serves both Japan's national defense and civil natural disaster monitoring.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20230124165305.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/H-IIA" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg" />
   </a>
-  <a href="None" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg"  />
+  <a href="https://www.google.com/maps/place/30Â°24'08.0"N+130Â°58'30.0"E/" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_26_20200803142507.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230000">2023-01-24 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Virginia is for Launch Lovers&location=Wallops Island, Virginia, USA&dates=20230124T230000Z%2F20230125T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Virginia is for Launch Lovers** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T014920">2023-01-26 01:49:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar-7&location=Tanegashima, Japan&dates=20230126T014920Z%2F20230126T015021Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar-7** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T090200">2023-01-26 09:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-2&location=Cape Canaveral, FL, USA&dates=20230126T090200Z%2F20230126T112400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T150200">2023-01-29 15:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-6&location=Vandenberg SFB, CA, USA&dates=20230129T150200Z%2F20230129T214500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-6** from Vandenberg SFB, CA, USA.
@@ -89,27 +88,20 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-command-u-s-satellites-constrained-by-lack-of-mobility/" >🔗</a> **[SpaceNews]** Space Command: U.S. satellites ‘constrained’ by lack of mobility
 - <a href="https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/" >🔗</a> **[Arstechnica]** SpaceX completes fueling test, will now work toward massive engine firing test
 - <a href="https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/" >🔗</a> **[SpaceNews]** Space Force not buying large satellites for the foreseeable future
 - <a href="https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/" >🔗</a> **[SpaceNews]** NASA and DARPA to partner on nuclear thermal propulsion demonstration
 - <a href="https://spacenews.com/buckle-up-it-could-get-bumpy-the-space-economys-vaunted-resilience-will-be-tested-in-2023/" >🔗</a> **[SpaceNews]** Buckle up, it could get bumpy: The space economy’s vaunted resilience will be tested in 2023
-- <a href="https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/" >🔗</a> **[Arstechnica]** European launch chief insists there be no competition with Ariane rockets
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission
-- <a href="https://spacenews.com/hawkeye-360-delivers-satellites-for-rocket-labs-first-launch-from-u-s-soil/" >🔗</a> **[SpaceNews]** HawkEye 360 to launch satellites on Rocket Lab’s first mission from U.S. soil
-- <a href="https://spacenews.com/nasa-and-rocket-lab-ready-for-first-electron-launch-from-wallops/" >🔗</a> **[SpaceNews]** NASA and Rocket Lab ready for first Electron launch from Wallops
-- <a href="https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Upper level winds scrub first Electron launch from American soil
-- <a href="https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/" >🔗</a> **[Spaceflight Now]** FAA clears Rocket Lab for first launch from U.S. spaceport
-- <a href="https://spacenews.com/weather-and-range-issues-delay-first-electron-launch-from-wallops-to-january/" >🔗</a> **[SpaceNews]** Weather and range issues delay first Electron launch from Wallops to January
-- <a href="https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Rocket Lab to conduct first Electron launch from American soil
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T223134">2023-01-24 22:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T230544">2023-01-24 23:05:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
