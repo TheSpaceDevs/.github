@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/spacex-completes-fueling-test-will-now-work-toward-massive-engine-firing-test/" >🔗</a> **[Arstechnica]** SpaceX completes fueling test, will now work toward massive engine firing test
+- <a href="https://spacenews.com/space-force-not-buying-large-satellites-for-the-foreseeable-future/" >🔗</a> **[SpaceNews]** Space Force not buying large satellites for the foreseeable future
 - <a href="https://spacenews.com/nasa-and-darpa-to-partner-on-nuclear-thermal-propulsion-demonstration/" >🔗</a> **[SpaceNews]** NASA and DARPA to partner on nuclear thermal propulsion demonstration
 - <a href="https://spacenews.com/buckle-up-it-could-get-bumpy-the-space-economys-vaunted-resilience-will-be-tested-in-2023/" >🔗</a> **[SpaceNews]** Buckle up, it could get bumpy: The space economy’s vaunted resilience will be tested in 2023
 - <a href="https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/" >🔗</a> **[Arstechnica]** European launch chief insists there be no competition with Ariane rockets
-- <a href="https://spacenews.com/thales-leading-another-esa-push-to-develop-quantum-communications/" >🔗</a> **[SpaceNews]** Thales Alenia Space leading another ESA push to develop quantum comms
-- <a href="https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/" >🔗</a> **[SpaceNews]** Quindar raises seed round to provide mission management software services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T193138">2023-01-24 19:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T200705">2023-01-24 20:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
