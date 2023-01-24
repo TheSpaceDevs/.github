@@ -36,7 +36,7 @@ into *a Low Earth Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20230124165305.jpeg" />
   </a>
   <a href="None" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg"  />
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/buckle-up-it-could-get-bumpy-the-space-economys-vaunted-resilience-will-be-tested-in-2023/" >🔗</a> **[SpaceNews]** Buckle up, it could get bumpy: The space economy’s vaunted resilience will be tested in 2023
 - <a href="https://arstechnica.com/science/2023/01/european-launch-chief-insists-there-be-no-competition-with-ariane-rockets/" >🔗</a> **[Arstechnica]** European launch chief insists there be no competition with Ariane rockets
 - <a href="https://spacenews.com/thales-leading-another-esa-push-to-develop-quantum-communications/" >🔗</a> **[SpaceNews]** Thales Alenia Space leading another ESA push to develop quantum comms
 - <a href="https://spacenews.com/quindar-raises-seeds-round-to-provide-mission-management-software-services/" >🔗</a> **[SpaceNews]** Quindar raises seed round to provide mission management software services
 - <a href="https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Rocket Lab to conduct first Electron launch from American soil
-- <a href="https://www.cnbc.com/2023/01/24/spacex-completes-starship-rocket-test-in-prep-for-first-orbital-launch.html" >🔗</a> **[CNBC]** SpaceX completes major Starship test in prep for rocket’s first orbital launch attempt
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T170600">2023-01-24 17:06:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T173159">2023-01-24 17:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
