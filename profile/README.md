@@ -104,11 +104,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2022/12/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Upper level winds scrub first Electron launch from American soil
 - <a href="https://spaceflightnow.com/2022/12/17/faa-clears-rocket-lab-for-first-launch-from-u-s-spaceport/" >🔗</a> **[Spaceflight Now]** FAA clears Rocket Lab for first launch from U.S. spaceport
 - <a href="https://spacenews.com/weather-and-range-issues-delay-first-electron-launch-from-wallops-to-january/" >🔗</a> **[SpaceNews]** Weather and range issues delay first Electron launch from Wallops to January
+- <a href="https://www.nasaspaceflight.com/2023/01/virginia-is-for-launch-lovers/" >🔗</a> **[NASASpaceflight]** Rocket Lab to conduct first Electron launch from American soil
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T160828">2023-01-24 16:08:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230124T164226">2023-01-24 16:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
