@@ -88,11 +88,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Starlink Group 5-2 mission from Florida
 - <a href="https://spacenews.com/esa-is-no-longer-planning-to-send-astronauts-to-chinas-tiangong-space-station/" >🔗</a> **[SpaceNews]** ESA is no longer planning to send astronauts to China’s Tiangong space station
 - <a href="https://arstechnica.com/science/2023/01/nasa-will-join-a-military-program-to-develop-nuclear-thermal-propulsion/" >🔗</a> **[Arstechnica]** NASA will join a military program to develop nuclear thermal propulsion
 - <a href="https://www.cnbc.com/2023/01/25/rocket-lab-us-launch-success.html" >🔗</a> **[CNBC]** Rocket Lab establishes new U.S. foothold with successful launch after years of delays
 - <a href="https://spacenews.com/spaceflight-books-dedicated-isar-aerospace-launch-in-2026/" >🔗</a> **[SpaceNews]** Spaceflight books dedicated Isar Aerospace launch in 2026
-- <a href="https://spacenews.com/astrobotic-completes-peregrine-testing/" >🔗</a> **[SpaceNews]** Astrobotic completes Peregrine testing
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T183442">2023-01-25 18:34:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230125T190428">2023-01-25 19:04:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
