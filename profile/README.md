@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-adds-asteroid-flyby-to-lucy-mission/" >🔗</a> **[SpaceNews]** NASA adds asteroid flyby to Lucy mission
 - <a href="https://spacenews.com/neo-surveyor-launch-delayed-despite-funding-boost/" >🔗</a> **[SpaceNews]** NEO Surveyor launch delayed despite funding boost
 - <a href="https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches 56 more Starlink satellites from Cape Canaveral
 - <a href="https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Lamborn named chair of House Armed Services strategic forces subcommittee
 - <a href="http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements" >🔗</a> **[NASA]** NASA Awards Innovations, Partnership Support Services Agreements
-- <a href="https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches Starlink Group 5-2 mission from Florida
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T131726">2023-01-26 13:17:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T133836">2023-01-26 13:38:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
