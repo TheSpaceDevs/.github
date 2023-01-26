@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 5-2**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 2-6**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T090200">2023-01-26 09:02:00 UTC</a>.  Until
-then, this pad will have been used for 166
-out of 871 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230129T150200">2023-01-29 15:02:00 UTC</a>.  Until
+then, this pad will have been used for 101
+out of 710 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 56 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214103909.png" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221220083747.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
@@ -90,7 +90,7 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2023/01/26/falcon-9-starlink-5-2-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX on track for predawn launch from Cape Canaveral
 - <a href="https://spacenews.com/lamborn-named-chair-of-house-armed-services-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Lamborn named chair of House Armed Services strategic forces subcommittee
 - <a href="http://www.nasa.gov/press-release/nasa-awards-innovations-partnership-support-services-agreements" >🔗</a> **[NASA]** NASA Awards Innovations, Partnership Support Services Agreements
-- <a href="https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Starlink Group 5-2 mission from Florida
+- <a href="https://www.nasaspaceflight.com/2023/01/starlink-5-2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches Starlink Group 5-2 mission from Florida
 - <a href="https://spacenews.com/esa-is-no-longer-planning-to-send-astronauts-to-chinas-tiangong-space-station/" >🔗</a> **[SpaceNews]** ESA is no longer planning to send astronauts to China’s Tiangong space station
 
 
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T093146">2023-01-26 09:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230126T100704">2023-01-26 10:07:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
