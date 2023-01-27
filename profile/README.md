@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-edl-overview/" >🔗</a> **[NASASpaceflight]** Arriving at Titan: How Dragonfly’s Entry, Descent, and Landing will differ from Mars missions
 - <a href="https://spacenews.com/nasa-still-working-on-long-term-plans-for-iss-seat-barters/" >🔗</a> **[SpaceNews]** NASA still working on long-term plans for ISS seat barters
 - <a href="https://spacenews.com/hispasat-invests-in-reforestation-to-drive-sustainability-expansion-strategy/" >🔗</a> **[SpaceNews]** Hispasat invests in reforestation to drive sustainability expansion strategy
 - <a href="https://spacenews.com/janus-considering-alternative-missions-after-losing-original-ride/" >🔗</a> **[SpaceNews]** Janus considering alternative missions after losing original ride
 - <a href="https://arstechnica.com/science/2023/01/rocket-report-nasa-validates-new-engine-design-chinese-firm-tests-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: NASA validates new engine design; Chinese firm tests mini Starship
-- <a href="https://spacenews.com/u-s-sanctions-chinese-satellite-firm-for-allegedly-supplying-sar-imagery-to-russias-wagner-group/" >🔗</a> **[SpaceNews]** U.S. sanctions Chinese satellite firm for allegedly supplying SAR imagery to Russia’s Wagner Group
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T153237">2023-01-27 15:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T160824">2023-01-27 16:08:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
