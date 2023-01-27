@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/" >🔗</a> **[SpaceNews]** Satellite billed as the ‘future GPS’ begins key tests
 - <a href="https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/" >🔗</a> **[SpaceNews]** L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023
 - <a href="http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** Oklahoma Students to Hear from NASA Astronaut Aboard Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-launches-aeronautics-spanish-language-webpages" >🔗</a> **[NASA]** NASA Launches Aeronautics Spanish-Language Webpages
 - <a href="http://www.nasa.gov/press-release/la-nasa-lanza-paginas-web-en-espanol-sobre-aeronautica" >🔗</a> **[NASA]** La NASA lanza páginas web en español sobre aeronáutica
-- <a href="https://www.nasaspaceflight.com/2023/01/dragonfly-edl-overview/" >🔗</a> **[NASASpaceflight]** Arriving at Titan: How Dragonfly’s Entry, Descent, and Landing will differ from Mars missions
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T203153">2023-01-27 20:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T210533">2023-01-27 21:05:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
