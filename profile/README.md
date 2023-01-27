@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/" >🔗</a> **[SpaceNews]** Lynk Global finalizing ground station for direct-to-smartphone services
+- <a href="https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/" >🔗</a> **[SpaceNews]** SpaceX preparing for Super Heavy static-fire test
 - <a href="https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/" >🔗</a> **[SpaceNews]** Satellite billed as the ‘future GPS’ begins key tests
 - <a href="https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/" >🔗</a> **[SpaceNews]** L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023
 - <a href="http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** Oklahoma Students to Hear from NASA Astronaut Aboard Space Station
-- <a href="http://www.nasa.gov/press-release/nasa-launches-aeronautics-spanish-language-webpages" >🔗</a> **[NASA]** NASA Launches Aeronautics Spanish-Language Webpages
-- <a href="http://www.nasa.gov/press-release/la-nasa-lanza-paginas-web-en-espanol-sobre-aeronautica" >🔗</a> **[NASA]** La NASA lanza páginas web en español sobre aeronáutica
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T213154">2023-01-27 21:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230127T220609">2023-01-27 22:06:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
