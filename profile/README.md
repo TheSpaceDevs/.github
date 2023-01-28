@@ -91,11 +91,11 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commerce-department-outlines-plans-for-basic-space-traffic-management-service/" >🔗</a> **[SpaceNews]** Commerce Department outlines plans for basic space traffic management service
 - <a href="https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/" >🔗</a> **[SpaceNews]** Lynk Global finalizing ground station for direct-to-smartphone services
 - <a href="https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/" >🔗</a> **[SpaceNews]** SpaceX preparing for Super Heavy static-fire test
 - <a href="https://spacenews.com/satellite-billed-as-the-future-gps-begins-key-tests/" >🔗</a> **[SpaceNews]** Satellite billed as the ‘future GPS’ begins key tests
 - <a href="https://spacenews.com/l3harris-optimistic-aerojet-rocketdyne-acquisition-will-close-in-2023/" >🔗</a> **[SpaceNews]** L3Harris ‘optimistic’ Aerojet Rocketdyne acquisition will close in 2023
-- <a href="http://www.nasa.gov/press-release/oklahoma-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** Oklahoma Students to Hear from NASA Astronaut Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T173139">2023-01-28 17:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230128T180719">2023-01-28 18:07:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
