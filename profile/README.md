@@ -92,10 +92,10 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rockets set for Starlink double-header
+- <a href="https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/" >🔗</a> **[Teslarati]** Elon Musk’s goal of 100 SpaceX launches in 2023 is looking surprisingly doable
+- <a href="https://spacenews.com/nasa-meeting-works-to-define-exploration-architecture/" >🔗</a> **[SpaceNews]** NASA meeting works to define exploration architecture
 - <a href="https://spacenews.com/commerce-department-outlines-plans-for-basic-space-traffic-management-service/" >🔗</a> **[SpaceNews]** Commerce Department outlines plans for basic space traffic management service
 - <a href="https://spacenews.com/europe-seeks-greater-autonomy-in-space-traffic-management/" >🔗</a> **[SpaceNews]** Europe seeks greater autonomy in space traffic management
-- <a href="https://spacenews.com/lynk-global-finalizing-ground-station-for-direct-to-smartphone-services/" >🔗</a> **[SpaceNews]** Lynk Global finalizing ground station for direct-to-smartphone services
-- <a href="https://spacenews.com/spacex-preparing-for-super-heavy-static-fire-test/" >🔗</a> **[SpaceNews]** SpaceX preparing for Super Heavy static-fire test
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T003252">2023-01-30 00:32:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T020647">2023-01-30 02:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
