@@ -91,11 +91,11 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9337/" >🔗</a> **[NASA]** NASA's Perseverance Rover Completes Mars Sample Depot
 - <a href="https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/" >🔗</a> **[NASASpaceflight]** SpaceX delays first flight of cross-country Starlink doubleheader to Tuesday
 - <a href="https://arstechnica.com/science/2023/01/blue-origin-may-restart-new-shepard-flights-in-april-or-may-or-not/" >🔗</a> **[Arstechnica]** After a failure 4 months ago, the New Shepard spacecraft remains in limbo
 - <a href="https://spacenews.com/asteroid-mining-startup-astroforge-to-launch-first-missions-this-year/" >🔗</a> **[SpaceNews]** Asteroid mining startup AstroForge to launch first missions this year
 - <a href="https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rockets set for Starlink double-header
-- <a href="https://www.teslarati.com/elon-musk-spacex-100-launches-2023-surprisingly-doable/" >🔗</a> **[Teslarati]** SpaceX’s 100-launch target is more realistic than it seems
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T173150">2023-01-30 17:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T180816">2023-01-30 18:08:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
