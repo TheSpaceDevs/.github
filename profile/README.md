@@ -100,11 +100,12 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rockets set for Starlink double-header
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T083633">2023-01-30 08:36:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230130T090719">2023-01-30 09:07:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
