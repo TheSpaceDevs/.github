@@ -91,11 +91,11 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-hits-limits-of-space-station-utilization/" >🔗</a> **[SpaceNews]** NASA hits limits of space station utilization
+- <a href="https://spacenews.com/house-passes-commercial-remote-sensing-bill/" >🔗</a> **[SpaceNews]** House passes commercial remote sensing bill
 - <a href="https://spacenews.com/lockheed-martin-to-launch-first-demo-of-new-mid-size-bus/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch first demo of new mid-size bus
 - <a href="https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/" >🔗</a> **[SpaceNews]** Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site
 - <a href="http://www.nasa.gov/press-release/former-nasa-astronauts-to-receive-congressional-space-medal-of-honor" >🔗</a> **[NASA]** Former NASA Astronauts to Receive Congressional Space Medal of Honor
-- <a href="http://www.nasa.gov/press-release/nasa-to-air-live-coverage-of-spacewalk-for-power-system-upgrades" >🔗</a> **[NASA]** NASA to Air Live Coverage of Spacewalk for Power System Upgrades
-- <a href="https://mars.nasa.gov/news/9337/" >🔗</a> **[NASA]** NASA's Perseverance Rover Completes Mars Sample Depot
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T131954">2023-01-31 13:19:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T133729">2023-01-31 13:37:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
