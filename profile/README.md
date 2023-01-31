@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/" >🔗</a> **[SpaceNews]** Space Force chief: Satellites are under threat, ‘we have to be ready’
+- <a href="http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract" >🔗</a> **[NASA]** NASA Extends Goddard Logistics, Technical Services Contract
 - <a href="https://spacenews.com/orbital-sidekick-raises-10-million/" >🔗</a> **[SpaceNews]** Orbital Sidekick raises $10 million from customers and existing investors
 - <a href="https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/" >🔗</a> **[SpaceNews]** Capella Space establishes new subsidiary focused on U.S. defense market
 - <a href="http://www.nasa.gov/press-release/nasa-spinoffs-bolster-climate-resilience-improve-medical-care-more" >🔗</a> **[NASA]** NASA Spinoffs Bolster Climate Resilience, Improve Medical Care, More
-- <a href="https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/" >🔗</a> **[NASASpaceflight]** SpaceX launches first flight of cross-country Starlink doubleheader
-- <a href="https://arstechnica.com/science/2023/01/crew-dragon-astronauts-to-receive-rare-space-medal-from-the-white-house/" >🔗</a> **[Arstechnica]** Crew Dragon astronauts to receive rare space medal from the White House
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T213146">2023-01-31 21:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T220615">2023-01-31 22:06:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
