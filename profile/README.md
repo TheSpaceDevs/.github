@@ -91,11 +91,11 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/01/crew-dragon-astronauts-to-receive-rare-space-medal-from-the-white-house/" >🔗</a> **[Arstechnica]** Crew Dragon astronauts to receive rare space medal from the White House
 - <a href="https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/" >🔗</a> **[SpaceNews]** China’s CAS Space outlines rocket series, inaugurates manufacturing facility
 - <a href="https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/" >🔗</a> **[SpaceNews]** Capella Space establishes new business unit focused on U.S. defense market
 - <a href="https://spacenews.com/xplore-announces-first-launch-of-remote-sensing-smallsat/" >🔗</a> **[SpaceNews]** Xplore announces first launch of remote-sensing smallsat
 - <a href="https://www.cnbc.com/2023/01/31/vc-firm-embedded-ventures-fund-for-national-security-space.html" >🔗</a> **[CNBC]** LA-based Embedded Ventures launches inaugural fund, with focus on national security and space tech
-- <a href="https://spacenews.com/nasa-hits-limits-of-space-station-utilization/" >🔗</a> **[SpaceNews]** NASA hits limits of space station utilization
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T143141">2023-01-31 14:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T150647">2023-01-31 15:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
