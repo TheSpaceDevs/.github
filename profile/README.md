@@ -91,11 +91,11 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-cas-space-outlines-rocket-series-inaugurates-manufacturing-facility/" >🔗</a> **[SpaceNews]** China’s CAS Space outlines rocket series, inaugurates manufacturing facility
+- <a href="https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/" >🔗</a> **[SpaceNews]** Capella Space establishes new business unit focused on U.S. defense market
+- <a href="https://spacenews.com/xplore-announces-first-launch-of-remote-sensing-smallsat/" >🔗</a> **[SpaceNews]** Xplore announces first launch of remote-sensing smallsat
+- <a href="https://www.cnbc.com/2023/01/31/vc-firm-embedded-ventures-fund-for-national-security-space.html" >🔗</a> **[CNBC]** LA-based Embedded Ventures launches inaugural fund, with focus on national security and space tech
 - <a href="https://spacenews.com/nasa-hits-limits-of-space-station-utilization/" >🔗</a> **[SpaceNews]** NASA hits limits of space station utilization
-- <a href="https://spacenews.com/house-passes-commercial-remote-sensing-bill/" >🔗</a> **[SpaceNews]** House passes commercial remote sensing bill
-- <a href="https://spacenews.com/lockheed-martin-to-launch-first-demo-of-new-mid-size-bus/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch first demo of new mid-size bus
-- <a href="https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/" >🔗</a> **[SpaceNews]** Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site
-- <a href="http://www.nasa.gov/press-release/former-nasa-astronauts-to-receive-congressional-space-medal-of-honor" >🔗</a> **[NASA]** Former NASA Astronauts to Receive Congressional Space Medal of Honor
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ This launch carries D-Orbit’s ION SCV009 Eclectic Elena as a rideshare payload
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T140602">2023-01-31 14:06:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T143141">2023-01-31 14:31:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
