@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/" >🔗</a> **[SpaceNews]** Governments to be major customers of future Axiom Space private astronaut missions
 - <a href="http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor" >🔗</a> **[NASA]** VP Awards Former NASA Astronauts Congressional Space Medal of Honor
 - <a href="https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Starlink satellites, Italian space tug launched by SpaceX rocket
 - <a href="https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/" >🔗</a> **[Teslarati]** SpaceX launches 200th Falcon 9 rocket
 - <a href="https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/" >🔗</a> **[SpaceNews]** Space Force chief: Satellites are under threat, ‘we have to be ready’
-- <a href="http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract" >🔗</a> **[NASA]** NASA Extends Goddard Logistics, Technical Services Contract
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T073149">2023-02-01 07:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T080852">2023-02-01 08:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
