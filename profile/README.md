@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor" >🔗</a> **[NASA]** VP Awards Former NASA Astronauts Congressional Space Medal of Honor
+- <a href="https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Starlink satellites, Italian space tug launched by SpaceX rocket
 - <a href="https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/" >🔗</a> **[Teslarati]** SpaceX launches 200th Falcon 9 rocket
 - <a href="https://spacenews.com/space-force-chief-satellites-are-under-threat-we-have-to-be-ready/" >🔗</a> **[SpaceNews]** Space Force chief: Satellites are under threat, ‘we have to be ready’
 - <a href="http://www.nasa.gov/press-release/nasa-extends-goddard-logistics-technical-services-contract" >🔗</a> **[NASA]** NASA Extends Goddard Logistics, Technical Services Contract
-- <a href="https://spacenews.com/orbital-sidekick-raises-10-million/" >🔗</a> **[SpaceNews]** Orbital Sidekick raises $10 million from customers and existing investors
-- <a href="https://spacenews.com/capella-space-establishes-new-business-unit-focused-on-u-s-defense-market/" >🔗</a> **[SpaceNews]** Capella Space establishes new subsidiary focused on U.S. defense market
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230131T233146">2023-01-31 23:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T004100">2023-02-01 00:41:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
