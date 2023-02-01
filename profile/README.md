@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T073700">2023-02-02 07:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-3&location=Kennedy Space Center, FL, USA&dates=20230202T073700Z%2F20230202T120700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-3** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T091200">2023-02-05 09:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230205T091200Z%2F20230205T091200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.4** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T091252">2023-02-05 09:12:52 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230205T091252Z%2F20230205T091252Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.4** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T223200">2023-02-05 22:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Amazonas Nexus&location=Cape Canaveral, FL, USA&dates=20230205T223200Z%2F20230206T031900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Amazonas Nexus** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T061536">2023-02-09 06:15:36 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-22 (83P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230209T061536Z%2F20230209T061536Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-22 (83P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T033000">2023-02-10 03:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | Microsat (Demo 2)&location=Sriharikota, Republic of India&dates=20230210T033000Z%2F20230210T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV | Microsat (Demo 2)** from Sriharikota, Republic of India.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/" >🔗</a> **[Arstechnica]** Virgin Orbit receives another small investment from Branson—and it’s worrisome
 - <a href="https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/" >🔗</a> **[Arstechnica]** Two decades after the Columbia disaster, is NASA’s safety culture fixed?
 - <a href="https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/" >🔗</a> **[SpaceNews]** Governments to be major customers of future Axiom Space private astronaut missions
 - <a href="http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor" >🔗</a> **[NASA]** VP Awards Former NASA Astronauts Congressional Space Medal of Honor
 - <a href="https://spaceflightnow.com/2023/01/31/starlink-satellites-italian-space-tug-launched-by-spacex-rocket/" >🔗</a> **[Spaceflight Now]** Starlink satellites, Italian space tug launched by SpaceX rocket
-- <a href="https://www.teslarati.com/spacex-200th-falcon-9-rocket-launch/" >🔗</a> **[Teslarati]** SpaceX launches 200th Falcon 9 rocket
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T153302">2023-02-01 15:33:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T160805">2023-02-01 16:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
