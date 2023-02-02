@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX set to launch 53 more Starlink internet satellites
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/" >🔗</a> **[NASASpaceflight]** Second flight of cross-country Starlink doubleheader targeting Thursday
 - <a href="https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/" >🔗</a> **[Arstechnica]** Virgin Orbit receives another small investment from Branson—and it’s worrisome
 - <a href="https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/" >🔗</a> **[Arstechnica]** Two decades after the Columbia disaster, is NASA’s safety culture fixed?
 - <a href="https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/" >🔗</a> **[SpaceNews]** Governments to be major customers of future Axiom Space private astronaut missions
-- <a href="https://www.teslarati.com/spacex-starship-expendable-variant-elon-musk-2023/" >🔗</a> **[Teslarati]** Elon Musk teases expendable version of SpaceX’s reusable Starship rocket
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T043650">2023-02-02 04:36:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T050633">2023-02-02 05:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
