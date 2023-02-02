@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/" >🔗</a> **[Arstechnica]** Virgin Orbit receives another small investment from Branson—and it’s worrisome
 - <a href="https://arstechnica.com/science/2023/02/two-decades-after-the-columbia-disaster-is-nasas-safety-culture-fixed/" >🔗</a> **[Arstechnica]** Two decades after the Columbia disaster, is NASA’s safety culture fixed?
 - <a href="https://spacenews.com/governments-to-be-major-customers-of-future-axiom-space-private-astronaut-missions/" >🔗</a> **[SpaceNews]** Governments to be major customers of future Axiom Space private astronaut missions
-- <a href="http://www.nasa.gov/press-release/vp-awards-former-nasa-astronauts-congressional-space-medal-of-honor" >🔗</a> **[NASA]** VP Awards Former NASA Astronauts Congressional Space Medal of Honor
+- <a href="https://www.teslarati.com/spacex-starship-expendable-variant-elon-musk-2023/" >🔗</a> **[Teslarati]** Elon Musk teases expendable version of SpaceX’s reusable Starship rocket
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230201T233156">2023-02-01 23:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T003731">2023-02-02 00:37:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
