@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2023/02/02/iss-us-eva-85/" >🔗</a> **[Spaceflight Now]** Watch live: Astronauts working outside space station on spacewalk
+- <a href="https://spaceflightnow.com/2023/02/02/iss-us-eva-85/" >🔗</a> **[Spaceflight Now]** Space station astronauts finish preps for next pair of new solar arrays
 - <a href="https://www.cnbc.com/2023/02/02/investing-in-space-picture-day.html" >🔗</a> **[CNBC]** Investing in Space: Picture day
 - <a href="http://www.nasa.gov/press-release/joe-acab-de-la-nasa-ser-el-astronauta-jefe-de-la-agencia" >🔗</a> **[NASA]** Joe Acabá, de la NASA, será el astronauta jefe de la agencia
 - <a href="http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut" >🔗</a> **[NASA]** NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut
-- <a href="https://www.nasaspaceflight.com/2023/02/us-eva-84/" >🔗</a> **[NASASpaceflight]** Astronauts conducting second EVA to lay groundwork for final iROSA arrays
+- <a href="https://www.nasaspaceflight.com/2023/02/us-eva-84/" >🔗</a> **[NASASpaceflight]** Astronauts conduct second EVA to lay groundwork for final iROSA arrays
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T193132">2023-02-02 19:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T200709">2023-02-02 20:07:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
