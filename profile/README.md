@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut" >🔗</a> **[NASA]** NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut
+- <a href="https://www.cnbc.com/2023/02/02/investing-in-space-picture-day.html" >🔗</a> **[CNBC]** Investing in Space: Picture day
 - <a href="http://www.nasa.gov/press-release/joe-acab-de-la-nasa-ser-el-astronauta-jefe-de-la-agencia" >🔗</a> **[NASA]** Joe Acabá, de la NASA, será el astronauta jefe de la agencia
+- <a href="http://www.nasa.gov/press-release/nasa-s-joe-acaba-to-serve-as-agency-s-chief-astronaut" >🔗</a> **[NASA]** NASA’s Joe Acaba to Serve as Agency’s Chief Astronaut
 - <a href="https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX set to launch 53 more Starlink internet satellites
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/" >🔗</a> **[NASASpaceflight]** SpaceX conducts cross-country Starlink doubleheader
-- <a href="https://arstechnica.com/science/2023/02/richard-branson-moves-to-consolidate-his-secured-interest-in-virgin-orbit/" >🔗</a> **[Arstechnica]** Virgin Orbit receives another small investment from Branson—and it’s worrisome
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T160847">2023-02-02 16:08:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T164259">2023-02-02 16:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
