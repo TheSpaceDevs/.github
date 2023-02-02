@@ -101,11 +101,12 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-falcon-9-starlink-double-header-launch-jan-2023/" >🔗</a> **[Teslarati]** SpaceX delays Starlink doubleheader
 - <a href="https://www.nasaspaceflight.com/2023/01/starlink-group-2-6-and-5-3/" >🔗</a> **[NASASpaceflight]** SpaceX launches first flight of cross-country Starlink doubleheader
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-group-2-6-and-5-3/" >🔗</a> **[NASASpaceflight]** Second flight of cross-country Starlink doubleheader targeting Thursday
+- <a href="https://spaceflightnow.com/2023/02/02/falcon-9-starlink-5-3-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX set to launch 53 more Starlink internet satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T063632">2023-02-02 06:36:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230202T070633">2023-02-02 07:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
