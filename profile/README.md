@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/" >🔗</a> **[NASASpaceflight]** NASA flight software for SLS navigates through clean first launch
+- <a href="https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/" >🔗</a> **[Arstechnica]** When will United Launch Alliance’s Vulcan rocket fly?
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/" >🔗</a> **[Arstechnica]** Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?
 - <a href="https://www.teslarati.com/spacex-falcon-9-rocket-200th-successful-launch/" >🔗</a> **[Teslarati]** SpaceX Starlink Gen2 mission marks Falcon 9 rocket’s 200th successful launch
 - <a href="https://spaceflightnow.com/2023/02/02/iss-us-eva-85/" >🔗</a> **[Spaceflight Now]** Space station astronauts finish preps for next pair of new solar arrays
-- <a href="https://www.cnbc.com/2023/02/02/investing-in-space-picture-day.html" >🔗</a> **[CNBC]** Investing in Space: Picture day
-- <a href="http://www.nasa.gov/press-release/joe-acab-de-la-nasa-ser-el-astronauta-jefe-de-la-agencia" >🔗</a> **[NASA]** Joe Acabá, de la NASA, será el astronauta jefe de la agencia
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T160814">2023-02-03 16:08:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T164211">2023-02-03 16:42:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
