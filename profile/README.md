@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/why-would-the-chinese-government-be-flying-a-large-stratospheric-balloon/" >🔗</a> **[Arstechnica]** Why would the Chinese government be flying a large stratospheric balloon?
+- <a href="http://www.nasa.gov/press-release/nasa-awards-spacecraft-processing-operations-contract" >🔗</a> **[NASA]** NASA Awards Spacecraft Processing Operations Contract
 - <a href="http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities" >🔗</a> **[NASA]** NASA Awards Millions to Historically Black Colleges, Universities
 - <a href="https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/" >🔗</a> **[NASASpaceflight]** NASA flight software for SLS navigates through clean first launch
 - <a href="https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/" >🔗</a> **[Arstechnica]** When will United Launch Alliance’s Vulcan rocket fly?
-- <a href="https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/" >🔗</a> **[Arstechnica]** Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?
-- <a href="https://www.teslarati.com/spacex-falcon-9-rocket-200th-successful-launch/" >🔗</a> **[Teslarati]** SpaceX Starlink Gen2 mission marks Falcon 9 rocket’s 200th successful launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T213157">2023-02-03 21:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T220623">2023-02-03 22:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
