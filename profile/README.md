@@ -89,11 +89,11 @@ into *a Geostationary Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities" >🔗</a> **[NASA]** NASA Awards Millions to Historically Black Colleges, Universities
 - <a href="https://www.nasaspaceflight.com/2023/02/artemis-1-flight-software/" >🔗</a> **[NASASpaceflight]** NASA flight software for SLS navigates through clean first launch
 - <a href="https://arstechnica.com/science/2023/02/when-will-united-launch-alliances-vulcan-rocket-fly/" >🔗</a> **[Arstechnica]** When will United Launch Alliance’s Vulcan rocket fly?
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-tearing-down-arianes-susie-concept-is-chatgpt-a-rocket-scientist/" >🔗</a> **[Arstechnica]** Rocket Report: Tearing down Ariane’s SUSIE concept; is ChatGPT a rocket scientist?
 - <a href="https://www.teslarati.com/spacex-falcon-9-rocket-200th-successful-launch/" >🔗</a> **[Teslarati]** SpaceX Starlink Gen2 mission marks Falcon 9 rocket’s 200th successful launch
-- <a href="https://spaceflightnow.com/2023/02/02/iss-us-eva-85/" >🔗</a> **[Spaceflight Now]** Space station astronauts finish preps for next pair of new solar arrays
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T203135">2023-02-03 20:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230203T210555">2023-02-03 21:05:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
