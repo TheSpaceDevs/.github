@@ -20,10 +20,10 @@ The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Proton-M/Blok DM-03 | Elektro-L No.4**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="">Unknown Pad</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
+from *<a href="">81/24 (81P)</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T091252">2023-02-05 09:12:52 UTC</a>.  Until
-then, this pad will have been used for 0
+then, this pad will have been used for 91
 out of 1536 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
@@ -38,7 +38,7 @@ into *a Geostationary Orbit
   <a href="https://en.wikipedia.org/wiki/Proton-M" >
     <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg" />
   </a>
-  <a href="" >
+  <a href="http://maps.google.com/maps?q=46.071+N,+62.985+E" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg"  />
   </a>
 </p>
@@ -102,7 +102,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T193131">2023-02-04 19:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230204T200643">2023-02-04 20:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
