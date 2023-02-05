@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/amazonas-nexus/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Hispasat’s Amazonas Nexus from Cape Canaveral
 - <a href="https://spaceflightnow.com/2023/02/04/spanish-owned-communications-satellite-ready-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Spanish-owned communications satellite ready for weekend launch
 - <a href="https://www.cnbc.com/2023/02/04/inside-relativity-spaces-monster-factory-3d-printing-reusable-rockets.html" >🔗</a> **[CNBC]** Inside the ‘Wormhole,’ Relativity Space’s monster factory 3D-printing reusable rockets
 - <a href="https://arstechnica.com/science/2023/02/why-would-the-chinese-government-be-flying-a-large-stratospheric-balloon/" >🔗</a> **[Arstechnica]** Why would the Chinese government be flying a large stratospheric balloon?
 - <a href="http://www.nasa.gov/press-release/nasa-awards-spacecraft-processing-operations-contract" >🔗</a> **[NASA]** NASA Awards Spacecraft Processing Operations Contract
-- <a href="http://www.nasa.gov/press-release/nasa-awards-millions-to-historically-black-colleges-universities" >🔗</a> **[NASA]** NASA Awards Millions to Historically Black Colleges, Universities
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T173134">2023-02-05 17:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230205T180721">2023-02-05 18:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
