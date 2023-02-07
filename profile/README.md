@@ -92,8 +92,8 @@ into *a Low Earth Orbit
 - <a href="http://www.nasa.gov/press-release/new-york-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** New York Students to Hear from NASA Astronaut Aboard Space Station
 - <a href="http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0" >🔗</a> **[NASA]** NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report
 - <a href="https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/" >🔗</a> **[Arstechnica]** Here’s why Europe is abandoning plans to fly aboard China’s space station
+- <a href="https://www.nasaspaceflight.com/2023/02/mars2020-update/" >🔗</a> **[NASASpaceflight]** Perseverance completes sample return depot, Ingenuity continues flights
 - <a href="https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/" >🔗</a> **[NASASpaceflight]** Using Hubble, researchers measure the mass of a single white dwarf for the first time
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-27th-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 27th Resupply Launch to Space Station
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T203149">2023-02-07 20:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T210618">2023-02-07 21:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
