@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-simulation-and-software-technology-services-contract" >🔗</a> **[NASA]** NASA Awards Simulation and Software Technology Services Contract
 - <a href="http://www.nasa.gov/press-release/new-york-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** New York Students to Hear from NASA Astronaut Aboard Space Station
 - <a href="http://www.nasa.gov/press-release/nasas-aerospace-safety-advisory-panel-releases-2022-annual-report-0" >🔗</a> **[NASA]** NASA's Aerospace Safety Advisory Panel Releases 2022 Annual Report
 - <a href="https://arstechnica.com/science/2023/02/heres-why-europe-is-abandoning-plans-to-fly-aboard-chinas-space-station/" >🔗</a> **[Arstechnica]** Here’s why Europe is abandoning plans to fly aboard China’s space station
 - <a href="https://www.nasaspaceflight.com/2023/02/mars2020-update/" >🔗</a> **[NASASpaceflight]** Perseverance completes sample return depot, Ingenuity continues flights
-- <a href="https://www.nasaspaceflight.com/2023/02/white-dwarf-mass-measurement/" >🔗</a> **[NASASpaceflight]** Using Hubble, researchers measure the mass of a single white dwarf for the first time
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T213155">2023-02-07 21:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230207T220629">2023-02-07 22:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
