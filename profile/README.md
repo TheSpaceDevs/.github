@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster
 - <a href="https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/" >🔗</a> **[Arstechnica]** SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]
 - <a href="http://www.nasa.gov/press-release/nasa-launches-new-framework-for-procurement-ideas-solutions" >🔗</a> **[NASA]** NASA Launches New Framework for Procurement Ideas, Solutions
 - <a href="https://www.cnbc.com/2023/02/09/spacex-test-fires-starship-booster.html" >🔗</a> **[CNBC]** SpaceX successfully test fires Starship booster in last key step before orbital launch
 - <a href="https://www.nasaspaceflight.com/2023/02/starship-b7-static-fire/" >🔗</a> **[NASASpaceflight]** Starship program conducts major test, firing 31 of 33 Super Heavy engines
-- <a href="https://www.cnbc.com/2023/02/09/investing-in-space-starship-in-the-dc-spotlight.html" >🔗</a> **[CNBC]** Investing in Space: Starship in the D.C. spotlight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T223410">2023-02-09 22:34:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T230736">2023-02-09 23:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
