@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/" >🔗</a> **[Arstechnica]** Booster 7’s big day: An unprecedented test-firing of 33 Raptor rocket engines
+- <a href="https://www.nasaspaceflight.com/2023/02/starship-b7-static-fire/" >🔗</a> **[NASASpaceflight]** Starship program prepares for major test with 33 engine Static Fire
 - <a href="https://spaceflightnow.com/2023/02/09/soyuz-progress-ms-22-launch/" >🔗</a> **[Spaceflight Now]** Russian Progress resupply ship launches on flight to space station
 - <a href="https://www.nasaspaceflight.com/2023/02/progress-ms-22/" >🔗</a> **[NASASpaceflight]** Progress MS-22 resupply ship launches to ISS
 - <a href="https://spaceflightnow.com/2023/02/09/watch-live-russian-progress-resupply-ship-ready-for-launch-to-space-station/" >🔗</a> **[Spaceflight Now]** Watch live: Russian Progress resupply ship ready for launch to space station
-- <a href="http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract" >🔗</a> **[NASA]** NASA Awards Environmental Compliance, Operations Contract
-- <a href="https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html" >🔗</a> **[CNBC]** SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T140651">2023-02-09 14:06:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T143312">2023-02-09 14:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
