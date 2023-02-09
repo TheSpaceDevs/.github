@@ -31,7 +31,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Second test flight of Indian SSLV (Small Satellite Launch Vehicle). The payloads include an Earth observation satellite EOS-7, Janus-1 from US firm Antaris and another domestic rideshare satellite.
+  Second test flight of Indian SSLV (Small Satellite Launch Vehicle). The payloads include an Earth observation satellite EOS-7, Janus-1 from US firm Antaris, and another domestic satellite AzaadiSAT-2.
 </blockquote>
 
 <p float="left" align="center">
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T203209">2023-02-09 20:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T210617">2023-02-09 21:06:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
