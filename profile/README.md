@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/02/09/watch-live-russian-progress-resupply-ship-ready-for-launch-to-space-station/" >🔗</a> **[Spaceflight Now]** Watch live: Russian Progress resupply ship ready for launch to space station
 - <a href="http://www.nasa.gov/press-release/nasa-awards-environmental-compliance-operations-contract" >🔗</a> **[NASA]** NASA Awards Environmental Compliance, Operations Contract
 - <a href="https://www.cnbc.com/2023/02/08/spacex-prepares-test-fire-all-starship-engines-at-once.html" >🔗</a> **[CNBC]** SpaceX prepares for a massive test this week: Firing all 33 Starship engines at once
 - <a href="http://www.nasa.gov/press-release/goddard/2023/nasa-selects-scientific-support-for-goddard-institute-of-space-studies" >🔗</a> **[NASA]** NASA Selects Scientific Support for Goddard Institute of Space Studies
 - <a href="https://mars.nasa.gov/news/9344/" >🔗</a> **[NASA]** NASA's Curiosity Finds Surprise Clues to Mars' Watery Past
-- <a href="https://www.nasaspaceflight.com/2023/02/progress-ms-22/" >🔗</a> **[NASASpaceflight]** Progress MS-22 resupply ship ready for launch to ISS
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T053152">2023-02-09 05:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230209T060907">2023-02-09 06:09:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
