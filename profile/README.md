@@ -89,7 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX’s Super Heavy is lit, Court strikes down Georgia spaceport
+- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport
 - <a href="http://www.nasa.gov/press-release/nasa-selects-blue-origin-to-launch-mars-magnetosphere-study-mission" >🔗</a> **[NASA]** NASA Selects Blue Origin to Launch Mars’ Magnetosphere Study Mission
 - <a href="https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster
 - <a href="https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/" >🔗</a> **[Arstechnica]** SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T131556">2023-02-10 13:15:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230210T133627">2023-02-10 13:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
