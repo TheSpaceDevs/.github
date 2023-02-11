@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/" >🔗</a> **[NASASpaceflight]** SpaceX to break pad turnaround record in support of Starlink
 - <a href="https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/" >🔗</a> **[Spaceflight Now]** Russian cargo ship docks as second Progress suffers sudden loss of coolant
 - <a href="https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/" >🔗</a> **[Arstechnica]** Another Russian spacecraft docked to the space station is leaking
 - <a href="https://www.nasaspaceflight.com/2023/02/progress-ms-22/" >🔗</a> **[NASASpaceflight]** Progress MS-22 arrives at ISS, MS-21 develops coolant loop leak
 - <a href="https://www.cnbc.com/2023/02/10/astronaut-sen-mark-kelly-praises-space-business.html" >🔗</a> **[CNBC]** Astronaut Sen. Kelly touts ‘stunning’ space business growth, calls for more rocket competition
-- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T203145">2023-02-11 20:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T210518">2023-02-11 21:05:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
