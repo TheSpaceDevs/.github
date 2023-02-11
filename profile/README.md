@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/02/11/russian-cargo-ship-docks-as-second-progress-suffers-depressurization-of-coolant-loop/" >🔗</a> **[Spaceflight Now]** Russian cargo ship docks as second Progress suffers sudden loss of coolant
+- <a href="https://arstechnica.com/science/2023/02/another-russian-spacecraft-docked-to-the-space-station-is-leaking/" >🔗</a> **[Arstechnica]** Another Russian spacecraft docked to the space station is leaking
 - <a href="https://www.cnbc.com/2023/02/10/astronaut-sen-mark-kelly-praises-space-business.html" >🔗</a> **[CNBC]** Astronaut Sen. Kelly touts ‘stunning’ space business growth, calls for more rocket competition
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-spacexs-super-heavy-is-lit-court-strikes-down-georgia-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX’s Super Heavy is lit, court strikes down Georgia spaceport
 - <a href="http://www.nasa.gov/press-release/nasa-selects-blue-origin-to-launch-mars-magnetosphere-study-mission" >🔗</a> **[NASA]** NASA Selects Blue Origin to Launch Mars’ Magnetosphere Study Mission
-- <a href="https://spaceflightnow.com/2023/02/09/spacex-test-fires-31-engines-on-starships-gigantic-super-heavy-booster/" >🔗</a> **[Spaceflight Now]** SpaceX test-fires 31 engines on Starship’s gigantic Super Heavy booster
-- <a href="https://arstechnica.com/science/2023/02/as-early-as-today-starship-faces-its-final-exam-before-a-launch-attempt/" >🔗</a> **[Arstechnica]** SpaceX completes a hot fire test of its massive Super Heavy rocket [Updated]
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T170456">2023-02-11 17:04:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230211T173134">2023-02-11 17:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
