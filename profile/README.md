@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html" >🔗</a> **[CNBC]** Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine
 - <a href="https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/" >🔗</a> **[Arstechnica]** It’s not aliens. It’ll probably never be aliens. So stop. Please just stop.
 - <a href="http://www.nasa.gov/press-release/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew" >🔗</a> **[NASA]** NASA, Partners Clear Axiom’s Second Private Astronaut Mission Crew
 - <a href="https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare/" >🔗</a> **[Arstechnica]** Blue Origin makes a big lunar announcement without any fanfare
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-5-4-and-2-5/" >🔗</a> **[NASASpaceflight]** SpaceX breaks pad turnaround record in support of Starlink
-- <a href="https://www.teslarati.com/spacex-rolls-naked-starship-prototype-to-test-site/" >🔗</a> **[Teslarati]** SpaceX rolls naked Starship prototype to test site
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230213T233202">2023-02-13 23:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T003746">2023-02-14 00:37:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
