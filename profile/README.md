@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/" >🔗</a> **[Arstechnica]** After a decade in development, Japan’s H3 rocket is ready for its debut
 - <a href="https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/" >🔗</a> **[Teslarati]** SpaceX prioritizes Starship test flights, pauses plans for floating launch pads
 - <a href="https://mars.nasa.gov/news/9348/" >🔗</a> **[NASA]** NASA's Perseverance Rover Shows Off Collection of Mars Samples
 - <a href="https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html" >🔗</a> **[CNBC]** Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine
 - <a href="https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/" >🔗</a> **[Arstechnica]** It’s not aliens. It’ll probably never be aliens. So stop. Please just stop.
-- <a href="http://www.nasa.gov/press-release/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew" >🔗</a> **[NASA]** NASA, Partners Clear Axiom’s Second Private Astronaut Mission Crew
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T153442">2023-02-15 15:34:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T160907">2023-02-15 16:09:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
