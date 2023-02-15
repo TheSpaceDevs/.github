@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-halts-starship-offshore-launch-pad-development/" >🔗</a> **[Teslarati]** SpaceX prioritizes Starship test flights, pauses plans for floating launch pads
 - <a href="https://mars.nasa.gov/news/9348/" >🔗</a> **[NASA]** NASA's Perseverance Rover Shows Off Collection of Mars Samples
 - <a href="https://www.cnbc.com/2023/02/13/elon-musk-scott-kelly-debate-use-of-starlink-in-ukraine.html" >🔗</a> **[CNBC]** Elon Musk and astronaut Scott Kelly debate use of Starlink in Ukraine
 - <a href="https://arstechnica.com/science/2023/02/its-not-aliens-itll-probably-never-be-aliens-so-stop-please-just-stop/" >🔗</a> **[Arstechnica]** It’s not aliens. It’ll probably never be aliens. So stop. Please just stop.
 - <a href="http://www.nasa.gov/press-release/nasa-partners-clear-axiom-s-second-private-astronaut-mission-crew" >🔗</a> **[NASA]** NASA, Partners Clear Axiom’s Second Private Astronaut Mission Crew
-- <a href="https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare/" >🔗</a> **[Arstechnica]** Blue Origin makes a big lunar announcement without any fanfare
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230214T233151">2023-02-14 23:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T003723">2023-02-15 00:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
