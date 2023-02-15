@@ -104,11 +104,12 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2021/09/japan-h3-engine-certification-first-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 rocket awaiting final engine certification for first flight
 - <a href="https://spacenews.com/japans-h3-rocket-further-delayed-by-engine-woes/" >🔗</a> **[SpaceNews]** Japan’s H3 rocket further delayed by engine woes
 - <a href="https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/" >🔗</a> **[Arstechnica]** Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut
+- <a href="https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/" >🔗</a> **[Arstechnica]** After a decade in development, Japan’s H3 rocket is ready for its debut
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T170635">2023-02-15 17:06:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230215T173248">2023-02-15 17:32:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
