@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/" >🔗</a> **[SpaceNews]** Analyst: U.S. military space budget likely to get another boost in 2024
+- <a href="https://www.nasaspaceflight.com/2023/02/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi to debut cost-cutting H3 rocket
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-host-media-call-on-first-crewed-starliner-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Host Media Call on First Crewed Starliner Flight Test
 - <a href="https://www.nasaspaceflight.com/2023/02/starliner-orion-crew-preparations/" >🔗</a> **[NASASpaceflight]** Crew operations training gears up for Starliner and Orion
 - <a href="https://spacenews.com/the-u-s-space-force-accepted-delivery-of-the-10th-and-final-gps-3-satellite-made-by-lockheed-martin-under-a-2008-contract/" >🔗</a> **[SpaceNews]** Lockheed Martin completes delivery of 10th GPS 3 satellite
-- <a href="https://spacenews.com/opinion-a-new-leap-in-opportunities-for-the-exploration-and-utilization-of-space/" >🔗</a> **[SpaceNews]** Opinion | A new leap in opportunities for the exploration and utilization of space
-- <a href="https://www.cnbc.com/2023/02/16/investing-in-space-the-space-station-kingmaker.html" >🔗</a> **[CNBC]** Investing in Space: The space station kingmaker
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T223307">2023-02-16 22:33:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T230742">2023-02-16 23:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
