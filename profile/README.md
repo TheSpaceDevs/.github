@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/02/16/investing-in-space-the-space-station-kingmaker.html" >🔗</a> **[CNBC]** Investing in Space: The space station kingmaker
 - <a href="https://spacenews.com/chinese-rocket-firm-space-pioneer-set-for-first-launch/" >🔗</a> **[SpaceNews]** Chinese rocket firm Space Pioneer set for first launch
 - <a href="https://spacenews.com/virgin-galactic-aircraft-returns-to-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic aircraft returns to flight
 - <a href="https://spacenews.com/boeing-opens-sls-eus-production-facility/" >🔗</a> **[SpaceNews]** Boeing opens SLS EUS production facility
 - <a href="https://spacenews.com/europe-approves-multi-orbit-connectivity-constellation-plan/" >🔗</a> **[SpaceNews]** Europe approves multi-orbit connectivity constellation plan
-- <a href="https://spacenews.com/pentagon-working-with-congress-on-unclassified-space-strategy/" >🔗</a> **[SpaceNews]** Pentagon working with Congress on unclassified space strategy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T160929">2023-02-16 16:09:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T164405">2023-02-16 16:44:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
