@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/starliner-orion-crew-preparations/" >🔗</a> **[NASASpaceflight]** Crew operations training gears up for Starliner and Orion
+- <a href="https://spacenews.com/the-u-s-space-force-accepted-delivery-of-the-10th-and-final-gps-3-satellite-made-by-lockheed-martin-under-a-2008-contract/" >🔗</a> **[SpaceNews]** Lockheed Martin completes delivery of 10th GPS 3 satellite
 - <a href="https://spacenews.com/opinion-a-new-leap-in-opportunities-for-the-exploration-and-utilization-of-space/" >🔗</a> **[SpaceNews]** Opinion | A new leap in opportunities for the exploration and utilization of space
 - <a href="https://www.cnbc.com/2023/02/16/investing-in-space-the-space-station-kingmaker.html" >🔗</a> **[CNBC]** Investing in Space: The space station kingmaker
 - <a href="https://spacenews.com/chinese-rocket-firm-space-pioneer-set-for-first-launch/" >🔗</a> **[SpaceNews]** Chinese rocket firm Space Pioneer set for first launch
-- <a href="https://spacenews.com/virgin-galactic-aircraft-returns-to-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic aircraft returns to flight
-- <a href="https://spacenews.com/boeing-opens-sls-eus-production-facility/" >🔗</a> **[SpaceNews]** Boeing opens SLS EUS production facility
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T193149">2023-02-16 19:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230216T200746">2023-02-16 20:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
