@@ -95,11 +95,11 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-agency-s-spacex-crew-6-events-launch" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-6 Events, Launch
 - <a href="https://spaceflightnow.com/2023/02/17/falcon-9-launch-from-california-adds-51-more-satellites-to-starlink-network/" >🔗</a> **[Spaceflight Now]** Falcon 9 launch from California adds 51 more satellites to Starlink network
 - <a href="https://spacenews.com/nasa-conducting-cybersecurity-review-of-deep-space-network-tracking-site/" >🔗</a> **[SpaceNews]** NASA conducting cybersecurity review of Deep Space Network tracking site
 - <a href="https://spacenews.com/op-ed-enlisting-ai-to-secure-the-space-domain/" >🔗</a> **[SpaceNews]** Op-ed | Enlisting AI to secure the space domain
 - <a href="https://spacenews.com/opinion-inflations-squeeze-on-space-and-national-security-contracts/" >🔗</a> **[SpaceNews]** Opinion | Inflation’s squeeze on space and national security contracts
-- <a href="https://spacenews.com/faa-proposes-fining-spacex-for-missing-launch-data/" >🔗</a> **[SpaceNews]** FAA proposes fining SpaceX for missing launch data
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T223321">2023-02-17 22:33:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T230701">2023-02-17 23:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
