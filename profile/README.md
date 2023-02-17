@@ -18,34 +18,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**H3-22 | ALOS-3 (Maiden flight)**. It is scheduled to be launched by *Mitsubishi Heavy Industries*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex</a>, Tanegashima, Japan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T013755">2023-02-17 01:37:55 UTC</a>.  Until
-then, this pad will have been used for 40
-out of 85 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 2-5**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T191200">2023-02-17 19:12:00 UTC</a>.  Until
+then, this pad will have been used for 102
+out of 711 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Maiden flight of the H3 launch vehicle, carrying the Advanced Land Observing Satellite-3 (ALOS-3).
+  A batch of 51 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/H3_(rocket)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h3-222520257c_image_20230216145357.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221221211141.png" />
   </a>
-  <a href="https://www.google.com/maps/place/30Â°24'08.0"N+130Â°58'30.0"E/" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_26_20200803142507.jpg"  />
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T013755">2023-02-17 01:37:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230217T013755Z%2F20230217T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T191200">2023-02-17 19:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-5&location=Vandenberg SFB, CA, USA&dates=20230217T191200Z%2F20230217T191200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-5** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T013755">2023-02-18 01:37:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230218T013755Z%2F20230218T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T035900">2023-02-18 03:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Inmarsat-6 F2&location=Cape Canaveral, FL, USA&dates=20230218T035900Z%2F20230218T052800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Inmarsat-6 F2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T000000">2023-02-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230223T000000Z%2F20230223T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T003400">2023-02-24 00:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-23&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230224T003400Z%2F20230224T003400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-23** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -91,25 +91,18 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/nasa-advisers-raise-concerns-about-artemis-safety-and-workforce/" >🔗</a> **[SpaceNews]** NASA advisers raise concerns about Artemis safety and workforce
 - <a href="https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/" >🔗</a> **[SpaceNews]** Analyst: U.S. military space budget likely to get another boost in 2024
-- <a href="https://www.nasaspaceflight.com/2023/02/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi to debut cost-cutting H3 rocket
+- <a href="https://www.nasaspaceflight.com/2023/02/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi aborts cost-cutting H3 rocket at T-0
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-host-media-call-on-first-crewed-starliner-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Host Media Call on First Crewed Starliner Flight Test
 - <a href="https://www.nasaspaceflight.com/2023/02/starliner-orion-crew-preparations/" >🔗</a> **[NASASpaceflight]** Crew operations training gears up for Starliner and Orion
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/first-h3-launch-slips-to-2021/" >🔗</a> **[SpaceNews]** First H3 launch slips to 2021
-- <a href="https://spacenews.com/japans-new-h3-launcher-delayed-by-rocket-engine-component-issues/" >🔗</a> **[SpaceNews]** Japan’s new H3 launcher delayed by rocket engine component issues
-- <a href="https://spacenews.com/jaxa-ships-new-h3-rocket-to-tanegashima-space-center-for-testing/" >🔗</a> **[SpaceNews]** JAXA ships new H3 rocket to Tanegashima Space Center for testing
-- <a href="https://www.nasaspaceflight.com/2021/09/japan-h3-engine-certification-first-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 rocket awaiting final engine certification for first flight
-- <a href="https://spacenews.com/japans-h3-rocket-further-delayed-by-engine-woes/" >🔗</a> **[SpaceNews]** Japan’s H3 rocket further delayed by engine woes
-- <a href="https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/" >🔗</a> **[Arstechnica]** Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut
-- <a href="https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/" >🔗</a> **[Arstechnica]** After a decade in development, Japan’s H3 rocket is ready for its debut
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T004013">2023-02-17 00:40:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T021920">2023-02-17 02:19:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
