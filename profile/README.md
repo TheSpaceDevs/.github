@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-proposes-fining-spacex-for-missing-launch-data/" >🔗</a> **[SpaceNews]** FAA proposes fining SpaceX for missing launch data
 - <a href="https://mars.nasa.gov/news/9349/" >🔗</a> **[NASA]** NASA's Perseverance Rover Set to Begin Third Year at Jezero Crater
 - <a href="https://spacenews.com/ai-startup-using-satellite-imagery-to-trace-the-path-of-chinese-balloon/" >🔗</a> **[SpaceNews]** AI startup using satellite imagery to trace the path of Chinese balloon
 - <a href="https://www.cnbc.com/2023/02/17/faa-spacex-fine-launch-data.html" >🔗</a> **[CNBC]** FAA wants to fine SpaceX $175,000 for failing to submit data before a launch
 - <a href="https://spacenews.com/h3-launch-abort/" >🔗</a> **[SpaceNews]** Japan aborts H3 launch moments before liftoff
-- <a href="https://spacenews.com/first-launcher-orbital-transfer-vehicle-fails/" >🔗</a> **[SpaceNews]** First Launcher orbital transfer vehicle fails
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T173156">2023-02-17 17:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T180828">2023-02-17 18:08:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
