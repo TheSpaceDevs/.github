@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/first-launcher-orbital-transfer-vehicle-fails/" >🔗</a> **[SpaceNews]** First Launcher orbital transfer vehicle fails
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-indias-new-rocket-soars-canadian-balloon-launch-company-pops/" >🔗</a> **[Arstechnica]** Rocket Report: New Glenn scores NASA contract; SpaceX matches global launch output
 - <a href="https://spaceflightnow.com/2023/02/17/first-launch-of-japans-h3-rocket-aborted-moments-before-liftoff/" >🔗</a> **[Spaceflight Now]** First launch of Japan’s H3 rocket aborted moments before liftoff
-- <a href="https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/" >🔗</a> **[SpaceNews]** Space Force to change how it buys national security launch services
+- <a href="https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/" >🔗</a> **[SpaceNews]** Space Force to change how it buys national security launches
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T133545">2023-02-17 13:35:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T140644">2023-02-17 14:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
