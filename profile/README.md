@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-u-s-space-force-on-feb-16-released-its-procurement-strategy-for-the-next-national-security-launch-services-contracts-expected-to-be-awarded-in-2024/" >🔗</a> **[SpaceNews]** Space Force to change how it buys national security launch services
 - <a href="https://spacenews.com/nasa-advisers-raise-concerns-about-artemis-safety-and-workforce/" >🔗</a> **[SpaceNews]** NASA advisers raise concerns about Artemis safety and workforce
 - <a href="https://spacenews.com/the-biden-administration-in-its-budget-proposal-for-fiscal-year-2024-is-likely-to-seek-a-significant-increase-for-the-u-s-space-force/" >🔗</a> **[SpaceNews]** Analyst: U.S. military space budget likely to get another boost in 2024
 - <a href="https://www.nasaspaceflight.com/2023/02/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi aborts cost-cutting H3 rocket at T-0
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-host-media-call-on-first-crewed-starliner-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Host Media Call on First Crewed Starliner Flight Test
-- <a href="https://www.nasaspaceflight.com/2023/02/starliner-orion-crew-preparations/" >🔗</a> **[NASASpaceflight]** Crew operations training gears up for Starliner and Orion
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T021920">2023-02-17 02:19:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230217T030206">2023-02-17 03:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
