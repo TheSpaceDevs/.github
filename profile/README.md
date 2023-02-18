@@ -18,31 +18,25 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Inmarsat-6 F2**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-1**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T035900">2023-02-18 03:59:00 UTC</a>.  Until
-then, this pad will have been used for 169
-out of 874 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183700">2023-02-23 18:37:00 UTC</a>.  Until
+then, this pad will have been used for 170
+out of 875 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Inmarsat-6 is the sixth generation of satellites for the London-based global mobile satellite communications operator Inmarsat. It consists of a dual mission to augment both L-band and Ka-band Global Xpress services.
-
-Airbus Defence and Space has been awarded a contract by Inmarsat to design and develop the first two Inmarsat-6 (I-6) mobile communications satellites, creating the most versatile mobile services satellites in its fleet.
-
-The two I-6 satellites are based on Airbus Defence and Space's Eurostar platform in its E3000e variant, which exclusively uses electric propulsion for orbit raising. The satellites take advantage of the reduction in mass that this electric propulsion technology enables for a dual payload mission, with an exceptionally large next generation digitally processed payload.
-
-I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam Ka-band antennas, and feature a high level of flexibility and connectivity. A new generation modular digital processor provides full routing flexibility over up to 8000 channels and dynamic power allocation to over 200 spot beams in L-band. Ka-band spot beams are steerable over the full Earth disk, with flexible channel to beam allocation.
+  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221220084708.png" />
   </a>
   <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
@@ -50,7 +44,6 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T035900">2023-02-18 03:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Inmarsat-6 F2&location=Cape Canaveral, FL, USA&dates=20230218T035900Z%2F20230218T052800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Inmarsat-6 F2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T183700">2023-02-23 18:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230223T183700Z%2F20230223T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T003400">2023-02-24 00:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-23&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230224T003400Z%2F20230224T003400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-23** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T070700">2023-02-26 07:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230226T070700Z%2F20230226T070700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-6** from Kennedy Space Center, FL, USA.
@@ -60,6 +53,7 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T194400">2023-03-01 19:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230301T194400Z%2F20230301T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T003500">2023-03-09 00:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230309T003500Z%2F20230309T003500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-18 & SES-19** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T000000">2023-03-11 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Orbital Flight Test&location=SpaceX Space Launch Facility, TX, USA&dates=20230311T000000Z%2F20230311T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Orbital Flight Test** from SpaceX Space Launch Facility, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T015900">2023-03-11 01:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230311T015900Z%2F20230311T015900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,17 +93,16 @@ I-6 F1 and F2 both carry a large 9 m aperture L-band antenna and nine multibeam 
 - <a href="https://spacenews.com/peraton-wins-noaa-contract/" >🔗</a> **[SpaceNews]** Peraton wins NOAA contract
 - <a href="https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/" >🔗</a> **[SpaceNews]** First crewed Starliner mission on track for April
 - <a href="https://spaceflightnow.com/2023/02/17/falcon-9-inmarsat-6-f2-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX to complete Friday doubleheader with launch for Inmarsat
-- <a href="https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Inmarsat I-6 F2 for 12th mission of 2023
+- <a href="https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/" >🔗</a> **[NASASpaceflight]** SpaceX launches Inmarsat I-6 F2 on 12th mission of 2023
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/inmarsat-6-f2-satellite-completes-three-day-trip-to-spacex-launch-site/" >🔗</a> **[SpaceNews]** Inmarsat-6 F2 satellite completes three-day trip to SpaceX launch site
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T033202">2023-02-18 03:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T044821">2023-02-18 04:48:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
