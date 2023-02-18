@@ -92,8 +92,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eutelsat-nearly-ready-to-seek-bids-for-building-oneweb-gen-2/" >🔗</a> **[SpaceNews]** Eutelsat nearly ready to seek bids for building OneWeb Gen 2
 - <a href="https://spacenews.com/peraton-wins-noaa-contract/" >🔗</a> **[SpaceNews]** Peraton wins NOAA contract
 - <a href="https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/" >🔗</a> **[SpaceNews]** First crewed Starliner mission on track for April
-- <a href="https://spaceflightnow.com/2023/02/17/falcon-9-inmarsat-6-f2-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX to complete Friday doubleheader with launch for Inmarsat
 - <a href="https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/" >🔗</a> **[NASASpaceflight]** SpaceX launches Inmarsat I-6 F2 on 12th mission of 2023
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-agency-s-spacex-crew-6-events-launch" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-6 Events, Launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T073129">2023-02-18 07:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T080823">2023-02-18 08:08:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
