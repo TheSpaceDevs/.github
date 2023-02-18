@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-inmarsat-6-f2-in-a-boost-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** SpaceX launches Inmarsat-6 F2 in a boost for direct-to-device services
 - <a href="https://spacenews.com/russia-reschedules-soyuz-launch-after-progress-undocks/" >🔗</a> **[SpaceNews]** Russia reschedules Soyuz launch after Progress undocks
 - <a href="https://spacenews.com/eutelsat-nearly-ready-to-seek-bids-for-building-oneweb-gen-2/" >🔗</a> **[SpaceNews]** Eutelsat nearly ready to seek bids for building OneWeb Gen 2
 - <a href="https://spacenews.com/peraton-wins-noaa-contract/" >🔗</a> **[SpaceNews]** Peraton wins NOAA contract
 - <a href="https://spacenews.com/first-crewed-starliner-mission-on-track-for-april/" >🔗</a> **[SpaceNews]** First crewed Starliner mission on track for April
-- <a href="https://www.nasaspaceflight.com/2023/02/inmarsat-i-6-f2/" >🔗</a> **[NASASpaceflight]** SpaceX launches Inmarsat I-6 F2 on 12th mission of 2023
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T223149">2023-02-18 22:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230218T230642">2023-02-18 23:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
