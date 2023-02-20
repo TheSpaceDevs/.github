@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/lance-bass-was-kicked-off-a-russian-spaceflight-two-decades-ago-now-hes-back/" >🔗</a> **[Arstechnica]** Lance Bass was kicked off a Russian spaceflight two decades ago—now he’s back
 - <a href="https://www.nasaspaceflight.com/2023/02/esas-david-parker/" >🔗</a> **[NASASpaceflight]** ESA’s David Parker updates status of Orion service modules and European astronauts for Artemis
 - <a href="https://spacenews.com/esa-china-conduct-spacecraft-rocket-integration-tests-but-joint-science-mission-delayed-to-2025/" >🔗</a> **[SpaceNews]** ESA, China conduct spacecraft-rocket integration tests but joint science mission delayed to 2025
 - <a href="https://spacenews.com/nsl-unveils-new-black-box/" >🔗</a> **[SpaceNews]** NSL unveils new Black Box
 - <a href="https://spacenews.com/office-of-space-commerce-examines-options-for-commercial-ssa-pilot-project-in-leo/" >🔗</a> **[SpaceNews]** Office of Space Commerce examines options for commercial SSA pilot project in LEO
-- <a href="https://spacenews.com/spacex-launches-inmarsat-6-f2-in-a-boost-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** SpaceX launches Inmarsat-6 F2 in a boost for direct-to-device services
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T183636">2023-02-20 18:36:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230220T190459">2023-02-20 19:04:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
