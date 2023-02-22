@@ -53,7 +53,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T000000">2023-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Fengyun-3F&location=Unknown Location&dates=20230228T000000Z%2F20230228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Fengyun-3F** from Unknown Location.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T013755">2023-02-28 01:37:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230228T013755Z%2F20230228T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T194400">2023-03-01 19:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230301T194400Z%2F20230301T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T003500">2023-03-09 00:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230309T003500Z%2F20230309T003500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-18 & SES-19** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/starship-delving-deeper/" >🔗</a> **[NASASpaceflight]** Delving Deeper: Super Heavy thrust and counting down to flight
 - <a href="https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/" >🔗</a> **[SpaceNews]** Terran Orbital announces $2.4 billion Rivada Space Networks contract
 - <a href="https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html" >🔗</a> **[CNBC]** SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity
 - <a href="https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/" >🔗</a> **[SpaceNews]** Capella teams with analytics firms to promote use of radar imagery
-- <a href="https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html" >🔗</a> **[CNBC]** Terran Orbital stock surges after winning $2.4 billion contract to build satellites for Rivada
-- <a href="https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/" >🔗</a> **[SpaceNews]** Crew-6 launch slips as Progress leak investigation continues
+- <a href="https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html" >🔗</a> **[CNBC]** Terran Orbital surges 80% after winning $2.4 billion contract to build satellites for Rivada
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T170618">2023-02-22 17:06:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T173256">2023-02-22 17:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
