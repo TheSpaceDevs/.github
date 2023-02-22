@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-virtual-aviation-showcase-to-highlight-transformative-innovation" >🔗</a> **[NASA]** NASA Virtual Aviation Showcase to Highlight Transformative Innovation
 - <a href="https://www.nasaspaceflight.com/2023/02/starship-delving-deeper/" >🔗</a> **[NASASpaceflight]** Delving Deeper: Super Heavy thrust and counting down to flight
 - <a href="https://spacenews.com/terran-orbital-announces-2-4-billion-rivada-space-networks-contract/" >🔗</a> **[SpaceNews]** Terran Orbital announces $2.4 billion Rivada Space Networks contract
 - <a href="https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html" >🔗</a> **[CNBC]** SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity
 - <a href="https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/" >🔗</a> **[SpaceNews]** Capella teams with analytics firms to promote use of radar imagery
-- <a href="https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html" >🔗</a> **[CNBC]** Terran Orbital surges 80% after winning $2.4 billion contract to build satellites for Rivada
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T183741">2023-02-22 18:37:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T190542">2023-02-22 19:05:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
