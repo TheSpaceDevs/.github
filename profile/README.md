@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/" >🔗</a> **[SpaceNews]** Crew-6 launch slips as Progress leak investigation continues
 - <a href="https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/" >🔗</a> **[SpaceNews]** Space Force: Smaller launchers made case to compete for national security contracts
 - <a href="https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/" >🔗</a> **[SpaceNews]** SpaceX proceeding with Starship orbital launch attempt after static fire
 - <a href="https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/" >🔗</a> **[SpaceNews]** How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next
 - <a href="https://spacenews.com/military-to-tap-commercial-industry-for-space-mobility-services/" >🔗</a> **[SpaceNews]** Military to tap commercial industry for ‘space mobility’ services
-- <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-launch-docking-of-replacement-soyuz" >🔗</a> **[NASA]** NASA Sets TV Coverage for Launch, Docking of Replacement Soyuz
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T113147">2023-02-22 11:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T121316">2023-02-22 12:13:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
