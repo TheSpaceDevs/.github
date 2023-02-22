@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/" >🔗</a> **[SpaceNews]** SpaceX proceeding with Starship orbital launch attempt after static fire
 - <a href="https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/" >🔗</a> **[SpaceNews]** How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next
 - <a href="https://spacenews.com/military-to-tap-commercial-industry-for-space-mobility-services/" >🔗</a> **[SpaceNews]** Military to tap commercial industry for ‘space mobility’ services
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-launch-docking-of-replacement-soyuz" >🔗</a> **[NASA]** NASA Sets TV Coverage for Launch, Docking of Replacement Soyuz
 - <a href="https://www.cnbc.com/2023/02/21/jed-mccalebs-vast-acquires-launcher.html" >🔗</a> **[CNBC]** Space station company Vast, founded by billionaire Jed McCaleb, acquires startup Launcher
-- <a href="https://spacenews.com/envisioning-the-next-generation-of-space-telescopes/" >🔗</a> **[SpaceNews]** Envisioning the next generation of space telescopes
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T083722">2023-02-22 08:37:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T090747">2023-02-22 09:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
