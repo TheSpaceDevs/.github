@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/02/22/spacex-starlink-residential-monthly-pricing.html" >🔗</a> **[CNBC]** SpaceX adjusts Starlink monthly pricing for residential customers based on service capacity
+- <a href="https://spacenews.com/capella-teams-with-analytics-firms-to-promote-use-of-radar-imagery/" >🔗</a> **[SpaceNews]** Capella teams with analytics firms to promote use of radar imagery
 - <a href="https://www.cnbc.com/2023/02/22/terran-orbital-wins-2point4-billion-rivada-satellite-contract.html" >🔗</a> **[CNBC]** Terran Orbital stock surges after winning $2.4 billion contract to build satellites for Rivada
 - <a href="https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/" >🔗</a> **[SpaceNews]** Crew-6 launch slips as Progress leak investigation continues
 - <a href="https://spacenews.com/space-force-smaller-launchers-made-case-to-compete-for-national-security-contracts/" >🔗</a> **[SpaceNews]** Space Force: Smaller launchers made case to compete for national security contracts
-- <a href="https://spacenews.com/spacex-proceeding-with-starship-orbital-launch-attempt-after-static-fire/" >🔗</a> **[SpaceNews]** SpaceX proceeding with Starship orbital launch attempt after static fire
-- <a href="https://spacenews.com/how-to-implement-open-architectures-faster-in-ground-systems-legacy-now-and-next/" >🔗</a> **[SpaceNews]** How to Implement Open Architectures Faster in Ground Systems—Legacy, Now, and Next
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T143245">2023-02-22 14:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230222T150714">2023-02-22 15:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
