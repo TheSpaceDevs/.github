@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/" >🔗</a> **[SpaceNews]** Relativity Space sets date for first Terran 1 launch
 - <a href="https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/" >🔗</a> **[SpaceNews]** SAR solutions provider Asterra in talks for first satellite
 - <a href="https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/" >🔗</a> **[SpaceNews]** NASA warns of budget challenges in year ahead
 - <a href="https://spacenews.com/the-future-of-starship-includes-national-security-missions/" >🔗</a> **[SpaceNews]** The future of Starship includes national security missions
 - <a href="https://spacenews.com/chinas-leo-push-looms-over-western-expansion-efforts/" >🔗</a> **[SpaceNews]** China’s LEO push looms over Western expansion efforts
-- <a href="http://www.nasa.gov/press-release/nasa-experts-go-on-tour-with-the-color-of-space-documentary" >🔗</a> **[NASA]** NASA Experts Go on Tour with The Color of Space Documentary
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T003547">2023-02-23 00:35:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T021314">2023-02-23 02:13:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
