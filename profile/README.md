@@ -90,10 +90,10 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/" >🔗</a> **[SpaceNews]** Relativity Space sets date for first Terran 1 launch
+- <a href="https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact" >🔗</a> **[The Launch Pad]** Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks 
 - <a href="https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/" >🔗</a> **[SpaceNews]** SAR solutions provider Asterra in talks for first satellite
+- <a href="https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement" >🔗</a> **[The Launch Pad]** BREAKING! Relativity Receives Launch Licence, Sets Launch Date
 - <a href="https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/" >🔗</a> **[SpaceNews]** NASA warns of budget challenges in year ahead
-- <a href="https://spacenews.com/the-future-of-starship-includes-national-security-missions/" >🔗</a> **[SpaceNews]** The future of Starship includes national security missions
-- <a href="https://spacenews.com/chinas-leo-push-looms-over-western-expansion-efforts/" >🔗</a> **[SpaceNews]** China’s LEO push looms over Western expansion efforts
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T063748">2023-02-23 06:37:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T070647">2023-02-23 07:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
