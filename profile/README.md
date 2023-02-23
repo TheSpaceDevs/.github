@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/02/china-resumes-orbital-launches-with-zhongxing-26-mission" >🔗</a> **[The Launch Pad]** China Resumes Orbital Launches with Zhongxing-26 Satellite Mission
+- <a href="https://tlpnetwork.com/news/2023/02/polaris-dawn-prepares-for-historic-mission-this-summer" >🔗</a> **[The Launch Pad]** Polaris Dawn Crew Prepares For Historic Mission This Summer
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-files-rfp-for-near-space-communication-networks" >🔗</a> **[The Launch Pad]** NASA Expands Lunar Communication Networks
 - <a href="https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html" >🔗</a> **[CNBC]** Investing in Space: Texts from orbit
 - <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission ready for launch
-- <a href="https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/" >🔗</a> **[SpaceNews]** Relativity Space sets date for first Terran 1 launch
-- <a href="https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact" >🔗</a> **[The Launch Pad]** Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks 
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T193205">2023-02-23 19:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T200742">2023-02-23 20:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
