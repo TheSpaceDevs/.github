@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/02/23/investing-in-space-texts-from-orbit.html" >🔗</a> **[CNBC]** Investing in Space: Texts from orbit
+- <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission ready for launch
 - <a href="https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/" >🔗</a> **[SpaceNews]** Relativity Space sets date for first Terran 1 launch
 - <a href="https://tlpnetwork.com/news/2023/02/terran-orbital-secures-rivada-space-networks-contact" >🔗</a> **[The Launch Pad]** Terran Orbital Secures $2.4 Billion Contract to Build 300 Satellites for Rivada Space Networks 
 - <a href="https://spacenews.com/sar-solutions-provider-asterra-in-talks-for-first-satellite/" >🔗</a> **[SpaceNews]** SAR solutions provider Asterra in talks for first satellite
-- <a href="https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement" >🔗</a> **[The Launch Pad]** Relativity Receives Launch Licence, Sets Launch Date
-- <a href="https://spacenews.com/nasa-warns-of-budget-challenges-in-year-ahead/" >🔗</a> **[SpaceNews]** NASA warns of budget challenges in year ahead
 
 
 ### Launch-related News 🚀
@@ -105,11 +105,12 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2023/02/13/russia-delays-next-soyuz-launch-pending-assessment-of-coolant-leaks/" >🔗</a> **[Spaceflight Now]** Russia delays next Soyuz launch pending assessment of coolant leaks
 - <a href="https://spacenews.com/russia-reschedules-soyuz-launch-after-progress-undocks/" >🔗</a> **[SpaceNews]** Russia reschedules Soyuz launch after Progress undocks
 - <a href="http://www.nasa.gov/press-release/nasa-sets-tv-coverage-for-launch-docking-of-replacement-soyuz" >🔗</a> **[NASA]** NASA Sets TV Coverage for Launch, Docking of Replacement Soyuz
+- <a href="https://spaceflightnow.com/2023/02/21/russia-blames-progress-coolant-leak-on-external-influences-as-replacement-soyuz-rolls-to-launch-pad/" >🔗</a> **[Spaceflight Now]** Russia blames Progress leak on ‘external influences’ as new Soyuz preps for launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T170632">2023-02-23 17:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230223T173352">2023-02-23 17:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
