@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission launches to ISS
 - <a href="https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch" >🔗</a> **[The Launch Pad]** BREAKING! ULA Now Targeting May 4th For Vulcan Launch
 - <a href="http://www.nasa.gov/press-release/nasa-awards-consolidated-operations-management-engineering-contract" >🔗</a> **[NASA]** NASA Awards Consolidated Operations, Management, Engineering Contract
 - <a href="https://tlpnetwork.com/news/2023/02/china-resumes-orbital-launches-with-zhongxing-26-mission" >🔗</a> **[The Launch Pad]** China Resumes Orbital Launches with Zhongxing-26 Satellite Mission
 - <a href="https://tlpnetwork.com/news/2023/02/polaris-dawn-prepares-for-historic-mission-this-summer" >🔗</a> **[The Launch Pad]** Polaris Dawn Crew Prepares For Historic Mission This Summer
-- <a href="https://tlpnetwork.com/news/2023/02/nasa-files-rfp-for-near-space-communication-networks" >🔗</a> **[The Launch Pad]** NASA Expands Lunar Communication Networks
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T003646">2023-02-24 00:36:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T021323">2023-02-24 02:13:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
