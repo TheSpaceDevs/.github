@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html" >🔗</a> **[CNBC]** Space Force is taking a ‘mutual fund approach’ to buying rocket launches
+- <a href="https://tlpnetwork.com/news/2023/02/nasa-loses-command-of-ibex-spacecraft" >🔗</a> **[The Launch Pad]** BREAKING! NASA Loses Command Of IBEX Spacecraft
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-prepares-to-start-work-on-first-lunar-gateway-cargo-mission" >🔗</a> **[The Launch Pad]** NASA Prepares To Start Work On First Lunar Gateway Cargo Mission
 - <a href="https://www.nasaspaceflight.com/2023/02/two-launches-eva/" >🔗</a> **[NASASpaceflight]** China launches two satellites following EVA at Tiangong station
 - <a href="https://arstechnica.com/science/2023/02/after-vulcan-comes-online-ula-plans-to-dramatically-increase-launch-cadence/" >🔗</a> **[Arstechnica]** After Vulcan comes online, ULA plans to dramatically increase launch cadence
-- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
-- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to test-firing before next crew launch
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T213155">2023-02-24 21:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T220646">2023-02-24 22:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
