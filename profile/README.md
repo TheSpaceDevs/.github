@@ -89,20 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
 - <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to test-firing before next crew launch
 - <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission launches to ISS
-- <a href="https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch" >🔗</a> **[The Launch Pad]** BREAKING! ULA Now Targeting May 4th For Vulcan Launch
+- <a href="https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch" >🔗</a> **[The Launch Pad]** ULA Now Targeting May 4th For Vulcan Launch
 - <a href="http://www.nasa.gov/press-release/nasa-awards-consolidated-operations-management-engineering-contract" >🔗</a> **[NASA]** NASA Awards Consolidated Operations, Management, Engineering Contract
-- <a href="https://tlpnetwork.com/news/2023/02/china-resumes-orbital-launches-with-zhongxing-26-mission" >🔗</a> **[The Launch Pad]** China Resumes Orbital Launches with Zhongxing-26 Satellite Mission
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2023/02/22/spacex-postpones-starlink-launch-as-nasa-crew-mission-takes-priority/" >🔗</a> **[Spaceflight Now]** SpaceX postpones Starlink launch as NASA crew mission takes priority
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T113155">2023-02-24 11:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T121313">2023-02-24 12:13:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
