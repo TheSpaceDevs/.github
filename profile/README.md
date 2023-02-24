@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/after-vulcan-comes-online-ula-plans-to-dramatically-increase-launch-cadence/" >🔗</a> **[Arstechnica]** After Vulcan comes online, ULA plans to dramatically increase launch cadence
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
 - <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to test-firing before next crew launch
 - <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission launches to ISS
 - <a href="https://tlpnetwork.com/news/2023/02/ula-now-targeting-may-4-for-vulcan-launch" >🔗</a> **[The Launch Pad]** ULA Now Targeting May 4th For Vulcan Launch
-- <a href="http://www.nasa.gov/press-release/nasa-awards-consolidated-operations-management-engineering-contract" >🔗</a> **[NASA]** NASA Awards Consolidated Operations, Management, Engineering Contract
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T143300">2023-02-24 14:33:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T150638">2023-02-24 15:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
