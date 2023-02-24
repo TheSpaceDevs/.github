@@ -44,7 +44,6 @@ into *an Unknown Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T035400">2023-02-24 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230224T035400Z%2F20230224T042400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T181200">2023-02-26 18:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230226T181200Z%2F20230227T001100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T064500">2023-02-27 06:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230227T064500Z%2F20230227T064500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T174600">2023-02-27 17:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230227T174600Z%2F20230228T002900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
@@ -102,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T033557">2023-02-24 03:35:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230224T040850">2023-02-24 04:08:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
