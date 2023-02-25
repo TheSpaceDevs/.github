@@ -90,7 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html" >🔗</a> **[CNBC]** Space Force is taking a ‘mutual fund approach’ to buying rocket launches
-- <a href="https://tlpnetwork.com/news/2023/02/nasa-loses-command-of-ibex-spacecraft" >🔗</a> **[The Launch Pad]** BREAKING! NASA Loses Command Of IBEX Spacecraft
+- <a href="https://tlpnetwork.com/news/2023/02/nasa-loses-command-of-ibex-spacecraft" >🔗</a> **[The Launch Pad]** NASA Loses Command Of IBEX Spacecraft
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-prepares-to-start-work-on-first-lunar-gateway-cargo-mission" >🔗</a> **[The Launch Pad]** NASA Prepares To Start Work On First Lunar Gateway Cargo Mission
 - <a href="https://www.nasaspaceflight.com/2023/02/two-launches-eva/" >🔗</a> **[NASASpaceflight]** China launches two satellites following EVA at Tiangong station
 - <a href="https://arstechnica.com/science/2023/02/after-vulcan-comes-online-ula-plans-to-dramatically-increase-launch-cadence/" >🔗</a> **[Arstechnica]** After Vulcan comes online, ULA plans to dramatically increase launch cadence
@@ -105,12 +105,12 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2023/02/21/multinational-crew-arrives-at-kennedy-space-center-for-launch-preparations/" >🔗</a> **[Spaceflight Now]** Multinational crew arrives at Kennedy Space Center for launch preparations
 - <a href="https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/" >🔗</a> **[SpaceNews]** Crew-6 launch slips as Progress leak investigation continues
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-crew-6-astronauts-arrive-at-ksc" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 6 Astronauts Arrive At KSC
-- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to test-firing before next crew launch
+- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** SpaceX completes test-firing before next crew launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T083602">2023-02-25 08:36:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T090620">2023-02-25 09:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
