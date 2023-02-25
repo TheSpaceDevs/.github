@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/02/first-image-from-sony-star-sphere-released" >🔗</a> **[The Launch Pad]** First Image from SONY Star Sphere Satellite Released
 - <a href="https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html" >🔗</a> **[CNBC]** Space Force is taking a ‘mutual fund approach’ to buying rocket launches
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-loses-command-of-ibex-spacecraft" >🔗</a> **[The Launch Pad]** NASA Loses Command Of IBEX Spacecraft
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-prepares-to-start-work-on-first-lunar-gateway-cargo-mission" >🔗</a> **[The Launch Pad]** NASA Prepares To Start Work On First Lunar Gateway Cargo Mission
 - <a href="https://www.nasaspaceflight.com/2023/02/two-launches-eva/" >🔗</a> **[NASASpaceflight]** China launches two satellites following EVA at Tiangong station
-- <a href="https://arstechnica.com/science/2023/02/after-vulcan-comes-online-ula-plans-to-dramatically-increase-launch-cadence/" >🔗</a> **[Arstechnica]** After Vulcan comes online, ULA plans to dramatically increase launch cadence
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T223252">2023-02-25 22:32:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230225T230644">2023-02-25 23:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
