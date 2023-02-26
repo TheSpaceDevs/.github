@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/02/26/unpiloted-soyuz-spacecraft-docks-at-space-station-to-replace-damaged-crew-capsule/" >🔗</a> **[Spaceflight Now]** Unpiloted Soyuz spacecraft docks at space station to replace damaged crew capsule
+- <a href="https://spaceflightnow.com/2023/02/26/spacex-crew-dragon-poised-for-overnight-launch-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX Crew Dragon poised for overnight launch to space station
 - <a href="https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details" >🔗</a> **[The Launch Pad]** SpaceX Reveals Details Of Next Generation Starlink Satellites
 - <a href="https://www.nasaspaceflight.com/2023/02/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA to launch international Crew-6 mission to Station
 - <a href="https://spacenews.com/replacement-soyuz-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Replacement Soyuz arrives at space station
-- <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission arrives at ISS
-- <a href="https://tlpnetwork.com/news/2023/02/first-image-from-sony-star-sphere-released" >🔗</a> **[The Launch Pad]** First Image from SONY Star Sphere Satellite Released
 
 
 ### Launch-related News 🚀
@@ -104,12 +104,12 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2023/02/21/multinational-crew-arrives-at-kennedy-space-center-for-launch-preparations/" >🔗</a> **[Spaceflight Now]** Multinational crew arrives at Kennedy Space Center for launch preparations
 - <a href="https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/" >🔗</a> **[SpaceNews]** Crew-6 launch slips as Progress leak investigation continues
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-crew-6-astronauts-arrive-at-ksc" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 6 Astronauts Arrive At KSC
-- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Launch readiness review complete for Crew-6 mission
+- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Officials give ‘go’ for Crew-6 mission after launch readiness review
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T213142">2023-02-26 21:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T220622">2023-02-26 22:06:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
