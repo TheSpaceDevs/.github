@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T064503">2023-02-27 06:45:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230227T064503Z%2F20230227T064503Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-6** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T183840">2023-02-27 18:38:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230227T183840Z%2F20230228T192010Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-1** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T183840">2023-02-27 18:38:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230227T183840Z%2F20230227T192010Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T174600">2023-02-27 17:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230227T174600Z%2F20230228T002900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T013755">2023-02-28 01:37:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230228T013755Z%2F20230228T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T194400">2023-03-01 19:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230301T194400Z%2F20230301T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details" >🔗</a> **[The Launch Pad]** SpaceX Reveals Details Of Next Generation Starlink Satellites
 - <a href="https://www.nasaspaceflight.com/2023/02/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA to launch international Crew-6 mission to Station
+- <a href="https://spacenews.com/replacement-soyuz-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Replacement Soyuz arrives at space station
 - <a href="https://www.nasaspaceflight.com/2023/02/soyuz-ms-23-launch/" >🔗</a> **[NASASpaceflight]** Uncrewed Soyuz MS-23 “rescue” mission arrives at ISS
 - <a href="https://tlpnetwork.com/news/2023/02/first-image-from-sony-star-sphere-released" >🔗</a> **[The Launch Pad]** First Image from SONY Star Sphere Satellite Released
-- <a href="https://www.cnbc.com/2023/02/24/space-force-rocket-launch-acquisitions-approach.html" >🔗</a> **[CNBC]** Space Force is taking a ‘mutual fund approach’ to buying rocket launches
-- <a href="https://tlpnetwork.com/news/2023/02/nasa-loses-command-of-ibex-spacecraft" >🔗</a> **[The Launch Pad]** NASA Loses Command Of IBEX Spacecraft
 
 
 ### Launch-related News 🚀
@@ -104,12 +104,12 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2023/02/21/multinational-crew-arrives-at-kennedy-space-center-for-launch-preparations/" >🔗</a> **[Spaceflight Now]** Multinational crew arrives at Kennedy Space Center for launch preparations
 - <a href="https://spacenews.com/crew-6-launch-slips-as-progress-leak-investigation-continues/" >🔗</a> **[SpaceNews]** Crew-6 launch slips as Progress leak investigation continues
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-crew-6-astronauts-arrive-at-ksc" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 6 Astronauts Arrive At KSC
-- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** SpaceX completes test-firing before next crew launch
+- <a href="https://spaceflightnow.com/2023/02/24/falcon-9-crew-6-preps-mission-status-center/" >🔗</a> **[Spaceflight Now]** Launch readiness review complete for Crew-6 mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T203147">2023-02-26 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T210534">2023-02-26 21:05:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
