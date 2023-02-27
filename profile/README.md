@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-selects-new-head-of-science" >🔗</a> **[NASA]** NASA Administrator Selects New Head of Science
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX to launch first Starlink v2 satellites as part of doubleheader
 - <a href="https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/" >🔗</a> **[SpaceNews]** Technical issue scrubs SpaceX commercial crew launch
 - <a href="https://spacenews.com/china-unveils-lunar-lander-to-put-astronauts-on-the-moon/" >🔗</a> **[SpaceNews]** China unveils lunar lander to put astronauts on the moon
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt" >🔗</a> **[The Launch Pad]** NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt 
-- <a href="https://www.nasaspaceflight.com/2023/02/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA scrub international Crew-6 launch to Station
 
 
 ### Launch-related News 🚀
@@ -99,11 +99,13 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2023/02/22/spacex-postpones-starlink-launch-as-nasa-crew-mission-takes-priority/" >🔗</a> **[Spaceflight Now]** SpaceX postpones Starlink launch as NASA crew mission takes priority
 - <a href="https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details" >🔗</a> **[The Launch Pad]** SpaceX Reveals Details Of Next Generation Starlink Satellites
 - <a href="https://www.teslarati.com/spacex-unveils-next-gen-starlink-v2-mini-satellites-ahead-of-monday-launch/" >🔗</a> **[Teslarati]** SpaceX unveils next-gen Starlink V2 Mini satellites ahead of Monday launch
+- <a href="https://spaceflightnow.com/2023/02/26/spacex-unveils-first-batch-of-larger-upgraded-starlink-satellites/" >🔗</a> **[Spaceflight Now]** SpaceX unveils first batch of larger upgraded Starlink satellites
+- <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX to launch first Starlink v2 satellites as part of doubleheader
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T173333">2023-02-27 17:33:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T180924">2023-02-27 18:09:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
