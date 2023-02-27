@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space
+- <a href="https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/" >🔗</a> **[SpaceNews]** U.S. Army extends Maxar’s contract for 3D geospatial data
 - <a href="https://tlpnetwork.com/news/2023/02/china-unveils-crew-lunar-lander-targets-2027-for-demo-mission" >🔗</a> **[The Launch Pad]** China Unveils Crew Lunar Lander, Targets 2027 For Demo Mission
 - <a href="https://spacenews.com/heliophysics-director-named-nasa-associate-administrator-for-science/" >🔗</a> **[SpaceNews]** Heliophysics director named NASA associate administrator for science
 - <a href="https://spacenews.com/air-force-navigation-satellite-to-launch-on-vulcans-first-national-security-mission/" >🔗</a> **[SpaceNews]** Air Force navigation satellite to launch on Vulcan’s first national security mission
-- <a href="https://spacenews.com/mitsubishi-makes-strategic-investment-in-astroscales-76-million-funding-round/" >🔗</a> **[SpaceNews]** Mitsubishi makes strategic investment in Astroscale’s $76 million funding round
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-selects-new-head-of-science" >🔗</a> **[NASA]** NASA Administrator Selects New Head of Science
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T213159">2023-02-27 21:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T220702">2023-02-27 22:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
