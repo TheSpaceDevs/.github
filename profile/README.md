@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/" >🔗</a> **[SpaceNews]** Technical issue scrubs SpaceX commercial crew launch
 - <a href="https://spacenews.com/china-unveils-lunar-lander-to-put-astronauts-on-the-moon/" >🔗</a> **[SpaceNews]** China unveils lunar lander to put astronauts on the moon
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt" >🔗</a> **[The Launch Pad]** NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt 
 - <a href="https://arstechnica.com/science/2023/02/spacex-scrubs-crew-6-launch-due-to-an-issue-with-its-igniter-fluid/" >🔗</a> **[Arstechnica]** Shortly before liftoff, SpaceX cancels a crew launch due to igniter issues
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-crew-6-launch-aborted" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 6 Launch Aborted
-- <a href="https://tlpnetwork.com/news/2023/02/the-spaceport-company-to-develop-sea-launch-pads" >🔗</a> **[The Launch Pad]** The Spaceport Company To Develop Commercial Sea Launch Pads
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T121342">2023-02-27 12:13:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T125625">2023-02-27 12:56:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
