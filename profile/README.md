@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T183840">2023-02-27 18:38:40 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T231350">2023-02-27 23:13:50 UTC</a>.  Until
 then, this pad will have been used for 170
 out of 875 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -44,6 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T231350">2023-02-27 23:13:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-1&location=Cape Canaveral, FL, USA&dates=20230227T231350Z%2F20230227T231350Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T192000">2023-02-28 19:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230228T192000Z%2F20230228T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T053400">2023-03-02 05:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230302T053400Z%2F20230302T053400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
@@ -86,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-navigation-satellite-to-launch-on-vulcans-first-national-security-mission/" >🔗</a> **[SpaceNews]** Air Force navigation satellite to launch on Vulcan’s first national security mission
+- <a href="https://spacenews.com/mitsubishi-makes-strategic-investment-in-astroscales-76-million-funding-round/" >🔗</a> **[SpaceNews]** Mitsubishi makes strategic investment in Astroscale’s $76 million funding round
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-selects-new-head-of-science" >🔗</a> **[NASA]** NASA Administrator Selects New Head of Science
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX to launch first Starlink v2 satellites as part of doubleheader
 - <a href="https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/" >🔗</a> **[SpaceNews]** Technical issue scrubs SpaceX commercial crew launch
-- <a href="https://spacenews.com/china-unveils-lunar-lander-to-put-astronauts-on-the-moon/" >🔗</a> **[SpaceNews]** China unveils lunar lander to put astronauts on the moon
-- <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt" >🔗</a> **[The Launch Pad]** NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt 
 
 
 ### Launch-related News 🚀
@@ -104,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T193158">2023-02-27 19:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T200748">2023-02-27 20:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
