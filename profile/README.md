@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/02/the-spaceport-company-to-develop-sea-launch-pads" >🔗</a> **[The Launch Pad]** The Spaceport Company To Develop Commercial Sea Launch Pads
+- <a href="https://www.teslarati.com/spacex-unveils-next-gen-starlink-v2-mini-satellites-ahead-of-monday-launch/" >🔗</a> **[Teslarati]** SpaceX unveils next-gen Starlink V2 Mini satellites ahead of Monday launch
+- <a href="https://spacenews.com/startup-developing-sea-based-launch-pads/" >🔗</a> **[SpaceNews]** Startup developing sea-based launch pads
 - <a href="https://spaceflightnow.com/2023/02/26/unpiloted-soyuz-spacecraft-docks-at-space-station-to-replace-damaged-crew-capsule/" >🔗</a> **[Spaceflight Now]** Unpiloted Soyuz spacecraft docks at space station to replace damaged crew capsule
 - <a href="https://spaceflightnow.com/2023/02/26/spacex-crew-dragon-poised-for-overnight-launch-to-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX Crew Dragon poised for overnight launch to space station
-- <a href="https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details" >🔗</a> **[The Launch Pad]** SpaceX Reveals Details Of Next Generation Starlink Satellites
-- <a href="https://www.nasaspaceflight.com/2023/02/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA to launch international Crew-6 mission to Station
-- <a href="https://spacenews.com/replacement-soyuz-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Replacement Soyuz arrives at space station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230226T233145">2023-02-26 23:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T003804">2023-02-27 00:38:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
