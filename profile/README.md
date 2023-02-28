@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-1**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 2-7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T231350">2023-02-27 23:13:50 UTC</a>.  Until
-then, this pad will have been used for 170
-out of 875 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T192000">2023-02-28 19:20:00 UTC</a>.  Until
+then, this pad will have been used for 103
+out of 712 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 21 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. First launch of the “v2 Mini” version of Starlink satellites.
+  A batch of 51 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221220084708.png" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209220217.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
@@ -86,25 +86,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink v2 satellites to orbit
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-swot-satellite-main-instrument-offline" >🔗</a> **[The Launch Pad]** NASA's SWOT Satellite Main Instrument Offline
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space
 - <a href="https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/" >🔗</a> **[SpaceNews]** U.S. Army extends Maxar’s contract for 3D geospatial data
 - <a href="https://tlpnetwork.com/news/2023/02/china-unveils-crew-lunar-lander-targets-2027-for-demo-mission" >🔗</a> **[The Launch Pad]** China Unveils Crew Lunar Lander, Targets 2027 For Demo Mission
-- <a href="https://spacenews.com/heliophysics-director-named-nasa-associate-administrator-for-science/" >🔗</a> **[SpaceNews]** Heliophysics director named NASA associate administrator for science
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2023/02/22/spacex-postpones-starlink-launch-as-nasa-crew-mission-takes-priority/" >🔗</a> **[Spaceflight Now]** SpaceX postpones Starlink launch as NASA crew mission takes priority
-- <a href="https://tlpnetwork.com/news/2023/02/starlink-v2-mini-details" >🔗</a> **[The Launch Pad]** SpaceX Reveals Details Of Next Generation Starlink Satellites
-- <a href="https://www.teslarati.com/spacex-unveils-next-gen-starlink-v2-mini-satellites-ahead-of-monday-launch/" >🔗</a> **[Teslarati]** SpaceX unveils next-gen Starlink V2 Mini satellites ahead of Monday launch
-- <a href="https://spaceflightnow.com/2023/02/26/spacex-unveils-first-batch-of-larger-upgraded-starlink-satellites/" >🔗</a> **[Spaceflight Now]** SpaceX unveils first batch of larger upgraded Starlink satellites
-- <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX to launch first Starlink v2 satellites as part of doubleheader
+- <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink v2 satellites to orbit
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230227T233221">2023-02-27 23:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T003746">2023-02-28 00:37:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
