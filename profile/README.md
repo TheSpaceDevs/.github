@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-group-to-examine-potential-security-threats-in-cislunar-space/" >🔗</a> **[SpaceNews]** Industry group to examine potential security threats in cislunar space 
+- <a href="https://tlpnetwork.com/news/2023/02/ispace-on-track-for-first-lunar-landing-preparing-for-next-missions" >🔗</a> **[The Launch Pad]** iSpace On Track For First Lunar Landing, Preparing For Next Missions
+- <a href="https://spacenews.com/blue-origin-continues-investigation-into-new-shepard-anomaly/" >🔗</a> **[SpaceNews]** Blue Origin continues investigation into New Shepard anomaly
 - <a href="https://tlpnetwork.com/news/2023/02/china-plans-tiangong-space-station-expansion " >🔗</a> **[The Launch Pad]** China Plans Tiangong Space Station Expansion 
 - <a href="https://tlpnetwork.com/news/2023/02/jaxa-announces-new-astronauts" >🔗</a> **[The Launch Pad]** Japan Announces First New Astronaut in 14 Years to Join Artemis Missions
-- <a href="https://spacenews.com/lux-semiconductors-raises-2-3-million-for-microelectronics-packaging-technology/" >🔗</a> **[SpaceNews]** Lux Semiconductors raises $2.3 million for microelectronics  packaging technology
-- <a href="https://www.nasaspaceflight.com/2023/02/artemis-i-future-esm-updates/" >🔗</a> **[NASASpaceflight]** NASA´s William Hartwell updates on Artemis I and future ESMs
-- <a href="https://arstechnica.com/science/2023/02/meet-the-space-billionaire-who-is-interested-in-something-other-than-rockets/" >🔗</a> **[Arstechnica]** Meet the space billionaire who is interested in something other than rockets
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T183814">2023-02-28 18:38:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T190606">2023-02-28 19:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
