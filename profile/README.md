@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T192000">2023-02-28 19:20:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T190600">2023-03-01 19:06:00 UTC</a>.  Until
 then, this pad will have been used for 103
 out of 712 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T192000">2023-02-28 19:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230228T192000Z%2F20230228T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T190600">2023-03-01 19:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230301T190600Z%2F20230301T190600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T053400">2023-03-02 05:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-6&location=Kennedy Space Center, FL, USA&dates=20230302T053400Z%2F20230302T053400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T190500">2023-03-09 19:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T190500Z%2F20230309T190500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/02/meet-the-space-billionaire-who-is-interested-in-something-other-than-rockets/" >🔗</a> **[Arstechnica]** Meet the space billionaire who is interested in something other than rockets
 - <a href="https://spacenews.com/china-to-expand-its-space-station-international-astronaut-selection-underway/" >🔗</a> **[SpaceNews]** China to expand its space station, international astronaut selection underway
 - <a href="https://spacenews.com/jaxa-astronauts/" >🔗</a> **[SpaceNews]** Japan selects first new astronauts in 14 years to support Artemis program 
 - <a href="https://www.cnbc.com/2023/02/28/spacex-launches-v2-mini-starlink-satellites.html" >🔗</a> **[CNBC]** SpaceX begins launching second-generation Starlink satellites with four times the network capacity
 - <a href="https://spacenews.com/spacex-launches-first-upgraded-starlink-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches first upgraded Starlink satellites
-- <a href="https://spacenews.com/first-ispace-mission-on-track-for-april-lunar-landing/" >🔗</a> **[SpaceNews]** First ispace mission on track for April lunar landing
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T153440">2023-02-28 15:34:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T160923">2023-02-28 16:09:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
