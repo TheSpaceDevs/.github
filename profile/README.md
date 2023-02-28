@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html" >🔗</a> **[CNBC]** Rocket Lab quarterly revenue stays steady as space company doubles order backlog
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-supporting-langley-s-research-science-services" >🔗</a> **[NASA]** NASA Awards Contract Supporting Langley’s Research, Science Services
+- <a href="https://www.cnbc.com/2023/02/28/virgin-galactic-spce-q4-2022-earnings.html" >🔗</a> **[CNBC]** Virgin Galactic completes lengthy upgrade process ahead of resuming spaceflights
 - <a href="https://spacenews.com/industry-group-to-examine-potential-security-threats-in-cislunar-space/" >🔗</a> **[SpaceNews]** Industry group to examine potential security threats in cislunar space 
 - <a href="https://tlpnetwork.com/news/2023/02/ispace-on-track-for-first-lunar-landing-preparing-for-next-missions" >🔗</a> **[The Launch Pad]** iSpace On Track For First Lunar Landing, Preparing For Next Missions
-- <a href="https://spacenews.com/blue-origin-continues-investigation-into-new-shepard-anomaly/" >🔗</a> **[SpaceNews]** Blue Origin continues investigation into New Shepard anomaly
-- <a href="https://tlpnetwork.com/news/2023/02/china-plans-tiangong-space-station-expansion " >🔗</a> **[The Launch Pad]** China Plans Tiangong Space Station Expansion 
-- <a href="https://tlpnetwork.com/news/2023/02/jaxa-announces-new-astronauts" >🔗</a> **[The Launch Pad]** Japan Announces First New Astronaut in 14 Years to Join Artemis Missions
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T213149">2023-02-28 21:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T220705">2023-02-28 22:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
