@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-ispace-mission-on-track-for-april-lunar-landing/" >🔗</a> **[SpaceNews]** First ispace mission on track for April lunar landing
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink v2 satellites to orbit
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-swot-satellite-main-instrument-offline" >🔗</a> **[The Launch Pad]** NASA's SWOT Satellite Main Instrument Offline
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-splashdown-from-space" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 to Discuss Mission, Splashdown from Space
 - <a href="https://spacenews.com/u-s-army-extends-maxars-contract-for-3d-geospatial-data/" >🔗</a> **[SpaceNews]** U.S. Army extends Maxar’s contract for 3D geospatial data
-- <a href="https://tlpnetwork.com/news/2023/02/china-unveils-crew-lunar-lander-targets-2027-for-demo-mission" >🔗</a> **[The Launch Pad]** China Unveils Crew Lunar Lander, Targets 2027 For Demo Mission
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T121324">2023-02-28 12:13:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T125530">2023-02-28 12:55:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
