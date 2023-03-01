@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/03/01/spacex-crew-dragon-poised-for-second-launch-attempt/" >🔗</a> **[Spaceflight Now]** SpaceX Crew Dragon poised for second launch attempt
+- <a href="https://tlpnetwork.com/news/2023/03/virgin-galactic-vms-eve-returns-to-spaceport-america" >🔗</a> **[The Launch Pad]** Virgin Galactic VMS Eve Returns to Spaceport America
 - <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-agency-s-spacex-crew-6-launch" >🔗</a> **[NASA]** NASA Updates Coverage for Agency’s SpaceX Crew-6 Launch
 - <a href="https://tlpnetwork.com/news/2023/03/viasat-acquisition-of-inmarsat-receives-provisional-approval-from-uk" >🔗</a> **[The Launch Pad]** Viasat Acquisition Of Inmarsat Receives Provisional Approval From UK
 - <a href="https://arstechnica.com/science/2023/03/sources-say-prominent-us-rocket-maker-united-launch-alliance-is-up-for-sale/" >🔗</a> **[Arstechnica]** Sources say prominent US rocket-maker United Launch Alliance is up for sale
-- <a href="https://spacenews.com/uk-provisionally-clears-viasats-inmarsat-acquisition/" >🔗</a> **[SpaceNews]** UK provisionally clears Viasat’s Inmarsat acquisition
-- <a href="https://spacenews.com/virgin-galactic-in-final-phases-of-return-to-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic in final phases of return to flight
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T193151">2023-03-01 19:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T200752">2023-03-01 20:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
