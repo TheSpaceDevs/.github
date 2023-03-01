@@ -113,11 +113,12 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2023/02/spacex-scrubs-crew-6-launch-due-to-an-issue-with-its-igniter-fluid/" >🔗</a> **[Arstechnica]** Shortly before liftoff, SpaceX cancels a crew launch due to igniter issues
 - <a href="https://tlpnetwork.com/news/2023/02/nasa-spacex-schedule-next-crew-launch-attempt" >🔗</a> **[The Launch Pad]** NASA SpaceX Set March 2 For Next Crew-6 Launch Attempt 
 - <a href="https://spacenews.com/technical-issue-scrubs-spacex-commercial-crew-launch/" >🔗</a> **[SpaceNews]** Technical issue scrubs SpaceX commercial crew launch
+- <a href="https://www.nasaspaceflight.com/2023/03/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA target Thursday morning for Crew-6 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T173432">2023-03-01 17:34:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T180903">2023-03-01 18:09:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
