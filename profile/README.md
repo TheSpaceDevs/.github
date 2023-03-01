@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/03/sources-say-prominent-us-rocket-maker-united-launch-alliance-is-up-for-sale/" >🔗</a> **[Arstechnica]** Sources say prominent US rocket-maker United Launch Alliance is up for sale
 - <a href="https://spacenews.com/uk-provisionally-clears-viasats-inmarsat-acquisition/" >🔗</a> **[SpaceNews]** UK provisionally clears Viasat’s Inmarsat acquisition
 - <a href="https://spacenews.com/virgin-galactic-in-final-phases-of-return-to-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic in final phases of return to flight
 - <a href="https://www.nasaspaceflight.com/2023/03/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA target Thursday morning for Crew-6 launch
 - <a href="https://spacenews.com/apple-loans-globalstar-252-million-for-satellite-enabled-iphones/" >🔗</a> **[SpaceNews]** Apple lends Globalstar $252 million for satellite-enabled iPhones
-- <a href="https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html" >🔗</a> **[CNBC]** Rocket Lab quarterly revenue stays steady as space company doubles order backlog
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T170633">2023-03-01 17:06:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T173432">2023-03-01 17:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
