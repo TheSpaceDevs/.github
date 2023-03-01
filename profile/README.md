@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-for-agency-s-spacex-crew-6-launch" >🔗</a> **[NASA]** NASA Updates Coverage for Agency’s SpaceX Crew-6 Launch
+- <a href="https://tlpnetwork.com/news/2023/03/viasat-acquisition-of-inmarsat-receives-provisional-approval-from-uk" >🔗</a> **[The Launch Pad]** Viasat Acquisition Of Inmarsat Receives Provisional Approval From UK
 - <a href="https://arstechnica.com/science/2023/03/sources-say-prominent-us-rocket-maker-united-launch-alliance-is-up-for-sale/" >🔗</a> **[Arstechnica]** Sources say prominent US rocket-maker United Launch Alliance is up for sale
 - <a href="https://spacenews.com/uk-provisionally-clears-viasats-inmarsat-acquisition/" >🔗</a> **[SpaceNews]** UK provisionally clears Viasat’s Inmarsat acquisition
 - <a href="https://spacenews.com/virgin-galactic-in-final-phases-of-return-to-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic in final phases of return to flight
-- <a href="https://www.nasaspaceflight.com/2023/03/crew-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA target Thursday morning for Crew-6 launch
-- <a href="https://spacenews.com/apple-loans-globalstar-252-million-for-satellite-enabled-iphones/" >🔗</a> **[SpaceNews]** Apple lends Globalstar $252 million for satellite-enabled iPhones
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T183828">2023-03-01 18:38:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T190618">2023-03-01 19:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
