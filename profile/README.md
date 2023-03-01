@@ -51,6 +51,9 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T013600">2023-03-12 01:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230312T013600Z%2F20230312T013600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T221200">2023-03-12 22:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M Briz-M | Olymp-K #2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230312T221200Z%2F20230312T221200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M Briz-M | Olymp-K #2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T003500">2023-03-18 00:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230318T003500Z%2F20230318T003500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-18 & SES-19** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -86,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apple-loans-globalstar-252-million-for-satellite-enabled-iphones/" >🔗</a> **[SpaceNews]** Apple lends Globalstar $252 million for satellite-enabled iPhones
 - <a href="https://www.cnbc.com/2023/02/28/rocket-lab-rklb-q4-2022-earnings.html" >🔗</a> **[CNBC]** Rocket Lab quarterly revenue stays steady as space company doubles order backlog
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-supporting-langley-s-research-science-services" >🔗</a> **[NASA]** NASA Awards Contract Supporting Langley’s Research, Science Services
 - <a href="https://www.cnbc.com/2023/02/28/virgin-galactic-spce-q4-2022-earnings.html" >🔗</a> **[CNBC]** Virgin Galactic completes lengthy upgrade process ahead of resuming spaceflights
 - <a href="https://spacenews.com/industry-group-to-examine-potential-security-threats-in-cislunar-space/" >🔗</a> **[SpaceNews]** Industry group to examine potential security threats in cislunar space 
-- <a href="https://tlpnetwork.com/news/2023/02/ispace-on-track-for-first-lunar-landing-preparing-for-next-missions" >🔗</a> **[The Launch Pad]** iSpace On Track For First Lunar Landing, Preparing For Next Missions
 
 
 ### Launch-related News 🚀
@@ -100,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230228T233202">2023-02-28 23:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230301T004212">2023-03-01 00:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
