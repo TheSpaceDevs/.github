@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-6-launches-to-space-station/" >🔗</a> **[SpaceNews]** Crew-6 launches to space station
 - <a href="https://arstechnica.com/science/2023/03/on-its-second-attempt-the-crew-6-mission-soared-into-orbit-early-thursday/" >🔗</a> **[Arstechnica]** After flying four astronauts into orbit, SpaceX makes its 101st straight landing
 - <a href="https://spaceflightnow.com/2023/03/01/crew-6-mission-timeline/" >🔗</a> **[Spaceflight Now]** Crew-6 mission timeline
-- <a href="https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation" >🔗</a> **[The Launch Pad]** BREAKING! Astra Concludes Tropics-1 Launch Failure Investigation
+- <a href="https://tlpnetwork.com/news/2023/03/astra-concludes-tropics-1-launch-failure-investigation" >🔗</a> **[The Launch Pad]** Astra Concludes Tropics-1 Launch Failure Investigation
 - <a href="https://spacenews.com/dod-interested-in-smartphone-to-satellite-communications-services/" >🔗</a> **[SpaceNews]** DoD interested in smartphone-to-satellite communications services
-- <a href="http://www.nasa.gov/press-release/nasa-awards-systems-engineering-advanced-services-ii-contract" >🔗</a> **[NASA]** NASA Awards Systems Engineering Advanced Services II Contract
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T093241">2023-03-02 09:32:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T100739">2023-03-02 10:07:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
