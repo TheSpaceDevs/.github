@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T225000">2023-03-02 22:50:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T183800">2023-03-03 18:38:00 UTC</a>.  Until
 then, this pad will have been used for 103
 out of 712 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T225000">2023-03-02 22:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230302T225000Z%2F20230302T225000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T183800">2023-03-03 18:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-7&location=Vandenberg SFB, CA, USA&dates=20230303T183800Z%2F20230303T183800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T190500">2023-03-09 19:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T190500Z%2F20230309T190500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T013600">2023-03-12 01:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230312T013600Z%2F20230312T013600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
@@ -92,19 +92,19 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Raytheon wins $250 million contract for missile-tracking satellites
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss Findings from Successful Artemis I Moon Mission
 - <a href="https://www.cnbc.com/2023/03/02/investing-in-space-sizing-up.html" >🔗</a> **[CNBC]** Investing in Space: Sizing up
-- <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX prepares v1.5 satellites for launch following debut of Starlink v2
+- <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX prepares v1.5 satellites for Friday launch following debut of Starlink v2
 - <a href="https://www.cnbc.com/2023/03/02/spacex-launches-nasa-crew-6-mission.html" >🔗</a> **[CNBC]** SpaceX launches Crew-6 mission for NASA, sending four more astronauts to the space station
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink v2 satellites to orbit
-- <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX prepares v1.5 satellites for launch following debut of Starlink v2
+- <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX prepares v1.5 satellites for Friday launch following debut of Starlink v2
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T193150">2023-03-02 19:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T200806">2023-03-02 20:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
