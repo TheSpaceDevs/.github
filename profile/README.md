@@ -89,21 +89,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss Findings from Successful Artemis I Moon Mission
 - <a href="https://www.cnbc.com/2023/03/02/investing-in-space-sizing-up.html" >🔗</a> **[CNBC]** Investing in Space: Sizing up
 - <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX prepares v1.5 satellites for launch following debut of Starlink v2
 - <a href="https://www.cnbc.com/2023/03/02/spacex-launches-nasa-crew-6-mission.html" >🔗</a> **[CNBC]** SpaceX launches Crew-6 mission for NASA, sending four more astronauts to the space station
 - <a href="https://spacenews.com/cesiumastro-wins-sda-contract-for-link-16-antennas/" >🔗</a> **[SpaceNews]** CesiumAstro wins SDA contract for Link 16 antennas
-- <a href="https://spacenews.com/crew-6-launches-to-space-station/" >🔗</a> **[SpaceNews]** Crew-6 launches to space station
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2023/02/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches first Starlink v2 satellites to orbit
+- <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX prepares v1.5 satellites for launch following debut of Starlink v2
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T173350">2023-03-02 17:33:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230302T180928">2023-03-02 18:09:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
