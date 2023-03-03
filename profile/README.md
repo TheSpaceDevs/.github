@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dod-releases-updated-guidance-on-responsible-behaviors-in-space/" >🔗</a> **[SpaceNews]** DoD releases updated guidance on ‘responsible behaviors in space’
 - <a href="https://www.nasaspaceflight.com/2023/03/starship-debut-reusability/" >🔗</a> **[NASASpaceflight]** Starship debut leading the rocket industry toward full reusability
 - <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches v1.5 satellites from Vandenberg following debut of Starlink v2
 - <a href="https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/" >🔗</a> **[SpaceNews]** Viasat to enter direct-to-device market with Ligado Networks
 - <a href="https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Nozzle erosion blamed for Vega C launch failure
-- <a href="https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/" >🔗</a> **[Arstechnica]** Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T203236">2023-03-03 20:32:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T210418">2023-03-03 21:04:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
