@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/" >🔗</a> **[SpaceNews]** Viasat to enter direct-to-device market with Ligado Networks
 - <a href="https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Nozzle erosion blamed for Vega C launch failure
 - <a href="https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/" >🔗</a> **[Arstechnica]** Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?
 - <a href="https://spacenews.com/astra-identifies-cause-of-last-failed-rocket-3-3-launch/" >🔗</a> **[SpaceNews]** Astra identifies cause of last failed Rocket 3.3 launch
 - <a href="https://spacenews.com/white-house-cybersecurity-strategy-warns-of-complex-threat-environment/" >🔗</a> **[SpaceNews]** White House cybersecurity strategy warns of ‘complex threat environment’
-- <a href="https://spacenews.com/chinas-shenzhou-15-astronauts-conduct-secretive-second-spacewalk/" >🔗</a> **[SpaceNews]** China’s Shenzhou-15 astronauts conduct secretive second spacewalk
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T143317">2023-03-03 14:33:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T150710">2023-03-03 15:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
