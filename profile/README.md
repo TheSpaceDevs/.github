@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights" >🔗</a> **[The Launch Pad]** German Startup 'Rivada' Books 12 Falcon 9 Flights
+- <a href="https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test" >🔗</a> **[The Launch Pad]** Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test
+- <a href="http://www.nasa.gov/press-release/nasa-awards-agencywide-contract-for-communication-services" >🔗</a> **[NASA]** NASA Awards Agencywide Contract for Communication Services
 - <a href="https://spacenews.com/dod-releases-updated-guidance-on-responsible-behaviors-in-space/" >🔗</a> **[SpaceNews]** DoD releases updated guidance on ‘responsible behaviors in space’
 - <a href="https://www.nasaspaceflight.com/2023/03/starship-debut-reusability/" >🔗</a> **[NASASpaceflight]** Starship debut leading the rocket industry toward full reusability
-- <a href="https://www.nasaspaceflight.com/2023/03/starlink-6-1-2-7/" >🔗</a> **[NASASpaceflight]** SpaceX launches v1.5 satellites from Vandenberg following debut of Starlink v2
-- <a href="https://spacenews.com/viasat-to-enter-direct-to-device-market-with-ligado-networks/" >🔗</a> **[SpaceNews]** Viasat to enter direct-to-device market with Ligado Networks
-- <a href="https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Nozzle erosion blamed for Vega C launch failure
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T213149">2023-03-03 21:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T220653">2023-03-03 22:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
