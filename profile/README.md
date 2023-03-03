@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nozzle-erosion-blamed-for-vega-c-launch-failure/" >🔗</a> **[SpaceNews]** Nozzle erosion blamed for Vega C launch failure
+- <a href="https://arstechnica.com/science/2023/03/rocket-report-ula-seeks-to-up-vulcan-cadence-capella-inks-with-rocket-lab/" >🔗</a> **[Arstechnica]** Rocket Report: Rocket Lab may drop helicopter recovery; ULA up for sale?
 - <a href="https://spacenews.com/astra-identifies-cause-of-last-failed-rocket-3-3-launch/" >🔗</a> **[SpaceNews]** Astra identifies cause of last failed Rocket 3.3 launch
 - <a href="https://spacenews.com/white-house-cybersecurity-strategy-warns-of-complex-threat-environment/" >🔗</a> **[SpaceNews]** White House cybersecurity strategy warns of ‘complex threat environment’
 - <a href="https://spacenews.com/chinas-shenzhou-15-astronauts-conduct-secretive-second-spacewalk/" >🔗</a> **[SpaceNews]** China’s Shenzhou-15 astronauts conduct secretive second spacewalk
-- <a href="https://spacenews.com/raytheon-wins-250-million-contract-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Raytheon wins $250 million contract for missile-tracking satellites
-- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-findings-from-successful-artemis-i-moon-mission" >🔗</a> **[NASA]** NASA to Discuss Findings from Successful Artemis I Moon Mission
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T121237">2023-03-03 12:12:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230303T125257">2023-03-03 12:52:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
