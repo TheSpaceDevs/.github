@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9358/" >🔗</a> **[NASA]** NASA's Curiosity Views First 'Sun Rays' on Mars
+- <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi ready for second attempt at H3 rocket debut
 - <a href="https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/" >🔗</a> **[SpaceNews]** NASA shifts focus of suborbital crew program
 - <a href="https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/" >🔗</a> **[Arstechnica]** The gold rush for the next round of military launch contracts has started
 - <a href="https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/" >🔗</a> **[SpaceNews]** Lonestar raises $5 million for lunar data centers
-- <a href="https://spacenews.com/nasa-proposes-final-extension-of-iss-cargo-contracts/" >🔗</a> **[SpaceNews]** NASA proposes final extension of ISS cargo contracts
-- <a href="https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed" >🔗</a> **[The Launch Pad]** Europropulsion Completes Manufacturing of Final Ariane 5 EAP
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T170640">2023-03-06 17:06:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T173408">2023-03-06 17:34:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
