@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/" >🔗</a> **[Arstechnica]** The gold rush for the next round of military launch contracts has started
+- <a href="https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/" >🔗</a> **[SpaceNews]** Lonestar raises $5 million for lunar data centers
 - <a href="https://spacenews.com/nasa-proposes-final-extension-of-iss-cargo-contracts/" >🔗</a> **[SpaceNews]** NASA proposes final extension of ISS cargo contracts
 - <a href="https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed" >🔗</a> **[The Launch Pad]** Europropulsion Completes Manufacturing of Final Ariane 5 EAP
 - <a href="https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos planning to add mission to seat barter agreement
-- <a href="https://tlpnetwork.com/news/2023/03/german-startup-rivada-books-12-falcon-9-flights" >🔗</a> **[The Launch Pad]** German Startup 'Rivada' Books 12 Falcon 9 Flights
-- <a href="https://tlpnetwork.com/news/2023/03/relativity-aeon-r-engine-survives-first-full-throttle-thrust-chamber-test" >🔗</a> **[The Launch Pad]** Relativity's Aeon-R Engine Survives First Full Throttle thrust Chamber Test
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T113143">2023-03-06 11:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T121340">2023-03-06 12:13:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
