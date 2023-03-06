@@ -46,7 +46,7 @@ into *a Sun-Synchronous Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T013755">2023-03-07 01:37:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230307T013755Z%2F20230307T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T190500">2023-03-09 19:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T190500Z%2F20230309T190500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191300Z%2F20230309T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T223300">2023-03-09 22:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230309T223300Z%2F20230309T231700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T221200">2023-03-12 22:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M Briz-M | Olymp-K #2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230312T221200Z%2F20230312T221200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M Briz-M | Olymp-K #2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T002500">2023-03-15 00:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230315T002500Z%2F20230315T002500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/" >🔗</a> **[Arstechnica]** The small launch industry is brutal—yes, even more than you thought
 - <a href="https://mars.nasa.gov/news/9358/" >🔗</a> **[NASA]** NASA's Curiosity Views First 'Sun Rays' on Mars
 - <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi ready for second attempt at H3 rocket debut
 - <a href="https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/" >🔗</a> **[SpaceNews]** NASA shifts focus of suborbital crew program
 - <a href="https://arstechnica.com/science/2023/03/the-gold-rush-for-the-next-round-of-military-launch-contracts-has-started/" >🔗</a> **[Arstechnica]** The gold rush for the next round of military launch contracts has started
-- <a href="https://spacenews.com/lonestar-raises-5-million-for-lunar-data-centers/" >🔗</a> **[SpaceNews]** Lonestar raises $5 million for lunar data centers
 
 
 ### Launch-related News 🚀
@@ -109,11 +109,12 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2023/02/16/h3-test-flight-1-preview/" >🔗</a> **[Spaceflight Now]** Japan’s new H3 rocket ready for first test flight
 - <a href="https://spaceflightnow.com/2023/02/17/first-launch-of-japans-h3-rocket-aborted-moments-before-liftoff/" >🔗</a> **[Spaceflight Now]** First launch of Japan’s H3 rocket aborted moments before liftoff
 - <a href="https://spacenews.com/h3-launch-abort/" >🔗</a> **[SpaceNews]** Japan aborts H3 launch moments before liftoff
+- <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi ready for second attempt at H3 rocket debut
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T173408">2023-03-06 17:34:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230306T180919">2023-03-06 18:09:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
