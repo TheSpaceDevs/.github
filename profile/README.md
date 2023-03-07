@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**H3-22 | ALOS-3 (Maiden flight)**. It is scheduled to be launched by *Mitsubishi Heavy Industries*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex</a>, Tanegashima, Japan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T013755">2023-03-07 01:37:55 UTC</a>.  Until
-then, this pad will have been used for 40
-out of 85 launches from this location. The launch status is currently
+**Terran 1 | Good Luck, Have Fun (Maiden Flight)**. It is scheduled to be launched by *Relativity Space*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16">Launch Complex 16</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 876 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Test Flight* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Maiden flight of the H3 launch vehicle, carrying the Advanced Land Observing Satellite-3 (ALOS-3).
+  Maiden launch of the Terran 1 rocket developed by Relativity Space.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/H3_(rocket)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h3-222520257c_image_20230216145357.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Terran_1" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg" />
   </a>
-  <a href="https://www.google.com/maps/place/30Â°24'08.0"N+130Â°58'30.0"E/" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_26_20200803142507.jpg"  />
+  <a href="http://www.google.com/maps?q=28.501626,-80.5518" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T013755">2023-03-07 01:37:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | ALOS-3 (Maiden flight)&location=Tanegashima, Japan&dates=20230307T013755Z%2F20230307T014415Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | ALOS-3 (Maiden flight)** from Tanegashima, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191300Z%2F20230309T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T223300">2023-03-09 22:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230309T223300Z%2F20230309T231700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan, People's Republic of China.
@@ -54,6 +53,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T000000">2023-03-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 18&location=Sriharikota, Republic of India&dates=20230326T000000Z%2F20230326T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk III | OneWeb 18** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-2** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,32 +89,26 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/" >🔗</a> **[SpaceNews]** Ukrainian government criticizes Vega C investigation
 - <a href="https://spacenews.com/investors-in-space-startups-see-hurdles-in-defense-market/" >🔗</a> **[SpaceNews]** Investors in space startups see hurdles in defense market
 - <a href="https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/" >🔗</a> **[Arstechnica]** The small launch industry is brutal—yes, even more than you thought
 - <a href="https://mars.nasa.gov/news/9358/" >🔗</a> **[NASA]** NASA's Curiosity Views First 'Sun Rays' on Mars
-- <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi ready for second attempt at H3 rocket debut
-- <a href="https://spacenews.com/nasa-shifts-focus-of-suborbital-crew-program/" >🔗</a> **[SpaceNews]** NASA shifts focus of suborbital crew program
+- <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** Japan’s maiden launch of H3 rocket fails during second stage flight
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/first-h3-launch-slips-to-2021/" >🔗</a> **[SpaceNews]** First H3 launch slips to 2021
-- <a href="https://spacenews.com/japans-new-h3-launcher-delayed-by-rocket-engine-component-issues/" >🔗</a> **[SpaceNews]** Japan’s new H3 launcher delayed by rocket engine component issues
-- <a href="https://spacenews.com/jaxa-ships-new-h3-rocket-to-tanegashima-space-center-for-testing/" >🔗</a> **[SpaceNews]** JAXA ships new H3 rocket to Tanegashima Space Center for testing
-- <a href="https://www.nasaspaceflight.com/2021/09/japan-h3-engine-certification-first-flight/" >🔗</a> **[NASASpaceflight]** Japan’s H3 rocket awaiting final engine certification for first flight
-- <a href="https://spacenews.com/japans-h3-rocket-further-delayed-by-engine-woes/" >🔗</a> **[SpaceNews]** Japan’s H3 rocket further delayed by engine woes
-- <a href="https://arstechnica.com/science/2023/01/rocket-report-crisis-for-european-launch-industry-japans-h3-rocket-nears-debut/" >🔗</a> **[Arstechnica]** Rocket Report: “Crisis” for European launch industry; Japan’s H3 rocket nears debut
-- <a href="https://arstechnica.com/science/2023/02/after-a-decade-in-development-japans-h3-rocket-is-ready-for-its-debut/" >🔗</a> **[Arstechnica]** After a decade in development, Japan’s H3 rocket is ready for its debut
-- <a href="https://www.nasaspaceflight.com/2023/02/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi abort cost-cutting H3 rocket at T0
-- <a href="https://spaceflightnow.com/2023/02/16/h3-test-flight-1-preview/" >🔗</a> **[Spaceflight Now]** Japan’s new H3 rocket ready for first test flight
-- <a href="https://spaceflightnow.com/2023/02/17/first-launch-of-japans-h3-rocket-aborted-moments-before-liftoff/" >🔗</a> **[Spaceflight Now]** First launch of Japan’s H3 rocket aborted moments before liftoff
-- <a href="https://spacenews.com/h3-launch-abort/" >🔗</a> **[SpaceNews]** Japan aborts H3 launch moments before liftoff
-- <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** JAXA and Mitsubishi ready for second attempt at H3 rocket debut
+- <a href="https://arstechnica.com/science/2022/10/on-eve-of-first-launch-relativity-space-seeks-to-join-spacex-as-disruptor/" >🔗</a> **[Arstechnica]** On eve of first launch, Relativity Space seeks to join SpaceX as “disruptor”
+- <a href="https://www.nasaspaceflight.com/2022/12/terran-testing/" >🔗</a> **[NASASpaceflight]** Terran 1 and Terran R testing in full swing before Relativity’s debut
+- <a href="https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/" >🔗</a> **[SpaceNews]** Relativity Space sets date for first Terran 1 launch
+- <a href="https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement" >🔗</a> **[The Launch Pad]** Relativity Receives Launch Licence, Sets Launch Date
+- <a href="https://spaceflightnow.com/2023/02/22/relativity-sets-launch-date-for-first-flight-of-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Relativity sets launch date for first flight of Terran 1 rocket
+- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T004030">2023-03-07 00:40:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T022421">2023-03-07 02:24:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
