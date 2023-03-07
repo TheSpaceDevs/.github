@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/07/blacksky-bksy-q4-results.html" >🔗</a> **[CNBC]** Satellite imagery company BlackSky sees quarterly losses slow as it adds another military contract
+- <a href="https://spacenews.com/antenna-verification-framework-now-accepting-drone-measurements/" >🔗</a> **[SpaceNews]** Antenna verification framework now accepting drone measurements
 - <a href="https://spacenews.com/jpl-making-progress-on-psyche-independent-review-recommendations/" >🔗</a> **[SpaceNews]** JPL making progress on Psyche independent review recommendations
 - <a href="https://spacenews.com/japans-h3-rocket-launch-fails-after-second-stage-malfunction/" >🔗</a> **[SpaceNews]** Japan’s H3 rocket launch fails after second stage malfunction
 - <a href="https://spaceflightnow.com/2023/03/07/japans-flagship-h3-rocket-fails-on-first-test-flight/" >🔗</a> **[Spaceflight Now]** Japan’s flagship H3 rocket fails on first test flight
-- <a href="https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly" >🔗</a> **[The Launch Pad]** BREAKING! Japan's H3 Rocket Fails During Inaugural Launch
-- <a href="https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/" >🔗</a> **[SpaceNews]** Ukrainian government criticizes Vega C investigation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T140712">2023-03-07 14:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T143357">2023-03-07 14:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
