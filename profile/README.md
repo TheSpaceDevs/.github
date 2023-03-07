@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/floridas-space-economy-the-future-is-now/" >🔗</a> **[SpaceNews]** Florida’s Space Economy: The Future is Now
 - <a href="https://sci.esa.int/web/director-desk/-/extended-life-for-esa-s-science-missions" >🔗</a> **[ESA]** Extended life for ESA's science missions
 - <a href="https://spacenews.com/boeings-ground-system-for-u-s-satellite-communications-passes-key-test/" >🔗</a> **[SpaceNews]** Boeing’s ground system for U.S. satellite communications passes key test
 - <a href="https://arstechnica.com/science/2023/03/the-launch-of-japans-large-new-rocket-fails-after-a-second-stage-problem/" >🔗</a> **[Arstechnica]** After nearly a decade in development, Japan’s new rocket fails in debut
 - <a href="https://www.cnbc.com/2023/03/07/blacksky-bksy-q4-results.html" >🔗</a> **[CNBC]** Satellite imagery company BlackSky sees quarterly losses slow as it adds another military contract
-- <a href="https://spacenews.com/antenna-verification-framework-now-accepting-drone-measurements/" >🔗</a> **[SpaceNews]** Antenna verification framework now accepting drone measurements
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T183816">2023-03-07 18:38:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T190540">2023-03-07 19:05:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
