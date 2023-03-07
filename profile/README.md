@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/h3-maiden-flight-anomaly" >🔗</a> **[The Launch Pad]** BREAKING! Japan's H3 Rocket Fails During Inaugural Launch
 - <a href="https://spacenews.com/ukrainian-government-criticizes-vega-c-investigation/" >🔗</a> **[SpaceNews]** Ukrainian government criticizes Vega C investigation
 - <a href="https://spacenews.com/investors-in-space-startups-see-hurdles-in-defense-market/" >🔗</a> **[SpaceNews]** Investors in space startups see hurdles in defense market
 - <a href="https://arstechnica.com/science/2023/03/the-small-launch-industry-is-brutal-yes-even-more-than-you-thought/" >🔗</a> **[Arstechnica]** The small launch industry is brutal—yes, even more than you thought
 - <a href="https://mars.nasa.gov/news/9358/" >🔗</a> **[NASA]** NASA's Curiosity Views First 'Sun Rays' on Mars
-- <a href="https://www.nasaspaceflight.com/2023/03/h3-debut-flight/" >🔗</a> **[NASASpaceflight]** Japan’s maiden launch of H3 rocket fails during second stage flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T022421">2023-03-07 02:24:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230307T030938">2023-03-07 03:09:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
