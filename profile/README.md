@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180000">2023-03-08 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230308T180000Z%2F20230308T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T191300">2023-03-09 19:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 17&location=Cape Canaveral, FL, USA&dates=20230309T191300Z%2F20230309T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T223300">2023-03-09 22:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230309T223300Z%2F20230309T231700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T230000">2023-03-11 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230311T230000Z%2F20230312T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Stronger Together** from Wallops Island, Virginia, USA.
@@ -89,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Watch Relativity attempt the first launch of its 3D-printed rocket Terran 1
+- <a href="https://spacenews.com/u-s-space-force-game-plan-compete-with-china-prevent-shooting-war-in-orbit/" >🔗</a> **[SpaceNews]** U.S. Space Force game plan: Compete with China, prevent shooting war in orbit
 - <a href="https://spacenews.com/starfish-space-raises-14-million-for-in-orbit-servicers/" >🔗</a> **[SpaceNews]** Starfish Space raises $14 million for in-orbit servicers
 - <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket
 - <a href="https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/" >🔗</a> **[Arstechnica]** Relativity Space will attempt to become a real rocket company today
-- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity Space set for maiden launch of Terran 1 rocket
-- <a href="https://spacenews.com/shield-capital-adds-retired-general-goldfein-to-national-security-advisory-board/" >🔗</a> **[SpaceNews]** Shield Capital adds retired general Goldfein to national security advisory board
 
 
 ### Launch-related News 🚀
@@ -112,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T173335">2023-03-08 17:33:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T180936">2023-03-08 18:09:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
