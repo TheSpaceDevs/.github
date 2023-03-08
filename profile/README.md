@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch first 3D-printed, methane-fueled orbital rocket
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss" >🔗</a> **[The Launch Pad]** NASA Preparing Final ISS Commercial Cargo Delivery Contracts
 - <a href="https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk" >🔗</a> **[The Launch Pad]** SpaceX Introduces £15 Per Month Starlink Rental Offer in UK
 - <a href="https://spacenews.com/no-major-issues-found-with-artemis-1-mission/" >🔗</a> **[SpaceNews]** No major issues found with Artemis 1 mission
 - <a href="https://tlpnetwork.com/news/2023/03/ussf-allocated-slcs-to-4-commercial-launchers" >🔗</a> **[The Launch Pad]** BREAKING! USSF Allocates Launch Complexes To 4 Commercial Launchers
-- <a href="https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space" >🔗</a> **[The Launch Pad]** EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space
 
 
 ### Launch-related News 🚀
@@ -104,11 +104,12 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement" >🔗</a> **[The Launch Pad]** Relativity Receives Launch Licence, Sets Launch Date
 - <a href="https://spaceflightnow.com/2023/02/22/relativity-sets-launch-date-for-first-flight-of-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Relativity sets launch date for first flight of Terran 1 rocket
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
+- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch first 3D-printed, methane-fueled orbital rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T083832">2023-03-08 08:38:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T090736">2023-03-08 09:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
