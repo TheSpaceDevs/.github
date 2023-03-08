@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss" >🔗</a> **[The Launch Pad]** NASA Preparing Final ISS Commercial Cargo Delivery Contracts
+- <a href="https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk" >🔗</a> **[The Launch Pad]** SpaceX Introduces £15 Per Month Starlink Rental Offer in UK
 - <a href="https://spacenews.com/no-major-issues-found-with-artemis-1-mission/" >🔗</a> **[SpaceNews]** No major issues found with Artemis 1 mission
 - <a href="https://tlpnetwork.com/news/2023/03/ussf-allocated-slcs-to-4-commercial-launchers" >🔗</a> **[The Launch Pad]** BREAKING! USSF Allocates Launch Complexes To 4 Commercial Launchers
 - <a href="https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space" >🔗</a> **[The Launch Pad]** EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch" >🔗</a> **[The Launch Pad]** BREAKING! NASA Targeting November 2024 For Artemis II Launch
-- <a href="https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/" >🔗</a> **[SpaceNews]** Rocket Lab ‘very happy’ with Space Force plan to procure launch services
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T063828">2023-03-08 06:38:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T070647">2023-03-08 07:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
