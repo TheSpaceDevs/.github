@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/no-major-issues-found-with-artemis-1-mission/" >🔗</a> **[SpaceNews]** No major issues found with Artemis 1 mission
 - <a href="https://tlpnetwork.com/news/2023/03/ussf-allocated-slcs-to-4-commercial-launchers" >🔗</a> **[The Launch Pad]** BREAKING! USSF Allocates Launch Complexes To 4 Commercial Launchers
 - <a href="https://tlpnetwork.com/news/2023/03/inspired-24-launches-mission-to-democratize-access-to-space" >🔗</a> **[The Launch Pad]** EXCLUSIVE! Inspired 24 Launches Mission To Democratize Access To Space
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-targeting-november-2024-for-artemis-ii-launch" >🔗</a> **[The Launch Pad]** BREAKING! NASA Targeting November 2024 For Artemis II Launch
 - <a href="https://spacenews.com/rocket-lab-very-happy-with-space-force-plan-to-procure-launch-services/" >🔗</a> **[SpaceNews]** Rocket Lab ‘very happy’ with Space Force plan to procure launch services
-- <a href="https://tlpnetwork.com/news/2023/03/russian-assets-arrested-at-the-baikonur-cosmodrome-by-kazakh-authorities" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Russian Assets Reportidly Arrested At The Baikonur Cosmodrome By Kazakh Authorities
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T050648">2023-03-08 05:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T053243">2023-03-08 05:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
