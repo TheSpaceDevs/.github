@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starfish-space-raises-14-million-for-in-orbit-servicers/" >🔗</a> **[SpaceNews]** Starfish Space raises $14 million for in-orbit servicers
+- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket
 - <a href="https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/" >🔗</a> **[Arstechnica]** Relativity Space will attempt to become a real rocket company today
 - <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity Space set for maiden launch of Terran 1 rocket
 - <a href="https://spacenews.com/shield-capital-adds-retired-general-goldfein-to-national-security-advisory-board/" >🔗</a> **[SpaceNews]** Shield Capital adds retired general Goldfein to national security advisory board
-- <a href="https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/" >🔗</a> **[Arstechnica]** NASA studying unexpected performance of Orion’s heat shield ahead of crew mission
-- <a href="https://spacenews.com/iss-dodges-commercial-imaging-satellite/" >🔗</a> **[SpaceNews]** ISS dodges commercial imaging satellite
 
 
 ### Launch-related News 🚀
@@ -104,13 +104,15 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement" >🔗</a> **[The Launch Pad]** Relativity Receives Launch Licence, Sets Launch Date
 - <a href="https://spaceflightnow.com/2023/02/22/relativity-sets-launch-date-for-first-flight-of-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Relativity sets launch date for first flight of Terran 1 rocket
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
-- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch first 3D-printed, methane-fueled orbital rocket
+- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Watch live: Relativity Space to launch first 3D-printed, methane-fueled orbital rocket
 - <a href="https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Launch day timeline for Relativity Space’s Terran 1 rocket
+- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity Space set for maiden launch of Terran 1 rocket
+- <a href="https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/" >🔗</a> **[Arstechnica]** Relativity Space will attempt to become a real rocket company today
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T170617">2023-03-08 17:06:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T173335">2023-03-08 17:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
