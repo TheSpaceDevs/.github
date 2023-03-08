@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iss-dodges-commercial-imaging-satellite/" >🔗</a> **[SpaceNews]** ISS dodges commercial imaging satellite
 - <a href="https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Launch day timeline for Relativity Space’s Terran 1 rocket
 - <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch first 3D-printed, methane-fueled orbital rocket
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-advances-final-commercial-cargo-delivery-services-to-iss" >🔗</a> **[The Launch Pad]** NASA Preparing Final ISS Commercial Cargo Delivery Contracts
 - <a href="https://tlpnetwork.com/news/2023/03/spacex-introduces-per-month-starlink-rental-offer-in-uk" >🔗</a> **[The Launch Pad]** SpaceX Introduces £15 Per Month Starlink Rental Offer in UK
-- <a href="https://spacenews.com/no-major-issues-found-with-artemis-1-mission/" >🔗</a> **[SpaceNews]** No major issues found with Artemis 1 mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T131727">2023-03-08 13:17:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T133751">2023-03-08 13:37:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
