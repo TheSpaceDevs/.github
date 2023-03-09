@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown" >🔗</a> **[NASA]** Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown
 - <a href="https://spacenews.com/japanese-lunar-lander-company-ispace-to-go-public/" >🔗</a> **[SpaceNews]** Japanese lunar lander company ispace to go public
 - <a href="https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/" >🔗</a> **[SpaceNews]** Relativity Space scrubs first Terran 1 launch attempt
 - <a href="https://spacenews.com/u-s-intelligence-report-chinas-commercial-space-sector-to-become-global-competitor-by-2030/" >🔗</a> **[SpaceNews]** U.S. intelligence report: China’s commercial space sector to become global competitor by 2030
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-annual-address-budget-media-call-in-march" >🔗</a> **[NASA]** NASA Sets Coverage for Annual Address, Budget Media Call in March
-- <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T140706">2023-03-09 14:07:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T143432">2023-03-09 14:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
