@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/09/biden-proposed-2024-faa-budget.html" >🔗</a> **[CNBC]** Biden wants more money for the FAA after air travel disruptions
+- <a href="https://www.cnbc.com/2023/03/09/biden-proposed-2024-nasa-budget.html" >🔗</a> **[CNBC]** Biden budget seeks $27.2 billion for NASA, with increases for moon and Mars programs
+- <a href="https://www.cnbc.com/2023/03/09/investing-in-space-newsletter-launch-jitters.html" >🔗</a> **[CNBC]** Investing in Space: Launch jitters
+- <a href="https://spacenews.com/tesat-spacecom-establishes-u-s-subsidiary/" >🔗</a> **[SpaceNews]** Tesat-Spacecom establishes U.S. subsidiary
 - <a href="https://www.nasaspaceflight.com/2023/03/oneweb-17/" >🔗</a> **[NASASpaceflight]** SpaceX to launch OneWeb 17 mission and return booster to LZ-1
-- <a href="https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX launch and landing on tap today at Cape Canaveral
-- <a href="http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-5-prepares-to-splashdown" >🔗</a> **[NASA]** Coverage Set as NASA’s SpaceX Crew-5 Prepares to Splashdown
-- <a href="https://spacenews.com/japanese-lunar-lander-company-ispace-to-go-public/" >🔗</a> **[SpaceNews]** Japanese lunar lander company ispace to go public
-- <a href="https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/" >🔗</a> **[SpaceNews]** Relativity Space scrubs first Terran 1 launch attempt
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T170627">2023-03-09 17:06:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T173353">2023-03-09 17:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
