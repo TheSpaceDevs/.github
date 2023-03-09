@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-intelligence-report-chinas-commercial-space-sector-to-become-global-competitor-by-2030/" >🔗</a> **[SpaceNews]** U.S. intelligence report: China’s commercial space sector to become global competitor by 2030
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-annual-address-budget-media-call-in-march" >🔗</a> **[NASA]** NASA Sets Coverage for Annual Address, Budget Media Call in March
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
 - <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space scrubs launch of 3D-printed, methane-fueled orbital rocket
 - <a href="http://www.nasa.gov/press-release/nasa-smithsonian-to-discuss-air-quality-satellite-instrument" >🔗</a> **[NASA]** NASA, Smithsonian to Discuss Air Quality Satellite Instrument
-- <a href="https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity postpones first launch attempt of 3D-printed rocket Terran 1
-- <a href="https://spacenews.com/u-s-space-force-game-plan-compete-with-china-prevent-shooting-war-in-orbit/" >🔗</a> **[SpaceNews]** U.S. Space Force game plan: Compete with China, prevent shooting war in orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230308T233208">2023-03-08 23:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T003840">2023-03-09 00:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
