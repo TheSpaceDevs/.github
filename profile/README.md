@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX launches and lands rocket on mission for OneWeb
+- <a href="https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches and lands rocket on mission for OneWeb
+- <a href="https://spacenews.com/space-resilience-highlighted-in-bidens-proposed-defense-budget/" >🔗</a> **[SpaceNews]** ‘Space resilience’ highlighted in Biden’s proposed defense budget
 - <a href="https://tlpnetwork.com/news/2023/03/vulcan-centaur-rocket-rolled-out-to-the-launch-site-for-testing-campaign" >🔗</a> **[The Launch Pad]** ULA Rolls First Vulcan Rocket To The Pad Ahead Of Testing Campaign For Launch
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-to-announce-artemis-2-crew-on-april-3rd" >🔗</a> **[The Launch Pad]** BREAKING! NASA to Announce Artemis 2 Crew on April 3rd
 - <a href="http://www.nasa.gov/press-release/president-s-fiscal-year-2024-budget-strengthens-nasa-space-economy" >🔗</a> **[NASA]** President’s Fiscal Year 2024 Budget Strengthens NASA, Space Economy
-- <a href="https://spacenews.com/limits-on-ukraines-use-of-starlink-for-war-operations-is-a-lesson-for-u-s-military/" >🔗</a> **[SpaceNews]** Limits on Ukraine’s use of Starlink for war operations is a lesson for U.S. military
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T213157">2023-03-09 21:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T220658">2023-03-09 22:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
