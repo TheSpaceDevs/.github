@@ -93,7 +93,7 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/u-s-intelligence-report-chinas-commercial-space-sector-to-become-global-competitor-by-2030/" >🔗</a> **[SpaceNews]** U.S. intelligence report: China’s commercial space sector to become global competitor by 2030
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-annual-address-budget-media-call-in-march" >🔗</a> **[NASA]** NASA Sets Coverage for Annual Address, Budget Media Call in March
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
-- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space scrubs launch of 3D-printed, methane-fueled orbital rocket
+- <a href="http://www.nasa.gov/press-release/nasa-smithsonian-to-discuss-air-quality-satellite-instrument" >🔗</a> **[NASA]** NASA, Smithsonian to Discuss Air Quality Satellite Instrument
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T030338">2023-03-09 03:03:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230309T033850">2023-03-09 03:38:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
