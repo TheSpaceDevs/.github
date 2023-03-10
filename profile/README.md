@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/" >🔗</a> **[SpaceNews]** Space sector reacts to collapse of Silicon Valley Bank
+- <a href="https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/" >🔗</a> **[SpaceNews]** Space Force allocates three historic Cape Canaveral launch pads to four companies
 - <a href="http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges" >🔗</a> **[NASA]** NASA Names University Teams to Take on Aeronautics Research Challenges
 - <a href="http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc" >🔗</a> **[NASA]** NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC
 - <a href="https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling" >🔗</a> **[The Launch Pad]** Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches
-- <a href="https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html" >🔗</a> **[CNBC]** Meet the brothers building massive spacecraft to leverage SpaceX’s Starship
-- <a href="https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html" >🔗</a> **[CNBC]** Astra investigating ‘potential illegal short selling’ as delisting deadline looms
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T223248">2023-03-10 22:32:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T230624">2023-03-10 23:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
