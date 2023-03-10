@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling" >🔗</a> **[The Launch Pad]** Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches
 - <a href="https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html" >🔗</a> **[CNBC]** Meet the brothers building massive spacecraft to leverage SpaceX’s Starship
 - <a href="https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html" >🔗</a> **[CNBC]** Astra investigating ‘potential illegal short selling’ as delisting deadline looms
 - <a href="http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii" >🔗</a> **[NASA]** La NASA y CSA asignarán astronautas para Artemis II
 - <a href="http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts" >🔗</a> **[NASA]** NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts
-- <a href="https://spacenews.com/rs21-patent-for-ai-based-monitoring/" >🔗</a> **[SpaceNews]** RS21 patent for AI-based monitoring
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T153343">2023-03-10 15:33:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T160956">2023-03-10 16:09:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
