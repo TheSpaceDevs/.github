@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/10/k2-space-startup-building-massive-spacecraft.html" >🔗</a> **[CNBC]** Meet the brothers building massive spacecraft to leverage SpaceX’s Starship
+- <a href="https://www.cnbc.com/2023/03/10/astra-investigates-potential-illegal-short-selling-as-delisting-deadline-looms.html" >🔗</a> **[CNBC]** Astra investigating ‘potential illegal short selling’ as delisting deadline looms
 - <a href="http://www.nasa.gov/press-release/la-nasa-y-csa-asignar-n-astronautas-para-artemis-ii" >🔗</a> **[NASA]** La NASA y CSA asignarán astronautas para Artemis II
 - <a href="http://www.nasa.gov/press-release/nasa-canadian-space-agency-to-assign-artemis-ii-moon-astronauts" >🔗</a> **[NASA]** NASA, Canadian Space Agency to Assign Artemis II Moon Astronauts
-- <a href="https://arstechnica.com/science/2023/03/rocket-report-boeing-to-bid-sls-for-military-launch-ariane-chief-says-all-is-well/" >🔗</a> **[Arstechnica]** Rocket Report: Boeing to bid SLS for military launch; Ariane chief says all is well
-- <a href="https://spacenews.com/momentus-preparing-for-vigoride-thruster-test-as-it-ships-next-vehicle/" >🔗</a> **[SpaceNews]** Momentus preparing for Vigoride thruster test as it ships next vehicle
-- <a href="https://spacenews.com/china-is-developing-a-quantum-communications-satellite-network/" >🔗</a> **[SpaceNews]** China is developing a quantum communications satellite network
+- <a href="https://spacenews.com/rs21-patent-for-ai-based-monitoring/" >🔗</a> **[SpaceNews]** RS21 patent for AI-based monitoring
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T143413">2023-03-10 14:34:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T150626">2023-03-10 15:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
