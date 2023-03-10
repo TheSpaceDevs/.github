@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-is-developing-a-quantum-communications-satellite-network/" >🔗</a> **[SpaceNews]** China is developing a quantum communications satellite network
 - <a href="https://spacenews.com/hughes-jupiter-3-preps-for-launch/" >🔗</a> **[SpaceNews]** Hughes unveils Jupiter 3
 - <a href="https://spacenews.com/atlas-expands-network/" >🔗</a> **[SpaceNews]** Atlas joins forces with Viasat RTE
 - <a href="https://spacenews.com/spacex-completes-final-dedicated-launch-for-oneweb/" >🔗</a> **[SpaceNews]** SpaceX completes final dedicated launch for OneWeb
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-tracking-newly-discovered-earth-bound-asteroid" >🔗</a> **[The Launch Pad]** NASA Tracking Newly Discovered Earth Bound Asteroid
-- <a href="https://spaceflightnow.com/2023/03/09/falcon-9-oneweb-17-coverage/" >🔗</a> **[Spaceflight Now]** SpaceX launches and lands rocket on mission for OneWeb
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T103711">2023-03-10 10:37:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T110616">2023-03-10 11:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
