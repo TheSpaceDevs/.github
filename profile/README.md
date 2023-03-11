@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/k2-space-announcement" >🔗</a> **[The Launch Pad]** Meet The Startup Developing The Next Generation of Satellite Technology
 - <a href="https://www.nasaspaceflight.com/2023/03/crew-5-return/" >🔗</a> **[NASASpaceflight]** Crew Dragon Endurance set for return to Earth on Crew-5 mission
 - <a href="https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/" >🔗</a> **[SpaceNews]** Canadian military orders space surveillance micro satellite
 - <a href="https://spacenews.com/intelsat-and-eutelsat-forge-multi-orbit-capacity-deal/" >🔗</a> **[SpaceNews]** Intelsat and Eutelsat forge multi-orbit capacity deal
 - <a href="https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/" >🔗</a> **[SpaceNews]** Space sector reacts to collapse of Silicon Valley Bank
-- <a href="https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/" >🔗</a> **[SpaceNews]** Space Force allocates three historic Cape Canaveral launch pads to four companies
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T020323">2023-03-11 02:03:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T024547">2023-03-11 02:45:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
