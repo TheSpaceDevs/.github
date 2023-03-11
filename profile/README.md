@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/03/crew-5-return/" >🔗</a> **[NASASpaceflight]** Crew Dragon Endurance set for return to Earth on Crew-5 mission
+- <a href="https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/" >🔗</a> **[SpaceNews]** Canadian military orders space surveillance micro satellite
+- <a href="https://spacenews.com/intelsat-and-eutelsat-forge-multi-orbit-capacity-deal/" >🔗</a> **[SpaceNews]** Intelsat and Eutelsat forge multi-orbit capacity deal
 - <a href="https://spacenews.com/space-sector-reacts-to-collapse-of-silicon-valley-bank/" >🔗</a> **[SpaceNews]** Space sector reacts to collapse of Silicon Valley Bank
 - <a href="https://spacenews.com/space-force-allocates-three-historic-cape-canaveral-launch-pads-to-four-companies/" >🔗</a> **[SpaceNews]** Space Force allocates three historic Cape Canaveral launch pads to four companies
-- <a href="http://www.nasa.gov/press-release/nasa-names-university-teams-to-take-on-aeronautics-research-challenges" >🔗</a> **[NASA]** NASA Names University Teams to Take on Aeronautics Research Challenges
-- <a href="http://www.nasa.gov/press-release/nasa-s-state-fact-sheets-highlight-economic-impact-in-all-50-states-dc" >🔗</a> **[NASA]** NASA’s State Fact Sheets Highlight Economic Impact in All 50 States, DC
-- <a href="https://tlpnetwork.com/news/2023/03/astra-investigating-potential-illegal-short-selling" >🔗</a> **[The Launch Pad]** Astra Investigating Potential Illegal Short Selling As Delisting Deadline Approaches
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230310T233146">2023-03-10 23:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T003240">2023-03-11 00:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
