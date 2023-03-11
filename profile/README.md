@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180000">2023-03-11 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230311T180000Z%2F20230311T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T230000">2023-03-11 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230311T230000Z%2F20230312T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Stronger Together** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T231300">2023-03-12 23:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M Briz-M | Olymp-K #2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230312T231300Z%2F20230312T231300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M Briz-M | Olymp-K #2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T035300">2023-03-13 03:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230313T035300Z%2F20230313T041700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan, People's Republic of China.
@@ -89,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Watch Relativity attempt the first launch of its 3D-printed rocket Terran 1
 - <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Watch live: Relativity Space preps 3D-printed rocket for second launch attempt
 - <a href="https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/" >🔗</a> **[Spaceflight Now]** SpaceX capsule with four-person crew departs space station, heads for Earth
 - <a href="https://tlpnetwork.com/news/2023/03/k2-space-announcement" >🔗</a> **[The Launch Pad]** Meet The Startup Developing The Next Generation of Satellite Technology
 - <a href="https://www.nasaspaceflight.com/2023/03/crew-5-return/" >🔗</a> **[NASASpaceflight]** Crew Dragon Endurance returning to Earth on Crew-5 mission
-- <a href="https://spacenews.com/canadian-military-orders-space-surveillance-micro-satellite/" >🔗</a> **[SpaceNews]** Canadian military orders space surveillance micro satellite
 
 
 ### Launch-related News 🚀
@@ -116,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T173141">2023-03-11 17:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T180743">2023-03-11 18:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
