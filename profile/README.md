@@ -111,11 +111,12 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity postpones first launch attempt of 3D-printed rocket Terran 1
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
 - <a href="https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/" >🔗</a> **[SpaceNews]** Relativity Space scrubs first Terran 1 launch attempt
+- <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Relativity Space preps 3D-printed rocket for second launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T113146">2023-03-11 11:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T121048">2023-03-11 12:10:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
