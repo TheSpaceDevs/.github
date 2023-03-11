@@ -89,7 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Relativity Space preps 3D-printed rocket for second launch attempt
+- <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Watch live: Relativity Space preps 3D-printed rocket for second launch attempt
 - <a href="https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/" >🔗</a> **[Spaceflight Now]** SpaceX capsule with four-person crew departs space station, heads for Earth
 - <a href="https://tlpnetwork.com/news/2023/03/k2-space-announcement" >🔗</a> **[The Launch Pad]** Meet The Startup Developing The Next Generation of Satellite Technology
 - <a href="https://www.nasaspaceflight.com/2023/03/crew-5-return/" >🔗</a> **[NASASpaceflight]** Crew Dragon Endurance returning to Earth on Crew-5 mission
@@ -106,17 +106,17 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
 - <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch 3D-printed, methane-fueled orbital rocket
 - <a href="https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Launch day timeline for Relativity Space’s Terran 1 rocket
-- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity Space scrubs maiden launch of Terran 1 rocket
+- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity ready to make second Terran 1 launch attempt Saturday
 - <a href="https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/" >🔗</a> **[Arstechnica]** Relativity Space scrubs first attempt to launch Terran 1 [Updated]
 - <a href="https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity postpones first launch attempt of 3D-printed rocket Terran 1
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
 - <a href="https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/" >🔗</a> **[SpaceNews]** Relativity Space scrubs first Terran 1 launch attempt
-- <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Relativity Space preps 3D-printed rocket for second launch attempt
+- <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Watch live: Relativity Space preps 3D-printed rocket for second launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T143137">2023-03-11 14:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230311T150603">2023-03-11 15:06:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
