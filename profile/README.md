@@ -45,7 +45,7 @@ into *a Geostationary Transfer Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T231300">2023-03-12 23:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M Briz-M | Olymp-K #2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230312T231300Z%2F20230312T231300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M Briz-M | Olymp-K #2** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T035300">2023-03-13 03:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230313T035300Z%2F20230313T041700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T035300">2023-03-13 03:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230313T035300Z%2F20230313T041700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T220000">2023-03-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230314T220000Z%2F20230315T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Stronger Together** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T003000">2023-03-15 00:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-27&location=Kennedy Space Center, FL, USA&dates=20230315T003000Z%2F20230315T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-27** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T113600">2023-03-15 11:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 11 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230315T113600Z%2F20230315T115600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 11 | Unknown Payload** from Jiuquan, People's Republic of China.
@@ -90,10 +90,10 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2023/03/12/crew-dragon-splashes-down-to-close-out-157-day-mission/" >🔗</a> **[Spaceflight Now]** Crew Dragon splashes down to close out 157-day mission
+- <a href="https://spacenews.com/managing-the-complexity-of-the-worlds-largest-satellite-navigation-system/" >🔗</a> **[SpaceNews]** Managing the complexity of the world’s largest satellite navigation system
 - <a href="https://spacenews.com/crew-5-mission-ends-with-florida-splashdown/" >🔗</a> **[SpaceNews]** Crew-5 mission ends with Florida splashdown
 - <a href="https://www.nasaspaceflight.com/2023/03/crew-5-return/" >🔗</a> **[NASASpaceflight]** Crew Dragon Endurance returns to Earth on Crew-5 mission
 - <a href="https://spacenews.com/relativity-scrubs-first-terran-1-launch-again/" >🔗</a> **[SpaceNews]** Relativity scrubs first Terran 1 launch again
-- <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-11-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Second Attempt At Maiden Flight Of Terran 1 Rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T160728">2023-03-12 16:07:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T163913">2023-03-12 16:39:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
