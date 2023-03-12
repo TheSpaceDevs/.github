@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-5-mission-ends-with-florida-splashdown/" >🔗</a> **[SpaceNews]** Crew-5 mission ends with Florida splashdown
 - <a href="https://spacenews.com/relativity-scrubs-first-terran-1-launch-again/" >🔗</a> **[SpaceNews]** Relativity scrubs first Terran 1 launch again
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-11-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Second Attempt At Maiden Flight Of Terran 1 Rocket
 - <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Relativity Space scrubs second launch attempt for Terran 1 rocket
 - <a href="https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines
-- <a href="https://spaceflightnow.com/2023/03/11/spacex-capsule-with-four-person-crew-departs-space-station-heads-for-splashdown/" >🔗</a> **[Spaceflight Now]** SpaceX capsule with four-person crew departs space station, heads for Earth
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T021558">2023-03-12 02:15:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230312T025721">2023-03-12 02:57:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
