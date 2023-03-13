@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/oneweb-announces-global-partnership-with-amazon" >🔗</a> **[The Launch Pad]** BREAKING! OneWeb Announces Global Partnership With Amazon 
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-sets-out-new-timeline-for-moon-and-mars-missions" >🔗</a> **[The Launch Pad]** NASA Sets Out New Timeline For Moon And Mars Missions
+- <a href="https://tlpnetwork.com/news/2023/03/spacex-to-test-starlink-to-cell-service-this-year" >🔗</a> **[The Launch Pad]** SpaceX Set To Test Starlink To Cell Service This Year With T-Mobile
 - <a href="https://tlpnetwork.com/news/2023/03/silicon-valley-bank-collapse-hits-space-industry" >🔗</a> **[The Launch Pad]** Silicon Valley Bank Collapse Hits Space Industry
 - <a href="https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public" >🔗</a> **[The Launch Pad]** Japanese Lunar Lander Company iSpace Set To Go Public On April 12th
-- <a href="https://spacenews.com/getting-real-about-space-business-models/" >🔗</a> **[SpaceNews]** Getting real about space business models
-- <a href="https://www.cnbc.com/2023/03/13/spacex-t-mobile-cell-service-tests-this-year.html" >🔗</a> **[CNBC]** SpaceX says it will test Starlink’s satellite-to-cell service with T-Mobile this year
-- <a href="https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/" >🔗</a> **[NASASpaceflight]** JUICE arrives in French Guiana for launch, project manager outlines next steps
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T183552">2023-03-13 18:35:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T190503">2023-03-13 19:05:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
