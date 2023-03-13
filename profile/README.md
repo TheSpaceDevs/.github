@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-budget-hits-30-billion-in-2024-funding-proposal/" >🔗</a> **[SpaceNews]** U.S. Space Force budget hits $30 billion in 2024 proposal
 - <a href="https://spacenews.com/rivada-space-networks-selects-aalyria-spacetime/" >🔗</a> **[SpaceNews]** Rivada Space Networks selects Aalyria Spacetime
 - <a href="https://spacenews.com/leolabs-argentina/" >🔗</a> **[SpaceNews]** LeoLabs to build  radar in Argentina
 - <a href="https://spacenews.com/cesiumastro-ifc/" >🔗</a> **[SpaceNews]** CesiumAstro enters IFC market
 - <a href="https://spacenews.com/nasa-study-assess-costs-and-benefits-of-orbital-debris-removal/" >🔗</a> **[SpaceNews]** NASA study assess costs and benefits of orbital debris removal
-- <a href="https://tlpnetwork.com/news/2023/03/luch-5x-launch" >🔗</a> **[The Launch Pad]** Russia Lofts Luch Relay Satellite Aboard Proton Rocket
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T143305">2023-03-13 14:33:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T150549">2023-03-13 15:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
