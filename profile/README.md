@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/ispace-set-to-go-public" >🔗</a> **[The Launch Pad]** Japanese Lunar Lander Company iSpace Set To Go Public On April 12th
+- <a href="https://spacenews.com/getting-real-about-space-business-models/" >🔗</a> **[SpaceNews]** Getting real about space business models
+- <a href="https://www.cnbc.com/2023/03/13/spacex-t-mobile-cell-service-tests-this-year.html" >🔗</a> **[CNBC]** SpaceX says it will test Starlink’s satellite-to-cell service with T-Mobile this year
 - <a href="https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/" >🔗</a> **[NASASpaceflight]** JUICE arrives in French Guiana for launch, project manager outlines next steps
 - <a href="https://spacenews.com/u-s-space-force-budget-hits-30-billion-in-2024-funding-proposal/" >🔗</a> **[SpaceNews]** U.S. Space Force budget hits $30 billion in 2024 proposal
-- <a href="https://spacenews.com/rivada-space-networks-selects-aalyria-spacetime/" >🔗</a> **[SpaceNews]** Rivada Space Networks selects Aalyria Spacetime
-- <a href="https://spacenews.com/leolabs-argentina/" >🔗</a> **[SpaceNews]** LeoLabs to build  radar in Argentina
-- <a href="https://spacenews.com/cesiumastro-ifc/" >🔗</a> **[SpaceNews]** CesiumAstro enters IFC market
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T170614">2023-03-13 17:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230313T173146">2023-03-13 17:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
