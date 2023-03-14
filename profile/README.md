@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-picks-firefly-aerospace-for-robotic-delivery-to-far-side-of-moon" >🔗</a> **[NASA]** NASA Picks Firefly Aerospace for Robotic Delivery to Far Side of Moon
 - <a href="https://www.nasaspaceflight.com/2023/03/spacex-crs-27/" >🔗</a> **[NASASpaceflight]** CRS-27 set to launch fresh cargo and experiments to ISS
 - <a href="https://spacenews.com/investors-project-space-company-funding-to-rebound-in-2023/" >🔗</a> **[SpaceNews]** Investors project space company funding to rebound in 2023
 - <a href="https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/" >🔗</a> **[SpaceNews]** Amazon unveils Project Kuiper terminals for services starting in 2024
 - <a href="https://spacenews.com/satellite-manufacturers-continue-to-diversify/" >🔗</a> **[SpaceNews]** Satellite manufacturers continue to diversify
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 to Discuss Mission Following Return to Earth
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T193234">2023-03-14 19:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T200905">2023-03-14 20:09:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
