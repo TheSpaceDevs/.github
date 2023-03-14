@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-picks-firefly-aerospace-for-robotic-delivery-to-far-side-of-moon" >🔗</a> **[NASA]** NASA Picks Firefly Aerospace for Robotic Delivery to Far Side of Moon
-- <a href="https://www.nasaspaceflight.com/2023/03/spacex-crs-27/" >🔗</a> **[NASASpaceflight]** CRS-27 set to launch fresh cargo and experiments to ISS
-- <a href="https://spacenews.com/investors-project-space-company-funding-to-rebound-in-2023/" >🔗</a> **[SpaceNews]** Investors project space company funding to rebound in 2023
-- <a href="https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/" >🔗</a> **[SpaceNews]** Amazon unveils Project Kuiper terminals for services starting in 2024
-- <a href="https://spacenews.com/satellite-manufacturers-continue-to-diversify/" >🔗</a> **[SpaceNews]** Satellite manufacturers continue to diversify
+- <a href="https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/" >🔗</a> **[Teslarati]** Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’
+- <a href="https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/" >🔗</a> **[SpaceNews]** Why the Office of Space Commerce should supervise novel commercial space activities
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss" >🔗</a> **[The Launch Pad]** NASA Approves AX-3 Mission To ISS
+- <a href="https://spacenews.com/kayhan-coordinated-collision-avoidance/" >🔗</a> **[SpaceNews]** Kayhan offers coordinated collision avoidance
+- <a href="http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission" >🔗</a> **[NASA]** NASA Selects Axiom Space for Third Private Astronaut Station Mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T203728">2023-03-14 20:37:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T210624">2023-03-14 21:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
