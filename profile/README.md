@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-unveils-project-kuiper-terminals-for-services-starting-in-2024/" >🔗</a> **[SpaceNews]** Amazon unveils Project Kuiper terminals for services starting in 2024
 - <a href="https://spacenews.com/satellite-manufacturers-continue-to-diversify/" >🔗</a> **[SpaceNews]** Satellite manufacturers continue to diversify
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-5-to-discuss-mission-following-return-to-earth" >🔗</a> **[NASA]** NASA’s SpaceX Crew-5 to Discuss Mission Following Return to Earth
 - <a href="https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html" >🔗</a> **[CNBC]** Amazon gives a first look at the satellite internet antennas for its Project Kuiper network
 - <a href="https://spacenews.com/as-dod-pivots-to-smaller-satellites-congress-airdrops-a-big-one-into-the-budget/" >🔗</a> **[SpaceNews]** As DoD pivots to smaller satellites, Congress airdrops a big one into the budget
-- <a href="https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/" >🔗</a> **[SpaceNews]** Satellite executives spar over direct-to-device evolution
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T143739">2023-03-14 14:37:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T150905">2023-03-14 15:09:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
