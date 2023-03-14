@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-executives-spar-over-direct-to-device-evolution/" >🔗</a> **[SpaceNews]** Satellite executives spar over direct-to-device evolution
 - <a href="https://spacenews.com/nasa-planning-to-spend-up-to-1-billion-on-space-station-deorbit-module/" >🔗</a> **[SpaceNews]** NASA planning to spend up to $1 billion on space station deorbit module
 - <a href="https://spacenews.com/l3-harris-wins-765-5-million-contract-to-develop-geoxo-imager/" >🔗</a> **[SpaceNews]** L3 Harris wins $765.5 million contract to develop GeoXO imager
 - <a href="https://spacenews.com/space-force-pauses-gps-satellite-orders-due-to-excess-inventory/" >🔗</a> **[SpaceNews]** Space Force pauses GPS satellite orders due to excess inventory
 - <a href="http://www.nasa.gov/press-release/nasa-selects-l3harris-to-develop-imager-for-noaa-satellite" >🔗</a> **[NASA]** NASA Selects L3Harris to Develop Imager for NOAA Satellite
-- <a href="https://spacenews.com/silicon-valley-banks-space-clients-regain-account-access/" >🔗</a> **[SpaceNews]** Space firms regain access to Silicon Valley Bank accounts
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T015609">2023-03-14 01:56:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T022751">2023-03-14 02:27:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
