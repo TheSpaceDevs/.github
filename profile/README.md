@@ -92,10 +92,10 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/" >🔗</a> **[Teslarati]** Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’
+- <a href="https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals" >🔗</a> **[The Launch Pad]** Amazon Reveals Project Kuiper Commercial Satellite Terminals
 - <a href="https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/" >🔗</a> **[SpaceNews]** Why the Office of Space Commerce should supervise novel commercial space activities
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss" >🔗</a> **[The Launch Pad]** NASA Approves AX-3 Mission To ISS
 - <a href="https://spacenews.com/kayhan-coordinated-collision-avoidance/" >🔗</a> **[SpaceNews]** Kayhan offers coordinated collision avoidance
-- <a href="http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-third-private-astronaut-station-mission" >🔗</a> **[NASA]** NASA Selects Axiom Space for Third Private Astronaut Station Mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T213154">2023-03-14 21:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230314T220626">2023-03-14 22:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
