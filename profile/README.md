@@ -45,7 +45,7 @@ into *an Unknown Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T113600">2023-03-15 11:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230315T113600Z%2F20230315T115600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Jiuquan, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220000">2023-03-16 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230316T220000Z%2F20230317T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Stronger Together** from Wallops Island, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220000">2023-03-16 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Stronger Together&location=Wallops Island, Virginia, USA&dates=20230316T220000Z%2F20230317T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Stronger Together** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T082300">2023-03-17 08:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | ChinaSat 6E (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230317T082300Z%2F20230317T091800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | ChinaSat 6E (?)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T190100">2023-03-17 19:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-8&location=Vandenberg SFB, CA, USA&dates=20230317T190100Z%2F20230318T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-8** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233800">2023-03-17 23:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230317T233800Z%2F20230318T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-18 & SES-19** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27" >🔗</a> **[The Launch Pad]** SpaceX Launches Science and Supplies To Space Station
 - <a href="https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/" >🔗</a> **[Teslarati]** Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’
 - <a href="https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals" >🔗</a> **[The Launch Pad]** Amazon Reveals Project Kuiper Commercial Satellite Terminals
 - <a href="https://spacenews.com/why-the-office-of-space-commerce-should-supervise-novel-commercial-space-activities/" >🔗</a> **[SpaceNews]** Why the Office of Space Commerce should supervise novel commercial space activities
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-approves-ax-3-mission-to-iss" >🔗</a> **[The Launch Pad]** NASA Approves AX-3 Mission To ISS
-- <a href="https://spacenews.com/kayhan-coordinated-collision-avoidance/" >🔗</a> **[SpaceNews]** Kayhan offers coordinated collision avoidance
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T030746">2023-03-15 03:07:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T033141">2023-03-15 03:31:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
