@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/" >🔗</a> **[SpaceNews]** Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict
 - <a href="https://spacenews.com/firefly-wins-second-nasa-clps-mission/" >🔗</a> **[SpaceNews]** Firefly wins second NASA CLPS mission
 - <a href="https://spacenews.com/spacex-launches-27th-cargo-mission-to-iss/" >🔗</a> **[SpaceNews]** SpaceX launches 27th cargo mission to ISS
 - <a href="https://tlpnetwork.com/news/2023/03/spacex-launches-crs-27" >🔗</a> **[The Launch Pad]** SpaceX Launches Science and Supplies To Space Station
 - <a href="https://www.teslarati.com/amazon-unveils-starlink-competitor-project-kuiper/" >🔗</a> **[Teslarati]** Amazon unveils satellite receivers for Starlink competitor, ‘Project Kuiper’
-- <a href="https://tlpnetwork.com/news/2023/03/amazon-reveals-project-kuiper-commercial-satellite-terminals" >🔗</a> **[The Launch Pad]** Amazon Reveals Project Kuiper Commercial Satellite Terminals
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T131536">2023-03-15 13:15:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T133527">2023-03-15 13:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
