@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/" >🔗</a> **[SpaceNews]** Voyager Space acquires ZIN Technologies to support Starlab development
 - <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low" >🔗</a> **[The Launch Pad]** NASA Mars Odyssey Orbiter Fuel Supply Running Low
 - <a href="https://www.cnbc.com/2023/03/15/virgin-orbit-pauses-operations-furloughs-staff.html" >🔗</a> **[CNBC]** Virgin Orbit pauses operations for a week, furloughs nearly entire staff as it seeks funding
 - <a href="https://spacenews.com/nanoavionics-to-build-three-more-iot-satellites-for-oq-technology/" >🔗</a> **[SpaceNews]** NanoAvionics to build three more IoT satellites for OQ Technology
-- <a href="https://tlpnetwork.com/news/2023/03/official-lunar-time-zone-coming-soon" >🔗</a> **[The Launch Pad]** Official Lunar Time Zone Coming Soon
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T223140">2023-03-15 22:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T230459">2023-03-15 23:04:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
