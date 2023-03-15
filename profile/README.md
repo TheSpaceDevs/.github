@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion" >🔗</a> **[The Launch Pad]** Goonhilly Announces US Sat Comm Network Expansion
 - <a href="https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/" >🔗</a> **[SpaceNews]** Quadsat raises $9.6 million for antenna-testing drones
 - <a href="https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html" >🔗</a> **[CNBC]** Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions
 - <a href="https://spacenews.com/china-launches-classified-shiyan-19-test-satellite-from-gobi-desert/" >🔗</a> **[SpaceNews]** China launches classified Shiyan-19 test satellite from the Gobi Desert
 - <a href="https://tlpnetwork.com/news/2023/03/artemis-3-spacesuit-revealed-nasa-and-axiom-space" >🔗</a> **[The Launch Pad]** Artemis 3 Spacesuit Revealed By NASA and Axiom Space
-- <a href="https://spacenews.com/space-force-we-expect-to-see-interfering-blinding-of-satellites-during-conflict/" >🔗</a> **[SpaceNews]** Space Force: We expect to see ‘interfering, blinding’ of satellites during conflict
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T173316">2023-03-15 17:33:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T180855">2023-03-15 18:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
