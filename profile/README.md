@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low" >🔗</a> **[The Launch Pad]** NASA Mars Odyssey Orbiter Fuel Supply Running Low
+- <a href="https://www.cnbc.com/2023/03/15/virgin-orbit-pauses-operations-furloughs-staff.html" >🔗</a> **[CNBC]** Virgin Orbit pauses operations for a week, furloughs nearly entire staff as it seeks funding
+- <a href="https://spacenews.com/nanoavionics-to-build-three-more-iot-satellites-for-oq-technology/" >🔗</a> **[SpaceNews]** NanoAvionics to build three more IoT satellites for OQ Technology
 - <a href="https://tlpnetwork.com/news/2023/03/official-lunar-time-zone-coming-soon" >🔗</a> **[The Launch Pad]** Official Lunar Time Zone Coming Soon
-- <a href="https://mars.nasa.gov/news/9365/" >🔗</a> **[NASA]** Engineers Keep an Eye on Fuel Supply of NASA's Oldest Mars Orbiter
-- <a href="https://tlpnetwork.com/news/2023/03/goonhilly-announces-us-sat-comm-network-expansion" >🔗</a> **[The Launch Pad]** Goonhilly Announces US Sat Comm Network Expansion
-- <a href="https://spacenews.com/quadsat-raises-9-6-million-for-antenna-testing-drones/" >🔗</a> **[SpaceNews]** Quadsat raises $9.6 million for antenna-testing drones
-- <a href="https://www.cnbc.com/2023/03/15/axiom-spacesuits-nasa-artemis-missions.html" >🔗</a> **[CNBC]** Axiom unveils spacesuits for NASA’s upcoming Artemis moon missions
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T213147">2023-03-15 21:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230315T220631">2023-03-15 22:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
