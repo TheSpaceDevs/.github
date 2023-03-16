@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/16/investing-in-space-dont-panic.html" >🔗</a> **[CNBC]** Investing in Space: Don’t panic
+- <a href="https://spacenews.com/leo-constellations-are-starting-to-disrupt-geo-capacity-contracts/" >🔗</a> **[SpaceNews]** LEO constellations are starting to disrupt GEO capacity contracts
 - <a href="https://spaceflightnow.com/2023/03/16/dragon-crs-27-docking/" >🔗</a> **[Spaceflight Now]** SpaceX supply ship docks at International Space Station
 - <a href="https://spacenews.com/axiom-space-reveals-design-of-artemis-spacesuit/" >🔗</a> **[SpaceNews]** Axiom Space reveals design of Artemis spacesuit
 - <a href="https://spacenews.com/146960-2/" >🔗</a> **[SpaceNews]** Northrop Grumman, IHI team up to bolster Japan’s space domain awareness capabilities
-- <a href="https://spaceflightnow.com/2023/03/16/watch-live-spacex-supply-ship-approaching-space-station-for-docking/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX supply ship approaching space station for docking
-- <a href="https://www.nasaspaceflight.com/2023/03/spacex-crs-27/" >🔗</a> **[NASASpaceflight]** Cargo Dragon CRS-27 docks with ISS
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T153427">2023-03-16 15:34:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T161016">2023-03-16 16:10:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
