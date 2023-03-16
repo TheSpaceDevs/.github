@@ -91,21 +91,22 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues" >🔗</a> **[The Launch Pad]** NASA AIM Earth Orbiter Mission Ends Following Battery Issues
 - <a href="http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research" >🔗</a> **[NASA]** NASA Awards Advance 3D Printing, Quantum Tech for Climate Research
 - <a href="https://www.nasaspaceflight.com/2023/03/stronger-together/" >🔗</a> **[NASASpaceflight]** Rocket Lab to launch pair of Capella satellites from Wallops
 - <a href="http://www.nasa.gov/press-release/nasa-awardees-to-develop-sustainable-aviation-composite-tech" >🔗</a> **[NASA]** NASA Awardees to Develop Sustainable Aviation Composite Tech
 - <a href="https://www.cnbc.com/2023/03/16/investing-in-space-dont-panic.html" >🔗</a> **[CNBC]** Investing in Space: Don’t panic
-- <a href="https://spacenews.com/leo-constellations-are-starting-to-disrupt-geo-capacity-contracts/" >🔗</a> **[SpaceNews]** LEO constellations are starting to disrupt GEO capacity contracts
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spaceflightnow.com/2023/03/10/rocket-labs-second-launch-from-virginia-will-loft-two-commercial-radar-satellites/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s second launch from Virginia will loft two commercial radar satellites
+- <a href="https://www.nasaspaceflight.com/2023/03/stronger-together/" >🔗</a> **[NASASpaceflight]** Rocket Lab to launch pair of Capella satellites from Wallops
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T183645">2023-03-16 18:36:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T190456">2023-03-16 19:04:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
