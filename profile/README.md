@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-selects-21-new-learning-projects-to-engage-students-in-stem" >🔗</a> **[NASA]** NASA Selects 21 New Learning Projects to Engage Students in STEM
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues" >🔗</a> **[The Launch Pad]** NASA AIM Earth Orbiter Mission Ends Following Battery Issues
 - <a href="http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research" >🔗</a> **[NASA]** NASA Awards Advance 3D Printing, Quantum Tech for Climate Research
 - <a href="https://www.nasaspaceflight.com/2023/03/stronger-together/" >🔗</a> **[NASASpaceflight]** Rocket Lab to launch pair of Capella satellites from Wallops
 - <a href="http://www.nasa.gov/press-release/nasa-awardees-to-develop-sustainable-aviation-composite-tech" >🔗</a> **[NASA]** NASA Awardees to Develop Sustainable Aviation Composite Tech
-- <a href="https://www.cnbc.com/2023/03/16/investing-in-space-dont-panic.html" >🔗</a> **[CNBC]** Investing in Space: Don’t panic
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T193134">2023-03-16 19:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T200728">2023-03-16 20:07:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
