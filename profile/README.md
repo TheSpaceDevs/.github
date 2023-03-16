@@ -91,11 +91,11 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2023/03/16/watch-live-spacex-supply-ship-approaching-space-station-for-docking/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX supply ship approaching space station for docking
 - <a href="https://spacenews.com/benchmark-signs-contracts-for-metal-plasma-thrusters/" >🔗</a> **[SpaceNews]** Benchmark signs contracts for metal plasma thrusters
 - <a href="https://spacenews.com/virgin-orbit-pauses-operations/" >🔗</a> **[SpaceNews]** Virgin Orbit pauses operations
 - <a href="https://spacenews.com/voyager-space-acquires-zin-technologies-to-support-starlab-development/" >🔗</a> **[SpaceNews]** Voyager Space acquires ZIN Technologies to support Starlab development
 - <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-pauses-operations-furloughs-staff-seeks-funding" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Virgin Orbit Pauses Operations, Furloughs Staff, Seeks Funding
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-mars-odyssey-orbiter-fuel-supply-running-low" >🔗</a> **[The Launch Pad]** NASA Mars Odyssey Orbiter Fuel Supply Running Low
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T103538">2023-03-16 10:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T110610">2023-03-16 11:06:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
