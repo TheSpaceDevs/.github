@@ -18,30 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Stronger Together**. It is scheduled to be launched by *Rocket Lab Ltd*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Island, Virginia, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T220000">2023-03-16 22:00:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 74 launches from this location. The launch status is currently
+**Long March 3B/E | ChinaSat 6E (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T082300">2023-03-17 08:23:00 UTC</a>.  Until
+then, this pad will have been used for 70
+out of 185 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  Payload consists of 2 Synthetic Aperture Radar (SAR) satellites for Capella Space.
-
-These 100-kg class satellites will expand Capella’s existing SAR constellation, increasing imaging capacity to meet growing customer demand.
+  Geostationary communication satellite in the C- and Ku-bands for China SatCom, based on the DFH-4E satellite bus. Satellite will replace ChinaSat 6B launched in 2007.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg" />
   </a>
-  <a href="None" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg"  />
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
   </a>
 </p>
 
@@ -55,6 +53,7 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033000">2023-03-26 03:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk III | OneWeb 18&location=Sriharikota, Republic of India&dates=20230326T033000Z%2F20230326T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk III | OneWeb 18** from Sriharikota, Republic of India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Beat Goes On&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Beat Goes On** from Onenui Station, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,22 +89,20 @@ These 100-kg class satellites will expand Capella’s existing SAR constellation
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-axiom-space-for-third-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** NASA selects Axiom Space for third private astronaut mission to ISS
+- <a href="https://spacenews.com/dod-seeking-seamless-military-commercial-satellite-communications/" >🔗</a> **[SpaceNews]** DoD seeking seamless military-commercial satellite communications
+- <a href="https://www.nasaspaceflight.com/2023/03/stronger-together/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches pair of Capella satellites from Wallops
 - <a href="https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting" >🔗</a> **[The Launch Pad]** Astra Requests NASDAQ Extension, Considers Reverse Stock Split To Avoid Delisting
 - <a href="https://www.cnbc.com/2023/03/16/astra-plan-to-avoid-nasdaq-stock-delisting.html" >🔗</a> **[CNBC]** Astra outlines its plan to avoid Nasdaq delisting, including possible reverse stock split
-- <a href="http://www.nasa.gov/press-release/nasa-selects-21-new-learning-projects-to-engage-students-in-stem" >🔗</a> **[NASA]** NASA Selects 21 New Learning Projects to Engage Students in STEM
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-aim-earth-orbiter-mission-ends-following-battery-issues" >🔗</a> **[The Launch Pad]** NASA AIM Earth Orbiter Mission Ends Following Battery Issues
-- <a href="http://www.nasa.gov/press-release/nasa-awards-advance-3d-printing-quantum-tech-for-climate-research" >🔗</a> **[NASA]** NASA Awards Advance 3D Printing, Quantum Tech for Climate Research
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2023/03/10/rocket-labs-second-launch-from-virginia-will-loft-two-commercial-radar-satellites/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s second launch from Virginia will loft two commercial radar satellites
-- <a href="https://www.nasaspaceflight.com/2023/03/stronger-together/" >🔗</a> **[NASASpaceflight]** Rocket Lab to launch pair of Capella satellites from Wallops
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T223239">2023-03-16 22:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T230657">2023-03-16 23:06:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
