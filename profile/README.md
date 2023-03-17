@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 2-8**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | SES-18 & SES-19**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T192640">2023-03-17 19:26:40 UTC</a>.  Until
-then, this pad will have been used for 104
-out of 713 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233800">2023-03-17 23:38:00 UTC</a>.  Until
+then, this pad will have been used for 172
+out of 877 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  A batch of 52 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  SES-18 & SES-19 are two communications satellites built by Northrop Grumman.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209215905.png" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230317193600.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-2&location=Cape Canaveral, FL, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T000000">2023-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Beat Goes On&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230331T000000Z%2F20230331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Beat Goes On** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T053000">2023-04-07 05:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T053000Z%2F20230407T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Intelsat 40e** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,7 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next" >🔗</a> **[The Launch Pad]** ULA Completes Vulcan Tanking Test, WDR Next
-- <a href="https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/" >🔗</a> **[NASASpaceflight]** SpaceX prepares for doubleheader launches for Starlink and SES
+- <a href="https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/" >🔗</a> **[NASASpaceflight]** SpaceX begins doubleheader with Starlink mission before launch for SES
 - <a href="https://spaceflightnow.com/2023/03/17/falcon-9-ses-18-19-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to sunset launch from Cape Canaveral
 - <a href="https://spacenews.com/arianespace-wins-vega-contract-for-italian-imaging-satellite-constellation/" >🔗</a> **[SpaceNews]** Arianespace wins Vega contract for Italian imaging satellite constellation
 - <a href="https://spacenews.com/china-launches-second-classified-gaofen-13-remote-sensing-satellite/" >🔗</a> **[SpaceNews]** China launches second classified Gaofen-13 remote sensing satellite
@@ -97,11 +98,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2023/03/16/ses-to-complete-c-band-clearing-program-with-spacex-dual-satellite-launch/" >🔗</a> **[Spaceflight Now]** SES to complete C-band clearing program with SpaceX dual-satellite launch
+- <a href="https://spaceflightnow.com/2023/03/17/falcon-9-ses-18-19-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to sunset launch from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/" >🔗</a> **[NASASpaceflight]** SpaceX begins doubleheader with Starlink mission before launch for SES
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T193146">2023-03-17 19:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T200716">2023-03-17 20:07:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
