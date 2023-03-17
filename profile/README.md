@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelsat-buys-capacity-on-hispasats-amazonas-nexus-satellite/" >🔗</a> **[SpaceNews]** Intelsat buys capacity on Hispasat’s Amazonas Nexus satellite
 - <a href="https://spacenews.com/fcc-unveils-proposed-satellite-direct-to-device-regulatory-framework/" >🔗</a> **[SpaceNews]** FCC unveils proposed satellite direct-to-device regulatory framework
 - <a href="https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next" >🔗</a> **[The Launch Pad]** ULA Completes Vulcan Tanking Test, WDR Next
 - <a href="https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/" >🔗</a> **[NASASpaceflight]** SpaceX begins doubleheader with Starlink mission before launch for SES
 - <a href="https://spaceflightnow.com/2023/03/17/falcon-9-ses-18-19-coverage/" >🔗</a> **[Spaceflight Now]** Watch live: SpaceX counting down to sunset launch from Cape Canaveral
-- <a href="https://spacenews.com/arianespace-wins-vega-contract-for-italian-imaging-satellite-constellation/" >🔗</a> **[SpaceNews]** Arianespace wins Vega contract for Italian imaging satellite constellation
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T223225">2023-03-17 22:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T230620">2023-03-17 23:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
