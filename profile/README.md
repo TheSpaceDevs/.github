@@ -45,7 +45,7 @@ into *a Geostationary Transfer Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T082300">2023-03-17 08:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | ChinaSat 6E (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230317T082300Z%2F20230317T091800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | ChinaSat 6E (?)** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T192100">2023-03-17 19:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-8&location=Vandenberg SFB, CA, USA&dates=20230317T192100Z%2F20230317T231900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-8** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T192140">2023-03-17 19:21:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-8&location=Vandenberg SFB, CA, USA&dates=20230317T192140Z%2F20230317T231900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-8** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T233800">2023-03-17 23:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SES-18 &amp; SES-19&location=Cape Canaveral, FL, USA&dates=20230317T233800Z%2F20230318T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SES-18 & SES-19** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T020000">2023-03-23 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Terran 1 | Good Luck, Have Fun (Maiden Flight)&location=Cape Canaveral, FL, USA&dates=20230323T020000Z%2F20230323T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Terran 1 | Good Luck, Have Fun (Maiden Flight)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T060000">2023-03-23 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v | EO MKA-4 (Kosmos 25XX)&location=Plesetsk Cosmodrome, Russian Federation&dates=20230323T060000Z%2F20230323T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1v | EO MKA-4 (Kosmos 25XX)** from Plesetsk Cosmodrome, Russian Federation.
@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/electron-launches-two-capella-space-radar-satellites/" >🔗</a> **[SpaceNews]** Electron launches two Capella Space radar satellites
 - <a href="https://spacenews.com/nasa-selects-axiom-space-for-third-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** NASA selects Axiom Space for third private astronaut mission to ISS
 - <a href="https://spacenews.com/dod-seeking-seamless-military-commercial-satellite-communications/" >🔗</a> **[SpaceNews]** DoD seeking seamless military-commercial satellite communications
 - <a href="https://www.nasaspaceflight.com/2023/03/stronger-together/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches pair of Capella satellites from Wallops
 - <a href="https://tlpnetwork.com/news/2023/03/astra-requests-nasdaq-compliance-extension-to-avoid-delisting" >🔗</a> **[The Launch Pad]** Astra Requests NASDAQ Extension, Considers Reverse Stock Split To Avoid Delisting
-- <a href="https://www.cnbc.com/2023/03/16/astra-plan-to-avoid-nasdaq-stock-delisting.html" >🔗</a> **[CNBC]** Astra outlines its plan to avoid Nasdaq delisting, including possible reverse stock split
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230316T233152">2023-03-16 23:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230317T003645">2023-03-17 00:36:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
