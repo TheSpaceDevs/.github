@@ -91,11 +91,11 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-final-two-satellites-in-ses-c-band-clearing-plan/" >🔗</a> **[SpaceNews]** SpaceX launches final two satellites in SES C-band clearing plan
 - <a href="https://spacenews.com/nasa-weighing-continuing-veritas-versus-future-discovery-mission/" >🔗</a> **[SpaceNews]** NASA weighing continuing VERITAS versus future Discovery mission
 - <a href="https://spacenews.com/intelsat-buys-capacity-on-hispasats-amazonas-nexus-satellite/" >🔗</a> **[SpaceNews]** Intelsat buys capacity on Hispasat’s Amazonas Nexus satellite
 - <a href="https://spacenews.com/fcc-unveils-proposed-satellite-direct-to-device-regulatory-framework/" >🔗</a> **[SpaceNews]** FCC unveils proposed satellite direct-to-device regulatory framework
 - <a href="https://tlpnetwork.com/news/2023/03/ula-completes-vulcan-tanking-test-wdr-next" >🔗</a> **[The Launch Pad]** ULA Completes Vulcan Tanking Test, WDR Next
-- <a href="https://www.nasaspaceflight.com/2023/03/spacex-starlink-ses/" >🔗</a> **[NASASpaceflight]** SpaceX conducts doubleheader with Starlink mission followed by launch for SES
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T003513">2023-03-18 00:35:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T020457">2023-03-18 02:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
