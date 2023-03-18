@@ -27,8 +27,8 @@ then, this pad will have been used for 6
 out of 32 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
   Payload consists of 2 second generation Earth-imaging satellites for BlackSky.
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T053139">2023-03-18 05:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230318T060834">2023-03-18 06:08:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
