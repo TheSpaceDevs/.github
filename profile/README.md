@@ -91,11 +91,11 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/" >🔗</a> **[SpaceNews]** ATL Partners forms new holding company focused on space and air sensors
 - <a href="https://spacenews.com/space-industry-deals-with-launch-shortage/" >🔗</a> **[SpaceNews]** Space industry deals with launch shortage
 - <a href="https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations" >🔗</a> **[The Launch Pad]** NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown
 - <a href="https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/" >🔗</a> **[SpaceNews]** Mars Sample Return cost growth threatens other science missions
 - <a href="https://spacenews.com/satellogic-sells-earth-imagery-satellites/" >🔗</a> **[SpaceNews]** Satellogic sells Earth-imagery satellites
-- <a href="https://tlpnetwork.com/news/2023/03/rolls-royce-uksa-lunar-nuclear-reactor" >🔗</a> **[The Launch Pad]** Rolls-Royce Collaborates with UK Space Agency to Develop Lunar Nuclear Reactor
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T103631">2023-03-20 10:36:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T110612">2023-03-20 11:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
