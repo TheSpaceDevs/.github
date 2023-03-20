@@ -91,11 +91,11 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/20/virgin-orbit-looming-bankruptcy-deal-talks.html" >🔗</a> **[CNBC]** Virgin Orbit scrambles to avoid bankruptcy as deal talks continue
 - <a href="https://www.nasaspaceflight.com/2023/03/juice-project-manager/" >🔗</a> **[NASASpaceflight]** As launch approaches, JUICE project manager discusses trajectories and science
 - <a href="https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/" >🔗</a> **[SpaceNews]** Arkisys and partners   to show how they would build a satellite in orbit
 - <a href="https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/" >🔗</a> **[Arstechnica]** The SpaceX steamroller has shifted into a higher gear this year
 - <a href="https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/" >🔗</a> **[SpaceNews]** ATL Partners forms new holding company focused on space and air sensors
-- <a href="https://spacenews.com/space-industry-deals-with-launch-shortage/" >🔗</a> **[SpaceNews]** Space industry deals with launch shortage
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T161012">2023-03-20 16:10:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T164413">2023-03-20 16:44:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
