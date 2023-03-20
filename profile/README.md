@@ -91,11 +91,11 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arkisys-and-partners-show-how-they-would-build-a-satellite-in-orbit/" >🔗</a> **[SpaceNews]** Arkisys and partners   to show how they would build a satellite in orbit
+- <a href="https://arstechnica.com/science/2023/03/the-spacex-steamroller-has-shifted-into-a-higher-gear-this-year/" >🔗</a> **[Arstechnica]** The SpaceX steamroller has shifted into a higher gear this year
 - <a href="https://spacenews.com/atl-partners-forms-new-holding-company-focused-on-space-and-air-sensors/" >🔗</a> **[SpaceNews]** ATL Partners forms new holding company focused on space and air sensors
 - <a href="https://spacenews.com/space-industry-deals-with-launch-shortage/" >🔗</a> **[SpaceNews]** Space industry deals with launch shortage
 - <a href="https://tlpnetwork.com/news/2023/03/swot-returns-to-commissioning-operations" >🔗</a> **[The Launch Pad]** NASA's SWOT Spacecraft Resumes Operations After Primary Instrument Shutdown
-- <a href="https://spacenews.com/mars-sample-return-cost-growth-threatens-other-science-missions/" >🔗</a> **[SpaceNews]** Mars Sample Return cost growth threatens other science missions
-- <a href="https://spacenews.com/satellogic-sells-earth-imagery-satellites/" >🔗</a> **[SpaceNews]** Satellogic sells Earth-imagery satellites
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T133652">2023-03-20 13:36:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230320T140710">2023-03-20 14:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
