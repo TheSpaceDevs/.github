@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-warns-msr-costs-could-impact-other-scientific-missions" >🔗</a> **[The Launch Pad]** NASA Warns MSR Costs Could Impact Other Scientific Missions
 - <a href="http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor" >🔗</a> **[NASA]** NASA Selects Repairs Operations Maintenance and Engineering Contractor
 - <a href="https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity" >🔗</a> **[The Launch Pad]** FCC Reveals Framework For Satellite To Smartphone Connectivity
 - <a href="https://www.cnbc.com/2023/03/21/terran-orbital-llap-q4-results.html" >🔗</a> **[CNBC]** Satellite maker Terran Orbital sees annual revenue climb near $100 million
 - <a href="https://spacenews.com/u-s-air-force-to-test-hardware-at-hypersonic-speeds-on-vardas-space-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force to test hardware at hypersonic speeds on Varda’s space capsules
-- <a href="http://www.nasa.gov/press-release/nasa-seeks-student-solutions-for-managing-moon-landing-dust-cloud" >🔗</a> **[NASA]** NASA Seeks Student Solutions for Managing Moon Landing Dust Cloud
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T203147">2023-03-21 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T210612">2023-03-21 21:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
