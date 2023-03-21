@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor" >🔗</a> **[NASA]** NASA Selects Repairs Operations Maintenance and Engineering Contractor
+- <a href="https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity" >🔗</a> **[The Launch Pad]** FCC Reveals Framework For Satellite To Smartphone Connectivity
+- <a href="https://www.cnbc.com/2023/03/21/terran-orbital-llap-q4-results.html" >🔗</a> **[CNBC]** Satellite maker Terran Orbital sees annual revenue climb near $100 million
+- <a href="https://spacenews.com/u-s-air-force-to-test-hardware-at-hypersonic-speeds-on-vardas-space-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force to test hardware at hypersonic speeds on Varda’s space capsules
 - <a href="http://www.nasa.gov/press-release/nasa-seeks-student-solutions-for-managing-moon-landing-dust-cloud" >🔗</a> **[NASA]** NASA Seeks Student Solutions for Managing Moon Landing Dust Cloud
-- <a href="https://tlpnetwork.com/news/2023/03/hokuto-r-m1-enters-lunar-orbit" >🔗</a> **[The Launch Pad]** ispace's HAKUTO-R M1 Lunar Lander Successfully Enters Moon Orbit
-- <a href="https://spacenews.com/south-koreas-innospace-succeeds-in-test-launch/" >🔗</a> **[SpaceNews]** South Korea’s Innospace succeeds in test launch
-- <a href="https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/" >🔗</a> **[Arstechnica]** Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket
-- <a href="https://spacenews.com/japanese-lander-enters-lunar-orbit/" >🔗</a> **[SpaceNews]** Japanese lander enters lunar orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T193131">2023-03-21 19:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T200706">2023-03-21 20:07:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
