@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-sees-missed-opportunity-in-deorbiting-iss/" >🔗</a> **[SpaceNews]** Industry sees missed opportunity in deorbiting ISS
 - <a href="https://tlpnetwork.com/news/2023/03/tlpnetwork-announces-first-mission-to-the-lunar-surface" >🔗</a> **[The Launch Pad]** TLP Network Announces First Mission To Lunar Surface
 - <a href="https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/" >🔗</a> **[SpaceNews]** U.S. Space Force budget includes $60 million for ‘tactically responsive space’
 - <a href="https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/" >🔗</a> **[SpaceNews]** GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand
 - <a href="http://www.nasa.gov/press-release/nasa-awards-grants-to-support-research-technology-development" >🔗</a> **[NASA]** NASA Awards Grants to Support Research, Technology Development
-- <a href="https://spacenews.com/mars-exploration-and-the-debate-about-planetary-protection/" >🔗</a> **[SpaceNews]** Mars exploration and the debate about planetary protection
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T033139">2023-03-21 03:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T040804">2023-03-21 04:08:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
