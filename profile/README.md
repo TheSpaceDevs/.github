@@ -91,11 +91,11 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/03/kazakhstans-seizure-of-russian-space-assets-threatens-the-soyuz-5-rocket/" >🔗</a> **[Arstechnica]** Kazakhstan’s seizure of Russian space assets threatens the Soyuz-5 rocket
+- <a href="https://spacenews.com/japanese-lander-enters-lunar-orbit/" >🔗</a> **[SpaceNews]** Japanese lander enters lunar orbit
 - <a href="https://spacenews.com/on-national-security-space-force-and-commercial-industry-taking-relationship-to-the-next-level/" >🔗</a> **[SpaceNews]** On National Security | Space Force and commercial industry taking relationship to the next level
 - <a href="https://spacenews.com/industry-sees-missed-opportunity-in-deorbiting-iss/" >🔗</a> **[SpaceNews]** Industry sees missed opportunity in deorbiting ISS
 - <a href="https://tlpnetwork.com/news/2023/03/tlpnetwork-announces-first-mission-to-the-lunar-surface" >🔗</a> **[The Launch Pad]** TLP Network Announces First Mission To Lunar Surface
-- <a href="https://spacenews.com/u-s-space-force-budget-includes-60-million-for-tactically-responsive-space/" >🔗</a> **[SpaceNews]** U.S. Space Force budget includes $60 million for ‘tactically responsive space’
-- <a href="https://spacenews.com/gmv-partnership-to-bring-revolutionary-precise-positioning-services-to-australia-and-new-zealand/" >🔗</a> **[SpaceNews]** GMV partnership to bring revolutionary precise positioning services to Australia and New Zealand
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T130633">2023-03-21 13:06:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230321T133200">2023-03-21 13:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
