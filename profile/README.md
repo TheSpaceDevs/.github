@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/" >🔗</a> **[SpaceNews]** NRO signs agreements with commercial providers of hyperspectral imagery
+- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity targets nighttime window for next Terran 1 launch attempt
 - <a href="https://www.cnbc.com/2023/03/22/virgin-orbit-nears-funding-deal.html" >🔗</a> **[CNBC]** Virgin Orbit raising $200 million from investor Matthew Brown, closing deal as soon as Thursday
 - <a href="https://arstechnica.com/science/2023/03/relativity-space-will-try-again-for-the-third-time-to-launch-wednesday/" >🔗</a> **[Arstechnica]** Relativity Space hopes to live additively ever after with Wednesday’s launch
 - <a href="https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/" >🔗</a> **[SpaceNews]** Virgin Orbit begins “incremental” return to work as it seeks new funding
-- <a href="https://spacenews.com/teens-send-experiments-out-of-this-world/" >🔗</a> **[SpaceNews]** Teens send experiments out of this world
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
 - <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch 3D-printed, methane-fueled orbital rocket
 - <a href="https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Launch day timeline for Relativity Space’s Terran 1 rocket
-- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity scrubs second Terran 1 launch attempt after late-count abort, recycle
+- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity targets nighttime window for next Terran 1 launch attempt
 - <a href="https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/" >🔗</a> **[Arstechnica]** Relativity Space scrubs first attempt to launch Terran 1 [Updated]
 - <a href="https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity postpones first launch attempt of 3D-printed rocket Terran 1
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T160820">2023-03-22 16:08:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T164038">2023-03-22 16:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
