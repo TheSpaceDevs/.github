@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement" >🔗</a> **[The Launch Pad]** NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement
+- <a href="https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget" >🔗</a> **[The Launch Pad]** USSF Requests First Tactically Responsive Space Program Budget
 - <a href="https://tlpnetwork.com/news/2023/03/innospace-test-launches-rocket-from-brazil-successfully" >🔗</a> **[The Launch Pad]** Innospace Test Launches HANBIT-TLV From Brazil Successfully 
 - <a href="https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/" >🔗</a> **[SpaceNews]** NRO signs agreements with commercial providers of hyperspectral imagery
 - <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity targets nighttime window for next Terran 1 launch attempt
-- <a href="https://www.cnbc.com/2023/03/22/virgin-orbit-nears-funding-deal.html" >🔗</a> **[CNBC]** Virgin Orbit raising $200 million from investor Matthew Brown, closing deal as soon as Thursday
-- <a href="https://arstechnica.com/science/2023/03/relativity-space-will-try-again-for-the-third-time-to-launch-wednesday/" >🔗</a> **[Arstechnica]** Relativity Space hopes to live additively ever after with Wednesday’s launch
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T183420">2023-03-22 18:34:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T190419">2023-03-22 19:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
