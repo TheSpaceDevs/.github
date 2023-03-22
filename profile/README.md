@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/teens-send-experiments-out-of-this-world/" >🔗</a> **[SpaceNews]** Teens send experiments out of this world
+- <a href="https://www.cnbc.com/2023/03/22/virgin-orbit-returning-small-team-to-prep-for-next-rocket-launch.html" >🔗</a> **[CNBC]** Virgin Orbit returning ‘small’ team from unpaid pause on Thursday to prep for next rocket launch
+- <a href="https://spacenews.com/terran-orbital-further-expands-satellite-production-facilities/" >🔗</a> **[SpaceNews]** Terran Orbital further expands satellite production facilities
 - <a href="https://spacenews.com/frontier-collects-10-million-from-aei-horizonx/" >🔗</a> **[SpaceNews]** Frontier collects $10 million from AEI HorizonX
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-considers-continuing-veritas-or-pursuing-new-discovery-mission" >🔗</a> **[The Launch Pad]** NASA Considers Continuing VERITAS Or Pursuing New Discovery Mission
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-warns-msr-costs-could-impact-other-scientific-missions" >🔗</a> **[The Launch Pad]** NASA Warns MSR Costs Could Impact Other Scientific Missions
-- <a href="http://www.nasa.gov/press-release/nasa-selects-repairs-operations-maintenance-and-engineering-contractor" >🔗</a> **[NASA]** NASA Selects Repairs Operations Maintenance and Engineering Contractor
-- <a href="https://tlpnetwork.com/news/2023/03/fcc-reveals-framework-for-satellite-to-smartphone-connectivity" >🔗</a> **[The Launch Pad]** FCC Reveals Framework For Satellite To Smartphone Connectivity
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T033145">2023-03-22 03:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T040751">2023-03-22 04:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
