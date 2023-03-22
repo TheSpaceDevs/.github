@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kuaizhou-1A | Unknown Payload**. It is scheduled to be launched by *ExPace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T090000">2023-03-22 09:00:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 186 launches from this location. The launch status is currently
+**Terran 1 | Good Luck, Have Fun (Maiden Flight)**. It is scheduled to be launched by *Relativity Space*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Launch_Complex_16">Launch Complex 16</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T020000">2023-03-23 02:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 878 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Test Flight* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  Maiden launch of the Terran 1 rocket developed by Relativity Space.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Terran_1" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="http://www.google.com/maps?q=28.501626,-80.5518" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T000000">2023-03-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-2&location=Cape Canaveral, FL, USA&dates=20230330T000000Z%2F20230330T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T053000">2023-04-07 05:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T053000Z%2F20230407T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Intelsat 40e** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230408T222500">2023-04-08 22:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230408T222500Z%2F20230408T222500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -97,11 +98,28 @@ into *an Unknown Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://arstechnica.com/science/2022/10/on-eve-of-first-launch-relativity-space-seeks-to-join-spacex-as-disruptor/" >🔗</a> **[Arstechnica]** On eve of first launch, Relativity Space seeks to join SpaceX as “disruptor”
+- <a href="https://www.nasaspaceflight.com/2022/12/terran-testing/" >🔗</a> **[NASASpaceflight]** Terran 1 and Terran R testing in full swing before Relativity’s debut
+- <a href="https://spacenews.com/relativity-space-sets-date-for-first-terran-1-launch/" >🔗</a> **[SpaceNews]** Relativity Space sets date for first Terran 1 launch
+- <a href="https://tlpnetwork.com/news/2023/02/relativity-launch-licence-and-launch-date-announcement" >🔗</a> **[The Launch Pad]** Relativity Receives Launch Licence, Sets Launch Date
+- <a href="https://spaceflightnow.com/2023/02/22/relativity-sets-launch-date-for-first-flight-of-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Relativity sets launch date for first flight of Terran 1 rocket
+- <a href="https://arstechnica.com/science/2023/02/rocket-report-spacex-may-see-revenue-spike-in-2023-terran-1-gets-a-date/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may see revenue spike in 2023; Terran 1 gets a date
+- <a href="https://spaceflightnow.com/2023/03/08/relativity-space-terran-1-test-flight-1/" >🔗</a> **[Spaceflight Now]** Relativity Space ready to launch 3D-printed, methane-fueled orbital rocket
+- <a href="https://spaceflightnow.com/2023/03/08/launch-day-timeline-for-relativity-spaces-terran-1-rocket/" >🔗</a> **[Spaceflight Now]** Launch day timeline for Relativity Space’s Terran 1 rocket
+- <a href="https://www.nasaspaceflight.com/2023/03/maiden-terran-1/" >🔗</a> **[NASASpaceflight]** Relativity scrubs second Terran 1 launch attempt after late-count abort, recycle
+- <a href="https://arstechnica.com/science/2023/03/relativity-space-will-attempt-to-become-a-real-rocket-company-today/" >🔗</a> **[Arstechnica]** Relativity Space scrubs first attempt to launch Terran 1 [Updated]
+- <a href="https://www.cnbc.com/2023/03/08/relativity-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity postpones first launch attempt of 3D-printed rocket Terran 1
+- <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-8-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Maiden Flight Of Terran 1 Rocket
+- <a href="https://spacenews.com/relativity-space-scrubs-first-terran-1-launch-attempt/" >🔗</a> **[SpaceNews]** Relativity Space scrubs first Terran 1 launch attempt
+- <a href="https://spaceflightnow.com/2023/03/11/relativity-space-terran-1-glhf/" >🔗</a> **[Spaceflight Now]** Relativity Space scrubs second launch attempt for Terran 1 rocket
+- <a href="https://www.cnbc.com/2023/03/11/watch-live-relativity-first-3d-printed-terran-1-rocket-launch.html" >🔗</a> **[CNBC]** Relativity at last moment calls off launch attempt of Terran 1 rocket after briefly igniting engines
+- <a href="https://tlpnetwork.com/news/2023/03/relativity-scubs-glhf-launch-on-11-march" >🔗</a> **[The Launch Pad]** Relativity Space Scrubs Second Attempt At Maiden Flight Of Terran 1 Rocket
+- <a href="https://spacenews.com/relativity-scrubs-first-terran-1-launch-again/" >🔗</a> **[SpaceNews]** Relativity scrubs first Terran 1 launch again
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T093142">2023-03-22 09:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T100655">2023-03-22 10:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
