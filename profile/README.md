@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-orbit-begins-incremental-return-to-work-as-it-seeks-new-funding/" >🔗</a> **[SpaceNews]** Virgin Orbit begins “incremental” return to work as it seeks new funding
 - <a href="https://spacenews.com/teens-send-experiments-out-of-this-world/" >🔗</a> **[SpaceNews]** Teens send experiments out of this world
 - <a href="https://www.cnbc.com/2023/03/22/virgin-orbit-returning-small-team-to-prep-for-next-rocket-launch.html" >🔗</a> **[CNBC]** Virgin Orbit returning ‘small’ team from unpaid pause on Thursday to prep for next rocket launch
 - <a href="https://spacenews.com/terran-orbital-further-expands-satellite-production-facilities/" >🔗</a> **[SpaceNews]** Terran Orbital further expands satellite production facilities
 - <a href="https://spacenews.com/frontier-collects-10-million-from-aei-horizonx/" >🔗</a> **[SpaceNews]** Frontier collects $10 million from AEI HorizonX
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-considers-continuing-veritas-or-pursuing-new-discovery-mission" >🔗</a> **[The Launch Pad]** NASA Considers Continuing VERITAS Or Pursuing New Discovery Mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T113148">2023-03-22 11:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T121220">2023-03-22 12:12:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
