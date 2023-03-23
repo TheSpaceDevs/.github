@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/spacex-starlink-v2-satellites-experiencing-problems-on-orbit" >🔗</a> **[The Launch Pad]** SpaceX Starlink V2 Satellites Experiencing Problems On Orbit
+- <a href="https://spacenews.com/spacex-experiencing-problems-with-first-upgraded-starlink-v2-satellites/" >🔗</a> **[SpaceNews]** SpaceX experiencing problems with first upgraded Starlink V2 satellites
 - <a href="https://spacenews.com/avio-secures-italian-government-funding-for-methane-engine-and-small-launch-vehicle-prototype/" >🔗</a> **[SpaceNews]** Avio secures Italian government funding for methane engine and small launch vehicle prototype
 - <a href="https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement" >🔗</a> **[The Launch Pad]** NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement
 - <a href="https://tlpnetwork.com/news/2023/03/ussf-requests-first-tactically-responsive-space-program-budget" >🔗</a> **[The Launch Pad]** USSF Requests First Tactically Responsive Space Program Budget
-- <a href="https://tlpnetwork.com/news/2023/03/innospace-test-launches-rocket-from-brazil-successfully" >🔗</a> **[The Launch Pad]** Innospace Test Launches HANBIT-TLV From Brazil Successfully 
-- <a href="https://spacenews.com/nro-signs-agreements-with-commercial-providers-of-hyperspectral-imagery/" >🔗</a> **[SpaceNews]** NRO signs agreements with commercial providers of hyperspectral imagery
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230322T233136">2023-03-22 23:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T003516">2023-03-23 00:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
