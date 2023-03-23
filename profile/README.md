@@ -91,11 +91,11 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/boeing-starliner-crew-flight-test-delayed" >🔗</a> **[The Launch Pad]** Boeing Starliner Crew Flight Test Delayed
 - <a href="https://www.cnbc.com/2023/03/23/investing-in-space-the-virgin-orbit-latecomer-matthew-brown.html" >🔗</a> **[CNBC]** Investing in Space: The latecomer
 - <a href="https://arstechnica.com/science/2023/03/relativity-space-has-a-successful-failure-with-the-debut-of-terran-1/" >🔗</a> **[Arstechnica]** Relativity Space has a successful failure with the debut of Terran 1
 - <a href="https://www.teslarati.com/spacex-investment-saudi-uae-investors-planned-report/" >🔗</a> **[Teslarati]** SpaceX investment from Saudi, UAE investors being planned: report
 - <a href="https://spacenews.com/relativity-launches-first-terran-1/" >🔗</a> **[SpaceNews]** Relativity launches first Terran 1
-- <a href="https://www.cnbc.com/2023/03/23/relativitys-3d-printed-terran-1-rocket-launches-fails-to-reach-orbit.html" >🔗</a> **[CNBC]** Relativity’s first 3D-printed rocket launches successfully but fails to reach orbit
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T193140">2023-03-23 19:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T200651">2023-03-23 20:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
