@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_La
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T020000">2023-03-23 02:00:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 878 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+*Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T023128">2023-03-23 02:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T030707">2023-03-23 03:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
