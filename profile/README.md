@@ -91,11 +91,11 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/relativity-launches-first-terran-1/" >🔗</a> **[SpaceNews]** Relativity launches first Terran 1
+- <a href="https://www.cnbc.com/2023/03/23/relativitys-3d-printed-terran-1-rocket-launches-fails-to-reach-orbit.html" >🔗</a> **[CNBC]** Relativity’s first 3D-printed rocket launches successfully but fails to reach orbit
 - <a href="https://tlpnetwork.com/news/2023/03/relativity-makes-history-with-maiden-terran-1-flight-fails-to-reach-orbit" >🔗</a> **[The Launch Pad]** Relativity Makes History With Maiden Terran 1 Flight, Fails To Reach Orbit
 - <a href="https://tlpnetwork.com/news/2023/03/spacex-starlink-v2-satellites-experiencing-problems-on-orbit" >🔗</a> **[The Launch Pad]** SpaceX Starlink V2 Satellites Experiencing Problems On Orbit
 - <a href="https://spacenews.com/spacex-experiencing-problems-with-first-upgraded-starlink-v2-satellites/" >🔗</a> **[SpaceNews]** SpaceX experiencing problems with first upgraded Starlink V2 satellites
-- <a href="https://spacenews.com/avio-secures-italian-government-funding-for-methane-engine-and-small-launch-vehicle-prototype/" >🔗</a> **[SpaceNews]** Avio secures Italian government funding for methane engine and small launch vehicle prototype
-- <a href="https://tlpnetwork.com/news/2023/03/nro-signs-5-year-commercial-hyperspectral-satellite-imagery-agreement" >🔗</a> **[The Launch Pad]** NRO Signs 5 Year Commercial Hyperspectral Satellite Imagery Agreement
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T043426">2023-03-23 04:34:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T050548">2023-03-23 05:05:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
