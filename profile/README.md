@@ -100,11 +100,12 @@ They are part of a constellation of 60 Low Earth Orbit Earth imaging satellites 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/03/the-beat-goes-on/" >🔗</a> **[NASASpaceflight]** Rocket Lab to launch BlackSky sats, test Electron ocean recovery
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T223139">2023-03-23 22:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230323T230651">2023-03-23 23:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
