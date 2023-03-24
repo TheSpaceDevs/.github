@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abl-space-gets-60-million-for-responsive-launch-demonstrations/" >🔗</a> **[SpaceNews]** ABL Space gets $60 million for responsive launch demonstrations
+- <a href="https://spacenews.com/cape-congestion-worlds-busiest-spaceport-stretched-to-its-limits/" >🔗</a> **[SpaceNews]** Cape Congestion: World’s busiest spaceport stretched to its limits
 - <a href="https://www.cnbc.com/2023/03/24/blue-origin-ns-23-failure-cause.html" >🔗</a> **[CNBC]** Blue Origin says an overheated engine part caused last year’s cargo rocket failure
 - <a href="https://tlpnetwork.com/news/2023/03/china-loses-uae-as-lunar-mission-partner" >🔗</a> **[The Launch Pad]** China Loses UAE As Lunar Mission Partner
 - <a href="https://tlpnetwork.com/news/2023/03/blue-origin-completes-ns-23-investigation-releases-findings" >🔗</a> **[The Launch Pad]** Blue Origin Completes NS-23 Investigation, Releases Findings
-- <a href="https://www.nasaspaceflight.com/2023/03/starlink-5-5/" >🔗</a> **[NASASpaceflight]** SpaceX keeping up cadence with Starlink Group 5-5 mission
-- <a href="https://arstechnica.com/science/2023/03/dream-chaser-is-delayed-again-raising-questions-about-vulcan-launch-plans/" >🔗</a> **[Arstechnica]** Dream Chaser is delayed again, raising questions about Vulcan launch plans
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T183448">2023-03-24 18:34:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230324T190426">2023-03-24 19:04:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
