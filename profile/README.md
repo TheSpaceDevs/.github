@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/03/oneweb-18/" >🔗</a> **[NASASpaceflight]** OneWeb set to complete initial constellation with launch from India
 - <a href="https://tlpnetwork.com/news/2023/03/dawn-aerospace-receives-caa-certification" >🔗</a> **[The Launch Pad]** Dawn Aerospace's Spaceplane Gets Green Light for Suborbital Test Flights in New Zealand
 - <a href="https://www.cnbc.com/2023/03/24/spire-momentus-get-stock-exchange-delisting-warnings.html" >🔗</a> **[CNBC]** Space companies Spire and Momentus get stock exchange delisting warnings
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-see-mars-habitat-before-crew-enters-for-one-year" >🔗</a> **[NASA]** NASA Invites Media to See Mars Habitat Before Crew Enters for One Year
 - <a href="https://www.cnbc.com/2023/03/24/rocket-lab-neutron-launch-price-challenges-spacex.html" >🔗</a> **[CNBC]** Rocket Lab targets $50 million launch price for Neutron rocket to challenge SpaceX’s Falcon 9
-- <a href="https://spacenews.com/blue-origin-blames-new-shepard-mishap-on-engine-nozzle-failure/" >🔗</a> **[SpaceNews]** Blue Origin blames New Shepard mishap on engine nozzle failure
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T193137">2023-03-25 19:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230325T200633">2023-03-25 20:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
