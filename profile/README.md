@@ -91,7 +91,7 @@ into *an Unknown Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-force-selects-18-vendors-to-provide-space-data-analytics-and-software-services/" >🔗</a> **[SpaceNews]** Space Force selects 18 vendors to provide space data analytics and software services
 - <a href="https://spacenews.com/canada-agrees-to-iss-extension-to-2030/" >🔗</a> **[SpaceNews]** Canada agrees to ISS extension to 2030
-- <a href="https://www.nasaspaceflight.com/2023/03/oneweb-18/" >🔗</a> **[NASASpaceflight]** OneWeb set to complete initial constellation with launch from India
+- <a href="https://www.nasaspaceflight.com/2023/03/oneweb-18/" >🔗</a> **[NASASpaceflight]** OneWeb completes initial constellation with launch from India
 - <a href="https://tlpnetwork.com/news/2023/03/dawn-aerospace-receives-caa-certification" >🔗</a> **[The Launch Pad]** Dawn Aerospace's Spaceplane Gets Green Light for Suborbital Test Flights in New Zealand
 - <a href="https://www.cnbc.com/2023/03/24/spire-momentus-get-stock-exchange-delisting-warnings.html" >🔗</a> **[CNBC]** Space companies Spire and Momentus get stock exchange delisting warnings
 
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T033129">2023-03-26 03:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230326T040718">2023-03-26 04:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
