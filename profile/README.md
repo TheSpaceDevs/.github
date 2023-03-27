@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-allies-in-the-middle-east-express-interest-in-establishing-space-forces/" >🔗</a> **[SpaceNews]** U.S. allies in the Middle East express interest in establishing space forces
+- <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse
 - <a href="https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html" >🔗</a> **[CNBC]** Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue
 - <a href="http://www.nasa.gov/press-release/nasa-helps-fund-minority-institutions-preparing-students-for-college" >🔗</a> **[NASA]** NASA Helps Fund Minority Institutions Preparing Students for College
 - <a href="https://spacenews.com/nasa-space-operations-head-lueders-to-retire/" >🔗</a> **[SpaceNews]** NASA space operations head Lueders to retire
-- <a href="https://www.nasaspaceflight.com/2023/03/soyuz-ms-22-return/" >🔗</a> **[NASASpaceflight]** Damaged Soyuz MS-22 craft prepares to come home uncrewed
-- <a href="https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/" >🔗</a> **[SpaceNews]** OneWeb completes constellation deployment for global broadband
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T213154">2023-03-27 21:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T220629">2023-03-27 22:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
