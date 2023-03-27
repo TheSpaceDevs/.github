@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/inflation-high-demand-driving-up-launch-prices/" >🔗</a> **[SpaceNews]** Inflation, high demand driving up launch prices
 - <a href="https://spacenews.com/remote-sensing-companies-try-to-capture-bigger-piece-of-satellite-imaging-market/" >🔗</a> **[SpaceNews]** Remote sensing companies try to capture bigger piece of satellite imaging market
 - <a href="https://tlpnetwork.com/news/2023/03/abl-space-secures-ussf-usaf-demo-contract" >🔗</a> **[The Launch Pad]** ABL Space Secures $60M USSF/USAF Demo Contract
 - <a href="https://tlpnetwork.com/news/2023/03/canada-commits-to-iss-2030-extension" >🔗</a> **[The Launch Pad]** Canada Commits To ISS 2030 Extension
 - <a href="https://tlpnetwork.com/news/2023/03/oneweb-18-launch" >🔗</a> **[The Launch Pad]** OneWeb Completes V1 Constellation With India Launch
-- <a href="https://spacenews.com/space-force-selects-18-vendors-to-provide-space-data-analytics-and-software-services/" >🔗</a> **[SpaceNews]** Space Force selects 18 vendors to provide space data analytics and software services
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T003414">2023-03-27 00:34:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T015927">2023-03-27 01:59:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
