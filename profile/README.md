@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/changes-ahead-as-nasa-s-human-spaceflight-head-plans-retirement" >🔗</a> **[NASA]** Changes Ahead as NASA’s Human Spaceflight Head Plans Retirement
 - <a href="https://arstechnica.com/science/2023/03/blue-origin-provides-a-detailed-analysis-of-its-launch-failure/" >🔗</a> **[Arstechnica]** Blue Origin provides a detailed analysis of its launch failure
 - <a href="https://spacenews.com/inflation-high-demand-driving-up-launch-prices/" >🔗</a> **[SpaceNews]** Inflation, high demand driving up launch prices
 - <a href="https://spacenews.com/remote-sensing-companies-try-to-capture-bigger-piece-of-satellite-imaging-market/" >🔗</a> **[SpaceNews]** Remote sensing companies try to capture bigger piece of satellite imaging market
 - <a href="https://tlpnetwork.com/news/2023/03/abl-space-secures-ussf-usaf-demo-contract" >🔗</a> **[The Launch Pad]** ABL Space Secures $60M USSF/USAF Demo Contract
-- <a href="https://tlpnetwork.com/news/2023/03/canada-commits-to-iss-2030-extension" >🔗</a> **[The Launch Pad]** Canada Commits To ISS 2030 Extension
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T160838">2023-03-27 16:08:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T163917">2023-03-27 16:39:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
