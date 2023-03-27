@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html" >🔗</a> **[CNBC]** Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue
 - <a href="http://www.nasa.gov/press-release/nasa-helps-fund-minority-institutions-preparing-students-for-college" >🔗</a> **[NASA]** NASA Helps Fund Minority Institutions Preparing Students for College
 - <a href="https://spacenews.com/nasa-space-operations-head-lueders-to-retire/" >🔗</a> **[SpaceNews]** NASA space operations head Lueders to retire
 - <a href="https://www.nasaspaceflight.com/2023/03/soyuz-ms-22-return/" >🔗</a> **[NASASpaceflight]** Damaged Soyuz MS-22 craft prepares to come home uncrewed
 - <a href="https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/" >🔗</a> **[SpaceNews]** OneWeb completes constellation deployment for global broadband
-- <a href="http://www.nasa.gov/press-release/nasa-boeing-to-host-media-briefing-provide-starliner-update" >🔗</a> **[NASA]** NASA, Boeing to Host Media Briefing, Provide Starliner Update
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T203136">2023-03-27 20:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T210607">2023-03-27 21:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
