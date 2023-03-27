@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/03/soyuz-ms-22-return/" >🔗</a> **[NASASpaceflight]** Damaged Soyuz MS-22 craft prepares to come home uncrewed
+- <a href="https://spacenews.com/oneweb-completes-constellation-deployment-for-global-broadband/" >🔗</a> **[SpaceNews]** OneWeb completes constellation deployment for global broadband
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-host-media-briefing-provide-starliner-update" >🔗</a> **[NASA]** NASA, Boeing to Host Media Briefing, Provide Starliner Update
 - <a href="http://www.nasa.gov/press-release/nasa-names-two-diversity-champions-for-agency" >🔗</a> **[NASA]** NASA Names Two Diversity Champions for Agency
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-associate-administrator-announces-retirement-replacement-announced" >🔗</a> **[The Launch Pad]** NASA Associate Administrator Announces Retirement, Replacement Announced
-- <a href="http://www.nasa.gov/press-release/changes-ahead-as-nasa-s-human-spaceflight-head-plans-retirement" >🔗</a> **[NASA]** Changes Ahead as NASA’s Human Spaceflight Head Plans Retirement
-- <a href="https://arstechnica.com/science/2023/03/blue-origin-provides-a-detailed-analysis-of-its-launch-failure/" >🔗</a> **[Arstechnica]** Blue Origin provides a detailed analysis of its launch failure
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T183650">2023-03-27 18:36:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230327T190501">2023-03-27 19:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
