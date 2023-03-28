@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-astronauts-bring-stem-to-washington-students" >🔗</a> **[NASA]** NASA Astronauts Bring STEM to Washington Students
+- <a href="https://spacenews.com/maxar-unveils-30-centimeter-global-basemap/" >🔗</a> **[SpaceNews]** Maxar unveils 30-centimeter global basemap
 - <a href="https://arstechnica.com/science/2023/03/a-front-runner-emerges-in-the-european-small-launcher-race/" >🔗</a> **[Arstechnica]** A front-runner emerges in the European small launcher race
 - <a href="https://spacenews.com/isar-aerospace-raises-165-million-as-it-gears-up-for-first-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace raises $165 million as it gears up for first launch
 - <a href="https://spacenews.com/u-s-allies-in-the-middle-east-express-interest-in-establishing-space-forces/" >🔗</a> **[SpaceNews]** U.S. allies in the Middle East express interest in establishing space forces
-- <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-extends-shutdown-lifeline-investment-talks-collapse" >🔗</a> **[The Launch Pad]** Virgin Orbit Extends Shutdown, Lifeline Investment Talks Collapse
-- <a href="https://www.cnbc.com/2023/03/27/virgin-orbit-extends-unpaid-pause-as-deal-collapses-talks-continue.html" >🔗</a> **[CNBC]** Virgin Orbit extends unpaid pause as Brown deal collapses, ‘dynamic’ talks continue
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T143249">2023-03-28 14:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T150730">2023-03-28 15:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
