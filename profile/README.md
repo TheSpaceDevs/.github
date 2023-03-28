@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-secretary-havent-made-a-decision-on-u-s-space-command/" >🔗</a> **[SpaceNews]** Air Force Secretary: ‘Haven’t made a decision on U.S. Space Command’ 
+- <a href="https://spacenews.com/china-to-begin-constructing-its-own-megaconstellation-later-this-year/" >🔗</a> **[SpaceNews]** China to begin constructing its own megaconstellation later this year
+- <a href="https://www.nasaspaceflight.com/2023/03/starship-aborts-scrubs/" >🔗</a> **[NASASpaceflight]** Historic scrubs and aborts that could happen to Starship
 - <a href="http://www.nasa.gov/press-release/nasa-s-jon-b-olansen-to-serve-as-new-gateway-program-manager" >🔗</a> **[NASA]** NASA’s Jon B. Olansen to Serve as New Gateway Program Manager
 - <a href="http://www.nasa.gov/press-release/nasa-astronauts-bring-stem-to-washington-students" >🔗</a> **[NASA]** NASA Astronauts Bring STEM to Washington Students
-- <a href="https://spacenews.com/maxar-unveils-30-centimeter-global-basemap/" >🔗</a> **[SpaceNews]** Maxar unveils 30-centimeter global basemap
-- <a href="https://arstechnica.com/science/2023/03/a-front-runner-emerges-in-the-european-small-launcher-race/" >🔗</a> **[Arstechnica]** A front-runner emerges in the European small launcher race
-- <a href="https://spacenews.com/isar-aerospace-raises-165-million-as-it-gears-up-for-first-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace raises $165 million as it gears up for first launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T173142">2023-03-28 17:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230328T180835">2023-03-28 18:08:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
