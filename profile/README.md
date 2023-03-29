@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/military-space-agency-created-to-go-fast-is-about-to-launch-its-first-satellites/" >🔗</a> **[SpaceNews]** Military space agency created to go fast is about to launch its first satellites
 - <a href="https://arstechnica.com/science/2023/03/nasa-delays-flight-of-boeings-starliner-again-this-time-for-parachutes/" >🔗</a> **[Arstechnica]** NASA delays flight of Boeing’s Starliner again, this time for parachutes
-- <a href="https://www.cnbc.com/2023/03/29/planet-pl-q4-results.html" >🔗</a> **[CNBC]** Satellite imagery venture Planet reports record quarterly revenue to cap strong year
+- <a href="https://www.cnbc.com/2023/03/29/planet-pl-q4-results.html" >🔗</a> **[CNBC]** Satellite-imagery venture Planet reports record quarterly revenue to cap strong year
 - <a href="https://spacenews.com/planet-acquires-slovenian-startup-sinergise/" >🔗</a> **[SpaceNews]** Planet acquires Slovenian startup Sinergise
 - <a href="http://www.nasa.gov/press-release/nasa-awards-snow-and-ice-distributed-active-archive-center-contract" >🔗</a> **[NASA]** NASA Awards Snow and Ice Distributed Active Archive Center Contract
-- <a href="https://tlpnetwork.com/news/2023/03/arianespace-guiana-space-center" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: 1 Firefighter Dead, 3 Injured at French Guiana Space Center
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T223152">2023-03-29 22:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T230636">2023-03-29 23:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
