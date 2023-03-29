@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/29/planet-pl-q4-results.html" >🔗</a> **[CNBC]** Satellite imagery venture Planet reports record quarterly revenue to cap strong year
+- <a href="https://spacenews.com/planet-acquires-slovenian-startup-sinergise/" >🔗</a> **[SpaceNews]** Planet acquires Slovenian startup Sinergise
 - <a href="http://www.nasa.gov/press-release/nasa-awards-snow-and-ice-distributed-active-archive-center-contract" >🔗</a> **[NASA]** NASA Awards Snow and Ice Distributed Active Archive Center Contract
 - <a href="https://tlpnetwork.com/news/2023/03/arianespace-guiana-space-center" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: 1 Firefighter Dead, 3 Injured at French Guiana Space Center
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-updates-psyche-mission-plan" >🔗</a> **[The Launch Pad]** NASA Updates Psyche Mission Plan
-- <a href="https://tlpnetwork.com/news/2023/03/lockheed-martin-to-build-lunar-communications-and-navigation-network" >🔗</a> **[The Launch Pad]** Lockheed Martin To Build Lunar Communications And Navigation Network
-- <a href="https://www.nasaspaceflight.com/2023/03/starlink-group-5-10/" >🔗</a> **[NASASpaceflight]** Starlink Group 5-10 prepares for launch, pending weather
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T203127">2023-03-29 20:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T210607">2023-03-29 21:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
