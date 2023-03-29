@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/israel-ofek/" >🔗</a> **[SpaceNews]** Israel launches Ofek spy satellite
 - <a href="https://spacenews.com/h3-failure-could-delay-japanese-science-missions/" >🔗</a> **[SpaceNews]** H3 failure could delay Japanese science missions
 - <a href="https://spacenews.com/lockheed-martin-subsidiary-to-offer-commercial-lunar-communications-and-navigation-services/" >🔗</a> **[SpaceNews]** Lockheed Martin subsidiary to offer commercial lunar communications and navigation services
 - <a href="https://spacenews.com/ovzon-gets-deadline-extension-for-debut-satellite/" >🔗</a> **[SpaceNews]** Ovzon gets deadline extension for debut satellite
 - <a href="https://spacenews.com/u-s-space-force-ramps-up-cybersecurity-spending/" >🔗</a> **[SpaceNews]** U.S. Space Force ramps up cybersecurity spending
-- <a href="https://spacenews.com/air-force-secretary-havent-made-a-decision-on-u-s-space-command/" >🔗</a> **[SpaceNews]** Air Force Secretary: ‘Haven’t made a decision on U.S. Space Command’ 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T131556">2023-03-29 13:15:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T133440">2023-03-29 13:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
