@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/lockheed-martin-to-build-lunar-communications-and-navigation-network" >🔗</a> **[The Launch Pad]** Lockheed Martin To Build Lunar Communications And Navigation Network
+- <a href="https://www.nasaspaceflight.com/2023/03/starlink-group-5-10/" >🔗</a> **[NASASpaceflight]** Starlink Group 5-10 prepares for launch, pending weather
 - <a href="https://spacenews.com/ses-confirms-merger-talks-with-intelsat/" >🔗</a> **[SpaceNews]** SES confirms Intelsat merger talks
 - <a href="http://www.nasa.gov/press-release/nasa-receives-top-honor-of-best-place-to-work-in-federal-government" >🔗</a> **[NASA]** NASA Receives Top Honor of Best Place to Work in Federal Government
 - <a href="https://www.cnbc.com/2023/03/29/redwire-rdw-q4-earnings.html" >🔗</a> **[CNBC]** Space infrastructure company Redwire trims quarterly losses, builds order backlog
-- <a href="https://spacenews.com/israel-ofek/" >🔗</a> **[SpaceNews]** Israel launches Ofek spy satellite
-- <a href="https://spacenews.com/impact-observatory-raises-5-9-million-to-apply-ai-to-satellite-imagery/" >🔗</a> **[SpaceNews]** Impact Observatory raises $5.9 million to apply AI to satellite imagery
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T150648">2023-03-29 15:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T172622">2023-03-29 17:26:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
