@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/new-program-office-leads-nasa-s-path-forward-for-moon-mars" >🔗</a> **[NASA]** New Program Office Leads NASA’s Path Forward for Moon, Mars
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-announces-moon-to-mars-program-office" >🔗</a> **[The Launch Pad]** NASA Announces Moon To Mars Program Office
 - <a href="https://tlpnetwork.com/news/2023/03/astronomers-discover-two-closest-black-holes-to-earth" >🔗</a> **[The Launch Pad]** BREAKING! Astronomers Discover Two Closest Black Holes to Earth
 - <a href="https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html" >🔗</a> **[CNBC]** Investing in Space: Boeing’s got to get going
 - <a href="https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/" >🔗</a> **[SpaceNews]** Chinese defense contractor to begin launching VLEO satellites
-- <a href="https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX aborts launch with initial satellites for Space Development Agency
-- <a href="https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases draft strategy for long-term robotic Mars exploration
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T170551">2023-03-30 17:05:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T173133">2023-03-30 17:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
