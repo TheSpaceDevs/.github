@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/03/30/investing-in-space-boeings-got-to-get-going.html" >🔗</a> **[CNBC]** Investing in Space: Boeing’s got to get going
 - <a href="https://spacenews.com/chinese-defense-contractor-to-begin-launching-vleo-satellites/" >🔗</a> **[SpaceNews]** Chinese defense contractor to begin launching VLEO satellites
 - <a href="https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX aborts launch with initial satellites for Space Development Agency
 - <a href="https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases draft strategy for long-term robotic Mars exploration
 - <a href="https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed" >🔗</a> **[The Launch Pad]** Vulcan Experiences Anomaly During Test, Maiden Flight Delayed
-- <a href="https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch" >🔗</a> **[The Launch Pad]** Isar Aerospace Raises $165 Million Ahead Of First Launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T153203">2023-03-30 15:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T160816">2023-03-30 16:08:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
