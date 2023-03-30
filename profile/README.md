@@ -45,7 +45,7 @@ into *an Unknown Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T104300">2023-03-30 10:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan, People&#x27;s Republic of China&dates=20230330T104300Z%2F20230330T112600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T141400">2023-03-30 14:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230330T141400Z%2F20230330T160800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T142900">2023-03-30 14:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0&location=Vandenberg SFB, CA, USA&dates=20230330T142900Z%2F20230330T142900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T061700">2023-03-31 06:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Yaogan 34-04 (?)&location=Jiuquan, People&#x27;s Republic of China&dates=20230331T061700Z%2F20230331T064100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Yaogan 34-04 (?)** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T105300">2023-03-31 10:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Tianlong-2 | Demo Flight&location=Jiuquan, People&#x27;s Republic of China&dates=20230331T105300Z%2F20230331T121700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Tianlong-2 | Demo Flight** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T035400">2023-04-02 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230402T035400Z%2F20230402T062500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan, People's Republic of China.
@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch" >🔗</a> **[The Launch Pad]** Isar Aerospace Raises $165 Million Ahead Of First Launch
+- <a href="https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner crewed test flight delayed to July
+- <a href="https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer for rocket tanks and fairings
+- <a href="https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites" >🔗</a> **[The Launch Pad]** US Space Development Agency Ready To Launch First Satellites
 - <a href="https://spacenews.com/military-space-agency-created-to-go-fast-is-about-to-launch-its-first-satellites/" >🔗</a> **[SpaceNews]** Military space agency created to go fast is about to launch its first satellites
-- <a href="https://arstechnica.com/science/2023/03/nasa-delays-flight-of-boeings-starliner-again-this-time-for-parachutes/" >🔗</a> **[Arstechnica]** NASA delays flight of Boeing’s Starliner again, this time for parachutes
-- <a href="https://www.cnbc.com/2023/03/29/planet-pl-q4-results.html" >🔗</a> **[CNBC]** Satellite-imagery venture Planet reports record quarterly revenue to cap strong year
-- <a href="https://spacenews.com/planet-acquires-slovenian-startup-sinergise/" >🔗</a> **[SpaceNews]** Planet acquires Slovenian startup Sinergise
-- <a href="http://www.nasa.gov/press-release/nasa-awards-snow-and-ice-distributed-active-archive-center-contract" >🔗</a> **[NASA]** NASA Awards Snow and Ice Distributed Active Archive Center Contract
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230329T233157">2023-03-29 23:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T003544">2023-03-30 00:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
