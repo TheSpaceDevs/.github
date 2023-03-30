@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed" >🔗</a> **[The Launch Pad]** Vulcan Experiences Anomaly During Test, Maiden Flight Delayed
 - <a href="https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch" >🔗</a> **[The Launch Pad]** Isar Aerospace Raises $165 Million Ahead Of First Launch
 - <a href="https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner crewed test flight delayed to July
 - <a href="https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer for rocket tanks and fairings
 - <a href="https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites" >🔗</a> **[The Launch Pad]** US Space Development Agency Ready To Launch First Satellites
-- <a href="https://spacenews.com/military-space-agency-created-to-go-fast-is-about-to-launch-its-first-satellites/" >🔗</a> **[SpaceNews]** Military space agency created to go fast is about to launch its first satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T030709">2023-03-30 03:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T033158">2023-03-30 03:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
