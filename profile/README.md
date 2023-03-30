@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-orbit-lays-off-most-employees/" >🔗</a> **[SpaceNews]** Virgin Orbit lays off most employees
 - <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-to-cease-operations-lay-off-90-percent-after-funding-failure" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit To Cease Operations, Lay Off 90% After Funding Failure
 - <a href="https://www.cnbc.com/2023/03/30/virgin-orbit-funding-ceasing-operations-layoffs.html" >🔗</a> **[CNBC]** Virgin Orbit fails to secure funding, will cease operations and lay off nearly entire workforce
 - <a href="https://spacenews.com/maxar-eyes-military-customers-for-satellite-images-of-objects-in-space/" >🔗</a> **[SpaceNews]** Maxar eyes military customers for satellite images of objects in space
 - <a href="https://spacenews.com/telesat-still-bullish-on-lightspeed-despite-funding-uncertainty/" >🔗</a> **[SpaceNews]** Telesat still bullish on Lightspeed despite funding uncertainty
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-announces-moon-to-mars-program-office" >🔗</a> **[The Launch Pad]** NASA Announces Moon To Mars Program Office
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T223143">2023-03-30 22:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T230643">2023-03-30 23:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
