@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX to launch initial satellites for Space Development Agency
+- <a href="https://spacenews.com/nasa-releases-draft-strategy-for-long-term-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases draft strategy for long-term robotic Mars exploration
 - <a href="https://tlpnetwork.com/news/2023/03/vulcan-experiences-anomaly-during-test-maiden-flight-delayed" >🔗</a> **[The Launch Pad]** Vulcan Experiences Anomaly During Test, Maiden Flight Delayed
 - <a href="https://tlpnetwork.com/news/2023/03/isar-aerospace-raises-millions-ahead-of-first-launch" >🔗</a> **[The Launch Pad]** Isar Aerospace Raises $165 Million Ahead Of First Launch
 - <a href="https://spacenews.com/starliner-crewed-test-flight-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner crewed test flight delayed to July
-- <a href="https://spacenews.com/rosotics-unveils-3d-printer-for-rocket-tanks-and-fairings/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer for rocket tanks and fairings
-- <a href="https://tlpnetwork.com/news/2023/03/us-space-development-agency-ready-to-launch-first-satellites" >🔗</a> **[The Launch Pad]** US Space Development Agency Ready To Launch First Satellites
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T113153">2023-03-30 11:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230330T121230">2023-03-30 12:12:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
