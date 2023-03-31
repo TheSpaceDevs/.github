@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/03/astrolab-signs-starship-launch-agreement-for-flex-rover-mission" >🔗</a> **[The Launch Pad]** Astrolab Signs Starship Launch Agreement For FLEX Rover Mission
+- <a href="http://www.nasa.gov/press-release/nasa-updates-media-on-next-private-astronaut-mission-to-space-station" >🔗</a> **[NASA]** NASA Updates Media on Next Private Astronaut Mission to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch" >🔗</a> **[NASA]** NASA to Host Media Call on Upcoming Air Quality Satellite Launch
 - <a href="https://spacenews.com/astrolab-to-send-rover-to-the-moon-on-spacexs-starship/" >🔗</a> **[SpaceNews]** Astrolab to send rover to the moon on SpaceX’s Starship
 - <a href="https://spacenews.com/south-korea-sets-record-space-budget-to-bolster-industry-develop-new-rocket/" >🔗</a> **[SpaceNews]** South Korea sets record space budget  to bolster industry, develop new rocket
-- <a href="https://spacenews.com/astra-says-rocket-4-development-on-schedule-for-late-2023-first-flight/" >🔗</a> **[SpaceNews]** Astra says Rocket 4 development on schedule for late 2023 first flight
-- <a href="https://spacenews.com/momentus-successfully-test-fires-thruster-on-vigoride-5/" >🔗</a> **[SpaceNews]** Momentus successfully test-fires thruster on Vigoride-5
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T153149">2023-03-31 15:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T160649">2023-03-31 16:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
