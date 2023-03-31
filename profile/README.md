@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch" >🔗</a> **[NASA]** NASA to Host Media Call on Upcoming Air Quality Satellite Launch
+- <a href="https://spacenews.com/astrolab-to-send-rover-to-the-moon-on-spacexs-starship/" >🔗</a> **[SpaceNews]** Astrolab to send rover to the moon on SpaceX’s Starship
 - <a href="https://spacenews.com/south-korea-sets-record-space-budget-to-bolster-industry-develop-new-rocket/" >🔗</a> **[SpaceNews]** South Korea sets record space budget  to bolster industry, develop new rocket
 - <a href="https://spacenews.com/astra-says-rocket-4-development-on-schedule-for-late-2023-first-flight/" >🔗</a> **[SpaceNews]** Astra says Rocket 4 development on schedule for late 2023 first flight
 - <a href="https://spacenews.com/momentus-successfully-test-fires-thruster-on-vigoride-5/" >🔗</a> **[SpaceNews]** Momentus successfully test-fires thruster on Vigoride-5
-- <a href="https://arstechnica.com/science/2023/03/rocket-report-ula-centaur-stage-has-an-anomaly-virgin-orbit-funding-is-dire/" >🔗</a> **[Arstechnica]** Rocket Report: ULA Centaur stage has an ‘anomaly,’ Virgin Orbit funding is dire
-- <a href="https://spacenews.com/china-launches-4-insar-satellites-and-new-yaogan-reconnaissance-sat/" >🔗</a> **[SpaceNews]** China launches 4 InSAR satellites and new Yaogan reconnaissance sat
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T133135">2023-03-31 13:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T143149">2023-03-31 14:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
