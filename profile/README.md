@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/03/rocket-report-ula-centaur-stage-has-an-anomaly-virgin-orbit-funding-is-dire/" >🔗</a> **[Arstechnica]** Rocket Report: ULA Centaur stage has an ‘anomaly,’ Virgin Orbit funding is dire
+- <a href="https://spacenews.com/china-launches-4-insar-satellites-and-new-yaogan-reconnaissance-sat/" >🔗</a> **[SpaceNews]** China launches 4 InSAR satellites and new Yaogan reconnaissance sat
 - <a href="https://spacenews.com/space-official-calls-for-china-to-seize-crucial-opportunity-to-establish-lunar-infrastructure/" >🔗</a> **[SpaceNews]** Space official calls for China to seize crucial opportunity to establish lunar infrastructure
 - <a href="https://spacenews.com/virgin-orbit-lays-off-most-employees/" >🔗</a> **[SpaceNews]** Virgin Orbit lays off most employees
 - <a href="https://tlpnetwork.com/news/2023/03/virgin-orbit-to-cease-operations-lay-off-90-percent-after-funding-failure" >🔗</a> **[The Launch Pad]** Virgin Orbit To Cease Operations, Lay Off 90% After Funding Failure
-- <a href="https://www.cnbc.com/2023/03/30/virgin-orbit-funding-ceasing-operations-layoffs.html" >🔗</a> **[CNBC]** Virgin Orbit fails to secure funding, will cease operations and lay off nearly entire workforce
-- <a href="https://spacenews.com/maxar-eyes-military-customers-for-satellite-images-of-objects-in-space/" >🔗</a> **[SpaceNews]** Maxar eyes military customers for satellite images of objects in space
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T103251">2023-03-31 10:32:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230331T110451">2023-03-31 11:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
