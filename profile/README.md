@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos" >🔗</a> **[The Launch Pad]** New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos
 - <a href="https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year" >🔗</a> **[The Launch Pad]** China Preparing To Launch Mega Satellite Constellation This Year
 - <a href="https://tlpnetwork.com/news/2023/03/nasa-reveals-new-mars-robotic-exploration-strategy" >🔗</a> **[The Launch Pad]** NASA Reveals New Mars Robotic Exploration Strategy
 - <a href="https://tlpnetwork.com/news/2023/03/astra-loses-36-million-last-quarter-sets-target-for-first-rocket-4-launch" >🔗</a> **[The Launch Pad]** Astra Loses $36M Last Quarter, Sets Target For First Rocket 4 Launch
 - <a href="https://spacenews.com/ast-spacemobile-discloses-further-satellite-delays-and-cost-increases/" >🔗</a> **[SpaceNews]** AST SpaceMobile discloses further satellite delays and cost increases
-- <a href="https://www.cnbc.com/2023/03/31/virgin-orbit-what-went-wrong.html" >🔗</a> **[CNBC]** Virgin Orbit collapsed despite a billionaire’s backing and an intriguing plan. Here’s what happened
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T003520">2023-04-01 00:35:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230401T015828">2023-04-01 01:58:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
