@@ -18,28 +18,28 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | SDA Tranche 0A**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T142900">2023-04-02 14:29:00 UTC</a>.  Until
-then, this pad will have been used for 105
-out of 714 launches from this location. The launch status is currently
+**Hyperbola-1 | Unknown Payload**. It is scheduled to be launched by *iSpace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T035400">2023-04-05 03:54:00 UTC</a>.  Until
+then, this pad will have been used for 11
+out of 189 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  First mission launched by the Space Development Agency for the Tranche 0 Transport Layer.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230330080629.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/I-Space_(Chinese_company)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20190724014013.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
@@ -53,6 +53,7 @@ into *a Polar Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-6&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-6** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 1 &amp; 2&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 1 & 2** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,25 +89,20 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-10-satellites-for-u-s-space-development-agency/" >🔗</a> **[SpaceNews]** SpaceX launches 10 satellites for U.S. Space Development Agency
+- <a href="https://www.nasaspaceflight.com/2023/04/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX launches initial satellites for Space Development Agency
 - <a href="https://tlpnetwork.com/news/2023/04/isro-successfully-conducts-rlv-autonomous-landing-mission" >🔗</a> **[The Launch Pad]** ISRO Successfully Conducts RLV Autonomous Landing Mission
 - <a href="https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/" >🔗</a> **[Arstechnica]** SpaceX moves Starship to launch site, and liftoff could be just days away
 - <a href="https://www.nasaspaceflight.com/2023/04/egs-review-artemis-i-campaign/" >🔗</a> **[NASASpaceflight]** EGS Integration Console engineers review Artemis I campaign
-- <a href="https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos" >🔗</a> **[The Launch Pad]** New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos
-- <a href="https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year" >🔗</a> **[The Launch Pad]** China Preparing To Launch Mega Satellite Constellation This Year
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/space-development-agencys-first-launch-slips-due-to-supply-chain-setbacks/" >🔗</a> **[SpaceNews]** Space Development Agency’s first launch slips due to supply chain setbacks
-- <a href="https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/" >🔗</a> **[SpaceNews]** SDA slide reveals Tranche 0 optical terminal manufacturers
-- <a href="https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/" >🔗</a> **[SpaceNews]** Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’
-- <a href="https://spacenews.com/space-development-agencys-first-launch-slips-to-march-due-to-satellite-glitch/" >🔗</a> **[SpaceNews]** Space Development Agency’s first launch slips to March due to satellite glitch
-- <a href="https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX ready for launch with initial satellites for Space Development Agency
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T143133">2023-04-02 14:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T150508">2023-04-02 15:05:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
