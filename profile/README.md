@@ -44,7 +44,6 @@ into *a Polar Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T142900">2023-04-02 14:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0A&location=Vandenberg SFB, CA, USA&dates=20230402T142900Z%2F20230402T142900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0A** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T035400">2023-04-05 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230405T035400Z%2F20230405T062500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T042900">2023-04-07 04:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T042900Z%2F20230407T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Intelsat 40e** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T121501">2023-04-13 12:15:01 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)&location=Kourou, French Guiana&dates=20230413T121501Z%2F20230413T121501Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)** from Kourou, French Guiana.
@@ -107,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T140348">2023-04-02 14:03:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T143133">2023-04-02 14:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
