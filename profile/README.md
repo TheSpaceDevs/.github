@@ -102,11 +102,12 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/sda-slide-reveals-tranche-0-optical-terminal-manufacturers/" >🔗</a> **[SpaceNews]** SDA slide reveals Tranche 0 optical terminal manufacturers
 - <a href="https://spacenews.com/space-development-agency-still-hoping-to-launch-satellites-next-month-but-theres-risk/" >🔗</a> **[SpaceNews]** Space Development Agency still hoping to launch satellites next month, ‘but there’s risk’
 - <a href="https://spacenews.com/space-development-agencys-first-launch-slips-to-march-due-to-satellite-glitch/" >🔗</a> **[SpaceNews]** Space Development Agency’s first launch slips to March due to satellite glitch
+- <a href="https://www.nasaspaceflight.com/2023/03/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX ready for launch with initial satellites for Space Development Agency
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T133136">2023-04-02 13:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T140348">2023-04-02 14:03:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
