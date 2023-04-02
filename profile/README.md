@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/04/isro-successfully-conducts-rlv-autonomous-landing-mission" >🔗</a> **[The Launch Pad]** ISRO Successfully Conducts RLV Autonomous Landing Mission
 - <a href="https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/" >🔗</a> **[Arstechnica]** SpaceX moves Starship to launch site, and liftoff could be just days away
 - <a href="https://www.nasaspaceflight.com/2023/04/egs-review-artemis-i-campaign/" >🔗</a> **[NASASpaceflight]** EGS Integration Console engineers review Artemis I campaign
 - <a href="https://tlpnetwork.com/news/2023/04/new-mars-map-created-by-nyuad-scientists-from-uae-mars-orbiter-photos" >🔗</a> **[The Launch Pad]** New Mars Map Created By NYUAD Scientists From UAE Mars Orbiter Photos
 - <a href="https://tlpnetwork.com/news/2023/03/china-preparing-to-launch-mega-satellite-constellation-this-year" >🔗</a> **[The Launch Pad]** China Preparing To Launch Mega Satellite Constellation This Year
-- <a href="https://tlpnetwork.com/news/2023/03/nasa-reveals-new-mars-robotic-exploration-strategy" >🔗</a> **[The Launch Pad]** NASA Reveals New Mars Robotic Exploration Strategy
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T024319">2023-04-02 02:43:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230402T030637">2023-04-02 03:06:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
