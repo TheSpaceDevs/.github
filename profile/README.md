@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer reaches orbit with liquid propellent rocket
+- <a href="https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer reaches orbit with liquid propellant rocket
 - <a href="https://spacenews.com/nasa-policy-discourages-naming-missions-after-individuals/" >🔗</a> **[SpaceNews]** NASA policy discourages naming missions after individuals
 - <a href="https://spacenews.com/spacex-launches-10-satellites-for-u-s-space-development-agency/" >🔗</a> **[SpaceNews]** SpaceX launches 10 satellites for U.S. Space Development Agency
 - <a href="https://www.nasaspaceflight.com/2023/04/tranche-0-flight-1/" >🔗</a> **[NASASpaceflight]** SpaceX launches initial satellites for Space Development Agency
-- <a href="https://tlpnetwork.com/news/2023/04/isro-successfully-conducts-rlv-autonomous-landing-mission" >🔗</a> **[The Launch Pad]** ISRO Successfully Conducts RLV Autonomous Landing Mission
-- <a href="https://arstechnica.com/science/2023/04/spacex-moves-starship-to-launch-site-and-liftoff-could-be-just-days-away/" >🔗</a> **[Arstechnica]** SpaceX moves Starship to launch site, and liftoff could be just days away
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T093141">2023-04-03 09:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T100705">2023-04-03 10:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
