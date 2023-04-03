@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/" >🔗</a> **[Arstechnica]** All of a sudden, NASA’s return to the Moon feels rather real
 - <a href="https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/" >🔗</a> **[SpaceNews]** Thuraya invests in Astrocast’s LEO constellation
 - <a href="https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/" >🔗</a> **[SpaceNews]** Lockheed Martin selected by Australia for military satcom project
 - <a href="https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/" >🔗</a> **[NASASpaceflight]** Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets
 - <a href="https://spacenews.com/kleos-space-spire-global-get-contract-extensions-from-nro/" >🔗</a> **[SpaceNews]** Kleos Space, Spire Global get contract extensions from NRO
-- <a href="http://www.nasa.gov/press-release/nasa-designa-astronautas-para-su-pr-xima-misi-n-de-artemis-a-la-luna" >🔗</a> **[NASA]** NASA designa astronautas para su próxima misión de Artemis a la Luna
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T223137">2023-04-03 22:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T230553">2023-04-03 23:05:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
