@@ -36,7 +36,7 @@ into *an Unknown Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/I-Space_(Chinese_company)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20190724014013.jpg" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20230403194326.png" />
   </a>
   <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/04/jwst-clouds-temp-exoplanets/" >🔗</a> **[NASASpaceflight]** Using JWST, scientists observe silicate clouds and measure the temperature of exoplanets
 - <a href="https://spacenews.com/kleos-space-spire-global-get-contract-extensions-from-nro/" >🔗</a> **[SpaceNews]** Kleos Space, Spire Global get contract extensions from NRO
 - <a href="http://www.nasa.gov/press-release/nasa-designa-astronautas-para-su-pr-xima-misi-n-de-artemis-a-la-luna" >🔗</a> **[NASA]** NASA designa astronautas para su próxima misión de Artemis a la Luna
 - <a href="https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/" >🔗</a> **[SpaceNews]** NASA announces crew for Artemis 2 mission
 - <a href="http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis" >🔗</a> **[NASA]** NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis
-- <a href="https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html" >🔗</a> **[CNBC]** NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T193147">2023-04-03 19:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T200639">2023-04-03 20:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
