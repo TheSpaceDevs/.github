@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-announces-crew-for-artemis-2-mission/" >🔗</a> **[SpaceNews]** NASA announces crew for Artemis 2 mission
+- <a href="http://www.nasa.gov/press-release/nasa-names-astronauts-to-next-moon-mission-first-crew-under-artemis" >🔗</a> **[NASA]** NASA Names Astronauts to Next Moon Mission, First Crew Under Artemis
+- <a href="https://www.cnbc.com/2023/04/03/nasa-unveils-artemis-ii-astronauts.html" >🔗</a> **[CNBC]** NASA unveils the four astronauts who will fly on the Artemis 2 mission around the moon in 2024
+- <a href="https://tlpnetwork.com/news/2023/04/nasa-announces-artemis-2-crew" >🔗</a> **[The Launch Pad]** BREAKING! NASA Announces Artemis 2 Crew
 - <a href="https://spacenews.com/redwire-to-demonstrate-a-security-camera-for-military-satellites/" >🔗</a> **[SpaceNews]** Redwire to demonstrate a security camera for military satellites
-- <a href="https://arstechnica.com/science/2023/04/a-passenger-aircraft-that-flies-around-the-world-at-mach-9-sure-why-not/" >🔗</a> **[Arstechnica]** A passenger aircraft that flies around the world at Mach 9? Sure, why not
-- <a href="https://spacenews.com/japan-delays-h2a-launch-in-the-wake-of-h3-failure/" >🔗</a> **[SpaceNews]** Japan delays H2A launch in the wake of H3 failure
-- <a href="https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellent-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer reaches orbit with liquid propellent rocket
-- <a href="https://spacenews.com/chinas-space-pioneer-reaches-orbit-with-liquid-propellant-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer reaches orbit with liquid propellant rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T153136">2023-04-03 15:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230403T160754">2023-04-03 16:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
