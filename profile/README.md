@@ -18,33 +18,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Hyperbola-1 | Unknown Payload**. It is scheduled to be launched by *iSpace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a>, Jiuquan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T035400">2023-04-05 03:54:00 UTC</a>.  Until
-then, this pad will have been used for 11
-out of 189 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+**Falcon 9 Block 5 | Intelsat 40e**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T042900">2023-04-07 04:29:00 UTC</a>.  Until
+then, this pad will have been used for 175
+out of 881 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  Intelsat 40e is an advanced geostationary satellite that will provide Intelsat’s government and enterprise customers across North and Central America with high-throughput, “coast-to-coast” services. The satellite’s capabilities will support the growing number of customers that depend on Intelsat’s managed services and solutions to easily integrate satellite into their overall networking and communications strategies.
+
+Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitoring of Pollution (TEMPO), an Earth science instrument that will observe air pollution over North America in unprecedented detail.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/I-Space_(Chinese_company)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20230403194326.png" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=40.9605556,100.2961393" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T035400">2023-04-05 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230405T035400Z%2F20230405T062500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T042900">2023-04-07 04:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Intelsat 40e&location=Cape Canaveral, FL, USA&dates=20230407T042900Z%2F20230407T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Intelsat 40e** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T000000">2023-04-11 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230411T000000Z%2F20230411T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T121501">2023-04-13 12:15:01 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)&location=Kourou, French Guiana&dates=20230413T121501Z%2F20230413T121501Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)** from Kourou, French Guiana.
@@ -54,6 +55,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-2&location=Cape Canaveral, FL, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-6&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-6** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 1 &amp; 2&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 1 & 2** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -98,11 +100,14 @@ into *an Unknown Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/spacex-to-launch-intelsat-40e-satellite/" >🔗</a> **[SpaceNews]** SpaceX to launch Intelsat-40e satellite
+- <a href="https://spaceflightnow.com/2020/03/17/spacex-selected-to-launch-intelsat-telecom-satellite-nasa-pollution-monitor/" >🔗</a> **[Spaceflight Now]** SpaceX selected to launch Intelsat telecom satellite, NASA pollution monitor
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch" >🔗</a> **[NASA]** NASA to Host Media Call on Upcoming Air Quality Satellite Launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T131013">2023-04-04 13:10:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133137">2023-04-04 13:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
