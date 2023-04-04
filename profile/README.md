@@ -91,11 +91,11 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/" >🔗</a> **[Arstechnica]** Virgin Orbit formally enters bankruptcy, seeking a buyer
 - <a href="https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Files For Bankruptcy 
 - <a href="https://spacenews.com/virgin-orbit-files-for-bankruptcy/" >🔗</a> **[SpaceNews]** Virgin Orbit files for bankruptcy
 - <a href="https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/" >🔗</a> **[Reuters]** Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer
 - <a href="https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/" >🔗</a> **[Arstechnica]** All of a sudden, NASA’s return to the Moon feels rather real
-- <a href="https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/" >🔗</a> **[SpaceNews]** Thuraya invests in Astrocast’s LEO constellation
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T133137">2023-04-04 13:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T140651">2023-04-04 14:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
