@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/04/virgin-orbit-files-for-bankruptcy" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Files For Bankruptcy 
 - <a href="https://spacenews.com/virgin-orbit-files-for-bankruptcy/" >🔗</a> **[SpaceNews]** Virgin Orbit files for bankruptcy
 - <a href="https://www.reuters.com/business/aerospace-defense/bransons-virgin-orbit-files-bankruptcy-2023-04-04/" >🔗</a> **[Reuters]** Richard Branson's Virgin Orbit files for bankruptcy, to seek buyer
 - <a href="https://arstechnica.com/science/2023/04/we-now-know-who-will-be-at-the-tip-of-the-spear-for-our-return-to-the-moon/" >🔗</a> **[Arstechnica]** All of a sudden, NASA’s return to the Moon feels rather real
 - <a href="https://spacenews.com/thuraya-invests-in-astrocasts-leo-constellation/" >🔗</a> **[SpaceNews]** Thuraya invests in Astrocast’s LEO constellation
-- <a href="https://spacenews.com/lockheed-martin-selected-by-australia-for-military-satcom-project/" >🔗</a> **[SpaceNews]** Lockheed Martin selected by Australia for military satcom project
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T121140">2023-04-04 12:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T124831">2023-04-04 12:48:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
