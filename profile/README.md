@@ -95,7 +95,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 - <a href="https://www.cnbc.com/2023/04/04/virgin-orbit-coo-goodbye-email.html" >🔗</a> **[CNBC]** Virgin Orbit COO calls out company leadership for failures in goodbye memo. Read the full email
 - <a href="https://www.nasaspaceflight.com/2023/04/egs-launch-team-artemis-ii/" >🔗</a> **[NASASpaceflight]** EGS launch team looking forward to working with Artemis II crew
 - <a href="https://spacenews.com/apex-to-launch-first-satellite-in-2024/" >🔗</a> **[SpaceNews]** Apex to launch first satellite in 2024
-- <a href="https://arstechnica.com/science/2023/04/virgin-orbit-formally-enters-bankruptcy-seeking-a-buyer/" >🔗</a> **[Arstechnica]** Virgin Orbit formally enters bankruptcy, seeking a buyer
+- <a href="https://spacenews.com/arabsat-blames-thruster-issue-for-temporary-satellite-outage/" >🔗</a> **[SpaceNews]** Arabsat blames thruster issue for temporary satellite outage
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T193122">2023-04-04 19:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230404T200653">2023-04-04 20:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
