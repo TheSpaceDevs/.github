@@ -91,11 +91,11 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-embraces-unconventional-ways-to-attract-and-retain-talent/" >🔗</a> **[SpaceNews]** Space Force embraces unconventional ways to attract and retain talent
 - <a href="https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/" >🔗</a> **[Arstechnica]** A New Zealand company has started flying a rocket-powered spaceplane
 - <a href="https://spacenews.com/dawn-flies-rocket-powered-spaceplane/" >🔗</a> **[SpaceNews]** Dawn flies rocket-powered spaceplane
 - <a href="https://mars.nasa.gov/news/9375/" >🔗</a> **[NASA]** New Interactive Mosaic Uses NASA Imagery to Show Mars in Vivid Detail
 - <a href="https://spacenews.com/updated-space-safety-document-outlines-rules-of-the-road-for-avoiding-collisions/" >🔗</a> **[SpaceNews]** Updated space safety document outlines rules of the road for avoiding collisions
-- <a href="https://spacenews.com/apple-executive-doug-beck-to-lead-the-defense-innovation-unit/" >🔗</a> **[SpaceNews]** Apple executive Doug Beck tapped to lead the Defense Innovation Unit
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T203138">2023-04-05 20:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230405T210626">2023-04-05 21:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
