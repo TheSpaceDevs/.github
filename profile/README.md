@@ -103,11 +103,12 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 - <a href="https://spacenews.com/spacex-to-launch-intelsat-40e-satellite/" >🔗</a> **[SpaceNews]** SpaceX to launch Intelsat-40e satellite
 - <a href="https://spaceflightnow.com/2020/03/17/spacex-selected-to-launch-intelsat-telecom-satellite-nasa-pollution-monitor/" >🔗</a> **[Spaceflight Now]** SpaceX selected to launch Intelsat telecom satellite, NASA pollution monitor
 - <a href="http://www.nasa.gov/press-release/nasa-to-host-media-call-on-upcoming-air-quality-satellite-launch" >🔗</a> **[NASA]** NASA to Host Media Call on Upcoming Air Quality Satellite Launch
+- <a href="https://spacenews.com/nasa-earth-science-hosted-payload-set-for-launch-on-intelsat-satellite/" >🔗</a> **[SpaceNews]** NASA Earth science hosted payload set for launch on Intelsat satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T063301">2023-04-06 06:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T070611">2023-04-06 07:06:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
