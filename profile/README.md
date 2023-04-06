@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/04/06/investing-in-space-orbital-consulting.html" >🔗</a> **[CNBC]** Investing in Space: Orbital consulting
 - <a href="http://www.nasa.gov/press-release/nasa-awards-innovative-concept-studies-for-science-exploration" >🔗</a> **[NASA]** NASA Awards Innovative Concept Studies for Science, Exploration
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-air-quality-instrument-launch" >🔗</a> **[NASA]** NASA Sets Coverage for Air Quality Instrument Launch
 - <a href="https://spacenews.com/startup-aims-to-fill-technology-gaps-in-space-warfare/" >🔗</a> **[SpaceNews]** Startup aims to fill technology gaps in space warfare
 - <a href="https://spacenews.com/loft-orbital-orders-15-more-buses-from-airbus-oneweb-satellites/" >🔗</a> **[SpaceNews]** Loft Orbital orders 15 more buses from Airbus OneWeb Satellites
-- <a href="https://spacenews.com/china-invites-venezuela-to-join-moon-base-project/" >🔗</a> **[SpaceNews]** China invites Venezuela to join moon base project
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T153149">2023-04-06 15:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T160753">2023-04-06 16:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
