@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-renames-greenlands-thule-air-base/" >🔗</a> **[SpaceNews]** Space Force renames Greenland’s Thule Air Base
 - <a href="https://www.nasaspaceflight.com/2023/04/starship-targeting-h2-april/" >🔗</a> **[NASASpaceflight]** Starship into final preps for launch targeting second half of April
 - <a href="https://tlpnetwork.com/news/2023/04/spacex-sets-timeline-for-inaugural-starship-flight" >🔗</a> **[The Launch Pad]** BREAKING! SpaceX Sets Timeline For Inaugural Starship Flight
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-names-new-goddard-center-director" >🔗</a> **[NASA]** NASA Administrator Names New Goddard Center Director
 - <a href="https://www.cnbc.com/2023/04/06/investing-in-space-orbital-consulting.html" >🔗</a> **[CNBC]** Investing in Space: Deloitte formalizes its space consulting business, with an eye on growth
-- <a href="http://www.nasa.gov/press-release/nasa-awards-innovative-concept-studies-for-science-exploration" >🔗</a> **[NASA]** NASA Awards Innovative Concept Studies for Science, Exploration
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T213127">2023-04-06 21:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T220525">2023-04-06 22:05:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
