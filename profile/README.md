@@ -91,11 +91,11 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/loft-orbital-orders-15-more-buses-from-airbus-oneweb-satellites/" >🔗</a> **[SpaceNews]** Loft Orbital orders 15 more buses from Airbus OneWeb Satellites
 - <a href="https://spacenews.com/china-invites-venezuela-to-join-moon-base-project/" >🔗</a> **[SpaceNews]** China invites Venezuela to join moon base project
 - <a href="https://spacenews.com/nasa-earth-science-hosted-payload-set-for-launch-on-intelsat-satellite/" >🔗</a> **[SpaceNews]** NASA Earth science hosted payload set for launch on Intelsat satellite
 - <a href="https://spacenews.com/space-development-agencys-first-satellite-launch-hailed-as-model/" >🔗</a> **[SpaceNews]** Space Development Agency’s first satellite launch hailed as model
 - <a href="https://spacenews.com/space-force-embraces-unconventional-ways-to-attract-and-retain-talent/" >🔗</a> **[SpaceNews]** Space Force embraces unconventional ways to attract and retain talent
-- <a href="https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/" >🔗</a> **[Arstechnica]** A New Zealand company has started flying a rocket-powered spaceplane
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ Hosted on the Intelsat 40e satellite is NASA’s Tropospheric Emissions: Monitor
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T113143">2023-04-06 11:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230406T121131">2023-04-06 12:11:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
