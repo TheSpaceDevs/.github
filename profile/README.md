@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/04/starship-oft-launch-day" >🔗</a> **[The Launch Pad]** What to expect on the day of Starship's Orbital Test Flight
 - <a href="https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/" >🔗</a> **[Arstechnica]** ULA continues investigation of Centaur stage “anomaly”
 - <a href="https://spacenews.com/spacex-launches-intelsats-is-40e-high-throughput-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Intelsat’s IS-40e high throughput satellite
 - <a href="https://spacenews.com/two-recent-wargames-hold-timely-lessons-for-space-resilience/" >🔗</a> **[SpaceNews]** Two recent wargames hold timely lessons for space resilience
 - <a href="https://spacenews.com/spacex-closing-in-on-first-starship-super-heavy-launch/" >🔗</a> **[SpaceNews]** SpaceX closing in on first Starship Super Heavy launch
-- <a href="https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/" >🔗</a> **[SpaceNews]** Second Axiom Space mission to ISS scheduled for May
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T193146">2023-04-07 19:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T200623">2023-04-07 20:06:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
