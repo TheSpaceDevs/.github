@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-high-resolution-air-quality-control-instrument-launches" >🔗</a> **[NASA]** NASA’s High-Resolution Air Quality Control Instrument Launches
+- <a href="https://www.nasaspaceflight.com/2023/04/inteslat-40e-tempo/" >🔗</a> **[NASASpaceflight]** SpaceX launches Intelsat 40e with NASA’s TEMPO instrument
 - <a href="https://spacenews.com/noaa-seeks-funding-increases-for-next-generation-satellite-programs/" >🔗</a> **[SpaceNews]** NOAA seeks funding increases for next-generation satellite programs
 - <a href="https://spacenews.com/norwegian-cruise-line-plots-starlink-rollout/" >🔗</a> **[SpaceNews]** Norwegian Cruise Line plots Starlink rollout
 - <a href="https://spacenews.com/space-force-renames-greenlands-thule-air-base/" >🔗</a> **[SpaceNews]** Space Force renames Greenland’s Thule Air Base
-- <a href="https://www.nasaspaceflight.com/2023/04/starship-targeting-h2-april/" >🔗</a> **[NASASpaceflight]** Starship into final preps for launch targeting second half of April
-- <a href="https://tlpnetwork.com/news/2023/04/spacex-sets-timeline-for-inaugural-starship-flight" >🔗</a> **[The Launch Pad]** BREAKING! SpaceX Sets Timeline For Inaugural Starship Flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T053130">2023-04-07 05:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230407T060847">2023-04-07 06:08:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
