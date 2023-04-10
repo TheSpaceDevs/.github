@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/preventing-sticker-shock-with-transparent-pricing/" >🔗</a> **[SpaceNews]** Preventing sticker shock with transparent pricing
 - <a href="https://spacenews.com/connecting-the-dots-european-space-investments-get-serious/" >🔗</a> **[SpaceNews]** Connecting the Dots | European space investments get serious
 - <a href="https://arstechnica.com/science/2023/04/spacexs-starship-vehicle-is-ready-to-fly-just-waiting-for-a-launch-license/" >🔗</a> **[Arstechnica]** SpaceX’s Starship vehicle is ready to fly, just waiting for a launch license
 - <a href="https://spacenews.com/canada-proposes-to-develop-robotic-lunar-rover-for-artemis/" >🔗</a> **[SpaceNews]** Canada proposes to develop robotic lunar rover for Artemis
 - <a href="https://spacenews.com/report-recommends-allowing-learning-period-for-commercial-human-spaceflight-safety-regulations-to-expire/" >🔗</a> **[SpaceNews]** Report recommends allowing “learning period” for commercial human spaceflight safety regulations to expire
-- <a href="https://spacenews.com/northrop-grumman-developing-military-communications-satellite-for-2025-launch/" >🔗</a> **[SpaceNews]** Northrop Grumman developing military communications satellite for 2025 launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T170444">2023-04-10 17:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230410T180751">2023-04-10 18:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
