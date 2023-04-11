@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/" >🔗</a> **[SpaceNews]** Next O3b mPower satellites en route to launchpad
+- <a href="https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/" >🔗</a> **[SpaceNews]** Op-ed | Practical applications of a space mission authorization framework
+- <a href="https://spacenews.com/ball-taps-loft-and-microsoft-for-sda-next-program/" >🔗</a> **[SpaceNews]** Ball taps Loft and Microsoft for SDA NExT program
 - <a href="https://arstechnica.com/science/2023/04/lockheed-martin-makes-a-big-bet-on-commercial-space-and-the-moon/" >🔗</a> **[Arstechnica]** Lockheed Martin makes a big bet on commercial space and the Moon
 - <a href="https://spacenews.com/virgin-orbit-seeking-expedited-bankruptcy-sale/" >🔗</a> **[SpaceNews]** Virgin Orbit seeking expedited bankruptcy sale
-- <a href="https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/" >🔗</a> **[SpaceNews]** Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand
-- <a href="https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/" >🔗</a> **[SpaceNews]** China to target asteroid 2019 VL5 for 2025 planetary defense test
-- <a href="https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates" >🔗</a> **[The Launch Pad]** Rocket Lab Sets Launch Dates For TROPICS Launches
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T133133">2023-04-11 13:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T140559">2023-04-11 14:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
