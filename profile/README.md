@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-orbit-seeking-expedited-bankruptcy-sale/" >🔗</a> **[SpaceNews]** Virgin Orbit seeking expedited bankruptcy sale
+- <a href="https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/" >🔗</a> **[SpaceNews]** Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand
 - <a href="https://spacenews.com/china-to-target-asteroid-2019-vl5-for-2025-planetary-defense-test/" >🔗</a> **[SpaceNews]** China to target asteroid 2019 VL5 for 2025 planetary defense test
 - <a href="https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates" >🔗</a> **[The Launch Pad]** Rocket Lab Sets Launch Dates For TROPICS Launches
 - <a href="https://spacenews.com/report-u-s-military-satellite-antennas-overdue-for-upgrades/" >🔗</a> **[SpaceNews]** Report: U.S. military satellite antennas overdue for upgrades
-- <a href="https://spacenews.com/preventing-sticker-shock-with-transparent-pricing/" >🔗</a> **[SpaceNews]** Preventing sticker shock with transparent pricing
-- <a href="https://spacenews.com/connecting-the-dots-european-space-investments-get-serious/" >🔗</a> **[SpaceNews]** Connecting the Dots | European space investments get serious
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T113128">2023-04-11 11:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230411T121146">2023-04-11 12:11:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
