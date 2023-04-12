@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/" >🔗</a> **[Arstechnica]** Europe is about to launch one of its most ambitious missions ever
+- <a href="https://spacenews.com/inmarsat-and-mediatek-expand-direct-to-device-partnership/" >🔗</a> **[SpaceNews]** Inmarsat and MediaTek expand direct-to-device partnership
 - <a href="https://www.nasaspaceflight.com/2023/04/juice-launch/" >🔗</a> **[NASASpaceflight]** ESA set to launch JUICE to Jupiter’s icy moons atop Ariane 5
 - <a href="https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/" >🔗</a> **[SpaceNews]** Delivering Data: What customers get wrong about the ground segment
 - <a href="https://arstechnica.com/science/2023/04/relativity-space-is-moving-on-from-the-terran-1-rocket-to-something-much-bigger/" >🔗</a> **[Arstechnica]** Relativity Space is moving on from the Terran 1 rocket to something much bigger
-- <a href="https://www.cnbc.com/2023/04/12/relativity-all-in-on-terran-r-rocket-shifting-3d-printing-approach.html" >🔗</a> **[CNBC]** Relativity goes ‘all in’ on larger reusable rocket, shifting 3D-printing approach after first launch
-- <a href="https://tlpnetwork.com/news/2023/04/isro-qualifies-human-rated-vikas-engine-for-gaganyaan" >🔗</a> **[The Launch Pad]** ISRO Successfully Completes Final Long Duration Hot Fire Test of Human-Rated Vikas Engine
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T213141">2023-04-12 21:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T220538">2023-04-12 22:05:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
