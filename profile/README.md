@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/" >🔗</a> **[SpaceNews]** Delivering Data: What customers get wrong about the ground segment
+- <a href="https://arstechnica.com/science/2023/04/relativity-space-is-moving-on-from-the-terran-1-rocket-to-something-much-bigger/" >🔗</a> **[Arstechnica]** Relativity Space is moving on from the Terran 1 rocket to something much bigger
 - <a href="https://www.cnbc.com/2023/04/12/relativity-all-in-on-terran-r-rocket-shifting-3d-printing-approach.html" >🔗</a> **[CNBC]** Relativity goes ‘all in’ on larger reusable rocket, shifting 3D-printing approach after first launch
 - <a href="https://tlpnetwork.com/news/2023/04/isro-qualifies-human-rated-vikas-engine-for-gaganyaan" >🔗</a> **[The Launch Pad]** ISRO Successfully Completes Final Long Duration Hot Fire Test of Human-Rated Vikas Engine
 - <a href="https://spacenews.com/op-ed-u-s-leadership-of-cislunar-space-hinges-on-foresight-and-planning/" >🔗</a> **[SpaceNews]** Op-ed | U.S. leadership of cislunar space hinges on foresight and planning
-- <a href="https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/" >🔗</a> **[SpaceNews]** Slingshot’s space-tracking network to extend coverage of low Earth orbit
-- <a href="https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/" >🔗</a> **[SpaceNews]** Ariane 5 ready to launch ESA’s JUICE mission to Jupiter
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T143148">2023-04-12 14:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T150650">2023-04-12 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
