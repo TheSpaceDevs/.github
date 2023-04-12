@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/op-ed-u-s-leadership-of-cislunar-space-hinges-on-foresight-and-planning/" >🔗</a> **[SpaceNews]** Op-ed | U.S. leadership of cislunar space hinges on foresight and planning
+- <a href="https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/" >🔗</a> **[SpaceNews]** Slingshot’s space-tracking network to extend coverage of low Earth orbit
 - <a href="https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/" >🔗</a> **[SpaceNews]** Ariane 5 ready to launch ESA’s JUICE mission to Jupiter
 - <a href="https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/" >🔗</a> **[SpaceNews]** Space Force to propose plan to acquire high-capacity satellite communications
 - <a href="https://spacenews.com/fcc-launches-space-focused-bureau/" >🔗</a> **[SpaceNews]** FCC launches space-focused bureau
-- <a href="https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test" >🔗</a> **[The Launch Pad]** SpaceX Sets Launch Date for Starship Integrated Flight Test
-- <a href="https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/" >🔗</a> **[SpaceNews]** Next O3b mPower satellites en route to launchpad
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T121147">2023-04-12 12:11:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T124851">2023-04-12 12:48:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
