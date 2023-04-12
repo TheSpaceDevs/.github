@@ -91,7 +91,7 @@ into *a Heliocentric N/A
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-force-to-propose-plan-to-acquire-high-capacity-satellite-communications/" >🔗</a> **[SpaceNews]** Space Force to propose plan to acquire high-capacity satellite communications
 - <a href="https://spacenews.com/fcc-launches-space-focused-bureau/" >🔗</a> **[SpaceNews]** FCC launches space-focused bureau
-- <a href="https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test" >🔗</a> **[The Launch Pad]** BREAKING! SpaceX Sets Launch Date for Starship Integrated Flight Test
+- <a href="https://tlpnetwork.com/news/2023/04/spacex-sets-date-for-starship-integrated-flight-test" >🔗</a> **[The Launch Pad]** SpaceX Sets Launch Date for Starship Integrated Flight Test
 - <a href="https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/" >🔗</a> **[SpaceNews]** Next O3b mPower satellites en route to launchpad
 - <a href="https://spacenews.com/op-ed-practical-applications-of-a-space-mission-authorization-framework/" >🔗</a> **[SpaceNews]** Op-ed | Practical applications of a space mission authorization framework
 
@@ -108,7 +108,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T093157">2023-04-12 09:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T100705">2023-04-12 10:07:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
