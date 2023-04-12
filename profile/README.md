@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amid-commercial-boom-u-s-military-lacks-timely-access-to-satellite-imagery/" >🔗</a> **[SpaceNews]** Amid commercial boom, U.S. military lacks timely access to satellite imagery
 - <a href="https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/" >🔗</a> **[Arstechnica]** Europe is about to launch one of its most ambitious missions ever
 - <a href="https://spacenews.com/inmarsat-and-mediatek-expand-direct-to-device-partnership/" >🔗</a> **[SpaceNews]** Inmarsat and MediaTek expand direct-to-device partnership
 - <a href="https://www.nasaspaceflight.com/2023/04/juice-launch/" >🔗</a> **[NASASpaceflight]** ESA set to launch JUICE to Jupiter’s icy moons atop Ariane 5
 - <a href="https://spacenews.com/delivering-data-what-customers-get-wrong-about-the-ground-segment/" >🔗</a> **[SpaceNews]** Delivering Data: What customers get wrong about the ground segment
-- <a href="https://arstechnica.com/science/2023/04/relativity-space-is-moving-on-from-the-terran-1-rocket-to-something-much-bigger/" >🔗</a> **[Arstechnica]** Relativity Space is moving on from the Terran 1 rocket to something much bigger
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T223141">2023-04-12 22:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230412T230559">2023-04-12 23:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
