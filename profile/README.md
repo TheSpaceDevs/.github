@@ -106,11 +106,12 @@ into *a Heliocentric N/A
 - <a href="https://www.nasaspaceflight.com/2023/03/juice-project-manager/" >🔗</a> **[NASASpaceflight]** As launch approaches, JUICE project manager discusses trajectories and science
 - <a href="https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/" >🔗</a> **[SpaceNews]** Ariane 5 ready to launch ESA’s JUICE mission to Jupiter
 - <a href="https://www.nasaspaceflight.com/2023/04/juice-launch/" >🔗</a> **[NASASpaceflight]** ESA set to launch JUICE to Jupiter’s icy moons atop Ariane 5
+- <a href="https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/" >🔗</a> **[Arstechnica]** Europe is about to launch one of its most ambitious missions ever
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T063310">2023-04-13 06:33:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T070614">2023-04-13 07:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
