@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/04/13/investing-in-space-intelsat-signs-up-for-northrop-grumman-satellite-servicing.html" >🔗</a> **[CNBC]** Investing in Space: Intelsat signs up for Northrop Grumman satellite servicing
 - <a href="https://spacenews.com/tetra-1-begins-mission-operations/" >🔗</a> **[SpaceNews]** Space Systems Command’s Tetra-1 begins mission operations
 - <a href="https://spacenews.com/escapade-confident-in-planned-2024-new-glenn-launch/" >🔗</a> **[SpaceNews]** ESCAPADE confident in planned 2024 New Glenn launch
 - <a href="https://spacenews.com/kepler-communications-raises-92-million-for-optical-data-relay-network/" >🔗</a> **[SpaceNews]** Kepler Communications raises $92 million for optical data relay network
 - <a href="https://spacenews.com/relativity-shelves-terran-1-after-one-launch-redesigns-terran-r/" >🔗</a> **[SpaceNews]** Relativity shelves Terran 1 after one launch, redesigns Terran R
-- <a href="https://spacenews.com/amid-commercial-boom-u-s-military-lacks-timely-access-to-satellite-imagery/" >🔗</a> **[SpaceNews]** Amid commercial boom, U.S. military lacks timely access to satellite imagery
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T143135">2023-04-13 14:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T150626">2023-04-13 15:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
