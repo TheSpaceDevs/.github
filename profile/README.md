@@ -38,7 +38,7 @@ into *a Sun-Synchronous Orbit
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/" >🔗</a> **[SpaceNews]** NOAA looks to update weather satellite and ground systems
+- <a href="https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-7 to launch 51 payloads, return booster to LZ
 - <a href="https://mars.nasa.gov/news/9377/" >🔗</a> **[NASA]** NASA to Convene Mars Sample Return Review
 - <a href="https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/" >🔗</a> **[SpaceNews]** Boeing unveils WGS-11 design with new military payload
 - <a href="https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/" >🔗</a> **[SpaceNews]** Draper completes initial milestones for NASA CLPS mission
-- <a href="https://mars.nasa.gov/news/9378/" >🔗</a> **[NASA]** NASA's Curiosity Mars Rover Gets a Major Software Upgrade
-- <a href="https://www.cnbc.com/2023/04/13/investing-in-space-intelsat-signs-up-for-northrop-grumman-satellite-servicing.html" >🔗</a> **[CNBC]** Investing in Space: Intelsat signs up for Northrop Grumman satellite servicing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T203156">2023-04-13 20:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T210519">2023-04-13 21:05:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
