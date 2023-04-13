@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saltzman-space-force-has-to-better-define-relationship-with-commercial-industry/" >🔗</a> **[SpaceNews]** Saltzman: Space Force has to better define relationship with commercial industry
 - <a href="https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/" >🔗</a> **[SpaceNews]** NOAA looks to update weather satellite and ground systems
 - <a href="https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-7 to launch 51 payloads, return booster to LZ
 - <a href="https://mars.nasa.gov/news/9377/" >🔗</a> **[NASA]** NASA to Convene Mars Sample Return Review
 - <a href="https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/" >🔗</a> **[SpaceNews]** Boeing unveils WGS-11 design with new military payload
-- <a href="https://spacenews.com/draper-completes-initial-milestones-for-nasa-clps-mission/" >🔗</a> **[SpaceNews]** Draper completes initial milestones for NASA CLPS mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T213145">2023-04-13 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T220552">2023-04-13 22:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
