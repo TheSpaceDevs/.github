@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9381/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Completes 50th Flight
+- <a href="https://spacenews.com/nro-awards-contract-extensions-to-hawkeye-360-and-maxars-aurora-insight-for-radio-frequency-data/" >🔗</a> **[SpaceNews]** NRO awards contract extensions to Hawkeye 360 and Maxar’s Aurora Insight for radio-frequency data
 - <a href="https://spacenews.com/saltzman-space-force-has-to-better-define-relationship-with-commercial-industry/" >🔗</a> **[SpaceNews]** Saltzman: Space Force has to better define relationship with commercial industry
+- <a href="https://spacenews.com/kslv-2/" >🔗</a> **[SpaceNews]** South Korea’s KSLV-2 rocket set to launch May 24
 - <a href="https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/" >🔗</a> **[SpaceNews]** NOAA looks to update weather satellite and ground systems
-- <a href="https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-7 to launch 51 payloads, return booster to LZ
-- <a href="https://mars.nasa.gov/news/9377/" >🔗</a> **[NASA]** NASA to Convene Mars Sample Return Review
-- <a href="https://spacenews.com/boeing-unveils-wgs-11-design-with-new-military-payload/" >🔗</a> **[SpaceNews]** Boeing unveils WGS-11 design with new military payload
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230413T233135">2023-04-13 23:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T003202">2023-04-14 00:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
