@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/" >🔗</a> **[Arstechnica]** Green light go: SpaceX receives a launch license from the FAA for Starship
+- <a href="https://spacenews.com/orbex-ceo-resigns/" >🔗</a> **[SpaceNews]** Orbex CEO resigns
 - <a href="https://www.nasaspaceflight.com/2023/04/starship-ready-for-historic-flight/" >🔗</a> **[NASASpaceflight]** Starship ready for historic maiden flight, awaits FAA launch license
 - <a href="https://spacenews.com/aerojet-gets-215-million-to-boost-production-of-solid-rocket-motors-used-in-weapons-for-ukraine/" >🔗</a> **[SpaceNews]** Aerojet gets $215 million to boost production of solid rocket motors used in weapons for Ukraine
 - <a href="https://spacenews.com/ariane-5-launches-esas-juice-mission-to-jupiter/" >🔗</a> **[SpaceNews]** Ariane 5 launches ESA’s JUICE mission to Jupiter
-- <a href="https://spacenews.com/new-reports-explain-why-security-in-space-is-fragile/" >🔗</a> **[SpaceNews]** New reports explain why security in space is fragile
-- <a href="https://tlpnetwork.com/news/2023/04/uk-space-industry-annual-expansion" >🔗</a> **[The Launch Pad]** UK Space Industry Sees Annual Expansion
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T213144">2023-04-14 21:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T220530">2023-04-14 22:05:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
