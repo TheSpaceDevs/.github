@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/04/uk-space-industry-annual-expansion" >🔗</a> **[The Launch Pad]** UK Space Industry Sees Annual Expansion
+- <a href="https://tlpnetwork.com/news/2023/04/juice-launch" >🔗</a> **[The Launch Pad]** ESA Launches Europe's First Mission to Jupiter
+- <a href="https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/" >🔗</a> **[Arstechnica]** Europe successfully launches spacecraft toward the moons of Jupiter [Updated]
+- <a href="https://spacenews.com/the-next-battle-for-u-s-military-launch-contracts-is-about-to-begin/" >🔗</a> **[SpaceNews]** The next battle for U.S. military launch contracts is about to begin
 - <a href="https://spacenews.com/time-to-designate-space-systems-as-critical-infrastructure/" >🔗</a> **[SpaceNews]** Time to designate space systems as critical infrastructure
-- <a href="https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/" >🔗</a> **[SpaceNews]** SpaceLogistics to service Intelsat satellite after Optus life-extending mission
-- <a href="https://spacenews.com/in-navy-experiment-commercial-satellites-serve-as-key-weapons-against-drug-traffickers/" >🔗</a> **[SpaceNews]** In Navy experiment, commercial satellites serve as key weapons against drug traffickers
-- <a href="https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/" >🔗</a> **[SpaceNews]** First ispace mission ready for lunar landing as company stock starts trading
-- <a href="https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T143124">2023-04-14 14:31:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T150559">2023-04-14 15:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
