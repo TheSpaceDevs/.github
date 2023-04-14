@@ -18,33 +18,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T061000">2023-04-14 06:10:00 UTC</a>.  Until
-then, this pad will have been used for 106
-out of 715 launches from this location. The launch status is currently
+**Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a>, Kourou, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121429">2023-04-14 12:14:29 UTC</a>.  Until
+then, this pad will have been used for 116
+out of 317 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Planetary Science* and the payload will be injected
+into *a Heliocentric N/A
+(Helio-N/A)*.
 <br>
 <blockquote>
-  Transporter 7 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  JUICE is an ESA mission to study some of the Jupiter's moons: Ganymede, Callisto and Europa.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
+  <a href="https://www.google.com/maps?q=5.239,-52.768" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg"  />
   </a>
 </p>
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121429">2023-04-14 12:14:29 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)&location=Kourou, French Guiana&dates=20230414T121429Z%2F20230414T121429Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)** from Kourou, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T064700">2023-04-15 06:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230415T064700Z%2F20230415T064700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230416T012800">2023-04-16 01:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Fengyun-3G&location=Jiuquan, People&#x27;s Republic of China&dates=20230416T012800Z%2F20230416T015100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4B | Fengyun-3G** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test&location=SpaceX Space Launch Facility, TX, USA&dates=20230417T120000Z%2F20230417T150500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test** from SpaceX Space Launch Facility, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T232900">2023-04-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230418T232900Z%2F20230419T002600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
@@ -97,11 +98,20 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://sci.esa.int/web/juice/-/-5-juice-begins-to-take-shape" >🔗</a> **[ESA]** #5: JUICE begins to take shape
+- <a href="https://sci.esa.int/web/juice/-/-6-start-of-assembly-and-integration-for-juice" >🔗</a> **[ESA]** #6: Start of assembly and integration for JUICE
+- <a href="https://sci.esa.int/web/juice/-/-7-all-panels-delivered-for-juice-s-solar-wings" >🔗</a> **[ESA]** #7: All panels delivered for JUICE's solar wings
+- <a href="https://spacenews.com/europes-jupiter-bound-juice-spacecraft-is-ready-for-april-launch/" >🔗</a> **[SpaceNews]** Europe’s Jupiter-bound JUICE spacecraft is ready for April launch
+- <a href="https://www.nasaspaceflight.com/2023/03/juice-csg-arrival/" >🔗</a> **[NASASpaceflight]** JUICE arrives in French Guiana for launch, project manager outlines next steps
+- <a href="https://www.nasaspaceflight.com/2023/03/juice-project-manager/" >🔗</a> **[NASASpaceflight]** As launch approaches, JUICE project manager discusses trajectories and science
+- <a href="https://spacenews.com/ariane-5-ready-to-launch-esas-juice-mission-to-jupiter/" >🔗</a> **[SpaceNews]** Ariane 5 ready to launch ESA’s JUICE mission to Jupiter
+- <a href="https://www.nasaspaceflight.com/2023/04/juice-launch/" >🔗</a> **[NASASpaceflight]** ESA reschedules JUICE launch to Jupiter’s icy moons atop Ariane 5
+- <a href="https://arstechnica.com/science/2023/04/europe-is-about-to-launch-one-of-its-most-ambitious-missions-ever/" >🔗</a> **[Arstechnica]** Europe is about to launch one of its most ambitious missions ever
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T063322">2023-04-14 06:33:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T070553">2023-04-14 07:05:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
