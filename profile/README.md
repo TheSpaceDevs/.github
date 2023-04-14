@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/" >🔗</a> **[SpaceNews]** First ispace mission ready for lunar landing as company stock starts trading
+- <a href="https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war
 - <a href="https://mars.nasa.gov/news/9381/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Completes 50th Flight
 - <a href="https://spacenews.com/nro-awards-contract-extensions-to-hawkeye-360-and-maxars-aurora-insight-for-radio-frequency-data/" >🔗</a> **[SpaceNews]** NRO awards contract extensions to Hawkeye 360 and Maxar’s Aurora Insight for radio-frequency data
 - <a href="https://spacenews.com/saltzman-space-force-has-to-better-define-relationship-with-commercial-industry/" >🔗</a> **[SpaceNews]** Saltzman: Space Force has to better define relationship with commercial industry
-- <a href="https://spacenews.com/kslv-2/" >🔗</a> **[SpaceNews]** South Korea’s KSLV-2 rocket set to launch May 24
-- <a href="https://spacenews.com/noaa-looks-to-update-weather-satellite-and-ground-systems/" >🔗</a> **[SpaceNews]** NOAA looks to update weather satellite and ground systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T113139">2023-04-14 11:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T121124">2023-04-14 12:11:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
