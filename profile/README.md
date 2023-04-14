@@ -89,21 +89,21 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/time-to-designate-space-systems-as-critical-infrastructure/" >🔗</a> **[SpaceNews]** Time to designate space systems as critical infrastructure
 - <a href="https://spacenews.com/spacelogistics-robot-to-service-intelsat-satellite-after-optus-life-extending-mission/" >🔗</a> **[SpaceNews]** SpaceLogistics to service Intelsat satellite after Optus life-extending mission
 - <a href="https://spacenews.com/in-navy-experiment-commercial-satellites-serve-as-key-weapons-against-drug-traffickers/" >🔗</a> **[SpaceNews]** In Navy experiment, commercial satellites serve as key weapons against drug traffickers
 - <a href="https://spacenews.com/first-ispace-mission-ready-for-lunar-landing-as-company-stock-starts-trading/" >🔗</a> **[SpaceNews]** First ispace mission ready for lunar landing as company stock starts trading
 - <a href="https://arstechnica.com/science/2023/04/rocket-report-spacex-may-lease-high-bay-1-in-the-vab-china-to-fight-price-war/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX may lease High Bay 1 in the VAB; China to fight price war
-- <a href="https://mars.nasa.gov/news/9381/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Completes 50th Flight
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-7 scrubs launch of 51 payloads, return booster to LZ
+- <a href="https://www.nasaspaceflight.com/2023/04/spacex-transporter-7/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-7 scrubs launch of 51 payloads, booster return to LZ
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T130913">2023-04-14 13:09:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230414T133146">2023-04-14 13:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
