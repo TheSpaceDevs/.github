@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight" >🔗</a> **[The Launch Pad]** Ingenuity Keeps Pushing Upwards, Completes 50th Flight
+- <a href="https://spacenews.com/trustpoint-launches-pnt-cubesat/" >🔗</a> **[SpaceNews]** TrustPoint launches PNT cubesat
 - <a href="https://spacenews.com/spacex-launches-seventh-transporter-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches seventh Transporter rideshare mission
 - <a href="https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/" >🔗</a> **[SpaceNews]** FAA issues license for first Starship integrated test flight
 - <a href="http://www.nasa.gov/press-release/nasa-to-participate-in-space-symposium-discuss-moon-to-mars" >🔗</a> **[NASA]** NASA to Participate in Space Symposium, Discuss Moon to Mars
-- <a href="https://www.cnbc.com/2023/04/14/faa-clears-spacex-to-launch-starship-flight.html" >🔗</a> **[CNBC]** SpaceX cleared by FAA to launch first orbital Starship flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T213144">2023-04-15 21:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230415T220433">2023-04-15 22:04:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
