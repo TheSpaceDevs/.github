@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship ready for maiden launch attempt
 - <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** Setting expectations on the eve of Starship’s historic launch
 - <a href="https://tlpnetwork.com/news/2023/04/ingenuity-50th-flight" >🔗</a> **[The Launch Pad]** Ingenuity Keeps Pushing Upwards, Completes 50th Flight
 - <a href="https://spacenews.com/trustpoint-launches-pnt-cubesat/" >🔗</a> **[SpaceNews]** TrustPoint launches PNT cubesat
 - <a href="https://spacenews.com/spacex-launches-seventh-transporter-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches seventh Transporter rideshare mission
-- <a href="https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/" >🔗</a> **[SpaceNews]** FAA issues license for first Starship integrated test flight
 
 
 ### Launch-related News 🚀
@@ -175,7 +175,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T003318">2023-04-17 00:33:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T015839">2023-04-17 01:58:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
