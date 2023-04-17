@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX scrubs first Starship launch attempt
 - <a href="https://spacenews.com/on-national-security-satellite-imaging-industry-responds-to-demand-for-intelligence-fusion/" >🔗</a> **[SpaceNews]** On National Security | Satellite imaging industry responds to demand for intelligence fusion
 - <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** SpaceX scrubs first launch attempt of its Starship launch system [Updated]
 - <a href="https://spacenews.com/orbit-fab-raises-28-5-million/" >🔗</a> **[SpaceNews]** Orbit Fab raises $28.5 million
 - <a href="https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/" >🔗</a> **[SpaceNews]** How to rapidly produce high-volume satellite structures
-- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship ready for maiden launch attempt
 
 
 ### Launch-related News 🚀
@@ -172,12 +172,12 @@ into *a Suborbital
 - <a href="https://www.cnbc.com/2023/04/14/faa-clears-spacex-to-launch-starship-flight.html" >🔗</a> **[CNBC]** SpaceX cleared by FAA to launch first orbital Starship flight
 - <a href="https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/" >🔗</a> **[SpaceNews]** FAA issues license for first Starship integrated test flight
 - <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** SpaceX scrubs first launch attempt of its Starship launch system [Updated]
-- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship ready for maiden launch attempt
+- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship gets close, but scrubs for maiden launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T133148">2023-04-17 13:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T140618">2023-04-17 14:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
