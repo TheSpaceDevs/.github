@@ -171,11 +171,13 @@ into *a Suborbital
 - <a href="https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/" >🔗</a> **[Arstechnica]** Green light go: SpaceX receives a launch license from the FAA for Starship
 - <a href="https://www.cnbc.com/2023/04/14/faa-clears-spacex-to-launch-starship-flight.html" >🔗</a> **[CNBC]** SpaceX cleared by FAA to launch first orbital Starship flight
 - <a href="https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/" >🔗</a> **[SpaceNews]** FAA issues license for first Starship integrated test flight
+- <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** Setting expectations on the eve of Starship’s historic launch
+- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship ready for maiden launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T063459">2023-04-17 06:34:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T070630">2023-04-17 07:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
