@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crunchtime-ahead-for-victus-nox/" >🔗</a> **[SpaceNews]** Crunchtime ahead for Victus Nox
+- <a href="https://spacenews.com/options-for-achieving-tactically-responsive-space/" >🔗</a> **[SpaceNews]** Options for achieving Tactically Responsive Space
 - <a href="https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX scrubs first Starship launch attempt
 - <a href="https://spacenews.com/on-national-security-satellite-imaging-industry-responds-to-demand-for-intelligence-fusion/" >🔗</a> **[SpaceNews]** On National Security | Satellite imaging industry responds to demand for intelligence fusion
 - <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** SpaceX scrubs first launch attempt of its Starship launch system [Updated]
-- <a href="https://spacenews.com/orbit-fab-raises-28-5-million/" >🔗</a> **[SpaceNews]** Orbit Fab raises $28.5 million
-- <a href="https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/" >🔗</a> **[SpaceNews]** How to rapidly produce high-volume satellite structures
 
 
 ### Launch-related News 🚀
@@ -178,7 +178,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T153153">2023-04-17 15:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T160809">2023-04-17 16:08:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
