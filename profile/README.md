@@ -22,10 +22,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/SpaceX_South_Texas_Launch_Site">Orbital Launch Mount A</a>, SpaceX Space Launch Facility, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T120000">2023-04-17 12:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T120000">2023-04-19 12:00:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 9 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBC* 🟨 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -44,6 +44,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T120000">2023-04-19 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test&location=SpaceX Space Launch Facility, TX, USA&dates=20230419T120000Z%2F20230419T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test** from SpaceX Space Launch Facility, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230419T122800">2023-04-19 12:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-2&location=Cape Canaveral, FL, USA&dates=20230419T122800Z%2F20230419T122800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230422T084900">2023-04-22 08:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV | TeLEOS-2&location=Satish Dhawan Space Centre, India&dates=20230422T084900Z%2F20230422T084900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV | TeLEOS-2** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T232400">2023-04-24 23:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230424T232400Z%2F20230425T001800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
@@ -89,7 +90,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/on-national-security-satellite-imaging-industry-responds-to-demand-for-intelligence-fusion/" >🔗</a> **[SpaceNews]** On National Security | Satellite imaging industry responds to demand for intelligence fusion
-- <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** Watch live: SpaceX to attempt a test flight of its Starship launch system
+- <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** SpaceX scrubs first launch attempt of its Starship launch system [Updated]
 - <a href="https://spacenews.com/orbit-fab-raises-28-5-million/" >🔗</a> **[SpaceNews]** Orbit Fab raises $28.5 million
 - <a href="https://spacenews.com/how-to-rapidly-produce-high-volume-satellite-structures/" >🔗</a> **[SpaceNews]** How to rapidly produce high-volume satellite structures
 - <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship ready for maiden launch attempt
@@ -170,13 +171,13 @@ into *a Suborbital
 - <a href="https://arstechnica.com/science/2023/04/green-light-go-spacex-receives-a-launch-license-from-the-faa-for-starship/" >🔗</a> **[Arstechnica]** Green light go: SpaceX receives a launch license from the FAA for Starship
 - <a href="https://www.cnbc.com/2023/04/14/faa-clears-spacex-to-launch-starship-flight.html" >🔗</a> **[CNBC]** SpaceX cleared by FAA to launch first orbital Starship flight
 - <a href="https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/" >🔗</a> **[SpaceNews]** FAA issues license for first Starship integrated test flight
-- <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** Watch live: SpaceX to attempt a test flight of its Starship launch system
+- <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** SpaceX scrubs first launch attempt of its Starship launch system [Updated]
 - <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship ready for maiden launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T131028">2023-04-17 13:10:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230417T133148">2023-04-17 13:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
