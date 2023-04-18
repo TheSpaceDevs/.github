@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-releases-architecture-for-human-exploration-of-the-moon-and-mars/" >🔗</a> **[SpaceNews]** NASA releases architecture for human exploration of the moon and Mars
 - <a href="https://spacenews.com/maxar-secures-dish-network-order-in-its-first-satellite-contract-of-2023/" >🔗</a> **[SpaceNews]** Maxar secures Dish Network order in its first satellite contract of 2023
 - <a href="https://spacenews.com/sierra-space-and-ilc-dover-partner-on-inflatable-modules-and-spacesuits/" >🔗</a> **[SpaceNews]** Sierra Space and ILC Dover partner on inflatable modules and spacesuits
 - <a href="https://spacenews.com/u-s-spacecom-tries-to-satisfy-global-military-demand-for-satellite-services/" >🔗</a> **[SpaceNews]** U.S. SPACECOM tries to satisfy global military demand for satellite services 
 - <a href="http://www.nasa.gov/press-release/nasa-shares-first-moon-to-mars-architecture-concept-review-results" >🔗</a> **[NASA]** NASA Shares First Moon to Mars Architecture Concept Review Results
-- <a href="https://mars.nasa.gov/news/9384/" >🔗</a> **[NASA]** NASA Selects 10 Scientists for International Mission to Martian Moons
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T183229">2023-04-18 18:32:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T190436">2023-04-18 19:04:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
