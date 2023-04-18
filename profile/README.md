@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-northrop-grumman-cygnus-departure-from-station" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman Cygnus Departure from Station
+- <a href="https://arstechnica.com/science/2023/04/europes-ariane-6-rocket-is-turning-into-a-space-policy-disaster/" >🔗</a> **[Arstechnica]** Europe’s Ariane 6 rocket is turning into a space policy disaster
+- <a href="https://spacenews.com/axiom-announces-new-government-human-spaceflight-program/" >🔗</a> **[SpaceNews]** Axiom announces new government human spaceflight program
+- <a href="https://spacenews.com/inmarsat-working-to-restore-l-band-services-in-asia-pacific-after-satellite-outage/" >🔗</a> **[SpaceNews]** Inmarsat working to restore L-band services in Asia Pacific after satellite outage
 - <a href="https://spacenews.com/northrop-grumman-clears-design-hurdle-for-military-communications-satellite/" >🔗</a> **[SpaceNews]** Northrop Grumman clears design hurdle for military communications satellite
-- <a href="https://spacenews.com/esa-working-on-human-spaceflight-scenarios-for-european-space-summit/" >🔗</a> **[SpaceNews]** ESA working on human spaceflight scenarios for European space summit
-- <a href="https://spacenews.com/aws-chooses-14-startups-for-its-third-space-accelerator-program/" >🔗</a> **[SpaceNews]** AWS chooses 14 startups for its third space accelerator program
-- <a href="https://spacenews.com/export-control-update-on-the-way/" >🔗</a> **[SpaceNews]** Export control update on the way
-- <a href="https://spacenews.com/speed-and-safety-are-top-priorities-for-regulators/" >🔗</a> **[SpaceNews]** Speed and safety are top priorities for regulators
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T150733">2023-04-18 15:07:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230418T153246">2023-04-18 15:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
