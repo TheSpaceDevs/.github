@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/" >🔗</a> **[Teslarati]** SpaceX prepares for another Starship test flight attempt
 - <a href="https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/" >🔗</a> **[Arstechnica]** SpaceX to make a second attempt to launch its massive Starship rocket
 - <a href="https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/" >🔗</a> **[SpaceNews]** With a new medium rocket, Firefly plans to compete for national security launches
 - <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship set for maiden launch attempt Thursday
 - <a href="http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium" >🔗</a> **[NASA]** NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium
-- <a href="https://spacenews.com/space-investors-see-a-return-in-industry-growth-capital/" >🔗</a> **[SpaceNews]** Space investors see a return in industry growth capital
 
 
 ### Launch-related News 🚀
@@ -178,7 +178,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T103223">2023-04-20 10:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T110443">2023-04-20 11:04:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
