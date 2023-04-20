@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/" >🔗</a> **[SpaceNews]** With a new medium rocket, Firefly plans to compete for national security launches
+- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship set for maiden launch attempt Thursday
 - <a href="http://www.nasa.gov/press-release/nasa-creates-in-space-servicing-assembly-manufacturing-consortium" >🔗</a> **[NASA]** NASA Creates In-Space Servicing, Assembly, Manufacturing Consortium
 - <a href="https://spacenews.com/space-investors-see-a-return-in-industry-growth-capital/" >🔗</a> **[SpaceNews]** Space investors see a return in industry growth capital
 - <a href="https://spacenews.com/rocket-lab-to-refly-electron-engine/" >🔗</a> **[SpaceNews]** Rocket Lab to refly Electron engine
-- <a href="https://spacenews.com/space-force-chief-we-must-pivot-to-new-ways-of-doing-business/" >🔗</a> **[SpaceNews]** Space Force chief: ‘We must pivot’ to new ways of doing business
-- <a href="https://spacenews.com/air-force-secretary-to-seek-new-congressional-authorities-to-speed-up-acquisitions/" >🔗</a> **[SpaceNews]** Air Force Secretary to seek new congressional authorities to speed up acquisitions
 
 
 ### Launch-related News 🚀
@@ -172,13 +172,13 @@ into *a Suborbital
 - <a href="https://www.cnbc.com/2023/04/14/faa-clears-spacex-to-launch-starship-flight.html" >🔗</a> **[CNBC]** SpaceX cleared by FAA to launch first orbital Starship flight
 - <a href="https://spacenews.com/faa-issues-license-for-first-starship-integrated-test-flight/" >🔗</a> **[SpaceNews]** FAA issues license for first Starship integrated test flight
 - <a href="https://arstechnica.com/science/2023/04/setting-expectations-on-the-eve-of-starships-historic-launch/" >🔗</a> **[Arstechnica]** SpaceX scrubs first launch attempt of its Starship launch system [Updated]
-- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship realigns maiden launch attempt to Thursday
+- <a href="https://www.nasaspaceflight.com/2023/04/starship-maiden-launch/" >🔗</a> **[NASASpaceflight]** Starship set for maiden launch attempt Thursday
 - <a href="https://spacenews.com/spacex-scrubs-first-starship-launch-attempt/" >🔗</a> **[SpaceNews]** SpaceX scrubs first Starship launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T030638">2023-04-20 03:06:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T033201">2023-04-20 03:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
