@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/" >🔗</a> **[Teslarati]** SpaceX Starship completes first successful test flight
 - <a href="https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/" >🔗</a> **[SpaceNews]** Starship lifts off on first integrated test flight, breaks apart minutes later
 - <a href="https://spacenews.com/nasa-starts-consortium-for-isam-technologies/" >🔗</a> **[SpaceNews]** NASA starts consortium for ISAM technologies
 - <a href="https://www.teslarati.com/spacex-prepares-2nd-starship-test-flight/" >🔗</a> **[Teslarati]** SpaceX prepares for another Starship test flight attempt
-- <a href="https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/" >🔗</a> **[Arstechnica]** SpaceX to make a second attempt to launch its massive Starship rocket
-- <a href="https://spacenews.com/with-a-new-medium-rocket-firefly-plans-to-compete-for-national-security-launches/" >🔗</a> **[SpaceNews]** With a new medium rocket, Firefly plans to compete for national security launches
+- <a href="https://arstechnica.com/science/2023/04/spacex-to-make-a-second-attempt-to-launch-its-massive-starship-rocket/" >🔗</a> **[Arstechnica]** SpaceX launches its massive Starship rocket for the first time [Updated]
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T143140">2023-04-20 14:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T150614">2023-04-20 15:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
