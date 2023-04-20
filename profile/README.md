@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/04/starship-ift-anomaly" >🔗</a> **[The Launch Pad]** BREAKING! SpaceX Starship Experiences Anomaly In Flight
 - <a href="https://arstechnica.com/science/2023/04/so-what-was-that-was-starships-launch-a-failure-or-a-success/" >🔗</a> **[Arstechnica]** So what was that? Was Starship’s launch a failure or a success?
 - <a href="https://www.cnbc.com/2023/04/20/investing-in-space-spacex-starship-succeeds-in-spite-of-failure.html" >🔗</a> **[CNBC]** Investing in Space special report: Starship succeeds, in spite of failure
 - <a href="https://spacenews.com/our-pledge-to-diversify-the-space-industry-workforce-continues-open-letter/" >🔗</a> **[SpaceNews]** Our pledge to diversify the space industry workforce continues | Open Letter
 - <a href="https://www.teslarati.com/spacex-starship-completes-first-successful-test-flight/" >🔗</a> **[Teslarati]** SpaceX Starship completes first successful test flight
-- <a href="https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/" >🔗</a> **[SpaceNews]** Starship lifts off on first integrated test flight, breaks apart minutes later
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T213140">2023-04-20 21:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230420T220542">2023-04-20 22:05:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
