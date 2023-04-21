@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/swedish-astronaut-to-fly-to-iss-on-axiom-mission/" >🔗</a> **[SpaceNews]** Swedish astronaut to fly to ISS on Axiom mission
 - <a href="https://spacenews.com/inmarsat-still-trying-to-restore-satellite-phone-services-in-asia-pacific/" >🔗</a> **[SpaceNews]** Inmarsat still trying to restore satellite phone services in Asia Pacific
 - <a href="https://www.nasaspaceflight.com/2023/04/egs-launch-team-sls-lessons/" >🔗</a> **[NASASpaceflight]** EGS launch team applying first SLS launch lessons to future Artemis missions
 - <a href="https://spacenews.com/government-calls-for-greater-responsibility-by-satellite-operators/" >🔗</a> **[SpaceNews]** Government calls for greater responsibility by satellite operators
 - <a href="https://spacenews.com/leolabs-highlights-on-orbit-maneuvers/" >🔗</a> **[SpaceNews]** LeoLabs highlights on-orbit maneuvers
-- <a href="http://www.nasa.gov/press-release/pennsylvania-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** Pennsylvania Students to Hear from NASA Astronaut Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T223143">2023-04-21 22:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230421T230606">2023-04-21 23:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
