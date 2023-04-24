@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/" >🔗</a> **[SpaceNews]** Report: Space Force could benefit from commercial data to monitor satellites and debris
+- <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
 - <a href="https://spacenews.com/kmi-advertises-prices-for-debris-removal/" >🔗</a> **[SpaceNews]** KMI advertises prices for debris removal
 - <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission
 - <a href="https://www.nasaspaceflight.com/2023/04/runaway-black-hole/" >🔗</a> **[NASASpaceflight]** Using Hubble, researchers accidentally discover ejected black hole forcing star creation
-- <a href="http://www.nasa.gov/press-release/vp-harris-south-korea-president-yoon-suk-yeol-to-visit-nasa-goddard" >🔗</a> **[NASA]** VP Harris, South Korea President Yoon Suk Yeol to Visit NASA Goddard
-- <a href="https://spacenews.com/inmarsat-qa-mobile-satellite-services-coming-back-stronger-than-a-90s-trend/" >🔗</a> **[SpaceNews]** Inmarsat Q&A | Mobile satellite services coming back stronger than a ‘90s trend
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T203153">2023-04-24 20:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T210515">2023-04-24 21:05:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
