@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-orbit-completes-launcherone-investigation-as-chapter-11-bankruptcy-continues/" >🔗</a> **[SpaceNews]** Virgin Orbit completes LauncherOne investigation as Chapter 11 bankruptcy continues
 - <a href="https://www.nasaspaceflight.com/2023/04/megaconstellations-effects-on-astronomy/" >🔗</a> **[NASASpaceflight]** As megaconstellations grow, scientists become concerned with their impacts on astronomy
 - <a href="https://spacenews.com/china-may-include-helicopter-in-mars-sample-return-mission/" >🔗</a> **[SpaceNews]** China may include helicopter in Mars sample return mission
 - <a href="https://spacenews.com/astra-wins-11-5-million-contract-to-launch-military-experimental-payloads/" >🔗</a> **[SpaceNews]** Astra wins $11.5 million contract to launch military experimental payloads
 - <a href="https://spacenews.com/u-s-military-buying-ses-mpower-satcom-services-under-new-nato-agreement/" >🔗</a> **[SpaceNews]** U.S. military buying SES mPower satcom services under new NATO agreement
-- <a href="https://spacenews.com/u-s-space-force-will-be-the-first-customer-for-bluehalos-mobile-ground-station/" >🔗</a> **[SpaceNews]** U.S. Space Force will be the first customer for BlueHalo’s mobile ground station
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T003437">2023-04-24 00:34:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T020019">2023-04-24 02:00:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
