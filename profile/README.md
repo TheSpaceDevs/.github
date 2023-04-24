@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/insight/news/nasa-insight-study-provides-clearest-look-ever-at-martian-core" >🔗</a> **[NASA]** NASA InSight Study Provides Clearest Look Ever at Martian Core
 - <a href="https://spacenews.com/ursa-major-to-supply-upper-stage-engine-for-astras-new-rocket/" >🔗</a> **[SpaceNews]** Ursa Major to supply upper-stage engine for Astra’s new rocket
 - <a href="https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/" >🔗</a> **[SpaceNews]** Report: Space Force could benefit from commercial data to monitor satellites and debris
 - <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
 - <a href="https://spacenews.com/kmi-advertises-prices-for-debris-removal/" >🔗</a> **[SpaceNews]** KMI advertises prices for debris removal
-- <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T223138">2023-04-24 22:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230424T230605">2023-04-24 23:06:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
