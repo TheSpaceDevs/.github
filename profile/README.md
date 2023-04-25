@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development" >🔗</a> **[NASA]** NASA Selects 12 Companies to Collaborate on Key Technology Development
+- <a href="https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4" >🔗</a> **[The Launch Pad]** Ursa Major Engine To Be Used On Astra Rocket 4
 - <a href="https://spacenews.com/first-ispace-lunar-lander-feared-lost/" >🔗</a> **[SpaceNews]** First ispace lunar lander feared lost
 - <a href="https://mars.nasa.gov/news/9390/" >🔗</a> **[NASA]** NASA Retires Mineral Mapping Instrument on Mars Orbiter
 - <a href="https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/" >🔗</a> **[Arstechnica]** Japanese lander appears to fail just before touchdown on the Moon [Updated]
-- <a href="https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html" >🔗</a> **[CNBC]** Japanese ispace moon landing attempt falls short at ‘very end,’ CEO says
-- <a href="http://www.nasa.gov/press-release/nasa-announces-student-winners-of-power-to-explore-challenge" >🔗</a> **[NASA]** NASA Announces Student Winners of Power to Explore Challenge
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T183234">2023-04-25 18:32:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T190423">2023-04-25 19:04:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
