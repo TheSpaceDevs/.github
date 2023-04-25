@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html" >🔗</a> **[CNBC]** Watch live as Japanese ispace aims to be first company to land cargo on the moon
+- <a href="https://spacenews.com/first-ispace-lunar-lander-feared-lost/" >🔗</a> **[SpaceNews]** First ispace lunar lander feared lost
+- <a href="https://mars.nasa.gov/news/9390/" >🔗</a> **[NASA]** NASA Retires Mineral Mapping Instrument on Mars Orbiter
+- <a href="https://arstechnica.com/science/2023/04/a-japanese-company-is-about-to-attempt-a-moon-landing/" >🔗</a> **[Arstechnica]** Japanese lander appears to fail just before touchdown on the Moon [Updated]
+- <a href="https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html" >🔗</a> **[CNBC]** Japanese ispace moon landing attempt falls short at ‘very end,’ CEO says
 - <a href="http://www.nasa.gov/press-release/nasa-announces-student-winners-of-power-to-explore-challenge" >🔗</a> **[NASA]** NASA Announces Student Winners of Power to Explore Challenge
-- <a href="https://spacenews.com/connecting-the-dots-ses-intelsat-merger-would-face-uphill-regulatory-struggle/" >🔗</a> **[SpaceNews]** Connecting the Dots | SES-Intelsat merger would face uphill regulatory struggle
-- <a href="https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/" >🔗</a> **[SpaceNews]** Hydrosat collects $20 million in investment and grants
-- <a href="https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/" >🔗</a> **[SpaceNews]** Quantum Space moves up development of Ranger transfer vehicle
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T173139">2023-04-25 17:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T180751">2023-04-25 18:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
