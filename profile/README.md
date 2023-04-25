@@ -45,8 +45,8 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T134050">2023-04-26 13:40:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 3-5&location=Vandenberg SFB, CA, USA&dates=20230426T134050Z%2F20230426T134050Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 3-5** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T232400">2023-04-26 23:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230426T232400Z%2F20230427T001800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T211200">2023-04-28 21:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20230428T211200Z%2F20230428T232700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 3 & 4** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T232900">2023-04-26 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230426T232900Z%2F20230427T001800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T211200">2023-04-28 21:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20230428T211200Z%2F20230428T224000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 3 & 4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Jiuquan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA003 (VICTUS NOX)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T010000">2023-05-01 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Rocket Like A Hurricane (TROPICS-2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230501T010000Z%2F20230501T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Rocket Like A Hurricane (TROPICS-2)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -89,21 +89,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/04/25/ispace-moon-landing-watch-live.html" >🔗</a> **[CNBC]** Watch live as Japanese ispace aims to be first company to land cargo on the moon
 - <a href="http://www.nasa.gov/press-release/nasa-announces-student-winners-of-power-to-explore-challenge" >🔗</a> **[NASA]** NASA Announces Student Winners of Power to Explore Challenge
+- <a href="https://spacenews.com/connecting-the-dots-ses-intelsat-merger-would-face-uphill-regulatory-struggle/" >🔗</a> **[SpaceNews]** Connecting the Dots | SES-Intelsat merger would face uphill regulatory struggle
 - <a href="https://spacenews.com/hydrosat-collects-20-million-in-investment-and-grants/" >🔗</a> **[SpaceNews]** Hydrosat collects $20 million in investment and grants
 - <a href="https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/" >🔗</a> **[SpaceNews]** Quantum Space moves up development of Ranger transfer vehicle
-- <a href="https://www.nasaspaceflight.com/2023/04/starlink-3-5/" >🔗</a> **[NASASpaceflight]** SpaceX delays latest Starlink Group 3 deployment launch
-- <a href="https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/" >🔗</a> **[SpaceNews]** Falcon Heavy delay affects space station manifest
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
+- <a href="https://www.nasaspaceflight.com/2023/04/starlink-3-5/" >🔗</a> **[NASASpaceflight]** SpaceX delays latest Starlink Group 3 deployment launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T153154">2023-04-25 15:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T160749">2023-04-25 16:07:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
