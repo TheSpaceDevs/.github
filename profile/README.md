@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/" >🔗</a> **[Teslarati]** SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base
+- <a href="https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure 
 - <a href="https://spacenews.com/spacex-to-take-over-west-coast-launch-pad-previously-used-by-ula/" >🔗</a> **[SpaceNews]** SpaceX to take over West Coast launch pad previously used by ULA
 - <a href="http://www.nasa.gov/press-release/nasa-selects-12-companies-to-collaborate-on-key-technology-development" >🔗</a> **[NASA]** NASA Selects 12 Companies to Collaborate on Key Technology Development
 - <a href="https://tlpnetwork.com/news/2023/04/ursa-major-astra-rocket-4" >🔗</a> **[The Launch Pad]** Ursa Major Engine To Be Used On Astra Rocket 4
-- <a href="https://spacenews.com/first-ispace-lunar-lander-feared-lost/" >🔗</a> **[SpaceNews]** First ispace lunar lander feared lost
-- <a href="https://mars.nasa.gov/news/9390/" >🔗</a> **[NASA]** NASA Retires Mineral Mapping Instrument on Mars Orbiter
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T203134">2023-04-25 20:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T210512">2023-04-25 21:05:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
