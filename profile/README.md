@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quantum-space-moves-up-development-of-ranger-transfer-vehicle/" >🔗</a> **[SpaceNews]** Quantum Space moves up development of Ranger transfer vehicle
+- <a href="https://www.nasaspaceflight.com/2023/04/starlink-3-5/" >🔗</a> **[NASASpaceflight]** SpaceX resumes Starlink Group 3 deployment
 - <a href="https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/" >🔗</a> **[SpaceNews]** Falcon Heavy delay affects space station manifest
 - <a href="https://tlpnetwork.com/news/2023/04/spacex-receives-permission-to-lease-slc-6-at-vandenberg-space-force-base" >🔗</a> **[The Launch Pad]** SpaceX Receives Permission To Lease Historic SLC-6 At Vandenberg Space Force Base
 - <a href="https://mars.nasa.gov/insight/news/nasa-insight-study-provides-clearest-look-ever-at-martian-core" >🔗</a> **[NASA]** NASA InSight Study Provides Clearest Look Ever at Martian Core
-- <a href="https://spacenews.com/ursa-major-to-supply-upper-stage-engine-for-astras-new-rocket/" >🔗</a> **[SpaceNews]** Ursa Major to supply upper-stage engine for Astra’s new rocket
-- <a href="https://spacenews.com/report-space-force-could-benefit-from-commercial-data-to-monitor-satellites-and-debris/" >🔗</a> **[SpaceNews]** Report: Space Force could benefit from commercial data to monitor satellites and debris
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T113140">2023-04-25 11:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230425T121139">2023-04-25 12:11:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
