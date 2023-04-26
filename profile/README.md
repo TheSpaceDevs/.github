@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/04/after-nearly-two-years-virgin-galactics-space-plane-returns-to-the-sky/" >🔗</a> **[Arstechnica]** After nearly two years, Virgin Galactic’s space plane returns to the sky
 - <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Announces Winners of 2023 Human Exploration Rover Challenge
 - <a href="https://www.nasaspaceflight.com/2023/04/viasat-3-americas/" >🔗</a> **[NASASpaceflight]** ViaSat-3 Americas moved to Thursday for expendable Falcon Heavy launch
 - <a href="https://spacenews.com/china-to-hunt-for-earth-like-planets-with-formation-flying-telescopes/" >🔗</a> **[SpaceNews]** China to hunt for Earth-like planets with formation-flying telescopes
 - <a href="https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/" >🔗</a> **[SpaceNews]** United States and South Korea agree to enhance space cooperation
-- <a href="https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/" >🔗</a> **[SpaceNews]** X-Bow announces $60 million STRATFI agreement
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T173138">2023-04-26 17:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T180754">2023-04-26 18:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
