@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/" >🔗</a> **[SpaceNews]** X-Bow announces $60 million STRATFI agreement
 - <a href="https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Astrobotic purchases Falcon Heavy for third lunar lander mission
 - <a href="https://spacenews.com/ast-spacemobile-conducts-first-direct-to-device-voice-test/" >🔗</a> **[SpaceNews]** AST SpaceMobile conducts first direct-to-device voice test
 - <a href="https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/" >🔗</a> **[Teslarati]** SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base
 - <a href="https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure 
-- <a href="https://spacenews.com/spacex-to-take-over-west-coast-launch-pad-previously-used-by-ula/" >🔗</a> **[SpaceNews]** SpaceX to take over West Coast launch pad previously used by ULA
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T093133">2023-04-26 09:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T100653">2023-04-26 10:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
