@@ -89,22 +89,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/united-states-and-south-korea-agree-to-enhance-space-cooperation/" >🔗</a> **[SpaceNews]** United States and South Korea agree to enhance space cooperation
 - <a href="https://spacenews.com/x-bow-announces-60-million-stratfi-agreement/" >🔗</a> **[SpaceNews]** X-Bow announces $60 million STRATFI agreement
 - <a href="https://spacenews.com/astrobotic-purchases-falcon-heavy-for-third-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Astrobotic purchases Falcon Heavy for third lunar lander mission
 - <a href="https://spacenews.com/ast-spacemobile-conducts-first-direct-to-device-voice-test/" >🔗</a> **[SpaceNews]** AST SpaceMobile conducts first direct-to-device voice test
 - <a href="https://www.teslarati.com/spacex-take-over-space-launch-complex-6-vandenberg-space-force-base/" >🔗</a> **[Teslarati]** SpaceX to take over Space Launch Complex 6 at Vandenberg Space Force Base
-- <a href="https://tlpnetwork.com/news/2023/04/hakuto-r-landing-failure" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: Hakuto-R Lunar Lander Experiences Landing Failure 
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
-- <a href="https://www.nasaspaceflight.com/2023/04/starlink-3-5/" >🔗</a> **[NASASpaceflight]** SpaceX delays latest Starlink Group 3 deployment launch
+- <a href="https://www.nasaspaceflight.com/2023/04/starlink-3-5/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starlink Group 3 deployment launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T121149">2023-04-26 12:11:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T124850">2023-04-26 12:48:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
