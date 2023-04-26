@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony" >🔗</a> **[NASA]** NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony
+- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station" >🔗</a> **[NASA]** NASA Updates Coverage of Roscosmos Spacewalks at Space Station
 - <a href="https://spacenews.com/spaceshiptwo-makes-first-flight-in-nearly-two-years/" >🔗</a> **[SpaceNews]** SpaceShipTwo makes first flight in nearly two years
 - <a href="https://tlpnetwork.com/news/2023/04/vss-unity-24" >🔗</a> **[The Launch Pad]** Virgin Galactic Completes Glide Test Ahead Of Powered Flight
 - <a href="http://www.nasa.gov/press-release/nasa-experts-available-for-interviews-about-sea-and-sky-campaign" >🔗</a> **[NASA]** NASA Experts Available for Interviews About Sea and Sky Campaign
-- <a href="https://arstechnica.com/science/2023/04/after-nearly-two-years-virgin-galactics-space-plane-returns-to-the-sky/" >🔗</a> **[Arstechnica]** After nearly two years, Virgin Galactic’s space plane returns to the sky
-- <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2023-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Announces Winners of 2023 Human Exploration Rover Challenge
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T193130">2023-04-26 19:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230426T200510">2023-04-26 20:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
