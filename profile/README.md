@@ -36,10 +36,10 @@ into *a Geostationary Transfer Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
-    <img alt="launch-image" width="49%" src="cache/launch_image.png" />
+    <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
-    <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
+    <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T162545">2023-04-27 16:25:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T162819">2023-04-27 16:28:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
