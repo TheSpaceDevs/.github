@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-plans-full-reusability-for-its-super-heavy-long-march-9-rocket/" >🔗</a> **[SpaceNews]** China plans full reusability for its super heavy Long March 9 rocket
 - <a href="https://spacenews.com/fish-and-wildlife-service-documents-damage-from-starship-launch/" >🔗</a> **[SpaceNews]** Fish and Wildlife Service documents damage from Starship launch
 - <a href="https://www.nasaspaceflight.com/2023/04/spacex-slc-6-takeover/" >🔗</a> **[NASASpaceflight]** SpaceX SLC-6 takeover to mark a new chapter for a famous pad
 - <a href="https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/" >🔗</a> **[SpaceNews]** DoD weighing options to create ‘commercial space reserve’
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony" >🔗</a> **[NASA]** NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony
-- <a href="http://www.nasa.gov/press-release/nasa-updates-coverage-of-roscosmos-spacewalks-at-space-station" >🔗</a> **[NASA]** NASA Updates Coverage of Roscosmos Spacewalks at Space Station
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T113138">2023-04-27 11:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T121118">2023-04-27 12:11:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
