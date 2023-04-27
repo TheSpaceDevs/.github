@@ -36,10 +36,10 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
 
 <p float="left" align="center">
   <a href="{{ next_launch.rocket.configuration.wiki_url }}" >
-    <img alt="launch-image" height="200" src="{{ next_launch.image }}" />
+    <img alt="launch-image" width="49%" src="{{ next_launch.cached_launch_image }}" />
   </a>
   <a href="{{ next_launch.pad.map_url }}" >
-    <img alt="pad-location" height="200" src="{{ next_launch.pad.location.map_image }}"  />
+    <img alt="pad-location" width="49%" src="{{ next_launch.cached_location_image }}"  />
   </a>
 </p>
 
