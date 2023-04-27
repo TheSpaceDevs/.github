@@ -36,10 +36,10 @@ into *a Geostationary Transfer Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520heav_image_20230426123306.jpeg" />
+    <img alt="launch-image" width="49%" src="cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
+    <img alt="pad-location" width="49%" src="cache/new_pad_image.png"  />
   </a>
 </p>
 
@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/italys-post-pandemic-space-industry-boost/" >🔗</a> **[SpaceNews]** Italy’s post-pandemic space industry boost
+- <a href="https://www.teslarati.com/spacex-completes-25th-falcon-9-launch-2023-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX completes its 25th Falcon 9 launch of 2023 with latest Starlink deployment
 - <a href="https://spacenews.com/china-plans-full-reusability-for-its-super-heavy-long-march-9-rocket/" >🔗</a> **[SpaceNews]** China plans full reusability for its super heavy Long March 9 rocket
 - <a href="https://spacenews.com/fish-and-wildlife-service-documents-damage-from-starship-launch/" >🔗</a> **[SpaceNews]** Fish and Wildlife Service documents damage from Starship launch
 - <a href="https://www.nasaspaceflight.com/2023/04/spacex-slc-6-takeover/" >🔗</a> **[NASASpaceflight]** SpaceX SLC-6 takeover to mark a new chapter for a famous pad
-- <a href="https://spacenews.com/dod-weighing-options-to-create-commercial-space-reserve/" >🔗</a> **[SpaceNews]** DoD weighing options to create ‘commercial space reserve’
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-czech-republic-artemis-accords-signing-ceremony" >🔗</a> **[NASA]** NASA Sets Coverage for Czech Republic Artemis Accords Signing Ceremony
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T153202">2023-04-27 15:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T160707">2023-04-27 16:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
