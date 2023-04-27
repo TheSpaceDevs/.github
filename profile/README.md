@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/" >🔗</a> **[SpaceNews]** Chinese state-owned academy makes rocket engines available to commercial space firms
 - <a href="https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/" >🔗</a> **[SpaceNews]** Spain’s Satlantis expands into thermal imagery with UK investment
 - <a href="https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/" >🔗</a> **[SpaceNews]** Light Steering Technologies claims $1.25 million Air Force contract
 - <a href="http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank" >🔗</a> **[NASA]** Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’
 - <a href="https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/" >🔗</a> **[SpaceNews]** Raytheon rethinks strategy to compete in military satellite market
-- <a href="https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/" >🔗</a> **[SpaceNews]** Albedo wins Air Force contract to supply thermal imagery at night
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T213138">2023-04-27 21:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T220541">2023-04-27 22:05:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
