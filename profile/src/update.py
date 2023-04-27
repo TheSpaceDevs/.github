@@ -342,7 +342,8 @@ def get_readme_data():
     )
     # save new pad image
     cv2.imwrite(os.path.join(CACHE_DIR, "new_pad_image.png"), new_pad_image)
-    next_launch["cached_location_image"] = "cache/new_pad_image.png"
+    next_launch["cached_location_image"] = "profile/cache/new_pad_image.png"
+    next_launch["cached_launch_image"] = "profile/cache/launch_image.png"
     latest_news = get_latest_news()
     launch_news = get_launch_news(next_launch["id"])
     if next_launch["mission"] is None:
