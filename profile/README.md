@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank" >🔗</a> **[NASA]** Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’
 - <a href="https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/" >🔗</a> **[SpaceNews]** Raytheon rethinks strategy to compete in military satellite market
 - <a href="https://spacenews.com/albedo-wins-air-force-contract-to-supply-thermal-imagery-at-night/" >🔗</a> **[SpaceNews]** Albedo wins Air Force contract to supply thermal imagery at night
 - <a href="https://spacenews.com/italys-post-pandemic-space-industry-boost/" >🔗</a> **[SpaceNews]** Italy’s post-pandemic space industry boost
 - <a href="https://www.teslarati.com/spacex-completes-25th-falcon-9-launch-2023-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX completes its 25th Falcon 9 launch of 2023 with latest Starlink deployment
-- <a href="https://spacenews.com/china-plans-full-reusability-for-its-super-heavy-long-march-9-rocket/" >🔗</a> **[SpaceNews]** China plans full reusability for its super heavy Long March 9 rocket
 
 
 ### Launch-related News 🚀
@@ -109,12 +109,12 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
 - <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
 - <a href="https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/" >🔗</a> **[SpaceNews]** Falcon Heavy delay affects space station manifest
-- <a href="https://www.nasaspaceflight.com/2023/04/viasat-3-americas/" >🔗</a> **[NASASpaceflight]** ViaSat-3 Americas moved to Thursday for expendable Falcon Heavy launch
+- <a href="https://www.nasaspaceflight.com/2023/04/viasat-3-americas/" >🔗</a> **[NASASpaceflight]** ViaSat-3 Americas set for expendable Falcon Heavy launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T183223">2023-04-27 18:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T190400">2023-04-27 19:04:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
