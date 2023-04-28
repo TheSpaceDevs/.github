@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-exotrail-win-satellite-propulsion-orders/" >🔗</a> **[SpaceNews]** Astra, Exotrail win satellite propulsion orders
+- <a href="https://www.teslarati.com/falcon-heavy-falcon-9-double-header-launch-weather-spoiler/" >🔗</a> **[Teslarati]** SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler
 - <a href="https://spacenews.com/spaceport-cornwall-expands-facilities-following-virgin-orbit-failure/" >🔗</a> **[SpaceNews]** Spaceport Cornwall expands facilities following Virgin Orbit failure
 - <a href="https://www.nasaspaceflight.com/2023/04/o3b-mpower-3-4/" >🔗</a> **[NASASpaceflight]** SpaceX to launch O3b mPOWER 3 & 4 mission from Florida
 - <a href="https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/" >🔗</a> **[Arstechnica]** Europe’s major new interplanetary spacecraft has a slight problem
-- <a href="https://arstechnica.com/science/2023/04/rocket-report-feds-assess-starship-fallout-sweden-accidentally-bombs-norway/" >🔗</a> **[Arstechnica]** Rocket Report: Feds assess Starship fallout; Sweden accidentally bombs Norway
-- <a href="https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/" >🔗</a> **[SpaceNews]** China to establish organization to coordinate international moon base
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T193147">2023-04-28 19:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T200640">2023-04-28 20:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
