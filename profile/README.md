@@ -45,7 +45,7 @@ into *a Medium Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T211200">2023-04-28 21:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20230428T211200Z%2F20230428T224000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 3 & 4** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T232900">2023-04-28 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230428T232900Z%2F20230429T002600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T232900">2023-04-28 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 Americas&location=Kennedy Space Center, FL, USA&dates=20230428T232900Z%2F20230429T002600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 Americas** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T000000">2023-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230430T000000Z%2F20230430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA003 (VICTUS NOX)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T010000">2023-05-01 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Rocket Like A Hurricane (TROPICS-2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230501T010000Z%2F20230501T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Rocket Like A Hurricane (TROPICS-2)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T081000">2023-05-02 08:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-6&location=Cape Canaveral, FL, USA&dates=20230502T081000Z%2F20230502T125000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-6** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/04/cz-9-update/" >🔗</a> **[NASASpaceflight]** How Chang Zheng 9 arrived at the “Starship-like” design
+- <a href="https://spacenews.com/russia-commits-to-iss-extension-to-2028/" >🔗</a> **[SpaceNews]** Russia commits to ISS extension to 2028
 - <a href="https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/" >🔗</a> **[SpaceNews]** Chinese state-owned academy makes rocket engines available to commercial space firms
 - <a href="https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/" >🔗</a> **[SpaceNews]** Spain’s Satlantis expands into thermal imagery with UK investment
 - <a href="https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/" >🔗</a> **[SpaceNews]** Light Steering Technologies claims $1.25 million Air Force contract
-- <a href="http://www.nasa.gov/press-release/entrepreneurs-to-pitch-ideas-for-future-in-nasa-space-tank" >🔗</a> **[NASA]** Entrepreneurs to Pitch Ideas for Future in NASA ‘Space Tank’
-- <a href="https://spacenews.com/raytheon-rethinks-strategy-to-compete-in-military-satellite-market/" >🔗</a> **[SpaceNews]** Raytheon rethinks strategy to compete in military satellite market
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230427T233154">2023-04-27 23:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T003450">2023-04-28 00:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
