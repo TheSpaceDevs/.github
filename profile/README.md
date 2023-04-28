@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/" >🔗</a> **[SpaceNews]** Nelson expects SpaceX to be ready for next Starship launch within months
 - <a href="https://www.nasaspaceflight.com/2023/04/cz-9-update/" >🔗</a> **[NASASpaceflight]** How Chang Zheng 9 arrived at the “Starship-like” design
 - <a href="https://spacenews.com/russia-commits-to-iss-extension-to-2028/" >🔗</a> **[SpaceNews]** Russia commits to ISS extension to 2028
 - <a href="https://spacenews.com/chinese-state-owned-academy-makes-rocket-engines-available-to-commercial-space-firms/" >🔗</a> **[SpaceNews]** Chinese state-owned academy makes rocket engines available to commercial space firms
 - <a href="https://spacenews.com/spains-satlantis-expands-into-thermal-imagery-with-uk-investment/" >🔗</a> **[SpaceNews]** Spain’s Satlantis expands into thermal imagery with UK investment
-- <a href="https://spacenews.com/light-steering-technologies-claims-1-25-million-air-force-contract/" >🔗</a> **[SpaceNews]** Light Steering Technologies claims $1.25 million Air Force contract
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T033158">2023-04-28 03:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T040735">2023-04-28 04:07:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
