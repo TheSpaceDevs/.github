@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | O3b mPower 3 & 4**. It is scheduled to be launched by *SpaceX*
+**Falcon Heavy | ViaSat-3 Americas**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T211200">2023-04-28 21:12:00 UTC</a>.  Until
-then, this pad will have been used for 177
-out of 883 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T232900">2023-04-28 23:29:00 UTC</a>.  Until
+then, this pad will have been used for 159
+out of 217 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  Third and fourth of a constellation of eleven high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES.
+  The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +53,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T233400">2023-05-17 23:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 2&location=Kennedy Space Center, FL, USA&dates=20230517T233400Z%2F20230517T233400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T032000">2023-05-22 03:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BADR-8&location=Cape Canaveral, FL, USA&dates=20230522T032000Z%2F20230522T032000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | BADR-8** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T000000">2023-05-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-23 (84P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230524T000000Z%2F20230524T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-23 (84P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T085400">2023-05-24 08:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230524T085400Z%2F20230524T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | NEXTSat-2 & SNIPE** from Naro Space Center, South Korea.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -97,13 +98,23 @@ into *a Medium Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/next-o3b-mpower-satellites-en-route-to-launchpad/" >🔗</a> **[SpaceNews]** Next O3b mPower satellites en route to launchpad
+- <a href="https://spacenews.com/next-commercial-falcon-heavy-mission-to-launch-debut-astranis-satellite/" >🔗</a> **[SpaceNews]** Next commercial Falcon Heavy mission to launch debut Astranis satellite
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-first-commercial-rideshare-payload/" >🔗</a> **[Teslarati]** SpaceX’s next commercial Falcon Heavy launch to carry Astranis rideshare satellite
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-five-launches-2022/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket is scheduled to launch five times next year
+- <a href="https://spacenews.com/first-viasat-3-pushing-through-pandemic-challenges-for-2022-launch/" >🔗</a> **[SpaceNews]** First ViaSat-3 pushing through pandemic challenges for 2022 launch
+- <a href="https://spacenews.com/lack-of-critical-skilled-workers-delays-first-viasat-3-launch-to-late-summer/" >🔗</a> **[SpaceNews]** Lack of critical skilled workers delays first ViaSat-3 launch to late summer
+- <a href="https://spacenews.com/second-viasat-3-payload-arrives-in-california-for-integration/" >🔗</a> **[SpaceNews]** Second ViaSat-3 payload arrives in California for integration
+- <a href="https://spacenews.com/first-viasat-3-enters-environmental-testing/" >🔗</a> **[SpaceNews]** First ViaSat-3 enters environmental testing
+- <a href="https://spacenews.com/viasat-3s-falcon-heavy-launch-slips-into-early-2023/" >🔗</a> **[SpaceNews]** ViaSat-3’s Falcon Heavy launch slips into early 2023
+- <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
 - <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
+- <a href="https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/" >🔗</a> **[SpaceNews]** Falcon Heavy delay affects space station manifest
+- <a href="https://www.nasaspaceflight.com/2023/04/viasat-3-americas/" >🔗</a> **[NASASpaceflight]** ViaSat-3 Americas hoping for Friday ride on expendable Falcon Heavy launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T223139">2023-04-28 22:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T230631">2023-04-28 23:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
