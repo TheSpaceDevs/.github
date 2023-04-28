@@ -92,8 +92,8 @@ into *a Medium Earth Orbit
 - <a href="https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/" >🔗</a> **[Arstechnica]** Europe’s major new interplanetary spacecraft has a slight problem
 - <a href="https://arstechnica.com/science/2023/04/rocket-report-feds-assess-starship-fallout-sweden-accidentally-bombs-norway/" >🔗</a> **[Arstechnica]** Rocket Report: Feds assess Starship fallout; Sweden accidentally bombs Norway
 - <a href="https://spacenews.com/china-to-establish-organization-to-coordinate-international-moon-base/" >🔗</a> **[SpaceNews]** China to establish organization to coordinate international moon base
+- <a href="https://spacenews.com/download-the-2023-space-symposium-daily/" >🔗</a> **[SpaceNews]** Download the 2023 Space Symposium Daily
 - <a href="https://spacenews.com/nelson-expects-spacex-to-be-ready-for-next-starship-launch-within-months/" >🔗</a> **[SpaceNews]** Nelson expects SpaceX to be ready for next Starship launch within months
-- <a href="https://www.nasaspaceflight.com/2023/04/cz-9-update/" >🔗</a> **[NASASpaceflight]** How Chang Zheng 9 arrived at the “Starship-like” design
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T163441">2023-04-28 16:34:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230428T170441">2023-04-28 17:04:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
