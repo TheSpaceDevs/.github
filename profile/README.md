@@ -91,7 +91,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second set of O3b mPower satellites
+- <a href="https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second pair of O3b mPower satellites
 - <a href="https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/" >🔗</a> **[NASASpaceflight]** As JUICE struggles with antenna deployment, program manager highlights status of the mission
 - <a href="https://spacenews.com/orienspace-of-china-targets-first-launch-in-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Orienspace of China targets first launch in second half of the year
 - <a href="https://spacenews.com/air-force-navigation-satellite-experiment-applying-lessons-from-gps/" >🔗</a> **[SpaceNews]** Air Force navigation satellite experiment applying lessons from GPS
@@ -116,7 +116,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T030635">2023-04-29 03:06:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230429T033159">2023-04-29 03:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
