@@ -91,11 +91,11 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/" >🔗</a> **[SpaceNews]** Musk predicts next Starship launch in a “couple months”
+- <a href="https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html" >🔗</a> **[CNBC]** SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit
 - <a href="https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html" >🔗</a> **[CNBC]** What’s next for SpaceX’s Starship after a dramatic first launch
 - <a href="https://spacenews.com/spacex-launches-second-set-of-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second pair of O3b mPower satellites
 - <a href="https://www.nasaspaceflight.com/2023/04/juice-status-post-launch/" >🔗</a> **[NASASpaceflight]** As JUICE struggles with antenna deployment, program manager highlights status of the mission
-- <a href="https://spacenews.com/orienspace-of-china-targets-first-launch-in-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Orienspace of China targets first launch in second half of the year
-- <a href="https://spacenews.com/air-force-navigation-satellite-experiment-applying-lessons-from-gps/" >🔗</a> **[SpaceNews]** Air Force navigation satellite experiment applying lessons from GPS
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T003704">2023-04-30 00:37:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T020023">2023-04-30 02:00:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
