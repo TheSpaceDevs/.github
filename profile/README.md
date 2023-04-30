@@ -91,11 +91,11 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-launch-multiple-delays/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy tonight after multiple delays
 - <a href="https://tlpnetwork.com/news/2023/04/cornwall-ssof-center" >🔗</a> **[The Launch Pad]** Spaceport Cornwall Opens A New Satellite Center
 - <a href="https://tlpnetwork.com/news/2023/04/starship-ift-postlaunch-update" >🔗</a> **[The Launch Pad]** Elon Musk Gives Update on Failed Starship Launch, Expected To Spend $2B This Year
 - <a href="https://spacenews.com/musk-predicts-next-starship-launch-in-a-couple-months/" >🔗</a> **[SpaceNews]** Musk predicts next Starship launch in a “couple months”
 - <a href="https://www.cnbc.com/2023/04/29/elon-musk-spacexs-starship-costing-about-2-billion-this-year.html" >🔗</a> **[CNBC]** SpaceX to spend about $2 billion on Starship this year, as Elon Musk pushes to reach orbit
-- <a href="https://www.cnbc.com/2023/04/29/spacex-starship-whats-next.html" >🔗</a> **[CNBC]** What’s next for SpaceX’s Starship after a dramatic first launch
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T183145">2023-04-30 18:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T190323">2023-04-30 19:03:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
