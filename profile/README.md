@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lawmakers-raise-concerns-about-new-plan-to-procure-national-security-launch-services/" >🔗</a> **[SpaceNews]** Lawmakers raise concerns about new plan to procure national security launch services
+- <a href="https://tlpnetwork.com/news/2023/05/faa-sued-over-spacex-starship-launch-license" >🔗</a> **[The Launch Pad]** BREAKING! FAA Sued Over SpaceX Starship Launch License
 - <a href="https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/" >🔗</a> **[Arstechnica]** Elon Musk provides detailed review of Starship’s first launch—and what’s next
 - <a href="https://www.reuters.com/technology/space/environmentalists-sue-faa-over-spacex-launch-license-texas-2023-05-01/" >🔗</a> **[Reuters]** Environmentalists sue FAA over SpaceX launch license for Texas
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-launches-after-delays/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy successfully brings 3 satellites to orbit after delays
-- <a href="https://spacenews.com/esa-troubleshooting-juice-radar-antenna/" >🔗</a> **[SpaceNews]** ESA troubleshooting JUICE radar antenna
-- <a href="https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/" >🔗</a> **[SpaceNews]** SpaceX Falcon Heavy launches first ViaSat-3 satellite
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T183146">2023-05-01 18:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T190407">2023-05-01 19:04:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
