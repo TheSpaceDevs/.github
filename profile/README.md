@@ -18,29 +18,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon Heavy | ViaSat-3 Americas & Others**. It is scheduled to be launched by *SpaceX*
+**Electron | Rocket Like A Hurricane (TROPICS-2)**. It is scheduled to be launched by *Rocket Lab Ltd*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T232900">2023-04-30 23:29:00 UTC</a>.  Until
-then, this pad will have been used for 159
-out of 217 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T010000">2023-05-03 01:00:00 UTC</a>.  Until
+then, this pad will have been used for 7
+out of 33 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Earth Science* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.
+  Third and fourth operational (TROPICS-04 & TROPICS-05) satellites for NASA's Time-Resolved Observations of Precipitation Structure and Storm Intensity with a Constellation of SmallSats (TROPICS) mission.
 
-Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Space’s GS-1 satellite.
+The CubeSats are designed to provide rapid-refresh microwave measurements that can be used to determine temperature, pressure, and humidity inside hurricanes as they form and evolve.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T000000">2023-05-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-23 (84P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230524T000000Z%2F20230524T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-23 (84P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T085400">2023-05-24 08:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | NEXTSat-2 &amp; SNIPE&location=Naro Space Center, South Korea&dates=20230524T085400Z%2F20230524T095400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | NEXTSat-2 & SNIPE** from Naro Space Center, South Korea.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230527T000000">2023-05-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kondor-FKA No.1&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230527T000000Z%2F20230527T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kondor-FKA No.1** from Vostochny Cosmodrome, Siberia, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T000000">2023-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230531T000000Z%2F20230531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,24 +100,18 @@ Also onboard this mission is Astranis's first MicroGEO satellite and Gravity Spa
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/next-commercial-falcon-heavy-mission-to-launch-debut-astranis-satellite/" >🔗</a> **[SpaceNews]** Next commercial Falcon Heavy mission to launch debut Astranis satellite
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-first-commercial-rideshare-payload/" >🔗</a> **[Teslarati]** SpaceX’s next commercial Falcon Heavy launch to carry Astranis rideshare satellite
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-five-launches-2022/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket is scheduled to launch five times next year
-- <a href="https://spacenews.com/first-viasat-3-pushing-through-pandemic-challenges-for-2022-launch/" >🔗</a> **[SpaceNews]** First ViaSat-3 pushing through pandemic challenges for 2022 launch
-- <a href="https://spacenews.com/lack-of-critical-skilled-workers-delays-first-viasat-3-launch-to-late-summer/" >🔗</a> **[SpaceNews]** Lack of critical skilled workers delays first ViaSat-3 launch to late summer
-- <a href="https://spacenews.com/second-viasat-3-payload-arrives-in-california-for-integration/" >🔗</a> **[SpaceNews]** Second ViaSat-3 payload arrives in California for integration
-- <a href="https://spacenews.com/first-viasat-3-enters-environmental-testing/" >🔗</a> **[SpaceNews]** First ViaSat-3 enters environmental testing
-- <a href="https://spacenews.com/viasat-3s-falcon-heavy-launch-slips-into-early-2023/" >🔗</a> **[SpaceNews]** ViaSat-3’s Falcon Heavy launch slips into early 2023
-- <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
-- <a href="https://www.teslarati.com/spacex-aims-launch-falcon-heavy-two-falcon-9-rockets/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy and two Falcon 9 rockets this week
-- <a href="https://spacenews.com/falcon-heavy-delay-affects-space-station-manifest/" >🔗</a> **[SpaceNews]** Falcon Heavy delay affects space station manifest
-- <a href="https://www.nasaspaceflight.com/2023/04/viasat-3-americas/" >🔗</a> **[NASASpaceflight]** ViaSat-3 Americas realigns to Sunday for expendable Falcon Heavy launch
-- <a href="https://www.teslarati.com/falcon-heavy-falcon-9-double-header-launch-weather-spoiler/" >🔗</a> **[Teslarati]** SpaceX prepares for Falcon and Falcon 9 double header, weather may play spoiler
+- <a href="http://www.nasa.gov/press-release/nasa-awards-launch-service-contract-for-tropics-mission-to-study-storm-processes" >🔗</a> **[NASA]** NASA Awards Launch Service Contract for TROPICS Mission to Study Storm Processes
+- <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
+- <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-task-order-for-tropics-cubesats-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Task Order for TROPICS CubeSats Mission
+- <a href="https://spacenews.com/rocket-lab-to-launch-remaining-nasa-tropics-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch remaining NASA TROPICS satellites
+- <a href="https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates" >🔗</a> **[The Launch Pad]** Rocket Lab Sets Launch Dates For TROPICS Launches
+- <a href="https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/" >🔗</a> **[SpaceNews]** Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand
+- <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230430T233140">2023-04-30 23:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T003532">2023-05-01 00:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
