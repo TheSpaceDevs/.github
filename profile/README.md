@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/05/elon-musk-provides-detailed-review-of-starships-first-launch-and-whats-next/" >🔗</a> **[Arstechnica]** Elon Musk provides detailed review of Starship’s first launch—and what’s next
+- <a href="https://www.reuters.com/technology/space/environmentalists-sue-faa-over-spacex-launch-license-texas-2023-05-01/" >🔗</a> **[Reuters]** Environmentalists sue FAA over SpaceX launch license for Texas
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-launches-after-delays/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy successfully brings 3 satellites to orbit after delays
 - <a href="https://spacenews.com/esa-troubleshooting-juice-radar-antenna/" >🔗</a> **[SpaceNews]** ESA troubleshooting JUICE radar antenna
 - <a href="https://spacenews.com/spacex-falcon-heavy-launches-first-viasat-3-satellite/" >🔗</a> **[SpaceNews]** SpaceX Falcon Heavy launches first ViaSat-3 satellite
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-launch-multiple-delays/" >🔗</a> **[Teslarati]** SpaceX aims to launch Falcon Heavy tonight after multiple delays
-- <a href="https://tlpnetwork.com/news/2023/04/cornwall-ssof-center" >🔗</a> **[The Launch Pad]** Spaceport Cornwall Opens A New Satellite Center
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T173157">2023-05-01 17:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230501T180749">2023-05-01 18:07:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
