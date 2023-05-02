@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/" >🔗</a> **[SpaceNews]** Air Force to launch Link 16 tactical communications cubesat
 - <a href="https://spacenews.com/satellite-manufacturer-leostella-focused-on-defense-market-as-commercial-demand-softens/" >🔗</a> **[SpaceNews]** Satellite manufacturer LeoStella focused on defense market as commercial demand softens
 - <a href="https://spacenews.com/european-space-giants-join-forces-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** European space giants join forces for IRIS²
 - <a href="https://www.nasaspaceflight.com/2023/05/artemis-ii-update/" >🔗</a> **[NASASpaceflight]** Artemis II Moon mission transitioning from planning to preparation
 - <a href="https://arstechnica.com/science/2023/05/rocket-lab-hitting-its-stride-with-high-cadence-new-venture-for-electron/" >🔗</a> **[Arstechnica]** Rocket Lab hitting its stride with high cadence, new venture for Electron
-- <a href="https://spacenews.com/african-space-agencies-have-the-potential-to-lead-the-global-space-race/" >🔗</a> **[SpaceNews]** African space agencies have the potential to lead the global space race
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T223144">2023-05-02 22:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230502T230508">2023-05-02 23:05:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
