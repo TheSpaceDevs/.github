@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2023/05/musk-orbital-goal-starship-debut/" >🔗</a> **[NASASpaceflight]** Elon Musk pushes for Orbital Goal following data gathering objectives during Starship debut
+- <a href="https://spacenews.com/pe-firm-closes-6-4-billion-deal-to-acquire-maxar-technologies/" >🔗</a> **[SpaceNews]** Private equity firm closes $6.4 billion deal to acquire Maxar Technologies
+- <a href="https://spacenews.com/nasa-awards-contracts-for-noaa-coronagraph-studies/" >🔗</a> **[SpaceNews]** NASA awards contracts for NOAA coronagraph studies
+- <a href="https://www.nasaspaceflight.com/2023/05/musk-orbital-goal-starship-debut/" >🔗</a> **[NASASpaceflight]** Elon Musk pushes for orbital goal following data gathering objectives during Starship debut
 - <a href="http://www.nasa.gov/press-release/nasa-welcomes-czech-foreign-minister-for-artemis-accords-signing" >🔗</a> **[NASA]** NASA Welcomes Czech Foreign Minister for Artemis Accords Signing
 - <a href="https://arstechnica.com/science/2023/05/europes-major-satellite-players-line-up-to-build-starlink-competitor/" >🔗</a> **[Arstechnica]** Europe’s major satellite players line up to build Starlink competitor
-- <a href="https://spacenews.com/lockheed-raytheon-to-develop-ground-systems-for-nuclear-hardened-satellite-communications/" >🔗</a> **[SpaceNews]** Lockheed, Raytheon to develop ground systems for nuclear-hardened satellite communications
-- <a href="https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/" >🔗</a> **[Teslarati]** SpaceX removes 1 TB fair use system for Starlink “Standard” service plan
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T173146">2023-05-03 17:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T180727">2023-05-03 18:07:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
