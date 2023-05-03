@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/" >🔗</a> **[Teslarati]** SpaceX removes 1 TB fair use system for Starlink “Standard” service plan
 - <a href="https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/" >🔗</a> **[SpaceNews]** Plutonium availability constrains plans for future planetary missions
 - <a href="https://spacenews.com/tttech-secure-networking-for-safety-critical-space-systems/" >🔗</a> **[SpaceNews]** TTTech: Secure networking for safety-critical space systems
 - <a href="https://spacenews.com/artemis-1-cubesat-nearing-end-of-mission/" >🔗</a> **[SpaceNews]** Artemis 1 cubesat nearing end of mission
 - <a href="https://www.teslarati.com/spacex-amazing-fairing-re-entry-video/" >🔗</a> **[Teslarati]** SpaceX shares amazing fairing re-entry video
-- <a href="https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/" >🔗</a> **[SpaceNews]** Air Force to launch Link 16 tactical communications cubesat
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T113147">2023-05-03 11:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T121142">2023-05-03 12:11:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
