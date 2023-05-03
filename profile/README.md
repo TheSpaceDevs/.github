@@ -31,7 +31,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 56 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/" >🔗</a> **[SpaceNews]** Plutonium availability constrains plans for future planetary missions
 - <a href="https://spacenews.com/tttech-secure-networking-for-safety-critical-space-systems/" >🔗</a> **[SpaceNews]** TTTech: Secure networking for safety-critical space systems
 - <a href="https://spacenews.com/artemis-1-cubesat-nearing-end-of-mission/" >🔗</a> **[SpaceNews]** Artemis 1 cubesat nearing end of mission
 - <a href="https://www.teslarati.com/spacex-amazing-fairing-re-entry-video/" >🔗</a> **[Teslarati]** SpaceX shares amazing fairing re-entry video
 - <a href="https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/" >🔗</a> **[SpaceNews]** Air Force to launch Link 16 tactical communications cubesat
-- <a href="https://spacenews.com/satellite-manufacturer-leostella-focused-on-defense-market-as-commercial-demand-softens/" >🔗</a> **[SpaceNews]** Satellite manufacturer LeoStella focused on defense market as commercial demand softens
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T103140">2023-05-03 10:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T110441">2023-05-03 11:04:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
