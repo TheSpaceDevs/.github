@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-welcomes-czech-foreign-minister-for-artemis-accords-signing" >🔗</a> **[NASA]** NASA Welcomes Czech Foreign Minister for Artemis Accords Signing
+- <a href="https://arstechnica.com/science/2023/05/europes-major-satellite-players-line-up-to-build-starlink-competitor/" >🔗</a> **[Arstechnica]** Europe’s major satellite players line up to build Starlink competitor
 - <a href="https://spacenews.com/lockheed-raytheon-to-develop-ground-systems-for-nuclear-hardened-satellite-communications/" >🔗</a> **[SpaceNews]** Lockheed, Raytheon to develop ground systems for nuclear-hardened satellite communications
 - <a href="https://www.teslarati.com/spacex-removes-1tb-fair-use-starlink-standard-plan/" >🔗</a> **[Teslarati]** SpaceX removes 1 TB fair use system for Starlink “Standard” service plan
 - <a href="https://spacenews.com/plutonium-availability-constrains-plans-for-future-planetary-missions/" >🔗</a> **[SpaceNews]** Plutonium availability constrains plans for future planetary missions
-- <a href="https://spacenews.com/tttech-secure-networking-for-safety-critical-space-systems/" >🔗</a> **[SpaceNews]** TTTech: Secure networking for safety-critical space systems
-- <a href="https://spacenews.com/artemis-1-cubesat-nearing-end-of-mission/" >🔗</a> **[SpaceNews]** Artemis 1 cubesat nearing end of mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T153150">2023-05-03 15:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230503T160731">2023-05-03 16:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
