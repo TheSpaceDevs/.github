@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seraphim-picks-startups-for-eleventh-accelerator-program/" >🔗</a> **[SpaceNews]** Seraphim picks startups for eleventh accelerator program
 - <a href="https://spacenews.com/czech-republic-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Czech Republic signs Artemis Accords
 - <a href="https://spacenews.com/pe-firm-closes-6-4-billion-deal-to-acquire-maxar-technologies/" >🔗</a> **[SpaceNews]** Private equity firm closes $6.4 billion deal to acquire Maxar Technologies
 - <a href="https://spacenews.com/nasa-awards-contracts-for-noaa-coronagraph-studies/" >🔗</a> **[SpaceNews]** NASA awards contracts for NOAA coronagraph studies
 - <a href="https://www.nasaspaceflight.com/2023/05/musk-orbital-goal-starship-debut/" >🔗</a> **[NASASpaceflight]** Elon Musk pushes for orbital goal following data gathering objectives during Starship debut
-- <a href="http://www.nasa.gov/press-release/nasa-welcomes-czech-foreign-minister-for-artemis-accords-signing" >🔗</a> **[NASA]** NASA Welcomes Czech Foreign Minister for Artemis Accords Signing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T053139">2023-05-04 05:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230504T060827">2023-05-04 06:08:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
