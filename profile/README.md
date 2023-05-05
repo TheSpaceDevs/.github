@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/" >🔗</a> **[Arstechnica]** Scientists say they have found more moons with oceans in the Solar System
 - <a href="https://spacenews.com/dod-spending-on-commercial-space-services-negligible-despite-growing-space-force-budget/" >🔗</a> **[SpaceNews]** DoD spending on commercial space services negligible, despite growing Space Force budget
 - <a href="https://spacenews.com/society-and-technology-the-space-observing-imperative/" >🔗</a> **[SpaceNews]** Society and Technology: The Space Observing Imperative
 - <a href="https://spacenews.com/blacksky-seeks-to-extend-operations-of-satellites-running-on-empty/" >🔗</a> **[SpaceNews]** BlackSky seeks to extend operations of satellites running on empty
 - <a href="https://arstechnica.com/science/2023/05/rocket-report-china-selling-reusable-engines-can-spacex-still-raise-money/" >🔗</a> **[Arstechnica]** Rocket Report: China selling reusable engines; can SpaceX still raise money?
-- <a href="https://tlpnetwork.com/news/2023/05/spaceport-sutherland-ground-breaking" >🔗</a> **[The Launch Pad]** Orbex Breaks Ground On UK Mainland's First Vertical Launch Facility
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T153147">2023-05-05 15:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T160755">2023-05-05 16:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
