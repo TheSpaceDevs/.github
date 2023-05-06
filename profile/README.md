@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/starlink-hits-subscriber-milestone/" >🔗</a> **[Teslarati]** Starlink hits incredible subscriber milestone as potential IPO looms
 - <a href="https://www.cnbc.com/2023/05/06/firefly-launching-space-force-high-speed-victus-nox-mission.html" >🔗</a> **[CNBC]** Rocket builder Firefly takes on high-speed Space Force mission for crucial next launch
 - <a href="https://www.nasaspaceflight.com/2023/05/star-destroys-planet/" >🔗</a> **[NASASpaceflight]** With help from NEOWISE, astronomers observe giant star destroying planet for the first time
 - <a href="https://spacenews.com/saic-signs-another-commercial-partner-for-its-small-satellite-business/" >🔗</a> **[SpaceNews]** SAIC signs another commercial partner for its small satellite business
 - <a href="https://www.nasaspaceflight.com/2023/05/evas-may-2023/" >🔗</a> **[NASASpaceflight]** US, Russian EVAs install upgrades and make history aboard ISS
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Next SpaceX Resupply Launch to Space Station
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T163421">2023-05-06 16:34:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T170400">2023-05-06 17:04:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
