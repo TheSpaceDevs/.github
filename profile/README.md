@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/05/star-destroys-planet/" >🔗</a> **[NASASpaceflight]** With help from NEOWISE, astronomers observe giant star destroying planet for the first time
 - <a href="https://spacenews.com/saic-signs-another-commercial-partner-for-its-small-satellite-business/" >🔗</a> **[SpaceNews]** SAIC signs another commercial partner for its small satellite business
 - <a href="https://www.nasaspaceflight.com/2023/05/evas-may-2023/" >🔗</a> **[NASASpaceflight]** US, Russian EVAs install upgrades and make history aboard ISS
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Next SpaceX Resupply Launch to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-update-launch-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Update Launch Coverage for Tropical Cyclones Mission
-- <a href="https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/" >🔗</a> **[Arstechnica]** Scientists say they have found more moons with oceans in the Solar System
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T083141">2023-05-06 08:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T090436">2023-05-06 09:04:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
