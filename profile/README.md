@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saic-signs-another-commercial-partner-for-its-small-satellite-business/" >🔗</a> **[SpaceNews]** SAIC signs another commercial partner for its small satellite business
+- <a href="https://www.nasaspaceflight.com/2023/05/evas-may-2023/" >🔗</a> **[NASASpaceflight]** US, Russian EVAs install upgrades and make history aboard ISS
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Next SpaceX Resupply Launch to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-update-launch-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Update Launch Coverage for Tropical Cyclones Mission
 - <a href="https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/" >🔗</a> **[Arstechnica]** Scientists say they have found more moons with oceans in the Solar System
-- <a href="https://spacenews.com/dod-spending-on-commercial-space-services-negligible-despite-growing-space-force-budget/" >🔗</a> **[SpaceNews]** DoD spending on commercial space services negligible, despite growing Space Force budget
-- <a href="https://spacenews.com/society-and-technology-the-space-observing-imperative/" >🔗</a> **[SpaceNews]** Society and Technology: The Space Observing Imperative
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230505T233149">2023-05-05 23:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T003042">2023-05-06 00:30:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
