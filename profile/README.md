@@ -107,11 +107,12 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 - <a href="https://tlpnetwork.com/news/2023/04/rocketlab-announces-tropics-launch-dates" >🔗</a> **[The Launch Pad]** Rocket Lab Sets Launch Dates For TROPICS Launches
 - <a href="https://spacenews.com/rocket-lab-shifts-nasa-cubesat-launches-from-virginia-to-new-zealand/" >🔗</a> **[SpaceNews]** Rocket Lab shifts NASA cubesat launches from Virginia to New Zealand
 - <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-set-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Set Coverage for Tropical Cyclones Mission
+- <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-update-launch-coverage-for-tropical-cyclones-mission" >🔗</a> **[NASA]** NASA, Rocket Lab Update Launch Coverage for Tropical Cyclones Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T063147">2023-05-06 06:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230506T070531">2023-05-06 07:05:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
