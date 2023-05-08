@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/" >🔗</a> **[SpaceNews]** Rocket Lab launches NASA TROPICS cubesats
 - <a href="https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches NASA’s TROPICS satellites from New Zealand
 - <a href="https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023" >🔗</a> **[The Launch Pad]** NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame
 - <a href="https://spacenews.com/dragonfly-mission-studying-effects-of-potential-budget-cut/" >🔗</a> **[SpaceNews]** Dragonfly mission studying effects of potential budget cut
 - <a href="https://www.teslarati.com/starlink-hits-subscriber-milestone/" >🔗</a> **[Teslarati]** Starlink hits incredible subscriber milestone as potential IPO looms
-- <a href="https://www.cnbc.com/2023/05/06/firefly-launching-space-force-high-speed-victus-nox-mission.html" >🔗</a> **[CNBC]** Rocket builder Firefly takes on high-speed Space Force mission for crucial next launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T023122">2023-05-08 02:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T030650">2023-05-08 03:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
