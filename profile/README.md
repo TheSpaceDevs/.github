@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-launch-first-pair-of-storm-observing-cubesats" >🔗</a> **[NASA]** NASA, Rocket Lab Launch First Pair of Storm Observing CubeSats
+- <a href="https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/" >🔗</a> **[Arstechnica]** Former head of Roscosmos now thinks NASA did not land on the Moon
 - <a href="https://spacenews.com/maxar-pursuing-defense-deals-for-its-new-line-of-small-satellites/" >🔗</a> **[SpaceNews]** Maxar pursuing defense deals for its new line of small satellites
 - <a href="https://spacenews.com/sizing-up-the-2023-geo-manufacturing-battleground/" >🔗</a> **[SpaceNews]** Sizing up the 2023 GEO manufacturing battleground
 - <a href="https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/" >🔗</a> **[SpaceNews]** Momentus tug raises orbit with water-fueled thruster
-- <a href="https://spacenews.com/from-japan-to-the-philippines-us-expands-ssa-cooperation-with-asian-countries/" >🔗</a> **[SpaceNews]** From Japan to the Philippines: US expands SSA cooperation with Asian countries
-- <a href="https://spacenews.com/chinas-mystery-reusable-spaceplane-lands-after-276-days-in-orbit/" >🔗</a> **[SpaceNews]** China’s mystery reusable spaceplane lands after 276 days in orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T143152">2023-05-08 14:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T150650">2023-05-08 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
