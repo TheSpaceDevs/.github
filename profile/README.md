@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/momentus-tug-raises-orbit-with-water-fueled-thruster/" >🔗</a> **[SpaceNews]** Momentus tug raises orbit with water-fueled thruster
+- <a href="https://spacenews.com/from-japan-to-the-philippines-us-expands-ssa-cooperation-with-asian-countries/" >🔗</a> **[SpaceNews]** From Japan to the Philippines: US expands SSA cooperation with Asian countries
 - <a href="https://spacenews.com/chinas-mystery-reusable-spaceplane-lands-after-276-days-in-orbit/" >🔗</a> **[SpaceNews]** China’s mystery reusable spaceplane lands after 276 days in orbit
 - <a href="https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/" >🔗</a> **[SpaceNews]** Rocket Lab launches NASA TROPICS cubesats
 - <a href="https://www.nasaspaceflight.com/2023/05/electron-tropics-launch-1/" >🔗</a> **[NASASpaceflight]** Rocket Lab launches NASA’s TROPICS satellites from New Zealand
-- <a href="https://tlpnetwork.com/news/2023/05/nasa-astronaut-hall-of-fame-2023" >🔗</a> **[The Launch Pad]** NASA Inducts Roy Bridges & Mark Kelly Into Astronaut Hall of Fame
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T130920">2023-05-08 13:09:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230508T133138">2023-05-08 13:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
