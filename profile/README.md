@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/clearspace-books-vega-c-for-2026-de-orbit-mission/" >🔗</a> **[SpaceNews]** ClearSpace books Vega C for 2026 de-orbit mission
 - <a href="https://spacenews.com/space-force-reviewing-bids-from-satellite-manufacturers-for-space-test-program/" >🔗</a> **[SpaceNews]** Space Force reviewing bids from satellite manufacturers for Space Test Program
 - <a href="https://spacenews.com/ball-aerospace-zeroes-in-on-future-technologies/" >🔗</a> **[SpaceNews]** Ball Aerospace zeroes in on future technologies
 - <a href="https://spacenews.com/propelling-ascent-into-commercial-markets/" >🔗</a> **[SpaceNews]** Propelling ASCENT into commercial markets
 - <a href="https://spacenews.com/breaking-out-of-the-space-echo-chamber/" >🔗</a> **[SpaceNews]** Breaking out of the space echo chamber 
-- <a href="https://www.nasaspaceflight.com/2023/05/blue-origin-pace-cape/" >🔗</a> **[NASASpaceflight]** Blue Origin picking up the pace at the Cape
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T093153">2023-05-09 09:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T100706">2023-05-09 10:07:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
