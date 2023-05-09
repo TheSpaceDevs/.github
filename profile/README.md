@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/" >🔗</a> **[SpaceNews]** UK unconditionally approves Viasat’s Inmarsat takeover
+- <a href="https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/" >🔗</a> **[SpaceNews]** Former congressman Mac Thornberry joins CesiumAstro’s board of advisers
 - <a href="https://spacenews.com/the-satellite-boom-is-far-from-over/" >🔗</a> **[SpaceNews]** The satellite boom is far from over
 - <a href="https://spacenews.com/orbital-outpost-x-raises-5-million/" >🔗</a> **[SpaceNews]** Orbital Outpost X raises $5 million
 - <a href="http://www.nasa.gov/press-release/nasa-announces-upcoming-retirement-of-space-technology-head" >🔗</a> **[NASA]** NASA Announces Upcoming Retirement of Space Technology Head
-- <a href="https://arstechnica.com/science/2023/05/ambitious-arab-mission-to-explore-seven-asteroids-including-a-very-red-one/" >🔗</a> **[Arstechnica]** Ambitious Arab mission to explore seven asteroids, including a very red one
-- <a href="https://spacenews.com/noaa-kicks-off-neon-weather-satellite-program/" >🔗</a> **[SpaceNews]** NOAA kicks off NEON weather satellite program
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T173207">2023-05-09 17:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T180737">2023-05-09 18:07:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
