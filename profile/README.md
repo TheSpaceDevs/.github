@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbital-outpost-x-raises-5-million/" >🔗</a> **[SpaceNews]** Orbital Outpost X raises $5 million
 - <a href="http://www.nasa.gov/press-release/nasa-announces-upcoming-retirement-of-space-technology-head" >🔗</a> **[NASA]** NASA Announces Upcoming Retirement of Space Technology Head
 - <a href="https://arstechnica.com/science/2023/05/ambitious-arab-mission-to-explore-seven-asteroids-including-a-very-red-one/" >🔗</a> **[Arstechnica]** Ambitious Arab mission to explore seven asteroids, including a very red one
 - <a href="https://spacenews.com/noaa-kicks-off-neon-weather-satellite-program/" >🔗</a> **[SpaceNews]** NOAA kicks off NEON weather satellite program
 - <a href="https://spacenews.com/nasa-proposals-hybrid-contract-approach-for-space-station-deorbit-vehicle/" >🔗</a> **[SpaceNews]** NASA proposes “hybrid” contract approach for space station deorbit vehicle
-- <a href="https://spacenews.com/clearspace-books-vega-c-for-2026-de-orbit-mission/" >🔗</a> **[SpaceNews]** ClearSpace books Vega C for 2026 de-orbit mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T153148">2023-05-09 15:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T160801">2023-05-09 16:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
