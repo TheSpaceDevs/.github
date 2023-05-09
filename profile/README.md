@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/05/09/rocket-lab-rklb-q1-2023-results.html" >🔗</a> **[CNBC]** Rocket Lab revenue increases slightly, company adds NASA launch contract
+- <a href="https://spacenews.com/florida-based-intercity-rail-service-adopts-starlink/" >🔗</a> **[SpaceNews]** Florida-based intercity rail service adopts Starlink
 - <a href="https://www.cnbc.com/2023/05/09/virgin-galactic-q1-earnings-report.html" >🔗</a> **[CNBC]** Virgin Galactic quarterly loss widens while company preps for spaceflight return this month
 - <a href="https://spacenews.com/construction-starts-on-orbex-scottish-launch-site/" >🔗</a> **[SpaceNews]** Construction starts on Orbex Scottish launch site
 - <a href="https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/" >🔗</a> **[NASASpaceflight]** Starbase repairs proceeding – Ships prepared for future flights
-- <a href="https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/" >🔗</a> **[SpaceNews]** UK unconditionally approves Viasat’s Inmarsat takeover
-- <a href="https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/" >🔗</a> **[SpaceNews]** Former congressman Mac Thornberry joins CesiumAstro’s board of advisers
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T213140">2023-05-09 21:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T220517">2023-05-09 22:05:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
