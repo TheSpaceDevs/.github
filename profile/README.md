@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/construction-starts-on-orbex-scottish-launch-site/" >🔗</a> **[SpaceNews]** Construction starts on Orbex Scottish launch site
 - <a href="https://www.nasaspaceflight.com/2023/05/starbase-repairs-ships-future-flights/" >🔗</a> **[NASASpaceflight]** Starbase repairs proceeding – Ships prepared for future flights
 - <a href="https://spacenews.com/uk-unconditionally-approves-viasats-inmarsat-takeover/" >🔗</a> **[SpaceNews]** UK unconditionally approves Viasat’s Inmarsat takeover
 - <a href="https://spacenews.com/former-congressman-mac-thornberry-joins-cesiumastros-board-of-advisors/" >🔗</a> **[SpaceNews]** Former congressman Mac Thornberry joins CesiumAstro’s board of advisers
 - <a href="https://spacenews.com/the-satellite-boom-is-far-from-over/" >🔗</a> **[SpaceNews]** The satellite boom is far from over
-- <a href="https://spacenews.com/orbital-outpost-x-raises-5-million/" >🔗</a> **[SpaceNews]** Orbital Outpost X raises $5 million
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T193156">2023-05-09 19:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230509T200650">2023-05-09 20:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
