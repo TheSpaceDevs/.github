@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-reports-record-revenue-as-it-seeks-profitability/" >🔗</a> **[SpaceNews]** Redwire reports record revenue as it seeks profitability
+- <a href="https://www.teslarati.com/spacex-starlink-successfully-launches-51-satellites/" >🔗</a> **[Teslarati]** SpaceX successfully launches 51 Starlink satellites
+- <a href="https://spacenews.com/tianzhou-6-cargo-spacecraft-reaches-chinas-tiangong-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-6 cargo spacecraft reaches China’s Tiangong space station
 - <a href="https://www.teslarati.com/starlink-unveils-new-internet-plans/" >🔗</a> **[Teslarati]** Starlink unveils suite of top of the line internet plans
 - <a href="https://spacenews.com/vast-announces-plans-for-first-commercial-space-station/" >🔗</a> **[SpaceNews]** Vast announces plans for first commercial space station
-- <a href="https://spacenews.com/space-force-to-build-digital-infrastructure-to-train-operators-and-test-hardware/" >🔗</a> **[SpaceNews]** Space Force to build digital infrastructure to train operators and test hardware
-- <a href="https://spacenews.com/op-ed-americas-spac-funded-newspace-industry-is-crashing/" >🔗</a> **[SpaceNews]** America’s SPAC-funded NewSpace industry is crashing
-- <a href="https://spacenews.com/endurosat-raises-10-million/" >🔗</a> **[SpaceNews]** EnduroSat raises $10 million
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T223418">2023-05-10 22:34:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T230630">2023-05-10 23:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
