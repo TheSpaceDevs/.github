@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-announces-plans-for-first-commercial-space-station/" >🔗</a> **[SpaceNews]** Vast announces plans for first commercial space station
+- <a href="https://spacenews.com/space-force-to-build-digital-infrastructure-to-train-operators-and-test-hardware/" >🔗</a> **[SpaceNews]** Space Force to build digital infrastructure to train operators and test hardware
 - <a href="https://spacenews.com/op-ed-americas-spac-funded-newspace-industry-is-crashing/" >🔗</a> **[SpaceNews]** America’s SPAC-funded NewSpace industry is crashing
 - <a href="https://spacenews.com/endurosat-raises-10-million/" >🔗</a> **[SpaceNews]** EnduroSat raises $10 million
 - <a href="https://arstechnica.com/science/2023/05/vast-says-it-will-launch-its-first-space-station-in-2025-on-a-falcon-9/" >🔗</a> **[Arstechnica]** Vast says it will launch its first space station in 2025 on a Falcon 9
-- <a href="https://spacenews.com/on-national-security-the-space-surveillance-arms-race-is-in-full-swing/" >🔗</a> **[SpaceNews]** On National Security | The space surveillance arms race is in full swing
-- <a href="https://tlpnetwork.com/news/2023/05/vast-announces-haven-1-station-and-vast-1-mission" >🔗</a> **[The Launch Pad]** BREAKING! VAST Announces Haven-1 Station & VAST-1 Mission 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T193423">2023-05-10 19:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T200756">2023-05-10 20:07:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
