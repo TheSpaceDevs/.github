@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/2023/05/vast-announces-haven-1-station-and-vast-1-mission" >🔗</a> **[The Launch Pad]** BREAKING! VAST Announces Haven-1 Station & VAST-1 Mission 
 - <a href="https://spacenews.com/rocket-lab-sees-itself-as-leader-of-the-small-launch-industry/" >🔗</a> **[SpaceNews]** Rocket Lab sees itself as leader of the small launch industry
 - <a href="https://spacenews.com/virgin-galactic-looks-ahead-to-future-spaceplanes-as-it-gears-up-for-return-to-space/" >🔗</a> **[SpaceNews]** Virgin Galactic looks ahead to future spaceplanes as it gears up for return to space
-- <a href="https://www.nasaspaceflight.com/2023/05/tianzhou-6-resupply-mission/" >🔗</a> **[NASASpaceflight]** China prepares resupply mission, lands space plane, and readies methane rocket
+- <a href="https://www.nasaspaceflight.com/2023/05/tianzhou-6-resupply-mission/" >🔗</a> **[NASASpaceflight]** China launches resupply mission, lands space plane, and readies methane rocket
 - <a href="https://www.cnbc.com/2023/05/09/rocket-lab-rklb-q1-2023-results.html" >🔗</a> **[CNBC]** Rocket Lab revenue increases slightly, company adds NASA launch contract
 
 
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T133540">2023-05-10 13:35:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230510T143941">2023-05-10 14:39:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
