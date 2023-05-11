@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/05/space-perspective-update/" >🔗</a> **[NASASpaceflight]** Space Perspective prepares to introduce new recovery ship as providers compete for land at Port Canaveral
 - <a href="https://mars.nasa.gov/news/9399/" >🔗</a> **[NASA]** Images From NASA's Perseverance May Show Record of Wild Martian River
 - <a href="https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/" >🔗</a> **[SpaceNews]** The answer to solving the digital divide is hybrid connectivity infrastructures
 - <a href="https://spacenews.com/foust-forward-big-opportunities-for-big-science-with-big-rockets/" >🔗</a> **[SpaceNews]** Foust Forward | Big opportunities for big science with big rockets
 - <a href="https://spacenews.com/chinas-spaceplane-conducted-proximity-and-capture-maneuvers-with-subsatellite-data-suggests/" >🔗</a> **[SpaceNews]** China’s spaceplane conducted proximity and capture maneuvers with subsatellite, data suggests
-- <a href="https://spacenews.com/echostar-has-fingers-crossed-for-august-falcon-heavy-launch/" >🔗</a> **[SpaceNews]** EchoStar has fingers crossed for August Falcon Heavy launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T173154">2023-05-11 17:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T180739">2023-05-11 18:07:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
