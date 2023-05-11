@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ohb-expects-first-ariane-6-launch-in-early-2024/" >🔗</a> **[SpaceNews]** OHB expects first Ariane 6 launch in early 2024
 - <a href="https://spacenews.com/telesat-eyes-2026-for-first-lightspeed-launches-amid-funding-delays/" >🔗</a> **[SpaceNews]** Telesat eyes 2026 for first Lightspeed launches amid funding delays
 - <a href="https://www.nasaspaceflight.com/2023/05/space-perspective-update/" >🔗</a> **[NASASpaceflight]** Space Perspective prepares to introduce new recovery ship as providers compete for land at Port Canaveral
 - <a href="https://mars.nasa.gov/news/9399/" >🔗</a> **[NASA]** Images From NASA's Perseverance May Show Record of Wild Martian River
 - <a href="https://spacenews.com/the-answer-to-solving-the-digital-divide-is-hybrid-connectivity-infrastructures/" >🔗</a> **[SpaceNews]** The answer to solving the digital divide is hybrid connectivity infrastructures
-- <a href="https://spacenews.com/foust-forward-big-opportunities-for-big-science-with-big-rockets/" >🔗</a> **[SpaceNews]** Foust Forward | Big opportunities for big science with big rockets
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T203138">2023-05-11 20:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230511T210434">2023-05-11 21:04:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
