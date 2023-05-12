@@ -89,7 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/" >🔗</a> **[Arstechnica]** The Ariane 6 rocket’s debut will slip into 2024—the question is how far
+- <a href="https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/" >🔗</a> **[Arstechnica]** The Ariane 6 rocket will now debut no earlier than the spring of 2024
 - <a href="http://www.nasa.gov/press-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting" >🔗</a> **[NASA]** NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting
 - <a href="https://www.nasaspaceflight.com/2023/05/webb-images-fomalhaut-disks/" >🔗</a> **[NASASpaceflight]** Webb directly images young star’s asteroid belt; discovers two additional dusty disks
 - <a href="https://spacenews.com/op-ed-the-dramatic-influence-of-generative-ai-on-the-space-industry/" >🔗</a> **[SpaceNews]** Op-ed | The dramatic influence of generative AI on the space industry
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T153144">2023-05-12 15:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T160736">2023-05-12 16:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
