@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/" >🔗</a> **[Arstechnica]** The Ariane 6 rocket’s debut will slip into 2024—the question is how far
+- <a href="http://www.nasa.gov/press-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting" >🔗</a> **[NASA]** NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting
+- <a href="https://www.nasaspaceflight.com/2023/05/webb-images-fomalhaut-disks/" >🔗</a> **[NASASpaceflight]** Webb directly images young star’s asteroid belt; discovers two additional dusty disks
 - <a href="https://spacenews.com/op-ed-the-dramatic-influence-of-generative-ai-on-the-space-industry/" >🔗</a> **[SpaceNews]** Op-ed | The dramatic influence of generative AI on the space industry
 - <a href="https://spacenews.com/first-intuitive-machine-lunar-lander-mission-slips-to-the-third-quarter/" >🔗</a> **[SpaceNews]** First Intuitive Machine lunar lander mission slips to the third quarter
-- <a href="https://arstechnica.com/science/2023/05/rocket-report-spacex-hits-success-milestone-vulcan-to-resume-testing/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX hits success milestone, Vulcan to resume testing
-- <a href="https://spacenews.com/space-force-commercial-office-to-open-new-facility-in-virginia/" >🔗</a> **[SpaceNews]** Space Force commercial office to open new facility in Virginia
-- <a href="https://spacenews.com/ula-prepares-for-new-round-of-vulcan-tests/" >🔗</a> **[SpaceNews]** ULA prepares for new round of Vulcan tests
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T143136">2023-05-12 14:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230512T150557">2023-05-12 15:05:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
