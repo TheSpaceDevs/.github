@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/05/virgin-orbit-bankruptcy-auction-deadline-extended" >🔗</a> **[The Launch Pad]** Virgin Orbit Bankruptcy Auction Deadline Extended
+- <a href="http://www.nasa.gov/press-release/nasa-s-artemis-ii-moon-crew-available-for-interviews-in-washington" >🔗</a> **[NASA]** NASA’s Artemis II Moon Crew Available for Interviews in Washington
+- <a href="https://tlpnetwork.com/news/2023/05/zephalto-to-offer-michelin-star-meal-experience-at-the-edge-of-space" >🔗</a> **[The Launch Pad]** Zephalto To Offer Michelin Star Meal Experience At The Edge Of Space In 2024
 - <a href="https://tlpnetwork.com/news/2023/05/nasa-ends-lunar-flashlight-mission-following-propulsion-system-failure" >🔗</a> **[The Launch Pad]** NASA Ends Lunar Flashlight Mission Following Propulsion System Failure
 - <a href="https://tlpnetwork.com/news/2023/05/juice-successfully-deploys-radar-antenna" >🔗</a> **[The Launch Pad]** JUICE Successfully Deploys Radar Antenna
-- <a href="https://tlpnetwork.com/news/2023/05/astroscale-momentus-partner-to-offer-hubble-reboost-concept" >🔗</a> **[The Launch Pad]** Astroscale & Momentus Partner To Offer Hubble Reboost Concept
-- <a href="https://tlpnetwork.com/news/2023/05/china-spaceplane-lands-after-record-276-days-in-space" >🔗</a> **[The Launch Pad]** China Spaceplane Lands After Record 276 Days In Orbit
-- <a href="https://spacenews.com/the-space-industry-needs-copuos-to-rethink-its-approach-to-decision-making/" >🔗</a> **[SpaceNews]** The space industry needs COPUOS to rethink its approach to decision-making
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T183147">2023-05-15 18:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T190409">2023-05-15 19:04:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
