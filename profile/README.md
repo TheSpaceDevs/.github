@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-general-no-pushback-from-congress-on-2024-budget-priorities/" >🔗</a> **[SpaceNews]** Space Force general: ‘No pushback’ from Congress on 2024 budget priorities
+- <a href="https://spacenews.com/italy-awards-256-million-contract-for-2026-in-orbit-servicing-mission/" >🔗</a> **[SpaceNews]** Italy awards $256 million contract for 2026 in-orbit servicing mission
 - <a href="https://tlpnetwork.com/news/2023/05/virgin-orbit-bankruptcy-auction-deadline-extended" >🔗</a> **[The Launch Pad]** Virgin Orbit Bankruptcy Auction Deadline Extended
 - <a href="http://www.nasa.gov/press-release/nasa-s-artemis-ii-moon-crew-available-for-interviews-in-washington" >🔗</a> **[NASA]** NASA’s Artemis II Moon Crew Available for Interviews in Washington
 - <a href="https://tlpnetwork.com/news/2023/05/zephalto-to-offer-michelin-star-meal-experience-at-the-edge-of-space" >🔗</a> **[The Launch Pad]** Zephalto To Offer Michelin Star Meal Experience At The Edge Of Space In 2024
-- <a href="https://tlpnetwork.com/news/2023/05/nasa-ends-lunar-flashlight-mission-following-propulsion-system-failure" >🔗</a> **[The Launch Pad]** NASA Ends Lunar Flashlight Mission Following Propulsion System Failure
-- <a href="https://tlpnetwork.com/news/2023/05/juice-successfully-deploys-radar-antenna" >🔗</a> **[The Launch Pad]** JUICE Successfully Deploys Radar Antenna
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T203147">2023-05-15 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T210449">2023-05-15 21:04:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
