@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/05/brightline-first-to-equip-trains-with-starlink" >🔗</a> **[The Launch Pad]** Brightline First To Equip Trains With Starlink
 - <a href="https://arstechnica.com/science/2023/05/a-private-company-has-an-audacious-plan-to-rescue-nasas-last-great-observatory/" >🔗</a> **[Arstechnica]** A private company has an audacious plan to rescue NASA’s last “Great Observatory”
 - <a href="https://spacenews.com/nasa-ends-lunar-flashlight-mission-because-of-thruster-problems/" >🔗</a> **[SpaceNews]** NASA ends Lunar Flashlight mission because of thruster problems
 - <a href="https://spacenews.com/juice-deploys-radar-antenna/" >🔗</a> **[SpaceNews]** JUICE deploys radar antenna
 - <a href="https://www.nasaspaceflight.com/2023/05/skylab-at-50/" >🔗</a> **[NASASpaceflight]** Skylab at 50 – How the United States entered the space station era
-- <a href="https://spacenews.com/astroscale-and-momentus-offer-concept-for-reboosting-hubble/" >🔗</a> **[SpaceNews]** Astroscale and Momentus offer concept for reboosting Hubble
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T153144">2023-05-15 15:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T160744">2023-05-15 16:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
