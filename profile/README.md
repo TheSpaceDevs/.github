@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/05/nasa-ends-lunar-flashlight-mission-following-propulsion-system-failure" >🔗</a> **[The Launch Pad]** NASA Ends Lunar Flashlight Mission Following Propulsion System Failure
+- <a href="https://tlpnetwork.com/news/2023/05/juice-successfully-deploys-radar-antenna" >🔗</a> **[The Launch Pad]** JUICE Successfully Deploys Radar Antenna
+- <a href="https://tlpnetwork.com/news/2023/05/astroscale-momentus-partner-to-offer-hubble-reboost-concept" >🔗</a> **[The Launch Pad]** Astroscale & Momentus Partner To Offer Hubble Reboost Concept
 - <a href="https://tlpnetwork.com/news/2023/05/china-spaceplane-lands-after-record-276-days-in-space" >🔗</a> **[The Launch Pad]** China Spaceplane Lands After Record 276 Days In Orbit
 - <a href="https://spacenews.com/the-space-industry-needs-copuos-to-rethink-its-approach-to-decision-making/" >🔗</a> **[SpaceNews]** The space industry needs COPUOS to rethink its approach to decision-making
-- <a href="https://tlpnetwork.com/news/2023/05/brightline-first-to-equip-trains-with-starlink" >🔗</a> **[The Launch Pad]** Brightline First To Equip Trains With Starlink
-- <a href="https://www.cnbc.com/2023/05/15/elon-musks-spacex-hires-former-nasa-official-kathy-lueders.html" >🔗</a> **[CNBC]** SpaceX hires former NASA human spaceflight official Kathy Lueders to help with Starship
-- <a href="https://arstechnica.com/science/2023/05/a-private-company-has-an-audacious-plan-to-rescue-nasas-last-great-observatory/" >🔗</a> **[Arstechnica]** A private company has an audacious plan to rescue NASA’s last “Great Observatory”
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T173146">2023-05-15 17:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230515T180759">2023-05-15 18:07:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
