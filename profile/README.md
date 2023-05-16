@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch" >🔗</a> **[NASA]** NASA, Rocket Lab Announce Coverage for Second TROPICS Launch
+- <a href="https://spacenews.com/arqit-launches-sale-of-satellite-division/" >🔗</a> **[SpaceNews]** Arqit launches sale of satellite division
 - <a href="http://www.nasa.gov/press-release/smithsonian-latino-museum-students-to-hear-from-nasa-station-astronaut" >🔗</a> **[NASA]** Smithsonian Latino Museum Students to Hear from NASA Station Astronaut
 - <a href="http://www.nasa.gov/press-release/nasa-to-select-second-lunar-lander-partner-for-artemis-moon-mission" >🔗</a> **[NASA]** NASA to Select Second Lunar Lander Partner for Artemis Moon Mission
 - <a href="https://spacenews.com/enter-outer-space-at-your-own-risk/" >🔗</a> **[SpaceNews]** Enter outer space at your own risk?
-- <a href="https://spacenews.com/china-calls-for-space-station-commercial-cargo-proposals/" >🔗</a> **[SpaceNews]** China calls for space station commercial cargo proposals
-- <a href="https://spacenews.com/astra-momentus-face-cash-crunch/" >🔗</a> **[SpaceNews]** Astra, Momentus face cash crunch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T203150">2023-05-16 20:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T210456">2023-05-16 21:04:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
