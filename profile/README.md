@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/enter-outer-space-at-your-own-risk/" >🔗</a> **[SpaceNews]** Enter outer space at your own risk?
 - <a href="https://spacenews.com/china-calls-for-space-station-commercial-cargo-proposals/" >🔗</a> **[SpaceNews]** China calls for space station commercial cargo proposals
 - <a href="https://spacenews.com/astra-momentus-face-cash-crunch/" >🔗</a> **[SpaceNews]** Astra, Momentus face cash crunch
 - <a href="https://spacenews.com/spacex-has-narrow-window-for-ax-2-launch/" >🔗</a> **[SpaceNews]** SpaceX has narrow window for Ax-2 launch
 - <a href="https://tlpnetwork.com/news/2023/05/date-set-for-va261" >🔗</a> **[The Launch Pad]** The End Of An Era: Arianespace Sets Date For Final Ariane 5
-- <a href="https://www.nasaspaceflight.com/2023/05/ariane-6-update/" >🔗</a> **[NASASpaceflight]** Ariane 6’s first flight likely to slip into 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T143152">2023-05-16 14:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230516T150629">2023-05-16 15:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
