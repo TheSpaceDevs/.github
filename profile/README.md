@@ -44,7 +44,6 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T023900">2023-05-17 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Beidou-3 G4 (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230517T023900Z%2F20230517T033300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Beidou-3 G4 (?)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T040000">2023-05-19 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-3&location=Cape Canaveral, FL, USA&dates=20230519T040000Z%2F20230519T082000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T130400">2023-05-19 13:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Iridium-9 &amp; OneWeb 19&location=Vandenberg SFB, CA, USA&dates=20230519T130400Z%2F20230519T141200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Iridium-9 & OneWeb 19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T213700">2023-05-21 21:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 2&location=Kennedy Space Center, FL, USA&dates=20230521T213700Z%2F20230521T213700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 2** from Kennedy Space Center, FL, USA.
@@ -89,11 +88,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/" >🔗</a> **[NASASpaceflight]** NASA looking forward to next Starship test, HLS integration
 - <a href="https://spacenews.com/political-fight-escalates-over-space-national-guard/" >🔗</a> **[SpaceNews]** Political fight escalates over Space National Guard
 - <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch" >🔗</a> **[NASA]** NASA, Rocket Lab Announce Coverage for Second TROPICS Launch
 - <a href="https://spacenews.com/arqit-launches-sale-of-satellite-division/" >🔗</a> **[SpaceNews]** Arqit launches sale of satellite division
 - <a href="http://www.nasa.gov/press-release/smithsonian-latino-museum-students-to-hear-from-nasa-station-astronaut" >🔗</a> **[NASA]** Smithsonian Latino Museum Students to Hear from NASA Station Astronaut
-- <a href="http://www.nasa.gov/press-release/nasa-to-select-second-lunar-lander-partner-for-artemis-moon-mission" >🔗</a> **[NASA]** NASA to Select Second Lunar Lander Partner for Artemis Moon Mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T020111">2023-05-17 02:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T024215">2023-05-17 02:42:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
