@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/" >🔗</a> **[Arstechnica]** NASA’s Artemis program may face a budget crunch as costs continue to rise
 - <a href="https://spacenews.com/republican-senators-claim-nasa-being-distracted-by-climate-change-and-diversity-initiatives/" >🔗</a> **[SpaceNews]** Republican senators claim NASA being distracted by climate change and diversity initiatives
 - <a href="https://spacenews.com/ula-preparing-for-vulcan-centaur-static-fire/" >🔗</a> **[SpaceNews]** ULA preparing for Vulcan Centaur static fire
 - <a href="https://www.nasaspaceflight.com/2023/05/nasa-hls-integration/" >🔗</a> **[NASASpaceflight]** NASA looking forward to next Starship test, HLS integration
 - <a href="https://spacenews.com/political-fight-escalates-over-space-national-guard/" >🔗</a> **[SpaceNews]** Political fight escalates over Space National Guard
-- <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-announce-coverage-for-second-tropics-launch" >🔗</a> **[NASA]** NASA, Rocket Lab Announce Coverage for Second TROPICS Launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T133149">2023-05-17 13:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T140601">2023-05-17 14:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
