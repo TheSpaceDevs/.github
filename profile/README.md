@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-selects-parsons-to-develop-ground-system-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Space Force selects Parsons to develop ground system for missile-warning satellites
+- <a href="https://spacenews.com/space-force-official-lack-of-communication-with-china-increases-risk-of-mishaps-in-orbit/" >🔗</a> **[SpaceNews]** Space Force official: Lack of communication with China increases risk of mishaps in orbit
 - <a href="https://www.teslarati.com/starlink-spacex-discount-uk/" >🔗</a> **[Teslarati]** Starlink introduces yet another massive hardware discount
 - <a href="https://www.teslarati.com/starlink-reaches-subscriber-milestone-new-segment/" >🔗</a> **[Teslarati]** Starlink reaches critical subscriber milestone in new segment
 - <a href="https://www.cnbc.com/2023/05/17/virgin-orbit-17-million-bankruptcy-bid-for-aircraft-from-stratolaunch.html" >🔗</a> **[CNBC]** Virgin Orbit receives $17 million bid for rocket-carrying aircraft in bankruptcy court
-- <a href="https://arstechnica.com/science/2023/05/nasa-leader-warns-agency-needs-more-funding-to-fly-artemis-missions/" >🔗</a> **[Arstechnica]** NASA’s Artemis program may face a budget crunch as costs continue to rise
-- <a href="https://www.cnbc.com/2023/05/17/virgin-galactic-targets-may-25-for-first-spaceflight-since-branson.html" >🔗</a> **[CNBC]** Virgin Galactic targets May 25 for first spaceflight since Richard Branson’s trip
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T213139">2023-05-17 21:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230517T220543">2023-05-17 22:05:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
