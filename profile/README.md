@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-k-government-wont-buy-virgin-orbit/" >🔗</a> **[SpaceNews]** U.K. government won’t buy Virgin Orbit
 - <a href="https://spacenews.com/amini-gets-initial-funding-for-closing-africas-environmental-data-gap/" >🔗</a> **[SpaceNews]** Amini gets initial funding for closing Africa’s environmental data gap
 - <a href="https://spacenews.com/space-force-selects-parsons-to-develop-ground-system-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Space Force selects Parsons to develop ground system for missile-warning satellites
 - <a href="https://spacenews.com/space-force-official-lack-of-communication-with-china-increases-risk-of-mishaps-in-orbit/" >🔗</a> **[SpaceNews]** Space Force official: Lack of communication with China increases risk of mishaps in orbit
 - <a href="https://www.teslarati.com/starlink-spacex-discount-uk/" >🔗</a> **[Teslarati]** Starlink introduces yet another massive hardware discount
-- <a href="https://www.teslarati.com/starlink-reaches-subscriber-milestone-new-segment/" >🔗</a> **[Teslarati]** Starlink reaches critical subscriber milestone in new segment
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T103144">2023-05-18 10:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230518T110419">2023-05-18 11:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
