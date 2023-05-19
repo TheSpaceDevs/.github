@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/technical-strengths-and-lower-cost-led-nasa-to-select-blue-origin-lander/" >🔗</a> **[SpaceNews]** Technical strengths and lower cost led NASA to select Blue Origin lander
+- <a href="https://spacenews.com/hasc-chairman-questions-continued-delays-in-settling-dispute-over-space-commands-location/" >🔗</a> **[SpaceNews]** HASC chairman questions ‘continued delays’ in settling dispute over Space Command’s location
 - <a href="https://www.teslarati.com/spacex-launches-22-v2-mini-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches 22 V2 mini Starlink satellites
 - <a href="http://www.nasa.gov/press-release/nasa-selects-winners-announces-final-phase-of-space-food-challenge" >🔗</a> **[NASA]** NASA Selects Winners, Announces Final Phase of Space Food Challenge
 - <a href="https://arstechnica.com/space/2023/05/blue-origin-wins-pivotal-nasa-contract-to-develop-a-second-lunar-lander/" >🔗</a> **[Arstechnica]** Once again, NASA leans into the future by picking an innovative lunar lander
-- <a href="https://spacenews.com/nasa-selects-blue-origin-to-develop-second-artemis-lunar-lander/" >🔗</a> **[SpaceNews]** NASA selects Blue Origin to develop second Artemis lunar lander
-- <a href="https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/" >🔗</a> **[SpaceNews]** FCC denies Dish Network 5G plan over Starlink interference concerns 
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T193145">2023-05-19 19:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T200652">2023-05-19 20:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
