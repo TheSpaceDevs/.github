@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/" >🔗</a> **[SpaceNews]** FCC denies Dish Network 5G plan over Starlink interference concerns 
 - <a href="http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider" >🔗</a> **[NASA]** NASA Selects Blue Origin as Second Artemis Lunar Lander Provider
+- <a href="https://www.cnbc.com/2023/05/19/nasa-awards-blue-origin-sld-crew-lunar-lander-contract.html" >🔗</a> **[CNBC]** Bezos’ Blue Origin wins NASA astronaut moon lander contract to compete with SpaceX’s Starship
 - <a href="https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system" >🔗</a> **[The Launch Pad]** BREAKING! NASA Awards Blue Origin $3.4B Lunar Lander Contract
 - <a href="https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/" >🔗</a> **[SpaceNews]** Inmarsat orders 3 smallsats to bolster L-band safety services
-- <a href="https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/" >🔗</a> **[SpaceNews]** Space Force looks at options for relieving Cape Canaveral launch congestion
-- <a href="https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/" >🔗</a> **[Arstechnica]** Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T153159">2023-05-19 15:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T160743">2023-05-19 16:07:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
