@@ -100,11 +100,12 @@ into *a Polar Orbit
 
 - <a href="https://spacenews.com/spacex-to-launch-five-spare-iridium-satellites/" >🔗</a> **[SpaceNews]** SpaceX to launch five spare Iridium satellites
 - <a href="https://www.teslarati.com/spacex-falcon-9-wins-ninth-iridium-next-launch/" >🔗</a> **[Teslarati]** SpaceX to launch ninth batch of Iridium NEXT satellites
+- <a href="https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/" >🔗</a> **[NASASpaceflight]** Starlink v2, Iridium, and OneWeb satellites set to fly same-day Falcon 9 missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T073153">2023-05-19 07:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T080826">2023-05-19 08:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
