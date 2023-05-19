@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/" >🔗</a> **[Arstechnica]** Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase
 - <a href="https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/" >🔗</a> **[SpaceNews]** PLD Space prepares for suborbital test launch
 - <a href="https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/" >🔗</a> **[NASASpaceflight]** Starlink v2, Iridium, and OneWeb satellites set to fly same-day Falcon 9 missions
 - <a href="https://mars.nasa.gov/news/9405/" >🔗</a> **[NASA]** NASA's Perseverance Rover Captures View of Mars' Belva Crater
 - <a href="https://www.cnbc.com/2023/05/18/investing-in-space-where-spacexs-starlink-is-growing-market-share.html" >🔗</a> **[CNBC]** Investing in Space: Is SpaceX’s Starlink growing satellite internet market share, or taking it?
-- <a href="https://spacenews.com/space-force-delivers-second-u-s-payload-to-be-hosted-on-japanese-satellite/" >🔗</a> **[SpaceNews]** Space Force delivers second U.S. payload to be hosted on Japanese satellite
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T103139">2023-05-19 10:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T110419">2023-05-19 11:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
