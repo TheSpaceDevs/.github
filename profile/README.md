@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/05/blue-origin-wins-pivotal-nasa-contract-to-develop-a-second-lunar-lander/" >🔗</a> **[Arstechnica]** Blue Origin wins pivotal NASA contract to develop a second lunar lander
+- <a href="https://spacenews.com/nasa-selects-blue-origin-to-develop-second-artemis-lunar-lander/" >🔗</a> **[SpaceNews]** NASA selects Blue Origin to develop second Artemis lunar lander
 - <a href="https://spacenews.com/fcc-denies-dish-network-5g-plan-over-starlink-interference-concerns/" >🔗</a> **[SpaceNews]** FCC denies Dish Network 5G plan over Starlink interference concerns 
 - <a href="http://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider" >🔗</a> **[NASA]** NASA Selects Blue Origin as Second Artemis Lunar Lander Provider
 - <a href="https://www.cnbc.com/2023/05/19/nasa-awards-blue-origin-sld-crew-lunar-lander-contract.html" >🔗</a> **[CNBC]** Bezos’ Blue Origin wins NASA astronaut moon lander contract to compete with SpaceX’s Starship
-- <a href="https://tlpnetwork.com/news/2023/05/nasa-selects-blue-origin-for-2nd-human-lunar-landing-system" >🔗</a> **[The Launch Pad]** BREAKING! NASA Awards Blue Origin $3.4B Lunar Lander Contract
-- <a href="https://spacenews.com/inmarsat-orders-3-smallsats-to-bolster-l-band-safety-services/" >🔗</a> **[SpaceNews]** Inmarsat orders 3 smallsats to bolster L-band safety services
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T163538">2023-05-19 16:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T170501">2023-05-19 17:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
