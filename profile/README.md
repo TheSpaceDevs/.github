@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-looks-at-options-for-relieving-cape-canaveral-launch-congestion/" >🔗</a> **[SpaceNews]** Space Force looks at options for relieving Cape Canaveral launch congestion
 - <a href="https://arstechnica.com/space/2023/05/rocket-report-canada-places-premium-on-a-spaceport-lueders-heads-to-starbase/" >🔗</a> **[Arstechnica]** Rocket Report: Canada places premium on a spaceport, Lueders heads to Starbase
 - <a href="https://spacenews.com/pld-space-prepares-for-suborbital-test-launch/" >🔗</a> **[SpaceNews]** PLD Space prepares for suborbital test launch
-- <a href="https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/" >🔗</a> **[NASASpaceflight]** Starlink v2, Iridium, and OneWeb satellites set to fly same-day Falcon 9 missions
+- <a href="https://www.nasaspaceflight.com/2023/05/starlink-iridium-oneweb/" >🔗</a> **[NASASpaceflight]** Starlink v2, Iridium, and OneWeb satellites involved in Falcon 9 missions
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T133143">2023-05-19 13:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T140522">2023-05-19 14:05:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
