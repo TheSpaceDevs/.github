@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/nasa-selects-blue-origin-to-land-astronauts-on-the-moon/" >🔗</a> **[Teslarati]** NASA selects Blue Origin to land Astronauts on the Moon
 - <a href="https://www.nasaspaceflight.com/2023/05/twis2023-05-19/" >🔗</a> **[NASASpaceflight]** This Week In Spaceflight: SpaceX’s Raptor breaks records, NASA announces second Artemis Lander
 - <a href="http://www.nasa.gov/press-release/nasa-extends-nancy-grace-roman-space-telescope-science-operations" >🔗</a> **[NASA]** NASA Extends Nancy Grace Roman Space Telescope Science Operations
 - <a href="https://spacenews.com/technical-strengths-and-lower-cost-led-nasa-to-select-blue-origin-lander/" >🔗</a> **[SpaceNews]** Technical strengths and lower cost led NASA to select Blue Origin lander
 - <a href="https://spacenews.com/hasc-chairman-questions-continued-delays-in-settling-dispute-over-space-commands-location/" >🔗</a> **[SpaceNews]** HASC chairman questions ‘continued delays’ in settling dispute over Space Command’s location
-- <a href="https://www.teslarati.com/spacex-launches-22-v2-mini-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches 22 V2 mini Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230519T233140">2023-05-19 23:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230520T003248">2023-05-20 00:32:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
