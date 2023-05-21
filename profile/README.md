@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-seeks-partners-that-can-extract-more-value-from-data/" >🔗</a> **[SpaceNews]** Planet seeks partners that can extract more value from data
+- <a href="https://spacenews.com/umbra-and-ursa-to-collaborate-on-radar-imaging-data-products/" >🔗</a> **[SpaceNews]** Umbra and Ursa to collaborate on radar imaging data products
 - <a href="https://www.nasaspaceflight.com/2023/05/axiom-2-mission/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Axiom-2, carrying four astronauts to the ISS
 - <a href="https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/" >🔗</a> **[SpaceNews]** Agencies studying safety issues of LOX/methane launch vehicles
 - <a href="https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/" >🔗</a> **[NASASpaceflight]** Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images
-- <a href="https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/" >🔗</a> **[SpaceNews]** SpaceX launches OneWeb Gen 2 technology demonstrator
-- <a href="https://www.teslarati.com/nasa-selects-blue-origin-to-land-astronauts-on-the-moon/" >🔗</a> **[Teslarati]** NASA selects Blue Origin to land Astronauts on the Moon
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T183155">2023-05-21 18:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T190338">2023-05-21 19:03:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
