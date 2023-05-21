@@ -112,11 +112,12 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/second-axiom-space-mission-to-iss-scheduled-for-may/" >🔗</a> **[SpaceNews]** Second Axiom Space mission to ISS scheduled for May
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-briefings-events-broadcast" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 2 Briefings, Events, Broadcast
 - <a href="https://spacenews.com/spacex-has-narrow-window-for-ax-2-launch/" >🔗</a> **[SpaceNews]** SpaceX has narrow window for Ax-2 launch
+- <a href="https://www.nasaspaceflight.com/2023/05/axiom-2-mission/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Axiom-2, carrying four astronauts to the ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T153139">2023-05-21 15:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T160701">2023-05-21 16:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
