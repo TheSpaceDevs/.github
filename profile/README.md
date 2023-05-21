@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/05/axiom-2-mission/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Axiom-2, carrying four astronauts to the ISS
 - <a href="https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/" >🔗</a> **[SpaceNews]** Agencies studying safety issues of LOX/methane launch vehicles
 - <a href="https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/" >🔗</a> **[NASASpaceflight]** Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images
 - <a href="https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/" >🔗</a> **[SpaceNews]** SpaceX launches OneWeb Gen 2 technology demonstrator
 - <a href="https://www.teslarati.com/nasa-selects-blue-origin-to-land-astronauts-on-the-moon/" >🔗</a> **[Teslarati]** NASA selects Blue Origin to land Astronauts on the Moon
-- <a href="https://www.nasaspaceflight.com/2023/05/twis2023-05-19/" >🔗</a> **[NASASpaceflight]** This Week In Spaceflight: SpaceX’s Raptor breaks records, NASA announces second Artemis Lander
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T130634">2023-05-21 13:06:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T133139">2023-05-21 13:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
