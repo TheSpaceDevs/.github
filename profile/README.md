@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/earthdaily-analytics-offers-ven%c2%b5s-imagery-access/" >🔗</a> **[SpaceNews]** EarthDaily Analytics offers VENµS imagery access
+- <a href="https://spacenews.com/iceye-to-develop-sar-constellation-for-uae/" >🔗</a> **[SpaceNews]** Iceye to supply UAE SAR satellites
 - <a href="https://spacenews.com/planet-seeks-partners-that-can-extract-more-value-from-data/" >🔗</a> **[SpaceNews]** Planet seeks partners that can extract more value from data
 - <a href="https://spacenews.com/umbra-and-ursa-to-collaborate-on-radar-imaging-data-products/" >🔗</a> **[SpaceNews]** Umbra and Ursa to collaborate on radar imaging data products
 - <a href="https://www.nasaspaceflight.com/2023/05/axiom-2-mission/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Axiom-2, carrying four astronauts to the ISS
-- <a href="https://spacenews.com/agencies-studying-safety-issues-of-lox-methane-launch-vehicles/" >🔗</a> **[SpaceNews]** Agencies studying safety issues of LOX/methane launch vehicles
-- <a href="https://www.nasaspaceflight.com/2023/05/perseverance-mars-express-update/" >🔗</a> **[NASASpaceflight]** Perseverance finds Mars river could have been ‘wilder,’ Mars Express takes new volcano images
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T193140">2023-05-21 19:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230521T200512">2023-05-21 20:05:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
