@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/05/22/spacex-axiom-ax-2-docks-with-space-station-carrying-saudi-astronauts.html" >🔗</a> **[CNBC]** SpaceX delivers private Axiom crew to the space station, carrying Saudi astronauts
+- <a href="https://spacenews.com/former-nga-director-robert-cardillo-joins-synthetaics-board-of-directors/" >🔗</a> **[SpaceNews]** Former NGA director Robert Cardillo joins Synthetaic’s board of directors
 - <a href="https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/" >🔗</a> **[Arstechnica]** SpaceX launches tenth crewed mission, third fully commercial flight
 - <a href="https://spacenews.com/defending-taiwan-by-countering-chinas-biggest-threat/" >🔗</a> **[SpaceNews]** Defending Taiwan by countering China’s biggest threat 
 - <a href="https://spacenews.com/impact-observatory-unveils-io-monitor/" >🔗</a> **[SpaceNews]** Impact Observatory unveils IO Monitor
-- <a href="https://spacenews.com/china-launches-new-science-probes-sar-sat-and-replacement-beidou-satellite/" >🔗</a> **[SpaceNews]** China launches new science probes, SAR sat and replacement Beidou satellite
-- <a href="https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/" >🔗</a> **[SpaceNews]** Space Force turns to metaverse to predict effects of spaceport congestion 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T143137">2023-05-22 14:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T150639">2023-05-22 15:06:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
