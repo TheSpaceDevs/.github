@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/05/spacex-launches-tenth-crewed-mission-third-fully-commercial-flight/" >🔗</a> **[Arstechnica]** SpaceX launches tenth crewed mission, third fully commercial flight
+- <a href="https://spacenews.com/defending-taiwan-by-countering-chinas-biggest-threat/" >🔗</a> **[SpaceNews]** Defending Taiwan by countering China’s biggest threat 
+- <a href="https://spacenews.com/impact-observatory-unveils-io-monitor/" >🔗</a> **[SpaceNews]** Impact Observatory unveils IO Monitor
 - <a href="https://spacenews.com/china-launches-new-science-probes-sar-sat-and-replacement-beidou-satellite/" >🔗</a> **[SpaceNews]** China launches new science probes, SAR sat and replacement Beidou satellite
 - <a href="https://spacenews.com/space-force-turns-to-metaverse-to-predict-effects-of-spaceport-congestion/" >🔗</a> **[SpaceNews]** Space Force turns to metaverse to predict effects of spaceport congestion 
-- <a href="http://www.nasa.gov/press-release/axiom-space-private-astronauts-headed-to-international-space-station" >🔗</a> **[NASA]** Axiom Space Private Astronauts Headed to International Space Station
-- <a href="https://spacenews.com/spacex-launches-second-axiom-space-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** SpaceX launches second Axiom Space private astronaut mission to ISS
-- <a href="https://spacenews.com/nasa-seeks-to-shore-up-congressional-support-for-artemis/" >🔗</a> **[SpaceNews]** NASA seeks to shore up congressional support for Artemis
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T121146">2023-05-22 12:11:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230522T124745">2023-05-22 12:47:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
