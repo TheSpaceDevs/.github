@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Laucher
+- <a href="https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/" >🔗</a> **[NASASpaceflight]** Arabsat 7B to be SLC-40’s quickest turnaround
+- <a href="https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/" >🔗</a> **[SpaceNews]** NGA plans new procurement of commercial Earth monitoring services
+- <a href="https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/" >🔗</a> **[SpaceNews]** Three companies to buy most Virgin Orbit assets
+- <a href="https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher
 - <a href="https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html" >🔗</a> **[CNBC]** Virgin Orbit sells assets in bankruptcy auction to Rocket Lab, Stratolaunch and Vast’s Launcher
-- <a href="https://spacenews.com/nro-seeks-closer-ties-with-industry/" >🔗</a> **[SpaceNews]** NRO seeks closer ties with industry
-- <a href="https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/" >🔗</a> **[SpaceNews]** Air Force Research Lab to fund development of Ursa Major’s rocket engines
-- <a href="https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch" >🔗</a> **[The Launch Pad]** The Spaceport Company Performs First Demo of Offshore Launch Ops
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T193150">2023-05-23 19:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T200644">2023-05-23 20:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
