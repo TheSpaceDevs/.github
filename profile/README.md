@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-spaceport-company-demonstrates-offshore-launch-operations/" >🔗</a> **[SpaceNews]** The Spaceport Company demonstrates offshore launch operations
 - <a href="https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/" >🔗</a> **[SpaceNews]** Orbital Sidekick acquires first light imagery
 - <a href="https://spacenews.com/l3harris-wins-iarpa-haystac-contract/" >🔗</a> **[SpaceNews]** L3Harris wins IARPA HAYSTAC contract
 - <a href="https://spacenews.com/nga-to-map-lunar-geography-to-enable-gps-on-the-moon/" >🔗</a> **[SpaceNews]** NGA to map lunar geography to enable GPS on the moon
 - <a href="https://spacenews.com/nato-faces-hurdles-in-acquiring-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** NATO faces hurdles in acquiring commercial satellite imagery
-- <a href="https://www.cnbc.com/2023/05/22/spacex-joining-faa-to-fight-environmental-lawsuit-over-starship.html" >🔗</a> **[CNBC]** SpaceX set to join FAA to fight environmental lawsuit that could delay Starship work
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T113145">2023-05-23 11:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T121142">2023-05-23 12:11:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
