@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Laucher
+- <a href="https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html" >🔗</a> **[CNBC]** Virgin Orbit sells assets in bankruptcy auction to Rocket Lab, Stratolaunch and Vast’s Launcher
+- <a href="https://spacenews.com/nro-seeks-closer-ties-with-industry/" >🔗</a> **[SpaceNews]** NRO seeks closer ties with industry
 - <a href="https://spacenews.com/air-force-research-lab-to-fund-development-of-ursa-majors-rocket-engines/" >🔗</a> **[SpaceNews]** Air Force Research Lab to fund development of Ursa Major’s rocket engines
 - <a href="https://tlpnetwork.com/news/2023/05/the-spaceport-company-performs-first-demo-of-offshore-launch" >🔗</a> **[The Launch Pad]** The Spaceport Company Performs First Demo of Offshore Launch Ops
-- <a href="https://tlpnetwork.com/news/2023/05/astrobotic-to-provide-blue-moon-lander-cargo-systems" >🔗</a> **[The Launch Pad]** Astrobotic To Provide Blue Moon Lander Cargo Systems
-- <a href="https://spacenews.com/the-spaceport-company-demonstrates-offshore-launch-operations/" >🔗</a> **[SpaceNews]** The Spaceport Company demonstrates offshore launch operations
-- <a href="https://spacenews.com/orbital-sidekick-acquires-first-light-imagery/" >🔗</a> **[SpaceNews]** Orbital Sidekick acquires first light imagery
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T183136">2023-05-23 18:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T190424">2023-05-23 19:04:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
