@@ -93,7 +93,7 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/" >🔗</a> **[SpaceNews]** NGA plans new procurement of commercial Earth monitoring services
 - <a href="https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/" >🔗</a> **[SpaceNews]** Three companies to buy most Virgin Orbit assets
 - <a href="https://tlpnetwork.com/news/2023/05/virgin-orbit-sells-assets" >🔗</a> **[The Launch Pad]** BREAKING! Virgin Orbit Sells Assets To RocketLab, Stratolaunch and Vast Launcher
-- <a href="https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html" >🔗</a> **[CNBC]** Virgin Orbit sells assets in bankruptcy auction to Rocket Lab, Stratolaunch and Vast’s Launcher
+- <a href="https://www.cnbc.com/2023/05/23/virgin-orbit-bankruptcy-sale-rocket-lab-stratolaunch-vasts-launcher.html" >🔗</a> **[CNBC]** Virgin Orbit shuts down after bankruptcy sale to Rocket Lab, Stratolaunch and Vast’s Launcher
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T203209">2023-05-23 20:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230523T210507">2023-05-23 21:05:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
