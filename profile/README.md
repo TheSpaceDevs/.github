@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education" >🔗</a> **[NASA]** NASA, Department of Education Partnership Strengthens STEM Education
 - <a href="https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/" >🔗</a> **[SpaceNews]** BlackSky, Spire roll out space-based maritime tracking service
 - <a href="https://arstechnica.com/space/2023/05/no-one-should-be-surprised-virgin-orbit-failed-it-had-a-terrible-business-plan/" >🔗</a> **[Arstechnica]** No one should be surprised Virgin Orbit failed—it had a terrible business plan
 - <a href="https://spacenews.com/japans-gitai-raises-29-million-for-space-robotics-business/" >🔗</a> **[SpaceNews]** Japan’s GITAI raises $29 million for space robotics business
 - <a href="https://spacenews.com/missile-warning-satellite-passes-preliminary-design-review/" >🔗</a> **[SpaceNews]** Missile-warning satellite passes preliminary design review
-- <a href="https://arstechnica.com/space/2023/05/internet-from-a-small-satellite-in-geostationary-orbit-sure-why-not/" >🔗</a> **[Arstechnica]** Internet from a small satellite in geostationary orbit? Sure, why not
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T183145">2023-05-24 18:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T190413">2023-05-24 19:04:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
