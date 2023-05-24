@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/debut-astranis-satellite-beams-first-signals-to-alaska/" >🔗</a> **[SpaceNews]** Debut Astranis satellite beams first signals to Alaska
+- <a href="https://www.cnbc.com/2023/05/24/astranis-first-internet-satellite-over-alaska-working-perfectly.html" >🔗</a> **[CNBC]** First Astranis internet satellite working ‘perfectly’ as company readies to bring coverage to Alaska
 - <a href="https://spacenews.com/homeland-security-an-untapped-market-for-satellite-imagery-and-analytics/" >🔗</a> **[SpaceNews]** Homeland security an untapped market for satellite imagery and analytics 
 - <a href="https://spacenews.com/satellite-vu-raised-15-8-million-for-thermal-satellite-constellation/" >🔗</a> **[SpaceNews]** Satellite Vu raised $15.8 million for thermal satellite constellation
 - <a href="https://www.nasaspaceflight.com/2023/05/arabsat-7b-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 launch with Arabsat 7B scrubbed
-- <a href="https://spacenews.com/nga-plans-new-procurement-of-commercial-earth-monitoring-services/" >🔗</a> **[SpaceNews]** NGA plans new procurement of commercial Earth monitoring services
-- <a href="https://spacenews.com/three-companies-to-buy-most-virgin-orbit-assets/" >🔗</a> **[SpaceNews]** Three companies to buy most Virgin Orbit assets
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T121134">2023-05-24 12:11:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T124818">2023-05-24 12:48:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
