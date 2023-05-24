@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-and-relativity-target-2026-for-launch-of-first-mars-lander-mission/" >🔗</a> **[SpaceNews]** Impulse and Relativity target 2026 for launch of first Mars lander mission
 - <a href="https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/" >🔗</a> **[SpaceNews]** Fleet Space secures $33 million for mineral exploration constellation
 - <a href="http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education" >🔗</a> **[NASA]** NASA, Department of Education Partnership Strengthens STEM Education
 - <a href="https://spacenews.com/blacksky-spire-roll-out-space-based-maritime-tracking-service/" >🔗</a> **[SpaceNews]** BlackSky, Spire roll out space-based maritime tracking service
 - <a href="https://arstechnica.com/space/2023/05/no-one-should-be-surprised-virgin-orbit-failed-it-had-a-terrible-business-plan/" >🔗</a> **[Arstechnica]** No one should be surprised Virgin Orbit failed—it had a terrible business plan
-- <a href="https://spacenews.com/japans-gitai-raises-29-million-for-space-robotics-business/" >🔗</a> **[SpaceNews]** Japan’s GITAI raises $29 million for space robotics business
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T203152">2023-05-24 20:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230524T210325">2023-05-24 21:03:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
