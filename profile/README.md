@@ -88,11 +88,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/05/unity-25-flight/" >🔗</a> **[NASASpaceflight]** VSS Unity preparing for first powered flight since Branson’s trip in 2021
 - <a href="https://www.cnbc.com/2023/05/25/virgin-galactic-unity-25-spaceflight-final-test-before-commercial-service.html" >🔗</a> **[CNBC]** Virgin Galactic attempts final test flight before beginning ticketed space trips
 - <a href="https://arstechnica.com/space/2023/05/at-long-last-the-glorious-future-we-were-promised-in-space-is-on-the-way/" >🔗</a> **[Arstechnica]** At long last, the glorious future we were promised in space is on the way
 - <a href="https://spacenews.com/first-components-of-mobile-launcher-2-arrive-at-ksc/" >🔗</a> **[SpaceNews]** First components of Mobile Launcher 2 arrive at KSC
 - <a href="https://spacenews.com/iceye-introduces-dwell-imaging-mode/" >🔗</a> **[SpaceNews]** Iceye introduces Dwell imaging mode
-- <a href="https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/" >🔗</a> **[NASASpaceflight]** Rocket Lab moves final TROPICS mission to Friday
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T133342">2023-05-25 13:33:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T140622">2023-05-25 14:06:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
