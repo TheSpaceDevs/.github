@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/" >🔗</a> **[SpaceNews]** Virgin Galactic makes first suborbital spaceflight in nearly two years
+- <a href="https://www.cnbc.com/2023/05/25/investing-in-space-nasa-winner-in-elon-musk-vs-jeff-bezos-moon-race.html" >🔗</a> **[CNBC]** Investing in Space: Who wins in the Elon Musk versus Jeff Bezos moon race
 - <a href="https://spacenews.com/viasats-inmarsat-acquisition-clears-all-regulatory-hurdles/" >🔗</a> **[SpaceNews]** Viasat’s Inmarsat acquisition clears all regulatory hurdles
 - <a href="https://spacenews.com/south-koreas-kslv-2-rocket-launches-seven-satellites-one-unaccounted-for/" >🔗</a> **[SpaceNews]** South Korea’s KSLV-2 rocket launches seven satellites, one unaccounted for
-- <a href="https://www.nasaspaceflight.com/2023/05/unity-25-flight/" >🔗</a> **[NASASpaceflight]** VSS Unity preparing for first powered flight since Branson’s trip in 2021
-- <a href="https://www.cnbc.com/2023/05/25/virgin-galactic-unity-25-spaceflight-final-test-before-commercial-service.html" >🔗</a> **[CNBC]** Virgin Galactic attempts final test flight before beginning ticketed space trips
-- <a href="https://arstechnica.com/space/2023/05/at-long-last-the-glorious-future-we-were-promised-in-space-is-on-the-way/" >🔗</a> **[Arstechnica]** At long last, the glorious future we were promised in space is on the way
+- <a href="https://www.nasaspaceflight.com/2023/05/unity-25-flight/" >🔗</a> **[NASASpaceflight]** VSS Unity conducts first powered flight since Branson’s trip in 2021
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T163457">2023-05-25 16:34:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T170457">2023-05-25 17:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
