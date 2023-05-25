@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station
 - <a href="https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/" >🔗</a> **[SpaceNews]** Virgin Galactic makes first suborbital spaceflight in nearly two years
 - <a href="https://www.cnbc.com/2023/05/25/investing-in-space-nasa-winner-in-elon-musk-vs-jeff-bezos-moon-race.html" >🔗</a> **[CNBC]** Investing in Space: Who wins in the Elon Musk versus Jeff Bezos moon race
 - <a href="https://spacenews.com/viasats-inmarsat-acquisition-clears-all-regulatory-hurdles/" >🔗</a> **[SpaceNews]** Viasat’s Inmarsat acquisition clears all regulatory hurdles
 - <a href="https://spacenews.com/south-koreas-kslv-2-rocket-launches-seven-satellites-one-unaccounted-for/" >🔗</a> **[SpaceNews]** South Korea’s KSLV-2 rocket launches seven satellites, one unaccounted for
-- <a href="https://www.nasaspaceflight.com/2023/05/unity-25-flight/" >🔗</a> **[NASASpaceflight]** VSS Unity conducts first powered flight since Branson’s trip in 2021
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T193200">2023-05-25 19:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T200658">2023-05-25 20:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
