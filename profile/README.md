@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $45 million Space Force contract to launch small weather satellite
+- <a href="https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required" >🔗</a> **[The Launch Pad]** BREAKING! ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station
 - <a href="https://spacenews.com/virgin-galactic-makes-first-suborbital-spaceflight-in-nearly-two-years/" >🔗</a> **[SpaceNews]** Virgin Galactic makes first suborbital spaceflight in nearly two years
 - <a href="https://www.cnbc.com/2023/05/25/investing-in-space-nasa-winner-in-elon-musk-vs-jeff-bezos-moon-race.html" >🔗</a> **[CNBC]** Investing in Space: Who wins in the Elon Musk versus Jeff Bezos moon race
-- <a href="https://spacenews.com/viasats-inmarsat-acquisition-clears-all-regulatory-hurdles/" >🔗</a> **[SpaceNews]** Viasat’s Inmarsat acquisition clears all regulatory hurdles
-- <a href="https://spacenews.com/south-koreas-kslv-2-rocket-launches-seven-satellites-one-unaccounted-for/" >🔗</a> **[SpaceNews]** South Korea’s KSLV-2 rocket launches seven satellites, one unaccounted for
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T203143">2023-05-25 20:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T210512">2023-05-25 21:05:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
