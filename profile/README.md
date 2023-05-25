@@ -90,7 +90,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/iceye-introduces-dwell-imaging-mode/" >🔗</a> **[SpaceNews]** Iceye introduces Dwell imaging mode
-- <a href="https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/" >🔗</a> **[NASASpaceflight]** Rocket Lab ready to launch final TROPICS mission from New Zealand
+- <a href="https://www.nasaspaceflight.com/2023/05/coming-to-a-storm-near-you/" >🔗</a> **[NASASpaceflight]** Rocket Lab moves final TROPICS mission to Friday
 - <a href="https://spacenews.com/impulse-and-relativity-target-2026-for-launch-of-first-mars-lander-mission/" >🔗</a> **[SpaceNews]** Impulse and Relativity target 2026 for launch of first Mars lander mission
 - <a href="https://spacenews.com/fleet-space-raises-33-million-for-mineral-exploration-constellation/" >🔗</a> **[SpaceNews]** Fleet Space secures $33 million for mineral exploration constellation
 - <a href="http://www.nasa.gov/press-release/nasa-department-of-education-partnership-strengthens-stem-education" >🔗</a> **[NASA]** NASA, Department of Education Partnership Strengthens STEM Education
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T015921">2023-05-25 01:59:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230525T023138">2023-05-25 02:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
