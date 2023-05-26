@@ -91,11 +91,11 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/electron-launches-second-pair-of-nasa-tropics-cubesats/" >🔗</a> **[SpaceNews]** Electron launches second pair of NASA TROPICS cubesats
 - <a href="https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/" >🔗</a> **[SpaceNews]** NASA safety panel skeptical of Starliner readiness for crewed flight
 - <a href="https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/" >🔗</a> **[SpaceNews]** Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo
 - <a href="https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/" >🔗</a> **[Arstechnica]** A new report finds NASA has spent an obscene amount of money on SLS propulsion
 - <a href="https://spacenews.com/kleos-enters-partnership-with-general-atomics/" >🔗</a> **[SpaceNews]** Kleos enters partnership with General Atomics
-- <a href="https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $45 million Space Force contract to launch small weather satellite
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T103145">2023-05-26 10:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T110545">2023-05-26 11:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
