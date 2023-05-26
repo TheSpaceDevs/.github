@@ -91,11 +91,11 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/new-mexico-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** New Mexico Students to Hear from NASA Astronauts Aboard Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-rocket-lab-complete-launch-of-tropics-cubesat-constellation" >🔗</a> **[NASA]** NASA, Rocket Lab Complete Launch of TROPICS CubeSat Constellation
 - <a href="https://spacenews.com/spacex-investment-in-starship-approaches-5-billion/" >🔗</a> **[SpaceNews]** SpaceX investment in Starship approaches $5 billion
 - <a href="https://arstechnica.com/space/2023/05/rocket-report-ula-calls-off-vulcan-test-firing-virgin-galactic-soars-again/" >🔗</a> **[Arstechnica]** Rocket Report: Europe has a rocket problem, FAA testing safety of methane
 - <a href="https://spacenews.com/electron-launches-second-pair-of-nasa-tropics-cubesats/" >🔗</a> **[SpaceNews]** Electron launches second pair of NASA TROPICS cubesats
-- <a href="https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/" >🔗</a> **[SpaceNews]** NASA safety panel skeptical of Starliner readiness for crewed flight
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T133200">2023-05-26 13:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T140504">2023-05-26 14:05:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
