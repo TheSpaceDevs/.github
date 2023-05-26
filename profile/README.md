@@ -91,11 +91,11 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/" >🔗</a> **[SpaceNews]** NASA safety panel skeptical of Starliner readiness for crewed flight
 - <a href="https://spacenews.com/orbit-fab-selects-impulse-spaces-orbital-vehicle-for-in-space-refueling-demo/" >🔗</a> **[SpaceNews]** Orbit Fab selects Impulse Space’s orbital vehicle for in-space refueling demo
 - <a href="https://arstechnica.com/space/2023/05/a-new-report-finds-nasa-has-spent-an-obscene-amount-of-money-on-sls-propulsion/" >🔗</a> **[Arstechnica]** A new report finds NASA has spent an obscene amount of money on SLS propulsion
 - <a href="https://spacenews.com/kleos-enters-partnership-with-general-atomics/" >🔗</a> **[SpaceNews]** Kleos enters partnership with General Atomics
 - <a href="https://spacenews.com/northrop-grumman-wins-45-million-space-force-contract-to-launch-small-weather-satellite/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $45 million Space Force contract to launch small weather satellite
-- <a href="https://tlpnetwork.com/news/2023/05/frf-delayed-rollback-required" >🔗</a> **[The Launch Pad]** BREAKING! ULA To Roll Back Vulcan Rocket, Flight Readiness Firing Delayed
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The CubeSats are designed to provide rapid-refresh microwave measurements that c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T003420">2023-05-26 00:34:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230526T015907">2023-05-26 01:59:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
