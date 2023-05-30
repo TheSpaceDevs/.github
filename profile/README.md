@@ -90,11 +90,11 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/darpa-launches-initiative-to-help-tech-companies-work-on-classified-programs/" >🔗</a> **[SpaceNews]** DARPA launches initiative to help tech companies work on classified programs
 - <a href="https://www.nasaspaceflight.com/2023/05/ax-2-return/" >🔗</a> **[NASASpaceflight]** Axiom 2 astronauts set to splashdown from the ISS on Tuesday
 - <a href="https://spacenews.com/nasa-inspector-general-faults-agency-on-sls-booster-and-engine-overruns/" >🔗</a> **[SpaceNews]** NASA inspector general faults agency on SLS booster and engine overruns
 - <a href="https://spacenews.com/shenzhou-16-astronauts-arrive-at-chinas-space-station/" >🔗</a> **[SpaceNews]** Shenzhou-16 astronauts arrive at China’s space station
 - <a href="https://www.nasaspaceflight.com/2023/05/shenzhou-16-launch/" >🔗</a> **[NASASpaceflight]** China launches Shenzhou-16 mission to the Chinese Space Station
-- <a href="https://www.nasaspaceflight.com/2023/05/ship-25-confirmed-replay-starship-flight/" >🔗</a> **[NASASpaceflight]** Ship 25 confirmed as push for Summer replay of Starship test flight
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ Finally, a PLD Space team will pick up the rocket in the Atlantic Ocean once spl
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T133141">2023-05-30 13:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T140537">2023-05-30 14:05:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
