@@ -89,11 +89,11 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-orders-prototype-satellite-to-continue-leo-broadband-tests/" >🔗</a> **[SpaceNews]** Telesat orders prototype satellite to continue LEO broadband tests
 - <a href="https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/" >🔗</a> **[SpaceNews]** Northrop Grumman’s deep-space radar passes critical design review
 - <a href="http://www.nasa.gov/press-release/espa-a-es-el-25-signatario-de-los-acuerdos-de-artemis" >🔗</a> **[NASA]** España es el 25.º signatario de los Acuerdos de Artemis
 - <a href="http://www.nasa.gov/press-release/nasa-welcomes-spain-as-25th-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes Spain as 25th Artemis Accords Signatory
 - <a href="https://arstechnica.com/space/2023/05/spacex-is-going-for-its-200th-consecutive-falcon-9-success-tonight/" >🔗</a> **[Arstechnica]** The Falcon 9 may double the record for consecutive launch success tonight
-- <a href="https://spacenews.com/darpa-launches-initiative-to-help-tech-companies-work-on-classified-programs/" >🔗</a> **[SpaceNews]** DARPA launches initiative to help tech companies work on classified programs
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T223133">2023-05-30 22:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T230615">2023-05-30 23:06:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
