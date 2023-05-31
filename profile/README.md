@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-caps-off-busy-may-with-8th-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX caps off busy May with 8th Falcon 9 launch
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-conclusions-of-psyche-mission-independent-review-board" >🔗</a> **[NASA]** NASA to Discuss Conclusions of Psyche Mission Independent Review Board
+- <a href="https://europeanspaceflight.com/esa-awards-contracts-to-define-future-european-launch-systems/" >🔗</a> **[European Spaceflight]** ESA Awards Contracts to Define Future European Launch Systems
 - <a href="https://spacenews.com/cutting-edge-reconnaissance-satellites-revolutionizing-national-security-from-space/" >🔗</a> **[SpaceNews]** Cutting-Edge Reconnaissance Satellites: Revolutionizing National Security from Space
 - <a href="https://www.teslarati.com/axiom-2-crew-returns-after-10-days-in-space/" >🔗</a> **[Teslarati]** Axiom-2 Crew returns to Earth after 10 days in space
-- <a href="https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/" >🔗</a> **[SpaceNews]** North Korea’s spy satellite launch fails with second-stage malfunction
-- <a href="https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/" >🔗</a> **[SpaceNews]** Satellite operators Viasat and Inmarsat complete merger deal
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T193135">2023-05-31 19:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T200636">2023-05-31 20:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
