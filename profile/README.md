@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/El_Arenosillo">Médano del Loro</a>
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T180000">2023-05-30 18:00:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 0 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -102,7 +102,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T043204">2023-05-31 04:32:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T050607">2023-05-31 05:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
