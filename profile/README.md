@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-conclusions-of-psyche-mission-independent-review-board" >🔗</a> **[NASA]** NASA to Discuss Conclusions of Psyche Mission Independent Review Board
 - <a href="https://spacenews.com/cutting-edge-reconnaissance-satellites-revolutionizing-national-security-from-space/" >🔗</a> **[SpaceNews]** Cutting-Edge Reconnaissance Satellites: Revolutionizing National Security from Space
 - <a href="https://www.teslarati.com/axiom-2-crew-returns-after-10-days-in-space/" >🔗</a> **[Teslarati]** Axiom-2 Crew returns to Earth after 10 days in space
 - <a href="https://spacenews.com/north-koreas-spy-satellite-launch-fails-with-second-stage-malfunction/" >🔗</a> **[SpaceNews]** North Korea’s spy satellite launch fails with second-stage malfunction
 - <a href="https://spacenews.com/satellite-operators-viasat-and-inmarsat-complete-merger-deal/" >🔗</a> **[SpaceNews]** Satellite operators Viasat and Inmarsat complete merger deal
-- <a href="https://spacenews.com/second-axiom-space-private-astronaut-mission-concludes-with-splashdown/" >🔗</a> **[SpaceNews]** Second Axiom Space private astronaut mission concludes with splashdown
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T173154">2023-05-31 17:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T180739">2023-05-31 18:07:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
