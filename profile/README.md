@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/El_Arenosillo">Médano del Loro</a>
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230530T180000">2023-05-30 18:00:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 0 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+*Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -45,7 +45,6 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T060230">2023-05-31 06:02:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 2-10&location=Vandenberg SFB, CA, USA&dates=20230531T060230Z%2F20230531T060230Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 2-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230603T163500">2023-06-03 16:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-28&location=Kennedy Space Center, FL, USA&dates=20230603T163500Z%2F20230603T163500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-28** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230604T094800">2023-06-04 09:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-4&location=Cape Canaveral, FL, USA&dates=20230604T094800Z%2F20230604T132800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T061500">2023-06-05 06:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-11&location=Cape Canaveral, FL, USA&dates=20230605T061500Z%2F20230605T130600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-11** from Cape Canaveral, FL, USA.
@@ -54,6 +53,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T211600">2023-06-16 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230616T211600Z%2F20230616T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T000000">2023-06-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230619T000000Z%2F20230619T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Satria-1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T000000">2023-06-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-68&location=Cape Canaveral, FL, USA&dates=20230621T000000Z%2F20230621T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-68** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T113400">2023-06-27 11:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Meteor-M No.2-3&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230627T113400Z%2F20230627T113400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Meteor-M No.2-3** from Vostochny Cosmodrome, Siberia, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -102,7 +102,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T053140">2023-05-31 05:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T060832">2023-05-31 06:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
