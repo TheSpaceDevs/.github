@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-axiom-space-private-astronaut-mission-concludes-with-splashdown/" >🔗</a> **[SpaceNews]** Second Axiom Space private astronaut mission concludes with splashdown
 - <a href="https://spacenews.com/china-looks-to-long-march-8-rocket-to-help-launch-its-answer-to-starlink/" >🔗</a> **[SpaceNews]** China looks to Long March 8 rocket to help launch its answer to Starlink
 - <a href="https://spacenews.com/spain-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Spain signs Artemis Accords
 - <a href="https://spacenews.com/telesat-orders-prototype-satellite-to-continue-leo-broadband-tests/" >🔗</a> **[SpaceNews]** Telesat orders prototype satellite to continue LEO broadband tests
 - <a href="https://spacenews.com/northrop-grummans-deep-space-radar-passes-critical-design-review/" >🔗</a> **[SpaceNews]** Northrop Grumman’s deep-space radar passes critical design review
-- <a href="http://www.nasa.gov/press-release/nasa-welcomes-spain-as-25th-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes Spain as 25th Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T113145">2023-05-31 11:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230531T121223">2023-05-31 12:12:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
