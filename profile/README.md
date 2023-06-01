@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/" >🔗</a> **[Teslarati]** SpaceX Starlink lands DoD contract for Ukraine satellite services
+- <a href="https://www.cnbc.com/2023/06/01/pentagon-awards-spacex-with-ukraine-contract-for-starlink-satellite-internet.html" >🔗</a> **[CNBC]** Pentagon awards SpaceX with Ukraine contract for Starlink satellite internet
 - <a href="https://spacenews.com/space-force-selects-new-leader-for-eastern-range/" >🔗</a> **[SpaceNews]** Space Force selects new leader for Eastern Range
 - <a href="https://arstechnica.com/science/2023/06/the-atlantic-hurricane-season-has-begun-what-we-know-and-what-we-dont/" >🔗</a> **[Arstechnica]** The Atlantic hurricane season has begun: What we know and what we don’t
 - <a href="https://spacenews.com/fortify-raises-12-5-million-for-digital-composite-manufacturing/" >🔗</a> **[SpaceNews]** Fortify raises $12.5 million for digital composite manufacturing
-- <a href="https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/" >🔗</a> **[SpaceNews]** Dream Chaser moves a step closer to first launch
-- <a href="https://spacenews.com/florida-space-coast-selected-as-home-of-u-s-space-force-training-command/" >🔗</a> **[SpaceNews]** Florida Space Coast selected as home of U.S. Space Force training command
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T170509">2023-06-01 17:05:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T173217">2023-06-01 17:32:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
