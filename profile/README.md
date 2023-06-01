@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grummans-ground-station-for-missile-warning-satellites-passes-design-review/" >🔗</a> **[SpaceNews]** Northrop Grumman’s ground station for missile warning satellites passes design review
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-hold-media-update-on-crew-flight-test-today" >🔗</a> **[NASA]** NASA, Boeing to Hold Media Update on Crew Flight Test Today
 - <a href="https://spacenews.com/space-force-exploring-options-to-build-weather-monitoring-constellation/" >🔗</a> **[SpaceNews]** Space Force exploring options to build weather monitoring constellation
 - <a href="https://www.teslarati.com/spacex-starlink-lands-dod-contract-ukraine-satellite-services/" >🔗</a> **[Teslarati]** SpaceX Starlink lands DoD contract for Ukraine satellite services
 - <a href="https://www.cnbc.com/2023/06/01/pentagon-awards-spacex-with-ukraine-contract-for-starlink-satellite-internet.html" >🔗</a> **[CNBC]** Pentagon awards SpaceX with Ukraine contract for Starlink satellite internet
-- <a href="https://www.cnbc.com/2023/06/01/investing-in-space-the-virgin-galactic-spce-turning-point.html" >🔗</a> **[CNBC]** Investing in Space: Virgin Galactic still has a big hurdle to clear for commercial service
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T203159">2023-06-01 20:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230601T210457">2023-06-01 21:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
