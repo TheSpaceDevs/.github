@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/06/nasa-says-its-metal-mission-psyche-is-back-on-track-for-an-october-liftoff/" >🔗</a> **[Arstechnica]** Game on—the most metal of asteroid missions is back on the menu
 - <a href="http://www.nasa.gov/press-release/review-board-nasa-jpl-psyche-progress-outstanding-launch-on-track" >🔗</a> **[NASA]** Review Board: NASA-JPL Psyche Progress Outstanding, Launch on Track
 - <a href="https://spacenews.com/eos-data-analytics-and-space-electric-thruster-systems-demonstrate-technology-in-orbit/" >🔗</a> **[SpaceNews]** EOS Data Analytics and Space Electric Thruster Systems demonstrate technology in orbit
 - <a href="https://spacenews.com/l3harris-to-develop-missile-warning-sensor-for-medium-orbit-constellation/" >🔗</a> **[SpaceNews]** L3Harris to develop missile-warning sensor for medium orbit constellation
 - <a href="http://www.nasa.gov/press-release/nasa-selects-small-business-research-teams-for-tech-development" >🔗</a> **[NASA]** NASA Selects Small Business, Research Teams for Tech Development
-- <a href="https://spacenews.com/digital-twins-gaining-traction-in-military-satellite-programs/" >🔗</a> **[SpaceNews]** Digital twins gaining traction in military satellite programs
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T223142">2023-06-05 22:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T230523">2023-06-05 23:05:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
