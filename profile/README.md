@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congress-asks-gao-for-review-of-geoxo-weather-satellite-program/" >🔗</a> **[SpaceNews]** Congress asks GAO for review of GeoXO weather satellite program
 - <a href="https://www.nasaspaceflight.com/2023/06/crs-28-launch/" >🔗</a> **[NASASpaceflight]** SpaceX moves launch of CRS-28 ISS resupply mission to Monday
 - <a href="https://spacenews.com/uae-outlines-plans-for-asteroid-mission/" >🔗</a> **[SpaceNews]** UAE outlines plans for asteroid mission
 - <a href="https://spacenews.com/fixed-price-satellite-contracts-earn-high-grades-in-space-force-report-card/" >🔗</a> **[SpaceNews]** Fixed-price satellite contracts earn high grades in Space Force report card
 - <a href="https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/" >🔗</a> **[SpaceNews]** Northrop Grumman gets $80 million Air Force contract for satcom experiments
-- <a href="https://www.nasa.gov/press-release/nasa-awards-technical-workforce-training-contract" >🔗</a> **[NASA]** NASA Awards Technical Workforce Training Contract
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T103307">2023-06-05 10:33:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T110451">2023-06-05 11:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
