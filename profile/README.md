@@ -91,7 +91,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2023/06/crs-28-launch/" >🔗</a> **[NASASpaceflight]** SpaceX moves launch CRS-28 resupply mission to the ISS to Monday
+- <a href="https://www.nasaspaceflight.com/2023/06/crs-28-launch/" >🔗</a> **[NASASpaceflight]** SpaceX moves launch of CRS-28 ISS resupply mission to Monday
 - <a href="https://spacenews.com/uae-outlines-plans-for-asteroid-mission/" >🔗</a> **[SpaceNews]** UAE outlines plans for asteroid mission
 - <a href="https://spacenews.com/fixed-price-satellite-contracts-earn-high-grades-in-space-force-report-card/" >🔗</a> **[SpaceNews]** Fixed-price satellite contracts earn high grades in Space Force report card
 - <a href="https://spacenews.com/northrop-grumman-gets-80-million-air-force-contract-for-satcom-experiments/" >🔗</a> **[SpaceNews]** Northrop Grumman gets $80 million Air Force contract for satcom experiments
@@ -102,12 +102,12 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-next-spacex-resupply-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Next SpaceX Resupply Launch to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-science-on-next-spacex-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA to Discuss Science on Next SpaceX Cargo Launch to Space Station
-- <a href="https://www.nasaspaceflight.com/2023/06/crs-28-launch/" >🔗</a> **[NASASpaceflight]** SpaceX moves launch CRS-28 resupply mission to the ISS to Monday
+- <a href="https://www.nasaspaceflight.com/2023/06/crs-28-launch/" >🔗</a> **[NASASpaceflight]** SpaceX moves launch of CRS-28 ISS resupply mission to Monday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T031615">2023-06-05 03:16:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230605T033139">2023-06-05 03:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
