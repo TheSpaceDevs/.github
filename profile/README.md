@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-opens-new-office-to-foster-ties-with-private-sector/" >🔗</a> **[SpaceNews]** Space Force opens new office to foster ties with private sector
+- <a href="http://www.nasa.gov/press-release/nasa-names-winners-of-2023-student-rocket-launch-competition" >🔗</a> **[NASA]** NASA Names Winners of 2023 Student Rocket Launch Competition
 - <a href="https://spacenews.com/oneweb-targets-maritime-market-with-expanded-satellite-coverage/" >🔗</a> **[SpaceNews]** OneWeb targets maritime market with expanded satellite coverage
 - <a href="https://www.nasaspaceflight.com/2023/06/webb-jades-and-ngc5068/" >🔗</a> **[NASASpaceflight]** Webb unveils the secrets of the early universe via deep field, peers into stellar nurseries
 - <a href="https://europeanspaceflight.com/evidence-mounting-that-avio-intends-to-split-from-arianespace/" >🔗</a> **[European Spaceflight]** Evidence Mounting That Avio Intends to Split from Arianespace
-- <a href="https://tlpnetwork.com/news/2023/06/rfa-interview-stefan-brieschenk" >🔗</a> **[The Launch Pad]** INTERVIEW: We Sit Down With RFA COO Stefan Brieschenk
-- <a href="https://arstechnica.com/space/2023/06/with-7000-satellites-and-growing-is-space-sustainable-an-ars-frontiers-recap/" >🔗</a> **[Arstechnica]** With 7,000+ satellites and growing, is space sustainable? An Ars Frontiers recap
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T193140">2023-06-06 19:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T200650">2023-06-06 20:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
