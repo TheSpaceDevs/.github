@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-targets-maritime-market-with-expanded-satellite-coverage/" >🔗</a> **[SpaceNews]** OneWeb targets maritime market with expanded satellite coverage
+- <a href="https://www.nasaspaceflight.com/2023/06/webb-jades-and-ngc5068/" >🔗</a> **[NASASpaceflight]** Webb unveils the secrets of the early universe via deep field, peers into stellar nurseries
 - <a href="https://europeanspaceflight.com/evidence-mounting-that-avio-intends-to-split-from-arianespace/" >🔗</a> **[European Spaceflight]** Evidence Mounting That Avio Intends to Split from Arianespace
 - <a href="https://tlpnetwork.com/news/2023/06/rfa-interview-stefan-brieschenk" >🔗</a> **[The Launch Pad]** INTERVIEW: We Sit Down With RFA COO Stefan Brieschenk
 - <a href="https://arstechnica.com/space/2023/06/with-7000-satellites-and-growing-is-space-sustainable-an-ars-frontiers-recap/" >🔗</a> **[Arstechnica]** With 7,000+ satellites and growing, is space sustainable? An Ars Frontiers recap
-- <a href="https://spacenews.com/rivada-seeks-ex-im-financing-for-satellite-constellation/" >🔗</a> **[SpaceNews]** Rivada seeks Ex-Im financing for satellite constellation
-- <a href="https://arstechnica.com/space/2023/06/china-and-europe-both-seek-to-emulate-nasas-success-with-commercial-cargo/" >🔗</a> **[Arstechnica]** Nearly two decades after NASA, China and Europe eye commercial cargo plans
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T183148">2023-06-06 18:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T190346">2023-06-06 19:03:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
