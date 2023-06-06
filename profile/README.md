@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/06/china-and-europe-both-seek-to-emulate-nasas-success-with-commercial-cargo/" >🔗</a> **[Arstechnica]** Nearly two decades after NASA, China and Europe eye commercial cargo plans
 - <a href="https://spacenews.com/blue-origin-within-a-few-weeks-of-resuming-new-shepard-flights/" >🔗</a> **[SpaceNews]** Blue Origin within a “few weeks” of resuming New Shepard flights
 - <a href="https://spacenews.com/nasa-psyche-mission-back-on-track-for-october-launch/" >🔗</a> **[SpaceNews]** NASA Psyche mission back on track for October launch
 - <a href="https://arstechnica.com/space/2023/06/nasa-says-its-metal-mission-psyche-is-back-on-track-for-an-october-liftoff/" >🔗</a> **[Arstechnica]** Game on—the most metal of asteroid missions is back on the menu
 - <a href="http://www.nasa.gov/press-release/review-board-nasa-jpl-psyche-progress-outstanding-launch-on-track" >🔗</a> **[NASA]** Review Board: NASA-JPL Psyche Progress Outstanding, Launch on Track
-- <a href="https://spacenews.com/eos-data-analytics-and-space-electric-thruster-systems-demonstrate-technology-in-orbit/" >🔗</a> **[SpaceNews]** EOS Data Analytics and Space Electric Thruster Systems demonstrate technology in orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T131032">2023-06-06 13:10:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230606T133135">2023-06-06 13:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
