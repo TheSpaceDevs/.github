@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-view-asteroid-sample-recovery-rehearsal" >🔗</a> **[NASA]** NASA Invites Media to View Asteroid Sample Recovery Rehearsal
+- <a href="https://www.cnbc.com/2023/06/07/wilson-aerospace-sues-boeing-over-allegedly-stole-ip-for-nasa-projects.html" >🔗</a> **[CNBC]** Boeing sued for allegedly stealing IP, counterfeiting tools used on NASA projects
 - <a href="https://www.nasaspaceflight.com/2023/06/bedrest-cycling-artificial-gravity-human-spaceflight/" >🔗</a> **[NASASpaceflight]** How bedrest and cycling in artificial gravity is being tested to aid human spaceflight
 - <a href="https://tlpnetwork.com/news/2023/06/vulcan-frf-june-7" >🔗</a> **[The Launch Pad]** ULA To Conduct Vulcan Flight Readiness Firing Today
 - <a href="https://spacenews.com/chinese-commercial-rocket-firm-launches-26-satellites-sets-national-record/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm launches 26 satellites, sets national record
-- <a href="https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/" >🔗</a> **[Arstechnica]** Wildfire smoke and haze in the Eastern United States should peak this week
-- <a href="https://europeanspaceflight.com/rfa-one-creeps-ever-closer-to-the-launchpad/" >🔗</a> **[European Spaceflight]** RFA ONE Creeps Ever Closer to the Launchpad
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T173138">2023-06-07 17:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T180754">2023-06-07 18:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
