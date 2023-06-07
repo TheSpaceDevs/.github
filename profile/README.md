@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/bedrest-cycling-artificial-gravity-human-spaceflight/" >🔗</a> **[NASASpaceflight]** How bedrest and cycling in artificial gravity is being tested to aid human spaceflight
+- <a href="https://tlpnetwork.com/news/2023/06/vulcan-frf-june-7" >🔗</a> **[The Launch Pad]** ULA To Conduct Vulcan Flight Readiness Firing Today
 - <a href="https://spacenews.com/chinese-commercial-rocket-firm-launches-26-satellites-sets-national-record/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm launches 26 satellites, sets national record
 - <a href="https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/" >🔗</a> **[Arstechnica]** Wildfire smoke and haze in the Eastern United States should peak this week
 - <a href="https://europeanspaceflight.com/rfa-one-creeps-ever-closer-to-the-launchpad/" >🔗</a> **[European Spaceflight]** RFA ONE Creeps Ever Closer to the Launchpad
-- <a href="https://spacenews.com/york-space-systems-acquires-emergent-space-technologies/" >🔗</a> **[SpaceNews]** York Space Systems acquires Emergent Space Technologies
-- <a href="https://spacenews.com/space-investment-rebounding-but-more-selectively/" >🔗</a> **[SpaceNews]** Space investment rebounding, but more selectively
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T163624">2023-06-07 16:36:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T170504">2023-06-07 17:05:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
