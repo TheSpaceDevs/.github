@@ -45,7 +45,7 @@ into *an Unknown Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T022300">2023-06-09 02:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20230609T022300Z%2F20230609T025400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Jiuquan, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T075600">2023-06-10 07:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-11&location=Cape Canaveral, FL, USA&dates=20230610T075600Z%2F20230610T112500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-11** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T074100">2023-06-10 07:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-11&location=Cape Canaveral, FL, USA&dates=20230610T074100Z%2F20230610T074100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-11** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T000000">2023-06-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230612T000000Z%2F20230612T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T212600">2023-06-16 21:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230616T212600Z%2F20230616T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T230000">2023-06-17 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230617T230000Z%2F20230617T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Satria-1** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-commercial-rocket-firm-launches-26-satellites-sets-national-record/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm launches 26 satellites, sets national record
 - <a href="https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/" >🔗</a> **[Arstechnica]** Wildfire smoke and haze in the Eastern United States should peak this week
 - <a href="https://europeanspaceflight.com/rfa-one-creeps-ever-closer-to-the-launchpad/" >🔗</a> **[European Spaceflight]** RFA ONE Creeps Ever Closer to the Launchpad
 - <a href="https://spacenews.com/york-space-systems-acquires-emergent-space-technologies/" >🔗</a> **[SpaceNews]** York Space Systems acquires Emergent Space Technologies
 - <a href="https://spacenews.com/space-investment-rebounding-but-more-selectively/" >🔗</a> **[SpaceNews]** Space investment rebounding, but more selectively
-- <a href="https://spacenews.com/apogeo-space-orders-second-space-tug-for-connectivity-constellation/" >🔗</a> **[SpaceNews]** Apogeo Space orders second space tug for connectivity constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T143137">2023-06-07 14:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T150617">2023-06-07 15:06:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
