@@ -23,8 +23,8 @@ The next space launch, retrieved from our
 from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a>, Jiuquan, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T022300">2023-06-09 02:23:00 UTC</a>.  Until
-then, this pad will have been used for 12
-out of 193 launches from this location. The launch status is currently
+then, this pad will have been used for 13
+out of 194 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown Orbit
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T083217">2023-06-07 08:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T090630">2023-06-07 09:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
