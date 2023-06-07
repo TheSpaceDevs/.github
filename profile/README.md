@@ -18,24 +18,24 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kinetica 1 | Flight 2**. It is scheduled to be launched by *CAS Space*
+**Kuaizhou-1A | Unknown Payload**. It is scheduled to be launched by *ExPace*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Unknown Pad</a>, Jiuquan, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T040100">2023-06-07 04:01:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T022300">2023-06-09 02:23:00 UTC</a>.  Until
 then, this pad will have been used for 12
 out of 193 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  Will carry 26 different satellites on a ride-share launch mission, including Earth observation satellites, details TBD.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=40.9605556,100.2961393" >
@@ -53,6 +53,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T113400">2023-06-27 11:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Meteor-M No.2-3&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230627T113400Z%2F20230627T113400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Meteor-M No.2-3** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 2 &amp; 3&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SARah 2 & 3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0B** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-12&location=Cape Canaveral, FL, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-12** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -101,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T043215">2023-06-07 04:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T050614">2023-06-07 05:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
