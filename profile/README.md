@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/" >🔗</a> **[Teslarati]** SpaceX Dragon capsule breaks U.S. spaceflight records
+- <a href="https://mars.nasa.gov/news/9413/" >🔗</a> **[NASA]** Why – and How – NASA Gives a Name to Every Spot It Studies on Mars
+- <a href="https://www.cnbc.com/2023/06/08/investing-in-space-rockets-chase-to-compete-with-spacexs-falcon-9.html" >🔗</a> **[CNBC]** Investing in Space: Here are the rockets chasing to compete with SpaceX’s Falcon 9
 - <a href="https://spacenews.com/firefly-aerospace-acquires-spaceflight-inc/" >🔗</a> **[SpaceNews]** Firefly Aerospace acquires Spaceflight Inc.
 - <a href="https://spacenews.com/saic-to-develop-software-factory-for-space-development-agency/" >🔗</a> **[SpaceNews]** SAIC to develop ‘software factory’ for Space Development Agency
-- <a href="https://europeanspaceflight.com/arianegroup-renames-its-geotracker-space-surveillance-service/" >🔗</a> **[European Spaceflight]** ArianeGroup Renames its GEOTracker Space Surveillance Service
-- <a href="https://spacenews.com/hydrosat-acquires-irriwatch/" >🔗</a> **[SpaceNews]** Hydrosat acquires IrriWatch
-- <a href="https://spacenews.com/albedo-expanding-staff-and-facilities/" >🔗</a> **[SpaceNews]** Albedo expands staff and facilities
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T183147">2023-06-08 18:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T190347">2023-06-08 19:03:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
