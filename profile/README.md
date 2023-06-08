@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-aerospace-acquires-spaceflight-inc/" >🔗</a> **[SpaceNews]** Firefly Aerospace acquires Spaceflight Inc.
 - <a href="https://spacenews.com/saic-to-develop-software-factory-for-space-development-agency/" >🔗</a> **[SpaceNews]** SAIC to develop ‘software factory’ for Space Development Agency
 - <a href="https://europeanspaceflight.com/arianegroup-renames-its-geotracker-space-surveillance-service/" >🔗</a> **[European Spaceflight]** ArianeGroup Renames its GEOTracker Space Surveillance Service
 - <a href="https://spacenews.com/hydrosat-acquires-irriwatch/" >🔗</a> **[SpaceNews]** Hydrosat acquires IrriWatch
 - <a href="https://spacenews.com/albedo-expanding-staff-and-facilities/" >🔗</a> **[SpaceNews]** Albedo expands staff and facilities
-- <a href="https://spacenews.com/nasa-concerned-starship-problems-will-delay-artemis-3/" >🔗</a> **[SpaceNews]** NASA concerned Starship problems will delay Artemis 3
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T173138">2023-06-08 17:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T180741">2023-06-08 18:07:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
