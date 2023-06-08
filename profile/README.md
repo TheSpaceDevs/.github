@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nuview-reveals-backers-including-actor-leonardo-dicaprio/" >🔗</a> **[SpaceNews]** Nuview reveals backers  including actor Leonardo DiCaprio
+- <a href="https://arstechnica.com/space/2023/06/supplier-sues-boeing-over-alleged-theft-of-sls-rocket-tools/" >🔗</a> **[Arstechnica]** Boeing hit with a lawsuit over alleged “theft” of SLS rocket tools
 - <a href="https://spacenews.com/space-command-seeks-more-efficient-use-of-space-tracking-and-missile-sensors/" >🔗</a> **[SpaceNews]** Space Command seeks more efficient use of space-tracking and missile sensors
 - <a href="http://www.nasa.gov/press-release/nasa-opens-applications-for-artifact-program-to-museums-schools-more" >🔗</a> **[NASA]** NASA Opens Applications for Artifact Program to Museums, Schools, More
 - <a href="https://spacenews.com/esa-launches-ai-project-to-monitor-organic-cotton-supplies/" >🔗</a> **[SpaceNews]** ESA launches AI project to monitor organic cotton supplies
-- <a href="http://www.nasa.gov/press-release/nasa-awards-5-million-to-women-s-colleges-tackling-stem-gender-gap" >🔗</a> **[NASA]** NASA Awards $5 Million to Women’s Colleges Tackling STEM Gender Gap
-- <a href="https://arstechnica.com/science/2023/06/wildfire-smoke-and-haze-in-the-eastern-united-states-should-peak-this-week/" >🔗</a> **[Arstechnica]** New York’s air quality reaches “hazardous” level, by far the worst in the world
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230607T233143">2023-06-07 23:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230608T003909">2023-06-08 00:39:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
