@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/" >🔗</a> **[SpaceNews]** U.S. Space Force in talks with allies about how to jointly protect space assets
+- <a href="https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/" >🔗</a> **[SpaceNews]** House Republicans introduce bill to create an independent NOAA
 - <a href="https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/" >🔗</a> **[SpaceNews]** Ursa Major confirms layoffs: ‘Necessary workforce reductions’
 - <a href="https://spacenews.com/iridium-calls-on-us-to-follow-canadas-ligado-rejection/" >🔗</a> **[SpaceNews]** Iridium calls on US to follow Canada’s Ligado rejection
 - <a href="https://spacenews.com/noaa-tracks-smoke-moving-from-the-east-coast-over-the-atlantic/" >🔗</a> **[SpaceNews]** NOAA is tracking smoke moving from the East Coast over the Atlantic
-- <a href="https://www.nasaspaceflight.com/2023/06/twis-20230609/" >🔗</a> **[NASASpaceflight]** This Week In Spaceflight: Vulcan fires up, Canadian fires from space, and JWST deep field data
-- <a href="https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html" >🔗</a> **[CNBC]** Layoffs hit Colorado space companies as funding remains tight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T223134">2023-06-09 22:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T230612">2023-06-09 23:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
