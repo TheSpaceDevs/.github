@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/china-moon-zq-2/" >🔗</a> **[NASASpaceflight]** China outlines ambitious plans for Moon landing; ZhuQue-2 prepares to launch again
 - <a href="https://spacenews.com/gao-flags-concerns-about-space-force-satellite-procurements/" >🔗</a> **[SpaceNews]** GAO flags concerns about Space Force satellite procurements
 - <a href="https://spacenews.com/nelco-invests-in-router-maker-to-improve-indian-satcoms-network/" >🔗</a> **[SpaceNews]** Nelco invests in router maker to improve Indian satcoms network
 - <a href="https://www.cnbc.com/2023/06/08/planet-pl-q1-2024-results.html" >🔗</a> **[CNBC]** Planet stock drops after satellite imagery and data venture lowers annual revenue guidance
 - <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
-- <a href="https://www.teslarati.com/spacex-dragon-capsule-breaks-u-s-spaceflight-records/" >🔗</a> **[Teslarati]** SpaceX Dragon capsule breaks U.S. spaceflight records
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T004154">2023-06-09 00:41:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T022121">2023-06-09 02:21:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
