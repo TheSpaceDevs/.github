@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/twis-20230609/" >🔗</a> **[NASASpaceflight]** This Week In Spaceflight: Vulcan fires up, Canadian fires from space, and JWST deep field data
 - <a href="https://www.cnbc.com/2023/06/09/layoffs-hit-colorado-space-companies-ursa-major-orbit-fab.html" >🔗</a> **[CNBC]** Layoffs hit Colorado space companies as funding remains tight
 - <a href="https://spacenews.com/chinas-first-stackable-satellite-reaches-orbit-on-solid-rocket-launch/" >🔗</a> **[SpaceNews]** China’s first stackable satellite reaches orbit on solid rocket launch
 - <a href="https://spacenews.com/new-spending-caps-to-create-challenges-for-nasa/" >🔗</a> **[SpaceNews]** New spending caps to create challenges for NASA
 - <a href="https://spacenews.com/astroscale-video-shows-plan-to-deorbit-multiple-satellites/" >🔗</a> **[SpaceNews]** Video shows Astroscale’s plan to deorbit multiple satellites
-- <a href="https://www.nasaspaceflight.com/2023/06/china-moon-zq-2/" >🔗</a> **[NASASpaceflight]** China outlines ambitious plans for Moon landing; ZhuQue-2 prepares to launch again
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T193154">2023-06-09 19:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230609T200553">2023-06-09 20:05:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
