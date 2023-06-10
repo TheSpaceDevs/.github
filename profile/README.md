@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/grass-update/" >🔗</a> **[NASASpaceflight]** Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid
+- <a href="https://spacenews.com/should-the-faa-regulate-all-space-activities/" >🔗</a> **[SpaceNews]** Should the FAA regulate all space activities?
 - <a href="https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/" >🔗</a> **[SpaceNews]** U.S. Space Force in talks with allies about how to jointly protect space assets
 - <a href="https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/" >🔗</a> **[SpaceNews]** House Republicans introduce bill to create an independent NOAA
 - <a href="https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/" >🔗</a> **[SpaceNews]** Ursa Major confirms layoffs: ‘Necessary workforce reductions’
-- <a href="https://spacenews.com/iridium-calls-on-us-to-follow-canadas-ligado-rejection/" >🔗</a> **[SpaceNews]** Iridium calls on US to follow Canada’s Ligado rejection
-- <a href="https://spacenews.com/noaa-tracks-smoke-moving-from-the-east-coast-over-the-atlantic/" >🔗</a> **[SpaceNews]** NOAA is tracking smoke moving from the East Coast over the Atlantic
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T183133">2023-06-10 18:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230610T190404">2023-06-10 19:04:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
