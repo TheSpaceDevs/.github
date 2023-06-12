@@ -18,33 +18,42 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T211900">2023-06-12 21:19:00 UTC</a>.  Until
-then, this pad will have been used for 111
-out of 720 launches from this location. The launch status is currently
+**Long March 2D | 41 x Jilin-1 (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="">Launch Complex 9</a>, Taiyuan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T052300">2023-06-15 05:23:00 UTC</a>.  Until
+then, this pad will have been used for 43
+out of 121 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
+*Earth Science* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  Transporter 8 mission is a dedicated rideshare flight to a sun-synchronous orbit with 72 small microsatellites and nanosatellites for commercial and government customers.
+  41 new satellites for the Jilin-1 commercial Earth observation satellites constellation.
+
+
+Tentative satellites list:
+
+
+Jilin-1 Gaofen 03D19~26
+Jilin-1 Gaofen 06A17~18
+Khorgas-1
+HaCeNongYao-1
+Jilin-1 Pingtai 02A01~02
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=38.849,111.608" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T211900">2023-06-12 21:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20230612T211900Z%2F20230612T221600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T052300">2023-06-15 05:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | 41 x Jilin-1 (?)&location=Taiyuan, People&#x27;s Republic of China&dates=20230615T052300Z%2F20230615T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | 41 x Jilin-1 (?)** from Taiyuan, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T212600">2023-06-16 21:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230616T212600Z%2F20230616T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230618T215400">2023-06-18 21:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Satria-1&location=Cape Canaveral, FL, USA&dates=20230618T215400Z%2F20230618T215400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Satria-1** from Cape Canaveral, FL, USA.
@@ -54,6 +63,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-12&location=Cape Canaveral, FL, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-12** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-7&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA003 (VICTUS NOX)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Miura 1 | SN1 Test Flight** from El Arenosillo Test Centre.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -93,17 +103,16 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/space-domain-awareness-provisions-in-draft-ndaa-proposal/" >🔗</a> **[SpaceNews]** Space domain awareness provisions in draft NDAA proposal 
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center" >🔗</a> **[NASA]** NASA Invites Media to Tours, Opening of Earth Information Center
 - <a href="https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/" >🔗</a> **[SpaceNews]** U.S. defense companies find roadblocks in selling space technologies to allies
-- <a href="https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-8 to launch 72 payloads – Booster targets landing milestone
+- <a href="https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-8 launches 72 payloads – Booster landing milestone
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/air-force-to-launch-link-16-tactical-communications-cubesat/" >🔗</a> **[SpaceNews]** Air Force to launch Link 16 tactical communications cubesat
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T210609">2023-06-12 21:06:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T220515">2023-06-12 22:05:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
