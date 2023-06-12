@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/state-department-framework-seeks-to-coordinate-its-space-policy-activities/" >🔗</a> **[SpaceNews]** State Department framework seeks to coordinate its space policy activities
 - <a href="https://www.nasaspaceflight.com/2023/06/grass-update/" >🔗</a> **[NASASpaceflight]** Gravimeter for ESA’s Hera mission is ready to launch to Dimorphos asteroid
 - <a href="https://spacenews.com/should-the-faa-regulate-all-space-activities/" >🔗</a> **[SpaceNews]** Should the FAA regulate all space activities?
 - <a href="https://spacenews.com/u-s-space-force-in-talks-with-allies-about-how-to-jointly-protect-space-assets/" >🔗</a> **[SpaceNews]** U.S. Space Force in talks with allies about how to jointly protect space assets
 - <a href="https://spacenews.com/house-republicans-introduce-bill-to-create-an-independent-noaa/" >🔗</a> **[SpaceNews]** House Republicans introduce bill to create an independent NOAA
-- <a href="https://spacenews.com/ursa-major-confirms-layoffs-necessary-workforce-reductions/" >🔗</a> **[SpaceNews]** Ursa Major confirms layoffs: ‘Necessary workforce reductions’
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230611T233144">2023-06-11 23:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T004122">2023-06-12 00:41:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
