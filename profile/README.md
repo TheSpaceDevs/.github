@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-tours-opening-of-earth-information-center" >🔗</a> **[NASA]** NASA Invites Media to Tours, Opening of Earth Information Center
 - <a href="https://spacenews.com/u-s-defense-companies-find-roadblocks-in-selling-space-technologies-to-allies/" >🔗</a> **[SpaceNews]** U.S. defense companies find roadblocks in selling space technologies to allies
 - <a href="https://www.nasaspaceflight.com/2023/06/spacex-transporter-8/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-8 to launch 72 payloads – Booster targets landing milestone
 - <a href="https://spacenews.com/ses-ceo-steve-collar-announces-sudden-resignation/" >🔗</a> **[SpaceNews]** SES CEO Steve Collar announces sudden resignation
 - <a href="https://spacenews.com/space-force-sorting-out-complexities-of-wartime-contracting/" >🔗</a> **[SpaceNews]** Space Force sorting out complexities of wartime contracting
-- <a href="https://spacenews.com/state-department-framework-seeks-to-coordinate-its-space-policy-activities/" >🔗</a> **[SpaceNews]** State Department framework seeks to coordinate its space policy activities
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T183158">2023-06-12 18:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230612T190308">2023-06-12 19:03:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
