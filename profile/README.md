@@ -99,11 +99,11 @@ Jilin-1 Pingtai 02A01~02
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership" >🔗</a> **[The Launch Pad]** OrbeX Announces Arianespace Partnership 
 - <a href="https://tlpnetwork.com/news/2023/06/uae-plans-mission-to-asteroid-belt" >🔗</a> **[The Launch Pad]** UAE Plans Mission To Asteroid Belt
 - <a href="https://spacenews.com/air-force-orders-a-viasat-3-terminal-to-demonstrate-space-relay-service/" >🔗</a> **[SpaceNews]** Air Force orders a Viasat-3 terminal to demonstrate space relay service
 - <a href="https://tlpnetwork.com/news/2023/06/nasa-psyche-set-to-launch-in-october" >🔗</a> **[The Launch Pad]** NASA Psyche Set To Launch In October
 - <a href="https://tlpnetwork.com/news/2023/06/blue-origin-preparing-to-resume-new-shepard-flights" >🔗</a> **[The Launch Pad]** Blue Origin Preparing To Resume New Shepard Flights
-- <a href="https://spacenews.com/rogers-in-draft-ndaa-bill-presses-air-force-on-relocation-of-u-s-space-command/" >🔗</a> **[SpaceNews]** Rogers in draft NDAA bill presses Air Force on relocation of U.S. Space Command
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T153151">2023-06-13 15:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T160746">2023-06-13 16:07:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
