@@ -99,11 +99,11 @@ Jilin-1 Pingtai 02A01~02
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/grb-221009a-nustar/" >🔗</a> **[NASASpaceflight]** With NuSTAR, scientists reveal new characteristics of the brightest gamma-ray burst ever detected
 - <a href="https://tlpnetwork.com/news/2023/06/ses-ceo-resigns-effective-end-of-june" >🔗</a> **[The Launch Pad]** SES CEO Steps Down Effective End Of June
 - <a href="https://mars.nasa.gov/news/9415/" >🔗</a> **[NASA]** NASA's Curiosity Captures Martian Morning, Afternoon in New 'Postcard'
 - <a href="https://tlpnetwork.com/news/2023/06/firefly-aerospace-acquires-spaceflight-inc" >🔗</a> **[The Launch Pad]** Firefly Aerospace Acquires Spaceflight Inc.
 - <a href="https://spacenews.com/space-force-eager-to-harness-satellite-servicing-technologies/" >🔗</a> **[SpaceNews]** Space Force eager to harness satellite-servicing technologies
-- <a href="https://tlpnetwork.com/news/2023/06/orbex-announces-arianespace-partnership" >🔗</a> **[The Launch Pad]** OrbeX Announces Arianespace Partnership 
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T183152">2023-06-13 18:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T190349">2023-06-13 19:03:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
