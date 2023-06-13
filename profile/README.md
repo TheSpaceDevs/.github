@@ -99,11 +99,11 @@ Jilin-1 Pingtai 02A01~02
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-eighth-dedicated-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches eighth dedicated smallsat rideshare mission
 - <a href="https://spacenews.com/house-faa-bill-would-give-agency-new-space-traffic-management-role/" >🔗</a> **[SpaceNews]** House FAA bill would give agency new space traffic management role
 - <a href="http://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane" >🔗</a> **[NASA]** Next Generation Experimental Aircraft Becomes NASA’s Newest X-Plane
 - <a href="https://spacenews.com/zero-error-systems-raises-7-5-million/" >🔗</a> **[SpaceNews]** Zero-Error Systems raises $7.5 million
 - <a href="https://www.teslarati.com/spacex-launches-52-starlink-satellites-from-early-morning-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX launches 52 Starlink satellites from early morning Falcon 9 launch
-- <a href="https://spacenews.com/space-domain-awareness-provisions-in-draft-ndaa-proposal/" >🔗</a> **[SpaceNews]** Space domain awareness provisions in draft NDAA proposal 
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T033140">2023-06-13 03:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230613T040744">2023-06-13 04:07:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
