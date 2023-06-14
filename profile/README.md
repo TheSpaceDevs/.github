@@ -99,11 +99,11 @@ Jilin-1 Pingtai 02A01~02
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/deloitte-calls-on-companies-to-draft-long-term-space-strategies/" >🔗</a> **[SpaceNews]** Deloitte calls on companies to draft long-term space strategies
 - <a href="https://spacenews.com/world-economic-forum-offers-new-debris-mitigation-guidelines/" >🔗</a> **[SpaceNews]** World Economic Forum offers new debris mitigation guidelines
 - <a href="https://spacenews.com/u-n-opens-window-of-opportunity-to-improve-space-governance/" >🔗</a> **[SpaceNews]** U.N. opens “window of opportunity” to improve space governance
 - <a href="https://spacenews.com/satellite-execs-call-for-more-data-to-improve-space-sustainability/" >🔗</a> **[SpaceNews]** Satellite execs call for more data to improve space sustainability
 - <a href="https://spacenews.com/darpa-downsizes-blackjack-space-experiment/" >🔗</a> **[SpaceNews]** DARPA downsizes Blackjack space experiment
-- <a href="https://tlpnetwork.com/news/2023/06/artemis-2-astronaut-completes-vision-quest" >🔗</a> **[The Launch Pad]** Artemis 2 Astronaut Completes Vision Quest
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T103202">2023-06-14 10:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T110417">2023-06-14 11:04:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
