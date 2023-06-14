@@ -99,11 +99,11 @@ Jilin-1 Pingtai 02A01~02
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/" >🔗</a> **[Arstechnica]** Vulcan rocket completes critical test, but launch slipping toward end of 2023
 - <a href="https://spacenews.com/muon-celebrates-launch-of-first-satellite-in-climate-constellation/" >🔗</a> **[SpaceNews]** Muon celebrates launch of first satellite in Climate Constellation
 - <a href="https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/" >🔗</a> **[SpaceNews]** China begins constructing commercial launch pad for solid rockets
 - <a href="https://spacenews.com/deloitte-calls-on-companies-to-draft-long-term-space-strategies/" >🔗</a> **[SpaceNews]** Deloitte calls on companies to draft long-term space strategies
 - <a href="https://spacenews.com/world-economic-forum-offers-new-debris-mitigation-guidelines/" >🔗</a> **[SpaceNews]** World Economic Forum offers new debris mitigation guidelines
-- <a href="https://spacenews.com/u-n-opens-window-of-opportunity-to-improve-space-governance/" >🔗</a> **[SpaceNews]** U.N. opens “window of opportunity” to improve space governance
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T163712">2023-06-14 16:37:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T170523">2023-06-14 17:05:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
