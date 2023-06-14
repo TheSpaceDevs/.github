@@ -99,11 +99,11 @@ Jilin-1 Pingtai 02A01~02
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/06/new-orbital-debris-guidelines-released-by-wem" >🔗</a> **[The Launch Pad]** New Orbital Debris Mitigation Guidelines Released By World Economic Forum 
 - <a href="https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus" >🔗</a> **[The Launch Pad]** Scientists Discover Phosphorus on Enceladus
 - <a href="https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/" >🔗</a> **[SpaceNews]** Tomorrow.io raises $87 million for weather satellite constellation
 - <a href="https://arstechnica.com/space/2023/06/vulcan-rocket-completes-critical-test-but-launch-slipping-toward-end-of-2023/" >🔗</a> **[Arstechnica]** Vulcan aces engine test, but upper stage anomaly will delay launch for a while
 - <a href="https://spacenews.com/muon-celebrates-launch-of-first-satellite-in-climate-constellation/" >🔗</a> **[SpaceNews]** Muon celebrates launch of first satellite in Climate Constellation
-- <a href="https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/" >🔗</a> **[SpaceNews]** China begins constructing commercial launch pad for solid rockets
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Jilin-1 Pingtai 02A01~02
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T193152">2023-06-14 19:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230614T200658">2023-06-14 20:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
