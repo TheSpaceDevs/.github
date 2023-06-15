@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/more-countries-encouraged-to-commit-to-halt-destructive-asat-tests/" >🔗</a> **[SpaceNews]** More countries encouraged to commit to halt destructive ASAT tests
 - <a href="https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/" >🔗</a> **[Arstechnica]** For the first time in decades, Congress seems interested in space-based solar power
 - <a href="https://spacenews.com/space-force-working-to-define-what-it-means-to-be-a-guardian/" >🔗</a> **[SpaceNews]** Space Force working to define what it means to be a guardian
 - <a href="https://tlpnetwork.com/news/2023/06/new-orbital-debris-guidelines-released-by-wem" >🔗</a> **[The Launch Pad]** New Orbital Debris Mitigation Guidelines Released By World Economic Forum 
 - <a href="https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus" >🔗</a> **[The Launch Pad]** Scientists Discover Phosphorus on Enceladus
-- <a href="https://spacenews.com/tomorrow-io-raises-87-million-for-weather-satellite-constellation/" >🔗</a> **[SpaceNews]** Tomorrow.io raises $87 million for weather satellite constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T103311">2023-06-15 10:33:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T110437">2023-06-15 11:04:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
