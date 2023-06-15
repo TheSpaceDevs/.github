@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/iss_irosa_roundup/" >🔗</a> **[NASASpaceflight]** ISS finishes initial iROSA upgrade with two EVAs this month
+- <a href="https://europeanspaceflight.com/esa-reserve-astronaut-secures-seat-aboard-axiom-flight/" >🔗</a> **[European Spaceflight]** ESA Reserve Astronaut Secures Seat Aboard Axiom Flight
 - <a href="https://spacenews.com/project-kuiper-urges-regulators-to-focus-on-satellite-maneuverability-rules/" >🔗</a> **[SpaceNews]** Project Kuiper urges regulators to focus on satellite maneuverability rules
 - <a href="https://www.cnbc.com/2023/06/15/investing-in-space-bankers-and-insiders-say-ma-action-is-heating-up.html" >🔗</a> **[CNBC]** Investing in Space: Bankers and insiders say M&A action is heating up
 - <a href="https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html" >🔗</a> **[CNBC]** Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public
-- <a href="https://spacenews.com/former-spaceflight-ceo-joins-law-firm-to-support-commercial-space-clients/" >🔗</a> **[SpaceNews]** Former Spaceflight CEO joins law firm to support commercial space clients
-- <a href="https://spacenews.com/luxembourg-approves-program-to-give-nato-o3b-mpower-access/" >🔗</a> **[SpaceNews]** Luxembourg approves program to give NATO O3b mPower access
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T183154">2023-06-15 18:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T190438">2023-06-15 19:04:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
