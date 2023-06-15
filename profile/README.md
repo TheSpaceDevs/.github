@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/project-kuiper-urges-regulators-to-focus-on-satellite-maneuverability-rules/" >🔗</a> **[SpaceNews]** Project Kuiper urges regulators to focus on satellite maneuverability rules
+- <a href="https://www.cnbc.com/2023/06/15/investing-in-space-bankers-and-insiders-say-ma-action-is-heating-up.html" >🔗</a> **[CNBC]** Investing in Space: Bankers and insiders say M&A action is heating up
 - <a href="https://www.cnbc.com/2023/06/15/former-spacex-lawyer-david-anderman-joins-surf-air-mobility.html" >🔗</a> **[CNBC]** Former top SpaceX lawyer joins Surf Air Mobility as it prepares to go public
 - <a href="https://spacenews.com/former-spaceflight-ceo-joins-law-firm-to-support-commercial-space-clients/" >🔗</a> **[SpaceNews]** Former Spaceflight CEO joins law firm to support commercial space clients
 - <a href="https://spacenews.com/luxembourg-approves-program-to-give-nato-o3b-mpower-access/" >🔗</a> **[SpaceNews]** Luxembourg approves program to give NATO O3b mPower access
-- <a href="https://spacenews.com/more-countries-encouraged-to-commit-to-halt-destructive-asat-tests/" >🔗</a> **[SpaceNews]** More countries encouraged to commit to halt destructive ASAT tests
-- <a href="https://arstechnica.com/space/2023/06/for-the-first-time-in-decades-congress-seems-interested-space-based-solar-power/" >🔗</a> **[Arstechnica]** For the first time in decades, Congress seems interested in space-based solar power
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T163551">2023-06-15 16:35:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230615T170351">2023-06-15 17:03:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
