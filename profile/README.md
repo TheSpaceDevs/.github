@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/" >🔗</a> **[SpaceNews]** NASA agreements to support work on commercial spacecraft and space stations
+- <a href="https://spacenews.com/cesiumastro-to-develop-satcom-terminal-for-u-s-air-force-reaper-drone/" >🔗</a> **[SpaceNews]** CesiumAstro to develop satcom terminal for U.S. Air Force drone
+- <a href="https://arstechnica.com/space/2023/06/rocket-report-final-ariane-5-launch-delayed-virgin-galactic-set-to-fly-again/" >🔗</a> **[Arstechnica]** Rocket Report: China addresses falling rocket debris, Vulcan launch slipping
 - <a href="https://spacenews.com/technical-problem-postpones-final-ariane-5-launch/" >🔗</a> **[SpaceNews]** Technical problem postpones final Ariane 5 launch
 - <a href="https://spacenews.com/eutelsat-reversing-course-with-european-retail-business-sale/" >🔗</a> **[SpaceNews]** Eutelsat reversing course with European retail broadband business sale
-- <a href="https://tlpnetwork.com/news/2023/06/nasa-partners-with-7-companies-for-future-commercial-space-capabilities" >🔗</a> **[The Launch Pad]** BREAKING! NASA Partners With SpaceX, Blue Origin, Sierra Space + 4 Others For Future Commercial Space Capabilities
-- <a href="http://www.nasa.gov/press-release/seven-us-companies-collaborate-with-nasa-to-advance-space-capabilities" >🔗</a> **[NASA]** Seven US Companies Collaborate with NASA to Advance Space Capabilities
-- <a href="https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic sets late June date for first commercial SpaceShipTwo flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T113148">2023-06-16 11:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T121118">2023-06-16 12:11:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
