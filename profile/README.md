@@ -90,11 +90,11 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/06/weirdly-a-nasa-official-says-fixed-price-contracts-do-the-agency-no-good/" >🔗</a> **[Arstechnica]** Weirdly, a NASA official says fixed-price contracts do the agency “no good”
 - <a href="https://spacenews.com/firefly-to-buy-remaining-virgin-orbit-assets/" >🔗</a> **[SpaceNews]** Firefly to buy remaining Virgin Orbit assets
 - <a href="https://www.nasaspaceflight.com/2023/06/nasa-low-earth-orbit-partnerships/" >🔗</a> **[NASASpaceflight]** SpaceX, Blue Origin, others highlighted in new NASA low-Earth orbit partnerships
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-view-orion-spacecraft-for-next-artemis-missions" >🔗</a> **[NASA]** NASA Invites Media to View Orion Spacecraft for Next Artemis Missions
 - <a href="https://spacenews.com/intelligence-analysts-confront-the-reality-of-deepfakes/" >🔗</a> **[SpaceNews]** Intelligence analysts confront the reality of deepfakes
-- <a href="https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/" >🔗</a> **[SpaceNews]** NASA agreements to support work on commercial spacecraft and space stations
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T183150">2023-06-16 18:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230616T190343">2023-06-16 19:03:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
