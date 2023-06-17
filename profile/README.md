@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Rocket Lab to launch first HASTE mission; SpaceX to launch Satria
 - <a href="https://tlpnetwork.com/news/2023/06/nasa-and-boeing-to-shape-future-of-aviation-with-x66a" >🔗</a> **[The Launch Pad]** NASA & Boeing To "Shape Future Of Aviation" With X-66A 
-- <a href="https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets" >🔗</a> **[The Launch Pad]** Firefly Aerospace Purchases Remaining Virgin Orbit Assets
 - <a href="https://tlpnetwork.com/news/2023/06/us-house-members-introduce-bill-to-make-noaa-a-independent-agency" >🔗</a> **[The Launch Pad]** US House Members Introduce Bill To Make NOAA A Independent Agency
+- <a href="https://tlpnetwork.com/news/2023/06/firefly-aerospace-purchases-remaining-virgin-orbit-assets" >🔗</a> **[The Launch Pad]** Firefly Aerospace Purchases Remaining Virgin Orbit Assets
 - <a href="https://tlpnetwork.com/news/2023/06/space-force-assigns-spacex-and-ula-new-security-missions" >🔗</a> **[The Launch Pad]** Space Force Assigns SpaceX & ULA New Security Missions
-- <a href="https://spacenews.com/space-force-extends-palantirs-data-as-a-service-contracts/" >🔗</a> **[SpaceNews]** Space Force extends Palantir’s data-as-a-service contracts
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T213143">2023-06-17 21:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T220559">2023-06-17 22:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
