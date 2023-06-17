@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-extends-palantirs-data-as-a-service-contracts/" >🔗</a> **[SpaceNews]** Space Force extends Palantir’s data-as-a-service contracts
+- <a href="https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month" >🔗</a> **[The Launch Pad]** Virgin Galactic To Begin Commercial Operations This Month
+- <a href="https://tlpnetwork.com/news/2023/06/final-ariane-5-launch-delayed-due-to-technical-problems" >🔗</a> **[The Launch Pad]** Final Ariane 5 Launch Delayed Due To Technical Problems
 - <a href="https://spacenews.com/uk-space-agency-prioritizes-sustainability/" >🔗</a> **[SpaceNews]** UK Space Agency prioritizes sustainability
 - <a href="https://spacenews.com/despite-growing-interest-in-commercial-satellite-data-industry-faces-uncertainty/" >🔗</a> **[SpaceNews]** Despite growing interest in commercial satellite data, industry faces uncertainty
-- <a href="http://www.nasa.gov/press-release/nasa-awards-institutional-maintenance-operations-and-repair-contract" >🔗</a> **[NASA]** NASA Awards Institutional, Maintenance, Operations, and Repair Contract
-- <a href="http://www.nasa.gov/press-release/nasa-awards-transformational-shared-services-support-contract" >🔗</a> **[NASA]** NASA Awards Transformational Shared Services Support Contract
-- <a href="https://arstechnica.com/space/2023/06/weirdly-a-nasa-official-says-fixed-price-contracts-do-the-agency-no-good/" >🔗</a> **[Arstechnica]** Weirdly, a NASA official says fixed-price contracts do the agency “no good”
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T121047">2023-06-17 12:10:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230617T124454">2023-06-17 12:44:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
