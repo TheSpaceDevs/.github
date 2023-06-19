@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kuva-space-wins-5-million-euro-award-to-supply-hyperspectral-data/" >🔗</a> **[SpaceNews]** Kuva Space wins 5 million euro award for hyperspectral data
 - <a href="https://tlpnetwork.com/news/2023/06/rocketlab-launches-first-hypersonic-accelerator-suborbital-test-electron" >🔗</a> **[The Launch Pad]** RocketLab Launches First Hypersonic Accelerator Suborbital Test Electron
 - <a href="https://spacenews.com/rocket-lab-launches-first-suborbital-version-of-electron/" >🔗</a> **[SpaceNews]** Rocket Lab launches first suborbital version of Electron
 - <a href="https://tlpnetwork.com/news/2023/06/faa-reduces-airspace-closures-during-launches" >🔗</a> **[The Launch Pad]** FAA Reduces Airspace Closures During Launches
 - <a href="https://www.teslarati.com/spacex-launches-indonesian-telecommunications-satellite/" >🔗</a> **[Teslarati]** SpaceX launches Indonesian telecommunications satellite
-- <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Rocket Lab launches first HASTE mission; SpaceX launches Satria
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T133153">2023-06-19 13:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230619T140644">2023-06-19 14:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
