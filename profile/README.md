@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/" >🔗</a> **[NASASpaceflight]** ULA’s penultimate Delta IV Heavy to launch with NROL-68 mission
 - <a href="https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/" >🔗</a> **[Arstechnica]** After tough start this year, United Launch Alliance can turn things around tonight
 - <a href="http://www.nasa.gov/press-release/nasa-plans-coverage-of-roscosmos-spacewalk-outside-space-station" >🔗</a> **[NASA]** NASA Plans Coverage of Roscosmos Spacewalk Outside Space Station
 - <a href="https://spacenews.com/intelsat-orders-another-refueling-mission-from-northrop-grummans-spacelogistics/" >🔗</a> **[SpaceNews]** Intelsat orders another servicing mission from Northrop Grumman’s SpaceLogistics
 - <a href="https://arstechnica.com/space/2023/06/it-appears-that-roscosmos-really-is-recruiting-soldiers-for-the-ukraine-war/" >🔗</a> **[Arstechnica]** It appears that Roscosmos really is recruiting soldiers for the Ukraine War
-- <a href="https://spacenews.com/true-anomaly-to-pursue-military-contracts-for-virtual-live-training-tech/" >🔗</a> **[SpaceNews]** True Anomaly to pursue military contracts for virtual, live training tech
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T193154">2023-06-20 19:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T200714">2023-06-20 20:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
