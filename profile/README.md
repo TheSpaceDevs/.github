@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/" >🔗</a> **[SpaceNews]** Boeing CEO says company still committed to Starliner
 - <a href="https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/" >🔗</a> **[SpaceNews]** Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip
 - <a href="https://www.teslarati.com/rocket-lab-launches-first-haste-mission/" >🔗</a> **[Teslarati]** Rocket Lab launches first HASTE mission
 - <a href="https://tlpnetwork.com/news/2023/06/skyrora-first-test-of-new-70kn-engine" >🔗</a> **[The Launch Pad]** Skyrora Tests First 3D Printed Rocket Engine
 - <a href="https://www.nasaspaceflight.com/2023/06/enceladus-phosphorus/" >🔗</a> **[NASASpaceflight]** Cassini data reveals the presence of phosphorus in Enceladus’ ocean plumes
-- <a href="https://spacenews.com/china-attracts-moon-base-partners-outlines-project-timelines/" >🔗</a> **[SpaceNews]** China attracts moon base partners, outlines project timelines
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T093153">2023-06-20 09:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T100644">2023-06-20 10:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
