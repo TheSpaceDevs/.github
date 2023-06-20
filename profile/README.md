@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/orbital-composites-leans-into-space-market/" >🔗</a> **[SpaceNews]** Orbital Composites leans into space market
+- <a href="https://arstechnica.com/space/2023/06/it-appears-that-roscosmos-really-is-recruiting-soldiers-for-the-ukraine-war/" >🔗</a> **[Arstechnica]** It appears that Roscosmos really is recruiting soldiers for the Ukraine War
+- <a href="https://spacenews.com/true-anomaly-to-pursue-military-contracts-for-virtual-live-training-tech/" >🔗</a> **[SpaceNews]** True Anomaly to pursue military contracts for virtual, live training tech
 - <a href="https://spacenews.com/ramon-space-reveals-partnership-with-foxconn-subsidiary-ingrasys/" >🔗</a> **[SpaceNews]** Ramon.Space reveals partnership with Foxconn subsidiary Ingrasys
+- <a href="https://spacenews.com/orbital-composites-leans-into-space-market/" >🔗</a> **[SpaceNews]** Orbital Composites leans into space market
 - <a href="https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/" >🔗</a> **[SpaceNews]** Boeing CEO says company still committed to Starliner
-- <a href="https://spacenews.com/indonesias-satria-1-deploys-solar-panels-ahead-of-geostationary-trip/" >🔗</a> **[SpaceNews]** Indonesia’s Satria-1 deploys solar panels ahead of geostationary trip
-- <a href="https://www.teslarati.com/rocket-lab-launches-first-haste-mission/" >🔗</a> **[Teslarati]** Rocket Lab launches first HASTE mission
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T131009">2023-06-20 13:10:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230620T133155">2023-06-20 13:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
