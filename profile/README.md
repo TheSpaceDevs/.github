@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-department-of-agriculture-advance-exploration-science" >🔗</a> **[NASA]** NASA, Department of Agriculture Advance Exploration, Science
 - <a href="https://spacenews.com/mynaric-to-supply-laser-communications-for-raytheons-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Mynaric to supply laser communications for Raytheon’s missile-tracking satellites
 - <a href="https://spacenews.com/intelsat-walks-away-from-ses-merger-talks/" >🔗</a> **[SpaceNews]** Intelsat walks away from SES merger talks
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman Cargo Launch to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-welcomes-ecuador-as-26th-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes Ecuador as 26th Artemis Accords Signatory
-- <a href="http://www.nasa.gov/press-release/nasa-holds-ribbon-cutting-for-new-earth-information-center" >🔗</a> **[NASA]** NASA Holds Ribbon Cutting for New Earth Information Center
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T203147">2023-06-21 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T210654">2023-06-21 21:06:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
