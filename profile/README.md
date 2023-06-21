@@ -45,7 +45,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T070000">2023-06-21 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-68&location=Cape Canaveral, FL, USA&dates=20230621T070000Z%2F20230621T114500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-68** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T070700">2023-06-22 07:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-7&location=Vandenberg SFB, CA, USA&dates=20230622T070700Z%2F20230622T081000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-7** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T071900">2023-06-22 07:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-7&location=Vandenberg SFB, CA, USA&dates=20230622T071900Z%2F20230622T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T130000">2023-06-23 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-12&location=Cape Canaveral, FL, USA&dates=20230623T130000Z%2F20230623T161200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-12** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T000000">2023-06-27 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 01&location=Air launch to Suborbital flight&dates=20230627T000000Z%2F20230627T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 01** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T113400">2023-06-27 11:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Meteor-M No.2-3&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230627T113400Z%2F20230627T113400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Meteor-M No.2-3** from Vostochny Cosmodrome, Siberia, Russian Federation.
@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-reduces-airspace-restrictions-for-cape-canaveral-launches/" >🔗</a> **[SpaceNews]** FAA reduces airspace restrictions for Cape Canaveral launches
 - <a href="https://spacenews.com/indian-ssa-startup-raises-10-million/" >🔗</a> **[SpaceNews]** Indian SSA startup raises $10 million
 - <a href="https://spacenews.com/vyoma-raises-9-million-for-debris-monitoring-satellites/" >🔗</a> **[SpaceNews]** Vyoma raises $9 million for debris-monitoring satellites
 - <a href="https://www.teslarati.com/united-launch-alliance-ready-for-penultimate-delta-iv-heavy-launch/" >🔗</a> **[Teslarati]** United Launch Alliance ready for penultimate Delta IV Heavy launch
 - <a href="https://www.nasaspaceflight.com/2023/06/delta-iv-heavy-nrol-68/" >🔗</a> **[NASASpaceflight]** ULA’s penultimate Delta IV Heavy to launch with NROL-68 mission
-- <a href="https://arstechnica.com/space/2023/06/after-tough-start-this-year-united-launch-alliance-can-turn-things-around-tonight/" >🔗</a> **[Arstechnica]** After tough start this year, United Launch Alliance can turn things around tonight
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T030702">2023-06-21 03:07:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T033155">2023-06-21 03:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
