@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2023/06/the-atlantic-tropics-are-on-fire-it-already-looks-a-like-august-out-there/" >🔗</a> **[Arstechnica]** The Atlantic tropics are on fire—it already looks like August out there
+- <a href="https://www.cnbc.com/2023/06/21/intelsat-ends-merger-talks-with-ses.html" >🔗</a> **[CNBC]** Intelsat ends merger talks with rival satellite communications giant SES
 - <a href="http://www.nasa.gov/press-release/nasa-department-of-agriculture-advance-exploration-science" >🔗</a> **[NASA]** NASA, Department of Agriculture Advance Exploration, Science
 - <a href="https://spacenews.com/mynaric-to-supply-laser-communications-for-raytheons-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Mynaric to supply laser communications for Raytheon’s missile-tracking satellites
 - <a href="https://spacenews.com/intelsat-walks-away-from-ses-merger-talks/" >🔗</a> **[SpaceNews]** Intelsat walks away from SES merger talks
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman Cargo Launch to Space Station
-- <a href="http://www.nasa.gov/press-release/nasa-welcomes-ecuador-as-26th-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes Ecuador as 26th Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T213152">2023-06-21 21:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230621T220534">2023-06-21 22:05:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
