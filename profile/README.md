@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/06/will-zuck-and-musk-really-get-into-a-cage-match-if-so-blame-a-rocket-explosion/" >🔗</a> **[Arstechnica]** The bad blood between Musk and Zuckerberg began with a bang
 - <a href="https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/" >🔗</a> **[SpaceNews]** SpiderOak demonstrates cybersecurity software on orbit
 - <a href="https://spacenews.com/space-force-missile-warning-satellites-drawing-congressional-attention/" >🔗</a> **[SpaceNews]** Space Force missile-warning satellites drawing congressional attention
 - <a href="https://spacenews.com/nasa-opens-earth-information-center-amid-budget-uncertainty/" >🔗</a> **[SpaceNews]** NASA opens Earth Information Center amid budget uncertainty
 - <a href="https://spacenews.com/ulas-delta-4-heavy-launches-classified-spy-satellite/" >🔗</a> **[SpaceNews]** ULA’s Delta 4 Heavy launches classified spy satellite
-- <a href="https://spacenews.com/house-armed-services-committee-advances-2024-defense-policy-bill/" >🔗</a> **[SpaceNews]** House Armed Services Committee advances 2024 defense policy bill
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T143154">2023-06-22 14:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T150630">2023-06-22 15:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
