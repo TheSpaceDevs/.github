@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse" >🔗</a> **[The Launch Pad]** NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse
+- <a href="https://spacenews.com/northstar-pivots-to-rocket-lab-following-virgin-orbits-collapse/" >🔗</a> **[SpaceNews]** NorthStar pivots to Rocket Lab following Virgin Orbit’s collapse
+- <a href="https://tlpnetwork.com/news/2023/06/spacelogistics-secures-3-orders-for-robotic-maintenance-and-boosting-spacecraft-set-to-launch-2025" >🔗</a> **[The Launch Pad]** SpaceLogistics Secures 3 Orders For New Robotic Maintenance & Boosting Spacecraft Set To Launch 2025
+- <a href="https://tlpnetwork.com/news/2023/06/kuva-space-wins-hyperspectral-data-award" >🔗</a> **[The Launch Pad]** Kuva Space Wins Hyperspectral Data Award
 - <a href="https://spacepolicyonline.com/news/glaze-spells-out-priorities-if-budget-cuts-materialize/" >🔗</a> **[SpacePolicyOnline.com]** Glaze Spells Out Priorities if Budget Cuts Materialize
-- <a href="https://spacenews.com/ecuador-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Ecuador signs Artemis Accords
-- <a href="https://www.nasaspaceflight.com/2023/06/ship-25-engine-testing/" >🔗</a> **[NASASpaceflight]** Ship 25 begins engine testing as Starship launch pad work continues
-- <a href="https://arstechnica.com/science/2023/06/the-atlantic-tropics-are-on-fire-it-already-looks-a-like-august-out-there/" >🔗</a> **[Arstechnica]** The Atlantic tropics are on fire—it already looks like August out there
-- <a href="https://www.cnbc.com/2023/06/21/intelsat-ends-merger-talks-with-ses.html" >🔗</a> **[CNBC]** Intelsat ends merger talks with rival satellite communications giant SES
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T053129">2023-06-22 05:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T060856">2023-06-22 06:08:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
