@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9423/" >🔗</a> **[NASA]** NASA's MAVEN Spacecraft Stuns with Ultraviolet Views of Red Planet
+- <a href="https://mars.nasa.gov/news/9421/" >🔗</a> **[NASA]** Landing in Living Rooms: LEGO Models of NASA Mars Rover and Helicopter
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-x-57-maxwell-project-update" >🔗</a> **[NASA]** NASA to Host X-57 Maxwell Project Update
 - <a href="https://europeanspaceflight.com/atmos-space-cargo-raises-e4m-to-return-cargo-from-space/" >🔗</a> **[European Spaceflight]** ATMOS Space Cargo Raises €4M to Return Cargo from Space
 - <a href="https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024" >🔗</a> **[The Launch Pad]** BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission in 2024
-- <a href="https://www.cnbc.com/2023/06/22/spacecraft-builder-apex-raises-16-million-from-a16z-shield-capital.html" >🔗</a> **[CNBC]** Spacecraft builder Apex raises $16 million from a16z and Shield Capital, reveals first customers
-- <a href="https://arstechnica.com/space/2023/06/will-zuck-and-musk-really-get-into-a-cage-match-if-so-blame-a-rocket-explosion/" >🔗</a> **[Arstechnica]** The bad blood between Musk and Zuckerberg began with a bang
-- <a href="https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/" >🔗</a> **[SpaceNews]** SpiderOak demonstrates cybersecurity software on orbit
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T173137">2023-06-22 17:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T180733">2023-06-22 18:07:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
