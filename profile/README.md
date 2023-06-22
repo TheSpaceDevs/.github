@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024" >🔗</a> **[The Launch Pad]** BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission to ISS in 2024
+- <a href="https://europeanspaceflight.com/atmos-space-cargo-raises-e4m-to-return-cargo-from-space/" >🔗</a> **[European Spaceflight]** ATMOS Space Cargo Raises €4M to Return Cargo from Space
+- <a href="https://tlpnetwork.com/news/2023/06/india-to-sign-artemis-accords-joint-nasa-isro-mission-to-iss-in-2024" >🔗</a> **[The Launch Pad]** BREAKING! India To Sign Artemis Accords, Joint NASA-ISRO Mission in 2024
 - <a href="https://www.cnbc.com/2023/06/22/spacecraft-builder-apex-raises-16-million-from-a16z-shield-capital.html" >🔗</a> **[CNBC]** Spacecraft builder Apex raises $16 million from a16z and Shield Capital, reveals first customers
 - <a href="https://arstechnica.com/space/2023/06/will-zuck-and-musk-really-get-into-a-cage-match-if-so-blame-a-rocket-explosion/" >🔗</a> **[Arstechnica]** The bad blood between Musk and Zuckerberg began with a bang
 - <a href="https://spacenews.com/spideroak-demonstrates-cybersecurity-software-on-orbit/" >🔗</a> **[SpaceNews]** SpiderOak demonstrates cybersecurity software on orbit
-- <a href="https://spacenews.com/space-force-missile-warning-satellites-drawing-congressional-attention/" >🔗</a> **[SpaceNews]** Space Force missile-warning satellites drawing congressional attention
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T163408">2023-06-22 16:34:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230622T170437">2023-06-22 17:04:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
