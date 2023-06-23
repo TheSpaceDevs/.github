@@ -99,11 +99,11 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-orbiter-transfer-vehicle-malfunctions/" >🔗</a> **[SpaceNews]** Second Orbiter transfer vehicle malfunctions
+- <a href="https://www.nasaspaceflight.com/2023/06/themis-prometheus-hot-fire-test/" >🔗</a> **[NASASpaceflight]** Themis, Prometheus complete first hot-fire tests in France
 - <a href="https://spacenews.com/lynk-global-on-verge-of-initial-commercial-direct-to-device-services/" >🔗</a> **[SpaceNews]** Lynk Global on verge of initial commercial direct-to-device services
 - <a href="http://www.nasa.gov/press-release/nasa-welcomes-india-as-27th-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes India as 27th Artemis Accords Signatory
 - <a href="https://spacepolicyonline.com/news/artemis-accords-gain-more-members/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Gain More Members
-- <a href="http://www.nasa.gov/press-release/nasa-awards-millions-in-stem-research-grants" >🔗</a> **[NASA]** NASA Awards Millions in STEM Research Grants
-- <a href="https://spacenews.com/space-leasing-international-sets-sights-on-ground-stations-satellites-an-launch-infrastructure/" >🔗</a> **[SpaceNews]** Space Leasing International sets sights on ground stations, satellites and launch infrastructure
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T223522">2023-06-23 22:35:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T230708">2023-06-23 23:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
