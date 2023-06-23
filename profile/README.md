@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apex-raises-16-million-for-spacecraft-factory/" >🔗</a> **[SpaceNews]** Apex raises $16 million for spacecraft factory
+- <a href="https://arstechnica.com/space/2023/06/rocket-report-electron-scoops-up-virgin-launch-ula-flies-first-2023-mission/" >🔗</a> **[Arstechnica]** Rocket Report: Electron scoops up Virgin launch, ULA flies first 2023 mission
 - <a href="https://spacenews.com/safran-and-terran-orbital-to-explore-joint-production-of-satellite-propulsion-systems-in-the-u-s/" >🔗</a> **[SpaceNews]** Safran, Terran Orbital to explore joint production of satellite propulsion systems
 - <a href="https://spacenews.com/u-s-and-india-to-expand-spaceflight-cooperation/" >🔗</a> **[SpaceNews]** U.S. and India to expand spaceflight cooperation
 - <a href="https://www.nasaspaceflight.com/2023/06/starlink-5-12-launch/" >🔗</a> **[NASASpaceflight]** SpaceX closes record-breaking first half of 2023 with Starlink launch
-- <a href="https://spacepolicyonline.com/news/senate-appropriators-adopt-fy2024-spending-caps/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Adopt FY2024 Spending Caps
-- <a href="https://spacenews.com/what-the-wreck-of-the-titan-portends-for-commercial-spaceflight/" >🔗</a> **[SpaceNews]** What the wreck of the Titan portends for commercial spaceflight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T113155">2023-06-23 11:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230623T121325">2023-06-23 12:13:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
