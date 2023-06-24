@@ -99,11 +99,11 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/06/dream_chaser_nearing_flight_readiness" >🔗</a> **[The Launch Pad]** Dream Chaser Continues Chasing its Path to the Pad
 - <a href="https://tlpnetwork.com/news/2023/06/ecuador_signs_the_artemis_accords" >🔗</a> **[The Launch Pad]** Ecuador Signs The Artemis Accords
 - <a href="https://tlpnetwork.com/news/2023/06/centaur_upper_stage_delays_ula_vulcan_maiden_flight" >🔗</a> **[The Launch Pad]** Centaur Upper Stage Delays ULA Vulcan Maiden Flight
 - <a href="https://spacenews.com/first-vulcan-launch-further-delayed-for-centaur-modifications/" >🔗</a> **[SpaceNews]** First Vulcan launch further delayed for Centaur modifications
 - <a href="https://spacenews.com/second-orbiter-transfer-vehicle-malfunctions/" >🔗</a> **[SpaceNews]** Second Orbiter transfer vehicle malfunctions
-- <a href="https://www.nasaspaceflight.com/2023/06/themis-prometheus-hot-fire-test/" >🔗</a> **[NASASpaceflight]** Themis, Prometheus complete first hot-fire tests in France
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T153145">2023-06-24 15:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230624T160808">2023-06-24 16:08:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
