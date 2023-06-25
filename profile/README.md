@@ -99,11 +99,11 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-25-july-1-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 25-July 1, 2023
 - <a href="https://spacenews.com/anduril-acquires-solid-rocket-motor-manufacturer-adranos/" >🔗</a> **[SpaceNews]** Anduril acquires solid rocket motor manufacturer Adranos
 - <a href="https://spacenews.com/senate-armed-services-committee-advances-2024-ndaa/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee advances 2024 NDAA
 - <a href="https://spacepolicyonline.com/news/defense-authorization-appropriations-bills-ready-for-floor-action/" >🔗</a> **[SpacePolicyOnline.com]** Defense Authorization, Appropriations Bills Ready for Floor Action
 - <a href="https://tlpnetwork.com/news/2023/06/spacex_introducing_hot_staging_to_starship" >🔗</a> **[The Launch Pad]** SpaceX Starship to implement Hot Staging
-- <a href="https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/" >🔗</a> **[SpaceNews]** SpaceX changing Starship stage separation ahead of next launch
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T203136">2023-06-25 20:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230625T210615">2023-06-25 21:06:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
