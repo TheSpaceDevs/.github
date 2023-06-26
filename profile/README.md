@@ -99,11 +99,11 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
 - <a href="https://spacenews.com/u-k-joins-u-s-space-commands-commercial-space-tracking-cell/" >🔗</a> **[SpaceNews]** U.K. joins U.S. Space Command’s commercial space-tracking cell
 - <a href="https://spacenews.com/agile-raises-13-million-to-expand-production/" >🔗</a> **[SpaceNews]** Agile raises $13 million to expand production
 - <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-as-dragon-departs-station-with-science" >🔗</a> **[NASA]** NASA to Provide Coverage as Dragon Departs Station with Science
 - <a href="https://spacenews.com/nasa-identifies-potential-major-cost-growth-in-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA identifies potential major cost growth in Mars Sample Return
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-for-launch-of-esa-dark-universe-mission" >🔗</a> **[NASA]** NASA to Provide Coverage for Launch of ESA ‘Dark Universe’ Mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T203226">2023-06-26 20:32:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T210625">2023-06-26 21:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
