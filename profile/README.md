@@ -85,11 +85,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/06/dorbit-wins-italian-contracts-to-fly-mini-space-lab-and-test-optical-intersatellite-links" >🔗</a> **[The Launch Pad]** D-Orbit Wins Italian Contracts To Fly Mini Space Lab And Test Optical Intersatellite Links
+- <a href="https://tlpnetwork.com/news/2023/06/nasa_begins_simulated_mars_mission" >🔗</a> **[The Launch Pad]** NASA begins CHAPEA 1 Mission to "Mars" in Houston
+- <a href="https://tlpnetwork.com/news/2023/06/esa-and-european-companies-agree-to-2030-zero-debris-agreement" >🔗</a> **[The Launch Pad]** ESA & European Companies Agree To 2030 "Zero Debris" Agreement
+- <a href="https://tlpnetwork.com/news/2023/06/uk-to-form-commercial-space-tracking-cell-partners-with-us-space-command" >🔗</a> **[The Launch Pad]** UK To Form Commercial Space Tracking Cell, Partners With U.S. Space Command's
 - <a href="https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/" >🔗</a> **[Teslarati]** SpaceX to launch the Euclid Space Telescope for the European Space Agency
-- <a href="https://spacenews.com/d-orbit-wins-contracts-to-test-optical-links-and-fly-mini-space-lab/" >🔗</a> **[SpaceNews]** D-Orbit wins contracts to test optical links and fly mini space lab
-- <a href="https://spacenews.com/esa-european-companies-back-zero-debris-agreement/" >🔗</a> **[SpaceNews]** ESA, European companies back “zero debris” agreement
-- <a href="https://spacenews.com/ses-bid-for-equal-split-of-c-band-proceeds-back-in-play/" >🔗</a> **[SpaceNews]** SES bid for equal split of C-band proceeds back in play
-- <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T131805">2023-06-27 13:18:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T133621">2023-06-27 13:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
