@@ -63,7 +63,6 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T213000">2023-07-04 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230704T213000Z%2F20230704T230500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T080000">2023-07-12 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | Chandrayaan-3&location=Satish Dhawan Space Centre, India&dates=20230712T080000Z%2F20230712T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | Chandrayaan-3** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T233000">2023-07-14 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Baby Come Back&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230714T233000Z%2F20230714T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Baby Come Back** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230715T000000">2023-07-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galaxy 37&location=Cape Canaveral, FL, USA&dates=20230715T000000Z%2F20230715T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galaxy 37** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,11 +98,11 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/" >🔗</a> **[Teslarati]** SpaceX to launch the Euclid Space Telescope for the European Space Agency
+- <a href="https://spacenews.com/d-orbit-wins-contracts-to-test-optical-links-and-fly-mini-space-lab/" >🔗</a> **[SpaceNews]** D-Orbit wins contracts to test optical links and fly mini space lab
+- <a href="https://spacenews.com/esa-european-companies-back-zero-debris-agreement/" >🔗</a> **[SpaceNews]** ESA, European companies back “zero debris” agreement
+- <a href="https://spacenews.com/ses-bid-for-equal-split-of-c-band-proceeds-back-in-play/" >🔗</a> **[SpaceNews]** SES bid for equal split of C-band proceeds back in play
 - <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
-- <a href="https://spacenews.com/u-k-joins-u-s-space-commands-commercial-space-tracking-cell/" >🔗</a> **[SpaceNews]** U.K. joins U.S. Space Command’s commercial space-tracking cell
-- <a href="https://spacenews.com/agile-raises-13-million-to-expand-production/" >🔗</a> **[SpaceNews]** Agile raises $13 million to expand production
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-coverage-as-dragon-departs-station-with-science" >🔗</a> **[NASA]** NASA to Provide Coverage as Dragon Departs Station with Science
-- <a href="https://spacenews.com/nasa-identifies-potential-major-cost-growth-in-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA identifies potential major cost growth in Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -112,7 +111,7 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230626T233156">2023-06-26 23:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T004252">2023-06-27 00:42:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
