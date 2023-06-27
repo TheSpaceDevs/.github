@@ -18,44 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b/Fregat-M | Meteor-M No.2-3 and others**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1S</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T113449">2023-06-27 11:34:49 UTC</a>.  Until
-then, this pad will have been used for 13
-out of 13 launches from this location. The launch status is currently
+**SpaceShipTwo | Galactic 01**. It is scheduled to be launched by *Virgin Galactic*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Spaceport_America">Spaceport America</a>, Air launch to Suborbital flight*
+<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T150000">2023-06-29 15:00:00 UTC</a>.  Until
+then, this pad will have been used for 7
+out of 79 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Biology* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Meteor-M satellites are a new generation of Russian meteorological satellites to replace the Meteor-3M series. The first two Meteor-M satellites will feature following instruments:
-
-- MSU-MR - Low-resolution Multispectral Scanner for global and regional for cloud cover mapping
-- KMSS-2 - multichannel scanning unit for Earth surface monitoring
-- MTVZA-GYa - imager/sounder for Atmospheric temperature and humidity profiles, sea surface wind
-- IKFS-2 advanced IR sounder for Atmospheric temperature and humidity profiles
-- BRK SSPD - Data Collection System
-- RK-SM-MKA - Modified Rescue Radio complex
-
-One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 series satellites.
-
-42 cubesats from various Russian and international organizations will be launched as co-passengers.
+  Research mission for the Italian Air Force, first commercial Virgin Galactic mission.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/SpaceShipTwo" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=51.884395,128.333932" >
+  <a href="https://www.google.com/maps?q=32.9902778,-106.9719162" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T113449">2023-06-27 11:34:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Meteor-M No.2-3 and others&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230627T113449Z%2F20230627T113449Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Meteor-M No.2-3 and others** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T150000">2023-06-29 15:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 01&location=Air launch to Suborbital flight&dates=20230629T150000Z%2F20230629T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 01** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T000000">2023-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230630T000000Z%2F20230630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA003 (VICTUS NOX)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T151100">2023-07-01 15:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Euclid&location=Cape Canaveral, FL, USA&dates=20230701T151100Z%2F20230701T151100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Euclid** from Cape Canaveral, FL, USA.
@@ -106,12 +94,16 @@ One initial Meteor-M 1 satellite was built, followed by the improved Meteor-M 2 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic sets late June date for first commercial SpaceShipTwo flight
+- <a href="https://www.cnbc.com/2023/06/15/virgin-galactic-sets-first-commercial-space-tourism-flight.html" >🔗</a> **[CNBC]** Virgin Galactic sets first commercial space tourism flight for this month; shares spike more than 40%
+- <a href="https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month" >🔗</a> **[The Launch Pad]** Virgin Galactic To Begin Commercial Operations This Month
+- <a href="https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic sets date and announces crew for first commercial SpaceShipTwo flight
 - <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T113201">2023-06-27 11:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T121351">2023-06-27 12:13:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
