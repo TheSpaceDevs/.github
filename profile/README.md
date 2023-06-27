@@ -85,11 +85,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-ceo/" >🔗</a> **[SpaceNews]** SpaceNews names new CEO Andrew Pemberton 
 - <a href="https://tlpnetwork.com/news/2023/06/dorbit-wins-italian-contracts-to-fly-mini-space-lab-and-test-optical-intersatellite-links" >🔗</a> **[The Launch Pad]** D-Orbit Wins Italian Contracts To Fly Mini Space Lab And Test Optical Intersatellite Links
 - <a href="https://tlpnetwork.com/news/2023/06/nasa_begins_simulated_mars_mission" >🔗</a> **[The Launch Pad]** NASA begins CHAPEA 1 Mission to "Mars" in Houston
 - <a href="https://tlpnetwork.com/news/2023/06/esa-and-european-companies-agree-to-2030-zero-debris-agreement" >🔗</a> **[The Launch Pad]** ESA & European Companies Agree To 2030 "Zero Debris" Agreement
 - <a href="https://tlpnetwork.com/news/2023/06/uk-to-form-commercial-space-tracking-cell-partners-with-us-space-command" >🔗</a> **[The Launch Pad]** UK To Form Commercial Space Tracking Cell, Partners With U.S. Space Command's
-- <a href="https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/" >🔗</a> **[Teslarati]** SpaceX to launch the Euclid Space Telescope for the European Space Agency
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T153248">2023-06-27 15:32:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230627T160905">2023-06-27 16:09:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
