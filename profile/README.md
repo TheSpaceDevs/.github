@@ -86,11 +86,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ramon-space-raises-26-million-from-foxconn-and-other-backers/" >🔗</a> **[SpaceNews]** Ramon.Space raises $26 million from Foxconn and other backers
 - <a href="https://spacenews.com/sierra-space-describes-long-term-plans-for-dream-chaser-and-inflatable-modules/" >🔗</a> **[SpaceNews]** Sierra Space describes long-term plans for Dream Chaser and inflatable modules
 - <a href="https://europeanspaceflight.com/spaceforest-launch-test-flight-of-suborbital-perun-vehicle/" >🔗</a> **[European Spaceflight]** SpaceForest Launch Test Flight of Suborbital Perun Vehicle
 - <a href="https://spacenews.com/ses-wins-134-million-dod-contract-for-x-band-satellite-communications/" >🔗</a> **[SpaceNews]** SES wins $134 million DoD contract for X-band satellite communications
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-upper-stage-needs-mods-before-first-launch/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Upper Stage Needs Mods Before First Launch
-- <a href="https://spacenews.com/british-startup-powers-up-sensor-for-monitoring-tiny-orbital-debris/" >🔗</a> **[SpaceNews]** British startup powers up sensor for monitoring tiny orbital debris
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T121413">2023-06-28 12:14:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T125700">2023-06-28 12:57:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
