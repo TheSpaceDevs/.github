@@ -85,11 +85,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ulas-vulcan-upper-stage-needs-mods-before-first-launch/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Upper Stage Needs Mods Before First Launch
 - <a href="https://spacenews.com/british-startup-powers-up-sensor-for-monitoring-tiny-orbital-debris/" >🔗</a> **[SpaceNews]** British startup powers up sensor for monitoring tiny orbital debris
 - <a href="https://spacenews.com/chinese-company-plans-to-launch-rocket-comparable-to-falcon-9-in-2024/" >🔗</a> **[SpaceNews]** Chinese company plans to launch rocket comparable to Falcon 9 in 2024
 - <a href="https://tlpnetwork.com/news/2023/06/artemis_2_heat_shield_installed" >🔗</a> **[The Launch Pad]** Artemis 2's Heat Shield is installed on Orion
 - <a href="https://spacenews.com/pld-space-postpones-first-launch-to-september/" >🔗</a> **[SpaceNews]** PLD Space postpones first launch to September
-- <a href="https://spacenews.com/house-appropriators-target-space-force-programs/" >🔗</a> **[SpaceNews]** House appropriators target Space Force programs
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T022320">2023-06-28 02:23:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T030755">2023-06-28 03:07:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
