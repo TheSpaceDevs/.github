@@ -86,11 +86,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/" >🔗</a> **[NASASpaceflight]** With Webb, scientists make first detection of carbon molecule in protoplanetary disk
+- <a href="http://www.nasa.gov/press-release/nasa-offers-media-interviews-in-utah-on-asteroid-sample-return" >🔗</a> **[NASA]** NASA Offers Media Interviews in Utah on Asteroid Sample Return
+- <a href="https://spacenews.com/above-orbital-develops-energy-for-spacecraft-under-recent-awards/" >🔗</a> **[SpaceNews]** Above: Orbital develops energy for  spacecraft under recent awards
 - <a href="https://spacenews.com/startup-irocket-wins-space-force-contract-to-demonstrate-rocket-engine/" >🔗</a> **[SpaceNews]** Startup iRocket wins Space Force contract to demonstrate rocket engine
 - <a href="https://spacenews.com/ramon-space-raises-26-million-from-foxconn-and-other-backers/" >🔗</a> **[SpaceNews]** Ramon.Space raises $26 million from Foxconn and other backers
-- <a href="https://spacenews.com/sierra-space-describes-long-term-plans-for-dream-chaser-and-inflatable-modules/" >🔗</a> **[SpaceNews]** Sierra Space describes long-term plans for Dream Chaser and inflatable modules
-- <a href="https://europeanspaceflight.com/spaceforest-launch-test-flight-of-suborbital-perun-vehicle/" >🔗</a> **[European Spaceflight]** SpaceForest Launch Test Flight of Suborbital Perun Vehicle
-- <a href="https://spacenews.com/ses-wins-134-million-dod-contract-for-x-band-satellite-communications/" >🔗</a> **[SpaceNews]** SES wins $134 million DoD contract for X-band satellite communications
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T183641">2023-06-28 18:36:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T190545">2023-06-28 19:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
