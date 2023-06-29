@@ -86,7 +86,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/" >🔗</a> **[SpacePolicyOnline.com]** King Charles III Unveils Astra Carta Seal at Space Sustainability Event
+- <a href="https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/" >🔗</a> **[SpacePolicyOnline.com]** King Charles III Unveils Astra Carta at Space Sustainability Event
 - <a href="https://spacenews.com/ororatech-orders-eight-more-wildfire-monitoring-satellites/" >🔗</a> **[SpaceNews]** OroraTech orders eight more wildfire-monitoring satellites
 - <a href="https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/" >🔗</a> **[SpaceNews]** DoD to invest in startup developing mobile space-launch platforms
 - <a href="https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/" >🔗</a> **[NASASpaceflight]** With Webb, scientists make first detection of carbon molecule in protoplanetary disk
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230628T233211">2023-06-28 23:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T004216">2023-06-29 00:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
