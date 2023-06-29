@@ -86,11 +86,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/" >🔗</a> **[SpaceNews]** China looks to build new space partnerships with Egypt satellite project
+- <a href="https://www.teslarati.com/spacex-resumes-static-fire-testing-starbase/" >🔗</a> **[Teslarati]** SpaceX resumes static fire testing at Starbase
 - <a href="https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/" >🔗</a> **[SpaceNews]** Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals
 - <a href="https://spacenews.com/spaceshiptwo-to-demonstrate-research-capabilities-on-first-commercial-flight/" >🔗</a> **[SpaceNews]** SpaceShipTwo to demonstrate research capabilities on first commercial flight
 - <a href="https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/" >🔗</a> **[SpacePolicyOnline.com]** King Charles III Unveils Astra Carta at Space Sustainability Event
-- <a href="https://spacenews.com/ororatech-orders-eight-more-wildfire-monitoring-satellites/" >🔗</a> **[SpaceNews]** OroraTech orders eight more wildfire-monitoring satellites
-- <a href="https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/" >🔗</a> **[SpaceNews]** DoD to invest in startup developing mobile space-launch platforms
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T140617">2023-06-29 14:06:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T143155">2023-06-29 14:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
