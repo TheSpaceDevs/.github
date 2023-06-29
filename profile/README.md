@@ -86,11 +86,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/" >🔗</a> **[SpaceNews]** Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals
 - <a href="https://spacenews.com/spaceshiptwo-to-demonstrate-research-capabilities-on-first-commercial-flight/" >🔗</a> **[SpaceNews]** SpaceShipTwo to demonstrate research capabilities on first commercial flight
 - <a href="https://spacepolicyonline.com/news/king-charles-iii-unveils-astra-carta-seal-at-space-sustainability-event/" >🔗</a> **[SpacePolicyOnline.com]** King Charles III Unveils Astra Carta at Space Sustainability Event
 - <a href="https://spacenews.com/ororatech-orders-eight-more-wildfire-monitoring-satellites/" >🔗</a> **[SpaceNews]** OroraTech orders eight more wildfire-monitoring satellites
 - <a href="https://spacenews.com/dod-to-invest-in-startup-developing-mobile-space-launch-platforms/" >🔗</a> **[SpaceNews]** DoD to invest in startup developing mobile space-launch platforms
-- <a href="https://www.nasaspaceflight.com/2023/06/webb-ch3-d203-506/" >🔗</a> **[NASASpaceflight]** With Webb, scientists make first detection of carbon molecule in protoplanetary disk
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T131519">2023-06-29 13:15:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T133720">2023-06-29 13:37:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
