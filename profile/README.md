@@ -85,11 +85,11 @@ into *a Sun-Earth L2
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-issues-new-solicitation-for-100-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency issues new solicitation for 100 satellites
+- <a href="https://spacenews.com/firefly-to-launch-lockheed-martin-small-satellite-experiment/" >🔗</a> **[SpaceNews]** Firefly to launch Lockheed Martin small-satellite experiment
+- <a href="https://europeanspaceflight.com/vega-c-return-to-flight-delayed-after-z40-test-failure/" >🔗</a> **[European Spaceflight]** Vega C Return to Flight Delayed After Z40 Test Failure
 - <a href="https://spacenews.com/virgin-galactic-completes-first-commercial-spaceshiptwo-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic completes first commercial SpaceShipTwo suborbital flight
 - <a href="https://www.cnbc.com/2023/06/29/investing-in-space-india-is-a-sleeping-giant-expert-says.html" >🔗</a> **[CNBC]** Investing in Space: India is the industry’s ‘sleeping giant,’ Artemis Accords expert says
-- <a href="https://spacenews.com/china-looks-to-build-new-space-partnerships-with-egypt-satellite-project/" >🔗</a> **[SpaceNews]** China looks to build new space partnerships with Egypt satellite project
-- <a href="https://www.teslarati.com/spacex-resumes-static-fire-testing-starbase/" >🔗</a> **[Teslarati]** SpaceX resumes static fire testing at Starbase
-- <a href="https://spacenews.com/air-force-awards-raytheon-625-million-contract-for-nuclear-hardened-satcom-terminals/" >🔗</a> **[SpaceNews]** Air Force awards Raytheon $625 million contract for nuclear-hardened satcom terminals
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Earth L2
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T193150">2023-06-29 19:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T200723">2023-06-29 20:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
