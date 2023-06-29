@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SpaceShipTwo | Galactic 01**. It is scheduled to be launched by *Virgin Galactic*
+**Falcon 9 Block 5 | Euclid**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Spaceport_America">Spaceport America</a>, Air launch to Suborbital flight*
-<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T150000">2023-06-29 15:00:00 UTC</a>.  Until
-then, this pad will have been used for 7
-out of 79 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T151100">2023-07-01 15:11:00 UTC</a>.  Until
+then, this pad will have been used for 186
+out of 893 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Biology* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Astrophysics* and the payload will be injected
+into *a Sun-Earth L2
+(L2)*.
 <br>
 <blockquote>
-  Research mission for the Italian Air Force, first commercial Virgin Galactic mission.
+  European Space Agency telescope designed to explore the evolution of the dark Universe. It will make a 3D-map of the Universe (with time as the third dimension) by observing billions of galaxies out to 10 billion light-years, across more than a third of the sky.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceShipTwo" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=32.9902778,-106.9719162" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T150000">2023-06-29 15:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 01&location=Air launch to Suborbital flight&dates=20230629T150000Z%2F20230629T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 01** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T151100">2023-07-01 15:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Euclid&location=Cape Canaveral, FL, USA&dates=20230701T151100Z%2F20230701T151100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Euclid** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T213000">2023-07-04 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 5 ECA+ | Syracuse 4B &amp; Heinrich Hertz (H2Sat)&location=Kourou, French Guiana&dates=20230704T213000Z%2F20230704T230500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T000000">2023-07-06 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-13&location=Vandenberg SFB, CA, USA&dates=20230706T000000Z%2F20230706T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-13** from Vandenberg SFB, CA, USA.
@@ -95,17 +94,18 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/virgin-galactic-sets-late-june-date-for-first-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic sets late June date for first commercial SpaceShipTwo flight
-- <a href="https://www.cnbc.com/2023/06/15/virgin-galactic-sets-first-commercial-space-tourism-flight.html" >🔗</a> **[CNBC]** Virgin Galactic sets first commercial space tourism flight for this month; shares spike more than 40%
-- <a href="https://tlpnetwork.com/news/2023/06/virgin-galactic-to-begin-commercial-operations-this-month" >🔗</a> **[The Launch Pad]** Virgin Galactic To Begin Commercial Operations This Month
-- <a href="https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic sets date and announces crew for first commercial SpaceShipTwo flight
+- <a href="https://sci.esa.int/web/euclid/-/the-euclid-space-telescope-is-coming-together" >🔗</a> **[ESA]** The Euclid space telescope is coming together
+- <a href="https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/" >🔗</a> **[NASASpaceflight]** Euclid moving into final phase of testing following integration milestone
+- <a href="https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/" >🔗</a> **[SpaceNews]** Falcon 9 leading candidate to launch European science mission
+- <a href="https://spacenews.com/esa-moves-two-missions-to-falcon-9/" >🔗</a> **[SpaceNews]** ESA moves two missions to Falcon 9
+- <a href="https://www.teslarati.com/spacex-snipes-european-euclid-hera-launches/" >🔗</a> **[Teslarati]** SpaceX to launch Europe’s next deep space telescope, first asteroid orbiter
 - <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
-- <a href="https://spacenews.com/spaceshiptwo-to-demonstrate-research-capabilities-on-first-commercial-flight/" >🔗</a> **[SpaceNews]** SpaceShipTwo to demonstrate research capabilities on first commercial flight
+- <a href="https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/" >🔗</a> **[Teslarati]** SpaceX to launch the Euclid Space Telescope for the European Space Agency
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T143155">2023-06-29 14:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230629T150652">2023-06-29 15:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
