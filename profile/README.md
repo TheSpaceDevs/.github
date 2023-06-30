@@ -85,11 +85,11 @@ into *a Sun-Earth L2
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/virgin-galactic-scores-success-with-first-commercial-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Scores Success with First Commercial Spaceflight
 - <a href="https://spacenews.com/spacex-to-launch-european-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX to launch European astronomy mission
 - <a href="https://www.teslarati.com/final-member-assigned-to-spacex-and-nasas-crew-7-mission/" >🔗</a> **[Teslarati]** Final member assigned to SpaceX and NASA’s Crew 7 mission
 - <a href="https://spacenews.com/space-development-agency-issues-new-solicitation-for-100-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency issues new solicitation for 100 satellites
 - <a href="https://spacenews.com/firefly-to-launch-lockheed-martin-small-satellite-experiment/" >🔗</a> **[SpaceNews]** Firefly to launch Lockheed Martin small-satellite experiment
-- <a href="https://europeanspaceflight.com/vega-c-return-to-flight-delayed-after-z40-test-failure/" >🔗</a> **[European Spaceflight]** Vega C Return to Flight Delayed After Z40 Test Failure
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Earth L2
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T021715">2023-06-30 02:17:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T030208">2023-06-30 03:02:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
