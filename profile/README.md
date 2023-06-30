@@ -101,11 +101,12 @@ into *a Sun-Earth L2
 - <a href="https://www.teslarati.com/spacex-snipes-european-euclid-hera-launches/" >🔗</a> **[Teslarati]** SpaceX to launch Europe’s next deep space telescope, first asteroid orbiter
 - <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
 - <a href="https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/" >🔗</a> **[Teslarati]** SpaceX to launch the Euclid Space Telescope for the European Space Agency
+- <a href="https://spacenews.com/spacex-to-launch-european-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX to launch European astronomy mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T073156">2023-06-30 07:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T080854">2023-06-30 08:08:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
