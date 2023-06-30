@@ -85,11 +85,11 @@ into *a Sun-Earth L2
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-hunting-for-more-funds-following-stock-sale/" >🔗</a> **[SpaceNews]** AST SpaceMobile hunting for more funds following stock sale
 - <a href="http://www.nasa.gov/press-release/nasa-hosts-osiris-rex-sample-lab-media-day-in-houston" >🔗</a> **[NASA]** NASA Hosts OSIRIS-REx Sample Lab Media Day in Houston
 - <a href="https://spacenews.com/defense-innovation-unit-solicits-proposals-for-cargo-delivery-to-and-from-space/" >🔗</a> **[SpaceNews]** Defense Innovation Unit solicits proposals for cargo delivery to and from space
 - <a href="https://tlpnetwork.com/news/2023/06/ingenuity-wakes-up" >🔗</a> **[The Launch Pad]** BREAKING! NASA's Ingenuity Alive, Calls Home After 2 Months Of Silence
 - <a href="https://mars.nasa.gov/news/9430/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Phones Home
-- <a href="https://www.nasaspaceflight.com/2023/06/blue-update/" >🔗</a> **[NASASpaceflight]** Blue Update: New Glenn testing hardware at the cape as New Shepard closes in on return to flight
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Sun-Earth L2
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T203205">2023-06-30 20:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230630T210536">2023-06-30 21:05:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
