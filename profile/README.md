@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launches-esas-euclid-space-telescope/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s Euclid space telescope
 - <a href="https://tlpnetwork.com/news/2023/07/spacex-launches-euclid" >🔗</a> **[The Launch Pad]** ESA's Euclid Embarks on a Momentous Journey to Unravel the Mystery of Dark Matter and Dark Energy
 - <a href="https://www.nasaspaceflight.com/2023/07/euclid-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches ESA’s Euclid Telescope to explore the dark universe
 - <a href="https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/" >🔗</a> **[SpaceNews]** NASA to add fourth pair of roll-out arrays to ISS
 - <a href="https://www.teslarati.com/united-launch-alliance-delays-maiden-vulcan-centaur-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays maiden Vulcan Centaur launch
-- <a href="https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/" >🔗</a> **[SpaceNews]** China’s Changguang Satellite demonstrates space-to-ground laser links
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T193129">2023-07-01 19:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T203208">2023-07-01 20:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
