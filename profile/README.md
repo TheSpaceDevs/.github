@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Euclid**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T151200">2023-07-01 15:12:00 UTC</a>.  Until
-then, this pad will have been used for 186
-out of 893 launches from this location. The launch status is currently
+**Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a>, Kourou, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T213000">2023-07-04 21:30:00 UTC</a>.  Until
+then, this pad will have been used for 117
+out of 318 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Astrophysics* and the payload will be injected
-into *a Sun-Earth L2
-(L2)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  European Space Agency telescope designed to explore the evolution of the dark Universe. It will make a 3D-map of the Universe (with time as the third dimension) by observing billions of galaxies out to 10 billion light-years, across more than a third of the sky.
+  Syracuse 4B is a French military communications satellite built by Thales Alenia Space. Heinrich Hertz (H2Sat)  is a small geostationary communications satellite built by OHB System and the German Aerospace Center (DLR) to explore and test new broadband communications technologies.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=5.239,-52.768" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +53,7 @@ into *a Sun-Earth L2
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T000000">2023-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 5 &amp; 6&location=Cape Canaveral, FL, USA&dates=20230731T000000Z%2F20230731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 5 & 6** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T000000">2023-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230731T000000Z%2F20230731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T000000">2023-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-15&location=Cape Canaveral, FL, USA&dates=20230731T000000Z%2F20230731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-15** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T000000">2023-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-15&location=Vandenberg SFB, CA, USA&dates=20230731T000000Z%2F20230731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-15** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -97,20 +98,16 @@ into *a Sun-Earth L2
 
 ### Launch-related News 🚀
 
-- <a href="https://sci.esa.int/web/euclid/-/the-euclid-space-telescope-is-coming-together" >🔗</a> **[ESA]** The Euclid space telescope is coming together
-- <a href="https://www.nasaspaceflight.com/2022/04/euclid-integration-milestone/" >🔗</a> **[NASASpaceflight]** Euclid moving into final phase of testing following integration milestone
-- <a href="https://spacenews.com/falcon-9-leading-candidate-to-launch-european-science-mission/" >🔗</a> **[SpaceNews]** Falcon 9 leading candidate to launch European science mission
-- <a href="https://spacenews.com/esa-moves-two-missions-to-falcon-9/" >🔗</a> **[SpaceNews]** ESA moves two missions to Falcon 9
-- <a href="https://www.teslarati.com/spacex-snipes-european-euclid-hera-launches/" >🔗</a> **[Teslarati]** SpaceX to launch Europe’s next deep space telescope, first asteroid orbiter
-- <a href="https://www.nasaspaceflight.com/2023/06/launch-roundup-062523/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Euclid; Virgin Galactic to fly crewed suborbital mission
-- <a href="https://www.teslarati.com/spacex-euclid-space-telescope-launch-esa/" >🔗</a> **[Teslarati]** SpaceX to launch the Euclid Space Telescope for the European Space Agency
-- <a href="https://spacenews.com/spacex-to-launch-european-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX to launch European astronomy mission
-- <a href="https://www.nasaspaceflight.com/2023/07/euclid-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch ESA’s Euclid Telescope to explore the dark universe
+- <a href="https://tlpnetwork.com/news/2023/03/the-final-ariane-5-eap-is-completed" >🔗</a> **[The Launch Pad]** Europropulsion Completes Manufacturing of Final Ariane 5 EAP
+- <a href="https://tlpnetwork.com/news/2023/05/date-set-for-va261" >🔗</a> **[The Launch Pad]** The End Of An Era: Arianespace Sets Date For Final Ariane 5
+- <a href="https://spacenews.com/technical-problem-postpones-final-ariane-5-launch/" >🔗</a> **[SpaceNews]** Technical problem postpones final Ariane 5 launch
+- <a href="https://tlpnetwork.com/news/2023/06/final-ariane-5-launch-delayed-due-to-technical-problems" >🔗</a> **[The Launch Pad]** Final Ariane 5 Launch Delayed Due To Technical Problems
+- <a href="https://tlpnetwork.com/news/2023/06/arianespace-back-on-track-for-final-ariane-5-launch" >🔗</a> **[The Launch Pad]** Arianespace Back On Track For Final Ariane 5 Launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T153142">2023-07-01 15:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T160750">2023-07-01 16:07:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
