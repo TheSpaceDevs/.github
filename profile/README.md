@@ -89,7 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2023/07/euclid-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch ESA’s Euclid Telescope to explore the dark universe
+- <a href="https://www.nasaspaceflight.com/2023/07/euclid-launch/" >🔗</a> **[NASASpaceflight]** SpaceX launches ESA’s Euclid Telescope to explore the dark universe
 - <a href="https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/" >🔗</a> **[SpaceNews]** NASA to add fourth pair of roll-out arrays to ISS
 - <a href="https://www.teslarati.com/united-launch-alliance-delays-maiden-vulcan-centaur-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays maiden Vulcan Centaur launch
 - <a href="https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/" >🔗</a> **[SpaceNews]** China’s Changguang Satellite demonstrates space-to-ground laser links
@@ -107,7 +107,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T160750">2023-07-01 16:07:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T163811">2023-07-01 16:38:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
