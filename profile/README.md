@@ -89,11 +89,11 @@ into *a Sun-Earth L2
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/07/euclid-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch ESA’s Euclid Telescope to explore the dark universe
 - <a href="https://spacenews.com/nasa-to-add-fourth-pair-of-roll-out-arrays-to-iss/" >🔗</a> **[SpaceNews]** NASA to add fourth pair of roll-out arrays to ISS
 - <a href="https://www.teslarati.com/united-launch-alliance-delays-maiden-vulcan-centaur-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays maiden Vulcan Centaur launch
 - <a href="https://spacenews.com/chinas-changguang-satellite-demonstrates-space-to-ground-laser-links/" >🔗</a> **[SpaceNews]** China’s Changguang Satellite demonstrates space-to-ground laser links
 - <a href="https://spacenews.com/ast-spacemobile-hunting-for-more-funds-following-stock-sale/" >🔗</a> **[SpaceNews]** AST SpaceMobile hunting for more funds following stock sale
-- <a href="http://www.nasa.gov/press-release/nasa-hosts-osiris-rex-sample-lab-media-day-in-houston" >🔗</a> **[NASA]** NASA Hosts OSIRIS-REx Sample Lab Media Day in Houston
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Earth L2
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T121213">2023-07-01 12:12:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230701T125055">2023-07-01 12:50:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
