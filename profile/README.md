@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/european_space_forum_returns_to_brussels" >🔗</a> **[The Launch Pad]** The European Space Forum Returns to Brussels
 - <a href="https://europeanspaceflight.com/cnes-creates-space-mission-ethics-committee/" >🔗</a> **[European Spaceflight]** CNES Creates Space Mission Ethics Committee
 - <a href="https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/" >🔗</a> **[Teslarati]** Rocket Lab announces next launch, will attempt first stage recovery
 - <a href="https://www.teslarati.com/spacex-successfully-launches-euclid-space-telescope-esa/" >🔗</a> **[Teslarati]** SpaceX successfully launches Euclid Space Telescope for the ESA
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-parker-solar-probe-completes-16th-sun-orbit" >🔗</a> **[The Launch Pad]** NASA’s Parker Solar Probe Completes 16th Sun Orbit
-- <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-july_2_9/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Arianespace launching Ariane 5 final flight; SpaceX to fly one of last Starlink v1.5 flights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T223523">2023-07-04 22:35:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T230718">2023-07-04 23:07:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
