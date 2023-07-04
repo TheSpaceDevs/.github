@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/" >🔗</a> **[Teslarati]** Rocket Lab announces next launch, will attempt first stage recovery
+- <a href="https://www.teslarati.com/spacex-successfully-launches-euclid-space-telescope-esa/" >🔗</a> **[Teslarati]** SpaceX successfully launches Euclid Space Telescope for the ESA
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-parker-solar-probe-completes-16th-sun-orbit" >🔗</a> **[The Launch Pad]** NASA’s Parker Solar Probe Completes 16th Sun Orbit
 - <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-july_2_9/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Arianespace launching Ariane 5 final flight; SpaceX to fly one of last Starlink v1.5 flights
 - <a href="https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/" >🔗</a> **[Arstechnica]** Europe’s venerable Ariane 5 rocket faces a bittersweet ending on Tuesday
-- <a href="https://tlpnetwork.com/news/2023/07/vega-c-return-delayed-following-static-fire-anomaly" >🔗</a> **[The Launch Pad]** Vega C Return Delayed Following Static Fire Anomaly
-- <a href="https://tlpnetwork.com/news/2023/07/nasa-orders-more-solar-arrays-for-iss" >🔗</a> **[The Launch Pad]** NASA Orders More Solar Arrays For ISS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T121357">2023-07-04 12:13:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230704T125643">2023-07-04 12:56:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
