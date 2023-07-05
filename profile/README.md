@@ -105,11 +105,12 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/2023/06/arianespace-back-on-track-for-final-ariane-5-launch" >🔗</a> **[The Launch Pad]** Arianespace Back On Track For Final Ariane 5 Launch
 - <a href="https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/" >🔗</a> **[Arstechnica]** Europe’s Ariane 5 rocket to make its final launch this evening [Updated]
 - <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-july_2_9/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Arianespace launching Ariane 5 final flight; SpaceX to fly one of last Starlink v1.5 flights
+- <a href="https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/" >🔗</a> **[NASASpaceflight]** Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T170648">2023-07-05 17:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T173326">2023-07-05 17:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
