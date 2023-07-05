@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/07/goodbye-ariane-5/" >🔗</a> **[NASASpaceflight]** Goodbye to the Ariane 5, the ‘Swiss Knife’ of Europe’s launch industry
+- <a href="https://spacenews.com/rivada-gets-more-breathing-room-to-deploy-constellation/" >🔗</a> **[SpaceNews]** Rivada gets more breathing room to deploy constellation
 - <a href="https://europeanspaceflight.com/poland-complete-acceptance-phase-for-three-space-debris-observatories/" >🔗</a> **[European Spaceflight]** Poland Complete Acceptance Phase for Three Space Debris Observatories
 - <a href="https://arstechnica.com/space/2023/07/europes-venerable-ariane-5-rocket-faces-a-bittersweet-ending-on-tuesday/" >🔗</a> **[Arstechnica]** Europe’s Ariane 5 rocket to make its final launch this evening [Updated]
 - <a href="https://spacenews.com/radio-noise-from-satellite-constellations-could-interfere-with-astronomers/" >🔗</a> **[SpaceNews]** Radio noise from satellite constellations could interfere with astronomers
-- <a href="https://spacenews.com/regulatory-uncertainty-as-commercial-human-spaceflight-takes-off/" >🔗</a> **[SpaceNews]** Regulatory uncertainty as commercial human spaceflight takes off
-- <a href="https://tlpnetwork.com/news/2023/07/european_space_forum_returns_to_brussels" >🔗</a> **[The Launch Pad]** The European Space Forum Returns to Brussels
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T153351">2023-07-05 15:33:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230705T160927">2023-07-05 16:09:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
