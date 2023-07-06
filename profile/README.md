@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/students-reach-new-heights-with-spaceport-nova-scotia-first-launch" >🔗</a> **[The Launch Pad]** Students Reach New Heights With Spaceport Nova Scotia First Launch 
+- <a href="https://spacenews.com/europe-leans-on-spacex-to-bridge-launcher-gap/" >🔗</a> **[SpaceNews]** Europe leans on SpaceX to bridge launcher gap
 - <a href="https://spacenews.com/viasat-signs-deal-to-commercialize-european-airspace-tracking-service/" >🔗</a> **[SpaceNews]** Viasat signs deal to commercialize European airspace tracking service
 - <a href="https://spacenews.com/chinas-landspace-set-for-second-methalox-rocket-launch/" >🔗</a> **[SpaceNews]** China’s Landspace set for second methalox rocket launch
 - <a href="https://spacenews.com/space-command-argues-for-shift-from-static-to-dynamic-satellite-operations/" >🔗</a> **[SpaceNews]** Space Command argues for shift from static to dynamic satellite operations
-- <a href="https://tlpnetwork.com/news/2023/07/california-science-center-go-for-shuttle-endeavour-stacking" >🔗</a> **[The Launch Pad]** California Science Center GO For Shuttle Endeavour Stacking
-- <a href="https://www.nasaspaceflight.com/2023/07/starship-launch-site-readiness/" >🔗</a> **[NASASpaceflight]** SpaceX focuses on launch site readiness ahead of Starship Flight 2
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T223414">2023-07-06 22:34:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T230715">2023-07-06 23:07:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
