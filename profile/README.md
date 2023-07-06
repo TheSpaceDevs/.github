@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/california-science-center-go-for-shuttle-endeavour-stacking" >🔗</a> **[The Launch Pad]** California Science Center GO For Shuttle Endeavour Stacking
 - <a href="https://www.nasaspaceflight.com/2023/07/starship-launch-site-readiness/" >🔗</a> **[NASASpaceflight]** SpaceX focuses on launch site readiness ahead of Starship Flight 2
 - <a href="https://www.teslarati.com/ariane-v-retires-after-27-years-of-service/" >🔗</a> **[Teslarati]** Ariane V goes out in style, retires after 27 years of service
 - <a href="https://www.teslarati.com/spacex-completes-28th-commercial-resupply-mission-to-iss/" >🔗</a> **[Teslarati]** SpaceX completes 28th commercial resupply mission to ISS
 - <a href="https://europeanspaceflight.com/esa-launch-independent-enquiry-commission-to-investigate-vega-c-z40-test-failure/" >🔗</a> **[European Spaceflight]** ESA Launch Independent Enquiry Commission to Investigate Vega C Z40 Test Failure
-- <a href="https://spacenews.com/hawkeye-360-satellites-to-monitor-illegal-fishing-in-pacific-islands/" >🔗</a> **[SpaceNews]** Hawkeye 360 satellites to monitor illegal fishing in Pacific Islands
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T183450">2023-07-06 18:34:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230706T190507">2023-07-06 19:05:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
