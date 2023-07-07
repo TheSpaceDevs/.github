@@ -99,11 +99,12 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-july_2_9/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Arianespace launches Ariane 5 final flight; SpaceX to fly one of last Starlink v1.5 flights
+- <a href="https://www.teslarati.com/spacex-set-to-launch-48-starlink-satellites-from-california/" >🔗</a> **[Teslarati]** SpaceX set to launch 48 Starlink satellites from California
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T160901">2023-07-07 16:09:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T164024">2023-07-07 16:40:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
