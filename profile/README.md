@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/join-nasa-to-celebrate-webb-space-telescope-s-first-year-of-science" >🔗</a> **[NASA]** Join NASA to Celebrate Webb Space Telescope’s First Year of Science
 - <a href="https://spacenews.com/for-the-people-the-motivations-fueling-ecuadors-space-journey/" >🔗</a> **[SpaceNews]** For the People: The motivations fueling Ecuador’s space journey
 - <a href="https://spacenews.com/chinese-launch-firm-secures-fresh-funding-for-reusable-rocket/" >🔗</a> **[SpaceNews]** Chinese launch firm secures fresh funding for reusable rocket
 - <a href="https://www.teslarati.com/spacex-set-to-launch-48-starlink-satellites-from-california/" >🔗</a> **[Teslarati]** SpaceX set to launch 48 Starlink satellites from California
 - <a href="https://arstechnica.com/space/2023/07/rocket-report-blue-origin-seeks-to-go-international-au-revoir-ariane-5/" >🔗</a> **[Arstechnica]** Rocket Report: Big dreams in Sin City; SpaceX and FAA seek to halt lawsuit
-- <a href="https://tlpnetwork.com/news/2023/07/students-reach-new-heights-with-spaceport-nova-scotia-first-launch" >🔗</a> **[The Launch Pad]** Students Reach New Heights With Spaceport Nova Scotia First Launch 
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T173245">2023-07-07 17:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230707T180858">2023-07-07 18:08:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
