@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-9-15-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 9-15, 2023
 - <a href="https://www.nasaspaceflight.com/2023/07/webb-ceers1019/" >🔗</a> **[NASASpaceflight]** Using Webb, scientists discover the most distant active supermassive black hole
 - <a href="https://spacenews.com/plasmos-pivots-from-rocket-engines-to-vc/" >🔗</a> **[SpaceNews]** Plasmos pivots from rocket engines to VC
 - <a href="https://spacenews.com/merger-rumors-swirl-around-dish-and-echostar/" >🔗</a> **[SpaceNews]** Merger rumors swirl around Dish and EchoStar
 - <a href="https://spacenews.com/interest-grows-for-human-spaceflight-in-europe/" >🔗</a> **[SpaceNews]** Interest grows for human spaceflight in Europe
-- <a href="https://spacenews.com/congress-should-stop-the-coming-regulatory-assault-on-commercial-space/" >🔗</a> **[SpaceNews]** Congress should stop the coming regulatory assault on commercial space
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230709T213139">2023-07-09 21:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230709T220634">2023-07-09 22:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
