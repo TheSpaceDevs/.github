@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/07/astronomers-solve-mystery-of-how-a-mirror-like-planet-formed-so-close-to-its-star/" >🔗</a> **[Arstechnica]** Astronomers solve mystery of how a mirror-like planet formed so close to its star
+- <a href="https://spacenews.com/can-space-governance-keep-up-with-space-sustainability/" >🔗</a> **[SpaceNews]** Can space governance keep up with space sustainability?
 - <a href="https://www.teslarati.com/spacex-falcon-9-breaks-record-launch-landing-16th-time/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 breaks record, launches and lands for 16th time
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-9-15-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 9-15, 2023
 - <a href="https://www.nasaspaceflight.com/2023/07/webb-ceers1019/" >🔗</a> **[NASASpaceflight]** Using Webb, scientists discover the most distant active supermassive black hole
-- <a href="https://spacenews.com/plasmos-pivots-from-rocket-engines-to-vc/" >🔗</a> **[SpaceNews]** Plasmos pivots from rocket engines to VC
-- <a href="https://spacenews.com/merger-rumors-swirl-around-dish-and-echostar/" >🔗</a> **[SpaceNews]** Merger rumors swirl around Dish and EchoStar
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T153303">2023-07-10 15:33:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T160933">2023-07-10 16:09:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
