@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/nasa-awards-axiom-space-new-iss-spacesuit-contract" >🔗</a> **[The Launch Pad]** BREAKING! NASA Awards Axiom Space New Contract For Next-Gen ISS Spacesuits
+- <a href="http://www.nasa.gov/press-release/nasa-expands-options-for-spacewalking-moonwalking-suits-services" >🔗</a> **[NASA]** NASA Expands Options for Spacewalking, Moonwalking Suits, Services
 - <a href="https://spacenews.com/benchmark-raises-33-million-in-series-b-round/" >🔗</a> **[SpaceNews]** Benchmark raises $33 million in Series B round
 - <a href="https://spacenews.com/ai-quantum-and-nuclear-technologies-are-key-to-lockheed-martins-vision-for-space-2050/" >🔗</a> **[SpaceNews]** AI, quantum and nuclear technologies are key to Lockheed Martin’s vision for Space 2050
 - <a href="https://arstechnica.com/space/2023/07/astronomers-solve-mystery-of-how-a-mirror-like-planet-formed-so-close-to-its-star/" >🔗</a> **[Arstechnica]** Astronomers solve mystery of how a mirror-like planet formed so close to its star
-- <a href="https://spacenews.com/can-space-governance-keep-up-with-space-sustainability/" >🔗</a> **[SpaceNews]** Can space governance keep up with space sustainability?
-- <a href="https://www.teslarati.com/spacex-falcon-9-breaks-record-launch-landing-16th-time/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 breaks record, launches and lands for 16th time
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T193154">2023-07-10 19:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T200742">2023-07-10 20:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
