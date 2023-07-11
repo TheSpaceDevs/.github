@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
+- <a href="https://spacenews.com/astranis-to-deliver-geo-broadband-satellite-for-the-philippines-next-year/" >🔗</a> **[SpaceNews]** Astranis to deliver GEO broadband satellite for the Philippines next year
 - <a href="https://www.nasaspaceflight.com/2023/07/lanch-roundup-071123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch methane powered ZQ-2; SpaceX to finish Starlink v1 flights
 - <a href="https://spacenews.com/indias-renewed-effort-toward-space-preeminence/" >🔗</a> **[SpaceNews]** India’s renewed effort toward space preeminence
 - <a href="https://spacenews.com/former-nasa-astronaut-to-advise-vast-on-commercial-space-station-efforts/" >🔗</a> **[SpaceNews]** Former NASA astronaut to advise Vast on commercial space station efforts
-- <a href="https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html" >🔗</a> **[CNBC]** Astranis to bring satellite internet to 2 million people in the Philippines next year
-- <a href="https://spacenews.com/muon-wins-option-to-monitor-ionosphere-for-space-force/" >🔗</a> **[SpaceNews]** Muon wins option to monitor ionosphere for Space Force
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T183634">2023-07-11 18:36:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T190450">2023-07-11 19:04:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
