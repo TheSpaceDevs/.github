@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-sharpens-plan-for-military-space-race/" >🔗</a> **[SpaceNews]** U.S. sharpens plan for military space race
+- <a href="https://tlpnetwork.com/news/2023/07/astranis-announces-contract-to-bring-internet-to-2-million-people-in-philippines-next-year" >🔗</a> **[The Launch Pad]** Astranis Announces Contract To Bring Internet To 2 Million People In Philippines Next Year
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-astronaut-garrett-reisman-joins-vast-as-human-spaceflight-advisor" >🔗</a> **[The Launch Pad]** NASA Astronaut Garrett Reisman Joins VAST as Human Spaceflight Advisor
 - <a href="https://tlpnetwork.com/news/2023/07/voyager-space-announces-mou-with-india-to-explore-gaganyaan-missions-to-starlab" >🔗</a> **[The Launch Pad]** Voyager Space Announces MoU With India To Explore Gaganyaan Missions To StarLab
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-cancels-janus-mission-after-launch-postponement" >🔗</a> **[The Launch Pad]** NASA Cancels Janus Mission After Launch Postponement
-- <a href="https://www.cnbc.com/2023/07/11/jeff-bezos-blue-origin-be-4-rocket-engine-explodes-during-testing.html" >🔗</a> **[CNBC]** Jeff Bezos’ Blue Origin rocket engine explodes during testing
-- <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T213207">2023-07-11 21:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T220635">2023-07-11 22:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
