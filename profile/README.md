@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/07/lanch-roundup-071123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch methane powered ZQ-2; SpaceX to finish Starlink v1 flights
+- <a href="https://spacenews.com/indias-renewed-effort-toward-space-preeminence/" >🔗</a> **[SpaceNews]** India’s renewed effort toward space preeminence
 - <a href="https://spacenews.com/former-nasa-astronaut-to-advise-vast-on-commercial-space-station-efforts/" >🔗</a> **[SpaceNews]** Former NASA astronaut to advise Vast on commercial space station efforts
 - <a href="https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html" >🔗</a> **[CNBC]** Astranis to bring satellite internet to 2 million people in the Philippines next year
 - <a href="https://spacenews.com/muon-wins-option-to-monitor-ionosphere-for-space-force/" >🔗</a> **[SpaceNews]** Muon wins option to monitor ionosphere for Space Force
-- <a href="https://spacenews.com/thermal-imagery-sector-heats-up/" >🔗</a> **[SpaceNews]** Thermal imagery sector heats up
-- <a href="https://spacenews.com/nasa-awards-crossover-spacesuit-task-orders-to-axiom-and-collins/" >🔗</a> **[SpaceNews]** NASA awards “crossover” spacesuit task orders to Axiom and Collins
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T170631">2023-07-11 17:06:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T173249">2023-07-11 17:32:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
