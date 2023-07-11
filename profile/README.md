@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-to-raise-up-to-65-million-in-stock-sale/" >🔗</a> **[SpaceNews]** Astra to raise up to $65 million in stock sale
 - <a href="https://www.cnbc.com/2023/07/10/astra-plans-reverse-stock-split-seeks-to-raise-up-to-65-million.html" >🔗</a> **[CNBC]** Astra plans a reverse stock split, seeks to raise up to $65 million in offering
 - <a href="https://spacenews.com/voyager-space-deepens-india-ties-for-commercial-space-station-plans/" >🔗</a> **[SpaceNews]** Voyager Space deepens India ties for commercial space station plans
 - <a href="https://spacenews.com/space-force-juggles-roles-as-warrior-and-protector-of-space-environment/" >🔗</a> **[SpaceNews]** Space Force juggles roles as warrior and protector of space environment
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-awards-axiom-space-new-iss-spacesuit-contract" >🔗</a> **[The Launch Pad]** BREAKING! NASA Awards Axiom Space New Contract For Next-Gen ISS Spacesuits
-- <a href="http://www.nasa.gov/press-release/nasa-expands-options-for-spacewalking-moonwalking-suits-services" >🔗</a> **[NASA]** NASA Expands Options for Spacewalking, Moonwalking Suits, Services
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230710T233159">2023-07-10 23:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T003827">2023-07-11 00:38:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
