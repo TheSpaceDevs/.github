@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/former-nasa-astronaut-to-advise-vast-on-commercial-space-station-efforts/" >🔗</a> **[SpaceNews]** Former NASA astronaut to advise Vast on commercial space station efforts
 - <a href="https://www.cnbc.com/2023/07/11/astranis-satellite-internet-coming-to-the-philippines-next-year.html" >🔗</a> **[CNBC]** Astranis to bring satellite internet to 2 million people in the Philippines next year
 - <a href="https://spacenews.com/muon-wins-option-to-monitor-ionosphere-for-space-force/" >🔗</a> **[SpaceNews]** Muon wins option to monitor ionosphere for Space Force
 - <a href="https://spacenews.com/thermal-imagery-sector-heats-up/" >🔗</a> **[SpaceNews]** Thermal imagery sector heats up
 - <a href="https://spacenews.com/nasa-awards-crossover-spacesuit-task-orders-to-axiom-and-collins/" >🔗</a> **[SpaceNews]** NASA awards “crossover” spacesuit task orders to Axiom and Collins
-- <a href="https://spacenews.com/astra-to-raise-up-to-65-million-in-stock-sale/" >🔗</a> **[SpaceNews]** Astra to raise up to $65 million in stock sale
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T160859">2023-07-11 16:08:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230711T164040">2023-07-11 16:40:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
