@@ -25,13 +25,13 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T044030">2023-07-14 04:40:30 UTC</a>.  Until
 then, this pad will have been used for 188
 out of 895 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 54 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T044030">2023-07-14 04:40:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-15&location=Cape Canaveral, FL, USA&dates=20230714T044030Z%2F20230714T044030Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-15** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T044030">2023-07-14 04:40:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 5-15&location=Cape Canaveral, FL, USA&dates=20230714T044030Z%2F20230714T044030Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 5-15** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T080000">2023-07-14 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | Chandrayaan-3&location=Satish Dhawan Space Centre, India&dates=20230714T080000Z%2F20230714T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | Chandrayaan-3** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T233000">2023-07-14 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Baby Come Back&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230714T233000Z%2F20230715T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Baby Come Back** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T022900">2023-07-19 02:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-15&location=Vandenberg SFB, CA, USA&dates=20230719T022900Z%2F20230719T084300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-15** from Vandenberg SFB, CA, USA.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/07/12/viasat-stock-drops-after-satellite-malfunction.html" >🔗</a> **[CNBC]** Viasat stock plunges after company discloses malfunction in new satellite
+- <a href="https://tlpnetwork.com/news/2023/07/viasat-3-deployment-issues" >🔗</a> **[The Launch Pad]** Viasat-3 Experiencing Potentially Fatal Deployment Issues
 - <a href="https://www.nasaspaceflight.com/2023/07/jwst-1year/" >🔗</a> **[NASASpaceflight]** One year into science operations, Webb continues to rewrite the textbooks of science
 - <a href="https://spacenews.com/biden-nominates-space-force-generals-for-promotion/" >🔗</a> **[SpaceNews]** Biden nominates Space Force generals for promotion
 - <a href="https://tlpnetwork.com/news/2023/07/israeli_lunar_lander_facing_funding_woes" >🔗</a> **[The Launch Pad]** Israeli Lunar Landing Mission Struggles with Funding
-- <a href="http://www.nasa.gov/press-release/nasa-sets-briefings-for-next-international-space-station-crew-missions" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
-- <a href="https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/" >🔗</a> **[Arstechnica]** The Webb telescope just offered a revelatory view of humanity’s distant past
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T223407">2023-07-12 22:34:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T230716">2023-07-12 23:07:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
