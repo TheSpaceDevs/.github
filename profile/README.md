@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/eso-elt-50-percent-complete" >🔗</a> **[The Launch Pad]** ESO's Extremely Large Telescope Reaches 50% Complete Milestone
 - <a href="https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race" >🔗</a> **[The Launch Pad]** BREAKING! Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-artemis-crew-transport-vehicles-arrive-at-kennedy-space-center" >🔗</a> **[The Launch Pad]** NASA's Artemis Crew Transport Vehicles Arrive At Kennedy Space Center
 - <a href="https://spacenews.com/u-s-sharpens-plan-for-military-space-race/" >🔗</a> **[SpaceNews]** U.S. sharpens plan for military space race
 - <a href="https://tlpnetwork.com/news/2023/07/astranis-announces-contract-to-bring-internet-to-2-million-people-in-philippines-next-year" >🔗</a> **[The Launch Pad]** Astranis Announces Contract To Bring Internet To 2 Million People In Philippines Next Year
-- <a href="https://tlpnetwork.com/news/2023/07/nasa-astronaut-garrett-reisman-joins-vast-as-human-spaceflight-advisor" >🔗</a> **[The Launch Pad]** NASA Astronaut Garrett Reisman Joins VAST as Human Spaceflight Advisor
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T030551">2023-07-12 03:05:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T033812">2023-07-12 03:38:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
