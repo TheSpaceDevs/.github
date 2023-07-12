@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/second-israeli-lunar-lander-faces-funding-uncertainty/" >🔗</a> **[SpaceNews]** Second Israeli lunar lander faces funding uncertainty
 - <a href="https://spacenews.com/chinas-landspace-reaches-orbit-with-methane-powered-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace reaches orbit with methane-powered Zhuque-2 rocket
 - <a href="https://tlpnetwork.com/news/2023/07/eso-elt-50-percent-complete" >🔗</a> **[The Launch Pad]** ESO's Extremely Large Telescope Reaches 50% Complete Milestone
-- <a href="https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race" >🔗</a> **[The Launch Pad]** BREAKING! Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race
+- <a href="https://tlpnetwork.com/news/2023/07/landspace-zhuque-2-reaches-orbit-wins-methalox-space-race" >🔗</a> **[The Launch Pad]** Landspace Zhuque-2 Reaches Orbit, China Wins Methalox Space Race
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T132000">2023-07-12 13:20:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T133726">2023-07-12 13:37:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
