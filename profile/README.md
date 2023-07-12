@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/07/jwst-1year/" >🔗</a> **[NASASpaceflight]** One year into science operations, Webb continues to rewrite the textbooks of science
+- <a href="https://spacenews.com/biden-nominates-space-force-generals-for-promotion/" >🔗</a> **[SpaceNews]** Biden nominates Space Force generals for promotion
 - <a href="https://tlpnetwork.com/news/2023/07/israeli_lunar_lander_facing_funding_woes" >🔗</a> **[The Launch Pad]** Israeli Lunar Landing Mission Struggles with Funding
 - <a href="http://www.nasa.gov/press-release/nasa-sets-briefings-for-next-international-space-station-crew-missions" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
 - <a href="https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/" >🔗</a> **[Arstechnica]** The Webb telescope just offered a revelatory view of humanity’s distant past
-- <a href="https://tlpnetwork.com/news/2023/07/webb_first_anniversary_spots_stellar_nursery" >🔗</a> **[The Launch Pad]** Webb Celebrates First Anniversary with Stellar Nursery
-- <a href="https://spacenews.com/second-israeli-lunar-lander-faces-funding-uncertainty/" >🔗</a> **[SpaceNews]** Second Israeli lunar lander faces funding uncertainty
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T183631">2023-07-12 18:36:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230712T190509">2023-07-12 19:05:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
