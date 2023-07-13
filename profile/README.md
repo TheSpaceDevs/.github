@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/" >🔗</a> **[SpaceNews]** Senate defense panel leaves National Security Space Launch unsecured
+- <a href="https://www.nasaspaceflight.com/2023/07/chandrayaan-3-launch/" >🔗</a> **[NASASpaceflight]** Chandrayaan-3 lunar landing mission poised for launch from India
 - <a href="https://www.cnbc.com/2023/07/13/investing-in-space-why-blue-origins-engine-explosion-matters.html" >🔗</a> **[CNBC]** Investing in Space: Why Blue Origin’s engine explosion matters
 - <a href="https://spacenews.com/saltzman-urges-allies-to-collectively-train-like-we-fight/" >🔗</a> **[SpaceNews]** Saltzman urges allies to ‘collectively train like we fight’
 - <a href="https://spacenews.com/orbital-composites-wins-1-7-million-space-force-contract/" >🔗</a> **[SpaceNews]** Orbital Composites wins $1.7 million Space Force contract
-- <a href="https://spacenews.com/hanwha-registers-as-south-korean-satellite-communications-provider/" >🔗</a> **[SpaceNews]** Hanwha registers as South Korean satellite communications provider
-- <a href="https://spacenews.com/viasat-3/" >🔗</a> **[SpaceNews]** ViaSat-3 Americas’ antenna problem impacts rollout
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T173249">2023-07-13 17:32:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T180901">2023-07-13 18:09:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
