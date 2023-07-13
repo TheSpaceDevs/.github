@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-unveils-platform-to-speed-up-imagery-access/" >🔗</a> **[SpaceNews]** Maxar unveils platform to speed up imagery access
+- <a href="https://spacepolicyonline.com/news/house-and-senate-appropriators-keep-nasa-basically-at-fy2023-levels/" >🔗</a> **[SpacePolicyOnline.com]** House and Senate Appropriators Keep NASA Basically at FY2023 Levels
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-small-business-administration-s-annual-scorecard-event" >🔗</a> **[NASA]** NASA to Host Small Business Administration’s Annual Scorecard Event
 - <a href="http://www.nasa.gov/press-release/nasa-awards-sounding-rocket-operations-follow-on-contract" >🔗</a> **[NASA]** NASA Awards Sounding Rocket Operations Follow-On Contract
 - <a href="https://www.cnbc.com/2023/07/13/elon-musk-spacex-near-150-billion-valuation.html" >🔗</a> **[CNBC]** Elon Musk’s SpaceX nears $150 billion valuation after secondary share sale
-- <a href="https://arstechnica.com/space/2023/07/ula-finds-root-cause-of-vulcan-failure-sets-path-toward-debut-launch/" >🔗</a> **[Arstechnica]** Vulcan’s upper stage failed due to higher stress and weaker welds
-- <a href="https://spacenews.com/centaur-modifications-push-first-vulcan-launch-to-fourth-quarter/" >🔗</a> **[SpaceNews]** Centaur modifications push first Vulcan launch to fourth quarter
-- <a href="https://spacenews.com/senate-defense-panel-leaves-national-security-space-launch-unsecured/" >🔗</a> **[SpaceNews]** Senate defense panel leaves National Security Space Launch unsecured
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T213153">2023-07-13 21:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230713T220644">2023-07-13 22:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
