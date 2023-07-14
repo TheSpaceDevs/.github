@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-and-senate-appropriators-cut-nasas-budget/" >🔗</a> **[SpaceNews]** House and Senate appropriators cut NASA’s budget
 - <a href="https://spacenews.com/india-launches-chandrayaan-3-lunar-landing-mission/" >🔗</a> **[SpaceNews]** India launches Chandrayaan-3 lunar landing mission
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-to-launch-by-end-of-this-year/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan to Launch By End of This Year
 - <a href="https://arstechnica.com/space/2023/07/the-senate-just-lobbed-a-tactical-nuke-at-nasas-mars-sample-return-program/" >🔗</a> **[Arstechnica]** The Senate just lobbed a tactical nuke at NASA’s Mars Sample Return program
 - <a href="https://spacenews.com/maxar-unveils-platform-to-speed-up-imagery-access/" >🔗</a> **[SpaceNews]** Maxar unveils platform to speed up imagery access
-- <a href="https://spacepolicyonline.com/news/house-and-senate-appropriators-keep-nasa-basically-at-fy2023-levels/" >🔗</a> **[SpacePolicyOnline.com]** House and Senate Appropriators Keep NASA Basically at FY2023 Levels
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T121342">2023-07-14 12:13:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230714T125434">2023-07-14 12:54:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
