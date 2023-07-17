@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/54_years_ago_today_apollo_11_continues_lunar_transit" >🔗</a> **[The Launch Pad]** 54 Years Ago Today, Apollo 11 soars towards The Moon
+- <a href="https://tlpnetwork.com/news/2023/07/china-formalizes-crew-lunar-landing-mission-plans" >🔗</a> **[The Launch Pad]** China Formalizes Crew Lunar Landing Mission Plans
+- <a href="https://www.teslarati.com/spacex-falcon-9-b1060-joins-16-launch-club/" >🔗</a> **[Teslarati]** Another SpaceX Falcon 9 joins the 16 Launch Club
+- <a href="https://arstechnica.com/space/2023/07/former-astronaut-says-its-extremely-important-to-study-artificial-gravity/" >🔗</a> **[Arstechnica]** Former astronaut says it’s “extremely important” to study artificial gravity
 - <a href="https://spacenews.com/china-sets-out-preliminary-crewed-lunar-landing-plan/" >🔗</a> **[SpaceNews]** China sets out preliminary crewed lunar landing plan
-- <a href="https://spacenews.com/return-to-tranquility-base-first/" >🔗</a> **[SpaceNews]** Return to Tranquility Base first
-- <a href="https://spacenews.com/u-k-parliament-committee-recommends-streamlining-launch-licensing/" >🔗</a> **[SpaceNews]** U.K. Parliament committee recommends streamlining launch licensing
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-16-22-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 16-22, 2023
-- <a href="https://www.nasaspaceflight.com/2023/07/moon-to-mars-science-missions/" >🔗</a> **[NASASpaceflight]** Three ongoing missions study human side of Moon and Mars missions
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T153257">2023-07-17 15:32:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T160859">2023-07-17 16:08:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
