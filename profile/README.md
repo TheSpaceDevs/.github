@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-marshall-center-director-jody-singer-to-retire/" >🔗</a> **[SpacePolicyOnline.com]** NASA-Marshall Center Director Jody Singer to Retire
+- <a href="https://spacenews.com/lightridge-acquires-space-electronics-supplier-trident-systems/" >🔗</a> **[SpaceNews]** LightRidge acquires space electronics supplier Trident Systems
+- <a href="http://www.nasa.gov/press-release/wyoming-students-to-hear-from-nasa-astronaut-aboard-space-station" >🔗</a> **[NASA]** Wyoming Students to Hear from NASA Astronaut Aboard Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-marshall-center-director-to-retire-after-38-years-of-service" >🔗</a> **[NASA]** NASA Marshall Center Director to Retire After 38 Years of Service
 - <a href="https://www.cnbc.com/2023/07/17/space-investing-q2-report-signs-of-stabilizing.html" >🔗</a> **[CNBC]** Private investment in space firms shows ‘signs of stabilization’ in Q2 after steady decline
-- <a href="https://tlpnetwork.com/news/2023/07/54_years_ago_today_apollo_11_continues_lunar_transit" >🔗</a> **[The Launch Pad]** 54 Years Ago Today, Apollo 11 soars towards The Moon
-- <a href="https://tlpnetwork.com/news/2023/07/china-formalizes-crew-lunar-landing-mission-plans" >🔗</a> **[The Launch Pad]** China Formalizes Crew Lunar Landing Mission Plans
-- <a href="https://www.teslarati.com/spacex-falcon-9-b1060-joins-16-launch-club/" >🔗</a> **[Teslarati]** Another SpaceX Falcon 9 joins the 16 Launch Club
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T183513">2023-07-17 18:35:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T190536">2023-07-17 19:05:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
