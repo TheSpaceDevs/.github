@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-marshall-center-director-to-retire-after-38-years-of-service" >🔗</a> **[NASA]** NASA Marshall Center Director to Retire After 38 Years of Service
+- <a href="https://www.cnbc.com/2023/07/17/space-investing-q2-report-signs-of-stabilizing.html" >🔗</a> **[CNBC]** Private investment in space firms shows ‘signs of stabilization’ in Q2 after steady decline
 - <a href="https://tlpnetwork.com/news/2023/07/54_years_ago_today_apollo_11_continues_lunar_transit" >🔗</a> **[The Launch Pad]** 54 Years Ago Today, Apollo 11 soars towards The Moon
 - <a href="https://tlpnetwork.com/news/2023/07/china-formalizes-crew-lunar-landing-mission-plans" >🔗</a> **[The Launch Pad]** China Formalizes Crew Lunar Landing Mission Plans
 - <a href="https://www.teslarati.com/spacex-falcon-9-b1060-joins-16-launch-club/" >🔗</a> **[Teslarati]** Another SpaceX Falcon 9 joins the 16 Launch Club
-- <a href="https://arstechnica.com/space/2023/07/former-astronaut-says-its-extremely-important-to-study-artificial-gravity/" >🔗</a> **[Arstechnica]** Former astronaut says it’s “extremely important” to study artificial gravity
-- <a href="https://spacenews.com/china-sets-out-preliminary-crewed-lunar-landing-plan/" >🔗</a> **[SpaceNews]** China sets out preliminary crewed lunar landing plan
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T170644">2023-07-17 17:06:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T173307">2023-07-17 17:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
