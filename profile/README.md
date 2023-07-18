@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/venezuela-joins-china-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Venezuela Joins China's International Lunar Research Station
+- <a href="https://spacenews.com/rocket-lab-launch-enables-telesat-to-restart-low-earth-orbit-demonstrations/" >🔗</a> **[SpaceNews]** Rocket Lab launch enables Telesat to restart LEO demonstrations
 - <a href="https://spacenews.com/venezuela-signs-up-to-chinas-moon-base-initiative/" >🔗</a> **[SpaceNews]** Venezuela signs up to China’s moon base initiative
 - <a href="http://www.nasa.gov/press-release/nasa-discutir-su-labor-en-materia-clim-tica-tras-temperaturas-record" >🔗</a> **[NASA]** NASA discutirá su labor en materia climática tras temperaturas record
 - <a href="https://www.teslarati.com/rocket-lab-launches-7-satellites-recovers-first-stage-booster/" >🔗</a> **[Teslarati]** Rocket Lab launches 7 satellites, recovers first stage booster
-- <a href="https://tlpnetwork.com/news/2023/07/starlink_sales_begin_in_kenya" >🔗</a> **[The Launch Pad]** Starlink brings Wifi to Kenya 
-- <a href="http://www.nasa.gov/press-release/nasa-maintains-a-for-investing-in-small-businesses" >🔗</a> **[NASA]** NASA Maintains ‘A’ for Investing in Small Businesses
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T203145">2023-07-18 20:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T210501">2023-07-18 21:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
