@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-maintains-a-for-investing-in-small-businesses" >🔗</a> **[NASA]** NASA Maintains ‘A’ for Investing in Small Businesses
 - <a href="https://spacenews.com/electron-launches-seven-smallsats-in-latest-step-towards-reusability/" >🔗</a> **[SpaceNews]** Electron launches seven smallsats in latest step towards reusability
 - <a href="https://spacenews.com/young-space-firms-are-driving-acquisition-activity/" >🔗</a> **[SpaceNews]** Young space firms are driving acquisition activity
 - <a href="https://tlpnetwork.com/news/2023/07/uk-parliament-recommends-simplifying-launch-licensing-process" >🔗</a> **[The Launch Pad]** UK Parliament Recommends Simplifying Launch Licensing Process 
 - <a href="https://tlpnetwork.com/news/2023/07/virgin-galactic-announces-galactic-02-crew" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces Galactic 02 Crew
-- <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Rocket Lab conducts Electron reuse attempt, SpaceX to fly two Starlink v2 missions
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T143321">2023-07-18 14:33:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T150651">2023-07-18 15:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
