@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Baby Come Back**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Starlink Group 6-15**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230717T233000">2023-07-17 23:30:00 UTC</a>.  Until
-then, this pad will have been used for 9
-out of 35 launches from this location. The launch status is currently
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T022900">2023-07-19 02:29:00 UTC</a>.  Until
+then, this pad will have been used for 114
+out of 723 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  The "Baby Come Back" mission includes NASA's Starling project, which consists of four CubeSats designed to test technologies for future swarm missions. Telesat contributes the LEO 3 demonstration satellite, ensuring continuity for customers and ecosystem vendor testing. Additionally, two 3U satellites carrying GNSS-RO payloads from SpinGlobal will replenish their constellation of over 100 multipurpose satellites.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T030400">2023-07-31 03:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Jupiter-3&location=Kennedy Space Center, FL, USA&dates=20230731T030400Z%2F20230731T030400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Jupiter-3** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T003000">2023-08-02 00:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Antares 230+ | Cygnus CRS-2 NG-19&location=Wallops Island, Virginia, USA&dates=20230802T003000Z%2F20230802T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Antares 230+ | Cygnus CRS-2 NG-19** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T000000">2023-08-10 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 02&location=Air launch to Suborbital flight&dates=20230810T000000Z%2F20230810T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 02** from Air launch to Suborbital flight.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T231000">2023-08-10 23:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Luna 25&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230810T231000Z%2F20230810T231000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Luna 25** from Vostochny Cosmodrome, Siberia, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,19 +92,17 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/young-space-firms-are-driving-acquisition-activity/" >🔗</a> **[SpaceNews]** Young space firms are driving acquisition activity
 - <a href="https://tlpnetwork.com/news/2023/07/uk-parliament-recommends-simplifying-launch-licensing-process" >🔗</a> **[The Launch Pad]** UK Parliament Recommends Simplifying Launch Licensing Process 
 - <a href="https://tlpnetwork.com/news/2023/07/virgin-galactic-announces-galactic-02-crew" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces Galactic 02 Crew
-- <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Rocket Lab to conduct Electron reuse attempt, SpaceX to fly two Starlink v2 missions
+- <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-071723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Rocket Lab conducts Electron reuse attempt, SpaceX to fly two Starlink v2 missions
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-climate-work-in-wake-of-record-high-temps" >🔗</a> **[NASA]** NASA to Discuss Climate Work in Wake of Record High Temps
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/rocket-lab-announces-next-launch-will-attempt-first-stage-recovery/" >🔗</a> **[Teslarati]** Rocket Lab announces next launch, will attempt first stage recovery
-- <a href="https://spacenews.com/rocket-lab-takes-another-step-towards-reusability-on-next-electron-launch/" >🔗</a> **[SpaceNews]** Rocket Lab takes another step towards reusability on next Electron launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T010136">2023-07-18 01:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230718T024559">2023-07-18 02:45:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
