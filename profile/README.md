@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/07/us-space-commander-touts-powerful-role-of-megaconstellations-in-ukraine/" >🔗</a> **[Arstechnica]** US space commander touts “powerful” role of megaconstellations in Ukraine
+- <a href="https://mars.nasa.gov/news/9441/" >🔗</a> **[NASA]** Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work
 - <a href="https://spacenews.com/planetiq-wins-60-million-noaa-contract/" >🔗</a> **[SpaceNews]** PlanetiQ wins $60 million NOAA contract
 - <a href="https://spacenews.com/op-ed-britain-has-all-the-attributes-to-create-a-world-leading-space-economy/" >🔗</a> **[SpaceNews]** Op-ed | Britain has all the attributes to create a world-leading space economy  
 - <a href="https://spacenews.com/space-rco-backs-hyperspace-challenge-2023-accelerator/" >🔗</a> **[SpaceNews]** Space RCO backs Hyperspace Challenge 2023 accelerator
-- <a href="https://spacenews.com/insurers-brace-for-viasat-3-claim/" >🔗</a> **[SpaceNews]** Insurers brace for ViaSat-3 claim
-- <a href="https://www.teslarati.com/chinas-landspace-zhuque-2-rocket-wins-methane-fueled-rocket-race/" >🔗</a> **[Teslarati]** China’s LandSpace Zhuque-2 Rocket wins methane-fueled rocket race
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T173136">2023-07-19 17:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T180811">2023-07-19 18:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
