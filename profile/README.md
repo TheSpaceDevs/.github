@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/op-ed-britain-has-all-the-attributes-to-create-a-world-leading-space-economy/" >🔗</a> **[SpaceNews]** Op-ed | Britain has all the attributes to create a world-leading space economy  
 - <a href="https://spacenews.com/space-rco-backs-hyperspace-challenge-2023-accelerator/" >🔗</a> **[SpaceNews]** Space RCO backs Hyperspace Challenge 2023 accelerator
 - <a href="https://spacenews.com/insurers-brace-for-viasat-3-claim/" >🔗</a> **[SpaceNews]** Insurers brace for ViaSat-3 claim
 - <a href="https://www.teslarati.com/chinas-landspace-zhuque-2-rocket-wins-methane-fueled-rocket-race/" >🔗</a> **[Teslarati]** China’s LandSpace Zhuque-2 Rocket wins methane-fueled rocket race
 - <a href="https://tlpnetwork.com/news/2023/07/venezuela-joins-china-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Venezuela Joins China's International Lunar Research Station
-- <a href="https://spacenews.com/rocket-lab-launch-enables-telesat-to-restart-low-earth-orbit-demonstrations/" >🔗</a> **[SpaceNews]** Rocket Lab launch enables Telesat to restart LEO demonstrations
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T153151">2023-07-19 15:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T160805">2023-07-19 16:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
