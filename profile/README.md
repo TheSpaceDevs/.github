@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-changed-launch-procurement-plan-due-to-concerns-about-capacity/" >🔗</a> **[SpaceNews]** Space Force changed launch procurement plan due to concerns about capacity
 - <a href="https://www.teslarati.com/spacex-to-launch-15-version-2-mini-starlinks-from-west-coast/" >🔗</a> **[Teslarati]** SpaceX to launch 15 Version 2 mini Starlinks from West Coast
 - <a href="https://europeanspaceflight.com/ohb-to-head-up-90m-odins-eye-space-based-missile-early-warning-project/" >🔗</a> **[European Spaceflight]** OHB to Head Up 90M ODIN’S EYE Space-Based Missile Early Warning Project
 - <a href="https://arstechnica.com/space/2023/07/us-space-commander-touts-powerful-role-of-megaconstellations-in-ukraine/" >🔗</a> **[Arstechnica]** US military leans into megaconstellations after their “resiliency” in Ukraine
 - <a href="https://mars.nasa.gov/news/9441/" >🔗</a> **[NASA]** Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work
-- <a href="https://spacenews.com/planetiq-wins-60-million-noaa-contract/" >🔗</a> **[SpaceNews]** PlanetiQ wins $60 million NOAA contract
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T213155">2023-07-19 21:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230719T220534">2023-07-19 22:05:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
