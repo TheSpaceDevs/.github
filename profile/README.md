@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thermal-data-startup-constellr-raises-17-million-euros/" >🔗</a> **[SpaceNews]** Thermal data startup constellr raises 17 million euros
+- <a href="https://www.teslarati.com/falcon-9-puts-on-a-show-californian-skies/" >🔗</a> **[Teslarati]** Falcon 9 puts on a show in the Californian skies
+- <a href="https://www.cnbc.com/2023/07/20/investing-in-space-how-corporate-vc-is-a-double-edged-sword.html" >🔗</a> **[CNBC]** Investing in Space: How corporate VC is a double-edged sword
 - <a href="https://arstechnica.com/space/2023/07/once-again-the-us-public-says-nasa-should-prioritize-asteroid-defense/" >🔗</a> **[Arstechnica]** Once again, the US public says NASA should prioritize asteroid defense
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-lunar-fission-power-system-faces-nasa-funding-cuts" >🔗</a> **[The Launch Pad]** NASA Lunar Fission Power System Faces NASA Funding Cuts
-- <a href="https://tlpnetwork.com/news/2023/07/esa-prepares-to-deorbit-aeolus-spacecraft" >🔗</a> **[The Launch Pad]** ESA Prepares To DeOrbit Aeolus Spacecraft
-- <a href="https://tlpnetwork.com/news/2023/07/telesat-to-restart-leo-satellite-demo-thanks-to-rocketlab-launch" >🔗</a> **[The Launch Pad]** Telesat To Restart LEO Satellite Demo Thanks To RocketLab Launch
-- <a href="https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/" >🔗</a> **[SpaceNews]** NASA plans for lunar fission power systems face fiscal challenges
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T163611">2023-07-20 16:36:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T170552">2023-07-20 17:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
