@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/telesat-to-restart-leo-satellite-demo-thanks-to-rocketlab-launch" >🔗</a> **[The Launch Pad]** Telesat To Restart LEO Satellite Demo Thanks To RocketLab Launch
 - <a href="https://spacenews.com/nasa-plans-for-lunar-fission-power-systems-face-fiscal-challenges/" >🔗</a> **[SpaceNews]** NASA plans for lunar fission power systems face fiscal challenges
 - <a href="https://spacepolicyonline.com/news/space-force-to-add-third-nssl-lane-2-provider-but-limited-to-7-launches/" >🔗</a> **[SpacePolicyOnline.com]** Space Force To Add Third NSSL Lane 2 Provider, But Limited to 7 Launches
 - <a href="https://spacenews.com/esa-preparing-for-assisted-reentry-of-aeolus-spacecraft/" >🔗</a> **[SpaceNews]** ESA preparing for “assisted reentry” of Aeolus spacecraft
 - <a href="https://spacenews.com/space-force-changed-launch-procurement-plan-due-to-concerns-about-capacity/" >🔗</a> **[SpaceNews]** Space Force changed launch procurement plan due to concerns about capacity
-- <a href="https://www.teslarati.com/spacex-to-launch-15-version-2-mini-starlinks-from-west-coast/" >🔗</a> **[Teslarati]** SpaceX to launch 15 Version 2 mini Starlinks from West Coast
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T131133">2023-07-20 13:11:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T133559">2023-07-20 13:35:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
