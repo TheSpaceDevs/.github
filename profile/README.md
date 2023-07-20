@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-using-anduril-software-to-integrate-u-s-space-surveillance-sensors/" >🔗</a> **[SpaceNews]** Space Force using Anduril software to integrate U.S. space surveillance sensors
+- <a href="https://www.teslarati.com/canoo-delivers-crew-transportation-vehicles-nasa/" >🔗</a> **[Teslarati]** Canoo delivers three Crew Transportation Vehicles to NASA
+- <a href="https://europeanspaceflight.com/esas-space-rider-spacecraft-reaches-key-milestone/" >🔗</a> **[European Spaceflight]** ESA’s Space Rider Spacecraft Reaches Key Milestone
 - <a href="https://mars.nasa.gov/news/9442/" >🔗</a> **[NASA]** NASA's Perseverance Rover Sees Mars in a New Light
 - <a href="https://spacenews.com/thermal-data-startup-constellr-raises-17-million-euros/" >🔗</a> **[SpaceNews]** Thermal data startup constellr raises 17 million euros
-- <a href="https://www.teslarati.com/falcon-9-puts-on-a-show-californian-skies/" >🔗</a> **[Teslarati]** Falcon 9 puts on a show in the Californian skies
-- <a href="https://www.cnbc.com/2023/07/20/investing-in-space-how-corporate-vc-is-a-double-edged-sword.html" >🔗</a> **[CNBC]** Investing in Space: How corporate VC is a double-edged sword
-- <a href="https://arstechnica.com/space/2023/07/once-again-the-us-public-says-nasa-should-prioritize-asteroid-defense/" >🔗</a> **[Arstechnica]** Once again, the US public says NASA should prioritize asteroid defense
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T183324">2023-07-20 18:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T190421">2023-07-20 19:04:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
