@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/space-force-to-add-third-nssl-lane-2-provider-but-limited-to-7-launches/" >🔗</a> **[SpacePolicyOnline.com]** Space Force To Add Third NSSL Lane 2 Provider, But Limited to 7 Launches
 - <a href="https://spacenews.com/esa-preparing-for-assisted-reentry-of-aeolus-spacecraft/" >🔗</a> **[SpaceNews]** ESA preparing for “assisted reentry” of Aeolus spacecraft
 - <a href="https://spacenews.com/space-force-changed-launch-procurement-plan-due-to-concerns-about-capacity/" >🔗</a> **[SpaceNews]** Space Force changed launch procurement plan due to concerns about capacity
 - <a href="https://www.teslarati.com/spacex-to-launch-15-version-2-mini-starlinks-from-west-coast/" >🔗</a> **[Teslarati]** SpaceX to launch 15 Version 2 mini Starlinks from West Coast
 - <a href="https://europeanspaceflight.com/ohb-to-head-up-90m-odins-eye-space-based-missile-early-warning-project/" >🔗</a> **[European Spaceflight]** OHB to Head Up 90M ODIN’S EYE Space-Based Missile Early Warning Project
-- <a href="https://arstechnica.com/space/2023/07/us-space-commander-touts-powerful-role-of-megaconstellations-in-ukraine/" >🔗</a> **[Arstechnica]** US military leans into megaconstellations after their “resiliency” in Ukraine
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T023254">2023-07-20 02:32:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T030713">2023-07-20 03:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
