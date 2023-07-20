@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-white-house-advance-historically-black-scholar-recognition" >🔗</a> **[NASA]** NASA, White House Advance Historically Black Scholar Recognition
+- <a href="http://www.nasa.gov/press-release/nasa-awards-integrated-mission-operations-contract-iii" >🔗</a> **[NASA]** NASA Awards Integrated Mission Operations Contract III
 - <a href="https://spacenews.com/space-force-using-anduril-software-to-integrate-u-s-space-surveillance-sensors/" >🔗</a> **[SpaceNews]** Space Force using Anduril software to integrate U.S. space surveillance sensors
 - <a href="https://www.teslarati.com/canoo-delivers-crew-transportation-vehicles-nasa/" >🔗</a> **[Teslarati]** Canoo delivers three Crew Transportation Vehicles to NASA
 - <a href="https://europeanspaceflight.com/esas-space-rider-spacecraft-reaches-key-milestone/" >🔗</a> **[European Spaceflight]** ESA’s Space Rider Spacecraft Reaches Key Milestone
-- <a href="https://mars.nasa.gov/news/9442/" >🔗</a> **[NASA]** NASA's Perseverance Rover Sees Mars in a New Light
-- <a href="https://spacenews.com/thermal-data-startup-constellr-raises-17-million-euros/" >🔗</a> **[SpaceNews]** Thermal data startup constellr raises 17 million euros
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T203155">2023-07-20 20:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230720T210445">2023-07-20 21:04:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
