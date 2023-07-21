@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-picks-kennedy-space-center-for-project-kuiper-processing-facility/" >🔗</a> **[SpaceNews]** Amazon picks Kennedy Space Center for Project Kuiper processing facility
 - <a href="https://arstechnica.com/space/2023/07/a-promising-internet-satellite-is-rendered-useless-by-power-supply-issues/" >🔗</a> **[Arstechnica]** A promising Internet satellite is rendered useless by power supply issues
 - <a href="https://www.teslarati.com/spacex-booster-9-orbital-launch-mount/" >🔗</a> **[Teslarati]** SpaceX moves Booster 9 to the Orbital Launch Mount
 - <a href="http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n" >🔗</a> **[NASA]** El administrador de NASA viajará a Sudamérica, hablará de cooperación
 - <a href="http://www.nasa.gov/press-release/nasa-administrator-to-head-to-south-america-discuss-space-cooperation" >🔗</a> **[NASA]** NASA Administrator to Head to South America; Discuss Space Cooperation
-- <a href="https://tlpnetwork.com/news/2023/07/nasa-begins-next-phase-of-moon-to-mars-exploration-architecture-development" >🔗</a> **[The Launch Pad]** NASA Begins Next Phase Of Moon to Mars Exploration Architecture Development
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T203155">2023-07-21 20:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T210456">2023-07-21 21:04:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
