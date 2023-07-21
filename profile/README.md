@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-astranis-satellite-sidelined-by-post-deployment-glitch/" >🔗</a> **[SpaceNews]** First Astranis satellite sidelined by post-deployment glitch
 - <a href="http://www.nasa.gov/press-release/louisiana-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Louisiana Students to Hear from NASA Astronauts Aboard Space Station
+- <a href="https://www.cnbc.com/2023/07/21/amazon-kuiper-to-build-satellite-prep-facility-in-florida.html" >🔗</a> **[CNBC]** Amazon to build $120 million facility in Florida to prep Kuiper internet satellites for launch
 - <a href="https://spacenews.com/nasa-emphasizes-climate-science-role-amid-fiscal-and-partisan-challenges/" >🔗</a> **[SpaceNews]** NASA emphasizes climate science role amid fiscal and partisan challenges
 - <a href="https://arstechnica.com/space/2023/07/rocket-report-space-force-to-pick-three-pythom-strikes-back/" >🔗</a> **[Arstechnica]** Rocket Report: Space Force to pick three; Pythom strikes back
-- <a href="https://spacenews.com/nasa-moving-into-next-phase-of-exploration-architecture-review/" >🔗</a> **[SpaceNews]** NASA moving into next phase of exploration architecture review
-- <a href="https://spacepolicyonline.com/news/pew-poll-americans-wants-space-program-to-focus-on-asteroids-and-climate-more-than-human-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** Pew Poll: Americans Want Space Program to Focus on Asteroids and Climate More Than Human Spaceflight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T133146">2023-07-21 13:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230721T140541">2023-07-21 14:05:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
