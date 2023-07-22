@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/amazon-to-open-new-project-kuiper-processing-facility-at-nasa-kennedy-space-center" >🔗</a> **[The Launch Pad]** Amazon To Open New Project Kuiper Processing Facility at NASA Kennedy Space Center
 - <a href="https://spacenews.com/chinese-startup-galactic-energy-sent-two-satellites-into-orbit-early-saturday-with-the-companys-sixth-consecutive-successful-launch/" >🔗</a> **[SpaceNews]** Galactic Energy registers sixth consecutive successful launch
 - <a href="https://spacenews.com/amazon-picks-kennedy-space-center-for-project-kuiper-processing-facility/" >🔗</a> **[SpaceNews]** Amazon picks Kennedy Space Center for Project Kuiper processing facility
 - <a href="https://arstechnica.com/space/2023/07/a-promising-internet-satellite-is-rendered-useless-by-power-supply-issues/" >🔗</a> **[Arstechnica]** A promising Internet satellite is rendered useless by power supply issues
 - <a href="https://www.teslarati.com/spacex-booster-9-orbital-launch-mount/" >🔗</a> **[Teslarati]** SpaceX moves Booster 9 to the Orbital Launch Mount
-- <a href="http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n" >🔗</a> **[NASA]** El administrador de NASA viajará a Sudamérica, hablará de cooperación
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T130708">2023-07-22 13:07:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T133205">2023-07-22 13:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
