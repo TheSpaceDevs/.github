@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/shenzhou-16-completes-first-spacewalk-aboard-tiangong-station" >🔗</a> **[The Launch Pad]** Shenzhou 16 Completes First Spacewalk Aboard Tiangong Station
 - <a href="https://www.nasaspaceflight.com/2023/07/nssl-phase-three-update/" >🔗</a> **[NASASpaceflight]** Space Force releases NSSL phase three second draft
 - <a href="https://tlpnetwork.com/news/2023/07/first-astranis-satellite-suffers-deployment-glitch" >🔗</a> **[The Launch Pad]** First Astranis Satellite Suffers Deployment Glitch
 - <a href="https://tlpnetwork.com/news/2023/07/amazon-to-open-new-project-kuiper-processing-facility-at-nasa-kennedy-space-center" >🔗</a> **[The Launch Pad]** Amazon To Open New Project Kuiper Processing Facility at NASA Kennedy Space Center
 - <a href="https://www.cnbc.com/2023/07/22/space-force-raises-the-stakes-in-nssl-race-for-military-launches.html" >🔗</a> **[CNBC]** Space Force raises the stakes as rocket companies compete for lucrative military missions
-- <a href="https://spacenews.com/chinese-startup-galactic-energy-sent-two-satellites-into-orbit-early-saturday-with-the-companys-sixth-consecutive-successful-launch/" >🔗</a> **[SpaceNews]** Galactic Energy registers sixth consecutive successful launch
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T153154">2023-07-22 15:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230722T160706">2023-07-22 16:07:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
