@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/nasa_completes_first_artemis_2_launch_simulation" >🔗</a> **[The Launch Pad]** NASA completes the first Launch Simulation for Humanity's Return to The Moon
 - <a href="https://spacenews.com/chinas-casic-to-begin-launching-vleo-satellites-in-december/" >🔗</a> **[SpaceNews]** China’s CASIC to begin launching VLEO satellites in December
 - <a href="https://europeanspaceflight.com/thermal-data-startup-constellr-extends-seed-round-to-e17m/" >🔗</a> **[European Spaceflight]** Thermal Data Startup Constellr Extends Seed Round to €17M
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-23-29-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 23-29, 2023
 - <a href="https://tlpnetwork.com/news/2023/07/gaganyaan_mission_moves_closer_to_spaceflight" >🔗</a> **[The Launch Pad]** ISRO Begins Gaganyaan Crew Capsule Recovery Trials With Indian Navy
-- <a href="https://spacenews.com/nasa-offers-details-on-commercial-space-capabilities-agreements/" >🔗</a> **[SpaceNews]** NASA offers details on commercial space capabilities agreements
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T153154">2023-07-24 15:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230724T160812">2023-07-24 16:08:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
