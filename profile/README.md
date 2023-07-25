@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/varda-waiting-on-faa-license-to-return-space-manufacturing-capsule/" >🔗</a> **[SpaceNews]** Varda waiting on FAA license to return space manufacturing capsule
 - <a href="https://spacenews.com/capstone-working-well-more-than-a-year-after-launch/" >🔗</a> **[SpaceNews]** CAPSTONE working well more than a year after launch
 - <a href="https://arstechnica.com/space/2023/07/christmas-is-coming-for-asteroid-scientists-just-2-months-from-today/" >🔗</a> **[Arstechnica]** After bopping an asteroid 3 years ago, NASA will finally see the results
 - <a href="https://www.teslarati.com/spacex-launches-next-batch-of-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches next batch of Starlink satellites
 - <a href="https://europeanspaceflight.com/maiaspace-reports-expenses-of-e349m-in-its-first-year-of-operation/" >🔗</a> **[European Spaceflight]** MaiaSpace Reports Expenses of €3.49M in its First Year of Operation
-- <a href="https://spacenews.com/startup-impulse-space-raises-45-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Startup Impulse Space raises $45 million in Series A round
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T103353">2023-07-25 10:33:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T110440">2023-07-25 11:04:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
