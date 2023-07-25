@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-gears-up-for-falcon-heavy-launch/" >🔗</a> **[Teslarati]** SpaceX gears up for Falcon Heavy launch
+- <a href="https://spacenews.com/if-youre-going-to-the-south-pole-go-to-the-south-pole/" >🔗</a> **[SpaceNews]** If you’re going to the south pole, go to the south pole
 - <a href="https://spacenews.com/space-force-selects-vendors-for-low-earth-orbit-satellite-services/" >🔗</a> **[SpaceNews]** Space Force selects vendors for low Earth orbit satellite services
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-cargo-launch-to-international-space-station" >🔗</a> **[NASA]** NASA Sets Coverage for Cargo Launch to International Space Station
 - <a href="https://spacenews.com/nasa-selects-companies-to-advance-lunar-power-and-other-technologies/" >🔗</a> **[SpaceNews]** NASA selects companies to advance lunar power and other technologies
-- <a href="https://spacenews.com/space-force-to-further-define-details-of-a-commercial-space-reserve/" >🔗</a> **[SpaceNews]** Space Force to further define details of a ‘commercial space reserve’
-- <a href="http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech" >🔗</a> **[NASA]** NASA Partners with American Companies on Key Moon, Exploration Tech
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T183211">2023-07-25 18:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T190314">2023-07-25 19:03:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
