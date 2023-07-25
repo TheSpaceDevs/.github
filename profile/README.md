@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-companies-to-advance-lunar-power-and-other-technologies/" >🔗</a> **[SpaceNews]** NASA selects companies to advance lunar power and other technologies
+- <a href="https://spacenews.com/space-force-to-further-define-details-of-a-commercial-space-reserve/" >🔗</a> **[SpaceNews]** Space Force to further define details of a ‘commercial space reserve’
 - <a href="http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech" >🔗</a> **[NASA]** NASA Partners with American Companies on Key Moon, Exploration Tech
 - <a href="https://www.teslarati.com/spacex-performs-first-fueling-tests-on-super-heavy-booster/" >🔗</a> **[Teslarati]** SpaceX performs first fueling tests on Super Heavy Booster
 - <a href="https://spacenews.com/varda-waiting-on-faa-license-to-return-space-manufacturing-capsule/" >🔗</a> **[SpaceNews]** Varda waiting on FAA license to return space manufacturing capsule
-- <a href="https://spacenews.com/capstone-working-well-more-than-a-year-after-launch/" >🔗</a> **[SpaceNews]** CAPSTONE working well more than a year after launch
-- <a href="https://arstechnica.com/space/2023/07/christmas-is-coming-for-asteroid-scientists-just-2-months-from-today/" >🔗</a> **[Arstechnica]** After bopping an asteroid 3 years ago, NASA will finally see the results
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T153149">2023-07-25 15:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T160810">2023-07-25 16:08:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
