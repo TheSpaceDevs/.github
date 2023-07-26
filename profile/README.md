@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-rejects-satellite-spectrum-licensing-bill-because-of-space-safety-provisions/" >🔗</a> **[SpaceNews]** House rejects satellite spectrum licensing bill because of space safety provisions
 - <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-24/" >🔗</a> **[NASASpaceflight]** Launch roundup: Falcon Heavy to launch largest GEO satellite, Rocket Lab’s Electron to complete 40th flight
 - <a href="https://spacenews.com/spire-to-devise-gnss-independent-aircraft-tracking-satellites-for-esa/" >🔗</a> **[SpaceNews]** Spire to devise GNSS-independent aircraft tracking satellites for ESA
 - <a href="https://www.teslarati.com/spacex-gears-up-for-falcon-heavy-launch/" >🔗</a> **[Teslarati]** SpaceX gears up for Falcon Heavy launch
 - <a href="https://spacenews.com/if-youre-going-to-the-south-pole-go-to-the-south-pole/" >🔗</a> **[SpaceNews]** If you’re going to the south pole, go to the south pole
-- <a href="https://spacenews.com/space-force-selects-vendors-for-low-earth-orbit-satellite-services/" >🔗</a> **[SpaceNews]** Space Force selects vendors for low Earth orbit satellite services
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230725T233150">2023-07-25 23:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T003657">2023-07-26 00:36:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
