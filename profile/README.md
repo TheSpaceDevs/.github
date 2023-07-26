@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/non-human-biologic-pilot-found-aboard-crashed-uap" >🔗</a> **[The Launch Pad]** ‘Non-Human Biologic’ Pilot Found Aboard Crashed UAP
 - <a href="https://www.cnbc.com/2023/07/26/boeing-has-lost-1point5-billion-developing-starliner-spacecraft-for-nasa.html" >🔗</a> **[CNBC]** Boeing’s Starliner losses total $1.5 billion with NASA astronauts still waiting to fly
 - <a href="https://spacenews.com/boeing-records-more-losses-from-starliner-delays/" >🔗</a> **[SpaceNews]** Boeing records more losses from Starliner delays
 - <a href="https://tlpnetwork.com/news/2023/07/us-space-force-to-develop-commercial-space-reserve" >🔗</a> **[The Launch Pad]** US Space Force To Develop Commercial Space Reserve
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-darpa-select-lockheed-martin-to-develop-nuclear-rocket" >🔗</a> **[The Launch Pad]** NASA & DARAP Select Lockheed Martin To Develop Nuclear Rocket
-- <a href="https://tlpnetwork.com/news/2023/07/nasa-awards-11-advance-lunar-power-and-tech-contracts" >🔗</a> **[The Launch Pad]** NASA Awards 11 Advance Lunar Power And Tech Contracts 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T183153">2023-07-26 18:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T190421">2023-07-26 19:04:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
