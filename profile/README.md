@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-darpa-select-lockheed-martin-to-develop-draco-nuclear-propulsion-demo/" >🔗</a> **[SpaceNews]** NASA and DARPA select Lockheed Martin to develop DRACO nuclear propulsion demo
+- <a href="https://spacenews.com/space-command-nominee-u-s-has-to-prepare-to-respond-to-aggression-against-satellites/" >🔗</a> **[SpaceNews]** Space Command nominee: U.S. has to prepare to respond to aggression against satellites
+- <a href="https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/" >🔗</a> **[Arstechnica]** The US government is taking a serious step toward space-based nuclear propulsion
 - <a href="http://www.nasa.gov/press-release/nasa-awards-14-million-to-universities-for-supportive-stem-efforts" >🔗</a> **[NASA]** NASA Awards $14 Million to Universities for Supportive STEM Efforts
 - <a href="https://www.nasaspaceflight.com/2023/07/falcon-heavy-echostar-24/" >🔗</a> **[NASASpaceflight]** Falcon Heavy to launch largest ever geostationary satellite
-- <a href="https://tlpnetwork.com/news/2023/07/non-human-biologic-pilot-found-aboard-crashed-uap" >🔗</a> **[The Launch Pad]** ‘Non-Human Biologic’ Pilot Found Aboard Crashed UAP
-- <a href="https://www.cnbc.com/2023/07/26/boeing-has-lost-1point5-billion-developing-starliner-spacecraft-for-nasa.html" >🔗</a> **[CNBC]** Boeing’s Starliner losses total $1.5 billion with NASA astronauts still waiting to fly
-- <a href="https://spacenews.com/boeing-records-more-losses-from-starliner-delays/" >🔗</a> **[SpaceNews]** Boeing records more losses from Starliner delays
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T213143">2023-07-26 21:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T220526">2023-07-26 22:05:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
