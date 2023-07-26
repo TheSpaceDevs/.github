@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-records-more-losses-from-starliner-delays/" >🔗</a> **[SpaceNews]** Boeing records more losses from Starliner delays
+- <a href="https://tlpnetwork.com/news/2023/07/us-space-force-to-develop-commercial-space-reserve" >🔗</a> **[The Launch Pad]** US Space Force To Develop Commercial Space Reserve
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-darpa-select-lockheed-martin-to-develop-nuclear-rocket" >🔗</a> **[The Launch Pad]** NASA & DARAP Select Lockheed Martin To Develop Nuclear Rocket
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-awards-11-advance-lunar-power-and-tech-contracts" >🔗</a> **[The Launch Pad]** NASA Awards 11 Advance Lunar Power And Tech Contracts 
 - <a href="https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/" >🔗</a> **[Arstechnica]** Boeing has now lost $1.1 billion on Starliner, with no crew flight in sight
-- <a href="http://www.nasa.gov/press-release/nasa-darpa-experts-to-discuss-nuclear-rocket-program-developments" >🔗</a> **[NASA]** NASA, DARPA Experts to Discuss Nuclear Rocket Program Developments
-- <a href="https://spacepolicyonline.com/news/house-defeats-bill-over-concerns-about-fcc-space-safety-and-debris-authority/" >🔗</a> **[SpacePolicyOnline.com]** House Defeats Bill Over Concerns About FCC Space Safety and Debris Authority
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T163531">2023-07-26 16:35:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T170506">2023-07-26 17:05:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
