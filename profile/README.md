@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/nasa-darpa-select-lockheed-martin-to-develop-nuclear-rocket" >🔗</a> **[The Launch Pad]** NASA & DARAP Select Lockheed Martin To Develop Nuclear Rocket
+- <a href="https://tlpnetwork.com/news/2023/07/nasa-awards-11-advance-lunar-power-and-tech-contracts" >🔗</a> **[The Launch Pad]** NASA Awards 11 Advance Lunar Power And Tech Contracts 
+- <a href="https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/" >🔗</a> **[Arstechnica]** Boeing has now lost $1.1 billion on Starliner, with no crew flight in sight
 - <a href="http://www.nasa.gov/press-release/nasa-darpa-experts-to-discuss-nuclear-rocket-program-developments" >🔗</a> **[NASA]** NASA, DARPA Experts to Discuss Nuclear Rocket Program Developments
 - <a href="https://spacepolicyonline.com/news/house-defeats-bill-over-concerns-about-fcc-space-safety-and-debris-authority/" >🔗</a> **[SpacePolicyOnline.com]** House Defeats Bill Over Concerns About FCC Space Safety and Debris Authority
-- <a href="https://spacenews.com/house-rejects-satellite-spectrum-licensing-bill-because-of-space-safety-provisions/" >🔗</a> **[SpaceNews]** House rejects satellite spectrum licensing bill because of space safety provisions
-- <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-24/" >🔗</a> **[NASASpaceflight]** Launch roundup: Falcon Heavy to launch largest GEO satellite, Rocket Lab’s Electron to complete 40th flight
-- <a href="https://spacenews.com/spire-to-devise-gnss-independent-aircraft-tracking-satellites-for-esa/" >🔗</a> **[SpaceNews]** Spire to devise GNSS-independent aircraft tracking satellites for ESA
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T153143">2023-07-26 15:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230726T160741">2023-07-26 16:07:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
