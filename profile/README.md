@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/rocket-labs-neutron-undergoes-design-change/" >🔗</a> **[Teslarati]** Rocket Lab’s Neutron undergoes design change
+- <a href="http://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon" >🔗</a> **[NASA]** NASA Launches Beta Site; On-Demand Streaming, App Update Coming Soon
+- <a href="https://www.cnbc.com/2023/07/27/spacex-aims-to-break-nasa-gemini-record-with-falcon-launches.html" >🔗</a> **[CNBC]** SpaceX aims to break a 56-year rocket record with back-to-back launches
+- <a href="https://europeanspaceflight.com/asi-to-tap-european-startup-to-launch-lunar-regolith-oxygen-extractor-mission/" >🔗</a> **[European Spaceflight]** ASI to Tap European Startup to Launch Lunar Regolith Oxygen Extractor Mission
 - <a href="https://tlpnetwork.com/news/2023/07/rocketlab-updates-neutron-design" >🔗</a> **[The Launch Pad]** RocketLab Updates Neutron Design
-- <a href="https://www.cnbc.com/2023/07/27/investing-in-space-what-to-watch-for-in-q2-earnings-reports.html" >🔗</a> **[CNBC]** Investing in Space: What to watch for in Q2 earnings reports
-- <a href="https://spacenews.com/northrop-grumman-takes-36-million-charge-on-nasa-gateway-module/" >🔗</a> **[SpaceNews]** Northrop Grumman takes $36 million charge on NASA Gateway module
-- <a href="https://www.teslarati.com/nasa-and-darpa-award-contract-for-nuclear-rocket-engine/" >🔗</a> **[Teslarati]** NASA and DARPA award contract for Nuclear Rocket Engine
-- <a href="https://spacenews.com/pair-of-chinese-launches-put-flat-panel-satellite-new-spy-sats-in-orbit/" >🔗</a> **[SpaceNews]** Pair of Chinese launches put flat-panel satellite, new spy sats in orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T193141">2023-07-27 19:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T200643">2023-07-27 20:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
