@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-and-darpa-pick-lockheed-martin-and-bwxt-for-draco/" >🔗</a> **[SpacePolicyOnline.com]** NASA and DARPA Pick Lockheed Martin and BWXT for DRACO
 - <a href="https://spacepolicyonline.com/news/starliner-delay-costs-boeing-another-257-million/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Delay Costs Boeing Another $257 Million
 - <a href="https://spacenews.com/l3harris-acquisition-of-aerojet-rocketdyne-nears-completion/" >🔗</a> **[SpaceNews]** L3Harris’ acquisition of Aerojet Rocketdyne nears completion
 - <a href="https://spacenews.com/geospatial-intelligence-startup-kleos-space-files-for-bankruptcy/" >🔗</a> **[SpaceNews]** Geospatial intelligence startup Kleos Space files for bankruptcy
 - <a href="https://spacenews.com/nasa-and-darpa-select-lockheed-martin-to-develop-draco-nuclear-propulsion-demo/" >🔗</a> **[SpaceNews]** NASA and DARPA select Lockheed Martin to develop DRACO nuclear propulsion demo
-- <a href="https://spacenews.com/space-command-nominee-u-s-has-to-prepare-to-respond-to-aggression-against-satellites/" >🔗</a> **[SpaceNews]** Space Command nominee: U.S. has to prepare to respond to aggression against satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T033158">2023-07-27 03:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T040725">2023-07-27 04:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
