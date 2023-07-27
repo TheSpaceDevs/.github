@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/07/27/investing-in-space-what-to-watch-for-in-q2-earnings-reports.html" >🔗</a> **[CNBC]** Investing in Space: What to watch for in Q2 earnings reports
+- <a href="https://spacenews.com/northrop-grumman-takes-36-million-charge-on-nasa-gateway-module/" >🔗</a> **[SpaceNews]** Northrop Grumman takes $36 million charge on NASA Gateway module
 - <a href="https://www.teslarati.com/nasa-and-darpa-award-contract-for-nuclear-rocket-engine/" >🔗</a> **[Teslarati]** NASA and DARPA award contract for Nuclear Rocket Engine
 - <a href="https://spacenews.com/pair-of-chinese-launches-put-flat-panel-satellite-new-spy-sats-in-orbit/" >🔗</a> **[SpaceNews]** Pair of Chinese launches put flat-panel satellite, new spy sats in orbit
 - <a href="https://spacepolicyonline.com/news/nasa-and-darpa-pick-lockheed-martin-and-bwxt-for-draco/" >🔗</a> **[SpacePolicyOnline.com]** NASA and DARPA Pick Lockheed Martin and BWXT for DRACO
-- <a href="https://spacepolicyonline.com/news/starliner-delay-costs-boeing-another-257-million/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Delay Costs Boeing Another $257 Million
-- <a href="https://spacenews.com/l3harris-acquisition-of-aerojet-rocketdyne-nears-completion/" >🔗</a> **[SpaceNews]** L3Harris’ acquisition of Aerojet Rocketdyne nears completion
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T163545">2023-07-27 16:35:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T170503">2023-07-27 17:05:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
