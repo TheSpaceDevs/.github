@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/07/esa-deorbits-aeolus-spacecraft" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: ESA DeOrbits Aeolus Spacecraft, Concluding 5 Year Mission 
+- <a href="https://spacenews.com/sierra-space-wins-air-force-contract-for-upper-stage-engine-development/" >🔗</a> **[SpaceNews]** Sierra Space wins Air Force contract for upper-stage engine development
+- <a href="https://tlpnetwork.com/news/2023/07/l3harris-acquires-aerojet-rocketdyne" >🔗</a> **[The Launch Pad]** L3Harris Acquires Aerojet Rocketdyne
+- <a href="https://tlpnetwork.com/news/2023/07/argentina-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Argentina 28th Country To Sign Artemis Accords
 - <a href="http://www.nasa.gov/press-release/nasa-awards-administrative-technical-support-services-contract" >🔗</a> **[NASA]** NASA Awards Administrative & Technical Support Services Contract
-- <a href="https://spacenews.com/ula-has-concerns-about-a-third-competitor-in-national-security-space-launch/" >🔗</a> **[SpaceNews]** ULA has concerns about a third competitor in national security space launch
-- <a href="https://spacenews.com/aerojet-rocketdyne-officially-becomes-part-of-l3harris/" >🔗</a> **[SpaceNews]** Aerojet Rocketdyne officially becomes part of L3Harris
-- <a href="https://tlpnetwork.com/news/2023/07/starship-ift-1-launch-wb57-footage-released" >🔗</a> **[The Launch Pad]** BREAKING! STARSHIP IFT-1 Launch WB-57 Footage Released 
-- <a href="https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/" >🔗</a> **[Arstechnica]** NASA temporarily loses contact with one of its most distant spacecraft
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T213152">2023-07-28 21:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T220503">2023-07-28 22:05:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
