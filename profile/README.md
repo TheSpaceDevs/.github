@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/07/nasa-temporarily-loses-contact-with-one-of-its-most-distant-spacecraft/" >🔗</a> **[Arstechnica]** NASA temporarily loses contact with one of its most distant spacecraft
 - <a href="https://tlpnetwork.com/news/2023/07/nasa-looses-contact-with-voyager-2" >🔗</a> **[The Launch Pad]** BREAKING! NASA Looses Contact With Voyager 2
 - <a href="https://spacenews.com/connecting-the-dots-the-shifting-landscape-for-satellite-capacity-wholesalers/" >🔗</a> **[SpaceNews]** Connecting the Dots | The shifting landscape for satellite capacity wholesalers
 - <a href="https://spacenews.com/eutelsat-expects-to-return-to-growth-next-year-with-oneweb/" >🔗</a> **[SpaceNews]** Eutelsat expects to return to growth next year with OneWeb
 - <a href="https://www.teslarati.com/spacex-launches-50th-mission-of-the-year/" >🔗</a> **[Teslarati]** SpaceX launches 50th mission of the year
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-see-recovery-craft-for-artemis-moon-mission" >🔗</a> **[NASA]** NASA Invites Media to See Recovery Craft for Artemis Moon Mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T163554">2023-07-28 16:35:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T170340">2023-07-28 17:03:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
