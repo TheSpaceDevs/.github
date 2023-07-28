@@ -89,11 +89,11 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/connecting-the-dots-the-shifting-landscape-for-satellite-capacity-wholesalers/" >🔗</a> **[SpaceNews]** Connecting the Dots | The shifting landscape for satellite capacity wholesalers
+- <a href="https://spacenews.com/eutelsat-expects-to-return-to-growth-next-year-with-oneweb/" >🔗</a> **[SpaceNews]** Eutelsat expects to return to growth next year with OneWeb
+- <a href="https://www.teslarati.com/spacex-launches-50th-mission-of-the-year/" >🔗</a> **[Teslarati]** SpaceX launches 50th mission of the year
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-see-recovery-craft-for-artemis-moon-mission" >🔗</a> **[NASA]** NASA Invites Media to See Recovery Craft for Artemis Moon Mission
 - <a href="https://spacenews.com/argentina-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Argentina signs Artemis Accords
-- <a href="https://spacenews.com/next-nasa-new-frontiers-mission-could-face-extended-delay/" >🔗</a> **[SpaceNews]** Next NASA New Frontiers mission could face extended delay
-- <a href="https://www.teslarati.com/spacex-delays-falcon-heavy-moves-forward-with-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX delays Falcon Heavy, moves forward with Starlink launch
-- <a href="http://www.nasa.gov/press-release/argentina-es-el-28-signatario-de-los-acuerdos-de-artemis" >🔗</a> **[NASA]** Argentina es el 28.º signatario de los Acuerdos de Artemis
-- <a href="http://www.nasa.gov/press-release/nasa-welcomes-argentina-as-newest-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes Argentina as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T143200">2023-07-28 14:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T150629">2023-07-28 15:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
