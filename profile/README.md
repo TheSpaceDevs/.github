@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/next-nasa-new-frontiers-mission-could-face-extended-delay/" >🔗</a> **[SpaceNews]** Next NASA New Frontiers mission could face extended delay
 - <a href="https://www.teslarati.com/spacex-delays-falcon-heavy-moves-forward-with-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX delays Falcon Heavy, moves forward with Starlink launch
 - <a href="http://www.nasa.gov/press-release/argentina-es-el-28-signatario-de-los-acuerdos-de-artemis" >🔗</a> **[NASA]** Argentina es el 28.º signatario de los Acuerdos de Artemis
 - <a href="http://www.nasa.gov/press-release/nasa-welcomes-argentina-as-newest-artemis-accords-signatory" >🔗</a> **[NASA]** NASA Welcomes Argentina as Newest Artemis Accords Signatory
 - <a href="https://www.teslarati.com/rocket-labs-neutron-undergoes-design-change/" >🔗</a> **[Teslarati]** Rocket Lab’s Neutron undergoes design change
-- <a href="http://www.nasa.gov/press-release/nasa-launches-beta-site-on-demand-streaming-app-update-coming-soon" >🔗</a> **[NASA]** NASA Launches Beta Site; On-Demand Streaming, App Update Coming Soon
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230727T233153">2023-07-27 23:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230728T003545">2023-07-28 00:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
