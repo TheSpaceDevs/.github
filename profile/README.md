@@ -98,11 +98,11 @@ Co-passengers:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-heavy-sends-jupiter-3-broadband-giant-toward-geostationary-orbit/" >🔗</a> **[SpaceNews]** Falcon Heavy sends Jupiter-3 broadband giant toward geostationary orbit
 - <a href="https://tlpnetwork.com/news/2023/07/esa-deorbits-aeolus-spacecraft" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: ESA DeOrbits Aeolus Spacecraft, Concluding 5 Year Mission 
 - <a href="https://spacenews.com/sierra-space-wins-air-force-contract-for-upper-stage-engine-development/" >🔗</a> **[SpaceNews]** Sierra Space wins Air Force contract for upper-stage engine development
 - <a href="https://tlpnetwork.com/news/2023/07/l3harris-acquires-aerojet-rocketdyne" >🔗</a> **[The Launch Pad]** L3Harris Acquires Aerojet Rocketdyne
 - <a href="https://tlpnetwork.com/news/2023/07/argentina-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Argentina 28th Country To Sign Artemis Accords
-- <a href="http://www.nasa.gov/press-release/nasa-awards-administrative-technical-support-services-contract" >🔗</a> **[NASA]** NASA Awards Administrative & Technical Support Services Contract
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Co-passengers:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T073146">2023-07-29 07:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230729T080714">2023-07-29 08:07:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
