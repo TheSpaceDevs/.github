@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/07/pds70-water/" >🔗</a> **[NASASpaceflight]** Scientists, using Webb, discover water vapor within a planet-forming disk
 - <a href="https://spacenews.com/crew-dragon-soyuz-missions-set-for-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew Dragon, Soyuz missions set for launches to ISS
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-30-august-5-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 30-August 5, 2023
 - <a href="https://spacenews.com/india-launches-seven-satellites-on-pslv-rocket/" >🔗</a> **[SpaceNews]** India launches seven satellites on PSLV rocket
 - <a href="https://spacepolicyonline.com/news/congress-leaves-for-summer-break-with-long-to-do-list-when-they-return/" >🔗</a> **[SpacePolicyOnline.com]** Congress Leaves for Summer Break With Long To-Do List When They Return
-- <a href="https://spacenews.com/falcon-heavy-sends-jupiter-3-broadband-giant-toward-geostationary-orbit/" >🔗</a> **[SpaceNews]** Falcon Heavy sends Jupiter-3 broadband giant toward geostationary orbit
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T193152">2023-07-30 19:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230730T200557">2023-07-30 20:05:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
