@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/" >🔗</a> **[SpaceNews]** Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components
+- <a href="https://spacenews.com/kbr-wins-air-force-research-lab-contract-to-study-non-traditional-orbits/" >🔗</a> **[SpaceNews]** KBR wins Air Force Research Lab contract to study non-traditional orbits
+- <a href="https://tlpnetwork.com/news/2023/07/us-senate-cuts-space-force-budget-with-defense-bill-approval" >🔗</a> **[The Launch Pad]** US Senate Cuts Space Force Budget With Defense Bill Approval
 - <a href="https://arstechnica.com/space/2023/07/europe-turns-its-new-1-5-billion-space-telescope-on-and-happily-it-works/" >🔗</a> **[Arstechnica]** Europe turns its new $1.5 billion space telescope on, and happily it works
 - <a href="https://tlpnetwork.com/news/2023/07/redwire-hired-veteran-aerospace-executive-as-senior-vp" >🔗</a> **[The Launch Pad]** Redwire Hires Veteran Aerospace Executive as Senior VP
-- <a href="https://spacenews.com/space-force-programs-get-trimmed-in-senate-appropriations-bill/" >🔗</a> **[SpaceNews]** Space Force programs get trimmed in Senate appropriations bill
-- <a href="https://tlpnetwork.com/news/2023/07/euclid-teleschope-captures-first-images" >🔗</a> **[The Launch Pad]** EUCLID Telescope Captures First Images
-- <a href="http://www.nasa.gov/press-release/nasa-airs-coverage-of-space-station-research-development-conference" >🔗</a> **[NASA]** NASA Airs Coverage of Space Station Research, Development Conference
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T173146">2023-07-31 17:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230731T180801">2023-07-31 18:08:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
