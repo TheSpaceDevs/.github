@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration" >🔗</a> **[The Launch Pad]** Antares prepares to fly its last mission using Russian and Ukrainian parts
 - <a href="https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/" >🔗</a> **[SpaceNews]** Senate committee advances orbital debris removal bill
 - <a href="https://www.cnbc.com/2023/08/01/planet-pl-lays-off-about-10percent-company-restructures.html" >🔗</a> **[CNBC]** Planet lays off about 10% of workforce as satellite imagery company restructures
 - <a href="https://www.teslarati.com/rocket-labs-electron-faces-rare-last-second-abort/" >🔗</a> **[Teslarati]** Rocket Lab’s Electron faces rare last second abort
 - <a href="https://spacenews.com/u-s-space-command-headquarters-to-remain-in-colorado/" >🔗</a> **[SpaceNews]** U.S. Space Command headquarters to remain in Colorado
-- <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F
 
 
 ### Launch-related News 🚀
@@ -101,11 +101,12 @@ into *a Low Earth Orbit
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-northrop-grumman-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman Cargo Launch to Space Station
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-cargo-launch-to-international-space-station" >🔗</a> **[NASA]** NASA Sets Coverage for Cargo Launch to International Space Station
 - <a href="https://spacenews.com/northrop-grumman-prepares-for-final-flight-of-antares-with-russian-and-ukrainian-components/" >🔗</a> **[SpaceNews]** Northrop Grumman prepares for final flight of Antares with Russian and Ukrainian components
+- <a href="https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration" >🔗</a> **[The Launch Pad]** Antares prepares to fly its last mission using Russian and Ukrainian parts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T143130">2023-08-01 14:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T150647">2023-08-01 15:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
