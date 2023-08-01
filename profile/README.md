@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/01/virgin-galactic-spce-q2-2023-earnings-report.html" >🔗</a> **[CNBC]** Virgin Galactic banks $2 million in quarterly revenue after first commercial spaceflight
+- <a href="https://arstechnica.com/science/2023/08/the-atlantic-is-frying-but-so-far-hurricanes-are-dying-whats-going-on/" >🔗</a> **[Arstechnica]** The Atlantic is frying, but so far hurricanes are dying. What’s going on?
+- <a href="https://spacepolicyonline.com/news/mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/" >🔗</a> **[SpacePolicyOnline.com]** Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom
+- <a href="https://spacepolicyonline.com/news/boeings-mulholland-urges-vocal-advocacy-for-iss-amid-budget-gloom/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Mulholland Urges Vocal Advocacy for ISS Amid Budget Gloom
 - <a href="http://www.nasa.gov/press-release/join-nasa-administrator-artemis-ii-moon-crew-for-mission-update" >🔗</a> **[NASA]** Join NASA Administrator, Artemis II Moon Crew for Mission Update
-- <a href="https://spacenews.com/astro-digital-to-integrate-astroscale-in-orbit-servicing-docking-plates/" >🔗</a> **[SpaceNews]** Astro Digital to integrate Astroscale in-orbit servicing docking plates
-- <a href="https://www.teslarati.com/northrup-grumman-antares-swan-song-launch/" >🔗</a> **[Teslarati]** Northrup Grumman’s Antares set for its swan song launch
-- <a href="https://www.nasaspaceflight.com/2023/08/antares-230-farewell-launch/" >🔗</a> **[NASASpaceflight]** Antares 230+ farewell launch to fly S.S. Laurel Clark to ISS
-- <a href="https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration" >🔗</a> **[The Launch Pad]** Antares prepares to fly its last mission using Russian and Ukrainian parts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T203150">2023-08-01 20:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T210510">2023-08-01 21:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
