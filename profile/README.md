@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/" >🔗</a> **[SpaceNews]** Senate committee advances orbital debris removal bill
+- <a href="https://www.cnbc.com/2023/08/01/planet-pl-lays-off-about-10percent-company-restructures.html" >🔗</a> **[CNBC]** Planet lays off about 10% of workforce as satellite imagery company restructures
 - <a href="https://www.teslarati.com/rocket-labs-electron-faces-rare-last-second-abort/" >🔗</a> **[Teslarati]** Rocket Lab’s Electron faces rare last second abort
 - <a href="https://spacenews.com/u-s-space-command-headquarters-to-remain-in-colorado/" >🔗</a> **[SpaceNews]** U.S. Space Command headquarters to remain in Colorado
 - <a href="https://www.nasaspaceflight.com/2023/07/launch-roundup-spacex-galaxy-37-china-fy-3f/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Galaxy 37; China to launch FY-3F
-- <a href="http://www.nasa.gov/press-release/nasa-boeing-to-provide-progress-update-on-starliner-crew-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Provide Progress Update on Starliner Crew Flight Test
-- <a href="https://www.teslarati.com/spacex-aces-falcon-heavy-launch/" >🔗</a> **[Teslarati]** SpaceX aces Falcon Heavy launch
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T113145">2023-08-01 11:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T121152">2023-08-01 12:11:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
