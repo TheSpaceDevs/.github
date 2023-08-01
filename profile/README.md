@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astro-digital-to-integrate-astroscale-in-orbit-servicing-docking-plates/" >🔗</a> **[SpaceNews]** Astro Digital to integrate Astroscale in-orbit servicing docking plates
 - <a href="https://www.teslarati.com/northrup-grumman-antares-swan-song-launch/" >🔗</a> **[Teslarati]** Northrup Grumman’s Antares set for its swan song launch
 - <a href="https://www.nasaspaceflight.com/2023/08/antares-230-farewell-launch/" >🔗</a> **[NASASpaceflight]** Antares 230+ farewell launch to fly S.S. Laurel Clark to ISS
 - <a href="https://tlpnetwork.com/news/2023/08/antares_launches_final_russian_parts_configuration" >🔗</a> **[The Launch Pad]** Antares prepares to fly its last mission using Russian and Ukrainian parts
 - <a href="https://spacenews.com/senate-committee-advances-orbital-debris-removal-bill/" >🔗</a> **[SpaceNews]** Senate committee advances orbital debris removal bill
-- <a href="https://www.cnbc.com/2023/08/01/planet-pl-lays-off-about-10percent-company-restructures.html" >🔗</a> **[CNBC]** Planet lays off about 10% of workforce as satellite imagery company restructures
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T183142">2023-08-01 18:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230801T190402">2023-08-01 19:04:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
