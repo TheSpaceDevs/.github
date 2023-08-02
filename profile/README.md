@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startup-irocket-signs-agreement-to-develop-and-test-hardware-at-u-s-air-force-facility/" >🔗</a> **[SpaceNews]** Startup iRocket signs agreement to develop and test hardware at U.S. Air Force facility
 - <a href="https://spacenews.com/voyager-space-and-airbus-create-commercial-space-station-joint-venture/" >🔗</a> **[SpaceNews]** Voyager Space and Airbus create commercial space station joint venture
 - <a href="https://spacenews.com/virgin-galactic-forecasts-limited-revenues-from-initial-commercial-flights/" >🔗</a> **[SpaceNews]** Virgin Galactic forecasts limited revenues from initial commercial flights
 - <a href="https://spacenews.com/ursa-major-gets-additional-funding-for-its-3d-printing-manufacturing-facility/" >🔗</a> **[SpaceNews]** Ursa Major gets additional funding for its 3D printing manufacturing facility
 - <a href="https://spacenews.com/antares-launches-cygnus-to-iss/" >🔗</a> **[SpaceNews]** Antares launches Cygnus to ISS
-- <a href="https://tlpnetwork.com/news/2023/08/us-space-command-to-stay-in-colorado" >🔗</a> **[The Launch Pad]** US Space Command To Stay In Colorado
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T133143">2023-08-02 13:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T140553">2023-08-02 14:05:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
