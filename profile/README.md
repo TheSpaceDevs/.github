@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/nsf-noirlab-observatory-offline-following-cyber-attack" >🔗</a> **[The Launch Pad]** BREAKING! NSF NOIRLab Observatory Offline Following Cyber Attack
+- <a href="https://tlpnetwork.com/news/2023/08/virgin-galactic-forecasts-low-revenuef-for-q3-and-q4" >🔗</a> **[The Launch Pad]** Virgin Galactic Forecasts Low Revenue For Q3 and Q4
+- <a href="https://www.teslarati.com/final-antares-flight-successfully-launches-space-station-resupply-mission/" >🔗</a> **[Teslarati]** Final Antares flight successfully launches Space Station resupply mission
+- <a href="https://tlpnetwork.com/news/2023/08/irocket-to-develop-and-test-at-us-air-force-base" >🔗</a> **[The Launch Pad]** iRocket To Develop & Test At Renowned US Air Force Base Facility
 - <a href="https://tlpnetwork.com/news/2023/08/cygnus-ng-19" >🔗</a> **[The Launch Pad]** Northrop Grumman Launches Final Russia-Ukrainian Build Antares Rocket
-- <a href="https://spacenews.com/startup-irocket-signs-agreement-to-develop-and-test-hardware-at-u-s-air-force-facility/" >🔗</a> **[SpaceNews]** Startup iRocket signs agreement to develop and test hardware at U.S. Air Force facility
-- <a href="https://spacenews.com/voyager-space-and-airbus-create-commercial-space-station-joint-venture/" >🔗</a> **[SpaceNews]** Voyager Space and Airbus create commercial space station joint venture
-- <a href="https://spacenews.com/virgin-galactic-forecasts-limited-revenues-from-initial-commercial-flights/" >🔗</a> **[SpaceNews]** Virgin Galactic forecasts limited revenues from initial commercial flights
-- <a href="https://spacenews.com/ursa-major-gets-additional-funding-for-its-3d-printing-manufacturing-facility/" >🔗</a> **[SpaceNews]** Ursa Major gets additional funding for its 3D printing manufacturing facility
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T183147">2023-08-02 18:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230802T190400">2023-08-02 19:04:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
