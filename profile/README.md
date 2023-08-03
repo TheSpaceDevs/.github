@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-selects-axiom-space-for-another-private-space-mission-in-2024" >🔗</a> **[NASA]** NASA Selects Axiom Space for Another Private Space Mission in 2024
-- <a href="https://spacenews.com/spacex-launches-intelsats-last-c-band-clearing-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Intelsat’s last C-band clearing satellite
-- <a href="https://tlpnetwork.com/news/2023/08/nasa-spacex-delay-crew-7-launch-to-august-25" >🔗</a> **[The Launch Pad]** NASA, SpaceX Delay Crew 7 Launch To August 25th
-- <a href="https://mars.nasa.gov/news/9454/" >🔗</a> **[NASA]** NASA's Curiosity Rover Faces Its Toughest Climb Yet on Mars
-- <a href="https://tlpnetwork.com/news/2023/08/northrop-grumman-announces-cygnus-spacecraft-upgrades" >🔗</a> **[The Launch Pad]** Northrop Grumman Announces Cygnus Spacecraft Upgrades
+- <a href="https://www.nasaspaceflight.com/2023/08/starship-booster-9-critical-testing-phase/" >🔗</a> **[NASASpaceflight]** Starship Booster 9 and launch infrastructure moving into critical testing phase
+- <a href="https://www.teslarati.com/nasa-awards-axiom-space-crewed-flight-iss/" >🔗</a> **[Teslarati]** NASA awards Axiom Space 4th Crewed flight to ISS
+- <a href="https://spacenews.com/next-o3b-mpower-launch-delayed-as-ses-investigates-electrical-issue/" >🔗</a> **[SpaceNews]** O3b mPower faces delays as SES investigates electrical issue 
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-selects-axiom-space-for-4th-private-mission-to-iss" >🔗</a> **[The Launch Pad]** NASA Selects Axiom Space For 4th Private Mission To ISS
+- <a href="https://tlpnetwork.com/news/2023/08/galaxy_37_launching_from_slc_40_on_august_3rd" >🔗</a> **[The Launch Pad]** Galaxy 37 set to launch from SLC-40
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T213151">2023-08-03 21:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T220518">2023-08-03 22:05:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
