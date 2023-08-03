@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/03/investing-in-space-rocket-lab-stock-leads-sector-in-2023-gains.html" >🔗</a> **[CNBC]** Investing in Space: Rocket Lab stock leads the sector in year-to-date gains
 - <a href="https://spacenews.com/northrop-grumman-planning-cygnus-upgrades/" >🔗</a> **[SpaceNews]** Northrop Grumman planning Cygnus upgrades
 - <a href="https://spacenews.com/probing-the-origin-and-evolution-of-water-rich-asteroids/" >🔗</a> **[SpaceNews]** Probing the origin and evolution of water-rich asteroids
 - <a href="https://spacepolicyonline.com/news/northrop-grumman-reassessing-government-fixed-price-contracts-after-loss-on-halo/" >🔗</a> **[SpacePolicyOnline.com]** Northrop Grumman Reassessing Government Fixed Price Contracts After Loss on HALO
 - <a href="https://www.teslarati.com/spacex-set-for-launch-of-the-intelsat-communications-satellite/" >🔗</a> **[Teslarati]** SpaceX set for launch of the Intelsat communications satellite
-- <a href="https://tlpnetwork.com/news/2023/08/csmc-hires-nasa-astronaut-as-executive-vp-of-strategy" >🔗</a> **[The Launch Pad]** CSMC Hires NASA Astronaut As Executive VP Of Strategy
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T153143">2023-08-03 15:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T160530">2023-08-03 16:05:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
