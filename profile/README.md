@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/northrop-grumman-reassessing-government-fixed-price-contracts-after-loss-on-halo/" >🔗</a> **[SpacePolicyOnline.com]** Northrop Grumman Reassessing Government Fixed Price Contracts After Loss on HALO
 - <a href="https://www.teslarati.com/spacex-set-for-launch-of-the-intelsat-communications-satellite/" >🔗</a> **[Teslarati]** SpaceX set for launch of the Intelsat communications satellite
 - <a href="https://tlpnetwork.com/news/2023/08/csmc-hires-nasa-astronaut-as-executive-vp-of-strategy" >🔗</a> **[The Launch Pad]** CSMC Hires NASA Astronaut As Executive VP Of Strategy
 - <a href="https://tlpnetwork.com/news/2023/08/ula-stacks-atlas-v-for-next-national-security-launch" >🔗</a> **[The Launch Pad]** ULA Stacks Atlas V For Next National Security Launch
 - <a href="https://europeanspaceflight.com/airbus-and-voyager-space-announce-commercial-space-station-partnership/" >🔗</a> **[European Spaceflight]** Airbus and Voyager Space Announce Commercial Space Station Partnership
-- <a href="https://spacenews.com/u-s-intelligence-agency-selects-vendors-for-space-debris-tracking-project/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects vendors for space debris tracking project
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T022134">2023-08-03 02:21:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T023828">2023-08-03 02:38:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
