@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9454/" >🔗</a> **[NASA]** NASA's Curiosity Rover Faces Its Toughest Climb Yet on Mars
+- <a href="https://tlpnetwork.com/news/2023/08/northrop-grumman-announces-cygnus-spacecraft-upgrades" >🔗</a> **[The Launch Pad]** Northrop Grumman Announces Cygnus Spacecraft Upgrades
+- <a href="https://tlpnetwork.com/news/2023/08/psyche-one-step-closer-to-launch-solar-arrays-installed" >🔗</a> **[The Launch Pad]** Psyche One Step Closer To Launch, Solar Arrays Installed
 - <a href="https://www.cnbc.com/2023/08/03/investing-in-space-rocket-lab-stock-leads-sector-in-2023-gains.html" >🔗</a> **[CNBC]** Investing in Space: Rocket Lab stock leads the sector in year-to-date gains
 - <a href="https://spacenews.com/northrop-grumman-planning-cygnus-upgrades/" >🔗</a> **[SpaceNews]** Northrop Grumman planning Cygnus upgrades
-- <a href="https://spacenews.com/probing-the-origin-and-evolution-of-water-rich-asteroids/" >🔗</a> **[SpaceNews]** Probing the origin and evolution of water-rich asteroids
-- <a href="https://spacepolicyonline.com/news/northrop-grumman-reassessing-government-fixed-price-contracts-after-loss-on-halo/" >🔗</a> **[SpacePolicyOnline.com]** Northrop Grumman Reassessing Government Fixed Price Contracts After Loss on HALO
-- <a href="https://www.teslarati.com/spacex-set-for-launch-of-the-intelsat-communications-satellite/" >🔗</a> **[Teslarati]** SpaceX set for launch of the Intelsat communications satellite
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T163319">2023-08-03 16:33:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T170457">2023-08-03 17:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
