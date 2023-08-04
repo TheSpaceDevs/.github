@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/china-roundup-080423/" >🔗</a> **[NASASpaceflight]** China launches four rockets and outlines future lunar mission
+- <a href="https://tlpnetwork.com/news/2023/08/booster-9-spin-primed" >🔗</a> **[The Launch Pad]** Booster 9 Completes Spin Prime Ahead of Critical 33 Engine Static Fire Test
+- <a href="https://tlpnetwork.com/news/2023/08/voyager-2-communications-restored" >🔗</a> **[The Launch Pad]** BREAKING! VOYAGER 2 FULL COMMUNICATIONS RESTORED AFTER INTERSTELLAR SHOUT FROM NASA DSN
 - <a href="https://spacenews.com/iss-partners-seek-to-maximize-use-of-station-through-2030/" >🔗</a> **[SpaceNews]** ISS partners seek to maximize use of station through 2030
 - <a href="https://tlpnetwork.com/news/2023/08/nasa-spacex-crew-8-announced" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 8 Announced
-- <a href="http://www.nasa.gov/press-release/space-station-assignments-out-for-nasa-s-spacex-crew-8-mission" >🔗</a> **[NASA]** Space Station Assignments Out for NASA’s SpaceX Crew-8 Mission
-- <a href="https://tlpnetwork.com/news/2023/08/house-armed-services-committee-chairman-launches-investigation-into-president-biden-us-space-command-hq-decision" >🔗</a> **[The Launch Pad]** House Armed Services Committee Chairman Launches Investigation Into President Biden's US Space Command HQ Decision
-- <a href="https://tlpnetwork.com/news/2023/08/ses-investigation-delays-next-o3b-mpower-mission" >🔗</a> **[The Launch Pad]** SES Investigation Delays Next O3b mPower Mission
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T203150">2023-08-04 20:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T210441">2023-08-04 21:04:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
