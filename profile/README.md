@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T050000">2023-08-06 05:00:00 UTC</a>.  Until
 then, this pad will have been used for 10
 out of 36 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T050000">2023-08-06 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We Love the Nightlife (Capella Acadia 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230806T050000Z%2F20230806T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We Love the Nightlife (Capella Acadia 1)** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T050000">2023-08-06 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We Love the Nightlife (Capella Acadia 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230806T050000Z%2F20230806T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We Love the Nightlife (Capella Acadia 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T002200">2023-08-07 00:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-8&location=Cape Canaveral, FL, USA&dates=20230807T002200Z%2F20230807T042500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-8** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T120000">2023-08-07 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13&location=Plesetsk Cosmodrome, Russian Federation&dates=20230807T120000Z%2F20230807T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T224400">2023-08-08 22:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20230808T224400Z%2F20230808T232300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T043157">2023-08-04 04:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T050549">2023-08-04 05:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
