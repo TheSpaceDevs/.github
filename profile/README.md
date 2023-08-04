@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-spacex-crew-8-announced" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 8 Announced
+- <a href="http://www.nasa.gov/press-release/space-station-assignments-out-for-nasa-s-spacex-crew-8-mission" >🔗</a> **[NASA]** Space Station Assignments Out for NASA’s SpaceX Crew-8 Mission
+- <a href="https://tlpnetwork.com/news/2023/08/house-armed-services-committee-chairman-launches-investigation-into-president-biden-us-space-command-hq-decision" >🔗</a> **[The Launch Pad]** House Armed Services Committee Chairman Launches Investigation Into President Biden's US Space Command HQ Decision
 - <a href="https://tlpnetwork.com/news/2023/08/ses-investigation-delays-next-o3b-mpower-mission" >🔗</a> **[The Launch Pad]** SES Investigation Delays Next O3b mPower Mission
 - <a href="https://spacenews.com/nasa-selects-axiom-space-for-fourth-iss-private-astronaut-mission/" >🔗</a> **[SpaceNews]** NASA selects Axiom Space for fourth ISS private astronaut mission
-- <a href="https://arstechnica.com/space/2023/08/rocket-report-lack-of-transparency-on-ariane-6-drastic-cuts-down-under/" >🔗</a> **[Arstechnica]** Rocket Report: Lack of transparency on Ariane 6, drastic cuts Down Under
-- <a href="https://spacepolicyonline.com/news/rogers-threatens-subpoena-for-usspacecom-documents/" >🔗</a> **[SpacePolicyOnline.com]** Rogers Threatens Subpoena for USSPACECOM Documents
-- <a href="https://www.teslarati.com/spacex-kicks-off-august-launch-cadence-with-successful-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX kicks off August launch cadence with successful Falcon 9 launch
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T163423">2023-08-04 16:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T170456">2023-08-04 17:04:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
