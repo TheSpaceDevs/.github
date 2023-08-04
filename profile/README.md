@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-kicks-off-august-launch-cadence-with-successful-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX kicks off August launch cadence with successful Falcon 9 launch
 - <a href="https://www.nasaspaceflight.com/2023/08/starship-booster-9-critical-testing-phase/" >🔗</a> **[NASASpaceflight]** Starship Booster 9 and launch infrastructure moving into critical testing phase
 - <a href="https://www.teslarati.com/nasa-awards-axiom-space-crewed-flight-iss/" >🔗</a> **[Teslarati]** NASA awards Axiom Space 4th Crewed flight to ISS
 - <a href="https://spacenews.com/next-o3b-mpower-launch-delayed-as-ses-investigates-electrical-issue/" >🔗</a> **[SpaceNews]** O3b mPower faces delays as SES investigates electrical issue 
 - <a href="https://tlpnetwork.com/news/2023/08/nasa-selects-axiom-space-for-4th-private-mission-to-iss" >🔗</a> **[The Launch Pad]** NASA Selects Axiom Space For 4th Private Mission To ISS
-- <a href="https://tlpnetwork.com/news/2023/08/galaxy_37_launching_from_slc_40_on_august_3rd" >🔗</a> **[The Launch Pad]** Galaxy 37 set to launch from SLC-40
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230803T233149">2023-08-03 23:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230804T003653">2023-08-04 00:36:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
