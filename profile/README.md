@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-chandrayaan-3-lander-arrives-in-lunar-orbit/" >🔗</a> **[SpaceNews]** India’s Chandrayaan-3 lander arrives in lunar orbit
+- <a href="https://spacenews.com/astra-lays-off-reassigns-employees-as-it-refocuses-on-satellite-propulsion/" >🔗</a> **[SpaceNews]** Astra lays off, reassigns employees as it refocuses on satellite propulsion
 - <a href="https://arstechnica.com/space/2023/08/a-look-at-the-surprising-history-of-the-earliest-rocket-pioneers/" >🔗</a> **[Arstechnica]** A look at the surprising history of the earliest rocket pioneers
 - <a href="https://spacenews.com/apple-backed-globalstars-revenue-jump-underlines-iot-opportunity/" >🔗</a> **[SpaceNews]** Apple-backed Globalstar’s revenue jump underlines IoT opportunity
 - <a href="https://www.cnbc.com/2023/08/04/astra-conducts-layoffs-raises-debt-shifts-focus-to-spacecraft-engines.html" >🔗</a> **[CNBC]** Astra conducts layoffs, raises debt and shifts focus to spacecraft engines in bid to survive
-- <a href="https://www.teslarati.com/spacex-performs-booster-9-engine-test-ahead-of-static-fire/" >🔗</a> **[Teslarati]** SpaceX performs Booster 9 engine test ahead of static fire
-- <a href="https://arstechnica.com/space/2023/08/voyager-2-phones-home-and-says-everything-is-cool/" >🔗</a> **[Arstechnica]** Voyager 2 phones home and says everything is cool
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T143150">2023-08-05 14:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230805T150434">2023-08-05 15:04:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
