@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/08/spacex-conducts-a-mostly-successful-test-of-its-super-heavy-booster/" >🔗</a> **[Arstechnica]** SpaceX conducts a mostly successful test of its Super Heavy booster
+- <a href="https://www.teslarati.com/spacex-performs-static-fire-test-of-booster-9/" >🔗</a> **[Teslarati]** SpaceX performs static fire test of Booster 9
 - <a href="https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin opens new factory focused on small satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 6-12, 2023
 - <a href="https://spacenews.com/iss-transition-plans-a-work-in-progress/" >🔗</a> **[SpaceNews]** ISS transition plans a work in progress
-- <a href="https://spacenews.com/leostella-unveils-its-largest-smallsat-to-target-sda-contracts/" >🔗</a> **[SpaceNews]** LeoStella unveils its largest smallsat to target SDA contracts
-- <a href="https://spacepolicyonline.com/news/chandrayaan-3-reaches-lunar-orbit-landing-soon-with-russia-japan-and-u-s-close-behind/" >🔗</a> **[SpacePolicyOnline.com]** Chandrayaan-3 Reaches Lunar Orbit, Landing Soon with Russia, Japan and U.S. Close Behind
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T203139">2023-08-06 20:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T210352">2023-08-06 21:03:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
