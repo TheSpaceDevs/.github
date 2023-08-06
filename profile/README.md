@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin opens new factory focused on small satellites
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 6-12, 2023
 - <a href="https://spacenews.com/iss-transition-plans-a-work-in-progress/" >🔗</a> **[SpaceNews]** ISS transition plans a work in progress
 - <a href="https://spacenews.com/leostella-unveils-its-largest-smallsat-to-target-sda-contracts/" >🔗</a> **[SpaceNews]** LeoStella unveils its largest smallsat to target SDA contracts
 - <a href="https://spacepolicyonline.com/news/chandrayaan-3-reaches-lunar-orbit-landing-soon-with-russia-japan-and-u-s-close-behind/" >🔗</a> **[SpacePolicyOnline.com]** Chandrayaan-3 Reaches Lunar Orbit, Landing Soon with Russia, Japan and U.S. Close Behind
-- <a href="https://www.nasaspaceflight.com/2023/08/msl-11-years/" >🔗</a> **[NASASpaceflight]** After 11 years on Mars, Curiosity continues to climb the slopes of Mount Sharp
-- <a href="https://tlpnetwork.com/news/2023/08/nasa-esa-csa-jaxa-commit-to-iss-operations-through-2030" >🔗</a> **[The Launch Pad]** NASA, ESA, CSA, and JAXA Commit To ISS Operations Through 2030
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T193148">2023-08-06 19:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230806T200559">2023-08-06 20:05:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
