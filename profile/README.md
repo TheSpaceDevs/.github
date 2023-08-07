@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/07/boeing-resets-starliners-first-crewed-spaceflight-target-for-march.html" >🔗</a> **[CNBC]** Boeing resets Starliner plan to be ready for first NASA crew flight by March
+- <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-080623/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russia to return to the Moon in Luna 25 mission, Virgin Galactic to complete first fully private space tourism flight
+- <a href="https://tlpnetwork.com/news/2023/08/mars-wobble-and-core-size-confirmed-by-nasa-insight-lander" >🔗</a> **[The Launch Pad]** Mars Wobble & Core Size Confirmed By NASA's InSight Lander
 - <a href="https://tlpnetwork.com/news/2023/08/lockheed-martin-opens-new-small-satellite-factory" >🔗</a> **[The Launch Pad]** Lockheed Martin Opens New Small Satellite Factory
 - <a href="https://spacenews.com/nanoavionics-completes-leo-satellite-for-studying-black-holes/" >🔗</a> **[SpaceNews]** NanoAvionics completes LEO satellite for studying black holes
-- <a href="https://spacenews.com/lockheed-martins-data-transport-satellite-clears-design-review/" >🔗</a> **[SpaceNews]** Lockheed Martin’s data-transport satellite clears design review
-- <a href="https://www.teslarati.com/spacex-closes-in-launch-record-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX closes in on launch record with most recent Starlink launch
-- <a href="https://tlpnetwork.com/news/2023/08/rfa-secures-investment-from-kkr" >🔗</a> **[The Launch Pad]** RFA Secures €30m Investment From KKR
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T193147">2023-08-07 19:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T200647">2023-08-07 20:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
