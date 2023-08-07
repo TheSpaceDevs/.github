@@ -44,7 +44,6 @@ into *a Medium Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T120000">2023-08-07 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13&location=Plesetsk Cosmodrome, Russian Federation&dates=20230807T120000Z%2F20230807T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T035700">2023-08-08 03:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-20&location=Vandenberg SFB, CA, USA&dates=20230808T035700Z%2F20230808T082200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T224400">2023-08-08 22:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20230808T224400Z%2F20230808T232300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140000">2023-08-10 14:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 02&location=Air launch to Suborbital flight&dates=20230810T140000Z%2F20230810T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 02** from Air launch to Suborbital flight.
@@ -102,7 +101,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T113159">2023-08-07 11:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T121148">2023-08-07 12:11:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
