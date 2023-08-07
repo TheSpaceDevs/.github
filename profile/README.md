@@ -25,7 +25,7 @@ from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T035700">2023-08-08 03:57:00 UTC</a>.  Until
 then, this pad will have been used for 115
 out of 724 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T035700">2023-08-08 03:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-20&location=Vandenberg SFB, CA, USA&dates=20230808T035700Z%2F20230808T082200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-20** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T035700">2023-08-08 03:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-20&location=Vandenberg SFB, CA, USA&dates=20230808T035700Z%2F20230808T062800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T224400">2023-08-08 22:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20230808T224400Z%2F20230808T232300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140000">2023-08-10 14:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 02&location=Air launch to Suborbital flight&dates=20230810T140000Z%2F20230810T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 02** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T231057">2023-08-10 23:10:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Luna 25&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230810T231057Z%2F20230810T231057Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Luna 25** from Vostochny Cosmodrome, Siberia, Russian Federation.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/lockheed-martin-opens-new-small-satellite-factory" >🔗</a> **[The Launch Pad]** Lockheed Martin Opens New Small Satellite Factory
+- <a href="https://spacenews.com/nanoavionics-completes-leo-satellite-for-studying-black-holes/" >🔗</a> **[SpaceNews]** NanoAvionics completes LEO satellite for studying black holes
+- <a href="https://spacenews.com/lockheed-martins-data-transport-satellite-clears-design-review/" >🔗</a> **[SpaceNews]** Lockheed Martin’s data-transport satellite clears design review
 - <a href="https://www.teslarati.com/spacex-closes-in-launch-record-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX closes in on launch record with most recent Starlink launch
 - <a href="https://tlpnetwork.com/news/2023/08/rfa-secures-investment-from-kkr" >🔗</a> **[The Launch Pad]** RFA Secures €30m Investment From KKR
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station" >🔗</a> **[NASA]** NASA Sets Coverage of Roscosmos Spacewalk Outside Space Station
-- <a href="https://mars.nasa.gov/news/9452/" >🔗</a> **[NASA]** NASA InSight Study Finds Mars Is Spinning Faster
-- <a href="https://spacenews.com/tropics-cubesat-constellation-ready-for-hurricane-season/" >🔗</a> **[SpaceNews]** TROPICS cubesat constellation ready for hurricane season
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T183138">2023-08-07 18:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T190415">2023-08-07 19:04:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
