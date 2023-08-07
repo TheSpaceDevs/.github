@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-tropics-constellation-fully-operational-and-ready-for-hurricane-season" >🔗</a> **[The Launch Pad]** NASA TROPICS Constellation Fully Operational & Ready For Hurricane Season
+- <a href="https://tlpnetwork.com/news/2023/08/hyimpulse-issued-first-lran-from-caa" >🔗</a> **[The Launch Pad]** HyImpulse Issued First Large Rocket Air Navigation Order from CAA
 - <a href="https://mars.nasa.gov/news/9457/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Flies Again After Unscheduled Landing
 - <a href="https://tlpnetwork.com/news/2023/08/amazon-moves-project-kuiper-demo-to-atlas-5" >🔗</a> **[The Launch Pad]** Amazon Moves Project Kuiper Demo From Vulcan To Atlas 5
 - <a href="https://www.cnbc.com/2023/08/07/redwire-rdw-space-company-q2-earnings.html" >🔗</a> **[CNBC]** Space company Redwire trims quarterly losses, builds order backlog past $270 million
-- <a href="https://tlpnetwork.com/news/2023/08/b9firststaticfire" >🔗</a> **[The Launch Pad]** SpaceX's booster 9 performs first static fire test!
-- <a href="https://spacenews.com/momentus-offers-smallsat-bus-based-on-vigoride/" >🔗</a> **[SpaceNews]** Momentus offers smallsat bus based on Vigoride
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T223159">2023-08-07 22:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T230552">2023-08-07 23:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
