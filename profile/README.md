@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/xenesis-to-send-optical-terminal-to-iss-platform/" >🔗</a> **[SpaceNews]** Xenesis to send optical terminal to ISS platform
 - <a href="https://arstechnica.com/space/2023/08/spacex-conducts-a-mostly-successful-test-of-its-super-heavy-booster/" >🔗</a> **[Arstechnica]** SpaceX conducts a mostly successful test of its Super Heavy booster
 - <a href="https://www.teslarati.com/spacex-performs-static-fire-test-of-booster-9/" >🔗</a> **[Teslarati]** SpaceX performs static fire test of Booster 9
 - <a href="https://spacenews.com/lockheed-martin-opens-new-factory-focused-on-small-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin opens new factory focused on small satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-6-12-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 6-12, 2023
-- <a href="https://spacenews.com/iss-transition-plans-a-work-in-progress/" >🔗</a> **[SpaceNews]** ISS transition plans a work in progress
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T093158">2023-08-07 09:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T100654">2023-08-07 10:06:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
