@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station" >🔗</a> **[NASA]** NASA Sets Coverage of Roscosmos Spacewalk Outside Space Station
 - <a href="https://mars.nasa.gov/news/9452/" >🔗</a> **[NASA]** NASA InSight Study Finds Mars Is Spinning Faster
 - <a href="https://spacenews.com/tropics-cubesat-constellation-ready-for-hurricane-season/" >🔗</a> **[SpaceNews]** TROPICS cubesat constellation ready for hurricane season
-- <a href="https://spacenews.com/benchmark-unveils-driver-assistance-features-for-satellites/" >🔗</a> **[SpaceNews]** Benchmark unveils driver assistance features for satellites
 - <a href="https://spacenews.com/frontgrade-acquires-aethercomm/" >🔗</a> **[SpaceNews]** Frontgrade acquires Aethercomm
-- <a href="https://spacenews.com/xenesis-to-send-optical-terminal-to-iss-platform/" >🔗</a> **[SpaceNews]** Xenesis to send optical terminal to ISS platform
+- <a href="https://spacenews.com/benchmark-unveils-driver-assistance-features-for-satellites/" >🔗</a> **[SpaceNews]** Benchmark unveils driver assistance features for satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T163518">2023-08-07 16:35:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230807T170512">2023-08-07 17:05:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
