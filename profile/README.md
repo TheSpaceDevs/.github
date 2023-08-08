@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ksat-unveils-automated-ka-band-network/" >🔗</a> **[SpaceNews]** KSAT unveils automated Ka-band network
+- <a href="https://spacenews.com/busek-lauds-on-orbit-performance-of-onewebs-hall-effect-thrusters/" >🔗</a> **[SpaceNews]** Busek lauds on-orbit performance of OneWeb’s Hall-effect thrusters
+- <a href="https://www.cnbc.com/2023/08/08/billionaire-charlie-ergen-merging-dish-and-echostar-to-expand-mobile-and-satellite-telecom-empire.html" >🔗</a> **[CNBC]** Billionaire Charlie Ergen merging Dish and EchoStar to expand mobile and satellite telecom empire
 - <a href="https://spacenews.com/rocket-factory-augsburg-gets-e30-million-investment-boost/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg gets €30 million investment boost
 - <a href="https://spacenews.com/solestial-to-supply-solar-arrays-for-atomos-space-tugs/" >🔗</a> **[SpaceNews]** Solestial to supply solar arrays for Atomos space tugs
-- <a href="https://tlpnetwork.com/news/2023/08/starliner-cft-delayed-to-2024" >🔗</a> **[The Launch Pad]** Boeing Starliner Crewed Flight Test Delayed To 2024
-- <a href="https://tlpnetwork.com/news/2023/08/nanoavionics-prepares-leo-black-hole-research-satellite-for-launch" >🔗</a> **[The Launch Pad]** NanoAvionics Prepares LEO Black Hole Research Satellite For Launch
-- <a href="https://spacenews.com/pale-blue-to-supply-thrusters-for-yonsei-university-cubesats/" >🔗</a> **[SpaceNews]** Pale Blue to supply thrusters for Yonsei University cubesats
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T113156">2023-08-08 11:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T121205">2023-08-08 12:12:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
