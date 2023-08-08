@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-to-expand-satellite-ground-operations-in-north-dakota/" >🔗</a> **[SpaceNews]** Space Development Agency to expand satellite ground operations in North Dakota
 - <a href="https://spacenews.com/exoterra-gains-flight-heritage-for-halo-thrusters/" >🔗</a> **[SpaceNews]** ExoTerra gains flight heritage for Halo thrusters
 - <a href="https://spacenews.com/funded-for-further-growth-leaf-space-prepares-its-ground-station-network-for-the-upcoming-spacexs-transporter-9-mission-and-shares-excitement-for-the-sector/" >🔗</a> **[SpaceNews]** Funded for further growth, Leaf Space prepares its ground station network for the upcoming SpaceX’s Transporter-9 mission and shares excitement for the sector
 - <a href="https://spacenews.com/busek-lauds-on-orbit-performance-of-onewebs-hall-effect-thrusters/" >🔗</a> **[SpaceNews]** Busek lauds on-orbit performance of OneWeb’s Hall-effect thrusters
 - <a href="https://spacenews.com/ksat-unveils-automated-ka-band-network/" >🔗</a> **[SpaceNews]** KSAT unveils automated Ka-band network
-- <a href="https://www.cnbc.com/2023/08/08/billionaire-charlie-ergen-merging-dish-and-echostar-to-expand-mobile-and-satellite-telecom-empire.html" >🔗</a> **[CNBC]** Billionaire Charlie Ergen merging Dish and EchoStar to expand mobile and satellite telecom empire
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T133153">2023-08-08 13:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T140520">2023-08-08 14:05:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
