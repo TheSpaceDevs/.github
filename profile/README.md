@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://tlpnetwork.com/news/2023/08/blacksky-signs-launch-deal-with-rocketlab-for-next-gen-satellites" >🔗</a> **[The Launch Pad]** BlackSky Signs Launch Deal With RocketLab For Next Gen Satellites
-- <a href="https://www.teslarati.com/spacex-moves-booster-9-back-production-site/" >🔗</a> **[Teslarati]** SpaceX moves Booster 9 back to the production site
-- <a href="https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/" >🔗</a> **[SpaceNews]** Redwire to supply cameras for True Anomaly’s inspector satellites
-- <a href="https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers" >🔗</a> **[The Launch Pad]** Exotrail Expands To US To Serve Commercial and Government Customers
-- <a href="https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/" >🔗</a> **[SpaceNews]** Starfish Space wins Air Force contract to develop satellite guidance software
+- <a href="https://spacenews.com/ghgsat-orders-four-more-greenhouse-gas-monitoring-cubesats-from-spire/" >🔗</a> **[SpaceNews]** GHGSat orders four more greenhouse gas monitoring cubesats from Spire
+- <a href="https://spacepolicyonline.com/news/artemis-ii-on-track-but-artemis-iii-could-be-a-different-mission-if-hardware-not-ready/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II On Track, But Artemis III Could Be a “Different Mission” if Hardware Not Ready
+- <a href="https://tlpnetwork.com/news/2023/08/dish-network-and-echostar-announce-merger" >🔗</a> **[The Launch Pad]** Dish Network & EchoStar Announce Merger
+- <a href="https://tlpnetwork.com/news/2023/08/eutelsat-partners-with-thaicom-on-geo-telecom-sat" >🔗</a> **[The Launch Pad]** Eutelsat Partners With Thaicom To Launch GEO Telecom Sat
+- <a href="https://www.cnbc.com/2023/08/08/rocket-lab-rklb-q2-earnings-report.html" >🔗</a> **[CNBC]** Rocket Lab results match Wall Street estimates, company adds contracts for 10 launches
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T213141">2023-08-08 21:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T220618">2023-08-08 22:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
