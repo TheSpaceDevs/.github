@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-lifts-many-commercial-remote-sensing-license-conditions/" >🔗</a> **[SpaceNews]** NOAA lifts many commercial remote sensing license conditions
+- <a href="https://www.teslarati.com/spacex-falcon-9-sends-15-starlink-satellites-to-join-growing-constellation/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 sends 15 Starlink satellites to join growing constellation
+- <a href="https://tlpnetwork.com/news/2023/08/firefly-aerospace-partners-with-xtenti-for-elytra-demo-mission" >🔗</a> **[The Launch Pad]** Firefly Aerospace Partners With Xtenti For Elytra Demo Mission
+- <a href="https://spacenews.com/china-could-be-planning-a-second-broadband-megaconstellation/" >🔗</a> **[SpaceNews]** China could be planning a second broadband megaconstellation
 - <a href="https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing" >🔗</a> **[The Launch Pad]** NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing
-- <a href="https://spacenews.com/download-your-tuesday-news-from-the-2023-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Tuesday ‘News from the 2023 Small Satellite show’ digital edition
-- <a href="https://tlpnetwork.com/news/2023/08/ariane-6-test-campaign-timeline" >🔗</a> **[The Launch Pad]** ESA Sets Schedule For Ariane 6 Test Campaign
-- <a href="https://spacenews.com/exotrail-establishes-u-s-presence/" >🔗</a> **[SpaceNews]** Exotrail establishes U.S. presence
-- <a href="https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/" >🔗</a> **[Arstechnica]** The helicopter on Mars just flew again after surviving an emergency landing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T173206">2023-08-08 17:32:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T180838">2023-08-08 18:08:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
