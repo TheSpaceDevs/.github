@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers" >🔗</a> **[The Launch Pad]** Exotrail Expands To US To Serve Commercial and Government Customers
+- <a href="https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/" >🔗</a> **[SpaceNews]** Starfish Space wins Air Force contract to develop satellite guidance software
+- <a href="https://spacenews.com/u-s-commission-to-investigate-chinas-remote-sensing-technologies/" >🔗</a> **[SpaceNews]** U.S. commission to investigate China’s remote-sensing technologies
+- <a href="https://spacenews.com/nro-to-conduct-responsive-space-mission-with-firefly-and-xtenti/" >🔗</a> **[SpaceNews]** NRO to conduct responsive space mission with Firefly and Xtenti
 - <a href="https://spacenews.com/noaa-lifts-many-commercial-remote-sensing-license-conditions/" >🔗</a> **[SpaceNews]** NOAA lifts many commercial remote sensing license conditions
-- <a href="https://www.teslarati.com/spacex-falcon-9-sends-15-starlink-satellites-to-join-growing-constellation/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 sends 15 Starlink satellites to join growing constellation
-- <a href="https://tlpnetwork.com/news/2023/08/firefly-aerospace-partners-with-xtenti-for-elytra-demo-mission" >🔗</a> **[The Launch Pad]** Firefly Aerospace Partners With Xtenti For Elytra Demo Mission
-- <a href="https://spacenews.com/china-could-be-planning-a-second-broadband-megaconstellation/" >🔗</a> **[SpaceNews]** China could be planning a second broadband megaconstellation
-- <a href="https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing" >🔗</a> **[The Launch Pad]** NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T183149">2023-08-08 18:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T190418">2023-08-08 19:04:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
