@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/blacksky-signs-launch-deal-with-rocketlab-for-next-gen-satellites" >🔗</a> **[The Launch Pad]** BlackSky Signs Launch Deal With RocketLab For Next Gen Satellites
+- <a href="https://www.teslarati.com/spacex-moves-booster-9-back-production-site/" >🔗</a> **[Teslarati]** SpaceX moves Booster 9 back to the production site
 - <a href="https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/" >🔗</a> **[SpaceNews]** Redwire to supply cameras for True Anomaly’s inspector satellites
 - <a href="https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers" >🔗</a> **[The Launch Pad]** Exotrail Expands To US To Serve Commercial and Government Customers
 - <a href="https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/" >🔗</a> **[SpaceNews]** Starfish Space wins Air Force contract to develop satellite guidance software
-- <a href="https://spacenews.com/u-s-commission-to-investigate-chinas-remote-sensing-technologies/" >🔗</a> **[SpaceNews]** U.S. commission to investigate China’s remote-sensing technologies
-- <a href="https://spacenews.com/nro-to-conduct-responsive-space-mission-with-firefly-and-xtenti/" >🔗</a> **[SpaceNews]** NRO to conduct responsive space mission with Firefly and Xtenti
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T203147">2023-08-08 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T210533">2023-08-08 21:05:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
