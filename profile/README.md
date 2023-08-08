@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-to-supply-cameras-for-true-anomalys-inspector-satellites/" >🔗</a> **[SpaceNews]** Redwire to supply cameras for True Anomaly’s inspector satellites
 - <a href="https://tlpnetwork.com/news/2023/08/exotrail-expands-to-us-to-serve-commercial-and-government-customers" >🔗</a> **[The Launch Pad]** Exotrail Expands To US To Serve Commercial and Government Customers
 - <a href="https://spacenews.com/starfish-space-wins-air-force-contract-to-develop-satellite-guidance-software/" >🔗</a> **[SpaceNews]** Starfish Space wins Air Force contract to develop satellite guidance software
 - <a href="https://spacenews.com/u-s-commission-to-investigate-chinas-remote-sensing-technologies/" >🔗</a> **[SpaceNews]** U.S. commission to investigate China’s remote-sensing technologies
 - <a href="https://spacenews.com/nro-to-conduct-responsive-space-mission-with-firefly-and-xtenti/" >🔗</a> **[SpaceNews]** NRO to conduct responsive space mission with Firefly and Xtenti
-- <a href="https://spacenews.com/noaa-lifts-many-commercial-remote-sensing-license-conditions/" >🔗</a> **[SpaceNews]** NOAA lifts many commercial remote sensing license conditions
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T193159">2023-08-08 19:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T200700">2023-08-08 20:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
