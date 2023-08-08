@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-ingenuity-mars-helicopter-flies-again-following-unscheduled-landing" >🔗</a> **[The Launch Pad]** NASA's Ingenuity Mars Helicopter Flies Again Following Unscheduled Landing
+- <a href="https://spacenews.com/download-your-tuesday-news-from-the-2023-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Tuesday ‘News from the 2023 Small Satellite show’ digital edition
 - <a href="https://tlpnetwork.com/news/2023/08/ariane-6-test-campaign-timeline" >🔗</a> **[The Launch Pad]** ESA Sets Schedule For Ariane 6 Test Campaign
 - <a href="https://spacenews.com/exotrail-establishes-u-s-presence/" >🔗</a> **[SpaceNews]** Exotrail establishes U.S. presence
 - <a href="https://arstechnica.com/space/2023/08/after-a-scare-nasas-mars-helicopter-safely-takes-to-the-skies-again/" >🔗</a> **[Arstechnica]** The helicopter on Mars just flew again after surviving an emergency landing
-- <a href="https://spacenews.com/dish-and-echostar-agree-terrestrial-and-space-connectivity-merger/" >🔗</a> **[SpaceNews]** Dish and EchoStar agree terrestrial and space connectivity merger
-- <a href="https://spacenews.com/space-development-agency-to-expand-satellite-ground-operations-in-north-dakota/" >🔗</a> **[SpaceNews]** Space Development Agency to expand satellite ground operations in North Dakota
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T163650">2023-08-08 16:36:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T170626">2023-08-08 17:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
