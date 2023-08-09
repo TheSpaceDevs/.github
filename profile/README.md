@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/axiom-space-and-esa-to-launch-polish-astronaut-on-future-mission" >🔗</a> **[The Launch Pad]** Axiom Space & ESA To Launch Polish Astronaut On Future Mission
+- <a href="https://www.teslarati.com/rocket-lab-rklb-shares-q2-results/" >🔗</a> **[Teslarati]** Rocket Lab shares Q2 results results
 - <a href="https://www.nasaspaceflight.com/2023/08/northrop-grumman-mlv/" >🔗</a> **[NASASpaceflight]** Northrop Grumman and Firefly’s Antares 330 and MLV plans take shape
 - <a href="http://www.nasa.gov/press-release/nasa-software-catalog-offers-free-programs-for-earth-science-more" >🔗</a> **[NASA]** NASA Software Catalog Offers Free Programs for Earth Science, More
 - <a href="https://spacenews.com/clogged-propellant-lines-doomed-nasa-lunar-cubesat-mission/" >🔗</a> **[SpaceNews]** Clogged propellant lines doomed NASA lunar cubesat mission
-- <a href="https://spacenews.com/the-smallsat-show-me-era/" >🔗</a> **[SpaceNews]** The Smallsat Show-me Era
-- <a href="https://spacenews.com/from-customization-to-standardization/" >🔗</a> **[SpaceNews]** From Customization to Standardization
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T183431">2023-08-09 18:34:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T190439">2023-08-09 19:04:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
