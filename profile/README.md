@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/download-your-wednesday-news-from-the-2023-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Wednesday ‘News from the 2023 Small Satellite show’ digital edition
 - <a href="https://tlpnetwork.com/news/2023/08/solestial-to-equip-atomos-space-tugs-with-solar-arrays" >🔗</a> **[The Launch Pad]** Solestial To Equip Atomos Space Tugs With Solar Arrays
 - <a href="https://spacenews.com/nro-seeks-collaboration-with-industry-and-academia/" >🔗</a> **[SpaceNews]** NRO seeks collaboration with industry and academia
 - <a href="https://tlpnetwork.com/news/2023/08/ksat-announces-automated-ka-band-network" >🔗</a> **[The Launch Pad]** KSAT Announces Automated Ka-band Network
 - <a href="https://tlpnetwork.com/news/2023/08/sda-to-expand-north-dakota-satellite-ground-operations" >🔗</a> **[The Launch Pad]** SDA To Expand North Dakota Satellite Ground Operations
-- <a href="https://tlpnetwork.com/news/2023/08/starfish-space-to-develop-satellite-guidance-software-for-us-air-force" >🔗</a> **[The Launch Pad]** Starfish Space To Develop Satellite Guidance Software For US Air Force 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T113206">2023-08-09 11:32:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T121224">2023-08-09 12:12:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
