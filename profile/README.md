@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed" >🔗</a> **[The Launch Pad]** AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed 
+- <a href="https://tlpnetwork.com/news/2023/08/us-to-investigate-chinas-advancement-into-remote-sensing-tech" >🔗</a> **[The Launch Pad]** US To Investigate China's Remote Sensing Technology Advancements
+- <a href="https://tlpnetwork.com/news/2023/08/china-planning-g60-starlink-megaconstellation" >🔗</a> **[The Launch Pad]** China Planning 2nd LEO Broadband Megaconstellation Called G60 Starlink
 - <a href="https://tlpnetwork.com/news/2023/08/sierra-space-establishes-new-engineering-and-test-organization" >🔗</a> **[The Launch Pad]** Sierra Space Establishes New Engineering & Test Organization
 - <a href="https://tlpnetwork.com/news/2023/08/true-anomaly-partners-with-redwire-for-jackal-spacecraft-cameras" >🔗</a> **[The Launch Pad]** True Anomaly Partners With Redwire For Jackal Spacecraft Cameras
-- <a href="https://spacenews.com/ghgsat-orders-four-more-greenhouse-gas-monitoring-cubesats-from-spire/" >🔗</a> **[SpaceNews]** GHGSat orders four more greenhouse gas monitoring cubesats from Spire
-- <a href="https://spacepolicyonline.com/news/artemis-ii-on-track-but-artemis-iii-could-be-a-different-mission-if-hardware-not-ready/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II On Track, But Artemis III Could Be a “Different Mission” if Hardware Not Ready
-- <a href="https://tlpnetwork.com/news/2023/08/dish-network-and-echostar-announce-merger" >🔗</a> **[The Launch Pad]** Dish Network & EchoStar Announce Merger
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230808T233157">2023-08-08 23:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T003723">2023-08-09 00:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
