@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/lockheed-martin-complete-sda-tranche-1-transport-layer-critical-design-review" >🔗</a> **[The Launch Pad]** Lockheed Martin Complete SDA Tranche 1 Transport Layer Critical Design Review
+- <a href="https://tlpnetwork.com/news/2023/08/noaa-lifts-commercial-remote-sensing-license-conditions" >🔗</a> **[The Launch Pad]** NOAA Lifts Commercial Remote Sensing License Conditions
 - <a href="https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed" >🔗</a> **[The Launch Pad]** AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed 
 - <a href="https://tlpnetwork.com/news/2023/08/us-to-investigate-chinas-advancement-into-remote-sensing-tech" >🔗</a> **[The Launch Pad]** US To Investigate China's Remote Sensing Technology Advancements
 - <a href="https://tlpnetwork.com/news/2023/08/china-planning-g60-starlink-megaconstellation" >🔗</a> **[The Launch Pad]** China Planning 2nd LEO Broadband Megaconstellation Called G60 Starlink
-- <a href="https://tlpnetwork.com/news/2023/08/sierra-space-establishes-new-engineering-and-test-organization" >🔗</a> **[The Launch Pad]** Sierra Space Establishes New Engineering & Test Organization
-- <a href="https://tlpnetwork.com/news/2023/08/true-anomaly-partners-with-redwire-for-jackal-spacecraft-cameras" >🔗</a> **[The Launch Pad]** True Anomaly Partners With Redwire For Jackal Spacecraft Cameras
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T030646">2023-08-09 03:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T033156">2023-08-09 03:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
