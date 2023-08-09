@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://tlpnetwork.com/news/2023/08/axiom-space-and-esa-to-launch-polish-astronaut-on-future-mission" >🔗</a> **[The Launch Pad]** Axiom Space & ESA To Launch Polish Astronaut On Future Mission
-- <a href="https://www.teslarati.com/rocket-lab-rklb-shares-q2-results/" >🔗</a> **[Teslarati]** Rocket Lab shares Q2 results results
-- <a href="https://www.nasaspaceflight.com/2023/08/northrop-grumman-mlv/" >🔗</a> **[NASASpaceflight]** Northrop Grumman and Firefly’s Antares 330 and MLV plans take shape
-- <a href="http://www.nasa.gov/press-release/nasa-software-catalog-offers-free-programs-for-earth-science-more" >🔗</a> **[NASA]** NASA Software Catalog Offers Free Programs for Earth Science, More
-- <a href="https://spacenews.com/clogged-propellant-lines-doomed-nasa-lunar-cubesat-mission/" >🔗</a> **[SpaceNews]** Clogged propellant lines doomed NASA lunar cubesat mission
+- <a href="https://www.teslarati.com/artemis-ii-astronauts-first-look-orion-spacecraft/" >🔗</a> **[Teslarati]** Artemis II astronauts get their first look at their Orion spacecraft
+- <a href="https://tlpnetwork.com/news/2023/08/vyoma-orders-first-debris-monitoring-satellites-for-new-constellation" >🔗</a> **[The Launch Pad]** Vyoma Orders First Debris Monitoring Satellites For New Constellation
+- <a href="https://spacenews.com/dish-network-plots-two-way-fixed-broadband-services-in-ku-band/" >🔗</a> **[SpaceNews]** Dish Network plots two-way fixed broadband services in Ku-band
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-lunar-flashlight-mission-failed-due-to-clogged-propellant-lines" >🔗</a> **[The Launch Pad]** NASA Lunar Flashlight Mission Failed Due To Clogged Propellant Lines
+- <a href="https://spacenews.com/dcube-reveals-in-space-manufacturing-demonstration/" >🔗</a> **[SpaceNews]** DCubed reveals in-space manufacturing demonstration
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T193152">2023-08-09 19:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T200652">2023-08-09 20:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
