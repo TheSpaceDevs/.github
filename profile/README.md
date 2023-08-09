@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/northrop-grumman-mlv/" >🔗</a> **[NASASpaceflight]** Northrop Grumman and Firefly’s Antares 330 and MLV plans take shape
+- <a href="http://www.nasa.gov/press-release/nasa-software-catalog-offers-free-programs-for-earth-science-more" >🔗</a> **[NASA]** NASA Software Catalog Offers Free Programs for Earth Science, More
+- <a href="https://spacenews.com/clogged-propellant-lines-doomed-nasa-lunar-cubesat-mission/" >🔗</a> **[SpaceNews]** Clogged propellant lines doomed NASA lunar cubesat mission
 - <a href="https://spacenews.com/the-smallsat-show-me-era/" >🔗</a> **[SpaceNews]** The Smallsat Show-me Era
 - <a href="https://spacenews.com/from-customization-to-standardization/" >🔗</a> **[SpaceNews]** From Customization to Standardization
-- <a href="https://spacenews.com/blacksky-buys-five-electron-launches/" >🔗</a> **[SpaceNews]** BlackSky buys five Electron launches
-- <a href="https://mars.nasa.gov/news/9459/" >🔗</a> **[NASA]** Cracks in Ancient Martian Mud Surprise NASA's Curiosity Rover Team
-- <a href="https://spacenews.com/vyoma-orders-pilot-satellites-for-debris-monitoring-constellation/" >🔗</a> **[SpaceNews]** Vyoma orders pilot satellites for debris-monitoring constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T173129">2023-08-09 17:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T180824">2023-08-09 18:08:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
