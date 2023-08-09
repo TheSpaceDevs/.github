@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-confirms-ariane-6-debut-to-slip-to-2024/" >🔗</a> **[SpaceNews]** ESA confirms Ariane 6 debut to slip to 2024
 - <a href="https://www.teslarati.com/artemis-ii-astronauts-first-look-orion-spacecraft/" >🔗</a> **[Teslarati]** Artemis II astronauts get their first look at their Orion spacecraft
 - <a href="https://tlpnetwork.com/news/2023/08/vyoma-orders-first-debris-monitoring-satellites-for-new-constellation" >🔗</a> **[The Launch Pad]** Vyoma Orders First Debris Monitoring Satellites For New Constellation
 - <a href="https://spacenews.com/dish-network-plots-two-way-fixed-broadband-services-in-ku-band/" >🔗</a> **[SpaceNews]** Dish Network plots two-way fixed broadband services in Ku-band
 - <a href="https://tlpnetwork.com/news/2023/08/nasa-lunar-flashlight-mission-failed-due-to-clogged-propellant-lines" >🔗</a> **[The Launch Pad]** NASA Lunar Flashlight Mission Failed Due To Clogged Propellant Lines
-- <a href="https://spacenews.com/dcube-reveals-in-space-manufacturing-demonstration/" >🔗</a> **[SpaceNews]** DCubed reveals in-space manufacturing demonstration
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T203145">2023-08-09 20:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T210520">2023-08-09 21:05:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
