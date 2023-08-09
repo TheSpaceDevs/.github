@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/solestial-to-equip-atomos-space-tugs-with-solar-arrays" >🔗</a> **[The Launch Pad]** Solestial To Equip Atomos Space Tugs With Solar Arrays
+- <a href="https://spacenews.com/nro-seeks-collaboration-with-industry-and-academia/" >🔗</a> **[SpaceNews]** NRO seeks collaboration with industry and academia
+- <a href="https://tlpnetwork.com/news/2023/08/ksat-announces-automated-ka-band-network" >🔗</a> **[The Launch Pad]** KSAT Announces Automated Ka-band Network
+- <a href="https://tlpnetwork.com/news/2023/08/sda-to-expand-north-dakota-satellite-ground-operations" >🔗</a> **[The Launch Pad]** SDA To Expand North Dakota Satellite Ground Operations
 - <a href="https://tlpnetwork.com/news/2023/08/starfish-space-to-develop-satellite-guidance-software-for-us-air-force" >🔗</a> **[The Launch Pad]** Starfish Space To Develop Satellite Guidance Software For US Air Force 
-- <a href="https://tlpnetwork.com/news/2023/08/lockheed-martin-complete-sda-tranche-1-transport-layer-critical-design-review" >🔗</a> **[The Launch Pad]** Lockheed Martin Complete SDA Tranche 1 Transport Layer Critical Design Review
-- <a href="https://tlpnetwork.com/news/2023/08/noaa-lifts-commercial-remote-sensing-license-conditions" >🔗</a> **[The Launch Pad]** NOAA Lifts Commercial Remote Sensing License Conditions
-- <a href="https://tlpnetwork.com/news/2023/08/ai-discovers-potentially-hazardous-near-earth-asteroid-astronomers-missed" >🔗</a> **[The Launch Pad]** AI Discovers ‘Potentially Hazardous’ Near Earth Asteroid Astronomers Missed 
-- <a href="https://tlpnetwork.com/news/2023/08/us-to-investigate-chinas-advancement-into-remote-sensing-tech" >🔗</a> **[The Launch Pad]** US To Investigate China's Remote Sensing Technology Advancements
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T043148">2023-08-09 04:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T050641">2023-08-09 05:06:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
