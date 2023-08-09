@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/nasa-weighs-changes-to-artemis-3-if-key-elements-are-delayed/" >🔗</a> **[SpaceNews]** NASA weighs changes to Artemis 3 if key elements are delayed
-- <a href="https://spacenews.com/download-your-wednesday-news-from-the-2023-small-satellite-show-digital-edition/" >🔗</a> **[SpaceNews]** Download your Wednesday ‘News from the 2023 Small Satellite show’ digital edition
-- <a href="https://tlpnetwork.com/news/2023/08/solestial-to-equip-atomos-space-tugs-with-solar-arrays" >🔗</a> **[The Launch Pad]** Solestial To Equip Atomos Space Tugs With Solar Arrays
-- <a href="https://spacenews.com/nro-seeks-collaboration-with-industry-and-academia/" >🔗</a> **[SpaceNews]** NRO seeks collaboration with industry and academia
-- <a href="https://tlpnetwork.com/news/2023/08/ksat-announces-automated-ka-band-network" >🔗</a> **[The Launch Pad]** KSAT Announces Automated Ka-band Network
+- <a href="https://spacenews.com/the-smallsat-show-me-era/" >🔗</a> **[SpaceNews]** The Smallsat Show-me Era
+- <a href="https://spacenews.com/from-customization-to-standardization/" >🔗</a> **[SpaceNews]** From Customization to Standardization
+- <a href="https://spacenews.com/blacksky-buys-five-electron-launches/" >🔗</a> **[SpaceNews]** BlackSky buys five Electron launches
+- <a href="https://mars.nasa.gov/news/9459/" >🔗</a> **[NASA]** Cracks in Ancient Martian Mud Surprise NASA's Curiosity Rover Team
+- <a href="https://spacenews.com/vyoma-orders-pilot-satellites-for-debris-monitoring-constellation/" >🔗</a> **[SpaceNews]** Vyoma orders pilot satellites for debris-monitoring constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T153156">2023-08-09 15:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230809T160917">2023-08-09 16:09:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
