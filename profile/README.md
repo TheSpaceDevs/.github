@@ -88,11 +88,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html" >🔗</a> **[CNBC]** Watch live as Virgin Galactic launches tourists to space for the first time
 - <a href="https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/" >🔗</a> **[SpaceNews]** Space Force tries to hedge risk with new launch strategy
 - <a href="https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/" >🔗</a> **[SpaceNews]** Scout Space, Stanford University win Space Force contract extension
 - <a href="https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/" >🔗</a> **[SpaceNews]** Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch
 - <a href="https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/" >🔗</a> **[Arstechnica]** It’s finally time—Virgin Galactic is flying private astronauts into space
-- <a href="https://spacenews.com/viasat-not-ready-to-declare-viasat-3-americas-a-total-loss/" >🔗</a> **[SpaceNews]** Viasat not ready to declare Viasat-3 Americas a total loss
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T143301">2023-08-10 14:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T150655">2023-08-10 15:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
