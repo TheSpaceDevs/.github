@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-not-ready-to-declare-viasat-3-americas-a-total-loss/" >🔗</a> **[SpaceNews]** Viasat not ready to declare Viasat-3 Americas a total loss
 - <a href="https://spacenews.com/japans-interstellar-aims-for-orbital-launch-in-2025/" >🔗</a> **[SpaceNews]** Japan’s Interstellar aims for orbital launch in 2025
 - <a href="https://spacenews.com/u-s-intelligence-agencies-take-steps-to-protect-commercial-satellite-operators/" >🔗</a> **[SpaceNews]** U.S. intelligence agencies take steps to protect commercial satellites
 - <a href="https://www.cnbc.com/2023/08/09/viasat-vsat-q1-earnings-report.html" >🔗</a> **[CNBC]** Viasat revenue grows as investigation continues into malfunctioning $750 million satellite
 - <a href="https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-the-cook-islands/" >🔗</a> **[SpaceNews]** Lynk Global starts initial direct-to-device services in the Cook Islands
-- <a href="https://spacenews.com/esa-confirms-ariane-6-debut-to-slip-to-2024/" >🔗</a> **[SpaceNews]** ESA confirms Ariane 6 debut to slip to 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T015958">2023-08-10 01:59:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T023343">2023-08-10 02:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
