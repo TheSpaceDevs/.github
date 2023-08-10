@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SpaceShipTwo | Galactic 02**. It is scheduled to be launched by *Virgin Galactic*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Spaceport_America">Spaceport America</a>, Air launch to Suborbital flight*
-<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140000">2023-08-10 14:00:00 UTC</a>.  Until
-then, this pad will have been used for 8
-out of 80 launches from this location. The launch status is currently
+**Soyuz 2.1b/Fregat-M | Luna 25**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1S</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T231057">2023-08-10 23:10:57 UTC</a>.  Until
+then, this pad will have been used for 14
+out of 14 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Lunar Exploration* and the payload will be injected
+into *a Lunar Orbit
+(LO)*.
 <br>
 <blockquote>
-  Second commercial Virgin Galactic mission.
+  Luna 25 (ex-Luna-Glob) is a planned lunar lander mission by the Russian Federal Space Agency (Roscosmos). It will land near the lunar south pole at the Boguslavsky crater. Its primary mission is for proving out lunar landing technology. The mission will carry 30 kg of scientific instruments, including a robotic arm for soil samples and possible drilling hardware. The lander is planned to remain active for at least one year on the lunar surface.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceShipTwo" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=32.9902778,-106.9719162" >
+  <a href="https://www.google.com/maps?q=51.884395,128.333932" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +53,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T074900">2023-08-25 07:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-7&location=Kennedy Space Center, FL, USA&dates=20230825T074900Z%2F20230825T074900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-7** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T003457">2023-08-26 00:34:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | XRISM &amp; SLIM&location=Tanegashima Space Center, Japan&dates=20230826T003457Z%2F20230826T003457Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | XRISM & SLIM** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T000000">2023-08-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | NROL-107 (Silent Barker)&location=Cape Canaveral, FL, USA&dates=20230829T000000Z%2F20230829T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | NROL-107 (Silent Barker)** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T000000">2023-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 2 &amp; 3&location=Vandenberg SFB, CA, USA&dates=20230831T000000Z%2F20230831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SARah 2 & 3** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,23 +89,22 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html" >🔗</a> **[CNBC]** Watch live as Virgin Galactic launches tourists to space for the first time
+- <a href="https://spacenews.com/op-ed-spacs-are-a-double-edged-sword-for-newspace/" >🔗</a> **[SpaceNews]** Op-ed | SPACs are a double-edged sword for newspace
+- <a href="https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html" >🔗</a> **[CNBC]** Virgin Galactic flies tourists to space for the first time
 - <a href="https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/" >🔗</a> **[SpaceNews]** Space Force tries to hedge risk with new launch strategy
 - <a href="https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/" >🔗</a> **[SpaceNews]** Scout Space, Stanford University win Space Force contract extension
 - <a href="https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/" >🔗</a> **[SpaceNews]** Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch
-- <a href="https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/" >🔗</a> **[Arstechnica]** It’s finally time—Virgin Galactic is flying private astronauts into space
 
 
 ### Launch-related News 🚀
 
-- <a href="https://tlpnetwork.com/news/2023/07/virgin-galactic-announces-galactic-02-crew" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces Galactic 02 Crew
+- <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
 - <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-080623/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russia to return to the Moon in Luna 25 mission, Virgin Galactic to complete first fully private space tourism flight
-- <a href="https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/" >🔗</a> **[Arstechnica]** It’s finally time—Virgin Galactic is flying private astronauts into space
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T153207">2023-08-10 15:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T160811">2023-08-10 16:08:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
