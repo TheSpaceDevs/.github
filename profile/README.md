@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/oklahoma-texas-students-to-hear-from-nasa-astronauts-aboard-station" >🔗</a> **[NASA]** Oklahoma, Texas Students to Hear from NASA Astronauts Aboard Station
+- <a href="https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/" >🔗</a> **[NASASpaceflight]** Luna 25: the first Russian spacecraft in 47 years is ready to go to the moon
+- <a href="https://tlpnetwork.com/news/2023/08/scout-space-wins-us-space-force-contract-extension" >🔗</a> **[The Launch Pad]** Scout Space Wins US Space Force Contract Extension
 - <a href="https://tlpnetwork.com/news/2023/08/virgin-galactic-launches-first-space-tourist-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic Launches First Space Tourist Mission
 - <a href="https://tlpnetwork.com/news/2023/08/spacex-announces-bandwagon-missions" >🔗</a> **[The Launch Pad]** SpaceX Announces "Bandwagon" Missions
-- <a href="https://www.teslarati.com/virgin-galactic-completes-first-all-civilian-flight/" >🔗</a> **[Teslarati]** Virgin Galactic completes their first all civilian flight
-- <a href="https://europeanspaceflight.com/france-to-fund-demonstration-missions-of-microlaunchers/" >🔗</a> **[European Spaceflight]** France to Fund Demonstration Missions of Microlaunchers
-- <a href="https://spacenews.com/viasat-studying-l-band-from-inmarsat-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat studying L-band from Inmarsat for direct-to-device services
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T203145">2023-08-10 20:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T210458">2023-08-10 21:04:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
