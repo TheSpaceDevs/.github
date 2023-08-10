@@ -45,7 +45,7 @@ into *a Lunar Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T231057">2023-08-10 23:10:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Luna 25&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230810T231057Z%2F20230810T231057Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Luna 25** from Vostochny Cosmodrome, Siberia, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T015500">2023-08-11 01:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-9&location=Cape Canaveral, FL, USA&dates=20230811T015500Z%2F20230811T051700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-9** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T042700">2023-08-11 04:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-9&location=Cape Canaveral, FL, USA&dates=20230811T042700Z%2F20230811T051700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-9** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T165000">2023-08-11 16:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | LTDC-4A&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230811T165000Z%2F20230811T180500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | LTDC-4A** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230813T052200">2023-08-13 05:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230813T052200Z%2F20230813T054800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T000000">2023-08-17 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-10&location=Cape Canaveral, FL, USA&dates=20230817T000000Z%2F20230817T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-10** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/virgin-galactic-launches-first-space-tourist-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic Launches First Space Tourist Mission
+- <a href="https://tlpnetwork.com/news/2023/08/spacex-announces-bandwagon-missions" >🔗</a> **[The Launch Pad]** SpaceX Announces "Bandwagon" Missions
 - <a href="https://www.teslarati.com/virgin-galactic-completes-first-all-civilian-flight/" >🔗</a> **[Teslarati]** Virgin Galactic completes their first all civilian flight
 - <a href="https://europeanspaceflight.com/france-to-fund-demonstration-missions-of-microlaunchers/" >🔗</a> **[European Spaceflight]** France to Fund Demonstration Missions of Microlaunchers
 - <a href="https://spacenews.com/viasat-studying-l-band-from-inmarsat-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat studying L-band from Inmarsat for direct-to-device services
-- <a href="https://spacenews.com/spacex-to-offer-mid-inclination-smallsat-rideshare-launches/" >🔗</a> **[SpaceNews]** SpaceX to offer mid-inclination smallsat rideshare launches
-- <a href="https://www.cnbc.com/2023/08/10/investing-in-space-pew-survey-of-americans-on-nasa-priorities.html" >🔗</a> **[CNBC]** Investing in Space: Americans think spotting asteroids should be NASA’s top priority, Pew says
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T193155">2023-08-10 19:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T200633">2023-08-10 20:06:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
