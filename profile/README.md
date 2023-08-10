@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-offer-mid-inclination-smallsat-rideshare-launches/" >🔗</a> **[SpaceNews]** SpaceX to offer mid-inclination smallsat rideshare launches
+- <a href="https://www.cnbc.com/2023/08/10/investing-in-space-pew-survey-of-americans-on-nasa-priorities.html" >🔗</a> **[CNBC]** Investing in Space: Americans think spotting asteroids should be NASA’s top priority, Pew says
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-media-for-asteroid-capsule-drop-test-briefing-in-utah" >🔗</a> **[NASA]** NASA to Host Media for Asteroid Capsule Drop Test Briefing in Utah
 - <a href="https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic conducts first space tourist suborbital flight
 - <a href="https://mars.nasa.gov/news/9460/" >🔗</a> **[NASA]** Watch NASA Engineers Put a Mars Lander's Legs to the Test
-- <a href="https://spacenews.com/op-ed-spacs-are-a-double-edged-sword-for-newspace/" >🔗</a> **[SpaceNews]** Op-ed | SPACs are a double-edged sword for newspace
-- <a href="https://www.cnbc.com/2023/08/10/watch-livestream-virgin-galactic-launches-galactic-02-spaceflight.html" >🔗</a> **[CNBC]** Virgin Galactic launches first tourist flight to space
-- <a href="https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/" >🔗</a> **[SpaceNews]** Space Force tries to hedge risk with new launch strategy
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T173150">2023-08-10 17:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T180748">2023-08-10 18:07:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
