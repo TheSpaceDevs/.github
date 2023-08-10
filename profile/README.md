@@ -89,11 +89,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/virgin-galactic-completes-first-all-civilian-flight/" >🔗</a> **[Teslarati]** Virgin Galactic completes their first all civilian flight
+- <a href="https://europeanspaceflight.com/france-to-fund-demonstration-missions-of-microlaunchers/" >🔗</a> **[European Spaceflight]** France to Fund Demonstration Missions of Microlaunchers
+- <a href="https://spacenews.com/viasat-studying-l-band-from-inmarsat-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat studying L-band from Inmarsat for direct-to-device services
 - <a href="https://spacenews.com/spacex-to-offer-mid-inclination-smallsat-rideshare-launches/" >🔗</a> **[SpaceNews]** SpaceX to offer mid-inclination smallsat rideshare launches
 - <a href="https://www.cnbc.com/2023/08/10/investing-in-space-pew-survey-of-americans-on-nasa-priorities.html" >🔗</a> **[CNBC]** Investing in Space: Americans think spotting asteroids should be NASA’s top priority, Pew says
-- <a href="http://www.nasa.gov/press-release/nasa-to-host-media-for-asteroid-capsule-drop-test-briefing-in-utah" >🔗</a> **[NASA]** NASA to Host Media for Asteroid Capsule Drop Test Briefing in Utah
-- <a href="https://spacenews.com/virgin-galactic-conducts-first-space-tourist-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic conducts first space tourist suborbital flight
-- <a href="https://mars.nasa.gov/news/9460/" >🔗</a> **[NASA]** Watch NASA Engineers Put a Mars Lander's Legs to the Test
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T183208">2023-08-10 18:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T190337">2023-08-10 19:03:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
