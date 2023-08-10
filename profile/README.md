@@ -44,7 +44,6 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140000">2023-08-10 14:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 02&location=Air launch to Suborbital flight&dates=20230810T140000Z%2F20230810T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 02** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T231057">2023-08-10 23:10:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Luna 25&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20230810T231057Z%2F20230810T231057Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Luna 25** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T015500">2023-08-11 01:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-9&location=Cape Canaveral, FL, USA&dates=20230811T015500Z%2F20230811T051700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-9** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T165000">2023-08-11 16:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | LTDC-4A&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230811T165000Z%2F20230811T180500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | LTDC-4A** from Xichang Satellite Launch Center, People's Republic of China.
@@ -89,11 +88,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-tries-to-hedge-risk-with-new-launch-strategy/" >🔗</a> **[SpaceNews]** Space Force tries to hedge risk with new launch strategy
 - <a href="https://spacenews.com/scout-space-stanford-university-win-space-force-contract-extension/" >🔗</a> **[SpaceNews]** Scout Space, Stanford University win Space Force contract extension
 - <a href="https://spacenews.com/chinese-startup-launches-7th-ceres-1-rocket-preps-for-first-sea-launch/" >🔗</a> **[SpaceNews]** Chinese startup launches 7th Ceres-1 rocket, preps for first sea launch
 - <a href="https://arstechnica.com/space/2023/08/its-finally-time-virgin-galactic-is-flying-private-astronauts-into-space/" >🔗</a> **[Arstechnica]** It’s finally time—Virgin Galactic is flying private astronauts into space
 - <a href="https://spacenews.com/viasat-not-ready-to-declare-viasat-3-americas-a-total-loss/" >🔗</a> **[SpaceNews]** Viasat not ready to declare Viasat-3 Americas a total loss
-- <a href="https://spacenews.com/japans-interstellar-aims-for-orbital-launch-in-2025/" >🔗</a> **[SpaceNews]** Japan’s Interstellar aims for orbital launch in 2025
 
 
 ### Launch-related News 🚀
@@ -105,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T133621">2023-08-10 13:36:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230810T140643">2023-08-10 14:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
