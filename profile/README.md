@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Seeks Student Ideas for 2024 Human Exploration Rover Challenge
+- <a href="https://www.cnbc.com/2023/08/11/telesat-swaps-internet-satellite-suppliers-to-save-2-billion.html" >🔗</a> **[CNBC]** Telesat stock surges 50% after satellite internet company swaps suppliers to save $2 billion
 - <a href="https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/" >🔗</a> **[Arstechnica]** Virgin Galactic just flew again, but is the company going anywhere?
 - <a href="https://spacenews.com/space-development-agency-shaking-up-how-the-military-buys-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency shaking up how the military buys satellites
 - <a href="https://spacepolicyonline.com/news/russia-launches-first-lunar-probe-in-almost-50-years/" >🔗</a> **[SpacePolicyOnline.com]** Russia Launches First Lunar Probe in Almost 50 Years
-- <a href="https://tlpnetwork.com/news/2023/08/nasa-parker-solar-probe-executes-precision-maneuver-to-target-venus-flyby" >🔗</a> **[The Launch Pad]** NASA's Parker Solar Probe Executes Precision Maneuver to Target Venus Flyby
-- <a href="http://www.nasa.gov/press-release/oklahoma-texas-students-to-hear-from-nasa-astronauts-aboard-station" >🔗</a> **[NASA]** Oklahoma, Texas Students to Hear from NASA Astronauts Aboard Station
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T133139">2023-08-11 13:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T140449">2023-08-11 14:04:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
