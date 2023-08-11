@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-parker-solar-probe-executes-precision-maneuver-to-target-venus-flyby" >🔗</a> **[The Launch Pad]** NASA's Parker Solar Probe Executes Precision Maneuver to Target Venus Flyby
 - <a href="http://www.nasa.gov/press-release/oklahoma-texas-students-to-hear-from-nasa-astronauts-aboard-station" >🔗</a> **[NASA]** Oklahoma, Texas Students to Hear from NASA Astronauts Aboard Station
 - <a href="https://www.nasaspaceflight.com/2023/08/luna-25-mission-launch/" >🔗</a> **[NASASpaceflight]** Luna 25: the first Russian spacecraft in 47 years heading to the moon
 - <a href="https://tlpnetwork.com/news/2023/08/scout-space-wins-us-space-force-contract-extension" >🔗</a> **[The Launch Pad]** Scout Space Wins US Space Force Contract Extension
 - <a href="https://tlpnetwork.com/news/2023/08/virgin-galactic-launches-first-space-tourist-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic Launches First Space Tourist Mission
-- <a href="https://tlpnetwork.com/news/2023/08/spacex-announces-bandwagon-missions" >🔗</a> **[The Launch Pad]** SpaceX Announces "Bandwagon" Missions
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T012820">2023-08-11 01:28:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T015822">2023-08-11 01:58:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
