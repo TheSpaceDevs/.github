@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/booster-9-removed-testing-hot-stage/" >🔗</a> **[NASASpaceflight]** Booster 9 removed from launch site ahead of hot stage ring tests
+- <a href="https://www.teslarati.com/spacex-b1069-launches-starlink-mission/" >🔗</a> **[Teslarati]** SpaceX booster B1069 successfully launches Group 6-9 Starlink mission
 - <a href="https://spacenews.com/telesats-leo-constellation-fully-funded-after-manufacturer-switch/" >🔗</a> **[SpaceNews]** Telesat’s initial LEO constellation fully funded after manufacturer switch
 - <a href="http://www.nasa.gov/press-release/nasa-seeks-student-ideas-for-2024-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Seeks Student Ideas for 2024 Human Exploration Rover Challenge
 - <a href="https://www.cnbc.com/2023/08/11/telesat-swaps-internet-satellite-suppliers-to-save-2-billion.html" >🔗</a> **[CNBC]** Telesat stock surges 50% after satellite internet company swaps suppliers to save $2 billion
-- <a href="https://arstechnica.com/space/2023/08/virgin-galactic-just-flew-again-but-is-the-company-going-anywhere/" >🔗</a> **[Arstechnica]** Virgin Galactic just flew again, but is the company going anywhere?
-- <a href="https://spacenews.com/space-development-agency-shaking-up-how-the-military-buys-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency shaking up how the military buys satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T203137">2023-08-11 20:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230811T210400">2023-08-11 21:04:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
