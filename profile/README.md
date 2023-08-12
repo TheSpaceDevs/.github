@@ -24,7 +24,7 @@ from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Mo
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T052200">2023-08-14 05:22:00 UTC</a>.  Until
 then, this pad will have been used for 4
-out of 188 launches from this location. The launch status is currently
+out of 189 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown Orbit
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T183141">2023-08-12 18:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230812T190307">2023-08-12 19:03:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
