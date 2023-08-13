@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-and-allies-get-a-feel-for-the-value-of-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** U.S. military and allies get a feel for the value of commercial satellite imagery
 - <a href="https://www.nasaspaceflight.com/2023/08/starliner-update/" >🔗</a> **[NASASpaceflight]** Boeing confident in achieving six flights to the ISS despite Starliner delay
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-temperature-data-climate-goals" >🔗</a> **[NASA]** NASA to Discuss Temperature Data, Climate Goals
 - <a href="http://www.nasa.gov/press-release/nasa-discutir-datos-de-temperatura-objetivos-clim-ticos" >🔗</a> **[NASA]** NASA discutirá datos de temperatura, objetivos climáticos
 - <a href="https://www.nasaspaceflight.com/2023/08/booster-9-removed-testing-hot-stage/" >🔗</a> **[NASASpaceflight]** Booster 9 removed from launch site ahead of hot stage ring tests
-- <a href="https://www.teslarati.com/spacex-b1069-launches-starlink-mission/" >🔗</a> **[Teslarati]** SpaceX booster B1069 successfully launches Group 6-9 Starlink mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230813T133145">2023-08-13 13:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230813T140344">2023-08-13 14:03:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
