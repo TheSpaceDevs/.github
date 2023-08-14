@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880" >🔗</a> **[NASA]** NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880
+- <a href="https://spacenews.com/earth-observation-evolution-bigger-satellites-promise-bigger-payoff-for-imagery-operators/" >🔗</a> **[SpaceNews]** Earth observation evolution: Bigger satellites promise bigger payoff for imagery operators
 - <a href="https://spacenews.com/china-launches-first-geosynchronous-orbit-radar-satellite/" >🔗</a> **[SpaceNews]** China launches first geosynchronous orbit radar satellite
 - <a href="https://spacenews.com/rocket-lab-sees-virgin-orbit-facility-as-scaling-enabler-for-neutron/" >🔗</a> **[SpaceNews]** Rocket Lab sees Virgin Orbit facility as “scaling enabler” for Neutron
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-13-19-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 13-19, 2023
-- <a href="https://spacenews.com/u-s-military-and-allies-get-a-feel-for-the-value-of-commercial-satellite-imagery/" >🔗</a> **[SpaceNews]** U.S. military and allies get a feel for the value of commercial satellite imagery
-- <a href="https://www.nasaspaceflight.com/2023/08/starliner-update/" >🔗</a> **[NASASpaceflight]** Boeing confident in achieving six flights to the ISS despite Starliner delay
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T153138">2023-08-14 15:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T160732">2023-08-14 16:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
