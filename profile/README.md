@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-pitch-to-private-sector-help-us-with-space-protection/" >🔗</a> **[SpaceNews]** Space Force pitch to private sector: ‘Help us with space protection’ 
 - <a href="http://www.nasa.gov/nasa.gov/press-release/julio-de-2023-fue-el-mes-mas-caluroso-registrado" >🔗</a> **[NASA]** Julio de 2023 fue el mes más caluroso registrado
 - <a href="http://www.nasa.gov/press-release/nasa-clocks-july-2023-as-hottest-month-on-record-ever-since-1880" >🔗</a> **[NASA]** NASA Clocks July 2023 as Hottest Month on Record Ever Since 1880
 - <a href="https://spacenews.com/earth-observation-evolution-bigger-satellites-promise-bigger-payoff-for-imagery-operators/" >🔗</a> **[SpaceNews]** Earth observation evolution: Bigger satellites promise bigger payoff for imagery operators
-- <a href="https://spacenews.com/china-launches-first-geosynchronous-orbit-radar-satellite/" >🔗</a> **[SpaceNews]** China launches first geosynchronous orbit radar satellite
-- <a href="https://spacenews.com/rocket-lab-sees-virgin-orbit-facility-as-scaling-enabler-for-neutron/" >🔗</a> **[SpaceNews]** Rocket Lab sees Virgin Orbit facility as “scaling enabler” for Neutron
+- <a href="https://spacenews.com/2023-small-satellite-conference-dailies-wrap-up/" >🔗</a> **[SpaceNews]** 2023 Small Satellite Conference Dailies Wrap up
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T193130">2023-08-14 19:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230814T200643">2023-08-14 20:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
