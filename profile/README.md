@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/orion-update-081523/" >🔗</a> **[NASASpaceflight]** Lockheed Martin, NASA working around the clock to finish Artemis II Orion assembly and hold 2024 launch date
 - <a href="https://spacenews.com/rocket-lab-to-launch-pair-of-nasa-earth-science-cubesats/" >🔗</a> **[SpaceNews]** Rocket Lab to launch pair of NASA Earth science cubesats
 - <a href="https://spacepolicyonline.com/news/intuitive-machines-sets-november-for-launch-of-im-1-lunar-lander/" >🔗</a> **[SpacePolicyOnline.com]** Intuitive Machines Sets November for Launch of IM-1 Lunar Lander
 - <a href="https://spacenews.com/intuitive-machines-sets-mid-november-launch-date-for-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines sets mid-November launch date for first lunar lander
 - <a href="https://spacenews.com/ast-spacemobile-fully-funds-first-five-commercial-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile fully funds first five commercial direct-to-device satellites
-- <a href="https://spacenews.com/nasa-developing-larger-cubesat-payload-adapter-for-sls/" >🔗</a> **[SpaceNews]** NASA developing larger cubesat payload adapter for SLS
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T143134">2023-08-15 14:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T150620">2023-08-15 15:06:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
