@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-fully-funds-first-five-commercial-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile fully funds first five commercial direct-to-device satellites
 - <a href="https://spacenews.com/nasa-developing-larger-cubesat-payload-adapter-for-sls/" >🔗</a> **[SpaceNews]** NASA developing larger cubesat payload adapter for SLS
 - <a href="https://spacenews.com/intelsat-meets-conditions-for-3-7-billion-c-band-clearing-payout/" >🔗</a> **[SpaceNews]** Intelsat meets conditions for $3.7 billion C-band clearing payout
 - <a href="http://www.nasa.gov/press-release/nasa-announces-launch-service-for-arctic-warming-experiment" >🔗</a> **[NASA]** NASA Announces Launch Service for Arctic Warming Experiment
 - <a href="https://spacenews.com/space-force-pitch-to-private-sector-help-us-with-space-protection/" >🔗</a> **[SpaceNews]** Space Force pitch to private sector: ‘Help us with space protection’ 
-- <a href="http://www.nasa.gov/nasa.gov/press-release/julio-de-2023-fue-el-mes-mas-caluroso-registrado" >🔗</a> **[NASA]** Julio de 2023 fue el mes más caluroso registrado
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T002921">2023-08-15 00:29:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T012918">2023-08-15 01:29:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
