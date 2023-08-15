@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-psyche-launch-mission-will-study-an-asteroid" >🔗</a> **[NASA]** NASA Invites Media to Psyche Launch, Mission will Study an Asteroid
+- <a href="https://europeanspaceflight.com/arianespace-to-launch-europes-final-mission-of-2023-aboard-vega-in-september/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Europe’s Final Mission of 2023 Aboard Vega in September
+- <a href="https://tlpnetwork.com/news/2023/08/us-space-force-retires-classified-surveillance-satellite-orders-replacement" >🔗</a> **[The Launch Pad]** US Space Force Retires Classified Surveillance Satellite & Orders Replacement
+- <a href="https://tlpnetwork.com/news/2023/08/sda-looks-to-change-how-us-military-buys-satellites" >🔗</a> **[The Launch Pad]** SDA Looks To Change How US Military Buys Satellites
+- <a href="https://www.teslarati.com/weekly-space-recap-august-7-august-13/" >🔗</a> **[Teslarati]** Weekly Space Recap: August 7 – August 13
 - <a href="http://www.nasa.gov/press-release/la-nasa-invita-a-los-medios-al-lanzamiento-de-psyche" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Psyche
-- <a href="https://tlpnetwork.com/news/2023/08/dcubed-partners-with-dorbit-to-demo-inspace-manufacturing-capability" >🔗</a> **[The Launch Pad]** DCubed Partners With D-Orbit To Demo In-Space Manufacturing Capability
-- <a href="https://spacenews.com/u-s-deorbits-gssap-surveillance-satellite-two-new-ones-in-the-works/" >🔗</a> **[SpaceNews]** U.S. deactivates GSSAP surveillance satellite, two new ones in the works
-- <a href="https://tlpnetwork.com/news/2023/08/china-launches-worlds-first-geosynchronous-orbit-synthetic-aperture-radar-satellite" >🔗</a> **[The Launch Pad]** China Launches World's First Geosynchronous Orbit Synthetic Aperture Radar Satellite
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T193142">2023-08-15 19:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T200638">2023-08-15 20:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
