@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nro-to-select-providers-of-new-forms-of-optical-satellite-imagery/" >🔗</a> **[SpaceNews]** NRO to select providers of new forms of optical satellite imagery
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-europes-final-mission-of-2023-aboard-vega-in-september/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Europe’s Final Mission of 2023 Aboard Vega in September
 - <a href="https://tlpnetwork.com/news/2023/08/us-space-force-retires-classified-surveillance-satellite-orders-replacement" >🔗</a> **[The Launch Pad]** US Space Force Retires Classified Surveillance Satellite & Orders Replacement
 - <a href="https://tlpnetwork.com/news/2023/08/sda-looks-to-change-how-us-military-buys-satellites" >🔗</a> **[The Launch Pad]** SDA Looks To Change How US Military Buys Satellites
 - <a href="https://www.teslarati.com/weekly-space-recap-august-7-august-13/" >🔗</a> **[Teslarati]** Weekly Space Recap: August 7 – August 13
-- <a href="http://www.nasa.gov/press-release/la-nasa-invita-a-los-medios-al-lanzamiento-de-psyche" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Psyche
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T213134">2023-08-15 21:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T220457">2023-08-15 22:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
