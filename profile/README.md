@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-sets-mid-november-launch-date-for-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines sets mid-November launch date for first lunar lander
 - <a href="https://spacenews.com/ast-spacemobile-fully-funds-first-five-commercial-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile fully funds first five commercial direct-to-device satellites
 - <a href="https://spacenews.com/nasa-developing-larger-cubesat-payload-adapter-for-sls/" >🔗</a> **[SpaceNews]** NASA developing larger cubesat payload adapter for SLS
 - <a href="https://spacenews.com/intelsat-meets-conditions-for-3-7-billion-c-band-clearing-payout/" >🔗</a> **[SpaceNews]** Intelsat meets conditions for $3.7 billion C-band clearing payout
 - <a href="http://www.nasa.gov/press-release/nasa-announces-launch-service-for-arctic-warming-experiment" >🔗</a> **[NASA]** NASA Announces Launch Service for Arctic Warming Experiment
-- <a href="https://spacenews.com/space-force-pitch-to-private-sector-help-us-with-space-protection/" >🔗</a> **[SpaceNews]** Space Force pitch to private sector: ‘Help us with space protection’ 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T021735">2023-08-15 02:17:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T023154">2023-08-15 02:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
