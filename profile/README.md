@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/smallsat-alliance-recognizes-collegiate-prize-winners/" >🔗</a> **[SpaceNews]** SmallSat Alliance recognizes collegiate prize winners
 - <a href="https://spacenews.com/astra-seeks-strategic-investors-as-cash-reserves-decrease/" >🔗</a> **[SpaceNews]** Astra seeks strategic investors as cash reserves decrease
 - <a href="https://arstechnica.com/space/2023/08/how-a-5-year-old-spacex-photo-fueled-maui-wildfire-conspiracy-theorists/" >🔗</a> **[Arstechnica]** Maui truthers are so dumb they’re using a Falcon 9 photo as wildfire evidence
 - <a href="https://spacenews.com/nro-to-select-providers-of-new-forms-of-optical-satellite-imagery/" >🔗</a> **[SpaceNews]** NRO to select providers of new forms of optical satellite imagery
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-europes-final-mission-of-2023-aboard-vega-in-september/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Europe’s Final Mission of 2023 Aboard Vega in September
-- <a href="https://tlpnetwork.com/news/2023/08/us-space-force-retires-classified-surveillance-satellite-orders-replacement" >🔗</a> **[The Launch Pad]** US Space Force Retires Classified Surveillance Satellite & Orders Replacement
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230815T233147">2023-08-15 23:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T002848">2023-08-16 00:28:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
