@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/skywatch-to-offer-integrated-radar-optical-satellite-imagery/" >🔗</a> **[SpaceNews]** SkyWatch to offer integrated radar-optical satellite imagery
+- <a href="https://spacenews.com/space-force-extends-wallaroos-contract-for-on-orbit-ai-applications/" >🔗</a> **[SpaceNews]** Space Force extends Wallaroo’s contract for on-orbit AI applications
 - <a href="https://spacenews.com/darpa-to-study-integrated-lunar-infrastructure/" >🔗</a> **[SpaceNews]** DARPA to study integrated lunar infrastructure
 - <a href="https://spacenews.com/smallsat-alliance-recognizes-collegiate-prize-winners/" >🔗</a> **[SpaceNews]** SmallSat Alliance recognizes collegiate prize winners
 - <a href="https://spacenews.com/astra-seeks-strategic-investors-as-cash-reserves-decrease/" >🔗</a> **[SpaceNews]** Astra seeks strategic investors as cash reserves decrease
-- <a href="https://arstechnica.com/space/2023/08/how-a-5-year-old-spacex-photo-fueled-maui-wildfire-conspiracy-theorists/" >🔗</a> **[Arstechnica]** Maui truthers are so dumb they’re using a Falcon 9 photo as wildfire evidence
-- <a href="https://spacenews.com/nro-to-select-providers-of-new-forms-of-optical-satellite-imagery/" >🔗</a> **[SpaceNews]** NRO to select providers of new forms of optical satellite imagery
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T163510">2023-08-16 16:35:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T170441">2023-08-16 17:04:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
