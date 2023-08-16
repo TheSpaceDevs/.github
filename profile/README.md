@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/state-department-kicks-off-international-lunar-year-discussions/" >🔗</a> **[SpacePolicyOnline.com]** State Department Kicks Off International Lunar Year Discussions
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-to-discuss-space-station-mission-upcoming-return" >🔗</a> **[NASA]** NASA’s SpaceX Crew-6 to Discuss Space Station Mission, Upcoming Return
 - <a href="http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews" >🔗</a> **[NASA]** NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews
 - <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/" >🔗</a> **[NASASpaceflight]** Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched
 - <a href="https://spacenews.com/momentus-cuts-workforce-while-evaluating-strategic-options/" >🔗</a> **[SpaceNews]** Momentus cuts workforce while evaluating strategic options
-- <a href="https://tlpnetwork.com/news/2023/08/avio-m10-dm2" >🔗</a> **[The Launch Pad]** Avio Completes First Successful Test Of Methalox Rocket Engine
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T213149">2023-08-16 21:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T220451">2023-08-16 22:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
