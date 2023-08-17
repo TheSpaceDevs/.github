@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-to-consider-commercial-leo-options-to-augment-dod-network/" >🔗</a> **[SpaceNews]** Space Development Agency to consider commercial LEO options to augment DoD network
+- <a href="https://europeanspaceflight.com/hyimpulse-to-debut-sr75-rocket-no-earlier-than-december-1/" >🔗</a> **[European Spaceflight]** HyImpulse to Debut SR75 Rocket No Earlier than December 1
 - <a href="https://www.cnbc.com/2023/08/17/investing-in-space-a-guide-to-satellites.html" >🔗</a> **[CNBC]** Investing in Space: A guide to satellites
 - <a href="https://www.cnbc.com/2023/08/17/bae-buys-ball-aerospace-for-5point6-billion.html" >🔗</a> **[CNBC]** UK defense contractor BAE buying Ball’s aerospace division for $5.6 billion
 - <a href="https://spacenews.com/northrop-grumman-to-get-sole-source-contract-for-space-force-radar-sites/" >🔗</a> **[SpaceNews]** Northrop Grumman to get sole-source contract for Space Force radar sites
-- <a href="https://spacenews.com/bae-systems-to-acquire-ball-aerospace-for-5-5-billion/" >🔗</a> **[SpaceNews]** BAE Systems to acquire Ball Aerospace for $5.5 billion
-- <a href="https://spacenews.com/terran-orbital-orbital-expects-180-million-payment-from-rivada-space-this-year/" >🔗</a> **[SpaceNews]** Terran Orbital expects $180 million payment from Rivada Space this year
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T183149">2023-08-17 18:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T190332">2023-08-17 19:03:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
