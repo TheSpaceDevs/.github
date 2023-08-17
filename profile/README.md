@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/17/bae-buys-ball-aerospace-for-5point6-billion.html" >🔗</a> **[CNBC]** UK defense contractor BAE buying Ball’s aerospace division for $5.6 billion
 - <a href="https://spacenews.com/northrop-grumman-to-get-sole-source-contract-for-space-force-radar-sites/" >🔗</a> **[SpaceNews]** Northrop Grumman to get sole-source contract for Space Force radar sites
 - <a href="https://spacenews.com/bae-systems-to-acquire-ball-aerospace-for-5-5-billion/" >🔗</a> **[SpaceNews]** BAE Systems to acquire Ball Aerospace for $5.5 billion
 - <a href="https://spacenews.com/terran-orbital-orbital-expects-180-million-payment-from-rivada-space-this-year/" >🔗</a> **[SpaceNews]** Terran Orbital expects $180 million payment from Rivada Space this year
 - <a href="https://spacepolicyonline.com/news/state-department-kicks-off-international-lunar-year-discussions/" >🔗</a> **[SpacePolicyOnline.com]** State Department Kicks Off International Lunar Year Discussions
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-to-discuss-space-station-mission-upcoming-return" >🔗</a> **[NASA]** NASA’s SpaceX Crew-6 to Discuss Space Station Mission, Upcoming Return
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T133145">2023-08-17 13:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T140513">2023-08-17 14:05:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
