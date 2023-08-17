@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T001450">2023-08-17 00:14:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-10&location=Cape Canaveral, FL, USA&dates=20230817T001450Z%2F20230817T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-10** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T070050">2023-08-17 07:00:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-1&location=Vandenberg SFB, CA, USA&dates=20230817T070050Z%2F20230817T102300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T010800">2023-08-23 01:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-24 (85P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230823T010800Z%2F20230823T010800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-24 (85P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T233000">2023-08-23 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We Love the Nightlife (Capella Acadia 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230823T233000Z%2F20230824T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We Love the Nightlife (Capella Acadia 1)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -89,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-orbital-expects-180-million-payment-from-rivada-space-this-year/" >🔗</a> **[SpaceNews]** Terran Orbital expects $180 million payment from Rivada Space this year
 - <a href="https://spacepolicyonline.com/news/state-department-kicks-off-international-lunar-year-discussions/" >🔗</a> **[SpacePolicyOnline.com]** State Department Kicks Off International Lunar Year Discussions
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-to-discuss-space-station-mission-upcoming-return" >🔗</a> **[NASA]** NASA’s SpaceX Crew-6 to Discuss Space Station Mission, Upcoming Return
 - <a href="http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews" >🔗</a> **[NASA]** NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews
 - <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/" >🔗</a> **[NASASpaceflight]** Launch Roundup: three back-to-back Starlink missions to cross 5,000 Starlink satellites launched
-- <a href="https://spacenews.com/momentus-cuts-workforce-while-evaluating-strategic-options/" >🔗</a> **[SpaceNews]** Momentus cuts workforce while evaluating strategic options
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230816T233148">2023-08-16 23:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230817T002841">2023-08-17 00:28:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
