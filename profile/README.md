@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-22-starlinks/" >🔗</a> **[Teslarati]** SpaceX launches 22 Starlinks from Florida, delays launch from California
 - <a href="https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/" >🔗</a> **[NASASpaceflight]** Starship Update: Booster 9 wearing a crown, construction, and HLS test article
 - <a href="https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/" >🔗</a> **[Arstechnica]** Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges
 - <a href="https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/" >🔗</a> **[European Spaceflight]** POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September
 - <a href="https://spacenews.com/u-s-government-warns-of-foreign-intelligence-threats-to-the-space-industry/" >🔗</a> **[SpaceNews]** U.S. government warns of foreign intelligence threats to the space industry
-- <a href="https://spacenews.com/poland-signs-agreement-to-fly-astronaut-on-axiom-space-iss-mission/" >🔗</a> **[SpaceNews]** Poland signs agreement to fly astronaut on Axiom Space ISS mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T193143">2023-08-18 19:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T200627">2023-08-18 20:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
