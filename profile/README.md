@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/" >🔗</a> **[NASASpaceflight]** Starship Update: Booster 9 wearing a crown, construction, and HLS test article
+- <a href="https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/" >🔗</a> **[Arstechnica]** Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges
 - <a href="https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/" >🔗</a> **[European Spaceflight]** POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September
 - <a href="https://spacenews.com/u-s-government-warns-of-foreign-intelligence-threats-to-the-space-industry/" >🔗</a> **[SpaceNews]** U.S. government warns of foreign intelligence threats to the space industry
 - <a href="https://spacenews.com/poland-signs-agreement-to-fly-astronaut-on-axiom-space-iss-mission/" >🔗</a> **[SpaceNews]** Poland signs agreement to fly astronaut on Axiom Space ISS mission
-- <a href="https://arstechnica.com/space/2023/08/rocket-report-europes-final-countdown-for-2023-sls-to-carry-more-cubesats/" >🔗</a> **[Arstechnica]** Rocket Report: Russian rocket lands like an airplane; SpaceX steamroller rolls
-- <a href="https://spacenews.com/japanese-sar-company-iqps-to-launch-with-rocket-lab-after-virgin-orbit-bankruptcy/" >🔗</a> **[SpaceNews]** Japanese SAR company iQPS to launch with Rocket Lab after Virgin Orbit bankruptcy
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T183152">2023-08-18 18:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230818T190330">2023-08-18 19:03:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
