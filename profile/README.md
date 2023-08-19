@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/" >🔗</a> **[Arstechnica]** Is Luna 25 alive? Russia says an “emergency situation” has occurred
+- <a href="https://spacepolicyonline.com/news/russias-luna-25-lunar-lander-experiences-anomaly/" >🔗</a> **[SpacePolicyOnline.com]** Russia’s Luna-25 Lunar Lander Experiences Anomaly
 - <a href="https://www.nasaspaceflight.com/2023/08/insight-rise/" >🔗</a> **[NASASpaceflight]** Using data from InSight, scientists discover that Mars is rotating faster
 - <a href="https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit" >🔗</a> **[The Launch Pad]** BREAKING! Luna-25 Suffers "Emergency Situation" In Lunar Orbit
 - <a href="https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/" >🔗</a> **[SpaceNews]** Luna-25 malfunctions during lunar orbit maneuver
-- <a href="https://spacepolicyonline.com/news/new-lexicon-for-outer-space-security-ready-for-final-oewg-session/" >🔗</a> **[SpacePolicyOnline.com]** New “Lexicon for Outer Space Security” Ready for Final OEWG Session
-- <a href="https://www.teslarati.com/spacex-launches-22-starlinks/" >🔗</a> **[Teslarati]** SpaceX launches 22 Starlinks from Florida, delays launch from California
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T193140">2023-08-19 19:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T200535">2023-08-19 20:05:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
