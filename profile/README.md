@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit" >🔗</a> **[The Launch Pad]** BREAKING! Luna-25 Suffers "Emergency Situation" In Lunar Orbit
+- <a href="https://spacenews.com/luna-25-malfunctions-during-lunar-orbit-maneuver/" >🔗</a> **[SpaceNews]** Luna-25 malfunctions during lunar orbit maneuver
 - <a href="https://spacepolicyonline.com/news/new-lexicon-for-outer-space-security-ready-for-final-oewg-session/" >🔗</a> **[SpacePolicyOnline.com]** New “Lexicon for Outer Space Security” Ready for Final OEWG Session
 - <a href="https://www.teslarati.com/spacex-launches-22-starlinks/" >🔗</a> **[Teslarati]** SpaceX launches 22 Starlinks from Florida, delays launch from California
 - <a href="https://www.nasaspaceflight.com/2023/08/starship-update-aug-23/" >🔗</a> **[NASASpaceflight]** Starship Update: Booster 9 wearing a crown, construction, and HLS test article
-- <a href="https://arstechnica.com/space/2023/08/rocket-lab-pivoting-to-downrange-neutron-landings-to-meet-customer-demand/" >🔗</a> **[Arstechnica]** Peter Beck pushes toward a Neutron debut in 2024, but acknowledges challenges
-- <a href="https://europeanspaceflight.com/polaris-to-begin-testing-fourth-spaceplane-demonstrator-from-september/" >🔗</a> **[European Spaceflight]** POLARIS to Begin Testing Fourth Spaceplane Demonstrator From September
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T173149">2023-08-19 17:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230819T180646">2023-08-19 18:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
