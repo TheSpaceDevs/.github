@@ -89,8 +89,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/" >🔗</a> **[Arstechnica]** Russia’s Luna 25 spacecraft has crashed into the Moon
 - <a href="https://spacenews.com/luna-25-crashes-into-moon-after-orbit-maneuver/" >🔗</a> **[SpaceNews]** Luna-25 crashes into moon after orbit maneuver
-- <a href="https://arstechnica.com/space/2023/08/russia-seems-to-have-lost-contact-with-its-first-lunar-probe-in-half-a-century/" >🔗</a> **[Arstechnica]** Is Luna 25 alive? Russia says an “emergency situation” has occurred
 - <a href="https://spacepolicyonline.com/news/russias-luna-25-lunar-lander-experiences-anomaly/" >🔗</a> **[SpacePolicyOnline.com]** Russia’s Luna-25 Lunar Lander Experiences Anomaly
 - <a href="https://www.nasaspaceflight.com/2023/08/insight-rise/" >🔗</a> **[NASASpaceflight]** Using data from InSight, scientists discover that Mars is rotating faster
 - <a href="https://tlpnetwork.com/news/2023/08/luna-25-suffers-emergency-situation-in-lunar-orbit" >🔗</a> **[The Launch Pad]** Luna-25 Suffers "Emergency Situation" In Lunar Orbit
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T120938">2023-08-20 12:09:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230820T124149">2023-08-20 12:41:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
