@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-development-agency-awards-1-5-billion-to-lockheed-martin-and-northrop-grumman-for-72-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards contracts worth $1.5 billion to Lockheed Martin, Northrop Grumman for 72 satellites
+- <a href="https://www.cnbc.com/2023/08/21/pentagon-awards-1point5-billion-to-lockheed-martin-northrop-grumman.html" >🔗</a> **[CNBC]** Pentagon space arm awards $1.5 billion contract to Lockheed, Northrop for communications satellites
+- <a href="https://spacenews.com/space-development-agency-awards-1-5-billion-to-lockheed-martin-and-northrop-grumman-for-72-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards contracts to Lockheed Martin, Northrop Grumman for 72 satellites
 - <a href="https://www.cnbc.com/2023/08/21/redwire-sierra-partner-to-make-drugs-on-inflatable-space-habitat.html" >🔗</a> **[CNBC]** Redwire and Sierra team up to make drugs in space on inflatable habitat’s first mission
 - <a href="https://www.cnbc.com/2023/08/21/axiom-space-raises-350-million-from-saudi-and-korean-investors.html" >🔗</a> **[CNBC]** Axiom Space raises $350 million from Saudi and Korean investors
 - <a href="https://spacenews.com/axiom-space-raises-350-million/" >🔗</a> **[SpaceNews]** Axiom Space raises $350 million
-- <a href="https://spacenews.com/redwire-and-sierra-space-partner-on-commercial-space-station-biotech-research-platform/" >🔗</a> **[SpaceNews]** Redwire and Sierra Space partner on commercial space station biotech research platform
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T153141">2023-08-21 15:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230821T160733">2023-08-21 16:07:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
