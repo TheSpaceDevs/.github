@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-landing-came-at-small-cost.html" >🔗</a> **[CNBC]** India’s moon landing made history on a relatively small budget
+- <a href="https://www.nasaspaceflight.com/2023/08/booster9_staticfireattempt2/" >🔗</a> **[NASASpaceflight]** Booster 9 rolls out for static fire test re-try ahead of flight
 - <a href="https://europeanspaceflight.com/sab-orbital-vehicle-could-work-in-concert-with-space-rider/" >🔗</a> **[European Spaceflight]** SAB Orbital Vehicle Could Work in Concert With Space Rider
 - <a href="https://spacenews.com/space-imagery-startup-heo-raises-8-million/" >🔗</a> **[SpaceNews]** Space imagery startup HEO raises $8 million
 - <a href="https://spacenews.com/chandrayaan-3-is-a-story-of-isros-perseverance-and-triumph/" >🔗</a> **[SpaceNews]** Chandrayaan-3 is a story of ISRO’s perseverance and triumph
-- <a href="https://spacepolicyonline.com/news/modi-india-is-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Modi: “India is on the Moon”
-- <a href="https://www.teslarati.com/india-successfully-lands-chandrayaan-3-on-moon/" >🔗</a> **[Teslarati]** India successfully lands Chandrayaan-3 on the Moon
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T203201">2023-08-23 20:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T210450">2023-08-23 21:04:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
