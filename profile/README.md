@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/sab-orbital-vehicle-could-work-in-concert-with-space-rider/" >🔗</a> **[European Spaceflight]** SAB Orbital Vehicle Could Work in Concert With Space Rider
+- <a href="https://spacenews.com/space-imagery-startup-heo-raises-8-million/" >🔗</a> **[SpaceNews]** Space imagery startup HEO raises $8 million
+- <a href="https://spacenews.com/chandrayaan-3-is-a-story-of-isros-perseverance-and-triumph/" >🔗</a> **[SpaceNews]** Chandrayaan-3 is a story of ISRO’s perseverance and triumph
 - <a href="https://spacepolicyonline.com/news/modi-india-is-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Modi: “India is on the Moon”
 - <a href="https://www.teslarati.com/india-successfully-lands-chandrayaan-3-on-moon/" >🔗</a> **[Teslarati]** India successfully lands Chandrayaan-3 on the Moon
-- <a href="https://spacenews.com/spaced-ventures-first-exit-sidus-space-purchase-of-exo-space/" >🔗</a> **[SpaceNews]** Spaced Ventures’ first exit: Sidus Space purchase of Exo-Space
-- <a href="https://spacenews.com/chandrayaan-3-india-becomes-fourth-country-to-land-on-the-moon/" >🔗</a> **[SpaceNews]** Chandrayaan-3: India becomes fourth country to land on the moon
-- <a href="https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html" >🔗</a> **[CNBC]** India becomes fourth country to land on the moon, first on south pole, with Chandrayaan-3 spacecraft
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T193151">2023-08-23 19:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T200430">2023-08-23 20:04:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
