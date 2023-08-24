@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/" >🔗</a> **[NASASpaceflight]** NASA gives Crew-7 the “go” for launch to ISS on Friday
-- <a href="https://spacepolicyonline.com/news/rogers-bears-down-on-usspacecom-decision/" >🔗</a> **[SpacePolicyOnline.com]** Rogers Bears Down on USSPACECOM Decision
-- <a href="http://www.nasa.gov/press-release/nasa-forest-service-to-share-moon-tree-seedlings-promote-stem" >🔗</a> **[NASA]** NASA, Forest Service to Share Moon Tree Seedlings, Promote STEM
-- <a href="https://www.teslarati.com/rocket-lab-launches-40th-mission-first-re-flown-rutherford-engine/" >🔗</a> **[Teslarati]** Rocket Lab launches 40th mission, first re-flown Rutherford engine
-- <a href="https://mars.nasa.gov/news/9468/" >🔗</a> **[NASA]** NASA, Partners Study Ancient Life in Australia to Inform Mars Search
+- <a href="https://spacenews.com/space-force-to-seek-industry-ideas-for-rapid-deployment-of-satellites/" >🔗</a> **[SpaceNews]** Space Force to seek industry ideas for rapid deployment of satellites
+- <a href="https://www.cnbc.com/2023/08/24/viasats-inmarsat-i6-f2-satellite-suffers-power-failure.html" >🔗</a> **[CNBC]** Viasat reports second satellite malfunction in a matter of weeks
+- <a href="https://tlpnetwork.com/news/2023/08/north-korea-fails-to-launch-spy-satellite-again" >🔗</a> **[The Launch Pad]** North Korea Fails To Launch Spy Satellite Again
+- <a href="https://spacenews.com/justice-department-sues-spacex-over-hiring-practices/" >🔗</a> **[SpaceNews]** Justice Department sues SpaceX over hiring practices
+- <a href="https://www.teslarati.com/spacex-rolls-booster-9-back-launch-pad-more-testing/" >🔗</a> **[Teslarati]** SpaceX rolls Booster 9 back to the Launch Pad for more testing
 
 
 ### Launch-related News 🚀
@@ -112,11 +112,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-082123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korea has failed launch attempt, SpaceX to launch back-to-back missions
 - <a href="https://spacenews.com/nasa-clears-crew-7-mission-for-launch-to-the-space-station/" >🔗</a> **[SpaceNews]** NASA clears Crew-7 mission for launch to the space station
 - <a href="https://www.teslarati.com/nasa-spacex-give-go-crew-7-launch/" >🔗</a> **[Teslarati]** NASA and SpaceX give GO for Crew 7 launch
+- <a href="https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/" >🔗</a> **[NASASpaceflight]** NASA gives Crew-7 the “go” for launch to ISS on Friday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T213145">2023-08-24 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T220451">2023-08-24 22:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
