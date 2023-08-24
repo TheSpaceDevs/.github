@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | We Love the Nightlife (Capella Acadia 1)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Crew-7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T233000">2023-08-23 23:30:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 36 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T074959">2023-08-25 07:49:59 UTC</a>.  Until
+then, this pad will have been used for 163
+out of 221 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
+*Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Payload consists of a single SAR Earth-imaging Acadia satellite, a new generation satellite designed, manufactured, and operated by Capella Space.
+  SpaceX Crew-7 is the seventh crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -97,12 +97,25 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/rocket-labs-electron-faces-rare-last-second-abort/" >🔗</a> **[Teslarati]** Rocket Lab’s Electron faces rare last second abort
+- <a href="https://www.teslarati.com/spacex-wins-3-more-nasa-crew-dragon-contracts/" >🔗</a> **[Teslarati]** SpaceX awarded three more NASA astronaut launch contracts
+- <a href="https://spacenews.com/nasa-awards-spacex-three-additional-commercial-crew-missions/" >🔗</a> **[SpaceNews]** NASA awards SpaceX three additional commercial crew missions
+- <a href="http://www.nasa.gov/press-release/nasa-esa-assign-astronauts-to-space-station-mission-on-crew-dragon" >🔗</a> **[NASA]** NASA, ESA Assign Astronauts to Space Station Mission on Crew Dragon
+- <a href="https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos planning to add mission to seat barter agreement
+- <a href="https://www.teslarati.com/final-member-assigned-to-spacex-and-nasas-crew-7-mission/" >🔗</a> **[Teslarati]** Final member assigned to SpaceX and NASA’s Crew 7 mission
+- <a href="http://www.nasa.gov/press-release/nasa-sets-briefings-for-next-international-space-station-crew-missions" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
+- <a href="https://spacenews.com/crew-dragon-soyuz-missions-set-for-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew Dragon, Soyuz missions set for launches to ISS
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-spacex-delay-crew-7-launch-to-august-25" >🔗</a> **[The Launch Pad]** NASA, SpaceX Delay Crew 7 Launch To August 25th
+- <a href="https://www.teslarati.com/nasa-spacex-delay-crew-7-launch/" >🔗</a> **[Teslarati]** NASA and SpaceX delay Crew 7 launch
+- <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-spacex-crew-7-events-broadcast-launch" >🔗</a> **[NASA]** Coverage Set for NASA’s SpaceX Crew-7 Events, Broadcast, Launch
+- <a href="https://www.teslarati.com/crew-dragon-endurance-arrives-lc-39a-ahead-crew-7-launch/" >🔗</a> **[Teslarati]** Crew Dragon Endurance arrives at LC-39A ahead of Crew 7 launch
+- <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-082123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch four missions, Progress MS-24 launched to ISS
+- <a href="https://spacenews.com/nasa-clears-crew-7-mission-for-launch-to-the-space-station/" >🔗</a> **[SpaceNews]** NASA clears Crew-7 mission for launch to the space station
+- <a href="https://www.teslarati.com/nasa-spacex-give-go-crew-7-launch/" >🔗</a> **[Teslarati]** NASA and SpaceX give GO for Crew 7 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230823T233146">2023-08-23 23:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T002849">2023-08-24 00:28:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
