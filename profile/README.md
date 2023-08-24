@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination-against-refugees-and-asylum-seekers.html" >🔗</a> **[CNBC]** DOJ sues SpaceX, alleging hiring discrimination against refugees and asylum seekers
 - <a href="http://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument" >🔗</a> **[NASA]** NASA Shares First Images from US Pollution-Monitoring Instrument
+- <a href="https://www.cnbc.com/2023/08/24/investing-in-space-the-nascent-orbital-debris-market.html" >🔗</a> **[CNBC]** Investing in Space: The nascent market for tracking and removing debris from orbit
 - <a href="https://spacenews.com/nasa-prepares-for-space-research-decadal-survey/" >🔗</a> **[SpaceNews]** NASA prepares for space research decadal survey
 - <a href="https://spacenews.com/north-koreas-spy-satellite-launch-fails-again/" >🔗</a> **[SpaceNews]** North Korea’s spy satellite launch fails again
-- <a href="https://spacenews.com/rocket-lab-reuses-engine-on-electron-launch/" >🔗</a> **[SpaceNews]** Rocket Lab reuses engine on Electron launch
-- <a href="https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-landing-came-at-small-cost.html" >🔗</a> **[CNBC]** India’s moon landing made history on a relatively small budget
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T163521">2023-08-24 16:35:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T170451">2023-08-24 17:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
