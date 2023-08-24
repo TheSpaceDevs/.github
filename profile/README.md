@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2023/08/rocket-lab-joins-spacex-in-re-flying-a-rocket-engine-to-space/" >🔗</a> **[Arstechnica]** The re-flight of a Rutherford engine demonstrates rocket reuse is here to stay
-- <a href="https://europeanspaceflight.com/esas-solar-orbiter-may-have-discovered-the-source-of-solar-wind/" >🔗</a> **[European Spaceflight]** ESA’s Solar Orbiter May Have Discovered the Source of Solar Wind
-- <a href="https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination-against-refugees-and-asylum-seekers.html" >🔗</a> **[CNBC]** DOJ sues SpaceX, alleging hiring discrimination against refugees and asylum seekers
-- <a href="http://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument" >🔗</a> **[NASA]** NASA Shares First Images from US Pollution-Monitoring Instrument
-- <a href="https://www.cnbc.com/2023/08/24/investing-in-space-the-nascent-orbital-debris-market.html" >🔗</a> **[CNBC]** Investing in Space: The nascent market for tracking and removing debris from orbit
+- <a href="https://www.nasaspaceflight.com/2023/08/nasa-gives-crew-7-the-go-for-launch-to-iss-on-friday/" >🔗</a> **[NASASpaceflight]** NASA gives Crew-7 the “go” for launch to ISS on Friday
+- <a href="https://spacepolicyonline.com/news/rogers-bears-down-on-usspacecom-decision/" >🔗</a> **[SpacePolicyOnline.com]** Rogers Bears Down on USSPACECOM Decision
+- <a href="http://www.nasa.gov/press-release/nasa-forest-service-to-share-moon-tree-seedlings-promote-stem" >🔗</a> **[NASA]** NASA, Forest Service to Share Moon Tree Seedlings, Promote STEM
+- <a href="https://www.teslarati.com/rocket-lab-launches-40th-mission-first-re-flown-rutherford-engine/" >🔗</a> **[Teslarati]** Rocket Lab launches 40th mission, first re-flown Rutherford engine
+- <a href="https://mars.nasa.gov/news/9468/" >🔗</a> **[NASA]** NASA, Partners Study Ancient Life in Australia to Inform Mars Search
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T193157">2023-08-24 19:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T200636">2023-08-24 20:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
