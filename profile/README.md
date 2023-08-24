@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T074959">2023-08-25 07:49:59 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-7&location=Kennedy Space Center, FL, USA&dates=20230825T074959Z%2F20230825T074959Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-7** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T013050">2023-08-26 01:30:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-11&location=Cape Canaveral, FL, USA&dates=20230826T013050Z%2F20230826T032930Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-11** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T013050">2023-08-26 01:30:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-11&location=Cape Canaveral, FL, USA&dates=20230826T013050Z%2F20230826T032930Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-11** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T003015">2023-08-27 00:30:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | XRISM &amp; SLIM&location=Tanegashima Space Center, Japan&dates=20230827T003015Z%2F20230827T003015Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | XRISM & SLIM** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T004700">2023-08-29 00:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-13&location=Cape Canaveral, FL, USA&dates=20230829T004700Z%2F20230829T051700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-13** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T123400">2023-08-29 12:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | NROL-107 (Silent Barker)&location=Cape Canaveral, FL, USA&dates=20230829T123400Z%2F20230829T123400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | NROL-107 (Silent Barker)** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/08/rocket-lab-joins-spacex-in-re-flying-a-rocket-engine-to-space/" >🔗</a> **[Arstechnica]** The re-flight of a Rutherford engine demonstrates rocket reuse is here to stay
+- <a href="https://europeanspaceflight.com/esas-solar-orbiter-may-have-discovered-the-source-of-solar-wind/" >🔗</a> **[European Spaceflight]** ESA’s Solar Orbiter May Have Discovered the Source of Solar Wind
 - <a href="https://www.cnbc.com/2023/08/24/doj-sues-spacex-alleging-hiring-discrimination-against-refugees-and-asylum-seekers.html" >🔗</a> **[CNBC]** DOJ sues SpaceX, alleging hiring discrimination against refugees and asylum seekers
 - <a href="http://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument" >🔗</a> **[NASA]** NASA Shares First Images from US Pollution-Monitoring Instrument
 - <a href="https://www.cnbc.com/2023/08/24/investing-in-space-the-nascent-orbital-debris-market.html" >🔗</a> **[CNBC]** Investing in Space: The nascent market for tracking and removing debris from orbit
-- <a href="https://spacenews.com/nasa-prepares-for-space-research-decadal-survey/" >🔗</a> **[SpaceNews]** NASA prepares for space research decadal survey
-- <a href="https://spacenews.com/north-koreas-spy-satellite-launch-fails-again/" >🔗</a> **[SpaceNews]** North Korea’s spy satellite launch fails again
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T173140">2023-08-24 17:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230824T180752">2023-08-24 18:07:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
