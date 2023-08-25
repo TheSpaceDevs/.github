@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/myradar-to-validate-technology-with-noaa-funding/" >🔗</a> **[SpaceNews]** MyRadar to validate technology with NOAA funding
+- <a href="https://spacenews.com/spacex-test-fires-booster-for-second-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX test-fires booster for second Starship launch
 - <a href="https://arstechnica.com/space/2023/08/starships-next-test-flight-might-be-closer-than-you-think/" >🔗</a> **[Arstechnica]** SpaceX completes successful hot fire test of its massive Starship rocket
 - <a href="https://www.teslarati.com/nasa-spacex-readies-crew-7-for-launch-to-the-international-space-station/" >🔗</a> **[Teslarati]** NASA, SpaceX readies Crew 7 for launch to the International Space Station
 - <a href="https://spacenews.com/viasat-reports-problem-with-new-inmarsat-satellite/" >🔗</a> **[SpaceNews]** Viasat reports problem with new Inmarsat satellite
-- <a href="https://www.teslarati.com/spacex-s-booster-9-performs-2nd-static-fire/" >🔗</a> **[Teslarati]** SpaceX’s Booster 9 performs 2nd static fire
-- <a href="https://spacenews.com/sedaro-wins-space-force-contract-to-develop-spacecraft-digital-twins/" >🔗</a> **[SpaceNews]** Sedaro wins Space Force contract to develop spacecraft digital twins
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T213156">2023-08-25 21:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T220547">2023-08-25 22:05:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
