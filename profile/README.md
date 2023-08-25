@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/european-union-nations-join-asat-testing-ban/" >🔗</a> **[SpaceNews]** European Union nations join ASAT testing ban
-- <a href="https://tlpnetwork.com/news/2023/08/rocketlab-flys-recovered-electron-engine-for-first-time" >🔗</a> **[The Launch Pad]** RocketLab Flys Recovered Electron Engine For First Time
-- <a href="https://spacenews.com/space-force-to-seek-industry-ideas-for-rapid-deployment-of-satellites/" >🔗</a> **[SpaceNews]** Space Force to seek industry ideas for rapid deployment of satellites
-- <a href="https://www.cnbc.com/2023/08/24/viasats-inmarsat-i6-f2-satellite-suffers-power-failure.html" >🔗</a> **[CNBC]** Viasat reports second satellite malfunction in a matter of weeks
-- <a href="https://tlpnetwork.com/news/2023/08/north-korea-fails-to-launch-spy-satellite-again" >🔗</a> **[The Launch Pad]** North Korea Fails To Launch Spy Satellite Again
+- <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-its-mira-light-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Testing its MIRA-Light Vehicle
+- <a href="https://spacenews.com/rideshare-industry-adapting-to-a-changing-smallsat-market/" >🔗</a> **[SpaceNews]** Rideshare industry adapting to a changing smallsat market
+- <a href="https://spacenews.com/big-constellations-no-longer-necessarily-mean-small-satellites/" >🔗</a> **[SpaceNews]** Big constellations no longer necessarily mean small satellites
+- <a href="https://spacenews.com/defense-innovation-unit-to-sponsor-a-rapid-response-space-mission/" >🔗</a> **[SpaceNews]** Defense Innovation Unit to sponsor a rapid response space mission
+- <a href="https://spacenews.com/can-space-investment-become-cool-again/" >🔗</a> **[SpaceNews]** Can space investment become cool again?
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T143141">2023-08-25 14:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T150629">2023-08-25 15:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
