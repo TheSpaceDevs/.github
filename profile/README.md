@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sedaro-wins-space-force-contract-to-develop-spacecraft-digital-twins/" >🔗</a> **[SpaceNews]** Sedaro wins Space Force contract to develop spacecraft digital twins
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-its-mira-light-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Testing its MIRA-Light Vehicle
 - <a href="https://spacenews.com/rideshare-industry-adapting-to-a-changing-smallsat-market/" >🔗</a> **[SpaceNews]** Rideshare industry adapting to a changing smallsat market
 - <a href="https://spacenews.com/big-constellations-no-longer-necessarily-mean-small-satellites/" >🔗</a> **[SpaceNews]** Big constellations no longer necessarily mean small satellites
 - <a href="https://spacenews.com/defense-innovation-unit-to-sponsor-a-rapid-response-space-mission/" >🔗</a> **[SpaceNews]** Defense Innovation Unit to sponsor a rapid response space mission
-- <a href="https://spacenews.com/can-space-investment-become-cool-again/" >🔗</a> **[SpaceNews]** Can space investment become cool again?
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T163501">2023-08-25 16:35:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T170439">2023-08-25 17:04:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
