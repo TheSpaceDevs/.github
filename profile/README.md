@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/08/second-viasat-suffers-anomaly-in-orbit" >🔗</a> **[The Launch Pad]** 2nd ViaSat Suffers Anomaly In Orbit
 - <a href="https://tlpnetwork.com/news/2023/08/oneweb-eutelsat-merger-hinges-on-shareholder-vote" >🔗</a> **[The Launch Pad]** OneWeb-Eutelsat Merger Hinges on Shareholder Vote
 - <a href="https://tlpnetwork.com/news/2023/08/27-european-union-states-pledge-to-avoid-destructive-anti-satellite-tests" >🔗</a> **[The Launch Pad]** 27 European Union States Pledge to Avoid Destructive Anti-Satellite Tests
 - <a href="https://tlpnetwork.com/news/2023/08/spacex-ignites-33-super-heavy-engines-successfully-for-first-time" >🔗</a> **[The Launch Pad]** SpaceX Ignites 33 Super Heavy Engines Successfully For First Time
 - <a href="https://www.nasaspaceflight.com/2023/08/final-icps-arrives/" >🔗</a> **[NASASpaceflight]** Final ICPS arrives in Florida for Artemis III SLS launch
-- <a href="https://spacenews.com/myradar-to-validate-technology-with-noaa-funding/" >🔗</a> **[SpaceNews]** MyRadar to validate technology with NOAA funding
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230825T233137">2023-08-25 23:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230826T002821">2023-08-26 00:28:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
