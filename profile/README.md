@@ -90,11 +90,11 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-7-docks-with-space-station/" >🔗</a> **[SpaceNews]** Crew-7 docks with space station
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-27-september-2-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 27-September 2, 2023
 - <a href="https://www.nasaspaceflight.com/2023/08/space-rider-update/" >🔗</a> **[NASASpaceflight]** ESA’s Space Rider likely to launch third quarter of 2025, program manager says
 - <a href="https://tlpnetwork.com/news/2023/08/australian-space-imagery-startup-heo-raises-8-million" >🔗</a> **[The Launch Pad]** Australian Space Imagery Startup HEO Raises $8 Million
 - <a href="https://tlpnetwork.com/news/2023/08/sedaro-secures-us-space-force-contract-to-develop-digital-spacecraft-twins" >🔗</a> **[The Launch Pad]** Sedaro Secures US Space Force Contract To Develop Digital Spacecraft Twins 
-- <a href="https://spacenews.com/crew-7-launches-to-the-space-station/" >🔗</a> **[SpaceNews]** Crew-7 launches to the space station
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T143152">2023-08-27 14:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T150432">2023-08-27 15:04:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
