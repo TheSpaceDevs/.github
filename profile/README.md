@@ -18,33 +18,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-11**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T010540">2023-08-27 01:05:40 UTC</a>.  Until
-then, this pad will have been used for 195
-out of 902 launches from this location. The launch status is currently
+**H-IIA 202 | XRISM & SLIM**. It is scheduled to be launched by *Japan Aerospace Exploration Agency*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex LP-1</a>, Tanegashima Space Center, Japan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T002622">2023-08-28 00:26:22 UTC</a>.  Until
+then, this pad will have been used for 52
+out of 86 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Astrophysics* and the payload will be injected
+into *a Lunar Orbit
+(LO)*.
 <br>
 <blockquote>
-  A batch of 22 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  X-Ray Imaging and Spectroscopy Mission (XRISM), formerly the X-Ray Astronomy Recovery Mission (XARM), is a replacement for the Hitomi satellite that malfunctioned few weeks after the launch. 
+
+Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a landing on a small crater in Mare Nectaris, an area located near the moon's equator on the side facing Earth.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/H-IIA" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=30.400813,130.977748" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T010540">2023-08-27 01:05:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-11&location=Cape Canaveral, FL, USA&dates=20230827T010540Z%2F20230827T030430Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-11** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T002622">2023-08-28 00:26:22 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | XRISM &amp; SLIM&location=Tanegashima Space Center, Japan&dates=20230828T002622Z%2F20230828T002622Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | XRISM & SLIM** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T123400">2023-08-29 12:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | NROL-107 (Silent Barker)&location=Cape Canaveral, FL, USA&dates=20230829T123400Z%2F20230829T123400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | NROL-107 (Silent Barker)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T000000">2023-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230831T000000Z%2F20230831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA003 (VICTUS NOX)** from Vandenberg SFB, CA, USA.
@@ -89,22 +90,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/space-rider-update/" >🔗</a> **[NASASpaceflight]** ESA’s Space Rider likely to launch third quarter of 2025, program manager says
 - <a href="https://tlpnetwork.com/news/2023/08/australian-space-imagery-startup-heo-raises-8-million" >🔗</a> **[The Launch Pad]** Australian Space Imagery Startup HEO Raises $8 Million
 - <a href="https://tlpnetwork.com/news/2023/08/sedaro-secures-us-space-force-contract-to-develop-digital-spacecraft-twins" >🔗</a> **[The Launch Pad]** Sedaro Secures US Space Force Contract To Develop Digital Spacecraft Twins 
 - <a href="https://spacenews.com/crew-7-launches-to-the-space-station/" >🔗</a> **[SpaceNews]** Crew-7 launches to the space station
 - <a href="https://spacepolicyonline.com/news/international-crew-on-its-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** International Crew On Its Way to ISS
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-7-launches-to-international-space-station" >🔗</a> **[NASA]** NASA’s SpaceX Crew-7 Launches to International Space Station
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-081623/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches Starlink Group 6-10
-- <a href="https://www.nasaspaceflight.com/2023/08/launch-roundup-082123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korea has failed launch attempt, SpaceX to launch back-to-back missions
+- <a href="https://spacenews.com/japan-delays-h2a-launch-in-the-wake-of-h3-failure/" >🔗</a> **[SpaceNews]** Japan delays H2A launch in the wake of H3 failure
+- <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T003147">2023-08-27 00:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T014140">2023-08-27 01:41:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
