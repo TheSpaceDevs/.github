@@ -48,6 +48,7 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T002622">2023-08-28 00:26:22 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | XRISM &amp; SLIM&location=Tanegashima Space Center, Japan&dates=20230828T002622Z%2F20230828T002622Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | XRISM & SLIM** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T123400">2023-08-29 12:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | NROL-107 (Silent Barker)&location=Cape Canaveral, FL, USA&dates=20230829T123400Z%2F20230829T123400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | NROL-107 (Silent Barker)** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T075600">2023-08-30 07:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230830T075600Z%2F20230830T081900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T142600">2023-08-31 14:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230831T142600Z%2F20230831T155700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T233100">2023-08-31 23:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-13&location=Cape Canaveral, FL, USA&dates=20230831T233100Z%2F20230901T040100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-13** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T040000">2023-09-02 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Aditya-L1&location=Satish Dhawan Space Centre, India&dates=20230902T040000Z%2F20230902T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Aditya-L1** from Satish Dhawan Space Centre, India.
@@ -89,11 +90,11 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-7-makes-it-11/" >🔗</a> **[SpacePolicyOnline.com]** Crew-7 Makes it 11
 - <a href="https://spacenews.com/crew-7-docks-with-space-station/" >🔗</a> **[SpaceNews]** Crew-7 docks with space station
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-27-september-2-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 27-September 2, 2023
 - <a href="https://www.nasaspaceflight.com/2023/08/space-rider-update/" >🔗</a> **[NASASpaceflight]** ESA’s Space Rider likely to launch third quarter of 2025, program manager says
 - <a href="https://tlpnetwork.com/news/2023/08/australian-space-imagery-startup-heo-raises-8-million" >🔗</a> **[The Launch Pad]** Australian Space Imagery Startup HEO Raises $8 Million
-- <a href="https://tlpnetwork.com/news/2023/08/sedaro-secures-us-space-force-contract-to-develop-digital-spacecraft-twins" >🔗</a> **[The Launch Pad]** Sedaro Secures US Space Force Contract To Develop Digital Spacecraft Twins 
 
 
 ### Launch-related News 🚀
@@ -104,7 +105,7 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T203146">2023-08-27 20:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230827T210401">2023-08-27 21:04:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
