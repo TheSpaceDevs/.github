@@ -27,8 +27,8 @@ then, this pad will have been used for 108
 out of 903 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+into *a Geosynchronous Transfer Orbit
+(GSTO)*.
 <br>
 <blockquote>
   Classified space situational awareness (SSA) payload for the US National Reconnaissance Office (NRO).
@@ -52,6 +52,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T040000">2023-09-02 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Aditya-L1&location=Satish Dhawan Space Centre, India&dates=20230902T040000Z%2F20230902T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Aditya-L1** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T000000">2023-09-05 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | 4x Tianqi&location=Sea Launch&dates=20230905T000000Z%2F20230905T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | 4x Tianqi** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T154400">2023-09-15 15:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-24&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230915T154400Z%2F20230915T154400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-24** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T000000">2023-09-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | THEOS-2 &amp; others&location=Kourou, French Guiana&dates=20230919T000000Z%2F20230919T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | THEOS-2 & others** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T000000">2023-09-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 501 | Project Kuiper (Atlas V #1/Demo Mission)&location=Cape Canaveral, FL, USA&dates=20230926T000000Z%2F20230926T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 501 | Project Kuiper (Atlas V #1/Demo Mission)** from Cape Canaveral, FL, USA.
 
 
@@ -102,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T063307">2023-08-28 06:33:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T070624">2023-08-28 07:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
