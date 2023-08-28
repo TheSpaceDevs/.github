@@ -27,8 +27,8 @@ then, this pad will have been used for 108
 out of 903 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
-into *a Geosynchronous Transfer Orbit
-(GSTO)*.
+into *a Geostationary Orbit
+(Direct-GEO)*.
 <br>
 <blockquote>
   Classified space situational awareness (SSA) payload for the US National Reconnaissance Office (NRO).
@@ -103,7 +103,7 @@ into *a Geosynchronous Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T121201">2023-08-28 12:12:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230828T124733">2023-08-28 12:47:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
