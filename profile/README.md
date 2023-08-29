@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/" >🔗</a> **[SpaceNews]** SpiderOak demonstrates zero-trust software on ISS
+- <a href="https://spacenews.com/transastra-claims-nasa-contract-for-debris-capture-bag/" >🔗</a> **[SpaceNews]** TransAstra claims NASA contract for debris capture bag
 - <a href="https://arstechnica.com/space/2023/08/virgin-galactics-president-explains-how-vss-unity-is-now-flying-frequently/" >🔗</a> **[Arstechnica]** Virgin Galactic’s president explains how VSS Unity is now flying frequently
 - <a href="https://spacenews.com/benchmark-wins-afrl-award-to-develop-thrusters-for-ascent/" >🔗</a> **[SpaceNews]** Benchmark wins AFRL award to develop thrusters for ASCENT
 - <a href="https://spacenews.com/op-ed-welcome-to-the-third-space-age/" >🔗</a> **[SpaceNews]** Op-ed | Welcome to the Third Space Age
-- <a href="https://www.nasaspaceflight.com/2023/08/ula-nrol-107/" >🔗</a> **[NASASpaceflight]** ULA delays NROL-107 launch, last Atlas NRO mission
-- <a href="https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/" >🔗</a> **[SpacePolicyOnline.com]** SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T130912">2023-08-29 13:09:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T133140">2023-08-29 13:31:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
