@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-invita-a-hispanohablantes-a-enviar-sus-nombres-en-europa-clipper" >🔗</a> **[NASA]** NASA invita a hispanohablantes a enviar sus nombres en Europa Clipper
 - <a href="https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/" >🔗</a> **[SpaceNews]** Japanese space robotics company GITAI raises $15 million
 - <a href="https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/" >🔗</a> **[SpaceNews]** Microsoft signs new partnership with AI and data analytics startup
 - <a href="https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/" >🔗</a> **[SpaceNews]** SpiderOak demonstrates zero-trust software on ISS
 - <a href="https://spacenews.com/transastra-claims-nasa-contract-for-debris-capture-bag/" >🔗</a> **[SpaceNews]** TransAstra claims NASA contract for debris capture bag
-- <a href="https://arstechnica.com/space/2023/08/virgin-galactics-president-explains-how-vss-unity-is-now-flying-frequently/" >🔗</a> **[Arstechnica]** Virgin Galactic’s president explains how VSS Unity is now flying frequently
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T153143">2023-08-29 15:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T160745">2023-08-29 16:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
