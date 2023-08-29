@@ -93,7 +93,7 @@ into *an Unknown Orbit
 - <a href="https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/" >🔗</a> **[SpacePolicyOnline.com]** SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit
 - <a href="https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/" >🔗</a> **[SpaceNews]** NASA confirms multi-year delay in next New Frontiers competition
 - <a href="https://spacenews.com/hera-systems-and-leostella-team-up-to-compete-for-military-satellite-orders/" >🔗</a> **[SpaceNews]** Hera Systems and LeoStella team up to compete for military satellite orders
-- <a href="https://www.teslarati.com/crew-7-arrives-to-the-international-space-station-after-successful-launch/" >🔗</a> **[Teslarati]** Crew 7 arrives to the International Space Station after successful launch
+- <a href="https://www.teslarati.com/spacex-launches-22-starlink-satellites-brings-total-launched-over-5000/" >🔗</a> **[Teslarati]** SpaceX launches 22 Starlink satellites, brings total launched over 5,000
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T003000">2023-08-29 00:30:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T013135">2023-08-29 01:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
