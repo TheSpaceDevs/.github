@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/op-ed-welcome-to-the-third-space-age/" >🔗</a> **[SpaceNews]** Op-ed | Welcome to the Third Space Age
 - <a href="https://www.nasaspaceflight.com/2023/08/ula-nrol-107/" >🔗</a> **[NASASpaceflight]** ULA delays NROL-107 launch, last Atlas NRO mission
 - <a href="https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/" >🔗</a> **[SpacePolicyOnline.com]** SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit
 - <a href="https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/" >🔗</a> **[SpaceNews]** NASA confirms multi-year delay in next New Frontiers competition
 - <a href="https://spacenews.com/hera-systems-and-leostella-team-up-to-compete-for-military-satellite-orders/" >🔗</a> **[SpaceNews]** Hera Systems and LeoStella team up to compete for military satellite orders
-- <a href="https://www.teslarati.com/spacex-launches-22-starlink-satellites-brings-total-launched-over-5000/" >🔗</a> **[Teslarati]** SpaceX launches 22 Starlink satellites, brings total launched over 5,000
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T083217">2023-08-29 08:32:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T090640">2023-08-29 09:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
