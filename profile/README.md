@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/united-launch-alliance-readies-first-atlas-v-launch-2023/" >🔗</a> **[Teslarati]** United Launch Alliance readies for first Atlas V launch of the year
+- <a href="https://spacenews.com/space-development-agencys-data-transport-satellites-get-more-complex/" >🔗</a> **[SpaceNews]** Space Development Agency’s data-transport satellites get more complex
 - <a href="https://europeanspaceflight.com/saxavord-does-not-need-spaceport-licence-to-launch-hyimpulse-mission/" >🔗</a> **[European Spaceflight]** SaxaVord Does Not Need Spaceport Licence to Launch HyImpulse Mission
 - <a href="http://www.nasa.gov/press-release/nasa-invita-a-hispanohablantes-a-enviar-sus-nombres-en-europa-clipper" >🔗</a> **[NASA]** NASA invita a hispanohablantes a enviar sus nombres en Europa Clipper
 - <a href="https://spacenews.com/japanese-space-robotics-company-gitai-raises-15-million/" >🔗</a> **[SpaceNews]** Japanese space robotics company GITAI raises $15 million
-- <a href="https://spacenews.com/microsoft-signs-new-partnership-with-ai-and-data-analytics-startup/" >🔗</a> **[SpaceNews]** Microsoft signs new partnership with AI and data analytics startup
-- <a href="https://spacenews.com/spideroak-demonstrates-zero-trust-software-on-iss/" >🔗</a> **[SpaceNews]** SpiderOak demonstrates zero-trust software on ISS
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T203145">2023-08-29 20:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T210452">2023-08-29 21:04:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
