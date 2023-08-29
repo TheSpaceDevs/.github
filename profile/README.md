@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/08/virgin-galactics-president-explains-how-vss-unity-is-now-flying-frequently/" >🔗</a> **[Arstechnica]** Virgin Galactic’s president explains how VSS Unity is now flying frequently
+- <a href="https://spacenews.com/benchmark-wins-afrl-award-to-develop-thrusters-for-ascent/" >🔗</a> **[SpaceNews]** Benchmark wins AFRL award to develop thrusters for ASCENT
 - <a href="https://spacenews.com/op-ed-welcome-to-the-third-space-age/" >🔗</a> **[SpaceNews]** Op-ed | Welcome to the Third Space Age
 - <a href="https://www.nasaspaceflight.com/2023/08/ula-nrol-107/" >🔗</a> **[NASASpaceflight]** ULA delays NROL-107 launch, last Atlas NRO mission
 - <a href="https://spacepolicyonline.com/news/silentbarker-to-be-u-s-watchdog-in-geosynchronous-orbit/" >🔗</a> **[SpacePolicyOnline.com]** SILENTBARKER To Be U.S. “Watchdog” in Geosynchronous Orbit
-- <a href="https://spacenews.com/nasa-confirms-multi-year-delay-in-next-new-frontiers-competition/" >🔗</a> **[SpaceNews]** NASA confirms multi-year delay in next New Frontiers competition
-- <a href="https://spacenews.com/hera-systems-and-leostella-team-up-to-compete-for-military-satellite-orders/" >🔗</a> **[SpaceNews]** Hera Systems and LeoStella team up to compete for military satellite orders
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T113143">2023-08-29 11:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230829T121123">2023-08-29 12:11:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
