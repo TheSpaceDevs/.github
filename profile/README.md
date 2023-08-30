@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-completes-last-osiris-rex-test-before-asteroid-sample-delivery" >🔗</a> **[NASA]** NASA Completes Last OSIRIS-REx Test Before Asteroid Sample Delivery
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-deep-space-network-critically-overworked-and-underfunded" >🔗</a> **[The Launch Pad]** NASA Deep Space Network Critically Overworked & Underfunded
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-noaa-sounder-for-microwave-based-applications-study" >🔗</a> **[NASA]** NASA Awards Contracts for NOAA Sounder for Microwave-Based Applications Study
 - <a href="https://spacenews.com/firefly-ready-for-call-up-to-launch-military-responsive-space-mission/" >🔗</a> **[SpaceNews]** Firefly ready for call-up to launch military ‘responsive space’ mission
 - <a href="https://tlpnetwork.com/news/2023/08/transastra-secures-nasa-contract-partners-with-thinkorbital-on-debris-capture-bag-system" >🔗</a> **[The Launch Pad]** TransAstra Secures NASA Contract, Partners With ThinkOrbital On Debris Capture Bag System
-- <a href="https://tlpnetwork.com/news/2023/08/ariane-6-hot-fire-test-postponed-again-due-to-technical-issues" >🔗</a> **[The Launch Pad]** Ariane 6 Hot Fire Test Postponed Again Due To Technical Issues
-- <a href="https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/" >🔗</a> **[Arstechnica]** Why did SpaceX give up on “catching” falling fairings? Its VP of launch explains
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T203141">2023-08-30 20:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T210707">2023-08-30 21:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
