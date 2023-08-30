@@ -88,11 +88,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/" >🔗</a> **[SpaceNews]** ESA postpones Ariane 6 hot-fire test again
 - <a href="https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/" >🔗</a> **[SpaceNews]** NASA Deep Space Network reaches “critical point” as demand grows
 - <a href="https://spacenews.com/saic-wins-574-million-contract-to-maintain-space-force-radar-sites/" >🔗</a> **[SpaceNews]** SAIC wins $574 million contract to maintain Space Force radar sites
 - <a href="https://www.teslarati.com/united-launch-alliance-readies-first-atlas-v-launch-2023/" >🔗</a> **[Teslarati]** United Launch Alliance readies for first Atlas V launch of the year
 - <a href="https://spacenews.com/space-development-agencys-data-transport-satellites-get-more-complex/" >🔗</a> **[SpaceNews]** Space Development Agency’s data-transport satellites get more complex
-- <a href="https://europeanspaceflight.com/saxavord-does-not-need-spaceport-licence-to-launch-hyimpulse-mission/" >🔗</a> **[European Spaceflight]** SaxaVord Does Not Need Spaceport Licence to Launch HyImpulse Mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T113133">2023-08-30 11:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T121122">2023-08-30 12:11:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
