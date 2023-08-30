@@ -45,7 +45,7 @@ into *an Unknown Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T000000">2023-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230831T000000Z%2F20230831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T142600">2023-08-31 14:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230831T142600Z%2F20230831T155700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0B** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T142600">2023-08-31 14:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230831T142600Z%2F20230831T142600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T235020">2023-08-31 23:50:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-13&location=Cape Canaveral, FL, USA&dates=20230831T235020Z%2F20230901T031220Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-13** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T062000">2023-09-02 06:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Aditya-L1&location=Satish Dhawan Space Centre, India&dates=20230902T062000Z%2F20230902T062000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Aditya-L1** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T000000">2023-09-05 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | 4x Tianqi&location=Sea Launch&dates=20230905T000000Z%2F20230905T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | 4x Tianqi** from Sea Launch.
@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-noaa-sounder-for-microwave-based-applications-study" >🔗</a> **[NASA]** NASA Awards Contracts for NOAA Sounder for Microwave-Based Applications Study
+- <a href="https://spacenews.com/firefly-ready-for-call-up-to-launch-military-responsive-space-mission/" >🔗</a> **[SpaceNews]** Firefly ready for call-up to launch military ‘responsive space’ mission
+- <a href="https://tlpnetwork.com/news/2023/08/transastra-secures-nasa-contract-partners-with-thinkorbital-on-debris-capture-bag-system" >🔗</a> **[The Launch Pad]** TransAstra Secures NASA Contract, Partners With ThinkOrbital On Debris Capture Bag System
+- <a href="https://tlpnetwork.com/news/2023/08/ariane-6-hot-fire-test-postponed-again-due-to-technical-issues" >🔗</a> **[The Launch Pad]** Ariane 6 Hot Fire Test Postponed Again Due To Technical Issues
 - <a href="https://arstechnica.com/space/2023/08/spacexs-vp-of-launch-shares-the-companys-special-algorithm-for-innovation/" >🔗</a> **[Arstechnica]** Why did SpaceX give up on “catching” falling fairings? Its VP of launch explains
-- <a href="https://europeanspaceflight.com/a-short-ariane-6-hot-fire-test-has-been-postponed/" >🔗</a> **[European Spaceflight]** A Short Ariane 6 Hot Fire Test Has Been Postponed
-- <a href="https://spacenews.com/esa-postpones-ariane-6-hot-fire-test-again/" >🔗</a> **[SpaceNews]** ESA postpones Ariane 6 hot-fire test again
-- <a href="https://spacenews.com/nasa-deep-space-network-reaches-critical-point-as-demand-grows/" >🔗</a> **[SpaceNews]** NASA Deep Space Network reaches “critical point” as demand grows
-- <a href="https://spacenews.com/saic-wins-574-million-contract-to-maintain-space-force-radar-sites/" >🔗</a> **[SpaceNews]** SAIC wins $574 million contract to maintain Space Force radar sites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T193140">2023-08-30 19:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230830T200658">2023-08-30 20:06:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
