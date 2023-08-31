@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/" >🔗</a> **[SpacePolicyOnline.com]** “Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return
 - <a href="https://spacenews.com/spiral-blue-offers-to-run-your-code-in-space/" >🔗</a> **[SpaceNews]** Spiral Blue offers to run Your Code in Space
 - <a href="https://tlpnetwork.com/news/2023/08/firefly-officially-on-call-for-us-space-force-responsive-space-launch-demo" >🔗</a> **[The Launch Pad]** Firefly Officially "On Call" For US Space Force Responsive Space Launch Demo
 - <a href="http://www.nasa.gov/press-release/nasa-completes-last-osiris-rex-test-before-asteroid-sample-delivery" >🔗</a> **[NASA]** NASA Completes Last OSIRIS-REx Test Before Asteroid Sample Delivery
 - <a href="https://tlpnetwork.com/news/2023/08/nasa-deep-space-network-critically-overworked-and-underfunded" >🔗</a> **[The Launch Pad]** NASA Deep Space Network Critically Overworked & Underfunded
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contracts-for-noaa-sounder-for-microwave-based-applications-study" >🔗</a> **[NASA]** NASA Awards Contracts for NOAA Sounder for Microwave-Based Applications Study
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T033153">2023-08-31 03:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T040731">2023-08-31 04:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
