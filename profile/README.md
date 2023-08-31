@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satixfy-sells-satellite-payload-subsidiary-to-mda/" >🔗</a> **[SpaceNews]** SatixFy sells satellite payload subsidiary to MDA
 - <a href="https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/" >🔗</a> **[NASASpaceflight]** SpaceX to conduct second launch for Space Development Agency’s Tranche 0 and Starlink mission
 - <a href="https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/" >🔗</a> **[SpaceNews]** NASA gears up for return of OSIRIS-REx asteroid sample
 - <a href="https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/" >🔗</a> **[SpaceNews]** Chinese study finds GSSAP close approaches a threat to its GEO assets
 - <a href="https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/" >🔗</a> **[SpacePolicyOnline.com]** “Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return
-- <a href="https://spacenews.com/spiral-blue-offers-to-run-your-code-in-space/" >🔗</a> **[SpaceNews]** Spiral Blue offers to run Your Code in Space
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T130844">2023-08-31 13:08:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T133311">2023-08-31 13:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
