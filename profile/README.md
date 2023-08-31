@@ -89,21 +89,23 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/" >🔗</a> **[NASASpaceflight]** SpaceX to conduct second launch for Space Development Agency’s Tranche 0 and Starlink mission
+- <a href="https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/" >🔗</a> **[SpaceNews]** NASA gears up for return of OSIRIS-REx asteroid sample
 - <a href="https://spacenews.com/chinese-study-finds-gssap-close-approaches-a-threat-to-its-geo-assets/" >🔗</a> **[SpaceNews]** Chinese study finds GSSAP close approaches a threat to its GEO assets
 - <a href="https://spacepolicyonline.com/news/asteroid-autumn-begins-next-month-with-osiris-rex-asteroid-sample-return/" >🔗</a> **[SpacePolicyOnline.com]** “Asteroid Autumn” Begins Next Month With OSIRIS-REx Asteroid Sample Return
 - <a href="https://spacenews.com/spiral-blue-offers-to-run-your-code-in-space/" >🔗</a> **[SpaceNews]** Spiral Blue offers to run Your Code in Space
-- <a href="https://tlpnetwork.com/news/2023/08/firefly-officially-on-call-for-us-space-force-responsive-space-launch-demo" >🔗</a> **[The Launch Pad]** Firefly Officially "On Call" For US Space Force Responsive Space Launch Demo
-- <a href="http://www.nasa.gov/press-release/nasa-completes-last-osiris-rex-test-before-asteroid-sample-delivery" >🔗</a> **[NASA]** NASA Completes Last OSIRIS-REx Test Before Asteroid Sample Delivery
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/space-development-agency-planning-to-launch-13-satellites-in-late-june/" >🔗</a> **[SpaceNews]** Space Development Agency to launch 13 satellites in late June
+- <a href="https://www.teslarati.com/spacex-launch-military-communications-satellites/" >🔗</a> **[Teslarati]** SpaceX to launch military communications satellites
+- <a href="https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/" >🔗</a> **[NASASpaceflight]** SpaceX to conduct second launch for Space Development Agency’s Tranche 0 and Starlink mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T113142">2023-08-31 11:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T121125">2023-08-31 12:11:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
