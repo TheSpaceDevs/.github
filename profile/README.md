@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-9th-launch-august-2023/" >🔗</a> **[Teslarati]** SpaceX set for 9th launch of the month
+- <a href="https://www.teslarati.com/firefly-aerospace-victus-nox-mission/" >🔗</a> **[Teslarati]** Firefly Aerospace announces they are ready for the Victus Nox mission
 - <a href="https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html" >🔗</a> **[CNBC]** Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation
 - <a href="https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/" >🔗</a> **[NASASpaceflight]** Ship 25 awaits rollout for full-stack of Starship Flight 2
 - <a href="https://tlpnetwork.com/news/2023/08/space-engine-systems-tour-and-interview-with-pradeep-dass" >🔗</a> **[The Launch Pad]** The Future Of Hypersonic Flight | TLP Exclusive Tour & Interview
-- <a href="https://spacenews.com/qinetiq-wins-224-million-contract-to-provide-technical-services-to-space-development-agency/" >🔗</a> **[SpaceNews]** QinetiQ wins $224 million contract to provide technical services to Space Development Agency
-- <a href="https://europeanspaceflight.com/eu-member-states-commit-to-not-test-direct-ascent-asat-systems/" >🔗</a> **[European Spaceflight]** EU Member States Commit to Not Test Direct-Ascent ASAT Systems
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T193136">2023-08-31 19:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230831T200646">2023-08-31 20:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
