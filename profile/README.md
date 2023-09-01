@@ -93,11 +93,11 @@ Originally the mission design started as a small LEO satellite carrying only a c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/sbag-wants-reconnaissance-mission-to-apophis-before-it-reaches-earth/" >🔗</a> **[SpacePolicyOnline.com]** SBAG Wants Reconnaissance Mission to Apophis Before It Reaches Earth
+- <a href="https://spacenews.com/space-tango-names-new-ceo/" >🔗</a> **[SpaceNews]** Space Tango names new CEO
+- <a href="https://www.cnbc.com/2023/09/01/bezos-snubbed-musk-spacex-satellite-contract-lawsuit.html" >🔗</a> **[CNBC]** Bezos snubbed Musk’s SpaceX over blockbuster satellite launch contract, Amazon shareholder says
 - <a href="https://arstechnica.com/space/2023/09/pension-fund-sues-jeff-bezos-and-amazon-for-not-using-falcon-9-rockets/" >🔗</a> **[Arstechnica]** Pension fund sues Jeff Bezos and Amazon for not using Falcon 9 rockets
 - <a href="https://europeanspaceflight.com/what-is-the-esa-astronaut-policy/" >🔗</a> **[European Spaceflight]** What is the ESA Astronaut Policy?
-- <a href="http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station" >🔗</a> **[NASA]** Georgia, Texas Students to Hear from NASA Astronauts Aboard Station
-- <a href="https://spacenews.com/globalstar-picks-spacex-to-refresh-leo-constellation/" >🔗</a> **[SpaceNews]** Globalstar picks SpaceX to refresh LEO constellation
-- <a href="https://spacenews.com/intuitive-machines-raises-20-million/" >🔗</a> **[SpaceNews]** Intuitive Machines raises $20 million
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Originally the mission design started as a small LEO satellite carrying only a c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T163609">2023-09-01 16:36:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T170448">2023-09-01 17:04:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
