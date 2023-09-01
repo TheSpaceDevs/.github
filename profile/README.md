@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station" >🔗</a> **[NASA]** Georgia, Texas Students to Hear from NASA Astronauts Aboard Station
 - <a href="https://spacenews.com/globalstar-picks-spacex-to-refresh-leo-constellation/" >🔗</a> **[SpaceNews]** Globalstar picks SpaceX to refresh LEO constellation
 - <a href="https://spacenews.com/intuitive-machines-raises-20-million/" >🔗</a> **[SpaceNews]** Intuitive Machines raises $20 million
 - <a href="https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/" >🔗</a> **[Arstechnica]** Rocket Report: Firefly enters “hot standby phase”; SpaceX’s superfluity of fairings
 - <a href="https://spacenews.com/tiangong-space-station-could-alter-perceptions-of-chinas-space-program-report-says/" >🔗</a> **[SpaceNews]** Tiangong space station could alter perceptions of China’s space program, report says
-- <a href="https://spacenews.com/lawsuit-claims-amazons-board-erred-in-awarding-kuiper-launch-contracts-to-blue-origin-and-others/" >🔗</a> **[SpaceNews]** Lawsuit claims Amazon’s board erred in awarding Kuiper launch contracts to Blue Origin and others
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T130826">2023-09-01 13:08:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T133200">2023-09-01 13:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
