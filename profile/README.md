@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tiangong-space-station-could-alter-perceptions-of-chinas-space-program-report-says/" >🔗</a> **[SpaceNews]** Tiangong space station could alter perceptions of China’s space program, report says
 - <a href="https://spacenews.com/lawsuit-claims-amazons-board-erred-in-awarding-kuiper-launch-contracts-to-blue-origin-and-others/" >🔗</a> **[SpaceNews]** Lawsuit claims Amazon’s board erred in awarding Kuiper launch contracts to Blue Origin and others
 - <a href="https://www.teslarati.com/spacex-9th-launch-august-2023/" >🔗</a> **[Teslarati]** SpaceX set for 9th launch of the month
 - <a href="https://www.teslarati.com/firefly-aerospace-victus-nox-mission/" >🔗</a> **[Teslarati]** Firefly Aerospace announces they are ready for the Victus Nox mission
 - <a href="https://www.cnbc.com/2023/08/31/investing-in-space-why-the-pentagon-is-spending-billions-on-a-satellite-constellation.html" >🔗</a> **[CNBC]** Investing in Space: Why the Pentagon is spending billions to build its own satellite constellation
-- <a href="https://www.nasaspaceflight.com/2023/08/ship-25-awaits-rollout-for-full-stack-of-starship-flight-2/" >🔗</a> **[NASASpaceflight]** Ship 25 awaits rollout for full-stack of Starship Flight 2
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T103228">2023-09-01 10:32:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T110439">2023-09-01 11:04:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
