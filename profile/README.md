@@ -93,11 +93,11 @@ Originally the mission design started as a small LEO satellite carrying only a c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ball-northrop-grumman-orbital-micro-systems-and-spire-claim-noaa-contracts/" >🔗</a> **[SpaceNews]** Ball, Northrop Grumman, Orbital Micro Systems and Spire claim NOAA contracts
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission-optical-communications-demo" >🔗</a> **[NASA]** NASA to Discuss Psyche Asteroid Mission, Optical Communications Demo
 - <a href="https://spacepolicyonline.com/news/sbag-wants-reconnaissance-mission-to-apophis-before-it-reaches-earth/" >🔗</a> **[SpacePolicyOnline.com]** SBAG Wants Reconnaissance Mission to Apophis Before It Reaches Earth
 - <a href="https://spacenews.com/space-tango-names-new-ceo/" >🔗</a> **[SpaceNews]** Space Tango names new CEO
 - <a href="https://www.cnbc.com/2023/09/01/bezos-snubbed-musk-spacex-satellite-contract-lawsuit.html" >🔗</a> **[CNBC]** Bezos snubbed Musk’s SpaceX over blockbuster satellite launch contract, Amazon shareholder says
-- <a href="https://arstechnica.com/space/2023/09/pension-fund-sues-jeff-bezos-and-amazon-for-not-using-falcon-9-rockets/" >🔗</a> **[Arstechnica]** Pension fund sues Jeff Bezos and Amazon for not using Falcon 9 rockets
-- <a href="https://europeanspaceflight.com/what-is-the-esa-astronaut-policy/" >🔗</a> **[European Spaceflight]** What is the ESA Astronaut Policy?
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Originally the mission design started as a small LEO satellite carrying only a c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T173142">2023-09-01 17:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T180726">2023-09-01 18:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
