@@ -18,33 +18,38 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | SDA Tranche 0B**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T142600">2023-09-01 14:26:00 UTC</a>.  Until
-then, this pad will have been used for 117
-out of 726 launches from this location. The launch status is currently
+**PSLV-XL | Aditya-L1**. It is scheduled to be launched by *Indian Space Research Organization*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Satish Dhawan Space Centre, India*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T062000">2023-09-02 06:20:00 UTC</a>.  Until
+then, this pad will have been used for 56
+out of 90 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+*Heliophysics* and the payload will be injected
+into *a Heliocentric L1
+(L1-point)*.
 <br>
 <blockquote>
-  Second mission launched by the Space Development Agency for the Tranche 0 Transport Layer.
+  Aditya L1 is an Indian solar observation satellite to be placed at the Sun-Earth Lagrangian point L1.
+
+The major scientific objectives of the mission are to achieve a fundamental understanding of the physical processes that heat the solar corona, accelerate the solar wind and produce Coronal Mass Ejections (CMEs).
+
+Originally the mission design started as a small LEO satellite carrying only a coronagraph as a payload. In order to get the best science from the Sun, continuous viewing of the Sun is preferred. A Satellite placed in the halo orbit around the L1 Lagrangian point of the Sun-Earth system has the major advantage of continuously viewing the Sun without any occultation/ eclipses.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=13.733,80.235" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T062000">2023-09-02 06:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Aditya-L1&location=Satish Dhawan Space Centre, India&dates=20230902T062000Z%2F20230902T062000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Aditya-L1** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230902T142500">2023-09-02 14:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 0B&location=Vandenberg SFB, CA, USA&dates=20230902T142500Z%2F20230902T142500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 0B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T230700">2023-09-03 23:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-12&location=Kennedy Space Center, FL, USA&dates=20230903T230700Z%2F20230904T033700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-12** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T092500">2023-09-05 09:25:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | 4x Tianqi&location=Sea Launch&dates=20230905T092500Z%2F20230905T100200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | 4x Tianqi** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T000000">2023-09-08 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 03&location=Air launch to Suborbital flight&dates=20230908T000000Z%2F20230908T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 03** from Air launch to Suborbital flight.
@@ -88,23 +93,20 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/what-is-the-esa-astronaut-policy/" >🔗</a> **[European Spaceflight]** What is the ESA Astronaut Policy?
 - <a href="http://www.nasa.gov/press-release/georgia-texas-students-to-hear-from-nasa-astronauts-aboard-station" >🔗</a> **[NASA]** Georgia, Texas Students to Hear from NASA Astronauts Aboard Station
 - <a href="https://spacenews.com/globalstar-picks-spacex-to-refresh-leo-constellation/" >🔗</a> **[SpaceNews]** Globalstar picks SpaceX to refresh LEO constellation
 - <a href="https://spacenews.com/intuitive-machines-raises-20-million/" >🔗</a> **[SpaceNews]** Intuitive Machines raises $20 million
 - <a href="https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/" >🔗</a> **[Arstechnica]** Rocket Report: Firefly enters “hot standby phase”; SpaceX’s superfluity of fairings
-- <a href="https://spacenews.com/tiangong-space-station-could-alter-perceptions-of-chinas-space-program-report-says/" >🔗</a> **[SpaceNews]** Tiangong space station could alter perceptions of China’s space program, report says
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/space-development-agency-planning-to-launch-13-satellites-in-late-june/" >🔗</a> **[SpaceNews]** Space Development Agency to launch 13 satellites in late June
-- <a href="https://www.teslarati.com/spacex-launch-military-communications-satellites/" >🔗</a> **[Teslarati]** SpaceX to launch military communications satellites
-- <a href="https://www.nasaspaceflight.com/2023/08/tranche-0-flight-2/" >🔗</a> **[NASASpaceflight]** SpaceX trying again with Space Development Agency’s Tranche 0 Friday, launches Starlink mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T143148">2023-09-01 14:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230901T150632">2023-09-01 15:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
