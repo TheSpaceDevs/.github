@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 3-9, 2023
 - <a href="https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/" >🔗</a> **[NASASpaceflight]** SpaceX crew to return to Earth after six-month ISS Stay
 - <a href="https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/" >🔗</a> **[NASASpaceflight]** Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV
 - <a href="http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-6-prepares-for-splashdown" >🔗</a> **[NASA]** Coverage Set as NASA’s SpaceX Crew-6 Prepares for Splashdown
-- <a href="https://spacenews.com/spacex-launches-13-satellites-for-u-s-space-development-agency/" >🔗</a> **[SpaceNews]** SpaceX launches 13 satellites for U.S. Space Development Agency
-- <a href="https://europeanspaceflight.com/esa-complete-full-duration-hot-fire-test-of-ariane-6-second-stage/" >🔗</a> **[European Spaceflight]** ESA Complete Full-Duration Hot Fire Test of Ariane 6 Second Stage
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T213145">2023-09-03 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230903T220438">2023-09-03 22:04:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
