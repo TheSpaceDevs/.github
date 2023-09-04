@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-6-returns-to-earth/" >🔗</a> **[SpaceNews]** Crew-6 returns to Earth
+- <a href="https://spacenews.com/indias-moon-lander-set-for-nighttime-as-solar-mission-soars/" >🔗</a> **[SpaceNews]** India’s moon lander set for nighttime as solar mission soars
 - <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-6-safely-returns-to-earth-near-florida-coast" >🔗</a> **[NASA]** NASA’s SpaceX Crew-6 Safely Returns to Earth Near Florida Coast
 - <a href="https://spacepolicyonline.com/news/crew-6-home-after-six-months-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Crew-6 Home After Six Months in Space
 - <a href="https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 3-9, 2023
-- <a href="https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/" >🔗</a> **[NASASpaceflight]** SpaceX Crew-6 returns to Earth after six-month ISS Stay
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T113147">2023-09-04 11:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T121147">2023-09-04 12:11:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
