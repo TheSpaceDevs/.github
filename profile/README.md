@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/09/solar-orbiter-picoflare/" >🔗</a> **[NASASpaceflight]** Solar Orbiter discovers plasma jets that could fuel the production of solar wind
 - <a href="https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/" >🔗</a> **[SpaceNews]** ESA to set target for first Ariane 6 launch after upcoming tests
 - <a href="https://spacenews.com/dod-satellites-in-low-earth-orbit-promise-more-connectivity-for-military-users/" >🔗</a> **[SpaceNews]** DoD satellites in low Earth orbit promise more connectivity for military users
 - <a href="https://spacenews.com/chinese-scientist-proposes-solar-system-wide-resource-utilization-roadmap/" >🔗</a> **[SpaceNews]** Chinese scientist proposes solar system-wide resource utilization roadmap
 - <a href="https://spacenews.com/crew-6-returns-to-earth/" >🔗</a> **[SpaceNews]** Crew-6 returns to Earth
-- <a href="https://spacenews.com/indias-moon-lander-set-for-nighttime-as-solar-mission-soars/" >🔗</a> **[SpaceNews]** India’s moon lander set for nighttime as solar mission soars
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T193157">2023-09-04 19:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T200625">2023-09-04 20:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
