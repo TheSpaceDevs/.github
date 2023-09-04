@@ -91,7 +91,7 @@ into *an Unknown Orbit
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2023/09/launch-roundup-03092023/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX surpass 2022’s launch count with Starlink Group 6-12; China to launch three missions
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-3-9-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 3-9, 2023
-- <a href="https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/" >🔗</a> **[NASASpaceflight]** SpaceX crew to return to Earth after six-month ISS Stay
+- <a href="https://www.nasaspaceflight.com/2023/09/crew-6-splashdown/" >🔗</a> **[NASASpaceflight]** SpaceX Crew-6 returns to Earth after six-month ISS Stay
 - <a href="https://www.nasaspaceflight.com/2023/09/lm-nasa-orion-artemis-iii-iv/" >🔗</a> **[NASASpaceflight]** Lockheed Martin, NASA lining up next Orion spacecraft for Artemis III and IV
 - <a href="http://www.nasa.gov/press-release/coverage-set-as-nasa-s-spacex-crew-6-prepares-for-splashdown" >🔗</a> **[NASA]** Coverage Set as NASA’s SpaceX Crew-6 Prepares for Splashdown
 
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T043143">2023-09-04 04:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230904T050628">2023-09-04 05:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
