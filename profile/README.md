@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/india-says-good-night-to-chandrayaan-3/" >🔗</a> **[SpacePolicyOnline.com]** India Says Good Night To Chandrayaan-3
+- <a href="https://www.teslarati.com/nasa-prepares-osiris-rex-asteroid-sample-return/" >🔗</a> **[Teslarati]** NASA prepares for the return of the Osiris-Rex asteroid sample mission
 - <a href="https://www.teslarati.com/weekly-space-recap-august-28-september-3/" >🔗</a> **[Teslarati]** Weekly Space Recap: August 28 – September 3
 - <a href="https://arstechnica.com/space/2023/09/no-firm-date-on-ariane-6s-debut-and-no-public-talk-on-prices-either/" >🔗</a> **[Arstechnica]** European official on Ariane 6 debut: “Please allow me to not speculate at this time”
 - <a href="https://spacenews.com/breaking-the-celestial-ceiling/" >🔗</a> **[SpaceNews]** Cracking the celestial ceiling
-- <a href="https://www.nasaspaceflight.com/2023/09/nasa-ml-1-artemis-ii-ml-2-construction/" >🔗</a> **[NASASpaceflight]** NASA modifies ML-1 for Artemis II, ML-2 under construction for SLS Block IB
-- <a href="https://spacenews.com/chinese-ceres-1-rocket-reaches-orbit-with-first-sea-launch/" >🔗</a> **[SpaceNews]** Chinese Ceres-1 rocket reaches orbit with first sea launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T203157">2023-09-05 20:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T210500">2023-09-05 21:05:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
