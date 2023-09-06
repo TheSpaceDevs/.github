@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/" >🔗</a> **[SpaceNews]** Eutelsat invests in Europe-focused space technology venture fund
 - <a href="https://spacenews.com/ariane-6-completes-short-duration-engine-test/" >🔗</a> **[SpaceNews]** Ariane 6 completes short-duration engine test
 - <a href="https://spacenews.com/terran-orbital-unveils-seven-standard-satellite-buses/" >🔗</a> **[SpaceNews]** Terran Orbital unveils seven standard satellite buses
 - <a href="https://spacenews.com/chandrayaan-3-success-to-boost-indias-space-ambitions-global-standing/" >🔗</a> **[SpaceNews]** Chandrayaan-3 success to boost India’s space ambitions, global standing
 - <a href="https://spacenews.com/project-kuiper-partners-with-vodafone-in-europe-and-africa/" >🔗</a> **[SpaceNews]** Project Kuiper partners with Vodafone in Europe and Africa
-- <a href="https://spacenews.com/firefly-selected-to-launch-three-l3harris-satellites/" >🔗</a> **[SpaceNews]** Firefly selected to launch three L3Harris satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T130936">2023-09-06 13:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T133147">2023-09-06 13:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
