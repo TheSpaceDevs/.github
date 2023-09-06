@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency solicits bids for 54 missile-tracking satellites
 - <a href="https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/" >🔗</a> **[Arstechnica]** Starship is stacked and ready to make its second launch attempt
 - <a href="https://europeanspaceflight.com/ariane-6-core-stage-breathes-fire-for-the-first-time/" >🔗</a> **[European Spaceflight]** Ariane 6 Core Stage Breathes Fire for the First Time
 - <a href="https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/" >🔗</a> **[SpaceNews]** Eutelsat invests in Europe-focused space technology venture fund
 - <a href="https://spacenews.com/ariane-6-completes-short-duration-engine-test/" >🔗</a> **[SpaceNews]** Ariane 6 completes short-duration engine test
-- <a href="https://spacenews.com/terran-orbital-unveils-seven-standard-satellite-buses/" >🔗</a> **[SpaceNews]** Terran Orbital unveils seven standard satellite buses
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T163520">2023-09-06 16:35:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T170501">2023-09-06 17:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
