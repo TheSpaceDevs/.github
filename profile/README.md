@@ -91,11 +91,11 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/galactic-energys-ceres-1-reaches-orbit-on-first-sea-launch-mission" >🔗</a> **[The Launch Pad]** Galactic Energy's Ceres-1 Reaches Orbit On First Sea Launch Mission
+- <a href="https://spacepolicyonline.com/news/ariane-6-one-step-closer-but-still-no-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Ariane 6 One Step Closer, But Still No Launch Date
+- <a href="https://spacenews.com/pentagons-new-plan-to-counter-china-includes-swarms-of-smart-satellites/" >🔗</a> **[SpaceNews]** Pentagon’s new plan to counter China includes swarms of smart satellites
 - <a href="https://tlpnetwork.com/news/2023/09/sda-seeks-bids-for-54-hypersonic-missile-tracking-satellites" >🔗</a> **[The Launch Pad]** SDA Seeks Bids For 54 Hypersonic Missile-Tracking Satellites
 - <a href="https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement" >🔗</a> **[The Launch Pad]** US Space Force Unveils New Mission Statement
-- <a href="https://mars.nasa.gov/news/9474/" >🔗</a> **[NASA]** NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission
-- <a href="https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/" >🔗</a> **[SpaceNews]** MAG Aerospace and SAS partner for Space Force data-analytics contract
-- <a href="https://www.nasaspaceflight.com/2023/09/s25b9firststack/" >🔗</a> **[NASASpaceflight]** SpaceX stacks Ship 25 and Booster 9, prepares for flight
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T223156">2023-09-06 22:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T230601">2023-09-06 23:06:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
