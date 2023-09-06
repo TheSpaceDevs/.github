@@ -91,11 +91,11 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/sda-seeks-bids-for-54-hypersonic-missile-tracking-satellites" >🔗</a> **[The Launch Pad]** SDA Seeks Bids For 54 Hypersonic Missile-Tracking Satellites
 - <a href="https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement" >🔗</a> **[The Launch Pad]** US Space Force Unveils New Mission Statement
 - <a href="https://mars.nasa.gov/news/9474/" >🔗</a> **[NASA]** NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission
 - <a href="https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/" >🔗</a> **[SpaceNews]** MAG Aerospace and SAS partner for Space Force data-analytics contract
 - <a href="https://www.nasaspaceflight.com/2023/09/s25b9firststack/" >🔗</a> **[NASASpaceflight]** SpaceX stacks Ship 25 and Booster 9, prepares for flight
-- <a href="https://spacenews.com/space-force-rewrites-mission-statement/" >🔗</a> **[SpaceNews]** Space Force rewrites mission statement
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T213144">2023-09-06 21:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T220524">2023-09-06 22:05:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
