@@ -89,11 +89,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chandrayaan-3-success-to-boost-indias-space-ambitions-global-standing/" >🔗</a> **[SpaceNews]** Chandrayaan-3 success to boost India’s space ambitions, global standing
 - <a href="https://spacenews.com/project-kuiper-partners-with-vodafone-in-europe-and-africa/" >🔗</a> **[SpaceNews]** Project Kuiper partners with Vodafone in Europe and Africa
 - <a href="https://spacenews.com/firefly-selected-to-launch-three-l3harris-satellites/" >🔗</a> **[SpaceNews]** Firefly selected to launch three L3Harris satellites
 - <a href="https://spacepolicyonline.com/news/india-says-good-night-to-chandrayaan-3/" >🔗</a> **[SpacePolicyOnline.com]** India Says Good Night To Chandrayaan-3
 - <a href="https://www.teslarati.com/nasa-prepares-osiris-rex-asteroid-sample-return/" >🔗</a> **[Teslarati]** NASA prepares for the return of the Osiris-Rex asteroid sample mission
-- <a href="https://www.teslarati.com/weekly-space-recap-august-28-september-3/" >🔗</a> **[Teslarati]** Weekly Space Recap: August 28 – September 3
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230905T233139">2023-09-05 23:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T002953">2023-09-06 00:29:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
