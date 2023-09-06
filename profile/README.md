@@ -44,7 +44,6 @@ into *an Unknown Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180600">2023-09-06 18:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20230906T180600Z%2F20230906T182900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234211">2023-09-06 23:42:11 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | XRISM &amp; SLIM&location=Tanegashima Space Center, Japan&dates=20230906T234211Z%2F20230906T234211Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | XRISM & SLIM** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T140000">2023-09-08 14:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 03&location=Air launch to Suborbital flight&dates=20230908T140000Z%2F20230908T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 03** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T234000">2023-09-08 23:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-14&location=Cape Canaveral, FL, USA&dates=20230908T234000Z%2F20230909T033100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-14** from Cape Canaveral, FL, USA.
@@ -89,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-rewrites-mission-statement/" >🔗</a> **[SpaceNews]** Space Force rewrites mission statement
+- <a href="https://spacenews.com/stand-up-space-greta/" >🔗</a> **[SpaceNews]** Stand up, Space Greta
+- <a href="https://tlpnetwork.com/news/2023/09/starship-ift2-stacked" >🔗</a> **[The Launch Pad]** SpaceX Almost Ready For Second Starship Launch, Integrates Vehicle
 - <a href="https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency solicits bids for 54 missile-tracking satellites
 - <a href="https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/" >🔗</a> **[Arstechnica]** Starship is stacked and ready to make its second launch attempt
-- <a href="https://europeanspaceflight.com/ariane-6-core-stage-breathes-fire-for-the-first-time/" >🔗</a> **[European Spaceflight]** Ariane 6 Core Stage Breathes Fire for the First Time
-- <a href="https://spacenews.com/eutelsat-invests-in-europe-focused-space-technology-venture-fund/" >🔗</a> **[SpaceNews]** Eutelsat invests in Europe-focused space technology venture fund
-- <a href="https://spacenews.com/ariane-6-completes-short-duration-engine-test/" >🔗</a> **[SpaceNews]** Ariane 6 completes short-duration engine test
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T173147">2023-09-06 17:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180813">2023-09-06 18:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
