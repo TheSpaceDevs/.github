@@ -91,23 +91,23 @@ Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a l
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/us-space-force-unveils-new-mission-statement" >🔗</a> **[The Launch Pad]** US Space Force Unveils New Mission Statement
 - <a href="https://mars.nasa.gov/news/9474/" >🔗</a> **[NASA]** NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission
 - <a href="https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/" >🔗</a> **[SpaceNews]** MAG Aerospace and SAS partner for Space Force data-analytics contract
 - <a href="https://www.nasaspaceflight.com/2023/09/s25b9firststack/" >🔗</a> **[NASASpaceflight]** SpaceX stacks Ship 25 and Booster 9, prepares for flight
 - <a href="https://spacenews.com/space-force-rewrites-mission-statement/" >🔗</a> **[SpaceNews]** Space Force rewrites mission statement
-- <a href="https://spacenews.com/stand-up-space-greta/" >🔗</a> **[SpaceNews]** Stand up, Space Greta
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacenews.com/japan-delays-h2a-launch-in-the-wake-of-h3-failure/" >🔗</a> **[SpaceNews]** Japan delays H2A launch in the wake of H3 failure
 - <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
-- <a href="https://www.nasaspaceflight.com/2023/08/xrism-slim/" >🔗</a> **[NASASpaceflight]** Japanese H-IIA scrubs launch of X-ray telescope and lunar lander
+- <a href="https://www.nasaspaceflight.com/2023/08/xrism-slim/" >🔗</a> **[NASASpaceflight]** Japanese H-IIA set for second launch attempt of X-ray telescope and lunar lander
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T203141">2023-09-06 20:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T210458">2023-09-06 21:04:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
