@@ -18,27 +18,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 4C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T180600">2023-09-06 18:06:00 UTC</a>.  Until
-then, this pad will have been used for 105
-out of 204 launches from this location. The launch status is currently
+**H-IIA 202 | XRISM & SLIM**. It is scheduled to be launched by *Japan Aerospace Exploration Agency*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex LP-1</a>, Tanegashima Space Center, Japan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T234211">2023-09-06 23:42:11 UTC</a>.  Until
+then, this pad will have been used for 52
+out of 86 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Astrophysics* and the payload will be injected
+into *a Lunar Orbit
+(LO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  X-Ray Imaging and Spectroscopy Mission (XRISM), formerly the X-Ray Astronomy Recovery Mission (XARM), is a replacement for the Hitomi satellite that malfunctioned few weeks after the launch. 
+
+Smart Lander for Investigating Moon (SLIM) is a lunar probe that will target a landing on a small crater in Mare Nectaris, an area located near the moon's equator on the side facing Earth.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_4C" >
+  <a href="https://en.wikipedia.org/wiki/H-IIA" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
+  <a href="https://www.google.com/maps?q=30.400813,130.977748" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +55,7 @@ into *an Unknown Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200600">2023-09-26 20:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20230926T200600Z%2F20230926T202900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | NorthStar 1&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | NorthStar 1** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Moon God Awakens (QPS-SAR-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Moon God Awakens (QPS-SAR-5)** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-16&location=Cape Canaveral, FL, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-16** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,20 +91,23 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mag-aerospace-and-sas-partner-for-space-force-data-analytics-contract/" >🔗</a> **[SpaceNews]** MAG Aerospace and SAS partner for Space Force data-analytics contract
+- <a href="https://www.nasaspaceflight.com/2023/09/s25b9firststack/" >🔗</a> **[NASASpaceflight]** SpaceX stacks Ship 25 and Booster 9, prepares for flight
 - <a href="https://spacenews.com/space-force-rewrites-mission-statement/" >🔗</a> **[SpaceNews]** Space Force rewrites mission statement
 - <a href="https://spacenews.com/stand-up-space-greta/" >🔗</a> **[SpaceNews]** Stand up, Space Greta
 - <a href="https://tlpnetwork.com/news/2023/09/starship-ift2-stacked" >🔗</a> **[The Launch Pad]** SpaceX Almost Ready For Second Starship Launch, Integrates Vehicle
-- <a href="https://spacenews.com/space-development-agency-solicits-bids-for-54-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency solicits bids for 54 missile-tracking satellites
-- <a href="https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/" >🔗</a> **[Arstechnica]** Starship is stacked and ready to make its second launch attempt
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/japan-delays-h2a-launch-in-the-wake-of-h3-failure/" >🔗</a> **[SpaceNews]** Japan delays H2A launch in the wake of H3 failure
+- <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
+- <a href="https://www.nasaspaceflight.com/2023/08/xrism-slim/" >🔗</a> **[NASASpaceflight]** Japanese H-IIA scrubs launch of X-ray telescope and lunar lander
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T183221">2023-09-06 18:32:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230906T190406">2023-09-06 19:04:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
