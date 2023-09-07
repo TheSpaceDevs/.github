@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/" >🔗</a> **[SpaceNews]** Japan launches moon lander and X-ray observatory
 - <a href="https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/" >🔗</a> **[SpaceNews]** SpaceChain pivots to combine AI with Earth imagery
 - <a href="https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/" >🔗</a> **[SpaceNews]** Psyche asteroid mission set for October launch
 - <a href="https://tlpnetwork.com/news/2023/09/l3harris-selects-firefly-to-launch-us-national-security-satellites" >🔗</a> **[The Launch Pad]** L3Harris Selects Firefly To Launch US National Security Satellites
 - <a href="https://tlpnetwork.com/news/2023/09/galactic-energys-ceres-1-reaches-orbit-on-first-sea-launch-mission" >🔗</a> **[The Launch Pad]** Galactic Energy's Ceres-1 Reaches Orbit On First Sea Launch Mission
-- <a href="https://spacepolicyonline.com/news/ariane-6-one-step-closer-but-still-no-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Ariane 6 One Step Closer, But Still No Launch Date
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T002940">2023-09-07 00:29:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T013131">2023-09-07 01:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
