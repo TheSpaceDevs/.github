@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/" >🔗</a> **[SpaceNews]** Redwire demonstrates bioprinting human tissue in space
 - <a href="https://spacenews.com/terran-orbital-announces-plan-to-speed-up-satellite-production/" >🔗</a> **[SpaceNews]** Terran Orbital announces plan to speed up satellite production
 - <a href="https://spacepolicyonline.com/news/japan-launches-x-ray-telescope-and-lunar-lander/" >🔗</a> **[SpacePolicyOnline.com]** Japan Launches X-Ray Telescope and Lunar Lander
 - <a href="https://spacenews.com/japan-launches-moon-lander-and-x-ray-observatory/" >🔗</a> **[SpaceNews]** Japan launches moon lander and X-ray observatory
 - <a href="https://spacenews.com/spacechain-pivots-to-combine-ai-with-earth-imagery/" >🔗</a> **[SpaceNews]** SpaceChain pivots to combine AI with Earth imagery
-- <a href="https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/" >🔗</a> **[SpaceNews]** Psyche asteroid mission set for October launch
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T113158">2023-09-07 11:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230907T121142">2023-09-07 12:11:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
