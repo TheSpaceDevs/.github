@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-future-of-human-spaceflight-safety-is-in-the-hands-of-congress/" >🔗</a> **[SpaceNews]** The future of human spaceflight safety is in the hands of Congress
 - <a href="https://spacenews.com/gao-report-calls-for-more-transparency-on-sls-costs/" >🔗</a> **[SpaceNews]** GAO report calls for more transparency on SLS costs
 - <a href="https://spacenews.com/eu-and-uk-reach-deal-on-copernicus/" >🔗</a> **[SpaceNews]** EU and UK reach deal on Copernicus
 - <a href="https://spacenews.com/new-report-recommends-space-force-change-how-it-buys-commercial-satellite-services/" >🔗</a> **[SpaceNews]** New report recommends Space Force change how it buys commercial satellite services
 - <a href="https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/" >🔗</a> **[Arstechnica]** NASA finally admits what everyone already knows: SLS is unaffordable
-- <a href="https://spacenews.com/south-africa-joins-chinas-moon-base-project/" >🔗</a> **[SpaceNews]** South Africa joins China’s moon base project
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T130819">2023-09-08 13:08:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T133145">2023-09-08 13:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
