@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease" >🔗</a> **[The Launch Pad]** Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease
+- <a href="https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base" >🔗</a> **[The Launch Pad]** South Africa Formally Partners With China On Lunar Base
+- <a href="https://spacepolicyonline.com/news/faa-starship-mishap-investigation-complete-but-no-flight-approval-yet/" >🔗</a> **[SpacePolicyOnline.com]** FAA: Starship Mishap Investigation Complete, But No Flight Approval Yet
 - <a href="https://tlpnetwork.com/news/2023/09/redwire-successfully-3d-prints-human-tissue-on-iss-for-first-time" >🔗</a> **[The Launch Pad]** BREAKING! Redwire Successfully 3D Prints Human Tissue in Microgravity Aboard the ISS & Returns It To Earth
 - <a href="https://spacenews.com/virgin-galactic-completes-third-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic completes third commercial SpaceShipTwo flight
-- <a href="https://spacenews.com/faa-closes-starship-mishap-investigation-directs-63-corrective-actions-for-spacex/" >🔗</a> **[SpaceNews]** FAA closes Starship mishap investigation, directs 63 corrective actions for SpaceX
-- <a href="https://spacenews.com/rubicon-wins-nasa-and-afrl-ascent-thruster-contracts/" >🔗</a> **[SpaceNews]** Rubicon wins NASA and AFRL ASCENT thruster contracts
-- <a href="http://www.nasa.gov/press-release/nasa-international-astronauts-to-speak-with-students-in-two-states" >🔗</a> **[NASA]** NASA, International Astronauts to Speak with Students in Two States
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T223138">2023-09-08 22:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T230520">2023-09-08 23:05:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
