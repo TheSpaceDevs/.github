@@ -90,10 +90,10 @@ into *a Geostationary Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/viasat-researching-more-portable-satcoms-terminals-for-dismounted-soldiers/" >🔗</a> **[SpaceNews]** Viasat researching more portable satcoms terminals for dismounted soldiers
+- <a href="https://europeanspaceflight.com/avio-financials-boosted-by-eu-covid-recovery-funds-and-missile-contracts/" >🔗</a> **[European Spaceflight]** Avio Financials Boosted by EU Covid Recovery Funds and Missile Contracts
 - <a href="https://tlpnetwork.com/news/2023/09/virgin-galactic-galactic-03-mission-complete-mystery-crew-revealed" >🔗</a> **[The Launch Pad]** Virgin Galactic's Galactic 03 Mission Complete, Mystery Crew Revealed
 - <a href="https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease" >🔗</a> **[The Launch Pad]** Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease
 - <a href="https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base" >🔗</a> **[The Launch Pad]** South Africa Formally Partners With China On Lunar Base
-- <a href="https://spacepolicyonline.com/news/faa-starship-mishap-investigation-complete-but-no-flight-approval-yet/" >🔗</a> **[SpacePolicyOnline.com]** FAA: Starship Mishap Investigation Complete, But No Flight Approval Yet
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Geostationary Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T053138">2023-09-09 05:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T060739">2023-09-09 06:07:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
