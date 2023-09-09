@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T235610">2023-09-08 23:56:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-14&location=Cape Canaveral, FL, USA&dates=20230908T235610Z%2F20230909T033030Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-14** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T125100">2023-09-09 12:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | NROL-107 (Silent Barker)&location=Cape Canaveral, FL, USA&dates=20230909T125100Z%2F20230909T143900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | NROL-107 (Silent Barker)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230910T042100">2023-09-10 04:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20230910T042100Z%2F20230910T045900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T060000">2023-09-12 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-2&location=Vandenberg SFB, CA, USA&dates=20230912T060000Z%2F20230912T110700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-2** from Vandenberg SFB, CA, USA.
@@ -89,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/virgin-galactic-galactic-03-mission-complete-mystery-crew-revealed" >🔗</a> **[The Launch Pad]** Virgin Galactic's Galactic 03 Mission Complete, Mystery Crew Revealed
 - <a href="https://tlpnetwork.com/news/2023/09/relativity-space-expands-nasa-stennis-ops-with-historic-test-stand-lease" >🔗</a> **[The Launch Pad]** Relativity Space Expands NASA Stennis Ops With Historic Test Stand Lease
 - <a href="https://tlpnetwork.com/news/2023/09/south-africa-formally-partners-china-on-lunar-base" >🔗</a> **[The Launch Pad]** South Africa Formally Partners With China On Lunar Base
 - <a href="https://spacepolicyonline.com/news/faa-starship-mishap-investigation-complete-but-no-flight-approval-yet/" >🔗</a> **[SpacePolicyOnline.com]** FAA: Starship Mishap Investigation Complete, But No Flight Approval Yet
 - <a href="https://tlpnetwork.com/news/2023/09/redwire-successfully-3d-prints-human-tissue-on-iss-for-first-time" >🔗</a> **[The Launch Pad]** BREAKING! Redwire Successfully 3D Prints Human Tissue in Microgravity Aboard the ISS & Returns It To Earth
-- <a href="https://spacenews.com/virgin-galactic-completes-third-commercial-spaceshiptwo-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic completes third commercial SpaceShipTwo flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230908T233150">2023-09-08 23:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230909T002910">2023-09-09 00:29:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
