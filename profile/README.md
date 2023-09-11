@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/itu-emphasizes-importance-of-space-sustainability/" >🔗</a> **[SpaceNews]** ITU emphasizes importance of space sustainability
 - <a href="https://spacenews.com/geost-payloads-selected-for-space-development-agency-satellites/" >🔗</a> **[SpaceNews]** Geost payloads selected for Space Development Agency satellites
 - <a href="https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html" >🔗</a> **[CNBC]** U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says
 - <a href="https://spacenews.com/former-white-house-space-policy-official-audrey-schaffer-joins-slingshot-aerospace/" >🔗</a> **[SpaceNews]** Former White House space policy official Audrey Schaffer joins Slingshot Aerospace
 - <a href="https://spacenews.com/former-airbus-executive-chris-emerson-named-chairman-of-all-space/" >🔗</a> **[SpaceNews]** Former Airbus executive Chris Emerson named chairman of All.Space
-- <a href="https://spacenews.com/paige-mccullough-promoted-to-vice-president-of-business-development-at-spacenews/" >🔗</a> **[SpaceNews]** Paige McCullough Promoted to Vice President of Business Development at SpaceNews
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T133153">2023-09-11 13:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T140618">2023-09-11 14:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
