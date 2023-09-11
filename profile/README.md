@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/techstars-welcomes-12-startups-to-2023-space-accelerator/" >🔗</a> **[SpaceNews]** Techstars welcomes 12 startups to 2023 Space Accelerator
+- <a href="https://tlpnetwork.com/news/2023/09/jwst-discovers-methane-co2-on-k2-18b-possible-dms-detection" >🔗</a> **[The Launch Pad]** BREAKING! JWST Discovers Methane, CO2 On on K2-18b, Possible DMS Detection
 - <a href="https://www.cnbc.com/2023/09/11/telesat-buys-spacex-launches-for-lightspeed-internet-satellites.html" >🔗</a> **[CNBC]** Telesat buys SpaceX launches for Lightspeed internet satellites
 - <a href="https://europeanspaceflight.com/has-avio-begun-developing-a-second-gen-space-rider-vehicle/" >🔗</a> **[European Spaceflight]** Has Avio Begun Developing a Second-Gen Space Rider Vehicle?
 - <a href="https://spacenews.com/itu-emphasizes-importance-of-space-sustainability/" >🔗</a> **[SpaceNews]** ITU emphasizes importance of space sustainability
-- <a href="https://spacenews.com/geost-payloads-selected-for-space-development-agency-satellites/" >🔗</a> **[SpaceNews]** Geost payloads selected for Space Development Agency satellites
-- <a href="https://www.cnbc.com/2023/09/11/us-export-import-bank-working-through-5-billion-space-pipeline.html" >🔗</a> **[CNBC]** U.S. export credit agency is working through $5 billion pipeline of space financing, vice chair says
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T153148">2023-09-11 15:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T160758">2023-09-11 16:07:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
