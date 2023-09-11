@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/paige-mccullough-promoted-to-vice-president-of-business-development-at-spacenews/" >🔗</a> **[SpaceNews]** Paige McCullough Promoted to Vice President of Business Development at SpaceNews
 - <a href="https://spacenews.com/open-cosmos-raises-50-million-to-expand-earth-observation-satellite-business/" >🔗</a> **[SpaceNews]** Open Cosmos raises $50 million to expand Earth observation satellite business
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-10-16-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 10-16, 2023
 - <a href="https://spacenews.com/ulas-atlas-5-launches-national-reconnaissance-office-mission/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches National Reconnaissance Office mission
 - <a href="https://www.nasaspaceflight.com/2023/09/ula-nrol-107/" >🔗</a> **[NASASpaceflight]** ULA conducts NROL-107 launch, last Atlas NRO mission
-- <a href="https://www.nasaspaceflight.com/2023/09/swift-j0230/" >🔗</a> **[NASASpaceflight]** Using new data analysis tool on Swift, scientists discover black hole snacking on a star
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T043156">2023-09-11 04:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T050619">2023-09-11 05:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
