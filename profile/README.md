@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-signs-multi-launch-spacex-deal-covering-all-lightspeed-satellites/" >🔗</a> **[SpaceNews]** Telesat signs multi-launch SpaceX deal covering all Lightspeed satellites
 - <a href="https://spacenews.com/telesat-qa-getting-back-to-lightspeed/" >🔗</a> **[SpaceNews]** Telesat Q&A | Getting back to Lightspeed
 - <a href="https://spacenews.com/techstars-welcomes-12-startups-to-2023-space-accelerator/" >🔗</a> **[SpaceNews]** Techstars welcomes 12 startups to 2023 Space Accelerator
 - <a href="https://tlpnetwork.com/news/2023/09/jwst-discovers-methane-co2-on-k2-18b-possible-dms-detection" >🔗</a> **[The Launch Pad]** BREAKING! JWST Discovers Methane, CO2 On on K2-18b, Possible DMS Detection
 - <a href="https://www.cnbc.com/2023/09/11/telesat-buys-spacex-launches-for-lightspeed-internet-satellites.html" >🔗</a> **[CNBC]** Telesat buys SpaceX launches for Lightspeed internet satellites
-- <a href="https://europeanspaceflight.com/has-avio-begun-developing-a-second-gen-space-rider-vehicle/" >🔗</a> **[European Spaceflight]** Has Avio Begun Developing a Second-Gen Space Rider Vehicle?
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T173136">2023-09-11 17:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T180819">2023-09-11 18:08:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
