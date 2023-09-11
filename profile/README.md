@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ball-wins-489-6-million-contract-to-deliver-next-generation-weather-satellite-sounder/" >🔗</a> **[SpaceNews]** Ball wins $489.6 million contract to deliver next-generation weather satellite sounder
+- <a href="https://spacenews.com/direct-to-device-a-100-billion-question/" >🔗</a> **[SpaceNews]** Direct-to-device: a $100-billion question
+- <a href="http://www.nasa.gov/press-release/nasa-selects-ball-aerospace-to-develop-noaa-s-geoxo-sounder-instrument" >🔗</a> **[NASA]** NASA Selects Ball Aerospace to Develop NOAA’s GeoXO Sounder Instrument
 - <a href="https://spacenews.com/thaicom-picks-airbus-to-build-eutelsat-backed-geo-satellite-for-asia/" >🔗</a> **[SpaceNews]** Thaicom picks Airbus to build Eutelsat-backed GEO satellite for Asia
 - <a href="http://www.nasa.gov/press-release/nasa-leadership-to-call-agency-s-record-breaking-astronaut-in-space" >🔗</a> **[NASA]** NASA Leadership to Call Agency’s Record-Breaking Astronaut in Space
-- <a href="https://spacenews.com/telesat-signs-multi-launch-spacex-deal-covering-all-lightspeed-satellites/" >🔗</a> **[SpaceNews]** Telesat signs multi-launch SpaceX deal covering all Lightspeed satellites
-- <a href="https://spacenews.com/telesat-qa-getting-back-to-lightspeed/" >🔗</a> **[SpaceNews]** Telesat Q&A | Getting back to Lightspeed
-- <a href="https://spacenews.com/techstars-welcomes-12-startups-to-2023-space-accelerator/" >🔗</a> **[SpaceNews]** Techstars welcomes 12 startups to 2023 Space Accelerator
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T203147">2023-09-11 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T210448">2023-09-11 21:04:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
