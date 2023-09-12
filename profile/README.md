@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/" >🔗</a> **[NASASpaceflight]** SpaceX to conduct 65th and 66th launches of 2023
 - <a href="https://spacenews.com/air-force-satisfied-with-spacex-services-not-concerned-about-its-growing-dominance/" >🔗</a> **[SpaceNews]** Air Force satisfied with SpaceX services, not concerned about its growing dominance
 - <a href="https://spacenews.com/legacy-satellite-operators-take-stock-of-starlink-fueled-transformation/" >🔗</a> **[SpaceNews]** Legacy satellite operators take stock of Starlink-fueled transformation
 - <a href="https://spacenews.com/ball-wins-489-6-million-contract-to-deliver-next-generation-weather-satellite-sounder/" >🔗</a> **[SpaceNews]** Ball wins $489.6 million contract to deliver next-generation weather satellite sounder
 - <a href="https://spacenews.com/direct-to-device-a-100-billion-question/" >🔗</a> **[SpaceNews]** Direct-to-device: a $100-billion question
-- <a href="http://www.nasa.gov/press-release/nasa-selects-ball-aerospace-to-develop-noaa-s-geoxo-sounder-instrument" >🔗</a> **[NASA]** NASA Selects Ball Aerospace to Develop NOAA’s GeoXO Sounder Instrument
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T023149">2023-09-12 02:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T030653">2023-09-12 03:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
