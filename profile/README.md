@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-17&location=Cape Canaveral, FL, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-3&location=Vandenberg SFB, CA, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA003 (VICTUS NOX)&location=Vandenberg SFB, CA, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA003 (VICTUS NOX)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Miura 1 | SN1 Test Flight** from El Arenosillo Test Centre.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 2&location=SpaceX Space Launch Facility, TX, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 2** from SpaceX Space Launch Facility, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-receives-decadal-survey-on-biological-physical-sciences-research" >🔗</a> **[NASA]** NASA Receives Decadal Survey on Biological, Physical Sciences Research
+- <a href="https://spacenews.com/neuraspace-platform-assets-jump-tenfold/" >🔗</a> **[SpaceNews]** NeuraSpace platform assets jump tenfold
+- <a href="http://www.nasa.gov/press-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report" >🔗</a> **[NASA]** NASA to Release, Discuss Unidentified Anomalous Phenomena Report
 - <a href="https://spacenews.com/dla-piper-expands-legal-services-for-space-industry/" >🔗</a> **[SpaceNews]** DLA Piper expands legal services for space industry
 - <a href="https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/" >🔗</a> **[Arstechnica]** A year after New Shepard’s accident, Blue Origin may return to flight next month
-- <a href="https://spacenews.com/arianespace-to-launch-intelsat-small-geo-satellite/" >🔗</a> **[SpaceNews]** Arianespace to launch Intelsat small GEO satellite
-- <a href="https://spacenews.com/overseas-firms-on-a-journey-to-establish-themselves-as-u-s-entities/" >🔗</a> **[SpaceNews]** Overseas firms on a journey to establish themselves as U.S. entities
-- <a href="https://spacenews.com/comtech-plans-to-establish-networks-in-a-matter-of-hours/" >🔗</a> **[SpaceNews]** Comtech plans to establish networks “in a matter of hours”
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T143139">2023-09-12 14:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T150656">2023-09-12 15:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
