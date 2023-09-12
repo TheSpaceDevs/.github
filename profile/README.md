@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-satisfied-with-spacex-services-not-concerned-about-its-growing-dominance/" >🔗</a> **[SpaceNews]** Air Force satisfied with SpaceX services, not concerned about its growing dominance
+- <a href="https://spacenews.com/legacy-satellite-operators-take-stock-of-starlink-fueled-transformation/" >🔗</a> **[SpaceNews]** Legacy satellite operators take stock of Starlink-fueled transformation
 - <a href="https://spacenews.com/ball-wins-489-6-million-contract-to-deliver-next-generation-weather-satellite-sounder/" >🔗</a> **[SpaceNews]** Ball wins $489.6 million contract to deliver next-generation weather satellite sounder
 - <a href="https://spacenews.com/direct-to-device-a-100-billion-question/" >🔗</a> **[SpaceNews]** Direct-to-device: a $100-billion question
 - <a href="http://www.nasa.gov/press-release/nasa-selects-ball-aerospace-to-develop-noaa-s-geoxo-sounder-instrument" >🔗</a> **[NASA]** NASA Selects Ball Aerospace to Develop NOAA’s GeoXO Sounder Instrument
-- <a href="https://spacenews.com/thaicom-picks-airbus-to-build-eutelsat-backed-geo-satellite-for-asia/" >🔗</a> **[SpaceNews]** Thaicom picks Airbus to build Eutelsat-backed GEO satellite for Asia
-- <a href="http://www.nasa.gov/press-release/nasa-leadership-to-call-agency-s-record-breaking-astronaut-in-space" >🔗</a> **[NASA]** NASA Leadership to Call Agency’s Record-Breaking Astronaut in Space
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230911T233141">2023-09-11 23:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T002846">2023-09-12 00:28:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
