@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-create-integrated-units-responsible-for-acquisition-maintenance-and-operations/" >🔗</a> **[SpaceNews]** Space Force to create “integrated” units responsible for acquisition, maintenance and operations
+- <a href="https://spacenews.com/phase-four-demonstrates-maxwell-block-2-thruster-in-orbit/" >🔗</a> **[SpaceNews]** Phase Four demonstrates Maxwell Block 2 thruster in orbit
 - <a href="https://spacenews.com/intelsat-plotting-a-meo-constellation-in-2027-with-c-band-windfall/" >🔗</a> **[SpaceNews]** Intelsat plotting a MEO constellation in 2027 with C-band windfall
 - <a href="https://tlpnetwork.com/news/2023/09/ax3-crew" >🔗</a> **[The Launch Pad]** Axiom Space Announces International Crew Of Axiom 3 Mission
 - <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-launch-docking-of-new-space-station-crew" >🔗</a> **[NASA]** NASA Sets Coverage for Launch, Docking of New Space Station Crew
-- <a href="http://www.nasa.gov/press-release/nasa-partners-clear-axiom-space-s-third-private-astronaut-crew" >🔗</a> **[NASA]** NASA, Partners Clear Axiom Space’s Third Private Astronaut Crew
-- <a href="http://www.nasa.gov/press-release/nasa-receives-decadal-survey-on-biological-physical-sciences-research" >🔗</a> **[NASA]** NASA Receives Decadal Survey on Biological, Physical Sciences Research
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T203153">2023-09-12 20:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T210450">2023-09-12 21:04:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
