@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dla-piper-expands-legal-services-for-space-industry/" >🔗</a> **[SpaceNews]** DLA Piper expands legal services for space industry
+- <a href="https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/" >🔗</a> **[Arstechnica]** A year after New Shepard’s accident, Blue Origin may return to flight next month
 - <a href="https://spacenews.com/arianespace-to-launch-intelsat-small-geo-satellite/" >🔗</a> **[SpaceNews]** Arianespace to launch Intelsat small GEO satellite
 - <a href="https://spacenews.com/overseas-firms-on-a-journey-to-establish-themselves-as-u-s-entities/" >🔗</a> **[SpaceNews]** Overseas firms on a journey to establish themselves as U.S. entities
 - <a href="https://spacenews.com/comtech-plans-to-establish-networks-in-a-matter-of-hours/" >🔗</a> **[SpaceNews]** Comtech plans to establish networks “in a matter of hours”
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-completes-mira-light-vehicle-test-campaign/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Completes MIRA-Light Vehicle Test Campaign
-- <a href="https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/" >🔗</a> **[NASASpaceflight]** SpaceX to conduct 65th and 66th launches of 2023
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T130900">2023-09-12 13:09:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230912T133149">2023-09-12 13:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
