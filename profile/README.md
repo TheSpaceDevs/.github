@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/european-industry-could-generate-e9-9-billion-from-crewed-launch/" >🔗</a> **[European Spaceflight]** European Industry Could Generate €9.9 Billion From Crewed Launch
+- <a href="https://spacenews.com/space-force-to-release-guidelines-for-the-use-of-commercial-satellite-services/" >🔗</a> **[SpaceNews]** Space Force to release guidelines for the use of commercial satellite services
 - <a href="https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/" >🔗</a> **[Arstechnica]** A NASA astronaut will finally spend a full year in space
 - <a href="https://www.nasaspaceflight.com/2023/09/space-x-wait-faa-approval-starship-flight-two/" >🔗</a> **[NASASpaceflight]** SpaceX waiting for FAA to approve launch licence for Starship’s second flight
 - <a href="https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/" >🔗</a> **[SpaceNews]** ULA has ‘no issues’ with Space Force plan to select three national security launch providers
-- <a href="https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown" >🔗</a> **[The Launch Pad]** BREAKING! NASA Releases Artemis 1 In Flight Anomalies Breakdown
-- <a href="https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/" >🔗</a> **[Teslarati]** SpaceX says it is no longer losing money with Starlink production
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T203146">2023-09-13 20:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T210317">2023-09-13 21:03:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
