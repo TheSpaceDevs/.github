@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/small-satellite-maker-swissto12-gets-capital-to-shake-up-geo-market/" >🔗</a> **[SpaceNews]** Small satellite maker Swissto12 gets capital to shake up GEO market
+- <a href="https://spacenews.com/decadal-survey-recommends-massive-funding-increase-for-nasa-biological-and-physical-sciences/" >🔗</a> **[SpaceNews]** Decadal survey recommends massive funding increase for NASA biological and physical sciences
 - <a href="https://spacepolicyonline.com/news/nasas-severely-underfunded-biological-and-physical-sciences-research-program-needs-tenfold-increase/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s “Severely Underfunded” Biological and Physical Sciences Research Program Needs Tenfold Increase
 - <a href="https://spacenews.com/kuiper-launch-companies-say-they-can-meet-amazons-schedule/" >🔗</a> **[SpaceNews]** Kuiper launch companies say they can meet Amazon’s schedule
 - <a href="https://spacenews.com/space-force-to-create-integrated-units-responsible-for-acquisition-maintenance-and-operations/" >🔗</a> **[SpaceNews]** Space Force to create “integrated” units responsible for acquisition, maintenance and operations
-- <a href="https://spacenews.com/phase-four-demonstrates-maxwell-block-2-thruster-in-orbit/" >🔗</a> **[SpaceNews]** Phase Four demonstrates Maxwell Block 2 thruster in orbit
-- <a href="https://spacenews.com/intelsat-plotting-a-meo-constellation-in-2027-with-c-band-windfall/" >🔗</a> **[SpaceNews]** Intelsat plotting a MEO constellation in 2027 with C-band windfall
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T053150">2023-09-13 05:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T060844">2023-09-13 06:08:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
