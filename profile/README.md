@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/" >🔗</a> **[SpaceNews]** Microsoft and Esri to speed up access to Earth-observation data
+- <a href="https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/" >🔗</a> **[SpaceNews]** Intelsat and Aalyria aim for “subsea cables in space”
 - <a href="https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Axiom Space names crew for third private astronaut mission to ISS
 - <a href="https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html" >🔗</a> **[CNBC]** SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service
 - <a href="https://spacenews.com/starlink-and-ses-join-forces-for-multi-orbit-cruise-connectivity/" >🔗</a> **[SpaceNews]** Starlink and SES join forces for multi-orbit cruise connectivity
-- <a href="https://spacenews.com/small-satellite-maker-swissto12-gets-capital-to-shake-up-geo-market/" >🔗</a> **[SpaceNews]** Small satellite maker Swissto12 gets capital to shake up GEO market
-- <a href="https://spacenews.com/decadal-survey-recommends-massive-funding-increase-for-nasa-biological-and-physical-sciences/" >🔗</a> **[SpaceNews]** Decadal survey recommends massive funding increase for NASA biological and physical sciences
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T121157">2023-09-13 12:11:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T124800">2023-09-13 12:48:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
