@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/" >🔗</a> **[Teslarati]** SpaceX says it is no longer losing money with Starlink production
+- <a href="https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html" >🔗</a> **[CNBC]** SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability
 - <a href="https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/" >🔗</a> **[SpaceNews]** Microsoft and Esri to speed up access to Earth-observation data
 - <a href="https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/" >🔗</a> **[SpaceNews]** Intelsat and Aalyria aim for “subsea cables in space”
 - <a href="https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Axiom Space names crew for third private astronaut mission to ISS
-- <a href="https://www.cnbc.com/2023/09/13/spacex-starlink-partners-with-ses-for-combined-cruise-market-service.html" >🔗</a> **[CNBC]** SpaceX’s Starlink partners with European satellite giant SES for combined cruise market service
-- <a href="https://spacenews.com/starlink-and-ses-join-forces-for-multi-orbit-cruise-connectivity/" >🔗</a> **[SpaceNews]** Starlink and SES join forces for multi-orbit cruise connectivity
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T153151">2023-09-13 15:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T160751">2023-09-13 16:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
