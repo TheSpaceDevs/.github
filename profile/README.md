@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/" >🔗</a> **[Arstechnica]** A NASA astronaut will finally spend a full year in space
+- <a href="https://www.nasaspaceflight.com/2023/09/space-x-wait-faa-approval-starship-flight-two/" >🔗</a> **[NASASpaceflight]** SpaceX waiting for FAA to approve launch licence for Starship’s second flight
 - <a href="https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/" >🔗</a> **[SpaceNews]** ULA has ‘no issues’ with Space Force plan to select three national security launch providers
 - <a href="https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown" >🔗</a> **[The Launch Pad]** BREAKING! NASA Releases Artemis 1 In Flight Anomalies Breakdown
 - <a href="https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/" >🔗</a> **[Teslarati]** SpaceX says it is no longer losing money with Starlink production
-- <a href="https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html" >🔗</a> **[CNBC]** SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability
-- <a href="https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/" >🔗</a> **[SpaceNews]** Microsoft and Esri to speed up access to Earth-observation data
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T183225">2023-09-13 18:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T190425">2023-09-13 19:04:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
