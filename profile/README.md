@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-has-no-issues-with-space-force-plan-to-select-three-national-security-launch-providers/" >🔗</a> **[SpaceNews]** ULA has ‘no issues’ with Space Force plan to select three national security launch providers
+- <a href="https://tlpnetwork.com/news/2023/09/nasa-releases-artemis-1-in-flight-anomalies-breakdown" >🔗</a> **[The Launch Pad]** BREAKING! NASA Releases Artemis 1 In Flight Anomalies Breakdown
 - <a href="https://www.teslarati.com/spacex-no-longer-losing-money-starlink-antenna-production/" >🔗</a> **[Teslarati]** SpaceX says it is no longer losing money with Starlink production
 - <a href="https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html" >🔗</a> **[CNBC]** SpaceX no longer taking losses to produce Starlink antennas, a key step to improving profitability
 - <a href="https://spacenews.com/microsoft-and-esri-to-speed-up-access-to-earth-observation-data/" >🔗</a> **[SpaceNews]** Microsoft and Esri to speed up access to Earth-observation data
-- <a href="https://spacenews.com/intelsat-and-aalyria-aim-for-subsea-cables-in-space/" >🔗</a> **[SpaceNews]** Intelsat and Aalyria aim for “subsea cables in space”
-- <a href="https://spacenews.com/axiom-space-names-crew-for-third-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Axiom Space names crew for third private astronaut mission to ISS
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T173135">2023-09-13 17:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230913T180807">2023-09-13 18:08:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
