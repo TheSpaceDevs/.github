@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/el-verano-boreal-de-2023-es-el-mas-caluroso-en-el-registro" >🔗</a> **[NASA]** NASA: El verano de 2023 es el más caluroso en el registro
 - <a href="https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/" >🔗</a> **[NASASpaceflight]** RS-25 engine installation into the Artemis II SLS Core Stage begins
 - <a href="http://www.nasa.gov/press-release/nasa-announces-summer-2023-hottest-on-record" >🔗</a> **[NASA]** NASA Announces Summer 2023 Hottest on Record
 - <a href="https://spacenews.com/kaleideo-demonstrates-on-orbit-processing/" >🔗</a> **[SpaceNews]** KaleidEO demonstrates on-orbit processing
 - <a href="http://www.nasa.gov/press-release/nasa-shares-unidentified-anomalous-phenomena-independent-study-report" >🔗</a> **[NASA]** NASA Shares Unidentified Anomalous Phenomena Independent Study Report
-- <a href="https://tlpnetwork.com/news/2023/09/nasa-releases-independent-uap-report" >🔗</a> **[The Launch Pad]** BREAKING! NASA Releases Independent UAP Report "UAP Pose A Threat To US Airspace Safety"
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T163629">2023-09-14 16:36:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T170536">2023-09-14 17:05:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
