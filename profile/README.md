@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/" >🔗</a> **[SpaceNews]** Space Force keeping the ‘responsive launch’ dream alive
 - <a href="https://spacenews.com/satellite-industry-debates-size-of-direct-to-device-market/" >🔗</a> **[SpaceNews]** Satellite industry debates size of direct-to-device market
 - <a href="https://spacenews.com/chinas-military-sets-up-new-base-for-space-domain-awareness/" >🔗</a> **[SpaceNews]** China’s military sets up new base for space domain awareness
 - <a href="https://spacenews.com/hawkeye-360-reaches-inflection-point-on-path-to-profitability/" >🔗</a> **[SpaceNews]** HawkEye 360 reaches inflection point on path to profitability
 - <a href="https://spacenews.com/ses-qa-leveling-up-multi-orbit-connectivity/" >🔗</a> **[SpaceNews]** SES Q&A | Leveling up multi-orbit connectivity
-- <a href="https://spacenews.com/rapid-starlink-iteration-poses-challenges-for-resellers/" >🔗</a> **[SpaceNews]** Rapid Starlink iteration poses challenges for resellers
 
 
 ### Launch-related News 🚀
@@ -104,11 +104,12 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/2023/08/firefly-officially-on-call-for-us-space-force-responsive-space-launch-demo" >🔗</a> **[The Launch Pad]** Firefly Officially "On Call" For US Space Force Responsive Space Launch Demo
 - <a href="https://www.teslarati.com/firefly-aerospace-victus-nox-mission/" >🔗</a> **[Teslarati]** Firefly Aerospace announces they are ready for the Victus Nox mission
 - <a href="https://arstechnica.com/space/2023/09/rocket-report-firefly-enters-hot-standby-phase-spacexs-superfluity-of-fairings/" >🔗</a> **[Arstechnica]** Rocket Report: Firefly enters “hot standby phase”; SpaceX’s superfluity of fairings
+- <a href="https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/" >🔗</a> **[SpaceNews]** Space Force keeping the ‘responsive launch’ dream alive
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T113131">2023-09-14 11:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T121150">2023-09-14 12:11:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
