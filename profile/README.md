@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="http://www.nasa.gov/press-release/nasa-shares-unidentified-anomalous-phenomena-independent-study-report" >🔗</a> **[NASA]** NASA Shares Unidentified Anomalous Phenomena Independent Study Report
+- <a href="https://tlpnetwork.com/news/2023/09/nasa-releases-independent-uap-report" >🔗</a> **[The Launch Pad]** BREAKING! NASA Releases Independent UAP Report "UAP Pose A Threat To US Airspace Safety"
 - <a href="https://spacenews.com/space-force-keeping-the-responsive-launch-dream-alive/" >🔗</a> **[SpaceNews]** Space Force keeping the ‘responsive launch’ dream alive
 - <a href="https://spacenews.com/satellite-industry-debates-size-of-direct-to-device-market/" >🔗</a> **[SpaceNews]** Satellite industry debates size of direct-to-device market
 - <a href="https://spacenews.com/chinas-military-sets-up-new-base-for-space-domain-awareness/" >🔗</a> **[SpaceNews]** China’s military sets up new base for space domain awareness
-- <a href="https://spacenews.com/hawkeye-360-reaches-inflection-point-on-path-to-profitability/" >🔗</a> **[SpaceNews]** HawkEye 360 reaches inflection point on path to profitability
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T143200">2023-09-14 14:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T150650">2023-09-14 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
