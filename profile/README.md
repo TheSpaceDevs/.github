@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-reveal-asteroid-sample-grabbed-in-space-delivered-to-earth" >🔗</a> **[NASA]** NASA to Reveal Asteroid Sample Grabbed in Space, Delivered to Earth
+- <a href="https://spacenews.com/dod-submits-congressionally-mandated-space-policy-report/" >🔗</a> **[SpaceNews]** DoD submits congressionally mandated space policy report
 - <a href="https://www.cnbc.com/2023/09/14/investing-in-space-industry-enters-new-era.html" >🔗</a> **[CNBC]** Investing in Space: Industry enters new era with tight funding and SpaceX dominance
 - <a href="http://www.nasa.gov/press-release/el-verano-boreal-de-2023-es-el-mas-caluroso-en-el-registro" >🔗</a> **[NASA]** NASA: El verano de 2023 es el más caluroso en el registro
 - <a href="https://www.nasaspaceflight.com/2023/09/rs-25-installation-artemis-ii-core-stage/" >🔗</a> **[NASASpaceflight]** RS-25 engine installation into the Artemis II SLS Core Stage begins
-- <a href="http://www.nasa.gov/press-release/nasa-announces-summer-2023-hottest-on-record" >🔗</a> **[NASA]** NASA Announces Summer 2023 Hottest on Record
-- <a href="https://spacenews.com/kaleideo-demonstrates-on-orbit-processing/" >🔗</a> **[SpaceNews]** KaleidEO demonstrates on-orbit processing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T193135">2023-09-14 19:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230914T200650">2023-09-14 20:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
