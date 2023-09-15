@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-record-breaking-astronaut-to-discuss-yearlong-mission" >🔗</a> **[NASA]** NASA’s Record-Breaking Astronaut to Discuss Yearlong Mission
 - <a href="https://spacenews.com/nonprofit-supporting-european-startups-expands-rapidly/" >🔗</a> **[SpaceNews]** Nonprofit supporting European startups expands rapidly
 - <a href="https://arstechnica.com/space/2023/09/firefly-and-space-force-demonstrate-ability-to-rapidly-launch-a-satellite/" >🔗</a> **[Arstechnica]** The US military just proved it can get satellites into space super fast
 - <a href="https://arstechnica.com/space/2023/09/rocket-report-new-shepard-may-fly-soon-ula-changes-mind-on-dod-competition/" >🔗</a> **[Arstechnica]** Rocket Report: New Shepard may fly soon; ULA changes mind on DoD competition
 - <a href="https://europeanspaceflight.com/pld-space-to-hire-150-new-employees-by-2024/" >🔗</a> **[European Spaceflight]** PLD Space to Hire 150 New Employees by 2024
-- <a href="https://spacenews.com/firefly-launches-space-force-victus-nox-mission/" >🔗</a> **[SpaceNews]** Firefly launches Space Force ‘Victus Nox’ mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T143151">2023-09-15 14:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T150630">2023-09-15 15:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
