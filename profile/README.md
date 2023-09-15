@@ -18,33 +18,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1a | Soyuz MS-24**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T154436">2023-09-15 15:44:36 UTC</a>.  Until
-then, this pad will have been used for 409
-out of 1542 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 6-16**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T033820">2023-09-16 03:38:20 UTC</a>.  Until
+then, this pad will have been used for 198
+out of 906 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Soyuz MS-24 will carry two cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T154436">2023-09-15 15:44:36 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-24&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20230915T154436Z%2F20230915T154436Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-24** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230916T033820">2023-09-16 03:38:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-16&location=Cape Canaveral, FL, USA&dates=20230916T033820Z%2F20230916T040730Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-16** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T040500">2023-09-17 04:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20230917T040500Z%2F20230917T042700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T063000">2023-09-19 06:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We Will Never Desert You (Capella Acadia 2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230919T063000Z%2F20230919T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We Will Never Desert You (Capella Acadia 2)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -54,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-18&location=Cape Canaveral, FL, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-18** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-3&location=Vandenberg SFB, CA, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T000000">2023-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 2&location=SpaceX Space Launch Facility, TX, USA&dates=20230930T000000Z%2F20230930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 2** from SpaceX Space Launch Facility, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T000000">2023-10-05 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 04&location=Air launch to Suborbital flight&dates=20231005T000000Z%2F20231005T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 04** from Air launch to Suborbital flight.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,23 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast" >🔗</a> **[NASA]** NASA Releases First Season of Spanish-language Podcast
+- <a href="http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol" >🔗</a> **[NASA]** La NASA lanza primera temporada de su pódcast en español
+- <a href="http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson Receives Third Space Station Assignment
+- <a href="http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-second-space-station-assignment" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson Receives Second Space Station Assignment
 - <a href="http://www.nasa.gov/press-release/nasa-s-record-breaking-astronaut-to-discuss-yearlong-mission" >🔗</a> **[NASA]** NASA’s Record-Breaking Astronaut to Discuss Yearlong Mission
-- <a href="https://spacenews.com/nonprofit-supporting-european-startups-expands-rapidly/" >🔗</a> **[SpaceNews]** Nonprofit supporting European startups expands rapidly
-- <a href="https://arstechnica.com/space/2023/09/firefly-and-space-force-demonstrate-ability-to-rapidly-launch-a-satellite/" >🔗</a> **[Arstechnica]** The US military just proved it can get satellites into space super fast
-- <a href="https://arstechnica.com/space/2023/09/rocket-report-new-shepard-may-fly-soon-ula-changes-mind-on-dod-competition/" >🔗</a> **[Arstechnica]** Rocket Report: New Shepard may fly soon; ULA changes mind on DoD competition
-- <a href="https://europeanspaceflight.com/pld-space-to-hire-150-new-employees-by-2024/" >🔗</a> **[European Spaceflight]** PLD Space to Hire 150 New Employees by 2024
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/crew-dragon-soyuz-missions-set-for-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew Dragon, Soyuz missions set for launches to ISS
-- <a href="http://www.nasa.gov/press-release/nasa-hosts-astronaut-loral-o-hara-s-prelaunch-interviews" >🔗</a> **[NASA]** NASA Hosts Astronaut Loral O’Hara’s Prelaunch Interviews
-- <a href="http://www.nasa.gov/press-release/nasa-sets-coverage-for-launch-docking-of-new-space-station-crew" >🔗</a> **[NASA]** NASA Sets Coverage for Launch, Docking of New Space Station Crew
+- <a href="https://www.nasaspaceflight.com/2023/09/starlink-7-2-6-14/" >🔗</a> **[NASASpaceflight]** SpaceX to conduct 65th and 66th launches of 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T153142">2023-09-15 15:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T160751">2023-09-15 16:07:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
