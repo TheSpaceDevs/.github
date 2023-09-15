@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ex-im-bank-considering-more-than-5-billion-in-space-industry-financing/" >🔗</a> **[SpaceNews]** Ex-Im Bank considering more than $5 billion in space industry financing
 - <a href="https://spacenews.com/nasa-releases-independent-report-on-uap-research/" >🔗</a> **[SpaceNews]** NASA releases independent report on UAP research
 - <a href="https://spacepolicyonline.com/news/germany-joins-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Germany Joins Artemis Accords
 - <a href="https://spacepolicyonline.com/news/nasa-wants-ufo-discussion-to-shift-from-sensationalism-to-science/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wants UFO Discussion to “Shift from Sensationalism to Science”
 - <a href="https://spacenews.com/post-spac-space-firms-redoubling-efforts-to-attract-institutional-investors/" >🔗</a> **[SpaceNews]** Post-SPAC space firms redoubling efforts to attract institutional investors
-- <a href="https://spacenews.com/senate-armed-services-committee-to-probe-starlink-operations-in-ukraine/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee to probe Starlink operations in Ukraine
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T053140">2023-09-15 05:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T060851">2023-09-15 06:08:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
