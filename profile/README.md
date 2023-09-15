@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast" >🔗</a> **[NASA]** NASA Releases First Season of Spanish-language Podcast
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche" >🔗</a> **[NASA]** NASA to Discuss Optical Communications Demo Riding with Psyche
 - <a href="http://www.nasa.gov/press-release/la-nasa-lanza-primera-temporada-de-su-podcast-en-espanol" >🔗</a> **[NASA]** La NASA lanza primera temporada de su pódcast en español
+- <a href="http://www.nasa.gov/press-release/nasa-releases-first-season-of-spanish-language-podcast" >🔗</a> **[NASA]** NASA Releases First Season of Spanish-language Podcast
 - <a href="http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson Receives Third Space Station Assignment
 - <a href="http://www.nasa.gov/press-release/nasa-astronaut-tracy-c-dyson-receives-second-space-station-assignment" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson Receives Second Space Station Assignment
-- <a href="http://www.nasa.gov/press-release/nasa-s-record-breaking-astronaut-to-discuss-yearlong-mission" >🔗</a> **[NASA]** NASA’s Record-Breaking Astronaut to Discuss Yearlong Mission
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T173139">2023-09-15 17:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T180759">2023-09-15 18:07:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
