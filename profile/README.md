@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-wants-ufo-discussion-to-shift-from-sensationalism-to-science/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wants UFO Discussion to “Shift from Sensationalism to Science”
 - <a href="https://spacenews.com/post-spac-space-firms-redoubling-efforts-to-attract-institutional-investors/" >🔗</a> **[SpaceNews]** Post-SPAC space firms redoubling efforts to attract institutional investors
 - <a href="https://spacenews.com/senate-armed-services-committee-to-probe-starlink-operations-in-ukraine/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee to probe Starlink operations in Ukraine
 - <a href="http://www.nasa.gov/press-release/update-nasa-shares-uap-independent-study-report-names-director" >🔗</a> **[NASA]** UPDATE: NASA Shares UAP Independent Study Report; Names Director
 - <a href="http://www.nasa.gov/press-release/nasa-to-reveal-asteroid-sample-grabbed-in-space-delivered-to-earth" >🔗</a> **[NASA]** NASA to Reveal Asteroid Sample Grabbed in Space, Delivered to Earth
-- <a href="https://spacenews.com/dod-submits-congressionally-mandated-space-policy-report/" >🔗</a> **[SpaceNews]** DoD submits congressionally mandated space policy report
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T023225">2023-09-15 02:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230915T030659">2023-09-15 03:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
