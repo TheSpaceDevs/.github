@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/new-soyuz-crew-arrives-at-iss-six-months-later-than-planned/" >🔗</a> **[SpacePolicyOnline.com]** New Soyuz Crew Arrives at ISS — Six Months Later Than Planned
 - <a href="https://spacenews.com/new-iss-crew-arrives-on-soyuz/" >🔗</a> **[SpaceNews]** New ISS crew arrives on Soyuz
 - <a href="https://spacenews.com/general-atomics-acquires-electro-optical-sensor-supplier-eo-vista/" >🔗</a> **[SpaceNews]** General Atomics acquires electro-optical sensor supplier EO Vista
 - <a href="https://spacenews.com/germany-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Germany signs Artemis Accords
 - <a href="https://spacenews.com/earth-observation-players-seek-new-capabilities-to-tackle-climate-change/" >🔗</a> **[SpaceNews]** Earth observation players seek new capabilities to tackle climate change
-- <a href="http://www.nasa.gov/press-release/nasa-astronaut-crewmates-reach-space-station-for-science-expedition" >🔗</a> **[NASA]** NASA Astronaut, Crewmates Reach Space Station for Science Expedition
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T103132">2023-09-17 10:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230917T110349">2023-09-17 11:03:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
