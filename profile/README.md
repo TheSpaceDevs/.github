@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T063000">2023-09-19 06:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | We Will Never Desert You (Capella Acadia 2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20230919T063000Z%2F20230919T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | We Will Never Desert You (Capella Acadia 2)** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T014700">2023-09-20 01:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-17&location=Cape Canaveral, FL, USA&dates=20230920T014700Z%2F20230920T061800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-17** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T024740">2023-09-20 02:47:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-17&location=Cape Canaveral, FL, USA&dates=20230920T024740Z%2F20230920T054630Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-17** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T000600">2023-09-24 00:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-18&location=Cape Canaveral, FL, USA&dates=20230924T000600Z%2F20230924T043700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-18** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T071100">2023-09-25 07:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-3&location=Vandenberg SFB, CA, USA&dates=20230925T071100Z%2F20230925T113100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200600">2023-09-26 20:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20230926T200600Z%2F20230926T202900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -89,20 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-finalizes-coverage-for-first-us-asteroid-sample-landing" >🔗</a> **[NASA]** NASA Finalizes Coverage for First US Asteroid Sample Landing
+- <a href="https://spacenews.com/abl-gets-contract-for-u-s-space-force-responsive-launch-mission/" >🔗</a> **[SpaceNews]** ABL gets contract for U.S. Space Force ‘responsive launch’ mission 
 - <a href="https://www.nasaspaceflight.com/2023/09/launch-roundup-091823/" >🔗</a> **[NASASpaceflight]** Launch Roundup; Rocket Lab to launch “We Will Never Desert You”; SpaceX to launch two Starlink missions
 - <a href="https://tlpnetwork.com/news/2023/09/abl-secures-15-million-space-system-command-responsive-launch-contract" >🔗</a> **[The Launch Pad]** ABL Secures $15 Million Space System Command Responsive Launch Contract
 - <a href="https://mars.nasa.gov/news/9480/" >🔗</a> **[NASA]** NASA's Curiosity Reaches Mars Ridge Where Water Left Debris Pileup
-- <a href="https://spacenews.com/china-launches-new-batch-of-yaogan-reconnaissance-satellites/" >🔗</a> **[SpaceNews]** China launches new batch of Yaogan reconnaissance satellites
-- <a href="https://spacenews.com/l3harris-exploring-supplier-partnerships-for-its-satellite-business/" >🔗</a> **[SpaceNews]** L3Harris exploring supplier partnerships for its satellite business
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/09/launch-roundup-091823/" >🔗</a> **[NASASpaceflight]** Launch Roundup; Rocket Lab to launch “We Will Never Desert You”; SpaceX to launch two Starlink missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T203154">2023-09-18 20:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230918T210540">2023-09-18 21:05:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
