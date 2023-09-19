@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-seeks-to-wrap-up-starship-safety-review-in-october/" >🔗</a> **[SpaceNews]** FAA seeks to wrap up Starship safety review in October
 - <a href="https://www.nasaspaceflight.com/2023/09/blue-update-091923/" >🔗</a> **[NASASpaceflight]** Blue Origin preparing for New Glenn testing at LC-36 ahead of maiden flight
 - <a href="https://spacenews.com/nb-iot-provider-oq-technology-moves-to-next-arianespace-vega-mission/" >🔗</a> **[SpaceNews]** NB-IoT provider OQ Technology moves to next Arianespace Vega mission
 - <a href="https://europeanspaceflight.com/uarx-partners-with-sener-to-continue-development-of-ossie-otv/" >🔗</a> **[European Spaceflight]** UARX Partners with Sener to Continue Development of OSSIE OTV
 - <a href="https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Kayhan raises $7 million and offers autonomous traffic-coordination service
-- <a href="https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html" >🔗</a> **[CNBC]** Rocket Lab stock drops after first satellite launch failure in over two years
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T163719">2023-09-19 16:37:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T170502">2023-09-19 17:05:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
