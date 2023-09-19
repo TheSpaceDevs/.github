@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uarx-partners-with-sener-to-continue-development-of-ossie-otv/" >🔗</a> **[European Spaceflight]** UARX Partners with Sener to Continue Development of OSSIE OTV
 - <a href="https://spacenews.com/kayhan-raises-7-million-and-offers-autonomous-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Kayhan raises $7 million and offers autonomous traffic-coordination service
 - <a href="https://www.cnbc.com/2023/09/19/rocket-lab-stock-drops-after-first-electron-launch-failure-in-years.html" >🔗</a> **[CNBC]** Rocket Lab stock drops after first satellite launch failure in over two years
 - <a href="https://spacenews.com/electron-fails-during-capella-space-launch/" >🔗</a> **[SpaceNews]** Electron fails during Capella Space launch
 - <a href="https://tlpnetwork.com/news/2023/09/rocketlab-41-electron-mission-launch-failure" >🔗</a> **[The Launch Pad]** DEVELOPING STORY: RocketLab Electron Launch Failure
-- <a href="https://arstechnica.com/culture/2023/09/a-water-carrier-just-won-the-hardest-cycling-race-on-the-planet/" >🔗</a> **[Arstechnica]** A water carrier just won the hardest cycling race on the planet
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T143225">2023-09-19 14:32:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T150650">2023-09-19 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
