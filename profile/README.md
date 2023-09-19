@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/" >🔗</a> **[SpaceNews]** LeoLabs, SAIC to develop space-tracking software platform 
 - <a href="https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/" >🔗</a> **[European Spaceflight]** Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission
 - <a href="https://spacenews.com/caci-optical-terminals-pass-initial-tests-required-for-space-development-agency-satellites/" >🔗</a> **[SpaceNews]** CACI optical terminals pass initial tests required for Space Development Agency satellites
 - <a href="https://spacenews.com/faa-seeks-to-wrap-up-starship-safety-review-in-october/" >🔗</a> **[SpaceNews]** FAA seeks to wrap up Starship safety review in October
 - <a href="https://www.nasaspaceflight.com/2023/09/blue-update-091923/" >🔗</a> **[NASASpaceflight]** Blue Origin preparing for New Glenn testing at LC-36 ahead of maiden flight
-- <a href="https://spacenews.com/nb-iot-provider-oq-technology-moves-to-next-arianespace-vega-mission/" >🔗</a> **[SpaceNews]** NB-IoT provider OQ Technology moves to next Arianespace Vega mission
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T223136">2023-09-19 22:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230919T230603">2023-09-19 23:06:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
