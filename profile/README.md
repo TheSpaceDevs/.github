@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/artemis-ii-crew-conduct-launch-day-demo-at-ksc" >🔗</a> **[The Launch Pad]** Artemis II Crew Conduct Launch Day Demo At KSC
+- <a href="https://tlpnetwork.com/news/2023/09/nasa-set-to-begin-artemis-ii-ground-system-testing" >🔗</a> **[The Launch Pad]** NASA Set To Begin Artemis II Ground System Testing
 - <a href="https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/" >🔗</a> **[Arstechnica]** SpaceX breaks another booster reuse record, but did anyone see it?
 - <a href="https://spacenews.com/fcc-directing-more-satellite-constellations-to-mitigate-effects-on-astronomy/" >🔗</a> **[SpaceNews]** FCC directing more satellite constellations to mitigate effects on astronomy
 - <a href="https://spacenews.com/the-startup-nation-in-space-israels-equation-for-the-space-ecosystem/" >🔗</a> **[SpaceNews]** The Startup Nation in Space – Israel’s Equation for the Space Ecosystem 
-- <a href="https://www.cnbc.com/2023/09/20/spacex-countersues-doj-in-hiring-discrimination-case.html" >🔗</a> **[CNBC]** SpaceX countersues Justice Department, seeking to dismiss hiring discrimination case
-- <a href="https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/" >🔗</a> **[European Spaceflight]** RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T223137">2023-09-20 22:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T230624">2023-09-20 23:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
