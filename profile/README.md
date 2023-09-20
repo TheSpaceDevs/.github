@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-startup-nation-in-space-israels-equation-for-the-space-ecosystem/" >🔗</a> **[SpaceNews]** The Startup Nation in Space – Israel’s Equation for the Space Ecosystem 
+- <a href="https://www.cnbc.com/2023/09/20/spacex-countersues-doj-in-hiring-discrimination-case.html" >🔗</a> **[CNBC]** SpaceX countersues Justice Department, seeking to dismiss hiring discrimination case
 - <a href="https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/" >🔗</a> **[European Spaceflight]** RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative
 - <a href="https://europeanspaceflight.com/space-debris-removal-startup-dark-partners-with-bordeaux-airport/" >🔗</a> **[European Spaceflight]** Space Debris Removal Startup Dark Partners with Bordeaux Airport
 - <a href="https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/" >🔗</a> **[SpaceNews]** AST SpaceMobile’s prototype satellite makes first 5G connection
-- <a href="https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/" >🔗</a> **[SpaceNews]** LeoLabs, SAIC to develop space-tracking software platform 
-- <a href="https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/" >🔗</a> **[European Spaceflight]** Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T143310">2023-09-20 14:33:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T150655">2023-09-20 15:06:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
