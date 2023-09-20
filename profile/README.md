@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rfa-led-consortium-submit-argo-for-esa-commercial-cargo-initiative/" >🔗</a> **[European Spaceflight]** RFA-Led Consortium Submit Argo for ESA Commercial Cargo Initiative
 - <a href="https://europeanspaceflight.com/space-debris-removal-startup-dark-partners-with-bordeaux-airport/" >🔗</a> **[European Spaceflight]** Space Debris Removal Startup Dark Partners with Bordeaux Airport
 - <a href="https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/" >🔗</a> **[SpaceNews]** AST SpaceMobile’s prototype satellite makes first 5G connection
 - <a href="https://spacenews.com/leolabs-saic-to-develop-space-tracking-software-platform/" >🔗</a> **[SpaceNews]** LeoLabs, SAIC to develop space-tracking software platform 
 - <a href="https://europeanspaceflight.com/hungarian-astronaut-to-visit-iss-aboard-axiom-5-mission/" >🔗</a> **[European Spaceflight]** Hungarian Astronaut to Visit ISS Aboard Axiom 5 Mission
-- <a href="https://spacenews.com/caci-optical-terminals-pass-initial-tests-required-for-space-development-agency-satellites/" >🔗</a> **[SpaceNews]** CACI optical terminals pass initial tests required for Space Development Agency satellites
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T113144">2023-09-20 11:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230920T121150">2023-09-20 12:11:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
