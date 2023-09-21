@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/" >🔗</a> **[SpaceNews]** The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation
+- <a href="https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/" >🔗</a> **[SpaceNews]** China’s Galactic Energy suffers first launch failure
 - <a href="https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/" >🔗</a> **[SpaceNews]** FAA proposes rule to limit lifetime of upper stages in orbit
 - <a href="https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/" >🔗</a> **[SpaceNews]** Space Force revising commercial space strategy to make it “actionable”
 - <a href="https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/" >🔗</a> **[European Spaceflight]** SmallSpark Completes Hot Fire Test of Thruster Prototype
-- <a href="https://spacepolicyonline.com/news/faa-proposes-upper-stage-disposal-rule-to-limit-space-debris/" >🔗</a> **[SpacePolicyOnline.com]** FAA Proposes Upper Stage Disposal Rule To Limit Space Debris
-- <a href="https://spacenews.com/maxar-technologies-to-reorganize-under-two-separate-businesses/" >🔗</a> **[SpaceNews]** Maxar Technologies reorganizes as two separate businesses
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T143215">2023-09-21 14:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T150446">2023-09-21 15:04:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
