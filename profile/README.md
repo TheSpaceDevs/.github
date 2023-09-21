@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9482/" >🔗</a> **[NASA]** Autonomous Systems Help NASA's Perseverance Do More Science on Mars
+- <a href="https://europeanspaceflight.com/arianegroup-invests-e27m-more-into-maiaspace/" >🔗</a> **[European Spaceflight]** ArianeGroup Invests €27M More into MaiaSpace
 - <a href="https://spacenews.com/the-artemis-accords-changing-the-narrative-from-space-race-to-space-cooperation/" >🔗</a> **[SpaceNews]** The Artemis Accords: Changing the Narrative from Space Race to Space Cooperation
 - <a href="https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/" >🔗</a> **[SpaceNews]** China’s Galactic Energy suffers first launch failure
 - <a href="https://spacenews.com/faa-proposes-rule-to-limit-lifetime-of-upper-stages-in-orbit/" >🔗</a> **[SpaceNews]** FAA proposes rule to limit lifetime of upper stages in orbit
-- <a href="https://spacenews.com/space-force-revising-commercial-space-strategy-to-make-it-actionable/" >🔗</a> **[SpaceNews]** Space Force revising commercial space strategy to make it “actionable”
-- <a href="https://europeanspaceflight.com/smallspark-completes-hot-fire-test-of-thruster-prototype/" >🔗</a> **[European Spaceflight]** SmallSpark Completes Hot Fire Test of Thruster Prototype
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T153154">2023-09-21 15:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T160736">2023-09-21 16:07:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
