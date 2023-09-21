@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/rfa-argo" >🔗</a> **[The Launch Pad]** RFA Submits Argo Spacecraft to ESA Commercial Cargo Transportation Initiative
+- <a href="https://mars.nasa.gov/news/9483/" >🔗</a> **[NASA]** NASA Releases Independent Review's Mars Sample Return Report
 - <a href="https://www.cnbc.com/2023/09/21/investing-in-space-fireflys-space-force-launch-represents-key-moment.html" >🔗</a> **[CNBC]** Investing in Space: Firefly’s successful launch represents a key moment for company’s future
 - <a href="https://spacepolicyonline.com/news/rubio-hits-365-day-mark-in-space-eager-to-get-home/" >🔗</a> **[SpacePolicyOnline.com]** Rubio Hits 365-Day Mark in Space, Eager to Get Home
 - <a href="https://tlpnetwork.com/news/2023/09/ariane-6-long-duration-hot-fire-delayed-following-anomaly" >🔗</a> **[The Launch Pad]** Ariane 6 Long Duration Hot Fire Delayed Following Anomaly
-- <a href="https://mars.nasa.gov/news/9482/" >🔗</a> **[NASA]** Autonomous Systems Help NASA's Perseverance Do More Science on Mars
-- <a href="https://europeanspaceflight.com/arianegroup-invests-e27m-more-into-maiaspace/" >🔗</a> **[European Spaceflight]** ArianeGroup Invests €27M More into MaiaSpace
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T183224">2023-09-21 18:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230921T190349">2023-09-21 19:03:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
