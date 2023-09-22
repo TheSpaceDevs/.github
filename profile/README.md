@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/sierra-space-conducts-5th-life-module-burst-test" >🔗</a> **[The Launch Pad]** Sierra Space Conducts 5th LIFE Module Burst Test
+- <a href="https://tlpnetwork.com/news/2023/09/chinas-galactic-energy-experiences-first-launch-failure" >🔗</a> **[The Launch Pad]** China's Galactic Energy Experiences First Launch Failure
 - <a href="http://www.nasa.gov/press-release/nasa-scientists-to-discuss-oct-14-ring-of-fire-solar-eclipse" >🔗</a> **[NASA]** NASA Scientists to Discuss Oct. 14 'Ring of Fire' Solar Eclipse
 - <a href="https://spacenews.com/satellogic-relocating-to-the-united-states-in-search-of-government-growth/" >🔗</a> **[SpaceNews]** Satellogic relocating to the United States in search of government growth
 - <a href="https://www.nasaspaceflight.com/2023/09/starship-upgrades-upcoming-test-flight/" >🔗</a> **[NASASpaceflight]** Pending FAA approval, Starship ready to sport upgrades for upcoming test flight
-- <a href="http://www.nasa.gov/press-release/record-setting-nasa-astronaut-soon-returns-to-earth-watch-live" >🔗</a> **[NASA]** Record-Setting NASA Astronaut Soon Returns to Earth; Watch Live
-- <a href="https://europeanspaceflight.com/spain-partner-with-esa-to-build-80m-euro-atlantic-constellation/" >🔗</a> **[European Spaceflight]** Spain Partner with ESA to Build €80M Atlantic Constellation
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T213143">2023-09-22 21:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T220529">2023-09-22 22:05:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
