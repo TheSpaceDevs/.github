@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/true-anomaly-gets-17-million-space-force-contract-for-space-domain-awareness-software/" >🔗</a> **[SpaceNews]** True Anomaly gets $17 million Space Force contract for space domain awareness software
+- <a href="https://spacenews.com/nasa-mars-sample-return-budget-and-schedule-unrealistic-independent-review-concludes/" >🔗</a> **[SpaceNews]** NASA Mars Sample Return budget and schedule “unrealistic,” independent review concludes
 - <a href="https://spacepolicyonline.com/news/mars-sample-return-scientifically-critical-but-eye-poppingly-expensive/" >🔗</a> **[SpacePolicyOnline.com]** Mars Sample Return Scientifically Critical, But Eye-Poppingly Expensive
 - <a href="https://arstechnica.com/space/2023/09/independent-review-finds-mars-sample-return-mission-important-but-broken/" >🔗</a> **[Arstechnica]** Independent reviewers find NASA Mars Sample Return plans are seriously flawed
 - <a href="https://tlpnetwork.com/news/2023/09/rfa-argo" >🔗</a> **[The Launch Pad]** RFA Submits Argo Spacecraft to ESA Commercial Cargo Transportation Initiative
-- <a href="https://mars.nasa.gov/news/9483/" >🔗</a> **[NASA]** NASA Releases Independent Review's Mars Sample Return Report
-- <a href="https://www.cnbc.com/2023/09/21/investing-in-space-fireflys-space-force-launch-represents-key-moment.html" >🔗</a> **[CNBC]** Investing in Space: Firefly’s successful launch represents a key moment for company’s future
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T003036">2023-09-22 00:30:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230922T014031">2023-09-22 01:40:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
