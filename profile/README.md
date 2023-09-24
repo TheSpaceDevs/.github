@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room" >🔗</a> **[NASA]** NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room
 - <a href="https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/" >🔗</a> **[SpaceNews]** OSIRIS-REx sample capsule lands in Utah
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-24-30-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 24-30, 2023
 - <a href="https://www.nasaspaceflight.com/2023/09/osirisrex-landing/" >🔗</a> **[NASASpaceflight]** Historic OSIRIS-REx asteroid samples successfully return to Earth
 - <a href="https://spacenews.com/space-force-gets-another-weather-satellite-from-noaa/" >🔗</a> **[SpaceNews]** Space Force gets another weather satellite from NOAA
-- <a href="https://spacenews.com/office-of-space-commerce-touts-progress-on-civil-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Office of Space Commerce touts progress on civil space traffic coordination system
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T213141">2023-09-24 21:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230924T220438">2023-09-24 22:04:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
