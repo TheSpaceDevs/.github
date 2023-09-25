@@ -87,11 +87,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/" >🔗</a> **[SpaceNews]** Beijing to foster commercial space and satellite constellations as key future industries
 - <a href="https://spacepolicyonline.com/news/bonanza-of-asteroid-riches-lands-in-utah/" >🔗</a> **[SpacePolicyOnline.com]** Bonanza of Asteroid Riches Lands in Utah
 - <a href="http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room" >🔗</a> **[NASA]** NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room
 - <a href="https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/" >🔗</a> **[SpaceNews]** OSIRIS-REx sample capsule lands in Utah
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-24-30-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 24-30, 2023
-- <a href="https://www.nasaspaceflight.com/2023/09/osirisrex-landing/" >🔗</a> **[NASASpaceflight]** Historic OSIRIS-REx asteroid samples successfully return to Earth
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T143239">2023-09-25 14:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T150650">2023-09-25 15:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
