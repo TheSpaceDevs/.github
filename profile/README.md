@@ -87,11 +87,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/09/jeff-bezos-announces-new-blue-origin-ceo" >🔗</a> **[The Launch Pad]** BREAKING! Jeff Bezos Announces New Blue Origin CEO In Message To Employees
+- <a href="https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-outgoing-amazon-exec-dave-limp.html" >🔗</a> **[CNBC]** Jeff Bezos’ Blue Origin to replace CEO Bob Smith with outgoing Amazon exec Dave Limp
 - <a href="https://www.cnbc.com/2023/09/25/blue-origin-ceo-bob-smith-out-replaced-by-former-amazon-exec-dave-limp.html" >🔗</a> **[CNBC]** Jeff Bezos’ Blue Origin to replace CEO Bob Smith with former Amazon exec Dave Limp
 - <a href="https://spacenews.com/uaes-5-billion-commitment-opens-doors-for-yahsat/" >🔗</a> **[SpaceNews]** UAE’s $5 billion commitment opens doors for Yahsat 
 - <a href="https://spacenews.com/u-s-space-force-and-astroscale-to-co-invest-in-a-refueling-satellite/" >🔗</a> **[SpaceNews]** U.S. Space Force and Astroscale to co-invest in a refueling satellite
-- <a href="https://www.cnbc.com/2023/09/25/sierra-space-fundraising-nearly-300-million-at-5-billion-valuation.html" >🔗</a> **[CNBC]** Sierra Space raising nearly $300 million from Japanese consortium at $5 billion valuation
-- <a href="https://europeanspaceflight.com/italian-launch-startup-sidereus-space-raises-e5-1m-in-seed-funding/" >🔗</a> **[European Spaceflight]** Italian Launch Startup Sidereus Space Raises €5.1M in Seed+ Funding
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T213137">2023-09-25 21:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T220533">2023-09-25 22:05:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
