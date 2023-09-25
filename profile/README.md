@@ -87,11 +87,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-names-new-head-of-technology-policy-strategy" >🔗</a> **[NASA]** NASA Names New Head of Technology, Policy, Strategy
 - <a href="https://mars.nasa.gov/news/9485/" >🔗</a> **[NASA]** Historic Wind Tunnel Facility Testing NASA's Mars Ascent Vehicle Rocket
 - <a href="https://spacenews.com/beijing-to-foster-commercial-space-and-satellite-constellations-as-key-future-industries/" >🔗</a> **[SpaceNews]** Beijing to foster commercial space and satellite constellations as key future industries
 - <a href="https://spacepolicyonline.com/news/bonanza-of-asteroid-riches-lands-in-utah/" >🔗</a> **[SpacePolicyOnline.com]** Bonanza of Asteroid Riches Lands in Utah
 - <a href="http://www.nasa.gov/press-release/nasa-s-first-asteroid-sample-has-landed-now-secure-in-clean-room" >🔗</a> **[NASA]** NASA’s First Asteroid Sample Has Landed, Now Secure in Clean Room
-- <a href="https://spacenews.com/osiris-rex-sample-capsule-lands-in-utah/" >🔗</a> **[SpaceNews]** OSIRIS-REx sample capsule lands in Utah
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T163650">2023-09-25 16:36:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230925T170606">2023-09-25 17:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
