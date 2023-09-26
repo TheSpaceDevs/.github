@@ -88,11 +88,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sierra-space-raises-290-million/" >🔗</a> **[SpaceNews]** Sierra Space raises $290 million
 - <a href="https://spacepolicyonline.com/news/charity-weeden-is-nasas-new-policy-chief/" >🔗</a> **[SpacePolicyOnline.com]** Charity Weeden is NASA’s New Policy Chief
 - <a href="https://spacenews.com/boeings-quantum-leap-satellites-in-record-time-boosting-national-security-and-commercial-connectivity/" >🔗</a> **[SpaceNews]** Boeing’s Quantum Leap: Satellites in Record Time, Boosting National Security and Commercial Connectivity
 - <a href="https://spacenews.com/blue-origin-ceo-smith-to-step-down/" >🔗</a> **[SpaceNews]** Blue Origin CEO Smith to step down
 - <a href="https://arstechnica.com/space/2023/09/bob-smith-is-finally-gone-from-blue-origin-his-replacement-comes-from-amazon/" >🔗</a> **[Arstechnica]** Jeff Bezos finally got rid of Bob Smith at Blue Origin
-- <a href="https://tlpnetwork.com/news/2023/09/jeff-bezos-announces-new-blue-origin-ceo" >🔗</a> **[The Launch Pad]** Jeff Bezos Announces New Blue Origin CEO In Message To Employees
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T113130">2023-09-26 11:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T121205">2023-09-26 12:12:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
