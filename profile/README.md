@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 4C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T200600">2023-09-26 20:06:00 UTC</a>.  Until
-then, this pad will have been used for 106
-out of 206 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+**Falcon 9 Block 5 | Starlink Group 6-19**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T225300">2023-09-28 22:53:00 UTC</a>.  Until
+then, this pad will have been used for 201
+out of 909 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_4C" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -87,11 +87,11 @@ into *an Unknown Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-aerospace-model-systems-fabrication-follow-on-contract" >🔗</a> **[NASA]** NASA Awards Aerospace Model Systems Fabrication Follow-On Contract
 - <a href="https://europeanspaceflight.com/portugal-adopts-new-space-law/" >🔗</a> **[European Spaceflight]** Portugal Adopts New Space Law
 - <a href="https://www.nasaspaceflight.com/2023/09/lack-of-sls-rockets-limit-nasa-artemis-manifest/" >🔗</a> **[NASASpaceflight]** Lack of SLS rockets limit NASA Artemis manifest
 - <a href="https://spacenews.com/the-race-for-more-space/" >🔗</a> **[SpaceNews]** The Race for More Space: The flawed logic behind making space a 17th Critical Infrastructure
 - <a href="https://spacenews.com/space-critical-infrastructure-breaking-the-binary-debate-and-a-call-for-space-council-action/" >🔗</a> **[SpaceNews]** Space Critical Infrastructure: Breaking the Binary Debate and a Call for Space Council Action
-- <a href="https://spacenews.com/sierra-space-raises-290-million/" >🔗</a> **[SpaceNews]** Sierra Space raises $290 million
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T203135">2023-09-26 20:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230926T210546">2023-09-26 21:05:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
