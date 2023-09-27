@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/x-bow-to-demonstrate-additive-manufacturing-of-solid-rocket-motors-for-u-s-air-force/" >🔗</a> **[SpaceNews]** X-Bow to demonstrate additive manufacturing of solid rocket motors for U.S. Air Force
+- <a href="https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html" >🔗</a> **[CNBC]** SpaceX wins first Pentagon contract for Starshield, its satellite network for military use
+- <a href="https://spacenews.com/rogue-space-systems-gets-us-air-force-funds-to-advance-in-orbit-servicing-tech/" >🔗</a> **[SpaceNews]** Rogue Space Systems gets US Air Force funds to advance in-orbit servicing tech
 - <a href="https://www.cnbc.com/2023/09/27/faa-closes-investigation-into-blue-origins-new-shepard-rocket-failure.html" >🔗</a> **[CNBC]** FAA closes investigation into Blue Origin rocket failure, requires 21 ‘corrective actions’
 - <a href="https://europeanspaceflight.com/esa-to-publish-vega-c-test-z40-test-failure-findings-this-week/" >🔗</a> **[European Spaceflight]** ESA to Publish Vega C Test Z40 Test Failure Findings This Week
-- <a href="http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros" >🔗</a> **[NASA]** Regreso del astronauta de la NASA que batió récords y sus compañeros
-- <a href="http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission" >🔗</a> **[NASA]** Record-Setting NASA Astronaut, Crewmates Return from Space Mission
-- <a href="https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T223137">2023-09-27 22:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T230626">2023-09-27 23:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
