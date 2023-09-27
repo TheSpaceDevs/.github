@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/regreso-del-astronauta-de-la-NASA-que-batio-records-y-sus-companeros" >🔗</a> **[NASA]** Regreso del astronauta de la NASA que batió récords y sus compañeros
 - <a href="http://www.nasa.gov/press-release/record-setting-nasa-astronaut-crewmates-return-from-space-mission" >🔗</a> **[NASA]** Record-Setting NASA Astronaut, Crewmates Return from Space Mission
 - <a href="https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight
 - <a href="https://spacenews.com/soyuz-returns-iss-crew-after-record-setting-stay/" >🔗</a> **[SpaceNews]** Soyuz returns ISS crew after record-setting stay
 - <a href="https://spacenews.com/cybersecurity-firm-xage-gets-17-million-contract-to-protect-space-force-networks/" >🔗</a> **[SpaceNews]** Cybersecurity firm Xage gets $17 million contract to protect Space Force networks
-- <a href="https://spacenews.com/china-narrows-field-for-low-cost-space-station-cargo-missions/" >🔗</a> **[SpaceNews]** China narrows field for low-cost space station cargo missions
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T143208">2023-09-27 14:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T150659">2023-09-27 15:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
