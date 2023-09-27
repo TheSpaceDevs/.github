@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/frank-rubio-back-on-terra-firma-after-record-setting-371-day-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** Frank Rubio Back on Terra Firma After Record-Setting 371-Day Spaceflight
+- <a href="https://spacenews.com/soyuz-returns-iss-crew-after-record-setting-stay/" >🔗</a> **[SpaceNews]** Soyuz returns ISS crew after record-setting stay
 - <a href="https://spacenews.com/cybersecurity-firm-xage-gets-17-million-contract-to-protect-space-force-networks/" >🔗</a> **[SpaceNews]** Cybersecurity firm Xage gets $17 million contract to protect Space Force networks
 - <a href="https://spacenews.com/china-narrows-field-for-low-cost-space-station-cargo-missions/" >🔗</a> **[SpaceNews]** China narrows field for low-cost space station cargo missions
 - <a href="https://spacenews.com/space-force-selects-university-partner-to-evaluate-classified-ground-systems-software/" >🔗</a> **[SpaceNews]** Space Force selects university partner to evaluate classified ground systems software
-- <a href="https://spacenews.com/nasa-offers-choice-of-contract-type-for-iss-deorbit-vehicle/" >🔗</a> **[SpaceNews]** NASA offers choice of contract type for ISS deorbit vehicle
-- <a href="https://spacenews.com/after-setting-new-record-for-responsive-launch-space-force-eyes-next-challenge/" >🔗</a> **[SpaceNews]** After setting new record for responsive launch, Space Force eyes next challenge
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T113159">2023-09-27 11:31:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T121157">2023-09-27 12:11:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
