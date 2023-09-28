@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/" >🔗</a> **[SpaceNews]** Astroscale inspector satellite ready for launch
 - <a href="https://www.nasaspaceflight.com/2023/09/starlink-group-6-19/" >🔗</a> **[NASASpaceflight]** SpaceX to close out third quarter with record-breaking Starlink mission
 - <a href="https://www.cnbc.com/2023/09/28/investing-in-space-moon-company-ispace-opens-denver-headquarters.html" >🔗</a> **[CNBC]** Investing in Space: Japan’s ispace opens Denver headquarters as companies chase moon market
 - <a href="https://europeanspaceflight.com/germany-commits-2m-euros-to-fund-offshore-launch-infrastructure/" >🔗</a> **[European Spaceflight]** Germany Commits €2M to Fund Offshore Launch Infrastructure
 - <a href="https://www.cnbc.com/2023/09/28/eutelsat-oneweb-merge-to-create-satellite-challenger-to-musks-starlink.html" >🔗</a> **[CNBC]** Eutelsat and OneWeb combine to create European satellite giant as Musk’s Starlink pressures sector
-- <a href="https://europeanspaceflight.com/uk-to-provide-65m-for-high-risk-high-reward-space-tech-projects/" >🔗</a> **[European Spaceflight]** UK to Provide £65M for High-Risk, High-Reward Space Tech Projects
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T203150">2023-09-28 20:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T210445">2023-09-28 21:04:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
