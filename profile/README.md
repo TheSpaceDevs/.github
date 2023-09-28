@@ -87,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-closes-new-shepard-mishap-investigation/" >🔗</a> **[SpaceNews]** FAA closes New Shepard mishap investigation
 - <a href="https://spacenews.com/x-bow-to-demonstrate-additive-manufacturing-of-solid-rocket-motors-for-u-s-air-force/" >🔗</a> **[SpaceNews]** X-Bow to demonstrate additive manufacturing of solid rocket motors for U.S. Air Force
 - <a href="https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html" >🔗</a> **[CNBC]** SpaceX wins first Pentagon contract for Starshield, its satellite network for military use
 - <a href="https://spacenews.com/rogue-space-systems-gets-us-air-force-funds-to-advance-in-orbit-servicing-tech/" >🔗</a> **[SpaceNews]** Rogue Space Systems gets US Air Force funds to advance in-orbit servicing tech
 - <a href="https://www.cnbc.com/2023/09/27/faa-closes-investigation-into-blue-origins-new-shepard-rocket-failure.html" >🔗</a> **[CNBC]** FAA closes investigation into Blue Origin rocket failure, requires 21 ‘corrective actions’
-- <a href="https://europeanspaceflight.com/esa-to-publish-vega-c-test-z40-test-failure-findings-this-week/" >🔗</a> **[European Spaceflight]** ESA to Publish Vega C Test Z40 Test Failure Findings This Week
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230927T233135">2023-09-27 23:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T003046">2023-09-28 00:30:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
