@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rogers-to-continue-to-challenge-decision-to-keep-space-command-in-colorado/" >🔗</a> **[SpaceNews]** Rogers to continue to challenge decision to keep Space Command in Colorado
+- <a href="https://www.cnbc.com/2023/09/28/blue-origin-sierra-space-orbital-reef-space-station-in-limbo.html" >🔗</a> **[CNBC]** Blue Origin, Sierra Space weigh future of Orbital Reef space station as partnership turns rocky
 - <a href="https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/" >🔗</a> **[SpaceNews]** Astroscale inspector satellite ready for launch
 - <a href="https://www.nasaspaceflight.com/2023/09/starlink-group-6-19/" >🔗</a> **[NASASpaceflight]** SpaceX to close out third quarter with record-breaking Starlink mission
 - <a href="https://www.cnbc.com/2023/09/28/investing-in-space-moon-company-ispace-opens-denver-headquarters.html" >🔗</a> **[CNBC]** Investing in Space: Japan’s ispace opens Denver headquarters as companies chase moon market
-- <a href="https://europeanspaceflight.com/germany-commits-2m-euros-to-fund-offshore-launch-infrastructure/" >🔗</a> **[European Spaceflight]** Germany Commits €2M to Fund Offshore Launch Infrastructure
-- <a href="https://www.cnbc.com/2023/09/28/eutelsat-oneweb-merge-to-create-satellite-challenger-to-musks-starlink.html" >🔗</a> **[CNBC]** Eutelsat and OneWeb combine to create European satellite giant as Musk’s Starlink pressures sector
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T213138">2023-09-28 21:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230928T220530">2023-09-28 22:05:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
