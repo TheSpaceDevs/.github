@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/" >🔗</a> **[SpaceNews]** China to attempt lunar far side sample return in 2024
 - <a href="https://spacenews.com/nasa-delays-psyche-launch-a-week/" >🔗</a> **[SpaceNews]** NASA delays Psyche launch a week
 - <a href="https://spacepolicyonline.com/news/rogers-demands-air-force-ig-investigation-of-usspacecom-hq-decision/" >🔗</a> **[SpacePolicyOnline.com]** Rogers Demands Air Force IG Investigation of USSPACECOM HQ Decision
 - <a href="https://spacenews.com/rogers-to-continue-to-challenge-decision-to-keep-space-command-in-colorado/" >🔗</a> **[SpaceNews]** Rogers to continue to challenge decision to keep Space Command in Colorado
 - <a href="https://www.cnbc.com/2023/09/28/blue-origin-sierra-space-orbital-reef-space-station-in-limbo.html" >🔗</a> **[CNBC]** Blue Origin, Sierra Space weigh future of Orbital Reef space station as partnership turns rocky
-- <a href="https://spacenews.com/astroscale-inspector-satellite-ready-for-launch/" >🔗</a> **[SpaceNews]** Astroscale inspector satellite ready for launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T083147">2023-09-29 08:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T090644">2023-09-29 09:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
