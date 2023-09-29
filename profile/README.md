@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/" >🔗</a> **[European Spaceflight]** ESA Calls for Small Moon Mission Ideas
+- <a href="https://www.nasaspaceflight.com/2023/09/dream-chaser-tps/" >🔗</a> **[NASASpaceflight]** How Sierra Space Protects America’s Next Space Plane, Dream Chaser
 - <a href="https://spacenews.com/space-development-agency-funds-demonstration-of-satellite-laser-links-in-degraded-environments/" >🔗</a> **[SpaceNews]** Space Development Agency funds demonstration of satellite laser links in ‘degraded’ environments
 - <a href="https://mars.nasa.gov/news/9490/" >🔗</a> **[NASA]** NASA's Perseverance Captures Dust-Filled Martian Whirlwind
 - <a href="https://spacenews.com/ispace-revises-design-of-lunar-lander-for-nasa-clps-mission/" >🔗</a> **[SpaceNews]** Ispace revises design of lunar lander for NASA CLPS mission
-- <a href="https://europeanspaceflight.com/european-commission-launches-targeted-consultation-for-eu-space-law/" >🔗</a> **[European Spaceflight]** European Commission Launches Targeted Consultation for EU Space Law
-- <a href="https://spacenews.com/china-to-attempt-lunar-far-side-sample-return-in-2024/" >🔗</a> **[SpaceNews]** China to attempt lunar far side sample return in 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T193136">2023-09-29 19:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230929T200652">2023-09-29 20:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
