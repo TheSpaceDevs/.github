@@ -87,11 +87,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/shutdown-showdown-coming-to-a-head/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Showdown Coming To a Head
 - <a href="https://spacenews.com/nasa-to-extend-new-horizons-mission-through-late-2020s/" >🔗</a> **[SpaceNews]** NASA to extend New Horizons mission through late 2020s
 - <a href="https://europeanspaceflight.com/esa-calls-for-small-moon-mission-ideas/" >🔗</a> **[European Spaceflight]** ESA Calls for Small Moon Mission Ideas
 - <a href="https://www.nasaspaceflight.com/2023/09/dream-chaser-tps/" >🔗</a> **[NASASpaceflight]** How Sierra Space Protects America’s Next Space Plane, Dream Chaser
 - <a href="https://spacenews.com/space-development-agency-funds-demonstration-of-satellite-laser-links-in-degraded-environments/" >🔗</a> **[SpaceNews]** Space Development Agency funds demonstration of satellite laser links in ‘degraded’ environments
-- <a href="https://mars.nasa.gov/news/9490/" >🔗</a> **[NASA]** NASA's Perseverance Captures Dust-Filled Martian Whirlwind
 
 
 ### Launch-related News 🚀
@@ -100,7 +100,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T163256">2023-09-30 16:32:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230930T170351">2023-09-30 17:03:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
