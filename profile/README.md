@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/vega-c-nozzle-design-to-blame-for-zefiro-40-test-failure/" >🔗</a> **[European Spaceflight]** Vega C Nozzle Design to Blame for Zefiro 40 Test Failure
 - <a href="https://www.nasaspaceflight.com/2023/10/saturn-rings/" >🔗</a> **[NASASpaceflight]** New research provides explanation for the origin of Saturn’s rings and icy moons
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-1-7-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 1-7, 2023
 - <a href="https://spacenews.com/stopgap-spending-bill-includes-faa-learning-period-extension/" >🔗</a> **[SpaceNews]** Stopgap spending bill includes FAA learning period extension
 - <a href="https://spacepolicyonline.com/news/shutdown-averted-government-funded-until-november-17/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Averted, Government Funded Until November 17
-- <a href="https://spacenews.com/nasa-selects-spacex-for-rideshare-launch-of-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA selects SpaceX for rideshare launch of smallsat mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T133145">2023-10-02 13:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231002T140632">2023-10-02 14:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
