@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/" >🔗</a> **[SpaceNews]** SRI partners with Scout Space and Leidos for debris-tracking project
+- <a href="https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week
 - <a href="https://arstechnica.com/space/2023/10/russia-talks-a-big-future-in-space-while-its-overall-budget-is-quietly-cut/" >🔗</a> **[Arstechnica]** Russia talks a big future in space while its overall budget is quietly cut
 - <a href="https://spacenews.com/china-to-send-new-modules-and-co-orbiting-spacecraft-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** China to send new modules and co-orbiting spacecraft to Tiangong space station
 - <a href="https://spacenews.com/u-s-space-force-awards-booz-allen-630-million-contract-for-satellite-systems-support/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Booz Allen $630 million contract for satellite systems support
-- <a href="https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/" >🔗</a> **[SpaceNews]** Comtech wins $48 million U.S. Army contract for satellite modems
-- <a href="https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/" >🔗</a> **[SpaceNews]** Axiom Space partners with Prada on Artemis spacesuits
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T193141">2023-10-04 19:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T200642">2023-10-04 20:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
