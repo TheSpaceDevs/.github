@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/russia-talks-a-big-future-in-space-while-its-overall-budget-is-quietly-cut/" >🔗</a> **[Arstechnica]** Russia talks a big future in space while its overall budget is quietly cut
 - <a href="https://spacenews.com/china-to-send-new-modules-and-co-orbiting-spacecraft-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** China to send new modules and co-orbiting spacecraft to Tiangong space station
 - <a href="https://spacenews.com/u-s-space-force-awards-booz-allen-630-million-contract-for-satellite-systems-support/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Booz Allen $630 million contract for satellite systems support
 - <a href="https://spacenews.com/comtech-wins-48-million-u-s-army-contract-for-satellite-modems/" >🔗</a> **[SpaceNews]** Comtech wins $48 million U.S. Army contract for satellite modems
 - <a href="https://spacenews.com/axiom-space-partners-with-prada-on-artemis-spacesuits/" >🔗</a> **[SpaceNews]** Axiom Space partners with Prada on Artemis spacesuits
-- <a href="https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/" >🔗</a> **[SpaceNews]** First Intuitive Machines lunar lander ready for launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T153146">2023-10-04 15:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231004T160843">2023-10-04 16:08:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
