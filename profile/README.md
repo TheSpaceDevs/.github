@@ -89,20 +89,21 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cesiumastro-hughes-and-ses-demonstrate-active-phased-array-terminal/" >🔗</a> **[SpaceNews]** CesiumAstro, Hughes and SES demonstrate active phased array terminal
+- <a href="https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/" >🔗</a> **[SpaceNews]** Rocket Lab opens engine facility in former Virgin Orbit headquarters
 - <a href="https://spacenews.com/japans-slim-moon-lander-makes-lunar-flyby/" >🔗</a> **[SpaceNews]** Japan’s SLIM moon lander makes lunar flyby
 - <a href="https://spacenews.com/startups-from-four-nations-join-2023-hyperspace-challenge/" >🔗</a> **[SpaceNews]** Startups from four nations join 2023 Hyperspace Challenge
 - <a href="https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/" >🔗</a> **[SpaceNews]** Northrop Grumman to join Voyager Space commercial space station project
-- <a href="https://europeanspaceflight.com/germany-advocates-competitive-launch-procurement-process/" >🔗</a> **[European Spaceflight]** Germany Advocates Competitive Launch Procurement Process
-- <a href="https://spacenews.com/sri-partners-with-scout-space-and-leidos-for-debris-tracking-project/" >🔗</a> **[SpaceNews]** SRI partners with Scout Space and Leidos for debris-tracking project
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T113135">2023-10-05 11:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T121255">2023-10-05 12:12:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
