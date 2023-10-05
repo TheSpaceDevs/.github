@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-wants-a-lunar-satellite-constellation-to-support-deep-space-missions/" >🔗</a> **[SpaceNews]** China wants a lunar satellite constellation to support deep space missions
+- <a href="https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/" >🔗</a> **[European Spaceflight]** PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight
+- <a href="https://www.cnbc.com/2023/10/05/watch-elon-musk-give-updates-about-spacex-from-annual-space-congress.html" >🔗</a> **[CNBC]** Watch Elon Musk give updates about SpaceX from annual space congress
 - <a href="https://spacenews.com/cesiumastro-hughes-and-ses-demonstrate-active-phased-array-terminal/" >🔗</a> **[SpaceNews]** CesiumAstro, Hughes and SES demonstrate active phased array terminal
 - <a href="https://spacenews.com/rocket-lab-opens-engine-facility-in-former-virgin-orbit-headquarters/" >🔗</a> **[SpaceNews]** Rocket Lab opens engine facility in former Virgin Orbit headquarters
-- <a href="https://spacenews.com/japans-slim-moon-lander-makes-lunar-flyby/" >🔗</a> **[SpaceNews]** Japan’s SLIM moon lander makes lunar flyby
-- <a href="https://spacenews.com/startups-from-four-nations-join-2023-hyperspace-challenge/" >🔗</a> **[SpaceNews]** Startups from four nations join 2023 Hyperspace Challenge
-- <a href="https://spacenews.com/northrop-grumman-to-join-voyager-space-commercial-space-station-project/" >🔗</a> **[SpaceNews]** Northrop Grumman to join Voyager Space commercial space station project
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T131145">2023-10-05 13:11:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231005T133437">2023-10-05 13:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
