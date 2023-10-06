@@ -91,11 +91,11 @@ Project Kuiper is a mega constellation of satellites in Low Earth Orbit that wil
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html" >🔗</a> **[CNBC]** Amazon set to launch its first Project Kuiper satellite internet prototypes
+- <a href="https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/" >🔗</a> **[SpaceNews]** Northrop and Voyager emphasize benefits of commercial space station partnership
 - <a href="https://spacenews.com/how-wrong-were-space-spac-projections/" >🔗</a> **[SpaceNews]** How wrong were space SPAC projections?
 - <a href="https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/" >🔗</a> **[SpaceNews]** Connecting the Dots | Double whammy for space insurance
 - <a href="https://spacenews.com/when-funding-is-down-shore-up-your-brand/" >🔗</a> **[SpaceNews]** When funding is down, shore up your brand
-- <a href="https://spacenews.com/stoke-space-raises-100-million-for-reusable-rocket-development/" >🔗</a> **[SpaceNews]** Stoke Space raises $100 million for reusable rocket development
-- <a href="https://arstechnica.com/space/2023/10/rocket-report-stoke-space-secures-the-bag-japan-eyes-reusable-launcher/" >🔗</a> **[Arstechnica]** Rocket Report: NASA to test new RS-25 engines; Russia’s phantom rockets
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ Project Kuiper is a mega constellation of satellites in Low Earth Orbit that wil
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T163642">2023-10-06 16:36:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T170549">2023-10-06 17:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
