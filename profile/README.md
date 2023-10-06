@@ -90,11 +90,11 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/russia-traces-luna-25-crash-to-onboard-control-system-failure/" >🔗</a> **[SpacePolicyOnline.com]** Russia Traces Luna-25 Crash to Onboard Control System Failure
+- <a href="https://spacenews.com/ula-atlas-5-launches-first-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** ULA Atlas 5 launches first Project Kuiper satellites
 - <a href="https://spacenews.com/virgin-galactic-performs-fourth-commercial-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic performs fourth commercial suborbital flight
 - <a href="https://spacenews.com/slingshot-aerospace-harnessing-ai-to-track-suspicious-satellites/" >🔗</a> **[SpaceNews]** Slingshot Aerospace harnessing AI to track suspicious satellites
 - <a href="https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html" >🔗</a> **[CNBC]** Amazon launches first internet satellite prototypes
-- <a href="https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/" >🔗</a> **[SpaceNews]** Northrop and Voyager emphasize benefits of commercial space station partnership
-- <a href="https://spacenews.com/how-wrong-were-space-spac-projections/" >🔗</a> **[SpaceNews]** How wrong were space SPAC projections?
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T213150">2023-10-06 21:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T220525">2023-10-06 22:05:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
