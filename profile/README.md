@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/rocket-report-stoke-space-secures-the-bag-japan-eyes-reusable-launcher/" >🔗</a> **[Arstechnica]** Rocket Report: Stoke Space secures the bag; Japan eyes reusable launcher
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines
 - <a href="https://spacenews.com/india-shifted-launch-of-its-chandrayaan-3-moon-lander-to-avoid-space-objects/" >🔗</a> **[SpaceNews]** India shifted launch of its Chandrayaan-3 moon lander to avoid space objects
 - <a href="https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/" >🔗</a> **[SpaceNews]** Pale Blue raises $7.5 million to mass produce water vapor thrusters
 - <a href="https://spacepolicyonline.com/news/musk-decent-chance-of-starship-reaching-space-next-time/" >🔗</a> **[SpacePolicyOnline.com]** Musk: “Decent Chance” of Starship Reaching Space Next Time
-- <a href="https://spacenews.com/starship-satellite-launches-a-year-away/" >🔗</a> **[SpaceNews]** Starship satellite launches a year away
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T103327">2023-10-06 10:33:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T110456">2023-10-06 11:04:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
