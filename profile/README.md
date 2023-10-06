@@ -18,35 +18,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V 501 | Project Kuiper Protoflight Mission (Atlas V #1)**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T180000">2023-10-06 18:00:00 UTC</a>.  Until
-then, this pad will have been used for 109
-out of 911 launches from this location. The launch status is currently
+**Miura 1 | SN1 Test Flight**. It is scheduled to be launched by *Payload Aerospace S.L.*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" />
+from *<a href="https://en.wikipedia.org/wiki/El_Arenosillo">Médano del Loro</a>, El Arenosillo Test Centre*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T000000">2023-10-07 00:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 0 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  This launch will launch 2 KuiperSat demonstration satellites to 500 km altitude, 30 degree inclination orbit. They were previously scheduled on the 1st Vulcan launch.
-
-Project Kuiper is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.
+  The first flight of PLD Space's MIURA 1 SN1 technology demonstrator allows the collection of as much data as possible for the validation and design of the technology to be transferred and integrated into MIURA 5. In addition, this first suborbital flight allows ZARM Research Institution to study microgravity conditions, gathering information necessary for scientific experiments in future suborbital flights.
+Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once splashdown is completed.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Miura_1" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T180000">2023-10-06 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 501 | Project Kuiper Protoflight Mission (Atlas V #1)&location=Cape Canaveral, FL, USA&dates=20231006T180000Z%2F20231006T200000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 501 | Project Kuiper Protoflight Mission (Atlas V #1)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T000000">2023-10-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Miura 1 | SN1 Test Flight&location=El Arenosillo Test Centre&dates=20231007T000000Z%2F20231007T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Miura 1 | SN1 Test Flight** from El Arenosillo Test Centre.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T013600">2023-10-07 01:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | THEOS-2, TRITON &amp; others&location=Kourou, French Guiana&dates=20231007T013600Z%2F20231007T013600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | THEOS-2, TRITON & others** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T003700">2023-10-09 00:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-22&location=Cape Canaveral, FL, USA&dates=20231009T003700Z%2F20231009T050700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-22** from Cape Canaveral, FL, USA.
@@ -56,6 +54,7 @@ Project Kuiper is a mega constellation of satellites in Low Earth Orbit that wil
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 5 &amp; 6&location=Cape Canaveral, FL, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 5 & 6** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-5&location=Vandenberg SFB, CA, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-1&location=Vandenberg SFB, CA, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-1** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 1 &amp; 2&location=Vandenberg SFB, CA, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 1 & 2** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -100,15 +99,13 @@ Project Kuiper is a mega constellation of satellites in Low Earth Orbit that wil
 
 ### Launch-related News 🚀
 
-- <a href="https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html" >🔗</a> **[CNBC]** Amazon shows off new satellite internet antennas as it takes on SpaceX’s Starlink
-- <a href="https://spacenews.com/amazon-moves-project-kuiper-prototypes-from-vulcan-to-atlas-5/" >🔗</a> **[SpaceNews]** Amazon moves Project Kuiper prototypes from Vulcan to Atlas 5
-- <a href="https://tlpnetwork.com/news/2023/08/amazon-moves-project-kuiper-demo-to-atlas-5" >🔗</a> **[The Launch Pad]** Amazon Moves Project Kuiper Demo From Vulcan To Atlas 5
-- <a href="https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week
+- <a href="https://spacenews.com/pld-space-postpones-first-launch-to-september/" >🔗</a> **[SpaceNews]** PLD Space postpones first launch to September
+- <a href="https://europeanspaceflight.com/pld-space-prepare-for-third-attempt-at-maiden-miura-1-flight/" >🔗</a> **[European Spaceflight]** PLD Space Prepare for Third Attempt at Maiden Miura 1 Flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T173140">2023-10-06 17:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T180842">2023-10-06 18:08:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
