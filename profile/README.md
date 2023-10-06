@@ -18,27 +18,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SpaceShipTwo | Galactic 04**. It is scheduled to be launched by *Virgin Galactic*
+**Atlas V 501 | Project Kuiper Protoflight Mission (Atlas V #1)**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Spaceport_America">Spaceport America</a>, Air launch to Suborbital flight*
-<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T143000">2023-10-06 14:30:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 82 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T180000">2023-10-06 18:00:00 UTC</a>.  Until
+then, this pad will have been used for 109
+out of 911 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Fourth commercial Virgin Galactic mission.
+  This launch will launch 2 KuiperSat demonstration satellites to 500 km altitude, 30 degree inclination orbit. They were previously scheduled on the 1st Vulcan launch.
+
+Project Kuiper is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceShipTwo" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=32.9902778,-106.9719162" >
+  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T000000">2023-10-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gaganyaan Abort Test Booster | TV-D1&location=Satish Dhawan Space Centre, India&dates=20231026T000000Z%2F20231026T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gaganyaan Abort Test Booster | TV-D1** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 5 &amp; 6&location=Cape Canaveral, FL, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 5 & 6** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-5&location=Vandenberg SFB, CA, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-5** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T000000">2023-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-1&location=Vandenberg SFB, CA, USA&dates=20231031T000000Z%2F20231031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-1** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,21 +91,24 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-wrong-were-space-spac-projections/" >🔗</a> **[SpaceNews]** How wrong were space SPAC projections?
+- <a href="https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/" >🔗</a> **[SpaceNews]** Connecting the Dots | Double whammy for space insurance
+- <a href="https://spacenews.com/when-funding-is-down-shore-up-your-brand/" >🔗</a> **[SpaceNews]** When funding is down, shore up your brand
 - <a href="https://spacenews.com/stoke-space-raises-100-million-for-reusable-rocket-development/" >🔗</a> **[SpaceNews]** Stoke Space raises $100 million for reusable rocket development
 - <a href="https://arstechnica.com/space/2023/10/rocket-report-stoke-space-secures-the-bag-japan-eyes-reusable-launcher/" >🔗</a> **[Arstechnica]** Rocket Report: NASA to test new RS-25 engines; Russia’s phantom rockets
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-take-delivery-of-a-pair-of-aerospike-engines/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes take Delivery of a Pair of Aerospike Engines
-- <a href="https://spacenews.com/india-shifted-launch-of-its-chandrayaan-3-moon-lander-to-avoid-space-objects/" >🔗</a> **[SpaceNews]** India shifted launch of its Chandrayaan-3 moon lander to avoid space objects
-- <a href="https://spacenews.com/pale-blue-raises-7-5-million-to-mass-produce-water-vapor-thrusters/" >🔗</a> **[SpaceNews]** Pale Blue raises $7.5 million to mass produce water vapor thrusters
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.cnbc.com/2023/03/14/amazon-first-look-project-kuiper-satellite-internet-antennas.html" >🔗</a> **[CNBC]** Amazon shows off new satellite internet antennas as it takes on SpaceX’s Starlink
+- <a href="https://spacenews.com/amazon-moves-project-kuiper-prototypes-from-vulcan-to-atlas-5/" >🔗</a> **[SpaceNews]** Amazon moves Project Kuiper prototypes from Vulcan to Atlas 5
+- <a href="https://tlpnetwork.com/news/2023/08/amazon-moves-project-kuiper-demo-to-atlas-5" >🔗</a> **[The Launch Pad]** Amazon Moves Project Kuiper Demo From Vulcan To Atlas 5
 - <a href="https://www.nasaspaceflight.com/2023/10/kuipler-protoflight-and-more/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper Protoflight and Galactic 04 highlight this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T153207">2023-10-06 15:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T160809">2023-10-06 16:08:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
