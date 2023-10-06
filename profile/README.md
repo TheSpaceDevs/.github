@@ -90,11 +90,11 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-performs-fourth-commercial-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic performs fourth commercial suborbital flight
+- <a href="https://spacenews.com/slingshot-aerospace-harnessing-ai-to-track-suspicious-satellites/" >🔗</a> **[SpaceNews]** Slingshot Aerospace harnessing AI to track suspicious satellites
 - <a href="https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html" >🔗</a> **[CNBC]** Amazon launches first internet satellite prototypes
 - <a href="https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/" >🔗</a> **[SpaceNews]** Northrop and Voyager emphasize benefits of commercial space station partnership
 - <a href="https://spacenews.com/how-wrong-were-space-spac-projections/" >🔗</a> **[SpaceNews]** How wrong were space SPAC projections?
-- <a href="https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/" >🔗</a> **[SpaceNews]** Connecting the Dots | Double whammy for space insurance
-- <a href="https://spacenews.com/when-funding-is-down-shore-up-your-brand/" >🔗</a> **[SpaceNews]** When funding is down, shore up your brand
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T193135">2023-10-06 19:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T200644">2023-10-06 20:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
