@@ -90,7 +90,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html" >🔗</a> **[CNBC]** Amazon set to launch its first Project Kuiper satellite internet prototypes
+- <a href="https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html" >🔗</a> **[CNBC]** Amazon launches first internet satellite prototypes
 - <a href="https://spacenews.com/northrop-and-voyager-emphasize-benefits-of-commercial-space-station-partnership/" >🔗</a> **[SpaceNews]** Northrop and Voyager emphasize benefits of commercial space station partnership
 - <a href="https://spacenews.com/how-wrong-were-space-spac-projections/" >🔗</a> **[SpaceNews]** How wrong were space SPAC projections?
 - <a href="https://spacenews.com/connecting-the-dots-double-whammy-for-space-insurance/" >🔗</a> **[SpaceNews]** Connecting the Dots | Double whammy for space insurance
@@ -105,7 +105,7 @@ Finally, a PLD Space team shall pick up the rocket in the Atlantic Ocean once sp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T183319">2023-10-06 18:33:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231006T190352">2023-10-06 19:03:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
