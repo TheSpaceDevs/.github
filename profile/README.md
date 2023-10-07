@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/10/ksc-flyover-october-2023/" >🔗</a> **[NASASpaceflight]** KSC Flyover: SLC-40 crew tower rising, Roberts Road expansion detailed
 - <a href="https://spacenews.com/pld-space-launches-first-suborbital-rocket/" >🔗</a> **[SpaceNews]** PLD Space launches first suborbital rocket
 - <a href="https://spacepolicyonline.com/news/russia-traces-luna-25-crash-to-onboard-control-system-failure/" >🔗</a> **[SpacePolicyOnline.com]** Russia Traces Luna-25 Crash to Onboard Control System Failure
 - <a href="https://spacenews.com/ula-atlas-5-launches-first-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** ULA Atlas 5 launches first Project Kuiper satellites
 - <a href="https://spacenews.com/virgin-galactic-performs-fourth-commercial-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic performs fourth commercial suborbital flight
-- <a href="https://spacenews.com/slingshot-aerospace-harnessing-ai-to-track-suspicious-satellites/" >🔗</a> **[SpaceNews]** Slingshot Aerospace harnessing AI to track suspicious satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T183201">2023-10-07 18:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T190334">2023-10-07 19:03:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
