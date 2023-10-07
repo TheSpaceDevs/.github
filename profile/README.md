@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1</a>, Ko
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T013625">2023-10-08 01:36:25 UTC</a>.  Until
 then, this pad will have been used for 48
 out of 319 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Dedicated Rideshare* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
@@ -64,7 +64,7 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T013625">2023-10-08 01:36:25 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | THEOS-2, TRITON &amp; others&location=Kourou, French Guiana&dates=20231008T013625Z%2F20231008T013625Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | THEOS-2, TRITON & others** from Kourou, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T013625">2023-10-08 01:36:25 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | THEOS-2, TRITON &amp; others&location=Kourou, French Guiana&dates=20231008T013625Z%2F20231008T013625Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | THEOS-2, TRITON & others** from Kourou, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T010600">2023-10-09 01:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-22&location=Cape Canaveral, FL, USA&dates=20231009T010600Z%2F20231009T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T072300">2023-10-09 07:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-4&location=Vandenberg SFB, CA, USA&dates=20231009T072300Z%2F20231009T104600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T141649">2023-10-12 14:16:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Psyche&location=Kennedy Space Center, FL, USA&dates=20231012T141649Z%2F20231012T141649Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Psyche** from Kennedy Space Center, FL, USA.
@@ -109,11 +109,11 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pld-space-launches-first-suborbital-rocket/" >🔗</a> **[SpaceNews]** PLD Space launches first suborbital rocket
 - <a href="https://spacepolicyonline.com/news/russia-traces-luna-25-crash-to-onboard-control-system-failure/" >🔗</a> **[SpacePolicyOnline.com]** Russia Traces Luna-25 Crash to Onboard Control System Failure
 - <a href="https://spacenews.com/ula-atlas-5-launches-first-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** ULA Atlas 5 launches first Project Kuiper satellites
 - <a href="https://spacenews.com/virgin-galactic-performs-fourth-commercial-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic performs fourth commercial suborbital flight
 - <a href="https://spacenews.com/slingshot-aerospace-harnessing-ai-to-track-suspicious-satellites/" >🔗</a> **[SpaceNews]** Slingshot Aerospace harnessing AI to track suspicious satellites
-- <a href="https://www.cnbc.com/2023/10/06/amazon-launch-project-kuiper-satellite-internet-prototypes.html" >🔗</a> **[CNBC]** Amazon launches first internet satellite prototypes
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T163306">2023-10-07 16:33:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231007T170415">2023-10-07 17:04:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
