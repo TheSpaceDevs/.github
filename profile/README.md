@@ -109,11 +109,11 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq" >🔗</a> **[The Launch Pad]** RocketLab Opens New Engine Facility In Former Virgin Orbit HQ
+- <a href="https://tlpnetwork.com/news/2023/10/luna-25-crash-caused-by-computer-glitch" >🔗</a> **[The Launch Pad]** Luna-25 Crash Caused By Computer Glitch
+- <a href="https://tlpnetwork.com/news/2023/10/virgin-galactic-completes-fourth-commercial-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic Completes Fourth Commercial Mission
+- <a href="https://spacenews.com/azerbaijan-signs-up-to-chinas-international-moon-base-project/" >🔗</a> **[SpaceNews]** Azerbaijan signs up to China’s international moon base project
 - <a href="https://www.nasaspaceflight.com/2023/10/psyche-sofia/" >🔗</a> **[NASASpaceflight]** SOFIA provides insights into the metallic characteristics of asteroid Psyche
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-8-14-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 8-14, 2023
-- <a href="https://spacenews.com/head-of-disruptive-space-procurement-agency-hits-back-at-critics-change-is-hard/" >🔗</a> **[SpaceNews]** Head of ‘disruptive’ space procurement agency hits back at critics: ‘Change is hard’
-- <a href="https://www.nasaspaceflight.com/2023/10/ksc-flyover-october-2023/" >🔗</a> **[NASASpaceflight]** KSC Flyover: SLC-40 crew tower rising, Roberts Road expansion detailed
-- <a href="https://spacenews.com/pld-space-launches-first-suborbital-rocket/" >🔗</a> **[SpaceNews]** PLD Space launches first suborbital rocket
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T213132">2023-10-08 21:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T220434">2023-10-08 22:04:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
