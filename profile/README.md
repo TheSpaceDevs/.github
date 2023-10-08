@@ -109,11 +109,11 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits" >🔗</a> **[The Launch Pad]** Axiom Space To Collaborate With Prada On Artemis Spacesuits
 - <a href="https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq" >🔗</a> **[The Launch Pad]** RocketLab Opens New Engine Facility In Former Virgin Orbit HQ
 - <a href="https://tlpnetwork.com/news/2023/10/luna-25-crash-caused-by-computer-glitch" >🔗</a> **[The Launch Pad]** Luna-25 Crash Caused By Computer Glitch
 - <a href="https://tlpnetwork.com/news/2023/10/virgin-galactic-completes-fourth-commercial-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic Completes Fourth Commercial Mission
 - <a href="https://spacenews.com/azerbaijan-signs-up-to-chinas-international-moon-base-project/" >🔗</a> **[SpaceNews]** Azerbaijan signs up to China’s international moon base project
-- <a href="https://www.nasaspaceflight.com/2023/10/psyche-sofia/" >🔗</a> **[NASASpaceflight]** SOFIA provides insights into the metallic characteristics of asteroid Psyche
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ Nanosatellite Systems for Earth observation Research) is a cluster of 3 Earth ob
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T223134">2023-10-08 22:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231008T230524">2023-10-08 23:05:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
