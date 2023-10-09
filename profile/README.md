@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vega-launches-a-dozen-smallsats/" >🔗</a> **[SpaceNews]** Vega launches a dozen smallsats
 - <a href="https://europeanspaceflight.com/pld-space-successfully-debuts-suborbital-miura-1-rocket/" >🔗</a> **[European Spaceflight]** PLD Space Successfully Debuts Suborbital Miura 1 Rocket
 - <a href="https://tlpnetwork.com/news/2023/10/axiom-space-to-collaborate-with-prada-on-artemis-spacesuits" >🔗</a> **[The Launch Pad]** Axiom Space To Collaborate With Prada On Artemis Spacesuits
 - <a href="https://tlpnetwork.com/news/2023/10/rocketlab-opens-new-engine-facility-in-former-virgin-orbit-hq" >🔗</a> **[The Launch Pad]** RocketLab Opens New Engine Facility In Former Virgin Orbit HQ
 - <a href="https://tlpnetwork.com/news/2023/10/luna-25-crash-caused-by-computer-glitch" >🔗</a> **[The Launch Pad]** Luna-25 Crash Caused By Computer Glitch
-- <a href="https://tlpnetwork.com/news/2023/10/virgin-galactic-completes-fourth-commercial-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic Completes Fourth Commercial Mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T103527">2023-10-09 10:35:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T110537">2023-10-09 11:05:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
