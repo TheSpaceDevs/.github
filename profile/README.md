@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-sign-agreement-with-axiom-space/" >🔗</a> **[European Spaceflight]** ESA Sign Agreement with Axiom Space
+- <a href="https://arstechnica.com/space/2023/10/for-the-third-time-in-a-year-russian-hardware-on-the-space-station-is-leaking/" >🔗</a> **[Arstechnica]** For the third time in a year, Russian hardware on the space station is leaking
 - <a href="https://spacenews.com/russian-iss-module-experiences-coolant-leak/" >🔗</a> **[SpaceNews]** Russian ISS module experiences coolant leak
 - <a href="https://spacepolicyonline.com/news/russian-space-station-module-springs-a-coolant-leak/" >🔗</a> **[SpacePolicyOnline.com]** Russian Space Station Module Springs a Coolant Leak
 - <a href="https://spacenews.com/spacex-slams-faa-report-on-falling-space-debris-danger/" >🔗</a> **[SpaceNews]** SpaceX slams FAA report on falling space debris danger
-- <a href="https://spacenews.com/space-insurers-brace-for-more-claims-after-propulsion-trouble-on-four-geo-satellites/" >🔗</a> **[SpaceNews]** Space insurers brace for more claims after propulsion trouble on four GEO satellites
-- <a href="https://spacenews.com/new-head-of-smallsat-supplier-blue-canyon-sets-sights-on-defense-market-growth/" >🔗</a> **[SpaceNews]** New head of smallsat supplier Blue Canyon sets sights on defense market growth
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T133149">2023-10-10 13:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T140644">2023-10-10 14:06:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
