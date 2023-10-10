@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/" >🔗</a> **[SpaceNews]** ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups
 - <a href="https://spacenews.com/dod-funded-space-project-advances-non-gps-navigation/" >🔗</a> **[SpaceNews]** DoD-funded space project advances non-GPS navigation
 - <a href="https://www.nasaspaceflight.com/2023/10/aii-core-weld-issues/" >🔗</a> **[NASASpaceflight]** SLS working to overcome supply chain, weld issues to complete Artemis II Core Stage this year
 - <a href="https://spacenews.com/more-eyes-in-the-sky-nro-building-new-satellites-to-deliver-10-times-more-signals-and-images/" >🔗</a> **[SpaceNews]** More eyes in the sky: NRO building new satellites to deliver ‘10 times more signals and images’
 - <a href="https://spacenews.com/evolution-space-to-develop-solid-rocket-motors-at-nasa-stennis/" >🔗</a> **[SpaceNews]** Evolution Space to develop solid rocket motors at NASA Stennis
-- <a href="https://europeanspaceflight.com/esa-sign-agreement-with-axiom-space/" >🔗</a> **[European Spaceflight]** ESA Sign Agreement with Axiom Space
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T203150">2023-10-10 20:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T210549">2023-10-10 21:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
