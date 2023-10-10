@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/10/aii-core-weld-issues/" >🔗</a> **[NASASpaceflight]** SLS working to overcome supply chain, weld issues to complete Artemis II Core Stage this year
 - <a href="https://spacenews.com/more-eyes-in-the-sky-nro-building-new-satellites-to-deliver-10-times-more-signals-and-images/" >🔗</a> **[SpaceNews]** More eyes in the sky: NRO building new satellites to deliver ‘10 times more signals and images’
 - <a href="https://spacenews.com/evolution-space-to-develop-solid-rocket-motors-at-nasa-stennis/" >🔗</a> **[SpaceNews]** Evolution Space to develop solid rocket motors at NASA Stennis
 - <a href="https://europeanspaceflight.com/esa-sign-agreement-with-axiom-space/" >🔗</a> **[European Spaceflight]** ESA Sign Agreement with Axiom Space
 - <a href="https://arstechnica.com/space/2023/10/for-the-third-time-in-a-year-russian-hardware-on-the-space-station-is-leaking/" >🔗</a> **[Arstechnica]** For the third time in a year, Russian hardware on the space station is leaking
-- <a href="https://spacenews.com/russian-iss-module-experiences-coolant-leak/" >🔗</a> **[SpaceNews]** Russian ISS module experiences coolant leak
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T183223">2023-10-10 18:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T190353">2023-10-10 19:03:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
