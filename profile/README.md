@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/russian-space-station-module-springs-a-coolant-leak/" >🔗</a> **[SpacePolicyOnline.com]** Russian Space Station Module Springs a Coolant Leak
+- <a href="https://spacenews.com/spacex-slams-faa-report-on-falling-space-debris-danger/" >🔗</a> **[SpaceNews]** SpaceX slams FAA report on falling space debris danger
 - <a href="https://spacenews.com/space-insurers-brace-for-more-claims-after-propulsion-trouble-on-four-geo-satellites/" >🔗</a> **[SpaceNews]** Space insurers brace for more claims after propulsion trouble on four GEO satellites
 - <a href="https://spacenews.com/new-head-of-smallsat-supplier-blue-canyon-sets-sights-on-defense-market-growth/" >🔗</a> **[SpaceNews]** New head of smallsat supplier Blue Canyon sets sights on defense market growth
 - <a href="https://arstechnica.com/space/2023/10/spanish-companys-success-comes-at-a-critical-time-for-europes-launch-industry/" >🔗</a> **[Arstechnica]** Spanish company’s success comes at a critical time for Europe’s launch industry
-- <a href="https://www.teslarati.com/spacex-reschedules-starlink-launch-22-more-satellites/" >🔗</a> **[Teslarati]** SpaceX reschedules Starlink launch for 22 more satellites
-- <a href="https://tlpnetwork.com/news/2023/10/amazon-launches-first-kuiper-satellites" >🔗</a> **[The Launch Pad]** Amazon launches first Kuiper satellites
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231009T233142">2023-10-09 23:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231010T003041">2023-10-10 00:30:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
