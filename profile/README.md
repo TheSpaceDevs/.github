@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/proteus-space-raises-seed-funding-for-ai-assisted-smallsat-development/" >🔗</a> **[SpaceNews]** Proteus Space raises seed funding for AI-assisted smallsat development
 - <a href="https://spacenews.com/astrobotic-resumes-flights-of-xodiac-suborbital-vehicle/" >🔗</a> **[SpaceNews]** Astrobotic resumes flights of Xodiac suborbital vehicle
 - <a href="https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/" >🔗</a> **[SpaceNews]** ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups
 - <a href="https://spacenews.com/dod-funded-space-project-advances-non-gps-navigation/" >🔗</a> **[SpaceNews]** DoD-funded space project advances non-GPS navigation
 - <a href="https://www.nasaspaceflight.com/2023/10/aii-core-weld-issues/" >🔗</a> **[NASASpaceflight]** SLS working to overcome supply chain, weld issues to complete Artemis II Core Stage this year
-- <a href="https://spacenews.com/more-eyes-in-the-sky-nro-building-new-satellites-to-deliver-10-times-more-signals-and-images/" >🔗</a> **[SpaceNews]** More eyes in the sky: NRO building new satellites to deliver ‘10 times more signals and images’
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T103434">2023-10-11 10:34:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T110501">2023-10-11 11:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
