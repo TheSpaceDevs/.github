@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/debris-removal-contenders-hit-design-milestone-for-double-satellite-mission/" >🔗</a> **[SpaceNews]** Debris-removal contenders hit design milestone for double-satellite mission
 - <a href="https://europeanspaceflight.com/cnes-selects-hemeria-to-produce-90-research-balloons/" >🔗</a> **[European Spaceflight]** CNES Selects HEMERIA to Produce 90 Research Balloons
 - <a href="https://spacenews.com/tech-innovations-help-space-force-guardians-prepare-for-the-battlefield-above/" >🔗</a> **[SpaceNews]** Tech innovations help Space Force guardians prepare for the battlefield above
 - <a href="https://spacenews.com/proteus-space-raises-seed-funding-for-ai-assisted-smallsat-development/" >🔗</a> **[SpaceNews]** Proteus Space raises seed funding for AI-assisted smallsat development
 - <a href="https://spacenews.com/astrobotic-resumes-flights-of-xodiac-suborbital-vehicle/" >🔗</a> **[SpaceNews]** Astrobotic resumes flights of Xodiac suborbital vehicle
-- <a href="https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/" >🔗</a> **[SpaceNews]** ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T193138">2023-10-11 19:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T200702">2023-10-11 20:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
