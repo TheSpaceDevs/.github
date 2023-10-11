@@ -18,34 +18,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-22**. It is scheduled to be launched by *SpaceX*
+**Falcon Heavy | Psyche**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T232000">2023-10-11 23:20:00 UTC</a>.  Until
-then, this pad will have been used for 203
-out of 912 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T141649">2023-10-12 14:16:49 UTC</a>.  Until
+then, this pad will have been used for 165
+out of 223 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Planetary Science* and the payload will be injected
+into *a Heliocentric N/A
+(Helio-N/A)*.
 <br>
 <blockquote>
-  A batch of 22 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Psyche is a NASA interplanetary mission to visit the main belt asteroid of the same name, 16 Psyche. Spacecraft will take 4 years and one Mars flyby to reach the asteroid, which is of particular interest due to being comprised mostly of iron and nickel. Psyche is theorized to be a remnant of an early planet's core, and may offer insights into how solar system formed and evolved. The mission is led by Arizona State University, with NASA JPL being responsible for mission management and operations.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T232000">2023-10-11 23:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-22&location=Cape Canaveral, FL, USA&dates=20231011T232000Z%2F20231012T034000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T141649">2023-10-12 14:16:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Psyche&location=Kennedy Space Center, FL, USA&dates=20231012T141649Z%2F20231012T141649Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Psyche** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T225500">2023-10-12 22:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-22&location=Cape Canaveral, FL, USA&dates=20231012T225500Z%2F20231013T032700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T004600">2023-10-15 00:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231015T004600Z%2F20231015T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T214000">2023-10-15 21:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-23&location=Cape Canaveral, FL, USA&dates=20231015T214000Z%2F20231016T021100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-23** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T000000">2023-10-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gaganyaan Abort Test Booster | TV-D1&location=Satish Dhawan Space Centre, India&dates=20231026T000000Z%2F20231026T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gaganyaan Abort Test Booster | TV-D1** from Satish Dhawan Space Centre, India.
@@ -89,21 +89,61 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-selects-hemeria-to-produce-90-research-balloons/" >🔗</a> **[European Spaceflight]** CNES Selects HEMERIA to Produce 90 Research Balloons
+- <a href="https://spacenews.com/tech-innovations-help-space-force-guardians-prepare-for-the-battlefield-above/" >🔗</a> **[SpaceNews]** Tech innovations help Space Force guardians prepare for the battlefield above
 - <a href="https://spacenews.com/proteus-space-raises-seed-funding-for-ai-assisted-smallsat-development/" >🔗</a> **[SpaceNews]** Proteus Space raises seed funding for AI-assisted smallsat development
 - <a href="https://spacenews.com/astrobotic-resumes-flights-of-xodiac-suborbital-vehicle/" >🔗</a> **[SpaceNews]** Astrobotic resumes flights of Xodiac suborbital vehicle
 - <a href="https://spacenews.com/esas-euclid-space-telescope-obtaining-magnificent-test-images-despite-a-few-finetuning-hiccups/" >🔗</a> **[SpaceNews]** ESA’s Euclid space telescope obtaining “magnificent” test images despite a few finetuning hiccups
-- <a href="https://spacenews.com/dod-funded-space-project-advances-non-gps-navigation/" >🔗</a> **[SpaceNews]** DoD-funded space project advances non-GPS navigation
-- <a href="https://www.nasaspaceflight.com/2023/10/aii-core-weld-issues/" >🔗</a> **[NASASpaceflight]** SLS working to overcome supply chain, weld issues to complete Artemis II Core Stage this year
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-reschedules-starlink-launch-22-more-satellites/" >🔗</a> **[Teslarati]** SpaceX reschedules Starlink launch for 22 more satellites
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-mission-asteroid/" >🔗</a> **[Teslarati]** SpaceX selected for NASA mission to study unique metal asteroid
+- <a href="https://spacenews.com/falcon-heavy-to-launch-nasa-psyche-asteroid-mission/" >🔗</a> **[SpaceNews]** Falcon Heavy to launch NASA Psyche asteroid mission
+- <a href="https://spaceflightnow.com/2020/03/04/nasa-taps-spacexs-falcon-heavy-rocket-to-launch-mission-to-metal-asteroid/" >🔗</a> **[Spaceflight Now]** NASA taps SpaceX’s Falcon Heavy rocket to launch mission to metal asteroid
+- <a href="https://spacenews.com/mars-smallsat-mission-bumped-from-launch/" >🔗</a> **[SpaceNews]** Mars smallsat mission bumped from launch
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-mission-power-on-milestone/" >🔗</a> **[Teslarati]** SpaceX’s NASA Falcon Heavy launch debut a step closer as interplanetary payload powers up
+- <a href="https://arstechnica.com/science/2021/04/nasas-most-metal-mission-will-test-new-higher-power-electric-thrusters/" >🔗</a> **[Arstechnica]** NASA’s most metal mission will test new, higher-power electric thrusters
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-five-launches-2022/" >🔗</a> **[Teslarati]** SpaceX’s Falcon Heavy rocket is scheduled to launch five times next year
+- <a href="https://www.nasaspaceflight.com/2022/01/psyche-environmental-testing/" >🔗</a> **[NASASpaceflight]** Psyche to begin environmental testing ahead of August 2022 launch
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy payload arrives in Florida for the first time in years
+- <a href="https://spaceflightnow.com/2022/05/05/psyche-asteroid-explorer-arrives-at-kennedy-space-center-for-final-launch-preps/" >🔗</a> **[Spaceflight Now]** Psyche asteroid explorer arrives at Kennedy Space Center for launch preps
+- <a href="https://spaceflightnow.com/2022/05/23/launch-of-nasas-psyche-asteroid-mission-delayed-to-late-september/" >🔗</a> **[Spaceflight Now]** Launch of NASA’s Psyche asteroid mission delayed to late September
+- <a href="https://spacenews.com/software-problem-delays-nasa-psyche-launch/" >🔗</a> **[SpaceNews]** Software problem delays NASA Psyche launch
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
+- <a href="https://spacenews.com/psyche-launch-delay-forcing-revamp-of-rideshare-mission/" >🔗</a> **[SpaceNews]** Psyche launch delay forcing revamp of rideshare mission
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA to Discuss Psyche Asteroid Mission
+- <a href="http://www.nasa.gov/press-release/nasa-announces-launch-delay-for-psyche-asteroid-mission" >🔗</a> **[NASA]** NASA Announces Launch Delay for Psyche Asteroid Mission
+- <a href="https://spacenews.com/software-testing-problem-delays-psyche-launch/" >🔗</a> **[SpaceNews]** Software testing problem delays Psyche launch
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay-2023/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket’s NASA Psyche launch delayed to 2023
+- <a href="https://spaceflightnow.com/2022/06/27/after-software-delays-nasa-gives-up-on-launching-psyche-asteroid-mission-this-year/" >🔗</a> **[Spaceflight Now]** After software delays, NASA says Psyche asteroid mission won’t launch this year
+- <a href="https://spacenews.com/psyche-launch-rescheduled-for-october-2023/" >🔗</a> **[SpaceNews]** Psyche launch rescheduled for October 2023
+- <a href="https://spaceflightnow.com/2022/10/31/nasa-sets-october-2023-launch-date-for-psyche-asteroid-mission/" >🔗</a> **[Spaceflight Now]** NASA sets October 2023 launch date for Psyche asteroid mission
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-psyche-independent-review-board-results" >🔗</a> **[NASA]** NASA to Discuss Psyche Independent Review Board Results
+- <a href="http://www.nasa.gov/press-release/as-psyche-mission-moves-forward-nasa-responds-to-independent-review" >🔗</a> **[NASA]** As Psyche Mission Moves Forward, NASA Responds to Independent Review
+- <a href="https://spacenews.com/psyche-review-finds-institutional-problems-at-jpl/" >🔗</a> **[SpaceNews]** Psyche review finds institutional problems at JPL
+- <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
+- <a href="https://spacenews.com/jpl-making-progress-on-psyche-independent-review-recommendations/" >🔗</a> **[SpaceNews]** JPL making progress on Psyche independent review recommendations
+- <a href="https://tlpnetwork.com/news/2023/03/nasa-updates-psyche-mission-plan" >🔗</a> **[The Launch Pad]** NASA Updates Psyche Mission Plan
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-conclusions-of-psyche-mission-independent-review-board" >🔗</a> **[NASA]** NASA to Discuss Conclusions of Psyche Mission Independent Review Board
+- <a href="http://www.nasa.gov/press-release/review-board-nasa-jpl-psyche-progress-outstanding-launch-on-track" >🔗</a> **[NASA]** Review Board: NASA-JPL Psyche Progress Outstanding, Launch on Track
+- <a href="https://arstechnica.com/space/2023/06/nasa-says-its-metal-mission-psyche-is-back-on-track-for-an-october-liftoff/" >🔗</a> **[Arstechnica]** Game on—the most metal of asteroid missions is back on the menu
+- <a href="https://spacenews.com/nasa-psyche-mission-back-on-track-for-october-launch/" >🔗</a> **[SpaceNews]** NASA Psyche mission back on track for October launch
+- <a href="https://tlpnetwork.com/news/2023/06/nasa-psyche-set-to-launch-in-october" >🔗</a> **[The Launch Pad]** NASA Psyche Set To Launch In October
+- <a href="https://tlpnetwork.com/news/2023/07/nasa-cancels-janus-mission-after-launch-postponement" >🔗</a> **[The Launch Pad]** NASA Cancels Janus Mission After Launch Postponement
+- <a href="https://spacenews.com/nasa-cancels-janus-asteroid-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA cancels Janus asteroid smallsat mission
+- <a href="https://tlpnetwork.com/news/2023/08/psyche-one-step-closer-to-launch-solar-arrays-installed" >🔗</a> **[The Launch Pad]** Psyche One Step Closer To Launch, Solar Arrays Installed
+- <a href="http://www.nasa.gov/press-release/la-nasa-invita-a-los-medios-al-lanzamiento-de-psyche" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Psyche
+- <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-psyche-launch-mission-will-study-an-asteroid" >🔗</a> **[NASA]** NASA Invites Media to Psyche Launch, Mission will Study an Asteroid
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-psyche-asteroid-mission-optical-communications-demo" >🔗</a> **[NASA]** NASA to Discuss Psyche Asteroid Mission, Optical Communications Demo
+- <a href="https://spacenews.com/psyche-asteroid-mission-set-for-october-launch/" >🔗</a> **[SpaceNews]** Psyche asteroid mission set for October launch
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche" >🔗</a> **[NASA]** NASA to Discuss Optical Communications Demo Riding with Psyche
+- <a href="https://spacenews.com/nasa-delays-psyche-launch-a-week/" >🔗</a> **[SpaceNews]** NASA delays Psyche launch a week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T133157">2023-10-11 13:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231011T150504">2023-10-11 15:05:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
