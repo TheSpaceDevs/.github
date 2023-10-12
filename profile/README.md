@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/10/12/maersk-signs-with-spacex-to-add-starlink-internet-to-over-330-ships.html" >🔗</a> **[CNBC]** Shipping giant Maersk to add SpaceX’s Starlink internet to over 330 ships by early next year
 - <a href="https://www.cnbc.com/2023/10/12/investing-in-space-a-reality-check-on-spac-frenzy-revenue-projections.html" >🔗</a> **[CNBC]** Investing in Space: A reality check on SPAC frenzy revenue projections
 - <a href="https://spacenews.com/startup-guardiansat-gets-research-grant-for-satellite-self-defense-technology/" >🔗</a> **[SpaceNews]** Startup GuardianSat gets research grant for satellite self-defense technology
 - <a href="https://spacenews.com/commercial-interruption-space-wargame-exposes-risk-of-dangerous-escalation/" >🔗</a> **[SpaceNews]** Commercial Interruption: Space wargame exposes risk of dangerous escalation
 - <a href="https://www.teslarati.com/spacex-starlink-maersk-deal-ocean-fleet/" >🔗</a> **[Teslarati]** SpaceX Starlink lands Maersk in new deal for Ocean fleet
-- <a href="https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/" >🔗</a> **[Arstechnica]** Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T183354">2023-10-12 18:33:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T190411">2023-10-12 19:04:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
