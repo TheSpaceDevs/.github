@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/" >🔗</a> **[European Spaceflight]** Second SpaceForest Perun Flight Aborted After Engine Failure
 - <a href="https://spacenews.com/intelsat-signs-multi-launch-contract-with-relativity-space/" >🔗</a> **[SpaceNews]** Intelsat signs multi-launch contract with Relativity Space
 - <a href="https://spacepolicyonline.com/news/nasa-begins-analysis-of-samples-from-one-asteroid-as-it-readies-launch-to-another/" >🔗</a> **[SpacePolicyOnline.com]** NASA Begins Analysis of Samples from One Asteroid as it Readies Launch to Another
 - <a href="https://spacenews.com/italys-argotec-to-design-build-test-and-operate-satellites-in-maryland/" >🔗</a> **[SpaceNews]** Italy’s Argotec to design, build, test and operate satellites in Maryland
 - <a href="https://spacenews.com/u-s-to-pursue-stronger-collaboration-with-allies-in-military-space-programs/" >🔗</a> **[SpaceNews]** U.S. to pursue stronger collaboration with allies in military space programs
-- <a href="https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/" >🔗</a> **[Arstechnica]** NASA finds water and organics in asteroid sample—possible clues to origin of life
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T073131">2023-10-12 07:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T080901">2023-10-12 08:09:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
