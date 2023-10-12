@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-maersk-deal-ocean-fleet/" >🔗</a> **[Teslarati]** SpaceX Starlink lands Maersk in new deal for Ocean fleet
+- <a href="https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/" >🔗</a> **[Arstechnica]** Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings
 - <a href="https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/" >🔗</a> **[European Spaceflight]** Avio Target Up To 6 Vega C Flights in 2025
 - <a href="https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/" >🔗</a> **[SpaceNews]** Viasat has enough throughput on ViaSat-3 Americas to avoid replacement
 - <a href="https://www.cnbc.com/2023/10/12/viasat-wont-replace-damaged-americas-satellite-improves-financial-targets.html" >🔗</a> **[CNBC]** Viasat won’t replace damaged Americas satellite, moves up financial targets
-- <a href="https://spacenews.com/scientists-excited-by-first-look-at-osiris-rex-asteroid-samples/" >🔗</a> **[SpaceNews]** Scientists excited by first look at OSIRIS-REx asteroid samples
-- <a href="https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/" >🔗</a> **[European Spaceflight]** Second SpaceForest Perun Flight Aborted After Engine Failure
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T153201">2023-10-12 15:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T160818">2023-10-12 16:08:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
