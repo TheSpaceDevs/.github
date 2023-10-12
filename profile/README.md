@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/" >🔗</a> **[European Spaceflight]** Avio Target Up To 6 Vega C Flights in 2025
+- <a href="https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/" >🔗</a> **[SpaceNews]** Viasat has enough throughput on ViaSat-3 Americas to avoid replacement
 - <a href="https://www.cnbc.com/2023/10/12/viasat-wont-replace-damaged-americas-satellite-improves-financial-targets.html" >🔗</a> **[CNBC]** Viasat won’t replace damaged Americas satellite, moves up financial targets
 - <a href="https://spacenews.com/scientists-excited-by-first-look-at-osiris-rex-asteroid-samples/" >🔗</a> **[SpaceNews]** Scientists excited by first look at OSIRIS-REx asteroid samples
 - <a href="https://europeanspaceflight.com/second-spaceforest-perun-flight-aborted-after-engine-failure/" >🔗</a> **[European Spaceflight]** Second SpaceForest Perun Flight Aborted After Engine Failure
-- <a href="https://spacenews.com/intelsat-signs-multi-launch-contract-with-relativity-space/" >🔗</a> **[SpaceNews]** Intelsat signs multi-launch contract with Relativity Space
-- <a href="https://spacepolicyonline.com/news/nasa-begins-analysis-of-samples-from-one-asteroid-as-it-readies-launch-to-another/" >🔗</a> **[SpacePolicyOnline.com]** NASA Begins Analysis of Samples from One Asteroid as it Readies Launch to Another
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T133423">2023-10-12 13:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T140645">2023-10-12 14:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
