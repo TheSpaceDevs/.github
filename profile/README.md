@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/10/12/investing-in-space-a-reality-check-on-spac-frenzy-revenue-projections.html" >🔗</a> **[CNBC]** Investing in Space: A reality check on SPAC frenzy revenue projections
+- <a href="https://spacenews.com/startup-guardiansat-gets-research-grant-for-satellite-self-defense-technology/" >🔗</a> **[SpaceNews]** Startup GuardianSat gets research grant for satellite self-defense technology
 - <a href="https://spacenews.com/commercial-interruption-space-wargame-exposes-risk-of-dangerous-escalation/" >🔗</a> **[SpaceNews]** Commercial Interruption: Space wargame exposes risk of dangerous escalation
 - <a href="https://www.teslarati.com/spacex-starlink-maersk-deal-ocean-fleet/" >🔗</a> **[Teslarati]** SpaceX Starlink lands Maersk in new deal for Ocean fleet
 - <a href="https://arstechnica.com/space/2023/10/oops-it-looks-like-the-ariane-6-rocket-may-not-offer-europe-any-launch-savings/" >🔗</a> **[Arstechnica]** Oops—It looks like the Ariane 6 rocket may not offer Europe any launch savings
-- <a href="https://europeanspaceflight.com/avio-target-up-to-6-vega-c-flights-in-2025/" >🔗</a> **[European Spaceflight]** Avio Target Up To 6 Vega C Flights in 2025
-- <a href="https://spacenews.com/viasat-has-enough-throughput-on-viasat-3-americas-to-avoid-replacement/" >🔗</a> **[SpaceNews]** Viasat has enough throughput on ViaSat-3 Americas to avoid replacement
 
 
 ### Launch-related News 🚀
@@ -143,7 +143,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T173144">2023-10-12 17:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231012T180852">2023-10-12 18:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
