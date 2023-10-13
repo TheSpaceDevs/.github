@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/" >🔗</a> **[SpaceNews]** UK’s Asteroid Mining Corp. unveils SCAR-E robot
+- <a href="https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/" >🔗</a> **[SpaceNews]** Space Force to create ‘system deltas’ to sync space tech with operator needs
 - <a href="https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/" >🔗</a> **[Arstechnica]** NASA should consider commercial alternatives to SLS, inspector general says
 - <a href="https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/" >🔗</a> **[SpaceNews]** Riverside Research to develop software to analyze space objects in congested orbits
 - <a href="https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/" >🔗</a> **[SpacePolicyOnline.com]** Psyche on Its Way to Metal-Rich Asteroid
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-aces-nasa-s-psyche-spacecraft-launch/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy aces NASA’s Psyche spacecraft launch
-- <a href="https://spacenews.com/the-vikram-has-landed-factors-in-indias-space-ascendancy/" >🔗</a> **[SpaceNews]** The Vikram has landed: Factors in India’s space ascendancy 
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T203151">2023-10-13 20:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T210505">2023-10-13 21:05:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
