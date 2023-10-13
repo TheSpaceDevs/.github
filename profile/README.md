@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html" >🔗</a> **[CNBC]** Watch SpaceX’s Falcon Heavy rocket launch a $1 billion asteroid mission for NASA
+- <a href="https://spacenews.com/ses-picks-it-veteran-adel-al-saleh-as-ceo/" >🔗</a> **[SpaceNews]** SES picks IT veteran Adel Al-Saleh as CEO
 - <a href="https://spacenews.com/chinese-commercial-satellite-firm-completes-high-speed-laser-image-transmission-test/" >🔗</a> **[SpaceNews]** Chinese commercial satellite firm completes high-speed laser image transmission test
 - <a href="https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/" >🔗</a> **[SpaceNews]** New contract unlikely to significantly reduce SLS costs
 - <a href="https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/" >🔗</a> **[SpaceNews]** Psyche marks start of NASA use of Falcon Heavy
-- <a href="https://europeanspaceflight.com/asi-signs-phase-a-study-contract-for-innovator-cubesat-mission/" >🔗</a> **[European Spaceflight]** ASI Signs Phase A Study Contract for INNOVATOR CubeSat Mission
-- <a href="https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Skeptical of Major SLS Cost Savings From Services Contract
 
 
 ### Launch-related News 🚀
@@ -145,7 +145,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T133143">2023-10-13 13:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T140625">2023-10-13 14:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
