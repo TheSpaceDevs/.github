@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-commercial-satellite-firm-completes-high-speed-laser-image-transmission-test/" >🔗</a> **[SpaceNews]** Chinese commercial satellite firm completes high-speed laser image transmission test
 - <a href="https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/" >🔗</a> **[SpaceNews]** New contract unlikely to significantly reduce SLS costs
 - <a href="https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/" >🔗</a> **[SpaceNews]** Psyche marks start of NASA use of Falcon Heavy
 - <a href="https://europeanspaceflight.com/asi-signs-phase-a-study-contract-for-innovator-cubesat-mission/" >🔗</a> **[European Spaceflight]** ASI Signs Phase A Study Contract for INNOVATOR CubeSat Mission
 - <a href="https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Skeptical of Major SLS Cost Savings From Services Contract
-- <a href="https://www.nasaspaceflight.com/2023/10/psyche-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch Psyche mission to metallic asteroid
 
 
 ### Launch-related News 🚀
@@ -145,7 +145,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T121229">2023-10-13 12:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T124811">2023-10-13 12:48:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
