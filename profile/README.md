@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T230110">2023-10-13 23:01:10 UTC</a>.  Until
 then, this pad will have been used for 203
 out of 912 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -44,7 +44,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T230110">2023-10-13 23:01:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-22&location=Cape Canaveral, FL, USA&dates=20231013T230110Z%2F20231014T022930Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-22** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T230110">2023-10-13 23:01:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-22&location=Cape Canaveral, FL, USA&dates=20231013T230110Z%2F20231014T022930Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-22** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231015T004600">2023-10-15 00:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231015T004600Z%2F20231015T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T204900">2023-10-17 20:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-23&location=Cape Canaveral, FL, USA&dates=20231017T204900Z%2F20231018T012000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-23** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T000000">2023-10-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gaganyaan Abort Test Booster | TV-D1&location=Satish Dhawan Space Centre, India&dates=20231021T000000Z%2F20231021T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gaganyaan Abort Test Booster | TV-D1** from Satish Dhawan Space Centre, India.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-accidental-monopoly/" >🔗</a> **[SpaceNews]** The Accidental Monopoly
 - <a href="https://spacenews.com/nasa-launches-psyche-mission-to-metal-world/" >🔗</a> **[SpaceNews]** NASA launches Psyche mission to metal world
 - <a href="https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html" >🔗</a> **[CNBC]** SpaceX’s Falcon Heavy launches $1 billion asteroid mission for NASA
 - <a href="https://spacenews.com/ses-picks-it-veteran-adel-al-saleh-as-ceo/" >🔗</a> **[SpaceNews]** SES picks IT veteran Adel Al-Saleh as CEO
 - <a href="https://spacenews.com/chinese-commercial-satellite-firm-completes-high-speed-laser-image-transmission-test/" >🔗</a> **[SpaceNews]** Chinese commercial satellite firm completes high-speed laser image transmission test
-- <a href="https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/" >🔗</a> **[SpaceNews]** New contract unlikely to significantly reduce SLS costs
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T163540">2023-10-13 16:35:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T170526">2023-10-13 17:05:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
