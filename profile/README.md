@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html" >🔗</a> **[CNBC]** Watch SpaceX’s Falcon Heavy rocket launch a $1 billion asteroid mission for NASA
+- <a href="https://spacenews.com/nasa-launches-psyche-mission-to-metal-world/" >🔗</a> **[SpaceNews]** NASA launches Psyche mission to metal world
+- <a href="https://www.cnbc.com/2023/10/13/watch-spacex-falcon-heavy-launch-nasa-psyche-asteroid-mission.html" >🔗</a> **[CNBC]** SpaceX’s Falcon Heavy launches $1 billion asteroid mission for NASA
 - <a href="https://spacenews.com/ses-picks-it-veteran-adel-al-saleh-as-ceo/" >🔗</a> **[SpaceNews]** SES picks IT veteran Adel Al-Saleh as CEO
 - <a href="https://spacenews.com/chinese-commercial-satellite-firm-completes-high-speed-laser-image-transmission-test/" >🔗</a> **[SpaceNews]** Chinese commercial satellite firm completes high-speed laser image transmission test
 - <a href="https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/" >🔗</a> **[SpaceNews]** New contract unlikely to significantly reduce SLS costs
-- <a href="https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/" >🔗</a> **[SpaceNews]** Psyche marks start of NASA use of Falcon Heavy
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T153153">2023-10-13 15:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T160808">2023-10-13 16:08:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
