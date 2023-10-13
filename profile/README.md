@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-contract-unlikely-to-significantly-reduce-sls-costs/" >🔗</a> **[SpaceNews]** New contract unlikely to significantly reduce SLS costs
 - <a href="https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/" >🔗</a> **[SpaceNews]** Psyche marks start of NASA use of Falcon Heavy
 - <a href="https://europeanspaceflight.com/asi-signs-phase-a-study-contract-for-innovator-cubesat-mission/" >🔗</a> **[European Spaceflight]** ASI Signs Phase A Study Contract for INNOVATOR CubeSat Mission
 - <a href="https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Skeptical of Major SLS Cost Savings From Services Contract
 - <a href="https://www.nasaspaceflight.com/2023/10/psyche-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch Psyche mission to metallic asteroid
-- <a href="https://spacenews.com/space-force-challenged-to-define-commercial-services/" >🔗</a> **[SpaceNews]** Space Force challenged to define commercial services
 
 
 ### Launch-related News 🚀
@@ -140,11 +140,12 @@ into *a Heliocentric N/A
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-optical-communications-demo-riding-with-psyche" >🔗</a> **[NASA]** NASA to Discuss Optical Communications Demo Riding with Psyche
 - <a href="https://spacenews.com/nasa-delays-psyche-launch-a-week/" >🔗</a> **[SpaceNews]** NASA delays Psyche launch a week
 - <a href="https://www.nasaspaceflight.com/2023/10/psyche-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch Psyche mission to metallic asteroid
+- <a href="https://spacenews.com/psyche-marks-start-of-nasa-use-of-falcon-heavy/" >🔗</a> **[SpaceNews]** Psyche marks start of NASA use of Falcon Heavy
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T113157">2023-10-13 11:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T121229">2023-10-13 12:12:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
