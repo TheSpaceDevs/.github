@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/" >🔗</a> **[Arstechnica]** NASA should consider commercial alternatives to SLS, inspector general says
 - <a href="https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/" >🔗</a> **[SpaceNews]** Riverside Research to develop software to analyze space objects in congested orbits
 - <a href="https://spacepolicyonline.com/news/psyche-on-its-way-to-metal-rich-asteroid/" >🔗</a> **[SpacePolicyOnline.com]** Psyche on Its Way to Metal-Rich Asteroid
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-aces-nasa-s-psyche-spacecraft-launch/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy aces NASA’s Psyche spacecraft launch
 - <a href="https://spacenews.com/the-vikram-has-landed-factors-in-indias-space-ascendancy/" >🔗</a> **[SpaceNews]** The Vikram has landed: Factors in India’s space ascendancy 
-- <a href="https://spacenews.com/the-accidental-monopoly/" >🔗</a> **[SpaceNews]** The Accidental Monopoly
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T193145">2023-10-13 19:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T200717">2023-10-13 20:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
