@@ -89,11 +89,11 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/asi-signs-phase-a-study-contract-for-innovator-cubesat-mission/" >🔗</a> **[European Spaceflight]** ASI Signs Phase A Study Contract for INNOVATOR CubeSat Mission
 - <a href="https://spacepolicyonline.com/news/nasa-ig-skeptical-of-major-sls-cost-savings-from-services-contract/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Skeptical of Major SLS Cost Savings From Services Contract
 - <a href="https://www.nasaspaceflight.com/2023/10/psyche-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch Psyche mission to metallic asteroid
 - <a href="https://spacenews.com/space-force-challenged-to-define-commercial-services/" >🔗</a> **[SpaceNews]** Space Force challenged to define commercial services
 - <a href="https://www.cnbc.com/2023/10/12/maersk-signs-with-spacex-to-add-starlink-internet-to-over-330-ships.html" >🔗</a> **[CNBC]** Shipping giant Maersk to add SpaceX’s Starlink internet to more than 330 ships by early next year
-- <a href="https://www.cnbc.com/2023/10/12/investing-in-space-a-reality-check-on-spac-frenzy-revenue-projections.html" >🔗</a> **[CNBC]** Investing in Space: A reality check on SPAC frenzy revenue projections
 
 
 ### Launch-related News 🚀
@@ -144,7 +144,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T053129">2023-10-13 05:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231013T060925">2023-10-13 06:09:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
