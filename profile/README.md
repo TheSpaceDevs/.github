@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-considering-budget-cuts-for-hubble-and-chandra-space-telescopes/" >🔗</a> **[SpaceNews]** NASA considering budget cuts for Hubble and Chandra space telescopes
 - <a href="https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/" >🔗</a> **[SpaceNews]** Pathways to the Stars: Creating a talent pipeline in New Mexico
 - <a href="https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/" >🔗</a> **[SpaceNews]** Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride
 - <a href="https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/" >🔗</a> **[SpaceNews]** Ligado sues US government for using its roadblocked 5G spectrum
 - <a href="https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/" >🔗</a> **[SpaceNews]** UK’s Asteroid Mining Corp. unveils SCAR-E robot
-- <a href="https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/" >🔗</a> **[SpaceNews]** Space Force to create ‘system deltas’ to sync space tech with operator needs
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T203142">2023-10-14 20:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T210358">2023-10-14 21:03:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
