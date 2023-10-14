@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pathways-to-the-stars-creating-a-talent-pipeline-in-new-mexico/" >🔗</a> **[SpaceNews]** Pathways to the Stars: Creating a talent pipeline in New Mexico
+- <a href="https://spacenews.com/uniting-and-igniting-the-space-sector-after-five-years-newspace-nexus-is-hitting-its-stride/" >🔗</a> **[SpaceNews]** Uniting and Igniting the Space Sector: After five years, NewSpace Nexus is hitting its stride
 - <a href="https://spacenews.com/ligado-sues-us-government-for-using-its-roadblocked-5g-spectrum/" >🔗</a> **[SpaceNews]** Ligado sues US government for using its roadblocked 5G spectrum
 - <a href="https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/" >🔗</a> **[SpaceNews]** UK’s Asteroid Mining Corp. unveils SCAR-E robot
 - <a href="https://spacenews.com/space-force-to-create-system-deltas-to-sync-space-tech-with-operator-needs/" >🔗</a> **[SpaceNews]** Space Force to create ‘system deltas’ to sync space tech with operator needs
-- <a href="https://arstechnica.com/space/2023/10/inspector-general-on-nasas-plans-to-reduce-sls-costs-highly-unrealistic/" >🔗</a> **[Arstechnica]** NASA should consider commercial alternatives to SLS, inspector general says
-- <a href="https://spacenews.com/riverside-research-to-develop-software-to-analyze-space-objects-in-congested-orbits/" >🔗</a> **[SpaceNews]** Riverside Research to develop software to analyze space objects in congested orbits
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T173135">2023-10-14 17:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231014T180742">2023-10-14 18:07:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
