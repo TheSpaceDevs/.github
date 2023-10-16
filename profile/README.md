@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/" >🔗</a> **[SpaceNews]** University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center
 - <a href="https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html" >🔗</a> **[CNBC]** Space investors followed government contracts in the third quarter, report says
 - <a href="https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/" >🔗</a> **[Arstechnica]** After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad
 - <a href="https://spacenews.com/urban-sky-rases-9-75-million-for-stratospheric-imaging-platform/" >🔗</a> **[SpaceNews]** Urban Sky raises $9.75 million for stratospheric imaging platform
 - <a href="https://europeanspaceflight.com/two-vega-vv23-payloads-failed-to-deploy/" >🔗</a> **[European Spaceflight]** Two Vega VV23 Payloads Failed to Deploy
-- <a href="https://spacenews.com/army-exploring-new-options-to-tap-commercial-satellite-networks/" >🔗</a> **[SpaceNews]** Army exploring new options to tap commercial satellite networks
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T203212">2023-10-16 20:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T210618">2023-10-16 21:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
