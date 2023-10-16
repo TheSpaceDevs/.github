@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/urban-sky-rases-9-75-million-for-stratospheric-imaging-platform/" >🔗</a> **[SpaceNews]** Urban Sky raises $9.75 million for stratospheric imaging platform
+- <a href="https://europeanspaceflight.com/two-vega-vv23-payloads-failed-to-deploy/" >🔗</a> **[European Spaceflight]** Two Vega VV23 Payloads Failed to Deploy
 - <a href="https://spacenews.com/army-exploring-new-options-to-tap-commercial-satellite-networks/" >🔗</a> **[SpaceNews]** Army exploring new options to tap commercial satellite networks
 - <a href="https://europeanspaceflight.com/ireland-commit-3-3m-euros-more-to-esa-for-2024/" >🔗</a> **[European Spaceflight]** Ireland Commit €3.3M More to ESA for 2024
 - <a href="https://spacenews.com/space-insurers-take-cautious-approach-to-satellite-servicing/" >🔗</a> **[SpaceNews]** Space insurers take cautious approach to satellite servicing
-- <a href="https://spacepolicyonline.com/news/frank-rubio-readjusting-to-life-on-earth-with-ease/" >🔗</a> **[SpacePolicyOnline.com]** Frank Rubio Readjusting to Life on Earth with Ease
-- <a href="https://www.nasaspaceflight.com/2023/10/full-stack-wdr-approval/" >🔗</a> **[NASASpaceflight]** SpaceX gearing op for a possible WDR as it waits for regulatory approval
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T133140">2023-10-16 13:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231016T140643">2023-10-16 14:06:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
