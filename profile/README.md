@@ -90,10 +90,10 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.teslarati.com/spacex-plans-launch-22-more-starlink-satellites-tonight-falcon-9/" >🔗</a> **[Teslarati]** SpaceX plans to launch 22 more Starlink satellites tonight
+- <a href="https://spacenews.com/spacenews-icon-awards-to-be-announced-dec-5/" >🔗</a> **[SpaceNews]** SpaceNews Icon Awards to be announced Dec. 5
 - <a href="https://www.nasaspaceflight.com/2023/10/launch-roundup-101723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch three Starlink missions; India to test crew abort system
 - <a href="https://spacenews.com/capella-space-co-founder-steps-down-as-ceo/" >🔗</a> **[SpaceNews]** Capella Space co-founder steps down as CEO
 - <a href="https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/" >🔗</a> **[Arstechnica]** Citing slow Starship reviews, SpaceX urges FAA to double licensing staff
-- <a href="https://spacenews.com/scientific-systems-to-develop-satellite-inspection-software-for-u-s-space-force/" >🔗</a> **[SpaceNews]** Scientific Systems to develop satellite inspection software for U.S. Space Force
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T173143">2023-10-17 17:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T180859">2023-10-17 18:08:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
