@@ -31,7 +31,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 22 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seraphim-unveils-the-10-startups-in-its-twelfth-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim unveils the 10 startups in its twelfth space accelerator
 - <a href="https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/" >🔗</a> **[SpaceNews]** University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center
 - <a href="https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html" >🔗</a> **[CNBC]** Space investors followed government contracts in the third quarter, report says
 - <a href="https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/" >🔗</a> **[Arstechnica]** After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad
 - <a href="https://spacenews.com/urban-sky-rases-9-75-million-for-stratospheric-imaging-platform/" >🔗</a> **[SpaceNews]** Urban Sky raises $9.75 million for stratospheric imaging platform
-- <a href="https://europeanspaceflight.com/two-vega-vv23-payloads-failed-to-deploy/" >🔗</a> **[European Spaceflight]** Two Vega VV23 Payloads Failed to Deploy
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T063444">2023-10-17 06:34:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T070652">2023-10-17 07:06:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
