@@ -89,20 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/10/launch-roundup-101723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch three Starlink missions; India to test crew abort system
+- <a href="https://spacenews.com/capella-space-co-founder-steps-down-as-ceo/" >🔗</a> **[SpaceNews]** Capella Space co-founder steps down as CEO
 - <a href="https://arstechnica.com/space/2023/10/citing-slow-starship-reviews-spacex-urges-faa-to-double-licensing-staff/" >🔗</a> **[Arstechnica]** Citing slow Starship reviews, SpaceX urges FAA to double licensing staff
 - <a href="https://spacenews.com/scientific-systems-to-develop-satellite-inspection-software-for-u-s-space-force/" >🔗</a> **[SpaceNews]** Scientific Systems to develop satellite inspection software for U.S. Space Force
 - <a href="https://spacenews.com/india-sets-2040-target-for-crewed-moon-landing/" >🔗</a> **[SpaceNews]** India sets 2040 target for crewed moon landing
-- <a href="https://europeanspaceflight.com/esa-to-create-pool-of-european-launch-service-providers/" >🔗</a> **[European Spaceflight]** ESA to Create “Pool” of European Launch Service Providers
-- <a href="https://spacenews.com/space-development-agency-to-evaluate-spideroak-cybersecurity-software/" >🔗</a> **[SpaceNews]** Space Development Agency to evaluate SpiderOak cybersecurity software
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/10/launch-roundup-101723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch three Starlink missions; India to test crew abort system
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T153137">2023-10-17 15:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T160823">2023-10-17 16:08:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
