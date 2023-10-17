@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-to-evaluate-spideroak-cybersecurity-software/" >🔗</a> **[SpaceNews]** Space Development Agency to evaluate SpiderOak cybersecurity software
+- <a href="https://spacenews.com/blue-origin-unveils-plans-for-orbital-transfer-vehicle/" >🔗</a> **[SpaceNews]** Blue Origin unveils plans for orbital transfer vehicle
 - <a href="https://spacenews.com/china-to-launch-queqiao-2-moon-relay-satellite-in-early-2024/" >🔗</a> **[SpaceNews]** China to launch Queqiao-2 moon relay satellite in early 2024
 - <a href="https://spacenews.com/seraphim-unveils-the-10-startups-in-its-twelfth-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim unveils the 10 startups in its twelfth space accelerator
 - <a href="https://spacenews.com/university-of-california-and-nasa-ames-unveil-plans-for-2-billion-berkeley-space-center/" >🔗</a> **[SpaceNews]** University of California and NASA Ames unveil plans for $2 billion Berkeley Space Center
-- <a href="https://www.cnbc.com/2023/10/16/space-investing-q3-report-following-government-contracts.html" >🔗</a> **[CNBC]** Space investors followed government contracts in the third quarter, report says
-- <a href="https://arstechnica.com/space/2023/10/lacking-funds-russia-will-turn-gagarins-start-launch-pad-into-a-museum/" >🔗</a> **[Arstechnica]** After six decades, ‘Gagarin’s Start’ will meet its end as a launch pad
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T121225">2023-10-17 12:12:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231017T124837">2023-10-17 12:48:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
