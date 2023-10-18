@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atomos-wins-1-6-million-afwerx-contract-to-test-multi-party-rendezvous/" >🔗</a> **[SpaceNews]** Atomos wins $1.6 million AFWERX contract to test multi-party rendezvous
 - <a href="https://spacenews.com/cesiumastro-wins-nasa-award-to-study-wideband-communications/" >🔗</a> **[SpaceNews]** CesiumAstro wins NASA award to study wideband communications
 - <a href="https://spacenews.com/analysts-cite-financial-challenges-and-opportunities-for-space-sector/" >🔗</a> **[SpaceNews]** Government funding blunts impact of private investment decline
 - <a href="https://spacenews.com/space-radio-developer-anysignal-emerges-from-stealth/" >🔗</a> **[SpaceNews]** Space radio developer AnySignal emerges from stealth
 - <a href="https://spacepolicyonline.com/news/test-flight-to-kick-off-indias-human-exploration-plans-including-a-man-on-the-moon-by-2040/" >🔗</a> **[SpacePolicyOnline.com]** Test Flight to Kick Off India’s Human Exploration Plans, Including a Man on the Moon by 2040
-- <a href="https://spacenews.com/space-industry-group-turns-up-volume-on-satellite-vulnerabilities/" >🔗</a> **[SpaceNews]** Space industry group turns up volume on satellite vulnerabilities
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T113133">2023-10-18 11:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T121227">2023-10-18 12:12:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
