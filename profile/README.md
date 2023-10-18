@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cesiumastro-wins-nasa-award-to-study-wideband-communications/" >🔗</a> **[SpaceNews]** CesiumAstro wins NASA award to study wideband communications
 - <a href="https://spacenews.com/analysts-cite-financial-challenges-and-opportunities-for-space-sector/" >🔗</a> **[SpaceNews]** Government funding blunts impact of private investment decline
 - <a href="https://spacenews.com/space-radio-developer-anysignal-emerges-from-stealth/" >🔗</a> **[SpaceNews]** Space radio developer AnySignal emerges from stealth
 - <a href="https://spacepolicyonline.com/news/test-flight-to-kick-off-indias-human-exploration-plans-including-a-man-on-the-moon-by-2040/" >🔗</a> **[SpacePolicyOnline.com]** Test Flight to Kick Off India’s Human Exploration Plans, Including a Man on the Moon by 2040
 - <a href="https://spacenews.com/space-industry-group-turns-up-volume-on-satellite-vulnerabilities/" >🔗</a> **[SpaceNews]** Space industry group turns up volume on satellite vulnerabilities
-- <a href="https://www.teslarati.com/spacex-plans-launch-22-more-starlink-satellites-tonight-falcon-9/" >🔗</a> **[Teslarati]** SpaceX plans to launch 22 more Starlink satellites tonight
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T103322">2023-10-18 10:33:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T110451">2023-10-18 11:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
