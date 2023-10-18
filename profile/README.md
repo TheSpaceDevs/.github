@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/danti-gets-u-s-space-force-contract-for-data-search-engine/" >🔗</a> **[SpaceNews]** Danti gets U.S. Space Force contract for data search engine 
 - <a href="https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/" >🔗</a> **[SpaceNews]** HawkEye 360 raises $10 million in funding round extension
 - <a href="https://spacenews.com/small-launch-companies-struggle-to-complete-with-spacex-rideshare-missions/" >🔗</a> **[SpaceNews]** Small launch companies struggle to complete with SpaceX rideshare missions
 - <a href="https://spacenews.com/atomos-wins-1-6-million-afwerx-contract-to-test-multi-party-rendezvous/" >🔗</a> **[SpaceNews]** Atomos wins $1.6 million AFWERX contract to test multi-party rendezvous
 - <a href="https://spacenews.com/cesiumastro-wins-nasa-award-to-study-wideband-communications/" >🔗</a> **[SpaceNews]** CesiumAstro wins NASA award to study wideband communications
-- <a href="https://spacenews.com/analysts-cite-financial-challenges-and-opportunities-for-space-sector/" >🔗</a> **[SpaceNews]** Government funding blunts impact of private investment decline
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T130939">2023-10-18 13:09:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T133140">2023-10-18 13:31:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
