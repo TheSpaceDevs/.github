@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-subsystems-are-the-next-hot-commodity-for-space-investors/" >🔗</a> **[SpaceNews]** Satellite subsystems are the next hot commodity for space investors
 - <a href="https://spacenews.com/axiom-space-refines-training-for-next-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Axiom Space refines training for next private astronaut mission
 - <a href="https://arstechnica.com/space/2023/10/india-sets-sights-on-a-moon-landing-in-2040-but-is-it-realistic/" >🔗</a> **[Arstechnica]** India sets sights on a Moon landing in 2040, but is it realistic?
 - <a href="https://spacenews.com/danti-gets-u-s-space-force-contract-for-data-search-engine/" >🔗</a> **[SpaceNews]** Danti gets U.S. Space Force contract for data search engine 
 - <a href="https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/" >🔗</a> **[SpaceNews]** HawkEye 360 raises $10 million in funding round extension
-- <a href="https://spacenews.com/small-launch-companies-struggle-to-complete-with-spacex-rideshare-missions/" >🔗</a> **[SpaceNews]** Small launch companies struggle to complete with SpaceX rideshare missions
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T213143">2023-10-18 21:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T220606">2023-10-18 22:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
