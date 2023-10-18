@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-space-refines-training-for-next-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Axiom Space refines training for next private astronaut mission
+- <a href="https://arstechnica.com/space/2023/10/india-sets-sights-on-a-moon-landing-in-2040-but-is-it-realistic/" >🔗</a> **[Arstechnica]** India sets sights on a Moon landing in 2040, but is it realistic?
 - <a href="https://spacenews.com/danti-gets-u-s-space-force-contract-for-data-search-engine/" >🔗</a> **[SpaceNews]** Danti gets U.S. Space Force contract for data search engine 
 - <a href="https://spacenews.com/hawkeye-360-raises-10-million-in-funding-round-extension/" >🔗</a> **[SpaceNews]** HawkEye 360 raises $10 million in funding round extension
 - <a href="https://spacenews.com/small-launch-companies-struggle-to-complete-with-spacex-rideshare-missions/" >🔗</a> **[SpaceNews]** Small launch companies struggle to complete with SpaceX rideshare missions
-- <a href="https://spacenews.com/atomos-wins-1-6-million-afwerx-contract-to-test-multi-party-rendezvous/" >🔗</a> **[SpaceNews]** Atomos wins $1.6 million AFWERX contract to test multi-party rendezvous
-- <a href="https://spacenews.com/cesiumastro-wins-nasa-award-to-study-wideband-communications/" >🔗</a> **[SpaceNews]** CesiumAstro wins NASA award to study wideband communications
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T153201">2023-10-18 15:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T160814">2023-10-18 16:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
