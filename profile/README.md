@@ -99,11 +99,12 @@ into *a Suborbital
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2023/10/launch-roundup-101723/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch three Starlink missions; India to test crew abort system
+- <a href="https://spacepolicyonline.com/news/test-flight-to-kick-off-indias-human-exploration-plans-including-a-man-on-the-moon-by-2040/" >🔗</a> **[SpacePolicyOnline.com]** Test Flight to Kick Off India’s Human Exploration Plans, Including a Man on the Moon by 2040
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T073149">2023-10-18 07:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231018T080852">2023-10-18 08:08:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
