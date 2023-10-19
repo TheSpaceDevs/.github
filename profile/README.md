@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/skylo-prepares-to-scale-network/" >🔗</a> **[SpaceNews]** Skylo’s network to spread in 2024
 - <a href="https://www.cnbc.com/2023/10/19/investing-in-space-satellites-are-the-invisible-backbone-of-industry.html" >🔗</a> **[CNBC]** Investing in Space: On satellites, the invisible backbone of global industry
 - <a href="https://spacenews.com/in-annual-report-to-congress-pentagon-highlights-chinas-refusal-to-engage/" >🔗</a> **[SpaceNews]** In annual report to Congress, Pentagon highlights China’s ‘refusal to engage’ 
 - <a href="https://spacenews.com/artemis-and-taming-the-extraordinary/" >🔗</a> **[SpaceNews]** Artemis and Taming the Extraordinary
 - <a href="https://spacenews.com/cognitive-space-wins-two-sda-contracts/" >🔗</a> **[SpaceNews]** Cognitive Space wins two SDA contracts
-- <a href="https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/" >🔗</a> **[SpaceNews]** Launch industry asks Congress for regulatory reforms
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T203145">2023-10-19 20:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T210401">2023-10-19 21:04:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
