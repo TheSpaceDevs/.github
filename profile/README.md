@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-and-taming-the-extraordinary/" >🔗</a> **[SpaceNews]** Artemis and Taming the Extraordinary
 - <a href="https://spacenews.com/cognitive-space-wins-two-sda-contracts/" >🔗</a> **[SpaceNews]** Cognitive Space wins two SDA contracts
 - <a href="https://spacenews.com/launch-industry-asks-congress-for-regulatory-reforms/" >🔗</a> **[SpaceNews]** Launch industry asks Congress for regulatory reforms
 - <a href="https://spacepolicyonline.com/news/spacex-warns-government-regulations-slowing-starship-could-let-china-get-ahead/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Warns Government Regulations Slowing Starship, Could Let China Get Ahead
 - <a href="https://spacenews.com/virgin-galactic-to-perform-suborbital-research-flight-in-november/" >🔗</a> **[SpaceNews]** Virgin Galactic to perform suborbital research flight in November
-- <a href="https://spacenews.com/machina-labs-expands-focus-to-satellites-and-reentry-vehicles/" >🔗</a> **[SpaceNews]** Machina Labs expands focus to satellites and reentry vehicles
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T130952">2023-10-19 13:09:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231019T133422">2023-10-19 13:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
