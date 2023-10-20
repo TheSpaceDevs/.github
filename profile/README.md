@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/" >🔗</a> **[SpaceNews]** Upgraded star trackers could give more satellites a debris-monitoring role
+- <a href="https://www.nasaspaceflight.com/2023/10/iss-roundup-oct23/" >🔗</a> **[NASASpaceflight]** ISS Roundup: Expedition 70 underway, Rubio’s record stay in space, technical issues, upcoming EVAs
 - <a href="https://spacenews.com/pld-space-calls-first-launch-a-success/" >🔗</a> **[SpaceNews]** PLD Space calls first launch a success
 - <a href="https://spacenews.com/space-development-agency-awards-york-space-615-million-contract-for-62-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards York Space $615 million contract for 62 satellites
 - <a href="https://spacenews.com/pakistan-becomes-latest-country-to-join-chinas-ilrs-moon-project/" >🔗</a> **[SpaceNews]** Pakistan becomes latest country to join China’s ILRS moon project
-- <a href="https://spacenews.com/canadas-budget-boost-for-radarsat-is-part-of-its-climate-strategy/" >🔗</a> **[SpaceNews]** Canada’s budget boost for Radarsat is part of its climate strategy
-- <a href="https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/" >🔗</a> **[Arstechnica]** Why NASA’s return to the Moon will likely succeed this time
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T203139">2023-10-20 20:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T210429">2023-10-20 21:04:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
