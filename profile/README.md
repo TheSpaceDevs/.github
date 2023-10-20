@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/key-ariane-6-test-rescheduled-for-november/" >🔗</a> **[SpaceNews]** Key Ariane 6 test rescheduled for November
+- <a href="https://europeanspaceflight.com/latitude-double-factory-floor-space/" >🔗</a> **[European Spaceflight]** Latitude Double Factory Floor Space
 - <a href="https://spacenews.com/u-s-space-force-seeks-to-work-closer-with-allies-in-face-of-shared-threats/" >🔗</a> **[SpaceNews]** U.S. Space Force seeks to work closer with allies in face of shared threats
 - <a href="https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/" >🔗</a> **[SpaceNews]** UK funds surveillance satellite replacement lost in Virgin Orbit failure
 - <a href="https://europeanspaceflight.com/esa-pushes-ahead-with-ariane-6-testing/" >🔗</a> **[European Spaceflight]** ESA Pushes Ahead with Ariane 6 Testing
-- <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-17-mission-to-tiangong/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-17 mission to Tiangong
-- <a href="https://spacenews.com/skylo-prepares-to-scale-network/" >🔗</a> **[SpaceNews]** Skylo’s network to spread in 2024
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T083211">2023-10-20 08:32:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T090642">2023-10-20 09:06:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
