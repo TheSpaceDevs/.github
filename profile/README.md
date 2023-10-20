@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-frustrated-by-starship-licensing-delays/" >🔗</a> **[SpaceNews]** SpaceX frustrated by Starship licensing delays
+- <a href="https://arstechnica.com/space/2023/10/rocket-report-key-ariane-6-test-delayed-nasa-urged-to-look-at-sls-alternatives/" >🔗</a> **[Arstechnica]** Rocket Report: Key Ariane 6 test delayed; NASA urged to look at SLS alternatives
 - <a href="https://spacenews.com/key-ariane-6-test-rescheduled-for-november/" >🔗</a> **[SpaceNews]** Key Ariane 6 test rescheduled for November
 - <a href="https://europeanspaceflight.com/latitude-double-factory-floor-space/" >🔗</a> **[European Spaceflight]** Latitude Double Factory Floor Space
 - <a href="https://spacenews.com/u-s-space-force-seeks-to-work-closer-with-allies-in-face-of-shared-threats/" >🔗</a> **[SpaceNews]** U.S. Space Force seeks to work closer with allies in face of shared threats
-- <a href="https://spacenews.com/uk-funds-surveillance-satellite-replacement-lost-in-virgin-orbit-failure/" >🔗</a> **[SpaceNews]** UK funds surveillance satellite replacement lost in Virgin Orbit failure
-- <a href="https://europeanspaceflight.com/esa-pushes-ahead-with-ariane-6-testing/" >🔗</a> **[European Spaceflight]** ESA Pushes Ahead with Ariane 6 Testing
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T113154">2023-10-20 11:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T121211">2023-10-20 12:12:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
