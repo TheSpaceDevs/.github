@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/why-nasas-return-to-the-moon-will-likely-succeed-this-time/" >🔗</a> **[Arstechnica]** Why NASA’s return to the Moon will likely succeed this time
 - <a href="https://spacenews.com/blueprint-for-an-in-space-community/" >🔗</a> **[SpaceNews]** Blueprint for an In-Space Community
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-mira-demonstrator/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Testing MIRA Demonstrator
 - <a href="https://spacenews.com/spacex-frustrated-by-starship-licensing-delays/" >🔗</a> **[SpaceNews]** SpaceX frustrated by Starship licensing delays
 - <a href="https://arstechnica.com/space/2023/10/rocket-report-key-ariane-6-test-delayed-nasa-urged-to-look-at-sls-alternatives/" >🔗</a> **[Arstechnica]** Rocket Report: Key Ariane 6 test delayed; NASA urged to look at SLS alternatives
-- <a href="https://spacenews.com/key-ariane-6-test-rescheduled-for-november/" >🔗</a> **[SpaceNews]** Key Ariane 6 test rescheduled for November
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T153147">2023-10-20 15:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231020T160754">2023-10-20 16:07:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
