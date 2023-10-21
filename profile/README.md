@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/" >🔗</a> **[SpaceNews]** India tests launch escape system in step towards sending astronauts to orbit
 - <a href="https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/" >🔗</a> **[European Spaceflight]** RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service
 - <a href="https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/" >🔗</a> **[SpacePolicyOnline.com]** NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report
 - <a href="https://spacenews.com/upgraded-star-trackers-could-give-more-satellites-a-debris-monitoring-role/" >🔗</a> **[SpaceNews]** Upgraded star trackers could give more satellites a debris-monitoring role
 - <a href="https://www.nasaspaceflight.com/2023/10/iss-roundup-oct23/" >🔗</a> **[NASASpaceflight]** ISS Roundup: Expedition 70 underway, Rubio’s record stay in space, technical issues, upcoming EVAs
-- <a href="https://spacenews.com/pld-space-calls-first-launch-a-success/" >🔗</a> **[SpaceNews]** PLD Space calls first launch a success
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T113137">2023-10-21 11:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231021T121037">2023-10-21 12:10:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
