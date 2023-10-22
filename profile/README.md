@@ -88,11 +88,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force sets sights on small geostationary communications satellites
 - <a href="https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/" >🔗</a> **[SpaceNews]** NASA starts reassessment of Mars Sample Return architecture
 - <a href="https://spacepolicyonline.com/news/india-aces-crew-capsule-abort-test/" >🔗</a> **[SpacePolicyOnline.com]** India Aces Crew Capsule Abort Test
 - <a href="https://spacenews.com/india-tests-launch-escape-system-in-step-towards-sending-astronauts-to-orbit/" >🔗</a> **[SpaceNews]** India tests launch escape system in step towards sending astronauts to orbit
 - <a href="https://europeanspaceflight.com/rfa-atmos-and-yuri-announce-eva-microgravity-service/" >🔗</a> **[European Spaceflight]** RFA, ATMOS, and Yuri Announce “Eva” Microgravity Service
-- <a href="https://spacepolicyonline.com/news/nasa-upbeat-about-future-of-mars-sample-return-despite-irb-2-report/" >🔗</a> **[SpacePolicyOnline.com]** NASA Upbeat About Future of Mars Sample Return Despite IRB-2 Report
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T103140">2023-10-22 10:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231022T110352">2023-10-22 11:03:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
