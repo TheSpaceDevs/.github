@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/german-offshore-spaceport-to-host-first-launch-in-early-2024/" >🔗</a> **[European Spaceflight]** German Offshore Spaceport to Host First Launch in Early 2024
+- <a href="https://arstechnica.com/science/2023/10/were-entering-a-pretty-strong-el-nino-heres-what-that-means-for-a-us-winter/" >🔗</a> **[Arstechnica]** We’re entering a pretty strong El Niño—here’s what that means for a US winter
 - <a href="https://arstechnica.com/space/2023/10/the-daily-telescope-a-look-at-a-young-star-cluster-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** The Daily Telescope: A look at a young star cluster in a nearby galaxy
 - <a href="https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/" >🔗</a> **[SpaceNews]** Varda partners with Australian range for capsule landings
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 22-28, 2023
-- <a href="https://www.nasaspaceflight.com/2023/10/s1222a-origins/" >🔗</a> **[NASASpaceflight]** Through international collaboration, scientists find cause of InSight’s most powerful Marsquake
-- <a href="https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force sets sights on small geostationary communications satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T143244">2023-10-23 14:32:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T150701">2023-10-23 15:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
