@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/the-daily-telescope-a-look-at-a-young-star-cluster-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** The Daily Telescope: A look at a young star cluster in a nearby galaxy
 - <a href="https://spacenews.com/varda-partners-with-australian-range-for-capsule-landings/" >🔗</a> **[SpaceNews]** Varda partners with Australian range for capsule landings
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-22-28-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 22-28, 2023
 - <a href="https://www.nasaspaceflight.com/2023/10/s1222a-origins/" >🔗</a> **[NASASpaceflight]** Through international collaboration, scientists find cause of InSight’s most powerful Marsquake
 - <a href="https://spacenews.com/space-force-sets-sights-on-small-geostationary-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force sets sights on small geostationary communications satellites
-- <a href="https://spacenews.com/nasa-starts-reassessment-of-mars-sample-return-architecture/" >🔗</a> **[SpaceNews]** NASA starts reassessment of Mars Sample Return architecture
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T113143">2023-10-23 11:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231023T121219">2023-10-23 12:12:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
