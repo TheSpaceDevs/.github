@@ -88,7 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/" >🔗</a> **[Arstechnica]** The Daily Telescope: A Moon above the sanctuary of Tindari
+- <a href="https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/" >🔗</a> **[Arstechnica]** The Daily Telescope: A quarter Moon over Sicily reflects light from Earth
 - <a href="https://spacenews.com/itu-to-consider-lunar-communications-regulations/" >🔗</a> **[SpaceNews]** ITU to consider lunar communications regulations
 - <a href="https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/" >🔗</a> **[SpaceNews]** Japanese government grant to support work on new ispace lunar lander
 - <a href="https://spacenews.com/terran-orbital-to-build-36-satellite-buses-for-lockheed-martin/" >🔗</a> **[SpaceNews]** Terran Orbital to build 36 satellite buses for Lockheed Martin
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T121158">2023-10-24 12:11:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T124715">2023-10-24 12:47:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
