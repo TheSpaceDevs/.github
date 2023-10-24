@@ -89,7 +89,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacepolicyonline.com/news/belt-tightening-could-mean-fewer-hubble-and-chandra-observations/" >🔗</a> **[SpacePolicyOnline.com]** Belt-Tightening Could Mean Fewer Hubble and Chandra Observations
-- <a href="https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/" >🔗</a> **[SpaceNews]** SwRi wins QuickSounder weather satellite contract
+- <a href="https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/" >🔗</a> **[SpaceNews]** SwRI wins QuickSounder weather satellite contract
 - <a href="https://www.nasaspaceflight.com/2023/10/launch-roundup-03/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station
 - <a href="https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/" >🔗</a> **[SpaceNews]** Space Force identifying priorities for modernizing spaceports
 - <a href="https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/" >🔗</a> **[SpaceNews]** China adds Belarus as partner for ILRS moon base
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T083223">2023-10-24 08:32:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T090704">2023-10-24 09:07:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
