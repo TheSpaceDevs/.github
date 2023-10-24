@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japanese-government-grant-to-support-work-on-new-ispace-lunar-lander/" >🔗</a> **[SpaceNews]** Japanese government grant to support work on new ispace lunar lander
+- <a href="https://spacenews.com/terran-orbital-to-build-36-satellite-buses-for-lockheed-martin/" >🔗</a> **[SpaceNews]** Terran Orbital to build 36 satellite buses for Lockheed Martin
 - <a href="https://spacepolicyonline.com/news/belt-tightening-could-mean-fewer-hubble-and-chandra-observations/" >🔗</a> **[SpacePolicyOnline.com]** Belt-Tightening Could Mean Fewer Hubble and Chandra Observations
 - <a href="https://spacenews.com/swri-wins-quicksounder-weather-satellite-contract/" >🔗</a> **[SpaceNews]** SwRI wins QuickSounder weather satellite contract
 - <a href="https://www.nasaspaceflight.com/2023/10/launch-roundup-03/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX surpass 5,000 active Starlink satellites; China to send taikonauts to space station
-- <a href="https://spacenews.com/space-force-identifying-priorities-for-modernizing-spaceports/" >🔗</a> **[SpaceNews]** Space Force identifying priorities for modernizing spaceports
-- <a href="https://spacenews.com/china-adds-belarus-as-partner-for-ilrs-moon-base/" >🔗</a> **[SpaceNews]** China adds Belarus as partner for ILRS moon base
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T103348">2023-10-24 10:33:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231024T110439">2023-10-24 11:04:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
