@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/daily-telescope-a-closer-look-at-the-most-distant-object-visible-to-the-naked-eye/" >🔗</a> **[Arstechnica]** Daily Telescope: A closer look at the most-distant object visible to the naked eye
+- <a href="https://spacenews.com/u-s-and-chinese-officials-meet-to-discuss-space-safety/" >🔗</a> **[SpaceNews]** U.S. and Chinese officials meet to discuss space safety
 - <a href="https://europeanspaceflight.com/uk-space-agency-signs-agreement-with-axiom-space/" >🔗</a> **[European Spaceflight]** UK Space Agency Signs Agreement with Axiom Space
 - <a href="https://spacenews.com/ula-sets-christmas-eve-launch-date-for-first-vulcan-centaur/" >🔗</a> **[SpaceNews]** ULA sets Christmas Eve launch date for first Vulcan Centaur
 - <a href="https://spacenews.com/dod-developing-strategy-to-tap-commercial-space-market/" >🔗</a> **[SpaceNews]** DoD developing strategy to tap commercial space market 
-- <a href="https://arstechnica.com/science/2023/10/the-daily-telescope-a-moon-above-the-sanctuary-of-tindari/" >🔗</a> **[Arstechnica]** The Daily Telescope: A quarter Moon over Sicily reflects light from Earth
-- <a href="https://spacenews.com/itu-to-consider-lunar-communications-regulations/" >🔗</a> **[SpaceNews]** ITU to consider lunar communications regulations
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T113146">2023-10-25 11:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T121148">2023-10-25 12:11:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
