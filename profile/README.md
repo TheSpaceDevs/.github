@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/boeing-says-it-cant-make-money-with-fixed-price-contracts/" >🔗</a> **[Arstechnica]** Boeing says it can’t make money with fixed-price contracts
+- <a href="https://spacenews.com/navigating-the-3rd-wave-of-the-new-space-economy/" >🔗</a> **[SpaceNews]** Navigating the 3rd Wave of the New Space economy
+- <a href="https://spacenews.com/space-force-planning-8-billion-satellite-architecture-for-nuclear-command-and-control/" >🔗</a> **[SpaceNews]** Space Force planning $8 billion satellite architecture for nuclear command and control
 - <a href="https://europeanspaceflight.com/esa-to-begin-testing-ariane-6-upgrade/" >🔗</a> **[European Spaceflight]** ESA to Begin Testing Ariane 6 Upgrade
 - <a href="https://spacenews.com/chinas-commercial-launch-firms-get-space-station-cargo-boost/" >🔗</a> **[SpaceNews]** China’s commercial launch firms get space station cargo boost
-- <a href="https://spacenews.com/nasa-emphasizes-need-for-mission-authorization/" >🔗</a> **[SpaceNews]** NASA emphasizes need for mission authorization
-- <a href="https://arstechnica.com/space/2023/10/daily-telescope-a-closer-look-at-the-most-distant-object-visible-to-the-naked-eye/" >🔗</a> **[Arstechnica]** Daily Telescope: A closer look at the most-distant object visible to the naked eye
-- <a href="https://spacenews.com/u-s-and-chinese-officials-meet-to-discuss-space-safety/" >🔗</a> **[SpaceNews]** U.S. and Chinese officials meet to discuss space safety
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T183138">2023-10-25 18:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231025T190349">2023-10-25 19:03:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
