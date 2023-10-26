@@ -44,7 +44,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T030400">2023-10-26 03:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 17&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231026T030400Z%2F20231026T034400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 17** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T040000">2023-10-27 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Lotos-S1 #8?&location=Plesetsk Cosmodrome, Russian Federation&dates=20231027T040000Z%2F20231027T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Lotos-S1 #8?** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T063700">2023-10-28 06:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-6&location=Vandenberg SFB, CA, USA&dates=20231028T063700Z%2F20231028T105700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231028T231300">2023-10-28 23:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-25&location=Cape Canaveral, FL, USA&dates=20231028T231300Z%2F20231029T034400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-25** from Cape Canaveral, FL, USA.
@@ -88,11 +87,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abl-space-systems-prepares-for-second-rs1-launch/" >🔗</a> **[SpaceNews]** ABL Space Systems prepares for second RS1 launch
+- <a href="https://spacepolicyonline.com/news/speaker-mike-johnson-the-peoples-house-is-back-in-business/" >🔗</a> **[SpacePolicyOnline.com]** Speaker Mike Johnson: “The People’s House is Back in Business”
 - <a href="https://spacenews.com/rocket-lab-projects-electron-return-to-flight-in-fourth-quarter/" >🔗</a> **[SpaceNews]** Rocket Lab projects Electron return to flight in fourth quarter
 - <a href="https://spacenews.com/terran-orbital-hosting-town-hall-meeting-to-revive-flagging-shares/" >🔗</a> **[SpaceNews]** Terran Orbital hosting town hall meeting to revive flagging shares
 - <a href="https://www.cnbc.com/2023/10/25/rocket-lab-to-resume-electron-launches-after-september-failure.html" >🔗</a> **[CNBC]** Rocket Lab expects to resume Electron launches before year-end after September failure
-- <a href="https://arstechnica.com/space/2023/10/boeing-says-it-cant-make-money-with-fixed-price-contracts/" >🔗</a> **[Arstechnica]** Boeing says it can’t make money with fixed-price contracts
-- <a href="https://spacenews.com/navigating-the-3rd-wave-of-the-new-space-economy/" >🔗</a> **[SpaceNews]** Navigating the 3rd Wave of the New Space economy
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T023139">2023-10-26 02:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T030656">2023-10-26 03:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
