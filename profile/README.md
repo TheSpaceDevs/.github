@@ -18,27 +18,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2F/G | Shenzhou 17**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T030400">2023-10-26 03:04:00 UTC</a>.  Until
-then, this pad will have been used for 20
-out of 208 launches from this location. The launch status is currently
+**Soyuz 2.1b | Lotos-S1 #8?**. It is scheduled to be launched by *Russian Space Forces*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T040000">2023-10-27 04:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 1662 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+*Government/Top Secret* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Sixth crewed flight to the Chinese space station.
+  Note: Payload identity uncertain. 
+
+Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital electronic intelligence.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
+  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
+  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -87,21 +89,20 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/china-launches-new-space-station-crew/" >🔗</a> **[SpacePolicyOnline.com]** China Launches New Space Station Crew
 - <a href="https://spacenews.com/abl-space-systems-prepares-for-second-rs1-launch/" >🔗</a> **[SpaceNews]** ABL Space Systems prepares for second RS1 launch
 - <a href="https://spacepolicyonline.com/news/speaker-mike-johnson-the-peoples-house-is-back-in-business/" >🔗</a> **[SpacePolicyOnline.com]** Speaker Mike Johnson: “The People’s House is Back in Business”
 - <a href="https://spacenews.com/rocket-lab-projects-electron-return-to-flight-in-fourth-quarter/" >🔗</a> **[SpaceNews]** Rocket Lab projects Electron return to flight in fourth quarter
 - <a href="https://spacenews.com/terran-orbital-hosting-town-hall-meeting-to-revive-flagging-shares/" >🔗</a> **[SpaceNews]** Terran Orbital hosting town hall meeting to revive flagging shares
-- <a href="https://www.cnbc.com/2023/10/25/rocket-lab-to-resume-electron-launches-after-september-failure.html" >🔗</a> **[CNBC]** Rocket Lab expects to resume Electron launches before year-end after September failure
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-17-mission-to-tiangong/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-17 mission to Tiangong
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T033153">2023-10-26 03:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T040747">2023-10-26 04:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
