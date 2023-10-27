@@ -53,7 +53,6 @@ Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital e
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T000000">2023-11-02 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 05&location=Air launch to Suborbital flight&dates=20231102T000000Z%2F20231102T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 05** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T030100">2023-11-06 03:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-29&location=Kennedy Space Center, FL, USA&dates=20231106T030100Z%2F20231106T030100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-29** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T000000">2023-11-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20231107T000000Z%2F20231107T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T000000">2023-11-16 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20231116T000000Z%2F20231116T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,11 +88,11 @@ Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital e
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-still-waiting-for-milestone-rivada-space-constellation-payment/" >🔗</a> **[SpaceNews]** Terran Orbital still waiting for milestone Rivada Space constellation payment
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-issues-clarion-call-for-iss-deorbit-tug/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Issues Clarion Call for ISS Deorbit Tug
 - <a href="https://spacenews.com/uk-helps-fund-rocket-factory-augsburgs-maiden-flight/" >🔗</a> **[SpaceNews]** UK helps fund Rocket Factory Augsburg’s maiden flight
 - <a href="https://europeanspaceflight.com/rfa-uk-receives-3-5m-for-saxavord-development/" >🔗</a> **[European Spaceflight]** RFA UK Receives £3.5M for SaxaVord Development
 - <a href="https://spacenews.com/afrl-space-force-to-collaborate-with-indian-startups-on-space-technologies/" >🔗</a> **[SpaceNews]** AFRL, Space Force to collaborate with Indian startups on space technologies
-- <a href="https://mars.nasa.gov/news/9502/" >🔗</a> **[NASA]** NASA Is Locating Ice on Mars With This New Map
 
 
 ### Launch-related News 🚀
@@ -102,7 +101,7 @@ Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital e
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T023136">2023-10-27 02:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T030701">2023-10-27 03:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
