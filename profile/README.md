@@ -89,11 +89,11 @@ Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital e
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-issues-clarion-call-for-iss-deorbit-tug/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Issues Clarion Call for ISS Deorbit Tug
 - <a href="https://spacenews.com/uk-helps-fund-rocket-factory-augsburgs-maiden-flight/" >🔗</a> **[SpaceNews]** UK helps fund Rocket Factory Augsburg’s maiden flight
 - <a href="https://europeanspaceflight.com/rfa-uk-receives-3-5m-for-saxavord-development/" >🔗</a> **[European Spaceflight]** RFA UK Receives £3.5M for SaxaVord Development
 - <a href="https://spacenews.com/afrl-space-force-to-collaborate-with-indian-startups-on-space-technologies/" >🔗</a> **[SpaceNews]** AFRL, Space Force to collaborate with Indian startups on space technologies
 - <a href="https://mars.nasa.gov/news/9502/" >🔗</a> **[NASA]** NASA Is Locating Ice on Mars With This New Map
-- <a href="https://www.cnbc.com/2023/10/26/investing-in-space-the-pentagon-sizes-up-chinas-military-strength.html" >🔗</a> **[CNBC]** Investing in Space: How the Pentagon sizes up China’s military strength in space
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital e
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231026T233152">2023-10-26 23:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T003016">2023-10-27 00:30:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
