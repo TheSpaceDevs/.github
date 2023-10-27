@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/" >🔗</a> **[SpaceNews]** Ground stations as-a-service struggle to gain foothold in military market
+- <a href="https://europeanspaceflight.com/isar-aerospace-completes-260-second-hot-fire-test/" >🔗</a> **[European Spaceflight]** Isar Aerospace Completes 260-Second Hot Fire Test
 - <a href="https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/" >🔗</a> **[Arstechnica]** Russia renamed its ambitious satellite program after Putin misspoke its name
 - <a href="https://arstechnica.com/space/2023/10/daily-telescope-meet-the-flying-bat-and-squid-nebulae/" >🔗</a> **[Arstechnica]** Daily Telescope: Meet the Flying Bat and Squid nebulae
 - <a href="https://spacenews.com/new-agreement-enables-u-s-launches-from-australian-spaceports/" >🔗</a> **[SpaceNews]** New agreement enables U.S. launches from Australian spaceports
-- <a href="https://spacenews.com/terran-orbital-still-waiting-for-milestone-rivada-space-constellation-payment/" >🔗</a> **[SpaceNews]** Terran Orbital still waiting for milestone Rivada Space constellation payment
-- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-issues-clarion-call-for-iss-deorbit-tug/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Issues Clarion Call for ISS Deorbit Tug
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T143140">2023-10-27 14:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T150630">2023-10-27 15:06:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
