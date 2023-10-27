@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/" >🔗</a> **[SpaceNews]** Intuitive Machines delays first lander mission to January
 - <a href="https://www.nasaspaceflight.com/2023/10/spacex-full-stack-starbase-change/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Full Stack Testing ahead of Flight as Starbase Continues to Change
 - <a href="https://spacenews.com/ground-stations-as-a-service-struggle-to-gain-foothold-in-military-market/" >🔗</a> **[SpaceNews]** Ground stations as-a-service struggle to gain foothold in military market
 - <a href="https://europeanspaceflight.com/isar-aerospace-completes-260-second-hot-fire-test/" >🔗</a> **[European Spaceflight]** Isar Aerospace Completes 260-Second Hot Fire Test
 - <a href="https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/" >🔗</a> **[Arstechnica]** Russia renamed its ambitious satellite program after Putin misspoke its name
-- <a href="https://arstechnica.com/space/2023/10/daily-telescope-meet-the-flying-bat-and-squid-nebulae/" >🔗</a> **[Arstechnica]** Daily Telescope: Meet the Flying Bat and Squid nebulae
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T213152">2023-10-27 21:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231027T220622">2023-10-27 22:06:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
