@@ -85,11 +85,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-29-november-5-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 29-November 5, 2023
 - <a href="https://spacenews.com/blue-origin-reveals-mockup-of-blue-moon-lunar-lander-prototype/" >🔗</a> **[SpaceNews]** Blue Origin reveals mockup of Blue Moon lunar lander prototype
 - <a href="https://www.nasaspaceflight.com/2023/10/a-ii-core-stage/" >🔗</a> **[NASASpaceflight]** Boeing ramps up final assembly to complete Artemis II SLS Core Stage by year end
 - <a href="https://spacenews.com/faa-anticipates-extension-of-commercial-spaceflight-regulatory-learning-period/" >🔗</a> **[SpaceNews]** FAA anticipates extension of commercial spaceflight regulatory learning period
 - <a href="https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/" >🔗</a> **[SpaceNews]** Intuitive Machines delays first lander mission to January
-- <a href="https://www.nasaspaceflight.com/2023/10/spacex-full-stack-starbase-change/" >🔗</a> **[NASASpaceflight]** SpaceX Completes Full Stack Testing ahead of Flight as Starbase Continues to Change
 
 
 ### Launch-related News 🚀
@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T193140">2023-10-29 19:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231029T200606">2023-10-29 20:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
