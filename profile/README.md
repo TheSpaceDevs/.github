@@ -89,8 +89,8 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html" >🔗</a> **[CNBC]** Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites
 - <a href="https://spacenews.com/space-development-agency-awards-northrop-grumman-732-million-contract-for-40-satellites-and-support-services/" >🔗</a> **[SpaceNews]** Space Development Agency awards Northrop Grumman $732 million contract for 38 satellites and support services
 - <a href="https://spacenews.com/maxar-intelligence-announces-new-executive-appointments/" >🔗</a> **[SpaceNews]** Maxar Intelligence announces new executive appointments
+- <a href="https://spacenews.com/battle-of-the-bands-whats-at-stake-for-space-at-wrc-2023/" >🔗</a> **[SpaceNews]** Battle of the Bands: What’s at stake for space at WRC 2023 Webinar
 - <a href="https://spacenews.com/space-force-col-richard-kniseley-to-keynote-spacenews-2023-icon-awards/" >🔗</a> **[SpaceNews]** Space Force Col. Richard Kniseley to keynote SpaceNews 2023 Icon Awards
-- <a href="https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/" >🔗</a> **[SpaceNews]** Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation
 
 
 ### Launch-related News 🚀
@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T173137">2023-10-30 17:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T180832">2023-10-30 18:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
