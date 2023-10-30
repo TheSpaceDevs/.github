@@ -86,11 +86,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-begin-procurement-of-missile-tracking-satellites-for-medium-earth-orbit-constellation/" >🔗</a> **[SpaceNews]** Space Force to begin procurement of missile-tracking satellites for medium Earth orbit constellation
 - <a href="https://arstechnica.com/space/2023/10/the-daily-telescope-a-new-perspective-on-the-power-behind-psyche/" >🔗</a> **[Arstechnica]** The Daily Telescope: A new perspective on the power behind Psyche
 - <a href="https://spacenews.com/spanish-propulsion-startup-raises-seed-round/" >🔗</a> **[SpaceNews]** Spanish propulsion startup raises seed round
 - <a href="https://europeanspaceflight.com/prometheus-completes-30-second-hot-fire-test/" >🔗</a> **[European Spaceflight]** Prometheus Completes 30-Second Hot Fire Test
 - <a href="https://spacenews.com/nasa-safety-panel-warns-about-iss-transition-risks/" >🔗</a> **[SpaceNews]** NASA safety panel warns about ISS transition risks
-- <a href="https://www.nasaspaceflight.com/2023/10/jovian-jetstream/" >🔗</a> **[NASASpaceflight]** Using Webb, scientists measure high-speed jet stream in Jupiter’s atmosphere
 
 
 ### Launch-related News 🚀
@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T121218">2023-10-30 12:12:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231030T124708">2023-10-30 12:47:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
