@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Back on Earth
 - <a href="https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/" >🔗</a> **[Teslarati]** SpaceX sends 22 Starlink Satellites to Orbit from California
 - <a href="https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/" >🔗</a> **[Arstechnica]** Putin wants to know why Russia can only build 40 satellites a year
 - <a href="https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html" >🔗</a> **[CNBC]** Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites
 - <a href="https://spacenews.com/space-development-agency-awards-northrop-grumman-732-million-contract-for-40-satellites-and-support-services/" >🔗</a> **[SpaceNews]** Space Development Agency awards Northrop Grumman $732 million contract for 38 satellites and support services
-- <a href="https://spacenews.com/maxar-intelligence-announces-new-executive-appointments/" >🔗</a> **[SpaceNews]** Maxar Intelligence announces new executive appointments
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T014207">2023-10-31 01:42:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T021535">2023-10-31 02:15:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
