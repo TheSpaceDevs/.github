@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/lucy-the-spacecraft-is-about-to-fly-by-lucy-the-asteroid/" >🔗</a> **[Arstechnica]** Scientists will soon find out whether the Lucy mission works as intended
 - <a href="https://spacenews.com/astrobotic-lander-arrives-at-launch-site/" >🔗</a> **[SpaceNews]** Astrobotic lander arrives at launch site
 - <a href="https://spacenews.com/multiverse-media-and-spacenews-to-merge/" >🔗</a> **[SpaceNews]** Multiverse Media and SpaceNews to Merge
 - <a href="https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/" >🔗</a> **[Arstechnica]** Daily Telescope: A spooky image of the Solar System’s largest planet
 - <a href="https://spacenews.com/chinas-space-pioneer-raise-funding-for-its-falcon-9-class-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer raise funding for its Falcon 9-class rocket
-- <a href="https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/" >🔗</a> **[SpaceNews]** Rocket Lab plans launch of Venus mission as soon as late 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T163712">2023-10-31 16:37:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T170550">2023-10-31 17:05:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
