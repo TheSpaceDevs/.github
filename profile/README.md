@@ -45,7 +45,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T224100">2023-10-31 22:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20231031T224100Z%2F20231031T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T000000">2023-11-02 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 05&location=Air launch to Suborbital flight&dates=20231102T000000Z%2F20231102T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 05** from Air launch to Suborbital flight.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T143000">2023-11-02 14:30:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 05&location=Air launch to Suborbital flight&dates=20231102T143000Z%2F20231102T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 05** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T144400">2023-11-03 14:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20231103T144400Z%2F20231103T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T223700">2023-11-03 22:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-26&location=Cape Canaveral, FL, USA&dates=20231103T223700Z%2F20231104T025400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-26** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T030100">2023-11-06 03:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-29&location=Kennedy Space Center, FL, USA&dates=20231106T030100Z%2F20231106T030100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-29** from Kennedy Space Center, FL, USA.
@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/" >🔗</a> **[Arstechnica]** Daily Telescope: On Halloween, a clear view of a Jovian golem
+- <a href="https://spacenews.com/chinas-space-pioneer-raise-funding-for-its-falcon-9-class-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer raise funding for its Falcon 9-class rocket
 - <a href="https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/" >🔗</a> **[SpaceNews]** Rocket Lab plans launch of Venus mission as soon as late 2024
 - <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Back on Earth
 - <a href="https://www.teslarati.com/spacex-22-starlink-satellites-orbit-california/" >🔗</a> **[Teslarati]** SpaceX sends 22 Starlink Satellites to Orbit from California
-- <a href="https://arstechnica.com/space/2023/10/russian-space-chief-explains-why-country-can-only-build-40-satellites-a-year/" >🔗</a> **[Arstechnica]** Putin wants to know why Russia can only build 40 satellites a year
-- <a href="https://www.cnbc.com/2023/10/30/pentagon-awards-satellite-contracts-to-northrop-grumman-york.html" >🔗</a> **[CNBC]** Pentagon space unit awards $1.3 billion in contracts to Northrop Grumman and York for 100 satellites
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T113139">2023-10-31 11:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T121157">2023-10-31 12:11:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
