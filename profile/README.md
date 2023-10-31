@@ -89,7 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/" >🔗</a> **[Arstechnica]** Daily Telescope: On Halloween, a clear view of a Jovian golem
+- <a href="https://arstechnica.com/space/2023/10/daily-telescope-on-halloween-a-clear-view-of-a-jovian-golem/" >🔗</a> **[Arstechnica]** Daily Telescope: A spooky image of the Solar System’s largest planet
 - <a href="https://spacenews.com/chinas-space-pioneer-raise-funding-for-its-falcon-9-class-rocket/" >🔗</a> **[SpaceNews]** China’s Space Pioneer raise funding for its Falcon 9-class rocket
 - <a href="https://spacenews.com/rocket-lab-plans-late-2024-launch-of-venus-mission/" >🔗</a> **[SpaceNews]** Rocket Lab plans launch of Venus mission as soon as late 2024
 - <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Back on Earth
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T121157">2023-10-31 12:11:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T124643">2023-10-31 12:46:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
