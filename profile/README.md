@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA completes safety review for next Starship launch
 - <a href="https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/" >🔗</a> **[SpaceNews]** SES says O3b mPower electrical issues are worse than thought
 - <a href="https://spacenews.com/hawkeye-360-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/" >🔗</a> **[SpaceNews]** HawkEye 360 gets U.S. Navy contract for maritime surveillance in the Pacific
 - <a href="https://spacenews.com/space-force-assigns-21-national-security-missions-to-ula-and-spacex/" >🔗</a> **[SpaceNews]** Space Force assigns 21 national security missions to ULA and SpaceX
 - <a href="https://spacenews.com/autonomous-servicing-will-help-realize-a-dynamic-future-with-cosmic-implications/" >🔗</a> **[SpaceNews]** Autonomous Servicing Will Help Realize a Dynamic Future with Cosmic Implications
-- <a href="https://arstechnica.com/space/2023/10/lucy-the-spacecraft-is-about-to-fly-by-lucy-the-asteroid/" >🔗</a> **[Arstechnica]** Scientists will soon find out whether the Lucy mission works as intended
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T213155">2023-10-31 21:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231031T220552">2023-10-31 22:05:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
