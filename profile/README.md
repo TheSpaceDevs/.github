@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kuva-space-raises-16-6-million-euros/" >🔗</a> **[SpaceNews]** Kuva Space raises 16.6 million euros
 - <a href="https://spacepolicyonline.com/news/starship-another-step-closer-to-second-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** Starship Another Step Closer to Second Test Flight
 - <a href="https://spacenews.com/ovzon-gets-another-deadline-extension-to-deploy-first-geo-satellite/" >🔗</a> **[SpaceNews]** Ovzon gets another deadline extension to deploy first GEO satellite
 - <a href="https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA completes safety review for next Starship launch
 - <a href="https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/" >🔗</a> **[SpaceNews]** SES says O3b mPower electrical issues are worse than thought
-- <a href="https://spacenews.com/hawkeye-360-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/" >🔗</a> **[SpaceNews]** HawkEye 360 gets U.S. Navy contract for maritime surveillance in the Pacific
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T083158">2023-11-01 08:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T090707">2023-11-01 09:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
