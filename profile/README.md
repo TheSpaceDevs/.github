@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/11/01/space-force-awards-spacex-ula-with-2point5-billion-for-21-launches.html" >🔗</a> **[CNBC]** Space Force awards $2.5 billion in rocket contracts to SpaceX and ULA for 21 launches
+- <a href="https://spacenews.com/delta-swapping-out-intelsat-wi-fi-for-hughes-on-400-planes/" >🔗</a> **[SpaceNews]** Delta swapping out Intelsat Wi-Fi for Hughes on 400 planes
 - <a href="https://www.teslarati.com/tesla-investor-ron-baron-billion-s-stock-spacex-will-be-bigger/" >🔗</a> **[Teslarati]** Tesla investor who made billions on stock says SpaceX will be bigger
 - <a href="https://spacenews.com/op-ed-space-force-launch-strategy-a-step-in-the-right-direction/" >🔗</a> **[SpaceNews]** Op-ed | Space Force launch strategy a step in the right direction
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-a-dazzling-view-of-the-milky-way-from-southern-africa/" >🔗</a> **[Arstechnica]** Daily Telescope: A dazzling view of the Milky Way from southern Africa
-- <a href="https://spacenews.com/kuva-space-raises-16-6-million-euros/" >🔗</a> **[SpaceNews]** Kuva Space raises 16.6 million euros
-- <a href="https://spacepolicyonline.com/news/starship-another-step-closer-to-second-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** Starship Another Step Closer to Second Test Flight
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T183251">2023-11-01 18:32:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T190427">2023-11-01 19:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
