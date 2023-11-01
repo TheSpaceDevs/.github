@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ovzon-gets-another-deadline-extension-to-deploy-first-geo-satellite/" >🔗</a> **[SpaceNews]** Ovzon gets another deadline extension to deploy first GEO satellite
 - <a href="https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA completes safety review for next Starship launch
 - <a href="https://spacenews.com/ses-says-o3b-mpower-electrical-issues-are-worse-than-thought/" >🔗</a> **[SpaceNews]** SES says O3b mPower electrical issues are worse than thought
 - <a href="https://spacenews.com/hawkeye-360-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/" >🔗</a> **[SpaceNews]** HawkEye 360 gets U.S. Navy contract for maritime surveillance in the Pacific
 - <a href="https://spacenews.com/space-force-assigns-21-national-security-missions-to-ula-and-spacex/" >🔗</a> **[SpaceNews]** Space Force assigns 21 national security missions to ULA and SpaceX
-- <a href="https://spacenews.com/autonomous-servicing-will-help-realize-a-dynamic-future-with-cosmic-implications/" >🔗</a> **[SpaceNews]** Autonomous Servicing Will Help Realize a Dynamic Future with Cosmic Implications
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T003324">2023-11-01 00:33:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231101T014700">2023-11-01 01:47:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
