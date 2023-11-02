@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/11/daily-telescope-pulling-the-veil-back-on-a-stunning-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Pulling the veil back on a stunning nebula
+- <a href="https://spacenews.com/chinas-ispace-launches-and-lands-rocket-test-stage/" >🔗</a> **[SpaceNews]** China’s iSpace launches and lands rocket test stage
 - <a href="https://spacenews.com/netherlands-and-iceland-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Netherlands and Iceland sign Artemis Accords
 - <a href="https://spacenews.com/uk-pushing-to-combine-oneweb-gen-2-and-european-sovereign-constellation-efforts/" >🔗</a> **[SpaceNews]** UK pushing to combine OneWeb Gen 2 and European sovereign constellation efforts
 - <a href="https://spacenews.com/senate-passes-orbital-debris-bill/" >🔗</a> **[SpaceNews]** Senate passes orbital debris bill
-- <a href="https://spacenews.com/spacenews-icon-awards-honorees-deal-of-the-year/" >🔗</a> **[SpaceNews]** SpaceNews Icon Awards honorees: Deal of the Year
-- <a href="https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/" >🔗</a> **[SpaceNews]** Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T130837">2023-11-02 13:08:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T133217">2023-11-02 13:32:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
