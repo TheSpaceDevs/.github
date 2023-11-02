@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-takes-over-missile-warning-ground-stations-previously-run-by-the-army/" >🔗</a> **[SpaceNews]** Space Force takes over missile-warning ground stations previously run by the Army
 - <a href="https://spacenews.com/viasat-cutting-global-workforce-by-10-after-inmarsat-acquisition/" >🔗</a> **[SpaceNews]** Viasat cutting global workforce by 10% after Inmarsat acquisition
 - <a href="https://www.nasaspaceflight.com/2023/11/starship-update-110223/" >🔗</a> **[NASASpaceflight]** Second flight of Starship closing in on potential November launch
 - <a href="https://www.cnbc.com/2023/11/02/investing-in-space-regulatory-hold-up-keeps-varda-spacecraft-stuck-in-orbit.html" >🔗</a> **[CNBC]** Investing in Space: Regulatory hold up keeps Varda spacecraft stuck in orbit
 - <a href="https://www.cnbc.com/2023/11/02/elon-musk-spacex-starlink-breakeven-cash-flow.html" >🔗</a> **[CNBC]** Elon Musk says SpaceX’s Starlink business ‘achieved breakeven cash flow’
-- <a href="https://arstechnica.com/space/2023/11/after-vulcan-slips-space-force-ends-up-awarding-more-missions-to-spacex/" >🔗</a> **[Arstechnica]** After Vulcan slips, Space Force ends up awarding more missions to SpaceX
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T223136">2023-11-02 22:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T230704">2023-11-02 23:07:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
