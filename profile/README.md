@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/netherlands-and-iceland-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Netherlands and Iceland sign Artemis Accords
 - <a href="https://spacenews.com/uk-pushing-to-combine-oneweb-gen-2-and-european-sovereign-constellation-efforts/" >🔗</a> **[SpaceNews]** UK pushing to combine OneWeb Gen 2 and European sovereign constellation efforts
 - <a href="https://spacenews.com/senate-passes-orbital-debris-bill/" >🔗</a> **[SpaceNews]** Senate passes orbital debris bill
 - <a href="https://spacenews.com/spacenews-icon-awards-honorees-deal-of-the-year/" >🔗</a> **[SpaceNews]** SpaceNews Icon Awards honorees: Deal of the Year
 - <a href="https://spacenews.com/retired-space-force-lt-gen-armagno-joins-rocket-labs-board-of-directors/" >🔗</a> **[SpaceNews]** Retired Space Force Lt. Gen. Armagno joins Rocket Lab’s board of directors
-- <a href="https://www.cnbc.com/2023/11/01/space-force-awards-spacex-ula-with-2point5-billion-for-21-launches.html" >🔗</a> **[CNBC]** Space Force awards $2.5 billion in rocket contracts to SpaceX and ULA for 21 launches
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T103345">2023-11-02 10:33:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231102T110456">2023-11-02 11:04:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
