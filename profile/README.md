@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/" >🔗</a> **[Arstechnica]** How long will Jeff Bezos continue to subsidize his New Shepard rocket?
 - <a href="https://spacenews.com/revealing-the-startup-of-the-year-finalists-for-the-spacenews-2023-icon-awards/" >🔗</a> **[SpaceNews]** Revealing the Startup of the Year finalists for the SpaceNews 2023 Icon Awards
 - <a href="https://europeanspaceflight.com/norway-officially-opens-first-operational-spaceport-in-continental-europe/" >🔗</a> **[European Spaceflight]** Norway Officially Opens “First Operational Spaceport in Continental Europe”
 - <a href="https://spacenews.com/norway-opens-andoya-spaceport/" >🔗</a> **[SpaceNews]** Norway opens Andøya spaceport
 - <a href="https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/" >🔗</a> **[SpaceNews]** NASA open to extending ISS beyond 2030
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: Lucy finds not one but two diamonds in the sky
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T163617">2023-11-03 16:36:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T170607">2023-11-03 17:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
