@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/norway-opens-andoya-spaceport/" >🔗</a> **[SpaceNews]** Norway opens Andøya spaceport
 - <a href="https://spacenews.com/nasa-open-to-extending-iss-beyond-2030/" >🔗</a> **[SpaceNews]** NASA open to extending ISS beyond 2030
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-lucy-finds-not-one-but-two-diamonds-in-the-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: Lucy finds not one but two diamonds in the sky
 - <a href="https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/" >🔗</a> **[Arstechnica]** Rocket Report: ICBM test aborted after “anomaly”; FAA wraps Starship safety review
 - <a href="https://spacepolicyonline.com/news/babin-lucas-introduce-commercial-space-bill/" >🔗</a> **[SpacePolicyOnline.com]** Babin, Lucas Introduce Commercial Space Bill
-- <a href="https://spacepolicyonline.com/news/house-appropriators-detail-fy2024-nasa-spending-priorities-msr-fares-better-than-in-senate/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Detail FY2024 NASA Spending Priorities, MSR Fares Better Than in Senate
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T121156">2023-11-03 12:11:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T124740">2023-11-03 12:47:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
