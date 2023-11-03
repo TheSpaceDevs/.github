@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/11/rocket-report-chinese-firm-lands-rocket-vertically-vulcan-delays-cost-ula/" >🔗</a> **[Arstechnica]** Rocket Report: Chinese firm lands rocket vertically; Vulcan delays cost ULA
 - <a href="https://spacepolicyonline.com/news/babin-lucas-introduce-commercial-space-bill/" >🔗</a> **[SpacePolicyOnline.com]** Babin, Lucas Introduce Commercial Space Bill
 - <a href="https://spacepolicyonline.com/news/house-appropriators-detail-fy2024-nasa-spending-priorities-msr-fares-better-than-in-senate/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Detail FY2024 NASA Spending Priorities, MSR Fares Better Than in Senate
 - <a href="https://spacenews.com/spacerake-wins-1-8-million-in-sda-funding-for-optical-communications-terminals/" >🔗</a> **[SpaceNews]** SpaceRake wins $1.8 million in SDA funding for optical communications terminals
 - <a href="https://spacenews.com/virgin-galactic-carries-researchers-on-fifth-commercial-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic carries researchers on fifth commercial suborbital flight
-- <a href="https://spacepolicyonline.com/news/iceland-and-netherlands-join-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Iceland and Netherlands Join Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T103330">2023-11-03 10:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T110538">2023-11-03 11:05:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
