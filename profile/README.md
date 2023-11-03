@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/11/03/astra-defaults-on-debt-agreement-may-not-be-able-to-raise-needed-cash.html" >🔗</a> **[CNBC]** Astra defaults on debt agreement, warns it may not be able to raise needed cash
 - <a href="https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/" >🔗</a> **[Arstechnica]** It’s almost showtime for SpaceX’s massive Starship rocket
 - <a href="https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/" >🔗</a> **[Arstechnica]** How long will Jeff Bezos continue to subsidize his New Shepard rocket?
 - <a href="https://spacenews.com/revealing-the-startup-of-the-year-finalists-for-the-spacenews-2023-icon-awards/" >🔗</a> **[SpaceNews]** Revealing the Startup of the Year finalists for the SpaceNews 2023 Icon Awards
 - <a href="https://europeanspaceflight.com/norway-officially-opens-first-operational-spaceport-in-continental-europe/" >🔗</a> **[European Spaceflight]** Norway Officially Opens “First Operational Spaceport in Continental Europe”
-- <a href="https://spacenews.com/norway-opens-andoya-spaceport/" >🔗</a> **[SpaceNews]** Norway opens Andøya spaceport
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T223146">2023-11-03 22:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231103T230602">2023-11-03 23:06:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
