@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-low-on-cash-defaults-on-loan/" >🔗</a> **[SpaceNews]** Astra, low on cash, defaults on loan
 - <a href="https://europeanspaceflight.com/kuva-space-raises-e16-6m-for-subscription-based-hyperspectral-imaging-service/" >🔗</a> **[European Spaceflight]** Kuva Space Raises €16.6M for Subscription-Based Hyperspectral Imaging Service
 - <a href="https://spacenews.com/house-bill-would-fully-fund-mars-sample-return-block-cooperation-on-exomars/" >🔗</a> **[SpaceNews]** House bill would fully fund Mars Sample Return, block cooperation on ExoMars
 - <a href="https://www.cnbc.com/2023/11/03/astra-defaults-on-debt-agreement-may-not-be-able-to-raise-needed-cash.html" >🔗</a> **[CNBC]** Astra defaults on debt agreement, warns it may not be able to raise needed cash
 - <a href="https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/" >🔗</a> **[Arstechnica]** It’s almost showtime for SpaceX’s massive Starship rocket
-- <a href="https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/" >🔗</a> **[Arstechnica]** How long will Jeff Bezos continue to subsidize his New Shepard rocket?
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T163423">2023-11-04 16:34:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T170427">2023-11-04 17:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
