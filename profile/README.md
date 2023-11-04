@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/kuva-space-raises-e16-6m-for-subscription-based-hyperspectral-imaging-service/" >🔗</a> **[European Spaceflight]** Kuva Space Raises €16.6M for Subscription-Based Hyperspectral Imaging Service
 - <a href="https://spacenews.com/house-bill-would-fully-fund-mars-sample-return-block-cooperation-on-exomars/" >🔗</a> **[SpaceNews]** House bill would fully fund Mars Sample Return, block cooperation on ExoMars
 - <a href="https://www.cnbc.com/2023/11/03/astra-defaults-on-debt-agreement-may-not-be-able-to-raise-needed-cash.html" >🔗</a> **[CNBC]** Astra defaults on debt agreement, warns it may not be able to raise needed cash
 - <a href="https://arstechnica.com/space/2023/11/its-almost-showtime-for-spacexs-massive-starship-rocket/" >🔗</a> **[Arstechnica]** It’s almost showtime for SpaceX’s massive Starship rocket
 - <a href="https://arstechnica.com/space/2023/11/as-virgin-galactic-soars-blue-origins-new-shepard-remains-grounded/" >🔗</a> **[Arstechnica]** How long will Jeff Bezos continue to subsidize his New Shepard rocket?
-- <a href="https://spacenews.com/revealing-the-startup-of-the-year-finalists-for-the-spacenews-2023-icon-awards/" >🔗</a> **[SpaceNews]** Revealing the Startup of the Year finalists for the SpaceNews 2023 Icon Awards
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T063136">2023-11-04 06:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231104T070700">2023-11-04 07:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
