@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9508/" >🔗</a> **[NASA]** NASA's Curiosity Rover Clocks 4,000 Days on Mars
+- <a href="https://spacenews.com/charting-the-course-a-blueprint-to-continued-u-s-leadership-in-space/" >🔗</a> **[SpaceNews]** Charting the Course: A Blueprint to Continued U.S. Leadership in Space
 - <a href="https://arstechnica.com/space/2023/11/ariane-6-cost-and-delays-bring-european-launch-industry-to-a-breaking-point/" >🔗</a> **[Arstechnica]** Ariane 6 cost and delays bring European launch industry to a breaking point
 - <a href="https://spacenews.com/civil-space-achievement-of-the-year-finalists-for-the-spacenews-2023-icon-awards/" >🔗</a> **[SpaceNews]** Unveiling the Civil Space Achievement of the Year finalists for the SpaceNews 2023 Icon Awards
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-chasing-the-running-man-in-the-stars/" >🔗</a> **[Arstechnica]** Daily Telescope: The sword of Orion contains a brilliant reflection nebula
-- <a href="https://spacenews.com/sierra-space-completes-first-dream-chaser/" >🔗</a> **[SpaceNews]** Sierra Space completes first Dream Chaser
-- <a href="https://europeanspaceflight.com/cnes-boss-on-damage-control-for-arianegroup-on-ariane-6-failures/" >🔗</a> **[European Spaceflight]** CNES Boss on Damage Control for ArianeGroup on Ariane 6 Failures
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T183308">2023-11-06 18:33:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231106T190350">2023-11-06 19:03:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
