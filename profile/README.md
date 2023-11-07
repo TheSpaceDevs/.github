@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-to-start-commercial-cargo-program/" >🔗</a> **[SpaceNews]** ESA to start commercial cargo program
 - <a href="https://spacenews.com/leolabs-data-shows-on-orbit-maneuvers-by-russian-satellites/" >🔗</a> **[SpaceNews]** LeoLabs data shows on-orbit maneuvers by Russian satellites
 - <a href="https://spacenews.com/astra-secures-interim-financing-deal/" >🔗</a> **[SpaceNews]** Astra secures interim financing deal
 - <a href="https://www.teslarati.com/spacex-breaks-its-own-record-launches-falcon-9-18th-time/" >🔗</a> **[Teslarati]** SpaceX breaks its own record, launches Falcon 9 for the 18th time
 - <a href="https://spacenews.com/dish-network-ceo-makes-early-exit/" >🔗</a> **[SpaceNews]** Dish Network CEO makes early exit
-- <a href="https://mars.nasa.gov/news/9508/" >🔗</a> **[NASA]** NASA's Curiosity Rover Clocks 4,000 Days on Mars
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T023529">2023-11-07 02:35:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231107T030709">2023-11-07 03:07:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
