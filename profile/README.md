@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/veritas-mission-warns-of-risks-of-launch-delay/" >🔗</a> **[SpaceNews]** VERITAS mission warns of risks of launch delay
 - <a href="https://europeanspaceflight.com/avio-and-arianespace-finalize-divorce-terms/" >🔗</a> **[European Spaceflight]** Avio and Arianespace Finalize Divorce Terms
 - <a href="https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/" >🔗</a> **[SpaceNews]** EU finalizing contract with SpaceX for Galileo launches
 - <a href="https://spacenews.com/virgin-galactic-lays-off-staff-as-it-focuses-on-next-generation-suborbital-vehicle/" >🔗</a> **[SpaceNews]** Virgin Galactic lays off staff as it focuses on next-generation suborbital vehicle
 - <a href="https://spacenews.com/space-force-procurement-chief-to-double-down-on-reforms/" >🔗</a> **[SpaceNews]** Space Force procurement chief to ‘double down’ on reforms
-- <a href="https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-solomon-islands/" >🔗</a> **[SpaceNews]** Lynk Global starts initial direct-to-device services in Solomon Islands
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T121141">2023-11-08 12:11:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T124642">2023-11-08 12:46:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
