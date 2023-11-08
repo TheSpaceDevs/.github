@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/" >🔗</a> **[SpaceNews]** EU finalizing contract with SpaceX for Galileo launches
 - <a href="https://spacenews.com/virgin-galactic-lays-off-staff-as-it-focuses-on-next-generation-suborbital-vehicle/" >🔗</a> **[SpaceNews]** Virgin Galactic lays off staff as it focuses on next-generation suborbital vehicle
 - <a href="https://spacenews.com/space-force-procurement-chief-to-double-down-on-reforms/" >🔗</a> **[SpaceNews]** Space Force procurement chief to ‘double down’ on reforms
 - <a href="https://spacenews.com/lynk-global-starts-initial-direct-to-device-services-in-solomon-islands/" >🔗</a> **[SpaceNews]** Lynk Global starts initial direct-to-device services in Solomon Islands
 - <a href="https://www.teslarati.com/spacex-readies-80th-launch-2023/" >🔗</a> **[Teslarati]** SpaceX readies for 80th launch of the year
-- <a href="https://europeanspaceflight.com/arianegroup-to-receive-e340m-per-year-to-operate-ariane-6/" >🔗</a> **[European Spaceflight]** ArianeGroup to Receive €340M Per Year to Operate Ariane 6
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T033139">2023-11-08 03:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T040759">2023-11-08 04:07:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
