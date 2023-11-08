@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dod-signs-270-million-agreement-to-acquire-ses-satellite-communications-services/" >🔗</a> **[SpaceNews]** DoD signs $270 million agreement to acquire SES satellite communications services
+- <a href="https://spacenews.com/spacenews-2023-icon-awards-honorees-unsung-hero/" >🔗</a> **[SpaceNews]** SpaceNews 2023 Icon Awards honorees: Unsung Hero
+- <a href="https://www.cnbc.com/2023/11/08/satellite-imagery-blacksky-ekes-out-first-quarterly-profit.html" >🔗</a> **[CNBC]** Satellite imagery company BlackSky ekes out first quarterly profit
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-lucy-continues-to-surprise-astronomers-with-its-first-flyby/" >🔗</a> **[Arstechnica]** Daily Telescope: Lucy continues to surprise astronomers with its first flyby
 - <a href="https://spacenews.com/veritas-mission-warns-of-risks-of-launch-delay/" >🔗</a> **[SpaceNews]** VERITAS mission warns of risks of launch delay
-- <a href="https://europeanspaceflight.com/avio-and-arianespace-finalize-divorce-terms/" >🔗</a> **[European Spaceflight]** Avio and Arianespace Finalize Divorce Terms
-- <a href="https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/" >🔗</a> **[SpaceNews]** EU finalizing contract with SpaceX for Galileo launches
-- <a href="https://spacenews.com/virgin-galactic-lays-off-staff-as-it-focuses-on-next-generation-suborbital-vehicle/" >🔗</a> **[SpaceNews]** Virgin Galactic lays off staff as it focuses on next-generation suborbital vehicle
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T153138">2023-11-08 15:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231108T160822">2023-11-08 16:08:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
