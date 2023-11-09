@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/11/daily-telescope-zooming-in-on-one-of-the-most-iconic-night-sky-sights/" >🔗</a> **[Arstechnica]** Daily Telescope: Zooming in on one of the most iconic night sky sights
 - <a href="https://spacepolicyonline.com/news/virgin-galactic-goes-all-in-on-new-delta-spaceship/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Goes All In on New Delta Spaceship
 - <a href="https://spacenews.com/viasat-3-failure-investigation-to-conclude-next-week/" >🔗</a> **[SpaceNews]** ViaSat-3 failure investigation to conclude next week
 - <a href="https://spacenews.com/virgin-galactic-to-halt-unity-suborbital-flights-by-mid-2024/" >🔗</a> **[SpaceNews]** Virgin Galactic to halt Unity suborbital flights by mid-2024
 - <a href="https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html" >🔗</a> **[CNBC]** Virgin Galactic pausing flights next year and laying off 18% to focus on next-gen spacecraft
-- <a href="https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html" >🔗</a> **[CNBC]** Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T121155">2023-11-09 12:11:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T124632">2023-11-09 12:46:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
