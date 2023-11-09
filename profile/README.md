@@ -22,7 +22,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T012800">2023-11-10 01:28:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T012814">2023-11-10 01:28:14 UTC</a>.  Until
 then, this pad will have been used for 166
 out of 224 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T012800">2023-11-10 01:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-29&location=Kennedy Space Center, FL, USA&dates=20231110T012800Z%2F20231110T012800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-29** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T012814">2023-11-10 01:28:14 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-29&location=Kennedy Space Center, FL, USA&dates=20231110T012814Z%2F20231110T012814Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-29** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T184900">2023-11-11 18:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20231111T184900Z%2F20231111T184900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231112T210800">2023-11-12 21:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 5 &amp; 6&location=Cape Canaveral, FL, USA&dates=20231112T210800Z%2F20231112T223700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 5 & 6** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T130000">2023-11-15 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 2&location=SpaceX Space Launch Facility, TX, USA&dates=20231115T130000Z%2F20231115T153900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 2** from SpaceX Space Launch Facility, TX, USA.
@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html" >🔗</a> **[CNBC]** Iridium announces end of Qualcomm satellite-to-phone partnership
+- <a href="https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/" >🔗</a> **[SpaceNews]** Satellite industry at odds over proposed power limit review ahead of WRC-23
+- <a href="https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/" >🔗</a> **[SpaceNews]** Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit
+- <a href="https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html" >🔗</a> **[CNBC]** Iridium, Qualcomm end satellite-to-phone partnership
 - <a href="https://www.teslarati.com/rocket-lab-q3-2023-earnings-results/" >🔗</a> **[Teslarati]** Rocket Lab reports results for Q3 2023
 - <a href="https://www.cnbc.com/2023/11/09/investing-in-space-the-military-doled-out-6-billion-for-rocket-launches.html" >🔗</a> **[CNBC]** Investing in Space: The military doled out $6 billion for rocket launches — and it’s not done yet
-- <a href="https://www.teslarati.com/spacex-cargo-dragon-ready-for-resupply-trip-to-iss/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon ready for resupply trip to ISS
-- <a href="https://spacenews.com/airbus-and-voyager-sign-agreement-with-esa-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** Airbus and Voyager sign agreement with ESA on Starlab commercial space station
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T223131">2023-11-09 22:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T230656">2023-11-09 23:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
