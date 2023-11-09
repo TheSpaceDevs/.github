@@ -91,11 +91,11 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-cargo-dragon-ready-for-resupply-trip-to-iss/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon ready for resupply trip to ISS
 - <a href="https://spacenews.com/airbus-and-voyager-sign-agreement-with-esa-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** Airbus and Voyager sign agreement with ESA on Starlab commercial space station
 - <a href="https://spacenews.com/astra-founders-offer-to-take-company-private/" >🔗</a> **[SpaceNews]** Astra founders offer to take company private
 - <a href="https://spacenews.com/four-bidders-selected-to-develop-ground-systems-for-u-s-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Four bidders selected to develop ground systems for U.S. missile-warning satellites
 - <a href="https://spacenews.com/long-march-3b-launches-chinasat-6e-communications-satellite/" >🔗</a> **[SpaceNews]** Long March 3B launches ChinaSat-6E communications satellite
-- <a href="https://www.cnbc.com/2023/11/09/astra-founders-offer-to-take-company-private.html" >🔗</a> **[CNBC]** Astra founders offer to take company private at value of about $30 million
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T173136">2023-11-09 17:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T180835">2023-11-09 18:08:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
