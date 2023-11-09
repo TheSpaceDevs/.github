@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/virgin-galactic-goes-all-in-on-new-delta-spaceship/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Goes All In on New Delta Spaceship
+- <a href="https://spacenews.com/viasat-3-failure-investigation-to-conclude-next-week/" >🔗</a> **[SpaceNews]** ViaSat-3 failure investigation to conclude next week
 - <a href="https://spacenews.com/virgin-galactic-to-halt-unity-suborbital-flights-by-mid-2024/" >🔗</a> **[SpaceNews]** Virgin Galactic to halt Unity suborbital flights by mid-2024
 - <a href="https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html" >🔗</a> **[CNBC]** Virgin Galactic pausing flights next year and laying off 18% to focus on next-gen spacecraft
 - <a href="https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html" >🔗</a> **[CNBC]** Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year
-- <a href="https://www.teslarati.com/spacex-installs-new-crew-access-arm-in-between-starlink-launches/" >🔗</a> **[Teslarati]** SpaceX installs new Crew Access Arm in between Starlink launches
-- <a href="https://spacenews.com/u-s-air-force-x-37b-spaceplane-to-launch-on-a-spacex-falcon-heavy-rocket/" >🔗</a> **[SpaceNews]** U.S. Air Force X-37B spaceplane to launch on a SpaceX Falcon Heavy rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T043330">2023-11-09 04:33:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231109T050647">2023-11-09 05:06:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
