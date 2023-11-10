@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Peeling back the layers of the Garlic Nebula
+- <a href="https://spacenews.com/bulgaria-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Bulgaria signs Artemis Accords
+- <a href="https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant
 - <a href="https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/" >🔗</a> **[SpacePolicyOnline.com]** ESA Joins U.S.-European Starlab Commercial Space Station Project
 - <a href="https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/" >🔗</a> **[SpaceNews]** Satellite industry at odds over proposed power limit review ahead of WRC-23
 - <a href="https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/" >🔗</a> **[SpaceNews]** Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit
-- <a href="https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html" >🔗</a> **[CNBC]** Iridium, Qualcomm end satellite-to-phone partnership
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T130851">2023-11-10 13:08:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T133203">2023-11-10 13:32:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
