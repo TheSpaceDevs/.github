@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-completes-6th-dragon-launch-international-space-station/" >🔗</a> **[Teslarati]** SpaceX completes 6th Dragon launch to the International Space Station
+- <a href="https://www.cnbc.com/2023/11/10/ron-baron-expects-spacexs-starlink-to-go-public-around-2027.html" >🔗</a> **[CNBC]** Ron Baron expects SpaceX’s Starlink to go public around 2027
 - <a href="https://mars.nasa.gov/news/9512/" >🔗</a> **[NASA]** NASA's Mars Fleet Will Still Conduct Science While Lying Low
 - <a href="https://spacenews.com/spacenews-2023-icon-awards-honorees-commercial-space-achievement-of-the-year/" >🔗</a> **[SpaceNews]** SpaceNews 2023 Icon Awards honorees: Commercial Space Achievement of the Year
 - <a href="https://europeanspaceflight.com/cnes-publishes-call-for-the-demonstration-of-reusable-launch-systems/" >🔗</a> **[European Spaceflight]** CNES Publishes Call for the Demonstration of Reusable Launch Systems
-- <a href="https://spacenews.com/bulgaria-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Bulgaria signs Artemis Accords
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T183207">2023-11-10 18:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T190435">2023-11-10 19:04:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
