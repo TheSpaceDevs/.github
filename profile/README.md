@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9512/" >🔗</a> **[NASA]** NASA's Mars Fleet Will Still Conduct Science While Lying Low
 - <a href="https://spacenews.com/spacenews-2023-icon-awards-honorees-commercial-space-achievement-of-the-year/" >🔗</a> **[SpaceNews]** SpaceNews 2023 Icon Awards honorees: Commercial Space Achievement of the Year
 - <a href="https://europeanspaceflight.com/cnes-publishes-call-for-the-demonstration-of-reusable-launch-systems/" >🔗</a> **[European Spaceflight]** CNES Publishes Call for the Demonstration of Reusable Launch Systems
 - <a href="https://spacenews.com/bulgaria-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Bulgaria signs Artemis Accords
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-peeling-back-the-layers-of-the-garlic-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: A spectacular view of a 10,000-year-old supernova remnant
-- <a href="https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/" >🔗</a> **[SpacePolicyOnline.com]** ESA Joins U.S.-European Starlab Commercial Space Station Project
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T173129">2023-11-10 17:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T180826">2023-11-10 18:08:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
