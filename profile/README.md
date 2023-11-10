@@ -45,7 +45,7 @@ into *a Sun-Synchronous Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T184900">2023-11-11 18:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20231111T184900Z%2F20231111T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231112T210800">2023-11-12 21:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 5 &amp; 6&location=Cape Canaveral, FL, USA&dates=20231112T210800Z%2F20231112T223700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 5 & 6** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231112T210800">2023-11-12 21:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 5 &amp; 6&location=Cape Canaveral, FL, USA&dates=20231112T210800Z%2F20231112T223700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 5 & 6** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T130000">2023-11-15 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 2&location=SpaceX Space Launch Facility, TX, USA&dates=20231115T130000Z%2F20231115T153900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 2** from SpaceX Space Launch Facility, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T000000">2023-11-16 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-28&location=Cape Canaveral, FL, USA&dates=20231116T000000Z%2F20231116T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-28** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T040000">2023-11-28 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Moon God Awakens (QPS-SAR-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20231128T040000Z%2F20231128T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Moon God Awakens (QPS-SAR-5)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/esa-joins-u-s-european-starlab-commercial-space-station-project/" >🔗</a> **[SpacePolicyOnline.com]** ESA Joins U.S.-European Starlab Commercial Space Station Project
 - <a href="https://spacenews.com/satellite-industry-at-odds-over-proposed-power-limit-review-ahead-of-wrc-23/" >🔗</a> **[SpaceNews]** Satellite industry at odds over proposed power limit review ahead of WRC-23
 - <a href="https://spacenews.com/rocket-lab-to-launch-hypersonic-test-vehicle-for-the-defense-innovation-unit/" >🔗</a> **[SpaceNews]** Rocket Lab to launch hypersonic test vehicle for the Defense Innovation Unit
 - <a href="https://www.cnbc.com/2023/11/09/iridium-announces-end-of-qualcomm-satellite-to-phone-partnership.html" >🔗</a> **[CNBC]** Iridium, Qualcomm end satellite-to-phone partnership
 - <a href="https://www.teslarati.com/rocket-lab-q3-2023-earnings-results/" >🔗</a> **[Teslarati]** Rocket Lab reports results for Q3 2023
-- <a href="https://www.cnbc.com/2023/11/09/investing-in-space-the-military-doled-out-6-billion-for-rocket-launches.html" >🔗</a> **[CNBC]** Investing in Space: The military doled out $6 billion for rocket launches — and it’s not done yet
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T043207">2023-11-10 04:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T050634">2023-11-10 05:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
