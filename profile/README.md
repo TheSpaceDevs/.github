@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-ninth-dedicated-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches ninth dedicated rideshare mission
 - <a href="https://www.nasaspaceflight.com/2023/11/transporter-9/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter 9 rideshare features new OTV from Tom Mueller’s Impulse Space
 - <a href="https://spacenews.com/transportation-department-official-suggests-industry-help-pay-for-faa-commercial-space-office/" >🔗</a> **[SpaceNews]** Transportation Department official suggests industry help pay for FAA commercial space office
 - <a href="https://spacenews.com/avanti-in-leo-talks-to-become-a-multi-orbit-connectivity-provider/" >🔗</a> **[SpaceNews]** Avanti in LEO talks to become a multi-orbit connectivity provider
 - <a href="https://spacenews.com/qualcomm-ends-partnership-for-connecting-android-phones-to-iridium-satellites/" >🔗</a> **[SpaceNews]** Qualcomm ends partnership for connecting Android phones to Iridium satellites
-- <a href="https://www.teslarati.com/spacex-completes-6th-dragon-launch-international-space-station/" >🔗</a> **[Teslarati]** SpaceX completes 6th Dragon launch to the International Space Station
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T213145">2023-11-11 21:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T220437">2023-11-11 22:04:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
