@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/11/euclid-first-images/" >🔗</a> **[NASASpaceflight]** ESA reveals Euclid’s first five images
 - <a href="https://spacenews.com/spacex-launches-ninth-dedicated-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches ninth dedicated rideshare mission
 - <a href="https://www.nasaspaceflight.com/2023/11/transporter-9/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter 9 rideshare features new OTV from Tom Mueller’s Impulse Space
 - <a href="https://spacenews.com/transportation-department-official-suggests-industry-help-pay-for-faa-commercial-space-office/" >🔗</a> **[SpaceNews]** Transportation Department official suggests industry help pay for FAA commercial space office
 - <a href="https://spacenews.com/avanti-in-leo-talks-to-become-a-multi-orbit-connectivity-provider/" >🔗</a> **[SpaceNews]** Avanti in LEO talks to become a multi-orbit connectivity provider
-- <a href="https://spacenews.com/qualcomm-ends-partnership-for-connecting-android-phones-to-iridium-satellites/" >🔗</a> **[SpaceNews]** Qualcomm ends partnership for connecting Android phones to Iridium satellites
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T223132">2023-11-11 22:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T230638">2023-11-11 23:06:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
