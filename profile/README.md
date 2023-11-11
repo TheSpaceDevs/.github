@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/transportation-department-official-suggests-industry-help-pay-for-faa-commercial-space-office/" >🔗</a> **[SpaceNews]** Transportation Department official suggests industry help pay for FAA commercial space office
 - <a href="https://spacenews.com/avanti-in-leo-talks-to-become-a-multi-orbit-connectivity-provider/" >🔗</a> **[SpaceNews]** Avanti in LEO talks to become a multi-orbit connectivity provider
 - <a href="https://spacenews.com/qualcomm-ends-partnership-for-connecting-android-phones-to-iridium-satellites/" >🔗</a> **[SpaceNews]** Qualcomm ends partnership for connecting Android phones to Iridium satellites
 - <a href="https://www.teslarati.com/spacex-completes-6th-dragon-launch-international-space-station/" >🔗</a> **[Teslarati]** SpaceX completes 6th Dragon launch to the International Space Station
 - <a href="https://www.cnbc.com/2023/11/10/ron-baron-expects-spacexs-starlink-to-go-public-around-2027.html" >🔗</a> **[CNBC]** Ron Baron expects SpaceX’s Starlink to go public around 2027
-- <a href="https://mars.nasa.gov/news/9512/" >🔗</a> **[NASA]** NASA's Mars Fleet Will Still Conduct Science While Lying Low
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231110T233153">2023-11-10 23:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231111T003055">2023-11-11 00:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
