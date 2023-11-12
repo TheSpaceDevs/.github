@@ -89,11 +89,11 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/11/12/boeing-close-to-emirates-deal-for-more-777x-jets-reports-say.html" >🔗</a> **[CNBC]** Boeing close to Emirates deal for more 777 jets, reports say
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-12-18-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 12-18, 2023
 - <a href="https://spacenews.com/startup-rogue-space-launches-its-first-demonstration-mission/" >🔗</a> **[SpaceNews]** Rogue Space launches its first demonstration mission on Transporter-9
 - <a href="https://spacenews.com/saber-astronautics-gets-space-force-contract-for-data-visualization-software/" >🔗</a> **[SpaceNews]** Saber Astronautics gets Space Force contract for data visualization software
 - <a href="https://spacepolicyonline.com/news/nelson-confirms-funding-for-deorbit-tug-in-supplemental-as-appropriations-drama-continues-with-shutdown-looming/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Confirms Funding for Deorbit Tug in Supplemental as Appropriations Drama Continues With Shutdown Looming
-- <a href="https://www.nasaspaceflight.com/2023/11/euclid-first-images/" >🔗</a> **[NASASpaceflight]** ESA reveals Euclid’s first five images
-- <a href="https://spacenews.com/spacex-launches-ninth-dedicated-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches ninth dedicated rideshare mission
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231112T203140">2023-11-12 20:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231112T210427">2023-11-12 21:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
