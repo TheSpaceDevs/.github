@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-2023-icon-awards-honorees-space-stewardship/" >🔗</a> **[SpaceNews]** SpaceNews 2023 Icon Awards honorees: Space Stewardship
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-an-amazing-colorful-view-of-the-universe/" >🔗</a> **[Arstechnica]** Daily Telescope: An amazing, colorful view of the Universe
 - <a href="https://europeanspaceflight.com/has-esa-stacked-the-deck-for-the-exploration-company/" >🔗</a> **[European Spaceflight]** Has ESA Stacked the Deck for The Exploration Company?
 - <a href="https://spacenews.com/halo-space-eos-x-and-arthur-d-little-spain-indicted-for-unlawful-use-of-zero-2-infinitys-trade-secrets/" >🔗</a> **[SpaceNews]** Halo Space, Eos X and Arthur D. Little Spain indicted for unlawful use of Zero 2 Infinity’s trade secrets
 - <a href="https://spacenews.com/spacex-launches-final-pair-of-o3b-mpower-satellites-needed-for-commercial-services/" >🔗</a> **[SpaceNews]** SpaceX launches final pair of O3b mPower satellites needed for commercial services
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-12-18-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 12-18, 2023
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231113T143222">2023-11-13 14:32:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231113T150710">2023-11-13 15:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
