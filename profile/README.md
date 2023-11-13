@@ -89,7 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/from-kyiv-to-taipei-unraveling-the-impact-of-space-on-military-and-taiwans-daunting-prospects/" >🔗</a> **[SpaceNews]** From Kyiv to Taipei: Unraveling the impact of space on military and Taiwan’s daunting prospects
+- <a href="https://spacenews.com/from-kyiv-to-taipei-unraveling-the-impact-of-space-on-military-and-taiwans-daunting-prospects/" >🔗</a> **[SpaceNews]** From Kyiv to Taipei: Unraveling the impact of space on military power and Taiwan’s daunting prospects
 - <a href="https://spacenews.com/spacenews-2023-icon-awards-honorees-space-stewardship/" >🔗</a> **[SpaceNews]** SpaceNews 2023 Icon Awards honorees: Space Stewardship
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-an-amazing-colorful-view-of-the-universe/" >🔗</a> **[Arstechnica]** Daily Telescope: An amazing, colorful view of the Universe
 - <a href="https://europeanspaceflight.com/has-esa-stacked-the-deck-for-the-exploration-company/" >🔗</a> **[European Spaceflight]** Has ESA Stacked the Deck for The Exploration Company?
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231113T173142">2023-11-13 17:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231113T180838">2023-11-13 18:08:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
