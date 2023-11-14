@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/11/14/spacex-starship-second-launch-possible-this-week-ceo-elon-musk-says.html" >🔗</a> **[CNBC]** Elon Musk says SpaceX should receive clearance to attempt second Starship launch this week
+- <a href="https://spacenews.com/europe-needs-to-be-strategic-with-its-space-ambitions-dlr-head-says/" >🔗</a> **[SpaceNews]** Europe needs to be strategic with its space ambitions, DLR head says
+- <a href="https://spacenews.com/space-competition-enters-the-gray-zone/" >🔗</a> **[SpaceNews]** Space Competition Enters the Gray Zone
 - <a href="https://europeanspaceflight.com/ride-wins-esa-push-contract-to-offer-ariane-6-launch-capacity/" >🔗</a> **[European Spaceflight]** RIDE! Wins ESA PUSH Contract to Offer Ariane 6 Launch Capacity
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-a-celestial-flowering-as-two-galaxies-collide/" >🔗</a> **[Arstechnica]** Daily Telescope: Two galaxies colliding 300 million light-years from Earth
-- <a href="https://spacenews.com/quantum-space-reveals-plan-for-scout-1-satellite-and-sentry-mission/" >🔗</a> **[SpaceNews]** Quantum Space reveals plan for Scout-1 satellite and Sentry mission
-- <a href="https://spacenews.com/intuitive-machines-planning-up-to-three-lunar-lander-missions-in-2024/" >🔗</a> **[SpaceNews]** Intuitive Machines planning up to three lunar lander missions in 2024
-- <a href="https://europeanspaceflight.com/hyimpulse-inches-closer-to-maiden-sr75-flight/" >🔗</a> **[European Spaceflight]** HyImpulse Inches Closer to Maiden SR75 Flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T153146">2023-11-14 15:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T160645">2023-11-14 16:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
