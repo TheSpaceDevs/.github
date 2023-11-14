@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-advisory-commission-intense-u-s-china-rivalry-is-the-new-normal/" >🔗</a> **[SpaceNews]** U.S. advisory commission: Intense U.S-China rivalry is ‘the new normal’
+- <a href="https://arstechnica.com/space/2023/11/sale-of-united-launch-alliance-is-nearing-its-end-with-three-potential-buyers/" >🔗</a> **[Arstechnica]** Sale of United Launch Alliance is nearing its end, with three potential buyers
 - <a href="https://www.cnbc.com/2023/11/14/spacex-starship-second-launch-possible-this-week-ceo-elon-musk-says.html" >🔗</a> **[CNBC]** Elon Musk says SpaceX should receive clearance to attempt second Starship launch this week
 - <a href="https://spacenews.com/europe-needs-to-be-strategic-with-its-space-ambitions-dlr-head-says/" >🔗</a> **[SpaceNews]** Europe needs to be strategic with its space ambitions, DLR head says
 - <a href="https://spacenews.com/space-competition-enters-the-gray-zone/" >🔗</a> **[SpaceNews]** Space Competition Enters the Gray Zone
-- <a href="https://europeanspaceflight.com/ride-wins-esa-push-contract-to-offer-ariane-6-launch-capacity/" >🔗</a> **[European Spaceflight]** RIDE! Wins ESA PUSH Contract to Offer Ariane 6 Launch Capacity
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-a-celestial-flowering-as-two-galaxies-collide/" >🔗</a> **[Arstechnica]** Daily Telescope: Two galaxies colliding 300 million light-years from Earth
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T173129">2023-11-14 17:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T180805">2023-11-14 18:08:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
