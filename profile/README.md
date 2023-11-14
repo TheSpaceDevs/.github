@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/telespazio-buys-satellite-systems-engineering-firm-to-push-into-uk-market/" >🔗</a> **[SpaceNews]** Telespazio buys satellite systems engineering firm to push into UK market
-- <a href="https://spacenews.com/u-s-advisory-commission-intense-u-s-china-rivalry-is-the-new-normal/" >🔗</a> **[SpaceNews]** U.S. advisory commission: Intense U.S-China rivalry is ‘the new normal’
-- <a href="https://arstechnica.com/space/2023/11/sale-of-united-launch-alliance-is-nearing-its-end-with-three-potential-buyers/" >🔗</a> **[Arstechnica]** Sale of United Launch Alliance is nearing its end, with three potential buyers
-- <a href="https://www.cnbc.com/2023/11/14/spacex-starship-second-launch-possible-this-week-ceo-elon-musk-says.html" >🔗</a> **[CNBC]** Elon Musk says SpaceX should receive clearance to attempt second Starship launch this week
-- <a href="https://spacenews.com/europe-needs-to-be-strategic-with-its-space-ambitions-dlr-head-says/" >🔗</a> **[SpaceNews]** Europe needs to be strategic with its space ambitions, DLR head says
+- <a href="https://tlpnetwork.com/news/2023/11/esa-signs-starlab-commercial-space-station-agreement-with-airbus-and-voyager-space" >🔗</a> **[The Launch Pad]** ESA Signs Starlab Commercial Space Station Agreement With Airbus and Voyager Space
+- <a href="https://spacenews.com/spire-launches-constellation-management-platform/" >🔗</a> **[SpaceNews]** Spire launches constellation management platform
+- <a href="https://tlpnetwork.com/news/2023/11/bulgaria-signs-the-artemis-accords" >🔗</a> **[The Launch Pad]** Bulgaria Signs The Artemis Accords
+- <a href="https://spacenews.com/european-governments-and-companies-seek-changes-to-georeturn/" >🔗</a> **[SpaceNews]** European governments and companies seek changes to georeturn
+- <a href="https://tlpnetwork.com/news/2023/11/virgin-galactic-to-suspend-vss-unity-suborbital-flight-in-2024" >🔗</a> **[The Launch Pad]** Virgin Galactic To Suspend VSS Unity Suborbital Flights In 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T223143">2023-11-14 22:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T230640">2023-11-14 23:06:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
