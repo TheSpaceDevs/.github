@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/ride-wins-esa-push-contract-to-offer-ariane-6-launch-capacity/" >🔗</a> **[European Spaceflight]** RIDE! Wins ESA PUSH Contract to Offer Ariane 6 Launch Capacity
+- <a href="https://arstechnica.com/space/2023/11/daily-telescope-a-celestial-flowering-as-two-galaxies-collide/" >🔗</a> **[Arstechnica]** Daily Telescope: Two galaxies colliding 300 million light-years from Earth
+- <a href="https://spacenews.com/quantum-space-reveals-plan-for-scout-1-satellite-and-sentry-mission/" >🔗</a> **[SpaceNews]** Quantum Space reveals plan for Scout-1 satellite and Sentry mission
 - <a href="https://spacenews.com/intuitive-machines-planning-up-to-three-lunar-lander-missions-in-2024/" >🔗</a> **[SpaceNews]** Intuitive Machines planning up to three lunar lander missions in 2024
 - <a href="https://europeanspaceflight.com/hyimpulse-inches-closer-to-maiden-sr75-flight/" >🔗</a> **[European Spaceflight]** HyImpulse Inches Closer to Maiden SR75 Flight
-- <a href="https://spacenews.com/morpheus-unveils-journey-software-for-mission-planning/" >🔗</a> **[SpaceNews]** Morpheus unveils Journey software for mission planning
-- <a href="https://spacepolicyonline.com/news/nasa-pauses-mars-sample-return-program-while-assessing-options/" >🔗</a> **[SpacePolicyOnline.com]** NASA “Pauses” Mars Sample Return Program While Assessing Options
-- <a href="https://spacenews.com/air-force-warns-programs-will-come-to-screeching-halt-without-budget-deal/" >🔗</a> **[SpaceNews]** Air Force warns programs will come to ‘screeching halt’ without budget deal
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T130936">2023-11-14 13:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T133143">2023-11-14 13:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
