@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telespazio-buys-satellite-systems-engineering-firm-to-push-into-uk-market/" >🔗</a> **[SpaceNews]** Telespazio buys satellite systems engineering firm to push into UK market
 - <a href="https://spacenews.com/u-s-advisory-commission-intense-u-s-china-rivalry-is-the-new-normal/" >🔗</a> **[SpaceNews]** U.S. advisory commission: Intense U.S-China rivalry is ‘the new normal’
 - <a href="https://arstechnica.com/space/2023/11/sale-of-united-launch-alliance-is-nearing-its-end-with-three-potential-buyers/" >🔗</a> **[Arstechnica]** Sale of United Launch Alliance is nearing its end, with three potential buyers
 - <a href="https://www.cnbc.com/2023/11/14/spacex-starship-second-launch-possible-this-week-ceo-elon-musk-says.html" >🔗</a> **[CNBC]** Elon Musk says SpaceX should receive clearance to attempt second Starship launch this week
 - <a href="https://spacenews.com/europe-needs-to-be-strategic-with-its-space-ambitions-dlr-head-says/" >🔗</a> **[SpaceNews]** Europe needs to be strategic with its space ambitions, DLR head says
-- <a href="https://spacenews.com/space-competition-enters-the-gray-zone/" >🔗</a> **[SpaceNews]** Space Competition Enters the Gray Zone
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T203133">2023-11-14 20:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231114T210402">2023-11-14 21:04:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
