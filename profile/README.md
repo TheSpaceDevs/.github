@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/white-house-reveals-its-mission-authorization-plan-for-novel-space-activities/" >🔗</a> **[SpacePolicyOnline.com]** White House Reveals Its Mission Authorization Plan for Novel Space Activities
+- <a href="https://spacenews.com/white-house-proposal-would-split-mission-authorization-between-commerce-and-transportation/" >🔗</a> **[SpaceNews]** White House proposal would split mission authorization between Commerce and Transportation
 - <a href="https://spacenews.com/deterring-a-looming-space-pearl-harbor-through-better-public-discourse/" >🔗</a> **[SpaceNews]** Deterring a looming Space Pearl Harbor through better public discourse 
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-is-that-a-seahorse-or-something-more-sinister-in-the-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: Is that a seahorse or something more sinister in the sky?
 - <a href="https://spacenews.com/saxavord-spaceport-to-host-hyimpulse-orbital-rocket-launches/" >🔗</a> **[SpaceNews]** SaxaVord Spaceport to host HyImpulse orbital rocket launches
-- <a href="https://spacenews.com/european-launch-deal-praised-despite-competition-questions/" >🔗</a> **[SpaceNews]** European launch deal praised despite competition questions
-- <a href="https://europeanspaceflight.com/hyimpulse-ditch-saxavord-in-favour-of-australia-for-maiden-flight/" >🔗</a> **[European Spaceflight]** HyImpulse Ditch SaxaVord in Favour of Australia for Maiden Flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T143239">2023-11-15 14:32:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T150721">2023-11-15 15:07:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
