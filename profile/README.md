@@ -46,7 +46,7 @@ into *an Unknown
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T034900">2023-11-16 03:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231116T034900Z%2F20231116T041700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T073800">2023-11-17 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-7&location=Vandenberg SFB, CA, USA&dates=20231117T073800Z%2F20231117T120400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-7** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T130000">2023-11-17 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 2&location=SpaceX Starbase, TX, USA&dates=20231117T130000Z%2F20231117T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 2** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T130000">2023-11-17 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 2&location=SpaceX Starbase, TX, USA&dates=20231117T130000Z%2F20231117T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 2** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T040000">2023-11-18 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-28&location=Cape Canaveral, FL, USA&dates=20231118T040000Z%2F20231118T083100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-28** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T000000">2023-11-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-29&location=Cape Canaveral, FL, USA&dates=20231121T000000Z%2F20231121T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-29** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T040000">2023-11-28 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Moon God Awakens (QPS-SAR-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20231128T040000Z%2F20231128T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Moon God Awakens (QPS-SAR-5)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -89,20 +89,21 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-lands-faa-license-starship-launch/" >🔗</a> **[Teslarati]** SpaceX lands FAA license for 2nd Starship launch
+- <a href="https://spacenews.com/ast-spacemobile-adjusts-launch-plan-for-potential-direct-to-device-customer/" >🔗</a> **[SpaceNews]** AST SpaceMobile adjusts launch plan for potential direct-to-device customer
 - <a href="https://spacenews.com/rocket-factory-augsburg-perceives-historic-moment-for-european-launch-industry/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg perceives historic moment for European launch industry
 - <a href="https://arstechnica.com/space/2023/11/worried-about-orbital-debris-private-space-companies-push-to-end-asat-tests/" >🔗</a> **[Arstechnica]** Space companies say ASAT tests threaten economic development
 - <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Waiting for Starship, three other flights planned this week
-- <a href="https://spacepolicyonline.com/news/white-house-reveals-its-mission-authorization-plan-for-novel-space-activities/" >🔗</a> **[SpacePolicyOnline.com]** White House Reveals Its Mission Authorization Plan for Novel Space Activities
-- <a href="https://spacenews.com/white-house-proposal-would-split-mission-authorization-between-commerce-and-transportation/" >🔗</a> **[SpaceNews]** White House proposal would split mission authorization between Commerce and Transportation
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Waiting for Starship, three other flights planned this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T213144">2023-11-15 21:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T220616">2023-11-15 22:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
