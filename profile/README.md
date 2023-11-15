@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-factory-augsburg-perceives-historic-moment-for-european-launch-industry/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg perceives historic moment for European launch industry
 - <a href="https://arstechnica.com/space/2023/11/worried-about-orbital-debris-private-space-companies-push-to-end-asat-tests/" >🔗</a> **[Arstechnica]** Space companies say ASAT tests threaten economic development
 - <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Waiting for Starship, three other flights planned this week
 - <a href="https://spacepolicyonline.com/news/white-house-reveals-its-mission-authorization-plan-for-novel-space-activities/" >🔗</a> **[SpacePolicyOnline.com]** White House Reveals Its Mission Authorization Plan for Novel Space Activities
 - <a href="https://spacenews.com/white-house-proposal-would-split-mission-authorization-between-commerce-and-transportation/" >🔗</a> **[SpaceNews]** White House proposal would split mission authorization between Commerce and Transportation
-- <a href="https://spacenews.com/deterring-a-looming-space-pearl-harbor-through-better-public-discourse/" >🔗</a> **[SpaceNews]** Deterring a looming Space Pearl Harbor through better public discourse 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T203136">2023-11-15 20:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T210612">2023-11-15 21:06:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
