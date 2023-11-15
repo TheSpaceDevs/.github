@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saxavord-spaceport-to-host-hyimpulse-orbital-rocket-launches/" >🔗</a> **[SpaceNews]** SaxaVord Spaceport to host HyImpulse orbital rocket launches
 - <a href="https://spacenews.com/european-launch-deal-praised-despite-competition-questions/" >🔗</a> **[SpaceNews]** European launch deal praised despite competition questions
 - <a href="https://europeanspaceflight.com/hyimpulse-ditch-saxavord-in-favour-of-australia-for-maiden-flight/" >🔗</a> **[European Spaceflight]** HyImpulse Ditch SaxaVord in Favour of Australia for Maiden Flight
 - <a href="https://spacepolicyonline.com/news/house-passes-cr-to-keep-government-open-until-early-2024/" >🔗</a> **[SpacePolicyOnline.com]** House Passes CR To Keep Government Open Until Early 2024
 - <a href="https://spacenews.com/telesat-taps-aalyria-to-provide-network-orchestration/" >🔗</a> **[SpaceNews]** Telesat taps Aalyria to provide network orchestration
-- <a href="https://www.teslarati.com/spacex-launches-back-to-back-falcon-9-missions-over-the-weekend/" >🔗</a> **[Teslarati]** SpaceX launches back-to-back Falcon 9 missions over the weekend
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T113131">2023-11-15 11:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T121221">2023-11-15 12:12:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
