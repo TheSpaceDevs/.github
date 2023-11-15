@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/european-launch-deal-praised-despite-competition-questions/" >🔗</a> **[SpaceNews]** European launch deal praised despite competition questions
+- <a href="https://europeanspaceflight.com/hyimpulse-ditch-saxavord-in-favour-of-australia-for-maiden-flight/" >🔗</a> **[European Spaceflight]** HyImpulse Ditch SaxaVord in Favour of Australia for Maiden Flight
 - <a href="https://spacepolicyonline.com/news/house-passes-cr-to-keep-government-open-until-early-2024/" >🔗</a> **[SpacePolicyOnline.com]** House Passes CR To Keep Government Open Until Early 2024
 - <a href="https://spacenews.com/telesat-taps-aalyria-to-provide-network-orchestration/" >🔗</a> **[SpaceNews]** Telesat taps Aalyria to provide network orchestration
 - <a href="https://www.teslarati.com/spacex-launches-back-to-back-falcon-9-missions-over-the-weekend/" >🔗</a> **[Teslarati]** SpaceX launches back-to-back Falcon 9 missions over the weekend
-- <a href="https://spacepolicyonline.com/news/space-companies-join-movement-to-stop-debris-producing-asat-tests/" >🔗</a> **[SpacePolicyOnline.com]** Space Companies Join Movement to Stop Debris-Producing ASAT Tests
-- <a href="https://tlpnetwork.com/news/2023/11/esa-signs-starlab-commercial-space-station-agreement-with-airbus-and-voyager-space" >🔗</a> **[The Launch Pad]** ESA Signs Starlab Commercial Space Station Agreement With Airbus and Voyager Space
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T103611">2023-11-15 10:36:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T110539">2023-11-15 11:05:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
