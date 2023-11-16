@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-to-demonstrate-space-based-5g-network/" >🔗</a> **[SpaceNews]** Lockheed Martin to demonstrate space-based 5G network
 - <a href="https://spacenews.com/ohb-feeling-undervalued-going-private-in-deal-with-kkr/" >🔗</a> **[SpaceNews]** OHB, feeling undervalued, going private in deal with KKR
 - <a href="https://spacenews.com/norway-buys-telenors-satellite-business-to-expand-space-ambitions/" >🔗</a> **[SpaceNews]** Norway buys Telenor’s satellite business to expand space ambitions
 - <a href="https://www.cnbc.com/2023/11/16/investing-in-space-deutsche-summit-draws-investors-companies.html" >🔗</a> **[CNBC]** Investing in Space: Deutsche Bank draws investors, companies for NYC for summit
 - <a href="https://tlpnetwork.com/news/2023/11/spacex-starship-almost-ready-for-launch" >🔗</a> **[The Launch Pad]** UPDATE! SpaceX Starship Almost Ready For Launch
-- <a href="https://www.teslarati.com/spacex-starship-launch-delayed-one-day-elon-musk-reveals/" >🔗</a> **[Teslarati]** SpaceX Starship launch delayed one day, Elon Musk reveals
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T223200">2023-11-16 22:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T230628">2023-11-16 23:06:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
