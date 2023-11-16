@@ -151,11 +151,14 @@ into *a Suborbital
 - <a href="https://www.cnbc.com/2023/11/14/spacex-starship-second-launch-possible-this-week-ceo-elon-musk-says.html" >🔗</a> **[CNBC]** Elon Musk says SpaceX should receive clearance to attempt second Starship launch this week
 - <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Waiting for Starship, three other flights planned this week
 - <a href="https://www.teslarati.com/spacex-lands-faa-license-starship-launch/" >🔗</a> **[Teslarati]** SpaceX lands FAA license for 2nd Starship launch
+- <a href="https://www.nasaspaceflight.com/2023/11/ift2-launch-license/" >🔗</a> **[NASASpaceflight]** SpaceX receives launch license for second integrated flight test of Starship
+- <a href="https://spacepolicyonline.com/news/faa-approves-second-starship-test-flight-spacex-targeting-friday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Second Starship Test Flight, SpaceX Targeting Friday
+- <a href="https://spacenews.com/starship-cleared-for-nov-17-launch/" >🔗</a> **[SpaceNews]** Starship cleared for Nov. 17 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T113144">2023-11-16 11:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T121230">2023-11-16 12:12:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
