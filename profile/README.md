@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/senate-passes-cr-ending-shutdown-threat-until-early-2024/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes CR Ending Shutdown Threat Until Early 2024
 - <a href="https://spacepolicyonline.com/news/cathy-koerner-to-take-over-artemis-program-as-jim-free-moves-up-to-aa/" >🔗</a> **[SpacePolicyOnline.com]** Cathy Koerner to Take Over Artemis Program as Jim Free Moves Up to AA
 - <a href="https://spacenews.com/starship-cleared-for-nov-17-launch/" >🔗</a> **[SpaceNews]** Starship cleared for Nov. 17 launch
 - <a href="https://spacepolicyonline.com/news/faa-approves-second-starship-test-flight-spacex-targeting-friday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Second Starship Test Flight, SpaceX Targeting Friday
 - <a href="https://arstechnica.com/space/2023/11/ula-chief-on-the-vulcan-rocket-the-path-to-flight-one-is-clear/" >🔗</a> **[Arstechnica]** ULA chief on the Vulcan rocket: “The path to flight one is clear”
-- <a href="https://www.nasaspaceflight.com/2023/11/ift2-launch-license/" >🔗</a> **[NASASpaceflight]** SpaceX receives launch license for second integrated flight test of Starship
 
 
 ### Launch-related News 🚀
@@ -155,7 +155,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T043344">2023-11-16 04:33:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T050653">2023-11-16 05:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
