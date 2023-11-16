@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/saxavord-owes-contractors-money-it-cant-pay/" >🔗</a> **[European Spaceflight]** SaxaVord Owes Contractors Money it Can’t Pay
 - <a href="https://spacenews.com/china-launches-new-gen-haiyang-ocean-monitoring-satellite/" >🔗</a> **[SpaceNews]** China launches new-gen Haiyang ocean monitoring satellite
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-imaging-a-nearly-4-billion-year-old-region-on-the-moon/" >🔗</a> **[Arstechnica]** Daily Telescope: Imaging a nearly 4-billion-year-old region on the Moon
 - <a href="https://spacenews.com/nasa-exploration-head-free-to-become-associate-administrator/" >🔗</a> **[SpaceNews]** NASA exploration head Free to become associate administrator
 - <a href="https://spacenews.com/house-science-committee-delays-vote-on-commercial-space-bill/" >🔗</a> **[SpaceNews]** House Science Committee delays vote on commercial space bill
-- <a href="https://spacepolicyonline.com/news/senate-passes-cr-ending-shutdown-threat-until-early-2024/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes CR Ending Shutdown Threat Until Early 2024
 
 
 ### Launch-related News 🚀
@@ -158,7 +158,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T143307">2023-11-16 14:33:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T150722">2023-11-16 15:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
