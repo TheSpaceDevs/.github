@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starship-cleared-for-nov-17-launch/" >🔗</a> **[SpaceNews]** Starship cleared for Nov. 17 launch
+- <a href="https://spacepolicyonline.com/news/faa-approves-second-starship-test-flight-spacex-targeting-friday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Second Starship Test Flight, SpaceX Targeting Friday
+- <a href="https://arstechnica.com/space/2023/11/ula-chief-on-the-vulcan-rocket-the-path-to-flight-one-is-clear/" >🔗</a> **[Arstechnica]** ULA chief on the Vulcan rocket: “The path to flight one is clear”
 - <a href="https://www.nasaspaceflight.com/2023/11/ift2-launch-license/" >🔗</a> **[NASASpaceflight]** SpaceX receives launch license for second integrated flight test of Starship
 - <a href="https://www.teslarati.com/spacex-lands-faa-license-starship-launch/" >🔗</a> **[Teslarati]** SpaceX lands FAA license for 2nd Starship launch
-- <a href="https://spacenews.com/ast-spacemobile-adjusts-launch-plan-for-potential-direct-to-device-customer/" >🔗</a> **[SpaceNews]** AST SpaceMobile adjusts launch plan for potential direct-to-device customer
-- <a href="https://spacenews.com/rocket-factory-augsburg-perceives-historic-moment-for-european-launch-industry/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg perceives historic moment for European launch industry
-- <a href="https://arstechnica.com/space/2023/11/worried-about-orbital-debris-private-space-companies-push-to-end-asat-tests/" >🔗</a> **[Arstechnica]** Space companies say ASAT tests threaten economic development
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231115T233200">2023-11-15 23:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231116T003246">2023-11-16 00:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
