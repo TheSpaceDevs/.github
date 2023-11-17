@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/" >🔗</a> **[SpaceNews]** Starship lunar lander missions to require nearly 20 launches, NASA says
+- <a href="https://arstechnica.com/space/2023/11/heres-why-spacex-really-needed-to-change-out-that-part-on-starship/" >🔗</a> **[Arstechnica]** Here’s why SpaceX really needed to change out that part on Starship
 - <a href="https://spacenews.com/radical-transparency-the-promise-and-peril-of-generative-ai/" >🔗</a> **[SpaceNews]** Radical Transparency: The promise and peril of generative AI
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-traveling-into-the-heart-of-the-heart-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Traveling into the heart of the Heart Nebula
 - <a href="https://spacenews.com/space-force-eyes-a-future-of-speed-and-agility-in-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes a future of speed and agility in orbit
-- <a href="https://spacenews.com/ula-gearing-up-for-first-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA gearing up for first Vulcan launch
-- <a href="https://www.cnbc.com/2023/11/16/sierra-space-layoffs.html" >🔗</a> **[CNBC]** Sierra Space lays off hundreds in push toward first Dream Chaser spaceplane launch
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T170649">2023-11-17 17:06:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T173138">2023-11-17 17:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
