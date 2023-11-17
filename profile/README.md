@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/11/daily-telescope-traveling-into-the-heart-of-the-heart-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Traveling into the heart of the Heart Nebula
+- <a href="https://spacenews.com/space-force-eyes-a-future-of-speed-and-agility-in-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes a future of speed and agility in orbit
 - <a href="https://spacenews.com/ula-gearing-up-for-first-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA gearing up for first Vulcan launch
 - <a href="https://www.cnbc.com/2023/11/16/sierra-space-layoffs.html" >🔗</a> **[CNBC]** Sierra Space lays off hundreds in push toward first Dream Chaser spaceplane launch
 - <a href="https://spacenews.com/lockheed-martin-to-demonstrate-space-based-5g-network/" >🔗</a> **[SpaceNews]** Lockheed Martin to demonstrate space-based 5G network
-- <a href="https://spacenews.com/ohb-feeling-undervalued-going-private-in-deal-with-kkr/" >🔗</a> **[SpaceNews]** OHB, feeling undervalued, going private in deal with KKR
-- <a href="https://spacenews.com/norway-buys-telenors-satellite-business-to-expand-space-ambitions/" >🔗</a> **[SpaceNews]** Norway buys Telenor’s satellite business to expand space ambitions
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T130947">2023-11-17 13:09:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T133144">2023-11-17 13:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
