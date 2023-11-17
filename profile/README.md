@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/delay-for-perus-first-telecoms-satellite-creates-opportunity-for-the-philippines/" >🔗</a> **[SpaceNews]** Delay for Peru’s first telecoms satellite creates opportunity for the Philippines
+- <a href="https://spacepolicyonline.com/news/at-least-15-starship-launches-to-execute-artemis-iii-lunar-landing/" >🔗</a> **[SpacePolicyOnline.com]** At Least 15 Starship Launches Needed to Execute Artemis III Lunar Landing
+- <a href="https://www.nasaspaceflight.com/2023/11/ift-2-launch/" >🔗</a> **[NASASpaceflight]** After upgrades, Starship is ready for second test flight
 - <a href="https://www.teslarati.com/spacex-starship-integrated-flight-test-2-what-to-expect/" >🔗</a> **[Teslarati]** SpaceX Starship Integrated Flight Test 2: What to Expect
 - <a href="https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/" >🔗</a> **[SpaceNews]** Starship lunar lander missions to require nearly 20 launches, NASA says
-- <a href="https://arstechnica.com/space/2023/11/heres-why-spacex-really-needed-to-change-out-that-part-on-starship/" >🔗</a> **[Arstechnica]** Here’s why SpaceX really needed to change out that part on Starship
-- <a href="https://spacenews.com/radical-transparency-the-promise-and-peril-of-generative-ai/" >🔗</a> **[SpaceNews]** Radical Transparency: The promise and peril of generative AI
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-traveling-into-the-heart-of-the-heart-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Traveling into the heart of the Heart Nebula
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T213137">2023-11-17 21:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231117T220626">2023-11-17 22:06:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
