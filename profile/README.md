@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2023/11/18/spacex-starship-second-rocket-launch.html" >🔗</a> **[CNBC]** SpaceX attempts second Starship rocket launch
+- <a href="https://www.cnbc.com/2023/11/18/spacex-starship-second-rocket-launch.html" >🔗</a> **[CNBC]** Watch live as SpaceX makes second Starship spaceflight attempt
 - <a href="https://spacenews.com/investors-grant-astra-extension-on-loan/" >🔗</a> **[SpaceNews]** Investors grant Astra extension on loan
+- <a href="https://www.reuters.com/technology/space/spacex-starship-set-repeat-test-flight-seven-months-after-last-one-blew-up-2023-11-18/" >🔗</a> **[Reuters]** SpaceX Starship set for repeat test flight, seven months after last one blew up
 - <a href="https://tlpnetwork.com/news/2023/11/spacex-targets-back-to-back-starlink-launches-from-east-and-west-coasts" >🔗</a> **[The Launch Pad]** SpaceX targets back-to-back Starlink launches from East and West coasts
 - <a href="https://spacenews.com/delay-for-perus-first-telecoms-satellite-creates-opportunity-for-the-philippines/" >🔗</a> **[SpaceNews]** Delay for Peru’s first telecoms satellite creates opportunity for the Philippines
-- <a href="https://spacepolicyonline.com/news/at-least-15-starship-launches-to-execute-artemis-iii-lunar-landing/" >🔗</a> **[SpacePolicyOnline.com]** At Least 15 Starship Launches Needed to Execute Artemis III Lunar Landing
 
 
 ### Launch-related News 🚀
@@ -159,11 +159,13 @@ into *a Suborbital
 - <a href="https://arstechnica.com/space/2023/11/heres-why-spacex-really-needed-to-change-out-that-part-on-starship/" >🔗</a> **[Arstechnica]** Here’s why SpaceX really needed to change out that part on Starship
 - <a href="https://www.teslarati.com/spacex-starship-integrated-flight-test-2-what-to-expect/" >🔗</a> **[Teslarati]** SpaceX Starship Integrated Flight Test 2: What to Expect
 - <a href="https://www.nasaspaceflight.com/2023/11/ift-2-launch/" >🔗</a> **[NASASpaceflight]** After upgrades, Starship is ready for second test flight
+- <a href="https://www.cnbc.com/2023/11/18/spacex-starship-second-rocket-launch.html" >🔗</a> **[CNBC]** Watch live as SpaceX makes second Starship spaceflight attempt
+- <a href="https://www.reuters.com/technology/space/spacex-starship-set-repeat-test-flight-seven-months-after-last-one-blew-up-2023-11-18/" >🔗</a> **[Reuters]** SpaceX Starship set for repeat test flight, seven months after last one blew up
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T121040">2023-11-18 12:10:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T124453">2023-11-18 12:44:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
