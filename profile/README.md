@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/starships-second-test-flight-where-to-watch/" >🔗</a> **[SpaceNews]** Starship Super Heavy booster breaks apart shortly after separation
+- <a href="https://spacenews.com/starship-super-heavy-lifts-off-on-second-flight/" >🔗</a> **[SpaceNews]** Starship/Super Heavy lifts off on second flight
+- <a href="https://spacenews.com/starships-second-test-flight-where-to-watch/" >🔗</a> **[SpaceNews]** Starship’s second test flight: where to watch
 - <a href="https://www.cnbc.com/2023/11/18/spacex-starship-second-rocket-launch.html" >🔗</a> **[CNBC]** SpaceX’s Starship rocket reaches space but is intentionally destroyed mid-flight
 - <a href="https://spacenews.com/investors-grant-astra-extension-on-loan/" >🔗</a> **[SpaceNews]** Investors grant Astra extension on loan
 - <a href="https://www.reuters.com/technology/space/spacex-starship-set-repeat-test-flight-seven-months-after-last-one-blew-up-2023-11-18/" >🔗</a> **[Reuters]** SpaceX Starship set for repeat test flight, seven months after last one blew up
-- <a href="https://tlpnetwork.com/news/2023/11/spacex-targets-back-to-back-starlink-launches-from-east-and-west-coasts" >🔗</a> **[The Launch Pad]** SpaceX targets back-to-back Starlink launches from East and West coasts
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T133136">2023-11-18 13:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T140425">2023-11-18 14:04:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
