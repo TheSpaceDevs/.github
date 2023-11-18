@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/11/spacex-targets-back-to-back-starlink-launches-from-east-and-west-coasts" >🔗</a> **[The Launch Pad]** SpaceX targets back-to-back Starlink launches from East and West coasts
 - <a href="https://spacenews.com/delay-for-perus-first-telecoms-satellite-creates-opportunity-for-the-philippines/" >🔗</a> **[SpaceNews]** Delay for Peru’s first telecoms satellite creates opportunity for the Philippines
 - <a href="https://spacepolicyonline.com/news/at-least-15-starship-launches-to-execute-artemis-iii-lunar-landing/" >🔗</a> **[SpacePolicyOnline.com]** At Least 15 Starship Launches Needed to Execute Artemis III Lunar Landing
 - <a href="https://www.nasaspaceflight.com/2023/11/ift-2-launch/" >🔗</a> **[NASASpaceflight]** After upgrades, Starship is ready for second test flight
 - <a href="https://www.teslarati.com/spacex-starship-integrated-flight-test-2-what-to-expect/" >🔗</a> **[Teslarati]** SpaceX Starship Integrated Flight Test 2: What to Expect
-- <a href="https://spacenews.com/starship-lunar-lander-missions-to-require-nearly-20-launches-nasa-says/" >🔗</a> **[SpaceNews]** Starship lunar lander missions to require nearly 20 launches, NASA says
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T003212">2023-11-18 00:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231118T014416">2023-11-18 01:44:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
