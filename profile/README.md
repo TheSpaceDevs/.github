@@ -99,13 +99,13 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-launches-back-to-back-falcon-9-missions-over-the-weekend/" >🔗</a> **[Teslarati]** SpaceX launches back-to-back Falcon 9 missions over the weekend
-- <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Waiting for Starship, three other flights planned this week
+- <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, Falcon 9, and Chang Zheng-2C this week
 - <a href="https://tlpnetwork.com/news/2023/11/spacex-targets-back-to-back-starlink-launches-from-east-and-west-coasts" >🔗</a> **[The Launch Pad]** SpaceX targets back-to-back Starlink launches from East and West coasts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231119T193136">2023-11-19 19:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231119T200627">2023-11-19 20:06:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
