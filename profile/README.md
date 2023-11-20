@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/11/daily-telescope-spying-a-double-cluster-of-supergiant-stars/" >🔗</a> **[Arstechnica]** Daily Telescope: Spying a double cluster of supergiant stars
 - <a href="https://spacenews.com/sierra-space-lays-off-165-in-workforce-realignment/" >🔗</a> **[SpaceNews]** Sierra Space lays off 165 in workforce realignment
 - <a href="https://spacenews.com/world-view-ends-plans-to-go-public-through-a-spac-merger/" >🔗</a> **[SpaceNews]** World View ends plans to go public through a SPAC merger
 - <a href="https://spacenews.com/rocket-engine-startup-ursa-major-to-venture-into-solid-propulsion/" >🔗</a> **[SpaceNews]** Rocket engine startup Ursa Major to venture into solid propulsion
 - <a href="https://www.nasaspaceflight.com/2023/11/webb-szcha/" >🔗</a> **[NASASpaceflight]** Webb detects neon in young star system, provides insight into planet formation
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-19-december-2-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 19-December 2, 2023
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231120T131128">2023-11-20 13:11:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231120T133144">2023-11-20 13:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
