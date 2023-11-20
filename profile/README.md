@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 7-7**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-29**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231120T063330">2023-11-20 06:33:30 UTC</a>.  Until
-then, this pad will have been used for 124
-out of 734 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T040000">2023-11-22 04:00:00 UTC</a>.  Until
+then, this pad will have been used for 211
+out of 920 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 22 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T092200">2023-12-01 09:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-25 (86P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20231201T092200Z%2F20231201T092200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-25 (86P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T000000">2023-12-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | OTV-7 (X-37B) (USSF-52)&location=Kennedy Space Center, FL, USA&dates=20231207T000000Z%2F20231207T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | OTV-7 (X-37B) (USSF-52)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T000000">2023-12-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Ovzon-3&location=Cape Canaveral, FL, USA&dates=20231215T000000Z%2F20231215T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Ovzon-3** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231216T000000">2023-12-16 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Arktika-M No.2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20231216T000000Z%2F20231216T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Arktika-M No.2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,23 +89,20 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/world-view-ends-plans-to-go-public-through-a-spac-merger/" >🔗</a> **[SpaceNews]** World View ends plans to go public through a SPAC merger
 - <a href="https://spacenews.com/rocket-engine-startup-ursa-major-to-venture-into-solid-propulsion/" >🔗</a> **[SpaceNews]** Rocket engine startup Ursa Major to venture into solid propulsion
 - <a href="https://www.nasaspaceflight.com/2023/11/webb-szcha/" >🔗</a> **[NASASpaceflight]** Webb detects neon in young star system, provides insight into planet formation
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-19-december-2-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 19-December 2, 2023
 - <a href="https://spacenews.com/nasa-still-studying-orion-heat-shield-erosion-from-artemis-1/" >🔗</a> **[SpaceNews]** NASA still studying Orion heat shield erosion from Artemis 1
-- <a href="https://tlpnetwork.com/news/2023/11/spacex-launches-second-flight-test-of-starship" >🔗</a> **[The Launch Pad]** SpaceX Launches Second Flight Test of Starship rocket
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-launches-back-to-back-falcon-9-missions-over-the-weekend/" >🔗</a> **[Teslarati]** SpaceX launches back-to-back Falcon 9 missions over the weekend
-- <a href="https://www.nasaspaceflight.com/2023/11/roundup-3/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, Falcon 9, and Chang Zheng-2C this week
-- <a href="https://tlpnetwork.com/news/2023/11/spacex-targets-back-to-back-starlink-launches-from-east-and-west-coasts" >🔗</a> **[The Launch Pad]** SpaceX targets back-to-back Starlink launches from East and West coasts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231120T103605">2023-11-20 10:36:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231120T110610">2023-11-20 11:06:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
