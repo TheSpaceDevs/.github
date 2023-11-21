@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astrolab-announces-first-customers-for-commercial-lunar-rover-mission/" >🔗</a> **[SpaceNews]** Astrolab announces first customers for commercial lunar rover mission
+- <a href="https://arstechnica.com/space/2023/11/with-budget-cuts-and-an-aging-station-can-nasa-learn-to-love-a-gap-in-orbit/" >🔗</a> **[Arstechnica]** With budget cuts and an aging station, can NASA learn to love a gap in orbit?
 - <a href="https://spacenews.com/arianegroup-begins-testing-prototype-of-multirole-susie-upper-stage/" >🔗</a> **[SpaceNews]** ArianeGroup begins testing prototype of multirole Susie upper stage
 - <a href="https://europeanspaceflight.com/dlr-successfully-tests-its-new-red-kite-solid-rocket-motor/" >🔗</a> **[European Spaceflight]** DLR Successfully Tests its New Red Kite Solid Rocket Motor
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-peering-into-the-dense-center-of-our-galaxy/" >🔗</a> **[Arstechnica]** Daily Telescope: A snapshot of 500,000 stars near the center of the galaxy
-- <a href="https://spacenews.com/starliner-on-track-for-april-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner “on track” for April crewed test flight
-- <a href="https://spacenews.com/nasa-mars-smallsat-mission-to-be-on-first-new-glenn-launch/" >🔗</a> **[SpaceNews]** NASA Mars smallsat mission to be on first New Glenn launch
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T203133">2023-11-21 20:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T210651">2023-11-21 21:06:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
