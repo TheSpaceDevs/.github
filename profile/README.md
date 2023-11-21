@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jupiter-3-deploys-solar-arrays-and-antennas-in-orbit/" >🔗</a> **[SpaceNews]** Jupiter-3 deploys solar arrays and antennas in orbit
 - <a href="https://www.nasaspaceflight.com/2023/11/starliner-asap-nac/" >🔗</a> **[NASASpaceflight]** Stars aligning for Boeing crew launch in April
 - <a href="https://spacenews.com/battle-of-the-bands-whats-at-stake-for-space-at-wrc-23/" >🔗</a> **[SpaceNews]** Battle of the Bands: What’s at stake for space at WRC-23
 - <a href="https://spacenews.com/mda-gets-131-million-from-mystery-ngso-constellation-customer/" >🔗</a> **[SpaceNews]** MDA gets $131 million from mystery NGSO constellation customer
 - <a href="https://spacenews.com/u-s-delegation-stokes-optimism-on-wireless-and-satellite-goals-at-wrc-23/" >🔗</a> **[SpaceNews]** U.S. delegation stokes optimism on wireless and satellite goals at WRC-23
-- <a href="https://arstechnica.com/space/2023/11/heres-why-this-weekends-starship-launch-was-actually-a-huge-success/" >🔗</a> **[Arstechnica]** Sorry, doubters: Starship actually had a remarkably successful flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T015306">2023-11-21 01:53:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T022437">2023-11-21 02:24:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
