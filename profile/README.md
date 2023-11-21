@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/11/launch-roundup-112123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX on pace to hit 100 launches in 2023, Soyuz to launch Bars-M
+- <a href="https://spacenews.com/as-military-weather-satellites-near-end-of-life-dod-turns-to-partners-for-data/" >🔗</a> **[SpaceNews]** As military weather satellites near end of life, DoD turns to partners for data
 - <a href="https://spacenews.com/astrolab-announces-first-customers-for-commercial-lunar-rover-mission/" >🔗</a> **[SpaceNews]** Astrolab announces first customers for commercial lunar rover mission
 - <a href="https://arstechnica.com/space/2023/11/with-budget-cuts-and-an-aging-station-can-nasa-learn-to-love-a-gap-in-orbit/" >🔗</a> **[Arstechnica]** With budget cuts and an aging station, can NASA learn to love a gap in orbit?
 - <a href="https://spacenews.com/arianegroup-begins-testing-prototype-of-multirole-susie-upper-stage/" >🔗</a> **[SpaceNews]** ArianeGroup begins testing prototype of multirole Susie upper stage
-- <a href="https://europeanspaceflight.com/dlr-successfully-tests-its-new-red-kite-solid-rocket-motor/" >🔗</a> **[European Spaceflight]** DLR Successfully Tests its New Red Kite Solid Rocket Motor
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-peering-into-the-dense-center-of-our-galaxy/" >🔗</a> **[Arstechnica]** Daily Telescope: A snapshot of 500,000 stars near the center of the galaxy
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T223235">2023-11-21 22:32:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T230730">2023-11-21 23:07:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
