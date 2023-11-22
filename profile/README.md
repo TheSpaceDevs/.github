@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/11/nasa-concerned-spacex-hls-to-require-so-many-launches" >🔗</a> **[The Launch Pad]** NASA Concerned SpaceX HLS To Require "High Teens" Number Of Launches For Artemis Mission
+- <a href="https://tlpnetwork.com/news/2023/11/world-view-spac-merger-fails-no-longer-going-public" >🔗</a> **[The Launch Pad]** World View SPAC Merger Fails, No Longer Going Public 
 - <a href="https://spacenews.com/members-of-congress-seek-increase-in-mars-sample-return-funding/" >🔗</a> **[SpaceNews]** Members of Congress seek increase in Mars Sample Return funding
 - <a href="https://mars.nasa.gov/news/9513/" >🔗</a> **[NASA]** NASA Uses Two Worlds to Test Future Mars Helicopter Designs
 - <a href="https://europeanspaceflight.com/beyond-gravity-unveils-reusable-fairing-concept/" >🔗</a> **[European Spaceflight]** Beyond Gravity Unveils Reusable Fairing Concept
-- <a href="https://arstechnica.com/space/2023/11/daily-telescope-the-milky-way-soars-above-devils-kitchen/" >🔗</a> **[Arstechnica]** Daily Telescope: The Milky Way soars above Devil’s Kitchen
-- <a href="https://spacenews.com/nasa-acknowledges-possibility-of-short-term-post-iss-gap/" >🔗</a> **[SpaceNews]** NASA acknowledges possibility of short-term post-ISS gap
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T203158">2023-11-22 20:31:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T210616">2023-11-22 21:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
