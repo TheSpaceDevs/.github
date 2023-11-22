@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellogic-gets-noaa-license-for-move-to-the-united-states/" >🔗</a> **[SpaceNews]** Satellogic gets NOAA license for move to the United States
 - <a href="https://www.nasaspaceflight.com/2023/11/launch-roundup-112123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX on pace to hit 100 launches in 2023, Soyuz to launch Bars-M
 - <a href="https://spacenews.com/as-military-weather-satellites-near-end-of-life-dod-turns-to-partners-for-data/" >🔗</a> **[SpaceNews]** As military weather satellites near end of life, DoD turns to partners for data
 - <a href="https://spacenews.com/astrolab-announces-first-customers-for-commercial-lunar-rover-mission/" >🔗</a> **[SpaceNews]** Astrolab announces first customers for commercial lunar rover mission
 - <a href="https://arstechnica.com/space/2023/11/with-budget-cuts-and-an-aging-station-can-nasa-learn-to-love-a-gap-in-orbit/" >🔗</a> **[Arstechnica]** With budget cuts and an aging station, can NASA learn to love a gap in orbit?
-- <a href="https://spacenews.com/arianegroup-begins-testing-prototype-of-multirole-susie-upper-stage/" >🔗</a> **[SpaceNews]** ArianeGroup begins testing prototype of multirole Susie upper stage
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231121T233149">2023-11-21 23:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T003431">2023-11-22 00:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
