@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/members-of-congress-seek-increase-in-mars-sample-return-funding/" >🔗</a> **[SpaceNews]** Members of Congress seek increase in Mars Sample Return funding
+- <a href="https://mars.nasa.gov/news/9513/" >🔗</a> **[NASA]** NASA Uses Two Worlds to Test Future Mars Helicopter Designs
 - <a href="https://europeanspaceflight.com/beyond-gravity-unveils-reusable-fairing-concept/" >🔗</a> **[European Spaceflight]** Beyond Gravity Unveils Reusable Fairing Concept
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-the-milky-way-soars-above-devils-kitchen/" >🔗</a> **[Arstechnica]** Daily Telescope: The Milky Way soars above Devil’s Kitchen
 - <a href="https://spacenews.com/nasa-acknowledges-possibility-of-short-term-post-iss-gap/" >🔗</a> **[SpaceNews]** NASA acknowledges possibility of short-term post-ISS gap
-- <a href="https://europeanspaceflight.com/the-uk-to-contribute-more-than-3m-to-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** The UK to Contribute More Than £3M to the Atlantic Constellation
-- <a href="https://spacenews.com/satellogic-gets-noaa-license-for-move-to-the-united-states/" >🔗</a> **[SpaceNews]** Satellogic gets NOAA license for move to the United States
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T193135">2023-11-22 19:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T200713">2023-11-22 20:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
