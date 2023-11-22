@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/11/sierra-space-completes-first-dream-chaser-lays-off-165-employees" >🔗</a> **[The Launch Pad]** Sierra Space Completes First Dream Chaser, Lays Off 165 Employees
+- <a href="https://spacenews.com/viasat-warns-satellite-power-limit-review-would-hurt-geo-innovation/" >🔗</a> **[SpaceNews]** Viasat warns satellite power limit review would hurt GEO innovation
 - <a href="https://tlpnetwork.com/news/2023/11/nasa-concerned-spacex-hls-to-require-so-many-launches" >🔗</a> **[The Launch Pad]** NASA Concerned SpaceX HLS To Require "High Teens" Number Of Launches For Artemis Mission
 - <a href="https://tlpnetwork.com/news/2023/11/world-view-spac-merger-fails-no-longer-going-public" >🔗</a> **[The Launch Pad]** World View SPAC Merger Fails, No Longer Going Public 
 - <a href="https://spacenews.com/members-of-congress-seek-increase-in-mars-sample-return-funding/" >🔗</a> **[SpaceNews]** Members of Congress seek increase in Mars Sample Return funding
-- <a href="https://mars.nasa.gov/news/9513/" >🔗</a> **[NASA]** NASA Uses Two Worlds to Test Future Mars Helicopter Designs
-- <a href="https://europeanspaceflight.com/beyond-gravity-unveils-reusable-fairing-concept/" >🔗</a> **[European Spaceflight]** Beyond Gravity Unveils Reusable Fairing Concept
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T213135">2023-11-22 21:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T220336">2023-11-22 22:03:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
