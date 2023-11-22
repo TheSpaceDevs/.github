@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/beyond-gravity-unveils-reusable-fairing-concept/" >🔗</a> **[European Spaceflight]** Beyond Gravity Unveils Reusable Fairing Concept
 - <a href="https://arstechnica.com/space/2023/11/daily-telescope-the-milky-way-soars-above-devils-kitchen/" >🔗</a> **[Arstechnica]** Daily Telescope: The Milky Way soars above Devil’s Kitchen
 - <a href="https://spacenews.com/nasa-acknowledges-possibility-of-short-term-post-iss-gap/" >🔗</a> **[SpaceNews]** NASA acknowledges possibility of short-term post-ISS gap
 - <a href="https://europeanspaceflight.com/the-uk-to-contribute-more-than-3m-to-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** The UK to Contribute More Than £3M to the Atlantic Constellation
 - <a href="https://spacenews.com/satellogic-gets-noaa-license-for-move-to-the-united-states/" >🔗</a> **[SpaceNews]** Satellogic gets NOAA license for move to the United States
-- <a href="https://www.nasaspaceflight.com/2023/11/launch-roundup-112123/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX on pace to hit 100 launches in 2023, Soyuz to launch Bars-M
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T133147">2023-11-22 13:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231122T140700">2023-11-22 14:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
