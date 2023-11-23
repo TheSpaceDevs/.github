@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/11/canada-assigns-joshua-kutryk-to-starliner-1-crew" >🔗</a> **[The Launch Pad]** Canada Assigns Joshua Kutryk To Starliner-1 Crew
+- <a href="https://spacepolicyonline.com/news/california-lawmakers-urge-nasa-not-to-cut-mars-sample-return-funding/" >🔗</a> **[SpacePolicyOnline.com]** California Lawmakers Urge NASA Not To Cut Mars Sample Return Funding
+- <a href="https://tlpnetwork.com/news/2023/11/canada-assigns-jenni-gibbons-to-artemis-2-backup-crew" >🔗</a> **[The Launch Pad]** Canada Assigns Jenni Gibbons To Artemis II Backup Crew
 - <a href="https://spacenews.com/chinas-landspace-aims-to-build-a-stainless-steel-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace aims to build a stainless steel rocket
 - <a href="https://tlpnetwork.com/news/2023/11/sierra-space-completes-first-dream-chaser-lays-off-165-employees" >🔗</a> **[The Launch Pad]** Sierra Space Completes First Dream Chaser, Lays Off 165 Employees
-- <a href="https://spacenews.com/viasat-warns-satellite-power-limit-review-would-hurt-geo-innovation/" >🔗</a> **[SpaceNews]** Viasat warns satellite power limit review would hurt GEO innovation
-- <a href="https://tlpnetwork.com/news/2023/11/nasa-concerned-spacex-hls-to-require-so-many-launches" >🔗</a> **[The Launch Pad]** NASA Concerned SpaceX HLS To Require "High Teens" Number Of Launches For Artemis Mission
-- <a href="https://tlpnetwork.com/news/2023/11/world-view-spac-merger-fails-no-longer-going-public" >🔗</a> **[The Launch Pad]** World View SPAC Merger Fails, No Longer Going Public 
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231123T033140">2023-11-23 03:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231123T040832">2023-11-23 04:08:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
