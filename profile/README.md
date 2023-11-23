@@ -93,11 +93,11 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ariane-6-completes-long-duration-static-fire-test/" >🔗</a> **[SpaceNews]** Ariane 6 completes long-duration static-fire test
+- <a href="https://spacepolicyonline.com/news/esa-declares-ariane-6-full-duration-hot-fire-test-a-success/" >🔗</a> **[SpacePolicyOnline.com]** ESA Declares Ariane 6 Full Duration Hot Fire Test A Success
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-its-as-1-rocket-engine/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Testing its AS-1 Rocket Engine
 - <a href="https://spacenews.com/china-conducts-launch-to-test-satellite-internet-capabilities/" >🔗</a> **[SpaceNews]** China conducts launch to test satellite internet capabilities
 - <a href="https://arstechnica.com/space/2023/11/rocket-report-beyond-gravity-to-study-fairing-reuse-north-korea-launches-satellite/" >🔗</a> **[Arstechnica]** Rocket Report: Beyond Gravity to study fairing reuse; North Korea launches satellite
-- <a href="https://tlpnetwork.com/news/2023/11/canada-assigns-joshua-kutryk-to-starliner-1-crew" >🔗</a> **[The Launch Pad]** Canada Assigns Joshua Kutryk To Starliner-1 Crew
-- <a href="https://spacepolicyonline.com/news/california-lawmakers-urge-nasa-not-to-cut-mars-sample-return-funding/" >🔗</a> **[SpacePolicyOnline.com]** California Lawmakers Urge NASA Not To Cut Mars Sample Return Funding
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231123T223130">2023-11-23 22:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231123T230649">2023-11-23 23:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
