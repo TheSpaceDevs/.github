@@ -93,11 +93,11 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-completes-full-duration-ariane-6-hot-fire-test/" >🔗</a> **[European Spaceflight]** ESA Completes Full-Duration Ariane 6 Hot Fire Test
 - <a href="https://spacenews.com/ariane-6-completes-long-duration-static-fire-test/" >🔗</a> **[SpaceNews]** Ariane 6 completes long-duration static-fire test
 - <a href="https://spacepolicyonline.com/news/esa-declares-ariane-6-full-duration-hot-fire-test-a-success/" >🔗</a> **[SpacePolicyOnline.com]** ESA Declares Ariane 6 Full Duration Hot Fire Test A Success
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-testing-its-as-1-rocket-engine/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Testing its AS-1 Rocket Engine
 - <a href="https://spacenews.com/china-conducts-launch-to-test-satellite-internet-capabilities/" >🔗</a> **[SpaceNews]** China conducts launch to test satellite internet capabilities
-- <a href="https://arstechnica.com/space/2023/11/rocket-report-beyond-gravity-to-study-fairing-reuse-north-korea-launches-satellite/" >🔗</a> **[Arstechnica]** Rocket Report: Beyond Gravity to study fairing reuse; North Korea launches satellite
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231124T063402">2023-11-24 06:34:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231124T070624">2023-11-24 07:06:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
