@@ -93,11 +93,11 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/steve-jurczyk-former-nasa-leader-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Steve Jurczyk, Former NASA Leader, Passes Away
 - <a href="https://www.nasaspaceflight.com/2023/11/virgin-galactic-experience/" >🔗</a> **[NASASpaceflight]** From Countdown to Touchdown: Flying Aboard Virgin Galactic
 - <a href="https://europeanspaceflight.com/asi-awards-contract-to-continue-development-of-moon-base/" >🔗</a> **[European Spaceflight]** ASI Awards Contract to Continue Development of Moon Base
 - <a href="https://europeanspaceflight.com/esa-completes-full-duration-ariane-6-hot-fire-test/" >🔗</a> **[European Spaceflight]** ESA Completes Full-Duration Ariane 6 Hot Fire Test
 - <a href="https://spacenews.com/ariane-6-completes-long-duration-static-fire-test/" >🔗</a> **[SpaceNews]** Ariane 6 completes long-duration static-fire test
-- <a href="https://spacepolicyonline.com/news/esa-declares-ariane-6-full-duration-hot-fire-test-a-success/" >🔗</a> **[SpacePolicyOnline.com]** ESA Declares Ariane 6 Full Duration Hot Fire Test A Success
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231125T163341">2023-11-25 16:33:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231125T170430">2023-11-25 17:04:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
