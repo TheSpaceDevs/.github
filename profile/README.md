@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-26-december-2-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 26-December 2, 2023
 - <a href="https://spacenews.com/space-force-extends-kratos-contract-for-satellite-ground-systems/" >🔗</a> **[SpaceNews]** Space Force extends Kratos’ contract for satellite ground systems
 - <a href="https://spacepolicyonline.com/news/steve-jurczyk-former-nasa-leader-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Steve Jurczyk, Former NASA Leader, Passes Away
 - <a href="https://www.nasaspaceflight.com/2023/11/virgin-galactic-experience/" >🔗</a> **[NASASpaceflight]** From Countdown to Touchdown: Flying Aboard Virgin Galactic
 - <a href="https://europeanspaceflight.com/asi-awards-contract-to-continue-development-of-moon-base/" >🔗</a> **[European Spaceflight]** ASI Awards Contract to Continue Development of Moon Base
-- <a href="https://europeanspaceflight.com/esa-completes-full-duration-ariane-6-hot-fire-test/" >🔗</a> **[European Spaceflight]** ESA Completes Full-Duration Ariane 6 Hot Fire Test
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231126T203137">2023-11-26 20:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231126T210541">2023-11-26 21:05:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
