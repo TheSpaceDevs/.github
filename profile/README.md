@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-makes-progress-on-raptor-like-engines-for-super-heavy-rocket/" >🔗</a> **[SpaceNews]** China makes progress on Raptor-like engines for super heavy rocket
 - <a href="https://spacenews.com/astra-secures-2-7-million-in-additional-financing/" >🔗</a> **[SpaceNews]** Astra secures $2.7 million in additional financing
 - <a href="https://spacenews.com/former-nasa-acting-administrator-jurczyk-passes-away/" >🔗</a> **[SpaceNews]** Former NASA acting administrator Jurczyk passes away
 - <a href="https://www.nasaspaceflight.com/2023/11/shrinking-subneptunes/" >🔗</a> **[NASASpaceflight]** Data from Kepler reveals reason behind shrinking exoplanets
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-26-december-2-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 26-December 2, 2023
-- <a href="https://spacenews.com/space-force-extends-kratos-contract-for-satellite-ground-systems/" >🔗</a> **[SpaceNews]** Space Force extends Kratos’ contract for satellite ground systems
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231127T131017">2023-11-27 13:10:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231127T133152">2023-11-27 13:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
