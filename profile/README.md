@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-rl10-engine-to-be-introduced-on-vulcan-in-2025/" >🔗</a> **[SpaceNews]** New RL10 engine to be introduced on Vulcan in 2025
 - <a href="https://europeanspaceflight.com/ariane-6-upper-stage-upgrade-passes-first-testing-milestone/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Upgrade Passes First Testing Milestone
 - <a href="https://spacenews.com/pentagon-looks-to-commercial-space-for-an-edge/" >🔗</a> **[SpaceNews]** Pentagon looks to commercial space for an edge
 - <a href="https://spacenews.com/additional-vendors-selected-for-dods-low-earth-orbit-satellite-services-contract/" >🔗</a> **[SpaceNews]** Additional vendors selected for DoD’s low Earth orbit satellite services contract
 - <a href="https://europeanspaceflight.com/esas-long-serving-cryosat-satellite-avoids-early-end-to-its-mission/" >🔗</a> **[European Spaceflight]** ESA’s Long-Serving CryoSat Satellite Avoids Early End to its Mission
-- <a href="https://spacenews.com/china-makes-progress-on-raptor-like-engines-for-super-heavy-rocket/" >🔗</a> **[SpaceNews]** China makes progress on Raptor-like engines for super heavy rocket
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T130926">2023-11-28 13:09:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T133145">2023-11-28 13:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
