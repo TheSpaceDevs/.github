@@ -97,11 +97,11 @@ ESA's EIRSAT-1 is also onboard as a rideshare passenger. This 2U cubesat carries
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/ariane-6-upper-stage-upgrade-passes-first-testing-milestone/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Upgrade Passes First Testing Milestone
 - <a href="https://spacenews.com/pentagon-looks-to-commercial-space-for-an-edge/" >🔗</a> **[SpaceNews]** Pentagon looks to commercial space for an edge
 - <a href="https://spacenews.com/additional-vendors-selected-for-dods-low-earth-orbit-satellite-services-contract/" >🔗</a> **[SpaceNews]** Additional vendors selected for DoD’s low Earth orbit satellite services contract
 - <a href="https://europeanspaceflight.com/esas-long-serving-cryosat-satellite-avoids-early-end-to-its-mission/" >🔗</a> **[European Spaceflight]** ESA’s Long-Serving CryoSat Satellite Avoids Early End to its Mission
 - <a href="https://spacenews.com/china-makes-progress-on-raptor-like-engines-for-super-heavy-rocket/" >🔗</a> **[SpaceNews]** China makes progress on Raptor-like engines for super heavy rocket
-- <a href="https://spacenews.com/astra-secures-2-7-million-in-additional-financing/" >🔗</a> **[SpaceNews]** Astra secures $2.7 million in additional financing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ ESA's EIRSAT-1 is also onboard as a rideshare passenger. This 2U cubesat carries
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T103515">2023-11-28 10:35:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T110538">2023-11-28 11:05:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
