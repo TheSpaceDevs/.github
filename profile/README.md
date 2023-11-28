@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazons-project-kuiper-nets-first-broadband-partnership-in-asia/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper nets first broadband partnership in Asia
+- <a href="https://spacenews.com/new-military-satellites-in-low-earth-orbit-successfully-broadcast-data/" >🔗</a> **[SpaceNews]** Space Development Agency satellites in low Earth orbit successfully broadcast data
 - <a href="https://spacenews.com/firefly-to-launch-a-lockheed-martin-satellite-antenna-demonstration/" >🔗</a> **[SpaceNews]** Firefly to launch a Lockheed Martin satellite antenna demonstration
 - <a href="https://spacenews.com/new-rl10-engine-to-be-introduced-on-vulcan-in-2025/" >🔗</a> **[SpaceNews]** New RL10 engine to be introduced on Vulcan in 2025
 - <a href="https://europeanspaceflight.com/ariane-6-upper-stage-upgrade-passes-first-testing-milestone/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Upgrade Passes First Testing Milestone
-- <a href="https://spacenews.com/pentagon-looks-to-commercial-space-for-an-edge/" >🔗</a> **[SpaceNews]** Pentagon looks to commercial space for an edge
-- <a href="https://spacenews.com/additional-vendors-selected-for-dods-low-earth-orbit-satellite-services-contract/" >🔗</a> **[SpaceNews]** Additional vendors selected for DoD’s low Earth orbit satellite services contract
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T193131">2023-11-28 19:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T200726">2023-11-28 20:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
