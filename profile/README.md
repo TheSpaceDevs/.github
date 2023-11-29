@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-group-opposes-white-house-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Industry group opposes White House mission authorization proposal
 - <a href="https://spacenews.com/millennium-space-to-build-a-missile-sensor-layer-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Millennium Space to build a missile-sensor layer in medium Earth orbit
 - <a href="https://spacenews.com/nasa-postpones-dragonfly-review-launch-date/" >🔗</a> **[SpaceNews]** NASA postpones Dragonfly review, launch date
 - <a href="https://spacenews.com/amazons-project-kuiper-nets-first-broadband-partnership-in-asia/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper nets first broadband partnership in Asia
 - <a href="https://spacenews.com/new-military-satellites-in-low-earth-orbit-successfully-broadcast-data/" >🔗</a> **[SpaceNews]** Space Development Agency satellites in low Earth orbit successfully broadcast data
-- <a href="https://spacenews.com/firefly-to-launch-a-lockheed-martin-satellite-antenna-demonstration/" >🔗</a> **[SpaceNews]** Firefly to launch a Lockheed Martin satellite antenna demonstration
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231128T233139">2023-11-28 23:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T003318">2023-11-29 00:33:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
