@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/asi-seeks-commercial-operator-for-lunar-oxygen-extraction-mission/" >🔗</a> **[European Spaceflight]** ASI Seeks Commercial Operator for Lunar Oxygen Extraction Mission
+- <a href="https://spacenews.com/defense-and-intelligence-contractor-arcfield-acquires-orion-space-solutions/" >🔗</a> **[SpaceNews]** Defense and intelligence contractor Arcfield acquires Orion Space Solutions
 - <a href="https://spacenews.com/firefly-conducts-first-miranda-engine-test/" >🔗</a> **[SpaceNews]** Firefly conducts first Miranda engine test
 - <a href="https://tlpnetwork.com/news/2023/11/new-rl10c-x-rocket-engine-to-debut-on-vulcan-in-2025" >🔗</a> **[The Launch Pad]** New RL10C-X Rocket Engine To Debut On Vulcan In 2025
 - <a href="https://spacepolicyonline.com/news/dragonfly-takes-one-step-forward-but-only-one/" >🔗</a> **[SpacePolicyOnline.com]** Dragonfly Takes One Step Forward, But Only One
-- <a href="https://tlpnetwork.com/news/2023/11/firefly-set-to-launch-lockheed-martin-tech-demo-in-december" >🔗</a> **[The Launch Pad]** Firefly Set to Launch Lockheed Martin Tech Demo In December
-- <a href="https://tlpnetwork.com/news/2023/11/nasa-delays-dragonfly-mission-to-titan" >🔗</a> **[The Launch Pad]** NASA Delays Dragonfly Mission To Titan
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T143132">2023-11-29 14:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T150712">2023-11-29 15:07:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
