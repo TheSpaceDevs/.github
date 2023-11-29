@@ -52,8 +52,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T191700">2023-12-05 19:17:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Sea Launch&dates=20231205T191700Z%2F20231205T200200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T040000">2023-12-06 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-32&location=Cape Canaveral, FL, USA&dates=20231206T040000Z%2F20231206T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-32** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T233000">2023-12-06 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Flight 3&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231206T233000Z%2F20231206T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Flight 3** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231210T000000">2023-12-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | OTV-7 (X-37B) (USSF-52)&location=Kennedy Space Center, FL, USA&dates=20231210T000000Z%2F20231210T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | OTV-7 (X-37B) (USSF-52)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231213T040000">2023-12-13 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Moon God Awakens (QPS-SAR-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20231213T040000Z%2F20231213T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Moon God Awakens (QPS-SAR-5)** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T000000">2023-12-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Ovzon-3&location=Cape Canaveral, FL, USA&dates=20231215T000000Z%2F20231215T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Ovzon-3** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,20 +89,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-science-committee-advances-commercial-space-bill/" >🔗</a> **[SpaceNews]** House Science Committee advances commercial space bill
+- <a href="https://spacenews.com/satellite-imagery-analysis-firm-launches-free-greenhouse-gas-tracker/" >🔗</a> **[SpaceNews]** Satellite imagery analysis firm launches free greenhouse gas tracker
+- <a href="https://tlpnetwork.com/news/2023/11/china-releases-images-of-tiangong-space-station-from-shenzhou-16" >🔗</a> **[The Launch Pad]** China Releases Images Of Tiangong Space Station From Shenzhou 16
 - <a href="https://spacenews.com/defense-innovation-unit-solicits-new-round-of-proposals-for-space-network-project/" >🔗</a> **[SpaceNews]** Defense Innovation Unit solicits new round of proposals for space network project
 - <a href="https://tlpnetwork.com/news/2023/11/firefly-conducts-first-hot-fire-test-of-miranda-engine" >🔗</a> **[The Launch Pad]**  Firefly Conducts First Hot-Fire Test of Miranda Engine
-- <a href="https://tlpnetwork.com/news/2023/11/spacex-acquires-dragon-parachute-maker-pioneer-aerospace-in-22-million-bankruptcy-deal" >🔗</a> **[The Launch Pad]** SpaceX Acquires Dragon Parachute Maker Pioneer Aerospace In $2.2 Million Bankruptcy Deal 
-- <a href="https://tlpnetwork.com/news/2023/11/astra-secures-27m-in-funding-as-future-still-unclear" >🔗</a> **[The Launch Pad]** Astra Secures $2.7M In Funding As Future Still Unclear
-- <a href="https://www.nasaspaceflight.com/2023/11/launch-roundup-112823/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Soyuz to resupply the ISS; SpaceX to launch more Starlink satellites
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2023/11/launch-roundup-112823/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Soyuz to resupply the ISS; SpaceX to launch more Starlink satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T213147">2023-11-29 21:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T220617">2023-11-29 22:06:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
