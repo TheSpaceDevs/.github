@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-innovation-unit-solicits-new-round-of-proposals-for-space-network-project/" >🔗</a> **[SpaceNews]** Defense Innovation Unit solicits new round of proposals for space network project
+- <a href="https://tlpnetwork.com/news/2023/11/firefly-conducts-first-hot-fire-test-of-miranda-engine" >🔗</a> **[The Launch Pad]**  Firefly Conducts First Hot-Fire Test of Miranda Engine
 - <a href="https://tlpnetwork.com/news/2023/11/spacex-acquires-dragon-parachute-maker-pioneer-aerospace-in-22-million-bankruptcy-deal" >🔗</a> **[The Launch Pad]** SpaceX Acquires Dragon Parachute Maker Pioneer Aerospace In $2.2 Million Bankruptcy Deal 
 - <a href="https://tlpnetwork.com/news/2023/11/astra-secures-27m-in-funding-as-future-still-unclear" >🔗</a> **[The Launch Pad]** Astra Secures $2.7M In Funding As Future Still Unclear
 - <a href="https://www.nasaspaceflight.com/2023/11/launch-roundup-112823/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Soyuz to resupply the ISS; SpaceX to launch more Starlink satellites
-- <a href="https://spacenews.com/arctic-broadband-satellites-complete-key-tests-ahead-of-mid-2024-launch/" >🔗</a> **[SpaceNews]** Arctic broadband satellites complete key tests ahead of mid-2024 launch
-- <a href="https://spacenews.com/satellite-imagery-reveals-explosion-at-chinas-jiuquan-spaceport/" >🔗</a> **[SpaceNews]** Satellite imagery reveals explosion at China’s Jiuquan spaceport
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T203148">2023-11-29 20:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T210618">2023-11-29 21:06:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
