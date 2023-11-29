@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/11/new-rl10c-x-rocket-engine-to-debut-on-vulcan-in-2025" >🔗</a> **[The Launch Pad]** New RL10C-X Rocket Engine To Debut On Vulcan In 2025
 - <a href="https://spacepolicyonline.com/news/dragonfly-takes-one-step-forward-but-only-one/" >🔗</a> **[SpacePolicyOnline.com]** Dragonfly Takes One Step Forward, But Only One
 - <a href="https://tlpnetwork.com/news/2023/11/firefly-set-to-launch-lockheed-martin-tech-demo-in-december" >🔗</a> **[The Launch Pad]** Firefly Set to Launch Lockheed Martin Tech Demo In December
 - <a href="https://tlpnetwork.com/news/2023/11/nasa-delays-dragonfly-mission-to-titan" >🔗</a> **[The Launch Pad]** NASA Delays Dragonfly Mission To Titan
 - <a href="https://spacenews.com/industry-group-opposes-white-house-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Industry group opposes White House mission authorization proposal
-- <a href="https://spacenews.com/millennium-space-to-build-a-missile-sensor-layer-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Millennium Space to build a missile-sensor layer in medium Earth orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T053127">2023-11-29 05:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231129T060919">2023-11-29 06:09:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
