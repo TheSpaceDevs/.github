@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shanghai-to-foster-commercial-space-ecosystem/" >🔗</a> **[SpaceNews]** Shanghai to foster commercial space ecosystem
+- <a href="https://tlpnetwork.com/news/2023/11/esa-targets-summer-2024-for-first-ariane-6-launch" >🔗</a> **[The Launch Pad]** BREAKING! ESA Targets Summer 2024 For First Ariane 6 Launch
+- <a href="https://spacenews.com/nasa-warns-of-very-problematic-space-technology-budget-cuts/" >🔗</a> **[SpaceNews]** NASA warns of “very problematic” space technology budget cuts
 - <a href="https://spacenews.com/esa-sets-mid-2024-date-for-first-ariane-6-launch/" >🔗</a> **[SpaceNews]** ESA sets mid-2024 date for first Ariane 6 launch
 - <a href="https://spacenews.com/spacex-acquires-parachute-supplier/" >🔗</a> **[SpaceNews]** SpaceX acquires parachute supplier
-- <a href="https://spacenews.com/china-is-working-on-a-design-for-a-reusable-air-launched-orbital-rocket/" >🔗</a> **[SpaceNews]** China is working on a design for a reusable air-launched orbital rocket
-- <a href="https://europeanspaceflight.com/timeline-leading-up-to-maiden-ariane-6-flight-announced/" >🔗</a> **[European Spaceflight]** Timeline Leading up to Maiden Ariane 6 Flight Announced
-- <a href="https://spacepolicyonline.com/news/house-committee-clears-commercial-space-bill-on-partisan-but-friendly-vote/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Clears Commercial Space Bill on Partisan, But Friendly, Vote
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T183343">2023-11-30 18:33:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T190309">2023-11-30 19:03:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
