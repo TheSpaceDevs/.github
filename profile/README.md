@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-sets-mid-2024-date-for-first-ariane-6-launch/" >🔗</a> **[SpaceNews]** ESA sets mid-2024 date for first Ariane 6 launch
 - <a href="https://spacenews.com/spacex-acquires-parachute-supplier/" >🔗</a> **[SpaceNews]** SpaceX acquires parachute supplier
 - <a href="https://spacenews.com/china-is-working-on-a-design-for-a-reusable-air-launched-orbital-rocket/" >🔗</a> **[SpaceNews]** China is working on a design for a reusable air-launched orbital rocket
 - <a href="https://europeanspaceflight.com/timeline-leading-up-to-maiden-ariane-6-flight-announced/" >🔗</a> **[European Spaceflight]** Timeline Leading up to Maiden Ariane 6 Flight Announced
 - <a href="https://spacepolicyonline.com/news/house-committee-clears-commercial-space-bill-on-partisan-but-friendly-vote/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Clears Commercial Space Bill on Partisan, But Friendly, Vote
-- <a href="https://tlpnetwork.com/news/2023/11/house-science-committee-sends-commercial-space-bill-to-house" >🔗</a> **[The Launch Pad]** House Science Committee Sends Commercial Space Bill To House
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T121243">2023-11-30 12:12:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T124746">2023-11-30 12:47:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
