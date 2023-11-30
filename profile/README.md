@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-is-working-on-a-design-for-a-reusable-air-launched-orbital-rocket/" >🔗</a> **[SpaceNews]** China is working on a design for a reusable air-launched orbital rocket
+- <a href="https://europeanspaceflight.com/timeline-leading-up-to-maiden-ariane-6-flight-announced/" >🔗</a> **[European Spaceflight]** Timeline Leading up to Maiden Ariane 6 Flight Announced
 - <a href="https://spacepolicyonline.com/news/house-committee-clears-commercial-space-bill-on-partisan-but-friendly-vote/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Clears Commercial Space Bill on Partisan, But Friendly, Vote
-- <a href="https://tlpnetwork.com/news/2023/11/house-science-committee-sends-commercial-space-bill-to-house" >🔗</a> **[The Launch Pad]** BREAKING! House Science Committee Sends Commercial Space Bill To House
+- <a href="https://tlpnetwork.com/news/2023/11/house-science-committee-sends-commercial-space-bill-to-house" >🔗</a> **[The Launch Pad]** House Science Committee Sends Commercial Space Bill To House
 - <a href="https://spacenews.com/house-science-committee-advances-commercial-space-bill/" >🔗</a> **[SpaceNews]** House Science Committee advances commercial space bill
-- <a href="https://spacenews.com/satellite-imagery-analysis-firm-launches-free-greenhouse-gas-tracker/" >🔗</a> **[SpaceNews]** Satellite imagery analysis firm launches free greenhouse gas tracker
-- <a href="https://tlpnetwork.com/news/2023/11/china-releases-images-of-tiangong-space-station-from-shenzhou-16" >🔗</a> **[The Launch Pad]** China Releases Images Of Tiangong Space Station From Shenzhou 16
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T103427">2023-11-30 10:34:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T110535">2023-11-30 11:05:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
