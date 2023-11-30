@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amini-raises-4-million-for-africa-focused-environmental-constellation/" >🔗</a> **[SpaceNews]** Amini raises $4 million for Africa-focused environmental constellation
+- <a href="https://www.cnbc.com/2023/11/30/investing-in-space-understanding-starships-second-test-flight.html" >🔗</a> **[CNBC]** Investing in Space: Understanding Starship’s second test flight
 - <a href="https://spacenews.com/shanghai-to-foster-commercial-space-ecosystem/" >🔗</a> **[SpaceNews]** Shanghai to foster commercial space ecosystem
 - <a href="https://tlpnetwork.com/news/2023/11/esa-targets-summer-2024-for-first-ariane-6-launch" >🔗</a> **[The Launch Pad]** BREAKING! ESA Targets Summer 2024 For First Ariane 6 Launch
 - <a href="https://spacenews.com/nasa-warns-of-very-problematic-space-technology-budget-cuts/" >🔗</a> **[SpaceNews]** NASA warns of “very problematic” space technology budget cuts
-- <a href="https://spacenews.com/esa-sets-mid-2024-date-for-first-ariane-6-launch/" >🔗</a> **[SpaceNews]** ESA sets mid-2024 date for first Ariane 6 launch
-- <a href="https://spacenews.com/spacex-acquires-parachute-supplier/" >🔗</a> **[SpaceNews]** SpaceX acquires parachute supplier
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T193143">2023-11-30 19:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T200709">2023-11-30 20:07:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
