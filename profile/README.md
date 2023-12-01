@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/nasa-researchers-authorized-to-apply-for-chinas-moon-samples" >🔗</a> **[The Launch Pad]** BREAKING! NASA Researchers Authorized To Apply For China's Moon Samples
+- <a href="https://spacenews.com/amazon-adds-falcon-9-to-multi-billion-dollar-project-kuiper-launch-campaign/" >🔗</a> **[SpaceNews]** Amazon adds Falcon 9 to multi-billion-dollar Project Kuiper launch campaign
 - <a href="https://www.nasaspaceflight.com/2023/12/ariane6-2024-launch/" >🔗</a> **[NASASpaceflight]** ESA sets launch date for Ariane 6 for summer of 2024
 - <a href="https://www.cnbc.com/2023/12/01/amazon-buys-spacex-rocket-launches-for-kuiper-satellite-internet-project.html" >🔗</a> **[CNBC]** Amazon buys SpaceX rocket launches for Kuiper satellite internet project
 - <a href="https://tlpnetwork.com/news/2023/12/spacex-to-launch-amazon-project-kuiper-satellites" >🔗</a> **[The Launch Pad]** SpaceX To Launch Amazon Project Kuiper Satellites In 2025
-- <a href="https://spacenews.com/how-to-stop-europes-space-sector-from-lagging-behind-in-defense/" >🔗</a> **[SpaceNews]** How to stop Europe’s space sector from lagging behind in defense
-- <a href="https://spacenews.com/gao-report-warns-artemis-3-landing-may-be-delayed-to-2027/" >🔗</a> **[SpaceNews]** GAO report warns Artemis 3 landing may be delayed to 2027
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T213147">2023-12-01 21:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T220607">2023-12-01 22:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
