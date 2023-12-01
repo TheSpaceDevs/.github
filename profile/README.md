@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/esa-targets-summer-2024-launch-for-first-ariane-6/" >🔗</a> **[SpacePolicyOnline.com]** ESA Targets Summer 2024 Launch for First Ariane 6
 - <a href="https://spacenews.com/australian-startup-develops-dual-headed-space-camera/" >🔗</a> **[SpaceNews]** Australian startup develops dual-headed space camera
 - <a href="https://spacenews.com/intelsat-to-bring-multi-orbit-wi-fi-to-regional-american-airlines-jets/" >🔗</a> **[SpaceNews]** Intelsat to bring multi-orbit Wi-Fi to regional American Airlines jets
 - <a href="https://spacenews.com/ursa-major-closes-138-million-series-d-and-d-1-financings/" >🔗</a> **[SpaceNews]** Ursa Major closes $138 million Series D and D-1 financings
 - <a href="https://spacenews.com/intelsat-steps-up-partnership-with-spacex-in-multi-orbit-antenna/" >🔗</a> **[SpaceNews]** Intelsat steps up partnership with SpaceX in multi-orbit antenna
-- <a href="https://www.nasaspaceflight.com/2023/11/new-glenn-milestones/" >🔗</a> **[NASASpaceflight]** Blue Origin nearing New Glenn milestones ahead of debut flight
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T015602">2023-12-01 01:56:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T022727">2023-12-01 02:27:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
