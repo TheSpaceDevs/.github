@@ -52,7 +52,6 @@ ESA's EIRSAT-1 is also onboard as a rideshare passenger. This 2U cubesat carries
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T180400">2023-12-01 18:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 425 Project Flight 1 &amp; rideshare&location=Vandenberg SFB, CA, USA&dates=20231201T180400Z%2F20231201T191800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 425 Project Flight 1 & rideshare** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231202T040130">2023-12-02 04:01:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-31&location=Cape Canaveral, FL, USA&dates=20231202T040130Z%2F20231202T075810Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-31** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T040200">2023-12-04 04:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231204T040200Z%2F20231204T042500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T232400">2023-12-04 23:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231204T232400Z%2F20231205T002100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -97,11 +96,11 @@ ESA's EIRSAT-1 is also onboard as a rideshare passenger. This 2U cubesat carries
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-to-stop-europes-space-sector-from-lagging-behind-in-defense/" >🔗</a> **[SpaceNews]** How to stop Europe’s space sector from lagging behind in defense
 - <a href="https://spacenews.com/gao-report-warns-artemis-3-landing-may-be-delayed-to-2027/" >🔗</a> **[SpaceNews]** GAO report warns Artemis 3 landing may be delayed to 2027
 - <a href="https://spacenews.com/nasa-researchers-get-permission-to-apply-for-chinas-moon-samples/" >🔗</a> **[SpaceNews]** NASA researchers get permission to apply for China’s moon samples
 - <a href="https://tlpnetwork.com/news/2023/12/delays-likely-to-push-artemis-iii-to-2027" >🔗</a> **[The Launch Pad]** SpaceX Starship, Axiom Spacesuit Delays Likely To Push 2025 Artemis III to 2027 Says NASA GAO Report
 - <a href="https://spacepolicyonline.com/news/esa-targets-summer-2024-launch-for-first-ariane-6/" >🔗</a> **[SpacePolicyOnline.com]** ESA Targets Summer 2024 Launch for First Ariane 6
-- <a href="https://spacenews.com/australian-startup-develops-dual-headed-space-camera/" >🔗</a> **[SpaceNews]** Australian startup develops dual-headed space camera
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ ESA's EIRSAT-1 is also onboard as a rideshare passenger. This 2U cubesat carries
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T173132">2023-12-01 17:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T180839">2023-12-01 18:08:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
