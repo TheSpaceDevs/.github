@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/spacex-to-launch-amazon-project-kuiper-satellites" >🔗</a> **[The Launch Pad]** SpaceX To Launch Amazon Project Kuiper Satellites In 2025
 - <a href="https://spacenews.com/how-to-stop-europes-space-sector-from-lagging-behind-in-defense/" >🔗</a> **[SpaceNews]** How to stop Europe’s space sector from lagging behind in defense
 - <a href="https://spacenews.com/gao-report-warns-artemis-3-landing-may-be-delayed-to-2027/" >🔗</a> **[SpaceNews]** GAO report warns Artemis 3 landing may be delayed to 2027
 - <a href="https://spacenews.com/nasa-researchers-get-permission-to-apply-for-chinas-moon-samples/" >🔗</a> **[SpaceNews]** NASA researchers get permission to apply for China’s moon samples
 - <a href="https://tlpnetwork.com/news/2023/12/delays-likely-to-push-artemis-iii-to-2027" >🔗</a> **[The Launch Pad]** SpaceX Starship, Axiom Spacesuit Delays Likely To Push 2025 Artemis III to 2027 Says NASA GAO Report
-- <a href="https://spacepolicyonline.com/news/esa-targets-summer-2024-launch-for-first-ariane-6/" >🔗</a> **[SpacePolicyOnline.com]** ESA Targets Summer 2024 Launch for First Ariane 6
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T193134">2023-12-01 19:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T200717">2023-12-01 20:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
