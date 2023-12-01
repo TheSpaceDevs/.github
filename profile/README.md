@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T092511">2023-12-01 09:25:11 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-25 (86P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20231201T092511Z%2F20231201T092511Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-25 (86P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T180400">2023-12-01 18:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 425 Project Flight 1 and others&location=Vandenberg SFB, CA, USA&dates=20231201T180400Z%2F20231201T191800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 425 Project Flight 1 and others** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T180400">2023-12-01 18:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 425 Project Flight 1 &amp; rideshare&location=Vandenberg SFB, CA, USA&dates=20231201T180400Z%2F20231201T191800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 425 Project Flight 1 & rideshare** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231202T040130">2023-12-02 04:01:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-31&location=Cape Canaveral, FL, USA&dates=20231202T040130Z%2F20231202T075810Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-31** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231203T040200">2023-12-03 04:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231203T040200Z%2F20231203T042500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T232400">2023-12-04 23:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231204T232400Z%2F20231205T002100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelsat-to-bring-multi-orbit-wi-fi-to-regional-american-airlines-jets/" >🔗</a> **[SpaceNews]** Intelsat to bring multi-orbit Wi-Fi to regional American Airlines jets
+- <a href="https://spacenews.com/ursa-major-closes-138-million-series-d-and-d-1-financings/" >🔗</a> **[SpaceNews]** Ursa Major closes $138 million Series D and D-1 financings
+- <a href="https://spacenews.com/intelsat-steps-up-partnership-with-spacex-in-multi-orbit-antenna/" >🔗</a> **[SpaceNews]** Intelsat steps up partnership with SpaceX in multi-orbit antenna
 - <a href="https://www.nasaspaceflight.com/2023/11/new-glenn-milestones/" >🔗</a> **[NASASpaceflight]** Blue Origin nearing New Glenn milestones ahead of debut flight
 - <a href="https://spacenews.com/amini-raises-4-million-for-africa-focused-environmental-constellation/" >🔗</a> **[SpaceNews]** Amini raises $4 million for Africa-focused environmental constellation
-- <a href="https://www.cnbc.com/2023/11/30/investing-in-space-understanding-starships-second-test-flight.html" >🔗</a> **[CNBC]** Investing in Space: Understanding Starship’s second test flight
-- <a href="https://spacenews.com/shanghai-to-foster-commercial-space-ecosystem/" >🔗</a> **[SpaceNews]** Shanghai to foster commercial space ecosystem
-- <a href="https://tlpnetwork.com/news/2023/11/esa-targets-summer-2024-for-first-ariane-6-launch" >🔗</a> **[The Launch Pad]** BREAKING! ESA Targets Summer 2024 For First Ariane 6 Launch
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231130T233147">2023-11-30 23:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231201T003618">2023-12-01 00:36:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
