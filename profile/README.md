@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/intelsat-to-bring-oneweb-internet-to-regional-american-airlines-jets" >🔗</a> **[The Launch Pad]** Intelsat To Bring OneWeb Internet To Regional American Airlines Jets
+- <a href="https://tlpnetwork.com/news/2023/12/angola-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Angola Signs Artemis Accords
 - <a href="https://spacenews.com/angola-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Angola signs Artemis Accords
 - <a href="https://spacepolicyonline.com/news/gao-2025-unlikely-for-first-artemis-lunar-landing-maybe-2027/" >🔗</a> **[SpacePolicyOnline.com]** GAO: 2025 Unlikely for First Artemis Lunar Landing, Maybe 2027
 - <a href="https://tlpnetwork.com/news/2023/12/nasa-researchers-authorized-to-apply-for-chinas-moon-samples" >🔗</a> **[The Launch Pad]** BREAKING! NASA Researchers Authorized To Apply For China's Moon Samples
-- <a href="https://spacenews.com/amazon-adds-falcon-9-to-multi-billion-dollar-project-kuiper-launch-campaign/" >🔗</a> **[SpaceNews]** Amazon adds Falcon 9 to multi-billion-dollar Project Kuiper launch campaign
-- <a href="https://www.nasaspaceflight.com/2023/12/ariane6-2024-launch/" >🔗</a> **[NASASpaceflight]** ESA sets launch date for Ariane 6 for summer of 2024
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231202T033155">2023-12-02 03:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231202T040753">2023-12-02 04:07:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
