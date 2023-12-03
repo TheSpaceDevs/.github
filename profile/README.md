@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/sts61-30/" >🔗</a> **[NASASpaceflight]** 30 years after its first repair mission, Hubble continues to observe the cosmos
 - <a href="https://spacenews.com/hubble-glitch-renews-talk-about-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble glitch renews talk about private servicing mission
 - <a href="https://spacenews.com/u-s-u-k-australia-sign-agreement-to-jointly-operate-deep-space-radar-network/" >🔗</a> **[SpaceNews]** U.S., U.K., Australia sign agreement to jointly operate deep space radar network
 - <a href="https://www.nasaspaceflight.com/2023/12/webb-xue1/" >🔗</a> **[NASASpaceflight]** Webb discovers that rocky planets can form in more extreme environments
 - <a href="https://spacenews.com/air-force-secretary-military-needs-ai-to-augment-human-capabilities/" >🔗</a> **[SpaceNews]** Air Force Secretary: Military needs AI to augment human capabilities
-- <a href="https://spacenews.com/canada-taps-into-u-s-military-satellites-for-mobile-communications/" >🔗</a> **[SpaceNews]** Canada taps into U.S. military satellites for mobile communications
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231203T213154">2023-12-03 21:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231203T220520">2023-12-03 22:05:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
