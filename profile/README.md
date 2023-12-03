@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hubble-glitch-renews-talk-about-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble glitch renews talk about private servicing mission
 - <a href="https://spacenews.com/u-s-u-k-australia-sign-agreement-to-jointly-operate-deep-space-radar-network/" >🔗</a> **[SpaceNews]** U.S., U.K., Australia sign agreement to jointly operate deep space radar network
 - <a href="https://www.nasaspaceflight.com/2023/12/webb-xue1/" >🔗</a> **[NASASpaceflight]** Webb discovers that rocky planets can form in more extreme environments
 - <a href="https://spacenews.com/air-force-secretary-military-needs-ai-to-augment-human-capabilities/" >🔗</a> **[SpaceNews]** Air Force Secretary: Military needs AI to augment human capabilities
 - <a href="https://spacenews.com/canada-taps-into-u-s-military-satellites-for-mobile-communications/" >🔗</a> **[SpaceNews]** Canada taps into U.S. military satellites for mobile communications
-- <a href="https://tlpnetwork.com/news/2023/12/spacex-ready-to-test-starlink-direct-to-cell-service" >🔗</a> **[The Launch Pad]** SpaceX Ready To Test Starlink Direct To Cell Service
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231202T233152">2023-12-02 23:31:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231203T003515">2023-12-03 00:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
