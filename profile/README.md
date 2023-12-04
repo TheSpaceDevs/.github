@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satixfy-handed-stock-exchange-delisting-warning/" >🔗</a> **[SpaceNews]** SatixFy handed stock exchange delisting warning
+- <a href="https://spacenews.com/industry-report-demand-for-satellites-is-rising-but-not-skyrocketing/" >🔗</a> **[SpaceNews]** Industry report: Demand for satellites is rising but not skyrocketing
 - <a href="https://spacenews.com/york-reveals-latest-commercial-space-as-a-service-mission/" >🔗</a> **[SpaceNews]** York reveals latest commercial space-as-a-service mission
 - <a href="https://arstechnica.com/space/2023/12/italian-rocket-maker-has-a-problem-key-parts-of-final-vega-booster-were-trashed/" >🔗</a> **[Arstechnica]** What happens in Vega didn’t stay in Vega, as key rocket parts went missing
 - <a href="https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/" >🔗</a> **[European Spaceflight]** The Case of the Missing Vega AVUM Propellant Tanks
-- <a href="https://spacenews.com/nasa-updating-policy-for-rideshare-missions/" >🔗</a> **[SpaceNews]** NASA updating policy for rideshare missions
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-3-9-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 3-9, 2023
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T223202">2023-12-04 22:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T230701">2023-12-04 23:07:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
