@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/12/italian-rocket-maker-has-a-problem-key-parts-of-final-vega-booster-were-trashed/" >🔗</a> **[Arstechnica]** What happens in Vega didn’t stay in Vega, as key rocket parts went missing
 - <a href="https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/" >🔗</a> **[European Spaceflight]** The Case of the Missing Vega AVUM Propellant Tanks
 - <a href="https://spacenews.com/nasa-updating-policy-for-rideshare-missions/" >🔗</a> **[SpaceNews]** NASA updating policy for rideshare missions
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-3-9-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 3-9, 2023
 - <a href="https://www.nasaspaceflight.com/2023/12/sts61-30/" >🔗</a> **[NASASpaceflight]** 30 years after its first repair mission, Hubble continues to observe the cosmos
-- <a href="https://spacenews.com/hubble-glitch-renews-talk-about-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble glitch renews talk about private servicing mission
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T163658">2023-12-04 16:36:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231204T170632">2023-12-04 17:06:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
