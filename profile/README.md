@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-2023-spacenews-icon-awards-winners/" >🔗</a> **[SpaceNews]** The 2023 SpaceNews Icon Awards: Winners
 - <a href="https://www.cnbc.com/2023/12/05/spacex-plans-nasa-refueling-demonstration-for-next-starship-launch.html" >🔗</a> **[CNBC]** SpaceX plans key NASA demonstration for next Starship launch
 - <a href="https://spacenews.com/aalyria-wins-esa-contract-and-establishes-european-arm/" >🔗</a> **[SpaceNews]** Aalyria wins ESA contract and establishes European arm
 - <a href="https://arstechnica.com/space/2023/12/india-reveals-that-it-has-returned-lunar-spacecraft-to-earth-orbit/" >🔗</a> **[Arstechnica]** India reveals that it has returned lunar spacecraft to Earth orbit
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-an-ancient-galaxy-behind-a-veil-of-dust/" >🔗</a> **[Arstechnica]** Daily Telescope: An ancient galaxy behind a veil of dust
-- <a href="https://spacenews.com/orbit-fab-and-australias-space-machines-company-cooperate-on-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Orbit Fab and Australia’s Space Machines Company cooperate on in-orbit servicing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T203146">2023-12-05 20:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T210631">2023-12-05 21:06:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
