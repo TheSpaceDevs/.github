@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/12/daily-telescope-an-ancient-galaxy-behind-a-veil-of-dust/" >🔗</a> **[Arstechnica]** Daily Telescope: An ancient galaxy behind a veil of dust
+- <a href="https://spacenews.com/orbit-fab-and-australias-space-machines-company-cooperate-on-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Orbit Fab and Australia’s Space Machines Company cooperate on in-orbit servicing
+- <a href="https://spacenews.com/data-rights-limitations-affecting-nasa-technology-development/" >🔗</a> **[SpaceNews]** Data rights limitations affecting NASA technology development
 - <a href="https://spacenews.com/india-returns-chandrayaan-3-propulsion-module-to-earth-orbit/" >🔗</a> **[SpaceNews]** India returns Chandrayaan-3 propulsion module to Earth orbit
 - <a href="https://spacenews.com/satixfy-handed-stock-exchange-delisting-warning/" >🔗</a> **[SpaceNews]** SatixFy handed stock exchange delisting warning
-- <a href="https://spacenews.com/industry-report-demand-for-satellites-is-rising-but-not-skyrocketing/" >🔗</a> **[SpaceNews]** Industry report: Demand for satellites is rising but not skyrocketing
-- <a href="https://spacenews.com/york-reveals-latest-commercial-space-as-a-service-mission/" >🔗</a> **[SpaceNews]** York reveals latest commercial space-as-a-service mission
-- <a href="https://arstechnica.com/space/2023/12/italian-rocket-maker-has-a-problem-key-parts-of-final-vega-booster-were-trashed/" >🔗</a> **[Arstechnica]** What happens in Vega didn’t stay in Vega, as key rocket parts went missing
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T131025">2023-12-05 13:10:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T133135">2023-12-05 13:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
