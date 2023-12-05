@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-returns-chandrayaan-3-propulsion-module-to-earth-orbit/" >🔗</a> **[SpaceNews]** India returns Chandrayaan-3 propulsion module to Earth orbit
 - <a href="https://spacenews.com/satixfy-handed-stock-exchange-delisting-warning/" >🔗</a> **[SpaceNews]** SatixFy handed stock exchange delisting warning
 - <a href="https://spacenews.com/industry-report-demand-for-satellites-is-rising-but-not-skyrocketing/" >🔗</a> **[SpaceNews]** Industry report: Demand for satellites is rising but not skyrocketing
 - <a href="https://spacenews.com/york-reveals-latest-commercial-space-as-a-service-mission/" >🔗</a> **[SpaceNews]** York reveals latest commercial space-as-a-service mission
 - <a href="https://arstechnica.com/space/2023/12/italian-rocket-maker-has-a-problem-key-parts-of-final-vega-booster-were-trashed/" >🔗</a> **[Arstechnica]** What happens in Vega didn’t stay in Vega, as key rocket parts went missing
-- <a href="https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/" >🔗</a> **[European Spaceflight]** The Case of the Missing Vega AVUM Propellant Tanks
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T033143">2023-12-05 03:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T040829">2023-12-05 04:08:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
