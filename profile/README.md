@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aalyria-wins-esa-contract-and-establishes-european-arm/" >🔗</a> **[SpaceNews]** Aalyria wins ESA contract and establishes European arm
 - <a href="https://arstechnica.com/space/2023/12/india-reveals-that-it-has-returned-lunar-spacecraft-to-earth-orbit/" >🔗</a> **[Arstechnica]** India reveals that it has returned lunar spacecraft to Earth orbit
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-an-ancient-galaxy-behind-a-veil-of-dust/" >🔗</a> **[Arstechnica]** Daily Telescope: An ancient galaxy behind a veil of dust
 - <a href="https://spacenews.com/orbit-fab-and-australias-space-machines-company-cooperate-on-in-orbit-servicing/" >🔗</a> **[SpaceNews]** Orbit Fab and Australia’s Space Machines Company cooperate on in-orbit servicing
 - <a href="https://spacenews.com/data-rights-limitations-affecting-nasa-technology-development/" >🔗</a> **[SpaceNews]** Data rights limitations affecting NASA technology development
-- <a href="https://spacenews.com/india-returns-chandrayaan-3-propulsion-module-to-earth-orbit/" >🔗</a> **[SpaceNews]** India returns Chandrayaan-3 propulsion module to Earth orbit
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T153200">2023-12-05 15:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T160855">2023-12-05 16:08:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
