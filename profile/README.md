@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/capella-space-moves-acadia-launches-to-spacex" >🔗</a> **[The Launch Pad]** Capella Space Moves Acadia Launches To SpaceX Rideshare Following RocketLab Launch Failure
 - <a href="https://tlpnetwork.com/news/2023/12/osiris-rex-capsule-landing-did-not-go-to-plan" >🔗</a> **[The Launch Pad]** OSIRIS-REx Capsule Landing "Did Not Go...To Plan" - NASA 
 - <a href="https://spacenews.com/northstar-raises-15-million-for-debris-tracking-satellites-waiting-on-rocket-lab/" >🔗</a> **[SpaceNews]** NorthStar raises $15 million for debris-tracking satellites waiting on Rocket Lab
 - <a href="https://www.nasaspaceflight.com/2023/12/launch-roundup-120923/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX continues toward 100 launch goal
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-a-super-hot-jet-1000-light-years-from-earth/" >🔗</a> **[Arstechnica]** Daily Telescope: A super-hot jet 1,000 light-years from Earth
-- <a href="https://spacenews.com/capella-to-use-spacex-for-two-acadia-satellite-launches/" >🔗</a> **[SpaceNews]** Capella to use SpaceX for two Acadia satellite launches
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T213134">2023-12-06 21:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T220629">2023-12-06 22:06:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
