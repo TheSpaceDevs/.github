@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/ssc-returns-esrange-launch-tower-to-service-after-fire/" >🔗</a> **[European Spaceflight]** SSC Returns Esrange Launch Tower to Service After Fire
 - <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-welcomes-the-spirit-of-mojave" >🔗</a> **[The Launch Pad]** Stratolaunch Welcomes The Spirit Of Mojave To Their Fleet
 - <a href="https://tlpnetwork.com/news/2023/12/isro-returns-chandrayaan-3-prop-module-to-earth-orbit-as-lunar-return-tech-demo" >🔗</a> **[The Launch Pad]** ISRO Returns Chandrayaan-3 Prop Module To Earth Orbit As Lunar Return Tech Demo
 - <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-conducts-captive-carry-flight-of-talon-a-hypersonic-vehicle" >🔗</a> **[The Launch Pad]** Stratolaunch Conducts Captive Carry Flight of Talon-A Hypersonic Vehicle
 - <a href="https://tlpnetwork.com/news/2023/12/nasa-hubble-space-telescope-operations-suspended-due-to-gyro-issue" >🔗</a> **[The Launch Pad]** NASA’s Hubble Space Telescope Operations Suspended Due To Gyro Issue
-- <a href="https://spacenews.com/nro-signs-agreements-with-five-commercial-suppliers-of-electro-optical-imagery/" >🔗</a> **[SpaceNews]** NRO signs agreements with five  commercial suppliers of electro-optical imagery
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T083327">2023-12-06 08:33:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T090724">2023-12-06 09:07:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
