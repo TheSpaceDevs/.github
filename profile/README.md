@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/isro-returns-chandrayaan-3-prop-module-to-earth-orbit-as-lunar-return-tech-demo" >🔗</a> **[The Launch Pad]** ISRO Returns Chandrayaan-3 Prop Module To Earth Orbit As Lunar Return Tech Demo
+- <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-conducts-captive-carry-flight-of-talon-a-hypersonic-vehicle" >🔗</a> **[The Launch Pad]** Stratolaunch Conducts Captive Carry Flight of Talon-A Hypersonic Vehicle
+- <a href="https://tlpnetwork.com/news/2023/12/nasa-hubble-space-telescope-operations-suspended-due-to-gyro-issue" >🔗</a> **[The Launch Pad]** NASA’s Hubble Space Telescope Operations Suspended Due To Gyro Issue
 - <a href="https://spacenews.com/nro-signs-agreements-with-five-commercial-suppliers-of-electro-optical-imagery/" >🔗</a> **[SpaceNews]** NRO signs agreements with five  commercial suppliers of electro-optical imagery
 - <a href="https://spacenews.com/the-2023-spacenews-icon-awards-winners/" >🔗</a> **[SpaceNews]** The 2023 SpaceNews Icon Awards: Winners
-- <a href="https://www.cnbc.com/2023/12/05/spacex-plans-nasa-refueling-demonstration-for-next-starship-launch.html" >🔗</a> **[CNBC]** SpaceX plans key NASA demonstration for next Starship launch
-- <a href="https://spacenews.com/aalyria-wins-esa-contract-and-establishes-european-arm/" >🔗</a> **[SpaceNews]** Aalyria wins ESA contract and establishes European arm
-- <a href="https://arstechnica.com/space/2023/12/india-reveals-that-it-has-returned-lunar-spacecraft-to-earth-orbit/" >🔗</a> **[Arstechnica]** India reveals that it has returned lunar spacecraft to Earth orbit
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231205T233204">2023-12-05 23:32:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T003342">2023-12-06 00:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
