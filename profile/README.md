@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/launch-roundup-120923/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX continues toward 100 launch goal
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-a-super-hot-jet-1000-light-years-from-earth/" >🔗</a> **[Arstechnica]** Daily Telescope: A super-hot jet 1,000 light-years from Earth
 - <a href="https://spacenews.com/capella-to-use-spacex-for-two-acadia-satellite-launches/" >🔗</a> **[SpaceNews]** Capella to use SpaceX for two Acadia satellite launches
 - <a href="https://spacenews.com/china-launches-internet-technology-test-satellite-from-sea-barge/" >🔗</a> **[SpaceNews]** China launches internet technology test satellite from sea barge
 - <a href="https://spacenews.com/osiris-rex-parachute-deployment-affected-by-wiring-error/" >🔗</a> **[SpaceNews]** OSIRIS-REx parachute deployment affected by wiring error
-- <a href="https://europeanspaceflight.com/ssc-returns-esrange-launch-tower-to-service-after-fire/" >🔗</a> **[European Spaceflight]** SSC Returns Esrange Launch Tower to Service After Fire
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T183342">2023-12-06 18:33:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T190439">2023-12-06 19:04:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
