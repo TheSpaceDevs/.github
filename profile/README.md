@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/capella-to-use-spacex-for-two-acadia-satellite-launches/" >🔗</a> **[SpaceNews]** Capella to use SpaceX for two Acadia satellite launches
+- <a href="https://spacenews.com/china-launches-internet-technology-test-satellite-from-sea-barge/" >🔗</a> **[SpaceNews]** China launches internet technology test satellite from sea barge
 - <a href="https://spacenews.com/osiris-rex-parachute-deployment-affected-by-wiring-error/" >🔗</a> **[SpaceNews]** OSIRIS-REx parachute deployment affected by wiring error
 - <a href="https://europeanspaceflight.com/ssc-returns-esrange-launch-tower-to-service-after-fire/" >🔗</a> **[European Spaceflight]** SSC Returns Esrange Launch Tower to Service After Fire
 - <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-welcomes-the-spirit-of-mojave" >🔗</a> **[The Launch Pad]** Stratolaunch Welcomes The Spirit Of Mojave To Their Fleet
-- <a href="https://tlpnetwork.com/news/2023/12/isro-returns-chandrayaan-3-prop-module-to-earth-orbit-as-lunar-return-tech-demo" >🔗</a> **[The Launch Pad]** ISRO Returns Chandrayaan-3 Prop Module To Earth Orbit As Lunar Return Tech Demo
-- <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-conducts-captive-carry-flight-of-talon-a-hypersonic-vehicle" >🔗</a> **[The Launch Pad]** Stratolaunch Conducts Captive Carry Flight of Talon-A Hypersonic Vehicle
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T103503">2023-12-06 10:35:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T110607">2023-12-06 11:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
