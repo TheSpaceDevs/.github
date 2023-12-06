@@ -18,35 +18,35 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Zhuque-2 | Flight 3**. It is scheduled to be launched by *LandSpace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/LandSpace">Launch Area 96</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T233100">2023-12-06 23:31:00 UTC</a>.  Until
-then, this pad will have been used for 2
-out of 212 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 6-33**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T040100">2023-12-07 04:01:00 UTC</a>.  Until
+then, this pad will have been used for 214
+out of 923 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  First operational flight of LandSpace's Zhuque-2 rocket, payload to be determined.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/LandSpace#Zhuque-2" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.91491,100.245488" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T233100">2023-12-06 23:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Flight 3&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231206T233100Z%2F20231207T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Flight 3** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T040100">2023-12-07 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-33&location=Cape Canaveral, FL, USA&dates=20231207T040100Z%2F20231207T075900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-33** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T080000">2023-12-08 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-8&location=Vandenberg SFB, CA, USA&dates=20231208T080000Z%2F20231208T104100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-8** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T233100">2023-12-08 23:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2 | Flight 3&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20231208T233100Z%2F20231209T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2 | Flight 3** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231210T000000">2023-12-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | OTV-7 (X-37B) (USSF-52)&location=Kennedy Space Center, FL, USA&dates=20231210T000000Z%2F20231210T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | OTV-7 (X-37B) (USSF-52)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231210T014800">2023-12-10 01:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20231210T014800Z%2F20231210T020800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231211T040000">2023-12-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-34&location=Cape Canaveral, FL, USA&dates=20231211T040000Z%2F20231211T083100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-34** from Cape Canaveral, FL, USA.
@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/osiris-rex-parachute-deployment-affected-by-wiring-error/" >🔗</a> **[SpaceNews]** OSIRIS-REx parachute deployment affected by wiring error
 - <a href="https://europeanspaceflight.com/ssc-returns-esrange-launch-tower-to-service-after-fire/" >🔗</a> **[European Spaceflight]** SSC Returns Esrange Launch Tower to Service After Fire
 - <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-welcomes-the-spirit-of-mojave" >🔗</a> **[The Launch Pad]** Stratolaunch Welcomes The Spirit Of Mojave To Their Fleet
 - <a href="https://tlpnetwork.com/news/2023/12/isro-returns-chandrayaan-3-prop-module-to-earth-orbit-as-lunar-return-tech-demo" >🔗</a> **[The Launch Pad]** ISRO Returns Chandrayaan-3 Prop Module To Earth Orbit As Lunar Return Tech Demo
 - <a href="https://tlpnetwork.com/news/2023/12/stratolaunch-conducts-captive-carry-flight-of-talon-a-hypersonic-vehicle" >🔗</a> **[The Launch Pad]** Stratolaunch Conducts Captive Carry Flight of Talon-A Hypersonic Vehicle
-- <a href="https://tlpnetwork.com/news/2023/12/nasa-hubble-space-telescope-operations-suspended-due-to-gyro-issue" >🔗</a> **[The Launch Pad]** NASA’s Hubble Space Telescope Operations Suspended Due To Gyro Issue
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T093145">2023-12-06 09:31:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231206T100722">2023-12-06 10:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
