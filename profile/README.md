@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-90th-orbital-mission-2023/" >🔗</a> **[Teslarati]** SpaceX launches 90th orbital mission of the year
+- <a href="https://spacenews.com/nasa-revises-contract-strategy-for-iss-deorbit-vehicle/" >🔗</a> **[SpaceNews]** NASA revises contract strategy for ISS deorbit vehicle
+- <a href="https://spacenews.com/fcc-nod-puts-dish-echostar-merger-on-home-stretch/" >🔗</a> **[SpaceNews]** FCC nod puts Dish-EchoStar merger on home stretch
 - <a href="https://www.cnbc.com/2023/12/07/investing-in-space-why-amazon-bought-rocket-launches-from-rival-spacex.html" >🔗</a> **[CNBC]** Investing in Space: Why Amazon bought rocket launches from rival SpaceX
 - <a href="https://spacenews.com/rethink-the-mars-program/" >🔗</a> **[SpaceNews]** Rethink the Mars Program
-- <a href="https://europeanspaceflight.com/esa-wants-to-develop-a-very-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** ESA Wants to Develop a “Very High Thrust” Rocket Engine
-- <a href="https://arstechnica.com/space/2023/12/daily-telescope-journey-into-the-heart-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: A colorful heart with a blue core
-- <a href="https://spacenews.com/nasa-working-with-industry-to-advance-inflatable-heat-shield-technology/" >🔗</a> **[SpaceNews]** NASA working with industry to advance inflatable heat shield technology
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T203131">2023-12-07 20:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T210616">2023-12-07 21:06:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
