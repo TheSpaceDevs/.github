@@ -88,11 +88,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/uag-endorses-single-agency-for-mission-authorization/" >🔗</a> **[SpacePolicyOnline.com]** UAG Endorses Single Agency for Mission Authorization
 - <a href="https://tlpnetwork.com/news/2023/12/coming-soon-i-s-s" >🔗</a> **[The Launch Pad]** Coming Soon... I.S.S 
 - <a href="https://tlpnetwork.com/news/2023/12/nasa-psyche-captures-first-light-images" >🔗</a> **[The Launch Pad]** NASA Psyche Captures First Light Images
 - <a href="https://spacenews.com/pentagon-advisors-despite-reforms-space-force-still-shackled-to-sluggish-procurement-system/" >🔗</a> **[SpaceNews]** Pentagon advisors: Despite reforms, Space Force still shackled to sluggish procurement system
 - <a href="https://tlpnetwork.com/news/2023/12/capella-space-moves-acadia-launches-to-spacex" >🔗</a> **[The Launch Pad]** Capella Space Moves Acadia Launches To SpaceX Rideshare Following RocketLab Launch Failure
-- <a href="https://tlpnetwork.com/news/2023/12/osiris-rex-capsule-landing-did-not-go-to-plan" >🔗</a> **[The Launch Pad]** OSIRIS-REx Capsule Landing "Did Not Go...To Plan" - NASA 
 
 
 ### Launch-related News 🚀
@@ -101,7 +101,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T043414">2023-12-07 04:34:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231207T050656">2023-12-07 05:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
