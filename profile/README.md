@@ -91,9 +91,9 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://spacenews.com/northrop-grumman-tests-new-solid-rocket-motor-technologies/" >🔗</a> **[SpaceNews]** Northrop Grumman tests new solid rocket motor technologies
 - <a href="https://europeanspaceflight.com/arianegroup-ceo-finally-says-quiet-part-out-loud/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO Finally Says Quiet Part Out Loud
+- <a href="https://arstechnica.com/space/2023/12/daily-telescope-the-stars-at-night-are-big-and-bright-in-the-grand-canyon/" >🔗</a> **[Arstechnica]** Daily Telescope: Seeing stars with an iPhone in the bottom of the Grand Canyon
 - <a href="https://spacenews.com/gao-report-recommends-faa-evaluate-launch-mishap-investigation-procedures/" >🔗</a> **[SpaceNews]** GAO report recommends FAA evaluate launch mishap investigation procedures
-- <a href="https://spacepolicyonline.com/news/gao-wants-faa-to-improve-how-it-investigates-space-launch-mishaps/" >🔗</a> **[SpacePolicyOnline.com]** GAO Wants FAA To Improve How It Investigates Space Launch Mishaps
-- <a href="https://spacenews.com/space-development-agency-aims-high-for-2024-after-strong-2023-start/" >🔗</a> **[SpaceNews]** Space Development Agency aims high for 2024 after strong 2023 start
+- <a href="https://arstechnica.com/space/2023/12/rocket-report-the-final-space-shuttle-stack-spacex-may-extend-booster-lifetimes/" >🔗</a> **[Arstechnica]** Rocket Report: The final space shuttle stack; SpaceX may extend booster lifetimes
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T193134">2023-12-08 19:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T200722">2023-12-08 20:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
