@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ghana-warns-against-illegal-starlink-services/" >🔗</a> **[SpaceNews]** Ghana warns against illegal Starlink services
+- <a href="https://spacenews.com/experts-raise-concerns-about-u-s-commitment-to-gps-modernization/" >🔗</a> **[SpaceNews]** Experts raise concerns about U.S. commitment to GPS modernization
 - <a href="https://spacenews.com/northrop-grumman-tests-new-solid-rocket-motor-technologies/" >🔗</a> **[SpaceNews]** Northrop Grumman tests new solid rocket motor technologies
 - <a href="https://europeanspaceflight.com/arianegroup-ceo-finally-says-quiet-part-out-loud/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO Finally Says Quiet Part Out Loud
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-the-stars-at-night-are-big-and-bright-in-the-grand-canyon/" >🔗</a> **[Arstechnica]** Daily Telescope: Seeing stars with an iPhone in the bottom of the Grand Canyon
-- <a href="https://spacenews.com/gao-report-recommends-faa-evaluate-launch-mishap-investigation-procedures/" >🔗</a> **[SpaceNews]** GAO report recommends FAA evaluate launch mishap investigation procedures
-- <a href="https://arstechnica.com/space/2023/12/rocket-report-the-final-space-shuttle-stack-spacex-may-extend-booster-lifetimes/" >🔗</a> **[Arstechnica]** Rocket Report: The final space shuttle stack; SpaceX may extend booster lifetimes
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T223153">2023-12-08 22:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T230634">2023-12-08 23:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
