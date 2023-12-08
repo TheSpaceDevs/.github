@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-ceo-finally-says-quiet-part-out-loud/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO Finally Says Quiet Part Out Loud
 - <a href="https://spacenews.com/gao-report-recommends-faa-evaluate-launch-mishap-investigation-procedures/" >🔗</a> **[SpaceNews]** GAO report recommends FAA evaluate launch mishap investigation procedures
 - <a href="https://spacepolicyonline.com/news/gao-wants-faa-to-improve-how-it-investigates-space-launch-mishaps/" >🔗</a> **[SpacePolicyOnline.com]** GAO Wants FAA To Improve How It Investigates Space Launch Mishaps
 - <a href="https://spacenews.com/space-development-agency-aims-high-for-2024-after-strong-2023-start/" >🔗</a> **[SpaceNews]** Space Development Agency aims high for 2024 after strong 2023 start
 - <a href="https://spacenews.com/lawmakers-unveil-2024-defense-authorization-bill-with-space-priorities/" >🔗</a> **[SpaceNews]** Lawmakers unveil 2024 defense authorization bill with space priorities
-- <a href="https://www.nasaspaceflight.com/2023/12/final-assembly-sls-core/" >🔗</a> **[NASASpaceflight]** Boeing working toward first SLS Core Stage final assembly at KSC
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T133137">2023-12-08 13:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231208T140634">2023-12-08 14:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
