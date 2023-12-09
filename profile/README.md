@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/landspace-launches-third-methane-zhuque-2-targets-2025-launch-of-new-stainless-steel-rocket/" >🔗</a> **[SpaceNews]** Landspace launches third methane Zhuque-2, targets 2025 launch of new stainless steel rocket
 - <a href="https://tlpnetwork.com/news/2023/12/gigantic-coronal-hole-60-earths-wide-aims-radiation-directly-at-earth" >🔗</a> **[The Launch Pad]** Gigantic Coronal Hole 60 Earths Wide Aims Radiation Directly at Earth
 - <a href="https://tlpnetwork.com/news/2023/12/egypt-joins-china-ilrs-lunar-base-program" >🔗</a> **[The Launch Pad]** Egypt Joins China ILRS Lunar Base Program
 - <a href="https://spacenews.com/three-satellites-presumed-lost-in-transporter-deployment-malfunction/" >🔗</a> **[SpaceNews]** Three satellites presumed lost in Transporter deployment malfunction
 - <a href="https://tlpnetwork.com/news/2023/12/us-space-force-activates-europe-and-africa-components" >🔗</a> **[The Launch Pad]** US Space Force Activates Europe and Africa Components
-- <a href="https://tlpnetwork.com/news/2023/12/ghana-warns-against-unauthorized-starlink-use" >🔗</a> **[The Launch Pad]** Ghana Warns Against Unauthorized Starlink Use
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231209T143148">2023-12-09 14:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231209T150545">2023-12-09 15:05:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
