@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-10-16-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 10-16, 2023
 - <a href="https://tlpnetwork.com/news/2023/12/landspace-wins-methane-rocket-race-target-2025-for-new-stainless-rocket" >🔗</a> **[The Launch Pad]** LandSpace Wins Methane Rocket Race With 1st Satellite Deployments, Targets 2025 For New Stainless Rocket
 - <a href="https://www.nasaspaceflight.com/2023/12/psyche-first-images/" >🔗</a> **[NASASpaceflight]** NASA’s Psyche captures its “first light,” continues testing other instruments
 - <a href="https://spacenews.com/landspace-launches-third-methane-zhuque-2-targets-2025-launch-of-new-stainless-steel-rocket/" >🔗</a> **[SpaceNews]** Landspace launches third methane Zhuque-2, targets 2025 launch of new stainless steel rocket
 - <a href="https://tlpnetwork.com/news/2023/12/gigantic-coronal-hole-60-earths-wide-aims-radiation-directly-at-earth" >🔗</a> **[The Launch Pad]** Gigantic Coronal Hole 60 Earths Wide Aims Radiation Directly at Earth
-- <a href="https://tlpnetwork.com/news/2023/12/egypt-joins-china-ilrs-lunar-base-program" >🔗</a> **[The Launch Pad]** Egypt Joins China ILRS Lunar Base Program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231210T203128">2023-12-10 20:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231210T210518">2023-12-10 21:05:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
