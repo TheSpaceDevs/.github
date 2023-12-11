@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/first-ula-vulcan-launch-apparently-slips-to-january/" >🔗</a> **[SpacePolicyOnline.com]** First ULA Vulcan Launch Apparently Slips to January
+- <a href="https://spacepolicyonline.com/news/ndaa-conferees-agree-no-spending-on-space-command-headquarters-until-next-summer/" >🔗</a> **[SpacePolicyOnline.com]** NDAA Conferees Agree No Spending on Space Command Headquarters Until Next Summer
 - <a href="https://spacenews.com/first-vulcan-launch-likely-to-slip-to-january/" >🔗</a> **[SpaceNews]** First Vulcan launch likely to slip to January
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-10-16-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 10-16, 2023
 - <a href="https://arstechnica.com/space/2023/12/vulcan-rocket-debut-will-be-delayed-until-2024-chief-executive-says/" >🔗</a> **[Arstechnica]** ULA chief says Vulcan rocket will slip to 2024 after ground system issues
-- <a href="https://tlpnetwork.com/news/2023/12/landspace-wins-methane-rocket-race-target-2025-for-new-stainless-rocket" >🔗</a> **[The Launch Pad]** LandSpace Wins Methane Rocket Race With 1st Satellite Deployments, Targets 2025 For New Stainless Rocket
-- <a href="https://www.nasaspaceflight.com/2023/12/psyche-first-images/" >🔗</a> **[NASASpaceflight]** NASA’s Psyche captures its “first light,” continues testing other instruments
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231211T043407">2023-12-11 04:34:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231211T050700">2023-12-11 05:07:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
