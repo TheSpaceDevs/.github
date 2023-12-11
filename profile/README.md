@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-reusable-rocket-race-heats-up-with-new-hop-test/" >🔗</a> **[SpaceNews]** China’s reusable rocket race heats up with new hop test
+- <a href="https://spacenews.com/helicity-space-raises-5-million-for-fusion-engine-development/" >🔗</a> **[SpaceNews]** Helicity Space raises $5 million for fusion engine development
+- <a href="https://spacenews.com/space-force-chief-tempers-expectations-go-government-fast-not-spacex-fast/" >🔗</a> **[SpaceNews]** Space Force chief tempers expectations: ‘Go government fast, not SpaceX fast’
+- <a href="https://arstechnica.com/space/2023/12/daily-telescope-a-brilliant-cluster-of-stars-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** Daily Telescope: Hubble images a dazzling star cluster 158,000 light-years away
 - <a href="https://spacenews.com/polaris-dawn-rescheduled-for-april/" >🔗</a> **[SpaceNews]** Polaris Dawn rescheduled for April
-- <a href="https://spacenews.com/orbit-fab-and-ispace-to-collaborate-on-lunar-propellant-harvesting-and-delivery/" >🔗</a> **[SpaceNews]** Orbit Fab and ispace to collaborate on lunar propellant harvesting and delivery
-- <a href="https://spacepolicyonline.com/news/first-ula-vulcan-launch-apparently-slips-to-january/" >🔗</a> **[SpacePolicyOnline.com]** First ULA Vulcan Launch Apparently Slips to January
-- <a href="https://spacepolicyonline.com/news/ndaa-conferees-agree-no-spending-on-space-command-headquarters-until-next-summer/" >🔗</a> **[SpacePolicyOnline.com]** NDAA Conferees Agree No Spending on Space Command Headquarters Until Next Summer
-- <a href="https://spacenews.com/first-vulcan-launch-likely-to-slip-to-january/" >🔗</a> **[SpaceNews]** First Vulcan launch likely to slip to January
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231211T143428">2023-12-11 14:34:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231211T150814">2023-12-11 15:08:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
