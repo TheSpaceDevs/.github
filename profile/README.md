@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-force-holds-inaugural-spacepower-conference/" >🔗</a> **[SpaceNews]** Space Force holds inaugural ‘Spacepower’ conference 
-- <a href="https://www.cnbc.com/2023/12/12/blue-origin-aims-to-launch-new-shepard-rocket-december-18.html" >🔗</a> **[CNBC]** Blue Origin aims to launch first New Shepard rocket in over a year
-- <a href="https://arstechnica.com/space/2023/12/after-15-months-blue-origins-new-shepard-spacecraft-will-finally-fly-again/" >🔗</a> **[Arstechnica]** After 15 months Blue Origin’s New Shepard spacecraft will finally fly again
-- <a href="https://tlpnetwork.com/news/2023/12/new-shepard-returns-december-18" >🔗</a> **[The Launch Pad]** Blue Origin's New Shepard GO For Launch; NET Dec 18th
-- <a href="https://arstechnica.com/space/2023/12/daily-telescope-one-of-the-few-astronomical-objects-named-after-a-woman/" >🔗</a> **[Arstechnica]** Daily Telescope: One of the few astronomical objects named after a woman
+- <a href="https://tlpnetwork.com/news/2023/12/helicity-space-secures-funding-for-fusion-engines-development" >🔗</a> **[The Launch Pad]** Helicity Space Secures $5M in Funding for Fusion Engines Development
+- <a href="https://spacenews.com/true-anomaly-raises-100-million-to-expand-investments-in-space-security-technologies/" >🔗</a> **[SpaceNews]** True Anomaly raises $100 million to expand investments in space security technologies
+- <a href="https://spacenews.com/blue-origin-to-resume-new-shepard-suborbital-launches/" >🔗</a> **[SpaceNews]** Blue Origin to resume New Shepard suborbital launches
+- <a href="https://tlpnetwork.com/news/2023/12/armada-raises-over-55m-for-portable-starlink-connected-data-centers" >🔗</a> **[The Launch Pad]** Armada Raises Over $55M For Portable Starlink Connected Data Centers
+- <a href="https://tlpnetwork.com/news/2023/12/northrop-grumman-tests-new-solid-rocket-motor-during-smart-demo" >🔗</a> **[The Launch Pad]** Northrop Grumman Successfully Test New Solid Rocket Motor During Annual SMART Demo
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T193148">2023-12-12 19:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T200732">2023-12-12 20:07:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
