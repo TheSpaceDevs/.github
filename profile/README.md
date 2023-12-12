@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startup-raises-55-million-for-portable-starlink-dedicated-data-centers/" >🔗</a> **[SpaceNews]** Startup raises $55 million for portable Starlink-dedicated data centers
 - <a href="https://www.nasaspaceflight.com/2023/12/otv-7/" >🔗</a> **[NASASpaceflight]** Falcon Heavy set to launch its fifth flight of 2023 with X-37B aboard
 - <a href="https://mars.nasa.gov/news/9519/" >🔗</a> **[NASA]** NASA's MAVEN Observes the Disappearing Solar Wind
 - <a href="https://spacenews.com/chinas-reusable-rocket-race-heats-up-with-new-hop-test/" >🔗</a> **[SpaceNews]** China’s reusable rocket race heats up with new hop test
 - <a href="https://spacenews.com/helicity-space-raises-5-million-for-fusion-engine-development/" >🔗</a> **[SpaceNews]** Helicity Space raises $5 million for fusion engine development
-- <a href="https://spacenews.com/space-force-chief-tempers-expectations-go-government-fast-not-spacex-fast/" >🔗</a> **[SpaceNews]** Space Force chief tempers expectations: ‘Go government fast, not SpaceX fast’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231211T233207">2023-12-11 23:32:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T003409">2023-12-12 00:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
