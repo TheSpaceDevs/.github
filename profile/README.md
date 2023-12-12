@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hyprspace-secures-e35m-in-funding-for-maiden-baguette-one-launch/" >🔗</a> **[European Spaceflight]** HyPrSpace Secures €35M in Funding for Maiden Baguette One Launch
 - <a href="https://tlpnetwork.com/news/2023/12/polaris-dawn-delayed-to-april-2024" >🔗</a> **[The Launch Pad]** Polaris Dawn Mission Delayed Again; Launch Now NET April 2024
 - <a href="https://tlpnetwork.com/news/2023/12/dawn-aerospace-achieves-successful-mkii-aurora-spaceplane-rocket-engine-test" >🔗</a> **[The Launch Pad]** Dawn Aerospace Achieves Successful Mk-II Aurora Spaceplane Rocket Engine Test
 - <a href="https://spacenews.com/2024-promises-opportunities-to-study-the-solar-corona/" >🔗</a> **[SpaceNews]** 2024 promises opportunities to study the solar corona
 - <a href="https://tlpnetwork.com/news/2023/12/china-ispace-conducts-reusable-rocket-hop-test" >🔗</a> **[The Launch Pad]** China's iSpace Conducts Reusable Rocket Hop Test
-- <a href="https://tlpnetwork.com/news/2023/12/nasa-set-to-unveil-x59-on-jan-12" >🔗</a> **[The Launch Pad]** NASA Set To Unveil X-59 Quiet Supersonic Aircraft on Jan 12
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T093148">2023-12-12 09:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T100722">2023-12-12 10:07:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
