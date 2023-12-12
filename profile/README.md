@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/voyager-1-stuck-not-sending-data-home" >🔗</a> **[The Launch Pad]** BREAKING! Voyager 1 "Stuck" Not Sending Data Home, Engineers Working Glitch
 - <a href="https://tlpnetwork.com/news/2023/12/helicity-space-secures-funding-for-fusion-engines-development" >🔗</a> **[The Launch Pad]** Helicity Space Secures $5M in Funding for Fusion Engines Development
 - <a href="https://spacenews.com/true-anomaly-raises-100-million-to-expand-investments-in-space-security-technologies/" >🔗</a> **[SpaceNews]** True Anomaly raises $100 million to expand investments in space security technologies
 - <a href="https://spacenews.com/blue-origin-to-resume-new-shepard-suborbital-launches/" >🔗</a> **[SpaceNews]** Blue Origin to resume New Shepard suborbital launches
 - <a href="https://tlpnetwork.com/news/2023/12/armada-raises-over-55m-for-portable-starlink-connected-data-centers" >🔗</a> **[The Launch Pad]** Armada Raises Over $55M For Portable Starlink Connected Data Centers
-- <a href="https://tlpnetwork.com/news/2023/12/northrop-grumman-tests-new-solid-rocket-motor-during-smart-demo" >🔗</a> **[The Launch Pad]** Northrop Grumman Successfully Test New Solid Rocket Motor During Annual SMART Demo
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T203203">2023-12-12 20:32:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T210608">2023-12-12 21:06:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
