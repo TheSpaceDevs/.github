@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-holds-inaugural-spacepower-conference/" >🔗</a> **[SpaceNews]** Space Force holds inaugural ‘Spacepower’ conference 
+- <a href="https://www.cnbc.com/2023/12/12/blue-origin-aims-to-launch-new-shepard-rocket-december-18.html" >🔗</a> **[CNBC]** Blue Origin aims to launch first New Shepard rocket in over a year
+- <a href="https://arstechnica.com/space/2023/12/after-15-months-blue-origins-new-shepard-spacecraft-will-finally-fly-again/" >🔗</a> **[Arstechnica]** After 15 months Blue Origin’s New Shepard spacecraft will finally fly again
 - <a href="https://tlpnetwork.com/news/2023/12/new-shepard-returns-december-18" >🔗</a> **[The Launch Pad]** Blue Origin's New Shepard GO For Launch; NET Dec 18th
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-one-of-the-few-astronomical-objects-named-after-a-woman/" >🔗</a> **[Arstechnica]** Daily Telescope: One of the few astronomical objects named after a woman
-- <a href="https://spacenews.com/agencies-sign-agreement-to-collaborate-on-space-weather-activities/" >🔗</a> **[SpaceNews]** Agencies sign agreement to collaborate on space weather activities
-- <a href="https://europeanspaceflight.com/hyprspace-secures-e35m-in-funding-for-maiden-baguette-one-launch/" >🔗</a> **[European Spaceflight]** HyPrSpace Secures €35M in Funding for Maiden Baguette One Launch
-- <a href="https://tlpnetwork.com/news/2023/12/polaris-dawn-delayed-to-april-2024" >🔗</a> **[The Launch Pad]** Polaris Dawn Mission Delayed Again; Launch Now NET April 2024
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T183134">2023-12-12 18:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T190549">2023-12-12 19:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
