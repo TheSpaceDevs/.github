@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/dawn-aerospace-achieves-successful-mkii-aurora-spaceplane-rocket-engine-test" >🔗</a> **[The Launch Pad]** Dawn Aerospace Achieves Successful Mk-II Aurora Spaceplane Rocket Engine Test
+- <a href="https://spacenews.com/2024-promises-opportunities-to-study-the-solar-corona/" >🔗</a> **[SpaceNews]** 2024 promises opportunities to study the solar corona
 - <a href="https://tlpnetwork.com/news/2023/12/china-ispace-conducts-reusable-rocket-hop-test" >🔗</a> **[The Launch Pad]** China's iSpace Conducts Reusable Rocket Hop Test
 - <a href="https://tlpnetwork.com/news/2023/12/nasa-set-to-unveil-x59-on-jan-12" >🔗</a> **[The Launch Pad]** NASA Set To Unveil X-59 Quiet Supersonic Aircraft on Jan 12
 - <a href="https://spacenews.com/startup-raises-55-million-for-portable-starlink-dedicated-data-centers/" >🔗</a> **[SpaceNews]** Startup raises $55 million for portable Starlink-dedicated data centers
-- <a href="https://www.nasaspaceflight.com/2023/12/otv-7/" >🔗</a> **[NASASpaceflight]** Falcon Heavy scrubs on first attempt to launch USSF-52
-- <a href="https://mars.nasa.gov/news/9519/" >🔗</a> **[NASA]** NASA's MAVEN Observes the Disappearing Solar Wind
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T043353">2023-12-12 04:33:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T050702">2023-12-12 05:07:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
