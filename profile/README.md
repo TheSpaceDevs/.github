@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cubesat-offers-template-for-future-astronomy-missions/" >🔗</a> **[SpaceNews]** Cubesat offers template for future  astronomy missions
 - <a href="https://spacenews.com/air-new-zealand-to-trial-starlink-in-key-year-for-leo-enabled-plane-wi-fi/" >🔗</a> **[SpaceNews]** Air New Zealand to trial Starlink in key year for LEO-enabled plane Wi-Fi
 - <a href="https://mars.nasa.gov/news/9520/" >🔗</a> **[NASA]** NASA's Perseverance Rover Deciphers Ancient History of Martian Lake
 - <a href="https://tlpnetwork.com/news/2023/12/voyager-1-stuck-not-sending-data-home" >🔗</a> **[The Launch Pad]** BREAKING! Voyager 1 "Stuck" Not Sending Data Home, Engineers Working Glitch
 - <a href="https://tlpnetwork.com/news/2023/12/helicity-space-secures-funding-for-fusion-engines-development" >🔗</a> **[The Launch Pad]** Helicity Space Secures $5M in Funding for Fusion Engines Development
-- <a href="https://spacenews.com/true-anomaly-raises-100-million-to-expand-investments-in-space-security-technologies/" >🔗</a> **[SpaceNews]** True Anomaly raises $100 million to expand investments in space security technologies
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T223204">2023-12-12 22:32:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231212T230649">2023-12-12 23:06:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
