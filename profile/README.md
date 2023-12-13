@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2023/12/13/spacex-value-climbs-to-180-billion-higher-than-boeing-verizon.html" >🔗</a> **[CNBC]** SpaceX valuation climbs to $180 billion
+- <a href="https://spacenews.com/spacex-yet-to-select-launch-pad-for-next-axiom-space-private-astronaut-mission/" >🔗</a> **[SpaceNews]** SpaceX yet to select launch pad for next Axiom Space private astronaut mission
 - <a href="https://spacenews.com/fcc-upholds-denial-of-starlinks-900-million-rural-broadband-subsidies/" >🔗</a> **[SpaceNews]** FCC upholds denial of Starlink’s $900 million rural broadband subsidies
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-an-in-situ-image-of-a-project-kuiper-satellite/" >🔗</a> **[Arstechnica]** Daily Telescope: A space-based camera spys a secretive Project Kuiper satellite
 - <a href="https://europeanspaceflight.com/hyimpulse-and-orbex-received-6-7m-in-uk-space-agency-funding/" >🔗</a> **[European Spaceflight]** HyImpulse and Orbex Received £6.7M in UK Space Agency Funding
-- <a href="https://spacenews.com/house-committee-debates-space-mining/" >🔗</a> **[SpaceNews]** House committee debates space mining
-- <a href="https://tlpnetwork.com/news/2023/12/true-anomaly-secures-100m-to-expand-space-security-technologies-development" >🔗</a> **[The Launch Pad]** True Anomaly Secures $100M To Expand Space Security Technologies Development
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231213T173134">2023-12-13 17:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231213T180731">2023-12-13 18:07:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
