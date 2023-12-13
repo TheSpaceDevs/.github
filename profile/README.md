@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/true-anomaly-secures-100m-to-expand-space-security-technologies-development" >🔗</a> **[The Launch Pad]** True Anomaly Secures $100M To Expand Space Security Technologies Development
+- <a href="https://tlpnetwork.com/news/2023/12/air-new-zealand-to-conduct-starlink-trial-in-late-2024" >🔗</a> **[The Launch Pad]** Air New Zealand To Conduct Starlink Trial In Late 2024
+- <a href="https://tlpnetwork.com/news/2023/12/voyager-space-announces-2-starlab-demo-mission" >🔗</a> **[The Launch Pad]** Voyager Space Announces 2 StarLab Demo Mission With NASA
 - <a href="https://spacenews.com/can-the-private-sector-plug-the-weather-data-gap-space-force-to-launch-new-study/" >🔗</a> **[SpaceNews]** Can the private sector plug the weather data gap? Space Force to launch new study
 - <a href="https://spacenews.com/australian-space-startup-quasar-takes-aim-at-u-s-defense-market/" >🔗</a> **[SpaceNews]** Australian space startup Quasar takes aim at U.S. defense market
-- <a href="https://spacenews.com/cubesat-offers-template-for-future-astronomy-missions/" >🔗</a> **[SpaceNews]** Cubesat offers template for future  astronomy missions
-- <a href="https://spacenews.com/air-new-zealand-to-trial-starlink-in-key-year-for-leo-enabled-plane-wi-fi/" >🔗</a> **[SpaceNews]** Air New Zealand to trial Starlink in key year for LEO-enabled plane Wi-Fi
-- <a href="https://mars.nasa.gov/news/9520/" >🔗</a> **[NASA]** NASA's Perseverance Rover Deciphers Ancient History of Martian Lake
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231213T023951">2023-12-13 02:39:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231213T030747">2023-12-13 03:07:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
