@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-and-senate-pass-2024-defense-policy-bill-by-overwhelming-majority/" >🔗</a> **[SpaceNews]** House and Senate pass 2024 defense policy bill by overwhelming majority
 - <a href="https://spacenews.com/space-force-eyes-new-breed-of-satellites-that-adjust-their-orbit-and-respond-to-threats/" >🔗</a> **[SpaceNews]** Space Force eyes new breed of satellites that adjust their orbit and respond to threats
 - <a href="https://arstechnica.com/space/2023/12/jeff-bezos-says-what-were-all-thinking-blue-origin-needs-to-be-much-faster/" >🔗</a> **[Arstechnica]** Jeff Bezos says what we’re all thinking: “Blue Origin needs to be much faster”
 - <a href="https://tlpnetwork.com/news/2023/12/china-launches-secert-experimental-reusable-spacecraft-for-the-third-time" >🔗</a> **[The Launch Pad]** China Launches Experimental Reusable Spacecraft for the Third Time
 - <a href="https://spacenews.com/playback-spacenews-2023-icon-awards-panel-discussion/" >🔗</a> **[SpaceNews]** Playback | SpaceNews 2023 Icon Awards panel discussion
-- <a href="https://tlpnetwork.com/news/2023/12/amazon-project-kuiper-reveals-optical-inter-satellite-link-capabilities" >🔗</a> **[The Launch Pad]** Amazon Project Kuiper Reveals Faster Than Fiber Optical Inter-Satellite Link Capabilities
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T223208">2023-12-14 22:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T230719">2023-12-14 23:07:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
