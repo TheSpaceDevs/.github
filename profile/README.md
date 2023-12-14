@@ -18,27 +18,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2F/G | Chinese Reusable Space Vehicle (???)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T140100">2023-12-14 14:01:00 UTC</a>.  Until
-then, this pad will have been used for 21
-out of 213 launches from this location. The launch status is currently
+**Electron | The Moon God Awakens (QPS-SAR-5)**. It is scheduled to be launched by *Rocket Lab*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T040000">2023-12-15 04:00:00 UTC</a>.  Until
+then, this pad will have been used for 12
+out of 38 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
+*Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Probable 3rd flight of the Chinese spaceplane capable of returning to Earth, which flew in orbit September 4 - 6, 2020 and August 4, 2022 - May 8, 2023.
+  QPS-SAR-5 is a synthetic-aperture radar (SAR) satellite that will join a constellation after QPS-SAR-6 already in orbit. iQPS’s satellites are small, high-performance SAR satellites that use a lightweight, large, stowable antenna to collect high resolution images of Earth, even through clouds and adverse weather conditions.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,6 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T000000">2023-12-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-24&location=Corn Ranch, Van Horn, TX, USA&dates=20231218T000000Z%2F20231218T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-24** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T020000">2023-12-28 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-DL | XPoSat&location=Satish Dhawan Space Centre, India&dates=20231228T020000Z%2F20231228T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-DL | XPoSat** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231231T000000">2023-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-32&location=Cape Canaveral, FL, USA&dates=20231231T000000Z%2F20231231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-32** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231231T000000">2023-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-34&location=Cape Canaveral, FL, USA&dates=20231231T000000Z%2F20231231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-34** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -88,20 +89,24 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apex-to-open-new-satellite-factory-in-los-angeles/" >🔗</a> **[SpaceNews]** Apex to open new satellite factory in Los Angeles
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-how-small-can-the-smallest-star-be/" >🔗</a> **[Arstechnica]** Daily Telescope: How small can the smallest star be?
 - <a href="https://spacenews.com/amazon-seeks-dismissal-of-project-kuiper-launch-contract-lawsuit/" >🔗</a> **[SpaceNews]** Amazon seeks dismissal of Project Kuiper launch contract lawsuit
 - <a href="https://spacenews.com/senators-question-white-house-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Senators question White House mission authorization proposal
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-completes-aerospike-engine-test-campaign/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Completes Aerospike Engine Test Campaign
-- <a href="https://spacepolicyonline.com/news/senators-skeptical-of-white-house-mission-authorization-proposal/" >🔗</a> **[SpacePolicyOnline.com]** Senators Skeptical of White House Mission Authorization Proposal
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/japanese-sar-company-iqps-to-launch-with-rocket-lab-after-virgin-orbit-bankruptcy/" >🔗</a> **[SpaceNews]** Japanese SAR company iQPS to launch with Rocket Lab after Virgin Orbit bankruptcy
+- <a href="https://www.cnbc.com/2023/11/08/rocket-lab-rklb-q3-earnings-report.html" >🔗</a> **[CNBC]** Rocket Lab pushes to get launch business back on track, with 22 Electron missions booked next year
+- <a href="https://spacenews.com/rocket-lab-plans-to-resume-electron-launches-in-late-november/" >🔗</a> **[SpaceNews]** Rocket Lab plans to resume Electron launches in late November
+- <a href="https://www.nasaspaceflight.com/2023/12/launch-roundup-121323/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Rocket Lab to return to flight; SpaceX set to launch Falcon 9 three times
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T143243">2023-12-14 14:32:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T150713">2023-12-14 15:07:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
