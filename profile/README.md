@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-eyes-new-breed-of-satellites-that-adjust-their-orbit-and-respond-to-threats/" >🔗</a> **[SpaceNews]** Space Force eyes new breed of satellites that adjust their orbit and respond to threats
+- <a href="https://arstechnica.com/space/2023/12/jeff-bezos-says-what-were-all-thinking-blue-origin-needs-to-be-much-faster/" >🔗</a> **[Arstechnica]** Jeff Bezos says what we’re all thinking: “Blue Origin needs to be much faster”
+- <a href="https://tlpnetwork.com/news/2023/12/china-launches-secert-experimental-reusable-spacecraft-for-the-third-time" >🔗</a> **[The Launch Pad]** China Launches Experimental Reusable Spacecraft for the Third Time
 - <a href="https://spacenews.com/playback-spacenews-2023-icon-awards-panel-discussion/" >🔗</a> **[SpaceNews]** Playback | SpaceNews 2023 Icon Awards panel discussion
 - <a href="https://tlpnetwork.com/news/2023/12/amazon-project-kuiper-reveals-optical-inter-satellite-link-capabilities" >🔗</a> **[The Launch Pad]** Amazon Project Kuiper Reveals Faster Than Fiber Optical Inter-Satellite Link Capabilities
-- <a href="https://www.cnbc.com/2023/12/14/investing-in-space-how-to-prepare-shareholders-for-a-moon-landing.html" >🔗</a> **[CNBC]** Investing in Space: How to prepare shareholders with a moon landing on the way
-- <a href="https://www.nasaspaceflight.com/2023/12/spacex-flight-3-rollout-ship-28/" >🔗</a> **[NASASpaceflight]** SpaceX Pushes Ahead to Flight 3 with the Rollout of Ship 28
-- <a href="https://spacenews.com/final-vega-launch-delayed-because-of-upper-stage-tank-problem/" >🔗</a> **[SpaceNews]** Final Vega launch delayed because of upper stage tank problem
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T203147">2023-12-14 20:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231214T210607">2023-12-14 21:06:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
