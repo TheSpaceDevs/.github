@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/federal-agencies-caught-in-environmental-crossfire-over-starship-launches/" >🔗</a> **[SpaceNews]** Federal agencies caught in environmental crossfire over Starship launches
 - <a href="https://spacenews.com/u-s-space-command-declares-full-operational-capability/" >🔗</a> **[SpaceNews]** U.S. Space Command declares ‘full operational capability’
 - <a href="https://spacenews.com/china-launches-large-classified-optical-satellite-towards-geostationary-orbit/" >🔗</a> **[SpaceNews]** China launches large classified optical satellite towards geostationary orbit
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-one-of-the-most-stunning-andromeda-photos-ive-ever-seen/" >🔗</a> **[Arstechnica]** Daily Telescope: One of the most stunning Andromeda photos I’ve ever seen
 - <a href="https://spacenews.com/electron-returns-to-flight-with-successful-launch-of-japanese-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Electron returns to flight with successful launch of Japanese radar imaging satellite
-- <a href="https://europeanspaceflight.com/maiaspace-completes-first-kick-stage-engine-test/" >🔗</a> **[European Spaceflight]** MaiaSpace Completes First Kick Stage Engine Test
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T203150">2023-12-15 20:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T210549">2023-12-15 21:05:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
