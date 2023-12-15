@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/electron-returns-to-flight-with-successful-launch-of-japanese-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Electron returns to flight with successful launch of Japanese radar imaging satellite
 - <a href="https://europeanspaceflight.com/maiaspace-completes-first-kick-stage-engine-test/" >🔗</a> **[European Spaceflight]** MaiaSpace Completes First Kick Stage Engine Test
 - <a href="https://spacepolicyonline.com/news/artemis-ii-crew-meets-with-biden-and-harris/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Meets with Biden and Harris
 - <a href="https://spacenews.com/scientists-praise-performance-of-first-global-survey-of-surface-water/" >🔗</a> **[SpaceNews]** Scientists praise performance of first global survey of surface water
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-debut-set-for-january-as-year-of-lunar-landers-begins/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Debut Set for January As Year of Lunar Landers Begins
-- <a href="https://spacenews.com/house-and-senate-pass-2024-defense-policy-bill-by-overwhelming-majority/" >🔗</a> **[SpaceNews]** House and Senate pass 2024 defense policy bill by overwhelming majority
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T113134">2023-12-15 11:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231215T121210">2023-12-15 12:12:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
