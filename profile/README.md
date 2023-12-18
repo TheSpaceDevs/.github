@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T040000">2023-12-19 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-34&location=Cape Canaveral, FL, USA&dates=20231219T040000Z%2F20231219T083100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-34** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T164800">2023-12-20 16:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA004 Fly the Lightning&location=Vandenberg SFB, CA, USA&dates=20231220T164800Z%2F20231220T182600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA004 Fly the Lightning** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T171800">2023-12-20 17:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA004 Fly the Lightning&location=Vandenberg SFB, CA, USA&dates=20231220T171800Z%2F20231220T173800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA004 Fly the Lightning** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231221T125600">2023-12-21 12:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SARah 2 &amp; 3&location=Vandenberg SFB, CA, USA&dates=20231221T125600Z%2F20231221T151600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SARah 2 & 3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231223T040000">2023-12-23 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-32&location=Cape Canaveral, FL, USA&dates=20231223T040000Z%2F20231223T083100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-32** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231224T000000">2023-12-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-24&location=Corn Ranch, Van Horn, TX, USA&dates=20231224T000000Z%2F20231224T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-24** from Corn Ranch, Van Horn, TX, USA.
@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lynk-global-plans-to-go-public-to-fund-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** Lynk Global plans to go public to fund direct-to-smartphone satellites
 - <a href="https://spacenews.com/report-hypersonic-weapons-challenge-pentagon-tracking-capabilities/" >🔗</a> **[SpaceNews]** Report: Hypersonic weapons challenge Pentagon tracking capabilities
 - <a href="https://spacenews.com/spains-new-space-agency-bigger-deal-than-seems/" >🔗</a> **[SpaceNews]** Spain’s new space agency is a bigger deal than it seems
 - <a href="https://spacenews.com/satellite-navigation-startup-trustpoint-announces-partnership-with-spideroak/" >🔗</a> **[SpaceNews]** Satellite navigation startup TrustPoint announces partnership with SpiderOak
 - <a href="https://spacenews.com/hawkeye-360-acquires-maxars-rf-solutions-business-unit/" >🔗</a> **[SpaceNews]** HawkEye 360 acquires Maxar’s RF Solutions business unit
-- <a href="https://arstechnica.com/space/2023/12/daily-telescope-tracking-the-suns-path-every-day-across-the-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: Tracking the Sun’s path every day across the sky
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T213151">2023-12-18 21:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T220650">2023-12-18 22:06:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
