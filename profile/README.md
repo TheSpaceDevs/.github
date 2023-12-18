@@ -103,11 +103,12 @@ into *a Suborbital
 - <a href="https://arstechnica.com/space/2023/12/after-15-months-blue-origins-new-shepard-spacecraft-will-finally-fly-again/" >🔗</a> **[Arstechnica]** After 15 months Blue Origin’s New Shepard spacecraft will finally fly again
 - <a href="https://www.cnbc.com/2023/12/12/blue-origin-aims-to-launch-new-shepard-rocket-december-18.html" >🔗</a> **[CNBC]** Blue Origin aims to launch first New Shepard rocket in over a year
 - <a href="https://spacenews.com/blue-origin-to-resume-new-shepard-suborbital-launches/" >🔗</a> **[SpaceNews]** Blue Origin to resume New Shepard suborbital launches
+- <a href="https://www.nasaspaceflight.com/2023/12/ns-24/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Shepard to return to flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T083431">2023-12-18 08:34:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T090745">2023-12-18 09:07:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
