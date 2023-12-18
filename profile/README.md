@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/ns-24/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Shepard to return to flight
 - <a href="https://tlpnetwork.com/news/2023/12/saxavord-spaceport-awarded-launch-licence" >🔗</a> **[The Launch Pad]** BREAKING! SaxaVord Spaceport Awarded First Vertical Launch Licence in the UK and Western Europe
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-17-31-2023/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 17-31, 2023
 - <a href="https://spacenews.com/report-outlines-lessons-learned-from-first-u-k-launch/" >🔗</a> **[SpaceNews]** Report outlines lessons learned from first U.K. launch
 - <a href="https://spacepolicyonline.com/news/space-command-reaches-foc-while-home-remains-tbd/" >🔗</a> **[SpacePolicyOnline.com]** Space Command Reaches FOC While “Home” Remains TBD
-- <a href="https://www.nasaspaceflight.com/2023/12/laser-communication/" >🔗</a> **[NASASpaceflight]** Laser communication: the future of communicating in space
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231217T233137">2023-12-17 23:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T003429">2023-12-18 00:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
