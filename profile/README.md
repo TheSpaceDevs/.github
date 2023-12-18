@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-hypersonic-weapons-challenge-pentagon-tracking-capabilities/" >🔗</a> **[SpaceNews]** Report: Hypersonic weapons challenge Pentagon tracking capabilities
 - <a href="https://spacenews.com/spains-new-space-agency-bigger-deal-than-seems/" >🔗</a> **[SpaceNews]** Spain’s new space agency is a bigger deal than it seems
 - <a href="https://spacenews.com/satellite-navigation-startup-trustpoint-announces-partnership-with-spideroak/" >🔗</a> **[SpaceNews]** Satellite navigation startup TrustPoint announces partnership with SpiderOak
 - <a href="https://spacenews.com/hawkeye-360-acquires-maxars-rf-solutions-business-unit/" >🔗</a> **[SpaceNews]** HawkEye 360 acquires Maxar’s RF Solutions business unit
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-tracking-the-suns-path-every-day-across-the-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: Tracking the Sun’s path every day across the sky
-- <a href="https://spacenews.com/space-forces-first-six-missile-defense-satellites-in-medium-orbit-to-cost-about-500-million/" >🔗</a> **[SpaceNews]** Space Force’s first six missile-defense satellites in medium orbit to cost about $500 million
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T193139">2023-12-18 19:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T200717">2023-12-18 20:07:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
