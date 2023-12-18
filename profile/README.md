@@ -89,11 +89,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saxavord-spaceport-receives-u-k-license/" >🔗</a> **[SpaceNews]** SaxaVord Spaceport receives U.K. license
 - <a href="https://europeanspaceflight.com/saxavord-becomes-uks-first-licensed-vertical-launch-spaceport/" >🔗</a> **[European Spaceflight]** SaxaVord Becomes UK’s First Licensed Vertical Launch Spaceport
 - <a href="https://europeanspaceflight.com/ariane-6-upper-stage-test-aborted-prematurely/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Test Aborted Prematurely
 - <a href="https://spacenews.com/spacex-alums-offer-telemetry-stack-through-startup-sift/" >🔗</a> **[SpaceNews]** SpaceX alums offer telemetry stack through startup Sift
 - <a href="https://www.nasaspaceflight.com/2023/12/ns-24/" >🔗</a> **[NASASpaceflight]** Blue Origin’s New Shepard to return to flight
-- <a href="https://tlpnetwork.com/news/2023/12/saxavord-spaceport-awarded-launch-licence" >🔗</a> **[The Launch Pad]** SaxaVord Spaceport Awarded First Vertical Launch Licence in the UK and Western Europe
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T121257">2023-12-18 12:12:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T124846">2023-12-18 12:48:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
