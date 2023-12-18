@@ -88,11 +88,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hawkeye-360-acquires-maxars-rf-solutions-business-unit/" >🔗</a> **[SpaceNews]** HawkEye 360 acquires Maxar’s RF Solutions business unit
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-tracking-the-suns-path-every-day-across-the-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: Tracking the Sun’s path every day across the sky
 - <a href="https://spacenews.com/space-forces-first-six-missile-defense-satellites-in-medium-orbit-to-cost-about-500-million/" >🔗</a> **[SpaceNews]** Space Force’s first six missile-defense satellites in medium orbit to cost about $500 million
 - <a href="https://spacenews.com/saxavord-spaceport-receives-u-k-license/" >🔗</a> **[SpaceNews]** SaxaVord Spaceport receives U.K. license
 - <a href="https://europeanspaceflight.com/saxavord-becomes-uks-first-licensed-vertical-launch-spaceport/" >🔗</a> **[European Spaceflight]** SaxaVord Becomes UK’s First Licensed Vertical Launch Spaceport
-- <a href="https://europeanspaceflight.com/ariane-6-upper-stage-test-aborted-prematurely/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Test Aborted Prematurely
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T133149">2023-12-18 13:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231218T140706">2023-12-18 14:07:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
