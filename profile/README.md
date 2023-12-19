@@ -88,11 +88,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/peregrine-lunar-lander-ready-for-january-launch/" >🔗</a> **[SpaceNews]** Peregrine lunar lander ready for January launch
+- <a href="https://www.spacescout.info/2023/12/fly-the-lightning/" >🔗</a> **[Space Scout]** Fly The Lightning
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-the-rings-around-uranus-sure-are-shiny/" >🔗</a> **[Arstechnica]** Daily Telescope: James Webb zooms in on Uranus
 - <a href="https://spacenews.com/spacex-to-just-miss-goal-of-100-falcon-launches-in-2023/" >🔗</a> **[SpaceNews]** SpaceX to just miss goal of 100 Falcon launches in 2023
 - <a href="https://europeanspaceflight.com/latitude-announces-new-variant-of-its-zephyr-launch-vehicle/" >🔗</a> **[European Spaceflight]** Latitude Announces New Variant of its Zephyr Launch Vehicle
-- <a href="https://europeanspaceflight.com/d-orbit-ion-space-tug-hosts-in-orbit-refueling-demo/" >🔗</a> **[European Spaceflight]** D-Orbit ION Space Tug Hosts In-Orbit Refueling Demo
-- <a href="https://spacenews.com/startup-oursky-sees-strong-demand-after-raising-9-5-million-for-space-object-tracking/" >🔗</a> **[SpaceNews]** After raising $9.5 million, startup OurSky sees strong demand for space data platform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T153136">2023-12-19 15:31:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T160759">2023-12-19 16:07:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
