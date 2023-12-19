@@ -89,7 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/startup-oursky-sees-strong-demand-after-raising-9-5-million-for-space-object-tracking/" >🔗</a> **[SpaceNews]** Startup OurSky sees strong demand after raising $9.5 million for space object tracking
+- <a href="https://spacenews.com/startup-oursky-sees-strong-demand-after-raising-9-5-million-for-space-object-tracking/" >🔗</a> **[SpaceNews]** After raising $9.5 million, startup OurSky sees strong demand for space data platform
 - <a href="https://spacenews.com/new-shepard-return-to-flight-slips-one-day/" >🔗</a> **[SpaceNews]** New Shepard return to flight slips one day
 - <a href="https://spacenews.com/lynk-global-plans-to-go-public-to-fund-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** Lynk Global plans to go public to fund direct-to-smartphone satellites
 - <a href="https://spacenews.com/report-hypersonic-weapons-challenge-pentagon-tracking-capabilities/" >🔗</a> **[SpaceNews]** Report: Hypersonic weapons challenge Pentagon tracking capabilities
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T053128">2023-12-19 05:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T060926">2023-12-19 06:09:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
