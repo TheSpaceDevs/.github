@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/launch-roundup-121923/" >🔗</a> **[NASASpaceflight]** Launch Roundup: scrubs deny SpaceX its 100 Falcon launch goal; look to end the year with a 300th mission milestone
+- <a href="https://spacepolicyonline.com/news/blue-origins-new-shepard-back-in-business/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Shepard Back in Business
 - <a href="https://spacenews.com/wallonia-brings-in-europes-investment-arm-to-boost-space-industry/" >🔗</a> **[SpaceNews]** Wallonia brings in Europe’s investment arm to boost space industry
 - <a href="https://www.spacescout.info/2023/12/ns24-returns-to-flight/" >🔗</a> **[Space Scout]** New Shepard Returns to Flight
 - <a href="https://arstechnica.com/space/2023/12/us-congress-recommends-placing-assets-at-lagrange-points-to-counter-china/" >🔗</a> **[Arstechnica]** US Congress recommends placing assets at Lagrange points to counter China
-- <a href="https://spacenews.com/peregrine-lunar-lander-ready-for-january-launch/" >🔗</a> **[SpaceNews]** Peregrine lunar lander ready for January launch
-- <a href="https://www.spacescout.info/2023/12/fly-the-lightning/" >🔗</a> **[Space Scout]** Fly The Lightning
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T223134">2023-12-19 22:31:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T230454">2023-12-19 23:04:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
