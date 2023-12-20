@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-will-not-open-an-investigation-into-how-vega-tanks-went-missing/" >🔗</a> **[European Spaceflight]** ESA Will Not Open an Investigation into How Vega Tanks Went Missing
+- <a href="https://www.nasaspaceflight.com/2023/12/fly-the-lightning/" >🔗</a> **[NASASpaceflight]** Firefly to close out 2023 with launch of “Fly the Lightning” mission
 - <a href="https://spacenews.com/senate-confirms-senior-military-leaders-including-two-four-star-space-force-generals/" >🔗</a> **[SpaceNews]** Senate confirms senior military leaders, including two four-star Space Force generals
 - <a href="https://europeanspaceflight.com/esa-successfully-completes-ariane-6-launch-sequence-rehearsal/" >🔗</a> **[European Spaceflight]** ESA Successfully Completes Ariane 6 Launch Sequence Rehearsal
 - <a href="https://spacepolicyonline.com/news/senate-approves-whiting-guetlein-promotions-extends-faa-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** Senate Approves Whiting, Guetlein Promotions, Extends FAA “Learning Period”
-- <a href="https://tlpnetwork.com/news/2023/12/axiom-space-announces-partners-for-worlds-1st-orbital-data-center" >🔗</a> **[The Launch Pad]** Axiom Space Announces Partners For World's 1st Orbital Data Center
-- <a href="https://tlpnetwork.com/news/2023/12/first-batch-of-mirror-segments-shipped-to-eso-extremely-large-telescope-receives" >🔗</a> **[The Launch Pad]** First Batch of Mirror Segments Shipped To ESO's Extremely Large Telescope
 
 
 ### Launch-related News 🚀
@@ -101,11 +101,12 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/firefly-to-launch-a-lockheed-martin-satellite-antenna-demonstration/" >🔗</a> **[SpaceNews]** Firefly to launch a Lockheed Martin satellite antenna demonstration
 - <a href="https://tlpnetwork.com/news/2023/11/firefly-set-to-launch-lockheed-martin-tech-demo-in-december" >🔗</a> **[The Launch Pad]** Firefly Set to Launch Lockheed Martin Tech Demo In December
 - <a href="https://www.spacescout.info/2023/12/fly-the-lightning/" >🔗</a> **[Space Scout]** Fly The Lightning
+- <a href="https://www.nasaspaceflight.com/2023/12/fly-the-lightning/" >🔗</a> **[NASASpaceflight]** Firefly to close out 2023 with launch of “Fly the Lightning” mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T113133">2023-12-20 11:31:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T121014">2023-12-20 12:10:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
