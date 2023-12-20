@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/blue-origins-new-shepard-soars-again-after-15-month-hiatus" >🔗</a> **[The Launch Pad]** Blue Origin's New Shepard Soars Again After 15-Month Hiatus
+- <a href="https://spacenews.com/intuitive-machines-delays-first-lunar-lander-launch-to-february/" >🔗</a> **[SpaceNews]** Intuitive Machines delays first lunar lander launch to February
+- <a href="https://tlpnetwork.com/news/2023/12/mars-ingenuity-helicopter-completes-68th-flight" >🔗</a> **[The Launch Pad]** Mars Ingenuity Helicopter Completes 68th Flight
 - <a href="https://www.nasaspaceflight.com/2023/12/launch-roundup-121923/" >🔗</a> **[NASASpaceflight]** Launch Roundup: scrubs deny SpaceX its 100 Falcon launch goal; look to end the year with a 300th mission milestone
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-shepard-back-in-business/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Shepard Back in Business
-- <a href="https://spacenews.com/wallonia-brings-in-europes-investment-arm-to-boost-space-industry/" >🔗</a> **[SpaceNews]** Wallonia brings in Europe’s investment arm to boost space industry
-- <a href="https://www.spacescout.info/2023/12/ns24-returns-to-flight/" >🔗</a> **[Space Scout]** New Shepard Returns to Flight
-- <a href="https://arstechnica.com/space/2023/12/us-congress-recommends-placing-assets-at-lagrange-points-to-counter-china/" >🔗</a> **[Arstechnica]** US Congress recommends placing assets at Lagrange points to counter China
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231219T233126">2023-12-19 23:31:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T002653">2023-12-20 00:26:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
