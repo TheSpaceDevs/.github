@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ariane-6-schedule-not-affected-by-aborted-upper-stage-test/" >🔗</a> **[SpaceNews]** Ariane 6 schedule not affected by aborted upper stage test
 - <a href="https://europeanspaceflight.com/esa-will-not-open-an-investigation-into-how-vega-tanks-went-missing/" >🔗</a> **[European Spaceflight]** ESA Will Not Open an Investigation into How Vega Tanks Went Missing
 - <a href="https://www.nasaspaceflight.com/2023/12/fly-the-lightning/" >🔗</a> **[NASASpaceflight]** Firefly to close out 2023 with launch of “Fly the Lightning” mission
 - <a href="https://spacenews.com/senate-confirms-senior-military-leaders-including-two-four-star-space-force-generals/" >🔗</a> **[SpaceNews]** Senate confirms senior military leaders, including two four-star Space Force generals
 - <a href="https://europeanspaceflight.com/esa-successfully-completes-ariane-6-launch-sequence-rehearsal/" >🔗</a> **[European Spaceflight]** ESA Successfully Completes Ariane 6 Launch Sequence Rehearsal
-- <a href="https://spacepolicyonline.com/news/senate-approves-whiting-guetlein-promotions-extends-faa-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** Senate Approves Whiting, Guetlein Promotions, Extends FAA “Learning Period”
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T123957">2023-12-20 12:39:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T130608">2023-12-20 13:06:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
