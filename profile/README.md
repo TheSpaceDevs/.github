@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/2023/12/axiom-space-announces-partners-for-worlds-1st-orbital-data-center" >🔗</a> **[The Launch Pad]** Axiom Space Announces Partners For World's 1st Orbital Data Center
 - <a href="https://tlpnetwork.com/news/2023/12/first-batch-of-mirror-segments-shipped-to-eso-extremely-large-telescope-receives" >🔗</a> **[The Launch Pad]** First Batch of Mirror Segments Shipped To ESO's Extremely Large Telescope
 - <a href="https://tlpnetwork.com/news/2023/12/intuitive-machines-delays-lunar-lander-mission-due-to-spacex-launch-delays" >🔗</a> **[The Launch Pad]** Intuitive Machines Delays Lunar Lander Mission to Mid-February Due to SpaceX Launch Delays
 - <a href="https://tlpnetwork.com/news/2023/12/blue-origins-new-shepard-soars-again-after-15-month-hiatus" >🔗</a> **[The Launch Pad]** Blue Origin's New Shepard Soars Again After 15-Month Hiatus
 - <a href="https://spacenews.com/intuitive-machines-delays-first-lunar-lander-launch-to-february/" >🔗</a> **[SpaceNews]** Intuitive Machines delays first lunar lander launch to February
-- <a href="https://tlpnetwork.com/news/2023/12/mars-ingenuity-helicopter-completes-68th-flight" >🔗</a> **[The Launch Pad]** Mars Ingenuity Helicopter Completes 68th Flight
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T020601">2023-12-20 02:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T023155">2023-12-20 02:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
