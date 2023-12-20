@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-gets-green-light-to-produce-16-space-based-hypersonic-missile-trackers/" >🔗</a> **[SpaceNews]** L3Harris gets green light to produce 16 space-based hypersonic missile trackers
 - <a href="https://arstechnica.com/space/2023/12/spacex-completes-static-fire-test-in-push-toward-third-starship-launch/" >🔗</a> **[Arstechnica]** SpaceX completes static fire test in push toward third Starship launch
 - <a href="https://spacepolicyonline.com/news/harris-to-announce-international-lunar-astronaut-mission-authorization-framework-at-space-council-meeting/" >🔗</a> **[SpacePolicyOnline.com]** Harris to Announce International Lunar Astronaut, Mission Authorization Framework At Space Council Meeting
 - <a href="https://spacenews.com/white-house-releases-mission-authorization-policy-framework/" >🔗</a> **[SpaceNews]** White House releases mission authorization policy framework
 - <a href="https://spacenews.com/sustainably-develop-space-manage-orbital-capacity/" >🔗</a> **[SpaceNews]** To sustainably develop space, we must manage orbital capacity
-- <a href="https://spacenews.com/chinese-launch-startup-galactic-energy-raises-154-million-for-pallas-1-reusable-rocket/" >🔗</a> **[SpaceNews]** Chinese launch startup Galactic Energy raises $154 million for Pallas-1 reusable rocket
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T213135">2023-12-20 21:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T220635">2023-12-20 22:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
