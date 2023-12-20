@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-confirms-senior-military-leaders-including-two-four-star-space-force-generals/" >🔗</a> **[SpaceNews]** Senate confirms senior military leaders, including two four-star Space Force generals
 - <a href="https://europeanspaceflight.com/esa-successfully-completes-ariane-6-launch-sequence-rehearsal/" >🔗</a> **[European Spaceflight]** ESA Successfully Completes Ariane 6 Launch Sequence Rehearsal
 - <a href="https://spacepolicyonline.com/news/senate-approves-whiting-guetlein-promotions-extends-faa-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** Senate Approves Whiting, Guetlein Promotions, Extends FAA “Learning Period”
 - <a href="https://tlpnetwork.com/news/2023/12/axiom-space-announces-partners-for-worlds-1st-orbital-data-center" >🔗</a> **[The Launch Pad]** Axiom Space Announces Partners For World's 1st Orbital Data Center
 - <a href="https://tlpnetwork.com/news/2023/12/first-batch-of-mirror-segments-shipped-to-eso-extremely-large-telescope-receives" >🔗</a> **[The Launch Pad]** First Batch of Mirror Segments Shipped To ESO's Extremely Large Telescope
-- <a href="https://tlpnetwork.com/news/2023/12/intuitive-machines-delays-lunar-lander-mission-due-to-spacex-launch-delays" >🔗</a> **[The Launch Pad]** Intuitive Machines Delays Lunar Lander Mission to Mid-February Due to SpaceX Launch Delays
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T103150">2023-12-20 10:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T110355">2023-12-20 11:03:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
