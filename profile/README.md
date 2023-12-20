@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sustainably-develop-space-manage-orbital-capacity/" >🔗</a> **[SpaceNews]** To sustainably develop space, we must manage orbital capacity
 - <a href="https://spacenews.com/chinese-launch-startup-galactic-energy-raises-154-million-for-pallas-1-reusable-rocket/" >🔗</a> **[SpaceNews]** Chinese launch startup Galactic Energy raises $154 million for Pallas-1 reusable rocket
 - <a href="https://arstechnica.com/space/2023/12/top-us-launch-companies-of-2023-the-ars-technica-power-ranking/" >🔗</a> **[Arstechnica]** Our ranking of top US launch companies finds a familiar name on top
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-a-colorful-christmas-tree-in-the-night-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: A colorful Christmas tree in the night sky
 - <a href="https://spacenews.com/ariane-6-schedule-not-affected-by-aborted-upper-stage-test/" >🔗</a> **[SpaceNews]** Ariane 6 schedule not affected by aborted upper stage test
-- <a href="https://europeanspaceflight.com/esa-will-not-open-an-investigation-into-how-vega-tanks-went-missing/" >🔗</a> **[European Spaceflight]** ESA Will Not Open an Investigation into How Vega Tanks Went Missing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T163641">2023-12-20 16:36:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231220T170606">2023-12-20 17:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
