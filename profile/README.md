@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/international-partnerships-mission-authorization-export-control-reform-highlight-space-council-meeting/" >🔗</a> **[SpacePolicyOnline.com]** International Partnerships, Mission Authorization, Export Control Reform Highlight Space Council Meeting
 - <a href="https://spacenews.com/france-to-establish-newspace-hubs-in-denver-and-houston/" >🔗</a> **[SpaceNews]** France to establish NewSpace hubs in Denver and Houston
 - <a href="https://spacenews.com/217194-2/" >🔗</a> **[SpaceNews]** Sabbagh leaves E-Space to lead incoming UAE satcoms and geospatial champion
 - <a href="https://spacenews.com/l3harris-gets-green-light-to-produce-16-space-based-hypersonic-missile-trackers/" >🔗</a> **[SpaceNews]** L3Harris gets green light to produce 16 space-based hypersonic missile trackers
 - <a href="https://arstechnica.com/space/2023/12/spacex-completes-static-fire-test-in-push-toward-third-starship-launch/" >🔗</a> **[Arstechnica]** SpaceX completes static fire test in push toward third Starship launch
-- <a href="https://spacepolicyonline.com/news/harris-to-announce-international-lunar-astronaut-mission-authorization-framework-at-space-council-meeting/" >🔗</a> **[SpacePolicyOnline.com]** Harris to Announce International Lunar Astronaut, Mission Authorization Framework At Space Council Meeting
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231221T043411">2023-12-21 04:34:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231221T050659">2023-12-21 05:06:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
