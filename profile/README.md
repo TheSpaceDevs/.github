@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2023/12/vp-harris-discusses-space-policy/" >🔗</a> **[Space Scout]** VP Harris Lays Out Cooperative Policy Roadmap
 - <a href="https://spacenews.com/national-space-council-meeting-emphasizes-international-cooperation/" >🔗</a> **[SpaceNews]** National Space Council meeting emphasizes international cooperation
 - <a href="https://arstechnica.com/space/2023/12/daily-telescope-the-milky-way-shines-bright-above-the-pyrenees/" >🔗</a> **[Arstechnica]** Daily Telescope: A simple shot of the Milky Way high above France and Spain
 - <a href="https://europeanspaceflight.com/ariane-6-upper-stage-upgrade-completes-key-testing-phase/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Upgrade Completes Key Testing Phase
 - <a href="https://spacepolicyonline.com/news/international-partnerships-mission-authorization-export-control-reform-highlight-space-council-meeting/" >🔗</a> **[SpacePolicyOnline.com]** International Partnerships, Mission Authorization, Export Control Reform Highlight Space Council Meeting
-- <a href="https://spacenews.com/france-to-establish-newspace-hubs-in-denver-and-houston/" >🔗</a> **[SpaceNews]** France to establish NewSpace hubs in Denver and Houston
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231221T153147">2023-12-21 15:31:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231221T160820">2023-12-21 16:08:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
