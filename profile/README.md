@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/iss-122223/" >🔗</a> **[NASASpaceflight]** ISS Roundup: 25 year anniversary, spacewalks, cargo arrivals and departures
 - <a href="https://spacenews.com/nasa-report-studies-options-for-a-future-national-laboratory-in-orbit-after-iss/" >🔗</a> **[SpaceNews]** NASA report studies options for a future national laboratory in orbit after ISS
 - <a href="https://www.teslarati.com/spacex-kicks-off-starship-testing-ahead-next-test-flight/" >🔗</a> **[Teslarati]** SpaceX kicks off Starship testing ahead of next test flight
 - <a href="https://spacenews.com/to-win-the-new-space-race-nasa-and-the-dod-need-to-shift-their-collaboration-into-high-gear/" >🔗</a> **[SpaceNews]** To win the new space race, NASA and the DoD need to shift their collaboration into high gear
 - <a href="https://spacenews.com/shenzhou-17-astronauts-conduct-first-spacewalk-to-repair-solar-array/" >🔗</a> **[SpaceNews]** Shenzhou-17 astronauts conduct first spacewalk to repair solar array
-- <a href="https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/" >🔗</a> **[Arstechnica]** Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231222T223144">2023-12-22 22:31:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231222T230634">2023-12-22 23:06:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
