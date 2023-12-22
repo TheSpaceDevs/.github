@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-kicks-off-starship-testing-ahead-next-test-flight/" >🔗</a> **[Teslarati]** SpaceX kicks off Starship testing ahead of next test flight
+- <a href="https://spacenews.com/to-win-the-new-space-race-nasa-and-the-dod-need-to-shift-their-collaboration-into-high-gear/" >🔗</a> **[SpaceNews]** To win the new space race, NASA and the DoD need to shift their collaboration into high gear
 - <a href="https://spacenews.com/shenzhou-17-astronauts-conduct-first-spacewalk-to-repair-solar-array/" >🔗</a> **[SpaceNews]** Shenzhou-17 astronauts conduct first spacewalk to repair solar array
 - <a href="https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/" >🔗</a> **[Arstechnica]** Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight
 - <a href="https://europeanspaceflight.com/esa-will-award-up-to-three-phase-1-leo-cargo-return-contracts/" >🔗</a> **[European Spaceflight]** ESA Will Award up to Three Phase 1 LEO Cargo Return Contracts
-- <a href="https://www.nasaspaceflight.com/2023/12/mars2020-1000-sols/" >🔗</a> **[NASASpaceflight]** 1,000 sols into their mission, Perseverance and Ingenuity continue to investigate Jezero Crater
-- <a href="https://www.spacescout.info/2023/12/vp-harris-discusses-space-policy/" >🔗</a> **[Space Scout]** VP Harris Lays Out Cooperative Policy Roadmap
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231222T153148">2023-12-22 15:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231222T160806">2023-12-22 16:08:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
