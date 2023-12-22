@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/" >🔗</a> **[Arstechnica]** Rocket Report: Electron and New Shepard return to flight; UK spaceport gets OK
 - <a href="https://europeanspaceflight.com/esa-will-award-up-to-three-phase-1-leo-cargo-return-contracts/" >🔗</a> **[European Spaceflight]** ESA Will Award up to Three Phase 1 LEO Cargo Return Contracts
 - <a href="https://www.nasaspaceflight.com/2023/12/mars2020-1000-sols/" >🔗</a> **[NASASpaceflight]** 1,000 sols into their mission, Perseverance and Ingenuity continue to investigate Jezero Crater
 - <a href="https://www.spacescout.info/2023/12/vp-harris-discusses-space-policy/" >🔗</a> **[Space Scout]** VP Harris Lays Out Cooperative Policy Roadmap
 - <a href="https://spacenews.com/national-space-council-meeting-emphasizes-international-cooperation/" >🔗</a> **[SpaceNews]** National Space Council meeting emphasizes international cooperation
-- <a href="https://arstechnica.com/space/2023/12/daily-telescope-the-milky-way-shines-bright-above-the-pyrenees/" >🔗</a> **[Arstechnica]** Daily Telescope: A simple shot of the Milky Way high above France and Spain
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231222T113139">2023-12-22 11:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231222T121145">2023-12-22 12:11:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
