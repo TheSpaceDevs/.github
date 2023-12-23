@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-wins-515-million-contract-to-build-18-satellites-for-u-s-government-agency/" >🔗</a> **[SpaceNews]** Rocket Lab wins $515 million contract to build 18 satellites for U.S. government agency
 - <a href="https://europeanspaceflight.com/space-rider-completes-initial-ground-segment-testing/" >🔗</a> **[European Spaceflight]** Space Rider Completes Initial Ground Segment Testing
 - <a href="https://spacenews.com/firefly-alpha-upper-stage-malfunction-puts-payload-into-wrong-orbit/" >🔗</a> **[SpaceNews]** Firefly Alpha upper stage malfunction puts payload into wrong orbit
 - <a href="https://www.nasaspaceflight.com/2023/12/iss-122223/" >🔗</a> **[NASASpaceflight]** ISS Roundup: 25 year anniversary, spacewalks, cargo arrivals and departures
 - <a href="https://spacenews.com/nasa-report-studies-options-for-a-future-national-laboratory-in-orbit-after-iss/" >🔗</a> **[SpaceNews]** NASA report studies options for a future national laboratory in orbit after ISS
-- <a href="https://www.teslarati.com/spacex-kicks-off-starship-testing-ahead-next-test-flight/" >🔗</a> **[Teslarati]** SpaceX kicks off Starship testing ahead of next test flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231223T103212">2023-12-23 10:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231223T110444">2023-12-23 11:04:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
