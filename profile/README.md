@@ -89,11 +89,11 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/space-rider-completes-initial-ground-segment-testing/" >🔗</a> **[European Spaceflight]** Space Rider Completes Initial Ground Segment Testing
+- <a href="https://spacenews.com/firefly-alpha-upper-stage-malfunction-puts-payload-into-wrong-orbit/" >🔗</a> **[SpaceNews]** Firefly Alpha upper stage malfunction puts payload into wrong orbit
 - <a href="https://www.nasaspaceflight.com/2023/12/iss-122223/" >🔗</a> **[NASASpaceflight]** ISS Roundup: 25 year anniversary, spacewalks, cargo arrivals and departures
 - <a href="https://spacenews.com/nasa-report-studies-options-for-a-future-national-laboratory-in-orbit-after-iss/" >🔗</a> **[SpaceNews]** NASA report studies options for a future national laboratory in orbit after ISS
 - <a href="https://www.teslarati.com/spacex-kicks-off-starship-testing-ahead-next-test-flight/" >🔗</a> **[Teslarati]** SpaceX kicks off Starship testing ahead of next test flight
-- <a href="https://spacenews.com/to-win-the-new-space-race-nasa-and-the-dod-need-to-shift-their-collaboration-into-high-gear/" >🔗</a> **[SpaceNews]** To win the new space race, NASA and the DoD need to shift their collaboration into high gear
-- <a href="https://spacenews.com/shenzhou-17-astronauts-conduct-first-spacewalk-to-repair-solar-array/" >🔗</a> **[SpaceNews]** Shenzhou-17 astronauts conduct first spacewalk to repair solar array
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231223T063141">2023-12-23 06:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231223T070537">2023-12-23 07:05:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
