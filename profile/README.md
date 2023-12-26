@@ -89,11 +89,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-beidou-satellites-rocket-booster-lands-near-house/" >🔗</a> **[SpaceNews]** China launches new Beidou satellites, rocket booster lands near house
 - <a href="https://spacenews.com/japans-slim-successfully-enters-lunar-orbit-gears-up-for-precision-moon-landing/" >🔗</a> **[SpaceNews]** Japan’s SLIM successfully enters lunar orbit, gears up for precision moon landing
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-24-2023-january-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 24, 2023-January 7, 2024
 - <a href="https://www.spacescout.info/2023/12/firefly-alpha-ends-in-anomaly/" >🔗</a> **[Space Scout]** Firefly Alpha Flight 004 Ends in Anomaly
 - <a href="https://spacenews.com/rocket-lab-wins-515-million-contract-to-build-18-satellites-for-u-s-government-agency/" >🔗</a> **[SpaceNews]** Rocket Lab wins $515 million contract to build 18 satellites for U.S. government agency
-- <a href="https://europeanspaceflight.com/space-rider-completes-initial-ground-segment-testing/" >🔗</a> **[European Spaceflight]** Space Rider Completes Initial Ground Segment Testing
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231226T213130">2023-12-26 21:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231226T220619">2023-12-26 22:06:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
