@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spaceports-need-social-scientists-heres-why/" >🔗</a> **[SpaceNews]** Spaceports need social scientists. Here’s why.
 - <a href="https://europeanspaceflight.com/ohb-get-go-head-to-commence-e90m-odins-eye-ii-project/" >🔗</a> **[European Spaceflight]** OHB Get Go-Head to Commence €90M ODIN’S EYE II Project
 - <a href="https://europeanspaceflight.com/asi-signs-contract-for-lunar-robotic-mission-simulation-and-control-centre/" >🔗</a> **[European Spaceflight]** ASI Signs Contract for Lunar Robotic Mission Simulation and Control Centre
 - <a href="https://spacenews.com/musk-not-eager-to-take-starlink-public/" >🔗</a> **[SpaceNews]** Musk not eager to take Starlink public
 - <a href="https://spacenews.com/china-launches-new-beidou-satellites-rocket-booster-lands-near-house/" >🔗</a> **[SpaceNews]** China launches new Beidou satellites, rocket booster lands near house
-- <a href="https://spacenews.com/japans-slim-successfully-enters-lunar-orbit-gears-up-for-precision-moon-landing/" >🔗</a> **[SpaceNews]** Japan’s SLIM successfully enters lunar orbit, gears up for precision moon landing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231227T153138">2023-12-27 15:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231227T160802">2023-12-27 16:08:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
