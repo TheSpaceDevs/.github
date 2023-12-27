@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/china-roundup-2/" >🔗</a> **[NASASpaceflight]** China’s 2023: closing out a busy year amidst preparations for lunar missions
 - <a href="https://spacenews.com/axelspace-raises-44-million-for-earth-observation-and-other-smallsats/" >🔗</a> **[SpaceNews]** Axelspace raises $44 million for Earth observation and other smallsats
 - <a href="https://spacenews.com/spaceports-need-social-scientists-heres-why/" >🔗</a> **[SpaceNews]** Spaceports need social scientists. Here’s why.
 - <a href="https://europeanspaceflight.com/ohb-get-go-head-to-commence-e90m-odins-eye-ii-project/" >🔗</a> **[European Spaceflight]** OHB Get Go-Head to Commence €90M ODIN’S EYE II Project
 - <a href="https://europeanspaceflight.com/asi-signs-contract-for-lunar-robotic-mission-simulation-and-control-centre/" >🔗</a> **[European Spaceflight]** ASI Signs Contract for Lunar Robotic Mission Simulation and Control Centre
-- <a href="https://spacenews.com/musk-not-eager-to-take-starlink-public/" >🔗</a> **[SpaceNews]** Musk not eager to take Starlink public
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231227T193143">2023-12-27 19:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231227T200653">2023-12-27 20:06:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
