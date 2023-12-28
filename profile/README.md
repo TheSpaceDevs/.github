@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-completes-key-review-for-leo-cargo-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Key Review for LEO Cargo Vehicle
+- <a href="https://spacenews.com/second-h3-launch-planned-for-february/" >🔗</a> **[SpaceNews]** Second H3 launch planned for February
 - <a href="https://www.nasaspaceflight.com/2023/12/china-roundup-2/" >🔗</a> **[NASASpaceflight]** China’s 2023: closing out a busy year amidst preparations for lunar missions
 - <a href="https://spacenews.com/axelspace-raises-44-million-for-earth-observation-and-other-smallsats/" >🔗</a> **[SpaceNews]** Axelspace raises $44 million for Earth observation and other smallsats
 - <a href="https://spacenews.com/spaceports-need-social-scientists-heres-why/" >🔗</a> **[SpaceNews]** Spaceports need social scientists. Here’s why.
-- <a href="https://europeanspaceflight.com/ohb-get-go-head-to-commence-e90m-odins-eye-ii-project/" >🔗</a> **[European Spaceflight]** OHB Get Go-Head to Commence €90M ODIN’S EYE II Project
-- <a href="https://europeanspaceflight.com/asi-signs-contract-for-lunar-robotic-mission-simulation-and-control-centre/" >🔗</a> **[European Spaceflight]** ASI Signs Contract for Lunar Robotic Mission Simulation and Control Centre
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T073142">2023-12-28 07:31:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T080909">2023-12-28 08:09:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
