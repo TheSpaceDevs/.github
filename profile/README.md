@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northstar-earth-space-first-in-class-with-commercial-space-based-ssa/" >🔗</a> **[SpaceNews]** NorthStar Earth & Space: First-in-Class with Commercial Space Based SSA
 - <a href="https://mars.nasa.gov/news/9529/" >🔗</a> **[NASA]** NASA's Curiosity Rover Captures a Martian Day, From Dawn to Dusk
 - <a href="https://spacenews.com/pentagon-agencies-team-up-in-upcoming-launch-of-hypersonic-tracking-satellites/" >🔗</a> **[SpaceNews]** Pentagon agencies team up in upcoming launch of hypersonic tracking satellites
 - <a href="https://www.nasaspaceflight.com/2023/12/otv-7/" >🔗</a> **[NASASpaceflight]** Following scrub, Falcon Heavy to launch USSF-52
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-key-review-for-leo-cargo-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Key Review for LEO Cargo Vehicle
-- <a href="https://spacenews.com/second-h3-launch-planned-for-february/" >🔗</a> **[SpaceNews]** Second H3 launch planned for February
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Elliptical Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T183205">2023-12-28 18:32:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T190414">2023-12-28 19:04:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
