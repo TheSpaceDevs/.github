@@ -89,11 +89,11 @@ into *an Elliptical Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9529/" >🔗</a> **[NASA]** NASA's Curiosity Rover Captures a Martian Day, From Dawn to Dusk
 - <a href="https://spacenews.com/pentagon-agencies-team-up-in-upcoming-launch-of-hypersonic-tracking-satellites/" >🔗</a> **[SpaceNews]** Pentagon agencies team up in upcoming launch of hypersonic tracking satellites
+- <a href="https://www.nasaspaceflight.com/2023/12/otv-7/" >🔗</a> **[NASASpaceflight]** Following scrub, Falcon Heavy to launch USSF-52
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-key-review-for-leo-cargo-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Key Review for LEO Cargo Vehicle
 - <a href="https://spacenews.com/second-h3-launch-planned-for-february/" >🔗</a> **[SpaceNews]** Second H3 launch planned for February
-- <a href="https://www.nasaspaceflight.com/2023/12/china-roundup-2/" >🔗</a> **[NASASpaceflight]** China’s 2023: closing out a busy year amidst preparations for lunar missions
-- <a href="https://spacenews.com/axelspace-raises-44-million-for-earth-observation-and-other-smallsats/" >🔗</a> **[SpaceNews]** Axelspace raises $44 million for Earth observation and other smallsats
 
 
 ### Launch-related News 🚀
@@ -105,12 +105,12 @@ into *an Elliptical Orbit
 - <a href="https://spaceflightnow.com/2023/01/07/spacex-first-of-up-to-five-falcon-heavy-missions-this-year/" >🔗</a> **[Spaceflight Now]** Launch preps underway for first of up to five Falcon Heavy missions this year
 - <a href="https://spacenews.com/u-s-air-force-x-37b-spaceplane-to-launch-on-a-spacex-falcon-heavy-rocket/" >🔗</a> **[SpaceNews]** U.S. Air Force X-37B spaceplane to launch on a SpaceX Falcon Heavy rocket
 - <a href="https://www.spacescout.info/2023/12/united-states-space-force-prepares-to-fly-otv-7/" >🔗</a> **[Space Scout]** United States Space Force Prepares to fly OTV-7
-- <a href="https://www.nasaspaceflight.com/2023/12/otv-7/" >🔗</a> **[NASASpaceflight]** Falcon Heavy scrubs on first attempt to launch USSF-52
+- <a href="https://www.nasaspaceflight.com/2023/12/otv-7/" >🔗</a> **[NASASpaceflight]** Following scrub, Falcon Heavy to launch USSF-52
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T173143">2023-12-28 17:31:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231228T180835">2023-12-28 18:08:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
