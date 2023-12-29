@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-satellite-for-chinese-g60-megaconstellation-rolls-off-assembly-line/" >🔗</a> **[SpaceNews]** First satellite for Chinese G60 megaconstellation rolls off assembly line
 - <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2023/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2023
 - <a href="https://spacepolicyonline.com/news/dods-x-37b-spaceplane-flies-again/" >🔗</a> **[SpacePolicyOnline.com]** DOD’s X-37B Spaceplane Flies Again
 - <a href="https://spacenews.com/spacex-launches-u-s-military-spaceplane-on-falcon-heavy-rocket/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. military spaceplane on Falcon Heavy rocket
 - <a href="https://spacenews.com/slam-corp-loses-176-million-ahead-of-proposed-lynk-global-merger/" >🔗</a> **[SpaceNews]** Slam Corp returns $176 million ahead of proposed Lynk Global merger
-- <a href="https://www.cnbc.com/2023/12/28/investing-in-space-a-year-of-coverage-in-review.html" >🔗</a> **[CNBC]** Investing in Space: A year of coverage in review
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231229T130806">2023-12-29 13:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231229T133135">2023-12-29 13:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
