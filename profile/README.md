@@ -91,11 +91,11 @@ In addition, 10 attached payloads on the PSLV 4th stage will perform various exp
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2023/12/falcon-roundup/" >🔗</a> **[NASASpaceflight]** SpaceX closes out record-breaking 2023, prepares for more records in 2024
 - <a href="https://spacenews.com/chinese-satellite-internet-mission-rounds-off-record-year-for-global-launches/" >🔗</a> **[SpaceNews]** Chinese satellite internet mission rounds off record year for global launches
 - <a href="https://europeanspaceflight.com/sirius-space-completes-60-second-star-1-v2-hot-fire-test/" >🔗</a> **[European Spaceflight]** Sirius Space Completes 60-Second STAR-1 V2 Hot Fire Test
 - <a href="https://www.nasaspaceflight.com/2023/12/starship-roundup-2023/" >🔗</a> **[NASASpaceflight]** Starship’s 2023: after a year filled with milestones, Starship looks ahead to an exciting future
 - <a href="https://spacenews.com/spanish-defense-giant-reportedly-seeks-hispasat-stake/" >🔗</a> **[SpaceNews]** Spanish defense giant reportedly seeks Hispasat stake
-- <a href="https://www.cnbc.com/2023/12/29/spacex-rockets-2023-launch-record.html" >🔗</a> **[CNBC]** SpaceX sets new rocket record with 96 successful launches in 2023
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ In addition, 10 attached payloads on the PSLV 4th stage will perform various exp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231231T203130">2023-12-31 20:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231231T210454">2023-12-31 21:04:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
