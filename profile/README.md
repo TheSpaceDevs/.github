@@ -32,6 +32,8 @@ into *a Low Earth Orbit
 <br>
 <blockquote>
   XPoSat (X-ray Polarimeter Satellite) is India’s first dedicated polarimetry mission to study various dynamics of bright astronomical X-ray sources in extreme conditions. The spacecraft will carry two scientific payloads in a low earth orbit. The primary payload POLIX (Polarimeter Instrument in X-rays) will measure the polarimetry parameters (degree and angle of polarization) in medium X-ray energy range of 8-30 keV photons of astronomical origin. The XSPECT (X-ray Spectroscopy and Timing) payload will give spectroscopic information in the energy range of 0.8-15 keV.
+
+In addition, 10 attached payloads on the PSLV 4th stage will perform various experiments and testing from Indian institutions coordinated by ISRO, known as PSLV Orbital Experimental Module-3 (POEM-3).
 </blockquote>
 
 <p float="left" align="center">
@@ -102,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231231T073149">2023-12-31 07:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20231231T080824">2023-12-31 08:08:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
