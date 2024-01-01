@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-launches-x-ray-astronomy-satellite/" >🔗</a> **[SpaceNews]** India launches X-ray astronomy satellite
 - <a href="https://europeanspaceflight.com/dlr-tests-a-planetary-lander-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Tests a Planetary Lander Demonstrator
 - <a href="https://spacenews.com/nasa-pushes-ahead-with-earth-system-observatory-despite-uncertain-budgets/" >🔗</a> **[SpaceNews]** NASA pushes ahead with Earth System Observatory despite uncertain budgets
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-31-2023-january-8-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 31, 2023-January 8, 2024
 - <a href="https://www.nasaspaceflight.com/2023/12/falcon-roundup/" >🔗</a> **[NASASpaceflight]** SpaceX closes out record-breaking 2023, prepares for more records in 2024
-- <a href="https://spacenews.com/chinese-satellite-internet-mission-rounds-off-record-year-for-global-launches/" >🔗</a> **[SpaceNews]** Chinese satellite internet mission rounds off record year for global launches
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240101T143126">2024-01-01 14:31:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240101T150636">2024-01-01 15:06:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
