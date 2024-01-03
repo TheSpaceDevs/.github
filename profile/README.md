@@ -91,11 +91,11 @@ The satellite was ordered in December 2018 from Maxar Technologies to meet the d
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/suas-aerospace-aims-to-launch-orbital-flights-from-ireland/" >🔗</a> **[European Spaceflight]** SUAS Aerospace Aims to Launch Orbital Flights from Ireland
 - <a href="https://spacenews.com/spacex-deploys-direct-to-smartphone-satellites-in-first-launch-of-2024/" >🔗</a> **[SpaceNews]** SpaceX deploys direct-to-smartphone satellites in first launch of 2024
 - <a href="https://spacenews.com/india-selects-falcon-9-for-communications-satellite-launch/" >🔗</a> **[SpaceNews]** India selects Falcon 9 for communications satellite launch
 - <a href="https://spacenews.com/terran-orbital-says-rivada-is-up-to-date-on-invoices-after-undisclosed-payment/" >🔗</a> **[SpaceNews]** Terran Orbital says Rivada is up to date on invoices after undisclosed payment
 - <a href="https://www.spacescout.info/2024/01/jaxa-eyes-february-for-h3-return-to-flight/" >🔗</a> **[Space Scout]** JAXA eyes February for H3 Return to Flight
-- <a href="https://spacenews.com/copernic-space-sells-digital-assets-for-2024-lunar-flight/" >🔗</a> **[SpaceNews]** Copernic Space sells digital assets for 2024 lunar flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The satellite was ordered in December 2018 from Maxar Technologies to meet the d
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240103T113135">2024-01-03 11:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240103T121223">2024-01-03 12:12:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
