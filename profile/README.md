@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-says-rivada-is-up-to-date-on-invoices-after-undisclosed-payment/" >🔗</a> **[SpaceNews]** Terran Orbital says Rivada is up to date on invoices after undisclosed payment
 - <a href="https://www.spacescout.info/2024/01/jaxa-eyes-february-for-h3-return-to-flight/" >🔗</a> **[Space Scout]** JAXA eyes February for H3 Return to Flight
 - <a href="https://spacenews.com/copernic-space-sells-digital-assets-for-2024-lunar-flight/" >🔗</a> **[SpaceNews]** Copernic Space sells digital assets for 2024 lunar flight
 - <a href="https://arstechnica.com/space/2024/01/nasa-just-flew-by-the-solar-systems-most-volcanically-active-moon/" >🔗</a> **[Arstechnica]** Juno makes its first ultra-close flyby of the volcano-covered moon Io
 - <a href="https://europeanspaceflight.com/e40m-to-be-invested-to-produce-greener-hydrogen-for-ariane-6/" >🔗</a> **[European Spaceflight]** €40M to be Invested to Produce Greener Hydrogen for Ariane 6
-- <a href="https://spacenews.com/india-launches-x-ray-astronomy-satellite/" >🔗</a> **[SpaceNews]** India launches X-ray astronomy satellite
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240103T003240">2024-01-03 00:32:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240103T014501">2024-01-03 01:45:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
