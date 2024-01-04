@@ -91,9 +91,9 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-view-of-our-star-as-earth-reaches-perihelion/" >🔗</a> **[Arstechnica]** Daily Telescope: A view of our star as Earth reaches perihelion
 - <a href="https://spacenews.com/national-labor-relations-board-issues-complaint-over-spacex-employee-firings/" >🔗</a> **[SpaceNews]** National Labor Relations Board issues complaint over SpaceX employee firings
+- <a href="https://spacenews.com/maxar-wins-contract-to-provide-3d-imagery-of-indo-pacific-region/" >🔗</a> **[SpaceNews]** Maxar wins contract to provide 3D imagery of Indo-Pacific region
 - <a href="https://spacenews.com/spacex-launches-ovzons-debut-broadband-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Ovzon’s debut broadband satellite
 - <a href="https://europeanspaceflight.com/progress-made-at-saxavord-but-questions-remain/" >🔗</a> **[European Spaceflight]** Progress Made at SaxaVord, but Questions Remain
-- <a href="https://spacepolicyonline.com/news/bumpy-road-ahead-for-the-remainder-of-the-118th-congress/" >🔗</a> **[SpacePolicyOnline.com]** Bumpy Road Ahead for the Remainder of the 118th Congress
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T140111">2024-01-04 14:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T143106">2024-01-04 14:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
