@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-view-of-our-star-as-earth-reaches-perihelion/" >🔗</a> **[Arstechnica]** Daily Telescope: A view of our star as Earth reaches perihelion
+- <a href="https://spacenews.com/national-labor-relations-board-issues-complaint-over-spacex-employee-firings/" >🔗</a> **[SpaceNews]** National Labor Relations Board issues complaint over SpaceX employee firings
 - <a href="https://spacenews.com/spacex-launches-ovzons-debut-broadband-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Ovzon’s debut broadband satellite
 - <a href="https://europeanspaceflight.com/progress-made-at-saxavord-but-questions-remain/" >🔗</a> **[European Spaceflight]** Progress Made at SaxaVord, but Questions Remain
 - <a href="https://spacepolicyonline.com/news/bumpy-road-ahead-for-the-remainder-of-the-118th-congress/" >🔗</a> **[SpacePolicyOnline.com]** Bumpy Road Ahead for the Remainder of the 118th Congress
-- <a href="https://spacenews.com/ingenuity-lessons-being-incorporated-into-mars-sample-return/" >🔗</a> **[SpaceNews]** Ingenuity lessons being incorporated into Mars Sample Return
-- <a href="https://www.nasaspaceflight.com/2024/01/vulcan-flight-one-preps/" >🔗</a> **[NASASpaceflight]** ULA Ready for Inaugural Vulcan Flight
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T130206">2024-01-04 13:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T133209">2024-01-04 13:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
