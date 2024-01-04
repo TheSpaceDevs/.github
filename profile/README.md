@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/progress-made-at-saxavord-but-questions-remain/" >🔗</a> **[European Spaceflight]** Progress Made at SaxaVord, but Questions Remain
 - <a href="https://spacepolicyonline.com/news/bumpy-road-ahead-for-the-remainder-of-the-118th-congress/" >🔗</a> **[SpacePolicyOnline.com]** Bumpy Road Ahead for the Remainder of the 118th Congress
 - <a href="https://spacenews.com/ingenuity-lessons-being-incorporated-into-mars-sample-return/" >🔗</a> **[SpaceNews]** Ingenuity lessons being incorporated into Mars Sample Return
 - <a href="https://www.nasaspaceflight.com/2024/01/vulcan-flight-one-preps/" >🔗</a> **[NASASpaceflight]** ULA Ready for Inaugural Vulcan Flight
 - <a href="https://spacenews.com/more-than-just-leo-a-framework-for-spd-8-and-space-critical-infrastructure/" >🔗</a> **[SpaceNews]** More Than Just LEO: A Framework for SPD-8 and Space Critical Infrastructure
-- <a href="https://europeanspaceflight.com/suas-aerospace-aims-to-launch-orbital-flights-from-ireland/" >🔗</a> **[European Spaceflight]** SUAS Aerospace Aims to Launch Orbital Flights from Ireland
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T070111">2024-01-04 07:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T073056">2024-01-04 07:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
