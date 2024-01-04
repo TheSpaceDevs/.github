@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-010424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan attempts maiden flight, SpaceX continues launching Starlink
 - <a href="https://spacenews.com/space-force-wargames-potential-satellite-refueling-plans/" >🔗</a> **[SpaceNews]** Space Force wargames potential satellite refueling plans
 - <a href="https://spacenews.com/space-force-seeking-a-digital-overhaul-of-its-aging-launch-infrastructure/" >🔗</a> **[SpaceNews]** Space Force seeking a digital overhaul of its aging launch infrastructure
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-view-of-our-star-as-earth-reaches-perihelion/" >🔗</a> **[Arstechnica]** Daily Telescope: A view of our star as Earth reaches perihelion
 - <a href="https://spacenews.com/national-labor-relations-board-issues-complaint-over-spacex-employee-firings/" >🔗</a> **[SpaceNews]** National Labor Relations Board issues complaint over SpaceX employee firings
-- <a href="https://spacenews.com/maxar-wins-contract-to-provide-3d-imagery-of-indo-pacific-region/" >🔗</a> **[SpaceNews]** Maxar wins contract to provide 3D imagery of Indo-Pacific region
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T223118">2024-01-04 22:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T230117">2024-01-04 23:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
