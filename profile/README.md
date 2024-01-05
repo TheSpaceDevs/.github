@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gao-denies-l3harris-protest-over-ball-aerospace-weather-satellite-instrument-contract/" >🔗</a> **[SpaceNews]** GAO denies L3Harris protest over Ball Aerospace weather satellite instrument contract
+- <a href="https://spacepolicyonline.com/news/biden-administration-to-consult-with-navajo-about-human-remains-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Biden Administration to Consult with Navajo About Human Remains on the Moon
 - <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-010424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan attempts maiden flight, SpaceX continues launching Starlink
 - <a href="https://spacenews.com/space-force-wargames-potential-satellite-refueling-plans/" >🔗</a> **[SpaceNews]** Space Force wargames potential satellite refueling plans
 - <a href="https://spacenews.com/space-force-seeking-a-digital-overhaul-of-its-aging-launch-infrastructure/" >🔗</a> **[SpaceNews]** Space Force seeking a digital overhaul of its aging launch infrastructure
-- <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-view-of-our-star-as-earth-reaches-perihelion/" >🔗</a> **[Arstechnica]** Daily Telescope: A view of our star as Earth reaches perihelion
-- <a href="https://spacenews.com/national-labor-relations-board-issues-complaint-over-spacex-employee-firings/" >🔗</a> **[SpaceNews]** National Labor Relations Board issues complaint over SpaceX employee firings
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240104T233054">2024-01-04 23:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240105T000322">2024-01-05 00:03:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
