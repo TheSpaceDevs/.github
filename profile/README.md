@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/with-vulcans-liftoff-imminent-united-launch-alliance-flies-into-uncertain-future/" >🔗</a> **[Arstechnica]** As Vulcan nears debut, it’s not clear whether ULA will live long and prosper
 - <a href="https://spacenews.com/space-security-americas-no-longer-overlooked/" >🔗</a> **[SpaceNews]** Space security in the Americas can no longer go overlooked
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-crab-found-in-the-night-sky-rather-than-the-worlds-oceans/" >🔗</a> **[Arstechnica]** Daily Telescope: A crab found in the night sky rather than the world’s oceans
 - <a href="https://spacenews.com/china-completes-new-commercial-launch-pad-to-boost-access-to-space/" >🔗</a> **[SpaceNews]** China completes new commercial launch pad to boost access to space
 - <a href="https://europeanspaceflight.com/rfa-boosts-argo-capabilities-to-answer-esa-commercial-cargo-call/" >🔗</a> **[European Spaceflight]** RFA Boosts Argo Capabilities to Answer ESA Commercial Cargo Call
-- <a href="https://spacenews.com/nasa-instruments-set-to-fly-on-peregrine-commercial-lunar-lander/" >🔗</a> **[SpaceNews]** NASA instruments set to fly on Peregrine commercial lunar lander
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240105T170111">2024-01-05 17:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240105T173120">2024-01-05 17:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
