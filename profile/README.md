@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-adds-funding-to-blue-origin-and-voyager-space-commercial-space-station-agreements/" >🔗</a> **[SpaceNews]** NASA adds funding to Blue Origin and Voyager Space commercial space station agreements
+- <a href="https://www.spacescout.info/2024/01/vulcan-rolls-to-pad-ahead-of-debut-flight/" >🔗</a> **[Space Scout]** Vulcan Rolls to Pad Ahead of Debut Flight
 - <a href="https://spacenews.com/indias-aditya-l1-solar-observatory-enters-orbit-around-lagrange-point/" >🔗</a> **[SpaceNews]** India’s Aditya-L1 solar observatory enters orbit around Lagrange point
 - <a href="https://spacenews.com/vulcan-on-the-pad-for-its-first-launch/" >🔗</a> **[SpaceNews]** Vulcan on the pad for its first launch
 - <a href="https://spacenews.com/space-force-on-the-verge-of-finalizing-long-awaited-commercial-space-strategy/" >🔗</a> **[SpaceNews]** Space Force on the verge of finalizing long-awaited commercial space strategy
-- <a href="https://www.nasaspaceflight.com/2024/01/flight-3-getting-closer/" >🔗</a> **[NASASpaceflight]** With Solo Vehicle Testing Complete Flight 3 is Getting Closer
-- <a href="https://arstechnica.com/space/2024/01/with-vulcans-liftoff-imminent-united-launch-alliance-flies-into-uncertain-future/" >🔗</a> **[Arstechnica]** As Vulcan nears debut, it’s not clear whether ULA will live long and prosper
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240106T183106">2024-01-06 18:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240106T190113">2024-01-06 19:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
