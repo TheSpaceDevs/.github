@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-aditya-l1-solar-observatory-enters-orbit-around-lagrange-point/" >🔗</a> **[SpaceNews]** India’s Aditya-L1 solar observatory enters orbit around Lagrange point
 - <a href="https://spacenews.com/vulcan-on-the-pad-for-its-first-launch/" >🔗</a> **[SpaceNews]** Vulcan on the pad for its first launch
 - <a href="https://spacenews.com/space-force-on-the-verge-of-finalizing-long-awaited-commercial-space-strategy/" >🔗</a> **[SpaceNews]** Space Force on the verge of finalizing long-awaited commercial space strategy
 - <a href="https://www.nasaspaceflight.com/2024/01/flight-3-getting-closer/" >🔗</a> **[NASASpaceflight]** With Solo Vehicle Testing Complete Flight 3 is Getting Closer
 - <a href="https://arstechnica.com/space/2024/01/with-vulcans-liftoff-imminent-united-launch-alliance-flies-into-uncertain-future/" >🔗</a> **[Arstechnica]** As Vulcan nears debut, it’s not clear whether ULA will live long and prosper
-- <a href="https://spacenews.com/space-security-americas-no-longer-overlooked/" >🔗</a> **[SpaceNews]** Space security in the Americas can no longer go overlooked
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240106T110121">2024-01-06 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240106T113059">2024-01-06 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
