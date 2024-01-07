@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/vulcan-launch-peregrine-inaugural-flight/" >🔗</a> **[NASASpaceflight]** Vulcan to launch Peregrine lunar lander on inaugural flight
 - <a href="https://spacepolicyonline.com/news/uae-will-build-airlock-for-artemis-gateway-lunar-space-station/" >🔗</a> **[SpacePolicyOnline.com]** UAE Will Build Airlock for Artemis Gateway Lunar Space Station
 - <a href="https://www.spacescout.info/2024/01/uae-to-build-gateway-airlock/" >🔗</a> **[Space Scout]** United Arab Emirates to Build Gateway Airlock
 - <a href="https://spacenews.com/uae-to-build-airlock-for-lunar-gateway/" >🔗</a> **[SpaceNews]** UAE to build airlock for lunar Gateway
 - <a href="https://spacenews.com/nasa-and-sda-optical-campaigns-could-share-terminals/" >🔗</a> **[SpaceNews]** NASA and SDA optical campaigns could share terminals
-- <a href="https://spacenews.com/nasa-adds-funding-to-blue-origin-and-voyager-space-commercial-space-station-agreements/" >🔗</a> **[SpaceNews]** NASA adds funding to Blue Origin and Voyager Space commercial space station agreements
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240107T173102">2024-01-07 17:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240107T180135">2024-01-07 18:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
