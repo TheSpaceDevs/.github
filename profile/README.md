@@ -95,11 +95,11 @@ The European Space Agency is contributing to the mission with a mirror module fo
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/01/08/ula-vulcan-rocket-launches-newest-spacex-challenger.html" >🔗</a> **[CNBC]** ULA’s Vulcan rocket launches as the newest challenger to SpaceX
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-wizard-nebula-captured-above-germany/" >🔗</a> **[Arstechnica]** Daily Telescope: The Wizard Nebula captured above Germany
 - <a href="https://spacepolicyonline.com/news/first-u-s-lunar-lander-in-more-than-50-years-on-its-way/" >🔗</a> **[SpacePolicyOnline.com]** First U.S. Lunar Lander in More than 50 Years On Its Way
 - <a href="https://spacenews.com/vulcan-centaur-launches-peregrine-lunar-lander-on-inaugural-mission/" >🔗</a> **[SpaceNews]** Vulcan Centaur launches Peregrine lunar lander on inaugural mission
 - <a href="https://europeanspaceflight.com/the-exploration-company-begin-cnes-backed-rocket-engine-development/" >🔗</a> **[European Spaceflight]** The Exploration Company Begins CNES Backed Rocket Engine Development
-- <a href="https://spacepolicyonline.com/news/vulcan-ready-to-send-astrobotics-peregrine-lander-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Vulcan Ready to Send Astrobotic’s Peregrine Lander to the Moon
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-7-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 7-14, 2024
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T130232">2024-01-08 13:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T133106">2024-01-08 13:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
