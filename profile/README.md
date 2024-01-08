@@ -51,7 +51,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T065100">2024-01-09 06:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Einstein Probe&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240109T065100Z%2F20240109T075200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Einstein Probe** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T050000">2024-01-10 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-10&location=Vandenberg SFB, CA, USA&dates=20240110T050000Z%2F20240110T092700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-10** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T050600">2024-01-10 05:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-10&location=Vandenberg SFB, CA, USA&dates=20240110T050600Z%2F20240110T072800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T034200">2024-01-11 03:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240111T034200Z%2F20240111T041000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T040000">2024-01-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Optical 8&location=Tanegashima Space Center, Japan&dates=20240111T040000Z%2F20240111T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Optical 8** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T051500">2024-01-11 05:15:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gravity-1 | Maiden flight&location=Sea Launch&dates=20240111T051500Z%2F20240111T070500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gravity-1 | Maiden flight** from Sea Launch.
@@ -95,11 +95,11 @@ The European Space Agency is contributing to the mission with a mirror module fo
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-confirms-rocket-lab-will-produce-18-satellites-for-u-s-military-network/" >🔗</a> **[SpaceNews]** Space Development Agency confirms Rocket Lab will produce 18 satellites for U.S. military network
+- <a href="https://spacenews.com/jpl-lays-off-100-contractors-citing-budget-uncertainty/" >🔗</a> **[SpaceNews]** JPL lays off 100 contractors, citing budget uncertainty
 - <a href="https://spacenews.com/u-s-army-issues-new-guidance-on-the-use-of-space-for-ground-warfare/" >🔗</a> **[SpaceNews]** U.S. Army issues new guidance on the use of space for ground warfare
 - <a href="https://arstechnica.com/space/2024/01/astrobotic-says-there-has-been-an-anomaly-with-its-lunar-lander/" >🔗</a> **[Arstechnica]** The situation with Astrobotic’s lunar lander appears to be quite dire
 - <a href="https://www.spacescout.info/2024/01/vulcan-debuts-peregrine-in-jeopardy/" >🔗</a> **[Space Scout]** Vulcan Completes Successful Debut, Peregrine in Jeopardy
-- <a href="https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/" >🔗</a> **[SpaceNews]** Peregrine lander suffers anomaly after launch
-- <a href="https://spacenews.com/advent-astropolitical-alliances/" >🔗</a> **[SpaceNews]** The advent of astropolitical alliances
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T223115">2024-01-08 22:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T230122">2024-01-08 23:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
