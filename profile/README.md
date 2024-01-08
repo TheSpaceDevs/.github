@@ -95,11 +95,11 @@ The European Space Agency is contributing to the mission with a mirror module fo
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/astrobotic-says-there-has-been-an-anomaly-with-its-lunar-lander/" >🔗</a> **[Arstechnica]** Astrobotic says there has been an “anomaly“ with its lunar lander
+- <a href="https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/" >🔗</a> **[SpaceNews]** Peregrine lander suffers anomaly after launch
+- <a href="https://spacenews.com/advent-astropolitical-alliances/" >🔗</a> **[SpaceNews]** The advent of astropolitical alliances
 - <a href="https://www.cnbc.com/2024/01/08/ula-vulcan-rocket-launches-newest-spacex-challenger.html" >🔗</a> **[CNBC]** ULA’s Vulcan rocket launches as the newest challenger to SpaceX
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-wizard-nebula-captured-above-germany/" >🔗</a> **[Arstechnica]** Daily Telescope: The Wizard Nebula captured above Germany
-- <a href="https://spacepolicyonline.com/news/first-u-s-lunar-lander-in-more-than-50-years-on-its-way/" >🔗</a> **[SpacePolicyOnline.com]** First U.S. Lunar Lander in More than 50 Years On Its Way
-- <a href="https://spacenews.com/vulcan-centaur-launches-peregrine-lunar-lander-on-inaugural-mission/" >🔗</a> **[SpaceNews]** Vulcan Centaur launches Peregrine lunar lander on inaugural mission
-- <a href="https://europeanspaceflight.com/the-exploration-company-begin-cnes-backed-rocket-engine-development/" >🔗</a> **[European Spaceflight]** The Exploration Company Begins CNES Backed Rocket Engine Development
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T153108">2024-01-08 15:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T160223">2024-01-08 16:02:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
