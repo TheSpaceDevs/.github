@@ -95,7 +95,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2024/01/astrobotic-says-there-has-been-an-anomaly-with-its-lunar-lander/" >🔗</a> **[Arstechnica]** Astrobotic says there has been an “anomaly“ with its lunar lander
+- <a href="https://arstechnica.com/space/2024/01/astrobotic-says-there-has-been-an-anomaly-with-its-lunar-lander/" >🔗</a> **[Arstechnica]** Hours after its launch, a US lunar lander experiences an anomaly
 - <a href="https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/" >🔗</a> **[SpaceNews]** Peregrine lander suffers anomaly after launch
 - <a href="https://spacenews.com/advent-astropolitical-alliances/" >🔗</a> **[SpaceNews]** The advent of astropolitical alliances
 - <a href="https://www.cnbc.com/2024/01/08/ula-vulcan-rocket-launches-newest-spacex-challenger.html" >🔗</a> **[CNBC]** ULA’s Vulcan rocket launches as the newest challenger to SpaceX
@@ -108,7 +108,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T160223">2024-01-08 16:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T163401">2024-01-08 16:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
