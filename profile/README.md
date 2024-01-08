@@ -58,8 +58,8 @@ The European Space Agency is contributing to the mission with a mirror module fo
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240114T004500">2024-01-14 00:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-37&location=Cape Canaveral, FL, USA&dates=20240114T004500Z%2F20240114T004500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-37** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240115T130000">2024-01-15 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou 7&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20240115T130000Z%2F20240115T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7  | Tianzhou 7** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T221100">2024-01-17 22:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 3&location=Kennedy Space Center, FL, USA&dates=20240117T221100Z%2F20240117T221100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 3** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T061500">2024-01-18 06:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Four Of A Kind (NorthStar 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240118T061500Z%2F20240118T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Four Of A Kind (NorthStar 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T000000">2024-01-26 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 06&location=Air launch to Suborbital flight&dates=20240126T000000Z%2F20240126T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 06** from Air launch to Suborbital flight.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T113000">2024-01-26 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | INSAT-3DS&location=Satish Dhawan Space Centre, India&dates=20240126T113000Z%2F20240126T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | INSAT-3DS** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -95,11 +95,11 @@ The European Space Agency is contributing to the mission with a mirror module fo
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-army-issues-new-guidance-on-the-use-of-space-for-ground-warfare/" >🔗</a> **[SpaceNews]** U.S. Army issues new guidance on the use of space for ground warfare
 - <a href="https://arstechnica.com/space/2024/01/astrobotic-says-there-has-been-an-anomaly-with-its-lunar-lander/" >🔗</a> **[Arstechnica]** The situation with Astrobotic’s lunar lander appears to be quite dire
 - <a href="https://www.spacescout.info/2024/01/vulcan-debuts-peregrine-in-jeopardy/" >🔗</a> **[Space Scout]** Vulcan Completes Successful Debut, Peregrine in Jeopardy
 - <a href="https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/" >🔗</a> **[SpaceNews]** Peregrine lander suffers anomaly after launch
 - <a href="https://spacenews.com/advent-astropolitical-alliances/" >🔗</a> **[SpaceNews]** The advent of astropolitical alliances
-- <a href="https://www.cnbc.com/2024/01/08/ula-vulcan-rocket-launches-newest-spacex-challenger.html" >🔗</a> **[CNBC]** ULA’s Vulcan rocket launches as the newest challenger to SpaceX
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ The European Space Agency is contributing to the mission with a mirror module fo
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T213055">2024-01-08 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240108T220119">2024-01-08 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
