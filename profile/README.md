@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-inks-deal-with-microsoft-for-mixed-reality-training/" >🔗</a> **[SpaceNews]** Space Force inks deal with Microsoft for mixed reality training 
 - <a href="https://www.cnbc.com/2024/01/09/astrobotics-peregrine-moon-mission-for-nasa-falls-short.html" >🔗</a> **[CNBC]** U.S. lunar company’s inaugural mission falls short of moon landing after spacecraft malfunction
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-milky-way-above-one-of-my-favorite-places-on-earth/" >🔗</a> **[Arstechnica]** Daily Telescope: The Milky Way above one of my favorite places on Earth
 - <a href="https://spacenews.com/muon-space-tapped-by-air-force-for-cloud-characterization-from-space/" >🔗</a> **[SpaceNews]** Muon Space tapped by Air Force for cloud characterization from space
 - <a href="https://spacenews.com/china-launches-lobster-eye-einstein-probe-to-unveil-mysteries-of-x-ray-universe/" >🔗</a> **[SpaceNews]** China launches “lobster eye” Einstein Probe to unveil mysteries of X-ray universe
-- <a href="https://spacenews.com/space-development-agency-confirms-rocket-lab-will-produce-18-satellites-for-u-s-military-network/" >🔗</a> **[SpaceNews]** Space Development Agency confirms Rocket Lab will produce 18 satellites for U.S. military network
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T183056">2024-01-09 18:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T190115">2024-01-09 19:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
