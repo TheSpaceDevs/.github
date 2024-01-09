@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-delays-next-artemis-missions-to-2025-and-2026/" >🔗</a> **[SpacePolicyOnline.com]** NASA Delays Next Artemis Missions to 2025 and 2026
 - <a href="https://www.nasaspaceflight.com/2024/01/1824-launch-roundup/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Axiom-3 crew and Tianzhou 7 cargo space station missions this week
 - <a href="https://arstechnica.com/space/2024/01/citing-crew-safety-nasa-delays-upcoming-artemis-missions-by-about-a-year/" >🔗</a> **[Arstechnica]** Citing “crew safety,” NASA delays upcoming Artemis missions by about a year
 - <a href="https://www.cnbc.com/2024/01/09/nasa-delays-crewed-artemis-moon-missions.html" >🔗</a> **[CNBC]** NASA delays crewed Artemis moon missions into 2025 as companies navigate challenges
 - <a href="https://spacenews.com/space-force-inks-deal-with-microsoft-for-mixed-reality-training/" >🔗</a> **[SpaceNews]** Space Force inks deal with Microsoft for mixed reality training 
-- <a href="https://www.cnbc.com/2024/01/09/astrobotics-peregrine-moon-mission-for-nasa-falls-short.html" >🔗</a> **[CNBC]** U.S. lunar company’s inaugural mission falls short of moon landing after spacecraft malfunction
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T223111">2024-01-09 22:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T230120">2024-01-09 23:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
