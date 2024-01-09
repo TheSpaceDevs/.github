@@ -89,11 +89,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/citing-crew-safety-nasa-delays-upcoming-artemis-missions-by-about-a-year/" >🔗</a> **[Arstechnica]** Citing “crew safety,” NASA delays upcoming Artemis missions by about a year
 - <a href="https://www.cnbc.com/2024/01/09/nasa-delays-crewed-artemis-moon-missions.html" >🔗</a> **[CNBC]** NASA delays crewed Artemis moon missions into 2025 as companies navigate challenges
 - <a href="https://spacenews.com/space-force-inks-deal-with-microsoft-for-mixed-reality-training/" >🔗</a> **[SpaceNews]** Space Force inks deal with Microsoft for mixed reality training 
 - <a href="https://www.cnbc.com/2024/01/09/astrobotics-peregrine-moon-mission-for-nasa-falls-short.html" >🔗</a> **[CNBC]** U.S. lunar company’s inaugural mission falls short of moon landing after spacecraft malfunction
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-milky-way-above-one-of-my-favorite-places-on-earth/" >🔗</a> **[Arstechnica]** Daily Telescope: The Milky Way above one of my favorite places on Earth
-- <a href="https://spacenews.com/muon-space-tapped-by-air-force-for-cloud-characterization-from-space/" >🔗</a> **[SpaceNews]** Muon Space tapped by Air Force for cloud characterization from space
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T203101">2024-01-09 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240109T210131">2024-01-09 21:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
