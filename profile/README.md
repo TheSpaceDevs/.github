@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-pivots-to-standardized-direct-to-device-satellite-services/" >🔗</a> **[SpaceNews]** Iridium pivots to standardized direct-to-device satellite services
 - <a href="https://spacenews.com/chinas-change-6-probe-arrives-at-spaceport-for-first-ever-lunar-far-side-sample-mission/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 probe arrives at spaceport for first-ever lunar far side sample mission
 - <a href="https://europeanspaceflight.com/arianegroup-to-increase-maiaspace-investment-to-e125m/" >🔗</a> **[European Spaceflight]** ArianeGroup to Increase MaiaSpace Investment to €125M
 - <a href="https://spacenews.com/nasa-and-jaxa-troubleshooting-glitch-with-new-x-ray-astronomy-satellite/" >🔗</a> **[SpaceNews]** NASA and JAXA troubleshooting glitch with new X-ray astronomy satellite
 - <a href="https://spacenews.com/nasa-delays-artemis-2-and-3-missions/" >🔗</a> **[SpaceNews]** NASA delays Artemis 2 and 3 missions
-- <a href="https://spacepolicyonline.com/news/nasa-delays-next-artemis-missions-to-2025-and-2026/" >🔗</a> **[SpacePolicyOnline.com]** NASA Delays Next Artemis Missions to 2025 and 2026
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T120148">2024-01-10 12:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T123906">2024-01-10 12:39:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
