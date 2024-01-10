@@ -89,11 +89,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-to-increase-maiaspace-investment-to-e125m/" >🔗</a> **[European Spaceflight]** ArianeGroup to Increase MaiaSpace Investment to €125M
 - <a href="https://spacenews.com/nasa-and-jaxa-troubleshooting-glitch-with-new-x-ray-astronomy-satellite/" >🔗</a> **[SpaceNews]** NASA and JAXA troubleshooting glitch with new X-ray astronomy satellite
 - <a href="https://spacenews.com/nasa-delays-artemis-2-and-3-missions/" >🔗</a> **[SpaceNews]** NASA delays Artemis 2 and 3 missions
 - <a href="https://spacepolicyonline.com/news/nasa-delays-next-artemis-missions-to-2025-and-2026/" >🔗</a> **[SpacePolicyOnline.com]** NASA Delays Next Artemis Missions to 2025 and 2026
 - <a href="https://www.nasaspaceflight.com/2024/01/1824-launch-roundup/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Axiom-3 crew and Tianzhou 7 cargo space station missions this week
-- <a href="https://arstechnica.com/space/2024/01/citing-crew-safety-nasa-delays-upcoming-artemis-missions-by-about-a-year/" >🔗</a> **[Arstechnica]** Citing “crew safety,” NASA delays upcoming Artemis missions by about a year
 
 
 ### Launch-related News 🚀
@@ -102,7 +102,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T073116">2024-01-10 07:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240110T080125">2024-01-10 08:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
