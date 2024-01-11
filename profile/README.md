@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japanese-mars-mission-launch-delayed-to-2026/" >🔗</a> **[SpaceNews]** Japanese Mars mission launch delayed to 2026
 - <a href="https://spacepolicyonline.com/news/whiting-takes-command-of-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** Whiting Takes Command of U.S. Space Command
 - <a href="https://www.cnbc.com/2024/01/10/spacex-t-mobile-send-first-texts-via-starlink-satellites.html" >🔗</a> **[CNBC]** SpaceX and T-Mobile send first texts via Starlink satellites
 - <a href="https://spacenews.com/ovzon-3-successfully-deploys-solar-arrays-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Ovzon 3 successfully deploys solar arrays in geostationary orbit
 - <a href="https://spacenews.com/whiting-takes-helm-of-u-s-space-command/" >🔗</a> **[SpaceNews]** Whiting takes helm of U.S. Space Command
-- <a href="https://arstechnica.com/space/2024/01/after-its-impressive-first-flight-heres-whats-next-for-the-vulcan-rocket/" >🔗</a> **[Arstechnica]** After its impressive first flight, here’s what’s next for the Vulcan rocket
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T090116">2024-01-11 09:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T093105">2024-01-11 09:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
