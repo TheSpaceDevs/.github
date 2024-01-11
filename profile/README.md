@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nga-to-tap-commercial-satellite-data-under-luno-program/" >🔗</a> **[SpaceNews]** NGA to tap commercial satellite data under ‘Luno’ program
 - <a href="https://spacenews.com/space-force-to-award-multiple-contracts-for-digital-spaceport-up-to-1-9-million-each/" >🔗</a> **[SpaceNews]** Space Force to award multiple contracts for ‘Digital Spaceport’ up to $1.9 million each
 - <a href="https://www.cnbc.com/2024/01/11/investing-in-space-news-and-progress-expected-in-2024.html" >🔗</a> **[CNBC]** Investing in Space: Where to look for progress in the sector this year
 - <a href="https://spacenews.com/astrobotic-gets-payloads-working-on-ailing-peregrine-lander/" >🔗</a> **[SpaceNews]** Astrobotic gets payloads working on ailing Peregrine lander
 - <a href="https://europeanspaceflight.com/esa-targets-15-november-for-vega-c-return-to-flight-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 15 November for Vega C Return to Flight Mission
-- <a href="https://spacenews.com/d-orbit-raises-110-million-to-expand-space-logistics-services/" >🔗</a> **[SpaceNews]** D-Orbit raises $110 million to expand space logistics services
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T213057">2024-01-11 21:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T220127">2024-01-11 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
