@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/d-orbit-raises-110-million-to-expand-space-logistics-services/" >🔗</a> **[SpaceNews]** D-Orbit raises $110 million to expand space logistics services
+- <a href="https://spacenews.com/orienspace-breaks-chinese-commercial-launch-records-with-gravity-1-solid-rocket/" >🔗</a> **[SpaceNews]** Orienspace breaks Chinese commercial launch records with Gravity-1 solid rocket
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-monster-protostar-in-a-distant-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: A monster protostar in a distant nebula
 - <a href="https://spacenews.com/japanese-mars-mission-launch-delayed-to-2026/" >🔗</a> **[SpaceNews]** Japanese Mars mission launch delayed to 2026
 - <a href="https://spacepolicyonline.com/news/whiting-takes-command-of-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** Whiting Takes Command of U.S. Space Command
-- <a href="https://www.cnbc.com/2024/01/10/spacex-t-mobile-send-first-texts-via-starlink-satellites.html" >🔗</a> **[CNBC]** SpaceX and T-Mobile send first texts via Starlink satellites
-- <a href="https://spacenews.com/ovzon-3-successfully-deploys-solar-arrays-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Ovzon 3 successfully deploys solar arrays in geostationary orbit
-- <a href="https://spacenews.com/whiting-takes-helm-of-u-s-space-command/" >🔗</a> **[SpaceNews]** Whiting takes helm of U.S. Space Command
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T130254">2024-01-11 13:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T133106">2024-01-11 13:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
