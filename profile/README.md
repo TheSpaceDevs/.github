@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-award-multiple-contracts-for-digital-spaceport-up-to-1-9-million-each/" >🔗</a> **[SpaceNews]** Space Force to award multiple contracts for ‘Digital Spaceport’ up to $1.9 million each
+- <a href="https://www.cnbc.com/2024/01/11/investing-in-space-news-and-progress-expected-in-2024.html" >🔗</a> **[CNBC]** Investing in Space: Where to look for progress in the sector this year
 - <a href="https://spacenews.com/astrobotic-gets-payloads-working-on-ailing-peregrine-lander/" >🔗</a> **[SpaceNews]** Astrobotic gets payloads working on ailing Peregrine lander
 - <a href="https://europeanspaceflight.com/esa-targets-15-november-for-vega-c-return-to-flight-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 15 November for Vega C Return to Flight Mission
 - <a href="https://spacenews.com/d-orbit-raises-110-million-to-expand-space-logistics-services/" >🔗</a> **[SpaceNews]** D-Orbit raises $110 million to expand space logistics services
-- <a href="https://spacenews.com/orienspace-breaks-chinese-commercial-launch-records-with-gravity-1-solid-rocket/" >🔗</a> **[SpaceNews]** Orienspace breaks Chinese commercial launch records with Gravity-1 solid rocket
-- <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-monster-protostar-in-a-distant-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: A monster protostar in a distant nebula
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T193100">2024-01-11 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240111T200117">2024-01-11 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
