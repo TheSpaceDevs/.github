@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spanish-startup-sateliot-seeks-funds-for-64-more-connectivity-satellites/" >🔗</a> **[SpaceNews]** Spanish startup Sateliot seeks funds for 64 more connectivity satellites
+- <a href="https://www.teslarati.com/nasa-elon-musk-spacex-no-violation-drug-use-policy/" >🔗</a> **[Teslarati]** NASA: Elon Musk’s SpaceX not in violation of drug use policy
 - <a href="https://spacenews.com/japan-launches-igs-optical-8-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** Japan launches IGS-Optical 8 reconnaissance satellite
 - <a href="https://spacenews.com/europe-considers-launching-copernicus-satellite-on-falcon-9/" >🔗</a> **[SpaceNews]** Europe considers launching Copernicus satellite on Falcon 9
 - <a href="https://spacenews.com/nga-to-tap-commercial-satellite-data-under-luno-program/" >🔗</a> **[SpaceNews]** NGA to tap commercial satellite data under ‘Luno’ program
-- <a href="https://www.nasaspaceflight.com/2024/01/hubble-wasp-121b/" >🔗</a> **[NASASpaceflight]** Using Hubble, scientists observe weather on exoplanet
-- <a href="https://spacenews.com/space-force-to-award-multiple-contracts-for-digital-spaceport-up-to-1-9-million-each/" >🔗</a> **[SpaceNews]** Space Force to award multiple contracts for ‘Digital Spaceport’ up to $1.9 million each
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T120134">2024-01-12 12:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T123845">2024-01-12 12:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
