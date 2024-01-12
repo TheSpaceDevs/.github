@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jupiter-3-enters-commercial-service/" >🔗</a> **[SpaceNews]** Jupiter-3 enters commercial service
 - <a href="https://spacepolicyonline.com/news/with-a-week-to-go-house-in-disarray-over-funding-as-partial-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** With a Week to Go, House in Disarray Over Funding as Partial Shutdown Looms
 - <a href="https://spacenews.com/momentus-low-on-cash-delays-next-mission/" >🔗</a> **[SpaceNews]** Momentus, low on cash, delays next mission
 - <a href="https://www.cnbc.com/2024/01/12/space-company-momentus-mnts-running-out-of-money.html" >🔗</a> **[CNBC]** Space company Momentus, once valued at more than $1 billion, is running dangerously low on money
 - <a href="https://arstechnica.com/space/2024/01/rocket-report-a-chinese-launch-you-must-see-vulcans-stunning-debut/" >🔗</a> **[Arstechnica]** Rocket Report: A Chinese launch you must see; Vulcan’s stunning debut
-- <a href="https://www.teslarati.com/nasa-elon-musk-spacex-no-violation-drug-use-policy/" >🔗</a> **[Teslarati]** NASA: No evidence Elon Musk’s SpaceX is not complying with drug and alcohol-free regulations
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T223053">2024-01-12 22:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T230109">2024-01-12 23:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
