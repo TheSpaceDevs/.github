@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europe-considers-launching-copernicus-satellite-on-falcon-9/" >🔗</a> **[SpaceNews]** Europe considers launching Copernicus satellite on Falcon 9
 - <a href="https://spacenews.com/nga-to-tap-commercial-satellite-data-under-luno-program/" >🔗</a> **[SpaceNews]** NGA to tap commercial satellite data under ‘Luno’ program
 - <a href="https://www.nasaspaceflight.com/2024/01/hubble-wasp-121b/" >🔗</a> **[NASASpaceflight]** Using Hubble, scientists observe weather on exoplanet
 - <a href="https://spacenews.com/space-force-to-award-multiple-contracts-for-digital-spaceport-up-to-1-9-million-each/" >🔗</a> **[SpaceNews]** Space Force to award multiple contracts for ‘Digital Spaceport’ up to $1.9 million each
 - <a href="https://www.cnbc.com/2024/01/11/investing-in-space-news-and-progress-expected-in-2024.html" >🔗</a> **[CNBC]** Investing in Space: Where to look for progress in the sector this year
-- <a href="https://spacenews.com/astrobotic-gets-payloads-working-on-ailing-peregrine-lander/" >🔗</a> **[SpaceNews]** Astrobotic gets payloads working on ailing Peregrine lander
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T093110">2024-01-12 09:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T100114">2024-01-12 10:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
