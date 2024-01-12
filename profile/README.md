@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/01/12/space-company-momentus-mnts-running-out-of-money.html" >🔗</a> **[CNBC]** Space company Momentus, once valued at more than $1 billion, is running dangerously low on money
 - <a href="https://arstechnica.com/space/2024/01/rocket-report-a-chinese-launch-you-must-see-vulcans-stunning-debut/" >🔗</a> **[Arstechnica]** Rocket Report: A Chinese launch you must see; Vulcan’s stunning debut
 - <a href="https://www.teslarati.com/nasa-elon-musk-spacex-no-violation-drug-use-policy/" >🔗</a> **[Teslarati]** NASA: No evidence Elon Musk’s SpaceX is not complying with drug and alcohol-free regulations
 - <a href="https://europeanspaceflight.com/italian-space-logistics-company-d-orbit-closes-e100m-funding-round/" >🔗</a> **[European Spaceflight]** Italian Space Logistics Company D-Orbit Closes €100M Funding Round
 - <a href="https://spacenews.com/spanish-startup-sateliot-seeks-funds-for-64-more-connectivity-satellites/" >🔗</a> **[SpaceNews]** Spanish startup Sateliot seeks funds for 64 more connectivity satellites
-- <a href="https://spacenews.com/japan-launches-igs-optical-8-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** Japan launches IGS-Optical 8 reconnaissance satellite
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T153106">2024-01-12 15:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240112T160144">2024-01-12 16:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
