@@ -94,8 +94,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/jupiter-3-enters-commercial-service/" >🔗</a> **[SpaceNews]** Jupiter-3 enters commercial service
 - <a href="https://spacepolicyonline.com/news/with-a-week-to-go-house-in-disarray-over-funding-as-partial-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** With a Week to Go, House in Disarray Over Funding as Partial Shutdown Looms
 - <a href="https://spacenews.com/momentus-low-on-cash-delays-next-mission/" >🔗</a> **[SpaceNews]** Momentus, low on cash, delays next mission
+- <a href="https://www.spacescout.info/2024/01/future-of-commercial-human-spaceflight/" >🔗</a> **[Space Scout]** Analysis: Earth to the Moon – The Future of Commercial Human Spaceflight
 - <a href="https://www.cnbc.com/2024/01/12/space-company-momentus-mnts-running-out-of-money.html" >🔗</a> **[CNBC]** Space company Momentus, once valued at more than $1 billion, is running dangerously low on money
-- <a href="https://arstechnica.com/space/2024/01/rocket-report-a-chinese-launch-you-must-see-vulcans-stunning-debut/" >🔗</a> **[Arstechnica]** Rocket Report: A Chinese launch you must see; Vulcan’s stunning debut
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240113T050112">2024-01-13 05:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240113T053103">2024-01-13 05:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
