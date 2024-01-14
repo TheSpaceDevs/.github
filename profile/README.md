@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 14-20, 2024
 - <a href="https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/" >🔗</a> **[SpaceNews]** Peregrine lunar lander on Earth reentry trajectory
 - <a href="https://spacenews.com/spacex-says-propellant-venting-caused-loss-of-second-starship/" >🔗</a> **[SpaceNews]** SpaceX says propellant venting caused loss of second Starship
 - <a href="https://spacenews.com/virtual-event-not-invisible-anymorehow-satellites-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** Virtual Event – Not Invisible Anymore: How satellites monitor atmospheric methane
 - <a href="https://europeanspaceflight.com/uk-based-blue-abyss-to-build-astronaut-training-facility-in-ohio/" >🔗</a> **[European Spaceflight]** UK-Based Blue Abyss to Build Astronaut Training Facility in Ohio
-- <a href="https://spacenews.com/jupiter-3-enters-commercial-service/" >🔗</a> **[SpaceNews]** Jupiter-3 enters commercial service
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240114T193056">2024-01-14 19:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240114T200116">2024-01-14 20:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
