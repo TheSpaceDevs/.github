@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-says-propellant-venting-caused-loss-of-second-starship/" >🔗</a> **[SpaceNews]** SpaceX says propellant venting caused loss of second Starship
 - <a href="https://spacenews.com/virtual-event-not-invisible-anymorehow-satellites-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** Virtual Event – Not Invisible Anymore: How satellites monitor atmospheric methane
 - <a href="https://europeanspaceflight.com/uk-based-blue-abyss-to-build-astronaut-training-facility-in-ohio/" >🔗</a> **[European Spaceflight]** UK-Based Blue Abyss to Build Astronaut Training Facility in Ohio
 - <a href="https://spacenews.com/jupiter-3-enters-commercial-service/" >🔗</a> **[SpaceNews]** Jupiter-3 enters commercial service
 - <a href="https://spacepolicyonline.com/news/with-a-week-to-go-house-in-disarray-over-funding-as-partial-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** With a Week to Go, House in Disarray Over Funding as Partial Shutdown Looms
-- <a href="https://spacenews.com/momentus-low-on-cash-delays-next-mission/" >🔗</a> **[SpaceNews]** Momentus, low on cash, delays next mission
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240114T023733">2024-01-14 02:37:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240114T030139">2024-01-14 03:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
