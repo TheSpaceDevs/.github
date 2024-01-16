@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/01/axiom-3-prepares-for-launch/" >🔗</a> **[Space Scout]** All European Axiom Mission 3 Prepares for Launch
 - <a href="https://spacenews.com/new-rocket-motor-for-u-s-air-force-icbm-completes-ground-test/" >🔗</a> **[SpaceNews]** New rocket motor for U.S. Air Force ICBM completes ground test 
 - <a href="https://www.cnbc.com/2024/01/16/space-capital-investment-report-2023-rebound-and-heavy-ma.html" >🔗</a> **[CNBC]** Space investment rebounded in 2023 with heavy sector M&A, report says
 - <a href="https://arstechnica.com/space/2024/01/no-the-james-webb-space-telescope-hasnt-found-life-out-there-at-least-not-yet/" >🔗</a> **[Arstechnica]** No, the James Webb Space Telescope hasn’t found life out there—at least not yet
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-cygnus-wall-lights-up-the-night-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: The Cygnus Wall lights up the night sky
-- <a href="https://spacenews.com/vulcan-launch-demonstrates-new-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Vulcan launch demonstrates new solid rocket boosters
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T180117">2024-01-16 18:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T183201">2024-01-16 18:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
