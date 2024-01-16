@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/new-orbex-ceo-says-larger-vehicle-on-the-table/" >🔗</a> **[European Spaceflight]** New Orbex CEO Says Larger Vehicle “On The Table”
 - <a href="https://spacenews.com/sda-to-acquire-satellites-with-custom-payloads-to-enable-faster-targeting-on-battlefields/" >🔗</a> **[SpaceNews]** SDA to acquire satellites with custom payloads to enable faster targeting on battlefields
 - <a href="https://www.nasaspaceflight.com/2024/01/webb-w1935/" >🔗</a> **[NASASpaceflight]** Webb discovers potential aurorae on brown dwarf
 - <a href="https://arstechnica.com/tech-policy/2024/01/meta-verification-proved-useless-and-my-family-is-still-locked-out-of-instagram/" >🔗</a> **[Arstechnica]** Meta verification proved useless—and my family is still locked out of Instagram
 - <a href="https://www.spacescout.info/2024/01/architecture-concept-review-2023/" >🔗</a> **[Space Scout]** What To Expect: NASA’s Architecture Concept Review 2023
-- <a href="https://arstechnica.com/space/2024/01/daily-telescope-life-on-earth-and-maybe-in-the-heavens-above-in-a-single-photo/" >🔗</a> **[Arstechnica]** Daily Telescope: Life on Earth, and maybe in the heavens above, in a single photo
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T073116">2024-01-16 07:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T080131">2024-01-16 08:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
