@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-cygnus-wall-lights-up-the-night-sky/" >🔗</a> **[Arstechnica]** Daily Telescope: The Cygnus Wall lights up the night sky
+- <a href="https://spacenews.com/vulcan-launch-demonstrates-new-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Vulcan launch demonstrates new solid rocket boosters
+- <a href="https://europeanspaceflight.com/european-martian-moon-rover-on-its-way-to-japan/" >🔗</a> **[European Spaceflight]** European Martian Moon Rover on Its Way to Japan
 - <a href="https://spacenews.com/airbus-and-voyager-finalize-starlab-joint-venture/" >🔗</a> **[SpaceNews]** Airbus and Voyager finalize Starlab joint venture
 - <a href="https://europeanspaceflight.com/new-orbex-ceo-says-larger-vehicle-on-the-table/" >🔗</a> **[European Spaceflight]** New Orbex CEO Says Larger Vehicle “On The Table”
-- <a href="https://spacenews.com/sda-to-acquire-satellites-with-custom-payloads-to-enable-faster-targeting-on-battlefields/" >🔗</a> **[SpaceNews]** SDA to acquire satellites with custom payloads to enable faster targeting on battlefields
-- <a href="https://www.nasaspaceflight.com/2024/01/webb-w1935/" >🔗</a> **[NASASpaceflight]** Webb discovers potential aurorae on brown dwarf
-- <a href="https://arstechnica.com/tech-policy/2024/01/meta-verification-proved-useless-and-my-family-is-still-locked-out-of-instagram/" >🔗</a> **[Arstechnica]** Meta verification proved useless—and my family is still locked out of Instagram
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T130242">2024-01-16 13:02:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T133100">2024-01-16 13:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
