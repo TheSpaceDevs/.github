@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spain-to-provide-satcen-access-to-national-earth-observation-data/" >🔗</a> **[European Spaceflight]** Spain to Provide SatCen Access to National Earth Observation Data
 - <a href="https://spacepolicyonline.com/news/musk-explains-starship-failure-forecasts-humans-on-mars-in-eight-years/" >🔗</a> **[SpacePolicyOnline.com]** Musk Explains Starship Failure, Forecasts Humans on Mars in Eight Years
 - <a href="https://spacenews.com/spacex-testing-ruggedized-terminals-for-self-driving-tractors/" >🔗</a> **[SpaceNews]** SpaceX testing ruggedized terminals for self-driving tractors
 - <a href="https://spacepolicyonline.com/news/nasa-names-vogel-new-head-of-space-technology/" >🔗</a> **[SpacePolicyOnline.com]** NASA Names Vogel New Head of Space Technology
 - <a href="https://www.cnbc.com/2024/01/16/pentagon-awards-satellite-contracts-to-l3harris-lockheed-sierra-space.html" >🔗</a> **[CNBC]** Pentagon awards $2.5 billion in satellite contracts to L3Harris, Lockheed Martin and Sierra Space
-- <a href="https://spacenews.com/space-development-agency-awards-contracts-worth-2-5-billion-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards contracts worth $2.5 billion for missile-tracking satellites
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T090128">2024-01-17 09:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T093102">2024-01-17 09:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
