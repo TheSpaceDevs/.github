@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T141700">2024-01-17 14:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou 7&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20240117T141700Z%2F20240117T143400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7  | Tianzhou 7** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T221125">2024-01-17 22:11:25 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 3&location=Kennedy Space Center, FL, USA&dates=20240117T221125Z%2F20240117T221125Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 3** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T040000">2024-01-19 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-11&location=Vandenberg SFB, CA, USA&dates=20240119T040000Z%2F20240119T065000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-11** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T000000">2024-01-26 00:00:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 06&location=Air launch to Suborbital flight&dates=20240126T000000Z%2F20240126T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 06** from Air launch to Suborbital flight.
@@ -91,11 +90,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/meet-helios-a-new-class-of-space-tug-with-some-real-muscle/" >🔗</a> **[Arstechnica]** Meet Helios, a new class of space tug with some real muscle
+- <a href="https://www.nasaspaceflight.com/2024/01/axiom-3-multinational-crew/" >🔗</a> **[NASASpaceflight]** Axiom-3 ready to send a multinational crew to ISS
+- <a href="https://spacenews.com/japans-slim-spacecraft-lowers-orbit-ahead-of-friday-moon-landing-attempt/" >🔗</a> **[SpaceNews]** Japan’s SLIM spacecraft lowers orbit ahead of Friday moon landing attempt
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-supernova-remnant-that-resembles-a-jellyfish/" >🔗</a> **[Arstechnica]** Daily Telescope: A beautiful supernova remnant from an uncertain age
 - <a href="https://spacenews.com/third-axiom-space-private-astronaut-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Third Axiom Space private astronaut mission ready for launch
-- <a href="https://europeanspaceflight.com/spain-to-provide-satcen-access-to-national-earth-observation-data/" >🔗</a> **[European Spaceflight]** Spain to Provide SatCen Access to National Earth Observation Data
-- <a href="https://spacepolicyonline.com/news/musk-explains-starship-failure-forecasts-humans-on-mars-in-eight-years/" >🔗</a> **[SpacePolicyOnline.com]** Musk Explains Starship Failure, Forecasts Humans on Mars in Eight Years
-- <a href="https://spacenews.com/spacex-testing-ruggedized-terminals-for-self-driving-tractors/" >🔗</a> **[SpaceNews]** SpaceX testing ruggedized terminals for self-driving tractors
 
 
 ### Launch-related News 🚀
@@ -105,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T140132">2024-01-17 14:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T143112">2024-01-17 14:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
