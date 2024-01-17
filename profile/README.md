@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-reveals-concept-of-operations-for-its-in-orbit-refueling-vehicle/" >🔗</a> **[SpaceNews]** Astroscale reveals concept of operations for its in-orbit refueling vehicle
 - <a href="https://spacenews.com/access-space-line-us-eating-seed-corn/" >🔗</a> **[SpaceNews]** With access to space on the line, the U.S. is eating its seed corn
 - <a href="https://spacenews.com/impulse-space-announces-plan-to-develop-high-energy-kick-stage/" >🔗</a> **[SpaceNews]** Impulse Space announces plan to develop high-energy kick stage
 - <a href="https://spacenews.com/new-report-calls-for-dod-investments-in-lunar-space-infrastructure/" >🔗</a> **[SpaceNews]** New report calls for DoD investments in lunar space infrastructure
 - <a href="https://arstechnica.com/space/2024/01/meet-helios-a-new-class-of-space-tug-with-some-real-muscle/" >🔗</a> **[Arstechnica]** Meet Helios, a new class of space tug with some real muscle
-- <a href="https://www.nasaspaceflight.com/2024/01/axiom-3-multinational-crew/" >🔗</a> **[NASASpaceflight]** Axiom-3 ready to send a multinational crew to ISS
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T160125">2024-01-17 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T163425">2024-01-17 16:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
