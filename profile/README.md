@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-a-supernova-remnant-that-resembles-a-jellyfish/" >🔗</a> **[Arstechnica]** Daily Telescope: A beautiful supernova remnant from an uncertain age
 - <a href="https://spacenews.com/third-axiom-space-private-astronaut-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Third Axiom Space private astronaut mission ready for launch
 - <a href="https://europeanspaceflight.com/spain-to-provide-satcen-access-to-national-earth-observation-data/" >🔗</a> **[European Spaceflight]** Spain to Provide SatCen Access to National Earth Observation Data
 - <a href="https://spacepolicyonline.com/news/musk-explains-starship-failure-forecasts-humans-on-mars-in-eight-years/" >🔗</a> **[SpacePolicyOnline.com]** Musk Explains Starship Failure, Forecasts Humans on Mars in Eight Years
 - <a href="https://spacenews.com/spacex-testing-ruggedized-terminals-for-self-driving-tractors/" >🔗</a> **[SpaceNews]** SpaceX testing ruggedized terminals for self-driving tractors
-- <a href="https://spacepolicyonline.com/news/nasa-names-vogel-new-head-of-space-technology/" >🔗</a> **[SpacePolicyOnline.com]** NASA Names Vogel New Head of Space Technology
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T130301">2024-01-17 13:03:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T133144">2024-01-17 13:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
