@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-testing-ruggedized-terminals-for-self-driving-tractors/" >🔗</a> **[SpaceNews]** SpaceX testing ruggedized terminals for self-driving tractors
 - <a href="https://spacepolicyonline.com/news/nasa-names-vogel-new-head-of-space-technology/" >🔗</a> **[SpacePolicyOnline.com]** NASA Names Vogel New Head of Space Technology
 - <a href="https://www.cnbc.com/2024/01/16/pentagon-awards-satellite-contracts-to-l3harris-lockheed-sierra-space.html" >🔗</a> **[CNBC]** Pentagon awards $2.5 billion in satellite contracts to L3Harris, Lockheed Martin and Sierra Space
 - <a href="https://spacenews.com/space-development-agency-awards-contracts-worth-2-5-billion-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards contracts worth $2.5 billion for missile-tracking satellites
 - <a href="https://arstechnica.com/tech-policy/2024/01/meta-verification-proved-useless-and-my-family-is-still-locked-out-of-instagram/" >🔗</a> **[Arstechnica]** Meta fixed my family member’s Instagram issue, says it addressed “system error”
-- <a href="https://www.spacescout.info/2024/01/axiom-3-prepares-for-launch/" >🔗</a> **[Space Scout]** All European Axiom Mission 3 Prepares for Launch
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240116T233100">2024-01-16 23:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240117T000341">2024-01-17 00:03:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
