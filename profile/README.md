@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/01/18/investing-in-space-pentagons-sda-satellite-awards-near-10-billion.html" >🔗</a> **[CNBC]** Investing in Space: Pentagon’s satellite constellation awards near $10 billion
+- <a href="https://spacepolicyonline.com/news/astrobotics-peregrine-soon-to-meet-its-end/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic’s Peregrine Soon to Meet Its End
+- <a href="https://www.spacescout.info/2024/01/uranus-aerocapture-new-solutions-for-old-problems/" >🔗</a> **[Space Scout]** Uranus Aerocapture: New Solutions for Old Problems
 - <a href="https://arstechnica.com/space/2024/01/former-nasa-administrator-hates-artemis-wants-to-party-like-its-2008/" >🔗</a> **[Arstechnica]** Former NASA administrator hates Artemis, wants to party like it’s 2008
 - <a href="https://europeanspaceflight.com/clearspace-debris-removal-mission-passes-key-milestones/" >🔗</a> **[European Spaceflight]** ClearSpace Debris Removal Mission Passes Key Milestones
-- <a href="https://spacenews.com/tianzhou-7-reaches-tiangong-in-chinas-first-space-station-mission-of-2024/" >🔗</a> **[SpaceNews]** Tianzhou-7 reaches Tiangong in China’s first space station mission of 2024
-- <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-space-station-soars-above-a-canal-in-eastern-france/" >🔗</a> **[Arstechnica]** Daily Telescope: In which the space station proves it truly is international
-- <a href="https://spacenews.com/viasat-showcases-navigation-capability-the-uk-lost-after-brexit/" >🔗</a> **[SpaceNews]** Viasat showcases navigation capability the UK lost after Brexit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T190112">2024-01-18 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T193117">2024-01-18 19:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
