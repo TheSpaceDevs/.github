@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astrobotic-confirms-peregrine-reentry-plans/" >🔗</a> **[SpaceNews]** Astrobotic confirms Peregrine reentry plans
 - <a href="https://spacepolicyonline.com/news/artemis-gets-strong-support-from-house-committee-members-but-not-mike-griffin/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Gets Strong Support from House Committee Members, But Not Mike Griffin
 - <a href="https://spacenews.com/dod-seeks-less-space-classification-more-collaboration-with-allies-and-commercial-partners/" >🔗</a> **[SpaceNews]** DoD seeks less space classification, more collaboration with allies and commercial partners
 - <a href="https://spacenews.com/house-committee-backs-artemis-despite-latest-delay/" >🔗</a> **[SpaceNews]** House committee backs Artemis despite latest delay
 - <a href="https://mars.nasa.gov/news/9535/" >🔗</a> **[NASA]** 20 Years After Landing: How NASA's Twin Rovers Changed Mars Science
-- <a href="https://spacenews.com/astroscale-reveals-concept-of-operations-for-its-in-orbit-refueling-vehicle/" >🔗</a> **[SpaceNews]** Astroscale reveals concept of operations for its in-orbit refueling vehicle
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T023559">2024-01-18 02:35:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T030129">2024-01-18 03:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
