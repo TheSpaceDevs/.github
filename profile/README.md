@@ -112,13 +112,13 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/01/1824-launch-roundup/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Axiom-3 crew and Tianzhou 7 cargo space station missions this week
 - <a href="https://www.spacescout.info/2024/01/axiom-3-prepares-for-launch/" >🔗</a> **[Space Scout]** All European Axiom Mission 3 Prepares for Launch
 - <a href="https://spacenews.com/third-axiom-space-private-astronaut-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Third Axiom Space private astronaut mission ready for launch
-- <a href="https://www.nasaspaceflight.com/2024/01/axiom-3-multinational-crew/" >🔗</a> **[NASASpaceflight]** Axiom-3 launch of multinational crew to ISS delayed
+- <a href="https://www.nasaspaceflight.com/2024/01/axiom-3-multinational-crew/" >🔗</a> **[NASASpaceflight]** Axiom-3 launch of multinational crew to ISS realigned to Thursday
 - <a href="https://europeanspaceflight.com/italian-startup-to-test-muscle-monitoring-suit-aboard-ax-3-spaceflight/" >🔗</a> **[European Spaceflight]** Italian Startup to Test Muscle Monitoring Suit Aboard AX-3 Spaceflight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T160138">2024-01-18 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T163412">2024-01-18 16:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
