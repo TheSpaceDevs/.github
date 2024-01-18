@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/clearspace-debris-removal-mission-passes-key-milestones/" >🔗</a> **[European Spaceflight]** ClearSpace Debris Removal Mission Passes Key Milestones
+- <a href="https://spacenews.com/tianzhou-7-reaches-tiangong-in-chinas-first-space-station-mission-of-2024/" >🔗</a> **[SpaceNews]** Tianzhou-7 reaches Tiangong in China’s first space station mission of 2024
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-the-space-station-soars-above-a-canal-in-eastern-france/" >🔗</a> **[Arstechnica]** Daily Telescope: In which the space station proves it truly is international
 - <a href="https://spacenews.com/viasat-showcases-navigation-capability-the-uk-lost-after-brexit/" >🔗</a> **[SpaceNews]** Viasat showcases navigation capability the UK lost after Brexit
 - <a href="https://europeanspaceflight.com/italian-startup-to-test-muscle-monitoring-suit-aboard-ax-3-spaceflight/" >🔗</a> **[European Spaceflight]** Italian Startup to Test Muscle Monitoring Suit Aboard AX-3 Spaceflight
-- <a href="https://spacenews.com/astrobotic-confirms-peregrine-reentry-plans/" >🔗</a> **[SpaceNews]** Astrobotic confirms Peregrine reentry plans
-- <a href="https://spacepolicyonline.com/news/artemis-gets-strong-support-from-house-committee-members-but-not-mike-griffin/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Gets Strong Support from House Committee Members, But Not Mike Griffin
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T133106">2024-01-18 13:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T140129">2024-01-18 14:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
