@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/" >🔗</a> **[SpaceNews]** Japan makes history with tense, successful moon landing
+- <a href="https://spacenews.com/nasa-report-offers-pessimistic-take-on-space-based-solar-power/" >🔗</a> **[SpaceNews]** NASA report offers pessimistic take on space-based solar power
 - <a href="https://spacenews.com/nasa-study-clean-space-based-solar-power-beaming-possible/" >🔗</a> **[SpaceNews]** NASA study: clean, space-based solar power beaming is possible
-- <a href="https://www.cnbc.com/2024/01/19/japan-slim-lunar-lander-touches-down-on-moon.html" >🔗</a> **[CNBC]** Japan’s SLIM spacecraft reaches lunar surface in historic moon mission
+- <a href="https://www.cnbc.com/2024/01/19/japan-slim-lunar-lander-touches-down-on-moon.html" >🔗</a> **[CNBC]** Japan announces successful SLIM lunar landing, fifth country to reach moon’s surface
 - <a href="https://spacenews.com/chinas-landspace-conducts-first-vtvl-test-for-reusable-stainless-steel-rocket/" >🔗</a> **[SpaceNews]** China’s Landspace conducts first VTVL test for reusable stainless steel rocket
-- <a href="https://europeanspaceflight.com/axiom-mission-carrying-first-esa-project-astronaut-launched/" >🔗</a> **[European Spaceflight]** Axiom Mission Carrying First ESA Project Astronaut Launched
-- <a href="https://spacepolicyonline.com/news/axioms-third-private-astronaut-flight-up-and-away/" >🔗</a> **[SpacePolicyOnline.com]** Axiom’s Third Private Astronaut Flight Up and Away
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T170122">2024-01-19 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T173128">2024-01-19 17:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
