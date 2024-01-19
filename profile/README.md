@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/axioms-third-private-astronaut-flight-up-and-away/" >🔗</a> **[SpacePolicyOnline.com]** Axiom’s Third Private Astronaut Flight Up and Away
 - <a href="https://spacenews.com/space-investors-banking-on-funding-uptick-in-2024/" >🔗</a> **[SpaceNews]** Space investors banking on funding uptick in 2024
 - <a href="https://spacepolicyonline.com/news/shutdown-averted-for-a-few-more-weeks/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Averted for A Few More Weeks
 - <a href="https://spacenews.com/spacex-launches-third-axiom-mission-to-iss/" >🔗</a> **[SpaceNews]** SpaceX launches third Axiom mission to ISS
 - <a href="https://spacenews.com/scout-space-names-new-chief-executive-officer/" >🔗</a> **[SpaceNews]** Scout Space names new chief executive officer
-- <a href="https://www.cnbc.com/2024/01/18/investing-in-space-pentagons-sda-satellite-awards-near-10-billion.html" >🔗</a> **[CNBC]** Investing in Space: Pentagon’s satellite constellation awards near $10 billion
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T033057">2024-01-19 03:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T040129">2024-01-19 04:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
