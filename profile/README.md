@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/nasa-sls-eus-qualification-phase/" >🔗</a> **[NASASpaceflight]** NASA SLS Exploration Upper Stage moving into qualification phase of development
 - <a href="https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/" >🔗</a> **[SpaceNews]** Japan makes history with tense, successful moon landing
 - <a href="https://spacenews.com/nasa-report-offers-pessimistic-take-on-space-based-solar-power/" >🔗</a> **[SpaceNews]** NASA report offers pessimistic take on space-based solar power
 - <a href="https://spacenews.com/nasa-study-clean-space-based-solar-power-beaming-possible/" >🔗</a> **[SpaceNews]** NASA study: clean, space-based solar power beaming is possible
 - <a href="https://www.spacescout.info/2024/01/axiom-mission-3-takes-flight/" >🔗</a> **[Space Scout]** Axiom Mission 3 Takes Flight
-- <a href="https://www.cnbc.com/2024/01/19/japan-slim-lunar-lander-touches-down-on-moon.html" >🔗</a> **[CNBC]** Japan announces successful SLIM lunar landing, fifth country to reach moon’s surface
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T190107">2024-01-19 19:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T193057">2024-01-19 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
