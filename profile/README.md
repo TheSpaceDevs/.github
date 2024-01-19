@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/shutdown-averted-for-a-few-more-weeks/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Averted for A Few More Weeks
+- <a href="https://spacenews.com/spacex-launches-third-axiom-mission-to-iss/" >🔗</a> **[SpaceNews]** SpaceX launches third Axiom mission to ISS
 - <a href="https://spacenews.com/scout-space-names-new-chief-executive-officer/" >🔗</a> **[SpaceNews]** Scout Space names new chief executive officer
 - <a href="https://www.cnbc.com/2024/01/18/investing-in-space-pentagons-sda-satellite-awards-near-10-billion.html" >🔗</a> **[CNBC]** Investing in Space: Pentagon’s satellite constellation awards near $10 billion
 - <a href="https://spacepolicyonline.com/news/astrobotics-peregrine-soon-to-meet-its-end/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic’s Peregrine Soon to Meet Its End
-- <a href="https://www.spacescout.info/2024/01/uranus-aerocapture-new-solutions-for-old-problems/" >🔗</a> **[Space Scout]** Uranus Aerocapture: New Solutions for Old Problems
-- <a href="https://arstechnica.com/space/2024/01/former-nasa-administrator-hates-artemis-wants-to-party-like-its-2008/" >🔗</a> **[Arstechnica]** Former NASA administrator hates Artemis, wants to party like it’s 2008
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240118T233104">2024-01-18 23:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T000324">2024-01-19 00:03:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
