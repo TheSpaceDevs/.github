@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/guetlein-calls-for-a-change-in-culture-in-responsive-space/" >🔗</a> **[SpaceNews]** Guetlein calls for a change in culture in ‘responsive space’
 - <a href="https://www.spacescout.info/2024/01/re-entry-seals-peregrines-fate/" >🔗</a> **[Space Scout]** Re-Entry Seals Peregrine’s Fate
 - <a href="https://europeanspaceflight.com/arianegroup-prepare-to-ship-ariane-6-flight-hardware-to-kourou/" >🔗</a> **[European Spaceflight]** ArianeGroup Prepare to Ship Ariane 6 Flight Hardware to Kourou
 - <a href="https://spacepolicyonline.com/news/astrobotic-emboldened-despite-peregrine-failure/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic “Emboldened” Despite Peregrine Failure
 - <a href="https://spacenews.com/google-and-att-join-155-million-ast-spacemobile-investment/" >🔗</a> **[SpaceNews]** Google and AT&T join $155 million AST SpaceMobile investment
-- <a href="https://spacenews.com/astrobotic-to-begin-formal-investigation-into-failed-peregrine-mission/" >🔗</a> **[SpaceNews]** Astrobotic to begin formal investigation into failed Peregrine mission
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240120T203103">2024-01-20 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240120T210110">2024-01-20 21:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
