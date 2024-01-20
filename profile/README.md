@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/japans-slim-successfully-lands-on-moon-but-will-have-limited-lifetime/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s SLIM Successfully Lands on Moon, But Will Have Limited Lifetime
 - <a href="https://spacenews.com/office-of-space-commerce-starts-commercial-pathfinder-project-for-civil-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Office of Space Commerce starts commercial pathfinder project for civil space traffic coordination system
 - <a href="https://www.nasaspaceflight.com/2024/01/nasa-sls-eus-qualification-phase/" >🔗</a> **[NASASpaceflight]** NASA SLS Exploration Upper Stage moving into qualification phase of development
 - <a href="https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/" >🔗</a> **[SpaceNews]** Japan makes history with tense, successful moon landing
 - <a href="https://spacenews.com/nasa-report-offers-pessimistic-take-on-space-based-solar-power/" >🔗</a> **[SpaceNews]** NASA report offers pessimistic take on space-based solar power
-- <a href="https://spacenews.com/nasa-study-clean-space-based-solar-power-beaming-possible/" >🔗</a> **[SpaceNews]** NASA study: clean, space-based solar power beaming is possible
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240119T233057">2024-01-19 23:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240120T000312">2024-01-20 00:03:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
