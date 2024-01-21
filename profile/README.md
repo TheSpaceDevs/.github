@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 21-27, 2024
 - <a href="https://europeanspaceflight.com/euclid-avionics-model-arrives-at-esa-esoc-in-germany/" >🔗</a> **[European Spaceflight]** Euclid Avionics Model Arrives at ESA ESOC in Germany
 - <a href="https://spacenews.com/guetlein-calls-for-a-change-in-culture-in-responsive-space/" >🔗</a> **[SpaceNews]** Guetlein calls for a change in culture in ‘responsive space’
 - <a href="https://www.spacescout.info/2024/01/re-entry-seals-peregrines-fate/" >🔗</a> **[Space Scout]** Re-Entry Seals Peregrine’s Fate
 - <a href="https://europeanspaceflight.com/arianegroup-prepare-to-ship-ariane-6-flight-hardware-to-kourou/" >🔗</a> **[European Spaceflight]** ArianeGroup Prepare to Ship Ariane 6 Flight Hardware to Kourou
-- <a href="https://spacepolicyonline.com/news/astrobotic-emboldened-despite-peregrine-failure/" >🔗</a> **[SpacePolicyOnline.com]** Astrobotic “Emboldened” Despite Peregrine Failure
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240121T203058">2024-01-21 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240121T210123">2024-01-21 21:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
