@@ -92,10 +92,10 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-012224/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Northrop Grumman prepare the first Cygnus to fly on Falcon 9
+- <a href="https://spacenews.com/virtual-event-not-invisible-anymorehow-satellites-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** Video Replay – Not Invisible Anymore: How satellites monitor atmospheric methane
 - <a href="https://spacenews.com/white-house-private-sector-space/" >🔗</a> **[SpaceNews]** The White House versus the private sector in space
 - <a href="https://spacenews.com/space-race-2024-a-critical-year-ahead-for-u-s-space-force/" >🔗</a> **[SpaceNews]** Space race 2024: A critical year ahead for U.S. Space Force
 - <a href="https://arstechnica.com/space/2024/01/nasa-loses-and-then-recovers-contact-with-its-historic-mars-helicopter/" >🔗</a> **[Arstechnica]** NASA loses, and then recovers, contact with its historic Mars helicopter
-- <a href="https://spacenews.com/japans-moon-lander-forced-to-power-down-but-may-yet-be-revived/" >🔗</a> **[SpaceNews]** Japan’s moon lander forced to power down but may yet be revived
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T223053">2024-01-22 22:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T230111">2024-01-22 23:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
