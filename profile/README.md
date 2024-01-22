@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-and-spacex-start-work-on-cargo-versions-of-crewed-lunar-landers/" >🔗</a> **[SpaceNews]** Blue Origin and SpaceX start work on cargo versions of crewed lunar landers
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 21-27, 2024
 - <a href="https://europeanspaceflight.com/euclid-avionics-model-arrives-at-esa-esoc-in-germany/" >🔗</a> **[European Spaceflight]** Euclid Avionics Model Arrives at ESA ESOC in Germany
 - <a href="https://spacenews.com/guetlein-calls-for-a-change-in-culture-in-responsive-space/" >🔗</a> **[SpaceNews]** Guetlein calls for a change in culture in ‘responsive space’
 - <a href="https://www.spacescout.info/2024/01/re-entry-seals-peregrines-fate/" >🔗</a> **[Space Scout]** Re-Entry Seals Peregrine’s Fate
-- <a href="https://europeanspaceflight.com/arianegroup-prepare-to-ship-ariane-6-flight-hardware-to-kourou/" >🔗</a> **[European Spaceflight]** ArianeGroup Prepare to Ship Ariane 6 Flight Hardware to Kourou
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T000352">2024-01-22 00:03:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T004502">2024-01-22 00:45:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
