@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/" >🔗</a> **[Arstechnica]** What happens when an astronaut in orbit says he’s not coming back?
 - <a href="https://europeanspaceflight.com/french-launch-startup-latitude-closes-30m-series-b/" >🔗</a> **[European Spaceflight]** French Launch Startup Latitude Closes $30M Series B
 - <a href="https://spacenews.com/blue-origin-and-spacex-start-work-on-cargo-versions-of-crewed-lunar-landers/" >🔗</a> **[SpaceNews]** Blue Origin and SpaceX start work on cargo versions of crewed lunar landers
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 21-27, 2024
 - <a href="https://europeanspaceflight.com/euclid-avionics-model-arrives-at-esa-esoc-in-germany/" >🔗</a> **[European Spaceflight]** Euclid Avionics Model Arrives at ESA ESOC in Germany
-- <a href="https://spacenews.com/guetlein-calls-for-a-change-in-culture-in-responsive-space/" >🔗</a> **[SpaceNews]** Guetlein calls for a change in culture in ‘responsive space’
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T110124">2024-01-22 11:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T113108">2024-01-22 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
