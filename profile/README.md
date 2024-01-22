@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-012224/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Northrop Grumman prepare the first Cygnus to fly on Falcon 9
 - <a href="https://spacenews.com/white-house-private-sector-space/" >🔗</a> **[SpaceNews]** The White House versus the private sector in space
 - <a href="https://spacenews.com/space-race-2024-a-critical-year-ahead-for-u-s-space-force/" >🔗</a> **[SpaceNews]** Space race 2024: A critical year ahead for U.S. Space Force
 - <a href="https://arstechnica.com/space/2024/01/nasa-loses-and-then-recovers-contact-with-its-historic-mars-helicopter/" >🔗</a> **[Arstechnica]** NASA loses, and then recovers, contact with its historic Mars helicopter
 - <a href="https://spacenews.com/japans-moon-lander-forced-to-power-down-but-may-yet-be-revived/" >🔗</a> **[SpaceNews]** Japan’s moon lander forced to power down but may yet be revived
-- <a href="https://europeanspaceflight.com/cnes-led-consortium-begins-development-of-atomic-accelerometers/" >🔗</a> **[European Spaceflight]** CNES-Led Consortium Begins Development of Atomic Accelerometers
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T213114">2024-01-22 21:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T220127">2024-01-22 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
