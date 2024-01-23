@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/latitude-raises-30-million-for-small-launch-vehicle-development/" >🔗</a> **[SpaceNews]** Latitude raises $30 million for small launch vehicle development
+- <a href="https://spacenews.com/albedo-raises-35-million-for-commercial-very-low-earth-orbit-constellation/" >🔗</a> **[SpaceNews]** Albedo raises $35 million for commercial very low Earth orbit constellation
 - <a href="https://spacenews.com/french-ssa-startup-aldoria-raises-10-9-million/" >🔗</a> **[SpaceNews]** French SSA startup Aldoria raises $10.9 million
 - <a href="https://europeanspaceflight.com/uk-space-agency-launches-challenge-to-purify-lunar-water/" >🔗</a> **[European Spaceflight]** UK Space Agency Launches Challenge to Purify Lunar Water
 - <a href="https://spacenews.com/industry-report-calls-for-greater-use-of-ai-to-extract-untapped-value-from-satellite-data/" >🔗</a> **[SpaceNews]** Industry report calls for greater use of AI to extract untapped value from satellite data
-- <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-012224/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Northrop Grumman prepare the first Cygnus to fly on Falcon 9
-- <a href="https://spacenews.com/virtual-event-not-invisible-anymorehow-satellites-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** Video Replay – Not Invisible Anymore: How satellites monitor atmospheric methane
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T120129">2024-01-23 12:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T123943">2024-01-23 12:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
