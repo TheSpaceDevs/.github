@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T000000">2024-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-12&location=Vandenberg SFB, CA, USA&dates=20240131T000000Z%2F20240131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T000000">2024-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Flight 2&location=Pacific Spaceport Complex, Alaska, USA&dates=20240131T000000Z%2F20240131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Flight 2** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240206T063000">2024-02-06 06:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)&location=Cape Canaveral, FL, USA&dates=20240206T063000Z%2F20240206T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240210T000000">2024-02-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20240210T000000Z%2F20240210T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T000000">2024-02-14 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20240214T000000Z%2F20240214T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T000000">2024-02-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-26 (87P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240215T000000Z%2F20240215T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-26 (87P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dods-satcom-evolution/" >🔗</a> **[SpaceNews]** DoD’s satcom evolution
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-looking-up-to-brilliant-skies-down-under/" >🔗</a> **[Arstechnica]** Daily Telescope: Looking up to brilliant skies Down Under
 - <a href="https://spacenews.com/internet-from-space-u-s-air-force-bets-on-commercial-networks/" >🔗</a> **[SpaceNews]** Internet from space: U.S. Air Force bets on commercial networks
 - <a href="https://spacenews.com/latitude-raises-30-million-for-small-launch-vehicle-development/" >🔗</a> **[SpaceNews]** Latitude raises $30 million for small launch vehicle development
 - <a href="https://spacenews.com/albedo-raises-35-million-for-commercial-very-low-earth-orbit-constellation/" >🔗</a> **[SpaceNews]** Albedo raises $35 million for commercial very low Earth orbit constellation
-- <a href="https://spacenews.com/french-ssa-startup-aldoria-raises-10-9-million/" >🔗</a> **[SpaceNews]** French SSA startup Aldoria raises $10.9 million
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T150124">2024-01-23 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T153104">2024-01-23 15:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
