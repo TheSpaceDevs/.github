@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-looking-up-to-brilliant-skies-down-under/" >🔗</a> **[Arstechnica]** Daily Telescope: Looking up to brilliant skies Down Under
+- <a href="https://spacenews.com/internet-from-space-u-s-air-force-bets-on-commercial-networks/" >🔗</a> **[SpaceNews]** Internet from space: U.S. Air Force bets on commercial networks
 - <a href="https://spacenews.com/latitude-raises-30-million-for-small-launch-vehicle-development/" >🔗</a> **[SpaceNews]** Latitude raises $30 million for small launch vehicle development
 - <a href="https://spacenews.com/albedo-raises-35-million-for-commercial-very-low-earth-orbit-constellation/" >🔗</a> **[SpaceNews]** Albedo raises $35 million for commercial very low Earth orbit constellation
 - <a href="https://spacenews.com/french-ssa-startup-aldoria-raises-10-9-million/" >🔗</a> **[SpaceNews]** French SSA startup Aldoria raises $10.9 million
-- <a href="https://europeanspaceflight.com/uk-space-agency-launches-challenge-to-purify-lunar-water/" >🔗</a> **[European Spaceflight]** UK Space Agency Launches Challenge to Purify Lunar Water
-- <a href="https://spacenews.com/industry-report-calls-for-greater-use-of-ai-to-extract-untapped-value-from-satellite-data/" >🔗</a> **[SpaceNews]** Industry report calls for greater use of AI to extract untapped value from satellite data
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T130308">2024-01-23 13:03:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T133100">2024-01-23 13:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
