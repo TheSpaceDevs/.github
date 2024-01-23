@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-bracing-for-tougher-satellite-radio-wave-negotiations/" >🔗</a> **[SpaceNews]** U.S. bracing for tougher satellite radio wave negotiations
 - <a href="https://spacenews.com/orbital-spectrum-clash/" >🔗</a> **[SpaceNews]** Orbital Spectrum Clash
 - <a href="https://spacenews.com/booz-allen-ventures-makes-its-first-space-investment/" >🔗</a> **[SpaceNews]** Booz Allen Ventures makes its first space investment
 - <a href="https://europeanspaceflight.com/share-my-space-raises-e10m-and-takes-on-a-new-name/" >🔗</a> **[European Spaceflight]** Share My Space Raises €10M and Takes on a New Name
 - <a href="https://spacenews.com/dods-satcom-evolution/" >🔗</a> **[SpaceNews]** DoD’s satcom evolution
-- <a href="https://arstechnica.com/space/2024/01/daily-telescope-looking-up-to-brilliant-skies-down-under/" >🔗</a> **[Arstechnica]** Daily Telescope: Looking up to brilliant skies Down Under
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T203059">2024-01-23 20:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T210125">2024-01-23 21:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
