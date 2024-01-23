@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-report-calls-for-greater-use-of-ai-to-extract-untapped-value-from-satellite-data/" >🔗</a> **[SpaceNews]** Industry report calls for greater use of AI to extract untapped value from satellite data
 - <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-012224/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Northrop Grumman prepare the first Cygnus to fly on Falcon 9
 - <a href="https://spacenews.com/virtual-event-not-invisible-anymorehow-satellites-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** Video Replay – Not Invisible Anymore: How satellites monitor atmospheric methane
 - <a href="https://spacenews.com/white-house-private-sector-space/" >🔗</a> **[SpaceNews]** The White House versus the private sector in space
 - <a href="https://spacenews.com/space-race-2024-a-critical-year-ahead-for-u-s-space-force/" >🔗</a> **[SpaceNews]** Space race 2024: A critical year ahead for U.S. Space Force
-- <a href="https://arstechnica.com/space/2024/01/nasa-loses-and-then-recovers-contact-with-its-historic-mars-helicopter/" >🔗</a> **[Arstechnica]** NASA loses, and then recovers, contact with its historic Mars helicopter
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240122T233105">2024-01-22 23:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240123T000327">2024-01-23 00:03:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
