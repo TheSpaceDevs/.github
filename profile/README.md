@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/ixpe-ss433/" >🔗</a> **[NASASpaceflight]** IXPE investigates microquasar jets, finds unexpected magnetic field structure
 - <a href="https://spacenews.com/europe-weeks-away-from-finalizing-sovereign-broadband-proposal/" >🔗</a> **[SpaceNews]** Europe weeks away from finalizing sovereign broadband proposal
-- <a href="https://spacenews.com/eyes-sky-increasing-importance-very-low-earth-orbit-vleo-national-security/" >🔗</a> **[SpaceNews]** Eyes in the sky: The increasing importance of very low Earth orbit (VLEO) for national security
 - <a href="https://www.spacescout.info/2024/01/esa-shuffles-copernicus-sats/" >🔗</a> **[Space Scout]** ESA Shuffles Copernicus Sats Amidst Launcher Uncertainty
+- <a href="https://spacenews.com/eyes-sky-increasing-importance-very-low-earth-orbit-vleo-national-security/" >🔗</a> **[SpaceNews]** Eyes in the sky: The increasing importance of very low Earth orbit (VLEO) for national security
 - <a href="https://spacenews.com/blue-origin-gets-u-s-space-force-funding-for-new-glenn-integration-studies/" >🔗</a> **[SpaceNews]** Blue Origin gets U.S. Space Force funding for New Glenn ‘integration studies’
-- <a href="https://spacenews.com/esa-and-eu-collaborate-on-launch-initiative/" >🔗</a> **[SpaceNews]** ESA and EU collaborate on launch initiative
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T190109">2024-01-24 19:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T193104">2024-01-24 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
