@@ -92,10 +92,10 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/eyes-sky-increasing-importance-very-low-earth-orbit-vleo-national-security/" >🔗</a> **[SpaceNews]** Eyes in the sky: The increasing importance of very low Earth orbit (VLEO) for national security
+- <a href="https://www.spacescout.info/2024/01/esa-shuffles-copernicus-sats/" >🔗</a> **[Space Scout]** ESA Shuffles Copernicus Sats Amidst Launcher Uncertainty
 - <a href="https://spacenews.com/blue-origin-gets-u-s-space-force-funding-for-new-glenn-integration-studies/" >🔗</a> **[SpaceNews]** Blue Origin gets U.S. Space Force funding for New Glenn ‘integration studies’
 - <a href="https://spacenews.com/esa-and-eu-collaborate-on-launch-initiative/" >🔗</a> **[SpaceNews]** ESA and EU collaborate on launch initiative
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-shooting-a-laser-into-the-sky-from-antarctica/" >🔗</a> **[Arstechnica]** Daily Telescope: Shooting a laser into the sky from Antarctica
-- <a href="https://spacenews.com/orbit-fab-and-clearspace-to-develop-in-space-refueling-service/" >🔗</a> **[SpaceNews]** Orbit Fab and ClearSpace to develop in-space refueling service
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T160131">2024-01-24 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T163445">2024-01-24 16:34:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
