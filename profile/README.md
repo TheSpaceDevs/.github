@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-gets-u-s-space-force-funding-for-new-glenn-integration-studies/" >🔗</a> **[SpaceNews]** Blue Origin gets U.S. Space Force funding for New Glenn ‘integration studies’
 - <a href="https://spacenews.com/esa-and-eu-collaborate-on-launch-initiative/" >🔗</a> **[SpaceNews]** ESA and EU collaborate on launch initiative
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-shooting-a-laser-into-the-sky-from-antarctica/" >🔗</a> **[Arstechnica]** Daily Telescope: Shooting a laser into the sky from Antarctica
 - <a href="https://spacenews.com/orbit-fab-and-clearspace-to-develop-in-space-refueling-service/" >🔗</a> **[SpaceNews]** Orbit Fab and ClearSpace to develop in-space refueling service
 - <a href="https://europeanspaceflight.com/expansion-raises-e100m-to-invest-in-european-new-space-startups/" >🔗</a> **[European Spaceflight]** Expansion Raises €100M to Invest in European New Space Startups
-- <a href="https://spacepolicyonline.com/news/artemis-accords-belgium-makes-it-34/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords: Belgium Makes it 34
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T150118">2024-01-24 15:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240124T153106">2024-01-24 15:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
