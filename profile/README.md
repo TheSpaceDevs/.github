@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eu-space-law-proposal-due-in-march/" >🔗</a> **[SpaceNews]** EU space law proposal due in March
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-stars-forming-at-a-furious-rate-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** Daily Telescope: A stunning image of a star cluster in a nearby galaxy
 - <a href="https://spacenews.com/japans-slim-achieved-pinpoint-moon-landing-with-just-one-working-engine/" >🔗</a> **[SpaceNews]** Japan’s SLIM achieved pinpoint moon landing with just one working engine
 - <a href="https://spacenews.com/freedom-spaces-ground-network-software-selected-for-u-s-space-force-program/" >🔗</a> **[SpaceNews]** Freedom Space’s ground network software selected for U.S. Space Force program
 - <a href="https://europeanspaceflight.com/exolaunch-wins-e18m-dlr-launch-contract/" >🔗</a> **[European Spaceflight]** Exolaunch Wins €18M DLR Launch Contract
-- <a href="https://spacenews.com/esa-sees-strong-interest-in-commercial-cargo-program/" >🔗</a> **[SpaceNews]** ESA sees strong interest in commercial cargo program
-- <a href="https://www.nasaspaceflight.com/2024/01/ixpe-ss433/" >🔗</a> **[NASASpaceflight]** IXPE investigates microquasar jets, finds unexpected magnetic field structure
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T130313">2024-01-25 13:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T133106">2024-01-25 13:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
