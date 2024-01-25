@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9540/" >🔗</a> **[NASA]** After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends
+- <a href="https://arstechnica.com/space/2024/01/nasas-mars-helicopter-has-made-its-last-flight-above-the-red-planet/" >🔗</a> **[Arstechnica]** The amazing helicopter on Mars, Ingenuity, will fly no more
+- <a href="https://www.jpl.nasa.gov/news/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends" >🔗</a> **[Jet Propulsion Laboratory]** After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
+- <a href="https://www.cnbc.com/2024/01/25/investing-in-space-sector-led-lockheed-and-northrop-growth-last-year.html" >🔗</a> **[CNBC]** Investing in Space: Sector led Lockheed and Northrop growth last year
 - <a href="https://spacenews.com/satellites-reveal-sources-of-atmospheric-methane/" >🔗</a> **[SpaceNews]** Not Invisible Anymore: Satellites reveal sources of atmospheric methane
-- <a href="https://spacepolicyonline.com/news/japans-slim-lunar-lander-notches-more-successes/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s SLIM Lunar Lander Notches More Successes
-- <a href="https://spacenews.com/firefly-cleared-to-compete-for-national-reconnaissance-office-launch-missions/" >🔗</a> **[SpaceNews]** Firefly cleared to compete for National Reconnaissance Office launch missions
-- <a href="https://europeanspaceflight.com/esa-green-light-venus-probe-and-gravitational-wave-observatory/" >🔗</a> **[European Spaceflight]** ESA Green Light Venus Probe and Gravitational Wave Observatory
-- <a href="https://spacenews.com/eu-space-law-proposal-due-in-march/" >🔗</a> **[SpaceNews]** EU space law proposal due in March
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T193106">2024-01-25 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T200126">2024-01-25 20:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
