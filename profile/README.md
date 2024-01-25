@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/freedom-spaces-ground-network-software-selected-for-u-s-space-force-program/" >🔗</a> **[SpaceNews]** Freedom Space’s ground network software selected for U.S. Space Force program
 - <a href="https://europeanspaceflight.com/exolaunch-wins-e18m-dlr-launch-contract/" >🔗</a> **[European Spaceflight]** Exolaunch Wins €18M DLR Launch Contract
 - <a href="https://spacenews.com/esa-sees-strong-interest-in-commercial-cargo-program/" >🔗</a> **[SpaceNews]** ESA sees strong interest in commercial cargo program
 - <a href="https://www.nasaspaceflight.com/2024/01/ixpe-ss433/" >🔗</a> **[NASASpaceflight]** IXPE investigates microquasar jets, finds unexpected magnetic field structure
 - <a href="https://spacenews.com/europe-weeks-away-from-finalizing-sovereign-broadband-proposal/" >🔗</a> **[SpaceNews]** Europe weeks away from finalizing sovereign broadband proposal
-- <a href="https://spacenews.com/eyes-sky-increasing-importance-very-low-earth-orbit-vleo-national-security/" >🔗</a> **[SpaceNews]** Eyes in the sky: The increasing importance of very low Earth orbit (VLEO) for national security
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T090117">2024-01-25 09:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T093112">2024-01-25 09:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
