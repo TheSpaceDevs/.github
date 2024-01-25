@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/wdr-horizon-flight-3/" >🔗</a> **[SpaceFlight Insider]** Wet Dress Rehearsal on the Horizon for Starship Flight 3
+- <a href="https://spacenews.com/europe-sets-up-space-finance-taskforce/" >🔗</a> **[National Geographic]** Europe sets up space finance taskforce
+- <a href="https://spacenews.com/ingenuity-mars-helicopter-mission-ends-after-72-flights/" >🔗</a> **[National Geographic]** Ingenuity Mars helicopter mission ends after 72 flights
 - <a href="https://spacenews.com/international-campaign-required-to-map-and-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** International campaign required to map and monitor atmospheric methane
 - <a href="https://mars.nasa.gov/news/9540/" >🔗</a> **[NASA]** After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends
-- <a href="https://arstechnica.com/space/2024/01/nasas-mars-helicopter-has-made-its-last-flight-above-the-red-planet/" >🔗</a> **[Arstechnica]** The amazing helicopter on Mars, Ingenuity, will fly no more
-- <a href="https://www.cnbc.com/2024/01/25/investing-in-space-sector-led-lockheed-and-northrop-growth-last-year.html" >🔗</a> **[CNBC]** Investing in Space: Sector led Lockheed and Northrop growth last year
-- <a href="https://spacenews.com/satellites-reveal-sources-of-atmospheric-methane/" >🔗</a> **[SpaceNews]** Not Invisible Anymore: Satellites reveal sources of atmospheric methane
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T213056">2024-01-25 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240125T220107">2024-01-25 22:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
