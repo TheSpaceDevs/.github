@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SpaceShipTwo | Galactic 06**. It is scheduled to be launched by *Virgin Galactic*
+**Electron | Four Of A Kind (NorthStar 1)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Spaceport_America">Spaceport America</a>, Air launch to Suborbital flight*
-<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T150000">2024-01-26 15:00:00 UTC</a>.  Until
-then, this pad will have been used for 12
-out of 84 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240128T061500">2024-01-28 06:15:00 UTC</a>.  Until
+then, this pad will have been used for 13
+out of 39 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Space Situational Awareness* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Sixth commercial Virgin Galactic mission.
+  Four space situational awareness (SSA) satellites for Canadian company NorthStar Earth and Space.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceShipTwo" >
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=32.9902778,-106.9719162" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T000000">2024-02-14 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20240214T000000Z%2F20240214T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T000000">2024-02-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-26 (87P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240215T000000Z%2F20240215T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-26 (87P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T002255">2024-02-15 00:22:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | VEP 4, CE-SAT-1E &amp; TIRSAT&location=Tanegashima Space Center, Japan&dates=20240215T002255Z%2F20240215T040634Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | VEP 4, CE-SAT-1E & TIRSAT** from Tanegashima Space Center, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T113000">2024-02-17 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | INSAT-3DS&location=Satish Dhawan Space Centre, India&dates=20240217T113000Z%2F20240217T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | INSAT-3DS** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,12 +100,14 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
-- <a href="https://www.cnbc.com/2023/11/08/virgin-galactic-spce-q3-earnings-report.html" >🔗</a> **[CNBC]** Virgin Galactic stock surges nearly 20% after announcing plan for cost savings
+- <a href="https://spacenews.com/northstar-pivots-to-rocket-lab-following-virgin-orbits-collapse/" >🔗</a> **[SpaceNews]** NorthStar pivots to Rocket Lab following Virgin Orbit’s collapse
+- <a href="https://tlpnetwork.com/news/2023/06/northstar-signs-multi-launch-deal-with-rocketlab-following-virgin-orbit-collapse" >🔗</a> **[The Launch Pad]** NorthStar Signs Multi Launch Deal With RocketLab Following Virgin Orbit Collapse
+- <a href="https://arstechnica.com/space/2023/06/rocket-report-electron-scoops-up-virgin-launch-ula-flies-first-2023-mission/" >🔗</a> **[Arstechnica]** Rocket Report: Electron scoops up Virgin launch, ULA flies first 2023 mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T173056">2024-01-26 17:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T180126">2024-01-26 18:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
