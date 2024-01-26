@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/rocket-report-iran-reaches-orbit-chinese-firm-achieves-impressive-landing-test/" >🔗</a> **[Arstechnica]** Rocket Report: Iran reaches orbit; Chinese firm achieves impressive landing test
 - <a href="https://spacenews.com/zeno-to-recycle-decades-old-radioactive-material-to-fuel-its-radioisotope-power-systems/" >🔗</a> **[SpaceNews]** Zeno to recycle decades-old radioactive material to fuel its radioisotope power systems
 - <a href="https://spacenews.com/northrop-charges-on-lunar-gateway-module-program-reach-100-million/" >🔗</a> **[SpaceNews]** Northrop charges on lunar Gateway module program reach $100 million
 - <a href="https://spacepolicyonline.com/news/farewell-to-ingenuity-nasas-plucky-mars-helicopter/" >🔗</a> **[SpacePolicyOnline.com]** Farewell to Ingenuity, NASA’s Plucky Mars Helicopter
 - <a href="https://spacenews.com/lockheed-martin-boeing-win-contracts-to-design-u-s-military-narrowband-communications-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing win contracts to design U.S. military narrowband communications satellites
-- <a href="https://www.nasaspaceflight.com/2024/01/wdr-horizon-flight-3/" >🔗</a> **[NASASpaceflight]** Wet Dress Rehearsal on the Horizon for Starship Flight 3
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T120127">2024-01-26 12:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T123715">2024-01-26 12:37:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
