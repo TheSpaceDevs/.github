@@ -90,11 +90,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellites-specter-iot-attacks/" >🔗</a> **[SpaceNews]** Satellites and the specter of IoT attacks
 - <a href="https://spacenews.com/new-effort-seeks-to-study-health-issues-for-private-astronauts/" >🔗</a> **[SpaceNews]** New effort seeks to study health issues for private astronauts
 - <a href="https://europeanspaceflight.com/esa-astronaut-aboard-space-station-controls-robot-on-earth/" >🔗</a> **[European Spaceflight]** ESA Astronaut Aboard Space Station Controls Robot on Earth
 - <a href="https://arstechnica.com/space/2024/01/rocket-report-iran-reaches-orbit-chinese-firm-achieves-impressive-landing-test/" >🔗</a> **[Arstechnica]** Rocket Report: Iran reaches orbit; Chinese firm achieves impressive landing test
 - <a href="https://spacenews.com/zeno-to-recycle-decades-old-radioactive-material-to-fuel-its-radioisotope-power-systems/" >🔗</a> **[SpaceNews]** Zeno to recycle decades-old radioactive material to fuel its radioisotope power systems
-- <a href="https://spacenews.com/northrop-charges-on-lunar-gateway-module-program-reach-100-million/" >🔗</a> **[SpaceNews]** Northrop charges on lunar Gateway module program reach $100 million
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T153056">2024-01-26 15:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T160122">2024-01-26 16:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
