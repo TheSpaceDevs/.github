@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/europe-sets-up-space-finance-taskforce/" >🔗</a> **[National Geographic]** Europe sets up space finance taskforce
-- <a href="https://spacenews.com/ingenuity-mars-helicopter-mission-ends-after-72-flights/" >🔗</a> **[National Geographic]** Ingenuity Mars helicopter mission ends after 72 flights
-- <a href="https://spacenews.com/international-campaign-required-to-map-and-monitor-atmospheric-methane/" >🔗</a> **[SpaceNews]** International campaign required to map and monitor atmospheric methane
-- <a href="https://mars.nasa.gov/news/9540/" >🔗</a> **[NASA]** After Three Years on Mars, NASA's Ingenuity Helicopter Mission Ends
-- <a href="https://arstechnica.com/space/2024/01/nasas-mars-helicopter-has-made-its-last-flight-above-the-red-planet/" >🔗</a> **[Arstechnica]** The amazing helicopter on Mars, Ingenuity, will fly no more
+- <a href="https://spacenews.com/northrop-charges-on-lunar-gateway-module-program-reach-100-million/" >🔗</a> **[SpaceNews]** Northrop charges on lunar Gateway module program reach $100 million
+- <a href="https://spacepolicyonline.com/news/farewell-to-ingenuity-nasas-plucky-mars-helicopter/" >🔗</a> **[SpacePolicyOnline.com]** Farewell to Ingenuity, NASA’s Plucky Mars Helicopter
+- <a href="https://spacenews.com/lockheed-martin-boeing-win-contracts-to-design-u-s-military-narrowband-communications-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing win contracts to design U.S. military narrowband communications satellites
+- <a href="https://www.nasaspaceflight.com/2024/01/wdr-horizon-flight-3/" >🔗</a> **[NASASpaceflight]** Wet Dress Rehearsal on the Horizon for Starship Flight 3
+- <a href="https://www.spacescout.info/2024/01/ingenuitys-mission-comes-to-an-end/" >🔗</a> **[Space Scout]** Ingenuity’s Mission Comes to an End
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T093108">2024-01-26 09:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T100138">2024-01-26 10:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
