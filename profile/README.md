@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/01/27/three-space-companies-at-risk-of-running-out-of-cash.html" >🔗</a> **[CNBC]** A handful of space companies are running out of cash and time. Here are three at risk
 - <a href="https://spacenews.com/space-force-selects-vendors-for-suborbital-launch-services/" >🔗</a> **[SpaceNews]** Space Force selects vendors for suborbital launch services
 - <a href="https://europeanspaceflight.com/spanish-government-awards-e40-5m-loan-to-pld-space-for-miura-5/" >🔗</a> **[European Spaceflight]** Spanish Government Awards €40.5M Loan to PLD Space for Miura 5
 - <a href="https://spacepolicyonline.com/news/jaxas-slim-literally-lost-an-engine-and-nasas-lro-spots-slim-on-the-surface/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’s SLIM Literally Lost An Engine, and NASA’s LRO Spots SLIM on the Surface
 - <a href="https://spacenews.com/virgin-galactic-launches-four-private-astronauts-as-it-prepares-to-end-unity-flights/" >🔗</a> **[SpaceNews]** Virgin Galactic launches four private astronauts as it prepares to end Unity flights
-- <a href="https://spacenews.com/fcc-reaffirms-orbital-debris-mitigation-rules/" >🔗</a> **[SpaceNews]** FCC reaffirms orbital debris mitigation rules
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240127T120124">2024-01-27 12:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240127T123525">2024-01-27 12:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
