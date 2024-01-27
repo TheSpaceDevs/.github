@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/jaxas-slim-literally-lost-an-engine-and-nasas-lro-spots-slim-on-the-surface/" >🔗</a> **[SpacePolicyOnline.com]** JAXA’s SLIM Literally Lost An Engine, and NASA’s LRO Spots SLIM on the Surface
+- <a href="https://spacenews.com/virgin-galactic-launches-four-private-astronauts-as-it-prepares-to-end-unity-flights/" >🔗</a> **[SpaceNews]** Virgin Galactic launches four private astronauts as it prepares to end Unity flights
 - <a href="https://spacenews.com/fcc-reaffirms-orbital-debris-mitigation-rules/" >🔗</a> **[SpaceNews]** FCC reaffirms orbital debris mitigation rules
 - <a href="https://spacenews.com/us-seeks-dismissal-of-ligados-40-billion-roadblocked-5g-spectrum-claim/" >🔗</a> **[SpaceNews]** US seeks dismissal of Ligado’s $40 billion roadblocked 5G spectrum claim 
 - <a href="https://spacenews.com/satellites-specter-iot-attacks/" >🔗</a> **[SpaceNews]** Satellites and the specter of IoT attacks
-- <a href="https://spacenews.com/new-effort-seeks-to-study-health-issues-for-private-astronauts/" >🔗</a> **[SpaceNews]** New effort seeks to study health issues for private astronauts
-- <a href="https://europeanspaceflight.com/esa-astronaut-aboard-space-station-controls-robot-on-earth/" >🔗</a> **[European Spaceflight]** ESA Astronaut Aboard Space Station Controls Robot on Earth
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240126T233059">2024-01-26 23:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240127T000322">2024-01-27 00:03:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
