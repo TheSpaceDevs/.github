@@ -90,11 +90,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grummans-orbital-refueling-port-selected-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Northrop Grumman’s orbital refueling port selected for U.S. military satellites
 - <a href="https://spacenews.com/moores-law-space/" >🔗</a> **[SpaceNews]** A Moore’s Law for space
 - <a href="https://arstechnica.com/space/2024/01/daily-telescope-seeing-interstellar-dust-by-the-light-of-our-galaxys-stars/" >🔗</a> **[Arstechnica]** Daily Telescope: Two large galaxies swimming in a sea of interstellar dust
 - <a href="https://spacenews.com/slim-moon-lander-revived-after-solar-power-setback/" >🔗</a> **[SpaceNews]** SLIM moon lander revived after solar power setback
 - <a href="https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/" >🔗</a> **[Arstechnica]** It turns out NASA’s Mars helicopter was much more revolutionary than we knew
-- <a href="https://europeanspaceflight.com/construction-of-ariane-6-booster-storage-building-continues/" >🔗</a> **[European Spaceflight]** Construction of Ariane 6 Booster Storage Building Continues
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T160138">2024-01-29 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T163235">2024-01-29 16:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
