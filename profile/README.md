@@ -90,11 +90,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/01/daily-telescope-seeing-interstellar-dust-by-the-light-of-our-galaxys-stars/" >🔗</a> **[Arstechnica]** Daily Telescope: Two large galaxies swimming in a sea of interstellar dust
+- <a href="https://spacenews.com/slim-moon-lander-revived-after-solar-power-setback/" >🔗</a> **[SpaceNews]** SLIM moon lander revived after solar power setback
 - <a href="https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/" >🔗</a> **[Arstechnica]** It turns out NASA’s Mars helicopter was much more revolutionary than we knew
 - <a href="https://europeanspaceflight.com/construction-of-ariane-6-booster-storage-building-continues/" >🔗</a> **[European Spaceflight]** Construction of Ariane 6 Booster Storage Building Continues
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-28-february-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 28-February 3, 2024
-- <a href="https://spacenews.com/cygnus-ready-for-first-launch-on-falcon-9/" >🔗</a> **[SpaceNews]** Cygnus ready for first launch on Falcon 9
-- <a href="https://www.cnbc.com/2024/01/27/three-space-companies-at-risk-of-running-out-of-cash.html" >🔗</a> **[CNBC]** A handful of space companies are running out of cash and time. Here are three at risk
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T130117">2024-01-29 13:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T133103">2024-01-29 13:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
