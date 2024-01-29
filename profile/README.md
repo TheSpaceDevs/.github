@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 7-12**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Cygnus CRS-2 NG-20 (S.S. Patricia “Patty” Hilliard Robertson)**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T021650">2024-01-29 02:16:50 UTC</a>.  Until
-then, this pad will have been used for 131
-out of 742 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T170700">2024-01-30 17:07:00 UTC</a>.  Until
+then, this pad will have been used for 221
+out of 931 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Resupply* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 22 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  This is the 20th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 19th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -99,11 +99,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-012224/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Northrop Grumman prepare the first Cygnus to fly on Falcon 9
+- <a href="https://www.spacescout.info/2024/01/ng-20-prepares-to-fly-to-iss-from-florida/" >🔗</a> **[Space Scout]** NG-20 Prepares to Fly to ISS From Florida
+- <a href="https://spacenews.com/cygnus-ready-for-first-launch-on-falcon-9/" >🔗</a> **[SpaceNews]** Cygnus ready for first launch on Falcon 9
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T053058">2024-01-29 05:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240129T060137">2024-01-29 06:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
