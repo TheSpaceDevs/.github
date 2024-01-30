@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abi-shows-promise-for-methane-monitoring/" >🔗</a> **[SpaceNews]** ABI shows promise for methane monitoring
 - <a href="https://spacenews.com/ground-delays-holding-back-eutelsats-global-leo-broadband-services/" >🔗</a> **[SpaceNews]** Ground delays holding back Eutelsat’s global LEO broadband services
 - <a href="https://spacenews.com/former-head-of-nros-space-launch-office-joins-stellar-solutions/" >🔗</a> **[SpaceNews]** Former head of NRO’s space launch office joins Stellar Solutions
 - <a href="https://spacenews.com/airbus-takes-over-space-coast-constellation-factory/" >🔗</a> **[SpaceNews]** Airbus takes over Space Coast constellation factory
 - <a href="https://www.spacescout.info/2024/01/load-bearing-rocket/" >🔗</a> **[Space Scout]** Op-Ed: The Load Bearing Rocket, A Falcon 9 Analysis
-- <a href="https://spacenews.com/northrop-grummans-orbital-refueling-port-selected-for-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Northrop Grumman’s orbital refueling port selected for U.S. military satellites
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T000316">2024-01-30 00:03:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T004445">2024-01-30 00:44:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
