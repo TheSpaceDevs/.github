@@ -103,11 +103,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/01/launch-roundup-012224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Northrop Grumman prepare the first Cygnus to fly on Falcon 9
 - <a href="https://www.spacescout.info/2024/01/ng-20-prepares-to-fly-to-iss-from-florida/" >🔗</a> **[Space Scout]** NG-20 Prepares to Fly to ISS From Florida
 - <a href="https://spacenews.com/cygnus-ready-for-first-launch-on-falcon-9/" >🔗</a> **[SpaceNews]** Cygnus ready for first launch on Falcon 9
+- <a href="https://www.nasaspaceflight.com/2024/01/crs-ng-20-falcon-9/" >🔗</a> **[NASASpaceflight]** CRS NG-20 preparing to launch cargo, science to ISS aboard Falcon 9
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T073057">2024-01-30 07:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T080118">2024-01-30 08:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
