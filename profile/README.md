@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/01/new-glenn-hardware/" >🔗</a> **[NASASpaceflight]** New Glenn hardware assembling at Launch Complex 36
+- <a href="https://spacenews.com/u-s-space-force-wary-of-chinas-expanding-spy-satellite-fleet/" >🔗</a> **[SpaceNews]** U.S. Space Force wary of China’s expanding spy satellite fleet
 - <a href="https://www.teslarati.com/spacex-northrop-grumman-cygnus-spacecraft-to-iss/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 sends Northrop Grumman Cygnus spacecraft to ISS
 - <a href="https://spacenews.com/space-weather-one-major-event-from-a-fully-funded-program/" >🔗</a> **[SpaceNews]** Space weather: One major event  from a fully funded program
 - <a href="https://spacenews.com/esas-vigil-space-weather-mission-balances-operational-and-scientific-demands/" >🔗</a> **[SpaceNews]** ESA’s Vigil space weather mission balances operational and scientific demands
-- <a href="https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-space-station/" >🔗</a> **[SpaceNews]** Falcon 9 launches Cygnus cargo spacecraft to space station
-- <a href="https://spacenews.com/quindar-raises-6-million-for-automation-of-satellite-constellation-operations/" >🔗</a> **[SpaceNews]** Quindar raises $6 million for automation of satellite constellation operations
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T213109">2024-01-30 21:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240130T220123">2024-01-30 22:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
