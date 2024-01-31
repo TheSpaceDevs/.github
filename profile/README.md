@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-services-industry-awaits-critical-demand-signal-from-u-s-military/" >🔗</a> **[SpaceNews]** Satellite-services industry awaits critical demand signal from U.S. military
 - <a href="https://spacenews.com/space-forces-orbital-prime-program-looking-to-turn-rd-into-commercial-products/" >🔗</a> **[SpaceNews]** Space Force’s Orbital Prime program looking to turn R&D into commercial products
 - <a href="https://www.nasaspaceflight.com/2024/01/new-glenn-hardware/" >🔗</a> **[NASASpaceflight]** New Glenn hardware assembling at Launch Complex 36
 - <a href="https://spacenews.com/u-s-space-force-wary-of-chinas-expanding-spy-satellite-fleet/" >🔗</a> **[SpaceNews]** U.S. Space Force wary of China’s expanding spy satellite fleet
 - <a href="https://www.teslarati.com/spacex-northrop-grumman-cygnus-spacecraft-to-iss/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 sends Northrop Grumman Cygnus spacecraft to ISS
-- <a href="https://spacenews.com/space-weather-one-major-event-from-a-fully-funded-program/" >🔗</a> **[SpaceNews]** Space weather: One major event  from a fully funded program
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T000323">2024-01-31 00:03:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T004453">2024-01-31 00:44:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
