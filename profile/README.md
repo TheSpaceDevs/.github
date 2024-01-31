@@ -91,11 +91,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-final-construction-frontier/" >🔗</a> **[SpaceNews]** Space, the final (construction) frontier
 - <a href="https://spacenews.com/lockheed-martins-misplaced-satellite-to-fall-back-to-earth-next-month/" >🔗</a> **[SpaceNews]** Lockheed Martin’s misplaced satellite to fall back to Earth next month
 - <a href="https://www.cnbc.com/2024/01/31/voyagers-starlab-space-station-buys-spacex-starship-launch.html" >🔗</a> **[CNBC]** Starlab, meet Starship: Private space station buys SpaceX launch for later this decade
 - <a href="https://spacenews.com/starlab-commercial-space-station-to-launch-on-starship/" >🔗</a> **[SpaceNews]** Starlab commercial space station to launch on Starship
 - <a href="https://spacenews.com/exotrail-developing-space-tug-to-carry-small-satellites-to-geostationary-orbit/" >🔗</a> **[SpaceNews]** Exotrail developing space tug to carry small satellites to geostationary orbit
-- <a href="https://arstechnica.com/space/2024/01/daily-telescope-webb-telescope-reveals-breathtaking-structure-of-galaxies/" >🔗</a> **[Arstechnica]** Daily Telescope: Webb telescope reveals breathtaking structure of galaxies
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T153101">2024-01-31 15:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T160125">2024-01-31 16:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
