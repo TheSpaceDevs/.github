@@ -91,11 +91,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italys-space-agency-and-armed-forces-sign-agreement-to-collaborate/" >🔗</a> **[European Spaceflight]** Italy’s Space Agency and Armed Forces Sign Agreement to Collaborate
 - <a href="https://www.nasaspaceflight.com/2024/01/four-of-a-kind/" >🔗</a> **[NASASpaceflight]** Rocket Lab set to kickoff 2024 with “Four of a Kind” satellite mission
 - <a href="https://spacenews.com/satellite-services-industry-awaits-critical-demand-signal-from-u-s-military/" >🔗</a> **[SpaceNews]** Satellite-services industry awaits critical demand signal from U.S. military
 - <a href="https://spacenews.com/space-forces-orbital-prime-program-looking-to-turn-rd-into-commercial-products/" >🔗</a> **[SpaceNews]** Space Force’s Orbital Prime program looking to turn R&D into commercial products
 - <a href="https://www.nasaspaceflight.com/2024/01/new-glenn-hardware/" >🔗</a> **[NASASpaceflight]** New Glenn hardware assembling at Launch Complex 36
-- <a href="https://spacenews.com/u-s-space-force-wary-of-chinas-expanding-spy-satellite-fleet/" >🔗</a> **[SpaceNews]** U.S. Space Force wary of China’s expanding spy satellite fleet
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T083055">2024-01-31 08:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240131T090113">2024-01-31 09:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
