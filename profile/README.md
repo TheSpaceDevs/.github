@@ -91,11 +91,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA’s PACE mission, Chinese aet satellites, and more Starlink missions
+- <a href="https://spacepolicyonline.com/news/good-night-slim/" >🔗</a> **[SpacePolicyOnline.com]** Good night, SLIM
 - <a href="https://spacenews.com/congressional-letter-asks-white-house-to-reverse-msr-spending-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks White House to reverse MSR spending cuts
 - <a href="https://www.cnbc.com/2024/02/01/investing-in-space-nasa-panel-warns-moon-plan-may-be-too-ambitious.html" >🔗</a> **[CNBC]** Investing in Space: NASA panel warns astronaut moon plan may be too ambitious
 - <a href="https://arstechnica.com/space/2024/02/by-launching-on-starship-the-starlab-station-can-get-to-orbit-in-one-piece/" >🔗</a> **[Arstechnica]** Starlab—with half the volume of the ISS—will fit inside Starship’s payload bay
-- <a href="https://spacenews.com/air-force-rocket-cargo-initiative-marches-forward-despite-questions-about-feasibility/" >🔗</a> **[SpaceNews]** Air Force rocket cargo initiative marches forward despite questions about feasibility
-- <a href="https://arstechnica.com/space/2024/02/for-the-first-time-nasa-has-asked-industry-about-private-missions-to-mars/" >🔗</a> **[Arstechnica]** For the first time NASA has asked industry about private missions to Mars
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T223056">2024-02-01 22:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T230139">2024-02-01 23:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
