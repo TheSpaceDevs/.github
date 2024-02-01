@@ -91,11 +91,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/by-launching-on-starship-the-starlab-station-can-get-to-orbit-in-one-piece/" >🔗</a> **[Arstechnica]** Starlab—with half the volume of the ISS—will fit inside Starship’s payload bay
 - <a href="https://spacenews.com/air-force-rocket-cargo-initiative-marches-forward-despite-questions-about-feasibility/" >🔗</a> **[SpaceNews]** Air Force rocket cargo initiative marches forward despite questions about feasibility
 - <a href="https://arstechnica.com/space/2024/02/for-the-first-time-nasa-has-asked-industry-about-private-missions-to-mars/" >🔗</a> **[Arstechnica]** For the first time NASA has asked industry about private missions to Mars
 - <a href="https://spacenews.com/orbital-composites-and-virtus-solis-announce-space-based-solar-power-demonstration/" >🔗</a> **[SpaceNews]** Orbital Composites and Virtus Solis announce space-based solar power demonstration
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-conduct-first-rocket-powered-roll-test/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Conduct First Rocket-Powered Roll Test
-- <a href="https://spacenews.com/nasa-workshop-to-examine-options-for-apophis-asteroid-mission/" >🔗</a> **[SpaceNews]** NASA workshop to examine options for Apophis asteroid mission
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T193054">2024-02-01 19:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T200114">2024-02-01 20:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
