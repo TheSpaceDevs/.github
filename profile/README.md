@@ -91,11 +91,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/office-of-space-commerce-seeks-spacexs-constellation-coordination-expertise/" >🔗</a> **[SpaceNews]** Office of Space Commerce seeks SpaceX’s constellation coordination expertise
+- <a href="https://spacenews.com/space-systems-command-weather-group-to-review-requirements-and-draft-long-term-plans/" >🔗</a> **[SpaceNews]** Space Systems Command weather group to review requirements and long-term plans
 - <a href="https://www.nasaspaceflight.com/2024/01/iss-roundup-310124/" >🔗</a> **[NASASpaceflight]** ISS Roundup: new Axiom crewmates, robotic hops, and long-duration mission research
 - <a href="https://spacenews.com/space-force-seeks-to-clear-up-confusion-over-selection-of-northrop-grummans-refueling-tech/" >🔗</a> **[SpaceNews]** Space Force seeks to clear up confusion over selection of Northrop Grumman’s refueling tech
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-raises-its-orbit-but-yet-to-deploy-satellites/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane raises its orbit, but yet to deploy satellites
-- <a href="https://www.spacescout.info/2024/01/starlab-set-to-launch-on-spacexs-starship/" >🔗</a> **[Space Scout]** Starlab Set to Launch on SpaceX’s Starship
-- <a href="https://www.spacescout.info/2024/01/cygnus-and-falcon-fly/" >🔗</a> **[Space Scout]** Cygnus and Falcon Spread Their Wings
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T033057">2024-02-01 03:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T040125">2024-02-01 04:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
