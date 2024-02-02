@@ -93,11 +93,11 @@ LEO communications satellites for Chinese car manufacturer Geely Automotive for 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startups-call-for-streamlined-us-regulations-for-emerging-space-capabilities/" >🔗</a> **[SpaceNews]** Startups call for streamlined US regulations for emerging space capabilities
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA’s PACE mission, Chinese art satellites, and more Starlink missions
 - <a href="https://spacepolicyonline.com/news/good-night-slim/" >🔗</a> **[SpacePolicyOnline.com]** Good night, SLIM
 - <a href="https://spacenews.com/congressional-letter-asks-white-house-to-reverse-msr-spending-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks White House to reverse MSR spending cuts
 - <a href="https://www.cnbc.com/2024/02/01/investing-in-space-nasa-panel-warns-moon-plan-may-be-too-ambitious.html" >🔗</a> **[CNBC]** Investing in Space: NASA panel warns astronaut moon plan may be too ambitious
-- <a href="https://arstechnica.com/space/2024/02/by-launching-on-starship-the-starlab-station-can-get-to-orbit-in-one-piece/" >🔗</a> **[Arstechnica]** Starlab—with half the volume of the ISS—will fit inside Starship’s payload bay
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ LEO communications satellites for Chinese car manufacturer Geely Automotive for 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240202T050105">2024-02-02 05:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240202T053059">2024-02-02 05:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
