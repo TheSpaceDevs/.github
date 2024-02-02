@@ -93,11 +93,11 @@ LEO communications satellites for Chinese car manufacturer Geely Automotive for 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shanghai-firm-behind-g60-megaconstellation-raises-943-million/" >🔗</a> **[SpaceNews]** Shanghai firm behind G60 megaconstellation raises $943 million
 - <a href="https://europeanspaceflight.com/t-minus-engineering-to-launch-first-european-mission-of-2024/" >🔗</a> **[European Spaceflight]** T-Minus Engineering to Launch First European Mission of 2024
 - <a href="https://spacenews.com/startups-call-for-streamlined-us-regulations-for-emerging-space-capabilities/" >🔗</a> **[SpaceNews]** Startups call for streamlined US regulations for emerging space capabilities
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA’s PACE mission, Chinese art satellites, and more Starlink missions
 - <a href="https://spacepolicyonline.com/news/good-night-slim/" >🔗</a> **[SpacePolicyOnline.com]** Good night, SLIM
-- <a href="https://spacenews.com/congressional-letter-asks-white-house-to-reverse-msr-spending-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks White House to reverse MSR spending cuts
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ LEO communications satellites for Chinese car manufacturer Geely Automotive for 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240202T103107">2024-02-02 10:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240202T110110">2024-02-02 11:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
