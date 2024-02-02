@@ -91,7 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA’s PACE mission, Chinese aet satellites, and more Starlink missions
+- <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA’s PACE mission, Chinese art satellites, and more Starlink missions
 - <a href="https://spacepolicyonline.com/news/good-night-slim/" >🔗</a> **[SpacePolicyOnline.com]** Good night, SLIM
 - <a href="https://spacenews.com/congressional-letter-asks-white-house-to-reverse-msr-spending-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks White House to reverse MSR spending cuts
 - <a href="https://www.cnbc.com/2024/02/01/investing-in-space-nasa-panel-warns-moon-plan-may-be-too-ambitious.html" >🔗</a> **[CNBC]** Investing in Space: NASA panel warns astronaut moon plan may be too ambitious
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240201T233058">2024-02-01 23:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240202T000311">2024-02-02 00:03:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
