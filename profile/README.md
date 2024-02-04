@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-20-satellites-on-separate-inland-and-sea-rocket-launches/" >🔗</a> **[SpaceNews]** China launches 20 satellites on separate inland and sea rocket launches
 - <a href="https://spacenews.com/inland-spaceports-seek-ways-to-host-orbital-launches/" >🔗</a> **[SpaceNews]** Inland spaceports seek ways to host orbital launches
 - <a href="https://www.nasaspaceflight.com/2024/02/artemis-ii-egs-preparing/" >🔗</a> **[NASASpaceflight]** While Artemis II schedule remains uncertain, NASA EGS preparing to be ready and waiting for stacking
 - <a href="https://europeanspaceflight.com/european-made-3d-printer-will-be-the-first-to-print-metal-in-space/" >🔗</a> **[European Spaceflight]** European-Made 3D Printer Will Be the First to Print Metal in Space
 - <a href="https://spacenews.com/firefly-to-continue-responsive-launch-operations-for-future-alpha-missions/" >🔗</a> **[SpaceNews]** Firefly to continue responsive launch operations for future Alpha missions
-- <a href="https://spacenews.com/eutelsat-stops-services-on-aging-satellite-following-anomaly/" >🔗</a> **[SpaceNews]** Eutelsat stops services on aging satellite following anomaly
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240204T093104">2024-02-04 09:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240204T100107">2024-02-04 10:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
