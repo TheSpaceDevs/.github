@@ -91,22 +91,23 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/02/nasas-pace-climate-sat-ready-to-fly/" >🔗</a> **[Space Scout]** NASA’s PACE Climate Sat Ready to Fly
 - <a href="https://spacenews.com/last-vestige-old-space-architectural-thinking/" >🔗</a> **[SpaceNews]** The last vestige of old space architectural thinking
 - <a href="https://europeanspaceflight.com/hyimpulse-are-all-packed-and-heading-down-under/" >🔗</a> **[European Spaceflight]** HyImpulse Are All Packed and Heading Down Under
 - <a href="https://spacenews.com/nasa-compiling-lessons-learned-from-artemis-1/" >🔗</a> **[SpaceNews]** NASA compiling lessons learned from Artemis 1
 - <a href="https://europeanspaceflight.com/exolaunch-awarded-first-european-space-agency-launch-contract/" >🔗</a> **[European Spaceflight]** Exolaunch Awarded First European Space Agency Launch Contract
-- <a href="https://spacenews.com/nasa-earth-science-mission-once-slated-for-cancellation-ready-for-launch/" >🔗</a> **[SpaceNews]** NASA Earth science mission once slated for cancellation ready for launch
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA’s PACE mission, Chinese art satellites, and more Starlink missions
 - <a href="https://spacenews.com/nasa-earth-science-mission-once-slated-for-cancellation-ready-for-launch/" >🔗</a> **[SpaceNews]** NASA Earth science mission once slated for cancellation ready for launch
+- <a href="https://www.spacescout.info/2024/02/nasas-pace-climate-sat-ready-to-fly/" >🔗</a> **[Space Scout]** NASA’s PACE Climate Sat Ready to Fly
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T173109">2024-02-05 17:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T180126">2024-02-05 18:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
