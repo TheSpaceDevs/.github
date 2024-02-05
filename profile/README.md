@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/a-valentines-day-launch-for-the-next-u-s-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** A Valentine’s Day Launch for the Next U.S. Moon Mission
 - <a href="https://www.spacescout.info/2024/02/nasas-pace-climate-sat-ready-to-fly/" >🔗</a> **[Space Scout]** NASA’s PACE Climate Sat Ready to Fly
 - <a href="https://spacenews.com/last-vestige-old-space-architectural-thinking/" >🔗</a> **[SpaceNews]** The last vestige of old space architectural thinking
 - <a href="https://europeanspaceflight.com/hyimpulse-are-all-packed-and-heading-down-under/" >🔗</a> **[European Spaceflight]** HyImpulse Are All Packed and Heading Down Under
 - <a href="https://spacenews.com/nasa-compiling-lessons-learned-from-artemis-1/" >🔗</a> **[SpaceNews]** NASA compiling lessons learned from Artemis 1
-- <a href="https://europeanspaceflight.com/exolaunch-awarded-first-european-space-agency-launch-contract/" >🔗</a> **[European Spaceflight]** Exolaunch Awarded First European Space Agency Launch Contract
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T183114">2024-02-05 18:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T190223">2024-02-05 19:02:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
