@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/exolaunch-awarded-first-european-space-agency-launch-contract/" >🔗</a> **[European Spaceflight]** Exolaunch Awarded First European Space Agency Launch Contract
 - <a href="https://spacenews.com/nasa-earth-science-mission-once-slated-for-cancellation-ready-for-launch/" >🔗</a> **[SpaceNews]** NASA Earth science mission once slated for cancellation ready for launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-4-10-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 4-10, 2024
 - <a href="https://spacenews.com/china-launches-20-satellites-on-separate-inland-and-sea-rocket-launches/" >🔗</a> **[SpaceNews]** China launches 20 satellites on separate inland and sea rocket launches
 - <a href="https://spacenews.com/inland-spaceports-seek-ways-to-host-orbital-launches/" >🔗</a> **[SpaceNews]** Inland spaceports seek ways to host orbital launches
-- <a href="https://www.nasaspaceflight.com/2024/02/artemis-ii-egs-preparing/" >🔗</a> **[NASASpaceflight]** While Artemis II schedule remains uncertain, NASA EGS preparing to be ready and waiting for stacking
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T083106">2024-02-05 08:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T090112">2024-02-05 09:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
