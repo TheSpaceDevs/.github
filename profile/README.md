@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-earth-science-mission-once-slated-for-cancellation-ready-for-launch/" >🔗</a> **[SpaceNews]** NASA Earth science mission once slated for cancellation ready for launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-4-10-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 4-10, 2024
 - <a href="https://spacenews.com/china-launches-20-satellites-on-separate-inland-and-sea-rocket-launches/" >🔗</a> **[SpaceNews]** China launches 20 satellites on separate inland and sea rocket launches
 - <a href="https://spacenews.com/inland-spaceports-seek-ways-to-host-orbital-launches/" >🔗</a> **[SpaceNews]** Inland spaceports seek ways to host orbital launches
 - <a href="https://www.nasaspaceflight.com/2024/02/artemis-ii-egs-preparing/" >🔗</a> **[NASASpaceflight]** While Artemis II schedule remains uncertain, NASA EGS preparing to be ready and waiting for stacking
-- <a href="https://europeanspaceflight.com/european-made-3d-printer-will-be-the-first-to-print-metal-in-space/" >🔗</a> **[European Spaceflight]** European-Made 3D Printer Will Be the First to Print Metal in Space
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240204T233109">2024-02-04 23:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240205T000340">2024-02-05 00:03:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
