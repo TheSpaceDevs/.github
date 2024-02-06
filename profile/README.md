@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spectrum-for-the-space-and-satellite-industry/" >🔗</a> **[SpaceNews]** Spectrum for the Space and Satellite Industry
 - <a href="https://arstechnica.com/space/2024/02/daily-telescope-a-stunning-new-image-of-io-reveals-a-volcanic-plume/" >🔗</a> **[Arstechnica]** Daily Telescope: A stunning new image of Io reveals a volcanic plume
 - <a href="https://spacenews.com/ai-startup-synthetaic-raises-15-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** AI startup Synthetaic raises $15 million in Series B funding
 - <a href="https://europeanspaceflight.com/greece-announces-e60m-earth-observation-microsatellite-constellation/" >🔗</a> **[European Spaceflight]** Greece Announces €60M Earth Observation Microsatellite Constellation
 - <a href="https://spacenews.com/lynk-global-finalizes-spac-merger-deal/" >🔗</a> **[SpaceNews]** Lynk Global finalizes SPAC merger deal
-- <a href="https://spacenews.com/virgin-galactic-investigating-dropped-pin-on-most-recent-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic investigating dropped pin on most recent suborbital flight
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240206T180107">2024-02-06 18:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240206T183128">2024-02-06 18:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
