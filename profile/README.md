@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/daily-telescope-a-stunning-new-image-of-io-reveals-a-volcanic-plume/" >🔗</a> **[Arstechnica]** Daily Telescope: A stunning new image of Io reveals a volcanic plume
+- <a href="https://spacenews.com/ai-startup-synthetaic-raises-15-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** AI startup Synthetaic raises $15 million in Series B funding
+- <a href="https://europeanspaceflight.com/greece-announces-e60m-earth-observation-microsatellite-constellation/" >🔗</a> **[European Spaceflight]** Greece Announces €60M Earth Observation Microsatellite Constellation
 - <a href="https://spacenews.com/lynk-global-finalizes-spac-merger-deal/" >🔗</a> **[SpaceNews]** Lynk Global finalizes SPAC merger deal
 - <a href="https://spacenews.com/virgin-galactic-investigating-dropped-pin-on-most-recent-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic investigating dropped pin on most recent suborbital flight
-- <a href="https://spacenews.com/first-intuitive-machines-lunar-lander-mission-set-for-feb-14-launch/" >🔗</a> **[SpaceNews]** First Intuitive Machines lunar lander mission set for Feb. 14 launch
-- <a href="https://www.nasaspaceflight.com/2024/02/pace-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch PACE science satellite for NASA
-- <a href="https://spacepolicyonline.com/news/marshall-space-flight-center-gets-new-director/" >🔗</a> **[SpacePolicyOnline.com]** Marshall Space Flight Center Gets New Director
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240206T130249">2024-02-06 13:02:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240206T133105">2024-02-06 13:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
