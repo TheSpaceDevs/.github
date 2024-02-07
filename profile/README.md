@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/02/ariane-6-prepares-ship-kourou/" >🔗</a> **[NASASpaceflight]** ArianeGroup prepares to ship Ariane 6 maiden flight rocket to Kourou
 - <a href="https://www.nasaspaceflight.com/2024/02/ariane-6-shipped/" >🔗</a> **[NASASpaceflight]** ArianeGroup ships Ariane 6 maiden flight rocket to Kourou
 - <a href="https://spacenews.com/tech-executive-tim-solms-named-ceo-of-slingshot-aerospace/" >🔗</a> **[SpaceNews]** Tech executive Tim Solms named CEO of Slingshot Aerospace
 - <a href="https://www.spacescout.info/2024/02/im-1-prepares-for-launch/" >🔗</a> **[Space Scout]** As IM-1 Prepares for Launch, Questions Abound for CLPS
 - <a href="https://spacenews.com/kuva-space-establishes-u-s-arm-in-fairfax-virginia/" >🔗</a> **[SpaceNews]** Kuva Space establishes U.S. arm in Fairfax, Virginia
-- <a href="https://spacenews.com/china-to-launch-lunar-navigation-and-communications-test-satellites/" >🔗</a> **[SpaceNews]** China to launch lunar navigation and communications test satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T213056">2024-02-07 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T220111">2024-02-07 22:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
