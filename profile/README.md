@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/02/im-1-prepares-for-launch/" >🔗</a> **[Space Scout]** As IM-1 Prepares for Launch, Questions Abound for CLPS
 - <a href="https://spacenews.com/kuva-space-establishes-u-s-arm-in-fairfax-virginia/" >🔗</a> **[SpaceNews]** Kuva Space establishes U.S. arm in Fairfax, Virginia
 - <a href="https://spacenews.com/china-to-launch-lunar-navigation-and-communications-test-satellites/" >🔗</a> **[SpaceNews]** China to launch lunar navigation and communications test satellites
 - <a href="https://spacenews.com/space-industry-urged-to-take-a-broader-view-of-sustainability/" >🔗</a> **[SpaceNews]** Space industry urged to take a broader view of sustainability
 - <a href="https://europeanspaceflight.com/esa-boosts-deep-space-comms-capacity-with-cryocooled-upgrade/" >🔗</a> **[European Spaceflight]** ESA Boosts Deep-Space Comms Capacity with Cryocooled Upgrade
-- <a href="https://spacenews.com/viasat-preparing-to-start-services-from-hobbled-viasat-3-satellite/" >🔗</a> **[SpaceNews]** Viasat preparing to start services from hobbled ViaSat-3 satellite
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T170106">2024-02-07 17:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T173113">2024-02-07 17:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
