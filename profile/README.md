@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-boosts-deep-space-comms-capacity-with-cryocooled-upgrade/" >🔗</a> **[European Spaceflight]** ESA Boosts Deep-Space Comms Capacity with Cryocooled Upgrade
 - <a href="https://spacenews.com/viasat-preparing-to-start-services-from-hobbled-viasat-3-satellite/" >🔗</a> **[SpaceNews]** Viasat preparing to start services from hobbled ViaSat-3 satellite
 - <a href="https://spacenews.com/venture-backed-space-companies-face-year-of-reckoning/" >🔗</a> **[SpaceNews]** Venture-backed space companies face “year of reckoning”
 - <a href="https://spacepolicyonline.com/news/jpl-lays-off-eight-percent-of-workforce-amid-budget-uncertainty/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Eight Percent of Workforce Amid Budget Uncertainty
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch lunar lander on Falcon 9’s 300th mission; JAXA looks to reach orbit with H3 rocket
-- <a href="https://spacenews.com/jpl-to-lay-off-8-of-workforce/" >🔗</a> **[SpaceNews]** JPL to lay off 8% of workforce
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T093053">2024-02-07 09:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240207T100125">2024-02-07 10:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
