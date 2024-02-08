@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-intelligence-names-new-chief-technology-officer/" >🔗</a> **[SpaceNews]** Maxar Intelligence names new chief technology officer
 - <a href="https://www.nasaspaceflight.com/2024/02/dream-chaser-nasa-glenn/" >🔗</a> **[NASASpaceflight]** Dream Chaser undergoes NASA testing ahead of first flight
 - <a href="https://www.cnbc.com/2024/02/08/investing-in-space-how-bankers-read-a-potential-ula-sale.html" >🔗</a> **[CNBC]** Investing in Space: How bankers read a potential sale of rocket builder ULA
 - <a href="https://www.spacescout.info/2024/02/pace-mission-takes-flight/" >🔗</a> **[Space Scout]** NASA’s Newest Ocean Mission Takes Flight
 - <a href="https://spacenews.com/ai-spurs-pace-of-space-sector-innovation/" >🔗</a> **[SpaceNews]** AI spurs space sector innovation
-- <a href="https://arstechnica.com/space/2024/02/daily-telescope-a-bright-nebula-in-a-one-horned-constellation/" >🔗</a> **[Arstechnica]** Daily Telescope: A bright nebula in a one-horned constellation
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240208T203054">2024-02-08 20:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240208T210118">2024-02-08 21:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
