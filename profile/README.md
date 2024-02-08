@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/daily-telescope-a-bright-nebula-in-a-one-horned-constellation/" >🔗</a> **[Arstechnica]** Daily Telescope: A bright nebula in a one-horned constellation
+- <a href="https://spacenews.com/small-launch-companies-seek-niches-to-compete-with-spacex-rideshare/" >🔗</a> **[SpaceNews]** Small launch companies seek niches to compete with SpaceX rideshare
 - <a href="https://spacepolicyonline.com/news/nasa-launches-pace-to-advance-knowledge-of-ocean-atmosphere-interactions/" >🔗</a> **[SpacePolicyOnline.com]** NASA Launches PACE to Advance Knowledge of Ocean-Atmosphere Interactions
 - <a href="https://spacenews.com/falcon-9-launches-pace-earth-science-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches PACE Earth science mission
 - <a href="https://spacenews.com/blacksky-inks-50-million-deal-to-supply-imagery-services-and-satellites-to-indonesia/" >🔗</a> **[SpaceNews]** BlackSky inks $50 million deal to supply imagery services and satellites to Indonesia
-- <a href="https://europeanspaceflight.com/esa-astronaut-samantha-cristoforetti-to-lead-agencys-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Astronaut Samantha Cristoforetti to Lead Agency’s LEO Cargo Return Initiative
-- <a href="https://spacenews.com/japan-funding-water-based-satellite-propulsion-upgrade/" >🔗</a> **[SpaceNews]** Japan funding water-based satellite propulsion upgrade
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240208T130105">2024-02-08 13:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240208T133110">2024-02-08 13:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
