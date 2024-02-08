@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-astronaut-samantha-cristoforetti-to-lead-agencys-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Astronaut Samantha Cristoforetti to Lead Agency’s LEO Cargo Return Initiative
 - <a href="https://spacenews.com/japan-funding-water-based-satellite-propulsion-upgrade/" >🔗</a> **[SpaceNews]** Japan funding water-based satellite propulsion upgrade
 - <a href="https://www.nasaspaceflight.com/2024/02/ariane-6-prepares-ship-kourou/" >🔗</a> **[NASASpaceflight]** ArianeGroup prepares to ship Ariane 6 maiden flight rocket to Kourou
 - <a href="https://www.nasaspaceflight.com/2024/02/ariane-6-shipped/" >🔗</a> **[NASASpaceflight]** ArianeGroup ships Ariane 6 maiden flight rocket to Kourou
 - <a href="https://spacenews.com/tech-executive-tim-solms-named-ceo-of-slingshot-aerospace/" >🔗</a> **[SpaceNews]** Tech executive Tim Solms named CEO of Slingshot Aerospace
-- <a href="https://www.spacescout.info/2024/02/im-1-prepares-for-launch/" >🔗</a> **[Space Scout]** As IM-1 Prepares for Launch, Questions Abound for CLPS
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240208T073106">2024-02-08 07:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240208T080125">2024-02-08 08:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
