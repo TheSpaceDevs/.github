@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/critical-role-space-modern-warfare-imperative-joint-space-capabilities-europe/" >🔗</a> **[SpaceNews]** The critical role of space in modern warfare and the imperative of joint space capabilities in Europe
+- <a href="https://spacenews.com/ax-3-private-astronaut-mission-splashes-down/" >🔗</a> **[SpaceNews]** Ax-3 private astronaut mission splashes down
 - <a href="https://spacenews.com/satellite-operators-join-forces-to-chase-direct-to-smartphone-opportunity/" >🔗</a> **[SpaceNews]** Satellite operators join forces to chase direct-to-smartphone opportunity
 - <a href="https://spacenews.com/beijing-government-releases-commercial-space-action-plan/" >🔗</a> **[SpaceNews]** Beijing government releases commercial space action plan
 - <a href="https://arstechnica.com/space/2024/02/rocket-report-us-military-still-wants-point-to-point-indias-big-2024-ambitions/" >🔗</a> **[Arstechnica]** Rocket Report: US military still wants point-to-point; India’s big 2024 ambitions
-- <a href="https://europeanspaceflight.com/atmos-raises-e1-3m-more-to-fund-development-of-return-capsule/" >🔗</a> **[European Spaceflight]** ATMOS Raises €1.3M More to Fund Development of Return Capsule
-- <a href="https://spacenews.com/l3harris-demonstrated-a-digital-phased-array-antenna-system/" >🔗</a> **[SpaceNews]** L3Harris demonstrates digital phased array antenna system
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240209T143059">2024-02-09 14:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240209T150113">2024-02-09 15:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
