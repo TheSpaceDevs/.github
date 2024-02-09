@@ -93,11 +93,11 @@ Possible Russian military payload of unknown purposes.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/collins-performs-tests-of-new-space-station-spacesuit/" >🔗</a> **[SpaceNews]** Collins performs tests of new space station spacesuit
 - <a href="https://spacenews.com/national-guard-air-force-working-to-resolve-impasse-over-space-units/" >🔗</a> **[SpaceNews]** National Guard, Air Force, working to resolve impasse over space units
 - <a href="https://spacenews.com/resilient-space-order-of-battle-flexible-adaptable-affordable/" >🔗</a> **[SpaceNews]** Resilient Space Order of Battle: Flexible, Adaptable & Affordable
 - <a href="https://spacenews.com/satellite-operator-oq-technology-joins-direct-to-smartphone-bandwagon/" >🔗</a> **[SpaceNews]** Satellite operator OQ Technology joins direct-to-smartphone bandwagon
 - <a href="https://www.cnbc.com/2024/02/08/hawaiian-airlines-debuts-spacex-starlink-free-inflight-wi-fi-.html" >🔗</a> **[CNBC]** Hawaiian Airlines debuts free inflight Wi-Fi from SpaceX’s Starlink
-- <a href="https://spacenews.com/maxar-intelligence-names-new-chief-technology-officer/" >🔗</a> **[SpaceNews]** Maxar Intelligence names new chief technology officer
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Possible Russian military payload of unknown purposes.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240209T033055">2024-02-09 03:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240209T040123">2024-02-09 04:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
