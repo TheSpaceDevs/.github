@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/axiom-3-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-3 Home at Last
+- <a href="https://spacenews.com/webinar-automating-for-smallsat-success/" >🔗</a> **[SpaceNews]** Webinar: Automating for SmallSat Success
 - <a href="https://www.teslarati.com/spacex-dragon-ax-3-splashdown/" >🔗</a> **[Teslarati]** SpaceX Dragon capsule carrying Ax-3 astronauts safely splashes down
 - <a href="https://spacenews.com/critical-role-space-modern-warfare-imperative-joint-space-capabilities-europe/" >🔗</a> **[SpaceNews]** The critical role of space in modern warfare and the imperative of joint space capabilities in Europe
 - <a href="https://spacenews.com/ax-3-private-astronaut-mission-splashes-down/" >🔗</a> **[SpaceNews]** Ax-3 private astronaut mission splashes down
-- <a href="https://spacenews.com/satellite-operators-join-forces-to-chase-direct-to-smartphone-opportunity/" >🔗</a> **[SpaceNews]** Satellite operators join forces to chase direct-to-smartphone opportunity
-- <a href="https://spacenews.com/beijing-government-releases-commercial-space-action-plan/" >🔗</a> **[SpaceNews]** Beijing government releases commercial space action plan
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240209T173058">2024-02-09 17:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240209T180108">2024-02-09 18:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
