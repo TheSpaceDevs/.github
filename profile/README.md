@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/greece-becomes-12th-esa-member-to-join-the-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Greece Becomes 12th ESA Member to Join the Artemis Accords
 - <a href="https://www.spacescout.info/2024/02/uncertain-funding-threatens-jpls-future-plans/" >🔗</a> **[Space Scout]** Uncertain Funding Threatens JPL’s Future Plans
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-reusable-rocket-booster-concepts/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Reusable Rocket Booster Concepts
 - <a href="https://spacenews.com/greece-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Greece signs Artemis Accords
 - <a href="https://spacepolicyonline.com/news/axiom-3-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-3 Home at Last
-- <a href="https://spacenews.com/webinar-automating-for-smallsat-success/" >🔗</a> **[SpaceNews]** Webinar: Automating for SmallSat Success
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240210T170119">2024-02-10 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240210T173059">2024-02-10 17:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
