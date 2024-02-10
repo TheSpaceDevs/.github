@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/02/uncertain-funding-threatens-jpls-future-plans/" >🔗</a> **[Space Scout]** Uncertain Funding Threatens JPL’s Future Plans
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-reusable-rocket-booster-concepts/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Reusable Rocket Booster Concepts
 - <a href="https://spacenews.com/greece-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Greece signs Artemis Accords
 - <a href="https://spacepolicyonline.com/news/axiom-3-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-3 Home at Last
 - <a href="https://spacenews.com/webinar-automating-for-smallsat-success/" >🔗</a> **[SpaceNews]** Webinar: Automating for SmallSat Success
-- <a href="https://www.teslarati.com/spacex-dragon-ax-3-splashdown/" >🔗</a> **[Teslarati]** SpaceX Dragon capsule carrying Ax-3 astronauts safely splashes down
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240210T153052">2024-02-10 15:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240210T160114">2024-02-10 16:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
