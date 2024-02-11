@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-11-17-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 11-17, 2024
 - <a href="https://spacenews.com/bruno-trumpets-transformation-of-ula-after-vulcan-launch/" >🔗</a> **[SpaceNews]** Bruno trumpets transformation of ULA after Vulcan launch
 - <a href="https://spacenews.com/polaris-dawn-private-astronaut-mission-slips-to-mid-2024/" >🔗</a> **[SpaceNews]** Polaris Dawn private astronaut mission slips to mid-2024
 - <a href="https://spacenews.com/space-tech-startup-true-anomaly-set-to-launch-its-first-satellites/" >🔗</a> **[SpaceNews]** Space tech startup True Anomaly set to launch its first satellites
 - <a href="https://spacepolicyonline.com/news/greece-becomes-12th-esa-member-to-join-the-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Greece Becomes 12th ESA Member to Join the Artemis Accords
-- <a href="https://www.spacescout.info/2024/02/uncertain-funding-threatens-jpls-future-plans/" >🔗</a> **[Space Scout]** Uncertain Funding Threatens JPL’s Future Plans
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240211T223103">2024-02-11 22:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240211T230117">2024-02-11 23:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
