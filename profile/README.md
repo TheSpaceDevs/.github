@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-startup-aalyria-demonstrates-satellite-mesh-network/" >🔗</a> **[SpaceNews]** Space startup Aalyria demonstrates satellite mesh network
 - <a href="https://europeanspaceflight.com/uksa-commits-3-5m-to-the-development-of-satellite-servicing-tech/" >🔗</a> **[European Spaceflight]** UKSA Commits £3.5M to the Development of Satellite Servicing Tech
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-11-17-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 11-17, 2024
 - <a href="https://spacenews.com/bruno-trumpets-transformation-of-ula-after-vulcan-launch/" >🔗</a> **[SpaceNews]** Bruno trumpets transformation of ULA after Vulcan launch
 - <a href="https://spacenews.com/polaris-dawn-private-astronaut-mission-slips-to-mid-2024/" >🔗</a> **[SpaceNews]** Polaris Dawn private astronaut mission slips to mid-2024
-- <a href="https://spacenews.com/space-tech-startup-true-anomaly-set-to-launch-its-first-satellites/" >🔗</a> **[SpaceNews]** Space tech startup True Anomaly set to launch its first satellites
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240212T110105">2024-02-12 11:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240212T113103">2024-02-12 11:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
