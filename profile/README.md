@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/global-satellite-capacity-prices-tumble-in-starlinks-wake/" >🔗</a> **[SpaceNews]** Global satellite capacity prices tumble in Starlink’s wake
 - <a href="https://spacenews.com/blue-canyon-to-deliver-spacecraft-for-u-s-air-force-cislunar-mission/" >🔗</a> **[SpaceNews]** Blue Canyon to deliver spacecraft for U.S. Air Force cislunar mission
 - <a href="https://europeanspaceflight.com/cold-weather-proves-challenging-for-t-minus-launch-campaign/" >🔗</a> **[European Spaceflight]** Cold Weather Proves Challenging for T-Minus Launch Campaign
 - <a href="https://spacenews.com/leolabs-raises-29-million/" >🔗</a> **[SpaceNews]** LeoLabs raises $29 million
 - <a href="https://arstechnica.com/space/2024/02/daily-telescope-a-solar-eclipse-from-the-surface-of-mars/" >🔗</a> **[Arstechnica]** Daily Telescope: A solar eclipse from the surface of Mars
-- <a href="https://arstechnica.com/space/2024/02/before-ingenuity-ever-landed-on-mars-scientists-almost-managed-to-kill-it/" >🔗</a> **[Arstechnica]** Before Ingenuity ever landed on Mars, scientists almost managed to kill it
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240212T193118">2024-02-12 19:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240212T200123">2024-02-12 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
