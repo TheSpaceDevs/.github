@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines ready for launch of its first lunar lander
 - <a href="https://europeanspaceflight.com/the-exploration-company-continues-testing-its-huracan-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Continues Testing its Huracán Rocket Engine
 - <a href="https://spacenews.com/u-s-air-force-and-space-force-to-realign-priorities/" >🔗</a> **[SpaceNews]** U.S. Air Force and Space Force to realign priorities
 - <a href="https://spacenews.com/space-force-seen-as-the-more-agile-branch-to-adopt-new-tech/" >🔗</a> **[SpaceNews]** Space Force seen as the more agile branch to adopt new tech
 - <a href="https://www.nasaspaceflight.com/2024/02/idefix-interview/" >🔗</a> **[NASASpaceflight]** IDEFIX Phobos rover sent to Japan ahead of mission to Mars
-- <a href="https://spacenews.com/iridium-weighs-in-on-ligados-lawsuit-against-us-government/" >🔗</a> **[SpaceNews]** Iridium weighs in on Ligado’s lawsuit against US government
 
 
 ### Launch-related News 🚀
@@ -120,11 +120,12 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/first-intuitive-machines-lunar-lander-mission-set-for-feb-14-launch/" >🔗</a> **[SpaceNews]** First Intuitive Machines lunar lander mission set for Feb. 14 launch
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch lunar lander on Falcon 9’s 300th mission; JAXA looks to reach orbit with H3 rocket
 - <a href="https://www.spacescout.info/2024/02/im-1-prepares-for-launch/" >🔗</a> **[Space Scout]** As IM-1 Prepares for Launch, Questions Abound for CLPS
+- <a href="https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines ready for launch of its first lunar lander
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T113055">2024-02-13 11:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T120142">2024-02-13 12:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
