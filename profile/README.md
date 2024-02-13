@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/02/13/startup-skylo-raises-37-million-from-intel-bmw-samsung.html" >🔗</a> **[CNBC]** Satellite connectivity startup Skylo hooks backers such as Intel, BMW, Samsung to raise $37 million
 - <a href="https://www.cnbc.com/2024/02/13/startup-k2-space-raises-50-million.html" >🔗</a> **[CNBC]** K2 Space, a startup with SpaceX veterans building monster satellites, raises $50 million
 - <a href="https://spacenews.com/spacex-to-deorbit-100-older-starlink-satellites/" >🔗</a> **[SpaceNews]** SpaceX to deorbit 100 older Starlink satellites
 - <a href="https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines ready for launch of its first lunar lander
 - <a href="https://europeanspaceflight.com/the-exploration-company-continues-testing-its-huracan-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Continues Testing its Huracán Rocket Engine
-- <a href="https://spacenews.com/u-s-air-force-and-space-force-to-realign-priorities/" >🔗</a> **[SpaceNews]** U.S. Air Force and Space Force to realign priorities
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T153102">2024-02-13 15:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T160154">2024-02-13 16:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
