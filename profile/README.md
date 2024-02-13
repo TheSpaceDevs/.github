@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-continues-testing-its-huracan-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Continues Testing its Huracán Rocket Engine
 - <a href="https://spacenews.com/u-s-air-force-and-space-force-to-realign-priorities/" >🔗</a> **[SpaceNews]** U.S. Air Force and Space Force to realign priorities
 - <a href="https://spacenews.com/space-force-seen-as-the-more-agile-branch-to-adopt-new-tech/" >🔗</a> **[SpaceNews]** Space Force seen as the more agile branch to adopt new tech
 - <a href="https://www.nasaspaceflight.com/2024/02/idefix-interview/" >🔗</a> **[NASASpaceflight]** IDEFIX Phobos rover sent to Japan ahead of mission to Mars
 - <a href="https://spacenews.com/iridium-weighs-in-on-ligados-lawsuit-against-us-government/" >🔗</a> **[SpaceNews]** Iridium weighs in on Ligado’s lawsuit against US government
-- <a href="https://spacenews.com/global-satellite-capacity-prices-tumble-in-starlinks-wake/" >🔗</a> **[SpaceNews]** Global satellite capacity prices tumble in Starlink’s wake
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T083105">2024-02-13 08:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T090113">2024-02-13 09:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
