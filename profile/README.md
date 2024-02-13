@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-deorbit-100-older-starlink-satellites/" >🔗</a> **[SpaceNews]** SpaceX to deorbit 100 older Starlink satellites
 - <a href="https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines ready for launch of its first lunar lander
 - <a href="https://europeanspaceflight.com/the-exploration-company-continues-testing-its-huracan-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Continues Testing its Huracán Rocket Engine
 - <a href="https://spacenews.com/u-s-air-force-and-space-force-to-realign-priorities/" >🔗</a> **[SpaceNews]** U.S. Air Force and Space Force to realign priorities
 - <a href="https://spacenews.com/space-force-seen-as-the-more-agile-branch-to-adopt-new-tech/" >🔗</a> **[SpaceNews]** Space Force seen as the more agile branch to adopt new tech
-- <a href="https://www.nasaspaceflight.com/2024/02/idefix-interview/" >🔗</a> **[NASASpaceflight]** IDEFIX Phobos rover sent to Japan ahead of mission to Mars
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T120142">2024-02-13 12:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T123712">2024-02-13 12:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
