@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/skylo-raises-37-million-to-scale-up-direct-to-device-partnerships/" >🔗</a> **[SpaceNews]** Skylo raises $37 million to scale up direct-to-device partnerships
 - <a href="https://spacenews.com/intelsat-to-produce-multi-orbit-satellite-terminals-for-u-s-military-aircraft/" >🔗</a> **[SpaceNews]** Intelsat to produce multi-orbit satellite terminals for U.S. military aircraft
 - <a href="https://mars.nasa.gov/news/9549/" >🔗</a> **[NASA]** Team Assessing SHERLOC Instrument on NASA's Perseverance Rover
 - <a href="https://www.nasaspaceflight.com/2024/02/starship-3-stacked-first-time/" >🔗</a> **[NASASpaceflight]** Starship Flight 3 Fully Stacked for WDR testing
 - <a href="https://www.spacescout.info/2024/02/the-sun-sets-on-slim/" >🔗</a> **[Space Scout]** The Sun Sets on SLIM – What Next?
-- <a href="https://www.cnbc.com/2024/02/13/startup-skylo-raises-37-million-from-intel-bmw-samsung.html" >🔗</a> **[CNBC]** Satellite connectivity startup Skylo hooks backers such as Intel, BMW, Samsung to raise $37 million
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T180158">2024-02-13 18:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T183221">2024-02-13 18:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
