@@ -47,8 +47,8 @@ into *a Lunar Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T055700">2024-02-14 05:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20240214T055700Z%2F20240214T055700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T215600">2024-02-14 21:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-14&location=Vandenberg SFB, CA, USA&dates=20240214T215600Z%2F20240215T015440Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T223000">2024-02-14 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-124&location=Cape Canaveral, FL, USA&dates=20240214T223000Z%2F20240215T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-124** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T003000">2024-02-15 00:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-14&location=Vandenberg SFB, CA, USA&dates=20240215T003000Z%2F20240215T022400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T032507">2024-02-15 03:25:07 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-26 (87P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240215T032507Z%2F20240215T032507Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-26 (87P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T002255">2024-02-17 00:22:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | VEP 4, CE-SAT-1E &amp; TIRSAT&location=Tanegashima Space Center, Japan&dates=20240217T002255Z%2F20240217T040634Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | VEP 4, CE-SAT-1E & TIRSAT** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T113000">2024-02-17 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | INSAT-3DS&location=Satish Dhawan Space Centre, India&dates=20240217T113000Z%2F20240217T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | INSAT-3DS** from Satish Dhawan Space Centre, India.
@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelsat-to-produce-multi-orbit-satellite-terminals-for-u-s-military-aircraft/" >🔗</a> **[SpaceNews]** Intelsat to produce multi-orbit satellite terminals for U.S. military aircraft
+- <a href="https://mars.nasa.gov/news/9549/" >🔗</a> **[NASA]** Team Assessing SHERLOC Instrument on NASA's Perseverance Rover
+- <a href="https://www.nasaspaceflight.com/2024/02/starship-3-stacked-first-time/" >🔗</a> **[NASASpaceflight]** Starship Flight 3 Fully Stacked for WDR testing
 - <a href="https://www.spacescout.info/2024/02/the-sun-sets-on-slim/" >🔗</a> **[Space Scout]** The Sun Sets on SLIM – What Next?
 - <a href="https://www.cnbc.com/2024/02/13/startup-skylo-raises-37-million-from-intel-bmw-samsung.html" >🔗</a> **[CNBC]** Satellite connectivity startup Skylo hooks backers such as Intel, BMW, Samsung to raise $37 million
-- <a href="https://www.cnbc.com/2024/02/13/startup-k2-space-raises-50-million.html" >🔗</a> **[CNBC]** K2 Space, a startup with SpaceX veterans building monster satellites, raises $50 million
-- <a href="https://spacenews.com/spacex-to-deorbit-100-older-starlink-satellites/" >🔗</a> **[SpaceNews]** SpaceX to deorbit 100 older Starlink satellites
-- <a href="https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines ready for launch of its first lunar lander
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T173104">2024-02-13 17:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240213T180158">2024-02-13 18:01:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
