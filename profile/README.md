@@ -20,36 +20,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Nova-C IM-1**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | USSF-124**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T055700">2024-02-14 05:57:00 UTC</a>.  Until
-then, this pad will have been used for 170
-out of 228 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T223000">2024-02-14 22:30:00 UTC</a>.  Until
+then, this pad will have been used for 223
+out of 933 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Lunar Exploration* and the payload will be injected
-into *a Lunar Orbit
-(LO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  This is the first flight of Nova-C lander which was developed by Intuitive Machines. This mission is a part of CLPS program and carries various NASA payloads in support of Artemis lunar program, as well as multiple commercial payloads.
+  2 satellites, one by L3Harris and the other by Northrop Grumman, will be launched as the Hypersonic and Ballistic Tracking Space Sensor (HBTSS) mission for the US Missile Defense Agency. These satellites have improved sensitivity to detect and track hypersonic missiles with fainter signatures. 4 SDA Tranche 0 Tracking Layer missile warning satellites by L3Harris will also be on board.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T055700">2024-02-14 05:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20240214T055700Z%2F20240214T055700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T223000">2024-02-14 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-124&location=Cape Canaveral, FL, USA&dates=20240214T223000Z%2F20240215T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-124** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T003000">2024-02-15 00:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-14&location=Vandenberg SFB, CA, USA&dates=20240215T003000Z%2F20240215T015400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T032507">2024-02-15 03:25:07 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-26 (87P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240215T032507Z%2F20240215T032507Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-26 (87P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T060500">2024-02-15 06:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-1&location=Kennedy Space Center, FL, USA&dates=20240215T060500Z%2F20240215T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T002255">2024-02-17 00:22:55 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | VEP 4, CE-SAT-1E &amp; TIRSAT&location=Tanegashima Space Center, Japan&dates=20240217T002255Z%2F20240217T040634Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | VEP 4, CE-SAT-1E & TIRSAT** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T113000">2024-02-17 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | INSAT-3DS&location=Satish Dhawan Space Centre, India&dates=20240217T113000Z%2F20240217T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | INSAT-3DS** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240218T000000">2024-02-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | On Closer Inspection (ADRAS-J)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240218T000000Z%2F20240218T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | On Closer Inspection (ADRAS-J)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -100,32 +100,13 @@ into *a Lunar Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/intuitive-machines-first-lunar-lander-mission-slips-to-2022/" >🔗</a> **[SpaceNews]** Intuitive Machines’ first lunar lander mission slips to 2022
-- <a href="https://spaceflightnow.com/2022/06/06/small-nasa-lunar-probe-to-hitch-ride-on-commercial-moon-mission/" >🔗</a> **[Spaceflight Now]** Small NASA lunar probe to hitch ride on commercial moon mission
-- <a href="https://www.nasaspaceflight.com/2023/01/clps/" >🔗</a> **[NASASpaceflight]** NASA’s commercial lunar program ready to start flying in 2023
-- <a href="https://spacenews.com/first-intuitive-machine-lunar-lander-mission-slips-to-the-third-quarter/" >🔗</a> **[SpaceNews]** First Intuitive Machine lunar lander mission slips to the third quarter
-- <a href="https://arstechnica.com/space/2023/07/here-come-the-moon-landing-missions-probably/" >🔗</a> **[Arstechnica]** Here come the Moon landing missions (probably)
-- <a href="https://spacenews.com/intuitive-machines-sets-mid-november-launch-date-for-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines sets mid-November launch date for first lunar lander
-- <a href="https://spacepolicyonline.com/news/intuitive-machines-sets-november-for-launch-of-im-1-lunar-lander/" >🔗</a> **[SpacePolicyOnline.com]** Intuitive Machines Sets November for Launch of IM-1 Lunar Lander
-- <a href="https://arstechnica.com/space/2023/08/intuitive-machines-says-it-is-ready-to-fly-to-the-moon/" >🔗</a> **[Arstechnica]** Intuitive Machines says it is ready to fly to the Moon
-- <a href="https://arstechnica.com/space/2023/10/ars-takes-a-close-up-look-at-the-first-us-lunar-lander-in-half-a-century/" >🔗</a> **[Arstechnica]** Ars takes a close-up look at the first US lunar lander in half a century
-- <a href="https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/" >🔗</a> **[SpaceNews]** First Intuitive Machines lunar lander ready for launch
-- <a href="https://spacenews.com/intuitive-machines-delays-first-lander-mission-to-january/" >🔗</a> **[SpaceNews]** Intuitive Machines delays first lander mission to January
-- <a href="https://spacenews.com/intuitive-machines-planning-up-to-three-lunar-lander-missions-in-2024/" >🔗</a> **[SpaceNews]** Intuitive Machines planning up to three lunar lander missions in 2024
-- <a href="https://www.spacescout.info/2023/12/three-lunar-landers-target-arrival-in-january/" >🔗</a> **[Space Scout]** Three Lunar Landers Target Arrival in January
-- <a href="https://spacenews.com/intuitive-machines-delays-first-lunar-lander-launch-to-february/" >🔗</a> **[SpaceNews]** Intuitive Machines delays first lunar lander launch to February
-- <a href="https://tlpnetwork.com/news/2023/12/intuitive-machines-delays-lunar-lander-mission-due-to-spacex-launch-delays" >🔗</a> **[The Launch Pad]** Intuitive Machines Delays Lunar Lander Mission to Mid-February Due to SpaceX Launch Delays
-- <a href="https://spacenews.com/final-preparations-underway-for-launch-of-first-intuitive-machines-lunar-lander/" >🔗</a> **[SpaceNews]** Final preparations underway for launch of first Intuitive Machines lunar lander
-- <a href="https://spacepolicyonline.com/news/a-valentines-day-launch-for-the-next-u-s-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** A Valentine’s Day Launch for the Next U.S. Moon Mission
-- <a href="https://spacenews.com/first-intuitive-machines-lunar-lander-mission-set-for-feb-14-launch/" >🔗</a> **[SpaceNews]** First Intuitive Machines lunar lander mission set for Feb. 14 launch
-- <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-020624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch lunar lander on Falcon 9’s 300th mission; JAXA looks to reach orbit with H3 rocket
-- <a href="https://www.spacescout.info/2024/02/im-1-prepares-for-launch/" >🔗</a> **[Space Scout]** As IM-1 Prepares for Launch, Questions Abound for CLPS
-- <a href="https://spacenews.com/intuitive-machines-ready-for-launch-of-its-first-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines ready for launch of its first lunar lander
+- <a href="https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/" >🔗</a> **[Teslarati]** SpaceX, ULA awarded eight more US military launch contracts
+- <a href="https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/" >🔗</a> **[Spaceflight Now]** U.S. Space Force orders eight launches from ULA and SpaceX
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T043057">2024-02-14 04:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T050210">2024-02-14 05:02:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
