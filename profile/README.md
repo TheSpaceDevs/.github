@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-launch-startup-orienspace-secures-83-5-million/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace secures $83.5 million
 - <a href="https://arstechnica.com/space/2024/02/spacex-and-intuitive-machines-seek-to-blaze-a-new-trail-to-the-moon/" >🔗</a> **[Arstechnica]** Fueling a spacecraft while it’s on a rocket? “Not trivial,” SpaceX official says.
 - <a href="https://spacenews.com/governments-worldwide-use-satellite-communication-close-critical-gap/" >🔗</a> **[SpaceNews]** Governments worldwide use satellite communication to close a critical gap
 - <a href="https://europeanspaceflight.com/uksa-contributes-7-4m-to-exploration-missions-from-around-the-world/" >🔗</a> **[European Spaceflight]** UKSA Contributes £7.4M to Exploration Missions from Around the World
 - <a href="https://spacenews.com/bae-systems-wins-approval-for-ball-aerospace-acquisition/" >🔗</a> **[SpaceNews]** BAE Systems wins approval for Ball Aerospace acquisition
-- <a href="https://spacenews.com/fueling-issue-delays-intuitive-machines-lunar-lander-launch/" >🔗</a> **[SpaceNews]** Fueling issue delays Intuitive Machines lunar lander launch
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T160128">2024-02-14 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T163231">2024-02-14 16:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
