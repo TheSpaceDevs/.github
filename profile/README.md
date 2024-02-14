@@ -91,7 +91,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-force-continues-to-tweak-plans-to-partner-with-commercial-industry/" >🔗</a> **[SpaceNews]** Space Force continues to tweak plans to partner with commercial industry
+- <a href="https://spacenews.com/space-force-continues-to-tweak-plans-to-partner-with-commercial-industry/" >🔗</a> **[SpaceNews]** Space Force continues to tweak plan to partner with commercial industry
 - <a href="https://spacenews.com/future-military-target-tracking-satellites-to-be-operated-by-u-s-space-force/" >🔗</a> **[SpaceNews]** Future military target-tracking satellites to be operated by U.S. Space Force 
 - <a href="https://www.nasaspaceflight.com/2024/02/im1-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Intuitive Machines IM-1 mission from Florida
 - <a href="https://spacenews.com/skylo-raises-37-million-to-scale-up-direct-to-device-partnerships/" >🔗</a> **[SpaceNews]** Skylo raises $37 million to scale up direct-to-device partnerships
@@ -125,7 +125,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T000314">2024-02-14 00:03:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240214T004445">2024-02-14 00:44:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
