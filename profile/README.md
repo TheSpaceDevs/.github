@@ -91,11 +91,11 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/transitioning-from-iss-to-commercial-space-stations-plenty-of-questions-but-few-answers/" >🔗</a> **[SpacePolicyOnline.com]** Transitioning From ISS to Commercial Space Stations: Plenty of Questions, But Few Answers
 - <a href="https://spacenews.com/nasa-selects-ultraviolet-astronomy-mission-but-delays-its-launch-two-years/" >🔗</a> **[SpaceNews]** NASA selects ultraviolet astronomy mission but delays its launch two years
 - <a href="https://spacenews.com/varda-gets-reentry-license-for-space-manufacturing-capsule/" >🔗</a> **[SpaceNews]** Varda gets reentry license for space manufacturing capsule
 - <a href="https://spacenews.com/spacex-launches-u-s-missile-defense-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. missile-defense satellites
 - <a href="https://spacenews.com/startup-pitches-ai-tool-to-prevent-pentagon-procurement-blunders/" >🔗</a> **[SpaceNews]** Startup pitches AI tool to prevent Pentagon procurement blunders
-- <a href="https://www.cnbc.com/2024/02/14/varda-drug-spacecraft-gets-faa-approval-to-return.html" >🔗</a> **[CNBC]** After 8 months stuck in orbit, Varda’s drug spacecraft gets FAA approval to return
 
 
 ### Launch-related News 🚀
@@ -126,7 +126,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T053100">2024-02-15 05:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T060132">2024-02-15 06:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
