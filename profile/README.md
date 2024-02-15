@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/02/15/intuitive-machines-lunr-stock-first-moon-mission-begins.html" >🔗</a> **[CNBC]** Intuitive Machines stock spikes 18% as lunar company’s first moon mission begins
 - <a href="https://www.cnbc.com/2024/02/15/intuitive-machines-first-moon-mission-begins-after-spacex-launch.html" >🔗</a> **[CNBC]** Moon company Intuitive Machines begins first mission after SpaceX launch
 - <a href="https://europeanspaceflight.com/sidereus-space-complete-short-duration-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Sidereus Space Complete Short-Duration Hot Fire Test Campaign
 - <a href="https://spacepolicyonline.com/news/another-u-s-lunar-lander-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** Another U.S. Lunar Lander Lifts Off
 - <a href="https://spacenews.com/falcon-9-launches-first-intuitive-machines-lunar-lander/" >🔗</a> **[SpaceNews]** Falcon 9 launches first Intuitive Machines lunar lander
-- <a href="https://spacepolicyonline.com/news/transitioning-from-iss-to-commercial-space-stations-plenty-of-questions-but-few-answers/" >🔗</a> **[SpacePolicyOnline.com]** Transitioning From ISS to Commercial Space Stations: Plenty of Questions, But Few Answers
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T143057">2024-02-15 14:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240215T150141">2024-02-15 15:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
