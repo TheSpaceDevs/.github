@@ -99,11 +99,11 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uruguay-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Uruguay signs Artemis Accords
 - <a href="https://spacenews.com/india-targets-a-surge-in-civil-and-commercial-launches/" >🔗</a> **[SpaceNews]** India targets a surge in civil and commercial launches
 - <a href="https://europeanspaceflight.com/has-the-rfa-one-maiden-flight-slipped-to-q4-2024/" >🔗</a> **[European Spaceflight]** Has the RFA ONE Maiden Flight Slipped to Q4 2024?
 - <a href="https://spacenews.com/iridium-adds-five-years-to-constellation-lifetime-estimate/" >🔗</a> **[SpaceNews]** Iridium adds five years to constellation lifetime estimate
 - <a href="https://spacepolicyonline.com/news/white-house-russia-developing-troubling-asat-capability-but-not-immediate-threat/" >🔗</a> **[SpacePolicyOnline.com]** White House: Russia Developing “Troubling” ASAT Capability, But Not Immediate Threat
-- <a href="https://spacenews.com/industry-seeks-more-resources-policy-changes-to-support-transition-from-iss-to-commercial-space-stations/" >🔗</a> **[SpaceNews]** Industry seeks more resources, policy changes to support transition from ISS to commercial space stations
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T120120">2024-02-16 12:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T123715">2024-02-16 12:37:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
