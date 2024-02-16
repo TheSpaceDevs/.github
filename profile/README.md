@@ -99,11 +99,11 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/02/16/intuitive-machines-lunr-stock-jumps-after-moon-mission-update.html" >🔗</a> **[CNBC]** Intuitive Machines stock jumps 16% after company says moon mission is in ‘excellent health’
+- <a href="https://spacenews.com/why-space-force-is-growing-more-alarmed-by-chinas-eyes-in-the-sky/" >🔗</a> **[SpaceNews]** Why Space Force is growing more alarmed by China’s eyes in the sky
 - <a href="https://spacenews.com/viasat-completes-first-broadband-upgrade-on-military-sealift-fleet/" >🔗</a> **[SpaceNews]** Viasat completes first broadband upgrade on military sealift fleet
 - <a href="https://spacenews.com/uruguay-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Uruguay signs Artemis Accords
 - <a href="https://spacenews.com/india-targets-a-surge-in-civil-and-commercial-launches/" >🔗</a> **[SpaceNews]** India targets a surge in civil and commercial launches
-- <a href="https://europeanspaceflight.com/has-the-rfa-one-maiden-flight-slipped-to-q4-2024/" >🔗</a> **[European Spaceflight]** Has the RFA ONE Maiden Flight Slipped to Q4 2024?
-- <a href="https://spacenews.com/iridium-adds-five-years-to-constellation-lifetime-estimate/" >🔗</a> **[SpaceNews]** Iridium adds five years to constellation lifetime estimate
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T153056">2024-02-16 15:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T160114">2024-02-16 16:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
