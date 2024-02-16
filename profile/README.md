@@ -99,11 +99,11 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-seeks-more-resources-policy-changes-to-support-transition-from-iss-to-commercial-space-stations/" >🔗</a> **[SpaceNews]** Industry seeks more resources, policy changes to support transition from ISS to commercial space stations
 - <a href="https://spacenews.com/white-house-confirms-it-has-intelligence-on-russians-anti-satellite-weapon-but-says-no-immediate-threat/" >🔗</a> **[SpaceNews]** White House confirms it has intelligence on Russia’s anti-satellite weapon, but says no immediate threat
 - <a href="https://www.cnbc.com/2024/02/15/investing-in-space-the-role-of-starlink-in-limiting-space-debris-.html" >🔗</a> **[CNBC]** Investing in Space: The role of Starlink in limiting space debris 
 - <a href="https://arstechnica.com/space/2024/02/spacex-takes-a-proactive-step-toward-responsible-behavior-in-orbit/" >🔗</a> **[Arstechnica]** SpaceX takes a proactive step toward responsible behavior in orbit
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-021524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch next ISS crew rotation; Electron launches debris removal demonstration
-- <a href="https://www.spacescout.info/2024/02/im-1-heads-for-the-moon/" >🔗</a> **[Space Scout]** IM-1 Heads for the Moon
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T000326">2024-02-16 00:03:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T004459">2024-02-16 00:44:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
