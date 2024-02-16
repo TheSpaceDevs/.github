@@ -99,11 +99,11 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thales-alenia-space-to-supply-neo-surveyor-communications-equipment/" >🔗</a> **[SpaceNews]** Thales Alenia Space to supply NEO Surveyor communications equipment
+- <a href="https://spacenews.com/eutelsat-scales-back-oneweb-gen-2-upgrade-plan/" >🔗</a> **[SpaceNews]** Eutelsat scales back OneWeb Gen 2 upgrade plan
 - <a href="https://www.nasaspaceflight.com/2024/02/jaxa-second-h3/" >🔗</a> **[NASASpaceflight]** JAXA ready for second attempt to reach orbit with H3
 - <a href="https://spacenews.com/lockheed-martin-ramping-up-small-satellite-production/" >🔗</a> **[SpaceNews]** Lockheed Martin ramping up small satellite production
 - <a href="https://www.teslarati.com/spacex-300-falcon-9-rocket-launch-starlink/" >🔗</a> **[Teslarati]** SpaceX launches 300th Falcon 9 rocket with successful Starlink mission
-- <a href="https://www.cnbc.com/2024/02/16/intuitive-machines-lunr-stock-jumps-after-moon-mission-update.html" >🔗</a> **[CNBC]** Intuitive Machines stock jumps after company says moon mission is in ‘excellent health’
-- <a href="https://spacenews.com/why-space-force-is-growing-more-alarmed-by-chinas-eyes-in-the-sky/" >🔗</a> **[SpaceNews]** Why Space Force is growing more alarmed by China’s eyes in the sky
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Main payload is VEP 4 (Vehicle Evaluation Payload 4), a 2.6 tonnes mass simulato
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T223102">2024-02-16 22:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240216T230141">2024-02-16 23:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
