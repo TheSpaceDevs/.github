@@ -94,7 +94,7 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/h3-reaches-orbit-on-second-launch/" >🔗</a> **[SpaceNews]** H3 reaches orbit on second launch
 - <a href="https://spacenews.com/thales-alenia-space-to-supply-neo-surveyor-communications-equipment/" >🔗</a> **[SpaceNews]** Thales Alenia Space to supply NEO Surveyor communications equipment
 - <a href="https://spacenews.com/eutelsat-scales-back-oneweb-gen-2-upgrade-plan/" >🔗</a> **[SpaceNews]** Eutelsat scales back OneWeb Gen 2 upgrade plan
-- <a href="https://www.nasaspaceflight.com/2024/02/jaxa-second-h3/" >🔗</a> **[NASASpaceflight]** JAXA ready for second attempt to reach orbit with H3
+- <a href="https://www.nasaspaceflight.com/2024/02/jaxa-second-h3/" >🔗</a> **[NASASpaceflight]** JAXA reaches orbit on the second launch of H3
 - <a href="https://spacenews.com/lockheed-martin-ramping-up-small-satellite-production/" >🔗</a> **[SpaceNews]** Lockheed Martin ramping up small satellite production
 
 
@@ -104,7 +104,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T023057">2024-02-17 02:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T030121">2024-02-17 03:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
