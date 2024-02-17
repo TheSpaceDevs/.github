@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-launches-insat-3ds-meteorological-satellite-with-gslv-rocket/" >🔗</a> **[SpaceNews]** India launches INSAT-3DS meteorological satellite with GSLV rocket
 - <a href="https://spacepolicyonline.com/news/japan-scores-success-on-second-h3-launch/" >🔗</a> **[SpacePolicyOnline.com]** Japan Scores Success On Second H3 Launch
 - <a href="https://spacenews.com/h3-reaches-orbit-on-second-launch/" >🔗</a> **[SpaceNews]** H3 reaches orbit on second launch
 - <a href="https://spacenews.com/thales-alenia-space-to-supply-neo-surveyor-communications-equipment/" >🔗</a> **[SpaceNews]** Thales Alenia Space to supply NEO Surveyor communications equipment
 - <a href="https://spacenews.com/eutelsat-scales-back-oneweb-gen-2-upgrade-plan/" >🔗</a> **[SpaceNews]** Eutelsat scales back OneWeb Gen 2 upgrade plan
-- <a href="https://www.nasaspaceflight.com/2024/02/jaxa-second-h3/" >🔗</a> **[NASASpaceflight]** JAXA reaches orbit on the second launch of H3
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T133058">2024-02-17 13:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T140115">2024-02-17 14:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
