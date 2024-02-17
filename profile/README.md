@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-study-cape-canaveral-launch-sites-for-starship/" >🔗</a> **[SpaceNews]** Space Force to study Cape Canaveral launch sites for Starship
 - <a href="https://spacenews.com/india-launches-insat-3ds-meteorological-satellite-with-gslv-rocket/" >🔗</a> **[SpaceNews]** India launches INSAT-3DS meteorological satellite with GSLV rocket
 - <a href="https://spacepolicyonline.com/news/japan-scores-success-on-second-h3-launch/" >🔗</a> **[SpacePolicyOnline.com]** Japan Scores Success On Second H3 Launch
 - <a href="https://spacenews.com/h3-reaches-orbit-on-second-launch/" >🔗</a> **[SpaceNews]** H3 reaches orbit on second launch
 - <a href="https://spacenews.com/thales-alenia-space-to-supply-neo-surveyor-communications-equipment/" >🔗</a> **[SpaceNews]** Thales Alenia Space to supply NEO Surveyor communications equipment
-- <a href="https://spacenews.com/eutelsat-scales-back-oneweb-gen-2-upgrade-plan/" >🔗</a> **[SpaceNews]** Eutelsat scales back OneWeb Gen 2 upgrade plan
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T223054">2024-02-17 22:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240217T230106">2024-02-17 23:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
