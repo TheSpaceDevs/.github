@@ -20,7 +20,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | HTS-113BT**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | HTS-113BT (Merah Putih 2)**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
@@ -48,7 +48,7 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240220T201100">2024-02-20 20:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | HTS-113BT&location=Cape Canaveral, FL, USA&dates=20240220T201100Z%2F20240220T224400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | HTS-113BT** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240220T201100">2024-02-20 20:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | HTS-113BT (Merah Putih 2)&location=Cape Canaveral, FL, USA&dates=20240220T201100Z%2F20240220T224400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | HTS-113BT (Merah Putih 2)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T042400">2024-02-22 04:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-15&location=Vandenberg SFB, CA, USA&dates=20240222T042400Z%2F20240222T084600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240223T112100">2024-02-23 11:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20240223T112100Z%2F20240223T134000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240224T000000">2024-02-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-39&location=Cape Canaveral, FL, USA&dates=20240224T000000Z%2F20240224T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-39** from Cape Canaveral, FL, USA.
@@ -93,11 +93,11 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/a-large-european-satellite-will-come-crashing-back-to-earth-this-week/" >🔗</a> **[Arstechnica]** A big European satellite will make an uncontrolled return to Earth Wednesday
+- <a href="https://www.cnbc.com/2024/02/19/disney-star-bridgit-mendler-launches-satellite-startup-northwood-space.html" >🔗</a> **[CNBC]** Disney star turned space CEO: Bridgit Mendler launches satellite data startup backed by major VCs
 - <a href="https://spacenews.com/im-1-mission-on-course-for-the-moon-after-engine-test/" >🔗</a> **[SpaceNews]** IM-1 mission on course for the moon after engine test
 - <a href="https://europeanspaceflight.com/esa-awards-e1-3m-in-co-funding-to-pld-for-miura-5-payload-adapter/" >🔗</a> **[European Spaceflight]** ESA Awards €1.3M in Co-Funding to PLD for Miura 5 Payload Adapter
 - <a href="https://europeanspaceflight.com/thales-alenia-space-marks-major-milestone-in-space-station-construction/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Marks Major Milestone in Space Station Construction
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-feb-18-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy Feb 18-24, 2024
-- <a href="https://spacenews.com/electron-launches-astroscale-inspection-satellite/" >🔗</a> **[SpaceNews]** Electron launches Astroscale inspection satellite
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T143059">2024-02-19 14:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T150158">2024-02-19 15:01:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
