@@ -93,11 +93,11 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-marks-major-milestone-in-space-station-construction/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Marks Major Milestone in Space Station Construction
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-feb-18-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy Feb 18-24, 2024
 - <a href="https://spacenews.com/electron-launches-astroscale-inspection-satellite/" >🔗</a> **[SpaceNews]** Electron launches Astroscale inspection satellite
 - <a href="https://spacenews.com/ai-company-developing-software-to-detect-hypersonic-missiles-from-space/" >🔗</a> **[SpaceNews]** AI company developing software to detect hypersonic missiles from space
 - <a href="https://spacenews.com/space-force-to-study-cape-canaveral-launch-sites-for-starship/" >🔗</a> **[SpaceNews]** Space Force to study Cape Canaveral launch sites for Starship
-- <a href="https://spacenews.com/india-launches-insat-3ds-meteorological-satellite-with-gslv-rocket/" >🔗</a> **[SpaceNews]** India launches INSAT-3DS meteorological satellite with GSLV rocket
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T073055">2024-02-19 07:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T080120">2024-02-19 08:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
