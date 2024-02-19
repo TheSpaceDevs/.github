@@ -93,11 +93,11 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-selects-vendors-to-develop-ground-systems-for-military-constellation/" >🔗</a> **[SpaceNews]** UK selects vendors to develop ground systems for military constellation
 - <a href="https://spacenews.com/stormy-weather-over-noaas-commitment-issues/" >🔗</a> **[SpaceNews]** Stormy weather over NOAA’s commitment issues
 - <a href="https://spacenews.com/launch-vehicle-startup-gilmour-space-raises-36-million/" >🔗</a> **[SpaceNews]** Launch vehicle startup Gilmour Space raises $36 million
 - <a href="https://arstechnica.com/space/2024/02/a-large-european-satellite-will-come-crashing-back-to-earth-this-week/" >🔗</a> **[Arstechnica]** A big European satellite will make an uncontrolled return to Earth Wednesday
 - <a href="https://www.cnbc.com/2024/02/19/disney-star-bridgit-mendler-launches-satellite-startup-northwood-space.html" >🔗</a> **[CNBC]** Disney star turned space CEO: Bridgit Mendler launches satellite data startup backed by major VCs
-- <a href="https://spacenews.com/im-1-mission-on-course-for-the-moon-after-engine-test/" >🔗</a> **[SpaceNews]** IM-1 mission on course for the moon after engine test
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T213058">2024-02-19 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T220133">2024-02-19 22:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
