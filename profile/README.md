@@ -93,11 +93,11 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/02/20/intuitive-machines-lunr-stock-surges-as-lander-approaches-the-moon.html" >🔗</a> **[CNBC]** Lunar company Intuitive Machines’ stock surges again as lander approaches the moon
+- <a href="https://arstechnica.com/space/2024/02/roscosmos-seeks-to-obscure-bidding-process-to-evade-us-sanctions/" >🔗</a> **[Arstechnica]** Roscosmos seeks to obscure bidding process to evade US sanctions
 - <a href="https://spacenews.com/u-n-committee-to-take-up-issue-of-satellite-interference-with-astronomy/" >🔗</a> **[SpaceNews]** U.N. committee to take up issue of satellite interference with astronomy
 - <a href="https://spacenews.com/airbus-takes-charges-on-satellite-programs/" >🔗</a> **[SpaceNews]** Airbus takes charges on satellite programs
 - <a href="https://spacenews.com/the-race-to-back-up-vulnerable-gps/" >🔗</a> **[SpaceNews]** The race to back up vulnerable GPS
-- <a href="https://europeanspaceflight.com/uksa-may-or-may-not-offer-15m-for-science-aboard-axiom-mission/" >🔗</a> **[European Spaceflight]** UKSA May or May Not Offer £15M for Science Aboard Axiom Mission
-- <a href="https://www.nasaspaceflight.com/2024/02/adrasj-space-debris/" >🔗</a> **[NASASpaceflight]** ADRAS-J mission takes methodical first steps toward the commercial removal of space debris
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ Built on Thales Alenia Space's historical Spacebus 4000B2 platform, HTS 113BT wi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240220T143056">2024-02-20 14:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240220T150122">2024-02-20 15:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
