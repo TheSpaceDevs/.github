@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/im-1-lander-enters-lunar-orbit/" >🔗</a> **[SpaceNews]** IM-1 lander enters lunar orbit
 - <a href="https://www.teslarati.com/spacex-falcon-9-telkomsat-satellite-launch/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 launches Telkomsat satellite for Indonesia
 - <a href="https://spacenews.com/former-u-s-space-force-chief-jay-raymond-joins-board-of-directors-of-impulse-space/" >🔗</a> **[SpaceNews]** Former U.S. Space Force chief Jay Raymond joins board of directors of Impulse Space
 - <a href="https://spacenews.com/hughes-networking-software-selected-for-air-force-satellite-internet-experiment/" >🔗</a> **[SpaceNews]** Hughes’ networking software selected for Air Force satellite internet experiment
 - <a href="https://www.cnbc.com/2024/02/21/spacex-senior-vice-president-tom-ochinero-resigns.html" >🔗</a> **[CNBC]** SpaceX Senior Vice President Tom Ochinero is leaving the company in a rare high-level departure
-- <a href="https://arstechnica.com/space/2024/02/as-companies-shoot-at-the-moon-nasas-tolerance-of-failure-is-tested/" >🔗</a> **[Arstechnica]** NASA faces a quandary with its audacious lunar cargo program
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T183108">2024-02-21 18:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T190113">2024-02-21 19:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
