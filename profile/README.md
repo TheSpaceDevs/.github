@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/hughes-networking-software-selected-for-air-force-satellite-internet-experiment/" >🔗</a> **[SpaceNews]** Hughes’ networking software selected for Air Force satellite internet experiment
-- <a href="https://www.cnbc.com/2024/02/21/spacex-senior-vice-president-tom-ochinero-resigns.html" >🔗</a> **[CNBC]** SpaceX SVP Tom Ochinero is leaving the company in a rare high-level departure
+- <a href="https://www.cnbc.com/2024/02/21/spacex-senior-vice-president-tom-ochinero-resigns.html" >🔗</a> **[CNBC]** SpaceX Senior Vice President Tom Ochinero is leaving the company in a rare high-level departure
 - <a href="https://arstechnica.com/space/2024/02/as-companies-shoot-at-the-moon-nasas-tolerance-of-failure-is-tested/" >🔗</a> **[Arstechnica]** NASA faces a quandary with its audacious lunar cargo program
 - <a href="https://europeanspaceflight.com/texus-59-science-mission-successfully-launched-from-esrange/" >🔗</a> **[European Spaceflight]** TEXUS-59 Science Mission Successfully Launched from Esrange
 - <a href="https://spacenews.com/impending-european-satellite-reentry-highlights-debris-mitigation-challenges/" >🔗</a> **[SpaceNews]** Impending European satellite reentry highlights debris mitigation challenges
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T160127">2024-02-21 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T163234">2024-02-21 16:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
