@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/as-companies-shoot-at-the-moon-nasas-tolerance-of-failure-is-tested/" >🔗</a> **[Arstechnica]** NASA faces a quandary with its audacious lunar cargo program
 - <a href="https://europeanspaceflight.com/texus-59-science-mission-successfully-launched-from-esrange/" >🔗</a> **[European Spaceflight]** TEXUS-59 Science Mission Successfully Launched from Esrange
 - <a href="https://spacenews.com/impending-european-satellite-reentry-highlights-debris-mitigation-challenges/" >🔗</a> **[SpaceNews]** Impending European satellite reentry highlights debris mitigation challenges
 - <a href="https://spacenews.com/software-problem-blamed-for-firefly-alpha-mishap/" >🔗</a> **[SpaceNews]** Software problem blamed for Firefly Alpha mishap
 - <a href="https://www.nasaspaceflight.com/2024/02/nustar-nicer-radio-burst/" >🔗</a> **[NASASpaceflight]** NuSTAR and NICER observe same radio burst, provide hints into nature of phenomenon
-- <a href="https://www.spacescout.info/2024/02/h3-returns-to-flight/" >🔗</a> **[Space Scout]** H3 Returns to Flight, Achieves Milestones
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T120123">2024-02-21 12:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T123716">2024-02-21 12:37:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
