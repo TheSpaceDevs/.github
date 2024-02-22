@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/02/22/intuitive-machines-lunr-im-1-moon-landing-for-nasa.html" >🔗</a> **[CNBC]** Intuitive Machines to attempt first U.S. moon landing in over 50 years
 - <a href="https://www.teslarati.com/spacex-starship-plan-nine-launches-2024/" >🔗</a> **[Teslarati]** SpaceX has aggressive plan for Starship in 2024 with more than nine launches
 - <a href="https://spacenews.com/portuguese-startup-gets-funds-to-develop-hosted-payload-connectivity-network/" >🔗</a> **[SpaceNews]** Portuguese startup gets funds to develop hosted payload connectivity network
 - <a href="https://spacenews.com/vast-seeks-to-bid-on-future-iss-private-astronaut-missions/" >🔗</a> **[SpaceNews]** Vast seeks to bid on future ISS private astronaut missions
 - <a href="https://www.cnbc.com/2024/02/22/investing-in-space-explaining-nasas-approach-to-cargo-moon-landings.html" >🔗</a> **[CNBC]** Investing in Space: Former NASA official explains ‘shots on goal’ approach to cargo moon landings
-- <a href="https://arstechnica.com/space/2024/02/spacex-seeks-to-launch-starship-at-least-nine-times-this-year/" >🔗</a> **[Arstechnica]** SpaceX seeks a waiver to launch Starship “at least” nine times this year
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T203053">2024-02-22 20:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T210129">2024-02-22 21:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
