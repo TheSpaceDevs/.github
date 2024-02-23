@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-automating-for-smallsat-success/" >🔗</a> **[SpaceNews]** Webinar Replay: Automating for SmallSat Success
+- <a href="https://spacenews.com/connecting-the-dots-new-tools-for-space-qualification/" >🔗</a> **[SpaceNews]** Connecting the Dots | New tools for space qualification
 - <a href="https://www.spacescout.info/2024/02/op-ed-setting-up-camp/" >🔗</a> **[Space Scout]** Op-Ed: Setting Up Camp, an Exploration of Artemis
-- <a href="https://www.cnbc.com/2024/02/23/intuitive-machines-stock-lunr-odysseus-moon-landing.html" >🔗</a> **[CNBC]** Intuitive Machines jumps in wild trading after moon landing
+- <a href="https://www.cnbc.com/2024/02/23/intuitive-machines-stock-lunr-odysseus-moon-landing.html" >🔗</a> **[CNBC]** Intuitive Machines stock jumps in wild trading after moon landing
 - <a href="https://spacenews.com/china-launches-classified-military-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified military satellite towards geostationary belt
-- <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-022224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch two Starlink missions; China to launch Chang Zheng 5
-- <a href="https://arstechnica.com/space/2024/02/a-little-us-company-makes-history-by-landing-on-the-moon-but-questions-remain/" >🔗</a> **[Arstechnica]** A little US company makes history by landing on the Moon
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240223T170112">2024-02-23 17:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240223T173108">2024-02-23 17:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
