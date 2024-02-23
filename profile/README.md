@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-lands-on-the-moon/" >🔗</a> **[SpaceNews]** Intuitive Machines lands on the moon
 - <a href="https://spacenews.com/avanti-to-integrate-telesat-lightspeed-leo-broadband-services/" >🔗</a> **[SpaceNews]** Avanti to integrate Telesat Lightspeed LEO broadband services
 - <a href="https://spacenews.com/nga-goes-big-on-commercial-satellite-data-with-290-million-luno-program/" >🔗</a> **[SpaceNews]** NGA goes big on commercial satellite data with $290 million ‘Luno’ program 
 - <a href="https://spacenews.com/webinar-one-on-one-with-sda-director-derek-tournear/" >🔗</a> **[SpaceNews]** Webinar: One-on-One with SDA Director Derek Tournear
-- <a href="https://www.cnbc.com/2024/02/22/intuitive-machines-lunr-im-1-moon-landing-for-nasa.html" >🔗</a> **[CNBC]** Watch Intuitive Machines attempt the first U.S. moon landing in over 50 years
-- <a href="https://www.teslarati.com/spacex-starship-plan-nine-launches-2024/" >🔗</a> **[Teslarati]** SpaceX has aggressive plan for Starship in 2024 with more than nine launches
+- <a href="https://www.cnbc.com/2024/02/22/intuitive-machines-lunr-im-1-moon-landing-for-nasa.html" >🔗</a> **[CNBC]** Intuitive Machines lands on the moon in historic first for a U.S. company
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T233059">2024-02-22 23:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240223T000325">2024-02-23 00:03:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
