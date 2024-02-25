@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-25-march-2-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 25-March 2, 2024
 - <a href="https://spacenews.com/faa-commercial-human-spaceflight-regulatory-learning-period-nears-expiration/" >🔗</a> **[SpaceNews]** FAA commercial human spaceflight regulatory learning period nears expiration
 - <a href="https://spacenews.com/space-industry-seeks-clarity-on-defense-market-plans/" >🔗</a> **[SpaceNews]** Space industry seeks clarity on defense market plans
 - <a href="https://spacenews.com/government-contracts-spur-growth-for-relative-dynamics/" >🔗</a> **[SpaceNews]** Government contracts spur growth for Relative Dynamics
 - <a href="https://spacenews.com/im-1-lunar-lander-tipped-over-on-its-side/" >🔗</a> **[SpaceNews]** IM-1 lunar lander tipped over on its side
-- <a href="https://spacepolicyonline.com/news/ims-odysseus-lunar-lander-not-upright-after-all/" >🔗</a> **[SpacePolicyOnline.com]** IM’s Odysseus Lunar Lander Not Upright After All
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T173119">2024-02-25 17:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T180126">2024-02-25 18:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
