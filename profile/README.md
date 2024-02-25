@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240224T215900">2024-02-24 21:59:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T213400">2024-02-25 21:34:00 UTC</a>.  Until
 then, this pad will have been used for 225
 out of 935 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,6 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T213400">2024-02-25 21:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-39&location=Cape Canaveral, FL, USA&dates=20240225T213400Z%2F20240226T013400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-39** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240228T160000">2024-02-28 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-40&location=Cape Canaveral, FL, USA&dates=20240228T160000Z%2F20240228T193100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-40** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T000000">2024-02-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-16&location=Vandenberg SFB, CA, USA&dates=20240229T000000Z%2F20240229T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T054300">2024-02-29 05:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meteor-M No.2-4&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20240229T054300Z%2F20240229T054300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Meteor-M No.2-4** from Vostochny Cosmodrome, Siberia, Russian Federation.
@@ -90,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-commercial-human-spaceflight-regulatory-learning-period-nears-expiration/" >🔗</a> **[SpaceNews]** FAA commercial human spaceflight regulatory learning period nears expiration
 - <a href="https://spacenews.com/space-industry-seeks-clarity-on-defense-market-plans/" >🔗</a> **[SpaceNews]** Space industry seeks clarity on defense market plans
 - <a href="https://spacenews.com/government-contracts-spur-growth-for-relative-dynamics/" >🔗</a> **[SpaceNews]** Government contracts spur growth for Relative Dynamics
 - <a href="https://spacenews.com/im-1-lunar-lander-tipped-over-on-its-side/" >🔗</a> **[SpaceNews]** IM-1 lunar lander tipped over on its side
 - <a href="https://spacepolicyonline.com/news/ims-odysseus-lunar-lander-not-upright-after-all/" >🔗</a> **[SpacePolicyOnline.com]** IM’s Odysseus Lunar Lander Not Upright After All
-- <a href="https://spacenews.com/flawless-photonics-kicking-glass/" >🔗</a> **[SpaceNews]** Flawless Photonics Kicking Glass
 
 
 ### Launch-related News 🚀
@@ -104,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T000354">2024-02-25 00:03:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T004457">2024-02-25 00:44:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
