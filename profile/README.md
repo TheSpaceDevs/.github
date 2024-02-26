@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-expects-early-end-to-im-1-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Intuitive Machines expects early end to IM-1 lunar lander mission
 - <a href="https://www.cnbc.com/2024/02/26/moon-landing-photos-first-images-from-intuitive-machines-odysseus-.html" >🔗</a> **[CNBC]** Lunar landing photos: Intuitive Machines’ Odysseus sends back first images from the moon
 - <a href="https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/" >🔗</a> **[Arstechnica]** Final images of Ingenuity reveal an entire blade broke off the helicopter
 - <a href="https://spacenews.com/tony-frazier-takes-the-helm-at-leolabs/" >🔗</a> **[SpaceNews]** Tony Frazier takes the helm at LeoLabs
 - <a href="https://spacenews.com/crew-8-set-for-march-1-launch-to-space-station/" >🔗</a> **[SpaceNews]** Crew-8 set for March 1 launch to space station
-- <a href="https://arstechnica.com/space/2024/02/daily-telescope-finally-weve-found-the-core-of-a-famous-supernova/" >🔗</a> **[Arstechnica]** Daily Telescope: Finally, we’ve found the core of a famous supernova
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240226T173054">2024-02-26 17:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240226T180116">2024-02-26 18:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
