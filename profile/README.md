@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/" >🔗</a> **[Arstechnica]** Final images of Ingenuity reveal an entire blade broke off the helicopter
+- <a href="https://spacenews.com/tony-frazier-takes-the-helm-at-leolabs/" >🔗</a> **[SpaceNews]** Tony Frazier takes the helm at LeoLabs
 - <a href="https://spacenews.com/crew-8-set-for-march-1-launch-to-space-station/" >🔗</a> **[SpaceNews]** Crew-8 set for March 1 launch to space station
 - <a href="https://arstechnica.com/space/2024/02/daily-telescope-finally-weve-found-the-core-of-a-famous-supernova/" >🔗</a> **[Arstechnica]** Daily Telescope: Finally, we’ve found the core of a famous supernova
 - <a href="https://spacenews.com/chinas-2024-space-plans-include-100-launches-and-moon-sample-return-mission/" >🔗</a> **[SpaceNews]** China’s 2024 space plans include 100 launches and moon sample return mission
-- <a href="https://spacenews.com/space-force-bucks-fixed-price-trend-for-nuclear-command-satellites/" >🔗</a> **[SpaceNews]** Space Force bucks fixed-price trend for nuclear command satellites 
-- <a href="https://spacenews.com/japans-slim-moon-lander-stages-unexpected-revival-after-lunar-night/" >🔗</a> **[SpaceNews]** Japan’s SLIM moon lander stages unexpected revival after lunar night
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240226T143057">2024-02-26 14:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240226T150124">2024-02-26 15:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
