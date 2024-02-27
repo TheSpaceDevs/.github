@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-opens-new-facility-in-virginia-to-support-national-security-programs/" >🔗</a> **[SpaceNews]** Redwire opens new facility in Virginia to support national security programs
 - <a href="https://spacenews.com/faa-closes-investigation-into-second-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA closes investigation into second Starship test flight
 - <a href="https://spacenews.com/investors-inject-92-million-into-french-maritime-surveillance-constellation/" >🔗</a> **[SpaceNews]** Investors inject $92 million into French maritime surveillance constellation
 - <a href="https://spacepolicyonline.com/news/odysseus-sends-back-lunar-images/" >🔗</a> **[SpacePolicyOnline.com]** Odysseus Sends Back Lunar Images
 - <a href="https://spacepolicyonline.com/news/faa-closes-starship-oft-2-mishap-investigation/" >🔗</a> **[SpacePolicyOnline.com]** FAA Closes Starship OFT-2 Mishap Investigation
-- <a href="https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/" >🔗</a> **[Arstechnica]** SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240227T143058">2024-02-27 14:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240227T150114">2024-02-27 15:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
