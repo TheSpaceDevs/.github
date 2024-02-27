@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/astranis-relocating-hobbled-debut-satellite-from-alaska-to-asia/" >🔗</a> **[SpaceNews]** Astranis relocating hobbled debut satellite from Alaska to Asia
+- <a href="https://spacenews.com/space-force-to-lean-on-private-sector-for-space-tracking-data/" >🔗</a> **[SpaceNews]** Space Force to lean on private sector for space tracking data
+- <a href="https://www.teslarati.com/spacex-third-launch-clearance-faa-investigation-closed/" >🔗</a> **[Teslarati]** SpaceX nears third Starship launch clearance following FAA investigation closure
 - <a href="https://www.spacescout.info/2024/02/nasa-and-spacex-ready-for-crew-8/" >🔗</a> **[Space Scout]**  NASA and SpaceX Ready for Crew-8
+- <a href="https://spacenews.com/astranis-relocating-hobbled-debut-satellite-from-alaska-to-asia/" >🔗</a> **[SpaceNews]** Astranis relocating hobbled debut satellite from Alaska to Asia
 - <a href="https://spacenews.com/northrop-grumman-warns-space-sector-employees-of-potential-layoffs/" >🔗</a> **[SpaceNews]** Northrop Grumman warns space sector employees of potential layoffs
-- <a href="https://spacenews.com/redwire-opens-new-facility-in-virginia-to-support-national-security-programs/" >🔗</a> **[SpaceNews]** Redwire opens new facility in Virginia to support national security programs
-- <a href="https://spacenews.com/faa-closes-investigation-into-second-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA closes investigation into second Starship test flight
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240227T193110">2024-02-27 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240227T200131">2024-02-27 20:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
