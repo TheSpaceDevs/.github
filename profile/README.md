@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/02/faa-closes-starship-inquiry-and-spacex-details-causes-of-november-accidents/" >🔗</a> **[Arstechnica]** FAA closes Starship inquiry, and SpaceX details causes of November accidents
+- <a href="https://www.cnbc.com/2024/02/26/faa-closes-starship-investigation-spacex-seeks-next-launch-license.html" >🔗</a> **[CNBC]** FAA closes Starship investigation as SpaceX seeks license for next launch
 - <a href="https://www.nasaspaceflight.com/2024/02/two-aborted-wdrs-flight-3-preparations/" >🔗</a> **[NASASpaceflight]** Following aborted WDRs Flight 3 enters additional preparations
 - <a href="https://arstechnica.com/space/2024/02/nasa-found-the-private-lander-on-the-moon-but-its-lifetime-is-running-short/" >🔗</a> **[Arstechnica]** Odysseus has less than a day left on the Moon before it freezes to death
 - <a href="https://spacenews.com/intuitive-machines-expects-early-end-to-im-1-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Intuitive Machines expects early end to IM-1 lunar lander mission
-- <a href="https://www.cnbc.com/2024/02/26/moon-landing-photos-first-images-from-intuitive-machines-odysseus-.html" >🔗</a> **[CNBC]** Lunar landing photos: Intuitive Machines’ Odysseus sends back first images from the moon
-- <a href="https://arstechnica.com/space/2024/02/final-images-of-ingenuity-reveal-an-entire-blade-broke-off-the-helicopter/" >🔗</a> **[Arstechnica]** Final images of Ingenuity reveal an entire blade broke off the helicopter
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240226T233059">2024-02-26 23:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240227T000332">2024-02-27 00:03:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
