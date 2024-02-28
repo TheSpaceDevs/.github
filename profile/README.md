@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-founders-reduce-offer-to-take-company-private/" >🔗</a> **[SpaceNews]** Astra founders reduce offer to take company private
 - <a href="https://www.cnbc.com/2024/02/27/rocket-lab-rklb-q4-2023-results.html" >🔗</a> **[CNBC]** Rocket Lab says contract backlog tops $1 billion, outlines Neutron progress toward first launch
 - <a href="https://spacepolicyonline.com/news/india-introduces-first-astronaut-group/" >🔗</a> **[SpacePolicyOnline.com]** India Introduces First Astronaut Group
 - <a href="https://arstechnica.com/space/2024/02/it-turns-out-that-odysseus-landed-on-the-moon-without-any-altimetry-data/" >🔗</a> **[Arstechnica]** It turns out that Odysseus landed on the Moon without any altimetry data
 - <a href="https://spacenews.com/space-force-to-lean-on-private-sector-for-space-tracking-data/" >🔗</a> **[SpaceNews]** Space Force to lean on private sector for space tracking data
-- <a href="https://www.teslarati.com/spacex-third-launch-clearance-faa-investigation-closed/" >🔗</a> **[Teslarati]** SpaceX nears third Starship launch clearance following FAA investigation closure
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240228T000320">2024-02-28 00:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240228T004444">2024-02-28 00:44:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
