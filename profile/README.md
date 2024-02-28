@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/connecting-the-dots-europe-plots-constellation-manufacturing-powerhouse/" >🔗</a> **[SpaceNews]** Connecting the Dots | Europe plots constellation manufacturing powerhouse
 - <a href="https://spacenews.com/virgin-galactic-expects-no-delay-to-next-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic expects no delay to next suborbital flight
 - <a href="https://spacenews.com/rocket-lab-pushing-for-first-neutron-launch-in-2024/" >🔗</a> **[SpaceNews]** Rocket Lab pushing for first Neutron launch in 2024
 - <a href="https://spacenews.com/astra-founders-reduce-offer-to-take-company-private/" >🔗</a> **[SpaceNews]** Astra founders reduce offer to take company private
 - <a href="https://www.cnbc.com/2024/02/27/rocket-lab-rklb-q4-2023-results.html" >🔗</a> **[CNBC]** Rocket Lab says contract backlog tops $1 billion, outlines Neutron progress toward first launch
-- <a href="https://spacepolicyonline.com/news/india-introduces-first-astronaut-group/" >🔗</a> **[SpacePolicyOnline.com]** India Introduces First Astronaut Group
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240228T173117">2024-02-28 17:31:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240228T180122">2024-02-28 18:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
