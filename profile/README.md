@@ -91,11 +91,11 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-targets-uncrewed-gaganyaan-orbital-test-mission-in-july-crewed-flight-in-2025/" >🔗</a> **[SpaceNews]** India targets uncrewed Gaganyaan orbital test mission in July, crewed flight in 2025
 - <a href="https://spacenews.com/elve-raises-15-million-to-speed-up-manufacturing-of-millimeter-wave-amplifiers/" >🔗</a> **[SpaceNews]** Elve raises $15 million to speed up manufacturing of millimeter-wave amplifiers
 - <a href="https://spacepolicyonline.com/news/nasa-and-im-agree-odysseus-is-a-success/" >🔗</a> **[SpacePolicyOnline.com]** NASA AND IM AGREE: ODYSSEUS IS A SUCCESS
 - <a href="https://spacepolicyonline.com/news/leak-in-iss-russian-segment-increases-but-not-an-immediate-concern/" >🔗</a> **[SpacePolicyOnline.com]** Leak in ISS Russian Segment Increases, But Not an Immediate Concern
 - <a href="https://spacenews.com/intuitive-machines-and-nasa-call-im-1-lunar-lander-a-success-as-mission-winds-down/" >🔗</a> **[SpaceNews]** Intuitive Machines and NASA call IM-1 lunar lander a success as mission winds down
-- <a href="https://spacepolicyonline.com/news/congressional-leadership-agrees-to-push-shutdown-worries-down-the-road/" >🔗</a> **[SpacePolicyOnline.com]** Congressional Leadership Agrees to Push Shutdown Worries Down the Road
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T110110">2024-02-29 11:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T113509">2024-02-29 11:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
