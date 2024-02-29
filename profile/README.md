@@ -90,11 +90,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/02/mishap-investigation-flight-2-closed-spacex-tries-wdr/" >🔗</a> **[NASASpaceflight]** Flight 2 Mishap Investigation closed as SpaceX preps for another WDR
 - <a href="https://www.cnbc.com/2024/02/29/investing-in-space-how-columbias-fabric-tech-landed-on-the-moon.html" >🔗</a> **[CNBC]** Investing in Space: How Columbia’s fabric tech landed on the surface of the moon
 - <a href="https://spacenews.com/constellation-primetime-is-mdas-time-to-prime/" >🔗</a> **[SpaceNews]** Constellation primetime is MDA’s time to prime
 - <a href="https://spacenews.com/space-force-general-warns-of-window-of-vulnerability-in-satellite-defense/" >🔗</a> **[SpaceNews]** Space Force general warns of ‘window of vulnerability’ in satellite defense
 - <a href="https://spacenews.com/china-launches-first-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches first high orbit internet satellite
-- <a href="https://spacenews.com/nasa-monitoring-increased-leak-in-russian-iss-module/" >🔗</a> **[SpaceNews]** NASA monitoring increased leak in Russian ISS module
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T183058">2024-02-29 18:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T190108">2024-02-29 19:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
