@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-40**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Crew-8**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T153000">2024-02-29 15:30:00 UTC</a>.  Until
-then, this pad will have been used for 226
-out of 936 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240303T041600">2024-03-03 04:16:00 UTC</a>.  Until
+then, this pad will have been used for 171
+out of 229 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  SpaceX Crew-8 is the eighth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -99,11 +99,19 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-wins-3-more-nasa-crew-dragon-contracts/" >🔗</a> **[Teslarati]** SpaceX awarded three more NASA astronaut launch contracts
+- <a href="https://spacenews.com/nasa-awards-spacex-three-additional-commercial-crew-missions/" >🔗</a> **[SpaceNews]** NASA awards SpaceX three additional commercial crew missions
+- <a href="https://spacenews.com/nasa-and-roscosmos-planning-to-add-mission-to-seat-barter-agreement/" >🔗</a> **[SpaceNews]** NASA and Roscosmos planning to add mission to seat barter agreement
+- <a href="http://www.nasa.gov/press-release/space-station-assignments-out-for-nasa-s-spacex-crew-8-mission" >🔗</a> **[NASA]** Space Station Assignments Out for NASA’s SpaceX Crew-8 Mission
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-spacex-crew-8-announced" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 8 Announced
+- <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-021524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch next ISS crew rotation; Electron launches debris removal demonstration
+- <a href="https://spacenews.com/crew-8-set-for-march-1-launch-to-space-station/" >🔗</a> **[SpaceNews]** Crew-8 set for March 1 launch to space station
+- <a href="https://www.spacescout.info/2024/02/nasa-and-spacex-ready-for-crew-8/" >🔗</a> **[Space Scout]**  NASA and SpaceX Ready for Crew-8
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T153102">2024-02-29 15:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T160115">2024-02-29 16:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
