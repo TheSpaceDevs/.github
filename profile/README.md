@@ -90,11 +90,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/02/29/investing-in-space-how-columbias-fabric-tech-landed-on-the-moon.html" >🔗</a> **[CNBC]** Investing in Space: How Columbia’s fabric tech landed on the surface of the moon
+- <a href="https://spacenews.com/constellation-primetime-is-mdas-time-to-prime/" >🔗</a> **[SpaceNews]** Constellation primetime is MDA’s time to prime
 - <a href="https://spacenews.com/space-force-general-warns-of-window-of-vulnerability-in-satellite-defense/" >🔗</a> **[SpaceNews]** Space Force general warns of ‘window of vulnerability’ in satellite defense
 - <a href="https://spacenews.com/china-launches-first-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches first high orbit internet satellite
 - <a href="https://spacenews.com/nasa-monitoring-increased-leak-in-russian-iss-module/" >🔗</a> **[SpaceNews]** NASA monitoring increased leak in Russian ISS module
-- <a href="https://spacenews.com/india-targets-uncrewed-gaganyaan-orbital-test-mission-in-july-crewed-flight-in-2025/" >🔗</a> **[SpaceNews]** India targets uncrewed Gaganyaan orbital test mission in July, crewed flight in 2025
-- <a href="https://spacenews.com/elve-raises-15-million-to-speed-up-manufacturing-of-millimeter-wave-amplifiers/" >🔗</a> **[SpaceNews]** Elve raises $15 million to speed up manufacturing of millimeter-wave amplifiers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T173056">2024-02-29 17:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T180153">2024-02-29 18:01:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
