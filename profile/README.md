@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-first-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches first high orbit internet satellite
 - <a href="https://spacenews.com/nasa-monitoring-increased-leak-in-russian-iss-module/" >🔗</a> **[SpaceNews]** NASA monitoring increased leak in Russian ISS module
 - <a href="https://spacenews.com/india-targets-uncrewed-gaganyaan-orbital-test-mission-in-july-crewed-flight-in-2025/" >🔗</a> **[SpaceNews]** India targets uncrewed Gaganyaan orbital test mission in July, crewed flight in 2025
 - <a href="https://spacenews.com/elve-raises-15-million-to-speed-up-manufacturing-of-millimeter-wave-amplifiers/" >🔗</a> **[SpaceNews]** Elve raises $15 million to speed up manufacturing of millimeter-wave amplifiers
 - <a href="https://spacepolicyonline.com/news/nasa-and-im-agree-odysseus-is-a-success/" >🔗</a> **[SpacePolicyOnline.com]** NASA AND IM AGREE: ODYSSEUS IS A SUCCESS
-- <a href="https://spacepolicyonline.com/news/leak-in-iss-russian-segment-increases-but-not-an-immediate-concern/" >🔗</a> **[SpacePolicyOnline.com]** Leak in ISS Russian Segment Increases, But Not an Immediate Concern
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T143123">2024-02-29 14:31:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T150125">2024-02-29 15:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
