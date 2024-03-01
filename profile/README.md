@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/former-nasa-administrator-richard-truly-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Former NASA Administrator Richard Truly Passes Away
 - <a href="https://spacenews.com/viasat-links-up-with-northrop-grumman-for-air-force-communications-experiment/" >🔗</a> **[SpaceNews]** Viasat links up with Northrop Grumman for Air Force communications experiment
 - <a href="https://www.nasaspaceflight.com/2024/02/mishap-investigation-flight-2-closed-spacex-tries-wdr/" >🔗</a> **[NASASpaceflight]** Flight 2 Mishap Investigation closed as SpaceX preps for another WDR
 - <a href="https://www.cnbc.com/2024/02/29/investing-in-space-how-columbias-fabric-tech-landed-on-the-moon.html" >🔗</a> **[CNBC]** Investing in Space: How Columbia’s fabric tech landed on the surface of the moon
 - <a href="https://spacenews.com/constellation-primetime-is-mdas-time-to-prime/" >🔗</a> **[SpaceNews]** Constellation primetime is MDA’s time to prime
-- <a href="https://spacenews.com/space-force-general-warns-of-window-of-vulnerability-in-satellite-defense/" >🔗</a> **[SpaceNews]** Space Force general warns of ‘window of vulnerability’ in satellite defense
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240301T023301">2024-03-01 02:33:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240301T030126">2024-03-01 03:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
