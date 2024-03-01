@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-beyond-earth-blueprint-for-smb-innovation/" >🔗</a> **[SpaceNews]** Webinar – Beyond Earth: Blueprint for SMB Innovation
+- <a href="https://www.teslarati.com/spacex-sends-23-more-starlink-satellites-into-orbit-on-leap-day/" >🔗</a> **[Teslarati]** SpaceX sends 23 more Starlink satellites into orbit on Leap Day
 - <a href="https://spacenews.com/msr-problems-illustrative-of-challenges-for-nasa-flagship-missions-audit-concludes/" >🔗</a> **[SpaceNews]** MSR problems illustrative of challenges for NASA flagship missions, audit concludes
 - <a href="https://arstechnica.com/space/2024/03/daily-telescope-two-nebulae-in-orion-for-the-price-of-one/" >🔗</a> **[Arstechnica]** Daily Telescope: Two nebulae in Orion for the price of one
 - <a href="https://arstechnica.com/space/2024/03/rocket-report-astra-warns-of-imminent-bankruptcy-falcon-heavy-launch-delay/" >🔗</a> **[Arstechnica]** Rocket Report: Astra warns of “imminent” bankruptcy; Falcon Heavy launch delay
-- <a href="https://spacepolicyonline.com/news/congress-clears-new-cr-punting-shutdown-threat-further-into-march/" >🔗</a> **[SpacePolicyOnline.com]** Congress Clears New CR, Punting Shutdown Threat Further Into March
-- <a href="https://spacepolicyonline.com/news/former-nasa-administrator-richard-truly-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Former NASA Administrator Richard Truly Passes Away
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240301T180119">2024-03-01 18:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240301T183143">2024-03-01 18:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
