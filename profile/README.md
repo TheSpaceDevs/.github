@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-gets-439-million-contract-for-u-s-military-communications-satellite/" >🔗</a> **[SpaceNews]** Boeing gets $439 million contract for U.S. military communications satellite
+- <a href="https://www.cnbc.com/2024/03/01/lockheed-martin-looks-to-acquire-terran-orbital-for-about-600-million.html" >🔗</a> **[CNBC]** Lockheed Martin looks to acquire spacecraft maker Terran Orbital for nearly $600 million
 - <a href="https://www.cnbc.com/2024/03/01/nasa-shuts-down-maxar-led-osam-1-satellite-refueling-project.html" >🔗</a> **[CNBC]** NASA shuts down $2 billion satellite refueling project after Maxar is cited for poor performance
 - <a href="https://spacenews.com/webinar-beyond-earth-blueprint-for-smb-innovation/" >🔗</a> **[SpaceNews]** Webinar – Beyond Earth: Blueprint for SMB Innovation
 - <a href="https://www.teslarati.com/spacex-sends-23-more-starlink-satellites-into-orbit-on-leap-day/" >🔗</a> **[Teslarati]** SpaceX sends 23 more Starlink satellites into orbit on Leap Day
-- <a href="https://spacenews.com/msr-problems-illustrative-of-challenges-for-nasa-flagship-missions-audit-concludes/" >🔗</a> **[SpaceNews]** MSR problems illustrative of challenges for NASA flagship missions, audit concludes
-- <a href="https://arstechnica.com/space/2024/03/daily-telescope-two-nebulae-in-orion-for-the-price-of-one/" >🔗</a> **[Arstechnica]** Daily Telescope: Two nebulae in Orion for the price of one
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240301T223053">2024-03-01 22:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240301T230112">2024-03-01 23:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
