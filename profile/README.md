@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-offers-to-acquire-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed Martin offers to acquire Terran Orbital
 - <a href="https://www.nasaspaceflight.com/2024/03/launch-roundup-0301/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launching three Falcon 9 rockets including Crew-8; new launcher to debut from Japan
 - <a href="https://spacenews.com/nasa-cancels-osam-1-satellite-servicing-technology-mission/" >🔗</a> **[SpaceNews]** NASA cancels OSAM-1 satellite servicing technology mission
 - <a href="https://spacenews.com/boeing-gets-439-million-contract-for-u-s-military-communications-satellite/" >🔗</a> **[SpaceNews]** Boeing gets $439 million contract for U.S. military communications satellite
 - <a href="https://www.cnbc.com/2024/03/01/lockheed-martin-looks-to-acquire-terran-orbital-for-about-600-million.html" >🔗</a> **[CNBC]** Lockheed Martin looks to acquire spacecraft maker Terran Orbital for nearly $600 million
-- <a href="https://www.cnbc.com/2024/03/01/nasa-shuts-down-maxar-led-osam-1-satellite-refueling-project.html" >🔗</a> **[CNBC]** NASA shuts down $2 billion satellite refueling project after Maxar is cited for poor performance
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T004443">2024-03-02 00:44:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T012029">2024-03-02 01:20:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
