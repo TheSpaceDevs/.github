@@ -108,11 +108,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/02/launch-roundup-021524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch next ISS crew rotation; Electron launches debris removal demonstration
 - <a href="https://spacenews.com/crew-8-set-for-march-1-launch-to-space-station/" >🔗</a> **[SpaceNews]** Crew-8 set for March 1 launch to space station
 - <a href="https://www.spacescout.info/2024/02/nasa-and-spacex-ready-for-crew-8/" >🔗</a> **[Space Scout]**  NASA and SpaceX Ready for Crew-8
+- <a href="https://www.nasaspaceflight.com/2024/03/launch-roundup-0301/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launching three Falcon 9 rockets including Crew-8; new launcher to debut from Japan
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T093056">2024-03-02 09:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T100120">2024-03-02 10:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
