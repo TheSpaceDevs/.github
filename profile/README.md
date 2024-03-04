@@ -49,7 +49,7 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T220500">2024-03-04 22:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 10 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240304T220500Z%2F20240304T220500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 10 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T235600">2024-03-04 23:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-41&location=Cape Canaveral, FL, USA&dates=20240304T235600Z%2F20240305T035400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-41** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T235600">2024-03-04 23:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-41&location=Cape Canaveral, FL, USA&dates=20240304T235600Z%2F20240305T035400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-41** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240309T020000">2024-03-09 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Maiden Flight&location=Space Port Kii, Japan&dates=20240309T020000Z%2F20240309T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Maiden Flight** from Space Port Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240309T140000">2024-03-09 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl Night Long&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240309T140000Z%2F20240309T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl Night Long** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240310T230300">2024-03-10 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-42&location=Cape Canaveral, FL, USA&dates=20240310T230300Z%2F20240311T033400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-42** from Cape Canaveral, FL, USA.
@@ -93,11 +93,11 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blacksky-wins-defense-contract-to-supply-satellite-data-to-train-ai-models/" >🔗</a> **[SpaceNews]** BlackSky wins defense contract to supply satellite data to train AI models
 - <a href="https://www.nasaspaceflight.com/2024/03/transporter-10/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Transporter-10 rideshare from Vandenberg
 - <a href="https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/" >🔗</a> **[Arstechnica]** Blue Origin is getting serious about developing a human spacecraft
 - <a href="https://spacenews.com/space-force-eyes-smaller-cheaper-gps-satellites-to-augment-constellation/" >🔗</a> **[SpaceNews]** Space Force eyes smaller, cheaper GPS satellites to augment constellation
 - <a href="https://spacenews.com/astra-warns-of-liquidation-if-proposal-to-go-private-falls-through/" >🔗</a> **[SpaceNews]** Astra warns of liquidation if proposal to go private falls through
-- <a href="https://spacepolicyonline.com/news/crew-8-up-and-away/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Up and Away
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T213056">2024-03-04 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T220114">2024-03-04 22:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
