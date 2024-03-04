@@ -93,11 +93,11 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/03/transporter-10/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Transporter-10 rideshare from Vandenberg
 - <a href="https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/" >🔗</a> **[Arstechnica]** Blue Origin is getting serious about developing a human spacecraft
 - <a href="https://spacenews.com/space-force-eyes-smaller-cheaper-gps-satellites-to-augment-constellation/" >🔗</a> **[SpaceNews]** Space Force eyes smaller, cheaper GPS satellites to augment constellation
 - <a href="https://spacenews.com/astra-warns-of-liquidation-if-proposal-to-go-private-falls-through/" >🔗</a> **[SpaceNews]** Astra warns of liquidation if proposal to go private falls through
 - <a href="https://spacepolicyonline.com/news/crew-8-up-and-away/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Up and Away
-- <a href="https://spacepolicyonline.com/news/nasa-gets-significant-cut-in-final-fy2024-appropriations/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gets Significant Cut in Final FY2024 Appropriations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T183101">2024-03-04 18:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T190120">2024-03-04 19:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
