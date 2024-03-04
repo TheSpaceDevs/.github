@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-gets-significant-cut-in-final-fy2024-appropriations/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gets Significant Cut in Final FY2024 Appropriations
 - <a href="https://spacenews.com/crew-8-launches-to-space-station/" >🔗</a> **[SpaceNews]** Crew-8 launches to space station
 - <a href="https://spacenews.com/final-nasa-2024-spending-bill-defers-decision-on-msr-funding/" >🔗</a> **[SpaceNews]** Final NASA 2024 spending bill defers decision on MSR funding
 - <a href="https://www.nasaspaceflight.com/2024/03/iss-roundup-030324/" >🔗</a> **[NASASpaceflight]** ISS Roundup: Cygnus NG-20, Axiom Mission 3, and Progress MS-26
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-3-10-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 3-10, 2024
-- <a href="https://spacenews.com/nasa-studying-issues-with-orion-hatch-design/" >🔗</a> **[SpaceNews]** NASA studying issues with Orion hatch design
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T050525">2024-03-04 05:05:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T054505">2024-03-04 05:45:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
