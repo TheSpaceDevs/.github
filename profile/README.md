@@ -20,29 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 10 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-41**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T220500">2024-03-04 22:05:00 UTC</a>.  Until
-then, this pad will have been used for 135
-out of 746 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T235600">2024-03-04 23:56:00 UTC</a>.  Until
+then, this pad will have been used for 227
+out of 937 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Transporter 10 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
-
-There will be 53 payloads on this flight, including CubeSats, MicroSats, and a hosted payload.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -57,6 +55,7 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240330T093600">2024-03-30 09:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240330T093600Z%2F20240330T093600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.4** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-30&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-30** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,23 +91,21 @@ There will be 53 payloads on this flight, including CubeSats, MicroSats, and a h
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-to-take-over-gps-backup-provider-for-115-million/" >🔗</a> **[SpaceNews]** Iridium to take over GPS backup provider for $115 million
 - <a href="https://spacenews.com/blacksky-wins-defense-contract-to-supply-satellite-data-to-train-ai-models/" >🔗</a> **[SpaceNews]** BlackSky wins defense contract to supply satellite data to train AI models
-- <a href="https://www.nasaspaceflight.com/2024/03/transporter-10/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Transporter-10 rideshare from Vandenberg
+- <a href="https://www.nasaspaceflight.com/2024/03/transporter-10/" >🔗</a> **[NASASpaceflight]** SpaceX launches Transporter-10 rideshare from Vandenberg
 - <a href="https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/" >🔗</a> **[Arstechnica]** Blue Origin is getting serious about developing a human spacecraft
 - <a href="https://spacenews.com/space-force-eyes-smaller-cheaper-gps-satellites-to-augment-constellation/" >🔗</a> **[SpaceNews]** Space Force eyes smaller, cheaper GPS satellites to augment constellation
-- <a href="https://spacenews.com/astra-warns-of-liquidation-if-proposal-to-go-private-falls-through/" >🔗</a> **[SpaceNews]** Astra warns of liquidation if proposal to go private falls through
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/space-tech-startup-true-anomaly-set-to-launch-its-first-satellites/" >🔗</a> **[SpaceNews]** Space tech startup True Anomaly set to launch its first satellites
-- <a href="https://spacenews.com/unseenlabs-books-spacex-to-expand-maritime-surveillance-constellation/" >🔗</a> **[SpaceNews]** Unseenlabs books SpaceX to expand maritime surveillance constellation
 - <a href="https://www.nasaspaceflight.com/2024/03/launch-roundup-0301/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launching three Falcon 9 rockets including Crew-8; new launcher to debut from Japan
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T223101">2024-03-04 22:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T230132">2024-03-04 23:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
