@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/final-nasa-2024-spending-bill-defers-decision-on-msr-funding/" >🔗</a> **[SpaceNews]** Final NASA 2024 spending bill defers decision on MSR funding
 - <a href="https://www.nasaspaceflight.com/2024/03/iss-roundup-030324/" >🔗</a> **[NASASpaceflight]** ISS Roundup: Cygnus NG-20, Axiom Mission 3, and Progress MS-26
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-3-10-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 3-10, 2024
 - <a href="https://spacenews.com/nasa-studying-issues-with-orion-hatch-design/" >🔗</a> **[SpaceNews]** NASA studying issues with Orion hatch design
 - <a href="https://www.nasaspaceflight.com/2024/03/crew-8-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-8 mission to ISS
-- <a href="https://spacenews.com/lockheed-martin-offers-to-acquire-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed Martin offers to acquire Terran Orbital
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240303T233101">2024-03-03 23:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240304T000339">2024-03-04 00:03:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
