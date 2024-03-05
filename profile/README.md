@@ -93,9 +93,9 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/l3harris-sensor-satellite-for-medium-earth-orbit-constellation-passes-review/" >🔗</a> **[SpaceNews]** L3Harris’ sensor satellite for medium Earth orbit constellation passes review
 - <a href="https://spacenews.com/iridium-to-take-over-gps-backup-provider-for-115-million/" >🔗</a> **[SpaceNews]** Iridium to take over GPS backup provider for $115 million
+- <a href="https://www.spacescout.info/2024/03/crew-8-heads-for-iss/" >🔗</a> **[Space Scout]**  Endeavour Ascends – Crew-8 Heads for ISS
 - <a href="https://spacenews.com/blacksky-wins-defense-contract-to-supply-satellite-data-to-train-ai-models/" >🔗</a> **[SpaceNews]** BlackSky wins defense contract to supply satellite data to train AI models
 - <a href="https://www.nasaspaceflight.com/2024/03/transporter-10/" >🔗</a> **[NASASpaceflight]** SpaceX launches Transporter-10 rideshare from Vandenberg
-- <a href="https://arstechnica.com/space/2024/03/blue-origin-staffing-up-to-build-a-human-spacecraft/" >🔗</a> **[Arstechnica]** Blue Origin is getting serious about developing a human spacecraft
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T070107">2024-03-05 07:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T073109">2024-03-05 07:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
