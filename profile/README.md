@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/03/webb-uncover/" >🔗</a> **[NASASpaceflight]** Using Hubble and Webb, scientists investigate galaxies responsible for the reionization of the universe
+- <a href="https://spacenews.com/first-apex-spacecraft-working-well-after-launch/" >🔗</a> **[SpaceNews]** First Apex spacecraft working well after launch
 - <a href="https://spacenews.com/agile-space-wins-contract-for-deployable-satellite-processing-unit/" >🔗</a> **[SpaceNews]** Agile Space wins contract for deployable satellite processing unit
 - <a href="https://spacenews.com/u-s-general-warns-of-russias-enduring-space-threat-despite-ukraine-woes/" >🔗</a> **[SpaceNews]** U.S. general warns of Russia’s enduring space threat despite Ukraine woes
 - <a href="https://spacenews.com/space-forces-weather-imaging-mission-takes-flight-again-after-initial-setback/" >🔗</a> **[SpaceNews]** Space Force’s weather-imaging mission takes flight again after initial setback
-- <a href="https://spacenews.com/bridging-cultural-divide-moon-to-mars/" >🔗</a> **[SpaceNews]** Bridging the cultural divide for moon to Mars
-- <a href="https://spacenews.com/terran-orbital-wins-15-million-contract-for-u-s-air-force-satellite-experiments/" >🔗</a> **[SpaceNews]** Terran Orbital wins $15 million contract for U.S. Space Force satellite experiments
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T213103">2024-03-05 21:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T220113">2024-03-05 22:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
