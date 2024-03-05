@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-studies-to-examine-commercial-partnerships-for-mars-exploration/" >🔗</a> **[SpaceNews]** NASA studies to examine commercial partnerships for Mars exploration
 - <a href="https://spacenews.com/l3harris-sensor-satellite-for-medium-earth-orbit-constellation-passes-review/" >🔗</a> **[SpaceNews]** L3Harris’ sensor satellite for medium Earth orbit constellation passes review
 - <a href="https://spacenews.com/iridium-to-take-over-gps-backup-provider-for-115-million/" >🔗</a> **[SpaceNews]** Iridium to take over GPS backup provider for $115 million
 - <a href="https://www.spacescout.info/2024/03/crew-8-heads-for-iss/" >🔗</a> **[Space Scout]**  Endeavour Ascends – Crew-8 Heads for ISS
 - <a href="https://spacenews.com/blacksky-wins-defense-contract-to-supply-satellite-data-to-train-ai-models/" >🔗</a> **[SpaceNews]** BlackSky wins defense contract to supply satellite data to train AI models
-- <a href="https://www.nasaspaceflight.com/2024/03/transporter-10/" >🔗</a> **[NASASpaceflight]** SpaceX launches Transporter-10 rideshare from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T093103">2024-03-05 09:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T100127">2024-03-05 10:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
