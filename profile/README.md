@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-wins-15-million-contract-for-u-s-air-force-satellite-experiments/" >🔗</a> **[SpaceNews]** Terran Orbital wins $15 million contract for U.S. Space Force satellite experiments
 - <a href="https://arstechnica.com/space/2024/03/daily-telescope-a-new-webb-image-reveals-a-cosmos-full-of-galaxies/" >🔗</a> **[Arstechnica]** Daily Telescope: A new Webb image reveals a cosmos full of galaxies
 - <a href="https://spacenews.com/china-to-debut-large-reusable-rockets-in-2025-and-2026/" >🔗</a> **[SpaceNews]** China to debut large reusable rockets in 2025 and 2026
 - <a href="https://spacenews.com/spacex-launches-tenth-transporter-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches tenth Transporter rideshare mission
 - <a href="https://spacenews.com/nasa-studies-to-examine-commercial-partnerships-for-mars-exploration/" >🔗</a> **[SpaceNews]** NASA studies to examine commercial partnerships for Mars exploration
-- <a href="https://spacenews.com/l3harris-sensor-satellite-for-medium-earth-orbit-constellation-passes-review/" >🔗</a> **[SpaceNews]** L3Harris’ sensor satellite for medium Earth orbit constellation passes review
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T133115">2024-03-05 13:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240305T140123">2024-03-05 14:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
