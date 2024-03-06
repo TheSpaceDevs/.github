@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thaicom-orders-small-geo-satellite-from-astranis-for-a-launch-in-2025/" >🔗</a> **[SpaceNews]** Thaicom orders small GEO satellite from Astranis for a launch in 2025
 - <a href="https://spacenews.com/china-outlines-position-on-use-of-space-resources/" >🔗</a> **[SpaceNews]** China outlines position on use of space resources
 - <a href="https://spacenews.com/exotrail-deploys-first-satellite-from-orbital-transfer-vehicle/" >🔗</a> **[SpaceNews]** Exotrail deploys first satellite from orbital transfer vehicle
 - <a href="https://spacepolicyonline.com/news/house-to-take-up-fy2024-appropriations-for-nasa-noaa-faa-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** House To Take Up FY2024 Appropriations for NASA, NOAA, FAA on Wednesday
 - <a href="https://spacenews.com/satellite-connectivity-backups-put-to-use-over-red-sea/" >🔗</a> **[SpaceNews]** Satellite connectivity backups put to use over Red Sea
-- <a href="https://www.nasaspaceflight.com/2024/03/webb-uncover/" >🔗</a> **[NASASpaceflight]** Using Hubble and Webb, scientists investigate galaxies responsible for the reionization of the universe
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240306T130109">2024-03-06 13:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240306T133115">2024-03-06 13:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
