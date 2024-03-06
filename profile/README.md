@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-test-fight-3-date-march-13/" >🔗</a> **[Teslarati]** SpaceX lands on potential date for next Starship test flight
 - <a href="https://spacenews.com/new-congressional-caucus-seeks-to-build-support-for-nasas-planetary-science-programs/" >🔗</a> **[SpaceNews]** New congressional caucus seeks to build support for NASA’s planetary science programs
 - <a href="https://spacenews.com/planet-labs-gets-u-s-navy-contract-for-maritime-surveillance-in-the-pacific/" >🔗</a> **[SpaceNews]** Planet Labs gets U.S. Navy contract for maritime surveillance in the Pacific
 - <a href="https://spacenews.com/rhea-space-activity-to-fly-navigation-payloads-on-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Rhea Space Activity to fly navigation payloads on lunar lander mission
 - <a href="https://arstechnica.com/space/2024/03/the-next-starship-mission-has-a-tentative-launch-date-march-14/" >🔗</a> **[Arstechnica]** The next Starship mission has a tentative launch date: March 14
-- <a href="https://spacenews.com/launch-orbits-act/" >🔗</a> **[SpaceNews]** Launch the ORBITS Act
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240306T213155">2024-03-06 21:31:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240306T220123">2024-03-06 22:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
