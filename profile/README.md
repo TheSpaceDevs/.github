@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-agrees-to-go-private/" >🔗</a> **[SpaceNews]** Astra agrees to go private
+- <a href="https://spacepolicyonline.com/news/senate-passes-another-extension-for-the-faa-and-the-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes Another Extension for the FAA and the “Learning Period”
+- <a href="https://www.nasaspaceflight.com/2024/03/stoke-stage-2/" >🔗</a> **[NASASpaceflight]** Stoke Space continues to test reusable second stage, looks ahead to full rocket
 - <a href="https://spacenews.com/office-of-space-commerce-considers-restoring-orbital-debris-regulations-for-commercial-remote-sensing-licensees/" >🔗</a> **[SpaceNews]** Office of Space Commerce considers restoring orbital debris regulations for commercial remote sensing licensees
 - <a href="https://www.cnbc.com/2024/03/07/investing-in-space-the-evolving-satellite-market-of-airline-wi-fi.html" >🔗</a> **[CNBC]** Investing in Space: The evolving market for airline Wi-Fi via satellites
-- <a href="https://www.spacescout.info/2024/03/starship-eyes-mid-march-for-flight-3/" >🔗</a> **[Space Scout]** Starship Eyes Mid-March for Flight 3
-- <a href="https://arstechnica.com/space/2024/03/daily-telescope-a-brilliant-shot-of-a-comet-as-it-nears-the-sun/" >🔗</a> **[Arstechnica]** Daily Telescope: A brilliant shot of a comet as it nears the Sun
-- <a href="https://spacenews.com/italian-space-startup-kurs-orbital-raises-4-million-in-seed-funding/" >🔗</a> **[SpaceNews]** Italian space startup Kurs Orbital raises $4 million in seed funding
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240307T213112">2024-03-07 21:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240307T220105">2024-03-07 22:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
