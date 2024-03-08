@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/slingshot-aerospace-sets-up-uk-base-for-global-expansion/" >🔗</a> **[SpaceNews]** Slingshot Aerospace sets up UK base for global expansion
 - <a href="https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/" >🔗</a> **[Arstechnica]** After Astra loses 99 percent of its value, founders take rocket firm private
 - <a href="https://www.cnbc.com/2024/03/07/space-company-astra-going-private-to-avoid-bankruptcy.html" >🔗</a> **[CNBC]** Space company Astra going private to avoid bankruptcy after dismal public run
 - <a href="https://spacenews.com/astra-agrees-to-go-private/" >🔗</a> **[SpaceNews]** Astra agrees to go private
 - <a href="https://spacepolicyonline.com/news/senate-passes-another-extension-for-the-faa-and-the-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes Another Extension for the FAA and the “Learning Period”
-- <a href="https://www.nasaspaceflight.com/2024/03/stoke-stage-2/" >🔗</a> **[NASASpaceflight]** Stoke Space continues to test reusable second stage, looks ahead to full rocket
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240308T000353">2024-03-08 00:03:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240308T004441">2024-03-08 00:44:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
