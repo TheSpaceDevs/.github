@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/03/08/terran-orbital-ceo-looking-at-everything-after-lockheed-martin-bid.html" >🔗</a> **[CNBC]** Spacecraft maker Terran Orbital ‘looking at everything,’ CEO says after Lockheed Martin takeover bid
 - <a href="https://spacenews.com/blue-origin-aims-to-launch-first-lunar-lander-in-2025/" >🔗</a> **[SpaceNews]** Blue Origin aims to launch first lunar lander in 2025
 - <a href="https://europeanspaceflight.com/irish-launch-facility-startup-eyes-us-investors-for-seed-funding/" >🔗</a> **[European Spaceflight]** Irish Launch Facility Startup Eyes US Investors for Seed Funding
 - <a href="https://spacenews.com/the-limits-of-space-power/" >🔗</a> **[SpaceNews]** The limits of space power
 - <a href="https://spacepolicyonline.com/news/spacex-targets-march-14-for-third-starship-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Targets March 14 for Third Starship Test Flight
-- <a href="https://spacenews.com/slingshot-aerospace-sets-up-uk-base-for-global-expansion/" >🔗</a> **[SpaceNews]** Slingshot Aerospace sets up UK base for global expansion
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240308T193057">2024-03-08 19:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240308T200112">2024-03-08 20:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
