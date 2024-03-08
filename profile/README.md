@@ -53,7 +53,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T230000">2024-03-13 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-44&location=Kennedy Space Center, FL, USA&dates=20240313T230000Z%2F20240314T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T120000">2024-03-14 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 3&location=SpaceX Starbase, TX, USA&dates=20240314T120000Z%2F20240314T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 3** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240320T061500">2024-03-20 06:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Live and Let Fly (NROL-123)&location=Wallops Island, Virginia, USA&dates=20240320T061500Z%2F20240320T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Live and Let Fly (NROL-123)** from Wallops Island, Virginia, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240321T132100">2024-03-21 13:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-25&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240321T132100Z%2F20240321T132100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-25** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240321T132100">2024-03-21 13:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-25&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240321T132100Z%2F20240321T132100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-25** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240330T093600">2024-03-30 09:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240330T093600Z%2F20240330T093600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.4** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
 
@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-aims-to-launch-first-lunar-lander-in-2025/" >🔗</a> **[SpaceNews]** Blue Origin aims to launch first lunar lander in 2025
+- <a href="https://europeanspaceflight.com/irish-launch-facility-startup-eyes-us-investors-for-seed-funding/" >🔗</a> **[European Spaceflight]** Irish Launch Facility Startup Eyes US Investors for Seed Funding
+- <a href="https://spacenews.com/the-limits-of-space-power/" >🔗</a> **[SpaceNews]** The limits of space power
 - <a href="https://spacepolicyonline.com/news/spacex-targets-march-14-for-third-starship-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Targets March 14 for Third Starship Test Flight
 - <a href="https://spacenews.com/slingshot-aerospace-sets-up-uk-base-for-global-expansion/" >🔗</a> **[SpaceNews]** Slingshot Aerospace sets up UK base for global expansion
-- <a href="https://arstechnica.com/space/2024/03/after-astra-loses-99-percent-of-its-value-founders-take-rocket-firm-private/" >🔗</a> **[Arstechnica]** After Astra loses 99 percent of its value, founders take rocket firm private
-- <a href="https://www.cnbc.com/2024/03/07/space-company-astra-going-private-to-avoid-bankruptcy.html" >🔗</a> **[CNBC]** Space company Astra going private to avoid bankruptcy after dismal public run
-- <a href="https://spacenews.com/astra-agrees-to-go-private/" >🔗</a> **[SpaceNews]** Astra agrees to go private
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240308T130105">2024-03-08 13:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240308T133101">2024-03-08 13:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
