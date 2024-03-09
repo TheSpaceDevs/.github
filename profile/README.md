@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-companys-mission-possible-demo-flight-slips-to-2025/" >🔗</a> **[European Spaceflight]** The Exploration Company’s Mission Possible Demo Flight Slips to 2025
 - <a href="https://spacenews.com/iss-schedule-conflicts-delay-starliner-crewed-test-flight-to-may/" >🔗</a> **[SpaceNews]** ISS schedule conflicts delay Starliner crewed test flight to May
 - <a href="https://www.nasaspaceflight.com/2024/03/space-one-kairos/" >🔗</a> **[NASASpaceflight]** Space One scrubs Japan’s first commercial orbital launch
 - <a href="https://spacenews.com/china-targets-2030-for-mars-sample-return-mission-potential-landing-areas-revealed/" >🔗</a> **[SpaceNews]** China targets 2030 for Mars sample return mission, potential landing areas revealed
 - <a href="https://www.cnbc.com/2024/03/08/terran-orbital-ceo-looking-at-everything-after-lockheed-martin-bid.html" >🔗</a> **[CNBC]** Spacecraft maker Terran Orbital ‘looking at everything,’ CEO says after Lockheed Martin takeover bid
-- <a href="https://spacenews.com/blue-origin-aims-to-launch-first-lunar-lander-in-2025/" >🔗</a> **[SpaceNews]** Blue Origin aims to launch first lunar lander in 2025
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240309T070122">2024-03-09 07:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240309T073058">2024-03-09 07:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
