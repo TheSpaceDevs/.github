@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blacksky-secures-back-to-back-u-s-air-force-contracts/" >🔗</a> **[SpaceNews]** BlackSky secures back-to-back U.S. Air Force contracts
 - <a href="https://europeanspaceflight.com/the-exploration-companys-mission-possible-demo-flight-slips-to-2025/" >🔗</a> **[European Spaceflight]** The Exploration Company’s Mission Possible Demo Flight Slips to 2025
 - <a href="https://spacenews.com/iss-schedule-conflicts-delay-starliner-crewed-test-flight-to-may/" >🔗</a> **[SpaceNews]** ISS schedule conflicts delay Starliner crewed test flight to May
 - <a href="https://www.nasaspaceflight.com/2024/03/space-one-kairos/" >🔗</a> **[NASASpaceflight]** Space One scrubs Japan’s first commercial orbital launch
 - <a href="https://spacenews.com/china-targets-2030-for-mars-sample-return-mission-potential-landing-areas-revealed/" >🔗</a> **[SpaceNews]** China targets 2030 for Mars sample return mission, potential landing areas revealed
-- <a href="https://www.cnbc.com/2024/03/08/terran-orbital-ceo-looking-at-everything-after-lockheed-martin-bid.html" >🔗</a> **[CNBC]** Spacecraft maker Terran Orbital ‘looking at everything,’ CEO says after Lockheed Martin takeover bid
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240309T143052">2024-03-09 14:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240309T150113">2024-03-09 15:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
