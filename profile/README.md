@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/03/after-coming-back-from-the-dead-the-worlds-largest-aircraft-just-flew-a-real-payload/" >🔗</a> **[Arstechnica]** After coming back from the dead, the world’s largest aircraft just flew a real payload
+- <a href="https://www.nasaspaceflight.com/2024/03/crew-7-endurance-return-earth/" >🔗</a> **[NASASpaceflight]** Crew-7 and Endurance returning to Earth after a six-month ISS stay
+- <a href="https://spacenews.com/saic-scores-444-million-contract-to-upgrade-data-systems-at-u-s-space-launch-sites/" >🔗</a> **[SpaceNews]** SAIC scores $444 million contract to upgrade data systems at U.S. space launch sites
 - <a href="https://europeanspaceflight.com/hungary-signs-agreement-with-esa-for-its-astronaut-programme/" >🔗</a> **[European Spaceflight]** Hungary Signs Agreement with ESA for its Astronaut Programme
 - <a href="https://spacenews.com/final-frontier-or-final-countdown/" >🔗</a> **[SpaceNews]** Final frontier or final countdown?
-- <a href="https://spacenews.com/webinar-beyond-earth-blueprint-for-smb-innovation/" >🔗</a> **[SpaceNews]** Webinar – Beyond Earth: Blueprint for Small Medium Business (SMB) Innovation
-- <a href="https://europeanspaceflight.com/esa-publishes-call-for-arrakihs-dark-matter-probe/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for ARRAKIHS Dark Matter Probe
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 10-16, 2024
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T153057">2024-03-11 15:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T160120">2024-03-11 16:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
