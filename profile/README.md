@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/final-frontier-or-final-countdown/" >🔗</a> **[SpaceNews]** Final frontier or final countdown?
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-arrakihs-dark-matter-probe/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for ARRAKIHS Dark Matter Probe
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 10-16, 2024
 - <a href="https://spacenews.com/stratolaunch-performs-first-powered-talon-flight/" >🔗</a> **[SpaceNews]** Stratolaunch performs first powered Talon flight
 - <a href="https://spacenews.com/ursa-majors-hadley-rocket-engine-flies-for-the-first-time/" >🔗</a> **[SpaceNews]** Ursa Major’s Hadley rocket engine flies for the first time
-- <a href="https://www.nasaspaceflight.com/2024/03/juno-europa/" >🔗</a> **[NASASpaceflight]** Juno measures oxygen production on Europa
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T130118">2024-03-11 13:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T133113">2024-03-11 13:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
