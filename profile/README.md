@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/03/nasa-grapples-with-budget-cuts-as-it-undertakes-ambitious-programs/" >🔗</a> **[Arstechnica]** NASA grapples with budget cuts as it undertakes ambitious programs
 - <a href="https://spacenews.com/spacex-gets-e-band-radio-waves-to-boost-starlink-broadband/" >🔗</a> **[SpaceNews]** SpaceX gets E-band radio waves to boost Starlink broadband
 - <a href="https://spacenews.com/nasa-says-spending-caps-force-hard-choices-for-its-2025-budget/" >🔗</a> **[SpaceNews]** NASA says spending caps force “hard choices” for its 2025 budget
 - <a href="https://spacenews.com/dawn-of-the-multi-orbit-era/" >🔗</a> **[SpaceNews]** Dawn of the multi-orbit era
 - <a href="https://spacenews.com/kymeta-brings-in-new-leadership-amid-multi-orbit-antenna-launch/" >🔗</a> **[SpaceNews]** Kymeta brings in new leadership amid multi-orbit antenna launch
-- <a href="https://www.teslarati.com/spacex-launches-back-to-back-starlink-missions/" >🔗</a> **[Teslarati]** SpaceX launches back-to-back Starlink missions
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T223056">2024-03-11 22:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T230212">2024-03-11 23:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
