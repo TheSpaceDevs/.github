@@ -47,7 +47,7 @@ into *a Sun-Synchronous Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T140000">2024-03-12 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl Night Long&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240312T140000Z%2F20240312T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl Night Long** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T020112">2024-03-13 02:01:12 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Maiden Flight&location=Space Port Kii, Japan&dates=20240313T020112Z%2F20240313T021712Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Maiden Flight** from Space Port Kii, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T020112">2024-03-13 02:01:12 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Maiden Flight&location=Space Port Kii, Japan&dates=20240313T020112Z%2F20240313T021712Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Maiden Flight** from Space Port Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T123900">2024-03-13 12:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240313T123900Z%2F20240313T125900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T232900">2024-03-13 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-44&location=Kennedy Space Center, FL, USA&dates=20240313T232900Z%2F20240314T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T120000">2024-03-14 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 3&location=SpaceX Starbase, TX, USA&dates=20240314T120000Z%2F20240314T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 3** from SpaceX Starbase, TX, USA.
@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-publishes-call-for-arrakihs-dark-matter-probe/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for ARRAKIHS Dark Matter Probe
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 10-16, 2024
 - <a href="https://spacenews.com/stratolaunch-performs-first-powered-talon-flight/" >🔗</a> **[SpaceNews]** Stratolaunch performs first powered Talon flight
 - <a href="https://spacenews.com/ursa-majors-hadley-rocket-engine-flies-for-the-first-time/" >🔗</a> **[SpaceNews]** Ursa Major’s Hadley rocket engine flies for the first time
 - <a href="https://www.nasaspaceflight.com/2024/03/juno-europa/" >🔗</a> **[NASASpaceflight]** Juno measures oxygen production on Europa
-- <a href="https://spacenews.com/congress-passes-final-fiscal-year-2024-spending-bill-for-nasa-noaa-and-faa/" >🔗</a> **[SpaceNews]** Congress passes final fiscal year 2024 spending bill for NASA, NOAA and FAA
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T093059">2024-03-11 09:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T100123">2024-03-11 10:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
