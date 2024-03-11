@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-back-to-back-starlink-missions/" >🔗</a> **[Teslarati]** SpaceX launches back-to-back Starlink missions
+- <a href="https://spacenews.com/space-force-budget-holding-steady-amid-pentagons-fiscal-constraints/" >🔗</a> **[SpaceNews]** Space Force budget holding steady amid Pentagon’s fiscal constraints
 - <a href="https://spacenews.com/dod-unveils-investment-strategy-for-its-office-of-strategic-capital/" >🔗</a> **[SpaceNews]** DoD unveils investment strategy for its Office of Strategic Capital
 - <a href="https://spacenews.com/buy-before-build-sscs-commercial-space-office-seeks-to-disrupt-business-as-usual/" >🔗</a> **[SpaceNews]** Buy Before Build: SSC’s Commercial Space Office seeks to disrupt business as usual
 - <a href="https://spacenews.com/space-loves-ai-ai-doesnt-love-space/" >🔗</a> **[SpaceNews]** Space loves AI, AI doesn’t love Space
-- <a href="https://spacenews.com/phantom-closes-bridge-funding-round/" >🔗</a> **[SpaceNews]** Phantom closes bridge funding round
-- <a href="https://arstechnica.com/space/2024/03/after-coming-back-from-the-dead-the-worlds-largest-aircraft-just-flew-a-real-payload/" >🔗</a> **[Arstechnica]** After coming back from the dead, the world’s largest aircraft just flew a real payload
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T180118">2024-03-11 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240311T183123">2024-03-11 18:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
