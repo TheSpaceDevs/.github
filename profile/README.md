@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Owl Night Long**. It is scheduled to be launched by *Rocket Lab*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T140000">2024-03-12 14:00:00 UTC</a>.  Until
-then, this pad will have been used for 15
-out of 41 launches from this location. The launch status is currently
+**KAIROS | Maiden Flight**. It is scheduled to be launched by *Space One*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+from *<a href="None">Space One Launch Pad</a>, Space Port Kii, Japan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T020112">2024-03-13 02:01:12 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 0 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
+*Test Flight* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  StriX-3 is a synthetic aperture radar satellite for Japanese Earth imaging company Synspective. It can gather high resolution Earth observation data regardless of conditions or daylight, offering a resilient and effective resource for the purposes of urban development, infrastructure monitoring, and disaster response.
+  Will launch a prototype "quick response" satellite for the Japanese government Cabinet Satellite Intelligence Center, operator of the IGS series of Japanese spysats.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -53,8 +53,9 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240320T061500">2024-03-20 06:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Live and Let Fly (NROL-123)&location=Wallops Island, Virginia, USA&dates=20240320T061500Z%2F20240320T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Live and Let Fly (NROL-123)** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240321T132100">2024-03-21 13:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-25&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240321T132100Z%2F20240321T132100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-25** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240321T205400">2024-03-21 20:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-30&location=Cape Canaveral, FL, USA&dates=20240321T205400Z%2F20240321T205400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-30** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240328T000000">2024-03-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240328T000000Z%2F20240328T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240330T093600">2024-03-30 09:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240330T093600Z%2F20240330T093600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.4** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 36D&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 36D** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,11 +100,12 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/03/space-one-kairos/" >🔗</a> **[NASASpaceflight]** Space One scrubs Japan’s first commercial orbital launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T153114">2024-03-12 15:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T160224">2024-03-12 16:02:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
