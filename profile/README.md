@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japan-creates-multibillion-dollar-space-strategic-fund-to-boost-space-industry/" >🔗</a> **[SpaceNews]** Japan creates multibillion-dollar space strategic fund to boost space industry
 - <a href="https://spacenews.com/rocket-lab-launches-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Synspective radar imaging satellite
 - <a href="https://www.teslarati.com/rocket-lab-prepares-for-the-owl-night-long-mission/" >🔗</a> **[Teslarati]** Rocket Lab prepares for the ‘Owl Night Long’ mission
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-mira-vehicle-damaged-during-takeoff/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes’ MIRA Vehicle Damaged During Takeoff
 - <a href="https://spacenews.com/army-extends-maxars-contract-for-3d-terrain-models/" >🔗</a> **[SpaceNews]** Army extends Maxar’s contract for 3D terrain models
-- <a href="https://arstechnica.com/space/2024/03/daily-telescope-gigantic-new-stars-stir-up-a-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Gigantic new stars stir up a nebula
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T173057">2024-03-12 17:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T180223">2024-03-12 18:02:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
