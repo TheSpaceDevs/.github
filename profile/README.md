@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/third-satellite-carrying-transatlantic-beluga-flight-lands-in-florida/" >🔗</a> **[SpaceNews]** Third satellite-carrying transatlantic Beluga flight lands in Florida
+- <a href="https://www.teslarati.com/spacex-continues-progress-towards-starships-3rd-test-flight/" >🔗</a> **[Teslarati]** SpaceX continues progress towards Starship’s 3rd test flight
 - <a href="https://www.teslarati.com/crew-7-returns-to-earth-following-197-days-aboard-international-space-station/" >🔗</a> **[Teslarati]** Crew 7 returns to Earth following 197 days aboard the International Space Station
 - <a href="https://www.nasaspaceflight.com/2024/03/launch-roundup-0312/" >🔗</a> **[NASASpaceflight]** Launch roundup – Starship poised for third integrated test flight
 - <a href="https://spacenews.com/japan-creates-multibillion-dollar-space-strategic-fund-to-boost-space-industry/" >🔗</a> **[SpaceNews]** Japan creates multibillion-dollar space strategic fund to boost space industry
-- <a href="https://spacenews.com/rocket-lab-launches-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Synspective radar imaging satellite
-- <a href="https://www.teslarati.com/rocket-lab-prepares-for-the-owl-night-long-mission/" >🔗</a> **[Teslarati]** Rocket Lab prepares for the ‘Owl Night Long’ mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T203100">2024-03-12 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T210129">2024-03-12 21:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
