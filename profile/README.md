@@ -91,11 +91,11 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/03/daily-telescope-gigantic-new-stars-stir-up-a-nebula/" >🔗</a> **[Arstechnica]** Daily Telescope: Gigantic new stars stir up a nebula
 - <a href="https://spacenews.com/crew-7-returns-to-earth/" >🔗</a> **[SpaceNews]** Crew-7 returns to Earth
 - <a href="https://spacepolicyonline.com/news/crew-7-splashes-down/" >🔗</a> **[SpacePolicyOnline.com]** Crew-7 Splashes Down
 - <a href="https://spacenews.com/earth-observation-camera-maker-raises-15-million-for-european-expansion/" >🔗</a> **[SpaceNews]** Earth observation camera maker raises $15 million for European expansion
 - <a href="https://spacepolicyonline.com/news/nasas-fy2025-budget-request-stuck-at-fy2023-level/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s FY2025 Budget Request Stuck at FY2023 Level
-- <a href="https://arstechnica.com/space/2024/03/nasa-grapples-with-budget-cuts-as-it-undertakes-ambitious-programs/" >🔗</a> **[Arstechnica]** NASA grapples with budget cuts as it undertakes ambitious programs
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T120131">2024-03-12 12:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240312T123723">2024-03-12 12:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
