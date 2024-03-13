@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-marks-five-year-milestone/" >🔗</a> **[SpaceNews]** Space Development Agency marks five-year milestone
 - <a href="https://spacenews.com/global-communications-under-attack-optical-satellite-networks-bolster/" >🔗</a> **[SpaceNews]** Global communications are under attack — optical satellite networks can bolster them
 - <a href="https://arstechnica.com/space/2024/03/mining-helium-3-on-the-moon-has-been-talked-about-forever-now-a-company-will-try/" >🔗</a> **[Arstechnica]** Mining helium-3 on the Moon has been talked about forever—now a company will try
 - <a href="https://spacenews.com/satellite-firms-forge-unlikely-alliances-to-create-seamless-multi-orbit-networks/" >🔗</a> **[SpaceNews]** Satellite firms forge unlikely alliances to create seamless multi-orbit networks
 - <a href="https://spacenews.com/faa-requests-large-funding-increase-for-commercial-space-office/" >🔗</a> **[SpaceNews]** FAA requests large funding increase for commercial space office
-- <a href="https://europeanspaceflight.com/dlr-test-fires-lumen-upper-stage-rocket-engine-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Test Fires LUMEN Upper Stage Rocket Engine Demonstrator
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T193059">2024-03-13 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T200117">2024-03-13 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
