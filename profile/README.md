@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Starship | Integrated Flight Test 3**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-44**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/SpaceX_South_Texas_Launch_Site">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T120000">2024-03-14 12:00:00 UTC</a>.  Until
-then, this pad will have been used for 2
-out of 11 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T230400">2024-03-14 23:04:00 UTC</a>.  Until
+then, this pad will have been used for 172
+out of 230 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Third test flight of the two-stage Starship launch vehicle.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.997116,-97.15503099856647" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240328T000000">2024-03-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240328T000000Z%2F20240328T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240330T093600">2024-03-30 09:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.4&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240330T093600Z%2F20240330T093600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.4** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 36D&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 36D** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-45&location=Cape Canaveral, FL, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-45** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,43 +91,20 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/03/14/spacex-starship-rocket-third-test-flight-launch.html" >🔗</a> **[CNBC]** SpaceX launches third Starship test flight
 - <a href="https://spacenews.com/terran-orbital-announces-plans-to-produce-small-satellites-for-geostationary-orbit/" >🔗</a> **[SpaceNews]** Terran Orbital announces plans to produce small satellites for geostationary orbit
 - <a href="https://spacenews.com/surprise-chinese-lunar-mission-hit-by-launch-anomaly/" >🔗</a> **[SpaceNews]** Surprise Chinese lunar mission hit by launch anomaly
 - <a href="https://europeanspaceflight.com/esa-announces-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Announces Reusable Upper Stage Demonstrator Project
 - <a href="https://spacepolicyonline.com/news/fox-again-urges-nasa-science-community-to-stick-together/" >🔗</a> **[SpacePolicyOnline.com]** Fox Again Urges NASA Science Community to Stick Together
-- <a href="https://spacepolicyonline.com/news/space-force-budget-could-drop-for-first-time-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Budget Could Drop For First Time in FY2025
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.cnbc.com/2023/12/05/spacex-plans-nasa-refueling-demonstration-for-next-starship-launch.html" >🔗</a> **[CNBC]** SpaceX plans key NASA demonstration for next Starship launch
-- <a href="https://www.nasaspaceflight.com/2023/12/spacex-flight-3-rollout-ship-28/" >🔗</a> **[NASASpaceflight]** SpaceX Pushes Ahead to Flight 3 with the Rollout of Ship 28
-- <a href="https://arstechnica.com/space/2023/12/spacex-completes-static-fire-test-in-push-toward-third-starship-launch/" >🔗</a> **[Arstechnica]** SpaceX completes static fire test in push toward third Starship launch
-- <a href="https://arstechnica.com/space/2023/12/rocket-report-electron-and-new-shepard-return-to-flight-uk-spaceport-gets-ok/" >🔗</a> **[Arstechnica]** Rocket Report: Vulcan stacked for launch; Starship aces test ahead of third flight
-- <a href="https://www.teslarati.com/spacex-kicks-off-starship-testing-ahead-next-test-flight/" >🔗</a> **[Teslarati]** SpaceX kicks off Starship testing ahead of next test flight
-- <a href="https://www.nasaspaceflight.com/2023/12/starship-roundup-2023/" >🔗</a> **[NASASpaceflight]** Starship’s 2023: after a year filled with milestones, Starship looks ahead to an exciting future
-- <a href="https://www.nasaspaceflight.com/2024/01/flight-3-getting-closer/" >🔗</a> **[NASASpaceflight]** With Solo Vehicle Testing Complete Flight 3 is Getting Closer
-- <a href="https://spacenews.com/spacex-targets-february-for-third-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX targets February for third Starship test flight
-- <a href="https://www.nasaspaceflight.com/2024/01/wdr-horizon-flight-3/" >🔗</a> **[NASASpaceflight]** Wet dress rehearsal on the horizon for Starship’s third flight
-- <a href="https://www.nasaspaceflight.com/2024/02/starship-3-stacked-first-time/" >🔗</a> **[NASASpaceflight]** Starship Flight 3 Fully Stacked for WDR testing
-- <a href="https://www.nasaspaceflight.com/2024/02/two-aborted-wdrs-flight-3-preparations/" >🔗</a> **[NASASpaceflight]** Following aborted WDRs Flight 3 enters additional preparations
-- <a href="https://www.teslarati.com/spacex-third-launch-clearance-faa-investigation-closed/" >🔗</a> **[Teslarati]** SpaceX nears third Starship launch clearance following FAA investigation closure
-- <a href="https://arstechnica.com/space/2024/03/the-next-starship-mission-has-a-tentative-launch-date-march-14/" >🔗</a> **[Arstechnica]** The next Starship mission has a tentative launch date: March 14
-- <a href="https://www.teslarati.com/spacex-starship-test-fight-3-date-march-13/" >🔗</a> **[Teslarati]** SpaceX lands on potential date for next Starship test flight
-- <a href="https://spacenews.com/spacex-adds-tests-to-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX adds tests to next Starship flight
-- <a href="https://www.spacescout.info/2024/03/starship-eyes-mid-march-for-flight-3/" >🔗</a> **[Space Scout]** Starship Eyes Mid-March for Flight 3
-- <a href="https://spacepolicyonline.com/news/spacex-targets-march-14-for-third-starship-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Targets March 14 for Third Starship Test Flight
-- <a href="https://www.nasaspaceflight.com/2024/03/launch-roundup-0312/" >🔗</a> **[NASASpaceflight]** Launch roundup – Starship poised for third integrated test flight
-- <a href="https://www.teslarati.com/spacex-continues-progress-towards-starships-3rd-test-flight/" >🔗</a> **[Teslarati]** SpaceX continues progress towards Starship’s 3rd test flight
-- <a href="https://www.cnbc.com/2024/03/13/spacex-cleared-to-attempt-third-starship-launch-thursday.html" >🔗</a> **[CNBC]** SpaceX cleared to attempt third Starship launch Thursday after getting FAA license
-- <a href="https://www.teslarati.com/spacex-receives-faa-launch-license-for-3rd-starship-test-flight/" >🔗</a> **[Teslarati]** SpaceX receives FAA launch license for 3rd Starship test flight
-- <a href="https://www.nasaspaceflight.com/2024/03/starship-3rd-time/" >🔗</a> **[NASASpaceflight]** After Months of Preparations Starship is Ready for Flight 3
-- <a href="https://spacepolicyonline.com/news/faa-approves-third-starship-test-flight-for-thursday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Third Starship Test Flight for Thursday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T130122">2024-03-14 13:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T133102">2024-03-14 13:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
