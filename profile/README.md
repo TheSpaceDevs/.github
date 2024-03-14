@@ -90,11 +90,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-selects-startup-defense-unicorns-to-update-software-at-launch-ranges/" >🔗</a> **[SpaceNews]** Space Force selects startup Defense Unicorns to update software at launch ranges
 - <a href="https://spacepolicyonline.com/news/faa-approves-third-starship-test-flight-for-thursday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Third Starship Test Flight for Thursday
 - <a href="https://www.nasaspaceflight.com/2024/03/starship-3rd-time/" >🔗</a> **[NASASpaceflight]** After Months of Preparations Starship is Ready for Flight 3
 - <a href="https://www.spacescout.info/2024/03/kairos-explodes-on-maiden-flight/" >🔗</a> **[Space Scout]** Space One’s Kairos Explodes on Maiden Flight
 - <a href="https://spacenews.com/omnispace-to-test-direct-to-smartphone-leo-plans-with-africas-biggest-telco/" >🔗</a> **[SpaceNews]** Omnispace to test direct-to-smartphone LEO plans with Africa’s biggest telco
-- <a href="https://www.teslarati.com/spacex-receives-faa-launch-license-for-3rd-starship-test-flight/" >🔗</a> **[Teslarati]** SpaceX receives FAA launch license for 3rd Starship test flight
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240313T233058">2024-03-13 23:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T000321">2024-03-14 00:03:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
