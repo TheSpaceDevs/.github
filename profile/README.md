@@ -46,7 +46,6 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T120000">2024-03-14 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 3&location=SpaceX Starbase, TX, USA&dates=20240314T120000Z%2F20240314T135000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 3** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T230400">2024-03-14 23:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-44&location=Kennedy Space Center, FL, USA&dates=20240314T230400Z%2F20240315T024000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-44** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240319T022000">2024-03-19 02:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-16&location=Vandenberg SFB, CA, USA&dates=20240319T022000Z%2F20240319T065100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240320T061500">2024-03-20 06:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Live and Let Fly (NROL-123)&location=Wallops Island, Virginia, USA&dates=20240320T061500Z%2F20240320T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Live and Let Fly (NROL-123)** from Wallops Island, Virginia, USA.
@@ -91,11 +90,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-announces-plans-to-produce-small-satellites-for-geostationary-orbit/" >🔗</a> **[SpaceNews]** Terran Orbital announces plans to produce small satellites for geostationary orbit
 - <a href="https://spacenews.com/surprise-chinese-lunar-mission-hit-by-launch-anomaly/" >🔗</a> **[SpaceNews]** Surprise Chinese lunar mission hit by launch anomaly
 - <a href="https://europeanspaceflight.com/esa-announces-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Announces Reusable Upper Stage Demonstrator Project
 - <a href="https://spacepolicyonline.com/news/fox-again-urges-nasa-science-community-to-stick-together/" >🔗</a> **[SpacePolicyOnline.com]** Fox Again Urges NASA Science Community to Stick Together
 - <a href="https://spacepolicyonline.com/news/space-force-budget-could-drop-for-first-time-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Budget Could Drop For First Time in FY2025
-- <a href="https://spacenews.com/nasa-restructures-earth-system-observatory-to-reduce-costs/" >🔗</a> **[SpaceNews]** NASA restructures Earth System Observatory to reduce costs
 
 
 ### Launch-related News 🚀
@@ -127,7 +126,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T113104">2024-03-14 11:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T120157">2024-03-14 12:01:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
