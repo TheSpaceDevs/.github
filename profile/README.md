@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2024/03/14/spacex-starship-rocket-third-test-flight-launch.html" >🔗</a> **[CNBC]** SpaceX launches third Starship test flight
+- <a href="https://www.cnbc.com/2024/03/14/spacex-starship-rocket-third-test-flight-launch.html" >🔗</a> **[CNBC]** SpaceX Starship launches successfully, notches new milestones on way around Earth
 - <a href="https://spacenews.com/terran-orbital-announces-plans-to-produce-small-satellites-for-geostationary-orbit/" >🔗</a> **[SpaceNews]** Terran Orbital announces plans to produce small satellites for geostationary orbit
 - <a href="https://spacenews.com/surprise-chinese-lunar-mission-hit-by-launch-anomaly/" >🔗</a> **[SpaceNews]** Surprise Chinese lunar mission hit by launch anomaly
 - <a href="https://europeanspaceflight.com/esa-announces-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Announces Reusable Upper Stage Demonstrator Project
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T133102">2024-03-14 13:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T140129">2024-03-14 14:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
