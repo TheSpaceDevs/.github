@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-announces-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Announces Reusable Upper Stage Demonstrator Project
 - <a href="https://spacepolicyonline.com/news/fox-again-urges-nasa-science-community-to-stick-together/" >🔗</a> **[SpacePolicyOnline.com]** Fox Again Urges NASA Science Community to Stick Together
 - <a href="https://spacepolicyonline.com/news/space-force-budget-could-drop-for-first-time-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Budget Could Drop For First Time in FY2025
 - <a href="https://spacenews.com/nasa-restructures-earth-system-observatory-to-reduce-costs/" >🔗</a> **[SpaceNews]** NASA restructures Earth System Observatory to reduce costs
 - <a href="https://spacenews.com/space-force-selects-startup-defense-unicorns-to-update-software-at-launch-ranges/" >🔗</a> **[SpaceNews]** Space Force selects startup Defense Unicorns to update software at launch ranges
-- <a href="https://spacepolicyonline.com/news/faa-approves-third-starship-test-flight-for-thursday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Third Starship Test Flight for Thursday
 
 
 ### Launch-related News 🚀
@@ -121,11 +121,13 @@ into *a Suborbital
 - <a href="https://www.teslarati.com/spacex-continues-progress-towards-starships-3rd-test-flight/" >🔗</a> **[Teslarati]** SpaceX continues progress towards Starship’s 3rd test flight
 - <a href="https://www.cnbc.com/2024/03/13/spacex-cleared-to-attempt-third-starship-launch-thursday.html" >🔗</a> **[CNBC]** SpaceX cleared to attempt third Starship launch Thursday after getting FAA license
 - <a href="https://www.teslarati.com/spacex-receives-faa-launch-license-for-3rd-starship-test-flight/" >🔗</a> **[Teslarati]** SpaceX receives FAA launch license for 3rd Starship test flight
+- <a href="https://www.nasaspaceflight.com/2024/03/starship-3rd-time/" >🔗</a> **[NASASpaceflight]** After Months of Preparations Starship is Ready for Flight 3
+- <a href="https://spacepolicyonline.com/news/faa-approves-third-starship-test-flight-for-thursday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Third Starship Test Flight for Thursday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T083055">2024-03-14 08:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T090125">2024-03-14 09:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
