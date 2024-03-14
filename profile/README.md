@@ -91,11 +91,11 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/fox-again-urges-nasa-science-community-to-stick-together/" >🔗</a> **[SpacePolicyOnline.com]** Fox Again Urges NASA Science Community to Stick Together
 - <a href="https://spacepolicyonline.com/news/space-force-budget-could-drop-for-first-time-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Space Force Budget Could Drop For First Time in FY2025
 - <a href="https://spacenews.com/nasa-restructures-earth-system-observatory-to-reduce-costs/" >🔗</a> **[SpaceNews]** NASA restructures Earth System Observatory to reduce costs
 - <a href="https://spacenews.com/space-force-selects-startup-defense-unicorns-to-update-software-at-launch-ranges/" >🔗</a> **[SpaceNews]** Space Force selects startup Defense Unicorns to update software at launch ranges
 - <a href="https://spacepolicyonline.com/news/faa-approves-third-starship-test-flight-for-thursday/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Third Starship Test Flight for Thursday
-- <a href="https://www.nasaspaceflight.com/2024/03/starship-3rd-time/" >🔗</a> **[NASASpaceflight]** After Months of Preparations Starship is Ready for Flight 3
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T033057">2024-03-14 03:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T040110">2024-03-14 04:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
