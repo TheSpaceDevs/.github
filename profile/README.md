@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-approves-direct-to-smartphone-regulatory-framework/" >🔗</a> **[SpaceNews]** FCC approves direct-to-smartphone regulatory framework
+- <a href="https://spacenews.com/sierra-space-developing-dual-use-spacecraft-with-military-potential/" >🔗</a> **[SpaceNews]** Sierra Space developing dual-use spacecraft with military potential
 - <a href="https://www.teslarati.com/spacex-successful-in-epic-third-starship-test-launch/" >🔗</a> **[Teslarati]** SpaceX successful in epic third Starship test launch
 - <a href="https://spacepolicyonline.com/news/spacex-scores-many-successes-on-third-starship-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Scores Many Successes on Third Starship Test Flight
 - <a href="https://spacenews.com/starship-lifts-off-on-third-test-flight/" >🔗</a> **[SpaceNews]** Starship lifts off on third test flight
-- <a href="https://www.cnbc.com/2024/03/14/spacex-starship-rocket-third-test-flight-launch.html" >🔗</a> **[CNBC]** SpaceX’s Starship notches major flight test milestones, breaks up over Indian Ocean in final moments
-- <a href="https://spacenews.com/terran-orbital-announces-plans-to-produce-small-satellites-for-geostationary-orbit/" >🔗</a> **[SpaceNews]** Terran Orbital announces plans to produce small satellites for geostationary orbit
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T170104">2024-03-14 17:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240314T173101">2024-03-14 17:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
