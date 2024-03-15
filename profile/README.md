@@ -25,8 +25,8 @@ The next space launch, retrieved from our
 from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240315T223900">2024-03-15 22:39:00 UTC</a>.  Until
-then, this pad will have been used for 173
-out of 231 launches from this location. The launch status is currently
+then, this pad will have been used for 172
+out of 230 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240315T000322">2024-03-15 00:03:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240315T004444">2024-03-15 00:44:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
