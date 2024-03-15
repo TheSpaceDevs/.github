@@ -91,11 +91,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/03/rocket-report-starship-heats-up-in-third-flight-chinese-lunar-launch-failure/" >🔗</a> **[The Drive]** Rocket Report: Starship heats up in third flight; Chinese lunar launch failure
+- <a href="https://europeanspaceflight.com/ariane-6-booster-upgrade-passes-critical-design-review/" >🔗</a> **[Euronews]** Ariane 6 Booster Upgrade Passes Critical Design Review
 - <a href="https://www.spacescout.info/2024/03/starship-completes-third-test-flight/" >🔗</a> **[Space Scout]** Starship Completes Third Test Flight
 - <a href="https://spacenews.com/fcc-approves-direct-to-smartphone-regulatory-framework/" >🔗</a> **[SpaceNews]** FCC approves direct-to-smartphone regulatory framework
 - <a href="https://spacenews.com/sierra-space-developing-dual-use-spacecraft-with-military-potential/" >🔗</a> **[SpaceNews]** Sierra Space developing dual-use spacecraft with military potential
-- <a href="https://www.teslarati.com/spacex-successful-in-epic-third-starship-test-launch/" >🔗</a> **[Teslarati]** SpaceX successful in epic third Starship test launch
-- <a href="https://spacepolicyonline.com/news/spacex-scores-many-successes-on-third-starship-test-flight/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Scores Many Successes on Third Starship Test Flight
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240315T130122">2024-03-15 13:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240315T133103">2024-03-15 13:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
