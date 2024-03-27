@@ -20,34 +20,35 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 7-18**. It is scheduled to be launched by *SpaceX*
+**Delta IV Heavy | NROL-70**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_37">Space Launch Complex 37B</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240328T023000">2024-03-28 02:30:00 UTC</a>.  Until
-then, this pad will have been used for 138
-out of 749 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240328T174000">2024-03-28 17:40:00 UTC</a>.  Until
+then, this pad will have been used for 39
+out of 941 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Classified payload for the NRO.
+Last flight of the Delta IV Heavy rocket.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Delta_IV_Heavy" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.5317,-80.56495" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240328T023000">2024-03-28 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-18&location=Vandenberg SFB, CA, USA&dates=20240328T023000Z%2F20240328T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240328T174000">2024-03-28 17:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240328T174000Z%2F20240328T225100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240329T023000">2024-03-29 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-18&location=Vandenberg SFB, CA, USA&dates=20240329T023000Z%2F20240329T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240330T215200">2024-03-30 21:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Eutelsat 36D&location=Kennedy Space Center, FL, USA&dates=20240330T215200Z%2F20240331T003100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Eutelsat 36D** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Flight 2&location=Pacific Spaceport Complex, Alaska, USA&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Flight 2** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240331T000000">2024-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20240331T000000Z%2F20240331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
@@ -104,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240327T000331">2024-03-27 00:03:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240327T004449">2024-03-27 00:44:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
