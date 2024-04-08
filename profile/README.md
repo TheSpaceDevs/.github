@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1A</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240409T000000">2024-04-09 00:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240409T090000">2024-04-09 09:00:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 16 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
+*TBC* 🟨 . The mission type is
 *Test Flight* and the payload will be injected
 into *an Unknown
 (N/A)*.
@@ -46,7 +46,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240409T000000">2024-04-09 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara A5/Blok DM-03 | Vostochny Angara Test Flight&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20240409T000000Z%2F20240409T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara A5/Blok DM-03 | Vostochny Angara Test Flight** from Vostochny Cosmodrome, Siberia, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240409T090000">2024-04-09 09:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara A5/Blok DM-03 | Vostochny Angara Test Flight&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20240409T090000Z%2F20240409T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara A5/Blok DM-03 | Vostochny Angara Test Flight** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240409T165300">2024-04-09 16:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Delta IV Heavy | NROL-70&location=Cape Canaveral, FL, USA&dates=20240409T165300Z%2F20240409T225100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Delta IV Heavy | NROL-70** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240410T040000">2024-04-10 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-48&location=Cape Canaveral, FL, USA&dates=20240410T040000Z%2F20240410T083100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-48** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240411T120000">2024-04-11 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | USSF-62&location=Vandenberg SFB, CA, USA&dates=20240411T120000Z%2F20240411T163600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | USSF-62** from Vandenberg SFB, CA, USA.
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240408T023339">2024-04-08 02:33:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240408T030112">2024-04-08 03:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
