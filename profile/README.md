@@ -20,27 +20,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Angara A5/Blok DM-03 | Vostochny Angara Test Flight**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1A</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240411T090000">2024-04-11 09:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 16 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | USSF-62**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240411T142500">2024-04-11 14:25:00 UTC</a>.  Until
+then, this pad will have been used for 140
+out of 751 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Geostationary Orbit
-(Direct-GEO)*.
+*Earth Science* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  First test launch of the Angara A5 launch vehicle from the Vostochny Cosmodrome. The rocket will carry a mass simulator payload.
+  First Weather System Follow-on (WSF) satellite.
+
+WSF-M (Weather System Follow-on - Microwave) is the next-generation operational environmental satellite system for the Department of Defense (DoD), to replace the microwave wavelength weather forecasting capabilities of the DMSP satellites.
+
+Ball Aerospace has been selected in late November 2017 to be the prime contractor for 2 Low Earth Orbit (LEO) weather satellites with a passive microwave imaging radiometer instrument and hosted Government furnished energetic charged particle (ECP) sensor space weather payload developed by the Air Force Research Laboratory. The radiometer leverages the Ball-built Global Precipitation Measurement (GPM) Microwave Imager (GMI) instrument. 
+
+This mission will improve weather forecasting over maritime regions by taking global measurements of the atmosphere and ocean surface.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Angara_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=51.884395,128.333932" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +61,7 @@ into *a Geostationary Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T000000">2024-04-25 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 18&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240425T000000Z%2F20240425T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 18** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T000000">2024-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240430T000000Z%2F20240430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T000000">2024-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-52&location=Cape Canaveral, FL, USA&dates=20240430T000000Z%2F20240430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-52** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T000000">2024-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-53&location=Cape Canaveral, FL, USA&dates=20240430T000000Z%2F20240430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-53** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -99,11 +106,13 @@ into *a Geostationary Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/" >🔗</a> **[Teslarati]** SpaceX, ULA awarded eight more US military launch contracts
+- <a href="https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/" >🔗</a> **[Spaceflight Now]** U.S. Space Force orders eight launches from ULA and SpaceX
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240411T090108">2024-04-11 09:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240411T093115">2024-04-11 09:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
