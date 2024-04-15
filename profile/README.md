@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-eyes-faster-satellite-development-with-commercial-tech/" >🔗</a> **[SpaceNews]** Space Force eyes faster satellite development with commercial tech
 - <a href="https://spacenews.com/new-upper-stage-disposal-rules-help-not-harm-us-leadership-space/" >🔗</a> **[SpaceNews]** New upper stage disposal rules will help, not harm, U.S. leadership in space
 - <a href="https://spacenews.com/china-launches-commercial-superview-3-remote-sensing-sat/" >🔗</a> **[SpaceNews]** China launches commercial SuperView-3 remote sensing sat
 - <a href="https://spacenews.com/eu-to-delay-space-law-constellation-contract/" >🔗</a> **[SpaceNews]** EU to delay space law, constellation contract
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 14-20, 2024
 - <a href="https://spacenews.com/relativity-space-wins-8-7-million-u-s-air-force-contract-for-additive-manufacturing-research/" >🔗</a> **[SpaceNews]** Relativity Space wins $8.7 million U.S. Air Force contract for additive manufacturing research
 - <a href="https://spacenews.com/astroscales-adras-j-mission-enters-next-phase/" >🔗</a> **[SpaceNews]** Astroscale’s ADRAS-J mission enters next phase
-- <a href="https://spacenews.com/us-government-could-help-fund-intelsats-meo-plans/" >🔗</a> **[SpaceNews]** US government could help fund Intelsat’s MEO plans
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T170110">2024-04-15 17:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T173112">2024-04-15 17:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
