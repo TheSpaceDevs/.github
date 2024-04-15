@@ -91,21 +91,27 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnewsapi.net" >🔗</a> **[The Space Devs]** This version of the API is deprecated
-- <a href="https://arstechnica.com/space/2024/03/rocket-report-starship-heats-up-in-third-flight-chinese-lunar-launch-failure/" >🔗</a> **[The Drive]** Rocket Report: Starship heats up in third flight; Chinese lunar launch failure
-- <a href="https://europeanspaceflight.com/ariane-6-booster-upgrade-passes-critical-design-review/" >🔗</a> **[Euronews]** Ariane 6 Booster Upgrade Passes Critical Design Review
-- <a href="https://www.spacescout.info/2024/03/starship-completes-third-test-flight/" >🔗</a> **[Space Scout]** Starship Completes Third Test Flight
-- <a href="https://spacenews.com/fcc-approves-direct-to-smartphone-regulatory-framework/" >🔗</a> **[SpaceNews]** FCC approves direct-to-smartphone regulatory framework
+- <a href="https://spacenews.com/new-upper-stage-disposal-rules-help-not-harm-us-leadership-space/" >🔗</a> **[]** New upper stage disposal rules will help, not harm, U.S. leadership in space
+- <a href="https://spacenews.com/china-launches-commercial-superview-3-remote-sensing-sat/" >🔗</a> **[]** China launches commercial SuperView-3 remote sensing sat
+- <a href="https://spacenews.com/eu-to-delay-space-law-constellation-contract/" >🔗</a> **[]** EU to delay space law, constellation contract
+- <a href="https://spacenews.com/nasa-document-outlines-selection-of-lunar-rover-companies/" >🔗</a> **[]** NASA document outlines selection of lunar rover companies
+- <a href="https://europeanspaceflight.com/australian-minister-questions-involvement-in-esa-astronaut-training/" >🔗</a> **[]** Australian Minister Questions Involvement in ESA Astronaut Training
+- <a href="https://spacenews.com/space-force-acquisition-command-prioritizing-speed-and-commercial-partnerships/" >🔗</a> **[]** Space Force acquisition command prioritizing speed and commercial partnerships
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-14-20-2024/" >🔗</a> **[]** What’s Happening in Space Policy April 14-20, 2024
+- <a href="https://spacenews.com/relativity-space-wins-8-7-million-u-s-air-force-contract-for-additive-manufacturing-research/" >🔗</a> **[]** Relativity Space wins $8.7 million U.S. Air Force contract for additive manufacturing research
+- <a href="https://spacenews.com/astroscales-adras-j-mission-enters-next-phase/" >🔗</a> **[]** Astroscale’s ADRAS-J mission enters next phase
+- <a href="https://spacenews.com/us-government-could-help-fund-intelsats-meo-plans/" >🔗</a> **[]** US government could help fund Intelsat’s MEO plans
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** Maxar eyes summer launch of WorldView Legion imaging satellites 
+- <a href="https://spacenews.com/maxar-eyes-spring-launch-of-long-delayed-worldview-legion-satellites/" >🔗</a> **[]** Maxar eyes spring launch of long-delayed WorldView Legion satellites
+- <a href="https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/" >🔗</a> **[]** Maxar eyes summer launch of WorldView Legion imaging satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T150129">2024-04-15 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T153108">2024-04-15 15:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
