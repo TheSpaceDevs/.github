@@ -7,7 +7,7 @@ import os
 import html
 
 LL2_ENDPOINT = "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?mode=detailed&hide_recent_previous=true"
-SNAPI_ENDPOINT = "https://api.spaceflightnewsapi.net/v3/articles"
+SNAPI_ENDPOINT = "https://api.spaceflightnewsapi.net/v4/articles/"
 BASE_TIME_URL = "https://www.timeanddate.com/worldclock/fixedtime.html?iso={iso}"
 CACHE_DIR = "../cache"
 ISO3_JSON = "http://country.io/iso3.json"
@@ -399,7 +399,7 @@ def get_latest_news(cache_time=3600 // 2):
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
         r = requests.get(SNAPI_ENDPOINT + "?_limit=5")
-        data = r.json()
+        data = r.json()["results"]
 
         # write the data to the cache
         with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "w") as f:
@@ -439,8 +439,8 @@ def get_launch_news(launch_ID, cache_time=3600 // 2):
     # if the cache is older than 1 hour, update cache
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
-        r = requests.get(SNAPI_ENDPOINT + "/launch/" + launch_ID)
-        data = r.json()
+        r = requests.get(SNAPI_ENDPOINT + "?launch=" + launch_ID)
+        data = r.json()["results"]
 
         # write the data to the cache
         with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "w") as f:
