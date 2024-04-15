@@ -84,13 +84,13 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
 
 ### Latest News ⌛
 {% for article in latest_news -%}
-- <a href="{{ article.url }}" >🔗</a> **[{{article.newsSite}}]** {{article.title}}
+- <a href="{{ article.url }}" >🔗</a> **[{{article.news_site}}]** {{article.title}}
 {% endfor %}
 
 ### Launch-related News 🚀
 
 {% for article in launch_news -%}
-- <a href="{{ article.url }}" >🔗</a> **[{{article.newsSite}}]** {{article.title}}
+- <a href="{{ article.url }}" >🔗</a> **[{{article.news_site}}]** {{article.title}}
 {% endfor %}
 
 <hr>
