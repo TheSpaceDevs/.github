@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-to-look-for-new-options-to-carry-out-mars-sample-return-program/" >🔗</a> **[SpaceNews]** NASA to look for new options to carry out Mars Sample Return program
+- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to reach its 40th Falcon 9 flight of 2024
+- <a href="https://spacenews.com/smallsat-maker-aerospacelab-snaps-up-optical-technology-specialist/" >🔗</a> **[SpaceNews]** Smallsat maker Aerospacelab snaps up spacecraft optics specialist
 - <a href="https://spacenews.com/download-the-2024-space-symposium-daily/" >🔗</a> **[SpaceNews]** Download the 2024 Space Symposium Daily
 - <a href="https://spacenews.com/a-slow-bleed-of-funding-threatens-nasas-science-flagships/" >🔗</a> **[SpaceNews]** A “slow bleed” of funding threatens NASA’s science flagships
 - <a href="https://mars.nasa.gov/news/9580/" >🔗</a> **[NASA]** NASA Sets Path to Return Mars Samples, Seeks Innovative Designs
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/new-upper-stage-disposal-rules-help-not-harm-us-leadership-space/" >🔗</a> **[SpaceNews]** New upper stage disposal rules will help, not harm, U.S. leadership in space
 - <a href="https://spacenews.com/china-launches-commercial-superview-3-remote-sensing-sat/" >🔗</a> **[SpaceNews]** China launches commercial SuperView-3 remote sensing sat
 - <a href="https://spacenews.com/eu-to-delay-space-law-constellation-contract/" >🔗</a> **[SpaceNews]** EU to delay space law, constellation contract
-- <a href="https://spacenews.com/nasa-document-outlines-selection-of-lunar-rover-companies/" >🔗</a> **[SpaceNews]** NASA document outlines selection of lunar rover companies
-- <a href="https://europeanspaceflight.com/australian-minister-questions-involvement-in-esa-astronaut-training/" >🔗</a> **[European Spaceflight]** Australian Minister Questions Involvement in ESA Astronaut Training
-- <a href="https://spacenews.com/space-force-acquisition-command-prioritizing-speed-and-commercial-partnerships/" >🔗</a> **[SpaceNews]** Space Force acquisition command prioritizing speed and commercial partnerships
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T213055">2024-04-15 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T220119">2024-04-15 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
