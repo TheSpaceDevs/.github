@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/a-slow-bleed-of-funding-threatens-nasas-science-flagships/" >🔗</a> **[SpaceNews]** A “slow bleed” of funding threatens NASA’s science flagships
+- <a href="https://mars.nasa.gov/news/9580/" >🔗</a> **[NASA]** NASA Sets Path to Return Mars Samples, Seeks Innovative Designs
 - <a href="https://spacenews.com/space-force-eyes-faster-satellite-development-with-commercial-tech/" >🔗</a> **[SpaceNews]** Space Force eyes faster satellite development with commercial tech
 - <a href="https://spacenews.com/new-upper-stage-disposal-rules-help-not-harm-us-leadership-space/" >🔗</a> **[SpaceNews]** New upper stage disposal rules will help, not harm, U.S. leadership in space
 - <a href="https://spacenews.com/china-launches-commercial-superview-3-remote-sensing-sat/" >🔗</a> **[SpaceNews]** China launches commercial SuperView-3 remote sensing sat
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/australian-minister-questions-involvement-in-esa-astronaut-training/" >🔗</a> **[European Spaceflight]** Australian Minister Questions Involvement in ESA Astronaut Training
 - <a href="https://spacenews.com/space-force-acquisition-command-prioritizing-speed-and-commercial-partnerships/" >🔗</a> **[SpaceNews]** Space Force acquisition command prioritizing speed and commercial partnerships
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 14-20, 2024
-- <a href="https://spacenews.com/relativity-space-wins-8-7-million-u-s-air-force-contract-for-additive-manufacturing-research/" >🔗</a> **[SpaceNews]** Relativity Space wins $8.7 million U.S. Air Force contract for additive manufacturing research
-- <a href="https://spacenews.com/astroscales-adras-j-mission-enters-next-phase/" >🔗</a> **[SpaceNews]** Astroscale’s ADRAS-J mission enters next phase
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T190119">2024-04-15 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T193101">2024-04-15 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
