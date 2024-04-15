@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/download-the-2024-space-symposium-daily/" >🔗</a> **[SpaceNews]** Download the 2024 Space Symposium Daily
 - <a href="https://spacenews.com/a-slow-bleed-of-funding-threatens-nasas-science-flagships/" >🔗</a> **[SpaceNews]** A “slow bleed” of funding threatens NASA’s science flagships
 - <a href="https://mars.nasa.gov/news/9580/" >🔗</a> **[NASA]** NASA Sets Path to Return Mars Samples, Seeks Innovative Designs
 - <a href="https://spacenews.com/space-force-eyes-faster-satellite-development-with-commercial-tech/" >🔗</a> **[SpaceNews]** Space Force eyes faster satellite development with commercial tech
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-document-outlines-selection-of-lunar-rover-companies/" >🔗</a> **[SpaceNews]** NASA document outlines selection of lunar rover companies
 - <a href="https://europeanspaceflight.com/australian-minister-questions-involvement-in-esa-astronaut-training/" >🔗</a> **[European Spaceflight]** Australian Minister Questions Involvement in ESA Astronaut Training
 - <a href="https://spacenews.com/space-force-acquisition-command-prioritizing-speed-and-commercial-partnerships/" >🔗</a> **[SpaceNews]** Space Force acquisition command prioritizing speed and commercial partnerships
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 14-20, 2024
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T193101">2024-04-15 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240415T200120">2024-04-15 20:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
