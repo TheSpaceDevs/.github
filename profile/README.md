@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/orbital-defence-startup-dark-secures-6m-in-additional-funding/" >🔗</a> **[European Spaceflight]** Orbital Defence Startup Dark Secures $6M in Additional Funding
 - <a href="https://spacepolicyonline.com/news/nasa-wants-new-ideas-fast-on-how-to-return-samples-from-mars-affordably/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wants New Ideas — Fast — on How to Return Samples from Mars Affordably
 - <a href="https://spacepolicyonline.com/news/nasa-agrees-iss-debris-hit-home-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** NASA Agrees ISS Debris Hit Home in Florida
 - <a href="https://spacenews.com/nasa-to-look-for-new-options-to-carry-out-mars-sample-return-program/" >🔗</a> **[SpaceNews]** NASA to look for new options to carry out Mars Sample Return program
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/a-slow-bleed-of-funding-threatens-nasas-science-flagships/" >🔗</a> **[SpaceNews]** A “slow bleed” of funding threatens NASA’s science flagships
 - <a href="https://mars.nasa.gov/news/9580/" >🔗</a> **[NASA]** NASA Sets Path to Return Mars Samples, Seeks Innovative Designs
 - <a href="https://spacenews.com/space-force-eyes-faster-satellite-development-with-commercial-tech/" >🔗</a> **[SpaceNews]** Space Force eyes faster satellite development with commercial tech
-- <a href="https://spacenews.com/new-upper-stage-disposal-rules-help-not-harm-us-leadership-space/" >🔗</a> **[SpaceNews]** New upper stage disposal rules will help, not harm, U.S. leadership in space
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T073104">2024-04-16 07:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T080133">2024-04-16 08:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
