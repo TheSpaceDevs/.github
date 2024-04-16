@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-weather-satellite-department-of-defense/" >🔗</a> **[Teslarati]** SpaceX launches weather satellite for the Department of Defense
+- <a href="https://www.nasaspaceflight.com/2024/04/ec-jpl-interview/" >🔗</a> **[NASASpaceflight]** As Europa Clipper nears October launch date, scientists anticipate groundbreaking results
 - <a href="https://spacenews.com/satellite-veteran-mark-rigolle-appointed-ceo-amid-abs-upheaval/" >🔗</a> **[SpaceNews]** Satellite veteran Mark Rigolle appointed CEO amid ABS upheaval
 - <a href="https://spacenews.com/air-force-selects-space-programs-for-quick-start-initiative/" >🔗</a> **[SpaceNews]** Air Force selects space programs for ‘quick start’ initiative
 - <a href="https://spacepolicyonline.com/news/switzerland-sweden-join-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Switzerland, Sweden Join Artemis Accords
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/" >🔗</a> **[Arstechnica]** Russian space chief says new rocket will put Falcon 9 reuse to shame
 - <a href="https://spacenews.com/switzerland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Switzerland signs Artemis Accords
 - <a href="https://spacenews.com/unforgiving-failures-the-challenges-of-upper-stages/" >🔗</a> **[SpaceNews]** Unforgiving Failures: the challenges of upper stages
-- <a href="https://spacenews.com/can-companies-clean-up-by-cleaning-up-space/" >🔗</a> **[SpaceNews]** Can companies clean up by cleaning up space?
-- <a href="https://europeanspaceflight.com/orbital-defence-startup-dark-secures-6m-in-additional-funding/" >🔗</a> **[European Spaceflight]** Orbital Defence Startup Dark Secures $6M in Additional Funding
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T193057">2024-04-16 19:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T200116">2024-04-16 20:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
