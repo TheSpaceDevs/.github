@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-ceo-outlines-plan-to-evolve-beyond-traditional-imagery-business/" >🔗</a> **[SpaceNews]** Maxar Intelligence looks to evolve beyond traditional imagery business
 - <a href="https://www.spacescout.info/2024/04/a-shake-up-for-mars-sample-return/" >🔗</a> **[Space Scout]** A Shake Up For Mars Sample Return
 - <a href="https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/" >🔗</a> **[Arstechnica]** Russian space chief says new rocket will put Falcon 9 reuse to shame
 - <a href="https://spacenews.com/switzerland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Switzerland signs Artemis Accords
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-wants-new-ideas-fast-on-how-to-return-samples-from-mars-affordably/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wants New Ideas — Fast — on How to Return Samples from Mars Affordably
 - <a href="https://spacepolicyonline.com/news/nasa-agrees-iss-debris-hit-home-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** NASA Agrees ISS Debris Hit Home in Florida
 - <a href="https://spacenews.com/nasa-to-look-for-new-options-to-carry-out-mars-sample-return-program/" >🔗</a> **[SpaceNews]** NASA to look for new options to carry out Mars Sample Return program
-- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to reach its 40th Falcon 9 flight of 2024
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T170105">2024-04-16 17:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T173110">2024-04-16 17:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
