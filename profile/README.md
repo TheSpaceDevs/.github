@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner arrives at the pad for crewed test flight
 - <a href="https://spacenews.com/dod-awards-14-million-to-5n-plus-to-boost-production-of-critical-solar-cell-components-for-satellites/" >🔗</a> **[SpaceNews]** DoD awards $14 million to 5N Plus to boost production of critical solar cell components for satellites
 - <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-20th-launch/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record
 - <a href="https://www.teslarati.com/spacex-launches-weather-satellite-department-of-defense/" >🔗</a> **[Teslarati]** SpaceX launches weather satellite for the Department of Defense
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/switzerland-sweden-join-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Switzerland, Sweden Join Artemis Accords
 - <a href="https://spacenews.com/maxar-ceo-outlines-plan-to-evolve-beyond-traditional-imagery-business/" >🔗</a> **[SpaceNews]** Maxar Intelligence looks to evolve beyond traditional imagery business
 - <a href="https://www.spacescout.info/2024/04/a-shake-up-for-mars-sample-return/" >🔗</a> **[Space Scout]** A Shake Up For Mars Sample Return
-- <a href="https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/" >🔗</a> **[Arstechnica]** Russian space chief says new rocket will put Falcon 9 reuse to shame
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T230128">2024-04-16 23:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T233111">2024-04-16 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
