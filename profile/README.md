@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/switzerland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Switzerland signs Artemis Accords
+- <a href="https://spacenews.com/unforgiving-failures-the-challenges-of-upper-stages/" >🔗</a> **[SpaceNews]** Unforgiving Failures: the challenges of upper stages
+- <a href="https://spacenews.com/can-companies-clean-up-by-cleaning-up-space/" >🔗</a> **[SpaceNews]** Can companies clean up by cleaning up space?
 - <a href="https://europeanspaceflight.com/orbital-defence-startup-dark-secures-6m-in-additional-funding/" >🔗</a> **[European Spaceflight]** Orbital Defence Startup Dark Secures $6M in Additional Funding
 - <a href="https://spacepolicyonline.com/news/nasa-wants-new-ideas-fast-on-how-to-return-samples-from-mars-affordably/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wants New Ideas — Fast — on How to Return Samples from Mars Affordably
 - <a href="https://spacepolicyonline.com/news/nasa-agrees-iss-debris-hit-home-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** NASA Agrees ISS Debris Hit Home in Florida
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to reach its 40th Falcon 9 flight of 2024
 - <a href="https://spacenews.com/smallsat-maker-aerospacelab-snaps-up-optical-technology-specialist/" >🔗</a> **[SpaceNews]** Smallsat maker Aerospacelab snaps up spacecraft optics specialist
 - <a href="https://spacenews.com/download-the-2024-space-symposium-daily/" >🔗</a> **[SpaceNews]** Download the 2024 Space Symposium Daily
-- <a href="https://spacenews.com/a-slow-bleed-of-funding-threatens-nasas-science-flagships/" >🔗</a> **[SpaceNews]** A “slow bleed” of funding threatens NASA’s science flagships
-- <a href="https://mars.nasa.gov/news/9580/" >🔗</a> **[NASA]** NASA Sets Path to Return Mars Samples, Seeks Innovative Designs
-- <a href="https://spacenews.com/space-force-eyes-faster-satellite-development-with-commercial-tech/" >🔗</a> **[SpaceNews]** Space Force eyes faster satellite development with commercial tech
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T110113">2024-04-16 11:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T113116">2024-04-16 11:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
