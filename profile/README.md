@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-wants-new-ideas-fast-on-how-to-return-samples-from-mars-affordably/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wants New Ideas — Fast — on How to Return Samples from Mars Affordably
 - <a href="https://spacepolicyonline.com/news/nasa-agrees-iss-debris-hit-home-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** NASA Agrees ISS Debris Hit Home in Florida
 - <a href="https://spacenews.com/nasa-to-look-for-new-options-to-carry-out-mars-sample-return-program/" >🔗</a> **[SpaceNews]** NASA to look for new options to carry out Mars Sample Return program
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to reach its 40th Falcon 9 flight of 2024
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://mars.nasa.gov/news/9580/" >🔗</a> **[NASA]** NASA Sets Path to Return Mars Samples, Seeks Innovative Designs
 - <a href="https://spacenews.com/space-force-eyes-faster-satellite-development-with-commercial-tech/" >🔗</a> **[SpaceNews]** Space Force eyes faster satellite development with commercial tech
 - <a href="https://spacenews.com/new-upper-stage-disposal-rules-help-not-harm-us-leadership-space/" >🔗</a> **[SpaceNews]** New upper stage disposal rules will help, not harm, U.S. leadership in space
-- <a href="https://spacenews.com/china-launches-commercial-superview-3-remote-sensing-sat/" >🔗</a> **[SpaceNews]** China launches commercial SuperView-3 remote sensing sat
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T033057">2024-04-16 03:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T040128">2024-04-16 04:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
