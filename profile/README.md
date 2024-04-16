@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/" >🔗</a> **[Arstechnica]** Russian space chief says new rocket will put Falcon 9 reuse to shame
 - <a href="https://spacenews.com/switzerland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Switzerland signs Artemis Accords
 - <a href="https://spacenews.com/unforgiving-failures-the-challenges-of-upper-stages/" >🔗</a> **[SpaceNews]** Unforgiving Failures: the challenges of upper stages
 - <a href="https://spacenews.com/can-companies-clean-up-by-cleaning-up-space/" >🔗</a> **[SpaceNews]** Can companies clean up by cleaning up space?
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-to-look-for-new-options-to-carry-out-mars-sample-return-program/" >🔗</a> **[SpaceNews]** NASA to look for new options to carry out Mars Sample Return program
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to reach its 40th Falcon 9 flight of 2024
 - <a href="https://spacenews.com/smallsat-maker-aerospacelab-snaps-up-optical-technology-specialist/" >🔗</a> **[SpaceNews]** Smallsat maker Aerospacelab snaps up spacecraft optics specialist
-- <a href="https://spacenews.com/download-the-2024-space-symposium-daily/" >🔗</a> **[SpaceNews]** Download the 2024 Space Symposium Daily
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T143103">2024-04-16 14:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T150116">2024-04-16 15:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
