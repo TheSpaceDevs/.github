@@ -47,7 +47,7 @@ into *a Sun-Synchronous Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T183000">2024-04-17 18:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 1 &amp; 2&location=Vandenberg SFB, CA, USA&dates=20240417T183000Z%2F20240417T192400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 1 & 2** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T212400">2024-04-17 21:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-51&location=Kennedy Space Center, FL, USA&dates=20240417T212400Z%2F20240418T015500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-51** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T212600">2024-04-17 21:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-51&location=Kennedy Space Center, FL, USA&dates=20240417T212600Z%2F20240418T012400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-51** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T224000">2024-04-18 22:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-52&location=Cape Canaveral, FL, USA&dates=20240418T224000Z%2F20240419T031100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-52** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240420T233400">2024-04-20 23:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240420T233400Z%2F20240420T235500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T220000">2024-04-22 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-53&location=Kennedy Space Center, FL, USA&dates=20240422T220000Z%2F20240422T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-53** from Kennedy Space Center, FL, USA.
@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dod-awards-14-million-to-5n-plus-to-boost-production-of-critical-solar-cell-components-for-satellites/" >🔗</a> **[SpaceNews]** DoD awards $14 million to 5N Plus to boost production of critical solar cell components for satellites
+- <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-20th-launch/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record
 - <a href="https://www.teslarati.com/spacex-launches-weather-satellite-department-of-defense/" >🔗</a> **[Teslarati]** SpaceX launches weather satellite for the Department of Defense
 - <a href="https://www.nasaspaceflight.com/2024/04/ec-jpl-interview/" >🔗</a> **[NASASpaceflight]** As Europa Clipper nears October launch date, scientists anticipate groundbreaking results
 - <a href="https://spacenews.com/satellite-veteran-mark-rigolle-appointed-ceo-amid-abs-upheaval/" >🔗</a> **[SpaceNews]** Satellite veteran Mark Rigolle appointed CEO amid ABS upheaval
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/maxar-ceo-outlines-plan-to-evolve-beyond-traditional-imagery-business/" >🔗</a> **[SpaceNews]** Maxar Intelligence looks to evolve beyond traditional imagery business
 - <a href="https://www.spacescout.info/2024/04/a-shake-up-for-mars-sample-return/" >🔗</a> **[Space Scout]** A Shake Up For Mars Sample Return
 - <a href="https://arstechnica.com/space/2024/04/russian-space-chief-says-new-rocket-will-put-falcon-9-reuse-to-shame/" >🔗</a> **[Arstechnica]** Russian space chief says new rocket will put Falcon 9 reuse to shame
-- <a href="https://spacenews.com/switzerland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Switzerland signs Artemis Accords
-- <a href="https://spacenews.com/unforgiving-failures-the-challenges-of-upper-stages/" >🔗</a> **[SpaceNews]** Unforgiving Failures: the challenges of upper stages
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T213102">2024-04-16 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240416T220121">2024-04-16 22:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
