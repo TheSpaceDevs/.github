@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/csis-releases-annual-assessment-of-global-trends-in-the-weaponization-of-space/" >🔗</a> **[SpaceNews]** CSIS releases annual assessment of global trends in the weaponization of space
+- <a href="https://spacenews.com/advancing-defense-govcon-impact-air-space-force-reoptimization/" >🔗</a> **[SpaceNews]** Advancing defense: the GovCon impact on Air and Space Force reoptimization
 - <a href="https://spacenews.com/satellite-imaging-company-iceye-raises-93-million-in-latest-funding-round/" >🔗</a> **[SpaceNews]** Satellite imaging company Iceye raises $93 million in latest funding round
 - <a href="https://spacenews.com/nasa-open-to-significantly-reduced-return-of-mars-samples/" >🔗</a> **[SpaceNews]** NASA open to significantly reduced return of Mars samples
 - <a href="https://spacenews.com/sweden-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Sweden signs Artemis Accords
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner arrives at the pad for crewed test flight
 - <a href="https://spacenews.com/dod-awards-14-million-to-5n-plus-to-boost-production-of-critical-solar-cell-components-for-satellites/" >🔗</a> **[SpaceNews]** DoD awards $14 million to 5N Plus to boost production of critical solar cell components for satellites
 - <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-20th-launch/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record
-- <a href="https://www.teslarati.com/spacex-launches-weather-satellite-department-of-defense/" >🔗</a> **[Teslarati]** SpaceX launches weather satellite for the Department of Defense
-- <a href="https://www.nasaspaceflight.com/2024/04/ec-jpl-interview/" >🔗</a> **[NASASpaceflight]** As Europa Clipper nears October launch date, scientists anticipate groundbreaking results
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T143106">2024-04-17 14:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T150124">2024-04-17 15:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
