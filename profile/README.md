@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sweden-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Sweden signs Artemis Accords
 - <a href="https://europeanspaceflight.com/cnes-qualifies-speedy-new-ariane-6-booster-transport-vehicle/" >🔗</a> **[European Spaceflight]** CNES Qualifies Speedy New Ariane 6 Booster Transport Vehicle
 - <a href="https://mars.nasa.gov/news/9582/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Team Says Goodbye … for Now
 - <a href="https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner arrives at the pad for crewed test flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/04/ec-jpl-interview/" >🔗</a> **[NASASpaceflight]** As Europa Clipper nears October launch date, scientists anticipate groundbreaking results
 - <a href="https://spacenews.com/satellite-veteran-mark-rigolle-appointed-ceo-amid-abs-upheaval/" >🔗</a> **[SpaceNews]** Satellite veteran Mark Rigolle appointed CEO amid ABS upheaval
 - <a href="https://spacenews.com/air-force-selects-space-programs-for-quick-start-initiative/" >🔗</a> **[SpaceNews]** Air Force selects space programs for ‘quick start’ initiative
-- <a href="https://spacepolicyonline.com/news/switzerland-sweden-join-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Switzerland, Sweden Join Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T103137">2024-04-17 10:31:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T110109">2024-04-17 11:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
