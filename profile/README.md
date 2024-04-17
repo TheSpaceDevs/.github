@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-imaging-company-iceye-raises-93-million-in-latest-funding-round/" >🔗</a> **[SpaceNews]** Satellite imaging company Iceye raises $93 million in latest funding round
 - <a href="https://spacenews.com/nasa-open-to-significantly-reduced-return-of-mars-samples/" >🔗</a> **[SpaceNews]** NASA open to significantly reduced return of Mars samples
 - <a href="https://spacenews.com/sweden-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Sweden signs Artemis Accords
 - <a href="https://europeanspaceflight.com/cnes-qualifies-speedy-new-ariane-6-booster-transport-vehicle/" >🔗</a> **[European Spaceflight]** CNES Qualifies Speedy New Ariane 6 Booster Transport Vehicle
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-20th-launch/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record
 - <a href="https://www.teslarati.com/spacex-launches-weather-satellite-department-of-defense/" >🔗</a> **[Teslarati]** SpaceX launches weather satellite for the Department of Defense
 - <a href="https://www.nasaspaceflight.com/2024/04/ec-jpl-interview/" >🔗</a> **[NASASpaceflight]** As Europa Clipper nears October launch date, scientists anticipate groundbreaking results
-- <a href="https://spacenews.com/satellite-veteran-mark-rigolle-appointed-ceo-amid-abs-upheaval/" >🔗</a> **[SpaceNews]** Satellite veteran Mark Rigolle appointed CEO amid ABS upheaval
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T120135">2024-04-17 12:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T123801">2024-04-17 12:38:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
