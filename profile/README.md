@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astrobotic-eyes-military-customers-for-reusable-xogdor-suborbital-rocket/" >🔗</a> **[SpaceNews]** Astrobotic eyes military customers for reusable Xogdor suborbital rocket
 - <a href="https://www.teslarati.com/spacex-vast-starlink-partnership/" >🔗</a> **[Teslarati]** SpaceX partners with Vast for Starlink partnership for its new space station
 - <a href="https://spacenews.com/space-isac-establishes-leo-satellite-operators-group/" >🔗</a> **[SpaceNews]** Space ISAC establishes LEO satellite operators group
 - <a href="https://www.spacescout.info/2024/04/nasa-lays-out-leo-sustainability-vision/" >🔗</a> **[Space Scout]** NASA Lays Out LEO Sustainability Vision
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/advancing-defense-govcon-impact-air-space-force-reoptimization/" >🔗</a> **[SpaceNews]** Advancing defense: the GovCon impact on Air and Space Force reoptimization
 - <a href="https://spacenews.com/satellite-imaging-company-iceye-raises-93-million-in-latest-funding-round/" >🔗</a> **[SpaceNews]** Satellite imaging company Iceye raises $93 million in latest funding round
 - <a href="https://spacenews.com/nasa-open-to-significantly-reduced-return-of-mars-samples/" >🔗</a> **[SpaceNews]** NASA open to significantly reduced return of Mars samples
-- <a href="https://spacenews.com/sweden-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Sweden signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T223104">2024-04-17 22:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T230125">2024-04-17 23:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
