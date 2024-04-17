@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/04/nasa-lays-out-leo-sustainability-vision/" >🔗</a> **[Space Scout]** NASA Lays Out LEO Sustainability Vision
+- <a href="https://spacenews.com/taking-the-next-steps-for-satellite-to-smartphone-services/" >🔗</a> **[SpaceNews]** Taking the next steps for satellite-to-smartphone services
+- <a href="https://spacenews.com/nasas-no-to-mars/" >🔗</a> **[SpaceNews]** NASA’s no to Mars
 - <a href="https://spacenews.com/csis-releases-annual-assessment-of-global-trends-in-the-weaponization-of-space/" >🔗</a> **[SpaceNews]** CSIS releases annual assessment of global trends in the weaponization of space
 - <a href="https://spacenews.com/advancing-defense-govcon-impact-air-space-force-reoptimization/" >🔗</a> **[SpaceNews]** Advancing defense: the GovCon impact on Air and Space Force reoptimization
 - <a href="https://spacenews.com/satellite-imaging-company-iceye-raises-93-million-in-latest-funding-round/" >🔗</a> **[SpaceNews]** Satellite imaging company Iceye raises $93 million in latest funding round
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sweden-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Sweden signs Artemis Accords
 - <a href="https://europeanspaceflight.com/cnes-qualifies-speedy-new-ariane-6-booster-transport-vehicle/" >🔗</a> **[European Spaceflight]** CNES Qualifies Speedy New Ariane 6 Booster Transport Vehicle
 - <a href="https://mars.nasa.gov/news/9582/" >🔗</a> **[NASA]** NASA's Ingenuity Mars Helicopter Team Says Goodbye … for Now
-- <a href="https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner arrives at the pad for crewed test flight
-- <a href="https://spacenews.com/dod-awards-14-million-to-5n-plus-to-boost-production-of-critical-solar-cell-components-for-satellites/" >🔗</a> **[SpaceNews]** DoD awards $14 million to 5N Plus to boost production of critical solar cell components for satellites
-- <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-20th-launch/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T153104">2024-04-17 15:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240417T160125">2024-04-17 16:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
