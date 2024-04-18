@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/04/the-hidden-story-behind-one-of-spacexs-wettest-and-wildest-launches/" >🔗</a> **[Arstechnica]** The hidden story behind one of SpaceX’s wettest and wildest launches
 - <a href="https://spacenews.com/nelson-defends-very-tough-choices-in-nasas-budget-proposal/" >🔗</a> **[SpaceNews]** Nelson defends “very tough choices” in NASA’s budget proposal
 - <a href="https://spacepolicyonline.com/news/nelson-defends-tough-choices-in-fy2025-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Defends Tough Choices in FY2025 Budget Request
 - <a href="https://spacepolicyonline.com/news/ingenuity-down-but-not-out/" >🔗</a> **[SpacePolicyOnline.com]** Ingenuity – Down, But Not Out
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/04/nasa-lays-out-leo-sustainability-vision/" >🔗</a> **[Space Scout]** NASA Lays Out LEO Sustainability Vision
 - <a href="https://spacenews.com/taking-the-next-steps-for-satellite-to-smartphone-services/" >🔗</a> **[SpaceNews]** Taking the next steps for satellite-to-smartphone services
 - <a href="https://spacenews.com/nasas-no-to-mars/" >🔗</a> **[SpaceNews]** NASA’s no to Mars
-- <a href="https://spacenews.com/csis-releases-annual-assessment-of-global-trends-in-the-weaponization-of-space/" >🔗</a> **[SpaceNews]** CSIS releases annual assessment of global trends in the weaponization of space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T120145">2024-04-18 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T123735">2024-04-18 12:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
