@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/04/spacex-working-with-northrop-grumman-on-spy-satellites-for-us-government/" >🔗</a> **[Arstechnica]** SpaceX and Northrop are working on a constellation of spy satellites
 - <a href="https://spacenews.com/canada-extends-mda-spaces-iss-robotics-contract-to-2030/" >🔗</a> **[SpaceNews]** Canada extends MDA Space’s ISS robotics contract to 2030
 - <a href="https://spacenews.com/the-paradox-of-u-s-government-rd-funding-barriers-for-non-u-s-owned-firms/" >🔗</a> **[SpaceNews]** The paradox of U.S. government R&D funding: Barriers for non-U.S. owned firms
 - <a href="https://spacenews.com/faa-to-require-reentry-vehicles-licensed-before-launch/" >🔗</a> **[SpaceNews]** FAA to require reentry vehicles licensed before launch
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nelson-defends-very-tough-choices-in-nasas-budget-proposal/" >🔗</a> **[SpaceNews]** Nelson defends “very tough choices” in NASA’s budget proposal
 - <a href="https://spacepolicyonline.com/news/nelson-defends-tough-choices-in-fy2025-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Defends Tough Choices in FY2025 Budget Request
 - <a href="https://spacepolicyonline.com/news/ingenuity-down-but-not-out/" >🔗</a> **[SpacePolicyOnline.com]** Ingenuity – Down, But Not Out
-- <a href="https://spacenews.com/astrobotic-eyes-military-customers-for-reusable-xogdor-suborbital-rocket/" >🔗</a> **[SpaceNews]** Astrobotic eyes military customers for reusable Xogdor suborbital rocket
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T203108">2024-04-18 20:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T210154">2024-04-18 21:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
