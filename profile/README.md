@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/canada-extends-mda-spaces-iss-robotics-contract-to-2030/" >🔗</a> **[SpaceNews]** Canada extends MDA Space’s ISS robotics contract to 2030
 - <a href="https://spacenews.com/the-paradox-of-u-s-government-rd-funding-barriers-for-non-u-s-owned-firms/" >🔗</a> **[SpaceNews]** The paradox of U.S. government R&D funding: Barriers for non-U.S. owned firms
 - <a href="https://spacenews.com/faa-to-require-reentry-vehicles-licensed-before-launch/" >🔗</a> **[SpaceNews]** FAA to require reentry vehicles licensed before launch
 - <a href="https://spacenews.com/a-reflection-on-space-symposium/" >🔗</a> **[SpaceNews]** A reflection on Space Symposium
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nelson-defends-tough-choices-in-fy2025-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Defends Tough Choices in FY2025 Budget Request
 - <a href="https://spacepolicyonline.com/news/ingenuity-down-but-not-out/" >🔗</a> **[SpacePolicyOnline.com]** Ingenuity – Down, But Not Out
 - <a href="https://spacenews.com/astrobotic-eyes-military-customers-for-reusable-xogdor-suborbital-rocket/" >🔗</a> **[SpaceNews]** Astrobotic eyes military customers for reusable Xogdor suborbital rocket
-- <a href="https://www.teslarati.com/spacex-vast-starlink-partnership/" >🔗</a> **[Teslarati]** SpaceX partners with Vast for Starlink partnership for its new space station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T193107">2024-04-18 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T200137">2024-04-18 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
