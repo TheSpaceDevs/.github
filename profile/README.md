@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/suppliers-struggle-as-military-embraces-small-satellites/" >🔗</a> **[SpaceNews]** Suppliers struggle as military embraces small satellites
 - <a href="https://arstechnica.com/space/2024/04/spacex-working-with-northrop-grumman-on-spy-satellites-for-us-government/" >🔗</a> **[Arstechnica]** SpaceX and Northrop are working on a constellation of spy satellites
 - <a href="https://spacenews.com/canada-extends-mda-spaces-iss-robotics-contract-to-2030/" >🔗</a> **[SpaceNews]** Canada extends MDA Space’s ISS robotics contract to 2030
 - <a href="https://spacenews.com/the-paradox-of-u-s-government-rd-funding-barriers-for-non-u-s-owned-firms/" >🔗</a> **[SpaceNews]** The paradox of U.S. government R&D funding: Barriers for non-U.S. owned firms
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/04/the-hidden-story-behind-one-of-spacexs-wettest-and-wildest-launches/" >🔗</a> **[Arstechnica]** The hidden story behind one of SpaceX’s wettest and wildest launches
 - <a href="https://spacenews.com/nelson-defends-very-tough-choices-in-nasas-budget-proposal/" >🔗</a> **[SpaceNews]** Nelson defends “very tough choices” in NASA’s budget proposal
 - <a href="https://spacepolicyonline.com/news/nelson-defends-tough-choices-in-fy2025-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Defends Tough Choices in FY2025 Budget Request
-- <a href="https://spacepolicyonline.com/news/ingenuity-down-but-not-out/" >🔗</a> **[SpacePolicyOnline.com]** Ingenuity – Down, But Not Out
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T213054">2024-04-18 21:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T220115">2024-04-18 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
