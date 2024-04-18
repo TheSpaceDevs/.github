@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nelson-defends-very-tough-choices-in-nasas-budget-proposal/" >🔗</a> **[SpaceNews]** Nelson defends “very tough choices” in NASA’s budget proposal
 - <a href="https://spacepolicyonline.com/news/nelson-defends-tough-choices-in-fy2025-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Defends Tough Choices in FY2025 Budget Request
 - <a href="https://spacepolicyonline.com/news/ingenuity-down-but-not-out/" >🔗</a> **[SpacePolicyOnline.com]** Ingenuity – Down, But Not Out
 - <a href="https://spacenews.com/astrobotic-eyes-military-customers-for-reusable-xogdor-suborbital-rocket/" >🔗</a> **[SpaceNews]** Astrobotic eyes military customers for reusable Xogdor suborbital rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/taking-the-next-steps-for-satellite-to-smartphone-services/" >🔗</a> **[SpaceNews]** Taking the next steps for satellite-to-smartphone services
 - <a href="https://spacenews.com/nasas-no-to-mars/" >🔗</a> **[SpaceNews]** NASA’s no to Mars
 - <a href="https://spacenews.com/csis-releases-annual-assessment-of-global-trends-in-the-weaponization-of-space/" >🔗</a> **[SpaceNews]** CSIS releases annual assessment of global trends in the weaponization of space
-- <a href="https://spacenews.com/advancing-defense-govcon-impact-air-space-force-reoptimization/" >🔗</a> **[SpaceNews]** Advancing defense: the GovCon impact on Air and Space Force reoptimization
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T113109">2024-04-18 11:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T120145">2024-04-18 12:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
