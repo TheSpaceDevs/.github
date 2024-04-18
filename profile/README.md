@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-paradox-of-u-s-government-rd-funding-barriers-for-non-u-s-owned-firms/" >🔗</a> **[SpaceNews]** The paradox of U.S. government R&D funding: Barriers for non-U.S. owned firms
+- <a href="https://spacenews.com/faa-to-require-reentry-vehicles-licensed-before-launch/" >🔗</a> **[SpaceNews]** FAA to require reentry vehicles licensed before launch
 - <a href="https://spacenews.com/a-reflection-on-space-symposium/" >🔗</a> **[SpaceNews]** A reflection on Space Symposium
 - <a href="https://spacenews.com/the-trillion-dollar-question/" >🔗</a> **[SpaceNews]** The trillion-dollar question
 - <a href="https://arstechnica.com/space/2024/04/the-hidden-story-behind-one-of-spacexs-wettest-and-wildest-launches/" >🔗</a> **[Arstechnica]** The hidden story behind one of SpaceX’s wettest and wildest launches
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/ingenuity-down-but-not-out/" >🔗</a> **[SpacePolicyOnline.com]** Ingenuity – Down, But Not Out
 - <a href="https://spacenews.com/astrobotic-eyes-military-customers-for-reusable-xogdor-suborbital-rocket/" >🔗</a> **[SpaceNews]** Astrobotic eyes military customers for reusable Xogdor suborbital rocket
 - <a href="https://www.teslarati.com/spacex-vast-starlink-partnership/" >🔗</a> **[Teslarati]** SpaceX partners with Vast for Starlink partnership for its new space station
-- <a href="https://spacenews.com/space-isac-establishes-leo-satellite-operators-group/" >🔗</a> **[SpaceNews]** Space ISAC establishes LEO satellite operators group
-- <a href="https://www.spacescout.info/2024/04/nasa-lays-out-leo-sustainability-vision/" >🔗</a> **[Space Scout]** NASA Lays Out LEO Sustainability Vision
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T170116">2024-04-18 17:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240418T173103">2024-04-18 17:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
