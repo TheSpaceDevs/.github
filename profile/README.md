@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-leverage-growing-commercial-space-sector-to-launch-megaconstellations/" >🔗</a> **[SpaceNews]** China to leverage growing commercial space sector to launch megaconstellations
+- <a href="https://spacenews.com/virgin-galactic-proposes-reverse-stock-split/" >🔗</a> **[SpaceNews]** Virgin Galactic proposes reverse stock split
 - <a href="https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/" >🔗</a> **[Arstechnica]** Boeing says it will cut SLS workforce “due to external factors”
 - <a href="https://spacenews.com/suppliers-struggle-as-military-embraces-small-satellites/" >🔗</a> **[SpaceNews]** Suppliers struggle as military embraces small satellites
 - <a href="https://arstechnica.com/space/2024/04/spacex-working-with-northrop-grumman-on-spy-satellites-for-us-government/" >🔗</a> **[Arstechnica]** SpaceX and Northrop are working on a constellation of spy satellites
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/faa-to-require-reentry-vehicles-licensed-before-launch/" >🔗</a> **[SpaceNews]** FAA to require reentry vehicles licensed before launch
 - <a href="https://spacenews.com/a-reflection-on-space-symposium/" >🔗</a> **[SpaceNews]** A reflection on Space Symposium
 - <a href="https://spacenews.com/the-trillion-dollar-question/" >🔗</a> **[SpaceNews]** The trillion-dollar question
-- <a href="https://arstechnica.com/space/2024/04/the-hidden-story-behind-one-of-spacexs-wettest-and-wildest-launches/" >🔗</a> **[Arstechnica]** The hidden story behind one of SpaceX’s wettest and wildest launches
-- <a href="https://spacenews.com/nelson-defends-very-tough-choices-in-nasas-budget-proposal/" >🔗</a> **[SpaceNews]** Nelson defends “very tough choices” in NASA’s budget proposal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T110122">2024-04-19 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T113107">2024-04-19 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
