@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congress-pushes-dod-to-deliver/" >🔗</a> **[SpaceNews]** Congress pushes DoD to deliver
+- <a href="https://arstechnica.com/space/2024/04/nasa-may-alter-artemis-iii-to-have-starship-and-orion-dock-in-low-earth-orbit/" >🔗</a> **[Arstechnica]** NASA may alter Artemis III to have Starship and Orion dock in low-Earth orbit
 - <a href="https://spacenews.com/orbex-raises-20-8-million-series-c-extension/" >🔗</a> **[SpaceNews]** Orbex raises $20.8 million Series C extension
 - <a href="https://www.spacescout.info/2024/04/human-health-research-key-to-commercial-space/" >🔗</a> **[Space Scout]** Op-Ed: Human Health Research, the Key to the Commercial Space Revolution
 - <a href="https://spacenews.com/sci-fi-showdown-at-space-symposium-complete-transcript-of-the-star-trek-vs-star-wars-debate/" >🔗</a> **[SpaceNews]** Sci-Fi Showdown at Space Symposium: Complete transcript of the Star Trek vs Star Wars debate
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/virgin-galactic-proposes-reverse-stock-split/" >🔗</a> **[SpaceNews]** Virgin Galactic proposes reverse stock split
 - <a href="https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/" >🔗</a> **[Arstechnica]** Boeing says it will cut SLS workforce “due to external factors”
 - <a href="https://spacenews.com/suppliers-struggle-as-military-embraces-small-satellites/" >🔗</a> **[SpaceNews]** Suppliers struggle as military embraces small satellites
-- <a href="https://arstechnica.com/space/2024/04/spacex-working-with-northrop-grumman-on-spy-satellites-for-us-government/" >🔗</a> **[Arstechnica]** SpaceX and Northrop are working on a constellation of spy satellites
-- <a href="https://spacenews.com/canada-extends-mda-spaces-iss-robotics-contract-to-2030/" >🔗</a> **[SpaceNews]** Canada extends MDA Space’s ISS robotics contract to 2030
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T153114">2024-04-19 15:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T160127">2024-04-19 16:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
