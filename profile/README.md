@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/04/ift-4-prepares-starships-future-focus/" >🔗</a> **[NASASpaceflight]** As IFT-4 prepares for launch, Starship’s future is coming into focus
 - <a href="https://spacenews.com/congress-pushes-dod-to-deliver/" >🔗</a> **[SpaceNews]** Congress pushes DoD to deliver
 - <a href="https://arstechnica.com/space/2024/04/nasa-may-alter-artemis-iii-to-have-starship-and-orion-dock-in-low-earth-orbit/" >🔗</a> **[Arstechnica]** NASA may alter Artemis III to have Starship and Orion dock in low-Earth orbit
 - <a href="https://spacenews.com/orbex-raises-20-8-million-series-c-extension/" >🔗</a> **[SpaceNews]** Orbex raises $20.8 million Series C extension
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-to-leverage-growing-commercial-space-sector-to-launch-megaconstellations/" >🔗</a> **[SpaceNews]** China to leverage growing commercial space sector to launch megaconstellations
 - <a href="https://spacenews.com/virgin-galactic-proposes-reverse-stock-split/" >🔗</a> **[SpaceNews]** Virgin Galactic proposes reverse stock split
 - <a href="https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/" >🔗</a> **[Arstechnica]** Boeing says it will cut SLS workforce “due to external factors”
-- <a href="https://spacenews.com/suppliers-struggle-as-military-embraces-small-satellites/" >🔗</a> **[SpaceNews]** Suppliers struggle as military embraces small satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T183100">2024-04-19 18:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T190122">2024-04-19 19:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
