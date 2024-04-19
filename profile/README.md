@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astra-considered-bankruptcy-as-it-struggled-to-raise-cash/" >🔗</a> **[SpaceNews]** Astra considered bankruptcy as it struggled to raise cash
 - <a href="https://spacenews.com/china-to-leverage-growing-commercial-space-sector-to-launch-megaconstellations/" >🔗</a> **[SpaceNews]** China to leverage growing commercial space sector to launch megaconstellations
 - <a href="https://spacenews.com/virgin-galactic-proposes-reverse-stock-split/" >🔗</a> **[SpaceNews]** Virgin Galactic proposes reverse stock split
 - <a href="https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/" >🔗</a> **[Arstechnica]** Boeing says it will cut SLS workforce “due to external factors”
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-paradox-of-u-s-government-rd-funding-barriers-for-non-u-s-owned-firms/" >🔗</a> **[SpaceNews]** The paradox of U.S. government R&D funding: Barriers for non-U.S. owned firms
 - <a href="https://spacenews.com/faa-to-require-reentry-vehicles-licensed-before-launch/" >🔗</a> **[SpaceNews]** FAA to require reentry vehicles licensed before launch
 - <a href="https://spacenews.com/a-reflection-on-space-symposium/" >🔗</a> **[SpaceNews]** A reflection on Space Symposium
-- <a href="https://spacenews.com/the-trillion-dollar-question/" >🔗</a> **[SpaceNews]** The trillion-dollar question
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T113107">2024-04-19 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240419T120141">2024-04-19 12:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
