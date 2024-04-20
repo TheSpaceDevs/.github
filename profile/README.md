@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/slovenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Slovenia signs Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2024/04/ift-4-prepares-starships-future-focus/" >🔗</a> **[NASASpaceflight]** As IFT-4 prepares for launch, Starship’s future is coming into focus
 - <a href="https://spacenews.com/congress-pushes-dod-to-deliver/" >🔗</a> **[SpaceNews]** Congress pushes DoD to deliver
 - <a href="https://arstechnica.com/space/2024/04/nasa-may-alter-artemis-iii-to-have-starship-and-orion-dock-in-low-earth-orbit/" >🔗</a> **[Arstechnica]** NASA may alter Artemis III to have Starship and Orion dock in low-Earth orbit
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/astra-considered-bankruptcy-as-it-struggled-to-raise-cash/" >🔗</a> **[SpaceNews]** Astra considered bankruptcy as it struggled to raise cash
 - <a href="https://spacenews.com/china-to-leverage-growing-commercial-space-sector-to-launch-megaconstellations/" >🔗</a> **[SpaceNews]** China to leverage growing commercial space sector to launch megaconstellations
 - <a href="https://spacenews.com/virgin-galactic-proposes-reverse-stock-split/" >🔗</a> **[SpaceNews]** Virgin Galactic proposes reverse stock split
-- <a href="https://arstechnica.com/space/2024/04/amid-schedule-uncertainty-boeing-will-shed-workers-on-sls-rocket-program/" >🔗</a> **[Arstechnica]** Boeing says it will cut SLS workforce “due to external factors”
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240420T160140">2024-04-20 16:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240420T163146">2024-04-20 16:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
