@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bluehalo-wins-24-million-air-force-contract-for-research-and-analysis-of-satellite-vulnerabilities/" >🔗</a> **[SpaceNews]** BlueHalo wins $24 million Air Force contract for research and analysis of satellite vulnerabilities
 - <a href="https://spacenews.com/slovenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Slovenia signs Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2024/04/ift-4-prepares-starships-future-focus/" >🔗</a> **[NASASpaceflight]** As IFT-4 prepares for launch, Starship’s future is coming into focus
 - <a href="https://spacenews.com/congress-pushes-dod-to-deliver/" >🔗</a> **[SpaceNews]** Congress pushes DoD to deliver
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sci-fi-showdown-at-space-symposium-complete-transcript-of-the-star-trek-vs-star-wars-debate/" >🔗</a> **[SpaceNews]** Sci-Fi Showdown at Space Symposium: Complete transcript of the Star Trek vs Star Wars debate
 - <a href="https://spacenews.com/astra-considered-bankruptcy-as-it-struggled-to-raise-cash/" >🔗</a> **[SpaceNews]** Astra considered bankruptcy as it struggled to raise cash
 - <a href="https://spacenews.com/china-to-leverage-growing-commercial-space-sector-to-launch-megaconstellations/" >🔗</a> **[SpaceNews]** China to leverage growing commercial space sector to launch megaconstellations
-- <a href="https://spacenews.com/virgin-galactic-proposes-reverse-stock-split/" >🔗</a> **[SpaceNews]** Virgin Galactic proposes reverse stock split
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240421T113057">2024-04-21 11:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240421T120118">2024-04-21 12:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
