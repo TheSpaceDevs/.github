@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/putting-cremains-moon-disrespectful-bad-policy/" >🔗</a> **[SpaceNews]** Putting cremains on the moon is disrespectful – and bad policyo
+- <a href="https://spacenews.com/putting-cremains-moon-disrespectful-bad-policy/" >🔗</a> **[SpaceNews]** Putting cremains on the moon is disrespectful – and bad policy
 - <a href="https://spacenews.com/nasa-confirms-dragonfly-mission-despite-doubled-costs/" >🔗</a> **[SpaceNews]** NASA confirms Dragonfly mission despite doubled costs
 - <a href="https://spacenews.com/china-launches-second-yaogan-42-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-42 reconnaissance satellite
 - <a href="https://spacepolicyonline.com/news/jamming-spoofing-hacking-todays-most-pervasive-counterspace-threats/" >🔗</a> **[SpacePolicyOnline.com]** Jamming, Spoofing, Hacking: Today’s Most Pervasive Counterspace Threats
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T153108">2024-04-22 15:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T160158">2024-04-22 16:01:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
