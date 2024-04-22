@@ -93,6 +93,7 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-two-starlink-missions-just-over-24-hours-apart/" >🔗</a> **[Teslarati]** SpaceX launches two Starlink missions just over 24 hours apart
 - <a href="https://spacenews.com/no-more-jammer-sales-its-time-for-global-enforcement/" >🔗</a> **[SpaceNews]** No more jammer sales: it’s time for global enforcement
 - <a href="https://spacenews.com/putting-cremains-moon-disrespectful-bad-policy/" >🔗</a> **[SpaceNews]** Putting cremains on the moon is disrespectful – and bad policy
 - <a href="https://spacenews.com/nasa-confirms-dragonfly-mission-despite-doubled-costs/" >🔗</a> **[SpaceNews]** NASA confirms Dragonfly mission despite doubled costs
@@ -102,7 +103,6 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 - <a href="https://spacenews.com/bluehalo-wins-24-million-air-force-contract-for-research-and-analysis-of-satellite-vulnerabilities/" >🔗</a> **[SpaceNews]** BlueHalo wins $24 million Air Force contract for research and analysis of satellite vulnerabilities
 - <a href="https://spacenews.com/slovenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Slovenia signs Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2024/04/ift-4-prepares-starships-future-focus/" >🔗</a> **[NASASpaceflight]** As IFT-4 prepares for launch, Starship’s future is coming into focus
-- <a href="https://spacenews.com/congress-pushes-dod-to-deliver/" >🔗</a> **[SpaceNews]** Congress pushes DoD to deliver
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T203100">2024-04-22 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T210127">2024-04-22 21:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
