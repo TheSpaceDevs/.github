@@ -93,6 +93,7 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to land its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
 - <a href="https://spacenews.com/pentagon-eases-cloak-of-secrecy-around-space-warfare-training/" >🔗</a> **[SpaceNews]** Pentagon eases cloak of secrecy around space warfare training
 - <a href="https://www.teslarati.com/spacex-launches-two-starlink-missions-just-over-24-hours-apart/" >🔗</a> **[Teslarati]** SpaceX launches two Starlink missions just over 24 hours apart
 - <a href="https://spacenews.com/no-more-jammer-sales-its-time-for-global-enforcement/" >🔗</a> **[SpaceNews]** No more jammer sales: it’s time for global enforcement
@@ -102,7 +103,6 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 - <a href="https://spacepolicyonline.com/news/jamming-spoofing-hacking-todays-most-pervasive-counterspace-threats/" >🔗</a> **[SpacePolicyOnline.com]** Jamming, Spoofing, Hacking: Today’s Most Pervasive Counterspace Threats
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 21-27, 2024
 - <a href="https://spacenews.com/bluehalo-wins-24-million-air-force-contract-for-research-and-analysis-of-satellite-vulnerabilities/" >🔗</a> **[SpaceNews]** BlueHalo wins $24 million Air Force contract for research and analysis of satellite vulnerabilities
-- <a href="https://spacenews.com/slovenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Slovenia signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T220129">2024-04-22 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T223148">2024-04-22 22:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
