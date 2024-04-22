@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-second-yaogan-42-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-42 reconnaissance satellite
 - <a href="https://spacepolicyonline.com/news/jamming-spoofing-hacking-todays-most-pervasive-counterspace-threats/" >🔗</a> **[SpacePolicyOnline.com]** Jamming, Spoofing, Hacking: Today’s Most Pervasive Counterspace Threats
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 21-27, 2024
 - <a href="https://spacenews.com/bluehalo-wins-24-million-air-force-contract-for-research-and-analysis-of-satellite-vulnerabilities/" >🔗</a> **[SpaceNews]** BlueHalo wins $24 million Air Force contract for research and analysis of satellite vulnerabilities
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/04/nasa-may-alter-artemis-iii-to-have-starship-and-orion-dock-in-low-earth-orbit/" >🔗</a> **[Arstechnica]** NASA may alter Artemis III to have Starship and Orion dock in low-Earth orbit
 - <a href="https://spacenews.com/orbex-raises-20-8-million-series-c-extension/" >🔗</a> **[SpaceNews]** Orbex raises $20.8 million Series C extension
 - <a href="https://www.spacescout.info/2024/04/human-health-research-key-to-commercial-space/" >🔗</a> **[Space Scout]** Op-Ed: Human Health Research, the Key to the Commercial Space Revolution
-- <a href="https://spacenews.com/sci-fi-showdown-at-space-symposium-complete-transcript-of-the-star-trek-vs-star-wars-debate/" >🔗</a> **[SpaceNews]** Sci-Fi Showdown at Space Symposium: Complete transcript of the Star Trek vs Star Wars debate
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T110116">2024-04-22 11:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T113127">2024-04-22 11:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
