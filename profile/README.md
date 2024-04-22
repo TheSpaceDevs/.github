@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/no-more-jammer-sales-its-time-for-global-enforcement/" >🔗</a> **[SpaceNews]** No more jammer sales: it’s time for global enforcement
 - <a href="https://spacenews.com/putting-cremains-moon-disrespectful-bad-policy/" >🔗</a> **[SpaceNews]** Putting cremains on the moon is disrespectful – and bad policy
 - <a href="https://spacenews.com/nasa-confirms-dragonfly-mission-despite-doubled-costs/" >🔗</a> **[SpaceNews]** NASA confirms Dragonfly mission despite doubled costs
 - <a href="https://spacenews.com/china-launches-second-yaogan-42-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-42 reconnaissance satellite
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/slovenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Slovenia signs Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2024/04/ift-4-prepares-starships-future-focus/" >🔗</a> **[NASASpaceflight]** As IFT-4 prepares for launch, Starship’s future is coming into focus
 - <a href="https://spacenews.com/congress-pushes-dod-to-deliver/" >🔗</a> **[SpaceNews]** Congress pushes DoD to deliver
-- <a href="https://arstechnica.com/space/2024/04/nasa-may-alter-artemis-iii-to-have-starship-and-orion-dock-in-low-earth-orbit/" >🔗</a> **[Arstechnica]** NASA may alter Artemis III to have Starship and Orion dock in low-Earth orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T160158">2024-04-22 16:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240422T163253">2024-04-22 16:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
