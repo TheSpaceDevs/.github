@@ -93,6 +93,8 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-continues-work-on-response-to-biological-and-physical-sciences-decadal-survey/" >🔗</a> **[SpaceNews]** NASA continues work on response to biological and physical sciences decadal survey
+- <a href="https://arstechnica.com/space/2024/04/daily-telescope-the-ambiguously-galactic-duo/" >🔗</a> **[Arstechnica]** Daily Telescope: The ambiguously galactic duo
 - <a href="https://spacenews.com/pld-space-raises-funding-to-expand-facilities-for-miura-5-rocket/" >🔗</a> **[SpaceNews]** PLD Space raises funding to expand facilities for Miura 5 rocket
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to land its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
 - <a href="https://spacenews.com/pentagon-eases-cloak-of-secrecy-around-space-warfare-training/" >🔗</a> **[SpaceNews]** Pentagon eases cloak of secrecy around space warfare training
@@ -101,8 +103,6 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 - <a href="https://spacenews.com/putting-cremains-moon-disrespectful-bad-policy/" >🔗</a> **[SpaceNews]** Putting cremains on the moon is disrespectful – and bad policy
 - <a href="https://spacenews.com/nasa-confirms-dragonfly-mission-despite-doubled-costs/" >🔗</a> **[SpaceNews]** NASA confirms Dragonfly mission despite doubled costs
 - <a href="https://spacenews.com/china-launches-second-yaogan-42-reconnaissance-satellite/" >🔗</a> **[SpaceNews]** China launches second Yaogan-42 reconnaissance satellite
-- <a href="https://spacepolicyonline.com/news/jamming-spoofing-hacking-todays-most-pervasive-counterspace-threats/" >🔗</a> **[SpacePolicyOnline.com]** Jamming, Spoofing, Hacking: Today’s Most Pervasive Counterspace Threats
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 21-27, 2024
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T113106">2024-04-23 11:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T120137">2024-04-23 12:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
