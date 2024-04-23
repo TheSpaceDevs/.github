@@ -93,6 +93,8 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/04/new-solar-sail-electron/" >🔗</a> **[NASASpaceflight]** New solar sail technology to launch on Rocket Lab flight
+- <a href="https://www.teslarati.com/nasa-confirms-dragonfly-mission-saturn-moon-titan/" >🔗</a> **[Teslarati]** NASA confirms the Dragonfly mission to Saturn’s Moon: Titan
 - <a href="https://spacenews.com/china-reorganizes-its-military-impacts-likely-for-space-operations/" >🔗</a> **[SpaceNews]** China reorganizes its military, impacts likely for space operations
 - <a href="https://spacenews.com/nasa-continues-work-on-response-to-biological-and-physical-sciences-decadal-survey/" >🔗</a> **[SpaceNews]** NASA continues work on response to biological and physical sciences decadal survey
 - <a href="https://arstechnica.com/space/2024/04/daily-telescope-the-ambiguously-galactic-duo/" >🔗</a> **[Arstechnica]** Daily Telescope: The ambiguously galactic duo
@@ -101,8 +103,6 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 - <a href="https://spacenews.com/pentagon-eases-cloak-of-secrecy-around-space-warfare-training/" >🔗</a> **[SpaceNews]** Pentagon eases cloak of secrecy around space warfare training
 - <a href="https://www.teslarati.com/spacex-launches-two-starlink-missions-just-over-24-hours-apart/" >🔗</a> **[Teslarati]** SpaceX launches two Starlink missions just over 24 hours apart
 - <a href="https://spacenews.com/no-more-jammer-sales-its-time-for-global-enforcement/" >🔗</a> **[SpaceNews]** No more jammer sales: it’s time for global enforcement
-- <a href="https://spacenews.com/putting-cremains-moon-disrespectful-bad-policy/" >🔗</a> **[SpaceNews]** Putting cremains on the moon is disrespectful – and bad policy
-- <a href="https://spacenews.com/nasa-confirms-dragonfly-mission-despite-doubled-costs/" >🔗</a> **[SpaceNews]** NASA confirms Dragonfly mission despite doubled costs
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T183101">2024-04-23 18:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T190130">2024-04-23 19:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
