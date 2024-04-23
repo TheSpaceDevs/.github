@@ -20,29 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Beginning Of The Swarm (ACS3 & NeonSat-1)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | WorldView Legion 1 & 2**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T220000">2024-04-23 22:00:00 UTC</a>.  Until
-then, this pad will have been used for 16
-out of 42 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T183000">2024-04-24 18:30:00 UTC</a>.  Until
+then, this pad will have been used for 141
+out of 752 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Earth Science* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  NASA's Advanced Composite Solar Sail System (ACS3) is a technology demonstration mission tasked with deploying a composite boom solar sail.
-
-NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that will be deployed as a technology demonstration for a planned future Earth observation constellation.
+  WorldView Legion is a constellation of Earth observation satellites built and operated by Maxar. Constellation is planned to consist of 6 satellites in both polar and mid-inclination orbits, providing 30 cm-class resolution.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +54,8 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T000000">2024-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240430T000000Z%2F20240430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T000000">2024-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Flight 2&location=Pacific Spaceport Complex, Alaska, USA&dates=20240430T000000Z%2F20240430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Flight 2** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T000000">2024-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gaganyaan Abort Test Booster | TV-D2&location=Satish Dhawan Space Centre, India&dates=20240430T000000Z%2F20240430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gaganyaan Abort Test Booster | TV-D2** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T070000">2024-05-03 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Chang&#x27;e 6&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20240503T070000Z%2F20240503T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Chang'e 6** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T023400">2024-05-07 02:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240507T023400Z%2F20240507T023400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -106,13 +106,14 @@ NeonSat-1 is a high-resolution optical satellite by South Korea's KAIST that wil
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to land its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
-- <a href="https://www.teslarati.com/rocket-lab-prepares-for-next-launch-moves-closer-to-electron-reusability/" >🔗</a> **[Teslarati]** Rocket Lab prepares for next launch, moves closer to Electron reusability
-- <a href="https://spacenews.com/rocket-lab-to-launch-nasa-smallsat-using-sbir-award/" >🔗</a> **[SpaceNews]** Rocket Lab to launch NASA smallsat using SBIR award
+- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX reaches its 40th Falcon 9 flight of 2024
+- <a href="https://spacenews.com/maxar-eyes-spring-launch-of-long-delayed-worldview-legion-satellites/" >🔗</a> **[SpaceNews]** Maxar eyes spring launch of long-delayed WorldView Legion satellites
+- <a href="https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** Maxar eyes summer launch of WorldView Legion imaging satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T223108">2024-04-23 22:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T230142">2024-04-23 23:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
