@@ -98,14 +98,14 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-continues-work-on-response-to-biological-and-physical-sciences-decadal-survey/" >🔗</a> **[SpaceNews]** NASA continues work on response to biological and physical sciences decadal survey
 - <a href="https://arstechnica.com/space/2024/04/daily-telescope-the-ambiguously-galactic-duo/" >🔗</a> **[Arstechnica]** Daily Telescope: The ambiguously galactic duo
 - <a href="https://spacenews.com/pld-space-raises-funding-to-expand-facilities-for-miura-5-rocket/" >🔗</a> **[SpaceNews]** PLD Space raises funding to expand facilities for Miura 5 rocket
-- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to land its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
+- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX lands its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
 - <a href="https://spacenews.com/pentagon-eases-cloak-of-secrecy-around-space-warfare-training/" >🔗</a> **[SpaceNews]** Pentagon eases cloak of secrecy around space warfare training
 - <a href="https://www.teslarati.com/spacex-launches-two-starlink-missions-just-over-24-hours-apart/" >🔗</a> **[Teslarati]** SpaceX launches two Starlink missions just over 24 hours apart
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to land its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
+- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX lands its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-041524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX reaches its 40th Falcon 9 flight of 2024
 - <a href="https://spacenews.com/maxar-eyes-spring-launch-of-long-delayed-worldview-legion-satellites/" >🔗</a> **[SpaceNews]** Maxar eyes spring launch of long-delayed WorldView Legion satellites
 - <a href="https://spacenews.com/maxar-eyes-summer-launch-of-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** Maxar eyes summer launch of WorldView Legion imaging satellites
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240423T233110">2024-04-23 23:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T000335">2024-04-24 00:03:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
