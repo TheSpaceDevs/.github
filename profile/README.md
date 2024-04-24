@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/major-changes-approved-for-clearspace-1-mission/" >🔗</a> **[SpaceNews]** Major changes approved for ClearSpace-1 mission
 - <a href="https://spacepolicyonline.com/news/voyager-1-back-in-action-thanks-to-jpl-engineers/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Back in Action Thanks to JPL Engineers
 - <a href="https://spacenews.com/space-force-to-industry-prove-value-of-new-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force to industry: Prove value of new commercial space services
 - <a href="https://spacenews.com/companies-offer-proposals-for-apophis-asteroid-missions/" >🔗</a> **[SpaceNews]** Companies offer proposals for Apophis asteroid missions
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-continues-work-on-response-to-biological-and-physical-sciences-decadal-survey/" >🔗</a> **[SpaceNews]** NASA continues work on response to biological and physical sciences decadal survey
 - <a href="https://arstechnica.com/space/2024/04/daily-telescope-the-ambiguously-galactic-duo/" >🔗</a> **[Arstechnica]** Daily Telescope: The ambiguously galactic duo
 - <a href="https://spacenews.com/pld-space-raises-funding-to-expand-facilities-for-miura-5-rocket/" >🔗</a> **[SpaceNews]** PLD Space raises funding to expand facilities for Miura 5 rocket
-- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX lands its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T093109">2024-04-24 09:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T100116">2024-04-24 10:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
