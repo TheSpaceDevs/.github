@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/" >🔗</a> **[Teslarati]** Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission
 - <a href="https://spacenews.com/china-on-track-for-crewed-moon-landing-by-2030-space-official-says/" >🔗</a> **[SpaceNews]** China on track for crewed moon landing by 2030, space official says
 - <a href="https://spacenews.com/u-s-space-force-renews-call-for-reserve-of-commercial-satellite-providers/" >🔗</a> **[SpaceNews]** U.S. Space Force renews call for ‘reserve’ of commercial satellite providers
 - <a href="https://spacenews.com/lets-shoot-for-the-stars-like-robert-goddard/" >🔗</a> **[SpaceNews]** Let’s shoot for the stars like Robert Goddard
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/major-changes-approved-for-clearspace-1-mission/" >🔗</a> **[SpaceNews]** Major changes approved for ClearSpace-1 mission
 - <a href="https://spacepolicyonline.com/news/voyager-1-back-in-action-thanks-to-jpl-engineers/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Back in Action Thanks to JPL Engineers
 - <a href="https://spacenews.com/space-force-to-industry-prove-value-of-new-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force to industry: Prove value of new commercial space services
-- <a href="https://spacenews.com/companies-offer-proposals-for-apophis-asteroid-missions/" >🔗</a> **[SpaceNews]** Companies offer proposals for Apophis asteroid missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T193121">2024-04-24 19:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T200127">2024-04-24 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
