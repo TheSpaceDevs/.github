@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/04/spacex-has-now-landed-more-boosters-than-most-other-rockets-ever-launch/" >🔗</a> **[Arstechnica]** SpaceX has now landed more boosters than most other rockets ever launch
+- <a href="https://www.teslarati.com/spacex-lands-300th-falcon-rocket-during-latest-starlink-mission/" >🔗</a> **[Teslarati]** SpaceX lands 300th Falcon rocket during latest Starlink mission
 - <a href="https://spacenews.com/electron-launches-south-korean-imaging-satellite-and-nasa-solar-sail/" >🔗</a> **[SpaceNews]** Electron launches South Korean imaging satellite and NASA solar sail
 - <a href="https://spacenews.com/major-changes-approved-for-clearspace-1-mission/" >🔗</a> **[SpaceNews]** Major changes approved for ClearSpace-1 mission
 - <a href="https://spacepolicyonline.com/news/voyager-1-back-in-action-thanks-to-jpl-engineers/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Back in Action Thanks to JPL Engineers
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/04/new-solar-sail-electron/" >🔗</a> **[NASASpaceflight]** New solar sail technology launches on Rocket Lab flight
 - <a href="https://www.teslarati.com/nasa-confirms-dragonfly-mission-saturn-moon-titan/" >🔗</a> **[Teslarati]** NASA confirms the Dragonfly mission to Saturn’s Moon: Titan
 - <a href="https://spacenews.com/china-reorganizes-its-military-impacts-likely-for-space-operations/" >🔗</a> **[SpaceNews]** China reorganizes its military, impacts likely for space operations
-- <a href="https://spacenews.com/nasa-continues-work-on-response-to-biological-and-physical-sciences-decadal-survey/" >🔗</a> **[SpaceNews]** NASA continues work on response to biological and physical sciences decadal survey
-- <a href="https://arstechnica.com/space/2024/04/daily-telescope-the-ambiguously-galactic-duo/" >🔗</a> **[Arstechnica]** Daily Telescope: The ambiguously galactic duo
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T150138">2024-04-24 15:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T153113">2024-04-24 15:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
