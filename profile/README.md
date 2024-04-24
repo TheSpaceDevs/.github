@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-on-track-for-crewed-moon-landing-by-2030-space-official-says/" >🔗</a> **[SpaceNews]** China on track for crewed moon landing by 2030, space official says
 - <a href="https://spacenews.com/u-s-space-force-renews-call-for-reserve-of-commercial-satellite-providers/" >🔗</a> **[SpaceNews]** U.S. Space Force renews call for ‘reserve’ of commercial satellite providers
 - <a href="https://spacenews.com/lets-shoot-for-the-stars-like-robert-goddard/" >🔗</a> **[SpaceNews]** Let’s shoot for the stars like Robert Goddard
 - <a href="https://arstechnica.com/space/2024/04/spacex-has-now-landed-more-boosters-than-most-other-rockets-ever-launch/" >🔗</a> **[Arstechnica]** SpaceX has now landed more boosters than most other rockets ever launch
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/voyager-1-back-in-action-thanks-to-jpl-engineers/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Back in Action Thanks to JPL Engineers
 - <a href="https://spacenews.com/space-force-to-industry-prove-value-of-new-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force to industry: Prove value of new commercial space services
 - <a href="https://spacenews.com/companies-offer-proposals-for-apophis-asteroid-missions/" >🔗</a> **[SpaceNews]** Companies offer proposals for Apophis asteroid missions
-- <a href="https://www.nasaspaceflight.com/2024/04/new-solar-sail-electron/" >🔗</a> **[NASASpaceflight]** New solar sail technology launches on Rocket Lab flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T183102">2024-04-24 18:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T190207">2024-04-24 19:02:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
