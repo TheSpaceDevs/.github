@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-industry-prove-value-of-new-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force to industry: Prove value of new commercial space services
 - <a href="https://spacenews.com/companies-offer-proposals-for-apophis-asteroid-missions/" >🔗</a> **[SpaceNews]** Companies offer proposals for Apophis asteroid missions
 - <a href="https://www.nasaspaceflight.com/2024/04/new-solar-sail-electron/" >🔗</a> **[NASASpaceflight]** New solar sail technology to launch on Rocket Lab flight
 - <a href="https://www.teslarati.com/nasa-confirms-dragonfly-mission-saturn-moon-titan/" >🔗</a> **[Teslarati]** NASA confirms the Dragonfly mission to Saturn’s Moon: Titan
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/pld-space-raises-funding-to-expand-facilities-for-miura-5-rocket/" >🔗</a> **[SpaceNews]** PLD Space raises funding to expand facilities for Miura 5 rocket
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX lands its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
 - <a href="https://spacenews.com/pentagon-eases-cloak-of-secrecy-around-space-warfare-training/" >🔗</a> **[SpaceNews]** Pentagon eases cloak of secrecy around space warfare training
-- <a href="https://www.teslarati.com/spacex-launches-two-starlink-missions-just-over-24-hours-apart/" >🔗</a> **[Teslarati]** SpaceX launches two Starlink missions just over 24 hours apart
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T000335">2024-04-24 00:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240424T004456">2024-04-24 00:44:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
