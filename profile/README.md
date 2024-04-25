@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/russia-vetoes-u-n-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Russia vetoes U.N. resolution on nuclear weapons in space
 - <a href="https://spacepolicyonline.com/news/slim-does-it-again-survives-another-lunar-night/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Does It Again — Survives Another Lunar Night
 - <a href="https://spacepolicyonline.com/news/russia-vetoes-u-n-security-council-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Russia Vetoes U.N. Security Council Resolution on Nuclear Weapons in Space
 - <a href="https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/" >🔗</a> **[Teslarati]** Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/04/spacex-has-now-landed-more-boosters-than-most-other-rockets-ever-launch/" >🔗</a> **[Arstechnica]** SpaceX has now landed more boosters than most other rockets ever launch
 - <a href="https://www.teslarati.com/spacex-lands-300th-falcon-rocket-during-latest-starlink-mission/" >🔗</a> **[Teslarati]** SpaceX lands 300th Falcon rocket during latest Starlink mission
 - <a href="https://spacenews.com/electron-launches-south-korean-imaging-satellite-and-nasa-solar-sail/" >🔗</a> **[SpaceNews]** Electron launches South Korean imaging satellite and NASA solar sail
-- <a href="https://spacenews.com/major-changes-approved-for-clearspace-1-mission/" >🔗</a> **[SpaceNews]** Major changes approved for ClearSpace-1 mission
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T110119">2024-04-25 11:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T113108">2024-04-25 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
