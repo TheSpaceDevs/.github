@@ -87,6 +87,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/nasa-shares-updated-render-of-the-cargo-starship-variant/" >🔗</a> **[Teslarati]** NASA shares updated render of the Cargo Starship variant
 - <a href="https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/" >🔗</a> **[Arstechnica]** If Starship is real, we’re going to need big cargo movers on the Moon and Mars
 - <a href="https://spacenews.com/nicaragua-signs-up-to-chinas-ilrs-moon-program/" >🔗</a> **[SpaceNews]** Nicaragua signs up to China’s ILRS moon program
 - <a href="https://spacenews.com/nasa-planning-september-launch-of-mars-smallsat-mission-on-first-new-glenn/" >🔗</a> **[SpaceNews]** NASA planning September launch of Mars smallsat mission on first New Glenn
@@ -96,7 +97,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/" >🔗</a> **[Teslarati]** Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission
 - <a href="https://spacenews.com/china-on-track-for-crewed-moon-landing-by-2030-space-official-says/" >🔗</a> **[SpaceNews]** China on track for crewed moon landing by 2030, space official says
 - <a href="https://spacenews.com/u-s-space-force-renews-call-for-reserve-of-commercial-satellite-providers/" >🔗</a> **[SpaceNews]** U.S. Space Force renews call for ‘reserve’ of commercial satellite providers
-- <a href="https://spacenews.com/lets-shoot-for-the-stars-like-robert-goddard/" >🔗</a> **[SpaceNews]** Let’s shoot for the stars like Robert Goddard
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T160133">2024-04-25 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T163235">2024-04-25 16:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
