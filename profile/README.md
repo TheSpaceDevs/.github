@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2F/G | Shenzhou 18**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T124900">2024-04-25 12:49:00 UTC</a>.  Until
-then, this pad will have been used for 22
-out of 223 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+**Falcon 9 Block 5 | 2 x Galileo**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T002900">2024-04-28 00:29:00 UTC</a>.  Until
+then, this pad will have been used for 177
+out of 235 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Navigation* and the payload will be injected
+into *a Medium Earth Orbit
+(MEO)*.
 <br>
 <blockquote>
-  Seventh crewed flight to the Chinese space station.
+  Payload consists of two satellites for Europe's Galileo navigation system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -102,11 +102,13 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX lands its 300th booster, NASA tests a solar sail, and China launches three more taikonauts
+- <a href="https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/" >🔗</a> **[Arstechnica]** It’s official: Europe turns to the Falcon 9 to launch its navigation satellites
+- <a href="https://spacenews.com/eu-finalizing-contract-with-spacex-for-galileo-launches/" >🔗</a> **[SpaceNews]** EU finalizing contract with SpaceX for Galileo launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T130137">2024-04-25 13:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T133136">2024-04-25 13:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
