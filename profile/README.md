@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/russia-vetoes-u-n-security-council-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Russia Vetoes U.N. Security Council Resolution on Nuclear Weapons in Space
 - <a href="https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/" >🔗</a> **[Teslarati]** Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission
 - <a href="https://spacenews.com/china-on-track-for-crewed-moon-landing-by-2030-space-official-says/" >🔗</a> **[SpaceNews]** China on track for crewed moon landing by 2030, space official says
 - <a href="https://spacenews.com/u-s-space-force-renews-call-for-reserve-of-commercial-satellite-providers/" >🔗</a> **[SpaceNews]** U.S. Space Force renews call for ‘reserve’ of commercial satellite providers
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/electron-launches-south-korean-imaging-satellite-and-nasa-solar-sail/" >🔗</a> **[SpaceNews]** Electron launches South Korean imaging satellite and NASA solar sail
 - <a href="https://spacenews.com/major-changes-approved-for-clearspace-1-mission/" >🔗</a> **[SpaceNews]** Major changes approved for ClearSpace-1 mission
 - <a href="https://spacepolicyonline.com/news/voyager-1-back-in-action-thanks-to-jpl-engineers/" >🔗</a> **[SpacePolicyOnline.com]** Voyager 1 Back in Action Thanks to JPL Engineers
-- <a href="https://spacenews.com/space-force-to-industry-prove-value-of-new-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force to industry: Prove value of new commercial space services
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T014527">2024-04-25 01:45:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T020938">2024-04-25 02:09:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
