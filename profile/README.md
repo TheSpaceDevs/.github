@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
 - <a href="https://spacenews.com/commercial-space-station-module-developer-gravitics-wins-space-force-contract/" >🔗</a> **[SpaceNews]** Commercial space station module developer Gravitics wins Space Force contract
 - <a href="https://arstechnica.com/space/2024/04/rocket-report-sls-workforce-cuts-new-glenn-launch-to-launch-in-the-early-fall/" >🔗</a> **[Arstechnica]** Rocket Report: SLS workforce cuts; New Glenn launch to launch in the early fall
 - <a href="https://spacepolicyonline.com/news/starliner-cft-cleared-for-may-6-launch/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Cleared for May 6 Launch
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/chinas-shenzhou-18-crew-arrive-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-18 crew arrive at Tiangong space station
 - <a href="https://www.teslarati.com/nasa-shares-updated-render-of-the-cargo-starship-variant/" >🔗</a> **[Teslarati]** NASA shares updated render of the Cargo Starship variant
 - <a href="https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/" >🔗</a> **[Arstechnica]** If Starship is real, we’re going to need big cargo movers on the Moon and Mars
-- <a href="https://spacenews.com/nicaragua-signs-up-to-chinas-ilrs-moon-program/" >🔗</a> **[SpaceNews]** Nicaragua signs up to China’s ILRS moon program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T130118">2024-04-26 13:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T133105">2024-04-26 13:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
