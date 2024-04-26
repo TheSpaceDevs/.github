@@ -88,6 +88,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-weather-requires-our-attention-now-more-than-ever/" >🔗</a> **[SpaceNews]** Space weather requires our attention now more than ever
+- <a href="https://spacenews.com/space-force-opens-bidding-for-classified-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force opens bidding for classified communications satellites
 - <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
 - <a href="https://spacenews.com/commercial-space-station-module-developer-gravitics-wins-space-force-contract/" >🔗</a> **[SpaceNews]** Commercial space station module developer Gravitics wins Space Force contract
 - <a href="https://arstechnica.com/space/2024/04/rocket-report-sls-workforce-cuts-new-glenn-launch-to-launch-in-the-early-fall/" >🔗</a> **[Arstechnica]** Rocket Report: SLS workforce cuts; New Glenn launch to launch in the early fall
@@ -96,8 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-arrives-at-tiangong-3-space-station/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Arrives at Tiangong-3 Space Station
 - <a href="https://spacenews.com/space-startup-true-anomaly-cuts-workforce/" >🔗</a> **[SpaceNews]** Space startup True Anomaly cuts workforce
 - <a href="https://spacenews.com/chinas-shenzhou-18-crew-arrive-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-18 crew arrive at Tiangong space station
-- <a href="https://www.teslarati.com/nasa-shares-updated-render-of-the-cargo-starship-variant/" >🔗</a> **[Teslarati]** NASA shares updated render of the Cargo Starship variant
-- <a href="https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/" >🔗</a> **[Arstechnica]** If Starship is real, we’re going to need big cargo movers on the Moon and Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T143056">2024-04-26 14:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T150128">2024-04-26 15:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
