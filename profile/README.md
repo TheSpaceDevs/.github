@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-arrives-at-tiangong-3-space-station/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Arrives at Tiangong-3 Space Station
 - <a href="https://spacenews.com/space-startup-true-anomaly-cuts-workforce/" >🔗</a> **[SpaceNews]** Space startup True Anomaly cuts workforce
 - <a href="https://spacenews.com/chinas-shenzhou-18-crew-arrive-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-18 crew arrive at Tiangong space station
 - <a href="https://www.teslarati.com/nasa-shares-updated-render-of-the-cargo-starship-variant/" >🔗</a> **[Teslarati]** NASA shares updated render of the Cargo Starship variant
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/russia-vetoes-u-n-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Russia vetoes U.N. resolution on nuclear weapons in space
 - <a href="https://spacepolicyonline.com/news/slim-does-it-again-survives-another-lunar-night/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Does It Again — Survives Another Lunar Night
 - <a href="https://spacepolicyonline.com/news/russia-vetoes-u-n-security-council-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Russia Vetoes U.N. Security Council Resolution on Nuclear Weapons in Space
-- <a href="https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/" >🔗</a> **[Teslarati]** Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T000326">2024-04-26 00:03:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T004457">2024-04-26 00:44:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
