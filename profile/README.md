@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/04/rocket-report-sls-workforce-cuts-new-glenn-launch-to-launch-in-the-early-fall/" >🔗</a> **[Arstechnica]** Rocket Report: SLS workforce cuts; New Glenn launch to launch in the early fall
 - <a href="https://spacepolicyonline.com/news/starliner-cft-cleared-for-may-6-launch/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Cleared for May 6 Launch
 - <a href="https://spacenews.com/starliner-crewed-test-flight-passes-key-review/" >🔗</a> **[SpaceNews]** Starliner crewed test flight passes key review
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-arrives-at-tiangong-3-space-station/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Arrives at Tiangong-3 Space Station
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/" >🔗</a> **[Arstechnica]** If Starship is real, we’re going to need big cargo movers on the Moon and Mars
 - <a href="https://spacenews.com/nicaragua-signs-up-to-chinas-ilrs-moon-program/" >🔗</a> **[SpaceNews]** Nicaragua signs up to China’s ILRS moon program
 - <a href="https://spacenews.com/nasa-planning-september-launch-of-mars-smallsat-mission-on-first-new-glenn/" >🔗</a> **[SpaceNews]** NASA planning September launch of Mars smallsat mission on first New Glenn
-- <a href="https://spacenews.com/russia-vetoes-u-n-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Russia vetoes U.N. resolution on nuclear weapons in space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T110108">2024-04-26 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T113117">2024-04-26 11:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
