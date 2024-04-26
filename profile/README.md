@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/04/esas-2022-astronaut-class-graduates/" >🔗</a> **[Space Scout]** ESA’s 2022 Astronaut Class Graduates
 - <a href="https://spacenews.com/space-weather-requires-our-attention-now-more-than-ever/" >🔗</a> **[SpaceNews]** Space weather requires our attention now more than ever
 - <a href="https://spacenews.com/space-force-opens-bidding-for-classified-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force opens bidding for classified communications satellites
 - <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/starliner-crewed-test-flight-passes-key-review/" >🔗</a> **[SpaceNews]** Starliner crewed test flight passes key review
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-arrives-at-tiangong-3-space-station/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Arrives at Tiangong-3 Space Station
 - <a href="https://spacenews.com/space-startup-true-anomaly-cuts-workforce/" >🔗</a> **[SpaceNews]** Space startup True Anomaly cuts workforce
-- <a href="https://spacenews.com/chinas-shenzhou-18-crew-arrive-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-18 crew arrive at Tiangong space station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T160119">2024-04-26 16:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T163316">2024-04-26 16:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
