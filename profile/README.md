@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-startup-true-anomaly-cuts-workforce/" >🔗</a> **[SpaceNews]** Space startup True Anomaly cuts workforce
 - <a href="https://spacenews.com/chinas-shenzhou-18-crew-arrive-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-18 crew arrive at Tiangong space station
 - <a href="https://www.teslarati.com/nasa-shares-updated-render-of-the-cargo-starship-variant/" >🔗</a> **[Teslarati]** NASA shares updated render of the Cargo Starship variant
 - <a href="https://arstechnica.com/space/2024/04/astrolab-tacks-toward-a-future-where-100s-of-tons-of-cargo-are-shipped-to-the-moon/" >🔗</a> **[Arstechnica]** If Starship is real, we’re going to need big cargo movers on the Moon and Mars
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/slim-does-it-again-survives-another-lunar-night/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Does It Again — Survives Another Lunar Night
 - <a href="https://spacepolicyonline.com/news/russia-vetoes-u-n-security-council-resolution-on-nuclear-weapons-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Russia Vetoes U.N. Security Council Resolution on Nuclear Weapons in Space
 - <a href="https://www.teslarati.com/rocket-lab-successfully-launches-the-beginning-of-the-swarm-mission/" >🔗</a> **[Teslarati]** Rocket Lab successfully launches the ‘Beginning of the Swarm’ mission
-- <a href="https://spacenews.com/china-on-track-for-crewed-moon-landing-by-2030-space-official-says/" >🔗</a> **[SpaceNews]** China on track for crewed moon landing by 2030, space official says
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240425T233057">2024-04-25 23:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T000326">2024-04-26 00:03:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
