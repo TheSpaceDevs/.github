@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/relativity-space-shares-updated-view-of-future-terran-r-launch-site/" >🔗</a> **[Teslarati]** Relativity Space shares updated view of future Terran R launch site
 - <a href="https://www.spacescout.info/2024/04/esas-2022-astronaut-class-graduates/" >🔗</a> **[Space Scout]** ESA’s 2022 Astronaut Class Graduates
 - <a href="https://spacenews.com/space-weather-requires-our-attention-now-more-than-ever/" >🔗</a> **[SpaceNews]** Space weather requires our attention now more than ever
 - <a href="https://spacenews.com/space-force-opens-bidding-for-classified-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force opens bidding for classified communications satellites
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/starliner-cft-cleared-for-may-6-launch/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Cleared for May 6 Launch
 - <a href="https://spacenews.com/starliner-crewed-test-flight-passes-key-review/" >🔗</a> **[SpaceNews]** Starliner crewed test flight passes key review
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-arrives-at-tiangong-3-space-station/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Arrives at Tiangong-3 Space Station
-- <a href="https://spacenews.com/space-startup-true-anomaly-cuts-workforce/" >🔗</a> **[SpaceNews]** Space startup True Anomaly cuts workforce
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T170210">2024-04-26 17:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240426T173107">2024-04-26 17:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
