@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-28-may-4-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 28-May 4, 2024
 - <a href="https://spacenews.com/spacex-making-progress-on-starship-in-space-refueling-technologies/" >🔗</a> **[SpaceNews]** SpaceX making progress on Starship in-space refueling technologies
 - <a href="https://www.nasaspaceflight.com/2024/04/ariane-6-maiden-launch-campaign/" >🔗</a> **[NASASpaceflight]** A new era: Ariane 6 maiden launch campaign gets underway
 - <a href="https://spacenews.com/advisory-committee-recommends-moving-faa-commercial-space-office-out-of-the-agency/" >🔗</a> **[SpaceNews]** Advisory committee recommends moving FAA commercial space office out of the agency
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-opens-bidding-for-classified-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force opens bidding for classified communications satellites
 - <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
 - <a href="https://spacenews.com/commercial-space-station-module-developer-gravitics-wins-space-force-contract/" >🔗</a> **[SpaceNews]** Commercial space station module developer Gravitics wins Space Force contract
-- <a href="https://arstechnica.com/space/2024/04/rocket-report-sls-workforce-cuts-new-glenn-launch-to-launch-in-the-early-fall/" >🔗</a> **[Arstechnica]** Rocket Report: SLS workforce cuts; New Glenn launch to launch in the early fall
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T143114">2024-04-28 14:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T150117">2024-04-28 15:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
