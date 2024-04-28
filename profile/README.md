@@ -88,6 +88,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-making-progress-on-starship-in-space-refueling-technologies/" >🔗</a> **[SpaceNews]** SpaceX making progress on Starship in-space refueling technologies
 - <a href="https://www.nasaspaceflight.com/2024/04/ariane-6-maiden-launch-campaign/" >🔗</a> **[NASASpaceflight]** A new era: Ariane 6 maiden launch campaign gets underway
 - <a href="https://spacenews.com/advisory-committee-recommends-moving-faa-commercial-space-office-out-of-the-agency/" >🔗</a> **[SpaceNews]** Advisory committee recommends moving FAA commercial space office out of the agency
 - <a href="https://www.teslarati.com/relativity-space-shares-updated-view-of-future-terran-r-launch-site/" >🔗</a> **[Teslarati]** Relativity Space shares updated view of future Terran R launch site
@@ -97,7 +98,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
 - <a href="https://spacenews.com/commercial-space-station-module-developer-gravitics-wins-space-force-contract/" >🔗</a> **[SpaceNews]** Commercial space station module developer Gravitics wins Space Force contract
 - <a href="https://arstechnica.com/space/2024/04/rocket-report-sls-workforce-cuts-new-glenn-launch-to-launch-in-the-early-fall/" >🔗</a> **[Arstechnica]** Rocket Report: SLS workforce cuts; New Glenn launch to launch in the early fall
-- <a href="https://spacepolicyonline.com/news/starliner-cft-cleared-for-may-6-launch/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Cleared for May 6 Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240427T233115">2024-04-27 23:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T000433">2024-04-28 00:04:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
