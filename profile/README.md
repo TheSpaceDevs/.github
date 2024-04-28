@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/04/nasa-hls-update/" >🔗</a> **[NASASpaceflight]** NASA Updates on Starship Refueling, as SpaceX Prepares Flight 4 of Starship
 - <a href="https://spacenews.com/falcon-9-launches-galileo-navigation-satellites/" >🔗</a> **[SpaceNews]** Falcon 9 launches Galileo navigation satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-28-may-4-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 28-May 4, 2024
 - <a href="https://spacenews.com/spacex-making-progress-on-starship-in-space-refueling-technologies/" >🔗</a> **[SpaceNews]** SpaceX making progress on Starship in-space refueling technologies
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/04/esas-2022-astronaut-class-graduates/" >🔗</a> **[Space Scout]** ESA’s 2022 Astronaut Class Graduates
 - <a href="https://spacenews.com/space-weather-requires-our-attention-now-more-than-ever/" >🔗</a> **[SpaceNews]** Space weather requires our attention now more than ever
 - <a href="https://spacenews.com/space-force-opens-bidding-for-classified-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force opens bidding for classified communications satellites
-- <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T203104">2024-04-28 20:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T210122">2024-04-28 21:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
