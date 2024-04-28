@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launches-galileo-navigation-satellites/" >🔗</a> **[SpaceNews]** Falcon 9 launches Galileo navigation satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-28-may-4-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 28-May 4, 2024
 - <a href="https://spacenews.com/spacex-making-progress-on-starship-in-space-refueling-technologies/" >🔗</a> **[SpaceNews]** SpaceX making progress on Starship in-space refueling technologies
 - <a href="https://www.nasaspaceflight.com/2024/04/ariane-6-maiden-launch-campaign/" >🔗</a> **[NASASpaceflight]** A new era: Ariane 6 maiden launch campaign gets underway
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-weather-requires-our-attention-now-more-than-ever/" >🔗</a> **[SpaceNews]** Space weather requires our attention now more than ever
 - <a href="https://spacenews.com/space-force-opens-bidding-for-classified-communications-satellites/" >🔗</a> **[SpaceNews]** Space Force opens bidding for classified communications satellites
 - <a href="https://spacenews.com/agile-space-lands-propulsion-contract-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Agile Space lands propulsion contract for U.S. Space Force mission
-- <a href="https://spacenews.com/commercial-space-station-module-developer-gravitics-wins-space-force-contract/" >🔗</a> **[SpaceNews]** Commercial space station module developer Gravitics wins Space Force contract
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T153104">2024-04-28 15:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240428T160129">2024-04-28 16:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
