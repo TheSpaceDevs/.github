@@ -88,6 +88,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kuva-space-wins-esa-hyperspectral-contract/" >🔗</a> **[SpaceNews]** Kuva Space wins ESA hyperspectral contract
 - <a href="https://spacenews.com/nasa-seeks-input-on-space-technology-shortfalls/" >🔗</a> **[SpaceNews]** NASA seeks input on space technology shortfalls
 - <a href="https://spacenews.com/china-ready-to-launch-lunar-far-side-sample-return-mission/" >🔗</a> **[SpaceNews]** China ready to launch lunar far side sample return mission
 - <a href="https://www.nasaspaceflight.com/2024/04/nasa-hls-update/" >🔗</a> **[NASASpaceflight]** NASA Updates on Starship Refueling, as SpaceX Prepares Flight 4 of Starship
@@ -97,7 +98,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2024/04/ariane-6-maiden-launch-campaign/" >🔗</a> **[NASASpaceflight]** A new era: Ariane 6 maiden launch campaign gets underway
 - <a href="https://spacenews.com/advisory-committee-recommends-moving-faa-commercial-space-office-out-of-the-agency/" >🔗</a> **[SpaceNews]** Advisory committee recommends moving FAA commercial space office out of the agency
 - <a href="https://www.teslarati.com/relativity-space-shares-updated-view-of-future-terran-r-launch-site/" >🔗</a> **[Teslarati]** Relativity Space shares updated view of future Terran R launch site
-- <a href="https://www.spacescout.info/2024/04/esas-2022-astronaut-class-graduates/" >🔗</a> **[Space Scout]** ESA’s 2022 Astronaut Class Graduates
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240429T180120">2024-04-29 18:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240429T183158">2024-04-29 18:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
