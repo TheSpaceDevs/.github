@@ -87,6 +87,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-seeks-input-on-space-technology-shortfalls/" >🔗</a> **[SpaceNews]** NASA seeks input on space technology shortfalls
 - <a href="https://spacenews.com/china-ready-to-launch-lunar-far-side-sample-return-mission/" >🔗</a> **[SpaceNews]** China ready to launch lunar far side sample return mission
 - <a href="https://www.nasaspaceflight.com/2024/04/nasa-hls-update/" >🔗</a> **[NASASpaceflight]** NASA Updates on Starship Refueling, as SpaceX Prepares Flight 4 of Starship
 - <a href="https://spacenews.com/falcon-9-launches-galileo-navigation-satellites/" >🔗</a> **[SpaceNews]** Falcon 9 launches Galileo navigation satellites
@@ -96,7 +97,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/advisory-committee-recommends-moving-faa-commercial-space-office-out-of-the-agency/" >🔗</a> **[SpaceNews]** Advisory committee recommends moving FAA commercial space office out of the agency
 - <a href="https://www.teslarati.com/relativity-space-shares-updated-view-of-future-terran-r-launch-site/" >🔗</a> **[Teslarati]** Relativity Space shares updated view of future Terran R launch site
 - <a href="https://www.spacescout.info/2024/04/esas-2022-astronaut-class-graduates/" >🔗</a> **[Space Scout]** ESA’s 2022 Astronaut Class Graduates
-- <a href="https://spacenews.com/space-weather-requires-our-attention-now-more-than-ever/" >🔗</a> **[SpaceNews]** Space weather requires our attention now more than ever
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240429T113105">2024-04-29 11:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240429T120136">2024-04-29 12:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
