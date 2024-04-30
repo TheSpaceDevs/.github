@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-to-acquire-intelsat-for-3-1-billion/" >🔗</a> **[SpaceNews]** SES to acquire Intelsat for $3.1 billion
 - <a href="https://spacepolicyonline.com/news/faa-learning-period-to-get-another-extension/" >🔗</a> **[SpacePolicyOnline.com]** FAA Learning Period to Get Another Extension
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
 - <a href="https://spacenews.com/kuva-space-wins-esa-hyperspectral-contract/" >🔗</a> **[SpaceNews]** Kuva Space wins ESA hyperspectral contract
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/falcon-9-launches-galileo-navigation-satellites/" >🔗</a> **[SpaceNews]** Falcon 9 launches Galileo navigation satellites
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-28-may-4-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 28-May 4, 2024
 - <a href="https://spacenews.com/spacex-making-progress-on-starship-in-space-refueling-technologies/" >🔗</a> **[SpaceNews]** SpaceX making progress on Starship in-space refueling technologies
-- <a href="https://www.nasaspaceflight.com/2024/04/ariane-6-maiden-launch-campaign/" >🔗</a> **[NASASpaceflight]** A new era: Ariane 6 maiden launch campaign gets underway
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T073111">2024-04-30 07:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T080124">2024-04-30 08:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
