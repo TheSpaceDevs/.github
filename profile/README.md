@@ -95,12 +95,12 @@ into *a Suborbital
 - <a href="https://spacenews.com/millennium-space-lands-414-million-contract-to-build-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Millennium Space lands $414 million contract to build missile-tracking satellites
 - <a href="https://www.teslarati.com/spacex-launches-two-european-navigation-satellites/" >🔗</a> **[Teslarati]** SpaceX launches two European navigation satellites
 - <a href="https://spacenews.com/boeing-built-o3b-mpower-satellites-begin-service/" >🔗</a> **[SpaceNews]** Boeing-built O3b mPOWER satellites begin service
+- <a href="https://www.spacescout.info/2024/04/op-ed-starships-road-to-commercial-launch-an-unclear-path/" >🔗</a> **[Space Scout]** Op-Ed: Starship’s Road to Commercial Launch – an Unclear Path
 - <a href="https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/" >🔗</a> **[Arstechnica]** New space company seeks to solve orbital mobility with high delta-v spacecraft
 - <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
 - <a href="https://spacenews.com/orbital-congestion-reaching-critical-levels-warns-new-report/" >🔗</a> **[SpaceNews]** Orbital congestion reaching critical levels, warns new report
 - <a href="https://spacenews.com/chinas-shenzhou-17-crew-return-to-earth/" >🔗</a> **[SpaceNews]** China’s Shenzhou-17 crew return to Earth
 - <a href="https://spacenews.com/airbus-outlines-plans-for-future-high-resolution-imaging-satellites/" >🔗</a> **[SpaceNews]** Airbus outlines plans for future high-resolution imaging satellites
-- <a href="https://spacenews.com/china-selects-new-space-missions-including-lunar-far-side-astronomy-and-terrestrial-exoplanet-survey/" >🔗</a> **[SpaceNews]** China selects new space missions including lunar far side astronomy and terrestrial exoplanet survey
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T203107">2024-04-30 20:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T210121">2024-04-30 21:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
