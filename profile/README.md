@@ -53,6 +53,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240504T025900">2024-05-04 02:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-2&location=Vandenberg SFB, CA, USA&dates=20240504T025900Z%2F20240504T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T000000">2024-05-06 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-56&location=Cape Canaveral, FL, USA&dates=20240506T000000Z%2F20240506T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-56** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T023400">2024-05-07 02:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240507T023400Z%2F20240507T023400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T000000">2024-05-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ready, Aim, PREFIRE (PREFIRE 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240522T000000Z%2F20240522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ready, Aim, PREFIRE (PREFIRE 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T000000">2024-05-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-27 (88P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240530T000000Z%2F20240530T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-27 (88P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
@@ -89,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/faa-learning-period-to-get-another-extension/" >🔗</a> **[SpacePolicyOnline.com]** FAA Learning Period to Get Another Extension
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
 - <a href="https://spacenews.com/kuva-space-wins-esa-hyperspectral-contract/" >🔗</a> **[SpaceNews]** Kuva Space wins ESA hyperspectral contract
 - <a href="https://spacenews.com/nasa-seeks-input-on-space-technology-shortfalls/" >🔗</a> **[SpaceNews]** NASA seeks input on space technology shortfalls
@@ -98,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-28-may-4-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 28-May 4, 2024
 - <a href="https://spacenews.com/spacex-making-progress-on-starship-in-space-refueling-technologies/" >🔗</a> **[SpaceNews]** SpaceX making progress on Starship in-space refueling technologies
 - <a href="https://www.nasaspaceflight.com/2024/04/ariane-6-maiden-launch-campaign/" >🔗</a> **[NASASpaceflight]** A new era: Ariane 6 maiden launch campaign gets underway
-- <a href="https://spacenews.com/advisory-committee-recommends-moving-faa-commercial-space-office-out-of-the-agency/" >🔗</a> **[SpaceNews]** Advisory committee recommends moving FAA commercial space office out of the agency
 
 
 ### Launch-related News 🚀
@@ -113,7 +114,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T004455">2024-04-30 00:44:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T012345">2024-04-30 01:23:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
