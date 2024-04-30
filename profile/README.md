@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
+- <a href="https://spacenews.com/orbital-congestion-reaching-critical-levels-warns-new-report/" >🔗</a> **[SpaceNews]** Orbital congestion reaching critical levels, warns new report
 - <a href="https://spacenews.com/chinas-shenzhou-17-crew-return-to-earth/" >🔗</a> **[SpaceNews]** China’s Shenzhou-17 crew return to Earth
 - <a href="https://spacenews.com/airbus-outlines-plans-for-future-high-resolution-imaging-satellites/" >🔗</a> **[SpaceNews]** Airbus outlines plans for future high-resolution imaging satellites
 - <a href="https://spacenews.com/china-selects-new-space-missions-including-lunar-far-side-astronomy-and-terrestrial-exoplanet-survey/" >🔗</a> **[SpaceNews]** China selects new space missions including lunar far side astronomy and terrestrial exoplanet survey
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
 - <a href="https://spacenews.com/kuva-space-wins-esa-hyperspectral-contract/" >🔗</a> **[SpaceNews]** Kuva Space wins ESA hyperspectral contract
 - <a href="https://spacenews.com/nasa-seeks-input-on-space-technology-shortfalls/" >🔗</a> **[SpaceNews]** NASA seeks input on space technology shortfalls
-- <a href="https://spacenews.com/china-ready-to-launch-lunar-far-side-sample-return-mission/" >🔗</a> **[SpaceNews]** China ready to launch lunar far side sample return mission
-- <a href="https://www.nasaspaceflight.com/2024/04/nasa-hls-update/" >🔗</a> **[NASASpaceflight]** NASA Updates on Starship Refueling, as SpaceX Prepares Flight 4 of Starship
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T130135">2024-04-30 13:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T133101">2024-04-30 13:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
