@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/" >🔗</a> **[Arstechnica]** New space company seeks to solve orbital mobility with high delta-v spacecraft
 - <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
 - <a href="https://spacenews.com/orbital-congestion-reaching-critical-levels-warns-new-report/" >🔗</a> **[SpaceNews]** Orbital congestion reaching critical levels, warns new report
 - <a href="https://spacenews.com/chinas-shenzhou-17-crew-return-to-earth/" >🔗</a> **[SpaceNews]** China’s Shenzhou-17 crew return to Earth
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/faa-learning-period-to-get-another-extension/" >🔗</a> **[SpacePolicyOnline.com]** FAA Learning Period to Get Another Extension
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
 - <a href="https://spacenews.com/kuva-space-wins-esa-hyperspectral-contract/" >🔗</a> **[SpaceNews]** Kuva Space wins ESA hyperspectral contract
-- <a href="https://spacenews.com/nasa-seeks-input-on-space-technology-shortfalls/" >🔗</a> **[SpaceNews]** NASA seeks input on space technology shortfalls
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T133101">2024-04-30 13:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T140212">2024-04-30 14:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
