@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/04/iss-roundup-04302024/" >🔗</a> **[NASASpaceflight]** ISS Roundup: an eclipse, an EVA, and more than just science returns to Earth
+- <a href="https://spacenews.com/millennium-space-lands-414-million-contract-to-build-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Millennium Space lands $414 million contract to build missile-tracking satellites
+- <a href="https://www.teslarati.com/spacex-launches-two-european-navigation-satellites/" >🔗</a> **[Teslarati]** SpaceX launches two European navigation satellites
 - <a href="https://spacenews.com/boeing-built-o3b-mpower-satellites-begin-service/" >🔗</a> **[SpaceNews]** Boeing-built O3b mPOWER satellites begin service
 - <a href="https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/" >🔗</a> **[Arstechnica]** New space company seeks to solve orbital mobility with high delta-v spacecraft
 - <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/chinas-shenzhou-17-crew-return-to-earth/" >🔗</a> **[SpaceNews]** China’s Shenzhou-17 crew return to Earth
 - <a href="https://spacenews.com/airbus-outlines-plans-for-future-high-resolution-imaging-satellites/" >🔗</a> **[SpaceNews]** Airbus outlines plans for future high-resolution imaging satellites
 - <a href="https://spacenews.com/china-selects-new-space-missions-including-lunar-far-side-astronomy-and-terrestrial-exoplanet-survey/" >🔗</a> **[SpaceNews]** China selects new space missions including lunar far side astronomy and terrestrial exoplanet survey
-- <a href="https://spacenews.com/ses-to-acquire-intelsat-for-3-1-billion/" >🔗</a> **[SpaceNews]** SES to acquire Intelsat for $3.1 billion
-- <a href="https://spacepolicyonline.com/news/faa-learning-period-to-get-another-extension/" >🔗</a> **[SpacePolicyOnline.com]** FAA Learning Period to Get Another Extension
-- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T180127">2024-04-30 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T183257">2024-04-30 18:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
