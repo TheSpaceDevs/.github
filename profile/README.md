@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-built-o3b-mpower-satellites-begin-service/" >🔗</a> **[SpaceNews]** Boeing-built O3b mPOWER satellites begin service
 - <a href="https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/" >🔗</a> **[Arstechnica]** New space company seeks to solve orbital mobility with high delta-v spacecraft
 - <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
 - <a href="https://spacenews.com/orbital-congestion-reaching-critical-levels-warns-new-report/" >🔗</a> **[SpaceNews]** Orbital congestion reaching critical levels, warns new report
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/ses-to-acquire-intelsat-for-3-1-billion/" >🔗</a> **[SpaceNews]** SES to acquire Intelsat for $3.1 billion
 - <a href="https://spacepolicyonline.com/news/faa-learning-period-to-get-another-extension/" >🔗</a> **[SpacePolicyOnline.com]** FAA Learning Period to Get Another Extension
 - <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
-- <a href="https://spacenews.com/kuva-space-wins-esa-hyperspectral-contract/" >🔗</a> **[SpaceNews]** Kuva Space wins ESA hyperspectral contract
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T173108">2024-04-30 17:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240430T180127">2024-04-30 18:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
