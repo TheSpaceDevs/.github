@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bae-systems-wins-365-million-contract-to-build-geostationary-weather-instrument/" >🔗</a> **[SpaceNews]** BAE Systems wins $365 million contract to build geostationary weather instrument
+- <a href="https://spacenews.com/nros-first-batch-of-next-generation-spy-satellites-set-for-launch/" >🔗</a> **[SpaceNews]** NRO’s first batch of next-generation spy satellites set for launch
 - <a href="https://spacenews.com/religious-test-space-exploration/" >🔗</a> **[SpaceNews]** A religious test for space exploration?
 - <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
 - <a href="https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/" >🔗</a> **[Arstechnica]** Europe’s ambitious satellite Internet project appears to be running into trouble
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/astroscale-to-go-public-on-tokyo-exchange/" >🔗</a> **[SpaceNews]** Astroscale to go public on Tokyo exchange
 - <a href="https://spacenews.com/spacenews-appoints-paige-mccullough-as-president-leading-global-expansion-efforts/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Paige McCullough as President, Leading Global Expansion Efforts
 - <a href="https://spacepolicyonline.com/news/nelson-pleads-with-congress-to-fund-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Pleads With Congress to Fund ISS Deorbit Vehicle
-- <a href="https://spacepolicyonline.com/news/shenzhou-17-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-17 Crew Back on Earth
-- <a href="https://spacenews.com/saltzman-space-force-still-grappling-with-refueling-math/" >🔗</a> **[SpaceNews]** Saltzman: Space Force still grappling with refueling math
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T213108">2024-05-01 21:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T220141">2024-05-01 22:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
