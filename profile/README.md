@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nelson-pleads-with-congress-to-fund-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Pleads With Congress to Fund ISS Deorbit Vehicle
 - <a href="https://spacepolicyonline.com/news/shenzhou-17-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-17 Crew Back on Earth
 - <a href="https://spacenews.com/saltzman-space-force-still-grappling-with-refueling-math/" >🔗</a> **[SpaceNews]** Saltzman: Space Force still grappling with refueling math
 - <a href="https://www.nasaspaceflight.com/2024/04/iss-roundup-04302024/" >🔗</a> **[NASASpaceflight]** ISS Roundup: an eclipse, an EVA, and more than just science returns to Earth
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.spacescout.info/2024/04/op-ed-starships-road-to-commercial-launch-an-unclear-path/" >🔗</a> **[Space Scout]** Op-Ed: Starship’s Road to Commercial Launch – an Unclear Path
 - <a href="https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/" >🔗</a> **[Arstechnica]** New space company seeks to solve orbital mobility with high delta-v spacecraft
 - <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
-- <a href="https://spacenews.com/orbital-congestion-reaching-critical-levels-warns-new-report/" >🔗</a> **[SpaceNews]** Orbital congestion reaching critical levels, warns new report
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T040123">2024-05-01 04:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T043130">2024-05-01 04:31:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
