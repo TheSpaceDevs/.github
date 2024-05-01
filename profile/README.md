@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/" >🔗</a> **[Arstechnica]** Daily Telescope: The Horsehead Nebula as we’ve never seen it before
 - <a href="https://spacenews.com/astroscale-to-go-public-on-tokyo-exchange/" >🔗</a> **[SpaceNews]** Astroscale to go public on Tokyo exchange
 - <a href="https://spacenews.com/spacenews-appoints-paige-mccullough-as-president-leading-global-expansion-efforts/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Paige McCullough as President, Leading Global Expansion Efforts
 - <a href="https://spacepolicyonline.com/news/nelson-pleads-with-congress-to-fund-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Pleads With Congress to Fund ISS Deorbit Vehicle
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/millennium-space-lands-414-million-contract-to-build-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Millennium Space lands $414 million contract to build missile-tracking satellites
 - <a href="https://www.teslarati.com/spacex-launches-two-european-navigation-satellites/" >🔗</a> **[Teslarati]** SpaceX launches two European navigation satellites
 - <a href="https://spacenews.com/boeing-built-o3b-mpower-satellites-begin-service/" >🔗</a> **[SpaceNews]** Boeing-built O3b mPOWER satellites begin service
-- <a href="https://www.spacescout.info/2024/04/op-ed-starships-road-to-commercial-launch-an-unclear-path/" >🔗</a> **[Space Scout]** Op-Ed: Starship’s Road to Commercial Launch – an Unclear Path
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T120126">2024-05-01 12:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T123840">2024-05-01 12:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
