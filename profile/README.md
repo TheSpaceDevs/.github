@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/" >🔗</a> **[Arstechnica]** Europe’s ambitious satellite Internet project appears to be running into trouble
+- <a href="https://spacenews.com/nurturing-uk-expertise-strategic-imperative-emerging-space-era/" >🔗</a> **[SpaceNews]** Nurturing U.K. expertise: a strategic imperative in the emerging space era
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/" >🔗</a> **[Arstechnica]** Daily Telescope: The Horsehead Nebula as we’ve never seen it before
 - <a href="https://spacenews.com/astroscale-to-go-public-on-tokyo-exchange/" >🔗</a> **[SpaceNews]** Astroscale to go public on Tokyo exchange
 - <a href="https://spacenews.com/spacenews-appoints-paige-mccullough-as-president-leading-global-expansion-efforts/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Paige McCullough as President, Leading Global Expansion Efforts
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/saltzman-space-force-still-grappling-with-refueling-math/" >🔗</a> **[SpaceNews]** Saltzman: Space Force still grappling with refueling math
 - <a href="https://www.nasaspaceflight.com/2024/04/iss-roundup-04302024/" >🔗</a> **[NASASpaceflight]** ISS Roundup: an eclipse, an EVA, and more than just science returns to Earth
 - <a href="https://spacenews.com/millennium-space-lands-414-million-contract-to-build-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Millennium Space lands $414 million contract to build missile-tracking satellites
-- <a href="https://www.teslarati.com/spacex-launches-two-european-navigation-satellites/" >🔗</a> **[Teslarati]** SpaceX launches two European navigation satellites
-- <a href="https://spacenews.com/boeing-built-o3b-mpower-satellites-begin-service/" >🔗</a> **[SpaceNews]** Boeing-built O3b mPOWER satellites begin service
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T143128">2024-05-01 14:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T150110">2024-05-01 15:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
