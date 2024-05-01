@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-appoints-paige-mccullough-as-president-leading-global-expansion-efforts/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Paige McCullough as President, Leading Global Expansion Efforts
 - <a href="https://spacepolicyonline.com/news/nelson-pleads-with-congress-to-fund-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** Nelson Pleads With Congress to Fund ISS Deorbit Vehicle
 - <a href="https://spacepolicyonline.com/news/shenzhou-17-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-17 Crew Back on Earth
 - <a href="https://spacenews.com/saltzman-space-force-still-grappling-with-refueling-math/" >🔗</a> **[SpaceNews]** Saltzman: Space Force still grappling with refueling math
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/boeing-built-o3b-mpower-satellites-begin-service/" >🔗</a> **[SpaceNews]** Boeing-built O3b mPOWER satellites begin service
 - <a href="https://www.spacescout.info/2024/04/op-ed-starships-road-to-commercial-launch-an-unclear-path/" >🔗</a> **[Space Scout]** Op-Ed: Starship’s Road to Commercial Launch – an Unclear Path
 - <a href="https://arstechnica.com/space/2024/04/new-space-company-seeks-to-solve-orbital-mobility-with-high-delta-v-spacecraft/" >🔗</a> **[Arstechnica]** New space company seeks to solve orbital mobility with high delta-v spacecraft
-- <a href="https://spacenews.com/portal-space-systems-unveils-plans-for-highly-maneuverable-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems unveils plans for highly maneuverable spacecraft
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T050111">2024-05-01 05:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T053115">2024-05-01 05:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
