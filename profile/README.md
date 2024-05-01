@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
 - <a href="https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/" >🔗</a> **[Arstechnica]** Europe’s ambitious satellite Internet project appears to be running into trouble
 - <a href="https://spacenews.com/nurturing-uk-expertise-strategic-imperative-emerging-space-era/" >🔗</a> **[SpaceNews]** Nurturing U.K. expertise: a strategic imperative in the emerging space era
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/" >🔗</a> **[Arstechnica]** Daily Telescope: The Horsehead Nebula as we’ve never seen it before
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/shenzhou-17-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-17 Crew Back on Earth
 - <a href="https://spacenews.com/saltzman-space-force-still-grappling-with-refueling-math/" >🔗</a> **[SpaceNews]** Saltzman: Space Force still grappling with refueling math
 - <a href="https://www.nasaspaceflight.com/2024/04/iss-roundup-04302024/" >🔗</a> **[NASASpaceflight]** ISS Roundup: an eclipse, an EVA, and more than just science returns to Earth
-- <a href="https://spacenews.com/millennium-space-lands-414-million-contract-to-build-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Millennium Space lands $414 million contract to build missile-tracking satellites
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T170124">2024-05-01 17:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240501T173106">2024-05-01 17:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
