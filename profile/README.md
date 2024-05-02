@@ -47,8 +47,8 @@ into *a Sun-Synchronous Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T183600">2024-05-02 18:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 1 &amp; 2&location=Vandenberg SFB, CA, USA&dates=20240502T183600Z%2F20240502T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 1 & 2** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T213000">2024-05-02 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SR75 | Maiden Flight&location=Koonibba Test Range, South Australia&dates=20240502T213000Z%2F20240502T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SR75 | Maiden Flight** from Koonibba Test Range, South Australia.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T014900">2024-05-03 01:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-55&location=Cape Canaveral, FL, USA&dates=20240503T014900Z%2F20240503T051700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-55** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T050000">2024-05-03 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SR75 | Maiden Flight&location=Koonibba Test Range, South Australia&dates=20240503T050000Z%2F20240503T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SR75 | Maiden Flight** from Koonibba Test Range, South Australia.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T091700">2024-05-03 09:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Chang&#x27;e 6&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20240503T091700Z%2F20240503T101800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Chang'e 6** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240504T025900">2024-05-04 02:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-2&location=Vandenberg SFB, CA, USA&dates=20240504T025900Z%2F20240504T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T153400">2024-05-06 15:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-56&location=Cape Canaveral, FL, USA&dates=20240506T153400Z%2F20240506T193400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-56** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/05/boeing-and-nasa-prepare-for-crewed-flight-test/" >🔗</a> **[Space Scout]** Boeing and NASA Prepare for Crewed Flight Test
 - <a href="https://spacenews.com/l3harris-scores-payload-contract-for-millenniums-foo-fighter-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** L3Harris scores payload contract for Millennium’s Foo Fighter missile tracking satellites
 - <a href="https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/" >🔗</a> **[Arstechnica]** NASA says Artemis II report by its inspector general is unhelpful and redundant
 - <a href="https://spacenews.com/nasa-inspector-general-report-highlights-issues-with-orion-heat-shield/" >🔗</a> **[SpaceNews]** NASA inspector general report highlights issues with Orion heat shield
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nros-first-batch-of-next-generation-spy-satellites-set-for-launch/" >🔗</a> **[SpaceNews]** NRO’s first batch of next-generation spy satellites set for launch
 - <a href="https://spacenews.com/religious-test-space-exploration/" >🔗</a> **[SpaceNews]** A religious test for space exploration?
 - <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
-- <a href="https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/" >🔗</a> **[Arstechnica]** Europe’s ambitious satellite Internet project appears to be running into trouble
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T170114">2024-05-02 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T173122">2024-05-02 17:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
