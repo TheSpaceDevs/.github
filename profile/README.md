@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/" >🔗</a> **[Arstechnica]** NASA says Artemis II report by its inspector general is unhelpful and redundant
 - <a href="https://spacenews.com/nasa-inspector-general-report-highlights-issues-with-orion-heat-shield/" >🔗</a> **[SpaceNews]** NASA inspector general report highlights issues with Orion heat shield
 - <a href="https://spacenews.com/nelson-lobbies-congress-to-fund-iss-deorbit-vehicle-in-supplemental-spending-bill/" >🔗</a> **[SpaceNews]** Nelson lobbies Congress to fund ISS deorbit vehicle in supplemental spending bill
 - <a href="https://spacenews.com/lawmaker-presses-pentagon-official-on-russias-potential-space-nuke/" >🔗</a> **[SpaceNews]** Lawmaker presses Pentagon official on Russia’s potential space nuke
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
 - <a href="https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/" >🔗</a> **[Arstechnica]** Europe’s ambitious satellite Internet project appears to be running into trouble
 - <a href="https://spacenews.com/nurturing-uk-expertise-strategic-imperative-emerging-space-era/" >🔗</a> **[SpaceNews]** Nurturing U.K. expertise: a strategic imperative in the emerging space era
-- <a href="https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/" >🔗</a> **[Arstechnica]** Daily Telescope: The Horsehead Nebula as we’ve never seen it before
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T140109">2024-05-02 14:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T143137">2024-05-02 14:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
