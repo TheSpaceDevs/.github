@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-inspector-general-report-highlights-issues-with-orion-heat-shield/" >🔗</a> **[SpaceNews]** NASA inspector general report highlights issues with Orion heat shield
 - <a href="https://spacenews.com/nelson-lobbies-congress-to-fund-iss-deorbit-vehicle-in-supplemental-spending-bill/" >🔗</a> **[SpaceNews]** Nelson lobbies Congress to fund ISS deorbit vehicle in supplemental spending bill
 - <a href="https://spacenews.com/lawmaker-presses-pentagon-official-on-russias-potential-space-nuke/" >🔗</a> **[SpaceNews]** Lawmaker presses Pentagon official on Russia’s potential space nuke
 - <a href="https://spacenews.com/bae-systems-wins-365-million-contract-to-build-geostationary-weather-instrument/" >🔗</a> **[SpaceNews]** BAE Systems wins $365 million contract to build geostationary weather instrument
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2024/05/europes-ambitious-satellite-internet-project-appears-to-be-running-into-trouble/" >🔗</a> **[Arstechnica]** Europe’s ambitious satellite Internet project appears to be running into trouble
 - <a href="https://spacenews.com/nurturing-uk-expertise-strategic-imperative-emerging-space-era/" >🔗</a> **[SpaceNews]** Nurturing U.K. expertise: a strategic imperative in the emerging space era
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-seeing-a-mane-attraction-up-close/" >🔗</a> **[Arstechnica]** Daily Telescope: The Horsehead Nebula as we’ve never seen it before
-- <a href="https://spacenews.com/astroscale-to-go-public-on-tokyo-exchange/" >🔗</a> **[SpaceNews]** Astroscale to go public on Tokyo exchange
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T110131">2024-05-02 11:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T113102">2024-05-02 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
