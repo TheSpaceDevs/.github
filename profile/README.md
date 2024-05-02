@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar – Space Loves AI: How AI promises to transform space operations
 - <a href="https://www.spacescout.info/2024/05/boeing-and-nasa-prepare-for-crewed-flight-test/" >🔗</a> **[Space Scout]** Boeing and NASA Prepare for Crewed Flight Test
 - <a href="https://spacenews.com/l3harris-scores-payload-contract-for-millenniums-foo-fighter-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** L3Harris scores payload contract for Millennium’s Foo Fighter missile tracking satellites
 - <a href="https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/" >🔗</a> **[Arstechnica]** NASA says Artemis II report by its inspector general is unhelpful and redundant
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/bae-systems-wins-365-million-contract-to-build-geostationary-weather-instrument/" >🔗</a> **[SpaceNews]** BAE Systems wins $365 million contract to build geostationary weather instrument
 - <a href="https://spacenews.com/nros-first-batch-of-next-generation-spy-satellites-set-for-launch/" >🔗</a> **[SpaceNews]** NRO’s first batch of next-generation spy satellites set for launch
 - <a href="https://spacenews.com/religious-test-space-exploration/" >🔗</a> **[SpaceNews]** A religious test for space exploration?
-- <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T180115">2024-05-02 18:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T183206">2024-05-02 18:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
