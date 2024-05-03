@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/change-6/" >🔗</a> **[NASASpaceflight]** China to launch mission to the far side of the Moon with sample return
+- <a href="https://spacenews.com/lockheed-drops-bid-to-acquire-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed drops bid to acquire Terran Orbital
 - <a href="https://spacenews.com/space-force-flexes-muscle-as-pentagons-smallest-but-vital-branch/" >🔗</a> **[SpaceNews]** Space Force flexes muscle as Pentagon’s smallest but vital branch
 - <a href="https://www.teslarati.com/spacex-launches-two-next-generation-earth-observation-satellites/" >🔗</a> **[Teslarati]** SpaceX launches two next-generation Earth observation satellites
 - <a href="https://spacenews.com/spacex-launches-maxars-first-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches Maxar’s first WorldView Legion imaging satellites
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/l3harris-scores-payload-contract-for-millenniums-foo-fighter-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** L3Harris scores payload contract for Millennium’s Foo Fighter missile tracking satellites
 - <a href="https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/" >🔗</a> **[Arstechnica]** NASA says Artemis II report by its inspector general is unhelpful and redundant
 - <a href="https://spacenews.com/nasa-inspector-general-report-highlights-issues-with-orion-heat-shield/" >🔗</a> **[SpaceNews]** NASA inspector general report highlights issues with Orion heat shield
-- <a href="https://spacenews.com/nelson-lobbies-congress-to-fund-iss-deorbit-vehicle-in-supplemental-spending-bill/" >🔗</a> **[SpaceNews]** Nelson lobbies Congress to fund ISS deorbit vehicle in supplemental spending bill
-- <a href="https://spacenews.com/lawmaker-presses-pentagon-official-on-russias-potential-space-nuke/" >🔗</a> **[SpaceNews]** Lawmaker presses Pentagon official on Russia’s potential space nuke
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240502T233059">2024-05-02 23:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T000354">2024-05-03 00:03:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
