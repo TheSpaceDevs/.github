@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/05/chinas-launches-next-sample-return/" >🔗</a> **[Space Scout]** China’s Targets Far Side for Sample Return
 - <a href="https://spacenews.com/failure-is-not-an-option-learning-apollo-13/" >🔗</a> **[SpaceNews]** Failure is not an option: learning from Apollo 13
 - <a href="https://spacenews.com/nasa-awards-studies-for-commercial-mars-missions/" >🔗</a> **[SpaceNews]** NASA awards studies for commercial Mars missions
 - <a href="https://spacenews.com/china-launches-change-6-mission-to-collect-first-samples-from-the-moons-far-side/" >🔗</a> **[SpaceNews]** China launches Chang’e-6 mission to collect first samples from the moon’s far side
@@ -100,16 +101,16 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-launches-two-next-generation-earth-observation-satellites/" >🔗</a> **[Teslarati]** SpaceX launches two next-generation Earth observation satellites
 - <a href="https://spacenews.com/spacex-launches-maxars-first-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches Maxar’s first WorldView Legion imaging satellites
 - <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar – Space Loves AI: How AI promises to transform space operations
-- <a href="https://www.spacescout.info/2024/05/boeing-and-nasa-prepare-for-crewed-flight-test/" >🔗</a> **[Space Scout]** Boeing and NASA Prepare for Crewed Flight Test
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/04/launch-roundup-042924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China returns to the moon, SpaceX keeps up high launch cadence
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T170116">2024-05-03 17:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T173059">2024-05-03 17:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
