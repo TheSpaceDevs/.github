@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-awards-studies-for-commercial-mars-missions/" >🔗</a> **[SpaceNews]** NASA awards studies for commercial Mars missions
 - <a href="https://spacenews.com/china-launches-change-6-mission-to-collect-first-samples-from-the-moons-far-side/" >🔗</a> **[SpaceNews]** China launches Chang’e-6 mission to collect first samples from the moon’s far side
 - <a href="https://www.nasaspaceflight.com/2024/05/change-6/" >🔗</a> **[NASASpaceflight]** China to launch mission to the far side of the Moon with sample return
 - <a href="https://spacenews.com/lockheed-drops-bid-to-acquire-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed drops bid to acquire Terran Orbital
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar – Space Loves AI: How AI promises to transform space operations
 - <a href="https://www.spacescout.info/2024/05/boeing-and-nasa-prepare-for-crewed-flight-test/" >🔗</a> **[Space Scout]** Boeing and NASA Prepare for Crewed Flight Test
 - <a href="https://spacenews.com/l3harris-scores-payload-contract-for-millenniums-foo-fighter-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** L3Harris scores payload contract for Millennium’s Foo Fighter missile tracking satellites
-- <a href="https://arstechnica.com/space/2024/05/nasa-seems-unhappy-to-be-questioned-about-its-artemis-ii-readiness/" >🔗</a> **[Arstechnica]** NASA says Artemis II report by its inspector general is unhelpful and redundant
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T130119">2024-05-03 13:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240503T133101">2024-05-03 13:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
