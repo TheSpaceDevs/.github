@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
 - <a href="https://www.nasaspaceflight.com/2024/05/ryugu-micrometeoroid/" >🔗</a> **[NASASpaceflight]** Hayabusa2 samples reveal the effects of space weathering on asteroid Ryugu
 - <a href="https://arstechnica.com/space/2024/05/china-just-launched-another-ambitious-lunar-mission-is-nasa-falling-behind/" >🔗</a> **[Arstechnica]** NASA hasn’t landed on the Moon in decades—China just sent its third in six years
 - <a href="https://www.spacescout.info/2024/05/chinas-launches-next-sample-return/" >🔗</a> **[Space Scout]** China’s Targets Far Side for Sample Return
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-change-6-mission-to-collect-first-samples-from-the-moons-far-side/" >🔗</a> **[SpaceNews]** China launches Chang’e-6 mission to collect first samples from the moon’s far side
 - <a href="https://www.nasaspaceflight.com/2024/05/change-6/" >🔗</a> **[NASASpaceflight]** China launches to the far side of the Moon with sample return
 - <a href="https://spacenews.com/lockheed-drops-bid-to-acquire-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed drops bid to acquire Terran Orbital
-- <a href="https://spacenews.com/space-force-flexes-muscle-as-pentagons-smallest-but-vital-branch/" >🔗</a> **[SpaceNews]** Space Force flexes muscle as Pentagon’s smallest but vital branch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240504T033056">2024-05-04 03:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240504T040123">2024-05-04 04:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
