@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/russia-may-skip-first-operational-starliner-mission/" >🔗</a> **[SpaceNews]** Russia may skip first operational Starliner mission
 - <a href="https://spacenews.com/spacex-reveals-eva-suit-design-as-polaris-dawn-mission-approaches/" >🔗</a> **[SpaceNews]** SpaceX reveals EVA suit design as Polaris Dawn mission approaches
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
 - <a href="https://www.nasaspaceflight.com/2024/05/ryugu-micrometeoroid/" >🔗</a> **[NASASpaceflight]** Hayabusa2 samples reveal the effects of space weathering on asteroid Ryugu
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/failure-is-not-an-option-learning-apollo-13/" >🔗</a> **[SpaceNews]** Failure is not an option: learning from Apollo 13
 - <a href="https://spacenews.com/nasa-awards-studies-for-commercial-mars-missions/" >🔗</a> **[SpaceNews]** NASA awards studies for commercial Mars missions
 - <a href="https://spacenews.com/china-launches-change-6-mission-to-collect-first-samples-from-the-moons-far-side/" >🔗</a> **[SpaceNews]** China launches Chang’e-6 mission to collect first samples from the moon’s far side
-- <a href="https://www.nasaspaceflight.com/2024/05/change-6/" >🔗</a> **[NASASpaceflight]** China launches to the far side of the Moon with sample return
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240505T130112">2024-05-05 13:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240505T133109">2024-05-05 13:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
