@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/ship-30-and-flight-4-preparations/" >🔗</a> **[NASASpaceflight]** Ship 30 set to Static Fire next week as Flight 4 Preparations Continue
 - <a href="https://spacenews.com/russia-may-skip-first-operational-starliner-mission/" >🔗</a> **[SpaceNews]** Russia may skip first operational Starliner mission
 - <a href="https://spacenews.com/spacex-reveals-eva-suit-design-as-polaris-dawn-mission-approaches/" >🔗</a> **[SpaceNews]** SpaceX reveals EVA suit design as Polaris Dawn mission approaches
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/air-force-project-blends-military-and-commercial-space-networks/" >🔗</a> **[SpaceNews]** Air Force project blends military and commercial space networks
 - <a href="https://spacenews.com/failure-is-not-an-option-learning-apollo-13/" >🔗</a> **[SpaceNews]** Failure is not an option: learning from Apollo 13
 - <a href="https://spacenews.com/nasa-awards-studies-for-commercial-mars-missions/" >🔗</a> **[SpaceNews]** NASA awards studies for commercial Mars missions
-- <a href="https://spacenews.com/china-launches-change-6-mission-to-collect-first-samples-from-the-moons-far-side/" >🔗</a> **[SpaceNews]** China launches Chang’e-6 mission to collect first samples from the moon’s far side
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240505T173119">2024-05-05 17:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240505T180127">2024-05-05 18:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
