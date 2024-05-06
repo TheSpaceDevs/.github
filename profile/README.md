@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iceye-to-allow-customers-to-directly-task-the-companys-imaging-satellites/" >🔗</a> **[SpaceNews]** Iceye to allow customers to directly task the company’s imaging satellites
 - <a href="https://spacenews.com/practical-approach-mars-sample-return-mission/" >🔗</a> **[SpaceNews]** A practical approach to the Mars Sample Return mission
 - <a href="https://spacenews.com/capella-space-using-ai-to-automate-ship-identification/" >🔗</a> **[SpaceNews]** Capella Space using AI to automate ship identification
 - <a href="https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Muon Space and Earth Fire Alliance to build constellation for wildfire detection and response
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-mission-to-be-first-crewed-atlas-5-flight/" >🔗</a> **[SpaceNews]** Starliner mission to be first crewed Atlas 5 flight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-5-11-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 5-11, 2024
 - <a href="https://www.nasaspaceflight.com/2024/05/ship-30-and-flight-4-preparations/" >🔗</a> **[NASASpaceflight]** Ship 30 set to Static Fire next week as Flight 4 Preparations Continue
-- <a href="https://spacenews.com/russia-may-skip-first-operational-starliner-mission/" >🔗</a> **[SpaceNews]** Russia may skip first operational Starliner mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T170215">2024-05-06 17:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T173105">2024-05-06 17:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
