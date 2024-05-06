@@ -92,6 +92,7 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nga-to-tap-commercial-satellites-to-patrol-maritime-hotspots/" >🔗</a> **[SpaceNews]** NGA to tap commercial satellites to patrol maritime hotspots
 - <a href="https://spacenews.com/search-engine-focused-on-earth-data-gets-new-investors/" >🔗</a> **[SpaceNews]** Search engine focused on Earth data gets new investors
 - <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
 - <a href="https://www.nasaspaceflight.com/2024/05/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set to launch first crew flight
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/capella-space-using-ai-to-automate-ship-identification/" >🔗</a> **[SpaceNews]** Capella Space using AI to automate ship identification
 - <a href="https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Muon Space and Earth Fire Alliance to build constellation for wildfire detection and response
 - <a href="https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/" >🔗</a> **[SpaceNews]** Maxar inks agreement with Lockheed Martin to supply imagery for F-35 training simulators
-- <a href="https://spacenews.com/chinas-change-6-is-carrying-a-surprise-rover-to-the-moon/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 is carrying a surprise rover to the moon
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T213115">2024-05-06 21:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T220122">2024-05-06 22:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
