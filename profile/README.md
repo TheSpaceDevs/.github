@@ -92,6 +92,8 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
+- <a href="https://www.nasaspaceflight.com/2024/05/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set to launch first crew flight
 - <a href="https://spacenews.com/people-are-going-to-try-to-steal-your-secrets-dixon-warns/" >🔗</a> **[SpaceNews]** ‘People are going to try to steal your secrets’ Dixon warns
 - <a href="https://spacenews.com/iceye-to-allow-customers-to-directly-task-the-companys-imaging-satellites/" >🔗</a> **[SpaceNews]** Iceye to allow customers to directly task the company’s imaging satellites
 - <a href="https://spacenews.com/practical-approach-mars-sample-return-mission/" >🔗</a> **[SpaceNews]** A practical approach to the Mars Sample Return mission
@@ -100,14 +102,13 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/" >🔗</a> **[SpaceNews]** Maxar inks agreement with Lockheed Martin to supply imagery for F-35 training simulators
 - <a href="https://spacenews.com/chinas-change-6-is-carrying-a-surprise-rover-to-the-moon/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 is carrying a surprise rover to the moon
 - <a href="https://arstechnica.com/space/2024/05/the-surprise-is-not-that-boeing-lost-commercial-crew-but-that-it-finished-at-all/" >🔗</a> **[Arstechnica]** The surprise is not that Boeing lost commercial crew but that it finished at all
-- <a href="https://spacenews.com/starliner-mission-to-be-first-crewed-atlas-5-flight/" >🔗</a> **[SpaceNews]** Starliner mission to be first crewed Atlas 5 flight
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-5-11-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 5-11, 2024
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
 - <a href="https://www.spacescout.info/2024/05/boeing-and-nasa-prepare-for-crewed-flight-test/" >🔗</a> **[Space Scout]** Boeing and NASA Prepare for Crewed Flight Test
+- <a href="https://tlpnetwork.com/news/nasa-approves-boeing-cst100-starliner-crewed-flight-test-mission" >🔗</a> **[The Launch Pad]** NASA Approves Boeing's CST-100 Starliner Crewed Flight Test Mission
 - <a href="https://spacepolicyonline.com/news/starliner-cft-cleared-for-may-6-launch/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Cleared for May 6 Launch
 - <a href="https://spacenews.com/starliner-crewed-test-flight-passes-key-review/" >🔗</a> **[SpaceNews]** Starliner crewed test flight passes key review
 - <a href="https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner arrives at the pad for crewed test flight
@@ -115,12 +116,11 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/nasa-and-boeing-prepare-for-starliner-crewed-test-flight-in-may/" >🔗</a> **[SpaceNews]** NASA and Boeing prepare for Starliner crewed test flight in May
 - <a href="https://spacenews.com/iss-schedule-conflicts-delay-starliner-crewed-test-flight-to-may/" >🔗</a> **[SpaceNews]** ISS schedule conflicts delay Starliner crewed test flight to May
 - <a href="https://spacenews.com/starliner-on-track-for-april-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner “on track” for April crewed test flight
-- <a href="https://www.nasaspaceflight.com/2023/11/starliner-asap-nac/" >🔗</a> **[NASASpaceflight]** Stars aligning for Boeing crew launch in April
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T190123">2024-05-06 19:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T193110">2024-05-06 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
