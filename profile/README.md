@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Muon Space and Earth Fire Alliance to build constellation for wildfire detection and response
+- <a href="https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/" >🔗</a> **[SpaceNews]** Maxar inks agreement with Lockheed Martin to supply imagery for F-35 training simulators
 - <a href="https://spacenews.com/chinas-change-6-is-carrying-a-surprise-rover-to-the-moon/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 is carrying a surprise rover to the moon
 - <a href="https://arstechnica.com/space/2024/05/the-surprise-is-not-that-boeing-lost-commercial-crew-but-that-it-finished-at-all/" >🔗</a> **[Arstechnica]** The surprise is not that Boeing lost commercial crew but that it finished at all
 - <a href="https://spacenews.com/starliner-mission-to-be-first-crewed-atlas-5-flight/" >🔗</a> **[SpaceNews]** Starliner mission to be first crewed Atlas 5 flight
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/russia-may-skip-first-operational-starliner-mission/" >🔗</a> **[SpaceNews]** Russia may skip first operational Starliner mission
 - <a href="https://spacenews.com/spacex-reveals-eva-suit-design-as-polaris-dawn-mission-approaches/" >🔗</a> **[SpaceNews]** SpaceX reveals EVA suit design as Polaris Dawn mission approaches
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
-- <a href="https://www.nasaspaceflight.com/2024/05/ryugu-micrometeoroid/" >🔗</a> **[NASASpaceflight]** Hayabusa2 samples reveal the effects of space weathering on asteroid Ryugu
-- <a href="https://arstechnica.com/space/2024/05/china-just-launched-another-ambitious-lunar-mission-is-nasa-falling-behind/" >🔗</a> **[Arstechnica]** NASA hasn’t landed on the Moon in decades—China just sent its third in six years
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T130149">2024-05-06 13:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T133115">2024-05-06 13:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
