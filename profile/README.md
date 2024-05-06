@@ -92,6 +92,7 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/search-engine-focused-on-earth-data-gets-new-investors/" >🔗</a> **[SpaceNews]** Search engine focused on Earth data gets new investors
 - <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
 - <a href="https://www.nasaspaceflight.com/2024/05/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set to launch first crew flight
 - <a href="https://spacenews.com/people-are-going-to-try-to-steal-your-secrets-dixon-warns/" >🔗</a> **[SpaceNews]** ‘People are going to try to steal your secrets’ Dixon warns
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Muon Space and Earth Fire Alliance to build constellation for wildfire detection and response
 - <a href="https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/" >🔗</a> **[SpaceNews]** Maxar inks agreement with Lockheed Martin to supply imagery for F-35 training simulators
 - <a href="https://spacenews.com/chinas-change-6-is-carrying-a-surprise-rover-to-the-moon/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 is carrying a surprise rover to the moon
-- <a href="https://arstechnica.com/space/2024/05/the-surprise-is-not-that-boeing-lost-commercial-crew-but-that-it-finished-at-all/" >🔗</a> **[Arstechnica]** The surprise is not that Boeing lost commercial crew but that it finished at all
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T203100">2024-05-06 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T210211">2024-05-06 21:02:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
