@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/capella-space-using-ai-to-automate-ship-identification/" >🔗</a> **[SpaceNews]** Capella Space using AI to automate ship identification
 - <a href="https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Muon Space and Earth Fire Alliance to build constellation for wildfire detection and response
 - <a href="https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/" >🔗</a> **[SpaceNews]** Maxar inks agreement with Lockheed Martin to supply imagery for F-35 training simulators
 - <a href="https://spacenews.com/chinas-change-6-is-carrying-a-surprise-rover-to-the-moon/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 is carrying a surprise rover to the moon
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/05/ship-30-and-flight-4-preparations/" >🔗</a> **[NASASpaceflight]** Ship 30 set to Static Fire next week as Flight 4 Preparations Continue
 - <a href="https://spacenews.com/russia-may-skip-first-operational-starliner-mission/" >🔗</a> **[SpaceNews]** Russia may skip first operational Starliner mission
 - <a href="https://spacenews.com/spacex-reveals-eva-suit-design-as-polaris-dawn-mission-approaches/" >🔗</a> **[SpaceNews]** SpaceX reveals EVA suit design as Polaris Dawn mission approaches
-- <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T153106">2024-05-06 15:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T160120">2024-05-06 16:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
