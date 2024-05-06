@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-change-6-is-carrying-a-surprise-rover-to-the-moon/" >🔗</a> **[SpaceNews]** China’s Chang’e-6 is carrying a surprise rover to the moon
+- <a href="https://arstechnica.com/space/2024/05/the-surprise-is-not-that-boeing-lost-commercial-crew-but-that-it-finished-at-all/" >🔗</a> **[Arstechnica]** The surprise is not that Boeing lost commercial crew but that it finished at all
+- <a href="https://spacenews.com/starliner-mission-to-be-first-crewed-atlas-5-flight/" >🔗</a> **[SpaceNews]** Starliner mission to be first crewed Atlas 5 flight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-5-11-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 5-11, 2024
 - <a href="https://www.nasaspaceflight.com/2024/05/ship-30-and-flight-4-preparations/" >🔗</a> **[NASASpaceflight]** Ship 30 set to Static Fire next week as Flight 4 Preparations Continue
 - <a href="https://spacenews.com/russia-may-skip-first-operational-starliner-mission/" >🔗</a> **[SpaceNews]** Russia may skip first operational Starliner mission
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
 - <a href="https://www.nasaspaceflight.com/2024/05/ryugu-micrometeoroid/" >🔗</a> **[NASASpaceflight]** Hayabusa2 samples reveal the effects of space weathering on asteroid Ryugu
 - <a href="https://arstechnica.com/space/2024/05/china-just-launched-another-ambitious-lunar-mission-is-nasa-falling-behind/" >🔗</a> **[Arstechnica]** NASA hasn’t landed on the Moon in decades—China just sent its third in six years
-- <a href="https://www.spacescout.info/2024/05/chinas-launches-next-sample-return/" >🔗</a> **[Space Scout]** China’s Targets Far Side for Sample Return
-- <a href="https://spacenews.com/air-force-project-blends-military-and-commercial-space-networks/" >🔗</a> **[SpaceNews]** Air Force project blends military and commercial space networks
-- <a href="https://spacenews.com/failure-is-not-an-option-learning-apollo-13/" >🔗</a> **[SpaceNews]** Failure is not an option: learning from Apollo 13
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T110118">2024-05-06 11:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240506T113105">2024-05-06 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
