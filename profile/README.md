@@ -20,35 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V N22 | CST-100 Starliner Crewed Flight Test**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T023414">2024-05-07 02:34:14 UTC</a>.  Until
-then, this pad will have been used for 111
-out of 951 launches from this location. The launch status is currently
+**Long March 6C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T031300">2024-05-07 03:13:00 UTC</a>.  Until
+then, this pad will have been used for 5
+out of 125 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  This is the first crewed test flight of Starliner spacecraft. It will carry NASA astronauts Barry Wilmore and
-Suni Williams to the International Space Station.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Atlas_V" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_6C" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T023414">2024-05-07 02:34:14 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240507T023414Z%2F20240507T023414Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T031300">2024-05-07 03:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240507T031300Z%2F20240507T035500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T021100">2024-05-08 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240508T021100Z%2F20240508T021100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T024800">2024-05-08 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-2&location=Vandenberg SFB, CA, USA&dates=20240508T024800Z%2F20240508T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T144200">2024-05-08 14:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-56&location=Kennedy Space Center, FL, USA&dates=20240508T144200Z%2F20240508T184200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-56** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T013300">2024-05-09 01:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/YZ-1 | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240509T013300Z%2F20240509T021400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/YZ-1 | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -92,6 +91,8 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-issue-scrubs-launch-of-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Rocket issue scrubs launch of Starliner crewed test flight
+- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-boeing-starliners-first-crewed-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Boeing Starliner’s First Crewed Spaceflight
 - <a href="https://spacenews.com/nga-to-tap-commercial-satellites-to-patrol-maritime-hotspots/" >🔗</a> **[SpaceNews]** NGA to tap commercial satellites to patrol maritime hotspots
 - <a href="https://spacenews.com/search-engine-focused-on-earth-data-gets-new-investors/" >🔗</a> **[SpaceNews]** Search engine focused on Earth data gets new investors
 - <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
@@ -100,27 +101,15 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/iceye-to-allow-customers-to-directly-task-the-companys-imaging-satellites/" >🔗</a> **[SpaceNews]** Iceye to allow customers to directly task the company’s imaging satellites
 - <a href="https://spacenews.com/practical-approach-mars-sample-return-mission/" >🔗</a> **[SpaceNews]** A practical approach to the Mars Sample Return mission
 - <a href="https://spacenews.com/capella-space-using-ai-to-automate-ship-identification/" >🔗</a> **[SpaceNews]** Capella Space using AI to automate ship identification
-- <a href="https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Muon Space and Earth Fire Alliance to build constellation for wildfire detection and response
-- <a href="https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/" >🔗</a> **[SpaceNews]** Maxar inks agreement with Lockheed Martin to supply imagery for F-35 training simulators
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacepolicyonline.com/news/starliner-ready-for-human-spaceflight-debut/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Human Spaceflight Debut
-- <a href="https://www.spacescout.info/2024/05/boeing-and-nasa-prepare-for-crewed-flight-test/" >🔗</a> **[Space Scout]** Boeing and NASA Prepare for Crewed Flight Test
-- <a href="https://tlpnetwork.com/news/nasa-approves-boeing-cst100-starliner-crewed-flight-test-mission" >🔗</a> **[The Launch Pad]** NASA Approves Boeing's CST-100 Starliner Crewed Flight Test Mission
-- <a href="https://spacepolicyonline.com/news/starliner-cft-cleared-for-may-6-launch/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Cleared for May 6 Launch
-- <a href="https://spacenews.com/starliner-crewed-test-flight-passes-key-review/" >🔗</a> **[SpaceNews]** Starliner crewed test flight passes key review
-- <a href="https://spacenews.com/starliner-arrives-at-the-pad-for-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner arrives at the pad for crewed test flight
-- <a href="https://spacepolicyonline.com/news/starliner-crew-test-flight-now-targeted-for-may-1/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Crew Test Flight Now Targeted for May 1
-- <a href="https://spacenews.com/nasa-and-boeing-prepare-for-starliner-crewed-test-flight-in-may/" >🔗</a> **[SpaceNews]** NASA and Boeing prepare for Starliner crewed test flight in May
-- <a href="https://spacenews.com/iss-schedule-conflicts-delay-starliner-crewed-test-flight-to-may/" >🔗</a> **[SpaceNews]** ISS schedule conflicts delay Starliner crewed test flight to May
-- <a href="https://spacenews.com/starliner-on-track-for-april-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner “on track” for April crewed test flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T004508">2024-05-07 00:45:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T012458">2024-05-07 01:24:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
