@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sabresat-redwires-vehicle-to-dart-through-very-low-earth-orbit/" >🔗</a> **[SpaceNews]** SabreSat: Redwire’s vehicle to dart through very low Earth orbit
 - <a href="https://spacenews.com/china-launches-first-long-march-6c-rocket/" >🔗</a> **[SpaceNews]** China launches first Long March 6C rocket
 - <a href="https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/" >🔗</a> **[SpaceNews]** Rocket Lab announces supplier agreements for military satellite project
 - <a href="https://spacenews.com/rocket-issue-scrubs-launch-of-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Rocket issue scrubs launch of Starliner crewed test flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
 - <a href="https://www.nasaspaceflight.com/2024/05/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set to launch first crew flight
 - <a href="https://spacenews.com/people-are-going-to-try-to-steal-your-secrets-dixon-warns/" >🔗</a> **[SpaceNews]** ‘People are going to try to steal your secrets’ Dixon warns
-- <a href="https://spacenews.com/iceye-to-allow-customers-to-directly-task-the-companys-imaging-satellites/" >🔗</a> **[SpaceNews]** Iceye to allow customers to directly task the company’s imaging satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T113115">2024-05-07 11:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T120144">2024-05-07 12:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
