@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-recommends-major-expansion-of-florida-seaport-to-support-space-industry/" >🔗</a> **[SpaceNews]** Report recommends major expansion of Florida seaport to support space industry
 - <a href="https://spacenews.com/rocket-lab-pushes-back-neutron-debut-to-2025/" >🔗</a> **[SpaceNews]** Rocket Lab pushes back Neutron debut to 2025
 - <a href="https://spacenews.com/geospatial-intelligence-gets-smart/" >🔗</a> **[SpaceNews]** Geospatial intelligence gets smart
 - <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-to-fill-demand-for-global-insights/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites to fill demand for global insights
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-first-long-march-6c-rocket/" >🔗</a> **[SpaceNews]** China launches first Long March 6C rocket
 - <a href="https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/" >🔗</a> **[SpaceNews]** Rocket Lab announces supplier agreements for military satellite project
 - <a href="https://spacenews.com/rocket-issue-scrubs-launch-of-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Rocket issue scrubs launch of Starliner crewed test flight
-- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-boeing-starliners-first-crewed-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Boeing Starliner’s First Crewed Spaceflight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T180116">2024-05-07 18:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T183228">2024-05-07 18:32:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
