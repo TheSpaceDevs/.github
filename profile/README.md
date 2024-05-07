@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-first-long-march-6c-rocket/" >🔗</a> **[SpaceNews]** China launches first Long March 6C rocket
 - <a href="https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/" >🔗</a> **[SpaceNews]** Rocket Lab announces supplier agreements for military satellite project
 - <a href="https://spacenews.com/rocket-issue-scrubs-launch-of-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Rocket issue scrubs launch of Starliner crewed test flight
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-boeing-starliners-first-crewed-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Boeing Starliner’s First Crewed Spaceflight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/05/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set to launch first crew flight
 - <a href="https://spacenews.com/people-are-going-to-try-to-steal-your-secrets-dixon-warns/" >🔗</a> **[SpaceNews]** ‘People are going to try to steal your secrets’ Dixon warns
 - <a href="https://spacenews.com/iceye-to-allow-customers-to-directly-task-the-companys-imaging-satellites/" >🔗</a> **[SpaceNews]** Iceye to allow customers to directly task the company’s imaging satellites
-- <a href="https://spacenews.com/practical-approach-mars-sample-return-mission/" >🔗</a> **[SpaceNews]** A practical approach to the Mars Sample Return mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T083125">2024-05-07 08:31:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T090116">2024-05-07 09:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
