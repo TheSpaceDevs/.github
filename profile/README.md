@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-to-fill-demand-for-global-insights/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites to fill demand for global insights
 - <a href="https://spacenews.com/the-stakes-of-space-race-2-0-could-not-be-higher/" >🔗</a> **[SpaceNews]** The stakes of Space Race 2.0 could not be higher
 - <a href="https://arstechnica.com/space/2024/05/private-astronauts-to-fly-highest-mission-since-apollo-make-groundbreaking-eva/" >🔗</a> **[Arstechnica]** Here’s why a rich guy going to space for a second time actually matters
 - <a href="https://spacenews.com/sabresat-redwires-vehicle-to-dart-through-very-low-earth-orbit/" >🔗</a> **[SpaceNews]** SabreSat: Redwire’s vehicle to dart through very low Earth orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-boeing-starliners-first-crewed-spaceflight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Boeing Starliner’s First Crewed Spaceflight
 - <a href="https://spacenews.com/nga-to-tap-commercial-satellites-to-patrol-maritime-hotspots/" >🔗</a> **[SpaceNews]** NGA to tap commercial satellites to patrol maritime hotspots
 - <a href="https://spacenews.com/search-engine-focused-on-earth-data-gets-new-investors/" >🔗</a> **[SpaceNews]** Search engine focused on Earth data gets new investors
-- <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T153113">2024-05-07 15:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T160118">2024-05-07 16:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
