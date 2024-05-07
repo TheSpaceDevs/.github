@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/private-astronauts-to-fly-highest-mission-since-apollo-make-groundbreaking-eva/" >🔗</a> **[Arstechnica]** Private astronauts to fly highest mission since Apollo, make groundbreaking EVA
 - <a href="https://spacenews.com/sabresat-redwires-vehicle-to-dart-through-very-low-earth-orbit/" >🔗</a> **[SpaceNews]** SabreSat: Redwire’s vehicle to dart through very low Earth orbit
 - <a href="https://spacenews.com/china-launches-first-long-march-6c-rocket/" >🔗</a> **[SpaceNews]** China launches first Long March 6C rocket
 - <a href="https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/" >🔗</a> **[SpaceNews]** Rocket Lab announces supplier agreements for military satellite project
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/search-engine-focused-on-earth-data-gets-new-investors/" >🔗</a> **[SpaceNews]** Search engine focused on Earth data gets new investors
 - <a href="https://spacenews.com/airbus-to-continue-enhancing-pleiades-neo-next-constellation/" >🔗</a> **[SpaceNews]** Airbus to continue enhancing Pleiades Neo Next constellation
 - <a href="https://www.nasaspaceflight.com/2024/05/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner set to launch first crew flight
-- <a href="https://spacenews.com/people-are-going-to-try-to-steal-your-secrets-dixon-warns/" >🔗</a> **[SpaceNews]** ‘People are going to try to steal your secrets’ Dixon warns
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T130112">2024-05-07 13:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T133105">2024-05-07 13:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
