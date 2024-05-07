@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-05072024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner’s crewed debut, new rocket variant, and more Starlink missions
 - <a href="https://spacenews.com/nro-expands-commercial-partnerships/" >🔗</a> **[SpaceNews]** NRO expands commercial partnerships
 - <a href="https://spacenews.com/report-recommends-major-expansion-of-florida-seaport-to-support-space-industry/" >🔗</a> **[SpaceNews]** Report recommends major expansion of Florida seaport to support space industry
 - <a href="https://spacenews.com/rocket-lab-pushes-back-neutron-debut-to-2025/" >🔗</a> **[SpaceNews]** Rocket Lab pushes back Neutron debut to 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/05/private-astronauts-to-fly-highest-mission-since-apollo-make-groundbreaking-eva/" >🔗</a> **[Arstechnica]** Here’s why a rich guy going to space for a second time actually matters
 - <a href="https://spacenews.com/sabresat-redwires-vehicle-to-dart-through-very-low-earth-orbit/" >🔗</a> **[SpaceNews]** SabreSat: Redwire’s vehicle to dart through very low Earth orbit
 - <a href="https://spacenews.com/china-launches-first-long-march-6c-rocket/" >🔗</a> **[SpaceNews]** China launches first Long March 6C rocket
-- <a href="https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/" >🔗</a> **[SpaceNews]** Rocket Lab announces supplier agreements for military satellite project
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T223057">2024-05-07 22:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240507T233113">2024-05-07 23:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
