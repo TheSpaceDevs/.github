@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/nro-outlines-plan-to-onboard-commercial-satellite-imaging-technologies/" >🔗</a> **[SpaceNews]** NRO outlines plan to onboard commercial satellite imaging technologies
+- <a href="https://spacenews.com/join-spacenews-exciting-opportunity-for-sales-marketing-manager/" >🔗</a> **[SpaceNews]** Join SpaceNews: Exciting Opportunity for Sales & Marketing Manager
 - <a href="https://spacenews.com/military-surveillance-constellation-fuels-debate-over-who-calls-the-shots/" >🔗</a> **[SpaceNews]** Military surveillance constellation fuels debate over who calls the shots
 - <a href="https://spacenews.com/xona-raises-19-million-series-a-funds-for-satellite-navigation-service/" >🔗</a> **[SpaceNews]** Xona raises $19 million Series A funds for satellite navigation service
 - <a href="https://spacenews.com/nato-seeks-assistance-in-data-exploitation/" >🔗</a> **[SpaceNews]** NATO seeks assistance in data exploitation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-launch-delayed-to-mid-may/" >🔗</a> **[SpaceNews]** Starliner launch delayed to mid-May
 - <a href="https://spacenews.com/privateer-acquires-orbital-insight/" >🔗</a> **[SpaceNews]** Privateer acquires Orbital Insight
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-05072024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Boeing Starliner delayed and China launches new rocket variant
-- <a href="https://spacenews.com/nro-expands-commercial-partnerships/" >🔗</a> **[SpaceNews]** NRO expands commercial partnerships
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T153059">2024-05-08 15:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T160157">2024-05-08 16:01:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
