@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-05072024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner’s crewed debut, new rocket variant, and more Starlink missions
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-05072024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Boeing Starliner delayed, China launches new rocket variant, SpaceX launches more Starlinks
 - <a href="https://spacenews.com/nro-expands-commercial-partnerships/" >🔗</a> **[SpaceNews]** NRO expands commercial partnerships
 - <a href="https://spacenews.com/report-recommends-major-expansion-of-florida-seaport-to-support-space-industry/" >🔗</a> **[SpaceNews]** Report recommends major expansion of Florida seaport to support space industry
 - <a href="https://spacenews.com/rocket-lab-pushes-back-neutron-debut-to-2025/" >🔗</a> **[SpaceNews]** Rocket Lab pushes back Neutron debut to 2025
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T000312">2024-05-08 00:03:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T004419">2024-05-08 00:44:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
