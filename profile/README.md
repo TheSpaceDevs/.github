@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/xona-raises-19-million-series-a-funds-for-satellite-navigation-service/" >🔗</a> **[SpaceNews]** Xona raises $19 million Series A funds for satellite navigation service
+- <a href="https://spacenews.com/nato-seeks-assistance-in-data-exploitation/" >🔗</a> **[SpaceNews]** NATO seeks assistance in data exploitation
 - <a href="https://spacenews.com/change-6-enters-lunar-orbit-ahead-of-far-side-landing-attempt/" >🔗</a> **[SpaceNews]** Chang’e-6 enters lunar orbit ahead of far side landing attempt
 - <a href="https://spacepolicyonline.com/news/starliner-crew-flight-test-slips-to-may-17-at-the-earliest/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Crew Flight Test Slips to May 17 at the Earliest
 - <a href="https://spacenews.com/starliner-launch-delayed-to-mid-may/" >🔗</a> **[SpaceNews]** Starliner launch delayed to mid-May
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nro-expands-commercial-partnerships/" >🔗</a> **[SpaceNews]** NRO expands commercial partnerships
 - <a href="https://spacenews.com/report-recommends-major-expansion-of-florida-seaport-to-support-space-industry/" >🔗</a> **[SpaceNews]** Report recommends major expansion of Florida seaport to support space industry
 - <a href="https://spacenews.com/rocket-lab-pushes-back-neutron-debut-to-2025/" >🔗</a> **[SpaceNews]** Rocket Lab pushes back Neutron debut to 2025
-- <a href="https://spacenews.com/geospatial-intelligence-gets-smart/" >🔗</a> **[SpaceNews]** Geospatial intelligence gets smart
-- <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-to-fill-demand-for-global-insights/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites to fill demand for global insights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T130247">2024-05-08 13:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T133057">2024-05-08 13:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
