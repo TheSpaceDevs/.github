@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/change-6-enters-lunar-orbit-ahead-of-far-side-landing-attempt/" >🔗</a> **[SpaceNews]** Chang’e-6 enters lunar orbit ahead of far side landing attempt
 - <a href="https://spacepolicyonline.com/news/starliner-crew-flight-test-slips-to-may-17-at-the-earliest/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Crew Flight Test Slips to May 17 at the Earliest
 - <a href="https://spacenews.com/starliner-launch-delayed-to-mid-may/" >🔗</a> **[SpaceNews]** Starliner launch delayed to mid-May
 - <a href="https://spacenews.com/privateer-acquires-orbital-insight/" >🔗</a> **[SpaceNews]** Privateer acquires Orbital Insight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-pushes-back-neutron-debut-to-2025/" >🔗</a> **[SpaceNews]** Rocket Lab pushes back Neutron debut to 2025
 - <a href="https://spacenews.com/geospatial-intelligence-gets-smart/" >🔗</a> **[SpaceNews]** Geospatial intelligence gets smart
 - <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-to-fill-demand-for-global-insights/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites to fill demand for global insights
-- <a href="https://spacenews.com/the-stakes-of-space-race-2-0-could-not-be-higher/" >🔗</a> **[SpaceNews]** The stakes of Space Race 2.0 could not be higher
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T100116">2024-05-08 10:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T103219">2024-05-08 10:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
