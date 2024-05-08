@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starliner-crew-flight-test-slips-to-may-17-at-the-earliest/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Crew Flight Test Slips to May 17 at the Earliest
 - <a href="https://spacenews.com/starliner-launch-delayed-to-mid-may/" >🔗</a> **[SpaceNews]** Starliner launch delayed to mid-May
 - <a href="https://spacenews.com/privateer-acquires-orbital-insight/" >🔗</a> **[SpaceNews]** Privateer acquires Orbital Insight
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-05072024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Boeing Starliner delayed, China launches new rocket variant, SpaceX launches more Starlinks
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/geospatial-intelligence-gets-smart/" >🔗</a> **[SpaceNews]** Geospatial intelligence gets smart
 - <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-to-fill-demand-for-global-insights/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites to fill demand for global insights
 - <a href="https://spacenews.com/the-stakes-of-space-race-2-0-could-not-be-higher/" >🔗</a> **[SpaceNews]** The stakes of Space Race 2.0 could not be higher
-- <a href="https://arstechnica.com/space/2024/05/private-astronauts-to-fly-highest-mission-since-apollo-make-groundbreaking-eva/" >🔗</a> **[Arstechnica]** Here’s why a rich guy going to space for a second time actually matters
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T033103">2024-05-08 03:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240508T040147">2024-05-08 04:01:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
