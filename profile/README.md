@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/avio-leans-on-defense-business-amid-lull-in-launches/" >🔗</a> **[SpaceNews]** Avio leans on defense business amid lull in launches
 - <a href="https://spacenews.com/livermore-lab-to-provide-optical-payload-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Livermore Lab to provide optical payload for U.S. Space Force mission
 - <a href="https://www.nasaspaceflight.com/2024/05/cape-flyover-may-2024/" >🔗</a> **[NASASpaceflight]** Space Coast looks toward the future with port and factory expansions
 - <a href="https://spacenews.com/space-economics-101-why-the-math-on-refueling-just-doesnt-add-up/" >🔗</a> **[SpaceNews]** Space Economics 101: Why the Math on Refueling Just Doesn’t Add Up
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/05/the-2024-solar-eclipse-in-pictures/" >🔗</a> **[Space Scout]** The 2024 Solar Eclipse – In Pictures
 - <a href="https://spacenews.com/redwire-announces-second-vleo-satellite-platform/" >🔗</a> **[SpaceNews]** Redwire announces second VLEO satellite platform
 - <a href="https://spacenews.com/aiming-for-apophis/" >🔗</a> **[SpaceNews]** Aiming for Apophis
-- <a href="https://spacenews.com/sierra-space-prepares-to-ship-dream-chaser-to-florida/" >🔗</a> **[SpaceNews]** Sierra Space prepares to ship Dream Chaser to Florida
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T223052">2024-05-09 22:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T230126">2024-05-09 23:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
