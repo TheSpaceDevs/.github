@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-conducts-successful-static-fire-of-starship-2/" >🔗</a> **[Teslarati]** SpaceX conducts a successful static fire of Starship
+- <a href="https://spacenews.com/starlink-soars-spacexs-satellite-internet-surprises-analysts-with-6-6-billion-revenue-projection/" >🔗</a> **[SpaceNews]** Starlink soars: SpaceX’s satellite internet surprises analysts with $6.6 billion revenue projection
 - <a href="https://www.teslarati.com/spacex-launches-yet-another-batch-of-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches yet another batch of Starlink satellites
 - <a href="https://www.spacescout.info/2024/05/the-2024-solar-eclipse-in-pictures/" >🔗</a> **[Space Scout]** The 2024 Solar Eclipse – In Pictures
 - <a href="https://spacenews.com/redwire-announces-second-vleo-satellite-platform/" >🔗</a> **[SpaceNews]** Redwire announces second VLEO satellite platform
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-its-first-medium-earth-orbit-broadband-satellites/" >🔗</a> **[SpaceNews]** China launches its first medium Earth orbit broadband satellites
 - <a href="https://spacenews.com/congressional-letter-seeks-big-increase-in-nasa-science-budget/" >🔗</a> **[SpaceNews]** Congressional letter seeks big increase in NASA science budget
 - <a href="https://spacenews.com/virgin-galactic-plans-higher-mothership-flight-rate-with-next-generation-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic plans higher mothership flight rate with next-generation spaceplanes
-- <a href="https://spacenews.com/national-space-council-will-explore-military-space-and-intelligence-roles-and-responsibilities/" >🔗</a> **[SpaceNews]** National Space Council will explore military space and intelligence roles and responsibilities
-- <a href="https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays the first crewed Boeing Starliner launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T193059">2024-05-09 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T200139">2024-05-09 20:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
