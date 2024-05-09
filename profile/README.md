@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/cape-flyover-may-2024/" >🔗</a> **[NASASpaceflight]** Space Coast looks toward the future with port and factory expansions
+- <a href="https://spacenews.com/space-economics-101-why-the-math-on-refueling-just-doesnt-add-up/" >🔗</a> **[SpaceNews]** Space Economics 101: Why the Math on Refueling Just Doesn’t Add Up
 - <a href="https://www.teslarati.com/spacex-conducts-successful-static-fire-of-starship-2/" >🔗</a> **[Teslarati]** SpaceX conducts a successful static fire of Starship
 - <a href="https://spacenews.com/starlink-soars-spacexs-satellite-internet-surprises-analysts-with-6-6-billion-revenue-projection/" >🔗</a> **[SpaceNews]** Starlink soars: SpaceX’s satellite internet surprises analysts with $6.6 billion revenue projection
 - <a href="https://www.teslarati.com/spacex-launches-yet-another-batch-of-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches yet another batch of Starlink satellites
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aiming-for-apophis/" >🔗</a> **[SpaceNews]** Aiming for Apophis
 - <a href="https://spacenews.com/sierra-space-prepares-to-ship-dream-chaser-to-florida/" >🔗</a> **[SpaceNews]** Sierra Space prepares to ship Dream Chaser to Florida
 - <a href="https://spacenews.com/china-launches-its-first-medium-earth-orbit-broadband-satellites/" >🔗</a> **[SpaceNews]** China launches its first medium Earth orbit broadband satellites
-- <a href="https://spacenews.com/congressional-letter-seeks-big-increase-in-nasa-science-budget/" >🔗</a> **[SpaceNews]** Congressional letter seeks big increase in NASA science budget
-- <a href="https://spacenews.com/virgin-galactic-plans-higher-mothership-flight-rate-with-next-generation-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic plans higher mothership flight rate with next-generation spaceplanes
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T203103">2024-05-09 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T210123">2024-05-09 21:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
