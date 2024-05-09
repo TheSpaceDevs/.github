@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-announces-second-vleo-satellite-platform/" >🔗</a> **[SpaceNews]** Redwire announces second VLEO satellite platform
 - <a href="https://spacenews.com/aiming-for-apophis/" >🔗</a> **[SpaceNews]** Aiming for Apophis
 - <a href="https://spacenews.com/sierra-space-prepares-to-ship-dream-chaser-to-florida/" >🔗</a> **[SpaceNews]** Sierra Space prepares to ship Dream Chaser to Florida
 - <a href="https://spacenews.com/china-launches-its-first-medium-earth-orbit-broadband-satellites/" >🔗</a> **[SpaceNews]** China launches its first medium Earth orbit broadband satellites
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays the first crewed Boeing Starliner launch
 - <a href="https://spacenews.com/nro-outlines-plan-to-onboard-commercial-satellite-imaging-technologies/" >🔗</a> **[SpaceNews]** NRO outlines plan to onboard commercial satellite imaging technologies
 - <a href="https://spacenews.com/join-spacenews-exciting-opportunity-for-sales-marketing-manager/" >🔗</a> **[SpaceNews]** Join SpaceNews: Exciting Opportunity for Sales & Marketing Manager
-- <a href="https://spacenews.com/military-surveillance-constellation-fuels-debate-over-who-calls-the-shots/" >🔗</a> **[SpaceNews]** Military surveillance constellation fuels debate over who calls the shots
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T150117">2024-05-09 15:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T153122">2024-05-09 15:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
