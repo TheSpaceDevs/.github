@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congressional-letter-seeks-big-increase-in-nasa-science-budget/" >🔗</a> **[SpaceNews]** Congressional letter seeks big increase in NASA science budget
 - <a href="https://spacenews.com/virgin-galactic-plans-higher-mothership-flight-rate-with-next-generation-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic plans higher mothership flight rate with next-generation spaceplanes
 - <a href="https://spacenews.com/national-space-council-will-explore-military-space-and-intelligence-roles-and-responsibilities/" >🔗</a> **[SpaceNews]** National Space Council will explore military space and intelligence roles and responsibilities
 - <a href="https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays the first crewed Boeing Starliner launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/xona-raises-19-million-series-a-funds-for-satellite-navigation-service/" >🔗</a> **[SpaceNews]** Xona raises $19 million Series A funds for satellite navigation service
 - <a href="https://spacenews.com/nato-seeks-assistance-in-data-exploitation/" >🔗</a> **[SpaceNews]** NATO seeks assistance in data exploitation
 - <a href="https://spacenews.com/change-6-enters-lunar-orbit-ahead-of-far-side-landing-attempt/" >🔗</a> **[SpaceNews]** Chang’e-6 enters lunar orbit ahead of far side landing attempt
-- <a href="https://spacepolicyonline.com/news/starliner-crew-flight-test-slips-to-may-17-at-the-earliest/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Crew Flight Test Slips to May 17 at the Earliest
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T030119">2024-05-09 03:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T033120">2024-05-09 03:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
