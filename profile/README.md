@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-its-first-medium-earth-orbit-broadband-satellites/" >🔗</a> **[SpaceNews]** China launches its first medium Earth orbit broadband satellites
 - <a href="https://spacenews.com/congressional-letter-seeks-big-increase-in-nasa-science-budget/" >🔗</a> **[SpaceNews]** Congressional letter seeks big increase in NASA science budget
 - <a href="https://spacenews.com/virgin-galactic-plans-higher-mothership-flight-rate-with-next-generation-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic plans higher mothership flight rate with next-generation spaceplanes
 - <a href="https://spacenews.com/national-space-council-will-explore-military-space-and-intelligence-roles-and-responsibilities/" >🔗</a> **[SpaceNews]** National Space Council will explore military space and intelligence roles and responsibilities
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/military-surveillance-constellation-fuels-debate-over-who-calls-the-shots/" >🔗</a> **[SpaceNews]** Military surveillance constellation fuels debate over who calls the shots
 - <a href="https://spacenews.com/xona-raises-19-million-series-a-funds-for-satellite-navigation-service/" >🔗</a> **[SpaceNews]** Xona raises $19 million Series A funds for satellite navigation service
 - <a href="https://spacenews.com/nato-seeks-assistance-in-data-exploitation/" >🔗</a> **[SpaceNews]** NATO seeks assistance in data exploitation
-- <a href="https://spacenews.com/change-6-enters-lunar-orbit-ahead-of-far-side-landing-attempt/" >🔗</a> **[SpaceNews]** Chang’e-6 enters lunar orbit ahead of far side landing attempt
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T090106">2024-05-09 09:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T093114">2024-05-09 09:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
