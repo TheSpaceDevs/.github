@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/05/the-2024-solar-eclipse-in-pictures/" >🔗</a> **[Space Scout]** The 2024 Solar Eclipse – In Pictures
 - <a href="https://spacenews.com/redwire-announces-second-vleo-satellite-platform/" >🔗</a> **[SpaceNews]** Redwire announces second VLEO satellite platform
 - <a href="https://spacenews.com/aiming-for-apophis/" >🔗</a> **[SpaceNews]** Aiming for Apophis
 - <a href="https://spacenews.com/sierra-space-prepares-to-ship-dream-chaser-to-florida/" >🔗</a> **[SpaceNews]** Sierra Space prepares to ship Dream Chaser to Florida
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/national-space-council-will-explore-military-space-and-intelligence-roles-and-responsibilities/" >🔗</a> **[SpaceNews]** National Space Council will explore military space and intelligence roles and responsibilities
 - <a href="https://www.teslarati.com/united-launch-alliance-delays-first-crewed-boeing-starliner-launch/" >🔗</a> **[Teslarati]** United Launch Alliance delays the first crewed Boeing Starliner launch
 - <a href="https://spacenews.com/nro-outlines-plan-to-onboard-commercial-satellite-imaging-technologies/" >🔗</a> **[SpaceNews]** NRO outlines plan to onboard commercial satellite imaging technologies
-- <a href="https://spacenews.com/join-spacenews-exciting-opportunity-for-sales-marketing-manager/" >🔗</a> **[SpaceNews]** Join SpaceNews: Exciting Opportunity for Sales & Marketing Manager
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T160112">2024-05-09 16:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T163436">2024-05-09 16:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
