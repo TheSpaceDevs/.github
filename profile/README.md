@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sierra-space-prepares-to-ship-dream-chaser-to-florida/" >🔗</a> **[SpaceNews]** Sierra Space prepares to ship Dream Chaser to Florida
 - <a href="https://spacenews.com/china-launches-its-first-medium-earth-orbit-broadband-satellites/" >🔗</a> **[SpaceNews]** China launches its first medium Earth orbit broadband satellites
 - <a href="https://spacenews.com/congressional-letter-seeks-big-increase-in-nasa-science-budget/" >🔗</a> **[SpaceNews]** Congressional letter seeks big increase in NASA science budget
 - <a href="https://spacenews.com/virgin-galactic-plans-higher-mothership-flight-rate-with-next-generation-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic plans higher mothership flight rate with next-generation spaceplanes
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/join-spacenews-exciting-opportunity-for-sales-marketing-manager/" >🔗</a> **[SpaceNews]** Join SpaceNews: Exciting Opportunity for Sales & Marketing Manager
 - <a href="https://spacenews.com/military-surveillance-constellation-fuels-debate-over-who-calls-the-shots/" >🔗</a> **[SpaceNews]** Military surveillance constellation fuels debate over who calls the shots
 - <a href="https://spacenews.com/xona-raises-19-million-series-a-funds-for-satellite-navigation-service/" >🔗</a> **[SpaceNews]** Xona raises $19 million Series A funds for satellite navigation service
-- <a href="https://spacenews.com/nato-seeks-assistance-in-data-exploitation/" >🔗</a> **[SpaceNews]** NATO seeks assistance in data exploitation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T120135">2024-05-09 12:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240509T123831">2024-05-09 12:38:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
