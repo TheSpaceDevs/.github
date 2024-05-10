@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/" >🔗</a> **[Arstechnica]** Analyst on Starlink’s rapid rise: “Nothing short of mind-blowing”
 - <a href="https://arstechnica.com/space/2024/05/rocket-report-german-launch-from-australia-neutron-delayed-until-2025/" >🔗</a> **[Arstechnica]** Rocket Report: German launch from Australia; Neutron delayed until 2025
 - <a href="https://spacenews.com/avio-leans-on-defense-business-amid-lull-in-launches/" >🔗</a> **[SpaceNews]** Avio leans on defense business amid lull in launches
 - <a href="https://spacenews.com/livermore-lab-to-provide-optical-payload-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Livermore Lab to provide optical payload for U.S. Space Force mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/starlink-soars-spacexs-satellite-internet-surprises-analysts-with-6-6-billion-revenue-projection/" >🔗</a> **[SpaceNews]** Starlink soars: SpaceX’s satellite internet surprises analysts with $6.6 billion revenue projection
 - <a href="https://www.teslarati.com/spacex-launches-yet-another-batch-of-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches yet another batch of Starlink satellites
 - <a href="https://www.spacescout.info/2024/05/the-2024-solar-eclipse-in-pictures/" >🔗</a> **[Space Scout]** The 2024 Solar Eclipse – In Pictures
-- <a href="https://spacenews.com/redwire-announces-second-vleo-satellite-platform/" >🔗</a> **[SpaceNews]** Redwire announces second VLEO satellite platform
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T133105">2024-05-10 13:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T140223">2024-05-10 14:02:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
