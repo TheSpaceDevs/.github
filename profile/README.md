@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/sierra-spaces-dream-chaser-space-plane-to-be-moved-to-florida-ahead-of-launch/" >🔗</a> **[Teslarati]** Sierra Space’s Dream Chaser space plane to be moved to Florida ahead of launch
+- <a href="https://spacenews.com/faa-to-begin-environmental-review-of-starship-launches-from-kennedy-space-center/" >🔗</a> **[SpaceNews]** FAA to begin environmental review of Starship launches from Kennedy Space Center
 - <a href="https://www.teslarati.com/spacex-reveals-first-extravehicular-activity-eva-suits-polaris-dawn/" >🔗</a> **[Teslarati]** SpaceX reveals its first Extravehicular Activity Suits (EVA) for Polaris Dawn mission
 - <a href="https://www.teslarati.com/spacex-launches-more-direct-to-cell-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches more direct to cell capable Starlink satellites
 - <a href="https://www.spacescout.info/2024/05/nasa-mars-infrastructure/" >🔗</a> **[Space Scout]** NASA Seeks Industry Assistance with Mars Infrastructure
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/virgin-galactic-prepares-for-final-unitiy-flight-delays-new-mothership-reveals-updated-ops-strategy" >🔗</a> **[The Launch Pad]** Virgin Galactic Prepares For Final Unity Flight, Delays New Mothership, Reveals Updated Ops Strategy
 - <a href="https://tlpnetwork.com/news/sierra-space-wraps-environmental-testing-prepares-to-ship-dream-chaser-to-florida" >🔗</a> **[The Launch Pad]** Sierra Space Wraps Environmental Testing; Prepares To Ship Dream Chaser To Florida
 - <a href="https://tlpnetwork.com/news/redwire-space-expands-vleo-satellite-portfolio-with-phantom-platform" >🔗</a> **[The Launch Pad]** Redwire Space Expands VLEO Satellite Portfolio with Phantom Platform
-- <a href="https://arstechnica.com/space/2024/05/rocket-report-german-launch-from-australia-neutron-delayed-until-2025/" >🔗</a> **[Arstechnica]** Rocket Report: German launch from Australia; Neutron delayed until 2025
-- <a href="https://spacenews.com/avio-leans-on-defense-business-amid-lull-in-launches/" >🔗</a> **[SpaceNews]** Avio leans on defense business amid lull in launches
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T170113">2024-05-10 17:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T173110">2024-05-10 17:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
