@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/rocket-report-german-launch-from-australia-neutron-delayed-until-2025/" >🔗</a> **[Arstechnica]** Rocket Report: German launch from Australia; Neutron delayed until 2025
 - <a href="https://spacenews.com/avio-leans-on-defense-business-amid-lull-in-launches/" >🔗</a> **[SpaceNews]** Avio leans on defense business amid lull in launches
 - <a href="https://spacenews.com/livermore-lab-to-provide-optical-payload-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Livermore Lab to provide optical payload for U.S. Space Force mission
 - <a href="https://www.nasaspaceflight.com/2024/05/cape-flyover-may-2024/" >🔗</a> **[NASASpaceflight]** Space Coast looks toward the future with port and factory expansions
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.teslarati.com/spacex-launches-yet-another-batch-of-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches yet another batch of Starlink satellites
 - <a href="https://www.spacescout.info/2024/05/the-2024-solar-eclipse-in-pictures/" >🔗</a> **[Space Scout]** The 2024 Solar Eclipse – In Pictures
 - <a href="https://spacenews.com/redwire-announces-second-vleo-satellite-platform/" >🔗</a> **[SpaceNews]** Redwire announces second VLEO satellite platform
-- <a href="https://spacenews.com/aiming-for-apophis/" >🔗</a> **[SpaceNews]** Aiming for Apophis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T110115">2024-05-10 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T113110">2024-05-10 11:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
