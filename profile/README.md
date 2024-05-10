@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-reveals-first-extravehicular-activity-eva-suits-polaris-dawn/" >🔗</a> **[Teslarati]** SpaceX reveals its first Extravehicular Activity Suits (EVA) for Polaris Dawn mission
+- <a href="https://www.teslarati.com/spacex-launches-more-direct-to-cell-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches more direct to cell capable Starlink satellites
+- <a href="https://www.spacescout.info/2024/05/nasa-mars-infrastructure/" >🔗</a> **[Space Scout]** NASA Seeks Industry Assistance with Mars Infrastructure
 - <a href="https://spacenews.com/nasas-strategy-space-sustainability/" >🔗</a> **[SpaceNews]** NASA’s strategy for space sustainability
 - <a href="https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/" >🔗</a> **[Arstechnica]** Analyst on Starlink’s rapid rise: “Nothing short of mind-blowing”
 - <a href="https://tlpnetwork.com/news/virgin-galactic-prepares-for-final-unitiy-flight-delays-new-mothership-reveals-updated-ops-strategy" >🔗</a> **[The Launch Pad]** Virgin Galactic Prepares For Final Unity Flight, Delays New Mothership, Reveals Updated Ops Strategy
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/redwire-space-expands-vleo-satellite-portfolio-with-phantom-platform" >🔗</a> **[The Launch Pad]** Redwire Space Expands VLEO Satellite Portfolio with Phantom Platform
 - <a href="https://arstechnica.com/space/2024/05/rocket-report-german-launch-from-australia-neutron-delayed-until-2025/" >🔗</a> **[Arstechnica]** Rocket Report: German launch from Australia; Neutron delayed until 2025
 - <a href="https://spacenews.com/avio-leans-on-defense-business-amid-lull-in-launches/" >🔗</a> **[SpaceNews]** Avio leans on defense business amid lull in launches
-- <a href="https://spacenews.com/livermore-lab-to-provide-optical-payload-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Livermore Lab to provide optical payload for U.S. Space Force mission
-- <a href="https://www.nasaspaceflight.com/2024/05/cape-flyover-may-2024/" >🔗</a> **[NASASpaceflight]** Space Coast looks toward the future with port and factory expansions
-- <a href="https://spacenews.com/space-economics-101-why-the-math-on-refueling-just-doesnt-add-up/" >🔗</a> **[SpaceNews]** Space Economics 101: Why the Math on Refueling Just Doesn’t Add Up
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T160138">2024-05-10 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T163316">2024-05-10 16:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
