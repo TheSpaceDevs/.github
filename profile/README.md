@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-space-policy-chief-calls-russias-space-nuke-threat-a-thing-apart/" >🔗</a> **[SpaceNews]** Defense space policy chief calls Russia’s space nuke threat “a thing apart”
+- <a href="https://spacenews.com/pentagon-space-policy-chief-weighs-in-on-disputes-over-battlefield-intelligence/" >🔗</a> **[SpaceNews]** Pentagon space policy chief weighs in on disputes over battlefield intelligence
 - <a href="https://www.teslarati.com/sierra-spaces-dream-chaser-space-plane-to-be-moved-to-florida-ahead-of-launch/" >🔗</a> **[Teslarati]** Sierra Space’s Dream Chaser space plane to be moved to Florida ahead of launch
 - <a href="https://spacenews.com/faa-to-begin-environmental-review-of-starship-launches-from-kennedy-space-center/" >🔗</a> **[SpaceNews]** FAA to begin environmental review of Starship launches from Kennedy Space Center
 - <a href="https://www.teslarati.com/spacex-reveals-first-extravehicular-activity-eva-suits-polaris-dawn/" >🔗</a> **[Teslarati]** SpaceX reveals its first Extravehicular Activity Suits (EVA) for Polaris Dawn mission
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasas-strategy-space-sustainability/" >🔗</a> **[SpaceNews]** NASA’s strategy for space sustainability
 - <a href="https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/" >🔗</a> **[Arstechnica]** Analyst on Starlink’s rapid rise: “Nothing short of mind-blowing”
 - <a href="https://tlpnetwork.com/news/virgin-galactic-prepares-for-final-unitiy-flight-delays-new-mothership-reveals-updated-ops-strategy" >🔗</a> **[The Launch Pad]** Virgin Galactic Prepares For Final Unity Flight, Delays New Mothership, Reveals Updated Ops Strategy
-- <a href="https://tlpnetwork.com/news/sierra-space-wraps-environmental-testing-prepares-to-ship-dream-chaser-to-florida" >🔗</a> **[The Launch Pad]** Sierra Space Wraps Environmental Testing; Prepares To Ship Dream Chaser To Florida
-- <a href="https://tlpnetwork.com/news/redwire-space-expands-vleo-satellite-portfolio-with-phantom-platform" >🔗</a> **[The Launch Pad]** Redwire Space Expands VLEO Satellite Portfolio with Phantom Platform
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T203113">2024-05-10 20:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T210120">2024-05-10 21:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
