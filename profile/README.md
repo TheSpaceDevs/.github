@@ -93,14 +93,14 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://spacenews.com/nasas-strategy-space-sustainability/" >🔗</a> **[SpaceNews]** NASA’s strategy for space sustainability
 - <a href="https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/" >🔗</a> **[Arstechnica]** Analyst on Starlink’s rapid rise: “Nothing short of mind-blowing”
+- <a href="https://tlpnetwork.com/news/virgin-galactic-prepares-for-final-unitiy-flight-delays-new-mothership-reveals-updated-ops-strategy" >🔗</a> **[The Launch Pad]** Virgin Galactic Prepares For Final Unity Flight, Delays New Mothership, Reveals Updated Ops Strategy
+- <a href="https://tlpnetwork.com/news/sierra-space-wraps-environmental-testing-prepares-to-ship-dream-chaser-to-florida" >🔗</a> **[The Launch Pad]** Sierra Space Wraps Environmental Testing; Prepares To Ship Dream Chaser To Florida
+- <a href="https://tlpnetwork.com/news/redwire-space-expands-vleo-satellite-portfolio-with-phantom-platform" >🔗</a> **[The Launch Pad]** Redwire Space Expands VLEO Satellite Portfolio with Phantom Platform
 - <a href="https://arstechnica.com/space/2024/05/rocket-report-german-launch-from-australia-neutron-delayed-until-2025/" >🔗</a> **[Arstechnica]** Rocket Report: German launch from Australia; Neutron delayed until 2025
 - <a href="https://spacenews.com/avio-leans-on-defense-business-amid-lull-in-launches/" >🔗</a> **[SpaceNews]** Avio leans on defense business amid lull in launches
 - <a href="https://spacenews.com/livermore-lab-to-provide-optical-payload-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Livermore Lab to provide optical payload for U.S. Space Force mission
 - <a href="https://www.nasaspaceflight.com/2024/05/cape-flyover-may-2024/" >🔗</a> **[NASASpaceflight]** Space Coast looks toward the future with port and factory expansions
 - <a href="https://spacenews.com/space-economics-101-why-the-math-on-refueling-just-doesnt-add-up/" >🔗</a> **[SpaceNews]** Space Economics 101: Why the Math on Refueling Just Doesn’t Add Up
-- <a href="https://www.teslarati.com/spacex-conducts-successful-static-fire-of-starship-2/" >🔗</a> **[Teslarati]** SpaceX conducts a successful static fire of Starship
-- <a href="https://spacenews.com/starlink-soars-spacexs-satellite-internet-surprises-analysts-with-6-6-billion-revenue-projection/" >🔗</a> **[SpaceNews]** Starlink soars: SpaceX’s satellite internet surprises analysts with $6.6 billion revenue projection
-- <a href="https://www.teslarati.com/spacex-launches-yet-another-batch-of-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches yet another batch of Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T153102">2024-05-10 15:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240510T160138">2024-05-10 16:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
