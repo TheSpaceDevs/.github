@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/intense-solar-storm-not-a-problem-for-iss-astronauts-starliner-cft-still-scheduled-for-may-17/" >🔗</a> **[SpacePolicyOnline.com]** Intense Solar Storm Not a Problem for ISS Astronauts, Starliner CFT Still Scheduled for May 17
 - <a href="https://spacenews.com/serbia-becomes-latest-country-to-join-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Serbia becomes latest country to join China’s ILRS moon base project
 - <a href="https://spacenews.com/defense-space-policy-chief-calls-russias-space-nuke-threat-a-thing-apart/" >🔗</a> **[SpaceNews]** Defense space policy chief calls Russia’s space nuke threat “a thing apart”
 - <a href="https://spacenews.com/pentagon-space-policy-chief-weighs-in-on-disputes-over-battlefield-intelligence/" >🔗</a> **[SpaceNews]** Pentagon space policy chief weighs in on disputes over battlefield intelligence
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.teslarati.com/spacex-launches-more-direct-to-cell-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches more direct to cell capable Starlink satellites
 - <a href="https://www.spacescout.info/2024/05/nasa-mars-infrastructure/" >🔗</a> **[Space Scout]** NASA Seeks Industry Assistance with Mars Infrastructure
 - <a href="https://spacenews.com/nasas-strategy-space-sustainability/" >🔗</a> **[SpaceNews]** NASA’s strategy for space sustainability
-- <a href="https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/" >🔗</a> **[Arstechnica]** Analyst on Starlink’s rapid rise: “Nothing short of mind-blowing”
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240511T033058">2024-05-11 03:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240511T040125">2024-05-11 04:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
