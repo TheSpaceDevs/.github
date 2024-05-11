@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lunar-lander-company-ispace-sees-opportunities-in-japan-u-s-artemis-agreement/" >🔗</a> **[SpaceNews]** Lunar lander company ispace sees opportunities in Japan-U.S. Artemis agreement
 - <a href="https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/" >🔗</a> **[Arstechnica]** NOAA says ‘extreme’ Solar storm will persist through the weekend
 - <a href="https://spacepolicyonline.com/news/intense-solar-storm-not-a-problem-for-iss-astronauts-starliner-cft-still-scheduled-for-may-17/" >🔗</a> **[SpacePolicyOnline.com]** Intense Solar Storm Not a Problem for ISS Astronauts, Starliner CFT Still Scheduled for May 17
 - <a href="https://spacenews.com/serbia-becomes-latest-country-to-join-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Serbia becomes latest country to join China’s ILRS moon base project
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/faa-to-begin-environmental-review-of-starship-launches-from-kennedy-space-center/" >🔗</a> **[SpaceNews]** FAA to begin environmental review of Starship launches from Kennedy Space Center
 - <a href="https://www.teslarati.com/spacex-reveals-first-extravehicular-activity-eva-suits-polaris-dawn/" >🔗</a> **[Teslarati]** SpaceX reveals its first Extravehicular Activity Suits (EVA) for Polaris Dawn mission
 - <a href="https://www.teslarati.com/spacex-launches-more-direct-to-cell-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX launches more direct to cell capable Starlink satellites
-- <a href="https://www.spacescout.info/2024/05/nasa-mars-infrastructure/" >🔗</a> **[Space Scout]** NASA Seeks Industry Assistance with Mars Infrastructure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240511T160126">2024-05-11 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240511T163204">2024-05-11 16:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
