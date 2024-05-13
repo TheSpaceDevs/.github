@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-un-needs-form-parliament-regulate-space-mining/" >🔗</a> **[SpaceNews]** The U.N. needs to form a parliament to regulate space mining
+- <a href="https://spacenews.com/consent-to-advise/" >🔗</a> **[SpaceNews]** Consent to advise
 - <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-12-18-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 12-18, 2024
 - <a href="https://spacenews.com/lunar-lander-company-ispace-sees-opportunities-in-japan-u-s-artemis-agreement/" >🔗</a> **[SpaceNews]** Lunar lander company ispace sees opportunities in Japan-U.S. Artemis agreement
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/serbia-becomes-latest-country-to-join-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Serbia becomes latest country to join China’s ILRS moon base project
 - <a href="https://spacenews.com/defense-space-policy-chief-calls-russias-space-nuke-threat-a-thing-apart/" >🔗</a> **[SpaceNews]** Defense space policy chief calls Russia’s space nuke threat “a thing apart”
 - <a href="https://spacenews.com/pentagon-space-policy-chief-weighs-in-on-disputes-over-battlefield-intelligence/" >🔗</a> **[SpaceNews]** Pentagon space policy chief weighs in on disputes over battlefield intelligence
-- <a href="https://www.teslarati.com/sierra-spaces-dream-chaser-space-plane-to-be-moved-to-florida-ahead-of-launch/" >🔗</a> **[Teslarati]** Sierra Space’s Dream Chaser space plane to be moved to Florida ahead of launch
-- <a href="https://spacenews.com/faa-to-begin-environmental-review-of-starship-launches-from-kennedy-space-center/" >🔗</a> **[SpaceNews]** FAA to begin environmental review of Starship launches from Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T143100">2024-05-13 14:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T150126">2024-05-13 15:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
