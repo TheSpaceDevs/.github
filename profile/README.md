@@ -94,7 +94,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-12-18-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 12-18, 2024
 - <a href="https://spacenews.com/lunar-lander-company-ispace-sees-opportunities-in-japan-u-s-artemis-agreement/" >🔗</a> **[SpaceNews]** Lunar lander company ispace sees opportunities in Japan-U.S. Artemis agreement
-- <a href="https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/" >🔗</a> **[Arstechnica]** NOAA says ‘extreme’ Solar storm will persist through the weekend
+- <a href="https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/" >🔗</a> **[Arstechnica]** NOAA says “extreme” solar storm will persist through the weekend
 - <a href="https://spacepolicyonline.com/news/intense-solar-storm-not-a-problem-for-iss-astronauts-starliner-cft-still-scheduled-for-may-17/" >🔗</a> **[SpacePolicyOnline.com]** Intense Solar Storm Not a Problem for ISS Astronauts, Starliner CFT Still Scheduled for May 17
 - <a href="https://spacenews.com/serbia-becomes-latest-country-to-join-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Serbia becomes latest country to join China’s ILRS moon base project
 - <a href="https://spacenews.com/defense-space-policy-chief-calls-russias-space-nuke-threat-a-thing-apart/" >🔗</a> **[SpaceNews]** Defense space policy chief calls Russia’s space nuke threat “a thing apart”
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T120133">2024-05-13 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T123955">2024-05-13 12:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
