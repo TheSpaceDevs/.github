@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-12-18-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 12-18, 2024
 - <a href="https://spacenews.com/lunar-lander-company-ispace-sees-opportunities-in-japan-u-s-artemis-agreement/" >🔗</a> **[SpaceNews]** Lunar lander company ispace sees opportunities in Japan-U.S. Artemis agreement
 - <a href="https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/" >🔗</a> **[Arstechnica]** NOAA says ‘extreme’ Solar storm will persist through the weekend
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagon-space-policy-chief-weighs-in-on-disputes-over-battlefield-intelligence/" >🔗</a> **[SpaceNews]** Pentagon space policy chief weighs in on disputes over battlefield intelligence
 - <a href="https://www.teslarati.com/sierra-spaces-dream-chaser-space-plane-to-be-moved-to-florida-ahead-of-launch/" >🔗</a> **[Teslarati]** Sierra Space’s Dream Chaser space plane to be moved to Florida ahead of launch
 - <a href="https://spacenews.com/faa-to-begin-environmental-review-of-starship-launches-from-kennedy-space-center/" >🔗</a> **[SpaceNews]** FAA to begin environmental review of Starship launches from Kennedy Space Center
-- <a href="https://www.teslarati.com/spacex-reveals-first-extravehicular-activity-eva-suits-polaris-dawn/" >🔗</a> **[Teslarati]** SpaceX reveals its first Extravehicular Activity Suits (EVA) for Polaris Dawn mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T113106">2024-05-13 11:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T120133">2024-05-13 12:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
