@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/air-force-is-growing-concerned-about-the-pace-of-vulcan-rocket-launches/" >🔗</a> **[Arstechnica]** Air Force is “growing concerned” about the pace of Vulcan rocket launches
 - <a href="https://spacenews.com/terran-orbital-confirms-new-satellite-deal-with-lockheed-martin-ahead-of-earnings/" >🔗</a> **[SpaceNews]** Terran Orbital confirms new satellite deal with Lockheed Martin ahead of earnings
 - <a href="https://spacenews.com/pentagon-urges-ula-to-fly-dummy-payload-on-next-vulcan-launch-if-dream-chaser-is-delayed/" >🔗</a> **[SpaceNews]** ULA could fly dummy payload on next Vulcan launch if Dream Chaser is delayed
 - <a href="https://www.teslarati.com/spacex-launches-23-starlink-satellites-amidst-major-solar-storm/" >🔗</a> **[Teslarati]** SpaceX launches 23 Starlink satellites amidst major Solar storm
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-12-18-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 12-18, 2024
 - <a href="https://spacenews.com/lunar-lander-company-ispace-sees-opportunities-in-japan-u-s-artemis-agreement/" >🔗</a> **[SpaceNews]** Lunar lander company ispace sees opportunities in Japan-U.S. Artemis agreement
 - <a href="https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/" >🔗</a> **[Arstechnica]** NOAA says “extreme” solar storm will persist through the weekend
-- <a href="https://spacepolicyonline.com/news/intense-solar-storm-not-a-problem-for-iss-astronauts-starliner-cft-still-scheduled-for-may-17/" >🔗</a> **[SpacePolicyOnline.com]** Intense Solar Storm Not a Problem for ISS Astronauts, Starliner CFT Still Scheduled for May 17
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T223118">2024-05-13 22:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T230130">2024-05-13 23:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
