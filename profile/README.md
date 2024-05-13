@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-23-starlink-satellites-amidst-major-solar-storm/" >🔗</a> **[Teslarati]** SpaceX launches 23 Starlink satellites amidst major Solar storm
 - <a href="https://spacenews.com/the-un-needs-form-parliament-regulate-space-mining/" >🔗</a> **[SpaceNews]** The U.N. needs to form a parliament to regulate space mining
 - <a href="https://spacenews.com/consent-to-advise/" >🔗</a> **[SpaceNews]** Consent to advise
 - <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/intense-solar-storm-not-a-problem-for-iss-astronauts-starliner-cft-still-scheduled-for-may-17/" >🔗</a> **[SpacePolicyOnline.com]** Intense Solar Storm Not a Problem for ISS Astronauts, Starliner CFT Still Scheduled for May 17
 - <a href="https://spacenews.com/serbia-becomes-latest-country-to-join-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Serbia becomes latest country to join China’s ILRS moon base project
 - <a href="https://spacenews.com/defense-space-policy-chief-calls-russias-space-nuke-threat-a-thing-apart/" >🔗</a> **[SpaceNews]** Defense space policy chief calls Russia’s space nuke threat “a thing apart”
-- <a href="https://spacenews.com/pentagon-space-policy-chief-weighs-in-on-disputes-over-battlefield-intelligence/" >🔗</a> **[SpaceNews]** Pentagon space policy chief weighs in on disputes over battlefield intelligence
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T190110">2024-05-13 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T193102">2024-05-13 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
