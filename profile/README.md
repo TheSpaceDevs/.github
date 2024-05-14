@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-proposals-for-new-line-of-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA selects proposals for new line of Earth science missions
 - <a href="https://spacenews.com/ohb-expects-to-conclude-deal-to-go-private-in-weeks/" >🔗</a> **[SpaceNews]** OHB expects to conclude deal to go private in weeks
 - <a href="https://spacepolicyonline.com/news/paul-hill-leading-irb-on-orions-heat-shield/" >🔗</a> **[SpacePolicyOnline.com]** Paul Hill Leading IRB on Orion’s Heat Shield
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner prepares for second launch attempt; Falcon 9 to launch first batch into new spy constellation
@@ -100,16 +101,16 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-launches-23-starlink-satellites-amidst-major-solar-storm/" >🔗</a> **[Teslarati]** SpaceX launches 23 Starlink satellites amidst major Solar storm
 - <a href="https://spacenews.com/consent-to-advise/" >🔗</a> **[SpaceNews]** Consent to advise
 - <a href="https://spacenews.com/the-un-needs-form-parliament-regulate-space-mining/" >🔗</a> **[SpaceNews]** The U.N. needs to form a parliament to regulate space mining
-- <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner prepares for second launch attempt; Falcon 9 to launch first batch into new spy constellation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T110123">2024-05-14 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T113120">2024-05-14 11:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
