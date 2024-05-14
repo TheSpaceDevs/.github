@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner prepares for second launch attempt; Falcon 9 to launch first batch into new spy constellation
 - <a href="https://arstechnica.com/space/2024/05/air-force-is-growing-concerned-about-the-pace-of-vulcan-rocket-launches/" >🔗</a> **[Arstechnica]** Air Force is “growing concerned” about the pace of Vulcan rocket launches
 - <a href="https://spacenews.com/terran-orbital-confirms-new-satellite-deal-with-lockheed-martin-ahead-of-earnings/" >🔗</a> **[SpaceNews]** Terran Orbital confirms new satellite deal with Lockheed Martin ahead of earnings
 - <a href="https://spacenews.com/pentagon-urges-ula-to-fly-dummy-payload-on-next-vulcan-launch-if-dream-chaser-is-delayed/" >🔗</a> **[SpaceNews]** ULA could fly dummy payload on next Vulcan launch if Dream Chaser is delayed
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-12-18-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 12-18, 2024
 - <a href="https://spacenews.com/lunar-lander-company-ispace-sees-opportunities-in-japan-u-s-artemis-agreement/" >🔗</a> **[SpaceNews]** Lunar lander company ispace sees opportunities in Japan-U.S. Artemis agreement
-- <a href="https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/" >🔗</a> **[Arstechnica]** NOAA says “extreme” solar storm will persist through the weekend
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240513T233102">2024-05-13 23:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T000356">2024-05-14 00:03:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
