@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/nasa-selects-four-earth-science-mission-proposals-for-further-study" >🔗</a> **[The Launch Pad]** NASA Selects Four Earth Science Mission Proposals for Further Study
+- <a href="https://tlpnetwork.com/news/lockheed-martin-contracts-terran-orbital-for-18-satellite-buses" >🔗</a> **[The Launch Pad]** Lockheed Martin Contracts Terran Orbital for 18 Satellite Buses
+- <a href="https://tlpnetwork.com/news/india-chandrayaan-4-mission-update" >🔗</a> **[The Launch Pad]** India Shares Update On Chandrayaan-4 Lunar Sample Return Mission
 - <a href="https://spacenews.com/beyond-blueprints-dods-commercial-space-strategy-leaves-industry-wanting-more/" >🔗</a> **[SpaceNews]** Beyond blueprints: DoD’s commercial space strategy leaves industry wanting more
 - <a href="https://spacenews.com/intuitive-machines-making-upgrades-to-second-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines making upgrades to second lunar lander
 - <a href="https://www.teslarati.com/faa-start-new-environmental-review-florida-starship-launches/" >🔗</a> **[Teslarati]** FAA to start new environmental review for Florida SpaceX Starship launches
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-selects-proposals-for-new-line-of-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA selects proposals for new line of Earth science missions
 - <a href="https://spacenews.com/ohb-expects-to-conclude-deal-to-go-private-in-weeks/" >🔗</a> **[SpaceNews]** OHB expects to conclude deal to go private in weeks
 - <a href="https://spacepolicyonline.com/news/paul-hill-leading-irb-on-orions-heat-shield/" >🔗</a> **[SpacePolicyOnline.com]** Paul Hill Leading IRB on Orion’s Heat Shield
-- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner prepares for second launch attempt; Falcon 9 to launch first batch into new spy constellation
-- <a href="https://arstechnica.com/space/2024/05/air-force-is-growing-concerned-about-the-pace-of-vulcan-rocket-launches/" >🔗</a> **[Arstechnica]** Air Force is “growing concerned” about the pace of Vulcan rocket launches
-- <a href="https://spacenews.com/terran-orbital-confirms-new-satellite-deal-with-lockheed-martin-ahead-of-earnings/" >🔗</a> **[SpaceNews]** Terran Orbital confirms new satellite deal with Lockheed Martin ahead of earnings
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T180140">2024-05-14 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T183237">2024-05-14 18:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
