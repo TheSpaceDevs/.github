@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ohb-expects-to-conclude-deal-to-go-private-in-weeks/" >🔗</a> **[SpaceNews]** OHB expects to conclude deal to go private in weeks
 - <a href="https://spacepolicyonline.com/news/paul-hill-leading-irb-on-orions-heat-shield/" >🔗</a> **[SpacePolicyOnline.com]** Paul Hill Leading IRB on Orion’s Heat Shield
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner prepares for second launch attempt; Falcon 9 to launch first batch into new spy constellation
 - <a href="https://arstechnica.com/space/2024/05/air-force-is-growing-concerned-about-the-pace-of-vulcan-rocket-launches/" >🔗</a> **[Arstechnica]** Air Force is “growing concerned” about the pace of Vulcan rocket launches
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/consent-to-advise/" >🔗</a> **[SpaceNews]** Consent to advise
 - <a href="https://spacenews.com/the-un-needs-form-parliament-regulate-space-mining/" >🔗</a> **[SpaceNews]** The U.N. needs to form a parliament to regulate space mining
 - <a href="https://spacenews.com/nasa-and-jaxa-to-operate-xrism-as-is-despite-instrument-issue/" >🔗</a> **[SpaceNews]** NASA and JAXA to operate XRISM as-is despite instrument issue
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-12-18-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 12-18, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T090117">2024-05-14 09:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T093112">2024-05-14 09:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
