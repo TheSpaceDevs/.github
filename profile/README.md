@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oneweb-coverage-target-held-up-by-india-regulatory-delays/" >🔗</a> **[SpaceNews]** OneWeb coverage target held up by India regulatory delays
+- <a href="https://spacenews.com/tomorrow-io-gets-dod-contract-to-launch-two-microwave-weather-sensor-satellites/" >🔗</a> **[SpaceNews]** Tomorrow.io gets DoD contract to launch two microwave weather sensor satellites
 - <a href="https://spacenews.com/helium-leak-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak delays Starliner crewed test flight
 - <a href="https://www.spacescout.info/2024/05/china-continues-growth-of-ilrs-project/" >🔗</a> **[Space Scout]** China Continues Growth of ILRS Project
 - <a href="https://www.teslarati.com/weekly-space-recap-may-5-may-11/" >🔗</a> **[Teslarati]** Weekly Space Recap: May 5 – May 11
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/lockheed-martin-contracts-terran-orbital-for-18-satellite-buses" >🔗</a> **[The Launch Pad]** Lockheed Martin Contracts Terran Orbital for 18 Satellite Buses
 - <a href="https://tlpnetwork.com/news/india-chandrayaan-4-mission-update" >🔗</a> **[The Launch Pad]** India Shares Update On Chandrayaan-4 Lunar Sample Return Mission
 - <a href="https://spacenews.com/beyond-blueprints-dods-commercial-space-strategy-leaves-industry-wanting-more/" >🔗</a> **[SpaceNews]** Beyond blueprints: DoD’s commercial space strategy leaves industry wanting more
-- <a href="https://spacenews.com/intuitive-machines-making-upgrades-to-second-lunar-lander/" >🔗</a> **[SpaceNews]** Intuitive Machines making upgrades to second lunar lander
-- <a href="https://www.teslarati.com/faa-start-new-environmental-review-florida-starship-launches/" >🔗</a> **[Teslarati]** FAA to start new environmental review for Florida SpaceX Starship launches
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T220129">2024-05-14 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T223132">2024-05-14 22:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
