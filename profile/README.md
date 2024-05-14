@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-plans-chandrayaan-4-moon-sample-return-will-involve-private-sector/" >🔗</a> **[SpaceNews]** India plans Chandrayaan-4 moon sample return, will involve private sector
 - <a href="https://spacenews.com/nasa-selects-proposals-for-new-line-of-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA selects proposals for new line of Earth science missions
 - <a href="https://spacenews.com/ohb-expects-to-conclude-deal-to-go-private-in-weeks/" >🔗</a> **[SpaceNews]** OHB expects to conclude deal to go private in weeks
 - <a href="https://spacepolicyonline.com/news/paul-hill-leading-irb-on-orions-heat-shield/" >🔗</a> **[SpacePolicyOnline.com]** Paul Hill Leading IRB on Orion’s Heat Shield
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagon-urges-ula-to-fly-dummy-payload-on-next-vulcan-launch-if-dream-chaser-is-delayed/" >🔗</a> **[SpaceNews]** ULA could fly dummy payload on next Vulcan launch if Dream Chaser is delayed
 - <a href="https://www.teslarati.com/spacex-launches-23-starlink-satellites-amidst-major-solar-storm/" >🔗</a> **[Teslarati]** SpaceX launches 23 Starlink satellites amidst major Solar storm
 - <a href="https://spacenews.com/consent-to-advise/" >🔗</a> **[SpaceNews]** Consent to advise
-- <a href="https://spacenews.com/the-un-needs-form-parliament-regulate-space-mining/" >🔗</a> **[SpaceNews]** The U.N. needs to form a parliament to regulate space mining
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T113120">2024-05-14 11:31:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240514T120145">2024-05-14 12:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
