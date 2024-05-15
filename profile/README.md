@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-takes-charge-after-switching-propulsion-suppliers-on-satellite-program/" >🔗</a> **[SpaceNews]** Terran Orbital takes charge after switching propulsion suppliers on satellite program
 - <a href="https://spacepolicyonline.com/news/starliner-rcs-helium-leak-delays-crew-flight-test-a-few-more-days/" >🔗</a> **[SpacePolicyOnline.com]** Starliner RCS Helium Leak Delays Crew Flight Test a Few More Days
 - <a href="https://spacenews.com/oneweb-coverage-target-held-up-by-india-regulatory-delays/" >🔗</a> **[SpaceNews]** OneWeb coverage target held up by India regulatory delays
 - <a href="https://spacenews.com/tomorrow-io-gets-dod-contract-to-launch-two-microwave-weather-sensor-satellites/" >🔗</a> **[SpaceNews]** Tomorrow.io gets DoD contract to launch two microwave weather sensor satellites
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/carnival-corporation-equips-entire-fleet-with-starlink-internet" >🔗</a> **[The Launch Pad]** Carnival Corporation Equips Entire Fleet with Starlink Internet
 - <a href="https://tlpnetwork.com/news/nasa-selects-four-earth-science-mission-proposals-for-further-study" >🔗</a> **[The Launch Pad]** NASA Selects Four Earth Science Mission Proposals for Further Study
 - <a href="https://tlpnetwork.com/news/lockheed-martin-contracts-terran-orbital-for-18-satellite-buses" >🔗</a> **[The Launch Pad]** Lockheed Martin Contracts Terran Orbital for 18 Satellite Buses
-- <a href="https://tlpnetwork.com/news/india-chandrayaan-4-mission-update" >🔗</a> **[The Launch Pad]** India Shares Update On Chandrayaan-4 Lunar Sample Return Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T113108">2024-05-15 11:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T120140">2024-05-15 12:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
