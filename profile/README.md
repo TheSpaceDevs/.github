@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seraphim-picks-nine-startups-for-latest-space-accelerator-program/" >🔗</a> **[SpaceNews]** Seraphim picks nine startups for latest space accelerator program
 - <a href="https://spacenews.com/beyond-iss-america-must-lead-leo-cislunar-and-beyond/" >🔗</a> **[SpaceNews]** Beyond ISS: America must lead in LEO, cislunar and beyond
 - <a href="https://spacenews.com/terran-orbital-takes-charge-after-switching-propulsion-suppliers-on-satellite-program/" >🔗</a> **[SpaceNews]** Terran Orbital takes charge after switching propulsion suppliers on satellite program
 - <a href="https://spacepolicyonline.com/news/starliner-rcs-helium-leak-delays-crew-flight-test-a-few-more-days/" >🔗</a> **[SpacePolicyOnline.com]** Starliner RCS Helium Leak Delays Crew Flight Test a Few More Days
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2024/05/china-continues-growth-of-ilrs-project/" >🔗</a> **[Space Scout]** China Continues Growth of ILRS Project
 - <a href="https://www.teslarati.com/weekly-space-recap-may-5-may-11/" >🔗</a> **[Teslarati]** Weekly Space Recap: May 5 – May 11
 - <a href="https://tlpnetwork.com/news/boeing-starliner-cft-delayed-again-due-to-leak" >🔗</a> **[The Launch Pad]** Boeing Starliner CFT Delayed Again; Due To Leak
-- <a href="https://tlpnetwork.com/news/carnival-corporation-equips-entire-fleet-with-starlink-internet" >🔗</a> **[The Launch Pad]** Carnival Corporation Equips Entire Fleet with Starlink Internet
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T173101">2024-05-15 17:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T180131">2024-05-15 18:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
