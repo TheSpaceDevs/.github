@@ -98,9 +98,9 @@ into *an Unknown
 - <a href="https://spacenews.com/helium-leak-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak delays Starliner crewed test flight
 - <a href="https://www.spacescout.info/2024/05/china-continues-growth-of-ilrs-project/" >🔗</a> **[Space Scout]** China Continues Growth of ILRS Project
 - <a href="https://www.teslarati.com/weekly-space-recap-may-5-may-11/" >🔗</a> **[Teslarati]** Weekly Space Recap: May 5 – May 11
+- <a href="https://tlpnetwork.com/news/boeing-starliner-cft-delayed-again-due-to-leak" >🔗</a> **[The Launch Pad]** Boeing Starliner CFT Delayed Again; Due To Leak
 - <a href="https://tlpnetwork.com/news/carnival-corporation-equips-entire-fleet-with-starlink-internet" >🔗</a> **[The Launch Pad]** Carnival Corporation Equips Entire Fleet with Starlink Internet
 - <a href="https://tlpnetwork.com/news/nasa-selects-four-earth-science-mission-proposals-for-further-study" >🔗</a> **[The Launch Pad]** NASA Selects Four Earth Science Mission Proposals for Further Study
-- <a href="https://tlpnetwork.com/news/lockheed-martin-contracts-terran-orbital-for-18-satellite-buses" >🔗</a> **[The Launch Pad]** Lockheed Martin Contracts Terran Orbital for 18 Satellite Buses
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T120140">2024-05-15 12:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T123952">2024-05-15 12:39:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
