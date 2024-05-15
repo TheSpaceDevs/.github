@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satvu-aims-to-revive-thermal-imaging-business-in-2025-with-two-satellites/" >🔗</a> **[SpaceNews]** SatVu aims to revive thermal imaging business in 2025 with two satellites
 - <a href="https://spacenews.com/unseenlabs-expands-focus-to-land-air-sea-and-space/" >🔗</a> **[SpaceNews]** Unseenlabs expands focus to land, air, sea and space
 - <a href="https://spacenews.com/faa-reauthorization-bill-includes-short-term-learning-period-extension/" >🔗</a> **[SpaceNews]** FAA reauthorization bill includes short-term learning period extension
 - <a href="https://spacenews.com/report-space-tracking-technology-a-top-priority-but-commercial-opportunities-are-limited/" >🔗</a> **[SpaceNews]** Report: Space tracking technology a top priority, but commercial opportunities are limited
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/starliner-rcs-helium-leak-delays-crew-flight-test-a-few-more-days/" >🔗</a> **[SpacePolicyOnline.com]** Starliner RCS Helium Leak Delays Crew Flight Test a Few More Days
 - <a href="https://spacenews.com/oneweb-coverage-target-held-up-by-india-regulatory-delays/" >🔗</a> **[SpaceNews]** OneWeb coverage target held up by India regulatory delays
 - <a href="https://spacenews.com/tomorrow-io-gets-dod-contract-to-launch-two-microwave-weather-sensor-satellites/" >🔗</a> **[SpaceNews]** Tomorrow.io gets DoD contract to launch two microwave weather sensor satellites
-- <a href="https://spacenews.com/helium-leak-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak delays Starliner crewed test flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T230105">2024-05-15 23:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240515T233105">2024-05-15 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
