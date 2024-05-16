@@ -94,13 +94,13 @@ into *an Unknown
 - <a href="https://spacenews.com/satvu-aims-to-revive-thermal-imaging-business-in-2025-with-two-satellites/" >🔗</a> **[SpaceNews]** SatVu aims to revive thermal imaging business in 2025 with two satellites
 - <a href="https://spacenews.com/unseenlabs-expands-focus-to-land-air-sea-and-space/" >🔗</a> **[SpaceNews]** Unseenlabs expands focus to land, air, sea and space
 - <a href="https://spacenews.com/faa-reauthorization-bill-includes-short-term-learning-period-extension/" >🔗</a> **[SpaceNews]** FAA reauthorization bill includes short-term learning period extension
+- <a href="https://tlpnetwork.com/news/lithuania-joins-artemis-accords" >🔗</a> **[The Launch Pad]** Lithuania Joins Artemis Accords, Becoming 40th Nation to Join Next Space Exploration Era
 - <a href="https://spacenews.com/report-space-tracking-technology-a-top-priority-but-commercial-opportunities-are-limited/" >🔗</a> **[SpaceNews]** Report: Space tracking technology a top priority, but commercial opportunities are limited
 - <a href="https://spacenews.com/seraphim-picks-nine-startups-for-latest-space-accelerator-program/" >🔗</a> **[SpaceNews]** Seraphim picks nine startups for latest space accelerator program
 - <a href="https://spacenews.com/beyond-iss-america-must-lead-leo-cislunar-and-beyond/" >🔗</a> **[SpaceNews]** Beyond ISS: America must lead in LEO, cislunar and beyond
 - <a href="https://spacenews.com/terran-orbital-takes-charge-after-switching-propulsion-suppliers-on-satellite-program/" >🔗</a> **[SpaceNews]** Terran Orbital takes charge after switching propulsion suppliers on satellite program
 - <a href="https://spacepolicyonline.com/news/starliner-rcs-helium-leak-delays-crew-flight-test-a-few-more-days/" >🔗</a> **[SpacePolicyOnline.com]** Starliner RCS Helium Leak Delays Crew Flight Test a Few More Days
 - <a href="https://spacenews.com/oneweb-coverage-target-held-up-by-india-regulatory-delays/" >🔗</a> **[SpaceNews]** OneWeb coverage target held up by India regulatory delays
-- <a href="https://spacenews.com/tomorrow-io-gets-dod-contract-to-launch-two-microwave-weather-sensor-satellites/" >🔗</a> **[SpaceNews]** Tomorrow.io gets DoD contract to launch two microwave weather sensor satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T004457">2024-05-16 00:44:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T012526">2024-05-16 01:25:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
