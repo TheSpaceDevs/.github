@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T235200">2024-05-17 23:52:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240518T003200">2024-05-18 00:32:00 UTC</a>.  Until
 then, this pad will have been used for 241
 out of 952 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T235200">2024-05-17 23:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-59&location=Cape Canaveral, FL, USA&dates=20240517T235200Z%2F20240518T040100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-59** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240518T003200">2024-05-18 00:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-59&location=Cape Canaveral, FL, USA&dates=20240518T003200Z%2F20240518T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-59** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240519T072200">2024-05-19 07:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-146&location=Vandenberg SFB, CA, USA&dates=20240519T072200Z%2F20240519T115100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-146** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240519T133000">2024-05-19 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-25&location=Corn Ranch, Van Horn, TX, USA&dates=20240519T133000Z%2F20240519T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-25** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T204300">2024-05-21 20:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240521T204300Z%2F20240521T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/government-revenue-and-att-direct-to-smartphone-agreement-lift-ast-spacemobile/" >🔗</a> **[SpaceNews]** Government revenue and AT&T direct-to-smartphone agreement lift AST SpaceMobile
 - <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
 - <a href="https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 begins Wet Dress Rehearsal campaign
 - <a href="https://spacepolicyonline.com/news/faa-reauthorization-clears-congress-extends-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** FAA Reauthorization Clears Congress, Extends Learning Period
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/inversion-space-targets-military-market-with-warehouses-in-space/" >🔗</a> **[SpaceNews]** Inversion Space targets military market with ‘warehouses in space’
 - <a href="https://www.cnbc.com/2024/05/16/investing-in-space-boeing-inches-closer-to-starliner-launch.html" >🔗</a> **[CNBC]** Investing in Space: Boeing inches closer to Starliner launch
 - <a href="https://www.teslarati.com/photos-northern-lights-provide-stellar-u-s-views-as-starlink-put-under-pressure-by-solar-storm/" >🔗</a> **[Teslarati]** PHOTOS: Northern Lights provide stellar U.S. views as Starlink put under pressure by solar storm
-- <a href="https://arstechnica.com/space/2024/05/daily-telescope-i-spy-with-my-little-eye-the-iss/" >🔗</a> **[Arstechnica]** Daily Telescope: I spy, with my little eye, the ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T230107">2024-05-16 23:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T233105">2024-05-16 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
