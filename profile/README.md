@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
+- <a href="https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 begins Wet Dress Rehearsal campaign
 - <a href="https://spacepolicyonline.com/news/faa-reauthorization-clears-congress-extends-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** FAA Reauthorization Clears Congress, Extends Learning Period
 - <a href="https://arstechnica.com/space/2024/05/europe-is-uncertain-whether-its-ambitious-mercury-probe-can-reach-the-planet/" >🔗</a> **[Arstechnica]** Europe is uncertain whether its ambitious Mercury probe can reach the planet
 - <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar Replay – Space Loves AI: How AI promises to transform space operations
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/05/16/investing-in-space-boeing-inches-closer-to-starliner-launch.html" >🔗</a> **[CNBC]** Investing in Space: Boeing inches closer to Starliner launch
 - <a href="https://www.teslarati.com/photos-northern-lights-provide-stellar-u-s-views-as-starlink-put-under-pressure-by-solar-storm/" >🔗</a> **[Teslarati]** PHOTOS: Northern Lights provide stellar U.S. views as Starlink put under pressure by solar storm
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-i-spy-with-my-little-eye-the-iss/" >🔗</a> **[Arstechnica]** Daily Telescope: I spy, with my little eye, the ISS
-- <a href="https://spacenews.com/lithuania-40th-nation-to-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Lithuania 40th nation to sign Artemis Accords
-- <a href="https://spacenews.com/satvu-aims-to-revive-thermal-imaging-business-in-2025-with-two-satellites/" >🔗</a> **[SpaceNews]** SatVu aims to revive thermal imaging business in 2025 with two satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T213106">2024-05-16 21:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T220131">2024-05-16 22:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
