@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/faa-reauthorization-clears-congress-extends-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** FAA Reauthorization Clears Congress, Extends Learning Period
+- <a href="https://arstechnica.com/space/2024/05/europe-is-uncertain-whether-its-ambitious-mercury-probe-can-reach-the-planet/" >🔗</a> **[Arstechnica]** Europe is uncertain whether its ambitious Mercury probe can reach the planet
+- <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar Replay – Space Loves AI: How AI promises to transform space operations
 - <a href="https://www.teslarati.com/spacex-stacks-starship-testing-fourth-flight/" >🔗</a> **[Teslarati]** SpaceX stacks Starship for testing ahead of the fourth flight
 - <a href="https://spacenews.com/inversion-space-targets-military-market-with-warehouses-in-space/" >🔗</a> **[SpaceNews]** Inversion Space targets military market with ‘warehouses in space’
 - <a href="https://www.cnbc.com/2024/05/16/investing-in-space-boeing-inches-closer-to-starliner-launch.html" >🔗</a> **[CNBC]** Investing in Space: Boeing inches closer to Starliner launch
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-i-spy-with-my-little-eye-the-iss/" >🔗</a> **[Arstechnica]** Daily Telescope: I spy, with my little eye, the ISS
 - <a href="https://spacenews.com/lithuania-40th-nation-to-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Lithuania 40th nation to sign Artemis Accords
 - <a href="https://spacenews.com/satvu-aims-to-revive-thermal-imaging-business-in-2025-with-two-satellites/" >🔗</a> **[SpaceNews]** SatVu aims to revive thermal imaging business in 2025 with two satellites
-- <a href="https://spacenews.com/unseenlabs-expands-focus-to-land-air-sea-and-space/" >🔗</a> **[SpaceNews]** Unseenlabs expands focus to land, air, sea and space
-- <a href="https://spacenews.com/faa-reauthorization-bill-includes-short-term-learning-period-extension/" >🔗</a> **[SpaceNews]** FAA reauthorization bill includes short-term learning period extension
-- <a href="https://tlpnetwork.com/news/lithuania-joins-artemis-accords" >🔗</a> **[The Launch Pad]** Lithuania Joins Artemis Accords, Becoming 40th Nation to Join Next Space Exploration Era
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T203052">2024-05-16 20:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T210128">2024-05-16 21:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
