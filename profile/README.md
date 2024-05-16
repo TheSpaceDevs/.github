@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/photos-northern-lights-provide-stellar-u-s-views-as-starlink-put-under-pressure-by-solar-storm/" >🔗</a> **[Teslarati]** PHOTOS: Northern Lights provide stellar U.S. views as Starlink put under pressure by solar storm
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-i-spy-with-my-little-eye-the-iss/" >🔗</a> **[Arstechnica]** Daily Telescope: I spy, with my little eye, the ISS
 - <a href="https://spacenews.com/lithuania-40th-nation-to-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Lithuania 40th nation to sign Artemis Accords
 - <a href="https://spacenews.com/satvu-aims-to-revive-thermal-imaging-business-in-2025-with-two-satellites/" >🔗</a> **[SpaceNews]** SatVu aims to revive thermal imaging business in 2025 with two satellites
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/report-space-tracking-technology-a-top-priority-but-commercial-opportunities-are-limited/" >🔗</a> **[SpaceNews]** Report: Space tracking technology a top priority, but commercial opportunities are limited
 - <a href="https://spacenews.com/seraphim-picks-nine-startups-for-latest-space-accelerator-program/" >🔗</a> **[SpaceNews]** Seraphim picks nine startups for latest space accelerator program
 - <a href="https://spacenews.com/beyond-iss-america-must-lead-leo-cislunar-and-beyond/" >🔗</a> **[SpaceNews]** Beyond ISS: America must lead in LEO, cislunar and beyond
-- <a href="https://spacenews.com/terran-orbital-takes-charge-after-switching-propulsion-suppliers-on-satellite-program/" >🔗</a> **[SpaceNews]** Terran Orbital takes charge after switching propulsion suppliers on satellite program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T130254">2024-05-16 13:02:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T133107">2024-05-16 13:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
