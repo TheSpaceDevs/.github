@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/05/16/investing-in-space-boeing-inches-closer-to-starliner-launch.html" >🔗</a> **[CNBC]** Investing in Space: Boeing inches closer to Starliner launch
 - <a href="https://www.teslarati.com/photos-northern-lights-provide-stellar-u-s-views-as-starlink-put-under-pressure-by-solar-storm/" >🔗</a> **[Teslarati]** PHOTOS: Northern Lights provide stellar U.S. views as Starlink put under pressure by solar storm
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-i-spy-with-my-little-eye-the-iss/" >🔗</a> **[Arstechnica]** Daily Telescope: I spy, with my little eye, the ISS
 - <a href="https://spacenews.com/lithuania-40th-nation-to-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Lithuania 40th nation to sign Artemis Accords
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/lithuania-joins-artemis-accords" >🔗</a> **[The Launch Pad]** Lithuania Joins Artemis Accords, Becoming 40th Nation to Join Next Space Exploration Era
 - <a href="https://spacenews.com/report-space-tracking-technology-a-top-priority-but-commercial-opportunities-are-limited/" >🔗</a> **[SpaceNews]** Report: Space tracking technology a top priority, but commercial opportunities are limited
 - <a href="https://spacenews.com/seraphim-picks-nine-startups-for-latest-space-accelerator-program/" >🔗</a> **[SpaceNews]** Seraphim picks nine startups for latest space accelerator program
-- <a href="https://spacenews.com/beyond-iss-america-must-lead-leo-cislunar-and-beyond/" >🔗</a> **[SpaceNews]** Beyond ISS: America must lead in LEO, cislunar and beyond
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T153100">2024-05-16 15:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240516T160130">2024-05-16 16:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
