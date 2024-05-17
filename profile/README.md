@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
+- <a href="https://spacenews.com/india-enters-troubled-space-insurance-market/" >🔗</a> **[SpaceNews]** India enters troubled space insurance market
+- <a href="https://spacenews.com/startups-chip-design-aims-to-boost-satellite-computing-power/" >🔗</a> **[SpaceNews]** Startup’s chip design aims to boost satellite computing power
 - <a href="https://spacenews.com/time-figure-out-global-space-traffic-management/" >🔗</a> **[SpaceNews]** It’s time to figure out global space traffic management
 - <a href="https://spacenews.com/omnispace-reports-interference-from-starlink-direct-to-device-payloads/" >🔗</a> **[SpaceNews]** Omnispace reports interference from Starlink direct-to-device payloads
 - <a href="https://spacenews.com/nasa-and-esa-complete-agreement-for-cooperation-on-mars-rover-mission/" >🔗</a> **[SpaceNews]** NASA and ESA complete agreement for cooperation on Mars rover mission
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/government-revenue-and-att-direct-to-smartphone-agreement-lift-ast-spacemobile/" >🔗</a> **[SpaceNews]** Government revenue and AT&T direct-to-smartphone agreement lift AST SpaceMobile
 - <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
 - <a href="https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 begins Wet Dress Rehearsal campaign
-- <a href="https://spacepolicyonline.com/news/faa-reauthorization-clears-congress-extends-learning-period/" >🔗</a> **[SpacePolicyOnline.com]** FAA Reauthorization Clears Congress, Extends Learning Period
-- <a href="https://arstechnica.com/space/2024/05/europe-is-uncertain-whether-its-ambitious-mercury-probe-can-reach-the-planet/" >🔗</a> **[Arstechnica]** Europe is uncertain whether its ambitious Mercury probe can reach the planet
-- <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar Replay – Space Loves AI: How AI promises to transform space operations
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T213100">2024-05-17 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T220116">2024-05-17 22:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
