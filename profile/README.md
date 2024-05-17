@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-esa-complete-agreement-for-cooperation-on-mars-rover-mission/" >🔗</a> **[SpaceNews]** NASA and ESA complete agreement for cooperation on Mars rover mission
 - <a href="https://spacepolicyonline.com/news/nasa-esa-formalize-expanded-cooperation-on-esas-mars-rover/" >🔗</a> **[SpacePolicyOnline.com]** NASA, ESA Formalize Expanded Cooperation on ESA’s Mars Rover
 - <a href="https://spacenews.com/government-revenue-and-att-direct-to-smartphone-agreement-lift-ast-spacemobile/" >🔗</a> **[SpaceNews]** Government revenue and AT&T direct-to-smartphone agreement lift AST SpaceMobile
 - <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/webinar-space-loves-ai-how-ai-promises-to-transform-space-operations/" >🔗</a> **[SpaceNews]** Webinar Replay – Space Loves AI: How AI promises to transform space operations
 - <a href="https://www.teslarati.com/spacex-stacks-starship-testing-fourth-flight/" >🔗</a> **[Teslarati]** SpaceX stacks Starship for testing ahead of the fourth flight
 - <a href="https://spacenews.com/inversion-space-targets-military-market-with-warehouses-in-space/" >🔗</a> **[SpaceNews]** Inversion Space targets military market with ‘warehouses in space’
-- <a href="https://www.cnbc.com/2024/05/16/investing-in-space-boeing-inches-closer-to-starliner-launch.html" >🔗</a> **[CNBC]** Investing in Space: Boeing inches closer to Starliner launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T100132">2024-05-17 10:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T103157">2024-05-17 10:31:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
