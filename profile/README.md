@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
 - <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 - <a href="https://spacenews.com/india-enters-troubled-space-insurance-market/" >🔗</a> **[SpaceNews]** India enters troubled space insurance market
 - <a href="https://spacenews.com/startups-chip-design-aims-to-boost-satellite-computing-power/" >🔗</a> **[SpaceNews]** Startup’s chip design aims to boost satellite computing power
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-esa-formalize-expanded-cooperation-on-esas-mars-rover/" >🔗</a> **[SpacePolicyOnline.com]** NASA, ESA Formalize Expanded Cooperation on ESA’s Mars Rover
 - <a href="https://spacenews.com/government-revenue-and-att-direct-to-smartphone-agreement-lift-ast-spacemobile/" >🔗</a> **[SpaceNews]** Government revenue and AT&T direct-to-smartphone agreement lift AST SpaceMobile
 - <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
-- <a href="https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 begins Wet Dress Rehearsal campaign
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T220116">2024-05-17 22:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T223122">2024-05-17 22:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
