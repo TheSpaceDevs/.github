@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-esa-formalize-expanded-cooperation-on-esas-mars-rover/" >🔗</a> **[SpacePolicyOnline.com]** NASA, ESA Formalize Expanded Cooperation on ESA’s Mars Rover
 - <a href="https://spacenews.com/government-revenue-and-att-direct-to-smartphone-agreement-lift-ast-spacemobile/" >🔗</a> **[SpaceNews]** Government revenue and AT&T direct-to-smartphone agreement lift AST SpaceMobile
 - <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
 - <a href="https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 begins Wet Dress Rehearsal campaign
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-stacks-starship-testing-fourth-flight/" >🔗</a> **[Teslarati]** SpaceX stacks Starship for testing ahead of the fourth flight
 - <a href="https://spacenews.com/inversion-space-targets-military-market-with-warehouses-in-space/" >🔗</a> **[SpaceNews]** Inversion Space targets military market with ‘warehouses in space’
 - <a href="https://www.cnbc.com/2024/05/16/investing-in-space-boeing-inches-closer-to-starliner-launch.html" >🔗</a> **[CNBC]** Investing in Space: Boeing inches closer to Starliner launch
-- <a href="https://www.teslarati.com/photos-northern-lights-provide-stellar-u-s-views-as-starlink-put-under-pressure-by-solar-storm/" >🔗</a> **[Teslarati]** PHOTOS: Northern Lights provide stellar U.S. views as Starlink put under pressure by solar storm
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T033106">2024-05-17 03:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240517T040159">2024-05-17 04:01:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
