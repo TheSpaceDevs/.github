@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-prepares-for-twin-launches-of-climate-science-cubesats/" >🔗</a> **[SpaceNews]** NASA prepares for twin launches of climate science cubesats
+- <a href="https://www.nasaspaceflight.com/2024/05/sts-125-400-15-years-later/" >🔗</a> **[NASASpaceflight]** How the Space Shuttle completed a final, daring Hubble repair 15 years ago
 - <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
 - <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 - <a href="https://spacenews.com/india-enters-troubled-space-insurance-market/" >🔗</a> **[SpaceNews]** India enters troubled space insurance market
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/omnispace-reports-jnterference-from-spacex-starlink-satellites" >🔗</a> **[The Launch Pad]** Omnispace Reports Interference from SpaceX Starlink Satellites, Testing New FCC Regulations
 - <a href="https://spacenews.com/time-figure-out-global-space-traffic-management/" >🔗</a> **[SpaceNews]** It’s time to figure out global space traffic management
 - <a href="https://tlpnetwork.com/news/us-congress-passes-faa-reauthorization-bill-with-key-extensions-for-commercial-spaceflight" >🔗</a> **[The Launch Pad]** US Congress Passes FAA Reauthorization Bill with Key Extensions for Commercial Spaceflight
-- <a href="https://tlpnetwork.com/news/nasa-and-esa-finalize-agreement-for-european-mars-rover-mission" >🔗</a> **[The Launch Pad]** NASA and ESA Finalize Agreement for European Mars Rover Mission
-- <a href="https://tlpnetwork.com/news/regulatory-delays-in-india-hinder-eutelsat-oneweb-leo-constellation-goal" >🔗</a> **[The Launch Pad]** Regulatory Delays in India Hinder Eutelsat's OneWeb LEO Constellation Goal
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240518T213107">2024-05-18 21:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240518T220128">2024-05-18 22:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
