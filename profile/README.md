@@ -95,12 +95,12 @@ into *an Unknown
 - <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 - <a href="https://spacenews.com/india-enters-troubled-space-insurance-market/" >🔗</a> **[SpaceNews]** India enters troubled space insurance market
 - <a href="https://spacenews.com/startups-chip-design-aims-to-boost-satellite-computing-power/" >🔗</a> **[SpaceNews]** Startup’s chip design aims to boost satellite computing power
+- <a href="https://tlpnetwork.com/news/boeing-starliner-cft-again-due-to-helium-leak" >🔗</a> **[The Launch Pad]** NASA, Boeing, and ULA Postpone Boeing CFT Again Due To Spacecraft Helium Leak
+- <a href="https://tlpnetwork.com/news/omnispace-reports-jnterference-from-spacex-starlink-satellites" >🔗</a> **[The Launch Pad]** Omnispace Reports Interference from SpaceX Starlink Satellites, Testing New FCC Regulations
 - <a href="https://spacenews.com/time-figure-out-global-space-traffic-management/" >🔗</a> **[SpaceNews]** It’s time to figure out global space traffic management
-- <a href="https://spacenews.com/omnispace-reports-interference-from-starlink-direct-to-device-payloads/" >🔗</a> **[SpaceNews]** Omnispace reports interference from Starlink direct-to-device payloads
-- <a href="https://spacenews.com/nasa-and-esa-complete-agreement-for-cooperation-on-mars-rover-mission/" >🔗</a> **[SpaceNews]** NASA and ESA complete agreement for cooperation on Mars rover mission
-- <a href="https://spacepolicyonline.com/news/nasa-esa-formalize-expanded-cooperation-on-esas-mars-rover/" >🔗</a> **[SpacePolicyOnline.com]** NASA, ESA Formalize Expanded Cooperation on ESA’s Mars Rover
-- <a href="https://spacenews.com/government-revenue-and-att-direct-to-smartphone-agreement-lift-ast-spacemobile/" >🔗</a> **[SpaceNews]** Government revenue and AT&T direct-to-smartphone agreement lift AST SpaceMobile
-- <a href="https://spacepolicyonline.com/news/lithuania-becomes-40th-artemis-accords-signatory/" >🔗</a> **[SpacePolicyOnline.com]** Lithuania Becomes 40th Artemis Accords Signatory
+- <a href="https://tlpnetwork.com/news/us-congress-passes-faa-reauthorization-bill-with-key-extensions-for-commercial-spaceflight" >🔗</a> **[The Launch Pad]** US Congress Passes FAA Reauthorization Bill with Key Extensions for Commercial Spaceflight
+- <a href="https://tlpnetwork.com/news/nasa-and-esa-finalize-agreement-for-european-mars-rover-mission" >🔗</a> **[The Launch Pad]** NASA and ESA Finalize Agreement for European Mars Rover Mission
+- <a href="https://tlpnetwork.com/news/regulatory-delays-in-india-hinder-eutelsat-oneweb-leo-constellation-goal" >🔗</a> **[The Launch Pad]** Regulatory Delays in India Hinder Eutelsat's OneWeb LEO Constellation Goal
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240518T033101">2024-05-18 03:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240518T040130">2024-05-18 04:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
