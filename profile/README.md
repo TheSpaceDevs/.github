@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-19-25-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 19-25, 2024
+- <a href="https://spacenews.com/pentagon-to-forge-deeper-ties-with-space-industry-in-first-of-its-kind-program/" >🔗</a> **[SpaceNews]** Pentagon to forge deeper ties with space industry in ‘first-of-its-kind’ program
 - <a href="https://spacenews.com/nasa-prepares-for-twin-launches-of-climate-science-cubesats/" >🔗</a> **[SpaceNews]** NASA prepares for twin launches of climate science cubesats
 - <a href="https://www.nasaspaceflight.com/2024/05/sts-125-400-15-years-later/" >🔗</a> **[NASASpaceflight]** How the Space Shuttle completed a final, daring Hubble repair 15 years ago
 - <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/startups-chip-design-aims-to-boost-satellite-computing-power/" >🔗</a> **[SpaceNews]** Startup’s chip design aims to boost satellite computing power
 - <a href="https://tlpnetwork.com/news/boeing-starliner-cft-again-due-to-helium-leak" >🔗</a> **[The Launch Pad]** NASA, Boeing, and ULA Postpone Boeing CFT Again Due To Spacecraft Helium Leak
 - <a href="https://tlpnetwork.com/news/omnispace-reports-jnterference-from-spacex-starlink-satellites" >🔗</a> **[The Launch Pad]** Omnispace Reports Interference from SpaceX Starlink Satellites, Testing New FCC Regulations
-- <a href="https://spacenews.com/time-figure-out-global-space-traffic-management/" >🔗</a> **[SpaceNews]** It’s time to figure out global space traffic management
-- <a href="https://tlpnetwork.com/news/us-congress-passes-faa-reauthorization-bill-with-key-extensions-for-commercial-spaceflight" >🔗</a> **[The Launch Pad]** US Congress Passes FAA Reauthorization Bill with Key Extensions for Commercial Spaceflight
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240519T113055">2024-05-19 11:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240519T120153">2024-05-19 12:01:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
