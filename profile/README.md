@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ed-dwight-ecstatic-at-finally-reaching-space/" >🔗</a> **[SpacePolicyOnline.com]** Ed Dwight “Ecstatic” At Finally Reaching Space
 - <a href="https://spacenews.com/blue-origin-resumes-crewed-new-shepard-suborbital-flights/" >🔗</a> **[SpaceNews]** Blue Origin resumes crewed New Shepard suborbital flights
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-19-25-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 19-25, 2024
 - <a href="https://spacenews.com/pentagon-to-forge-deeper-ties-with-space-industry-in-first-of-its-kind-program/" >🔗</a> **[SpaceNews]** Pentagon to forge deeper ties with space industry in ‘first-of-its-kind’ program
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 - <a href="https://spacenews.com/india-enters-troubled-space-insurance-market/" >🔗</a> **[SpaceNews]** India enters troubled space insurance market
 - <a href="https://spacenews.com/startups-chip-design-aims-to-boost-satellite-computing-power/" >🔗</a> **[SpaceNews]** Startup’s chip design aims to boost satellite computing power
-- <a href="https://tlpnetwork.com/news/boeing-starliner-cft-again-due-to-helium-leak" >🔗</a> **[The Launch Pad]** NASA, Boeing, and ULA Postpone Boeing CFT Again Due To Spacecraft Helium Leak
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240519T220122">2024-05-19 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240519T223138">2024-05-19 22:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
