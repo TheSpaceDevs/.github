@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-four-high-resolution-remote-sensing-satellites/" >🔗</a> **[SpaceNews]** China launches four high-resolution remote sensing satellites
 - <a href="https://spacepolicyonline.com/news/ed-dwight-ecstatic-at-finally-reaching-space/" >🔗</a> **[SpacePolicyOnline.com]** Ed Dwight “Ecstatic” At Finally Reaching Space
 - <a href="https://spacenews.com/blue-origin-resumes-crewed-new-shepard-suborbital-flights/" >🔗</a> **[SpaceNews]** Blue Origin resumes crewed New Shepard suborbital flights
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-19-25-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 19-25, 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
 - <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 - <a href="https://spacenews.com/india-enters-troubled-space-insurance-market/" >🔗</a> **[SpaceNews]** India enters troubled space insurance market
-- <a href="https://spacenews.com/startups-chip-design-aims-to-boost-satellite-computing-power/" >🔗</a> **[SpaceNews]** Startup’s chip design aims to boost satellite computing power
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T113109">2024-05-20 11:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T120139">2024-05-20 12:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
