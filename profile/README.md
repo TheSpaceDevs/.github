@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starfish-space-lands-37-5-million-space-force-contract-for-on-orbit-servicing-vehicle/" >🔗</a> **[SpaceNews]** Starfish Space lands $37.5 million Space Force contract for on-orbit servicing vehicle
+- <a href="https://arstechnica.com/science/2024/05/the-atlantic-hurricane-season-begins-soon-hold-on-to-your-butts/" >🔗</a> **[Arstechnica]** The Atlantic hurricane season begins soon—hold on to your butts
 - <a href="https://spacenews.com/space-force-plans-deep-dive-study-on-pros-and-cons-of-orbital-refueling/" >🔗</a> **[SpaceNews]** Space Force plans deep-dive study on pros and cons of orbital refueling
 - <a href="https://spacenews.com/national-security-memorandum-22-omitted-space-entirely-heres-path-forward/" >🔗</a> **[SpaceNews]** National Security Memorandum-22 omitted space entirely. Here’s a path forward.
 - <a href="https://spacenews.com/china-launches-four-high-resolution-remote-sensing-satellites/" >🔗</a> **[SpaceNews]** China launches four high-resolution remote sensing satellites
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-19-25-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 19-25, 2024
 - <a href="https://spacenews.com/pentagon-to-forge-deeper-ties-with-space-industry-in-first-of-its-kind-program/" >🔗</a> **[SpaceNews]** Pentagon to forge deeper ties with space industry in ‘first-of-its-kind’ program
 - <a href="https://spacenews.com/nasa-prepares-for-twin-launches-of-climate-science-cubesats/" >🔗</a> **[SpaceNews]** NASA prepares for twin launches of climate science cubesats
-- <a href="https://www.nasaspaceflight.com/2024/05/sts-125-400-15-years-later/" >🔗</a> **[NASASpaceflight]** How the Space Shuttle completed a final, daring Hubble repair 15 years ago
-- <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T170124">2024-05-20 17:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T173114">2024-05-20 17:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
