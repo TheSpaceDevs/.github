@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bae-systems-wins-450-million-contract-to-build-weather-satellite-instrument/" >🔗</a> **[SpaceNews]** BAE Systems wins $450 million contract to build weather satellite instrument
 - <a href="https://spacenews.com/viasat-taps-oneweb-to-provide-multi-orbit-maritime-broadband/" >🔗</a> **[SpaceNews]** Viasat taps OneWeb to provide multi-orbit maritime broadband
 - <a href="https://spacenews.com/how-privateer-aims-to-slash-earth-imagery-costs/" >🔗</a> **[SpaceNews]** How Privateer aims to slash Earth imagery costs
 - <a href="https://spacenews.com/starfish-space-lands-37-5-million-space-force-contract-for-on-orbit-servicing-vehicle/" >🔗</a> **[SpaceNews]** Starfish Space lands $37.5 million Space Force contract for on-orbit servicing vehicle
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-launches-four-high-resolution-remote-sensing-satellites/" >🔗</a> **[SpaceNews]** China launches four high-resolution remote sensing satellites
 - <a href="https://spacepolicyonline.com/news/ed-dwight-ecstatic-at-finally-reaching-space/" >🔗</a> **[SpacePolicyOnline.com]** Ed Dwight “Ecstatic” At Finally Reaching Space
 - <a href="https://spacenews.com/blue-origin-resumes-crewed-new-shepard-suborbital-flights/" >🔗</a> **[SpaceNews]** Blue Origin resumes crewed New Shepard suborbital flights
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-19-25-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 19-25, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T230105">2024-05-20 23:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T233107">2024-05-20 23:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
