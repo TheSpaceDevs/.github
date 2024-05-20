@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-plans-deep-dive-study-on-pros-and-cons-of-orbital-refueling/" >🔗</a> **[SpaceNews]** Space Force plans deep-dive study on pros and cons of orbital refueling
 - <a href="https://spacenews.com/national-security-memorandum-22-omitted-space-entirely-heres-path-forward/" >🔗</a> **[SpaceNews]** National Security Memorandum-22 omitted space entirely. Here’s a path forward.
 - <a href="https://spacenews.com/china-launches-four-high-resolution-remote-sensing-satellites/" >🔗</a> **[SpaceNews]** China launches four high-resolution remote sensing satellites
 - <a href="https://spacepolicyonline.com/news/ed-dwight-ecstatic-at-finally-reaching-space/" >🔗</a> **[SpacePolicyOnline.com]** Ed Dwight “Ecstatic” At Finally Reaching Space
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-prepares-for-twin-launches-of-climate-science-cubesats/" >🔗</a> **[SpaceNews]** NASA prepares for twin launches of climate science cubesats
 - <a href="https://www.nasaspaceflight.com/2024/05/sts-125-400-15-years-later/" >🔗</a> **[NASASpaceflight]** How the Space Shuttle completed a final, daring Hubble repair 15 years ago
 - <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
-- <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T153112">2024-05-20 15:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T160135">2024-05-20 16:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
