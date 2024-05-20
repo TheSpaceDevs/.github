@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-taps-oneweb-to-provide-multi-orbit-maritime-broadband/" >🔗</a> **[SpaceNews]** Viasat taps OneWeb to provide multi-orbit maritime broadband
 - <a href="https://spacenews.com/how-privateer-aims-to-slash-earth-imagery-costs/" >🔗</a> **[SpaceNews]** How Privateer aims to slash Earth imagery costs
 - <a href="https://spacenews.com/starfish-space-lands-37-5-million-space-force-contract-for-on-orbit-servicing-vehicle/" >🔗</a> **[SpaceNews]** Starfish Space lands $37.5 million Space Force contract for on-orbit servicing vehicle
 - <a href="https://arstechnica.com/science/2024/05/the-atlantic-hurricane-season-begins-soon-hold-on-to-your-butts/" >🔗</a> **[Arstechnica]** The Atlantic hurricane season begins soon—hold on to your butts
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/ed-dwight-ecstatic-at-finally-reaching-space/" >🔗</a> **[SpacePolicyOnline.com]** Ed Dwight “Ecstatic” At Finally Reaching Space
 - <a href="https://spacenews.com/blue-origin-resumes-crewed-new-shepard-suborbital-flights/" >🔗</a> **[SpaceNews]** Blue Origin resumes crewed New Shepard suborbital flights
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-19-25-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 19-25, 2024
-- <a href="https://spacenews.com/pentagon-to-forge-deeper-ties-with-space-industry-in-first-of-its-kind-program/" >🔗</a> **[SpaceNews]** Pentagon to forge deeper ties with space industry in ‘first-of-its-kind’ program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T210107">2024-05-20 21:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240520T213118">2024-05-20 21:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
