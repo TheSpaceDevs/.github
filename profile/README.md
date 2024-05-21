@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kuaizhou-11 | Unknown Payload**. It is scheduled to be launched by *ExPace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T040200">2024-05-21 04:02:00 UTC</a>.  Until
-then, this pad will have been used for 51
-out of 225 launches from this location. The launch status is currently
+**Electron | Ready, Aim, PREFIRE (PREFIRE 1)**. It is scheduled to be launched by *Rocket Lab*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T071500">2024-05-22 07:15:00 UTC</a>.  Until
+then, this pad will have been used for 17
+out of 43 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Earth Science* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  Details TBD.
+  First 6U Cubesat carrying a miniaturized IR spectrometer, covering 0- 45 μm at 0.84 μm spectral resolution, operating for one seasonal cycle for NASAs PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) mission.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T040200">2024-05-21 04:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-11 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240521T040200Z%2F20240521T043600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-11 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T071500">2024-05-22 07:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ready, Aim, PREFIRE (PREFIRE 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240522T071500Z%2F20240522T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ready, Aim, PREFIRE (PREFIRE 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T080000">2024-05-22 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-146&location=Vandenberg SFB, CA, USA&dates=20240522T080000Z%2F20240522T102800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-146** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T023300">2024-05-23 02:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-62&location=Cape Canaveral, FL, USA&dates=20240523T023300Z%2F20240523T063300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-62** from Cape Canaveral, FL, USA.
@@ -56,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T094300">2024-05-30 09:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-27 (88P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240530T094300Z%2F20240530T094300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-27 (88P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T000000">2024-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240531T000000Z%2F20240531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T000000">2024-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-20&location=Vandenberg SFB, CA, USA&dates=20240531T000000Z%2F20240531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-20** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T000000">2024-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-21&location=Vandenberg SFB, CA, USA&dates=20240531T000000Z%2F20240531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-21** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,11 +105,16 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/nasa-prepares-for-twin-launches-of-climate-science-cubesats/" >🔗</a> **[SpaceNews]** NASA prepares for twin launches of climate science cubesats
+- <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
+- <a href="https://tlpnetwork.com/news/2023/08/nasa-selects-rocket-lab-for-polar-energy-monitoring-missions" >🔗</a> **[The Launch Pad]** NASA Selects Rocket Lab For Polar Energy Monitoring Missions
+- <a href="https://spacenews.com/rocket-lab-to-launch-pair-of-nasa-earth-science-cubesats/" >🔗</a> **[SpaceNews]** Rocket Lab to launch pair of NASA Earth science cubesats
+- <a href="http://www.nasa.gov/press-release/nasa-announces-launch-service-for-arctic-warming-experiment" >🔗</a> **[NASA]** NASA Announces Launch Service for Arctic Warming Experiment
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T040123">2024-05-21 04:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T043134">2024-05-21 04:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
