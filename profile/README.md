@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-satellite-industry-will-answer-the-demand-for-telco-interoperability-with-next-generation-ground-infrastructure/" >🔗</a> **[SpaceNews]** Unlocking Connectivity: The Satellite Industry’s Approach to Achieving Interoperability with Telco
 - <a href="https://spacenews.com/bae-systems-wins-450-million-contract-to-build-weather-satellite-instrument/" >🔗</a> **[SpaceNews]** BAE Systems wins $450 million contract to build weather satellite instrument
 - <a href="https://spacenews.com/viasat-taps-oneweb-to-provide-multi-orbit-maritime-broadband/" >🔗</a> **[SpaceNews]** Viasat taps OneWeb to provide multi-orbit maritime broadband
 - <a href="https://spacenews.com/how-privateer-aims-to-slash-earth-imagery-costs/" >🔗</a> **[SpaceNews]** How Privateer aims to slash Earth imagery costs
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/national-security-memorandum-22-omitted-space-entirely-heres-path-forward/" >🔗</a> **[SpaceNews]** National Security Memorandum-22 omitted space entirely. Here’s a path forward.
 - <a href="https://spacenews.com/china-launches-four-high-resolution-remote-sensing-satellites/" >🔗</a> **[SpaceNews]** China launches four high-resolution remote sensing satellites
 - <a href="https://spacepolicyonline.com/news/ed-dwight-ecstatic-at-finally-reaching-space/" >🔗</a> **[SpacePolicyOnline.com]** Ed Dwight “Ecstatic” At Finally Reaching Space
-- <a href="https://spacenews.com/blue-origin-resumes-crewed-new-shepard-suborbital-flights/" >🔗</a> **[SpaceNews]** Blue Origin resumes crewed New Shepard suborbital flights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T023534">2024-05-21 02:35:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T030128">2024-05-21 03:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
