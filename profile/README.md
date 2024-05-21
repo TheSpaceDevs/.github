@@ -20,36 +20,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Ready, Aim, PREFIRE (PREFIRE 1)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | NROL-146**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T071500">2024-05-22 07:15:00 UTC</a>.  Until
-then, this pad will have been used for 17
-out of 43 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T080000">2024-05-22 08:00:00 UTC</a>.  Until
+then, this pad will have been used for 144
+out of 755 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  First 6U Cubesat carrying a miniaturized IR spectrometer, covering 0- 45 μm at 0.84 μm spectral resolution, operating for one seasonal cycle for NASAs PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) mission.
+  First batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T071500">2024-05-22 07:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ready, Aim, PREFIRE (PREFIRE 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240522T071500Z%2F20240522T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ready, Aim, PREFIRE (PREFIRE 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T080000">2024-05-22 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-146&location=Vandenberg SFB, CA, USA&dates=20240522T080000Z%2F20240522T102800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-146** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T023300">2024-05-23 02:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-62&location=Cape Canaveral, FL, USA&dates=20240523T023300Z%2F20240523T063300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-62** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T224500">2024-05-23 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-63&location=Kennedy Space Center, FL, USA&dates=20240523T224500Z%2F20240524T024500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-63** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240525T071500">2024-05-25 07:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ready, Aim, PREFIRE (PREFIRE 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240525T071500Z%2F20240525T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ready, Aim, PREFIRE (PREFIRE 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240525T190900">2024-05-25 19:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240525T190900Z%2F20240525T190900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T222000">2024-05-28 22:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EarthCARE&location=Vandenberg SFB, CA, USA&dates=20240528T222000Z%2F20240528T222000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EarthCARE** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T094300">2024-05-30 09:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-27 (88P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240530T094300Z%2F20240530T094300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-27 (88P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -105,16 +105,13 @@ into *a Polar Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/nasa-prepares-for-twin-launches-of-climate-science-cubesats/" >🔗</a> **[SpaceNews]** NASA prepares for twin launches of climate science cubesats
-- <a href="https://www.teslarati.com/rocket-lab-prepares-back-to-back-launches-nasa/" >🔗</a> **[Teslarati]** Rocket Lab prepares for back-to-back launches for NASA
-- <a href="https://tlpnetwork.com/news/2023/08/nasa-selects-rocket-lab-for-polar-energy-monitoring-missions" >🔗</a> **[The Launch Pad]** NASA Selects Rocket Lab For Polar Energy Monitoring Missions
-- <a href="https://spacenews.com/rocket-lab-to-launch-pair-of-nasa-earth-science-cubesats/" >🔗</a> **[SpaceNews]** Rocket Lab to launch pair of NASA Earth science cubesats
-- <a href="http://www.nasa.gov/press-release/nasa-announces-launch-service-for-arctic-warming-experiment" >🔗</a> **[NASA]** NASA Announces Launch Service for Arctic Warming Experiment
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-0517/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starliner delayed further; 21st flight for Falcon 9 booster; New Shepard returns to crewed missions
+- <a href="https://spacenews.com/nros-first-batch-of-next-generation-spy-satellites-set-for-launch/" >🔗</a> **[SpaceNews]** NRO’s first batch of next-generation spy satellites set for launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T050104">2024-05-21 05:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T053113">2024-05-21 05:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
