@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-nears-next-starship-test-flight-as-starbase-expansion-continues/" >🔗</a> **[SpaceNews]** SpaceX nears next Starship test flight as Starbase expansion continues
 - <a href="https://spacenews.com/boston-university-wins-collegiate-space-competition/" >🔗</a> **[SpaceNews]** Boston University wins Collegiate Space Competition
 - <a href="https://spacenews.com/pentagon-working-with-spacex-to-cut-off-russian-militarys-illicit-use-of-starlink-internet/" >🔗</a> **[SpaceNews]** Pentagon working with SpaceX to cut off Russian military’s illicit use of Starlink internet
 - <a href="https://spacenews.com/global-navigation-jamming-will-only-get-worse-us-needs-move-fast/" >🔗</a> **[SpaceNews]** Global navigation jamming will only get worse. The U.S. needs to move fast
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/u-s-claims-recently-launched-russian-satellite-is-an-asat/" >🔗</a> **[SpaceNews]** U.S. claims recently launched Russian satellite is an ASAT
 - <a href="https://spacenews.com/the-satellite-industry-will-answer-the-demand-for-telco-interoperability-with-next-generation-ground-infrastructure/" >🔗</a> **[SpaceNews]** Unlocking Connectivity: The Satellite Industry’s Approach to Achieving Interoperability with Telco
 - <a href="https://spacenews.com/bae-systems-wins-450-million-contract-to-build-weather-satellite-instrument/" >🔗</a> **[SpaceNews]** BAE Systems wins $450 million contract to build weather satellite instrument
-- <a href="https://spacenews.com/viasat-taps-oneweb-to-provide-multi-orbit-maritime-broadband/" >🔗</a> **[SpaceNews]** Viasat taps OneWeb to provide multi-orbit maritime broadband
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T223104">2024-05-21 22:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240521T230138">2024-05-21 23:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
