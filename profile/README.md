@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-seeking-leo-capacity-for-all-mobile-broadband-services/" >🔗</a> **[SpaceNews]** Viasat seeking LEO capacity for all mobile broadband services
 - <a href="https://spacenews.com/space-force-selects-companies-to-develop-concepts-for-simulated-space-war-training-range/" >🔗</a> **[SpaceNews]** Space Force selects companies to develop concepts for simulated space war training range
 - <a href="https://spacenews.com/nasa-report-identifies-cost-effective-approaches-to-dealing-with-orbital-debris/" >🔗</a> **[SpaceNews]** NASA report identifies cost-effective approaches to dealing with orbital debris
 - <a href="https://www.teslarati.com/blue-origin-launches-first-crewed-mission-over-one-year/" >🔗</a> **[Teslarati]** Blue Origin launches first crewed mission in over a year
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-selects-thales-alenia-space-and-the-exploration-company-for-commercial-cargo-program/" >🔗</a> **[SpaceNews]** ESA selects Thales Alenia Space and The Exploration Company for commercial cargo program
 - <a href="https://spacenews.com/why-are-the-department-of-defense-and-space-force-talking-about-buying-foreign-space-technology/" >🔗</a> **[SpaceNews]** Why are the Department of Defense and Space Force talking about buying foreign space technology?
 - <a href="https://spacenews.com/beames-is-trustpoints-new-executive-chairman/" >🔗</a> **[SpaceNews]** Beames is TrustPoint’s new executive chairman
-- <a href="https://spacenews.com/spacex-launches-nros-first-batch-of-next-generation-spy-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches NRO’s first batch of next-generation spy satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T213054">2024-05-22 21:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T220113">2024-05-22 22:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
