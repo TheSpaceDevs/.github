@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/blue-origin-launches-first-crewed-mission-over-one-year/" >🔗</a> **[Teslarati]** Blue Origin launches first crewed mission in over a year
+- <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-once-more/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record once more
+- <a href="https://spacenews.com/dod-forecasts-about-1-7-billion-in-commercial-satcom-buys-over-the-coming-year/" >🔗</a> **[SpaceNews]** DoD forecasts about $1.7 billion in commercial satcom buys over the coming year
+- <a href="https://spacenews.com/how-artemis-astronauts-protected-solar-storms/" >🔗</a> **[SpaceNews]** How Artemis astronauts will be protected from solar storms
+- <a href="https://spacenews.com/esa-selects-thales-alenia-space-and-the-exploration-company-for-commercial-cargo-program/" >🔗</a> **[SpaceNews]** ESA selects Thales Alenia Space and The Exploration Company for commercial cargo program
 - <a href="https://spacenews.com/why-are-the-department-of-defense-and-space-force-talking-about-buying-foreign-space-technology/" >🔗</a> **[SpaceNews]** Why are the Department of Defense and Space Force talking about buying foreign space technology?
 - <a href="https://spacenews.com/beames-is-trustpoints-new-executive-chairman/" >🔗</a> **[SpaceNews]** Beames is TrustPoint’s new executive chairman
 - <a href="https://spacenews.com/spacex-launches-nros-first-batch-of-next-generation-spy-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches NRO’s first batch of next-generation spy satellites
 - <a href="https://spacepolicyonline.com/news/starliner-cft-slips-again-with-no-new-date-set/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Slips Again With No New Date Set
 - <a href="https://spacenews.com/dominican-republic-considering-its-own-commercial-spaceport/" >🔗</a> **[SpaceNews]** Dominican Republic considering its own commercial spaceport
-- <a href="https://spacepolicyonline.com/news/jeff-bingham-passes-away-at-77/" >🔗</a> **[SpacePolicyOnline.com]** Jeff Bingham Passes Away at 77
-- <a href="https://spacenews.com/starliner-crewed-test-flight-remains-on-hold/" >🔗</a> **[SpaceNews]** Starliner crewed test flight remains on hold
-- <a href="https://spacenews.com/spacex-nears-next-starship-test-flight-as-starbase-expansion-continues/" >🔗</a> **[SpaceNews]** SpaceX nears next Starship test flight as Starbase expansion continues
-- <a href="https://spacenews.com/boston-university-wins-collegiate-space-competition/" >🔗</a> **[SpaceNews]** Boston University wins Collegiate Space Competition
-- <a href="https://spacenews.com/pentagon-working-with-spacex-to-cut-off-russian-militarys-illicit-use-of-starlink-internet/" >🔗</a> **[SpaceNews]** Pentagon working with SpaceX to cut off Russian military’s illicit use of Starlink internet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T153056">2024-05-22 15:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T160119">2024-05-22 16:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
