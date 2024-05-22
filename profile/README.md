@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/beames-is-trustpoints-new-executive-chairman/" >🔗</a> **[SpaceNews]** Beames is TrustPoint’s new executive chairman
 - <a href="https://spacenews.com/spacex-launches-nros-first-batch-of-next-generation-spy-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches NRO’s first batch of next-generation spy satellites
 - <a href="https://spacepolicyonline.com/news/starliner-cft-slips-again-with-no-new-date-set/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Slips Again With No New Date Set
 - <a href="https://spacenews.com/dominican-republic-considering-its-own-commercial-spaceport/" >🔗</a> **[SpaceNews]** Dominican Republic considering its own commercial spaceport
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boston-university-wins-collegiate-space-competition/" >🔗</a> **[SpaceNews]** Boston University wins Collegiate Space Competition
 - <a href="https://spacenews.com/pentagon-working-with-spacex-to-cut-off-russian-militarys-illicit-use-of-starlink-internet/" >🔗</a> **[SpaceNews]** Pentagon working with SpaceX to cut off Russian military’s illicit use of Starlink internet
 - <a href="https://spacenews.com/global-navigation-jamming-will-only-get-worse-us-needs-move-fast/" >🔗</a> **[SpaceNews]** Global navigation jamming will only get worse. The U.S. needs to move fast
-- <a href="https://spacenews.com/ariane-6-inaugural-launch-planned-for-first-half-of-july/" >🔗</a> **[SpaceNews]** Ariane 6 inaugural launch planned for first half of July
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T130240">2024-05-22 13:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T133111">2024-05-22 13:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
