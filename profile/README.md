@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starliner-cft-slips-again-with-no-new-date-set/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Slips Again With No New Date Set
 - <a href="https://spacenews.com/dominican-republic-considering-its-own-commercial-spaceport/" >🔗</a> **[SpaceNews]** Dominican Republic considering its own commercial spaceport
 - <a href="https://spacepolicyonline.com/news/jeff-bingham-passes-away-at-77/" >🔗</a> **[SpacePolicyOnline.com]** Jeff Bingham Passes Away at 77
 - <a href="https://spacenews.com/starliner-crewed-test-flight-remains-on-hold/" >🔗</a> **[SpaceNews]** Starliner crewed test flight remains on hold
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/global-navigation-jamming-will-only-get-worse-us-needs-move-fast/" >🔗</a> **[SpaceNews]** Global navigation jamming will only get worse. The U.S. needs to move fast
 - <a href="https://spacenews.com/ariane-6-inaugural-launch-planned-for-first-half-of-july/" >🔗</a> **[SpaceNews]** Ariane 6 inaugural launch planned for first half of July
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-the-oldest-merger-of-two-black-holes-to-date/" >🔗</a> **[Arstechnica]** Daily Telescope: Black holes have been merging for a long, long time
-- <a href="https://spacenews.com/china-to-expand-commercial-spaceport-to-support-upcoming-launch-surge/" >🔗</a> **[SpaceNews]** China to expand commercial spaceport to support upcoming launch surge
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T050119">2024-05-22 05:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T053214">2024-05-22 05:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
