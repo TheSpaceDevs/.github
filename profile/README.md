@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dominican-republic-considering-its-own-commercial-spaceport/" >🔗</a> **[SpaceNews]** Dominican Republic considering its own commercial spaceport
+- <a href="https://spacepolicyonline.com/news/jeff-bingham-passes-away-at-77/" >🔗</a> **[SpacePolicyOnline.com]** Jeff Bingham Passes Away at 77
 - <a href="https://spacenews.com/starliner-crewed-test-flight-remains-on-hold/" >🔗</a> **[SpaceNews]** Starliner crewed test flight remains on hold
 - <a href="https://spacenews.com/spacex-nears-next-starship-test-flight-as-starbase-expansion-continues/" >🔗</a> **[SpaceNews]** SpaceX nears next Starship test flight as Starbase expansion continues
 - <a href="https://spacenews.com/boston-university-wins-collegiate-space-competition/" >🔗</a> **[SpaceNews]** Boston University wins Collegiate Space Competition
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ariane-6-inaugural-launch-planned-for-first-half-of-july/" >🔗</a> **[SpaceNews]** Ariane 6 inaugural launch planned for first half of July
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-the-oldest-merger-of-two-black-holes-to-date/" >🔗</a> **[Arstechnica]** Daily Telescope: Black holes have been merging for a long, long time
 - <a href="https://spacenews.com/china-to-expand-commercial-spaceport-to-support-upcoming-launch-surge/" >🔗</a> **[SpaceNews]** China to expand commercial spaceport to support upcoming launch surge
-- <a href="https://spacenews.com/u-s-claims-recently-launched-russian-satellite-is-an-asat/" >🔗</a> **[SpaceNews]** U.S. claims recently launched Russian satellite is an ASAT
-- <a href="https://spacenews.com/the-satellite-industry-will-answer-the-demand-for-telco-interoperability-with-next-generation-ground-infrastructure/" >🔗</a> **[SpaceNews]** Unlocking Connectivity: The Satellite Industry’s Approach to Achieving Interoperability with Telco
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T040124">2024-05-22 04:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T043221">2024-05-22 04:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
