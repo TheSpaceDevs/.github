@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T023300">2024-05-23 02:33:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T023500">2024-05-23 02:35:00 UTC</a>.  Until
 then, this pad will have been used for 242
 out of 953 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T023300">2024-05-23 02:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-62&location=Cape Canaveral, FL, USA&dates=20240523T023300Z%2F20240523T063300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-62** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T023500">2024-05-23 02:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-62&location=Cape Canaveral, FL, USA&dates=20240523T023500Z%2F20240523T063300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-62** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T224500">2024-05-23 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-63&location=Kennedy Space Center, FL, USA&dates=20240523T224500Z%2F20240524T024500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-63** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240525T071500">2024-05-25 07:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ready, Aim, PREFIRE (PREFIRE 1)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240525T071500Z%2F20240525T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ready, Aim, PREFIRE (PREFIRE 1)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240527T113000">2024-05-27 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-60&location=Cape Canaveral, FL, USA&dates=20240527T113000Z%2F20240527T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-60** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-are-the-department-of-defense-and-space-force-talking-about-buying-foreign-space-technology/" >🔗</a> **[SpaceNews]** Why are the Department of Defense and Space Force talking about buying foreign space technology?
 - <a href="https://spacenews.com/beames-is-trustpoints-new-executive-chairman/" >🔗</a> **[SpaceNews]** Beames is TrustPoint’s new executive chairman
 - <a href="https://spacenews.com/spacex-launches-nros-first-batch-of-next-generation-spy-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches NRO’s first batch of next-generation spy satellites
 - <a href="https://spacepolicyonline.com/news/starliner-cft-slips-again-with-no-new-date-set/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Slips Again With No New Date Set
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-nears-next-starship-test-flight-as-starbase-expansion-continues/" >🔗</a> **[SpaceNews]** SpaceX nears next Starship test flight as Starbase expansion continues
 - <a href="https://spacenews.com/boston-university-wins-collegiate-space-competition/" >🔗</a> **[SpaceNews]** Boston University wins Collegiate Space Competition
 - <a href="https://spacenews.com/pentagon-working-with-spacex-to-cut-off-russian-militarys-illicit-use-of-starlink-internet/" >🔗</a> **[SpaceNews]** Pentagon working with SpaceX to cut off Russian military’s illicit use of Starlink internet
-- <a href="https://spacenews.com/global-navigation-jamming-will-only-get-worse-us-needs-move-fast/" >🔗</a> **[SpaceNews]** Global navigation jamming will only get worse. The U.S. needs to move fast
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T143109">2024-05-22 14:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240522T150134">2024-05-22 15:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
