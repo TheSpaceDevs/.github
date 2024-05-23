@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html" >🔗</a> **[CNBC]** Investing in Space: How the Pentagon is making use of AI with spy satellite data
 - <a href="https://spacenews.com/u-s-seeks-bids-from-satellite-manufacturers-for-military-space-test-program/" >🔗</a> **[SpaceNews]** U.S. seeks bids from satellite manufacturers for military Space Test Program
 - <a href="https://spacenews.com/intelsat-extends-satellite-life-extension-contracts/" >🔗</a> **[SpaceNews]** Intelsat extends satellite life extension contracts
 - <a href="https://spacenews.com/the-satellite-industry-will-answer-the-demand-for-telco-interoperability-with-next-generation-ground-infrastructure/" >🔗</a> **[SpaceNews]** From Orbit to Ground: What’s next?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/viasat-seeking-leo-capacity-for-all-mobile-broadband-services/" >🔗</a> **[SpaceNews]** Viasat seeking LEO capacity for all mobile broadband services
 - <a href="https://spacenews.com/space-force-selects-companies-to-develop-concepts-for-simulated-space-war-training-range/" >🔗</a> **[SpaceNews]** Space Force selects companies to develop concepts for simulated space war training range
 - <a href="https://spacenews.com/nasa-report-identifies-cost-effective-approaches-to-dealing-with-orbital-debris/" >🔗</a> **[SpaceNews]** NASA report identifies cost-effective approaches to dealing with orbital debris
-- <a href="https://www.teslarati.com/blue-origin-launches-first-crewed-mission-over-one-year/" >🔗</a> **[Teslarati]** Blue Origin launches first crewed mission in over a year
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T190107">2024-05-23 19:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T193105">2024-05-23 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
