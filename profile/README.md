@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/stanford-center-focuses-on-spacecraft-autonomy/" >🔗</a> **[SpaceNews]** Stanford center focuses on spacecraft autonomy
 - <a href="https://spacenews.com/airbus-to-build-esa-space-science-satellite/" >🔗</a> **[SpaceNews]** Airbus to build ESA space science satellite
 - <a href="https://spacenews.com/house-armed-services-committee-advances-2025-defense-policy-bill/" >🔗</a> **[SpaceNews]** House Armed Services Committee advances 2025 defense policy bill
 - <a href="https://spacenews.com/viasat-seeking-leo-capacity-for-all-mobile-broadband-services/" >🔗</a> **[SpaceNews]** Viasat seeking LEO capacity for all mobile broadband services
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-once-more/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record once more
 - <a href="https://spacenews.com/dod-forecasts-about-1-7-billion-in-commercial-satcom-buys-over-the-coming-year/" >🔗</a> **[SpaceNews]** DoD forecasts about $1.7 billion in commercial satcom buys over the coming year
 - <a href="https://spacenews.com/how-artemis-astronauts-protected-solar-storms/" >🔗</a> **[SpaceNews]** How Artemis astronauts will be protected from solar storms
-- <a href="https://spacenews.com/esa-selects-thales-alenia-space-and-the-exploration-company-for-commercial-cargo-program/" >🔗</a> **[SpaceNews]** ESA selects Thales Alenia Space and The Exploration Company for commercial cargo program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T120134">2024-05-23 12:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T123851">2024-05-23 12:38:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
