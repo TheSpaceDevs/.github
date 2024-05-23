@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-seeks-bids-from-satellite-manufacturers-for-military-space-test-program/" >🔗</a> **[SpaceNews]** U.S. seeks bids from satellite manufacturers for military Space Test Program
 - <a href="https://spacenews.com/intelsat-extends-satellite-life-extension-contracts/" >🔗</a> **[SpaceNews]** Intelsat extends satellite life extension contracts
 - <a href="https://spacenews.com/the-satellite-industry-will-answer-the-demand-for-telco-interoperability-with-next-generation-ground-infrastructure/" >🔗</a> **[SpaceNews]** From Orbit to Ground: What’s next?
 - <a href="https://spacenews.com/stanford-center-focuses-on-spacecraft-autonomy/" >🔗</a> **[SpaceNews]** Stanford center focuses on spacecraft autonomy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-selects-companies-to-develop-concepts-for-simulated-space-war-training-range/" >🔗</a> **[SpaceNews]** Space Force selects companies to develop concepts for simulated space war training range
 - <a href="https://spacenews.com/nasa-report-identifies-cost-effective-approaches-to-dealing-with-orbital-debris/" >🔗</a> **[SpaceNews]** NASA report identifies cost-effective approaches to dealing with orbital debris
 - <a href="https://www.teslarati.com/blue-origin-launches-first-crewed-mission-over-one-year/" >🔗</a> **[Teslarati]** Blue Origin launches first crewed mission in over a year
-- <a href="https://www.teslarati.com/spacex-breaks-falcon-9-flight-record-once-more/" >🔗</a> **[Teslarati]** SpaceX breaks Falcon 9 flight record once more
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T180147">2024-05-23 18:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T183222">2024-05-23 18:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
