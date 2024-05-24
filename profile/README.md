@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-defends-artemis-cost-and-schedule-amid-planning-of-possible-changes/" >🔗</a> **[SpaceNews]** NASA defends Artemis cost and schedule amid planning of possible changes
 - <a href="https://www.nasaspaceflight.com/2024/05/gateway-launch-date/" >🔗</a> **[NASASpaceflight]** Initial Gateway elements beginning systems integration while NASA works on a launch date
 - <a href="https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html" >🔗</a> **[CNBC]** Investing in Space: How the Pentagon is making use of AI with spy satellite data
 - <a href="https://spacenews.com/u-s-seeks-bids-from-satellite-manufacturers-for-military-space-test-program/" >🔗</a> **[SpaceNews]** U.S. seeks bids from satellite manufacturers for military Space Test Program
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/airbus-to-build-esa-space-science-satellite/" >🔗</a> **[SpaceNews]** Airbus to build ESA space science satellite
 - <a href="https://spacenews.com/house-armed-services-committee-advances-2025-defense-policy-bill/" >🔗</a> **[SpaceNews]** House Armed Services Committee advances 2025 defense policy bill
 - <a href="https://spacenews.com/viasat-seeking-leo-capacity-for-all-mobile-broadband-services/" >🔗</a> **[SpaceNews]** Viasat seeking LEO capacity for all mobile broadband services
-- <a href="https://spacenews.com/space-force-selects-companies-to-develop-concepts-for-simulated-space-war-training-range/" >🔗</a> **[SpaceNews]** Space Force selects companies to develop concepts for simulated space war training range
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240523T233056">2024-05-23 23:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T000423">2024-05-24 00:04:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
