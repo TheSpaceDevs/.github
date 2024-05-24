@@ -91,6 +91,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/" >🔗</a> **[Arstechnica]** SpaceX sets date for next Starship flight, explains what went wrong the last time
 - <a href="https://www.cnbc.com/2024/05/24/boeing-nasa-starliner-astronaut-launch-moving-forward.html" >🔗</a> **[CNBC]** Boeing, NASA say Starliner astronaut launch will move forward despite spacecraft helium leak
 - <a href="https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-observing-a-distant-star-nursery-in-unprecedented-detail/" >🔗</a> **[Arstechnica]** Daily Telescope: The initial results from Europe’s Euclid telescope are dazzling
@@ -100,7 +101,6 @@ into *a Polar Orbit
 - <a href="https://www.nasaspaceflight.com/2024/05/gateway-launch-date/" >🔗</a> **[NASASpaceflight]** Initial Gateway elements beginning systems integration while NASA works on a launch date
 - <a href="https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html" >🔗</a> **[CNBC]** Investing in Space: How the Pentagon is making use of AI with spy satellite data
 - <a href="https://spacenews.com/u-s-seeks-bids-from-satellite-manufacturers-for-military-space-test-program/" >🔗</a> **[SpaceNews]** U.S. seeks bids from satellite manufacturers for military Space Test Program
-- <a href="https://spacenews.com/intelsat-extends-satellite-life-extension-contracts/" >🔗</a> **[SpaceNews]** Intelsat extends satellite life extension contracts
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T180110">2024-05-24 18:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T183238">2024-05-24 18:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
