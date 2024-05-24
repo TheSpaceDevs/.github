@@ -91,6 +91,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale
+- <a href="https://arstechnica.com/space/2024/05/daily-telescope-observing-a-distant-star-nursery-in-unprecedented-detail/" >🔗</a> **[Arstechnica]** Daily Telescope: The initial results from Europe’s Euclid telescope are dazzling
 - <a href="https://spacenews.com/eu-and-esa-seek-increased-competitiveness-of-european-space-sector/" >🔗</a> **[SpaceNews]** EU and ESA seek increased competitiveness of European space sector
 - <a href="https://spacepolicyonline.com/news/senate-cjs-appropriators-see-artemis-as-top-nasa-priority/" >🔗</a> **[SpacePolicyOnline.com]** Senate CJS Appropriators See Artemis as Top NASA Priority
 - <a href="https://spacenews.com/nasa-defends-artemis-cost-and-schedule-amid-planning-of-possible-changes/" >🔗</a> **[SpaceNews]** NASA defends Artemis cost and schedule amid planning of possible changes
@@ -99,8 +101,6 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/u-s-seeks-bids-from-satellite-manufacturers-for-military-space-test-program/" >🔗</a> **[SpaceNews]** U.S. seeks bids from satellite manufacturers for military Space Test Program
 - <a href="https://spacenews.com/intelsat-extends-satellite-life-extension-contracts/" >🔗</a> **[SpaceNews]** Intelsat extends satellite life extension contracts
 - <a href="https://spacenews.com/the-satellite-industry-will-answer-the-demand-for-telco-interoperability-with-next-generation-ground-infrastructure/" >🔗</a> **[SpaceNews]** From Orbit to Ground: What’s next?
-- <a href="https://spacenews.com/stanford-center-focuses-on-spacecraft-autonomy/" >🔗</a> **[SpaceNews]** Stanford center focuses on spacecraft autonomy
-- <a href="https://spacenews.com/airbus-to-build-esa-space-science-satellite/" >🔗</a> **[SpaceNews]** Airbus to build ESA space science satellite
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T120143">2024-05-24 12:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T123912">2024-05-24 12:39:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
