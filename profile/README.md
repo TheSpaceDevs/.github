@@ -91,6 +91,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bringing-generative-artificial-intelligence-to-space/" >🔗</a> **[SpaceNews]** Bringing generative artificial intelligence to space
+- <a href="https://spacenews.com/spacex-sets-early-june-launch-of-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX sets early June launch of next Starship test flight
 - <a href="https://spacenews.com/nasa-and-boeing-moving-ahead-with-starliner-test-flight-after-propulsion-issues/" >🔗</a> **[SpaceNews]** NASA and Boeing moving ahead with Starliner test flight after propulsion issues
 - <a href="https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/" >🔗</a> **[Arstechnica]** SpaceX sets date for next Starship flight, explains what went wrong the last time
 - <a href="https://www.cnbc.com/2024/05/24/boeing-nasa-starliner-astronaut-launch-moving-forward.html" >🔗</a> **[CNBC]** Boeing, NASA say Starliner astronaut launch will move forward despite spacecraft helium leak
@@ -99,8 +101,6 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/eu-and-esa-seek-increased-competitiveness-of-european-space-sector/" >🔗</a> **[SpaceNews]** EU and ESA seek increased competitiveness of European space sector
 - <a href="https://spacepolicyonline.com/news/senate-cjs-appropriators-see-artemis-as-top-nasa-priority/" >🔗</a> **[SpacePolicyOnline.com]** Senate CJS Appropriators See Artemis as Top NASA Priority
 - <a href="https://spacenews.com/nasa-defends-artemis-cost-and-schedule-amid-planning-of-possible-changes/" >🔗</a> **[SpaceNews]** NASA defends Artemis cost and schedule amid planning of possible changes
-- <a href="https://www.nasaspaceflight.com/2024/05/gateway-launch-date/" >🔗</a> **[NASASpaceflight]** Initial Gateway elements beginning systems integration while NASA works on a launch date
-- <a href="https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html" >🔗</a> **[CNBC]** Investing in Space: How the Pentagon is making use of AI with spy satellite data
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T203058">2024-05-24 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240524T210121">2024-05-24 21:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
