@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-to-procure-dedicated-ground-systems-for-missile-defense-experiments/" >🔗</a> **[SpaceNews]** Space Development Agency to procure dedicated ground systems for missile defense experiments
 - <a href="https://spacepolicyonline.com/news/nasa-boeing-ula-decide-to-proceed-with-starliner-cft-on-june-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing, ULA Decide to Proceed with Starliner CFT on June 1
 - <a href="https://spacenews.com/bringing-generative-artificial-intelligence-to-space/" >🔗</a> **[SpaceNews]** Bringing generative artificial intelligence to space
 - <a href="https://spacenews.com/spacex-sets-early-june-launch-of-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX sets early June launch of next Starship test flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-observing-a-distant-star-nursery-in-unprecedented-detail/" >🔗</a> **[Arstechnica]** Daily Telescope: The initial results from Europe’s Euclid telescope are dazzling
 - <a href="https://spacenews.com/eu-and-esa-seek-increased-competitiveness-of-european-space-sector/" >🔗</a> **[SpaceNews]** EU and ESA seek increased competitiveness of European space sector
-- <a href="https://spacepolicyonline.com/news/senate-cjs-appropriators-see-artemis-as-top-nasa-priority/" >🔗</a> **[SpacePolicyOnline.com]** Senate CJS Appropriators See Artemis as Top NASA Priority
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240525T113104">2024-05-25 11:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240525T120139">2024-05-25 12:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
