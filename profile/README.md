@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-secretive-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane releases object into orbit
 - <a href="https://spacenews.com/nasa-and-isro-continue-discussions-about-indian-astronaut-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA and ISRO continue discussions about Indian astronaut flight to ISS
 - <a href="https://spacenews.com/electron-launches-first-nasa-prefire-earth-science-cubesat/" >🔗</a> **[SpaceNews]** Electron launches first NASA PREFIRE Earth science cubesat
 - <a href="https://spacenews.com/space-development-agency-to-procure-dedicated-ground-systems-for-missile-defense-experiments/" >🔗</a> **[SpaceNews]** Space Development Agency to procure dedicated ground systems for missile defense experiments
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-and-boeing-moving-ahead-with-starliner-test-flight-after-propulsion-issues/" >🔗</a> **[SpaceNews]** NASA and Boeing moving ahead with Starliner test flight after propulsion issues
 - <a href="https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/" >🔗</a> **[Arstechnica]** SpaceX sets date for next Starship flight, explains what went wrong the last time
 - <a href="https://www.cnbc.com/2024/05/24/boeing-nasa-starliner-astronaut-launch-moving-forward.html" >🔗</a> **[CNBC]** Boeing, NASA say Starliner astronaut launch will move forward despite spacecraft helium leak
-- <a href="https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240526T073109">2024-05-26 07:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240526T080126">2024-05-26 08:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
