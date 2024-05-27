@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 - <a href="https://www.spacescout.info/2024/05/esa-and-spacex-prepare-to-launch-earthcare/" >🔗</a> **[Space Scout]** ESA and SpaceX Prepare to Launch EarthCARE
 - <a href="https://spacenews.com/chinese-firm-files-plans-for-10000-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese firm files plans for 10,000-satellite constellation
 - <a href="https://spacenews.com/satellogic-lays-off-13-of-workforce/" >🔗</a> **[SpaceNews]** Satellogic lays off 13% of workforce
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-and-isro-continue-discussions-about-indian-astronaut-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA and ISRO continue discussions about Indian astronaut flight to ISS
 - <a href="https://spacenews.com/electron-launches-first-nasa-prefire-earth-science-cubesat/" >🔗</a> **[SpaceNews]** Electron launches first NASA PREFIRE Earth science cubesat
 - <a href="https://spacenews.com/space-development-agency-to-procure-dedicated-ground-systems-for-missile-defense-experiments/" >🔗</a> **[SpaceNews]** Space Development Agency to procure dedicated ground systems for missile defense experiments
-- <a href="https://spacepolicyonline.com/news/nasa-boeing-ula-decide-to-proceed-with-starliner-cft-on-june-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing, ULA Decide to Proceed with Starliner CFT on June 1
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240527T223100">2024-05-27 22:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240527T230123">2024-05-27 23:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
