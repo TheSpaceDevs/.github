@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellogic-lays-off-13-of-workforce/" >🔗</a> **[SpaceNews]** Satellogic lays off 13% of workforce
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-26-june-2-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 26-June 2, 2024
 - <a href="https://www.spacescout.info/2024/05/dream-chaser-arrives-at-ksc/" >🔗</a> **[Space Scout]** Dream Chaser Arrives at KSC
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane releases object into orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-boeing-ula-decide-to-proceed-with-starliner-cft-on-june-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing, ULA Decide to Proceed with Starliner CFT on June 1
 - <a href="https://spacenews.com/bringing-generative-artificial-intelligence-to-space/" >🔗</a> **[SpaceNews]** Bringing generative artificial intelligence to space
 - <a href="https://spacenews.com/spacex-sets-early-june-launch-of-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX sets early June launch of next Starship test flight
-- <a href="https://spacenews.com/nasa-and-boeing-moving-ahead-with-starliner-test-flight-after-propulsion-issues/" >🔗</a> **[SpaceNews]** NASA and Boeing moving ahead with Starliner test flight after propulsion issues
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240527T153055">2024-05-27 15:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240527T160204">2024-05-27 16:02:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
