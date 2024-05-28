@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T113000">2024-05-28 11:30:00 UTC</a>.  Until
 then, this pad will have been used for 243
 out of 954 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T113000">2024-05-28 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-60&location=Cape Canaveral, FL, USA&dates=20240528T113000Z%2F20240528T152800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-60** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T222000">2024-05-28 22:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EarthCARE&location=Vandenberg SFB, CA, USA&dates=20240528T222000Z%2F20240528T222000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EarthCARE** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T080000">2024-05-29 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240529T080000Z%2F20240529T085000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T094259">2024-05-30 09:42:59 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-27 (88P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240530T094259Z%2F20240530T094259Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-27 (88P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/deep-blue-aerospace-secures-fresh-funding-ahead-of-first-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures fresh funding ahead of first orbital launch
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 - <a href="https://www.spacescout.info/2024/05/esa-and-spacex-prepare-to-launch-earthcare/" >🔗</a> **[Space Scout]** ESA and SpaceX Prepare to Launch EarthCARE
 - <a href="https://spacenews.com/chinese-firm-files-plans-for-10000-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese firm files plans for 10,000-satellite constellation
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane releases object into orbit
 - <a href="https://spacenews.com/nasa-and-isro-continue-discussions-about-indian-astronaut-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA and ISRO continue discussions about Indian astronaut flight to ISS
 - <a href="https://spacenews.com/electron-launches-first-nasa-prefire-earth-science-cubesat/" >🔗</a> **[SpaceNews]** Electron launches first NASA PREFIRE Earth science cubesat
-- <a href="https://spacenews.com/space-development-agency-to-procure-dedicated-ground-systems-for-missile-defense-experiments/" >🔗</a> **[SpaceNews]** Space Development Agency to procure dedicated ground systems for missile defense experiments
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T110104">2024-05-28 11:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T113135">2024-05-28 11:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
