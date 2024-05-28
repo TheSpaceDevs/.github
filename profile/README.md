@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/colossus-processor-gains-flight-heritage/" >🔗</a> **[SpaceNews]** Colossus processor gains flight heritage
 - <a href="https://spacenews.com/how-privacy-preserving-technology-can-advance-satellite-collision-detection/" >🔗</a> **[SpaceNews]** How privacy-preserving technology can advance satellite collision detection
 - <a href="https://spacenews.com/deep-blue-aerospace-secures-fresh-funding-ahead-of-first-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures fresh funding ahead of first orbital launch
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 - <a href="https://www.spacescout.info/2024/05/esa-and-spacex-prepare-to-launch-earthcare/" >🔗</a> **[Space Scout]** ESA and SpaceX Prepare to Launch EarthCARE
+- <a href="https://www.teslarati.com/spacex-announces-next-starship-test-flight-date/" >🔗</a> **[Teslarati]** SpaceX announces next Starship test flight date
 - <a href="https://spacenews.com/chinese-firm-files-plans-for-10000-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese firm files plans for 10,000-satellite constellation
 - <a href="https://spacenews.com/satellogic-lays-off-13-of-workforce/" >🔗</a> **[SpaceNews]** Satellogic lays off 13% of workforce
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-26-june-2-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 26-June 2, 2024
 - <a href="https://www.spacescout.info/2024/05/dream-chaser-arrives-at-ksc/" >🔗</a> **[Space Scout]** Dream Chaser Arrives at KSC
-- <a href="https://spacenews.com/chinas-secretive-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane releases object into orbit
-- <a href="https://spacenews.com/nasa-and-isro-continue-discussions-about-indian-astronaut-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA and ISRO continue discussions about Indian astronaut flight to ISS
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T160116">2024-05-28 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T170125">2024-05-28 17:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
