@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-privacy-preserving-technology-can-advance-satellite-collision-detection/" >🔗</a> **[SpaceNews]** How privacy-preserving technology can advance satellite collision detection
 - <a href="https://spacenews.com/deep-blue-aerospace-secures-fresh-funding-ahead-of-first-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures fresh funding ahead of first orbital launch
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 - <a href="https://www.spacescout.info/2024/05/esa-and-spacex-prepare-to-launch-earthcare/" >🔗</a> **[Space Scout]** ESA and SpaceX Prepare to Launch EarthCARE
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/05/dream-chaser-arrives-at-ksc/" >🔗</a> **[Space Scout]** Dream Chaser Arrives at KSC
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-releases-object-into-orbit/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane releases object into orbit
 - <a href="https://spacenews.com/nasa-and-isro-continue-discussions-about-indian-astronaut-flight-to-iss/" >🔗</a> **[SpaceNews]** NASA and ISRO continue discussions about Indian astronaut flight to ISS
-- <a href="https://spacenews.com/electron-launches-first-nasa-prefire-earth-science-cubesat/" >🔗</a> **[SpaceNews]** Electron launches first NASA PREFIRE Earth science cubesat
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T130245">2024-05-28 13:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T133107">2024-05-28 13:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
