@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch EarthCARE climate research satellite for ESA and JAXA
 - <a href="https://spacenews.com/japanese-satellite-order-puts-geo-market-on-part-with-2023/" >🔗</a> **[SpaceNews]** Japanese satellite order puts GEO market on par with 2023
 - <a href="https://www.teslarati.com/rocket-lab-launches-first-back-to-back-missions-for-nasa/" >🔗</a> **[Teslarati]** Rocket Lab launches first of back-to-back missions for NASA
 - <a href="https://spacenews.com/colossus-processor-gains-flight-heritage/" >🔗</a> **[SpaceNews]** Colossus processor gains flight heritage
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacescout.info/2024/05/esa-and-spacex-prepare-to-launch-earthcare/" >🔗</a> **[Space Scout]** ESA and SpaceX Prepare to Launch EarthCARE
 - <a href="https://www.teslarati.com/spacex-announces-next-starship-test-flight-date/" >🔗</a> **[Teslarati]** SpaceX announces next Starship test flight date
 - <a href="https://spacenews.com/chinese-firm-files-plans-for-10000-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese firm files plans for 10,000-satellite constellation
-- <a href="https://spacenews.com/satellogic-lays-off-13-of-workforce/" >🔗</a> **[SpaceNews]** Satellogic lays off 13% of workforce
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T203103">2024-05-28 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T210131">2024-05-28 21:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
