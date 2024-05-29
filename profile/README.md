@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/leocloud-to-send-space-edge-datacenter-to-iss/" >🔗</a> **[SpaceNews]** LEOcloud to send Space Edge datacenter to ISS
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-see-carbon-dioxide-sublimating-on-mars/" >🔗</a> **[Arstechnica]** Daily Telescope: See carbon dioxide sublimating on Mars
-- <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile partners with Verizon, adding to AT&T deal for satellite internet to phones
+- <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile stock surges 30% after Verizon partnership for satellite internet to phones
 - <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
 - <a href="https://spacenews.com/open-cosmos-wins-greek-government-satellite-contract/" >🔗</a> **[SpaceNews]** Open Cosmos wins Greek government satellite contract
 - <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T133108">2024-05-29 13:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T140128">2024-05-29 14:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
