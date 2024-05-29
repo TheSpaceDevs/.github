@@ -91,7 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch EarthCARE climate research satellite for ESA and JAXA
+- <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX has launched the EarthCARE climate research satellite for ESA and JAXA
 - <a href="https://spacenews.com/japanese-satellite-order-puts-geo-market-on-part-with-2023/" >🔗</a> **[SpaceNews]** Japanese satellite order puts GEO market on par with 2023
 - <a href="https://www.teslarati.com/rocket-lab-launches-first-back-to-back-missions-for-nasa/" >🔗</a> **[Teslarati]** Rocket Lab launches first of back-to-back missions for NASA
 - <a href="https://spacenews.com/colossus-processor-gains-flight-heritage/" >🔗</a> **[SpaceNews]** Colossus processor gains flight heritage
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240528T233103">2024-05-28 23:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T000405">2024-05-29 00:04:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
