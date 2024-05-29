@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leocloud-to-send-space-edge-datacenter-to-iss/" >🔗</a> **[SpaceNews]** LEOcloud to send Space Edge datacenter to ISS
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-see-carbon-dioxide-sublimating-on-mars/" >🔗</a> **[Arstechnica]** Daily Telescope: See carbon dioxide sublimating on Mars
 - <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile partners with Verizon, adding to AT&T deal for satellite internet to phones
 - <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/falcon-9-launches-esas-earthcare-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s EarthCARE mission
 - <a href="https://spacenews.com/thinkorbital-developing-satellite-repair-toolkit-with-x-ray-vision/" >🔗</a> **[SpaceNews]** ThinkOrbital developing satellite repair toolkit with X-ray vision
 - <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX has launched the EarthCARE climate research satellite for ESA and JAXA
-- <a href="https://spacenews.com/japanese-satellite-order-puts-geo-market-on-part-with-2023/" >🔗</a> **[SpaceNews]** Japanese satellite order puts GEO market on par with 2023
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T130225">2024-05-29 13:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T133108">2024-05-29 13:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
