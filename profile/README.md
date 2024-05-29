@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-chair-proposes-new-rules-for-accidental-space-explosion-risk/" >🔗</a> **[SpaceNews]** FCC chair proposes new rules for accidental space explosion risk
 - <a href="https://spacenews.com/gop-senator-calls-for-boosting-space-force-capabilities-to-counter-china/" >🔗</a> **[SpaceNews]** GOP senator calls for boosting Space Force capabilities to counter China
 - <a href="https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How profitable is Starlink? We dig into the details of satellite Internet.
 - <a href="https://spacenews.com/sea-based-launch-startup-scores-2-5-million-pentagon-contract/" >🔗</a> **[SpaceNews]** Sea-based launch startup scores $2.5 million Pentagon contract
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile stock surges 50% after Verizon partnership for satellite internet to phones
 - <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
 - <a href="https://spacenews.com/open-cosmos-wins-greek-government-satellite-contract/" >🔗</a> **[SpaceNews]** Open Cosmos wins Greek government satellite contract
-- <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T193110">2024-05-29 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T200117">2024-05-29 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
