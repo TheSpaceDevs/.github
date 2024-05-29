@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launches-esas-earthcare-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s EarthCARE mission
+- <a href="https://spacenews.com/thinkorbital-developing-satellite-repair-toolkit-with-x-ray-vision/" >🔗</a> **[SpaceNews]** ThinkOrbital developing satellite repair toolkit with X-ray vision
 - <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX has launched the EarthCARE climate research satellite for ESA and JAXA
 - <a href="https://spacenews.com/japanese-satellite-order-puts-geo-market-on-part-with-2023/" >🔗</a> **[SpaceNews]** Japanese satellite order puts GEO market on par with 2023
 - <a href="https://www.teslarati.com/rocket-lab-launches-first-back-to-back-missions-for-nasa/" >🔗</a> **[Teslarati]** Rocket Lab launches first of back-to-back missions for NASA
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/deep-blue-aerospace-secures-fresh-funding-ahead-of-first-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures fresh funding ahead of first orbital launch
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 - <a href="https://www.spacescout.info/2024/05/esa-and-spacex-prepare-to-launch-earthcare/" >🔗</a> **[Space Scout]** ESA and SpaceX Prepare to Launch EarthCARE
-- <a href="https://www.teslarati.com/spacex-announces-next-starship-test-flight-date/" >🔗</a> **[Teslarati]** SpaceX announces next Starship test flight date
-- <a href="https://spacenews.com/chinese-firm-files-plans-for-10000-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese firm files plans for 10,000-satellite constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T015040">2024-05-29 01:50:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T021332">2024-05-29 02:13:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
