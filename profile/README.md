@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
 - <a href="https://spacepolicyonline.com/news/slim-sleeps-in-this-month/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Sleeps in this Month
 - <a href="https://spacenews.com/falcon-9-launches-esas-earthcare-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s EarthCARE mission
 - <a href="https://spacenews.com/thinkorbital-developing-satellite-repair-toolkit-with-x-ray-vision/" >🔗</a> **[SpaceNews]** ThinkOrbital developing satellite repair toolkit with X-ray vision
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/colossus-processor-gains-flight-heritage/" >🔗</a> **[SpaceNews]** Colossus processor gains flight heritage
 - <a href="https://spacenews.com/how-privacy-preserving-technology-can-advance-satellite-collision-detection/" >🔗</a> **[SpaceNews]** How privacy-preserving technology can advance satellite collision detection
 - <a href="https://spacenews.com/deep-blue-aerospace-secures-fresh-funding-ahead-of-first-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures fresh funding ahead of first orbital launch
-- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T090121">2024-05-29 09:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T093117">2024-05-29 09:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
