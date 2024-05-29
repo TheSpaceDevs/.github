@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sea-based-launch-startup-scores-2-5-million-pentagon-contract/" >🔗</a> **[SpaceNews]** Sea-based launch startup scores $2.5 million Pentagon contract
+- <a href="https://arstechnica.com/space/2024/05/our-only-mission-at-venus-may-have-just-gone-dark/" >🔗</a> **[Arstechnica]** Our only mission at Venus may have just gone dark
 - <a href="https://spacenews.com/leocloud-to-send-space-edge-datacenter-to-iss/" >🔗</a> **[SpaceNews]** LEOcloud to send Space Edge datacenter to ISS
 - <a href="https://arstechnica.com/space/2024/05/daily-telescope-see-carbon-dioxide-sublimating-on-mars/" >🔗</a> **[Arstechnica]** Daily Telescope: See carbon dioxide sublimating on Mars
-- <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile stock surges 30% after Verizon partnership for satellite internet to phones
+- <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile stock surges 40% after Verizon partnership for satellite internet to phones
 - <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
 - <a href="https://spacenews.com/open-cosmos-wins-greek-government-satellite-contract/" >🔗</a> **[SpaceNews]** Open Cosmos wins Greek government satellite contract
 - <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
 - <a href="https://spacepolicyonline.com/news/slim-sleeps-in-this-month/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Sleeps in this Month
 - <a href="https://spacenews.com/falcon-9-launches-esas-earthcare-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s EarthCARE mission
-- <a href="https://spacenews.com/thinkorbital-developing-satellite-repair-toolkit-with-x-ray-vision/" >🔗</a> **[SpaceNews]** ThinkOrbital developing satellite repair toolkit with X-ray vision
-- <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX has launched the EarthCARE climate research satellite for ESA and JAXA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T143119">2024-05-29 14:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T150138">2024-05-29 15:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
