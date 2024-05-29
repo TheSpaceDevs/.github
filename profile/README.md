@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile partners with Verizon, adding to AT&T deal for satellite internet to phones
+- <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
 - <a href="https://spacenews.com/open-cosmos-wins-greek-government-satellite-contract/" >🔗</a> **[SpaceNews]** Open Cosmos wins Greek government satellite contract
 - <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
 - <a href="https://spacepolicyonline.com/news/slim-sleeps-in-this-month/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Sleeps in this Month
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/05/earthcare-launch/" >🔗</a> **[NASASpaceflight]** SpaceX has launched the EarthCARE climate research satellite for ESA and JAXA
 - <a href="https://spacenews.com/japanese-satellite-order-puts-geo-market-on-part-with-2023/" >🔗</a> **[SpaceNews]** Japanese satellite order puts GEO market on par with 2023
 - <a href="https://www.teslarati.com/rocket-lab-launches-first-back-to-back-missions-for-nasa/" >🔗</a> **[Teslarati]** Rocket Lab launches first of back-to-back missions for NASA
-- <a href="https://spacenews.com/colossus-processor-gains-flight-heritage/" >🔗</a> **[SpaceNews]** Colossus processor gains flight heritage
-- <a href="https://spacenews.com/how-privacy-preserving-technology-can-advance-satellite-collision-detection/" >🔗</a> **[SpaceNews]** How privacy-preserving technology can advance satellite collision detection
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T113111">2024-05-29 11:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T120142">2024-05-29 12:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
