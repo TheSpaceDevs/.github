@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: Caleb Henry joins us to discuss the profitability of Starlink
 - <a href="https://spacenews.com/sea-based-launch-startup-scores-2-5-million-pentagon-contract/" >🔗</a> **[SpaceNews]** Sea-based launch startup scores $2.5 million Pentagon contract
 - <a href="https://arstechnica.com/space/2024/05/our-only-mission-at-venus-may-have-just-gone-dark/" >🔗</a> **[Arstechnica]** Our only mission at Venus may have just gone dark
 - <a href="https://spacenews.com/leocloud-to-send-space-edge-datacenter-to-iss/" >🔗</a> **[SpaceNews]** LEOcloud to send Space Edge datacenter to ISS
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/open-cosmos-wins-greek-government-satellite-contract/" >🔗</a> **[SpaceNews]** Open Cosmos wins Greek government satellite contract
 - <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
 - <a href="https://spacepolicyonline.com/news/slim-sleeps-in-this-month/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Sleeps in this Month
-- <a href="https://spacenews.com/falcon-9-launches-esas-earthcare-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s EarthCARE mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T170110">2024-05-29 17:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T173125">2024-05-29 17:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
