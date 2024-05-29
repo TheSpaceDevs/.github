@@ -91,7 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: Caleb Henry joins us to discuss the profitability of Starlink
+- <a href="https://spacenews.com/gop-senator-calls-for-boosting-space-force-capabilities-to-counter-china/" >🔗</a> **[SpaceNews]** GOP senator calls for boosting Space Force capabilities to counter China
+- <a href="https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How profitable is Starlink? We dig into the details of satellite Internet.
 - <a href="https://spacenews.com/sea-based-launch-startup-scores-2-5-million-pentagon-contract/" >🔗</a> **[SpaceNews]** Sea-based launch startup scores $2.5 million Pentagon contract
 - <a href="https://arstechnica.com/space/2024/05/our-only-mission-at-venus-may-have-just-gone-dark/" >🔗</a> **[Arstechnica]** Our only mission at Venus may have just gone dark
 - <a href="https://spacenews.com/leocloud-to-send-space-edge-datacenter-to-iss/" >🔗</a> **[SpaceNews]** LEOcloud to send Space Edge datacenter to ISS
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
 - <a href="https://spacenews.com/open-cosmos-wins-greek-government-satellite-contract/" >🔗</a> **[SpaceNews]** Open Cosmos wins Greek government satellite contract
 - <a href="https://spacenews.com/change-6-set-for-weekend-landing-attempt-as-sun-rises-over-apollo-crater/" >🔗</a> **[SpaceNews]** Chang’e-6 set for weekend landing attempt as sun rises over Apollo crater
-- <a href="https://spacepolicyonline.com/news/slim-sleeps-in-this-month/" >🔗</a> **[SpacePolicyOnline.com]** SLIM Sleeps in this Month
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T180116">2024-05-29 18:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240529T183241">2024-05-29 18:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
