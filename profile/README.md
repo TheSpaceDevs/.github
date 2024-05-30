@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/05/30/investing-in-space-the-china-factor-in-the-us-space-station-race.html" >🔗</a> **[CNBC]** Investing in Space: The China factor in the U.S. space station race to replace the ISS
+- <a href="https://www.nasaspaceflight.com/2024/05/starship-flight4-faa/" >🔗</a> **[NASASpaceflight]** As SpaceX Completes Second Starship WDR, FAA Closes Safety Investigation Into Flight 3
 - <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
 - <a href="https://spacenews.com/commercialization-is-key-to-continued-us-space-leadership/" >🔗</a> **[SpaceNews]** Commercialization is Key to Continued US Space Leadership
 - <a href="https://spacenews.com/will-france-opt-in-or-out-of-the-u-s-space-commands-operation-olympic-defender/" >🔗</a> **[SpaceNews]** Will France opt in or out of the U.S. Space Command’s Operation Olympic Defender?
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ursa-major-completes-ground-tests-of-new-hypersonic-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major completes ground tests of new hypersonic rocket engine
 - <a href="https://spacenews.com/redesigned-vega-c-motor-passes-static-fire-test/" >🔗</a> **[SpaceNews]** Redesigned Vega C motor passes static-fire test
 - <a href="https://tlpnetwork.com/news/ses-to-boost-uk-hypersonic-capabilities-with-new-1-billion-development-framework" >🔗</a> **[The Launch Pad]** Space Engine Systems to Boost UK Hypersonic Capabilities with New £1 Billion Development Framework
-- <a href="https://spacenews.com/mda-space-joins-starlab-space-commercial-space-station-venture/" >🔗</a> **[SpaceNews]** MDA Space joins Starlab Space commercial space station venture
-- <a href="https://tlpnetwork.com/news/china-change-6-lunar-far-side-landing-set-for-this-weekend" >🔗</a> **[The Launch Pad]** China's Chang’e-6 Lunar Far Side Landing Set for This Weekend
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T170107">2024-05-30 17:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T173111">2024-05-30 17:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
