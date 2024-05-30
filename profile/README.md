@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 3B/E | Paksat MM1R (?)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Ceres-1 | Unknown Payload**. It is scheduled to be launched by *Galactic Energy*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a>, Xichang Satellite Launch Center, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T120300">2024-05-30 12:03:00 UTC</a>.  Until
-then, this pad will have been used for 109
-out of 205 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T232700">2024-05-30 23:27:00 UTC</a>.  Until
+then, this pad will have been used for 52
+out of 226 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Chinese built geostationary communication satellite for the Pakistan Space and Upper Atmosphere Research Commission (SUPARCO).
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.245564,102.026751" >
+  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T120300">2024-05-30 12:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Paksat MM1R (?)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240530T120300Z%2F20240530T125200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Paksat MM1R (?)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T232700">2024-05-30 23:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240530T232700Z%2F20240530T235200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T224300">2024-05-31 22:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-64&location=Cape Canaveral, FL, USA&dates=20240531T224300Z%2F20240601T024300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-64** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T030000">2024-06-01 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | PREFIRE And Ice (PREFIRE 2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240601T030000Z%2F20240601T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | PREFIRE And Ice (PREFIRE 2)** from Onenui Station, Mahia Peninsula, New Zealand.
@@ -56,6 +55,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T000000">2024-06-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 07&location=Air launch to Suborbital flight&dates=20240608T000000Z%2F20240608T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 07** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T000000">2024-06-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240610T000000Z%2F20240610T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T100000">2024-06-24 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Space Variable Objects Monitor (SVOM)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240624T100000Z%2F20240624T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Space Variable Objects Monitor (SVOM)** from Xichang Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T211600">2024-06-25 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | GOES-U&location=Kennedy Space Center, FL, USA&dates=20240625T211600Z%2F20240625T231600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | GOES-U** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/will-france-opt-in-or-out-of-the-u-s-space-commands-operation-olympic-defender/" >🔗</a> **[SpaceNews]** Will France opt in or out of the U.S. Space Command’s Operation Olympic Defender?
 - <a href="https://spacenews.com/chinese-reusable-rocket-maker-to-cooperate-on-new-meo-constellation/" >🔗</a> **[SpaceNews]** Chinese reusable rocket maker to cooperate on new MEO constellation
 - <a href="https://spacenews.com/ai-startup-wallaroo-tapped-to-help-space-force-operationalize-machine-learning/" >🔗</a> **[SpaceNews]** AI startup Wallaroo tapped to help Space Force operationalize machine learning
 - <a href="https://spacenews.com/ursa-major-completes-ground-tests-of-new-hypersonic-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major completes ground tests of new hypersonic rocket engine
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/china-change-6-lunar-far-side-landing-set-for-this-weekend" >🔗</a> **[The Launch Pad]** China's Chang’e-6 Lunar Far Side Landing Set for This Weekend
 - <a href="https://tlpnetwork.com/news/leocloud-to-launch-space-edge-datacenter-to-iss-by-2025" >🔗</a> **[The Launch Pad]** LEOcloud to Launch Space Edge Datacenter To ISS by 2025
 - <a href="https://tlpnetwork.com/news/us-senator-roger-wicker-urges-enhanced-defense-spending-for-us-space-force-to-counter-china" >🔗</a> **[The Launch Pad]** US Senator Roger Wicker Urges Enhanced Defense Spending for U.S. Space Force to Counter China
-- <a href="https://tlpnetwork.com/news/fcc-chair-proposes-new-rules-to-mitigate-risk-of-accidental-explosions-in-space" >🔗</a> **[The Launch Pad]** FCC Chair Proposes New Rules to Mitigate Risk of Accidental Explosions in Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T120133">2024-05-30 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T123936">2024-05-30 12:39:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
