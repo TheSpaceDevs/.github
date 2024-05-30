@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commercialization-is-key-to-continued-us-space-leadership/" >🔗</a> **[SpaceNews]** Commercialization is Key to Continued US Space Leadership
 - <a href="https://spacenews.com/will-france-opt-in-or-out-of-the-u-s-space-commands-operation-olympic-defender/" >🔗</a> **[SpaceNews]** Will France opt in or out of the U.S. Space Command’s Operation Olympic Defender?
 - <a href="https://spacenews.com/chinese-reusable-rocket-maker-to-cooperate-on-new-meo-constellation/" >🔗</a> **[SpaceNews]** Chinese reusable rocket maker to cooperate on new MEO constellation
 - <a href="https://spacenews.com/ai-startup-wallaroo-tapped-to-help-space-force-operationalize-machine-learning/" >🔗</a> **[SpaceNews]** AI startup Wallaroo tapped to help Space Force operationalize machine learning
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/mda-space-joins-starlab-space-commercial-space-station-venture/" >🔗</a> **[SpaceNews]** MDA Space joins Starlab Space commercial space station venture
 - <a href="https://tlpnetwork.com/news/china-change-6-lunar-far-side-landing-set-for-this-weekend" >🔗</a> **[The Launch Pad]** China's Chang’e-6 Lunar Far Side Landing Set for This Weekend
 - <a href="https://tlpnetwork.com/news/leocloud-to-launch-space-edge-datacenter-to-iss-by-2025" >🔗</a> **[The Launch Pad]** LEOcloud to Launch Space Edge Datacenter To ISS by 2025
-- <a href="https://tlpnetwork.com/news/us-senator-roger-wicker-urges-enhanced-defense-spending-for-us-space-force-to-counter-china" >🔗</a> **[The Launch Pad]** US Senator Roger Wicker Urges Enhanced Defense Spending for U.S. Space Force to Counter China
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T133105">2024-05-30 13:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T140119">2024-05-30 14:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
