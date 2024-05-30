@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ursa-major-completes-ground-tests-of-new-hypersonic-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major completes ground tests of new hypersonic rocket engine
 - <a href="https://spacenews.com/redesigned-vega-c-motor-passes-static-fire-test/" >🔗</a> **[SpaceNews]** Redesigned Vega C motor passes static-fire test
 - <a href="https://tlpnetwork.com/news/ses-to-boost-uk-hypersonic-capabilities-with-new-1-billion-development-framework" >🔗</a> **[The Launch Pad]** Space Engine Systems to Boost UK Hypersonic Capabilities with New £1 Billion Development Framework
 - <a href="https://spacenews.com/mda-space-joins-starlab-space-commercial-space-station-venture/" >🔗</a> **[SpaceNews]** MDA Space joins Starlab Space commercial space station venture
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/fcc-chair-proposes-new-rules-to-mitigate-risk-of-accidental-explosions-in-space" >🔗</a> **[The Launch Pad]** FCC Chair Proposes New Rules to Mitigate Risk of Accidental Explosions in Space
 - <a href="https://spacenews.com/fcc-chair-proposes-new-rules-for-accidental-space-explosion-risk/" >🔗</a> **[SpaceNews]** FCC chair proposes new rules for accidental space explosion risk
 - <a href="https://spacenews.com/gop-senator-calls-for-boosting-space-force-capabilities-to-counter-china/" >🔗</a> **[SpaceNews]** GOP senator calls for boosting Space Force capabilities to counter China
-- <a href="https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How profitable is Starlink? We dig into the details of satellite Internet.
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T040125">2024-05-30 04:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T043349">2024-05-30 04:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
