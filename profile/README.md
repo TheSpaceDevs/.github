@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/mda-space-and-the-exploration-company-join-starlab-space-station" >🔗</a> **[The Launch Pad]** MDA Space & The Exploration Company Join Starlab Space Station
+- <a href="https://tlpnetwork.com/news/policy-and-finance/slovakia-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Slovakia Signs Artemis Accords
+- <a href="https://tlpnetwork.com/news/policy-and-finance/peru-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Peru Signs Artemis Accords
 - <a href="https://www.cnbc.com/2024/05/30/investing-in-space-the-china-factor-in-the-us-space-station-race.html" >🔗</a> **[CNBC]** Investing in Space: The China factor in the U.S. space station race to replace the ISS
 - <a href="https://www.nasaspaceflight.com/2024/05/starship-flight4-faa/" >🔗</a> **[NASASpaceflight]** As SpaceX Completes Second Starship WDR, FAA Conducts Safety Investigation Into Flight 3
 - <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/will-france-opt-in-or-out-of-the-u-s-space-commands-operation-olympic-defender/" >🔗</a> **[SpaceNews]** Will France opt in or out of the U.S. Space Command’s Operation Olympic Defender?
 - <a href="https://spacenews.com/chinese-reusable-rocket-maker-to-cooperate-on-new-meo-constellation/" >🔗</a> **[SpaceNews]** Chinese reusable rocket maker to cooperate on new MEO constellation
 - <a href="https://spacenews.com/ai-startup-wallaroo-tapped-to-help-space-force-operationalize-machine-learning/" >🔗</a> **[SpaceNews]** AI startup Wallaroo tapped to help Space Force operationalize machine learning
-- <a href="https://spacenews.com/ursa-major-completes-ground-tests-of-new-hypersonic-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major completes ground tests of new hypersonic rocket engine
-- <a href="https://spacenews.com/redesigned-vega-c-motor-passes-static-fire-test/" >🔗</a> **[SpaceNews]** Redesigned Vega C motor passes static-fire test
-- <a href="https://tlpnetwork.com/news/ses-to-boost-uk-hypersonic-capabilities-with-new-1-billion-development-framework" >🔗</a> **[The Launch Pad]** Space Engine Systems to Boost UK Hypersonic Capabilities with New £1 Billion Development Framework
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T213058">2024-05-30 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T220127">2024-05-30 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
