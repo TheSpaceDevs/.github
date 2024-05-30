@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ai-startup-wallaroo-tapped-to-help-space-force-operationalize-machine-learning/" >🔗</a> **[SpaceNews]** AI startup Wallaroo tapped to help Space Force operationalize machine learning
 - <a href="https://spacenews.com/ursa-major-completes-ground-tests-of-new-hypersonic-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major completes ground tests of new hypersonic rocket engine
 - <a href="https://spacenews.com/redesigned-vega-c-motor-passes-static-fire-test/" >🔗</a> **[SpaceNews]** Redesigned Vega C motor passes static-fire test
 - <a href="https://tlpnetwork.com/news/ses-to-boost-uk-hypersonic-capabilities-with-new-1-billion-development-framework" >🔗</a> **[The Launch Pad]** Space Engine Systems to Boost UK Hypersonic Capabilities with New £1 Billion Development Framework
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/us-senator-roger-wicker-urges-enhanced-defense-spending-for-us-space-force-to-counter-china" >🔗</a> **[The Launch Pad]** US Senator Roger Wicker Urges Enhanced Defense Spending for U.S. Space Force to Counter China
 - <a href="https://tlpnetwork.com/news/fcc-chair-proposes-new-rules-to-mitigate-risk-of-accidental-explosions-in-space" >🔗</a> **[The Launch Pad]** FCC Chair Proposes New Rules to Mitigate Risk of Accidental Explosions in Space
 - <a href="https://spacenews.com/fcc-chair-proposes-new-rules-for-accidental-space-explosion-risk/" >🔗</a> **[SpaceNews]** FCC chair proposes new rules for accidental space explosion risk
-- <a href="https://spacenews.com/gop-senator-calls-for-boosting-space-force-capabilities-to-counter-china/" >🔗</a> **[SpaceNews]** GOP senator calls for boosting Space Force capabilities to counter China
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T100130">2024-05-30 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T103250">2024-05-30 10:32:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
