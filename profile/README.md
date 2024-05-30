@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redesigned-vega-c-motor-passes-static-fire-test/" >🔗</a> **[SpaceNews]** Redesigned Vega C motor passes static-fire test
+- <a href="https://tlpnetwork.com/news/ses-to-boost-uk-hypersonic-capabilities-with-new-1-billion-development-framework" >🔗</a> **[The Launch Pad]** Space Engine Systems to Boost UK Hypersonic Capabilities with New £1 Billion Development Framework
 - <a href="https://spacenews.com/mda-space-joins-starlab-space-commercial-space-station-venture/" >🔗</a> **[SpaceNews]** MDA Space joins Starlab Space commercial space station venture
+- <a href="https://tlpnetwork.com/news/china-change-6-lunar-far-side-landing-set-for-this-weekend" >🔗</a> **[The Launch Pad]** China's Chang’e-6 Lunar Far Side Landing Set for This Weekend
+- <a href="https://tlpnetwork.com/news/leocloud-to-launch-space-edge-datacenter-to-iss-by-2025" >🔗</a> **[The Launch Pad]** LEOcloud to Launch Space Edge Datacenter To ISS by 2025
+- <a href="https://tlpnetwork.com/news/us-senator-roger-wicker-urges-enhanced-defense-spending-for-us-space-force-to-counter-china" >🔗</a> **[The Launch Pad]** US Senator Roger Wicker Urges Enhanced Defense Spending for U.S. Space Force to Counter China
+- <a href="https://tlpnetwork.com/news/fcc-chair-proposes-new-rules-to-mitigate-risk-of-accidental-explosions-in-space" >🔗</a> **[The Launch Pad]** FCC Chair Proposes New Rules to Mitigate Risk of Accidental Explosions in Space
 - <a href="https://spacenews.com/fcc-chair-proposes-new-rules-for-accidental-space-explosion-risk/" >🔗</a> **[SpaceNews]** FCC chair proposes new rules for accidental space explosion risk
 - <a href="https://spacenews.com/gop-senator-calls-for-boosting-space-force-capabilities-to-counter-china/" >🔗</a> **[SpaceNews]** GOP senator calls for boosting Space Force capabilities to counter China
 - <a href="https://arstechnica.com/space/2024/05/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How profitable is Starlink? We dig into the details of satellite Internet.
-- <a href="https://spacenews.com/sea-based-launch-startup-scores-2-5-million-pentagon-contract/" >🔗</a> **[SpaceNews]** Sea-based launch startup scores $2.5 million Pentagon contract
-- <a href="https://arstechnica.com/space/2024/05/our-only-mission-at-venus-may-have-just-gone-dark/" >🔗</a> **[Arstechnica]** Our only mission at Venus may have just gone dark
-- <a href="https://spacenews.com/leocloud-to-send-space-edge-datacenter-to-iss/" >🔗</a> **[SpaceNews]** LEOcloud to send Space Edge datacenter to ISS
-- <a href="https://arstechnica.com/space/2024/05/daily-telescope-see-carbon-dioxide-sublimating-on-mars/" >🔗</a> **[Arstechnica]** Daily Telescope: See carbon dioxide sublimating on Mars
-- <a href="https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html" >🔗</a> **[CNBC]** AST SpaceMobile stock surges 69%, its best day ever, after Verizon satellite internet deal
-- <a href="https://spacenews.com/verizon-plots-100-million-direct-to-smartphone-satellite-investment/" >🔗</a> **[SpaceNews]** Verizon plots $100 million direct-to-smartphone satellite investment
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T033106">2024-05-30 03:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T040125">2024-05-30 04:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
