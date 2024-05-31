@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/artemis-accords-gain-two-more-signatories/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Gain Two More Signatories
 - <a href="https://spacenews.com/peru-and-slovakia-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Peru and Slovakia sign the Artemis Accords
 - <a href="https://spacenews.com/esa-lines-up-initial-signatories-for-zero-debris-charter/" >🔗</a> **[SpaceNews]** ESA lines up initial signatories for Zero Debris Charter
 - <a href="https://spacenews.com/space-force-narrows-anti-jam-satellite-contest-to-boeing-northrop-grumman/" >🔗</a> **[SpaceNews]** Space Force narrows anti-jam satellite contest to Boeing, Northrop Grumman
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/05/30/investing-in-space-the-china-factor-in-the-us-space-station-race.html" >🔗</a> **[CNBC]** Investing in Space: The China factor in the U.S. space station race to replace the ISS
 - <a href="https://www.nasaspaceflight.com/2024/05/starship-flight4-faa/" >🔗</a> **[NASASpaceflight]** As SpaceX Completes Second Starship WDR, FAA Conducts Safety Investigation Into Flight 3
 - <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
-- <a href="https://spacenews.com/commercialization-is-key-to-continued-us-space-leadership/" >🔗</a> **[SpaceNews]** Commercialization is Key to Continued US Space Leadership
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T033105">2024-05-31 03:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T040127">2024-05-31 04:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
