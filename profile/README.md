@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ceres-1 | Unknown Payload**. It is scheduled to be launched by *Galactic Energy*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T232700">2024-05-30 23:27:00 UTC</a>.  Until
-then, this pad will have been used for 52
-out of 226 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**Falcon 9 Block 5 | Starlink Group 6-64**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T224300">2024-05-31 22:43:00 UTC</a>.  Until
+then, this pad will have been used for 244
+out of 955 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T000000">2024-06-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240610T000000Z%2F20240610T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T100000">2024-06-24 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Space Variable Objects Monitor (SVOM)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240624T100000Z%2F20240624T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Space Variable Objects Monitor (SVOM)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T211600">2024-06-25 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | GOES-U&location=Kennedy Space Center, FL, USA&dates=20240625T211600Z%2F20240625T231600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | GOES-U** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-lines-up-initial-signatories-for-zero-debris-charter/" >🔗</a> **[SpaceNews]** ESA lines up initial signatories for Zero Debris Charter
 - <a href="https://spacenews.com/space-force-narrows-anti-jam-satellite-contest-to-boeing-northrop-grumman/" >🔗</a> **[SpaceNews]** Space Force narrows anti-jam satellite contest to Boeing, Northrop Grumman
 - <a href="https://tlpnetwork.com/news/america/mda-space-and-the-exploration-company-join-starlab-space-station" >🔗</a> **[The Launch Pad]** MDA Space & The Exploration Company Join Starlab Space Station
 - <a href="https://tlpnetwork.com/news/policy-and-finance/slovakia-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Slovakia Signs Artemis Accords
@@ -99,7 +101,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
 - <a href="https://spacenews.com/commercialization-is-key-to-continued-us-space-leadership/" >🔗</a> **[SpaceNews]** Commercialization is Key to Continued US Space Leadership
 - <a href="https://spacenews.com/will-france-opt-in-or-out-of-the-u-s-space-commands-operation-olympic-defender/" >🔗</a> **[SpaceNews]** Will France opt in or out of the U.S. Space Command’s Operation Olympic Defender?
-- <a href="https://spacenews.com/chinese-reusable-rocket-maker-to-cooperate-on-new-meo-constellation/" >🔗</a> **[SpaceNews]** Chinese reusable rocket maker to cooperate on new MEO constellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240530T233059">2024-05-30 23:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T000322">2024-05-31 00:03:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
