@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/peru-and-slovakia-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Peru and Slovakia sign the Artemis Accords
 - <a href="https://spacenews.com/esa-lines-up-initial-signatories-for-zero-debris-charter/" >🔗</a> **[SpaceNews]** ESA lines up initial signatories for Zero Debris Charter
 - <a href="https://spacenews.com/space-force-narrows-anti-jam-satellite-contest-to-boeing-northrop-grumman/" >🔗</a> **[SpaceNews]** Space Force narrows anti-jam satellite contest to Boeing, Northrop Grumman
 - <a href="https://tlpnetwork.com/news/america/mda-space-and-the-exploration-company-join-starlab-space-station" >🔗</a> **[The Launch Pad]** MDA Space & The Exploration Company Join Starlab Space Station
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/05/starship-flight4-faa/" >🔗</a> **[NASASpaceflight]** As SpaceX Completes Second Starship WDR, FAA Conducts Safety Investigation Into Flight 3
 - <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
 - <a href="https://spacenews.com/commercialization-is-key-to-continued-us-space-leadership/" >🔗</a> **[SpaceNews]** Commercialization is Key to Continued US Space Leadership
-- <a href="https://spacenews.com/will-france-opt-in-or-out-of-the-u-s-space-commands-operation-olympic-defender/" >🔗</a> **[SpaceNews]** Will France opt in or out of the U.S. Space Command’s Operation Olympic Defender?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T023640">2024-05-31 02:36:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T030133">2024-05-31 03:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
