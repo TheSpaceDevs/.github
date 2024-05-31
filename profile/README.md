@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/esa-launches-zero-debris-charter" >🔗</a> **[The Launch Pad]** ESA Launches Zero Debris Charter with 12 Countries
+- <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
 - <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
 - <a href="https://spacenews.com/china-conducts-three-launches-inside-two-days/" >🔗</a> **[SpaceNews]** China conducts three launches inside two days
 - <a href="https://spacepolicyonline.com/news/artemis-accords-gain-two-more-signatories/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Gain Two More Signatories
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-narrows-anti-jam-satellite-contest-to-boeing-northrop-grumman/" >🔗</a> **[SpaceNews]** Space Force narrows anti-jam satellite contest to Boeing, Northrop Grumman
 - <a href="https://tlpnetwork.com/news/america/mda-space-and-the-exploration-company-join-starlab-space-station" >🔗</a> **[The Launch Pad]** MDA Space & The Exploration Company Join Starlab Space Station
 - <a href="https://tlpnetwork.com/news/policy-and-finance/slovakia-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Slovakia Signs Artemis Accords
-- <a href="https://tlpnetwork.com/news/policy-and-finance/peru-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Peru Signs Artemis Accords
-- <a href="https://www.cnbc.com/2024/05/30/investing-in-space-the-china-factor-in-the-us-space-station-race.html" >🔗</a> **[CNBC]** Investing in Space: The China factor in the U.S. space station race to replace the ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T213056">2024-05-31 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T220112">2024-05-31 22:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
