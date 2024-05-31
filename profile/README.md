@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T224700">2024-05-31 22:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-64&location=Cape Canaveral, FL, USA&dates=20240531T224700Z%2F20240601T023700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-64** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T030000">2024-06-01 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | PREFIRE And Ice (PREFIRE 2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240601T030000Z%2F20240601T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | PREFIRE And Ice (PREFIRE 2)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T162540">2024-06-01 16:25:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240601T162540Z%2F20240601T162540Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T000400">2024-06-05 00:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-5&location=Cape Canaveral, FL, USA&dates=20240605T000400Z%2F20240605T032700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-5** from Cape Canaveral, FL, USA.
@@ -91,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/ursa-major-successfully-completes-ground-tests-of-new-draper-liquid-engine" >🔗</a> **[The Launch Pad]** Ursa Major Successfully Completes Ground Tests of New Draper Liquid Engine
+- <a href="https://spacenews.com/st-engineering-idirect-seeking-direct-to-smartphone-networking-role/" >🔗</a> **[SpaceNews]** ST Engineering iDirect seeking direct-to-smartphone networking role
+- <a href="https://spacepolicyonline.com/news/butch-suni-starliner-atlas-ready-to-go-weather-maybe/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni, Starliner, Atlas Ready to Go; Weather Maybe
+- <a href="https://tlpnetwork.com/news/europe/esa-and-avio-successfully-test-redesigned-vega-c-motor" >🔗</a> **[The Launch Pad]** ESA & Avio Successfully Test Redesigned Vega C Motor, Eye Year-End Return to Flight
 - <a href="https://tlpnetwork.com/news/europe/esa-launches-zero-debris-charter" >🔗</a> **[The Launch Pad]** ESA Launches Zero Debris Charter with 12 Countries
 - <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
 - <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
 - <a href="https://spacenews.com/china-conducts-three-launches-inside-two-days/" >🔗</a> **[SpaceNews]** China conducts three launches inside two days
 - <a href="https://spacepolicyonline.com/news/artemis-accords-gain-two-more-signatories/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Gain Two More Signatories
 - <a href="https://spacenews.com/peru-and-slovakia-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Peru and Slovakia sign the Artemis Accords
-- <a href="https://spacenews.com/esa-lines-up-initial-signatories-for-zero-debris-charter/" >🔗</a> **[SpaceNews]** ESA lines up initial signatories for Zero Debris Charter
-- <a href="https://spacenews.com/space-force-narrows-anti-jam-satellite-contest-to-boeing-northrop-grumman/" >🔗</a> **[SpaceNews]** Space Force narrows anti-jam satellite contest to Boeing, Northrop Grumman
-- <a href="https://tlpnetwork.com/news/america/mda-space-and-the-exploration-company-join-starlab-space-station" >🔗</a> **[The Launch Pad]** MDA Space & The Exploration Company Join Starlab Space Station
-- <a href="https://tlpnetwork.com/news/policy-and-finance/slovakia-signs-artemis-accords" >🔗</a> **[The Launch Pad]** Slovakia Signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T223059">2024-05-31 22:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240531T230116">2024-05-31 23:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
