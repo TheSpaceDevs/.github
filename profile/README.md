@@ -106,6 +106,8 @@ Suni Williams to the International Space Station.
 
 ### Launch-related News 🚀
 
+- <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
+- <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
 - <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
 - <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
 - <a href="https://spacepolicyonline.com/news/nasa-boeing-ula-decide-to-proceed-with-starliner-cft-on-june-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing, ULA Decide to Proceed with Starliner CFT on June 1
@@ -114,13 +116,11 @@ Suni Williams to the International Space Station.
 - <a href="https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale
 - <a href="https://spacepolicyonline.com/news/starliner-cft-slips-again-with-no-new-date-set/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Slips Again With No New Date Set
 - <a href="https://spacenews.com/starliner-crewed-test-flight-remains-on-hold/" >🔗</a> **[SpaceNews]** Starliner crewed test flight remains on hold
-- <a href="https://spacepolicyonline.com/news/another-delay-for-the-starliner-crew-flight-test-now-may-25/" >🔗</a> **[SpacePolicyOnline.com]** Another Delay for the Starliner Crew Flight Test — now May 25
-- <a href="https://spacenews.com/helium-leak-further-delays-starliner-crewed-test-flight/" >🔗</a> **[SpaceNews]** Helium leak further delays Starliner crewed test flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T090129">2024-06-01 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T093105">2024-06-01 09:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
