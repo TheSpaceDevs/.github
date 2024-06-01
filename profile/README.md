@@ -20,32 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 8-5**. It is scheduled to be launched by *SpaceX*
+**Atlas V N22 | CST-100 Starliner Crewed Flight Test**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T000400">2024-06-05 00:04:00 UTC</a>.  Until
-then, this pad will have been used for 245
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T160300">2024-06-02 16:03:00 UTC</a>.  Until
+then, this pad will have been used for 111
 out of 956 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
-*Communications* and the payload will be injected
+*Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  This is the first crewed test flight of Starliner spacecraft. It will carry NASA astronauts Barry Wilmore and
+Suni Williams to the International Space Station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Atlas_V" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T160300">2024-06-02 16:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240602T160300Z%2F20240602T160300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T000400">2024-06-05 00:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-5&location=Cape Canaveral, FL, USA&dates=20240605T000400Z%2F20240605T032700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-5** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T030000">2024-06-05 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | PREFIRE And Ice (PREFIRE 2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240605T030000Z%2F20240605T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | PREFIRE And Ice (PREFIRE 2)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T051200">2024-06-05 05:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-8&location=Vandenberg SFB, CA, USA&dates=20240605T051200Z%2F20240605T091200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-8** from Vandenberg SFB, CA, USA.
@@ -55,7 +57,6 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T000000">2024-06-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240610T000000Z%2F20240610T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T100000">2024-06-24 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Space Variable Objects Monitor (SVOM)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240624T100000Z%2F20240624T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Space Variable Objects Monitor (SVOM)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T211600">2024-06-25 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | GOES-U&location=Kennedy Space Center, FL, USA&dates=20240625T211600Z%2F20240625T231600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | GOES-U** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,25 +92,35 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
+- <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
+- <a href="https://www.spacescout.info/2024/06/gyro-issues-force-hubble-into-safe-mode/" >🔗</a> **[Space Scout]** Gyro Issues Force Hubble Into Safe Mode
 - <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing and NASA call off Starliner crew launch minutes before liftoff
 - <a href="https://spacenews.com/blue-origin-investigating-new-shepard-parachute-issue/" >🔗</a> **[SpaceNews]** Blue Origin investigating New Shepard parachute issue
 - <a href="https://arstechnica.com/space/2024/06/heres-why-a-japanese-billionaire-just-canceled-his-lunar-flight-on-starship/" >🔗</a> **[Arstechnica]** Here’s why a Japanese billionaire just canceled his lunar flight on Starship
 - <a href="https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/" >🔗</a> **[Arstechnica]** Daily Telescope: The most distant galaxy found so far is a total surprise
+- <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner stands down from launch attempt
 - <a href="https://tlpnetwork.com/news/america/maezawa-cancels-dearmoon-mission" >🔗</a> **[The Launch Pad]** BREAKING! Maezawa Cancels DearMoon Mission
 - <a href="https://tlpnetwork.com/news/america/ursa-major-successfully-completes-ground-tests-of-new-draper-liquid-engine" >🔗</a> **[The Launch Pad]** Ursa Major Successfully Completes Ground Tests of New Draper Liquid Engine
-- <a href="https://spacenews.com/st-engineering-idirect-seeking-direct-to-smartphone-networking-role/" >🔗</a> **[SpaceNews]** ST Engineering iDirect seeking direct-to-smartphone networking role
-- <a href="https://spacepolicyonline.com/news/butch-suni-starliner-atlas-ready-to-go-weather-maybe/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni, Starliner, Atlas Ready to Go; Weather Maybe
-- <a href="https://tlpnetwork.com/news/europe/esa-and-avio-successfully-test-redesigned-vega-c-motor" >🔗</a> **[The Launch Pad]** ESA & Avio Successfully Test Redesigned Vega C Motor, Eye Year-End Return to Flight
-- <a href="https://tlpnetwork.com/news/europe/esa-launches-zero-debris-charter" >🔗</a> **[The Launch Pad]** ESA Launches Zero Debris Charter with 12 Countries
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
+- <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
+- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing and NASA call off Starliner crew launch minutes before liftoff
+- <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner stands down from launch attempt
+- <a href="https://spacepolicyonline.com/news/butch-suni-starliner-atlas-ready-to-go-weather-maybe/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni, Starliner, Atlas Ready to Go; Weather Maybe
+- <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
+- <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
+- <a href="https://www.spacescout.info/2024/05/nasa-and-boeing-ready-for-cfts-second-attempt/" >🔗</a> **[Space Scout]** NASA and Boeing Ready for CFT’s Second Attempt
+- <a href="https://www.nasaspaceflight.com/2024/05/launch-roundup-052724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: North Korean launch failure, Starliner CFT, EarthCARE
+- <a href="https://spacepolicyonline.com/news/nasa-boeing-ula-decide-to-proceed-with-starliner-cft-on-june-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing, ULA Decide to Proceed with Starliner CFT on June 1
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T170121">2024-06-01 17:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T173101">2024-06-01 17:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
