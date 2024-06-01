@@ -92,6 +92,7 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/" >🔗</a> **[Arstechnica]** Daily Telescope: The most distant galaxy found so far is a total surprise
 - <a href="https://tlpnetwork.com/news/america/maezawa-cancels-dearmoon-mission" >🔗</a> **[The Launch Pad]** BREAKING! Maezawa Cancels DearMoon Mission
 - <a href="https://tlpnetwork.com/news/america/ursa-major-successfully-completes-ground-tests-of-new-draper-liquid-engine" >🔗</a> **[The Launch Pad]** Ursa Major Successfully Completes Ground Tests of New Draper Liquid Engine
 - <a href="https://spacenews.com/st-engineering-idirect-seeking-direct-to-smartphone-networking-role/" >🔗</a> **[SpaceNews]** ST Engineering iDirect seeking direct-to-smartphone networking role
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
 - <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
 - <a href="https://spacenews.com/china-conducts-three-launches-inside-two-days/" >🔗</a> **[SpaceNews]** China conducts three launches inside two days
-- <a href="https://spacepolicyonline.com/news/artemis-accords-gain-two-more-signatories/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Gain Two More Signatories
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T120126">2024-06-01 12:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T123827">2024-06-01 12:38:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
