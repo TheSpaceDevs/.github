@@ -92,6 +92,8 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-investigating-new-shepard-parachute-issue/" >🔗</a> **[SpaceNews]** Blue Origin investigating New Shepard parachute issue
+- <a href="https://arstechnica.com/space/2024/06/heres-why-a-japanese-billionaire-just-canceled-his-lunar-flight-on-starship/" >🔗</a> **[Arstechnica]** Here’s why a Japanese billionaire just canceled his lunar flight on Starship
 - <a href="https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/" >🔗</a> **[Arstechnica]** Daily Telescope: The most distant galaxy found so far is a total surprise
 - <a href="https://tlpnetwork.com/news/america/maezawa-cancels-dearmoon-mission" >🔗</a> **[The Launch Pad]** BREAKING! Maezawa Cancels DearMoon Mission
 - <a href="https://tlpnetwork.com/news/america/ursa-major-successfully-completes-ground-tests-of-new-draper-liquid-engine" >🔗</a> **[The Launch Pad]** Ursa Major Successfully Completes Ground Tests of New Draper Liquid Engine
@@ -100,8 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://tlpnetwork.com/news/europe/esa-and-avio-successfully-test-redesigned-vega-c-motor" >🔗</a> **[The Launch Pad]** ESA & Avio Successfully Test Redesigned Vega C Motor, Eye Year-End Return to Flight
 - <a href="https://tlpnetwork.com/news/europe/esa-launches-zero-debris-charter" >🔗</a> **[The Launch Pad]** ESA Launches Zero Debris Charter with 12 Countries
 - <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
-- <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
-- <a href="https://spacenews.com/china-conducts-three-launches-inside-two-days/" >🔗</a> **[SpaceNews]** China conducts three launches inside two days
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T143103">2024-06-01 14:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T150121">2024-06-01 15:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
