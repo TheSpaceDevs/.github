@@ -96,7 +96,7 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
 - <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
 - <a href="https://www.spacescout.info/2024/06/gyro-issues-force-hubble-into-safe-mode/" >🔗</a> **[Space Scout]** Gyro Issues Force Hubble Into Safe Mode
-- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing and NASA call off Starliner crew launch minutes before liftoff
+- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing, NASA investigation into rocket malfunction is underway, preparing for Sunday launch attempt
 - <a href="https://spacenews.com/blue-origin-investigating-new-shepard-parachute-issue/" >🔗</a> **[SpaceNews]** Blue Origin investigating New Shepard parachute issue
 - <a href="https://arstechnica.com/space/2024/06/heres-why-a-japanese-billionaire-just-canceled-his-lunar-flight-on-starship/" >🔗</a> **[Arstechnica]** Here’s why a Japanese billionaire just canceled his lunar flight on Starship
 - <a href="https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/" >🔗</a> **[Arstechnica]** Daily Telescope: The most distant galaxy found so far is a total surprise
@@ -108,7 +108,7 @@ Suni Williams to the International Space Station.
 
 - <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
 - <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
-- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing and NASA call off Starliner crew launch minutes before liftoff
+- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing, NASA investigation into rocket malfunction is underway, preparing for Sunday launch attempt
 - <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner stands down from launch attempt
 - <a href="https://spacepolicyonline.com/news/butch-suni-starliner-atlas-ready-to-go-weather-maybe/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni, Starliner, Atlas Ready to Go; Weather Maybe
 - <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T203100">2024-06-01 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T210201">2024-06-01 21:02:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
