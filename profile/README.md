@@ -92,6 +92,7 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/maezawa-cancels-dearmoon-mission" >🔗</a> **[The Launch Pad]** BREAKING! Maezawa Cancels DearMoon Mission
 - <a href="https://tlpnetwork.com/news/america/ursa-major-successfully-completes-ground-tests-of-new-draper-liquid-engine" >🔗</a> **[The Launch Pad]** Ursa Major Successfully Completes Ground Tests of New Draper Liquid Engine
 - <a href="https://spacenews.com/st-engineering-idirect-seeking-direct-to-smartphone-networking-role/" >🔗</a> **[SpaceNews]** ST Engineering iDirect seeking direct-to-smartphone networking role
 - <a href="https://spacepolicyonline.com/news/butch-suni-starliner-atlas-ready-to-go-weather-maybe/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni, Starliner, Atlas Ready to Go; Weather Maybe
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
 - <a href="https://spacenews.com/china-conducts-three-launches-inside-two-days/" >🔗</a> **[SpaceNews]** China conducts three launches inside two days
 - <a href="https://spacepolicyonline.com/news/artemis-accords-gain-two-more-signatories/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Gain Two More Signatories
-- <a href="https://spacenews.com/peru-and-slovakia-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Peru and Slovakia sign the Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T060124">2024-06-01 06:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T063255">2024-06-01 06:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
