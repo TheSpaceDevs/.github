@@ -92,6 +92,7 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-opens-door-to-new-vendors-with-halo-satellite-program/" >🔗</a> **[SpaceNews]** Space Development Agency opens door to new vendors with ‘HALO’ satellite program
 - <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
 - <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
 - <a href="https://www.spacescout.info/2024/06/gyro-issues-force-hubble-into-safe-mode/" >🔗</a> **[Space Scout]** Gyro Issues Force Hubble Into Safe Mode
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/" >🔗</a> **[Arstechnica]** Daily Telescope: The most distant galaxy found so far is a total surprise
 - <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner stands down from launch attempt
 - <a href="https://tlpnetwork.com/news/america/maezawa-cancels-dearmoon-mission" >🔗</a> **[The Launch Pad]** BREAKING! Maezawa Cancels DearMoon Mission
-- <a href="https://tlpnetwork.com/news/america/ursa-major-successfully-completes-ground-tests-of-new-draper-liquid-engine" >🔗</a> **[The Launch Pad]** Ursa Major Successfully Completes Ground Tests of New Draper Liquid Engine
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T173101">2024-06-01 17:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T180111">2024-06-01 18:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
