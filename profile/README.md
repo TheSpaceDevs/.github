@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/asia/chinas-change6-lands-on-far-side-of-moon" >🔗</a> **[The Launch Pad]** BREAKING! China Lands On Far Side Of Moon
 - <a href="https://spacenews.com/change-6-lands-on-far-side-of-the-moon-to-collect-unique-lunar-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 lands on far side of the moon to collect unique lunar samples
 - <a href="https://spacenews.com/space-development-agency-opens-door-to-new-vendors-with-halo-satellite-program/" >🔗</a> **[SpaceNews]** Space Development Agency opens door to new vendors with ‘HALO’ satellite program
 - <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-investigating-new-shepard-parachute-issue/" >🔗</a> **[SpaceNews]** Blue Origin investigating New Shepard parachute issue
 - <a href="https://arstechnica.com/space/2024/06/heres-why-a-japanese-billionaire-just-canceled-his-lunar-flight-on-starship/" >🔗</a> **[Arstechnica]** Here’s why a Japanese billionaire just canceled his lunar flight on Starship
 - <a href="https://arstechnica.com/space/2024/06/daily-telescope-the-most-distant-galaxy-found-so-far-is-a-total-surprise/" >🔗</a> **[Arstechnica]** Daily Telescope: The most distant galaxy found so far is a total surprise
-- <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner stands down from launch attempt
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240601T233102">2024-06-01 23:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T000402">2024-06-02 00:04:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
