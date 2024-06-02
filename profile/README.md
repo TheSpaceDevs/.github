@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japanese-billionaire-cancels-planned-starship-lunar-mission/" >🔗</a> **[SpaceNews]** Japanese billionaire cancels planned Starship lunar mission
 - <a href="https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/" >🔗</a> **[SpacePolicyOnline.com]** Elon Musk’s First Starship Customer Calls it Quits
 - <a href="https://tlpnetwork.com/news/asia/chinas-change6-lands-on-far-side-of-moon" >🔗</a> **[The Launch Pad]** BREAKING! China Lands On Far Side Of Moon
 - <a href="https://spacenews.com/change-6-lands-on-far-side-of-the-moon-to-collect-unique-lunar-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 lands on far side of the moon to collect unique lunar samples
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/06/gyro-issues-force-hubble-into-safe-mode/" >🔗</a> **[Space Scout]** Gyro Issues Force Hubble Into Safe Mode
 - <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing, NASA cancel Starliner launch attempt scheduled Sunday after failed Saturday take-off
 - <a href="https://spacenews.com/blue-origin-investigating-new-shepard-parachute-issue/" >🔗</a> **[SpaceNews]** Blue Origin investigating New Shepard parachute issue
-- <a href="https://arstechnica.com/space/2024/06/heres-why-a-japanese-billionaire-just-canceled-his-lunar-flight-on-starship/" >🔗</a> **[Arstechnica]** Here’s why a Japanese billionaire just canceled his lunar flight on Starship
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T160116">2024-06-02 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T163245">2024-06-02 16:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
