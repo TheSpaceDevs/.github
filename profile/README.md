@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-2-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 2-9, 2024
+- <a href="https://www.nasaspaceflight.com/2024/06/magellan-volcanoes/" >🔗</a> **[NASASpaceflight]** Magellan data unveils ongoing volcanic activity on the surface of Venus
 - <a href="https://spacenews.com/japanese-billionaire-cancels-planned-starship-lunar-mission/" >🔗</a> **[SpaceNews]** Japanese billionaire cancels planned Starship lunar mission
 - <a href="https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/" >🔗</a> **[SpacePolicyOnline.com]** Elon Musk’s First Starship Customer Calls it Quits
 - <a href="https://tlpnetwork.com/news/asia/chinas-change6-lands-on-far-side-of-moon" >🔗</a> **[The Launch Pad]** BREAKING! China Lands On Far Side Of Moon
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
 - <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
 - <a href="https://www.spacescout.info/2024/06/gyro-issues-force-hubble-into-safe-mode/" >🔗</a> **[Space Scout]** Gyro Issues Force Hubble Into Safe Mode
-- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing, NASA cancel Starliner launch attempt scheduled Sunday after failed Saturday take-off
-- <a href="https://spacenews.com/blue-origin-investigating-new-shepard-parachute-issue/" >🔗</a> **[SpaceNews]** Blue Origin investigating New Shepard parachute issue
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T193110">2024-06-02 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T200125">2024-06-02 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
