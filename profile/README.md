@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/hubble-space-telescope-suffers-gyroscope-issue-enters-safe-mode" >🔗</a> **[The Launch Pad]** NASA's Hubble Space Telescope Suffers Gyroscope Issue Enters Safe Mode
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-2-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 2-9, 2024
 - <a href="https://www.nasaspaceflight.com/2024/06/magellan-volcanoes/" >🔗</a> **[NASASpaceflight]** Magellan data unveils ongoing volcanic activity on the surface of Venus
 - <a href="https://spacenews.com/japanese-billionaire-cancels-planned-starship-lunar-mission/" >🔗</a> **[SpaceNews]** Japanese billionaire cancels planned Starship lunar mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-development-agency-opens-door-to-new-vendors-with-halo-satellite-program/" >🔗</a> **[SpaceNews]** Space Development Agency opens door to new vendors with ‘HALO’ satellite program
 - <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
 - <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
-- <a href="https://www.spacescout.info/2024/06/gyro-issues-force-hubble-into-safe-mode/" >🔗</a> **[Space Scout]** Gyro Issues Force Hubble Into Safe Mode
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T203055">2024-06-02 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240602T210138">2024-06-02 21:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
