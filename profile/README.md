@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-launch-rescheduled-for-june-5/" >🔗</a> **[SpaceNews]** Starliner launch rescheduled for June 5
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-third-try-on-wednesday-june-5/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Third Try on Wednesday, June 5
 - <a href="https://tlpnetwork.com/news/in-space/hubble-space-telescope-suffers-gyroscope-issue-enters-safe-mode" >🔗</a> **[The Launch Pad]** NASA's Hubble Space Telescope Suffers Gyroscope Issue Enters Safe Mode
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-2-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 2-9, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/asia/chinas-change6-lands-on-far-side-of-moon" >🔗</a> **[The Launch Pad]** BREAKING! China Lands On Far Side Of Moon
 - <a href="https://spacenews.com/change-6-lands-on-far-side-of-the-moon-to-collect-unique-lunar-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 lands on far side of the moon to collect unique lunar samples
 - <a href="https://spacenews.com/space-development-agency-opens-door-to-new-vendors-with-halo-satellite-program/" >🔗</a> **[SpaceNews]** Space Development Agency opens door to new vendors with ‘HALO’ satellite program
-- <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240603T040124">2024-06-03 04:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240603T043316">2024-06-03 04:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
