@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-based-electronic-eavesdropping-becomes-commercial-battleground/" >🔗</a> **[SpaceNews]** Space-based monitoring of electronic signals is now a commercial battleground
 - <a href="https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/" >🔗</a> **[Arstechnica]** No physics? No problem. AI weather forecasting is already making huge strides.
 - <a href="https://spacenews.com/starliner-launch-rescheduled-for-june-5/" >🔗</a> **[SpaceNews]** Starliner launch rescheduled for June 5
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-third-try-on-wednesday-june-5/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Third Try on Wednesday, June 5
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/japanese-billionaire-cancels-planned-starship-lunar-mission/" >🔗</a> **[SpaceNews]** Japanese billionaire cancels planned Starship lunar mission
 - <a href="https://spacepolicyonline.com/news/elon-musks-first-starship-customer-calls-it-quits/" >🔗</a> **[SpacePolicyOnline.com]** Elon Musk’s First Starship Customer Calls it Quits
 - <a href="https://tlpnetwork.com/news/asia/chinas-change6-lands-on-far-side-of-moon" >🔗</a> **[The Launch Pad]** BREAKING! China Lands On Far Side Of Moon
-- <a href="https://spacenews.com/change-6-lands-on-far-side-of-the-moon-to-collect-unique-lunar-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 lands on far side of the moon to collect unique lunar samples
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240603T140123">2024-06-03 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240603T143158">2024-06-03 14:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
