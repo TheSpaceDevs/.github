@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
 - <a href="https://spacenews.com/iridium-secures-94-million-u-s-space-force-contract-for-satellite-communications-support/" >🔗</a> **[SpaceNews]** Iridium secures $94 million U.S. Space Force contract for satellite communications support
 - <a href="https://spacenews.com/revolv-space-seeks-to-expand-satellite-duty-cycles/" >🔗</a> **[SpaceNews]** Revolv Space seeks to expand satellite duty cycles
 - <a href="https://spacenews.com/why-we-need-to-take-satellite-ground-station-security-seriously/" >🔗</a> **[SpaceNews]** Why we need to take satellite ground station security seriously
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astra-consolidates-facilities/" >🔗</a> **[SpaceNews]** Astra consolidates facilities
 - <a href="https://spacenews.com/congressional-language-alters-plans-for-nasas-habitable-worlds-observatory/" >🔗</a> **[SpaceNews]** Congressional language alters plans for NASA’s Habitable Worlds Observatory
 - <a href="https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/" >🔗</a> **[SpaceNews]** Chang’e-6: Moon samples collected and launched into lunar orbit
-- <a href="https://tlpnetwork.com/news/in-space/change6-launches-ascent-vehicle-to-lunar-orbit-following-completion-of-lunar-sample-collection" >🔗</a> **[The Launch Pad]** Chang'e-6 Launches Ascent Vehicle to Lunar Orbit Following Completion Of Lunar Sample Collection
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T190114">2024-06-04 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T193104">2024-06-04 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
