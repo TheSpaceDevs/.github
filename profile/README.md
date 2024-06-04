@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/online-calculator-helps-startups-navigate-the-regulatory-landscape/" >🔗</a> **[SpaceNews]** Online calculator to aid startups facing U.S.  regulations
 - <a href="https://spacenews.com/astra-consolidates-facilities/" >🔗</a> **[SpaceNews]** Astra consolidates facilities
 - <a href="https://spacenews.com/congressional-language-alters-plans-for-nasas-habitable-worlds-observatory/" >🔗</a> **[SpaceNews]** Congressional language alters plans for NASA’s Habitable Worlds Observatory
 - <a href="https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/" >🔗</a> **[SpaceNews]** Chang’e-6: Moon samples collected and launched into lunar orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/his-majesty-the-king-knights-rocketlab-founder-peter-beck" >🔗</a> **[The Launch Pad]** His Majesty The King Knights RocketLab Founder Peter Beck
 - <a href="https://arstechnica.com/space/2024/06/china-lands-on-the-moon-again-taking-another-step-toward-human-missions/" >🔗</a> **[Arstechnica]** China lands on the Moon again, taking another step toward human missions
 - <a href="https://spacenews.com/space-based-electronic-eavesdropping-becomes-commercial-battleground/" >🔗</a> **[SpaceNews]** Space-based monitoring of electronic signals is now a commercial battleground
-- <a href="https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/" >🔗</a> **[Arstechnica]** No physics? No problem. AI weather forecasting is already making huge strides.
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T120133">2024-06-04 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T123939">2024-06-04 12:39:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
