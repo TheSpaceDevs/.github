@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/ethos-unveils-lunar-infrastructure-technology-and-lunar-pad-plans" >🔗</a> **[The Launch Pad]** Ethos Unveils Lunar Infrastructure Technology & Lunar Pad Plans
+- <a href="https://tlpnetwork.com/news/america/usaf-and-ussf-successfully-test-minuteman-iii-icbm" >🔗</a> **[The Launch Pad]** USAF and USSF Successfully Test Minuteman III ICBM
 - <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
 - <a href="https://spacenews.com/iridium-secures-94-million-u-s-space-force-contract-for-satellite-communications-support/" >🔗</a> **[SpaceNews]** Iridium secures $94 million U.S. Space Force contract for satellite communications support
 - <a href="https://spacenews.com/revolv-space-seeks-to-expand-satellite-duty-cycles/" >🔗</a> **[SpaceNews]** Revolv Space seeks to expand satellite duty cycles
-- <a href="https://spacenews.com/why-we-need-to-take-satellite-ground-station-security-seriously/" >🔗</a> **[SpaceNews]** Why we need to take satellite ground station security seriously
 - <a href="https://spacenews.com/making-case-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Making the case for multi-orbit broadband
+- <a href="https://spacenews.com/why-we-need-to-take-satellite-ground-station-security-seriously/" >🔗</a> **[SpaceNews]** Why we need to take satellite ground station security seriously
 - <a href="https://spacenews.com/europe-seeks-to-launch-into-clearing-skies/" >🔗</a> **[SpaceNews]** Europe seeks to launch into clearing skies
 - <a href="https://spacenews.com/online-calculator-helps-startups-navigate-the-regulatory-landscape/" >🔗</a> **[SpaceNews]** Online calculator helps startups decipher U.S.  regulations
 - <a href="https://spacenews.com/astra-consolidates-facilities/" >🔗</a> **[SpaceNews]** Astra consolidates facilities
-- <a href="https://spacenews.com/congressional-language-alters-plans-for-nasas-habitable-worlds-observatory/" >🔗</a> **[SpaceNews]** Congressional language alters plans for NASA’s Habitable Worlds Observatory
-- <a href="https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/" >🔗</a> **[SpaceNews]** Chang’e-6: Moon samples collected and launched into lunar orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T203054">2024-06-04 20:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T210120">2024-06-04 21:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
