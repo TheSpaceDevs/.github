@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T000400">2024-06-05 00:04:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T021600">2024-06-05 02:16:00 UTC</a>.  Until
 then, this pad will have been used for 245
 out of 956 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T000400">2024-06-05 00:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-5&location=Cape Canaveral, FL, USA&dates=20240605T000400Z%2F20240605T032700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-5** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T021600">2024-06-05 02:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-5&location=Cape Canaveral, FL, USA&dates=20240605T021600Z%2F20240605T021600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-5** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T030000">2024-06-05 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | PREFIRE And Ice (PREFIRE 2)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240605T030000Z%2F20240605T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | PREFIRE And Ice (PREFIRE 2)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T145214">2024-06-05 14:52:14 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V N22 | CST-100 Starliner Crewed Flight Test&location=Cape Canaveral, FL, USA&dates=20240605T145214Z%2F20240605T145214Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V N22 | CST-100 Starliner Crewed Flight Test** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T045000">2024-06-06 04:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240606T045000Z%2F20240606T053800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -95,8 +95,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/iridium-secures-94-million-u-s-space-force-contract-for-satellite-communications-support/" >🔗</a> **[SpaceNews]** Iridium secures $94 million U.S. Space Force contract for satellite communications support
 - <a href="https://spacenews.com/revolv-space-seeks-to-expand-satellite-duty-cycles/" >🔗</a> **[SpaceNews]** Revolv Space seeks to expand satellite duty cycles
 - <a href="https://spacenews.com/why-we-need-to-take-satellite-ground-station-security-seriously/" >🔗</a> **[SpaceNews]** Why we need to take satellite ground station security seriously
-- <a href="https://spacenews.com/europe-seeks-to-launch-into-clearing-skies/" >🔗</a> **[SpaceNews]** Europe seeks to launch into clearing skies
 - <a href="https://spacenews.com/making-case-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Making the case for multi-orbit broadband
+- <a href="https://spacenews.com/europe-seeks-to-launch-into-clearing-skies/" >🔗</a> **[SpaceNews]** Europe seeks to launch into clearing skies
 - <a href="https://spacenews.com/online-calculator-helps-startups-navigate-the-regulatory-landscape/" >🔗</a> **[SpaceNews]** Online calculator helps startups decipher U.S.  regulations
 - <a href="https://spacenews.com/astra-consolidates-facilities/" >🔗</a> **[SpaceNews]** Astra consolidates facilities
 - <a href="https://spacenews.com/congressional-language-alters-plans-for-nasas-habitable-worlds-observatory/" >🔗</a> **[SpaceNews]** Congressional language alters plans for NASA’s Habitable Worlds Observatory
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T193104">2024-06-04 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T200114">2024-06-04 20:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
