@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-secures-94-million-u-s-space-force-contract-for-satellite-communications-support/" >🔗</a> **[SpaceNews]** Iridium secures $94 million U.S. Space Force contract for satellite communications support
+- <a href="https://spacenews.com/revolv-space-seeks-to-expand-satellite-duty-cycles/" >🔗</a> **[SpaceNews]** Revolv Space seeks to expand satellite duty cycles
 - <a href="https://spacenews.com/why-we-need-to-take-satellite-ground-station-security-seriously/" >🔗</a> **[SpaceNews]** Why we need to take satellite ground station security seriously
 - <a href="https://spacenews.com/europe-seeks-to-launch-into-clearing-skies/" >🔗</a> **[SpaceNews]** Europe seeks to launch into clearing skies
 - <a href="https://spacenews.com/making-case-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Making the case for multi-orbit broadband
-- <a href="https://spacenews.com/online-calculator-helps-startups-navigate-the-regulatory-landscape/" >🔗</a> **[SpaceNews]** Online calculator to aid startups facing U.S.  regulations
+- <a href="https://spacenews.com/online-calculator-helps-startups-navigate-the-regulatory-landscape/" >🔗</a> **[SpaceNews]** Online calculator helps startups comply with U.S.  regulations
 - <a href="https://spacenews.com/astra-consolidates-facilities/" >🔗</a> **[SpaceNews]** Astra consolidates facilities
 - <a href="https://spacenews.com/congressional-language-alters-plans-for-nasas-habitable-worlds-observatory/" >🔗</a> **[SpaceNews]** Congressional language alters plans for NASA’s Habitable Worlds Observatory
 - <a href="https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/" >🔗</a> **[SpaceNews]** Chang’e-6: Moon samples collected and launched into lunar orbit
 - <a href="https://tlpnetwork.com/news/in-space/change6-launches-ascent-vehicle-to-lunar-orbit-following-completion-of-lunar-sample-collection" >🔗</a> **[The Launch Pad]** Chang'e-6 Launches Ascent Vehicle to Lunar Orbit Following Completion Of Lunar Sample Collection
-- <a href="https://spacenews.com/aalto-gets-100-million-for-high-altitude-pseudo-satellites/" >🔗</a> **[SpaceNews]** Aalto gets $100 million for high-altitude pseudo satellites
-- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-0603/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Starship ready for fourth flight, Starliner rescheduled for third attempt, Virgin Galactic to fly VSS Unity for last time
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T140128">2024-06-04 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T143134">2024-06-04 14:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
