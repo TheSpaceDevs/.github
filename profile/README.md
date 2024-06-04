@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/change6-launches-ascent-vehicle-to-lunar-orbit-following-completion-of-lunar-sample-collection" >🔗</a> **[The Launch Pad]** Chang'e-6 Launches Ascent Vehicle to Lunar Orbit Following Completion Of Lunar Sample Collection
 - <a href="https://spacenews.com/aalto-gets-100-million-for-high-altitude-pseudo-satellites/" >🔗</a> **[SpaceNews]** Aalto gets $100 million for high-altitude pseudo satellites
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-0603/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Starship ready for fourth flight, Starliner rescheduled for third attempt, Virgin Galactic to fly VSS Unity for last time
 - <a href="https://tlpnetwork.com/news/europe/his-majesty-the-king-knights-rocketlab-founder-peter-beck" >🔗</a> **[The Launch Pad]** His Majesty The King Knights RocketLab Founder Peter Beck
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-launch-rescheduled-for-june-5/" >🔗</a> **[SpaceNews]** Starliner launch rescheduled for June 5
 - <a href="https://spacepolicyonline.com/news/starliner-ready-for-third-try-on-wednesday-june-5/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Third Try on Wednesday, June 5
 - <a href="https://tlpnetwork.com/news/in-space/hubble-space-telescope-suffers-gyroscope-issue-enters-safe-mode" >🔗</a> **[The Launch Pad]** NASA's Hubble Space Telescope Suffers Gyroscope Issue Enters Safe Mode
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-2-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 2-9, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T033141">2024-06-04 03:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T040134">2024-06-04 04:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
