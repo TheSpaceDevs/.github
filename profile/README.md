@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congressional-language-alters-plans-for-nasas-habitable-worlds-observatory/" >🔗</a> **[SpaceNews]** Congressional language alters plans for NASA’s Habitable Worlds Observatory
 - <a href="https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/" >🔗</a> **[SpaceNews]** Chang’e-6: Moon samples collected and launched into lunar orbit
 - <a href="https://tlpnetwork.com/news/in-space/change6-launches-ascent-vehicle-to-lunar-orbit-following-completion-of-lunar-sample-collection" >🔗</a> **[The Launch Pad]** Chang'e-6 Launches Ascent Vehicle to Lunar Orbit Following Completion Of Lunar Sample Collection
 - <a href="https://spacenews.com/aalto-gets-100-million-for-high-altitude-pseudo-satellites/" >🔗</a> **[SpaceNews]** Aalto gets $100 million for high-altitude pseudo satellites
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-based-electronic-eavesdropping-becomes-commercial-battleground/" >🔗</a> **[SpaceNews]** Space-based monitoring of electronic signals is now a commercial battleground
 - <a href="https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/" >🔗</a> **[Arstechnica]** No physics? No problem. AI weather forecasting is already making huge strides.
 - <a href="https://spacenews.com/starliner-launch-rescheduled-for-june-5/" >🔗</a> **[SpaceNews]** Starliner launch rescheduled for June 5
-- <a href="https://spacepolicyonline.com/news/starliner-ready-for-third-try-on-wednesday-june-5/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Third Try on Wednesday, June 5
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T110122">2024-06-04 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T113105">2024-06-04 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
