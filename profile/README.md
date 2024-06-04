@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/down-to-just-two-gyroscopes-hubbles-science-operations-will-continue/" >🔗</a> **[Arstechnica]** Down to just two gyroscopes, Hubble’s science operations will continue
+- <a href="https://tlpnetwork.com/news/in-space/nasa-transitions-hubble-space-telescope-to-one-gyro-operation-amidst-ongoing-challenges" >🔗</a> **[The Launch Pad]** NASA Transitions Hubble Space Telescope to One-Gyro Operation Amidst Ongoing Challenges
 - <a href="https://tlpnetwork.com/news/america/axiom-space-and-spacex-complete-first-artemis-iii-integrated-test" >🔗</a> **[The Launch Pad]** Axiom Space & SpaceX Complete First Artemis III Integrated Test
 - <a href="https://tlpnetwork.com/news/america/spacex-go-for-starship-4th-flight-test-as-faa-grants-launch-license" >🔗</a> **[The Launch Pad]** SpaceX "GO" For Starship 4th Flight Test As FAA Grants Launch License
 - <a href="https://www.nasaspaceflight.com/2024/06/new-glenn-test-be4-ramp/" >🔗</a> **[NASASpaceflight]** Blue Origin works towards New Glenn debut, ramps BE-4 deliveries
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
 - <a href="https://spacenews.com/iridium-secures-94-million-u-s-space-force-contract-for-satellite-communications-support/" >🔗</a> **[SpaceNews]** Iridium secures $94 million U.S. Space Force contract for satellite communications support
 - <a href="https://spacenews.com/revolv-space-seeks-to-expand-satellite-duty-cycles/" >🔗</a> **[SpaceNews]** Revolv Space seeks to expand satellite duty cycles
-- <a href="https://spacenews.com/making-case-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Making the case for multi-orbit broadband
-- <a href="https://spacenews.com/why-we-need-to-take-satellite-ground-station-security-seriously/" >🔗</a> **[SpaceNews]** Why we need to take satellite ground station security seriously
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T220118">2024-06-04 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240604T223223">2024-06-04 22:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
