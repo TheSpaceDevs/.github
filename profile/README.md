@@ -92,6 +92,7 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/electron-launches-second-nasa-prefire-cubesat/" >🔗</a> **[SpaceNews]** Electron launches second NASA PREFIRE cubesat
 - <a href="https://spacepolicyonline.com/news/hubble-good-for-another-decade-despite-gyro-woes/" >🔗</a> **[SpacePolicyOnline.com]** Hubble Good for Another Decade Despite Gyro Woes
 - <a href="https://spacenews.com/hubble-goes-to-single-gyro-operating-mode-as-nasa-passes-on-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble goes to single-gyro operating mode as NASA passes on private servicing mission
 - <a href="https://arstechnica.com/space/2024/06/down-to-just-two-gyroscopes-hubbles-science-operations-will-continue/" >🔗</a> **[Arstechnica]** The Hubble Space Telescope has lost a majority of its gyroscopes
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://www.nasaspaceflight.com/2024/06/new-glenn-test-be4-ramp/" >🔗</a> **[NASASpaceflight]** Blue Origin works towards New Glenn debut, ramps BE-4 deliveries
 - <a href="https://tlpnetwork.com/news/america/ethos-unveils-lunar-infrastructure-technology-and-lunar-pad-plans" >🔗</a> **[The Launch Pad]** Ethos Unveils Lunar Infrastructure Technology & Lunar Pad Plans
 - <a href="https://tlpnetwork.com/news/america/usaf-and-ussf-successfully-test-minuteman-iii-icbm" >🔗</a> **[The Launch Pad]** USAF and USSF Successfully Test Minuteman III ICBM
-- <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T100114">2024-06-05 10:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T103254">2024-06-05 10:32:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
