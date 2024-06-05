@@ -20,28 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V N22 | CST-100 Starliner Crewed Flight Test**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T145215">2024-06-05 14:52:15 UTC</a>.  Until
-then, this pad will have been used for 111
-out of 957 launches from this location. The launch status is currently
+**Ceres-1 | Unknown Payload**. It is scheduled to be launched by *Galactic Energy*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T045000">2024-06-06 04:50:00 UTC</a>.  Until
+then, this pad will have been used for 53
+out of 227 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  This is the first crewed test flight of Starliner spacecraft. It will carry NASA astronauts Barry Wilmore and
-Suni Williams to the International Space Station.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Atlas_V" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +55,7 @@ Suni Williams to the International Space Station.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T100000">2024-06-24 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Space Variable Objects Monitor (SVOM)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240624T100000Z%2F20240624T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Space Variable Objects Monitor (SVOM)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T211600">2024-06-25 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | GOES-U&location=Kennedy Space Center, FL, USA&dates=20240625T211600Z%2F20240625T231600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | GOES-U** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 1-5&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 1-5** from Onenui Station, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,8 +91,8 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner launches for the first time carrying NASA astronauts to the ISS
 - <a href="https://spacenews.com/the-satellite-breakup-militarys-push-to-go-small/" >🔗</a> **[SpaceNews]** The Satellite Breakup: Military’s Push to Go Small
-- <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner to make another attempt to launch NASA astronauts
 - <a href="https://spacenews.com/uncontrolled-reentry-of-space-debris-poses-a-real-and-growing-threat/" >🔗</a> **[SpaceNews]** Uncontrolled reentry of space debris poses a real and growing threat
 - <a href="https://spacenews.com/pale-blue-gets-additional-funds-for-water-vapor-thrusters/" >🔗</a> **[SpaceNews]** Pale Blue gets additional funds for water vapor thrusters
 - <a href="https://spacenews.com/slingshot-unveils-ai-that-spots-satellite-anomalies-and-potential-bad-actors/" >🔗</a> **[SpaceNews]** Slingshot unveils AI that spots satellite anomalies and potential bad actors
@@ -105,21 +105,11 @@ Suni Williams to the International Space Station.
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-0603/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Starship ready for fourth flight, Starliner rescheduled for third attempt, Virgin Galactic to fly VSS Unity for last time
-- <a href="https://spacenews.com/starliner-launch-rescheduled-for-june-5/" >🔗</a> **[SpaceNews]** Starliner launch rescheduled for June 5
-- <a href="https://spacepolicyonline.com/news/starliner-ready-for-third-try-on-wednesday-june-5/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready for Third Try on Wednesday, June 5
-- <a href="https://spacenews.com/starliner-launch-attempt-scrubbed/" >🔗</a> **[SpaceNews]** Starliner launch attempt scrubbed
-- <a href="https://spacepolicyonline.com/news/another-scrub-for-starliner-crew-flight-test/" >🔗</a> **[SpacePolicyOnline.com]** Another Scrub for Starliner Crew Flight Test
-- <a href="https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html" >🔗</a> **[CNBC]** Boeing, NASA cancel Starliner launch that was rescheduled for Sunday after failed Saturday takeoff
-- <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner CFT ready for third launch attempt
-- <a href="https://spacepolicyonline.com/news/butch-suni-starliner-atlas-ready-to-go-weather-maybe/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni, Starliner, Atlas Ready to Go; Weather Maybe
-- <a href="https://tlpnetwork.com/news/america/nasa-and-boeing-go-for-boeing-starliner-launch" >🔗</a> **[The Launch Pad]** NASA & Boeing "GO" for Boeing CST-100 Starliner Launch
-- <a href="https://spacenews.com/starliner-ready-for-next-crewed-test-flight-launch-attempt/" >🔗</a> **[SpaceNews]** Starliner ready for next crewed test flight launch attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T150108">2024-06-05 15:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T153101">2024-06-05 15:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
