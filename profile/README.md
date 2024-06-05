@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-sends-20-starlink-satellites-airborne-falcon-9-anniversary/" >🔗</a> **[Teslarati]** SpaceX sends 20 Starlink satellites airborne on special day for Falcon 9
 - <a href="https://spacenews.com/firefly-inks-multi-launch-deal-with-lockheed-martin-for-alpha-rocket-rides/" >🔗</a> **[SpaceNews]** Firefly inks multi-launch deal with Lockheed Martin for Alpha rocket rides
 - <a href="https://spacenews.com/starliner-lifts-off-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner lifts off on crewed test flight
 - <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner launches for the first time carrying NASA astronauts to the ISS
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/slingshot-unveils-ai-that-spots-satellite-anomalies-and-potential-bad-actors/" >🔗</a> **[SpaceNews]** Slingshot unveils AI that spots satellite anomalies and potential bad actors
 - <a href="https://spacenews.com/electron-launches-second-nasa-prefire-cubesat/" >🔗</a> **[SpaceNews]** Electron launches second NASA PREFIRE cubesat
 - <a href="https://spacepolicyonline.com/news/hubble-good-for-another-decade-despite-gyro-woes/" >🔗</a> **[SpacePolicyOnline.com]** Hubble Good for Another Decade Despite Gyro Woes
-- <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner CFT launches on third attempt
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T180132">2024-06-05 18:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T183259">2024-06-05 18:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
