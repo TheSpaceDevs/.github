@@ -92,7 +92,8 @@ Suni Williams to the International Space Station.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner to make another attempt at launching NASA astronauts
+- <a href="https://spacenews.com/the-satellite-breakup-militarys-push-to-go-small/" >🔗</a> **[SpaceNews]** The Satellite Breakup: Military’s Push to Go Small
+- <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner to make another attempt to launch NASA astronauts
 - <a href="https://spacenews.com/uncontrolled-reentry-of-space-debris-poses-a-real-and-growing-threat/" >🔗</a> **[SpaceNews]** Uncontrolled reentry of space debris poses a real and growing threat
 - <a href="https://spacenews.com/pale-blue-gets-additional-funds-for-water-vapor-thrusters/" >🔗</a> **[SpaceNews]** Pale Blue gets additional funds for water vapor thrusters
 - <a href="https://spacenews.com/slingshot-unveils-ai-that-spots-satellite-anomalies-and-potential-bad-actors/" >🔗</a> **[SpaceNews]** Slingshot unveils AI that spots satellite anomalies and potential bad actors
@@ -101,7 +102,6 @@ Suni Williams to the International Space Station.
 - <a href="https://spacenews.com/hubble-goes-to-single-gyro-operating-mode-as-nasa-passes-on-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble goes to single-gyro operating mode as NASA passes on private servicing mission
 - <a href="https://arstechnica.com/space/2024/06/down-to-just-two-gyroscopes-hubbles-science-operations-will-continue/" >🔗</a> **[Arstechnica]** The Hubble Space Telescope has lost a majority of its gyroscopes
 - <a href="https://tlpnetwork.com/news/in-space/nasa-transitions-hubble-space-telescope-to-one-gyro-operation-amidst-ongoing-challenges" >🔗</a> **[The Launch Pad]** NASA Transitions Hubble Space Telescope to One-Gyro Operation Amidst Ongoing Challenges
-- <a href="https://tlpnetwork.com/news/america/axiom-space-and-spacex-complete-first-artemis-iii-integrated-test" >🔗</a> **[The Launch Pad]** Axiom Space & SpaceX Complete First Artemis III Integrated Test
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Suni Williams to the International Space Station.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T140123">2024-06-05 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T143214">2024-06-05 14:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
