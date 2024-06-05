@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hubble-goes-to-single-gyro-operating-mode-as-nasa-passes-on-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble goes to single-gyro operating mode as NASA passes on private servicing mission
 - <a href="https://arstechnica.com/space/2024/06/down-to-just-two-gyroscopes-hubbles-science-operations-will-continue/" >🔗</a> **[Arstechnica]** The Hubble Space Telescope has lost a majority of its gyroscopes
 - <a href="https://tlpnetwork.com/news/in-space/nasa-transitions-hubble-space-telescope-to-one-gyro-operation-amidst-ongoing-challenges" >🔗</a> **[The Launch Pad]** NASA Transitions Hubble Space Telescope to One-Gyro Operation Amidst Ongoing Challenges
 - <a href="https://tlpnetwork.com/news/america/axiom-space-and-spacex-complete-first-artemis-iii-integrated-test" >🔗</a> **[The Launch Pad]** Axiom Space & SpaceX Complete First Artemis III Integrated Test
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/usaf-and-ussf-successfully-test-minuteman-iii-icbm" >🔗</a> **[The Launch Pad]** USAF and USSF Successfully Test Minuteman III ICBM
 - <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
 - <a href="https://spacenews.com/iridium-secures-94-million-u-s-space-force-contract-for-satellite-communications-support/" >🔗</a> **[SpaceNews]** Iridium secures $94 million U.S. Space Force contract for satellite communications support
-- <a href="https://spacenews.com/revolv-space-seeks-to-expand-satellite-duty-cycles/" >🔗</a> **[SpaceNews]** Revolv Space seeks to expand satellite duty cycles
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T000344">2024-06-05 00:03:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T004456">2024-06-05 00:44:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
