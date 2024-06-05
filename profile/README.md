@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-inks-multi-launch-deal-with-lockheed-martin-for-alpha-rocket-rides/" >🔗</a> **[SpaceNews]** Firefly inks multi-launch deal with Lockheed Martin for Alpha rocket rides
+- <a href="https://spacenews.com/starliner-lifts-off-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner lifts off on crewed test flight
 - <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner launches for the first time carrying NASA astronauts to the ISS
 - <a href="https://spacenews.com/the-satellite-breakup-militarys-push-to-go-small/" >🔗</a> **[SpaceNews]** The Satellite Breakup: Military’s Push to Go Small
 - <a href="https://spacenews.com/uncontrolled-reentry-of-space-debris-poses-a-real-and-growing-threat/" >🔗</a> **[SpaceNews]** Uncontrolled reentry of space debris poses a real and growing threat
@@ -98,9 +100,7 @@ into *an Unknown
 - <a href="https://spacenews.com/slingshot-unveils-ai-that-spots-satellite-anomalies-and-potential-bad-actors/" >🔗</a> **[SpaceNews]** Slingshot unveils AI that spots satellite anomalies and potential bad actors
 - <a href="https://spacenews.com/electron-launches-second-nasa-prefire-cubesat/" >🔗</a> **[SpaceNews]** Electron launches second NASA PREFIRE cubesat
 - <a href="https://spacepolicyonline.com/news/hubble-good-for-another-decade-despite-gyro-woes/" >🔗</a> **[SpacePolicyOnline.com]** Hubble Good for Another Decade Despite Gyro Woes
-- <a href="https://spacenews.com/hubble-goes-to-single-gyro-operating-mode-as-nasa-passes-on-private-servicing-mission/" >🔗</a> **[SpaceNews]** Hubble goes to single-gyro operating mode as NASA passes on private servicing mission
-- <a href="https://arstechnica.com/space/2024/06/down-to-just-two-gyroscopes-hubbles-science-operations-will-continue/" >🔗</a> **[Arstechnica]** The Hubble Space Telescope has lost a majority of its gyroscopes
-- <a href="https://tlpnetwork.com/news/in-space/nasa-transitions-hubble-space-telescope-to-one-gyro-operation-amidst-ongoing-challenges" >🔗</a> **[The Launch Pad]** NASA Transitions Hubble Space Telescope to One-Gyro Operation Amidst Ongoing Challenges
+- <a href="https://www.nasaspaceflight.com/2024/06/starliner-cft-launch/" >🔗</a> **[NASASpaceflight]** Boeing’s Starliner CFT launches on third attempt
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T160121">2024-06-05 16:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240605T163405">2024-06-05 16:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
