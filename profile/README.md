@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/starship-fourth-flight-test-reaches-new-heights-demonstrates-key-capabilities" >🔗</a> **[The Launch Pad]** Starship’s Fourth Flight Test Reaches New Heights, Demonstrates Key Capabilities
 - <a href="https://spacenews.com/starliner-docks-with-international-space-station-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner docks with International Space Station on crewed test flight
 - <a href="https://www.spacescout.info/2024/06/starship-survives-reentry-completes-ift-4/" >🔗</a> **[Space Scout]** Starship Survives Reentry, Completes IFT-4
 - <a href="https://www.cnbc.com/2024/06/06/boeing-starliner-iss-docking.html" >🔗</a> **[CNBC]** Boeing Starliner docks with ISS, delivering its first NASA crew to space station
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/spacex-cheers-successful-starship-ift-4/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cheers Successful Starship IFT-4
 - <a href="https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/" >🔗</a> **[SpaceNews]** Starship survives reentry during fourth test flight
 - <a href="https://spacenews.com/china-seeks-its-own-apollo-moment-and-more/" >🔗</a> **[SpaceNews]** China seeks its own Apollo moment – and more
-- <a href="https://spacenews.com/hpes-spaceborne-computer-offers-template-space-based-ai/" >🔗</a> **[SpaceNews]** HPE’s Spaceborne Computer offers template for space-based AI
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T193103">2024-06-06 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T200129">2024-06-06 20:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
