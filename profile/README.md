@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-docks-with-international-space-station-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner docks with International Space Station on crewed test flight
 - <a href="https://www.spacescout.info/2024/06/starship-survives-reentry-completes-ift-4/" >🔗</a> **[Space Scout]** Starship Survives Reentry, Completes IFT-4
-- <a href="https://www.cnbc.com/2024/06/06/boeing-starliner-iss-docking.html" >🔗</a> **[CNBC]** Boeing Starliner docks with ISS after delayed attempt due to thruster issue
+- <a href="https://www.cnbc.com/2024/06/06/boeing-starliner-iss-docking.html" >🔗</a> **[CNBC]** Boeing Starliner docks with ISS, delivering its first NASA crew to space station
 - <a href="https://www.teslarati.com/spacex-aces-fourth-starship-flight-test/" >🔗</a> **[Teslarati]** SpaceX aces fourth Starship flight test
 - <a href="https://spacenews.com/report-space-force-transitioning-to-new-model-for-the-defense-of-space/" >🔗</a> **[SpaceNews]** Report: Space Force transitioning to new model for the defense of space
 - <a href="https://spacenews.com/space-pioneer-raises-207-million-for-reusable-rocket/" >🔗</a> **[SpaceNews]** Space Pioneer raises $207 million for reusable rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/" >🔗</a> **[SpaceNews]** Starship survives reentry during fourth test flight
 - <a href="https://spacenews.com/china-seeks-its-own-apollo-moment-and-more/" >🔗</a> **[SpaceNews]** China seeks its own Apollo moment – and more
 - <a href="https://spacenews.com/hpes-spaceborne-computer-offers-template-space-based-ai/" >🔗</a> **[SpaceNews]** HPE’s Spaceborne Computer offers template for space-based AI
-- <a href="https://spacenews.com/remembering-the-humans-in-human-spaceflight/" >🔗</a> **[SpaceNews]** Remembering the humans in human spaceflight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T180128">2024-06-06 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T183254">2024-06-06 18:32:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
