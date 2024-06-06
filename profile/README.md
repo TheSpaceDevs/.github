@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-ariane-6-launch-set-for-july-9/" >🔗</a> **[SpaceNews]** First Ariane 6 launch set for July 9
 - <a href="https://spacenews.com/ses-tests-meo-leo-data-relay-capability/" >🔗</a> **[SpaceNews]** SES tests MEO-LEO data relay capability
 - <a href="https://spacenews.com/webinar-u-s-japan-perspectives-on-space-sustainability/" >🔗</a> **[SpaceNews]** Webinar: U.S. – Japan Perspectives on Space Sustainability
 - <a href="https://spacepolicyonline.com/news/starliner-cft-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Lifts Off!
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/starliner-lifts-off-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner lifts off on crewed test flight
 - <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner launches for the first time carrying NASA astronauts to the ISS
 - <a href="https://spacenews.com/the-satellite-breakup-militarys-push-to-go-small/" >🔗</a> **[SpaceNews]** The Satellite Breakup: Military’s Push to Go Small
-- <a href="https://spacenews.com/uncontrolled-reentry-of-space-debris-poses-a-real-and-growing-threat/" >🔗</a> **[SpaceNews]** Uncontrolled reentry of space debris poses a real and growing threat
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T040110">2024-06-06 04:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T043207">2024-06-06 04:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
