@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Starship | Integrated Flight Test 4**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 10-1**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/SpaceX_South_Texas_Launch_Site">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T120000">2024-06-06 12:00:00 UTC</a>.  Until
-then, this pad will have been used for 3
-out of 12 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T225800">2024-06-07 22:58:00 UTC</a>.  Until
+then, this pad will have been used for 246
+out of 958 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Fourth test flight of the two-stage Starship launch vehicle.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.997116,-97.15503099856647" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 1-5&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 1-5** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Cape Canaveral, FL, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,35 +91,26 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html" >🔗</a> **[CNBC]** Watch SpaceX launch Starship on its fourth test spaceflight
+- <a href="https://spacenews.com/remembering-the-humans-in-human-spaceflight/" >🔗</a> **[SpaceNews]** Remembering the humans in human spaceflight
+- <a href="https://spacenews.com/china-seeks-its-own-apollo-moment-and-more/" >🔗</a> **[SpaceNews]** China seeks its own Apollo moment – and more
+- <a href="https://spacenews.com/hpes-spaceborne-computer-offers-template-space-based-ai/" >🔗</a> **[SpaceNews]** HPE’s Spaceborne Computer offers template for space-based AI
+- <a href="https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html" >🔗</a> **[CNBC]** SpaceX launches fourth Starship test flight
 - <a href="https://spacenews.com/change-6-spacecraft-dock-in-lunar-orbit-ahead-of-journey-back-to-earth/" >🔗</a> **[SpaceNews]** Chang’e-6 spacecraft dock in lunar orbit ahead of journey back to Earth
 - <a href="https://spacenews.com/astroscale-shares-soar-in-tokyo-stock-market-debut/" >🔗</a> **[SpaceNews]** Astroscale shares soar in Tokyo stock market debut
 - <a href="https://spacenews.com/first-ariane-6-launch-set-for-july-9/" >🔗</a> **[SpaceNews]** First Ariane 6 launch set for July 9
 - <a href="https://spacenews.com/ses-tests-meo-leo-data-relay-capability/" >🔗</a> **[SpaceNews]** SES tests MEO-LEO data relay capability
 - <a href="https://spacenews.com/webinar-u-s-japan-perspectives-on-space-sustainability/" >🔗</a> **[SpaceNews]** Webinar: U.S. – Japan Perspectives on Space Sustainability
 - <a href="https://spacepolicyonline.com/news/starliner-cft-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Lifts Off!
-- <a href="https://www.nasaspaceflight.com/2024/06/starship-launch-fourth-time/" >🔗</a> **[NASASpaceflight]** Starship Gets Ready to Launch for a Fourth Time
-- <a href="https://www.teslarati.com/spacex-sends-20-starlink-satellites-airborne-falcon-9-anniversary/" >🔗</a> **[Teslarati]** SpaceX sends 20 Starlink satellites airborne on special day for Falcon 9
-- <a href="https://spacenews.com/firefly-inks-multi-launch-deal-with-lockheed-martin-for-alpha-rocket-rides/" >🔗</a> **[SpaceNews]** Firefly inks multi-launch deal with Lockheed Martin for Alpha rocket rides
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/06/starship-launch-fourth-time/" >🔗</a> **[NASASpaceflight]** Starship Gets Ready to Launch for a Fourth Time
-- <a href="https://tlpnetwork.com/news/america/spacex-go-for-starship-4th-flight-test-as-faa-grants-launch-license" >🔗</a> **[The Launch Pad]** SpaceX "GO" For Starship 4th Flight Test As FAA Grants Launch License
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-0603/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Starship ready for fourth flight, Starliner launches on third attempt, Virgin Galactic to fly VSS Unity for last time
-- <a href="https://www.nasaspaceflight.com/2024/05/starship-flight4-faa/" >🔗</a> **[NASASpaceflight]** As SpaceX Completes Second Starship WDR, FAA Conducts Safety Investigation Into Flight 3
-- <a href="https://spacenews.com/spacex-sets-early-june-launch-of-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX sets early June launch of next Starship test flight
-- <a href="https://arstechnica.com/space/2024/05/spacex-sets-next-starship-flight-date-will-focus-on-propulsion-and-landing/" >🔗</a> **[Arstechnica]** SpaceX sets date for next Starship flight, explains what went wrong the last time
-- <a href="https://arstechnica.com/space/2024/05/rocket-report-spacex-focused-on-starship-reentry-firefly-may-be-for-sale/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX focused on Starship reentry; Firefly may be for sale
-- <a href="https://spacenews.com/spacex-nears-next-starship-test-flight-as-starbase-expansion-continues/" >🔗</a> **[SpaceNews]** SpaceX nears next Starship test flight as Starbase expansion continues
-- <a href="https://www.nasaspaceflight.com/2024/05/flight-4-wdr-campaign/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 begins Wet Dress Rehearsal campaign
-- <a href="https://www.teslarati.com/spacex-stacks-starship-testing-fourth-flight/" >🔗</a> **[Teslarati]** SpaceX stacks Starship for testing ahead of the fourth flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T130241">2024-06-06 13:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T133106">2024-06-06 13:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
