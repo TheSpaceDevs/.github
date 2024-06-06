@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/change-6-spacecraft-dock-in-lunar-orbit-ahead-of-journey-back-to-earth/" >🔗</a> **[SpaceNews]** Chang’e-6 spacecraft dock in lunar orbit ahead of journey back to Earth
 - <a href="https://spacenews.com/astroscale-shares-soar-in-tokyo-stock-market-debut/" >🔗</a> **[SpaceNews]** Astroscale shares soar in Tokyo stock market debut
 - <a href="https://spacenews.com/first-ariane-6-launch-set-for-july-9/" >🔗</a> **[SpaceNews]** First Ariane 6 launch set for July 9
 - <a href="https://spacenews.com/ses-tests-meo-leo-data-relay-capability/" >🔗</a> **[SpaceNews]** SES tests MEO-LEO data relay capability
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.teslarati.com/spacex-sends-20-starlink-satellites-airborne-falcon-9-anniversary/" >🔗</a> **[Teslarati]** SpaceX sends 20 Starlink satellites airborne on special day for Falcon 9
 - <a href="https://spacenews.com/firefly-inks-multi-launch-deal-with-lockheed-martin-for-alpha-rocket-rides/" >🔗</a> **[SpaceNews]** Firefly inks multi-launch deal with Lockheed Martin for Alpha rocket rides
 - <a href="https://spacenews.com/starliner-lifts-off-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner lifts off on crewed test flight
-- <a href="https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html" >🔗</a> **[CNBC]** Boeing Starliner launches for the first time carrying NASA astronauts to the ISS
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T100118">2024-06-06 10:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T103239">2024-06-06 10:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
