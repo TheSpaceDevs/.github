@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-cheers-successful-starship-ift-4/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cheers Successful Starship IFT-4
+- <a href="https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/" >🔗</a> **[SpaceNews]** Starship survives reentry during fourth test flight
+- <a href="https://spacenews.com/hpes-spaceborne-computer-offers-template-space-based-ai/" >🔗</a> **[SpaceNews]** HPE’s Spaceborne Computer offers template for space-based AI
 - <a href="https://spacenews.com/remembering-the-humans-in-human-spaceflight/" >🔗</a> **[SpaceNews]** Remembering the humans in human spaceflight
 - <a href="https://spacenews.com/china-seeks-its-own-apollo-moment-and-more/" >🔗</a> **[SpaceNews]** China seeks its own Apollo moment – and more
-- <a href="https://spacenews.com/hpes-spaceborne-computer-offers-template-space-based-ai/" >🔗</a> **[SpaceNews]** HPE’s Spaceborne Computer offers template for space-based AI
 - <a href="https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html" >🔗</a> **[CNBC]** SpaceX’s Starship rocket completes test flight for the first time, successfully splashes down
 - <a href="https://spacenews.com/change-6-spacecraft-dock-in-lunar-orbit-ahead-of-journey-back-to-earth/" >🔗</a> **[SpaceNews]** Chang’e-6 spacecraft dock in lunar orbit ahead of journey back to Earth
 - <a href="https://spacenews.com/astroscale-shares-soar-in-tokyo-stock-market-debut/" >🔗</a> **[SpaceNews]** Astroscale shares soar in Tokyo stock market debut
 - <a href="https://spacenews.com/first-ariane-6-launch-set-for-july-9/" >🔗</a> **[SpaceNews]** First Ariane 6 launch set for July 9
 - <a href="https://spacenews.com/ses-tests-meo-leo-data-relay-capability/" >🔗</a> **[SpaceNews]** SES tests MEO-LEO data relay capability
-- <a href="https://spacenews.com/webinar-u-s-japan-perspectives-on-space-sustainability/" >🔗</a> **[SpaceNews]** Webinar: U.S. – Japan Perspectives on Space Sustainability
-- <a href="https://spacepolicyonline.com/news/starliner-cft-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** Starliner CFT Lifts Off!
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T153100">2024-06-06 15:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240606T160136">2024-06-06 16:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
