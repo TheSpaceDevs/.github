@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-and-the-categorical-imperative-to-achieve-low-launch-cost/" >🔗</a> **[SpaceNews]** SpaceX and the categorical imperative to achieve low launch cost
+- <a href="https://spacenews.com/tools-for-space-sustainability-watchdogs/" >🔗</a> **[SpaceNews]** Tools for space sustainability watchdogs
+- <a href="https://spacenews.com/space-tourism-dreams-live-on/" >🔗</a> **[SpaceNews]** Space tourism dreams live on
 - <a href="https://arstechnica.com/space/2024/06/rocket-report-starliner-soars-to-space-station-starships-wild-flight/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars to space station; Starship’s wild flight
 - <a href="https://spacenews.com/ai-powering-commercial-insights-into-the-final-frontier/" >🔗</a> **[SpaceNews]** AI powering commercial insights into the final frontier
 - <a href="https://spacepolicyonline.com/news/boeings-starliner-cft-docks-with-iss-despite-thruster-issues/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner CFT Docks with ISS Despite Thruster Issues
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-startup-funding-rounds-lift-seraphims-investment-portfolio/" >🔗</a> **[SpaceNews]** Space startup funding rounds lift Seraphim’s investment portfolio
 - <a href="https://www.spacescout.info/2024/06/starliner-launches-first-crew-to-iss/" >🔗</a> **[Space Scout]** Starliner Launches first Crew to ISS
 - <a href="https://tlpnetwork.com/news/america/starship-fourth-flight-test-reaches-new-heights-demonstrates-key-capabilities" >🔗</a> **[The Launch Pad]** Starship’s Fourth Flight Test Reaches New Heights, Demonstrates Key Capabilities
-- <a href="https://spacenews.com/starliner-docks-with-international-space-station-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner docks with International Space Station on crewed test flight
-- <a href="https://www.spacescout.info/2024/06/starship-survives-reentry-completes-ift-4/" >🔗</a> **[Space Scout]** Starship Survives Reentry, Completes IFT-4
-- <a href="https://www.cnbc.com/2024/06/06/boeing-starliner-iss-docking.html" >🔗</a> **[CNBC]** Boeing Starliner docks with ISS, delivering its first NASA crew to space station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T130253">2024-06-07 13:02:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T133101">2024-06-07 13:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
