@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/competing-with-uncle-sams-free-space-offerings/" >🔗</a> **[SpaceNews]** Competing with Uncle Sam’s free space offerings
+- <a href="https://spacenews.com/esa-and-vast-to-study-cooperation-on-future-commercial-space-stations/" >🔗</a> **[SpaceNews]** ESA and Vast to study cooperation on future commercial space stations
 - <a href="https://arstechnica.com/space/2024/06/on-the-space-station-band-aid-fixes-for-systemic-problems/" >🔗</a> **[Arstechnica]** As leaks on the space station worsen, there’s no clear plan to deal with them
 - <a href="https://spacenews.com/space-tourism-dreams-live-on/" >🔗</a> **[SpaceNews]** Space tourism dreams live on
 - <a href="https://spacenews.com/spacex-and-the-categorical-imperative-to-achieve-low-launch-cost/" >🔗</a> **[SpaceNews]** SpaceX and the categorical imperative to achieve low launch cost
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ai-powering-commercial-insights-into-the-final-frontier/" >🔗</a> **[SpaceNews]** AI powering commercial insights into the final frontier
 - <a href="https://spacepolicyonline.com/news/boeings-starliner-cft-docks-with-iss-despite-thruster-issues/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner CFT Docks with ISS Despite Thruster Issues
 - <a href="https://arstechnica.com/space/2024/06/after-a-drama-filled-day-boeings-starliner-finally-finds-its-way/" >🔗</a> **[Arstechnica]** After a drama-filled day, Boeing’s Starliner finally finds its way
-- <a href="https://spacenews.com/space-startup-funding-rounds-lift-seraphims-investment-portfolio/" >🔗</a> **[SpaceNews]** Space startup funding rounds lift Seraphim’s investment portfolio
-- <a href="https://www.spacescout.info/2024/06/starliner-launches-first-crew-to-iss/" >🔗</a> **[Space Scout]** Starliner Launches first Crew to ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T150120">2024-06-07 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T153105">2024-06-07 15:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
