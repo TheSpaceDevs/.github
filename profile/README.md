@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planets-first-hyperspectral-satellite-is-ready-to-launch/" >🔗</a> **[SpaceNews]** Planet’s first hyperspectral satellite is ready to launch
 - <a href="https://spacenews.com/space-force-agency-taps-20-companies-for-1-billion-ground-systems-idiq/" >🔗</a> **[SpaceNews]** Space Force agency taps 20 companies for $1 billion ground systems IDIQ
 - <a href="https://www.cnbc.com/2024/06/07/investing-in-space-boeing-and-spacex-had-a-major-week.html" >🔗</a> **[CNBC]** Investing in Space: Boeing and SpaceX had a major week that put their differences on display
 - <a href="https://spacenews.com/competing-with-uncle-sams-free-space-offerings/" >🔗</a> **[SpaceNews]** Competing with Uncle Sam’s free space offerings
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-tourism-dreams-live-on/" >🔗</a> **[SpaceNews]** Space tourism dreams live on
 - <a href="https://spacenews.com/spacex-and-the-categorical-imperative-to-achieve-low-launch-cost/" >🔗</a> **[SpaceNews]** SpaceX and the categorical imperative to achieve low launch cost
 - <a href="https://arstechnica.com/space/2024/06/rocket-report-starliner-soars-to-space-station-starships-wild-flight/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars to space station; Starship’s wild flight
-- <a href="https://spacenews.com/ai-powering-commercial-insights-into-the-final-frontier/" >🔗</a> **[SpaceNews]** AI powering commercial insights into the final frontier
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T203058">2024-06-07 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T210124">2024-06-07 21:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
