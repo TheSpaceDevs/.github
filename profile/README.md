@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/rocket-report-starliner-soars-to-space-station-starships-wild-flight/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars to space station; Starship’s wild flight
 - <a href="https://spacenews.com/ai-powering-commercial-insights-into-the-final-frontier/" >🔗</a> **[SpaceNews]** AI powering commercial insights into the final frontier
 - <a href="https://spacepolicyonline.com/news/boeings-starliner-cft-docks-with-iss-despite-thruster-issues/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner CFT Docks with ISS Despite Thruster Issues
 - <a href="https://arstechnica.com/space/2024/06/after-a-drama-filled-day-boeings-starliner-finally-finds-its-way/" >🔗</a> **[Arstechnica]** After a drama-filled day, Boeing’s Starliner finally finds its way
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-docks-with-international-space-station-on-crewed-test-flight/" >🔗</a> **[SpaceNews]** Starliner docks with International Space Station on crewed test flight
 - <a href="https://www.spacescout.info/2024/06/starship-survives-reentry-completes-ift-4/" >🔗</a> **[Space Scout]** Starship Survives Reentry, Completes IFT-4
 - <a href="https://www.cnbc.com/2024/06/06/boeing-starliner-iss-docking.html" >🔗</a> **[CNBC]** Boeing Starliner docks with ISS, delivering its first NASA crew to space station
-- <a href="https://www.teslarati.com/spacex-aces-fourth-starship-flight-test/" >🔗</a> **[Teslarati]** SpaceX aces fourth Starship flight test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T110115">2024-06-07 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T113059">2024-06-07 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
