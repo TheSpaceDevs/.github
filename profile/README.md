@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ai-powering-commercial-insights-into-the-final-frontier/" >🔗</a> **[SpaceNews]** AI powering commercial insights into the final frontier
 - <a href="https://spacepolicyonline.com/news/boeings-starliner-cft-docks-with-iss-despite-thruster-issues/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner CFT Docks with ISS Despite Thruster Issues
 - <a href="https://arstechnica.com/space/2024/06/after-a-drama-filled-day-boeings-starliner-finally-finds-its-way/" >🔗</a> **[Arstechnica]** After a drama-filled day, Boeing’s Starliner finally finds its way
 - <a href="https://spacenews.com/space-startup-funding-rounds-lift-seraphims-investment-portfolio/" >🔗</a> **[SpaceNews]** Space startup funding rounds lift Seraphim’s investment portfolio
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/06/starship-survives-reentry-completes-ift-4/" >🔗</a> **[Space Scout]** Starship Survives Reentry, Completes IFT-4
 - <a href="https://www.cnbc.com/2024/06/06/boeing-starliner-iss-docking.html" >🔗</a> **[CNBC]** Boeing Starliner docks with ISS, delivering its first NASA crew to space station
 - <a href="https://www.teslarati.com/spacex-aces-fourth-starship-flight-test/" >🔗</a> **[Teslarati]** SpaceX aces fourth Starship flight test
-- <a href="https://spacenews.com/report-space-force-transitioning-to-new-model-for-the-defense-of-space/" >🔗</a> **[SpaceNews]** Report: Space Force transitioning to new model for the defense of space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T060123">2024-06-07 06:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T063419">2024-06-07 06:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
