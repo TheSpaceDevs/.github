@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/after-a-drama-filled-day-boeings-starliner-finally-finds-its-way/" >🔗</a> **[Arstechnica]** After a drama-filled day, Boeing’s Starliner finally finds its way
 - <a href="https://spacenews.com/space-startup-funding-rounds-lift-seraphims-investment-portfolio/" >🔗</a> **[SpaceNews]** Space startup funding rounds lift Seraphim’s investment portfolio
 - <a href="https://www.spacescout.info/2024/06/starliner-launches-first-crew-to-iss/" >🔗</a> **[Space Scout]** Starliner Launches first Crew to ISS
 - <a href="https://tlpnetwork.com/news/america/starship-fourth-flight-test-reaches-new-heights-demonstrates-key-capabilities" >🔗</a> **[The Launch Pad]** Starship’s Fourth Flight Test Reaches New Heights, Demonstrates Key Capabilities
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-aces-fourth-starship-flight-test/" >🔗</a> **[Teslarati]** SpaceX aces fourth Starship flight test
 - <a href="https://spacenews.com/report-space-force-transitioning-to-new-model-for-the-defense-of-space/" >🔗</a> **[SpaceNews]** Report: Space Force transitioning to new model for the defense of space
 - <a href="https://spacenews.com/space-pioneer-raises-207-million-for-reusable-rocket/" >🔗</a> **[SpaceNews]** Space Pioneer raises $207 million for reusable rocket
-- <a href="https://spacepolicyonline.com/news/spacex-cheers-successful-starship-ift-4/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cheers Successful Starship IFT-4
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T000333">2024-06-07 00:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240607T004509">2024-06-07 00:45:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
