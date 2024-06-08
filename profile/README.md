@@ -20,36 +20,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SpaceShipTwo | Galactic 07**. It is scheduled to be launched by *Virgin Galactic*
+**Falcon 9 Block 5 | Starlink Group 8-8**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Spaceport_America">Spaceport America</a>, Air launch to Suborbital flight*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T113000">2024-06-08 11:30:00 UTC</a>.  Until
-then, this pad will have been used for 13
-out of 85 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T105400">2024-06-08 10:54:00 UTC</a>.  Until
+then, this pad will have been used for 146
+out of 757 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Seventh commercial Virgin Galactic mission.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceShipTwo" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=32.9902778,-106.9719162" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T113000">2024-06-08 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 07&location=Air launch to Suborbital flight&dates=20240608T113000Z%2F20240608T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 07** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T105400">2024-06-08 10:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-8&location=Vandenberg SFB, CA, USA&dates=20240608T105400Z%2F20240608T125800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-8** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T133000">2024-06-08 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SpaceShipTwo | Galactic 07&location=Air launch to Suborbital flight&dates=20240608T133000Z%2F20240608T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SpaceShipTwo | Galactic 07** from Air launch to Suborbital flight.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T210800">2024-06-12 21:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240612T210800Z%2F20240613T013600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T031200">2024-06-13 03:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240613T031200Z%2F20240613T071200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T030000">2024-06-14 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240614T030000Z%2F20240614T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T000000">2024-06-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240615T000000Z%2F20240615T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T000000">2024-06-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240618T000000Z%2F20240618T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T100000">2024-06-24 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Space Variable Objects Monitor (SVOM)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240624T100000Z%2F20240624T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Space Variable Objects Monitor (SVOM)** from Xichang Satellite Launch Center, People's Republic of China.
@@ -106,14 +106,11 @@ into *a Suborbital
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-0603/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Starship launches for fourth time, Starliner launches on third attempt, Virgin Galactic to fly VSS Unity for last time
-- <a href="https://tlpnetwork.com/news/virgin-galactic-prepares-for-final-unitiy-flight-delays-new-mothership-reveals-updated-ops-strategy" >🔗</a> **[The Launch Pad]** Virgin Galactic Prepares For Final Unity Flight, Delays New Mothership, Reveals Updated Ops Strategy
-- <a href="https://spacenews.com/virgin-galactic-expects-no-delay-to-next-suborbital-flight/" >🔗</a> **[SpaceNews]** Virgin Galactic expects no delay to next suborbital flight
-- <a href="https://tlpnetwork.com/news/2023/11/virgin-galactic-to-suspend-vss-unity-suborbital-flight-in-2024" >🔗</a> **[The Launch Pad]** Virgin Galactic To Suspend VSS Unity Suborbital Flights In 2024
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T083053">2024-06-08 08:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T090121">2024-06-08 09:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
