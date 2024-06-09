@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/military/space-force-selects-20-companies-for-1-billion-usd-ground-systems-idiq-contract" >🔗</a> **[The Launch Pad]** Space Force Selects 20 Companies for $1 Billion USD Ground Systems IDIQ Contract
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-9-15-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 9-15, 2024
+- <a href="https://tlpnetwork.com/news/in-space/ses-successfully-tests-stable-relay-between-medium-and-low-earth-orbit" >🔗</a> **[The Launch Pad]** SES Successfully Tests Stable Relay Link Between Medium and Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/virgin-galactic-says-farewell-to-vss-unity/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Says Farewell to VSS Unity
 - <a href="https://tlpnetwork.com/news/asia/japan-forces-trial-starlink-internet-service-for-maritime-crew" >🔗</a> **[The Launch Pad]** Japan Self-Defence Forces Trial Starlink Internet Service for Maritime Crew
 - <a href="https://tlpnetwork.com/news/america/sda-urges-contractors-to-diversify-satellite-supply-chain" >🔗</a> **[The Launch Pad]** SDA Urges Contractors to Diversify Satellite Supply Chain
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/slingshot-aerospace-unveils-ai-system-to-monitor-satellite-anomalies" >🔗</a> **[The Launch Pad]** Slingshot Aerospace Unveils AI System to Monitor Satellite Anomalies
 - <a href="https://tlpnetwork.com/news/europe/phisat-2-go-for-launch-for-pioneering-ai-earth-observation-mission" >🔗</a> **[The Launch Pad]** Φsat-2 "GO" For Launch For Pioneering AI Earth Observation Mission
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astroscale-surge-on-tokyo-stock-exchange-debut" >🔗</a> **[The Launch Pad]** Astroscale Surge on Tokyo Stock Exchange Debut, Valuing Company at $1 Billion
-- <a href="https://tlpnetwork.com/news/europe/esa-and-vast-forge-agreement-to-explore-commercial-space-station-collaboration" >🔗</a> **[The Launch Pad]** ESA and Vast Forge Agreement to Explore Commercial Space Station Collaboration
-- <a href="https://spacepolicyonline.com/news/apollo-astronaut-bill-anders-dies/" >🔗</a> **[SpacePolicyOnline.com]** Apollo Astronaut Bill Anders Dies
-- <a href="https://spacenews.com/space-development-agency-calls-on-satellite-builders-to-diversify-suppliers/" >🔗</a> **[SpaceNews]** Space Development Agency calls on satellite builders to diversify suppliers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T203103">2024-06-09 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T210114">2024-06-09 21:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
