@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/asia/japan-forces-trial-starlink-internet-service-for-maritime-crew" >🔗</a> **[The Launch Pad]** Japan Self-Defence Forces Trial Starlink Internet Service for Maritime Crew
 - <a href="https://tlpnetwork.com/news/america/sda-urges-contractors-to-diversify-satellite-supply-chain" >🔗</a> **[The Launch Pad]** SDA Urges Contractors to Diversify Satellite Supply Chain
 - <a href="https://tlpnetwork.com/news/america/planets-tanager-1-hyperspectral-satellite-ready-for-launch" >🔗</a> **[The Launch Pad]** Planet’s Tanager-1 Hyperspectral Satellite Ready for Launch
 - <a href="https://tlpnetwork.com/news/america/slingshot-aerospace-unveils-ai-system-to-monitor-satellite-anomalies" >🔗</a> **[The Launch Pad]** Slingshot Aerospace Unveils AI System to Monitor Satellite Anomalies
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/apollo-astronaut-bill-anders-dies/" >🔗</a> **[SpacePolicyOnline.com]** Apollo Astronaut Bill Anders Dies
 - <a href="https://spacenews.com/space-development-agency-calls-on-satellite-builders-to-diversify-suppliers/" >🔗</a> **[SpaceNews]** Space Development Agency calls on satellite builders to diversify suppliers
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-flys-final-vss-unity-commercial-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic’s Flys Final VSS Unity Commercial Mission
-- <a href="https://tlpnetwork.com/news/america/nasa-looks-to-advance-mars-sample-return-mission-with-commercial-studies" >🔗</a> **[The Launch Pad]** NASA Looks To Advance Mars Sample Return Mission with Commercial Studies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T170108">2024-06-09 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T173100">2024-06-09 17:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
