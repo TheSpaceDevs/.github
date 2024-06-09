@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/phisat-2-go-for-launch-for-pioneering-ai-earth-observation-mission" >🔗</a> **[The Launch Pad]** Φsat-2 "GO" For Launch For Pioneering AI Earth Observation Mission
+- <a href="https://tlpnetwork.com/news/policy-and-finance/astroscale-surge-on-tokyo-stock-exchange-debut" >🔗</a> **[The Launch Pad]** Astroscale Surge on Tokyo Stock Exchange Debut, Valuing Company at $1 Billion
+- <a href="https://tlpnetwork.com/news/europe/esa-and-vast-forge-agreement-to-explore-commercial-space-station-collaboration" >🔗</a> **[The Launch Pad]** ESA and Vast Forge Agreement to Explore Commercial Space Station Collaboration
 - <a href="https://spacepolicyonline.com/news/apollo-astronaut-bill-anders-dies/" >🔗</a> **[SpacePolicyOnline.com]** Apollo Astronaut Bill Anders Dies
 - <a href="https://spacenews.com/space-development-agency-calls-on-satellite-builders-to-diversify-suppliers/" >🔗</a> **[SpaceNews]** Space Development Agency calls on satellite builders to diversify suppliers
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-flys-final-vss-unity-commercial-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic’s Flys Final VSS Unity Commercial Mission
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/asia/space-pioneer-secures-207-million-funding-for-tianlong-3-rocket" >🔗</a> **[The Launch Pad]** Space Pioneer Secures $207 Million Funding for Tianlong-3 Rocket
 - <a href="https://tlpnetwork.com/news/europe/ariane-6-go-for-launch-on-july-6" >🔗</a> **[The Launch Pad]** Ariane 6 "GO" For Launch On July 6
 - <a href="https://tlpnetwork.com/news/america/firefly-signs-landmark-launch-contract-with-lockheed-martin" >🔗</a> **[The Launch Pad]** Firefly Signs Landmark Launch Contract with Lockheed Martin
-- <a href="https://tlpnetwork.com/news/america/k2-space-to-launch-first-satellite-this-year-amid-growing-interest-for-satellite-bus" >🔗</a> **[The Launch Pad]** K2 Space to Launch First Satellite This Year Amid Growing Interest For Satellite Bus
-- <a href="https://tlpnetwork.com/news/america/astra-consolidates-operations-as-awaits-privatization-deal" >🔗</a> **[The Launch Pad]** Astra Consolidates Operations As Awaits Privatization Deal
-- <a href="https://spacenews.com/virgin-galactic-conducts-final-vss-unity-commercial-suborbital-spaceflight/" >🔗</a> **[SpaceNews]** Virgin Galactic conducts final VSS Unity commercial suborbital spaceflight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T143055">2024-06-09 14:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T150119">2024-06-09 15:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
