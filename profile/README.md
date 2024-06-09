@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-looks-to-advance-mars-sample-return-mission-with-commercial-studies" >🔗</a> **[The Launch Pad]** NASA Looks To Advance Mars Sample Return Mission with Commercial Studies
+- <a href="https://tlpnetwork.com/news/asia/space-pioneer-secures-207-million-funding-for-tianlong-3-rocket" >🔗</a> **[The Launch Pad]** Space Pioneer Secures $207 Million Funding for Tianlong-3 Rocket
 - <a href="https://tlpnetwork.com/news/europe/ariane-6-go-for-launch-on-july-6" >🔗</a> **[The Launch Pad]** Ariane 6 "GO" For Launch On July 6
 - <a href="https://tlpnetwork.com/news/america/firefly-signs-landmark-launch-contract-with-lockheed-martin" >🔗</a> **[The Launch Pad]** Firefly Signs Landmark Launch Contract with Lockheed Martin
 - <a href="https://tlpnetwork.com/news/america/k2-space-to-launch-first-satellite-this-year-amid-growing-interest-for-satellite-bus" >🔗</a> **[The Launch Pad]** K2 Space to Launch First Satellite This Year Amid Growing Interest For Satellite Bus
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/planets-first-hyperspectral-satellite-is-ready-to-launch/" >🔗</a> **[SpaceNews]** Planet’s first hyperspectral satellite is ready to launch
 - <a href="https://spacenews.com/space-force-agency-taps-20-companies-for-1-billion-ground-systems-idiq/" >🔗</a> **[SpaceNews]** Space Force agency taps 20 companies for $1 billion ground systems IDIQ
 - <a href="https://www.cnbc.com/2024/06/07/investing-in-space-boeing-and-spacex-had-a-major-week.html" >🔗</a> **[CNBC]** Investing in Space: Boeing and SpaceX had a major week that put their differences on display
-- <a href="https://spacenews.com/competing-with-uncle-sams-free-space-offerings/" >🔗</a> **[SpaceNews]** Competing with Uncle Sam’s free space offerings
-- <a href="https://spacenews.com/esa-and-vast-to-study-cooperation-on-future-commercial-space-stations/" >🔗</a> **[SpaceNews]** ESA and Vast to study cooperation on future commercial space stations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T015434">2024-06-09 01:54:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T021522">2024-06-09 02:15:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
