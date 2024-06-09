@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/astra-consolidates-operations-as-awaits-privatization-deal" >🔗</a> **[The Launch Pad]** Astra Consolidates Operations As Awaits Privatization Deal
 - <a href="https://spacenews.com/virgin-galactic-conducts-final-vss-unity-commercial-suborbital-spaceflight/" >🔗</a> **[SpaceNews]** Virgin Galactic conducts final VSS Unity commercial suborbital spaceflight
 - <a href="https://spacenews.com/planets-first-hyperspectral-satellite-is-ready-to-launch/" >🔗</a> **[SpaceNews]** Planet’s first hyperspectral satellite is ready to launch
 - <a href="https://spacenews.com/space-force-agency-taps-20-companies-for-1-billion-ground-systems-idiq/" >🔗</a> **[SpaceNews]** Space Force agency taps 20 companies for $1 billion ground systems IDIQ
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/06/on-the-space-station-band-aid-fixes-for-systemic-problems/" >🔗</a> **[Arstechnica]** As leaks on the space station worsen, there’s no clear plan to deal with them
 - <a href="https://spacenews.com/tools-for-space-sustainability-watchdogs/" >🔗</a> **[SpaceNews]** Tools for space sustainability watchdogs
 - <a href="https://spacenews.com/space-tourism-dreams-live-on/" >🔗</a> **[SpaceNews]** Space tourism dreams live on
-- <a href="https://spacenews.com/spacex-and-the-categorical-imperative-to-achieve-low-launch-cost/" >🔗</a> **[SpaceNews]** SpaceX and the categorical imperative to achieve low launch cost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240608T233115">2024-06-08 23:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T000419">2024-06-09 00:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
