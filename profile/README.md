@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/apollo-astronaut-bill-anders-dies/" >🔗</a> **[SpacePolicyOnline.com]** Apollo Astronaut Bill Anders Dies
 - <a href="https://spacenews.com/space-development-agency-calls-on-satellite-builders-to-diversify-suppliers/" >🔗</a> **[SpaceNews]** Space Development Agency calls on satellite builders to diversify suppliers
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-flys-final-vss-unity-commercial-mission" >🔗</a> **[The Launch Pad]** Virgin Galactic’s Flys Final VSS Unity Commercial Mission
 - <a href="https://tlpnetwork.com/news/america/nasa-looks-to-advance-mars-sample-return-mission-with-commercial-studies" >🔗</a> **[The Launch Pad]** NASA Looks To Advance Mars Sample Return Mission with Commercial Studies
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/k2-space-to-launch-first-satellite-this-year-amid-growing-interest-for-satellite-bus" >🔗</a> **[The Launch Pad]** K2 Space to Launch First Satellite This Year Amid Growing Interest For Satellite Bus
 - <a href="https://tlpnetwork.com/news/america/astra-consolidates-operations-as-awaits-privatization-deal" >🔗</a> **[The Launch Pad]** Astra Consolidates Operations As Awaits Privatization Deal
 - <a href="https://spacenews.com/virgin-galactic-conducts-final-vss-unity-commercial-suborbital-spaceflight/" >🔗</a> **[SpaceNews]** Virgin Galactic conducts final VSS Unity commercial suborbital spaceflight
-- <a href="https://spacenews.com/planets-first-hyperspectral-satellite-is-ready-to-launch/" >🔗</a> **[SpaceNews]** Planet’s first hyperspectral satellite is ready to launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T113107">2024-06-09 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240609T120130">2024-06-09 12:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
