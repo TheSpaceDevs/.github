@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/collaborative-frontiers-merging-commercial-tech-with-space-force-strategy/" >🔗</a> **[SpaceNews]** Collaborative Frontiers: Merging Commercial Tech with Space Force Strategy
 - <a href="https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How Profitable is Starlink? Join our discussion on June 11
 - <a href="https://spacenews.com/scout-space-telescope-to-hitch-a-ride-on-abl-rocket/" >🔗</a> **[SpaceNews]** Scout Space telescope to hitch a ride on ABL rocket
 - <a href="https://spacenews.com/what-people-dont-get-about-space/" >🔗</a> **[SpaceNews]** What people don’t get about space
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-9-15-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 9-15, 2024
 - <a href="https://tlpnetwork.com/news/in-space/ses-successfully-tests-stable-relay-between-medium-and-low-earth-orbit" >🔗</a> **[The Launch Pad]** SES Successfully Tests Stable Relay Link Between Medium and Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/virgin-galactic-says-farewell-to-vss-unity/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Says Farewell to VSS Unity
-- <a href="https://tlpnetwork.com/news/asia/japan-forces-trial-starlink-internet-service-for-maritime-crew" >🔗</a> **[The Launch Pad]** Japan Self-Defence Forces Trial Starlink Internet Service for Maritime Crew
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T140220">2024-06-10 14:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T143238">2024-06-10 14:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
