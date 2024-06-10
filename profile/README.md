@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-seven-companies-for-msr-studies/" >🔗</a> **[SpaceNews]** NASA selects seven companies for MSR studies
 - <a href="https://tlpnetwork.com/news/military/space-force-selects-20-companies-for-1-billion-usd-ground-systems-idiq-contract" >🔗</a> **[The Launch Pad]** Space Force Selects 20 Companies for $1 Billion USD Ground Systems IDIQ Contract
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-9-15-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 9-15, 2024
 - <a href="https://tlpnetwork.com/news/in-space/ses-successfully-tests-stable-relay-between-medium-and-low-earth-orbit" >🔗</a> **[The Launch Pad]** SES Successfully Tests Stable Relay Link Between Medium and Low Earth Orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/planets-tanager-1-hyperspectral-satellite-ready-for-launch" >🔗</a> **[The Launch Pad]** Planet’s Tanager-1 Hyperspectral Satellite Ready for Launch
 - <a href="https://tlpnetwork.com/news/america/slingshot-aerospace-unveils-ai-system-to-monitor-satellite-anomalies" >🔗</a> **[The Launch Pad]** Slingshot Aerospace Unveils AI System to Monitor Satellite Anomalies
 - <a href="https://tlpnetwork.com/news/europe/phisat-2-go-for-launch-for-pioneering-ai-earth-observation-mission" >🔗</a> **[The Launch Pad]** Φsat-2 "GO" For Launch For Pioneering AI Earth Observation Mission
-- <a href="https://tlpnetwork.com/news/policy-and-finance/astroscale-surge-on-tokyo-stock-exchange-debut" >🔗</a> **[The Launch Pad]** Astroscale Surge on Tokyo Stock Exchange Debut, Valuing Company at $1 Billion
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T110205">2024-06-10 11:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T113059">2024-06-10 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
