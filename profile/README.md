@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/scout-space-signs-launch-agreement-with-abl-space-systems-for-owlet-01-telescope" >🔗</a> **[The Launch Pad]** Scout Space Signs Launch Agreement with ABL Space Systems for Owlet-01 Telescope
 - <a href="https://tlpnetwork.com/news/america/defense-innovation-unit-awards-the-spaceport-company-sea-based-space-launch-demo-contract" >🔗</a> **[The Launch Pad]** Defense Innovation Unit Awards The Spaceport Company Sea-Based Space Launch Demo Contract
 - <a href="https://arstechnica.com/space/2024/06/virgin-galactic-has-ceased-flying-its-only-space-plane-now-what/" >🔗</a> **[Arstechnica]** Virgin Galactic has ceased flying its only space plane. Now what?
 - <a href="https://spacenews.com/collaborative-frontiers-merging-commercial-tech-with-space-force-strategy/" >🔗</a> **[SpaceNews]** Collaborative Frontiers: Merging Commercial Tech with Space Force Strategy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/assured-space-and-phantom-space-seek-to-disrupt-data-backhaul-business/" >🔗</a> **[SpaceNews]** Assured Space and Phantom Space seek to disrupt data-backhaul business
 - <a href="https://spacenews.com/nasa-selects-seven-companies-for-msr-studies/" >🔗</a> **[SpaceNews]** NASA selects seven companies for MSR studies
 - <a href="https://tlpnetwork.com/news/military/space-force-selects-20-companies-for-1-billion-usd-ground-systems-idiq-contract" >🔗</a> **[The Launch Pad]** Space Force Selects 20 Companies for $1 Billion USD Ground Systems IDIQ Contract
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-9-15-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 9-15, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T173058">2024-06-10 17:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T180119">2024-06-10 18:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
