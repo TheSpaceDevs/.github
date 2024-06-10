@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-direct-to-cell-satellite-tech-could-disrupt-billion-dollar-military-satcom-programs/" >🔗</a> **[SpaceNews]** New direct-to-cell satellite tech could disrupt billion-dollar military satcom programs
 - <a href="https://tlpnetwork.com/news/america/yahsat-partners-with-airbus-for-leo-and-geo-satellite-orders-worth-11-billion" >🔗</a> **[The Launch Pad]** Yahsat Partners with Airbus for LEO and GEO Satellite Orders Worth $1.1 Billion
 - <a href="https://spacenews.com/yahsat-orders-leo-satellites-from-airbus/" >🔗</a> **[SpaceNews]** Yahsat orders LEO satellites from Airbus
 - <a href="https://tlpnetwork.com/news/in-space/mars-rover-captures-snow-images-as-slammed-by-record-radiation-amid-historic-solar-storms" >🔗</a> **[The Launch Pad]** Mars Rover Captures "Snow" Images As Slammed By Record Radiation Amid Historic Solar Storms
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/06/virgin-galactic-has-ceased-flying-its-only-space-plane-now-what/" >🔗</a> **[Arstechnica]** Virgin Galactic has ceased flying its only space plane. Now what?
 - <a href="https://spacenews.com/collaborative-frontiers-merging-commercial-tech-with-space-force-strategy/" >🔗</a> **[SpaceNews]** Collaborative Frontiers: Merging Commercial Tech with Space Force Strategy
 - <a href="https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How Profitable is Starlink? Join our discussion on June 11
-- <a href="https://spacenews.com/scout-space-telescope-to-hitch-a-ride-on-abl-rocket/" >🔗</a> **[SpaceNews]** Scout Space telescope to hitch a ride on ABL rocket
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T213101">2024-06-10 21:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T220127">2024-06-10 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
