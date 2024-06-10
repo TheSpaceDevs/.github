@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/mars-rover-captures-snow-images-as-slammed-by-record-radiation-amid-historic-solar-storms" >🔗</a> **[The Launch Pad]** Mars Rover Captures "Snow" Images As Slammed By Record Radiation Amid Historic Solar Storms
+- <a href="https://tlpnetwork.com/news/america/nasa-demonstrates-advanced-high-speed-laser-communication-system-with-pet-imagery-transmission" >🔗</a> **[The Launch Pad]** NASA Demonstrates Advanced High-Speed Laser Communication System with Pet Imagery Transmission
 - <a href="https://tlpnetwork.com/news/america/scout-space-signs-launch-agreement-with-abl-space-systems-for-owlet-01-telescope" >🔗</a> **[The Launch Pad]** Scout Space Signs Launch Agreement with ABL Space Systems for Owlet-01 Telescope
 - <a href="https://tlpnetwork.com/news/america/defense-innovation-unit-awards-the-spaceport-company-sea-based-space-launch-demo-contract" >🔗</a> **[The Launch Pad]** Defense Innovation Unit Awards The Spaceport Company Sea-Based Space Launch Demo Contract
 - <a href="https://arstechnica.com/space/2024/06/virgin-galactic-has-ceased-flying-its-only-space-plane-now-what/" >🔗</a> **[Arstechnica]** Virgin Galactic has ceased flying its only space plane. Now what?
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/scout-space-telescope-to-hitch-a-ride-on-abl-rocket/" >🔗</a> **[SpaceNews]** Scout Space telescope to hitch a ride on ABL rocket
 - <a href="https://spacenews.com/what-people-dont-get-about-space/" >🔗</a> **[SpaceNews]** What people don’t get about space
 - <a href="https://spacenews.com/assured-space-and-phantom-space-seek-to-disrupt-data-backhaul-business/" >🔗</a> **[SpaceNews]** Assured Space and Phantom Space seek to disrupt data-backhaul business
-- <a href="https://spacenews.com/nasa-selects-seven-companies-for-msr-studies/" >🔗</a> **[SpaceNews]** NASA selects seven companies for MSR studies
-- <a href="https://tlpnetwork.com/news/military/space-force-selects-20-companies-for-1-billion-usd-ground-systems-idiq-contract" >🔗</a> **[The Launch Pad]** Space Force Selects 20 Companies for $1 Billion USD Ground Systems IDIQ Contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T190115">2024-06-10 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T193058">2024-06-10 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
