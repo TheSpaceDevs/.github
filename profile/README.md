@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/scout-space-telescope-to-hitch-a-ride-on-abl-rocket/" >🔗</a> **[SpaceNews]** Scout Space telescope to hitch a ride on ABL rocket
+- <a href="https://spacenews.com/what-people-dont-get-about-space/" >🔗</a> **[SpaceNews]** What people don’t get about space
 - <a href="https://spacenews.com/assured-space-and-phantom-space-seek-to-disrupt-data-backhaul-business/" >🔗</a> **[SpaceNews]** Assured Space and Phantom Space seek to disrupt data-backhaul business
 - <a href="https://spacenews.com/nasa-selects-seven-companies-for-msr-studies/" >🔗</a> **[SpaceNews]** NASA selects seven companies for MSR studies
 - <a href="https://tlpnetwork.com/news/military/space-force-selects-20-companies-for-1-billion-usd-ground-systems-idiq-contract" >🔗</a> **[The Launch Pad]** Space Force Selects 20 Companies for $1 Billion USD Ground Systems IDIQ Contract
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/virgin-galactic-says-farewell-to-vss-unity/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Says Farewell to VSS Unity
 - <a href="https://tlpnetwork.com/news/asia/japan-forces-trial-starlink-internet-service-for-maritime-crew" >🔗</a> **[The Launch Pad]** Japan Self-Defence Forces Trial Starlink Internet Service for Maritime Crew
 - <a href="https://tlpnetwork.com/news/america/sda-urges-contractors-to-diversify-satellite-supply-chain" >🔗</a> **[The Launch Pad]** SDA Urges Contractors to Diversify Satellite Supply Chain
-- <a href="https://tlpnetwork.com/news/america/planets-tanager-1-hyperspectral-satellite-ready-for-launch" >🔗</a> **[The Launch Pad]** Planet’s Tanager-1 Hyperspectral Satellite Ready for Launch
-- <a href="https://tlpnetwork.com/news/america/slingshot-aerospace-unveils-ai-system-to-monitor-satellite-anomalies" >🔗</a> **[The Launch Pad]** Slingshot Aerospace Unveils AI System to Monitor Satellite Anomalies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T130315">2024-06-10 13:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T133111">2024-06-10 13:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
