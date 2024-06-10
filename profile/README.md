@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/virgin-galactic-has-ceased-flying-its-only-space-plane-now-what/" >🔗</a> **[Arstechnica]** Virgin Galactic has ceased flying its only space plane. Now what?
 - <a href="https://spacenews.com/collaborative-frontiers-merging-commercial-tech-with-space-force-strategy/" >🔗</a> **[SpaceNews]** Collaborative Frontiers: Merging Commercial Tech with Space Force Strategy
 - <a href="https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How Profitable is Starlink? Join our discussion on June 11
 - <a href="https://spacenews.com/scout-space-telescope-to-hitch-a-ride-on-abl-rocket/" >🔗</a> **[SpaceNews]** Scout Space telescope to hitch a ride on ABL rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/military/space-force-selects-20-companies-for-1-billion-usd-ground-systems-idiq-contract" >🔗</a> **[The Launch Pad]** Space Force Selects 20 Companies for $1 Billion USD Ground Systems IDIQ Contract
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-9-15-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 9-15, 2024
 - <a href="https://tlpnetwork.com/news/in-space/ses-successfully-tests-stable-relay-between-medium-and-low-earth-orbit" >🔗</a> **[The Launch Pad]** SES Successfully Tests Stable Relay Link Between Medium and Low Earth Orbit
-- <a href="https://spacepolicyonline.com/news/virgin-galactic-says-farewell-to-vss-unity/" >🔗</a> **[SpacePolicyOnline.com]** Virgin Galactic Says Farewell to VSS Unity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T150115">2024-06-10 15:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240610T153110">2024-06-10 15:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
