@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kepler-demonstrates-optical-data-relay-service-in-leo/" >🔗</a> **[SpaceNews]** Kepler demonstrates optical data relay service in LEO
 - <a href="https://spacenews.com/china-selects-new-batch-of-astronauts-with-an-eye-on-the-moon/" >🔗</a> **[SpaceNews]** China selects new batch of astronauts with an eye on the moon
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9’s busy launch cadence continues
 - <a href="https://spacenews.com/new-direct-to-cell-satellite-tech-could-disrupt-billion-dollar-military-satcom-programs/" >🔗</a> **[SpaceNews]** New direct-to-cell satellite tech could disrupt billion-dollar military satcom programs
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-demonstrates-advanced-high-speed-laser-communication-system-with-pet-imagery-transmission" >🔗</a> **[The Launch Pad]** NASA Demonstrates Advanced High-Speed Laser Communication System with Pet Imagery Transmission
 - <a href="https://tlpnetwork.com/news/america/scout-space-signs-launch-agreement-with-abl-space-systems-for-owlet-01-telescope" >🔗</a> **[The Launch Pad]** Scout Space Signs Launch Agreement with ABL Space Systems for Owlet-01 Telescope
 - <a href="https://tlpnetwork.com/news/america/defense-innovation-unit-awards-the-spaceport-company-sea-based-space-launch-demo-contract" >🔗</a> **[The Launch Pad]** Defense Innovation Unit Awards The Spaceport Company Sea-Based Space Launch Demo Contract
-- <a href="https://arstechnica.com/space/2024/06/virgin-galactic-has-ceased-flying-its-only-space-plane-now-what/" >🔗</a> **[Arstechnica]** Virgin Galactic has ceased flying its only space plane. Now what?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240611T100112">2024-06-11 10:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240611T103327">2024-06-11 10:33:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
