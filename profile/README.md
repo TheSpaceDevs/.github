@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-embracing-spacexs-starshield-for-future-military-satcom/" >🔗</a> **[SpaceNews]** Pentagon embracing SpaceX’s Starshield for future military satcom
 - <a href="https://spacenews.com/kongsberg-nanoavionics-strengthens-government-focus-with-new-ceo/" >🔗</a> **[SpaceNews]** Kongsberg NanoAvionics strengthens government focus with new CEO
 - <a href="https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How Profitable is Starlink? Join our discussion today!
 - <a href="https://arstechnica.com/space/2024/06/as-nasa-watches-starship-closely-heres-what-the-agency-wants-to-see-next/" >🔗</a> **[Arstechnica]** As NASA watches Starship closely, here’s what the agency wants to see next
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/kepler-demonstrates-optical-data-relay-service-in-leo/" >🔗</a> **[SpaceNews]** Kepler demonstrates optical data relay service in LEO
 - <a href="https://spacenews.com/china-selects-new-batch-of-astronauts-with-an-eye-on-the-moon/" >🔗</a> **[SpaceNews]** China selects new batch of astronauts with an eye on the moon
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9’s busy launch cadence continues
-- <a href="https://spacenews.com/new-direct-to-cell-satellite-tech-could-disrupt-billion-dollar-military-satcom-programs/" >🔗</a> **[SpaceNews]** New direct-to-cell satellite tech could disrupt billion-dollar military satcom programs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240611T220114">2024-06-11 22:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240611T223056">2024-06-11 22:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
