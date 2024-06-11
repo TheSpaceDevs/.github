@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/as-nasa-watches-starship-closely-heres-what-the-agency-wants-to-see-next/" >🔗</a> **[Arstechnica]** As NASA watches Starship closely, here’s what the agency wants to see next
 - <a href="https://tlpnetwork.com/news/america/stoke-space-hotfire-tests-new-booster-engine-for-first-time" >🔗</a> **[The Launch Pad]** Stoke Space Hotfire Tests New Booster Engine For First Time
 - <a href="https://arstechnica.com/space/2024/06/stoke-space-ignites-its-ambitious-main-engine-for-the-first-time/" >🔗</a> **[Arstechnica]** Stoke Space ignites its ambitious main engine for the first time
 - <a href="https://spacenews.com/stoke-space-test-fires-new-booster-engine/" >🔗</a> **[SpaceNews]** Stoke Space test-fires new booster engine
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-direct-to-cell-satellite-tech-could-disrupt-billion-dollar-military-satcom-programs/" >🔗</a> **[SpaceNews]** New direct-to-cell satellite tech could disrupt billion-dollar military satcom programs
 - <a href="https://tlpnetwork.com/news/america/yahsat-partners-with-airbus-for-leo-and-geo-satellite-orders-worth-11-billion" >🔗</a> **[The Launch Pad]** Yahsat Partners with Airbus for LEO and GEO Satellite Orders Worth $1.1 Billion
 - <a href="https://spacenews.com/yahsat-orders-leo-satellites-from-airbus/" >🔗</a> **[SpaceNews]** Yahsat orders LEO satellites from Airbus
-- <a href="https://tlpnetwork.com/news/in-space/mars-rover-captures-snow-images-as-slammed-by-record-radiation-amid-historic-solar-storms" >🔗</a> **[The Launch Pad]** Mars Rover Captures "Snow" Images As Slammed By Record Radiation Amid Historic Solar Storms
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240611T153107">2024-06-11 15:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240611T160123">2024-06-11 16:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
