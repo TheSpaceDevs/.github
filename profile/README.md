@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/military/anduril-industries-secures-19-million-contract-for-advanced-sm6-rocket-motor-development" >🔗</a> **[The Launch Pad]** Anduril Industries Secures $19 Million Contract for Advanced SM-6 Rocket Motor Development
+- <a href="https://tlpnetwork.com/news/america/assured-space-access-partners-with-phantom-space-to-launch-phantom-cloud-satellite-service" >🔗</a> **[The Launch Pad]** Assured Space Access Partners with Phantom Space to Launch Phantom Cloud Satellite Service
+- <a href="https://tlpnetwork.com/news/asia/china-selects-10-new-astronauts-for-missions-to-leo-and-the-moon" >🔗</a> **[The Launch Pad]** China Selects 10 New Astronauts for Missions to LEO and The Moon
 - <a href="https://tlpnetwork.com/news/in-space/mars-orbiters-discover-150000-tonnes-of-water-frost-on-solar-system-largest-volcano-in-the-martian-tropics" >🔗</a> **[The Launch Pad]** Mars Orbiters Discover 150,000 Tonnes Of Water Frost on Solar System Largest Volcano in The Martian Tropics
 - <a href="https://tlpnetwork.com/news/technology/spacex-cuts-starlink-dish-price-to-299-for-new-users-in-27-states" >🔗</a> **[The Launch Pad]** SpaceX Cuts Starlink Dish Price to $299 for New Users in 27 States
 - <a href="https://tlpnetwork.com/news/in-space/nasa-confirms-5th-helium-leak-on-boeing-starliner-spacecraft" >🔗</a> **[The Launch Pad]** NASA Confirms 5th Helium Leak on Boeing Starliner Spacecraft
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/anduril-gets-19-million-contract-to-develop-solid-rocket-motors-for-u-s-navy/" >🔗</a> **[SpaceNews]** Anduril gets $19 million contract to develop solid rocket motors for U.S. Navy
 - <a href="https://spacenews.com/apex-raises-95-million-to-increase-satellite-bus-production/" >🔗</a> **[SpaceNews]** Apex raises $95 million to increase satellite bus production
 - <a href="https://spacenews.com/fifth-helium-leak-detected-on-starliner/" >🔗</a> **[SpaceNews]** Fifth helium leak detected on Starliner
-- <a href="https://tlpnetwork.com/news/america/faa-initiates-environmental-review-for-spacex-starship-operations-at-ksc" >🔗</a> **[The Launch Pad]** FAA Initiates Environmental Review for SpaceX's Starship Operations at KSC
-- <a href="https://spacenews.com/rocket-lab-wins-government-support-to-expand-solar-cell-production/" >🔗</a> **[SpaceNews]** Rocket Lab wins government support to expand solar cell production
-- <a href="https://spacenews.com/pentagon-embracing-spacexs-starshield-for-future-military-satcom/" >🔗</a> **[SpaceNews]** Pentagon embracing SpaceX’s Starshield for future military satcom
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T190107">2024-06-12 19:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T193108">2024-06-12 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
