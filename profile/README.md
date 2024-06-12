@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/nasa-confirms-5th-helium-leak-on-boeing-starliner-spacecraft" >🔗</a> **[The Launch Pad]** NASA Confirms 5th Helium Leak on Boeing Starliner Spacecraft
 - <a href="https://spacenews.com/albedo-to-loft-clarity-to-very-low-orbit-in-early-2025/" >🔗</a> **[SpaceNews]** Albedo to loft Clarity to very low orbit in early 2025
 - <a href="https://spacenews.com/anduril-gets-19-million-contract-to-develop-solid-rocket-motors-for-u-s-navy/" >🔗</a> **[SpaceNews]** Anduril gets $19 million contract to develop solid rocket motors for U.S. Navy
 - <a href="https://spacenews.com/apex-raises-95-million-to-increase-satellite-bus-production/" >🔗</a> **[SpaceNews]** Apex raises $95 million to increase satellite bus production
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagon-embracing-spacexs-starshield-for-future-military-satcom/" >🔗</a> **[SpaceNews]** Pentagon embracing SpaceX’s Starshield for future military satcom
 - <a href="https://spacenews.com/kongsberg-nanoavionics-strengthens-government-focus-with-new-ceo/" >🔗</a> **[SpaceNews]** Kongsberg NanoAvionics strengthens government focus with new CEO
 - <a href="https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How Profitable is Starlink? Join our discussion today!
-- <a href="https://arstechnica.com/space/2024/06/as-nasa-watches-starship-closely-heres-what-the-agency-wants-to-see-next/" >🔗</a> **[Arstechnica]** As NASA watches Starship closely, here’s what the agency wants to see next
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T160109">2024-06-12 16:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T163411">2024-06-12 16:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
