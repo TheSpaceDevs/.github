@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T212000">2024-06-12 21:20:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T204600">2024-06-13 20:46:00 UTC</a>.  Until
 then, this pad will have been used for 247
 out of 959 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T212000">2024-06-12 21:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240612T212000Z%2F20240613T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T204600">2024-06-13 20:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240613T204600Z%2F20240613T224000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T213500">2024-06-17 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240617T213500Z%2F20240618T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T181300">2024-06-18 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240618T181300Z%2F20240618T181300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T030000">2024-06-19 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240619T030000Z%2F20240619T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/06/starship-flight-4-milestones-flight-5/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 milestones effect changes to Flight 5’s Ship
+- <a href="https://spacenews.com/esa-china-moon-cooperation-could-end-with-change-6/" >🔗</a> **[SpaceNews]** ESA-China moon cooperation could end with Chang’e-6
+- <a href="https://tlpnetwork.com/news/america/albedo-set-launch-clarity-1-into-very-low-earth-orbit-in-early-2025-on-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Albedo Set Launch Clarity-1; Into Very Low Earth Orbit in Early 2025 on SpaceX Transporter-13
 - <a href="https://tlpnetwork.com/news/military/anduril-industries-secures-19-million-contract-for-advanced-sm6-rocket-motor-development" >🔗</a> **[The Launch Pad]** Anduril Industries Secures $19 Million Contract for Advanced SM-6 Rocket Motor Development
 - <a href="https://tlpnetwork.com/news/america/assured-space-access-partners-with-phantom-space-to-launch-phantom-cloud-satellite-service" >🔗</a> **[The Launch Pad]** Assured Space Access Partners with Phantom Space to Launch Phantom Cloud Satellite Service
 - <a href="https://tlpnetwork.com/news/asia/china-selects-10-new-astronauts-for-missions-to-leo-and-the-moon" >🔗</a> **[The Launch Pad]** China Selects 10 New Astronauts for Missions to LEO and The Moon
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/technology/spacex-cuts-starlink-dish-price-to-299-for-new-users-in-27-states" >🔗</a> **[The Launch Pad]** SpaceX Cuts Starlink Dish Price to $299 for New Users in 27 States
 - <a href="https://tlpnetwork.com/news/in-space/nasa-confirms-5th-helium-leak-on-boeing-starliner-spacecraft" >🔗</a> **[The Launch Pad]** NASA Confirms 5th Helium Leak on Boeing Starliner Spacecraft
 - <a href="https://spacenews.com/albedo-to-loft-clarity-to-very-low-orbit-in-early-2025/" >🔗</a> **[SpaceNews]** Albedo to loft Clarity to very low orbit in early 2025
-- <a href="https://spacenews.com/anduril-gets-19-million-contract-to-develop-solid-rocket-motors-for-u-s-navy/" >🔗</a> **[SpaceNews]** Anduril gets $19 million contract to develop solid rocket motors for U.S. Navy
-- <a href="https://spacenews.com/apex-raises-95-million-to-increase-satellite-bus-production/" >🔗</a> **[SpaceNews]** Apex raises $95 million to increase satellite bus production
-- <a href="https://spacenews.com/fifth-helium-leak-detected-on-starliner/" >🔗</a> **[SpaceNews]** Fifth helium leak detected on Starliner
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T203102">2024-06-12 20:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T210124">2024-06-12 21:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
