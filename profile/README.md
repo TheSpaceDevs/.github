@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/military/pentagon-to-move-forward-with-spacex-starshield-for-secure-satellite-communications" >🔗</a> **[The Launch Pad]** Pentagon To Move Forward With SpaceX Starshield for Secure Satellite Communications
+- <a href="https://spacenews.com/ai-transforming-satellite-imaging-industry-but-its-not-magic/" >🔗</a> **[SpaceNews]** AI transforming satellite imaging industry ‘but it’s not magic’
+- <a href="https://tlpnetwork.com/news/america/rocketlab-secures-nearly-50-million-in-funding-for-new-mexico-solar-cell-factory-expansion" >🔗</a> **[The Launch Pad]** RocketLab Secures Nearly $50 Million in Funding for New Mexico Solar Cell Factory Expansion
 - <a href="https://www.nasaspaceflight.com/2024/06/starship-flight-4-milestones-flight-5/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 milestones effect changes to Flight 5’s Ship
 - <a href="https://spacenews.com/esa-china-moon-cooperation-could-end-with-change-6/" >🔗</a> **[SpaceNews]** ESA-China moon cooperation could end with Chang’e-6
 - <a href="https://tlpnetwork.com/news/america/albedo-set-launch-clarity-1-into-very-low-earth-orbit-in-early-2025-on-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Albedo Set Launch Clarity-1; Into Very Low Earth Orbit in Early 2025 on SpaceX Transporter-13
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/assured-space-access-partners-with-phantom-space-to-launch-phantom-cloud-satellite-service" >🔗</a> **[The Launch Pad]** Assured Space Access Partners with Phantom Space to Launch Phantom Cloud Satellite Service
 - <a href="https://tlpnetwork.com/news/asia/china-selects-10-new-astronauts-for-missions-to-leo-and-the-moon" >🔗</a> **[The Launch Pad]** China Selects 10 New Astronauts for Missions to LEO and The Moon
 - <a href="https://tlpnetwork.com/news/in-space/mars-orbiters-discover-150000-tonnes-of-water-frost-on-solar-system-largest-volcano-in-the-martian-tropics" >🔗</a> **[The Launch Pad]** Mars Orbiters Discover 150,000 Tonnes Of Water Frost on Solar System Largest Volcano in The Martian Tropics
-- <a href="https://tlpnetwork.com/news/technology/spacex-cuts-starlink-dish-price-to-299-for-new-users-in-27-states" >🔗</a> **[The Launch Pad]** SpaceX Cuts Starlink Dish Price to $299 for New Users in 27 States
-- <a href="https://tlpnetwork.com/news/in-space/nasa-confirms-5th-helium-leak-on-boeing-starliner-spacecraft" >🔗</a> **[The Launch Pad]** NASA Confirms 5th Helium Leak on Boeing Starliner Spacecraft
-- <a href="https://spacenews.com/albedo-to-loft-clarity-to-very-low-orbit-in-early-2025/" >🔗</a> **[SpaceNews]** Albedo to loft Clarity to very low orbit in early 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T213056">2024-06-12 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T220111">2024-06-12 22:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
