@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fifth-helium-leak-detected-on-starliner/" >🔗</a> **[SpaceNews]** Fifth helium leak detected on Starliner
 - <a href="https://tlpnetwork.com/news/america/faa-initiates-environmental-review-for-spacex-starship-operations-at-ksc" >🔗</a> **[The Launch Pad]** FAA Initiates Environmental Review for SpaceX's Starship Operations at KSC
 - <a href="https://spacenews.com/rocket-lab-wins-government-support-to-expand-solar-cell-production/" >🔗</a> **[SpaceNews]** Rocket Lab wins government support to expand solar cell production
 - <a href="https://spacenews.com/pentagon-embracing-spacexs-starshield-for-future-military-satcom/" >🔗</a> **[SpaceNews]** Pentagon embracing SpaceX’s Starshield for future military satcom
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/stoke-space-hotfire-tests-new-booster-engine-for-first-time" >🔗</a> **[The Launch Pad]** Stoke Space Hotfire Tests New Booster Engine For First Time
 - <a href="https://arstechnica.com/space/2024/06/stoke-space-ignites-its-ambitious-main-engine-for-the-first-time/" >🔗</a> **[Arstechnica]** Stoke Space ignites its ambitious main engine for the first time
 - <a href="https://spacenews.com/stoke-space-test-fires-new-booster-engine/" >🔗</a> **[SpaceNews]** Stoke Space test-fires new booster engine
-- <a href="https://spacenews.com/kepler-demonstrates-optical-data-relay-service-in-leo/" >🔗</a> **[SpaceNews]** Kepler demonstrates optical data relay service in LEO
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T015040">2024-06-12 01:50:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T021349">2024-06-12 02:13:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
