@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/anduril-gets-19-million-contract-to-develop-solid-rocket-motors-for-u-s-navy/" >🔗</a> **[SpaceNews]** Anduril gets $19 million contract to develop solid rocket motors for U.S. Navy
 - <a href="https://spacenews.com/apex-raises-95-million-to-increase-satellite-bus-production/" >🔗</a> **[SpaceNews]** Apex raises $95 million to increase satellite bus production
 - <a href="https://spacenews.com/fifth-helium-leak-detected-on-starliner/" >🔗</a> **[SpaceNews]** Fifth helium leak detected on Starliner
 - <a href="https://tlpnetwork.com/news/america/faa-initiates-environmental-review-for-spacex-starship-operations-at-ksc" >🔗</a> **[The Launch Pad]** FAA Initiates Environmental Review for SpaceX's Starship Operations at KSC
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/06/ars-live-caleb-henry-joins-us-to-discuss-the-profitability-of-starlink/" >🔗</a> **[Arstechnica]** Ars Live: How Profitable is Starlink? Join our discussion today!
 - <a href="https://arstechnica.com/space/2024/06/as-nasa-watches-starship-closely-heres-what-the-agency-wants-to-see-next/" >🔗</a> **[Arstechnica]** As NASA watches Starship closely, here’s what the agency wants to see next
 - <a href="https://tlpnetwork.com/news/america/stoke-space-hotfire-tests-new-booster-engine-for-first-time" >🔗</a> **[The Launch Pad]** Stoke Space Hotfire Tests New Booster Engine For First Time
-- <a href="https://arstechnica.com/space/2024/06/stoke-space-ignites-its-ambitious-main-engine-for-the-first-time/" >🔗</a> **[Arstechnica]** Stoke Space ignites its ambitious main engine for the first time
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T100130">2024-06-12 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240612T103238">2024-06-12 10:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
