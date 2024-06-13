@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/06/13/investing-in-space-virgin-galactic-enters-spaceflight-hiatus.html" >🔗</a> **[CNBC]** Investing in Space: Virgin Galactic enters spaceflight hiatus after retiring Unity
 - <a href="https://spacenews.com/virgin-galactic-announces-reverse-stock-split-to-boost-share-price/" >🔗</a> **[SpaceNews]** Virgin Galactic announces reverse stock split to boost share price
 - <a href="https://spacenews.com/aerospacelab-to-build-debris-tracking-satellite-for-vyoma/" >🔗</a> **[SpaceNews]** Aerospacelab to build debris-tracking satellite for Vyoma
 - <a href="https://spacepolicyonline.com/news/nasa-scrubs-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** NASA Scrubs Spacewalk
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/congressional-letter-asks-nasa-to-rescind-chandra-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks NASA to rescind Chandra cuts
 - <a href="https://spacenews.com/thales-spire-and-essp-to-develop-air-traffic-surveillance-constellation/" >🔗</a> **[SpaceNews]** Thales, Spire and ESSP to develop air traffic surveillance constellation
 - <a href="https://tlpnetwork.com/news/in-space/no-emergency-situation-aboard-the-international-space-station" >🔗</a> **[The Launch Pad]** No Emergency Situation Aboard the International Space Station
-- <a href="https://tlpnetwork.com/news/military/pentagon-to-move-forward-with-spacex-starshield-for-secure-satellite-communications" >🔗</a> **[The Launch Pad]** Pentagon To Move Forward With SpaceX Starshield for Secure Satellite Communications
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T180123">2024-06-13 18:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T183341">2024-06-13 18:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
