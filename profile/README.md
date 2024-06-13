@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-scrubs-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** NASA Scrubs Spacewalk
 - <a href="https://spacenews.com/leolabs-wins-afwerx-contract-to-develop-next-generation-radar/" >🔗</a> **[SpaceNews]** LeoLabs wins AFWERX contract to develop next-generation radar
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-conducts-proximity-operations-with-small-spacecraft/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane conducts proximity operations with small spacecraft
 - <a href="https://spacenews.com/armenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Armenia signs Artemis Accords
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/military/pentagon-to-move-forward-with-spacex-starshield-for-secure-satellite-communications" >🔗</a> **[The Launch Pad]** Pentagon To Move Forward With SpaceX Starshield for Secure Satellite Communications
 - <a href="https://spacenews.com/ai-transforming-satellite-imaging-industry-but-its-not-magic/" >🔗</a> **[SpaceNews]** AI transforming satellite imaging industry ‘but it’s not magic’
 - <a href="https://tlpnetwork.com/news/america/rocketlab-secures-nearly-50-million-in-funding-for-new-mexico-solar-cell-factory-expansion" >🔗</a> **[The Launch Pad]** RocketLab Secures Nearly $50 Million in Funding for New Mexico Solar Cell Factory Expansion
-- <a href="https://www.nasaspaceflight.com/2024/06/starship-flight-4-milestones-flight-5/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 milestones effect changes to Flight 5’s Ship
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T140119">2024-06-13 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T143159">2024-06-13 14:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
