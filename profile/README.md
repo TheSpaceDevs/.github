@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T204600">2024-06-13 20:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240613T204600Z%2F20240614T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T213500">2024-06-17 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240617T213500Z%2F20240618T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T181300">2024-06-18 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240618T181300Z%2F20240618T181300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T030000">2024-06-19 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240619T030000Z%2F20240619T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
@@ -91,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-appropriations-committee-pares-back-space-force-budget-request/" >🔗</a> **[SpaceNews]** House Appropriations Committee pares back Space Force budget request
+- <a href="https://spacenews.com/u-s-to-rely-on-commercial-satellites-to-image-spacecraft-in-orbit/" >🔗</a> **[SpaceNews]** U.S. to rely on commercial satellites to image spacecraft in orbit
+- <a href="https://spacenews.com/candace-givens-northrop-grumman-leading-women-in-space/" >🔗</a> **[SpaceNews]** Candace Givens, Northrop Grumman – Leading Women in Space
 - <a href="https://www.cnbc.com/2024/06/13/investing-in-space-virgin-galactic-enters-spaceflight-hiatus.html" >🔗</a> **[CNBC]** Investing in Space: Virgin Galactic enters spaceflight hiatus after retiring Unity
 - <a href="https://spacenews.com/virgin-galactic-announces-reverse-stock-split-to-boost-share-price/" >🔗</a> **[SpaceNews]** Virgin Galactic announces reverse stock split to boost share price
 - <a href="https://spacenews.com/aerospacelab-to-build-debris-tracking-satellite-for-vyoma/" >🔗</a> **[SpaceNews]** Aerospacelab to build debris-tracking satellite for Vyoma
@@ -98,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/leolabs-wins-afwerx-contract-to-develop-next-generation-radar/" >🔗</a> **[SpaceNews]** LeoLabs wins AFWERX contract to develop next-generation radar
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-conducts-proximity-operations-with-small-spacecraft/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane conducts proximity operations with small spacecraft
 - <a href="https://spacenews.com/armenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Armenia signs Artemis Accords
-- <a href="https://spacenews.com/congressional-letter-asks-nasa-to-rescind-chandra-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks NASA to rescind Chandra cuts
-- <a href="https://spacenews.com/thales-spire-and-essp-to-develop-air-traffic-surveillance-constellation/" >🔗</a> **[SpaceNews]** Thales, Spire and ESSP to develop air traffic surveillance constellation
-- <a href="https://tlpnetwork.com/news/in-space/no-emergency-situation-aboard-the-international-space-station" >🔗</a> **[The Launch Pad]** No Emergency Situation Aboard the International Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T203111">2024-06-13 20:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T210122">2024-06-13 21:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
