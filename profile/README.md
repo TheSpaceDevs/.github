@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sia-reports-more-record-growth-for-the-global-commercial-satellite-industry/" >🔗</a> **[SpaceNews]** SIA reports more record growth for the global commercial satellite industry
 - <a href="https://www.cnbc.com/2024/06/13/pentagon-picks-blue-origin-spacex-ula-in-5point6-billion-rocket-program.html" >🔗</a> **[CNBC]** Bezos’ Blue Origin joins SpaceX, ULA in winning bids for $5.6 billion Pentagon rocket program
 - <a href="https://spacenews.com/house-appropriations-committee-pares-back-space-force-budget-request/" >🔗</a> **[SpaceNews]** House Appropriations Committee pares back Space Force budget request
 - <a href="https://spacenews.com/u-s-to-rely-on-commercial-satellites-to-image-spacecraft-in-orbit/" >🔗</a> **[SpaceNews]** U.S. to rely on commercial satellites to image spacecraft in orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aerospacelab-to-build-debris-tracking-satellite-for-vyoma/" >🔗</a> **[SpaceNews]** Aerospacelab to build debris-tracking satellite for Vyoma
 - <a href="https://spacepolicyonline.com/news/nasa-scrubs-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** NASA Scrubs Spacewalk
 - <a href="https://spacenews.com/leolabs-wins-afwerx-contract-to-develop-next-generation-radar/" >🔗</a> **[SpaceNews]** LeoLabs wins AFWERX contract to develop next-generation radar
-- <a href="https://spacenews.com/chinas-secretive-spaceplane-conducts-proximity-operations-with-small-spacecraft/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane conducts proximity operations with small spacecraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T220113">2024-06-13 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T223123">2024-06-13 22:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
