@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-secretive-spaceplane-conducts-proximity-operations-with-small-spacecraft/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane conducts proximity operations with small spacecraft
 - <a href="https://spacenews.com/armenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Armenia signs Artemis Accords
 - <a href="https://spacenews.com/congressional-letter-asks-nasa-to-rescind-chandra-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks NASA to rescind Chandra cuts
 - <a href="https://spacenews.com/thales-spire-and-essp-to-develop-air-traffic-surveillance-constellation/" >🔗</a> **[SpaceNews]** Thales, Spire and ESSP to develop air traffic surveillance constellation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/rocketlab-secures-nearly-50-million-in-funding-for-new-mexico-solar-cell-factory-expansion" >🔗</a> **[The Launch Pad]** RocketLab Secures Nearly $50 Million in Funding for New Mexico Solar Cell Factory Expansion
 - <a href="https://www.nasaspaceflight.com/2024/06/starship-flight-4-milestones-flight-5/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 milestones effect changes to Flight 5’s Ship
 - <a href="https://spacenews.com/esa-china-moon-cooperation-could-end-with-change-6/" >🔗</a> **[SpaceNews]** ESA-China moon cooperation could end with Chang’e-6
-- <a href="https://tlpnetwork.com/news/america/albedo-set-launch-clarity-1-into-very-low-earth-orbit-in-early-2025-on-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Albedo Set Launch Clarity-1; Into Very Low Earth Orbit in Early 2025 on SpaceX Transporter-13
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T120131">2024-06-13 12:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T124006">2024-06-13 12:40:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
