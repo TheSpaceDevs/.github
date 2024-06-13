@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/no-emergency-situation-aboard-the-international-space-station" >🔗</a> **[The Launch Pad]** No Emergency Situation Aboard the International Space Station
 - <a href="https://tlpnetwork.com/news/military/pentagon-to-move-forward-with-spacex-starshield-for-secure-satellite-communications" >🔗</a> **[The Launch Pad]** Pentagon To Move Forward With SpaceX Starshield for Secure Satellite Communications
 - <a href="https://spacenews.com/ai-transforming-satellite-imaging-industry-but-its-not-magic/" >🔗</a> **[SpaceNews]** AI transforming satellite imaging industry ‘but it’s not magic’
 - <a href="https://tlpnetwork.com/news/america/rocketlab-secures-nearly-50-million-in-funding-for-new-mexico-solar-cell-factory-expansion" >🔗</a> **[The Launch Pad]** RocketLab Secures Nearly $50 Million in Funding for New Mexico Solar Cell Factory Expansion
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/military/anduril-industries-secures-19-million-contract-for-advanced-sm6-rocket-motor-development" >🔗</a> **[The Launch Pad]** Anduril Industries Secures $19 Million Contract for Advanced SM-6 Rocket Motor Development
 - <a href="https://tlpnetwork.com/news/america/assured-space-access-partners-with-phantom-space-to-launch-phantom-cloud-satellite-service" >🔗</a> **[The Launch Pad]** Assured Space Access Partners with Phantom Space to Launch Phantom Cloud Satellite Service
 - <a href="https://tlpnetwork.com/news/asia/china-selects-10-new-astronauts-for-missions-to-leo-and-the-moon" >🔗</a> **[The Launch Pad]** China Selects 10 New Astronauts for Missions to LEO and The Moon
-- <a href="https://tlpnetwork.com/news/in-space/mars-orbiters-discover-150000-tonnes-of-water-frost-on-solar-system-largest-volcano-in-the-martian-tropics" >🔗</a> **[The Launch Pad]** Mars Orbiters Discover 150,000 Tonnes Of Water Frost on Solar System Largest Volcano in The Martian Tropics
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T004501">2024-06-13 00:45:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T012708">2024-06-13 01:27:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
