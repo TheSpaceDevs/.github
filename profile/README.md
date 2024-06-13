@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congressional-letter-asks-nasa-to-rescind-chandra-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks NASA to rescind Chandra cuts
 - <a href="https://spacenews.com/thales-spire-and-essp-to-develop-air-traffic-surveillance-constellation/" >🔗</a> **[SpaceNews]** Thales, Spire and ESSP to develop air traffic surveillance constellation
 - <a href="https://tlpnetwork.com/news/in-space/no-emergency-situation-aboard-the-international-space-station" >🔗</a> **[The Launch Pad]** No Emergency Situation Aboard the International Space Station
 - <a href="https://tlpnetwork.com/news/military/pentagon-to-move-forward-with-spacex-starshield-for-secure-satellite-communications" >🔗</a> **[The Launch Pad]** Pentagon To Move Forward With SpaceX Starshield for Secure Satellite Communications
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-china-moon-cooperation-could-end-with-change-6/" >🔗</a> **[SpaceNews]** ESA-China moon cooperation could end with Chang’e-6
 - <a href="https://tlpnetwork.com/news/america/albedo-set-launch-clarity-1-into-very-low-earth-orbit-in-early-2025-on-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Albedo Set Launch Clarity-1; Into Very Low Earth Orbit in Early 2025 on SpaceX Transporter-13
 - <a href="https://tlpnetwork.com/news/military/anduril-industries-secures-19-million-contract-for-advanced-sm6-rocket-motor-development" >🔗</a> **[The Launch Pad]** Anduril Industries Secures $19 Million Contract for Advanced SM-6 Rocket Motor Development
-- <a href="https://tlpnetwork.com/news/america/assured-space-access-partners-with-phantom-space-to-launch-phantom-cloud-satellite-service" >🔗</a> **[The Launch Pad]** Assured Space Access Partners with Phantom Space to Launch Phantom Cloud Satellite Service
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T093106">2024-06-13 09:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T100110">2024-06-13 10:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
