@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leolabs-wins-afwerx-contract-to-develop-next-generation-radar/" >🔗</a> **[SpaceNews]** LeoLabs wins AFWERX contract to develop next-generation radar
 - <a href="https://spacenews.com/chinas-secretive-spaceplane-conducts-proximity-operations-with-small-spacecraft/" >🔗</a> **[SpaceNews]** China’s secretive spaceplane conducts proximity operations with small spacecraft
 - <a href="https://spacenews.com/armenia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Armenia signs Artemis Accords
 - <a href="https://spacenews.com/congressional-letter-asks-nasa-to-rescind-chandra-cuts/" >🔗</a> **[SpaceNews]** Congressional letter asks NASA to rescind Chandra cuts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ai-transforming-satellite-imaging-industry-but-its-not-magic/" >🔗</a> **[SpaceNews]** AI transforming satellite imaging industry ‘but it’s not magic’
 - <a href="https://tlpnetwork.com/news/america/rocketlab-secures-nearly-50-million-in-funding-for-new-mexico-solar-cell-factory-expansion" >🔗</a> **[The Launch Pad]** RocketLab Secures Nearly $50 Million in Funding for New Mexico Solar Cell Factory Expansion
 - <a href="https://www.nasaspaceflight.com/2024/06/starship-flight-4-milestones-flight-5/" >🔗</a> **[NASASpaceflight]** Starship Flight 4 milestones effect changes to Flight 5’s Ship
-- <a href="https://spacenews.com/esa-china-moon-cooperation-could-end-with-change-6/" >🔗</a> **[SpaceNews]** ESA-China moon cooperation could end with Chang’e-6
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T130256">2024-06-13 13:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240613T133057">2024-06-13 13:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
