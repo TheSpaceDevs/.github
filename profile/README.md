@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/kayhan-satcat-platform-merges-space-data/" >🔗</a> **[SpaceNews]** Kayhan Satcat platform merges space data
+- <a href="https://spacenews.com/kayhan-satcat-platform-merges-space-data/" >🔗</a> **[SpaceNews]** Kayhan Space Satcat platform merges space data
 - <a href="https://spacenews.com/voyager-1-returning-science-data-again/" >🔗</a> **[SpaceNews]** Voyager 1 returning science data again
 - <a href="https://spacenews.com/blue-origin-spacex-ula-win-5-6-billion-in-pentagon-launch-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, SpaceX, ULA to compete for $5.6 billion in Pentagon launch contracts
 - <a href="https://spacenews.com/sia-reports-more-record-growth-for-the-global-commercial-satellite-industry/" >🔗</a> **[SpaceNews]** SIA reports more record growth for the global commercial satellite industry
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T143157">2024-06-14 14:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T150205">2024-06-14 15:02:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
