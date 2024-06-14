@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-1-returning-science-data-again/" >🔗</a> **[SpaceNews]** Voyager 1 returning science data again
 - <a href="https://spacenews.com/blue-origin-spacex-ula-win-5-6-billion-in-pentagon-launch-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, SpaceX, ULA win $5.6 billion in Pentagon launch contracts
 - <a href="https://spacenews.com/sia-reports-more-record-growth-for-the-global-commercial-satellite-industry/" >🔗</a> **[SpaceNews]** SIA reports more record growth for the global commercial satellite industry
 - <a href="https://www.cnbc.com/2024/06/13/pentagon-picks-blue-origin-spacex-ula-in-5point6-billion-rocket-program.html" >🔗</a> **[CNBC]** Bezos’ Blue Origin joins SpaceX, ULA in winning bids for $5.6 billion Pentagon rocket program
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/06/13/investing-in-space-virgin-galactic-enters-spaceflight-hiatus.html" >🔗</a> **[CNBC]** Investing in Space: Virgin Galactic enters spaceflight hiatus after retiring Unity
 - <a href="https://spacenews.com/virgin-galactic-announces-reverse-stock-split-to-boost-share-price/" >🔗</a> **[SpaceNews]** Virgin Galactic announces reverse stock split to boost share price
 - <a href="https://spacenews.com/aerospacelab-to-build-debris-tracking-satellite-for-vyoma/" >🔗</a> **[SpaceNews]** Aerospacelab to build debris-tracking satellite for Vyoma
-- <a href="https://spacepolicyonline.com/news/nasa-scrubs-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** NASA Scrubs Spacewalk
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T023757">2024-06-14 02:37:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T030123">2024-06-14 03:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
