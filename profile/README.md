@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T203500">2024-06-14 20:35:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T203100">2024-06-14 20:31:00 UTC</a>.  Until
 then, this pad will have been used for 247
 out of 959 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T203500">2024-06-14 20:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240614T203500Z%2F20240615T001900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T203100">2024-06-14 20:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240614T203100Z%2F20240615T001900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T181300">2024-06-18 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240618T181300Z%2F20240618T181300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213500">2024-06-18 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240618T213500Z%2F20240619T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T030000">2024-06-19 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240619T030000Z%2F20240619T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moon-ice-in-the-artemis-era-what-we-still-dont-know/" >🔗</a> **[SpaceNews]** Moon ice in the Artemis era: what we still don’t know
+- <a href="https://spacenews.com/nasa-extends-starliner-stay-at-iss-for-additional-testing/" >🔗</a> **[SpaceNews]** NASA extends Starliner stay at ISS for additional testing
 - <a href="https://spacenews.com/an-obscure-anniversary-of-july-4-1776/" >🔗</a> **[SpaceNews]** An Obscure Anniversary of July 4, 1776
 - <a href="https://spacenews.com/kayhan-satcat-platform-merges-space-data/" >🔗</a> **[SpaceNews]** Kayhan Space Satcat platform merges space data
 - <a href="https://spacenews.com/voyager-1-returning-science-data-again/" >🔗</a> **[SpaceNews]** Voyager 1 returning science data again
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/06/13/pentagon-picks-blue-origin-spacex-ula-in-5point6-billion-rocket-program.html" >🔗</a> **[CNBC]** Bezos’ Blue Origin joins SpaceX, ULA in winning bids for $5.6 billion Pentagon rocket program
 - <a href="https://spacenews.com/house-appropriations-committee-pares-back-space-force-budget-request/" >🔗</a> **[SpaceNews]** House Appropriations Committee pares back Space Force budget request
 - <a href="https://spacenews.com/u-s-to-rely-on-commercial-satellites-to-image-spacecraft-in-orbit/" >🔗</a> **[SpaceNews]** U.S. to rely on commercial satellites to image spacecraft in orbit
-- <a href="https://spacenews.com/candace-givens-northrop-grumman-leading-women-in-space/" >🔗</a> **[SpaceNews]** Candace Givens, Northrop Grumman – Leading Women in Space
-- <a href="https://www.cnbc.com/2024/06/13/investing-in-space-virgin-galactic-enters-spaceflight-hiatus.html" >🔗</a> **[CNBC]** Investing in Space: Virgin Galactic enters spaceflight hiatus after retiring Unity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T170119">2024-06-14 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T173220">2024-06-14 17:32:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
