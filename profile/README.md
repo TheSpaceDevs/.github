@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/an-obscure-anniversary-of-july-4-1776/" >🔗</a> **[SpaceNews]** An Obscure Anniversary of July 4, 1776
 - <a href="https://spacenews.com/kayhan-satcat-platform-merges-space-data/" >🔗</a> **[SpaceNews]** Kayhan Space Satcat platform merges space data
 - <a href="https://spacenews.com/voyager-1-returning-science-data-again/" >🔗</a> **[SpaceNews]** Voyager 1 returning science data again
 - <a href="https://spacenews.com/blue-origin-spacex-ula-win-5-6-billion-in-pentagon-launch-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, SpaceX, ULA to compete for $5.6 billion in Pentagon launch contracts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-to-rely-on-commercial-satellites-to-image-spacecraft-in-orbit/" >🔗</a> **[SpaceNews]** U.S. to rely on commercial satellites to image spacecraft in orbit
 - <a href="https://spacenews.com/candace-givens-northrop-grumman-leading-women-in-space/" >🔗</a> **[SpaceNews]** Candace Givens, Northrop Grumman – Leading Women in Space
 - <a href="https://www.cnbc.com/2024/06/13/investing-in-space-virgin-galactic-enters-spaceflight-hiatus.html" >🔗</a> **[CNBC]** Investing in Space: Virgin Galactic enters spaceflight hiatus after retiring Unity
-- <a href="https://spacenews.com/virgin-galactic-announces-reverse-stock-split-to-boost-share-price/" >🔗</a> **[SpaceNews]** Virgin Galactic announces reverse stock split to boost share price
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T160131">2024-06-14 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T163338">2024-06-14 16:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
