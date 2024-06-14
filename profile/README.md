@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-race-to-the-moon/" >🔗</a> **[SpaceNews]** Webinar – Race to the Moon
+- <a href="https://www.cnbc.com/2024/06/14/boeing-and-nasa-delay-starliner-astronaut-return-to-june-22.html" >🔗</a> **[CNBC]** Boeing and NASA delay Starliner astronaut return to June 22, nearly doubling mission length
 - <a href="https://spacenews.com/moon-ice-in-the-artemis-era-what-we-still-dont-know/" >🔗</a> **[SpaceNews]** Moon ice in the Artemis era: what we still don’t know
 - <a href="https://spacenews.com/nasa-extends-starliner-stay-at-iss-for-additional-testing/" >🔗</a> **[SpaceNews]** NASA extends Starliner stay at ISS for additional testing
 - <a href="https://spacenews.com/an-obscure-anniversary-of-july-4-1776/" >🔗</a> **[SpaceNews]** An Obscure Anniversary of July 4, 1776
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-spacex-ula-win-5-6-billion-in-pentagon-launch-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, SpaceX, ULA to compete for $5.6 billion in Pentagon launch contracts
 - <a href="https://spacenews.com/sia-reports-more-record-growth-for-the-global-commercial-satellite-industry/" >🔗</a> **[SpaceNews]** SIA reports more record growth for the global commercial satellite industry
 - <a href="https://www.cnbc.com/2024/06/13/pentagon-picks-blue-origin-spacex-ula-in-5point6-billion-rocket-program.html" >🔗</a> **[CNBC]** Bezos’ Blue Origin joins SpaceX, ULA in winning bids for $5.6 billion Pentagon rocket program
-- <a href="https://spacenews.com/house-appropriations-committee-pares-back-space-force-budget-request/" >🔗</a> **[SpaceNews]** House Appropriations Committee pares back Space Force budget request
-- <a href="https://spacenews.com/u-s-to-rely-on-commercial-satellites-to-image-spacecraft-in-orbit/" >🔗</a> **[SpaceNews]** U.S. to rely on commercial satellites to image spacecraft in orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T190110">2024-06-14 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240614T193103">2024-06-14 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
