@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/leolabs-secures-12m-afwerx-contract-for-advanced-radar-development" >🔗</a> **[The Launch Pad]** LeoLabs Secures $1.2 Million AFWERX Contract for Advanced Radar Development
 - <a href="https://tlpnetwork.com/news/europe/thales-spire-global-essp-announce-satellite-constellation-for-air-traffic-surveillance" >🔗</a> **[The Launch Pad]** Thales, Spire Global, and ESSP Announce Satellite Constellation for Air Traffic Surveillance
 - <a href="https://tlpnetwork.com/news/america/blue-origin-spacex-and-ula-to-compete-for-30-national-security-missions" >🔗</a> **[The Launch Pad]** Blue Origin, SpaceX, and ULA To Compete For 30 National Security Missions Worth $5.6 Billion USD
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-announces-1-for-20-reverse-stock-split-to-avoid-nyse-delisting" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces 1-for-20 Reverse Stock Split to Avoid NYSE Delisting
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/armenia-becomes-43rd-signatory-to-artemis-accords" >🔗</a> **[The Launch Pad]** Armenia Becomes 43rd Signatory to Artemis Accords
 - <a href="https://spacenews.com/ovzons-first-broadband-satellite-reaches-geostationary-slot/" >🔗</a> **[SpaceNews]** Ovzon’s first broadband satellite reaches geostationary slot
 - <a href="https://spacenews.com/webinar-race-to-the-moon/" >🔗</a> **[SpaceNews]** Webinar – Race to the Moon
-- <a href="https://www.cnbc.com/2024/06/14/boeing-and-nasa-delay-starliner-astronaut-return-to-june-22.html" >🔗</a> **[CNBC]** Boeing and NASA delay Starliner astronaut return to June 22, nearly doubling mission length
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T050125">2024-06-15 05:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T053127">2024-06-15 05:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
