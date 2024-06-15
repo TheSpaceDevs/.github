@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/thales-spire-global-essp-announce-satellite-constellation-for-air-traffic-surveillance" >🔗</a> **[The Launch Pad]** Thales, Spire Global, and ESSP Announce Satellite Constellation for Air Traffic Surveillance
+- <a href="https://tlpnetwork.com/news/america/blue-origin-spacex-and-ula-to-compete-for-30-national-security-missions" >🔗</a> **[The Launch Pad]** Blue Origin, SpaceX, and ULA To Compete For 30 National Security Missions Worth $5.6 Billion USD
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-announces-1-for-20-reverse-stock-split-to-avoid-nyse-delisting" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces 1-for-20 Reverse Stock Split to Avoid NYSE Delisting
 - <a href="https://tlpnetwork.com/news/in-space/china-tests-proximity-operations-with-experimental-spaceplane" >🔗</a> **[The Launch Pad]** China Tests Proximity Operations with Experimental Spaceplane
 - <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-for-additional-testing" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner Stay at ISS for Additional Testing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ovzons-first-broadband-satellite-reaches-geostationary-slot/" >🔗</a> **[SpaceNews]** Ovzon’s first broadband satellite reaches geostationary slot
 - <a href="https://spacenews.com/webinar-race-to-the-moon/" >🔗</a> **[SpaceNews]** Webinar – Race to the Moon
 - <a href="https://www.cnbc.com/2024/06/14/boeing-and-nasa-delay-starliner-astronaut-return-to-june-22.html" >🔗</a> **[CNBC]** Boeing and NASA delay Starliner astronaut return to June 22, nearly doubling mission length
-- <a href="https://spacenews.com/moon-ice-in-the-artemis-era-what-we-still-dont-know/" >🔗</a> **[SpaceNews]** Moon ice in the Artemis era: what we still don’t know
-- <a href="https://spacenews.com/nasa-extends-starliner-stay-at-iss-for-additional-testing/" >🔗</a> **[SpaceNews]** NASA extends Starliner stay at ISS for additional testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T040130">2024-06-15 04:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T043346">2024-06-15 04:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
