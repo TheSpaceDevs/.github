@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/us-intelligence-agency-turns-to-private-sector-for-space-object-monitoring" >🔗</a> **[The Launch Pad]** U.S. Intelligence Agency Turns to Private Sector for Space Object Monitoring
+- <a href="https://tlpnetwork.com/news/in-space/ovzon-first-broadband-satellite-reaches-geostationary-position-after-5-month-journey" >🔗</a> **[The Launch Pad]** Ovzon’s First Broadband Satellite Reaches Geostationary Position After 5 Month Journey
 - <a href="https://spacenews.com/senate-armed-services-committee-advances-2025-defense-policy-bill/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee advances 2025 defense policy bill
 - <a href="https://tlpnetwork.com/news/america/leolabs-secures-12m-afwerx-contract-for-advanced-radar-development" >🔗</a> **[The Launch Pad]** LeoLabs Secures $1.2 Million AFWERX Contract for Advanced Radar Development
 - <a href="https://tlpnetwork.com/news/europe/thales-spire-global-essp-announce-satellite-constellation-for-air-traffic-surveillance" >🔗</a> **[The Launch Pad]** Thales, Spire Global, and ESSP Announce Satellite Constellation for Air Traffic Surveillance
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/in-space/china-tests-proximity-operations-with-experimental-spaceplane" >🔗</a> **[The Launch Pad]** China Tests Proximity Operations with Experimental Spaceplane
 - <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-for-additional-testing" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner Stay at ISS for Additional Testing
 - <a href="https://tlpnetwork.com/news/in-space/voyager-1-instruments-return-to-service-after-computer-malfunction" >🔗</a> **[The Launch Pad]** Voyager 1 Instruments Return to Service After Computer Malfunction
-- <a href="https://tlpnetwork.com/news/policy-and-finance/armenia-becomes-43rd-signatory-to-artemis-accords" >🔗</a> **[The Launch Pad]** Armenia Becomes 43rd Signatory to Artemis Accords
-- <a href="https://spacenews.com/ovzons-first-broadband-satellite-reaches-geostationary-slot/" >🔗</a> **[SpaceNews]** Ovzon’s first broadband satellite reaches geostationary slot
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T180127">2024-06-15 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T183249">2024-06-15 18:32:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
