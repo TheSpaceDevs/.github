@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/virgin-galactic-announces-1-for-20-reverse-stock-split-to-avoid-nyse-delisting" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces 1-for-20 Reverse Stock Split to Avoid NYSE Delisting
+- <a href="https://tlpnetwork.com/news/in-space/china-tests-proximity-operations-with-experimental-spaceplane" >🔗</a> **[The Launch Pad]** China Tests Proximity Operations with Experimental Spaceplane
+- <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-for-additional-testing" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner Stay at ISS for Additional Testing
+- <a href="https://tlpnetwork.com/news/in-space/voyager-1-instruments-return-to-service-after-computer-malfunction" >🔗</a> **[The Launch Pad]** Voyager 1 Instruments Return to Service After Computer Malfunction
+- <a href="https://tlpnetwork.com/news/policy-and-finance/armenia-becomes-43rd-signatory-to-artemis-accords" >🔗</a> **[The Launch Pad]** Armenia Becomes 43rd Signatory to Artemis Accords
 - <a href="https://spacenews.com/ovzons-first-broadband-satellite-reaches-geostationary-slot/" >🔗</a> **[SpaceNews]** Ovzon’s first broadband satellite reaches geostationary slot
 - <a href="https://spacenews.com/webinar-race-to-the-moon/" >🔗</a> **[SpaceNews]** Webinar – Race to the Moon
 - <a href="https://www.cnbc.com/2024/06/14/boeing-and-nasa-delay-starliner-astronaut-return-to-june-22.html" >🔗</a> **[CNBC]** Boeing and NASA delay Starliner astronaut return to June 22, nearly doubling mission length
 - <a href="https://spacenews.com/moon-ice-in-the-artemis-era-what-we-still-dont-know/" >🔗</a> **[SpaceNews]** Moon ice in the Artemis era: what we still don’t know
 - <a href="https://spacenews.com/nasa-extends-starliner-stay-at-iss-for-additional-testing/" >🔗</a> **[SpaceNews]** NASA extends Starliner stay at ISS for additional testing
-- <a href="https://spacenews.com/an-obscure-anniversary-of-july-4-1776/" >🔗</a> **[SpaceNews]** An Obscure Anniversary of July 4, 1776
-- <a href="https://spacenews.com/kayhan-satcat-platform-merges-space-data/" >🔗</a> **[SpaceNews]** Kayhan Space Satcat platform merges space data
-- <a href="https://spacenews.com/voyager-1-returning-science-data-again/" >🔗</a> **[SpaceNews]** Voyager 1 returning science data again
-- <a href="https://spacenews.com/blue-origin-spacex-ula-win-5-6-billion-in-pentagon-launch-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, SpaceX, ULA to compete for $5.6 billion in Pentagon launch contracts
-- <a href="https://spacenews.com/sia-reports-more-record-growth-for-the-global-commercial-satellite-industry/" >🔗</a> **[SpaceNews]** SIA reports more record growth for the global commercial satellite industry
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T033103">2024-06-15 03:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T040130">2024-06-15 04:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
