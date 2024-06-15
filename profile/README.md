@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/vyoma-to-expand-space-debris-constellation-with-new-aerospacelab-satellite" >🔗</a> **[The Launch Pad]** Vyoma To Expand Space Debris Constellation with New Aerospacelab Satellite
 - <a href="https://tlpnetwork.com/news/america/kayhan-space-unveils-satcat-a-comprehensive-source-for-earth-orbit-data" >🔗</a> **[The Launch Pad]** Kayhan Space Unveils Satcat: A Comprehensive Source for Earth Orbit Data
 - <a href="https://tlpnetwork.com/news/america/us-intelligence-agency-turns-to-private-sector-for-space-object-monitoring" >🔗</a> **[The Launch Pad]** U.S. Intelligence Agency Turns to Private Sector for Space Object Monitoring
 - <a href="https://tlpnetwork.com/news/in-space/ovzon-first-broadband-satellite-reaches-geostationary-position-after-5-month-journey" >🔗</a> **[The Launch Pad]** Ovzon’s First Broadband Satellite Reaches Geostationary Position After 5 Month Journey
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/blue-origin-spacex-and-ula-to-compete-for-30-national-security-missions" >🔗</a> **[The Launch Pad]** Blue Origin, SpaceX, and ULA To Compete For 30 National Security Missions Worth $5.6 Billion USD
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-announces-1-for-20-reverse-stock-split-to-avoid-nyse-delisting" >🔗</a> **[The Launch Pad]** Virgin Galactic Announces 1-for-20 Reverse Stock Split to Avoid NYSE Delisting
 - <a href="https://tlpnetwork.com/news/in-space/china-tests-proximity-operations-with-experimental-spaceplane" >🔗</a> **[The Launch Pad]** China Tests Proximity Operations with Experimental Spaceplane
-- <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-for-additional-testing" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner Stay at ISS for Additional Testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T193116">2024-06-15 19:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240615T200128">2024-06-15 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
