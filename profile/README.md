@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-16-22-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 16-22, 2024
 - <a href="https://spacepolicyonline.com/news/starliner-will-stay-an-extra-few-days-at-iss-for-additional-tests/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Will Stay an Extra Few Days at ISS for Additional Tests
 - <a href="https://tlpnetwork.com/news/europe/vyoma-to-expand-space-debris-constellation-with-new-aerospacelab-satellite" >🔗</a> **[The Launch Pad]** Vyoma To Expand Space Debris Constellation with New Aerospacelab Satellite
 - <a href="https://tlpnetwork.com/news/america/kayhan-space-unveils-satcat-a-comprehensive-source-for-earth-orbit-data" >🔗</a> **[The Launch Pad]** Kayhan Space Unveils Satcat: A Comprehensive Source for Earth Orbit Data
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/senate-armed-services-committee-advances-2025-defense-policy-bill/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee advances 2025 defense policy bill
 - <a href="https://tlpnetwork.com/news/america/leolabs-secures-12m-afwerx-contract-for-advanced-radar-development" >🔗</a> **[The Launch Pad]** LeoLabs Secures $1.2 Million AFWERX Contract for Advanced Radar Development
 - <a href="https://tlpnetwork.com/news/europe/thales-spire-global-essp-announce-satellite-constellation-for-air-traffic-surveillance" >🔗</a> **[The Launch Pad]** Thales, Spire Global, and ESSP Announce Satellite Constellation for Air Traffic Surveillance
-- <a href="https://tlpnetwork.com/news/america/blue-origin-spacex-and-ula-to-compete-for-30-national-security-missions" >🔗</a> **[The Launch Pad]** Blue Origin, SpaceX, and ULA To Compete For 30 National Security Missions Worth $5.6 Billion USD
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240616T203055">2024-06-16 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240616T210121">2024-06-16 21:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
