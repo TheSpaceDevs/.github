@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gilat-takes-to-the-air-with-245-million-stellar-blu-takeover-plan/" >🔗</a> **[SpaceNews]** Gilat takes to the air with $245 million Stellar Blu takeover plan
 - <a href="https://spacenews.com/redwire-wins-darpa-contract-for-vleo-demonstration/" >🔗</a> **[SpaceNews]** Redwire wins contract for VLEO demonstration
 - <a href="https://spacenews.com/satellogic-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** Satellogic announces new round of layoffs
 - <a href="https://spacenews.com/china-takes-small-step-towards-the-moon-with-rocket-test/" >🔗</a> **[SpaceNews]** China takes small step towards the moon with rocket test
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/america/kayhan-space-unveils-satcat-a-comprehensive-source-for-earth-orbit-data" >🔗</a> **[The Launch Pad]** Kayhan Space Unveils Satcat: A Comprehensive Source for Earth Orbit Data
 - <a href="https://tlpnetwork.com/news/america/us-intelligence-agency-turns-to-private-sector-for-space-object-monitoring" >🔗</a> **[The Launch Pad]** U.S. Intelligence Agency Turns to Private Sector for Space Object Monitoring
 - <a href="https://tlpnetwork.com/news/in-space/ovzon-first-broadband-satellite-reaches-geostationary-position-after-5-month-journey" >🔗</a> **[The Launch Pad]** Ovzon’s First Broadband Satellite Reaches Geostationary Position After 5 Month Journey
-- <a href="https://www.spacescout.info/2024/06/blue-origin-spacex-ula-selected-for-national-security-missions/" >🔗</a> **[Space Scout]** Blue Origin, SpaceX, ULA Selected for National Security Missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T190103">2024-06-17 19:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T193109">2024-06-17 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
