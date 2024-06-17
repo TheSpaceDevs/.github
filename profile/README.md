@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gao-raises-red-flags-over-supply-chain-issues-and-delays-in-dod-space-programs/" >🔗</a> **[SpaceNews]** GAO raises red flags over supply chain issues and delays in DoD space programs
+- <a href="https://www.nasaspaceflight.com/2024/06/minds-isochal147/" >🔗</a> **[NASASpaceflight]** Webb identifies surprising carbon-rich ingredients around young star
 - <a href="https://spacenews.com/gilat-takes-to-the-air-with-245-million-stellar-blu-takeover-plan/" >🔗</a> **[SpaceNews]** Gilat takes to the air with $245 million Stellar Blu takeover plan
 - <a href="https://spacenews.com/redwire-wins-darpa-contract-for-vleo-demonstration/" >🔗</a> **[SpaceNews]** Redwire wins contract for VLEO demonstration
 - <a href="https://spacenews.com/satellogic-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** Satellogic announces new round of layoffs
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacepolicyonline.com/news/starliner-will-stay-an-extra-few-days-at-iss-for-additional-tests/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Will Stay an Extra Few Days at ISS for Additional Tests
 - <a href="https://tlpnetwork.com/news/europe/vyoma-to-expand-space-debris-constellation-with-new-aerospacelab-satellite" >🔗</a> **[The Launch Pad]** Vyoma To Expand Space Debris Constellation with New Aerospacelab Satellite
 - <a href="https://tlpnetwork.com/news/america/kayhan-space-unveils-satcat-a-comprehensive-source-for-earth-orbit-data" >🔗</a> **[The Launch Pad]** Kayhan Space Unveils Satcat: A Comprehensive Source for Earth Orbit Data
-- <a href="https://tlpnetwork.com/news/america/us-intelligence-agency-turns-to-private-sector-for-space-object-monitoring" >🔗</a> **[The Launch Pad]** U.S. Intelligence Agency Turns to Private Sector for Space Object Monitoring
-- <a href="https://tlpnetwork.com/news/in-space/ovzon-first-broadband-satellite-reaches-geostationary-position-after-5-month-journey" >🔗</a> **[The Launch Pad]** Ovzon’s First Broadband Satellite Reaches Geostationary Position After 5 Month Journey
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T203105">2024-06-17 20:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T210120">2024-06-17 21:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
