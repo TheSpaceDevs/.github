@@ -91,6 +91,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
+- <a href="https://spacenews.com/spains-ienai-space-gets-funds-to-demo-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Spain’s Ienai Space gets funds to demo electrospray thrusters
+- <a href="https://spacenews.com/space-force-taps-four-firms-for-laser-network-project/" >🔗</a> **[SpaceNews]** Space Force taps four firms for laser network project
 - <a href="https://spacenews.com/gao-raises-red-flags-over-supply-chain-issues-and-delays-in-dod-space-programs/" >🔗</a> **[SpaceNews]** GAO raises red flags over supply chain issues and delays in DoD space programs
 - <a href="https://www.nasaspaceflight.com/2024/06/minds-isochal147/" >🔗</a> **[NASASpaceflight]** Webb identifies surprising carbon-rich ingredients around young star
 - <a href="https://spacenews.com/gilat-takes-to-the-air-with-245-million-stellar-blu-takeover-plan/" >🔗</a> **[SpaceNews]** Gilat takes to the air with $245 million Stellar Blu takeover plan
@@ -98,9 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/satellogic-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** Satellogic announces new round of layoffs
 - <a href="https://spacenews.com/china-takes-small-step-towards-the-moon-with-rocket-test/" >🔗</a> **[SpaceNews]** China takes small step towards the moon with rocket test
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-16-22-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 16-22, 2024
-- <a href="https://spacepolicyonline.com/news/starliner-will-stay-an-extra-few-days-at-iss-for-additional-tests/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Will Stay an Extra Few Days at ISS for Additional Tests
-- <a href="https://tlpnetwork.com/news/europe/vyoma-to-expand-space-debris-constellation-with-new-aerospacelab-satellite" >🔗</a> **[The Launch Pad]** Vyoma To Expand Space Debris Constellation with New Aerospacelab Satellite
-- <a href="https://tlpnetwork.com/news/america/kayhan-space-unveils-satcat-a-comprehensive-source-for-earth-orbit-data" >🔗</a> **[The Launch Pad]** Kayhan Space Unveils Satcat: A Comprehensive Source for Earth Orbit Data
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T213056">2024-06-17 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T220116">2024-06-17 22:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
