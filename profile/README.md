@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-takes-small-step-towards-the-moon-with-rocket-test/" >🔗</a> **[SpaceNews]** China takes small step towards the moon with rocket test
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-16-22-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 16-22, 2024
 - <a href="https://spacepolicyonline.com/news/starliner-will-stay-an-extra-few-days-at-iss-for-additional-tests/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Will Stay an Extra Few Days at ISS for Additional Tests
 - <a href="https://tlpnetwork.com/news/europe/vyoma-to-expand-space-debris-constellation-with-new-aerospacelab-satellite" >🔗</a> **[The Launch Pad]** Vyoma To Expand Space Debris Constellation with New Aerospacelab Satellite
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.spacescout.info/2024/06/blue-origin-spacex-ula-selected-for-national-security-missions/" >🔗</a> **[Space Scout]** Blue Origin, SpaceX, ULA Selected for National Security Missions
 - <a href="https://spacenews.com/senate-armed-services-committee-advances-2025-defense-policy-bill/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee advances 2025 defense policy bill
 - <a href="https://tlpnetwork.com/news/america/leolabs-secures-12m-afwerx-contract-for-advanced-radar-development" >🔗</a> **[The Launch Pad]** LeoLabs Secures $1.2 Million AFWERX Contract for Advanced Radar Development
-- <a href="https://tlpnetwork.com/news/europe/thales-spire-global-essp-announce-satellite-constellation-for-air-traffic-surveillance" >🔗</a> **[The Launch Pad]** Thales, Spire Global, and ESSP Announce Satellite Constellation for Air Traffic Surveillance
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T080125">2024-06-17 08:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T083312">2024-06-17 08:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
