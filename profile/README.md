@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/dlr-publishes-open-source-reusable-launch-vehicle-model/" >🔗</a> **[European Spaceflight]** DLR Publishes Open-Source Reusable Launch Vehicle Model
 - <a href="https://spacenews.com/u-s-and-india-advance-human-spaceflight-cooperation/" >🔗</a> **[SpaceNews]** U.S. and India advance human spaceflight cooperation
 - <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
 - <a href="https://europeanspaceflight.com/second-generation-galileo-satellite-designs-pass-critical-milestone/" >🔗</a> **[European Spaceflight]** Second Generation Galileo Satellite Designs Pass Critical Milestone
 - <a href="https://tlpnetwork.com/news/america/ssc-awards-contracts-for-laser-communication-terminal-prototypes" >🔗</a> **[The Launch Pad]** SSC Awards  Blue Origin, CACI International, General Atomics, and Viasat Contracts for Laser Communication Terminal Prototypes
 - <a href="https://tlpnetwork.com/news/america/redwire-wins-darpa-contract-for-vleo-satellite-with-novel-propulsion" >🔗</a> **[The Launch Pad]** Redwire Wins DARPA Contract for VLEO Satellite with Novel Propulsion
+- <a href="https://science.nasa.gov/blogs/sols-4216-4218-another-mammoth-plan/" >🔗</a> **[NASA]** Sols 4216-4218: Another ‘Mammoth’ Plan!
 - <a href="https://tlpnetwork.com/news/asia/china-conducts-static-fire-test-of-future-moon-rocket-engine" >🔗</a> **[The Launch Pad]** China Conducts Static Fire Test Of Future Moon Rocket Engine
 - <a href="https://spaceflightnow.com/2024/06/17/live-coverage-spacex-falcon-9-rocket-to-launch-sess-astra-1p-television-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 rocket to launch SES’s Astra 1P television satellite from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
-- <a href="https://spacenews.com/spains-ienai-space-gets-funds-to-demo-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Spain’s Ienai Space gets funds to demo electrospray thrusters
-- <a href="https://spacenews.com/space-force-taps-four-firms-for-laser-network-project/" >🔗</a> **[SpaceNews]** Space Force taps four firms for laser network project
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T133100">2024-06-18 13:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T140112">2024-06-18 14:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
