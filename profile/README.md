@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/second-generation-galileo-satellite-designs-pass-critical-milestone/" >🔗</a> **[European Spaceflight]** Second Generation Galileo Satellite Designs Pass Critical Milestone
 - <a href="https://tlpnetwork.com/news/america/ssc-awards-contracts-for-laser-communication-terminal-prototypes" >🔗</a> **[The Launch Pad]** SSC Awards  Blue Origin, CACI International, General Atomics, and Viasat Contracts for Laser Communication Terminal Prototypes
 - <a href="https://tlpnetwork.com/news/america/redwire-wins-darpa-contract-for-vleo-satellite-with-novel-propulsion" >🔗</a> **[The Launch Pad]** Redwire Wins DARPA Contract for VLEO Satellite with Novel Propulsion
 - <a href="https://tlpnetwork.com/news/asia/china-conducts-static-fire-test-of-future-moon-rocket-engine" >🔗</a> **[The Launch Pad]** China Conducts Static Fire Test Of Future Moon Rocket Engine
@@ -100,18 +101,18 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/space-force-taps-four-firms-for-laser-network-project/" >🔗</a> **[SpaceNews]** Space Force taps four firms for laser network project
 - <a href="https://spacenews.com/gao-raises-red-flags-over-supply-chain-issues-and-delays-in-dod-space-programs/" >🔗</a> **[SpaceNews]** GAO raises red flags over supply chain issues and delays in DoD space programs
 - <a href="https://www.nasaspaceflight.com/2024/06/minds-isochal147/" >🔗</a> **[NASASpaceflight]** Webb identifies surprising carbon-rich ingredients around young star
-- <a href="https://spacenews.com/gilat-takes-to-the-air-with-245-million-stellar-blu-takeover-plan/" >🔗</a> **[SpaceNews]** Gilat takes to the air with $245 million Stellar Blu takeover plan
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/06/17/live-coverage-spacex-falcon-9-rocket-to-launch-sess-astra-1p-television-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 rocket to launch SES’s Astra 1P television satellite from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9’s busy launch cadence struggles
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T090115">2024-06-18 09:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T093110">2024-06-18 09:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
