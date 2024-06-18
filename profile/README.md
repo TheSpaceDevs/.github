@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/celebrating-juneteenth/" >🔗</a> **[NASA]** Celebrating Juneteenth
+- <a href="https://science.nasa.gov/get-involved/citizen-science/happy-birthday-redshift-wrangler/" >🔗</a> **[NASA]** Happy Birthday, Redshift Wrangler!
+- <a href="https://tlpnetwork.com/news/technology/boom-supersonic-completes-construction-of-overture-superfactory" >🔗</a> **[The Launch Pad]** Boom Supersonic Completes Construction of Overture Superfactory
+- <a href="https://tlpnetwork.com/news/america/gravitics-partners-with-nasa-to-develop-verification-and-validation-approaches-for-large-orbital-spacecraft" >🔗</a> **[The Launch Pad]** Gravitics Partners with NASA to Develop Verification and Validation Approaches for Large Orbital Spacecraft
+- <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2023 GEDI Science Team Meeting
 - <a href="https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/" >🔗</a> **[NASA]** 15 Years Ago: Lunar Reconnaissance Orbiter Begins Moon Mapping Mission
 - <a href="https://www.nasa.gov/aeronautics/nasa-magnix-test-hybrid-electric-planes/" >🔗</a> **[NASA]** NASA, MagniX Altitude Tests Lay Groundwork for Hybrid Electric Planes
 - <a href="https://www.spacescout.info/2024/06/europe-eyes-future-in-commercial-space/" >🔗</a> **[Space Scout]** Europe Eyes Future in Commercial Space
 - <a href="https://www.nasa.gov/news-release/nasa-updates-coverage-for-us-spacewalks-90-91-outside-space-station/" >🔗</a> **[NASA]** NASA Updates Coverage for US Spacewalks 90, 91 Outside Space Station
 - <a href="https://science.nasa.gov/blogs/sols-4219-4221-its-a-complex-morning/" >🔗</a> **[NASA]** Sols 4219-4221: It’s a Complex Morning…
-- <a href="https://www.nasa.gov/image-article/astronaut-nicole-mann-throws-first-pitch-at-giants-angels-game/" >🔗</a> **[NASA]** Astronaut Nicole Mann Throws First Pitch at Giants-Angels Game
-- <a href="https://science.nasa.gov/blogs/perseverance-finds-popcorn-on-planet-mars/" >🔗</a> **[NASA]** Perseverance Finds Popcorn on Planet Mars
-- <a href="https://europeanspaceflight.com/dlr-publishes-open-source-reusable-launch-vehicle-model/" >🔗</a> **[European Spaceflight]** DLR Publishes Open-Source Reusable Launch Vehicle Model
-- <a href="https://spacenews.com/u-s-and-india-advance-human-spaceflight-cooperation/" >🔗</a> **[SpaceNews]** U.S. and India advance human spaceflight cooperation
-- <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T180124">2024-06-18 18:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T183339">2024-06-18 18:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
