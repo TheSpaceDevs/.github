@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-noaa-weather-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for NOAA Weather Satellite
+- <a href="https://arstechnica.com/space/2024/06/ars-live-recap-is-spacex-a-launch-company-or-a-satellite-communications-company/" >🔗</a> **[Arstechnica]** Ars Live Recap: Is SpaceX a launch company or a satellite communications company?
 - <a href="https://www.nasa.gov/image-article/nasas-osiris-rex-etched-into-collier-trophy-aerospace-history/" >🔗</a> **[NASA]** NASA’s OSIRIS-REx Etched into Collier Trophy, Aerospace History
 - <a href="https://arstechnica.com/space/2024/06/nasa-delays-starliner-return-a-few-more-days-to-study-data/" >🔗</a> **[Arstechnica]** NASA delays Starliner return a few more days to study data
 - <a href="https://spacenews.com/doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation/" >🔗</a> **[SpaceNews]** Doubling Down: Actions to  Progress on Both Space Debris Mitigation and Remediation
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/technology/boom-supersonic-completes-construction-of-overture-superfactory" >🔗</a> **[The Launch Pad]** Boom Supersonic Completes Construction of Overture Superfactory
 - <a href="https://tlpnetwork.com/news/america/gravitics-partners-with-nasa-to-develop-verification-and-validation-approaches-for-large-orbital-spacecraft" >🔗</a> **[The Launch Pad]** Gravitics Partners with NASA to Develop Verification and Validation Approaches for Large Orbital Spacecraft
 - <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2023 GEDI Science Team Meeting
-- <a href="https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/" >🔗</a> **[NASA]** 15 Years Ago: Lunar Reconnaissance Orbiter Begins Moon Mapping Mission
-- <a href="https://www.nasa.gov/aeronautics/nasa-magnix-test-hybrid-electric-planes/" >🔗</a> **[NASA]** NASA, MagniX Altitude Tests Lay Groundwork for Hybrid Electric Planes
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T193110">2024-06-18 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T200117">2024-06-18 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
