@@ -90,6 +90,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/exlabs-wins-funds-to-accelerate-space-robotics/" >🔗</a> **[SpaceNews]** ExLabs wins funds to accelerate space robotics
+- <a href="https://spacenews.com/starliner-iss-stay-extended-to-complete-thruster-and-helium-leak-testing/" >🔗</a> **[SpaceNews]** Starliner ISS stay extended to complete thruster and helium leak testing
+- <a href="https://spaceflightnow.com/2024/06/18/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Station
 - <a href="https://spacenews.com/cesiumastro-banks-another-65-million/" >🔗</a> **[SpaceNews]** CesiumAstro banks another $65 million
 - <a href="https://spaceflightnow.com/2024/06/18/nasa-moves-starliner-landing-to-june-26-to-collect-more-test-flight-data/" >🔗</a> **[Spaceflight Now]** NASA moves Starliner landing to June 26 to collect more test flight data
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-18-2024/" >🔗</a> **[NASA]** The Marshall Star for June 18, 2024
@@ -97,9 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/" >🔗</a> **[NASA]** NASA Releases Hubble Image Taken in New Pointing Mode
 - <a href="https://science.nasa.gov/directorates/smd/artemis-architecture-and-lunar-science-smd-and-esdmd-associate-administrators-visits-tokyo/" >🔗</a> **[NASA]** Artemis, Architecture, and Lunar Science: SMD and ESDMD Associate Administrators visits Tokyo
 - <a href="https://www.nasa.gov/news-release/nasa-awards-logistic-services-management-contract/" >🔗</a> **[NASA]** NASA Awards Logistic Services, Management Contract
-- <a href="https://spacenews.com/space-industry-group-warns-of-escalating-cyber-threats-outmatched-defenses/" >🔗</a> **[SpaceNews]** Space industry group warns of escalating cyber threats, outmatched defenses
-- <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-build-next-gen-spacecraft-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Build Next-Gen Spacecraft for NOAA
-- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-noaa-weather-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for NOAA Weather Satellite
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T230112">2024-06-18 23:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T233105">2024-06-18 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
