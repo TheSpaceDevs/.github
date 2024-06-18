@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213500">2024-06-18 21:35:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213800">2024-06-18 21:38:00 UTC</a>.  Until
 then, this pad will have been used for 247
 out of 959 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213500">2024-06-18 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240618T213500Z%2F20240619T002400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213800">2024-06-18 21:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240618T213800Z%2F20240619T002700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T030000">2024-06-19 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240619T030000Z%2F20240619T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T181300">2024-06-20 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240620T181300Z%2F20240620T181300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T174700">2024-06-21 17:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240621T174700Z%2F20240621T214700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-logistic-services-management-contract/" >🔗</a> **[NASA]** NASA Awards Logistic Services, Management Contract
+- <a href="https://spacenews.com/space-industry-group-warns-of-escalating-cyber-threats-outmatched-defenses/" >🔗</a> **[SpaceNews]** Space industry group warns of escalating cyber threats, outmatched defenses
+- <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-build-next-gen-spacecraft-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Build Next-Gen Spacecraft for NOAA
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-noaa-weather-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for NOAA Weather Satellite
 - <a href="https://arstechnica.com/space/2024/06/ars-live-recap-is-spacex-a-launch-company-or-a-satellite-communications-company/" >🔗</a> **[Arstechnica]** Ars Live Recap: Is SpaceX a launch company or a satellite communications company?
 - <a href="https://www.nasa.gov/image-article/nasas-osiris-rex-etched-into-collier-trophy-aerospace-history/" >🔗</a> **[NASA]** NASA’s OSIRIS-REx Etched into Collier Trophy, Aerospace History
 - <a href="https://arstechnica.com/space/2024/06/nasa-delays-starliner-return-a-few-more-days-to-study-data/" >🔗</a> **[Arstechnica]** NASA delays Starliner return a few more days to study data
-- <a href="https://spacenews.com/doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation/" >🔗</a> **[SpaceNews]** Doubling Down: Actions to  Progress on Both Space Debris Mitigation and Remediation
+- <a href="https://spacenews.com/doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation/" >🔗</a> **[SpaceNews]** Doubling Down: Actions to Progress on Both Space Debris Mitigation and Remediation
 - <a href="https://www.nasa.gov/image-article/celebrating-juneteenth/" >🔗</a> **[NASA]** Celebrating Juneteenth
 - <a href="https://science.nasa.gov/get-involved/citizen-science/happy-birthday-redshift-wrangler/" >🔗</a> **[NASA]** Happy Birthday, Redshift Wrangler!
-- <a href="https://tlpnetwork.com/news/technology/boom-supersonic-completes-construction-of-overture-superfactory" >🔗</a> **[The Launch Pad]** Boom Supersonic Completes Construction of Overture Superfactory
-- <a href="https://tlpnetwork.com/news/america/gravitics-partners-with-nasa-to-develop-verification-and-validation-approaches-for-large-orbital-spacecraft" >🔗</a> **[The Launch Pad]** Gravitics Partners with NASA to Develop Verification and Validation Approaches for Large Orbital Spacecraft
-- <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2023 GEDI Science Team Meeting
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T203056">2024-06-18 20:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T210106">2024-06-18 21:01:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
