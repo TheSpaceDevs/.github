@@ -46,7 +46,6 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213800">2024-06-18 21:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240618T213800Z%2F20240619T002700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T030000">2024-06-19 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-1&location=Vandenberg SFB, CA, USA&dates=20240619T030000Z%2F20240619T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T181300">2024-06-20 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240620T181300Z%2F20240620T181300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T174700">2024-06-21 17:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240621T174700Z%2F20240621T214700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
@@ -91,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aavp/ht/high-speed-studies/" >🔗</a> **[NASA]** High-Speed Market Studies
+- <a href="https://science.nasa.gov/directorates/smd/artemis-architecture-and-lunar-science-smd-and-esdmd-associate-administrators-visits-tokyo/" >🔗</a> **[NASA]** Artemis, Architecture, and Lunar Science: SMD and ESDMD Associate Administrators visits Tokyo
 - <a href="https://www.nasa.gov/news-release/nasa-awards-logistic-services-management-contract/" >🔗</a> **[NASA]** NASA Awards Logistic Services, Management Contract
 - <a href="https://spacenews.com/space-industry-group-warns-of-escalating-cyber-threats-outmatched-defenses/" >🔗</a> **[SpaceNews]** Space industry group warns of escalating cyber threats, outmatched defenses
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-build-next-gen-spacecraft-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Build Next-Gen Spacecraft for NOAA
@@ -99,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-osiris-rex-etched-into-collier-trophy-aerospace-history/" >🔗</a> **[NASA]** NASA’s OSIRIS-REx Etched into Collier Trophy, Aerospace History
 - <a href="https://arstechnica.com/space/2024/06/nasa-delays-starliner-return-a-few-more-days-to-study-data/" >🔗</a> **[Arstechnica]** NASA delays Starliner return a few more days to study data
 - <a href="https://spacenews.com/doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation/" >🔗</a> **[SpaceNews]** Doubling Down: Actions to Progress on Both Space Debris Mitigation and Remediation
-- <a href="https://www.nasa.gov/image-article/celebrating-juneteenth/" >🔗</a> **[NASA]** Celebrating Juneteenth
-- <a href="https://science.nasa.gov/get-involved/citizen-science/happy-birthday-redshift-wrangler/" >🔗</a> **[NASA]** Happy Birthday, Redshift Wrangler!
 
 
 ### Launch-related News 🚀
@@ -112,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T213102">2024-06-18 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T220110">2024-06-18 22:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
