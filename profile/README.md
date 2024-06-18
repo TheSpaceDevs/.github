@@ -93,6 +93,7 @@ into *a Geostationary Transfer Orbit
 ### Latest News ⌛
 - <a href="https://www.spacescout.info/2024/06/europe-eyes-future-in-commercial-space/" >🔗</a> **[Space Scout]** Europe Eyes Future in Commercial Space
 - <a href="https://www.nasa.gov/news-release/nasa-updates-coverage-for-us-spacewalks-90-91-outside-space-station/" >🔗</a> **[NASA]** NASA Updates Coverage for US Spacewalks 90, 91 Outside Space Station
+- <a href="https://science.nasa.gov/blogs/sols-4219-4221-its-a-complex-morning/" >🔗</a> **[NASA]** Sols 4219-4221: It’s a Complex Morning…
 - <a href="https://www.nasa.gov/image-article/astronaut-nicole-mann-throws-first-pitch-at-giants-angels-game/" >🔗</a> **[NASA]** Astronaut Nicole Mann Throws First Pitch at Giants-Angels Game
 - <a href="https://science.nasa.gov/blogs/perseverance-finds-popcorn-on-planet-mars/" >🔗</a> **[NASA]** Perseverance Finds Popcorn on Planet Mars
 - <a href="https://europeanspaceflight.com/dlr-publishes-open-source-reusable-launch-vehicle-model/" >🔗</a> **[European Spaceflight]** DLR Publishes Open-Source Reusable Launch Vehicle Model
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
 - <a href="https://europeanspaceflight.com/second-generation-galileo-satellite-designs-pass-critical-milestone/" >🔗</a> **[European Spaceflight]** Second Generation Galileo Satellite Designs Pass Critical Milestone
 - <a href="https://tlpnetwork.com/news/america/ssc-awards-contracts-for-laser-communication-terminal-prototypes" >🔗</a> **[The Launch Pad]** SSC Awards  Blue Origin, CACI International, General Atomics, and Viasat Contracts for Laser Communication Terminal Prototypes
-- <a href="https://tlpnetwork.com/news/america/redwire-wins-darpa-contract-for-vleo-satellite-with-novel-propulsion" >🔗</a> **[The Launch Pad]** Redwire Wins DARPA Contract for VLEO Satellite with Novel Propulsion
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T160119">2024-06-18 16:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T163423">2024-06-18 16:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
