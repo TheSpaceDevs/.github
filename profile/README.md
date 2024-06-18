@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/astronaut-nicole-mann-throws-first-pitch-at-giants-angels-game/" >🔗</a> **[NASA]** Astronaut Nicole Mann Throws First Pitch at Giants-Angels Game
+- <a href="https://science.nasa.gov/blogs/perseverance-finds-popcorn-on-planet-mars/" >🔗</a> **[NASA]** Perseverance Finds Popcorn on Planet Mars
 - <a href="https://europeanspaceflight.com/dlr-publishes-open-source-reusable-launch-vehicle-model/" >🔗</a> **[European Spaceflight]** DLR Publishes Open-Source Reusable Launch Vehicle Model
 - <a href="https://spacenews.com/u-s-and-india-advance-human-spaceflight-cooperation/" >🔗</a> **[SpaceNews]** U.S. and India advance human spaceflight cooperation
 - <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/america/redwire-wins-darpa-contract-for-vleo-satellite-with-novel-propulsion" >🔗</a> **[The Launch Pad]** Redwire Wins DARPA Contract for VLEO Satellite with Novel Propulsion
 - <a href="https://science.nasa.gov/blogs/sols-4216-4218-another-mammoth-plan/" >🔗</a> **[NASA]** Sols 4216-4218: Another ‘Mammoth’ Plan!
 - <a href="https://tlpnetwork.com/news/asia/china-conducts-static-fire-test-of-future-moon-rocket-engine" >🔗</a> **[The Launch Pad]** China Conducts Static Fire Test Of Future Moon Rocket Engine
-- <a href="https://spaceflightnow.com/2024/06/17/live-coverage-spacex-falcon-9-rocket-to-launch-sess-astra-1p-television-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 rocket to launch SES’s Astra 1P television satellite from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T150105">2024-06-18 15:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T153101">2024-06-18 15:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
