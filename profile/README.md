@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/asia/china-conducts-static-fire-test-of-future-moon-rocket-engine" >🔗</a> **[The Launch Pad]** China Conducts Static Fire Test Of Future Moon Rocket Engine
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
 - <a href="https://spacenews.com/spains-ienai-space-gets-funds-to-demo-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Spain’s Ienai Space gets funds to demo electrospray thrusters
 - <a href="https://spacenews.com/space-force-taps-four-firms-for-laser-network-project/" >🔗</a> **[SpaceNews]** Space Force taps four firms for laser network project
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/redwire-wins-darpa-contract-for-vleo-demonstration/" >🔗</a> **[SpaceNews]** Redwire wins contract for VLEO demonstration
 - <a href="https://spacenews.com/satellogic-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** Satellogic announces new round of layoffs
 - <a href="https://spacenews.com/china-takes-small-step-towards-the-moon-with-rocket-test/" >🔗</a> **[SpaceNews]** China takes small step towards the moon with rocket test
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-16-22-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 16-22, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240617T233101">2024-06-17 23:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T000400">2024-06-18 00:04:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
