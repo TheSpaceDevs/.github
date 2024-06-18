@@ -91,6 +91,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-osiris-rex-etched-into-collier-trophy-aerospace-history/" >🔗</a> **[NASA]** NASA’s OSIRIS-REx Etched into Collier Trophy, Aerospace History
+- <a href="https://arstechnica.com/space/2024/06/nasa-delays-starliner-return-a-few-more-days-to-study-data/" >🔗</a> **[Arstechnica]** NASA delays Starliner return a few more days to study data
+- <a href="https://spacenews.com/doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation/" >🔗</a> **[SpaceNews]** Doubling Down: Actions to  Progress on Both Space Debris Mitigation and Remediation
 - <a href="https://www.nasa.gov/image-article/celebrating-juneteenth/" >🔗</a> **[NASA]** Celebrating Juneteenth
 - <a href="https://science.nasa.gov/get-involved/citizen-science/happy-birthday-redshift-wrangler/" >🔗</a> **[NASA]** Happy Birthday, Redshift Wrangler!
 - <a href="https://tlpnetwork.com/news/technology/boom-supersonic-completes-construction-of-overture-superfactory" >🔗</a> **[The Launch Pad]** Boom Supersonic Completes Construction of Overture Superfactory
@@ -98,9 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2023 GEDI Science Team Meeting
 - <a href="https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/" >🔗</a> **[NASA]** 15 Years Ago: Lunar Reconnaissance Orbiter Begins Moon Mapping Mission
 - <a href="https://www.nasa.gov/aeronautics/nasa-magnix-test-hybrid-electric-planes/" >🔗</a> **[NASA]** NASA, MagniX Altitude Tests Lay Groundwork for Hybrid Electric Planes
-- <a href="https://www.spacescout.info/2024/06/europe-eyes-future-in-commercial-space/" >🔗</a> **[Space Scout]** Europe Eyes Future in Commercial Space
-- <a href="https://www.nasa.gov/news-release/nasa-updates-coverage-for-us-spacewalks-90-91-outside-space-station/" >🔗</a> **[NASA]** NASA Updates Coverage for US Spacewalks 90, 91 Outside Space Station
-- <a href="https://science.nasa.gov/blogs/sols-4219-4221-its-a-complex-morning/" >🔗</a> **[NASA]** Sols 4219-4221: It’s a Complex Morning…
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T190112">2024-06-18 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T193110">2024-06-18 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
