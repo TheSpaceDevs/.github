@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-and-india-advance-human-spaceflight-cooperation/" >🔗</a> **[SpaceNews]** U.S. and India advance human spaceflight cooperation
+- <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
 - <a href="https://europeanspaceflight.com/second-generation-galileo-satellite-designs-pass-critical-milestone/" >🔗</a> **[European Spaceflight]** Second Generation Galileo Satellite Designs Pass Critical Milestone
 - <a href="https://tlpnetwork.com/news/america/ssc-awards-contracts-for-laser-communication-terminal-prototypes" >🔗</a> **[The Launch Pad]** SSC Awards  Blue Origin, CACI International, General Atomics, and Viasat Contracts for Laser Communication Terminal Prototypes
 - <a href="https://tlpnetwork.com/news/america/redwire-wins-darpa-contract-for-vleo-satellite-with-novel-propulsion" >🔗</a> **[The Launch Pad]** Redwire Wins DARPA Contract for VLEO Satellite with Novel Propulsion
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
 - <a href="https://spacenews.com/spains-ienai-space-gets-funds-to-demo-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Spain’s Ienai Space gets funds to demo electrospray thrusters
 - <a href="https://spacenews.com/space-force-taps-four-firms-for-laser-network-project/" >🔗</a> **[SpaceNews]** Space Force taps four firms for laser network project
-- <a href="https://spacenews.com/gao-raises-red-flags-over-supply-chain-issues-and-delays-in-dod-space-programs/" >🔗</a> **[SpaceNews]** GAO raises red flags over supply chain issues and delays in DoD space programs
-- <a href="https://www.nasaspaceflight.com/2024/06/minds-isochal147/" >🔗</a> **[NASASpaceflight]** Webb identifies surprising carbon-rich ingredients around young star
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T110108">2024-06-18 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T113111">2024-06-18 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
