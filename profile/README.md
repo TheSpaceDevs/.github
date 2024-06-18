@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cesiumastro-banks-another-65-million/" >🔗</a> **[SpaceNews]** CesiumAstro banks another $65 million
+- <a href="https://spaceflightnow.com/2024/06/18/nasa-moves-starliner-landing-to-june-26-to-collect-more-test-flight-data/" >🔗</a> **[Spaceflight Now]** NASA moves Starliner landing to June 26 to collect more test flight data
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-18-2024/" >🔗</a> **[NASA]** The Marshall Star for June 18, 2024
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/high-speed-studies/" >🔗</a> **[NASA]** High-Speed Market Studies
+- <a href="https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/" >🔗</a> **[NASA]** NASA Releases Hubble Image Taken in New Pointing Mode
 - <a href="https://science.nasa.gov/directorates/smd/artemis-architecture-and-lunar-science-smd-and-esdmd-associate-administrators-visits-tokyo/" >🔗</a> **[NASA]** Artemis, Architecture, and Lunar Science: SMD and ESDMD Associate Administrators visits Tokyo
 - <a href="https://www.nasa.gov/news-release/nasa-awards-logistic-services-management-contract/" >🔗</a> **[NASA]** NASA Awards Logistic Services, Management Contract
 - <a href="https://spacenews.com/space-industry-group-warns-of-escalating-cyber-threats-outmatched-defenses/" >🔗</a> **[SpaceNews]** Space industry group warns of escalating cyber threats, outmatched defenses
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-build-next-gen-spacecraft-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Build Next-Gen Spacecraft for NOAA
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-noaa-weather-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for NOAA Weather Satellite
-- <a href="https://arstechnica.com/space/2024/06/ars-live-recap-is-spacex-a-launch-company-or-a-satellite-communications-company/" >🔗</a> **[Arstechnica]** Ars Live Recap: Is SpaceX a launch company or a satellite communications company?
-- <a href="https://www.nasa.gov/image-article/nasas-osiris-rex-etched-into-collier-trophy-aerospace-history/" >🔗</a> **[NASA]** NASA’s OSIRIS-REx Etched into Collier Trophy, Aerospace History
-- <a href="https://arstechnica.com/space/2024/06/nasa-delays-starliner-return-a-few-more-days-to-study-data/" >🔗</a> **[Arstechnica]** NASA delays Starliner return a few more days to study data
-- <a href="https://spacenews.com/doubling-down-actions-to-progress-on-both-space-debris-mitigation-and-remediation/" >🔗</a> **[SpaceNews]** Doubling Down: Actions to Progress on Both Space Debris Mitigation and Remediation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T220110">2024-06-18 22:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240618T223131">2024-06-18 22:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
