@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now reality
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now a reality
 - <a href="https://spacenews.com/spanish-startup-gets-funds-to-deploy-commercial-iot-constellation/" >🔗</a> **[SpaceNews]** Spanish startup gets funds to deploy commercial IoT constellation
 - <a href="https://spacepolicyonline.com/news/another-new-starliner-landing-date-updated-spacewalk-plans/" >🔗</a> **[SpacePolicyOnline.com]** Another New Starliner Landing Date, Updated Spacewalk Plans
 - <a href="https://www.esa.int/About_Us/Corporate_news/Slovenia_to_become_ESA_s_23rd_Member_State" >🔗</a> **[ESA]** Slovenia to become ESA’s 23rd Member State
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/starliner-iss-stay-extended-to-complete-thruster-and-helium-leak-testing/" >🔗</a> **[SpaceNews]** Starliner ISS stay extended to complete thruster and helium leak testing
 - <a href="https://spaceflightnow.com/2024/06/18/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Station
 - <a href="https://spacenews.com/cesiumastro-banks-another-65-million/" >🔗</a> **[SpaceNews]** CesiumAstro banks another $65 million
-- <a href="https://spaceflightnow.com/2024/06/18/nasa-moves-starliner-landing-to-june-26-to-collect-more-test-flight-data/" >🔗</a> **[Spaceflight Now]** NASA moves Starliner landing to June 26 to collect more test flight data
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-18-2024/" >🔗</a> **[NASA]** The Marshall Star for June 18, 2024
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T080136">2024-06-19 08:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T083239">2024-06-19 08:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
