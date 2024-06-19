@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/another-new-starliner-landing-date-updated-spacewalk-plans/" >🔗</a> **[SpacePolicyOnline.com]** Another New Starliner Landing Date, Updated Spacewalk Plans
 - <a href="https://spacenews.com/lockheed-martin-wins-contract-to-build-u-s-geostationary-weather-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to build U.S. geostationary weather satellites
 - <a href="https://spacenews.com/exlabs-wins-funds-to-accelerate-space-robotics/" >🔗</a> **[SpaceNews]** ExLabs wins funds to accelerate space robotics
 - <a href="https://spacenews.com/starliner-iss-stay-extended-to-complete-thruster-and-helium-leak-testing/" >🔗</a> **[SpaceNews]** Starliner ISS stay extended to complete thruster and helium leak testing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-18-2024/" >🔗</a> **[NASA]** The Marshall Star for June 18, 2024
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/high-speed-studies/" >🔗</a> **[NASA]** High-Speed Market Studies
 - <a href="https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/" >🔗</a> **[NASA]** NASA Releases Hubble Image Taken in New Pointing Mode
-- <a href="https://science.nasa.gov/directorates/smd/artemis-architecture-and-lunar-science-smd-and-esdmd-associate-administrators-visits-tokyo/" >🔗</a> **[NASA]** Artemis, Architecture, and Lunar Science: SMD and ESDMD Associate Administrators visits Tokyo
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T030114">2024-06-19 03:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T033139">2024-06-19 03:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
