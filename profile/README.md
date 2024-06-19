@@ -91,8 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now reality
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now a reality
+- <a href="https://europeanspaceflight.com/slovenia-sign-agreement-to-become-23rd-esa-member-state/" >🔗</a> **[European Spaceflight]** Slovenia Sign Agreement to Become 23rd ESA Member State
 - <a href="https://spacenews.com/spanish-startup-gets-funds-to-deploy-commercial-iot-constellation/" >🔗</a> **[SpaceNews]** Spanish startup gets funds to deploy commercial IoT constellation
 - <a href="https://spacepolicyonline.com/news/another-new-starliner-landing-date-updated-spacewalk-plans/" >🔗</a> **[SpacePolicyOnline.com]** Another New Starliner Landing Date, Updated Spacewalk Plans
 - <a href="https://www.esa.int/About_Us/Corporate_news/Slovenia_to_become_ESA_s_23rd_Member_State" >🔗</a> **[ESA]** Slovenia to become ESA’s 23rd Member State
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T090117">2024-06-19 09:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T093209">2024-06-19 09:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
