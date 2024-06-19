@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/ienai-space-secures-millions-for-electrospray-thruster-demonstration" >🔗</a> **[The Launch Pad]** Ienai Space Secures €3.9 Million for Electrospray Thruster Demonstration
+- <a href="https://tlpnetwork.com/news/america/exlabs-acqr-robot-to-enter-prototype-phase-with-spacewerx-funding" >🔗</a> **[The Launch Pad]** ExLabs' ACQR Robot to Enter Prototype Phase with $1.9 Million SpaceWERX Funding
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Drone_racing_prepares_neural-network_AI_for_space" >🔗</a> **[ESA]** Drone racing prepares neural-network AI for space
+- <a href="https://tlpnetwork.com/news/europe/fossa-secures-deal-to-expand-cubesat-fleet-and-commercial-iot-services" >🔗</a> **[The Launch Pad]** FOSSA Secures €6.3M to Expand Cubesat Fleet and Commercial IoT Services
+- <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-to-address-thruster-and-helium-leak-issues" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner's Stay at ISS to Address Thruster and Helium Leak Issues
 - <a href="https://www.nasaspaceflight.com/2024/06/starbase-upgrades-06-19-24/" >🔗</a> **[NASASpaceflight]** Second Starbase Tower rises as SpaceX gears up to Flight Five
+- <a href="https://tlpnetwork.com/news/asia/synspective-signs-contract-with-rocketlab-for-10-electron-launches" >🔗</a> **[The Launch Pad]** Synspective Signs Contract with Rocket Lab for 10 Electron Launches
 - <a href="https://tlpnetwork.com/news/europe/gilat-satellite-networks-buys-stellar-blu-in-245m-deal-to-enhance-airborne-connectivity" >🔗</a> **[The Launch Pad]** Gilat Satellite Networks Buys Stellar Blu in $245M Deal to Enhance Airborne Connectivity
 - <a href="https://tlpnetwork.com/news/america/satellogic-announces-additional-layoffs-and-slows-satellite-deployment" >🔗</a> **[The Launch Pad]** Satellogic Announces Additional Layoffs and Slows Satellite Deployment
 - <a href="https://www.teslarati.com/spacex-successful-in-most-recent-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX successful in most recent Starlink launch
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/327th_ESA_Council_Media_information_session_at_ESA_HQ" >🔗</a> **[ESA]** 327th ESA Council : Media information session at ESA HQ
-- <a href="https://www.spacescout.info/2024/06/meet-the-pressurized-rover/" >🔗</a> **[Space Scout]** Meet The Pressurized Rover
-- <a href="https://spacenews.com/space-force-takes-another-swing-at-modernizing-satellite-ground-systems/" >🔗</a> **[SpaceNews]** Space Force takes another swing at modernizing satellite ground systems
-- <a href="https://europeanspaceflight.com/avio-ships-first-upgraded-ariane-6-booster/" >🔗</a> **[European Spaceflight]** Avio Ships First Upgraded Ariane 6 Booster
-- <a href="https://spacenews.com/americas-first-black-astronaut-candidate-finally-flew-now-time-make-more/" >🔗</a> **[SpaceNews]** America’s first Black astronaut candidate finally flew. Now it’s time to make more
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T213100">2024-06-19 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T220113">2024-06-19 22:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
