@@ -92,6 +92,7 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/327th_ESA_Council_Media_information_session_at_ESA_HQ" >🔗</a> **[ESA]** 327th ESA Council : Media information session at ESA HQ
+- <a href="https://www.spacescout.info/2024/06/meet-the-pressurized-rover/" >🔗</a> **[Space Scout]** Meet The Pressurized Rover
 - <a href="https://spacenews.com/space-force-takes-another-swing-at-modernizing-satellite-ground-systems/" >🔗</a> **[SpaceNews]** Space Force takes another swing at modernizing satellite ground systems
 - <a href="https://europeanspaceflight.com/avio-ships-first-upgraded-ariane-6-booster/" >🔗</a> **[European Spaceflight]** Avio Ships First Upgraded Ariane 6 Booster
 - <a href="https://spacenews.com/americas-first-black-astronaut-candidate-finally-flew-now-time-make-more/" >🔗</a> **[SpaceNews]** America’s first Black astronaut candidate finally flew. Now it’s time to make more
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/spanish-startup-gets-funds-to-deploy-commercial-iot-constellation/" >🔗</a> **[SpaceNews]** Spanish startup gets funds to deploy commercial IoT constellation
 - <a href="https://spacepolicyonline.com/news/another-new-starliner-landing-date-updated-spacewalk-plans/" >🔗</a> **[SpacePolicyOnline.com]** Another New Starliner Landing Date, Updated Spacewalk Plans
 - <a href="https://www.esa.int/About_Us/Corporate_news/Slovenia_to_become_ESA_s_23rd_Member_State" >🔗</a> **[ESA]** Slovenia to become ESA’s 23rd Member State
-- <a href="https://spacenews.com/lockheed-martin-wins-contract-to-build-u-s-geostationary-weather-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to build U.S. geostationary weather satellites
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T153059">2024-06-19 15:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T160130">2024-06-19 16:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
