@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/327th_ESA_Council_Media_information_session_at_ESA_HQ" >🔗</a> **[ESA]** 327th ESA Council : Media information session at ESA HQ
+- <a href="https://spacenews.com/space-force-takes-another-swing-at-modernizing-satellite-ground-systems/" >🔗</a> **[SpaceNews]** Space Force takes another swing at modernizing satellite ground systems
 - <a href="https://europeanspaceflight.com/avio-ships-first-upgraded-ariane-6-booster/" >🔗</a> **[European Spaceflight]** Avio Ships First Upgraded Ariane 6 Booster
 - <a href="https://spacenews.com/americas-first-black-astronaut-candidate-finally-flew-now-time-make-more/" >🔗</a> **[SpaceNews]** America’s first Black astronaut candidate finally flew. Now it’s time to make more
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now a reality
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacepolicyonline.com/news/another-new-starliner-landing-date-updated-spacewalk-plans/" >🔗</a> **[SpacePolicyOnline.com]** Another New Starliner Landing Date, Updated Spacewalk Plans
 - <a href="https://www.esa.int/About_Us/Corporate_news/Slovenia_to_become_ESA_s_23rd_Member_State" >🔗</a> **[ESA]** Slovenia to become ESA’s 23rd Member State
 - <a href="https://spacenews.com/lockheed-martin-wins-contract-to-build-u-s-geostationary-weather-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to build U.S. geostationary weather satellites
-- <a href="https://spacenews.com/exlabs-wins-funds-to-accelerate-space-robotics/" >🔗</a> **[SpaceNews]** ExLabs wins funds to accelerate space robotics
-- <a href="https://spacenews.com/starliner-iss-stay-extended-to-complete-thruster-and-helium-leak-testing/" >🔗</a> **[SpaceNews]** Starliner ISS stay extended to complete thruster and helium leak testing
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T143116">2024-06-19 14:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T150125">2024-06-19 15:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
