@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Drone_racing_prepares_neural-network_AI_for_space" >🔗</a> **[ESA]** Drone racing prepares neural-network AI for space
 - <a href="https://www.teslarati.com/spacex-successful-in-most-recent-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX successful in most recent Starlink launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/327th_ESA_Council_Media_information_session_at_ESA_HQ" >🔗</a> **[ESA]** 327th ESA Council : Media information session at ESA HQ
 - <a href="https://www.spacescout.info/2024/06/meet-the-pressurized-rover/" >🔗</a> **[Space Scout]** Meet The Pressurized Rover
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now a reality
 - <a href="https://europeanspaceflight.com/slovenia-sign-agreement-to-become-23rd-esa-member-state/" >🔗</a> **[European Spaceflight]** Slovenia Sign Agreement to Become 23rd ESA Member State
 - <a href="https://spacenews.com/spanish-startup-gets-funds-to-deploy-commercial-iot-constellation/" >🔗</a> **[SpaceNews]** Spanish startup gets funds to deploy commercial IoT constellation
-- <a href="https://spacepolicyonline.com/news/another-new-starliner-landing-date-updated-spacewalk-plans/" >🔗</a> **[SpacePolicyOnline.com]** Another New Starliner Landing Date, Updated Spacewalk Plans
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T190106">2024-06-19 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T193100">2024-06-19 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
