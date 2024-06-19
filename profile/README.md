@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Drone_racing_prepares_neural-network_AI_for_space" >🔗</a> **[ESA]** Drone racing prepares neural-network AI for space
+- <a href="https://www.nasaspaceflight.com/2024/06/starbase-upgrades-06-19-24/" >🔗</a> **[NASASpaceflight]** Second Starbase Tower rises as SpaceX gears up to Flight Five
+- <a href="https://tlpnetwork.com/news/europe/gilat-satellite-networks-buys-stellar-blu-in-245m-deal-to-enhance-airborne-connectivity" >🔗</a> **[The Launch Pad]** Gilat Satellite Networks Buys Stellar Blu in $245M Deal to Enhance Airborne Connectivity
+- <a href="https://tlpnetwork.com/news/america/satellogic-announces-additional-layoffs-and-slows-satellite-deployment" >🔗</a> **[The Launch Pad]** Satellogic Announces Additional Layoffs and Slows Satellite Deployment
 - <a href="https://www.teslarati.com/spacex-successful-in-most-recent-starlink-launch/" >🔗</a> **[Teslarati]** SpaceX successful in most recent Starlink launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/327th_ESA_Council_Media_information_session_at_ESA_HQ" >🔗</a> **[ESA]** 327th ESA Council : Media information session at ESA HQ
 - <a href="https://www.spacescout.info/2024/06/meet-the-pressurized-rover/" >🔗</a> **[Space Scout]** Meet The Pressurized Rover
 - <a href="https://spacenews.com/space-force-takes-another-swing-at-modernizing-satellite-ground-systems/" >🔗</a> **[SpaceNews]** Space Force takes another swing at modernizing satellite ground systems
 - <a href="https://europeanspaceflight.com/avio-ships-first-upgraded-ariane-6-booster/" >🔗</a> **[European Spaceflight]** Avio Ships First Upgraded Ariane 6 Booster
 - <a href="https://spacenews.com/americas-first-black-astronaut-candidate-finally-flew-now-time-make-more/" >🔗</a> **[SpaceNews]** America’s first Black astronaut candidate finally flew. Now it’s time to make more
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality" >🔗</a> **[ESA]** Monitoring marine litter from space is now a reality
-- <a href="https://europeanspaceflight.com/slovenia-sign-agreement-to-become-23rd-esa-member-state/" >🔗</a> **[European Spaceflight]** Slovenia Sign Agreement to Become 23rd ESA Member State
-- <a href="https://spacenews.com/spanish-startup-gets-funds-to-deploy-commercial-iot-constellation/" >🔗</a> **[SpaceNews]** Spanish startup gets funds to deploy commercial IoT constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T203055">2024-06-19 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240619T210117">2024-06-19 21:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
