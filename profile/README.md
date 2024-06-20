@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Hypersonic_vehicles_for_Europe_s_fast_future_into_space" >🔗</a> **[ESA]** Hypersonic vehicles for Europe’s fast future into space
+- <a href="https://europeanspaceflight.com/isar-aerospace-extends-series-c-funding-round-to-e220m/" >🔗</a> **[European Spaceflight]** Isar Aerospace Extends Series C Funding Round to €220M
 - <a href="https://spacenews.com/isar-aerospace-raises-70-million/" >🔗</a> **[SpaceNews]** Isar Aerospace raises $70 million
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Too_young_to_be_so_cool_lessons_from_three_neutron_stars" >🔗</a> **[ESA]** Too young to be so cool: lessons from three neutron stars
+- <a href="https://opssat.esa.int/" >🔗</a> **[ESA]** OPS-SAT Space Lab
 - <a href="https://spacenews.com/exoterra-raises-8-million-to-boost-propulsion-system-production/" >🔗</a> **[SpaceNews]** ExoTerra raises $8 million to boost    propulsion system production
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Scientists_spot_hidden_companions_of_bright_stars" >🔗</a> **[ESA]** Scientists spot hidden companions of bright stars
 - <a href="https://spacenews.com/esa-takes-first-step-to-modify-georeturn-policies/" >🔗</a> **[SpaceNews]** ESA takes first step to modify georeturn policies
 - <a href="https://tlpnetwork.com/news/europe/ienai-space-secures-millions-for-electrospray-thruster-demonstration" >🔗</a> **[The Launch Pad]** Ienai Space Secures €3.9 Million for Electrospray Thruster Demonstration
 - <a href="https://tlpnetwork.com/news/america/exlabs-acqr-robot-to-enter-prototype-phase-with-spacewerx-funding" >🔗</a> **[The Launch Pad]** ExLabs' ACQR Robot to Enter Prototype Phase with $1.9 Million SpaceWERX Funding
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Drone_racing_prepares_neural-network_AI_for_space" >🔗</a> **[ESA]** Drone racing prepares neural-network AI for space
-- <a href="https://tlpnetwork.com/news/europe/fossa-secures-deal-to-expand-cubesat-fleet-and-commercial-iot-services" >🔗</a> **[The Launch Pad]** FOSSA Secures €6.3M to Expand Cubesat Fleet and Commercial IoT Services
-- <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-to-address-thruster-and-helium-leak-issues" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner's Stay at ISS to Address Thruster and Helium Leak Issues
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T120154">2024-06-20 12:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T123954">2024-06-20 12:39:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
