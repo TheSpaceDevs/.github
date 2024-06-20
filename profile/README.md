@@ -93,14 +93,14 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024" >🔗</a> **[ESA]** Summer solstice 2024
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_snaps_first_image_of_aligned_jets_from_newborn_stars" >🔗</a> **[ESA]** Webb snaps first image of aligned jets from newborn stars
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-honored-as-girl-scouts-woman-of-distinction/" >🔗</a> **[NASA]** NASA Engineer Honored as Girl Scouts ‘Woman of Distinction’
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-peers-into-densest-and-weirdest-stars/" >🔗</a> **[NASA]** NASA’s Chandra Peers Into Densest and Weirdest Stars
+- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/next-generation-nasa-technologies-tested-in-flight/" >🔗</a> **[NASA]** Next Generation NASA Technologies Tested in Flight
+- <a href="https://www.nasa.gov/missions/station/iss-research/studying-the-sun/" >🔗</a> **[NASA]** Studying the Sun
 - <a href="https://spacenews.com/starlab-space-adds-palantir-as-strategic-partner-on-commercial-space-station-effort/" >🔗</a> **[SpaceNews]** Starlab Space adds Palantir as strategic partner on commercial space station effort
 - <a href="https://spacenews.com/michelle-parker-boeing-space-mission-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Michelle Parker, Boeing Space Mission Systems – Leading Women in Space
 - <a href="https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/" >🔗</a> **[NASA]** First of Its Kind Detection Made in Striking New Webb Image
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/stephanie-duchesne-leading-with-integrity-and-openness-for-cldp/" >🔗</a> **[NASA]** Stephanie Duchesne: Leading with Integrity and Openness for CLDP
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Hypersonic_vehicles_for_Europe_s_fast_future_into_space" >🔗</a> **[ESA]** Hypersonic vehicles for Europe’s fast future into space
-- <a href="https://europeanspaceflight.com/esa-asked-to-mediate-avios-split-from-arianespace/" >🔗</a> **[European Spaceflight]** ESA Asked to Mediate Avio’s Split from Arianespace
-- <a href="https://www.nasa.gov/centers-and-facilities/nasa-preserves-its-past-at-kennedy-while-building-future-of-space/" >🔗</a> **[NASA]** NASA Preserves Its Past at Kennedy While Building Future of Space
-- <a href="https://europeanspaceflight.com/isar-aerospace-extends-series-c-funding-round-to-e220m/" >🔗</a> **[European Spaceflight]** Isar Aerospace Extends Series C Funding Round to €220M
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T153107">2024-06-20 15:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T160126">2024-06-20 16:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
