@@ -91,6 +91,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-intelligence-chair-blasts-white-house-over-russias-space-nuke-threat/" >🔗</a> **[SpaceNews]** House Intelligence chair blasts White House over Russia’s space nuke threat
+- <a href="https://www.nasa.gov/image-article/nasas-hubble-celebrates-21st-anniversary-with-rose-of-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates 21st Anniversary with “Rose” of Galaxies
+- <a href="https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html" >🔗</a> **[CNBC]** SpaceX unveils backpack-sized ‘Starlink Mini’ satellite internet antenna for $599
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-nasa-in-the-park-june-22/" >🔗</a> **[NASA]** NASA Invites Media to ‘NASA in the Park’ June 22
 - <a href="https://www.nasa.gov/technology/goddard-tech/augmented-reality-speeds-spacecraft-construction-at-nasa-goddard/" >🔗</a> **[NASA]** Augmented Reality Speeds Spacecraft Construction at NASA Goddard
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/why-scientists-are-intrigued-by-air-in-nasas-mars-sample-tubes/" >🔗</a> **[NASA]** Why Scientists Are Intrigued by Air in NASA’s Mars Sample Tubes
@@ -98,9 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/giant-batteries-deliver-renewable-energy-when-its-needed/" >🔗</a> **[NASA]** Giant Batteries Deliver Renewable Energy When It’s Needed
 - <a href="https://spaceflightnow.com/2024/06/20/live-coverage-rocket-lab-to-launch-50th-electron-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: Rocket Lab to launch 50th Electron rocket
 - <a href="https://spacenews.com/ursa-space-partners-with-japans-nec-to-deliver-sar-data-insights/" >🔗</a> **[SpaceNews]** Ursa Space partners with Japan’s NEC to deliver SAR data insights
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024" >🔗</a> **[ESA]** Summer solstice 2024
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_snaps_first_image_of_aligned_jets_from_newborn_stars" >🔗</a> **[ESA]** Webb snaps first image of aligned jets from newborn stars
-- <a href="https://science.nasa.gov/blogs/a-bright-new-abrasion/" >🔗</a> **[NASA]** A Bright New Abrasion
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T190115">2024-06-20 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T193101">2024-06-20 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
