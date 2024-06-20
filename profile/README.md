@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024" >🔗</a> **[ESA]** Summer solstice 2024
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_snaps_first_image_of_aligned_jets_from_newborn_stars" >🔗</a> **[ESA]** Webb snaps first image of aligned jets from newborn stars
+- <a href="https://spacenews.com/starlab-space-adds-palantir-as-strategic-partner-on-commercial-space-station-effort/" >🔗</a> **[SpaceNews]** Starlab Space adds Palantir as strategic partner on commercial space station effort
+- <a href="https://spacenews.com/michelle-parker-boeing-space-mission-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Michelle Parker, Boeing Space Mission Systems – Leading Women in Space
+- <a href="https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/" >🔗</a> **[NASA]** First of Its Kind Detection Made in Striking New Webb Image
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/stephanie-duchesne-leading-with-integrity-and-openness-for-cldp/" >🔗</a> **[NASA]** Stephanie Duchesne: Leading with Integrity and Openness for CLDP
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Hypersonic_vehicles_for_Europe_s_fast_future_into_space" >🔗</a> **[ESA]** Hypersonic vehicles for Europe’s fast future into space
 - <a href="https://europeanspaceflight.com/esa-asked-to-mediate-avios-split-from-arianespace/" >🔗</a> **[European Spaceflight]** ESA Asked to Mediate Avio’s Split from Arianespace
 - <a href="https://www.nasa.gov/centers-and-facilities/nasa-preserves-its-past-at-kennedy-while-building-future-of-space/" >🔗</a> **[NASA]** NASA Preserves Its Past at Kennedy While Building Future of Space
 - <a href="https://europeanspaceflight.com/isar-aerospace-extends-series-c-funding-round-to-e220m/" >🔗</a> **[European Spaceflight]** Isar Aerospace Extends Series C Funding Round to €220M
-- <a href="https://spacenews.com/isar-aerospace-raises-70-million/" >🔗</a> **[SpaceNews]** Isar Aerospace raises $70 million
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Too_young_to_be_so_cool_lessons_from_three_neutron_stars" >🔗</a> **[ESA]** Too young to be so cool: lessons from three neutron stars
-- <a href="https://opssat.esa.int/" >🔗</a> **[ESA]** OPS-SAT Space Lab
-- <a href="https://spacenews.com/exoterra-raises-8-million-to-boost-propulsion-system-production/" >🔗</a> **[SpaceNews]** ExoTerra raises $8 million to boost    propulsion system production
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Scientists_spot_hidden_companions_of_bright_stars" >🔗</a> **[ESA]** Scientists spot hidden companions of bright stars
-- <a href="https://spacenews.com/esa-takes-first-step-to-modify-georeturn-policies/" >🔗</a> **[SpaceNews]** ESA takes first step to modify georeturn policies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T143114">2024-06-20 14:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T150117">2024-06-20 15:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
