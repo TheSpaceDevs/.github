@@ -93,6 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024" >🔗</a> **[ESA]** Summer solstice 2024
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_snaps_first_image_of_aligned_jets_from_newborn_stars" >🔗</a> **[ESA]** Webb snaps first image of aligned jets from newborn stars
+- <a href="https://science.nasa.gov/blogs/a-bright-new-abrasion/" >🔗</a> **[NASA]** A Bright New Abrasion
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-honored-as-girl-scouts-woman-of-distinction/" >🔗</a> **[NASA]** NASA Engineer Honored as Girl Scouts ‘Woman of Distinction’
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-peers-into-densest-and-weirdest-stars/" >🔗</a> **[NASA]** NASA’s Chandra Peers Into Densest and Weirdest Stars
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/next-generation-nasa-technologies-tested-in-flight/" >🔗</a> **[NASA]** Next Generation NASA Technologies Tested in Flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starlab-space-adds-palantir-as-strategic-partner-on-commercial-space-station-effort/" >🔗</a> **[SpaceNews]** Starlab Space adds Palantir as strategic partner on commercial space station effort
 - <a href="https://spacenews.com/michelle-parker-boeing-space-mission-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Michelle Parker, Boeing Space Mission Systems – Leading Women in Space
 - <a href="https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/" >🔗</a> **[NASA]** First of Its Kind Detection Made in Striking New Webb Image
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/stephanie-duchesne-leading-with-integrity-and-openness-for-cldp/" >🔗</a> **[NASA]** Stephanie Duchesne: Leading with Integrity and Openness for CLDP
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T160126">2024-06-20 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T163451">2024-06-20 16:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
