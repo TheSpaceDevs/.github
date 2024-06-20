@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/giant-batteries-deliver-renewable-energy-when-its-needed/" >🔗</a> **[NASA]** Giant Batteries Deliver Renewable Energy When It’s Needed
+- <a href="https://spaceflightnow.com/2024/06/20/live-coverage-rocket-lab-to-launch-50th-electron-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: Rocket Lab to launch 50th Electron rocket
 - <a href="https://spacenews.com/ursa-space-partners-with-japans-nec-to-deliver-sar-data-insights/" >🔗</a> **[SpaceNews]** Ursa Space partners with Japan’s NEC to deliver SAR data insights
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024" >🔗</a> **[ESA]** Summer solstice 2024
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_snaps_first_image_of_aligned_jets_from_newborn_stars" >🔗</a> **[ESA]** Webb snaps first image of aligned jets from newborn stars
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-peers-into-densest-and-weirdest-stars/" >🔗</a> **[NASA]** NASA’s Chandra Peers Into Densest and Weirdest Stars
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/next-generation-nasa-technologies-tested-in-flight/" >🔗</a> **[NASA]** Next Generation NASA Technologies Tested in Flight
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-the-sun/" >🔗</a> **[NASA]** Studying the Sun
-- <a href="https://spacenews.com/starlab-space-adds-palantir-as-strategic-partner-on-commercial-space-station-effort/" >🔗</a> **[SpaceNews]** Starlab Space adds Palantir as strategic partner on commercial space station effort
-- <a href="https://spacenews.com/michelle-parker-boeing-space-mission-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Michelle Parker, Boeing Space Mission Systems – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T173059">2024-06-20 17:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T180205">2024-06-20 18:02:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
