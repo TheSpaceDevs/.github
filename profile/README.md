@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Hypersonic_vehicles_for_Europe_s_fast_future_into_space" >🔗</a> **[ESA]** Hypersonic vehicles for Europe’s fast future into space
+- <a href="https://europeanspaceflight.com/esa-asked-to-mediate-avios-split-from-arianespace/" >🔗</a> **[European Spaceflight]** ESA Asked to Mediate Avio’s Split from Arianespace
+- <a href="https://www.nasa.gov/centers-and-facilities/nasa-preserves-its-past-at-kennedy-while-building-future-of-space/" >🔗</a> **[NASA]** NASA Preserves Its Past at Kennedy While Building Future of Space
 - <a href="https://europeanspaceflight.com/isar-aerospace-extends-series-c-funding-round-to-e220m/" >🔗</a> **[European Spaceflight]** Isar Aerospace Extends Series C Funding Round to €220M
 - <a href="https://spacenews.com/isar-aerospace-raises-70-million/" >🔗</a> **[SpaceNews]** Isar Aerospace raises $70 million
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Too_young_to_be_so_cool_lessons_from_three_neutron_stars" >🔗</a> **[ESA]** Too young to be so cool: lessons from three neutron stars
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/exoterra-raises-8-million-to-boost-propulsion-system-production/" >🔗</a> **[SpaceNews]** ExoTerra raises $8 million to boost    propulsion system production
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Scientists_spot_hidden_companions_of_bright_stars" >🔗</a> **[ESA]** Scientists spot hidden companions of bright stars
 - <a href="https://spacenews.com/esa-takes-first-step-to-modify-georeturn-policies/" >🔗</a> **[SpaceNews]** ESA takes first step to modify georeturn policies
-- <a href="https://tlpnetwork.com/news/europe/ienai-space-secures-millions-for-electrospray-thruster-demonstration" >🔗</a> **[The Launch Pad]** Ienai Space Secures €3.9 Million for Electrospray Thruster Demonstration
-- <a href="https://tlpnetwork.com/news/america/exlabs-acqr-robot-to-enter-prototype-phase-with-spacewerx-funding" >🔗</a> **[The Launch Pad]** ExLabs' ACQR Robot to Enter Prototype Phase with $1.9 Million SpaceWERX Funding
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T130239">2024-06-20 13:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T133109">2024-06-20 13:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
