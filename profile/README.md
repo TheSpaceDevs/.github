@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Too_young_to_be_so_cool_lessons_from_three_neutron_stars" >🔗</a> **[ESA]** Too young to be so cool: lessons from three neutron stars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Scientists_spot_hidden_companions_of_bright_stars" >🔗</a> **[ESA]** Scientists spot hidden companions of bright stars
 - <a href="https://spacenews.com/esa-takes-first-step-to-modify-georeturn-policies/" >🔗</a> **[SpaceNews]** ESA takes first step to modify georeturn policies
 - <a href="https://tlpnetwork.com/news/europe/ienai-space-secures-millions-for-electrospray-thruster-demonstration" >🔗</a> **[The Launch Pad]** Ienai Space Secures €3.9 Million for Electrospray Thruster Demonstration
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-extend-starliner-stay-at-iss-to-address-thruster-and-helium-leak-issues" >🔗</a> **[The Launch Pad]** NASA and Boeing Extend Starliner's Stay at ISS to Address Thruster and Helium Leak Issues
 - <a href="https://www.nasaspaceflight.com/2024/06/starbase-upgrades-06-19-24/" >🔗</a> **[NASASpaceflight]** Second Starbase Tower rises as SpaceX gears up to Flight Five
 - <a href="https://tlpnetwork.com/news/asia/synspective-signs-contract-with-rocketlab-for-10-electron-launches" >🔗</a> **[The Launch Pad]** Synspective Signs Contract with Rocket Lab for 10 Electron Launches
-- <a href="https://tlpnetwork.com/news/europe/gilat-satellite-networks-buys-stellar-blu-in-245m-deal-to-enhance-airborne-connectivity" >🔗</a> **[The Launch Pad]** Gilat Satellite Networks Buys Stellar Blu in $245M Deal to Enhance Airborne Connectivity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T090118">2024-06-20 09:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T093109">2024-06-20 09:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
