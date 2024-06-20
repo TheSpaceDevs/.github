@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | No Time Toulouse (Kinéis 1-5)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Astra 1P/SES-24**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T181300">2024-06-20 18:13:00 UTC</a>.  Until
-then, this pad will have been used for 19
-out of 45 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T213500">2024-06-20 21:35:00 UTC</a>.  Until
+then, this pad will have been used for 247
+out of 959 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  First batch of five satellites for the French Kinéis IoT constellation designed to operate with 25 nanosatellites of 30 kg each.
+  ASTRA 1P, a classic wide-beam satellite, will support SES’s prime TV neighbourhood and enable content owners, private and public broadcasters across Germany, France and Spain to continue broadcasting satellite TV channels in the highest-picture quality in the most cost-efficient manner. It will be based on the full electric and powerful Spacebus NEO platform developed by Thales Alenia Space and already flight proven in orbit.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T181300">2024-06-20 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | No Time Toulouse (Kinéis 1-5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240620T181300Z%2F20240620T181300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | No Time Toulouse (Kinéis 1-5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T213500">2024-06-20 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Astra 1P/SES-24&location=Cape Canaveral, FL, USA&dates=20240620T213500Z%2F20240621T002400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Astra 1P/SES-24** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T065000">2024-06-22 06:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Space Variable Objects Monitor (SVOM)&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240622T065000Z%2F20240622T072000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Space Variable Objects Monitor (SVOM)** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T170300">2024-06-23 17:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-2&location=Cape Canaveral, FL, USA&dates=20240623T170300Z%2F20240623T210300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-2** from Cape Canaveral, FL, USA.
@@ -56,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T105500">2024-06-27 10:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-3&location=Cape Canaveral, FL, USA&dates=20240627T105500Z%2F20240627T154300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-20&location=Vandenberg SFB, CA, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-20** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,26 +91,28 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-nasa-in-the-park-june-22/" >🔗</a> **[NASA]** NASA Invites Media to ‘NASA in the Park’ June 22
+- <a href="https://www.nasa.gov/technology/goddard-tech/augmented-reality-speeds-spacecraft-construction-at-nasa-goddard/" >🔗</a> **[NASA]** Augmented Reality Speeds Spacecraft Construction at NASA Goddard
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/why-scientists-are-intrigued-by-air-in-nasas-mars-sample-tubes/" >🔗</a> **[NASA]** Why Scientists Are Intrigued by Air in NASA’s Mars Sample Tubes
+- <a href="https://www.nasa.gov/image-article/nasa-cubesats-loaded-for-launch/" >🔗</a> **[NASA]** NASA CubeSats Loaded for Launch
 - <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/giant-batteries-deliver-renewable-energy-when-its-needed/" >🔗</a> **[NASA]** Giant Batteries Deliver Renewable Energy When It’s Needed
 - <a href="https://spaceflightnow.com/2024/06/20/live-coverage-rocket-lab-to-launch-50th-electron-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: Rocket Lab to launch 50th Electron rocket
 - <a href="https://spacenews.com/ursa-space-partners-with-japans-nec-to-deliver-sar-data-insights/" >🔗</a> **[SpaceNews]** Ursa Space partners with Japan’s NEC to deliver SAR data insights
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Summer_solstice_2024" >🔗</a> **[ESA]** Summer solstice 2024
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_snaps_first_image_of_aligned_jets_from_newborn_stars" >🔗</a> **[ESA]** Webb snaps first image of aligned jets from newborn stars
 - <a href="https://science.nasa.gov/blogs/a-bright-new-abrasion/" >🔗</a> **[NASA]** A Bright New Abrasion
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-honored-as-girl-scouts-woman-of-distinction/" >🔗</a> **[NASA]** NASA Engineer Honored as Girl Scouts ‘Woman of Distinction’
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-peers-into-densest-and-weirdest-stars/" >🔗</a> **[NASA]** NASA’s Chandra Peers Into Densest and Weirdest Stars
-- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/next-generation-nasa-technologies-tested-in-flight/" >🔗</a> **[NASA]** Next Generation NASA Technologies Tested in Flight
-- <a href="https://www.nasa.gov/missions/station/iss-research/studying-the-sun/" >🔗</a> **[NASA]** Studying the Sun
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/06/17/live-coverage-spacex-falcon-9-rocket-to-launch-sess-astra-1p-television-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Poor weather forces SpaceX to stand down from Falcon 9 launch of SES’s Astra 1P television satellite for second day
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
+- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9’s busy launch cadence struggles
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T180205">2024-06-20 18:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T183255">2024-06-20 18:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
