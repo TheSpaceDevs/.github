@@ -99,20 +99,20 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/why-scientists-are-intrigued-by-air-in-nasas-mars-sample-tubes/" >🔗</a> **[NASA]** Why Scientists Are Intrigued by Air in NASA’s Mars Sample Tubes
 - <a href="https://www.nasa.gov/image-article/nasa-cubesats-loaded-for-launch/" >🔗</a> **[NASA]** NASA CubeSats Loaded for Launch
 - <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/giant-batteries-deliver-renewable-energy-when-its-needed/" >🔗</a> **[NASA]** Giant Batteries Deliver Renewable Energy When It’s Needed
-- <a href="https://spaceflightnow.com/2024/06/20/live-coverage-rocket-lab-to-launch-50th-electron-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: Rocket Lab to launch 50th Electron rocket
+- <a href="https://spaceflightnow.com/2024/06/20/live-coverage-rocket-lab-to-launch-50th-electron-rocket/" >🔗</a> **[Spaceflight Now]** Rocket Lab successfully launches its 50th Electron rocket
 - <a href="https://spacenews.com/ursa-space-partners-with-japans-nec-to-deliver-sar-data-insights/" >🔗</a> **[SpaceNews]** Ursa Space partners with Japan’s NEC to deliver SAR data insights
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/06/17/live-coverage-spacex-falcon-9-rocket-to-launch-sess-astra-1p-television-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Poor weather forces SpaceX to stand down from Falcon 9 launch of SES’s Astra 1P television satellite for second day
+- <a href="https://spaceflightnow.com/2024/06/17/live-coverage-spacex-falcon-9-rocket-to-launch-sess-astra-1p-television-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX readies for third try at Falcon 9 launch of SES’s Astra 1P television satellite
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061724/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron launches for the 50th time; Falcon 9 returns to normal operations
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9’s busy launch cadence struggles
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T193101">2024-06-20 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T200108">2024-06-20 20:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
