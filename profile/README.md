@@ -95,7 +95,9 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/honeywell-sees-space-opportunity-with-1-9-billion-caes-acquisition/" >🔗</a> **[SpaceNews]** Honeywell sees space opportunity with $1.9 billion CAES acquisition
 - <a href="https://www.nasa.gov/history/55-years-ago-one-month-until-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Month Until the Moon Landing
+- <a href="https://science.nasa.gov/open-science/research-scientist-rahul-ramachandran/" >🔗</a> **[NASA]** Marshall Research Scientist Enables Large-Scale Open Science
 - <a href="https://www.nasa.gov/news-release/nasa-releases-updated-climate-change-adaptation-resilience-plan/" >🔗</a> **[NASA]** NASA Releases Updated Climate Change Adaptation, Resilience Plan
 - <a href="https://www.nasa.gov/news-release/nasa-partners-conduct-fifth-asteroid-impact-exercise-release-summary/" >🔗</a> **[NASA]** NASA, Partners Conduct Fifth Asteroid Impact Exercise, Release Summary
 - <a href="https://spacenews.com/house-intelligence-chair-blasts-white-house-over-russias-space-nuke-threat/" >🔗</a> **[SpaceNews]** House Intelligence chair blasts White House over Russia’s space nuke threat
@@ -103,8 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html" >🔗</a> **[CNBC]** SpaceX unveils backpack-sized ‘Starlink Mini’ satellite internet antenna for $599
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-nasa-in-the-park-june-22/" >🔗</a> **[NASA]** NASA Invites Media to ‘NASA in the Park’ June 22
 - <a href="https://www.nasa.gov/technology/goddard-tech/augmented-reality-speeds-spacecraft-construction-at-nasa-goddard/" >🔗</a> **[NASA]** Augmented Reality Speeds Spacecraft Construction at NASA Goddard
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/why-scientists-are-intrigued-by-air-in-nasas-mars-sample-tubes/" >🔗</a> **[NASA]** Why Scientists Are Intrigued by Air in NASA’s Mars Sample Tubes
-- <a href="https://www.nasa.gov/image-article/nasa-cubesats-loaded-for-launch/" >🔗</a> **[NASA]** NASA CubeSats Loaded for Launch
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T220120">2024-06-20 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T223124">2024-06-20 22:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
