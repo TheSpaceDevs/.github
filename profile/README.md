@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
 - <a href="https://tlpnetwork.com/news/america/maritime-launch-services-secures-nova-scotia-approval-for-satellite-processing-facility" >🔗</a> **[The Launch Pad]** Maritime Launch Services Secures Nova Scotia Approval for Satellite Processing Facility
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-block-1-vs-block-1b-configuration/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Block 1 vs. Block 1B Configuration
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-overview/" >🔗</a> **[NASA]** Hypersonic Technology Project Overview
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://tlpnetwork.com/news/europe/esa-ariane-6-clears-final-test-ahead-of-maiden-flight" >🔗</a> **[The Launch Pad]** ESA Ariane 6 Clears Final Test Ahead Of Maiden Flight
 - <a href="https://spacenews.com/northrop-grumman-delivers-arctic-broadband-satellites-ahead-of-scheduled-july-launch/" >🔗</a> **[SpaceNews]** Northrop Grumman delivers Arctic broadband satellites ahead of scheduled July launch
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/" >🔗</a> **[NASA]** NASA’s ELaNa 43 Prepares for Firefly Aerospace Launch
-- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-excitement-of-noaa-goes-u-launch/" >🔗</a> **[NASA]** NASA Invites Public to Share Excitement of NOAA GOES-U Launch
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T213105">2024-06-21 21:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T220119">2024-06-21 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
