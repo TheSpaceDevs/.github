@@ -95,6 +95,8 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Earth_from_Space_Adam_s_Bridge" >🔗</a> **[ESA]** Earth from Space: Adam’s Bridge
+- <a href="https://europeanspaceflight.com/italys-council-of-ministers-approve-framework-law-on-space/" >🔗</a> **[European Spaceflight]** Italy’s Council of Ministers Approve Framework Law on Space
 - <a href="https://spacepolicyonline.com/news/tabletop-exercise-illuminates-gaps-in-responding-to-theoretical-asteroid-threats/" >🔗</a> **[SpacePolicyOnline.com]** Tabletop Exercise Illuminates Gaps in Responding to Theoretical Asteroid Threats
 - <a href="https://spacenews.com/spacex-launches-latest-ses-broadcast-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches latest SES broadcast satellite
 - <a href="https://spacenews.com/honeywell-sees-space-opportunity-with-1-9-billion-caes-acquisition/" >🔗</a> **[SpaceNews]** Honeywell sees space opportunity with $1.9 billion CAES acquisition
@@ -103,8 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.nasa.gov/news-release/nasa-releases-updated-climate-change-adaptation-resilience-plan/" >🔗</a> **[NASA]** NASA Releases Updated Climate Change Adaptation, Resilience Plan
 - <a href="https://www.nasa.gov/news-release/nasa-partners-conduct-fifth-asteroid-impact-exercise-release-summary/" >🔗</a> **[NASA]** NASA, Partners Conduct Fifth Asteroid Impact Exercise, Release Summary
 - <a href="https://spacenews.com/house-intelligence-chair-blasts-white-house-over-russias-space-nuke-threat/" >🔗</a> **[SpaceNews]** House Intelligence chair blasts White House over Russia’s space nuke threat
-- <a href="https://www.nasa.gov/image-article/nasas-hubble-celebrates-21st-anniversary-with-rose-of-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates 21st Anniversary with “Rose” of Galaxies
-- <a href="https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html" >🔗</a> **[CNBC]** SpaceX unveils backpack-sized ‘Starlink Mini’ satellite internet antenna for $599
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T080209">2024-06-21 08:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T083216">2024-06-21 08:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
