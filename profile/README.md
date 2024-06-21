@@ -95,7 +95,9 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_21_June_2024" >🔗</a> **[ESA]** Ariane 6 joint update report, 21 June 2024
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_pre-show_wet_dress_rehearsal_complete" >🔗</a> **[ESA]** Ariane 6 pre-show: wet dress rehearsal complete
+- <a href="https://www.nasa.gov/general/coordinating-an-airborne-lab-across-the-globe-with-nasas-earth-science-project-office/" >🔗</a> **[NASA]** Coordinating an Airborne Lab Across the Globe with NASA’s Earth Science Project Office
 - <a href="https://www.nasa.gov/news-release/south-central-us-students-to-hear-from-nasa-astronaut-aboard-station/" >🔗</a> **[NASA]** South Central US Students to Hear from NASA Astronaut Aboard Station
 - <a href="https://www.spacescout.info/2024/06/final-goes-r-satellite-ready-to-fly/" >🔗</a> **[Space Scout]** Final GOES-R Satellite Ready to Fly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Saharan_dust_over_the_Strait_of_Messina" >🔗</a> **[ESA]** Saharan dust over the Strait of Messina
@@ -103,8 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://arstechnica.com/space/2024/06/family-whose-roof-was-damaged-by-space-debris-files-claims-against-nasa/" >🔗</a> **[Arstechnica]** Family whose roof was damaged by space debris files claims against NASA
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Laella_Marimoutou" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Laëlla Marimoutou
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-infant-stars-transforming-a-nebula/" >🔗</a> **[NASA]** Hubble Captures Infant Stars Transforming a Nebula
-- <a href="https://spacenews.com/rocket-lab-launches-first-kineis-satellites-on-50th-electron/" >🔗</a> **[SpaceNews]** Rocket Lab launches first Kinéis satellites on 50th Electron
-- <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T160112">2024-06-21 16:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T163312">2024-06-21 16:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
