@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/06/final-goes-r-satellite-ready-to-fly/" >🔗</a> **[Space Scout]** Final GOES-R Satellite Ready to Fly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Saharan_dust_over_the_Strait_of_Messina" >🔗</a> **[ESA]** Saharan dust over the Strait of Messina
 - <a href="https://www.nasa.gov/image-article/huskyworks-during-rover-testing/" >🔗</a> **[NASA]** HuskyWorks During Rover Testing
 - <a href="https://arstechnica.com/space/2024/06/family-whose-roof-was-damaged-by-space-debris-files-claims-against-nasa/" >🔗</a> **[Arstechnica]** Family whose roof was damaged by space debris files claims against NASA
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_June_2024" >🔗</a> **[ESA]** Week in images: 17-21 June 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Earth_from_Space_Adam_s_Bridge" >🔗</a> **[ESA]** Earth from Space: Adam’s Bridge
-- <a href="https://europeanspaceflight.com/italys-council-of-ministers-approve-framework-law-on-space/" >🔗</a> **[European Spaceflight]** Italy’s Council of Ministers Approve Framework Law on Space
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T143114">2024-06-21 14:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T150123">2024-06-21 15:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
