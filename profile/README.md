@@ -96,6 +96,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Laella_Marimoutou" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Laëlla Marimoutou
+- <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Earth_from_Space_Adam_s_Bridge" >🔗</a> **[ESA]** Earth from Space: Adam’s Bridge
 - <a href="https://europeanspaceflight.com/italys-council-of-ministers-approve-framework-law-on-space/" >🔗</a> **[European Spaceflight]** Italy’s Council of Ministers Approve Framework Law on Space
 - <a href="https://spacepolicyonline.com/news/tabletop-exercise-illuminates-gaps-in-responding-to-theoretical-asteroid-threats/" >🔗</a> **[SpacePolicyOnline.com]** Tabletop Exercise Illuminates Gaps in Responding to Theoretical Asteroid Threats
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.nasa.gov/history/55-years-ago-one-month-until-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Month Until the Moon Landing
 - <a href="https://science.nasa.gov/open-science/research-scientist-rahul-ramachandran/" >🔗</a> **[NASA]** Marshall Research Scientist Enables Large-Scale Open Science
 - <a href="https://www.nasa.gov/news-release/nasa-releases-updated-climate-change-adaptation-resilience-plan/" >🔗</a> **[NASA]** NASA Releases Updated Climate Change Adaptation, Resilience Plan
-- <a href="https://www.nasa.gov/news-release/nasa-partners-conduct-fifth-asteroid-impact-exercise-release-summary/" >🔗</a> **[NASA]** NASA, Partners Conduct Fifth Asteroid Impact Exercise, Release Summary
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T110107">2024-06-21 11:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T113107">2024-06-21 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
