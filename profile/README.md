@@ -96,15 +96,15 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Laella_Marimoutou" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Laëlla Marimoutou
+- <a href="https://spacenews.com/rocket-lab-launches-first-kineis-satellites-on-50th-electron/" >🔗</a> **[SpaceNews]** Rocket Lab launches first Kinéis satellites on 50th Electron
 - <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Earth_from_Space_Adam_s_Bridge" >🔗</a> **[ESA]** Earth from Space: Adam’s Bridge
 - <a href="https://europeanspaceflight.com/italys-council-of-ministers-approve-framework-law-on-space/" >🔗</a> **[European Spaceflight]** Italy’s Council of Ministers Approve Framework Law on Space
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_splashdown_for_Nyx_Bikini" >🔗</a> **[ESA]** Ariane 6 launches: splashdown for Nyx Bikini
 - <a href="https://spacepolicyonline.com/news/tabletop-exercise-illuminates-gaps-in-responding-to-theoretical-asteroid-threats/" >🔗</a> **[SpacePolicyOnline.com]** Tabletop Exercise Illuminates Gaps in Responding to Theoretical Asteroid Threats
 - <a href="https://spacenews.com/spacex-launches-latest-ses-broadcast-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches latest SES broadcast satellite
 - <a href="https://spacenews.com/honeywell-sees-space-opportunity-with-1-9-billion-caes-acquisition/" >🔗</a> **[SpaceNews]** Honeywell sees space opportunity with $1.9 billion CAES acquisition
 - <a href="https://www.nasa.gov/history/55-years-ago-one-month-until-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Month Until the Moon Landing
-- <a href="https://science.nasa.gov/open-science/research-scientist-rahul-ramachandran/" >🔗</a> **[NASA]** Marshall Research Scientist Enables Large-Scale Open Science
-- <a href="https://www.nasa.gov/news-release/nasa-releases-updated-climate-change-adaptation-resilience-plan/" >🔗</a> **[NASA]** NASA Releases Updated Climate Change Adaptation, Resilience Plan
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T113107">2024-06-21 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T120125">2024-06-21 12:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
