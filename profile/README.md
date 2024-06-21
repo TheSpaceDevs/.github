@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-latest-ses-broadcast-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches latest SES broadcast satellite
 - <a href="https://spacenews.com/honeywell-sees-space-opportunity-with-1-9-billion-caes-acquisition/" >🔗</a> **[SpaceNews]** Honeywell sees space opportunity with $1.9 billion CAES acquisition
 - <a href="https://www.nasa.gov/history/55-years-ago-one-month-until-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Month Until the Moon Landing
 - <a href="https://science.nasa.gov/open-science/research-scientist-rahul-ramachandran/" >🔗</a> **[NASA]** Marshall Research Scientist Enables Large-Scale Open Science
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.nasa.gov/image-article/nasas-hubble-celebrates-21st-anniversary-with-rose-of-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates 21st Anniversary with “Rose” of Galaxies
 - <a href="https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html" >🔗</a> **[CNBC]** SpaceX unveils backpack-sized ‘Starlink Mini’ satellite internet antenna for $599
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-nasa-in-the-park-june-22/" >🔗</a> **[NASA]** NASA Invites Media to ‘NASA in the Park’ June 22
-- <a href="https://www.nasa.gov/technology/goddard-tech/augmented-reality-speeds-spacecraft-construction-at-nasa-goddard/" >🔗</a> **[NASA]** Augmented Reality Speeds Spacecraft Construction at NASA Goddard
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240620T233106">2024-06-20 23:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T000335">2024-06-21 00:03:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
