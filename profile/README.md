@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/family-whose-roof-was-damaged-by-space-debris-files-claims-against-nasa/" >🔗</a> **[Arstechnica]** Family whose roof was damaged by space debris files claims against NASA
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Laella_Marimoutou" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Laëlla Marimoutou
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-infant-stars-transforming-a-nebula/" >🔗</a> **[NASA]** Hubble Captures Infant Stars Transforming a Nebula
 - <a href="https://spacenews.com/rocket-lab-launches-first-kineis-satellites-on-50th-electron/" >🔗</a> **[SpaceNews]** Rocket Lab launches first Kinéis satellites on 50th Electron
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_splashdown_for_Nyx_Bikini" >🔗</a> **[ESA]** Ariane 6 launches: splashdown for Nyx Bikini
 - <a href="https://spacepolicyonline.com/news/tabletop-exercise-illuminates-gaps-in-responding-to-theoretical-asteroid-threats/" >🔗</a> **[SpacePolicyOnline.com]** Tabletop Exercise Illuminates Gaps in Responding to Theoretical Asteroid Threats
 - <a href="https://spacenews.com/spacex-launches-latest-ses-broadcast-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches latest SES broadcast satellite
-- <a href="https://spacenews.com/honeywell-sees-space-opportunity-with-1-9-billion-caes-acquisition/" >🔗</a> **[SpaceNews]** Honeywell sees space opportunity with $1.9 billion CAES acquisition
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T130231">2024-06-21 13:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T133059">2024-06-21 13:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
