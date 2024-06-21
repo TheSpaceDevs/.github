@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/esa-ariane-6-clears-final-test-ahead-of-maiden-flight" >🔗</a> **[The Launch Pad]** ESA Ariane 6 Clears Final Test Ahead Of Maiden Flight
 - <a href="https://spacenews.com/northrop-grumman-delivers-arctic-broadband-satellites-ahead-of-scheduled-july-launch/" >🔗</a> **[SpaceNews]** Northrop Grumman delivers Arctic broadband satellites ahead of scheduled July launch
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/" >🔗</a> **[NASA]** NASA’s ELaNa 43 Prepares for Firefly Aerospace Launch
 - <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-excitement-of-noaa-goes-u-launch/" >🔗</a> **[NASA]** NASA Invites Public to Share Excitement of NOAA GOES-U Launch
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_pre-show_wet_dress_rehearsal_complete" >🔗</a> **[ESA]** Ariane 6 pre-show: wet dress rehearsal complete
 - <a href="https://www.nasa.gov/general/coordinating-an-airborne-lab-across-the-globe-with-nasas-earth-science-project-office/" >🔗</a> **[NASA]** Coordinating an Airborne Lab Across the Globe with NASA’s Earth Science Project Office
 - <a href="https://www.nasa.gov/news-release/south-central-us-students-to-hear-from-nasa-astronaut-aboard-station/" >🔗</a> **[NASA]** South Central US Students to Hear from NASA Astronaut Aboard Station
-- <a href="https://www.spacescout.info/2024/06/final-goes-r-satellite-ready-to-fly/" >🔗</a> **[Space Scout]** Final GOES-R Satellite Ready to Fly
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T193106">2024-06-21 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T200119">2024-06-21 20:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
