@@ -96,6 +96,8 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_21_June_2024" >🔗</a> **[ESA]** Ariane 6 joint update report, 21 June 2024
+- <a href="https://spacenews.com/ariane-6-completes-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** Ariane 6 completes wet dress rehearsal
+- <a href="https://spacenews.com/x-bow-to-develop-solid-rocket-motors-for-u-s-navy-standard-missiles/" >🔗</a> **[SpaceNews]** X-Bow to develop solid rocket motors for U.S. Navy Standard missiles
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_pre-show_wet_dress_rehearsal_complete" >🔗</a> **[ESA]** Ariane 6 pre-show: wet dress rehearsal complete
 - <a href="https://www.nasa.gov/general/coordinating-an-airborne-lab-across-the-globe-with-nasas-earth-science-project-office/" >🔗</a> **[NASA]** Coordinating an Airborne Lab Across the Globe with NASA’s Earth Science Project Office
 - <a href="https://www.nasa.gov/news-release/south-central-us-students-to-hear-from-nasa-astronaut-aboard-station/" >🔗</a> **[NASA]** South Central US Students to Hear from NASA Astronaut Aboard Station
@@ -103,8 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Saharan_dust_over_the_Strait_of_Messina" >🔗</a> **[ESA]** Saharan dust over the Strait of Messina
 - <a href="https://www.nasa.gov/image-article/huskyworks-during-rover-testing/" >🔗</a> **[NASA]** HuskyWorks During Rover Testing
 - <a href="https://arstechnica.com/space/2024/06/family-whose-roof-was-damaged-by-space-debris-files-claims-against-nasa/" >🔗</a> **[Arstechnica]** Family whose roof was damaged by space debris files claims against NASA
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Laella_Marimoutou" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Laëlla Marimoutou
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-infant-stars-transforming-a-nebula/" >🔗</a> **[NASA]** Hubble Captures Infant Stars Transforming a Nebula
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T170114">2024-06-21 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T173131">2024-06-21 17:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
