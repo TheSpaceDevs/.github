@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-excitement-of-noaa-goes-u-launch/" >🔗</a> **[NASA]** NASA Invites Public to Share Excitement of NOAA GOES-U Launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_21_June_2024" >🔗</a> **[ESA]** Ariane 6 joint update report, 21 June 2024
 - <a href="https://spacenews.com/ariane-6-completes-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** Ariane 6 completes wet dress rehearsal
 - <a href="https://spacenews.com/x-bow-to-develop-solid-rocket-motors-for-u-s-navy-standard-missiles/" >🔗</a> **[SpaceNews]** X-Bow to develop solid rocket motors for U.S. Navy Standard missiles
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.spacescout.info/2024/06/final-goes-r-satellite-ready-to-fly/" >🔗</a> **[Space Scout]** Final GOES-R Satellite Ready to Fly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Saharan_dust_over_the_Strait_of_Messina" >🔗</a> **[ESA]** Saharan dust over the Strait of Messina
 - <a href="https://www.nasa.gov/image-article/huskyworks-during-rover-testing/" >🔗</a> **[NASA]** HuskyWorks During Rover Testing
-- <a href="https://arstechnica.com/space/2024/06/family-whose-roof-was-damaged-by-space-debris-files-claims-against-nasa/" >🔗</a> **[Arstechnica]** Family whose roof was damaged by space debris files claims against NASA
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T180122">2024-06-21 18:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240621T183319">2024-06-21 18:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
