@@ -95,7 +95,9 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-return-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner return delayed to July
 - <a href="https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/" >🔗</a> **[Arstechnica]** NASA indefinitely delays return of Starliner to review propulsion data
+- <a href="https://science.nasa.gov/blogs/sols-4222-4224-a-particularly-prickly-power-puzzle/" >🔗</a> **[NASA]** Sols 4222-4224: A Particularly Prickly Power Puzzle
 - <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
 - <a href="https://spacenews.com/lockheed-martin-secures-977-5-million-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin secures $977.5 million contract extension for missile-warning satellites
 - <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
@@ -103,8 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-block-1-vs-block-1b-configuration/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Block 1 vs. Block 1B Configuration
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-overview/" >🔗</a> **[NASA]** Hypersonic Technology Project Overview
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-challenges/" >🔗</a> **[NASA]** Hypersonics Technical Challenges
-- <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-research-topics/" >🔗</a> **[NASA]** Hypersonic Research Topics
-- <a href="https://tlpnetwork.com/news/america/northrop-grumman-delivers-satellites-for-arctic-satellite-broadband-mission" >🔗</a> **[The Launch Pad]** Northrop Grumman Delivers Satellites for Arctic Satellite Broadband Mission
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T023550">2024-06-22 02:35:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T030110">2024-06-22 03:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
