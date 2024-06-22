@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/synspective-raises-44-million-series-c-round/" >🔗</a> **[SpaceNews]** Synspective raises $44 million Series C round
+- <a href="https://spaceflightnow.com/2024/06/22/live-coverage-spacex-swaps-falcon-9-boosters-ahead-of-starlink-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX swaps Falcon 9 boosters ahead of Starlink launch from Cape Canaveral
 - <a href="https://www.spacescout.info/2024/06/starliner-mission-extended-all-systems-stable/" >🔗</a> **[Space Scout]** Starliner Mission Extended, All Systems Stable
 - <a href="https://spaceflightnow.com/2024/06/22/nasa-again-delays-starliner-undocking-return-to-earth/" >🔗</a> **[Spaceflight Now]** NASA again delays Starliner undocking, return to Earth
 - <a href="https://spacepolicyonline.com/news/starliner-return-delayed-yet-again/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Return Delayed Yet Again
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/" >🔗</a> **[Arstechnica]** NASA indefinitely delays return of Starliner to review propulsion data
 - <a href="https://science.nasa.gov/blogs/sols-4222-4224-a-particularly-prickly-power-puzzle/" >🔗</a> **[NASA]** Sols 4222-4224: A Particularly Prickly Power Puzzle
 - <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
-- <a href="https://spacenews.com/lockheed-martin-secures-977-5-million-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin secures $977.5 million contract extension for missile-warning satellites
-- <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T193057">2024-06-22 19:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T200121">2024-06-22 20:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
