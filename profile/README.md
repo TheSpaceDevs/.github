@@ -105,13 +105,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/06/22/live-coverage-spacex-swaps-falcon-9-boosters-ahead-of-starlink-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX swaps Falcon 9 boosters ahead of Starlink launch from Cape Canaveral
 - <a href="https://spaceflightnow.com/2024/06/13/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-flight-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX experiences a rare mission scrub of its Falcon 9 rocket at the moment engine ignition
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-061024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9’s busy launch cadence struggles
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T213058">2024-06-22 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T220107">2024-06-22 22:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
