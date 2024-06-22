@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
 - <a href="https://spacenews.com/lockheed-martin-secures-977-5-million-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin secures $977.5 million contract extension for missile-warning satellites
 - <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
 - <a href="https://tlpnetwork.com/news/america/maritime-launch-services-secures-nova-scotia-approval-for-satellite-processing-facility" >🔗</a> **[The Launch Pad]** Maritime Launch Services Secures Nova Scotia Approval for Satellite Processing Facility
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-research-topics/" >🔗</a> **[NASA]** Hypersonic Research Topics
 - <a href="https://tlpnetwork.com/news/america/northrop-grumman-delivers-satellites-for-arctic-satellite-broadband-mission" >🔗</a> **[The Launch Pad]** Northrop Grumman Delivers Satellites for Arctic Satellite Broadband Mission
 - <a href="https://tlpnetwork.com/news/europe/esa-ariane-6-clears-final-test-ahead-of-maiden-flight" >🔗</a> **[The Launch Pad]** ESA Ariane 6 Clears Final Test Ahead Of Maiden Flight
-- <a href="https://spacenews.com/northrop-grumman-delivers-arctic-broadband-satellites-ahead-of-scheduled-july-launch/" >🔗</a> **[SpaceNews]** Northrop Grumman delivers Arctic broadband satellites ahead of scheduled July launch
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T000329">2024-06-22 00:03:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T004504">2024-06-22 00:45:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
