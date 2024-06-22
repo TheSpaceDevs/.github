@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/06/22/nasa-again-delays-starliner-undocking-return-to-earth/" >🔗</a> **[Spaceflight Now]** NASA again delays Starliner undocking, return to Earth
 - <a href="https://spacepolicyonline.com/news/starliner-return-delayed-yet-again/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Return Delayed Yet Again
 - <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-delay-starliner-return-again-again-again" >🔗</a> **[The Launch Pad]** NASA and Boeing Delay Starliner Return Again Again Again
 - <a href="https://spacenews.com/starliner-return-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner return delayed to July
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lockheed-martin-secures-977-5-million-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin secures $977.5 million contract extension for missile-warning satellites
 - <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
 - <a href="https://tlpnetwork.com/news/america/maritime-launch-services-secures-nova-scotia-approval-for-satellite-processing-facility" >🔗</a> **[The Launch Pad]** Maritime Launch Services Secures Nova Scotia Approval for Satellite Processing Facility
-- <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-block-1-vs-block-1b-configuration/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Block 1 vs. Block 1B Configuration
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T130314">2024-06-22 13:03:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T133108">2024-06-22 13:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
