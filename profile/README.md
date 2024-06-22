@@ -95,6 +95,8 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starliner-return-delayed-yet-again/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Return Delayed Yet Again
+- <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-delay-starliner-return-again-again-again" >🔗</a> **[The Launch Pad]** NASA and Boeing Delay Starliner Return Again Again Again
 - <a href="https://spacenews.com/starliner-return-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner return delayed to July
 - <a href="https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/" >🔗</a> **[Arstechnica]** NASA indefinitely delays return of Starliner to review propulsion data
 - <a href="https://science.nasa.gov/blogs/sols-4222-4224-a-particularly-prickly-power-puzzle/" >🔗</a> **[NASA]** Sols 4222-4224: A Particularly Prickly Power Puzzle
@@ -103,8 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
 - <a href="https://tlpnetwork.com/news/america/maritime-launch-services-secures-nova-scotia-approval-for-satellite-processing-facility" >🔗</a> **[The Launch Pad]** Maritime Launch Services Secures Nova Scotia Approval for Satellite Processing Facility
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-block-1-vs-block-1b-configuration/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Block 1 vs. Block 1B Configuration
-- <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-overview/" >🔗</a> **[NASA]** Hypersonic Technology Project Overview
-- <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-challenges/" >🔗</a> **[NASA]** Hypersonics Technical Challenges
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T040123">2024-06-22 04:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T043129">2024-06-22 04:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
