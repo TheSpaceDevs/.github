@@ -95,6 +95,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/" >🔗</a> **[Arstechnica]** NASA indefinitely delays return of Starliner to review propulsion data
 - <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
 - <a href="https://spacenews.com/lockheed-martin-secures-977-5-million-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Lockheed Martin secures $977.5 million contract extension for missile-warning satellites
 - <a href="https://spacepolicyonline.com/news/turner-doubles-down-on-russian-nuclear-asat-threat/" >🔗</a> **[SpacePolicyOnline.com]** Turner Doubles Down on Russian Nuclear ASAT Threat
@@ -104,7 +105,6 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-challenges/" >🔗</a> **[NASA]** Hypersonics Technical Challenges
 - <a href="https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-research-topics/" >🔗</a> **[NASA]** Hypersonic Research Topics
 - <a href="https://tlpnetwork.com/news/america/northrop-grumman-delivers-satellites-for-arctic-satellite-broadband-mission" >🔗</a> **[The Launch Pad]** Northrop Grumman Delivers Satellites for Arctic Satellite Broadband Mission
-- <a href="https://tlpnetwork.com/news/europe/esa-ariane-6-clears-final-test-ahead-of-maiden-flight" >🔗</a> **[The Launch Pad]** ESA Ariane 6 Clears Final Test Ahead Of Maiden Flight
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ Its anti-solar pointing strategy makes the Earth cross the field of view of its 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T014751">2024-06-22 01:47:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240622T021242">2024-06-22 02:12:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
