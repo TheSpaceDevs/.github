@@ -105,11 +105,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/06/23/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-vandenberg-space-force-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on Starlink mission from Vandenberg Space Force Station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T203100">2024-06-23 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T210115">2024-06-23 21:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
