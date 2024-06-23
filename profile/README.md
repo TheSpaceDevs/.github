@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T034500">2024-06-24 03:45:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T034700">2024-06-24 03:47:00 UTC</a>.  Until
 then, this pad will have been used for 148
 out of 759 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T034500">2024-06-24 03:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-2&location=Vandenberg SFB, CA, USA&dates=20240624T034500Z%2F20240624T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-2** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T034700">2024-06-24 03:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-2&location=Vandenberg SFB, CA, USA&dates=20240624T034700Z%2F20240624T074100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T211600">2024-06-25 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | GOES-U&location=Kennedy Space Center, FL, USA&dates=20240625T211600Z%2F20240625T231600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | GOES-U** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T040000">2024-06-27 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA005 (Noise of Summer)&location=Vandenberg SFB, CA, USA&dates=20240627T040000Z%2F20240627T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA005 (Noise of Summer)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T110000">2024-06-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-3&location=Cape Canaveral, FL, USA&dates=20240627T110000Z%2F20240627T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-3** from Cape Canaveral, FL, USA.
@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/china-launches-sino-french-astrophysics-satellite-debris-falls-over-populated-area/" >🔗</a> **[SpaceNews]** China launches Sino-French astrophysics satellite, debris falls over populated area
 - <a href="https://spacenews.com/synspective-raises-44-million-series-c-round/" >🔗</a> **[SpaceNews]** Synspective raises $44 million Series C round
-- <a href="https://spaceflightnow.com/2024/06/22/live-coverage-spacex-swaps-falcon-9-boosters-ahead-of-starlink-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX swaps Falcon 9 boosters ahead of Starlink launch from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/06/22/live-coverage-spacex-swaps-falcon-9-boosters-ahead-of-starlink-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX marks record 20th flight with Falcon 9 payload fairing half on Starlink mission
 - <a href="https://www.spacescout.info/2024/06/starliner-mission-extended-all-systems-stable/" >🔗</a> **[Space Scout]** Starliner Mission Extended, All Systems Stable
 - <a href="https://spaceflightnow.com/2024/06/22/nasa-again-delays-starliner-undocking-return-to-earth/" >🔗</a> **[Spaceflight Now]** NASA again delays Starliner undocking, return to Earth
 - <a href="https://spacepolicyonline.com/news/starliner-return-delayed-yet-again/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Return Delayed Yet Again
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T180111">2024-06-23 18:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T183203">2024-06-23 18:32:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
