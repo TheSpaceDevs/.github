@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-23-29-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 23-29, 2024
 - <a href="https://spacenews.com/change-6-heads-for-earth-with-first-ever-lunar-far-side-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 heads for Earth with first-ever lunar far side samples
 - <a href="https://spaceflightnow.com/2024/06/23/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-vandenberg-space-force-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on Starlink mission from Vandenberg Space Force Station
 - <a href="https://spacenews.com/china-launches-sino-french-astrophysics-satellite-debris-falls-over-populated-area/" >🔗</a> **[SpaceNews]** China launches Sino-French astrophysics satellite, debris falls over populated area
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/06/22/nasa-again-delays-starliner-undocking-return-to-earth/" >🔗</a> **[Spaceflight Now]** NASA again delays Starliner undocking, return to Earth
 - <a href="https://spacepolicyonline.com/news/starliner-return-delayed-yet-again/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Return Delayed Yet Again
 - <a href="https://tlpnetwork.com/news/in-space/nasa-and-boeing-delay-starliner-return-again-again-again" >🔗</a> **[The Launch Pad]** NASA and Boeing Delay Starliner Return Again Again Again
-- <a href="https://spacenews.com/starliner-return-delayed-to-july/" >🔗</a> **[SpaceNews]** Starliner return delayed to July
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T220104">2024-06-23 22:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240623T223059">2024-06-23 22:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
