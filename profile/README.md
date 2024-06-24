@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/" >🔗</a> **[NASA]** NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
 - <a href="https://spacenews.com/skynopy-raises-funds-for-scalable-ground-station-network/" >🔗</a> **[SpaceNews]** Skynopy raises funds for scalable ground station network
 - <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
 - <a href="https://spacenews.com/europe-aims-to-end-space-access-crisis-with-ariane-6s-inaugural-launch/" >🔗</a> **[SpaceNews]** Europe aims to end space access crisis with Ariane 6’s inaugural launch
@@ -100,11 +101,11 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Two_large_asteroids_safely_pass_Earth_just_42_hours_apart" >🔗</a> **[ESA]** Two large asteroids safely pass Earth just 42 hours apart
 - <a href="https://spacenews.com/exercise-examines-response-to-long-term-asteroid-impact-threat/" >🔗</a> **[SpaceNews]** Exercise examines response to long-term asteroid impact threat
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Ariane_6_who_makes_what_infographic" >🔗</a> **[ESA]** Ariane 6 who makes what infographic
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Save_the_date_ESA_s_Living_Planet_Symposium_2025" >🔗</a> **[ESA]** Save the date: ESA’s Living Planet Symposium 2025
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
 - <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
 - <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-excitement-of-noaa-goes-u-launch/" >🔗</a> **[NASA]** NASA Invites Public to Share Excitement of NOAA GOES-U Launch
 - <a href="https://www.spacescout.info/2024/06/final-goes-r-satellite-ready-to-fly/" >🔗</a> **[Space Scout]** Final GOES-R Satellite Ready to Fly
@@ -114,12 +115,11 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/science/2021/09/rocket-report-virgin-galactic-delays-flight-falcon-heavy-nets-nasa-mission/" >🔗</a> **[Arstechnica]** Rocket Report: Virgin Galactic delays flight, Falcon Heavy nets NASA mission
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-goes-u-ten-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy launch contracts reach double digits after latest NASA win
 - <a href="https://spacenews.com/spacex-wins-contract-to-launch-weather-satellite-after-ula-withdraws/" >🔗</a> **[SpaceNews]** SpaceX wins contract to launch weather satellite after ULA withdraws
-- <a href="http://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-goes-u-mission" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for GOES-U Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T190126">2024-06-24 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T193109">2024-06-24 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
