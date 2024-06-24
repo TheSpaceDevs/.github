@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
+- <a href="https://spacenews.com/europe-aims-to-end-space-access-crisis-with-ariane-6s-inaugural-launch/" >🔗</a> **[SpaceNews]** Europe aims to end space access crisis with Ariane 6’s inaugural launch
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_star_clusters_in_Cosmic_Gems_arc" >🔗</a> **[ESA]** Webb captures star clusters in Cosmic Gems arc
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_John_McFall" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with John McFall
 - <a href="https://spacenews.com/china-may-need-adjust-approach-toward-spacex/" >🔗</a> **[SpaceNews]** China may need to adjust its approach toward SpaceX
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Ariane_6_who_makes_what_infographic" >🔗</a> **[ESA]** Ariane 6 who makes what infographic
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Save_the_date_ESA_s_Living_Planet_Symposium_2025" >🔗</a> **[ESA]** Save the date: ESA’s Living Planet Symposium 2025
 - <a href="https://spacenews.com/chinas-state-owned-sast-performs-reusable-rocket-test/" >🔗</a> **[SpaceNews]** China’s state-owned SAST performs reusable rocket test
-- <a href="https://europeanspaceflight.com/pld-space-likely-to-be-the-first-to-use-new-launch-complex-in-kourou/" >🔗</a> **[European Spaceflight]** PLD Space Likely to Be the First to Use New Launch Complex in Kourou
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-23-29-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 23-29, 2024
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T170109">2024-06-24 17:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T173111">2024-06-24 17:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
