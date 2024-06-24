@@ -92,6 +92,7 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Save_the_date_ESA_s_Living_Planet_Symposium_2025" >🔗</a> **[ESA]** Save the date: ESA’s Living Planet Symposium 2025
+- <a href="https://spacenews.com/chinas-state-owned-sast-performs-reusable-rocket-test/" >🔗</a> **[SpaceNews]** China’s state-owned SAST performs reusable rocket test
 - <a href="https://europeanspaceflight.com/pld-space-likely-to-be-the-first-to-use-new-launch-complex-in-kourou/" >🔗</a> **[European Spaceflight]** PLD Space Likely to Be the First to Use New Launch Complex in Kourou
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-23-29-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 23-29, 2024
 - <a href="https://spacenews.com/change-6-heads-for-earth-with-first-ever-lunar-far-side-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 heads for Earth with first-ever lunar far side samples
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/synspective-raises-44-million-series-c-round/" >🔗</a> **[SpaceNews]** Synspective raises $44 million Series C round
 - <a href="https://spaceflightnow.com/2024/06/22/live-coverage-spacex-swaps-falcon-9-boosters-ahead-of-starlink-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX marks record 20th flight with Falcon 9 payload fairing half on Starlink mission
 - <a href="https://www.spacescout.info/2024/06/starliner-mission-extended-all-systems-stable/" >🔗</a> **[Space Scout]** Starliner Mission Extended, All Systems Stable
-- <a href="https://spaceflightnow.com/2024/06/22/nasa-again-delays-starliner-undocking-return-to-earth/" >🔗</a> **[Spaceflight Now]** NASA again delays Starliner undocking, return to Earth
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T080130">2024-06-24 08:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T083257">2024-06-24 08:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
