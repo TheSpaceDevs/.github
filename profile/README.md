@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 - <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
 - <a href="https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/" >🔗</a> **[NASA]** Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
 - <a href="https://spacenews.com/u-s-space-command-ready-for-potential-russian-satellite-attack-general-says/" >🔗</a> **[SpaceNews]** U.S. Space Command ready for potential Russian satellite attack, general says
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/europe-aims-to-end-space-access-crisis-with-ariane-6s-inaugural-launch/" >🔗</a> **[SpaceNews]** Europe aims to end space access crisis with Ariane 6’s inaugural launch
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_star_clusters_in_Cosmic_Gems_arc" >🔗</a> **[ESA]** Webb captures star clusters in Cosmic Gems arc
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_John_McFall" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with John McFall
-- <a href="https://spacenews.com/china-may-need-adjust-approach-toward-spacex/" >🔗</a> **[SpaceNews]** China may need to adjust its approach toward SpaceX
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T213115">2024-06-24 21:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T220117">2024-06-24 22:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
