@@ -95,12 +95,12 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/china-may-need-adjust-approach-toward-spacex/" >🔗</a> **[SpaceNews]** China may need to adjust its approach toward SpaceX
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Two_large_asteroids_safely_pass_Earth_just_42_hours_apart" >🔗</a> **[ESA]** Two large asteroids safely pass Earth just 42 hours apart
 - <a href="https://spacenews.com/exercise-examines-response-to-long-term-asteroid-impact-threat/" >🔗</a> **[SpaceNews]** Exercise examines response to long-term asteroid impact threat
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Ariane_6_who_makes_what_infographic" >🔗</a> **[ESA]** Ariane 6 who makes what infographic
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Save_the_date_ESA_s_Living_Planet_Symposium_2025" >🔗</a> **[ESA]** Save the date: ESA’s Living Planet Symposium 2025
 - <a href="https://spacenews.com/chinas-state-owned-sast-performs-reusable-rocket-test/" >🔗</a> **[SpaceNews]** China’s state-owned SAST performs reusable rocket test
 - <a href="https://europeanspaceflight.com/pld-space-likely-to-be-the-first-to-use-new-launch-complex-in-kourou/" >🔗</a> **[European Spaceflight]** PLD Space Likely to Be the First to Use New Launch Complex in Kourou
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-23-29-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 23-29, 2024
 - <a href="https://spacenews.com/change-6-heads-for-earth-with-first-ever-lunar-far-side-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 heads for Earth with first-ever lunar far side samples
-- <a href="https://spaceflightnow.com/2024/06/23/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-vandenberg-space-force-station/" >🔗</a> **[Spaceflight Now]** SpaceX completes Falcon 9 double launch day with Starlink mission from Vandenberg Space Force Station
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T140125">2024-06-24 14:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T143142">2024-06-24 14:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
