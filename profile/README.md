@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Two_large_asteroids_safely_pass_Earth_just_42_hours_apart" >🔗</a> **[ESA]** Two large asteroids safely pass Earth just 42 hours apart
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Save_the_date_ESA_s_Living_Planet_Symposium_2025" >🔗</a> **[ESA]** Save the date: ESA’s Living Planet Symposium 2025
 - <a href="https://spacenews.com/chinas-state-owned-sast-performs-reusable-rocket-test/" >🔗</a> **[SpaceNews]** China’s state-owned SAST performs reusable rocket test
 - <a href="https://europeanspaceflight.com/pld-space-likely-to-be-the-first-to-use-new-launch-complex-in-kourou/" >🔗</a> **[European Spaceflight]** PLD Space Likely to Be the First to Use New Launch Complex in Kourou
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/china-launches-sino-french-astrophysics-satellite-debris-falls-over-populated-area/" >🔗</a> **[SpaceNews]** China launches Sino-French astrophysics satellite, debris falls over populated area
 - <a href="https://spacenews.com/synspective-raises-44-million-series-c-round/" >🔗</a> **[SpaceNews]** Synspective raises $44 million Series C round
 - <a href="https://spaceflightnow.com/2024/06/22/live-coverage-spacex-swaps-falcon-9-boosters-ahead-of-starlink-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX marks record 20th flight with Falcon 9 payload fairing half on Starlink mission
-- <a href="https://www.spacescout.info/2024/06/starliner-mission-extended-all-systems-stable/" >🔗</a> **[Space Scout]** Starliner Mission Extended, All Systems Stable
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T100121">2024-06-24 10:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T103319">2024-06-24 10:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
