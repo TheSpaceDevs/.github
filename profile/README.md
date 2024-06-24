@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_star_clusters_in_Cosmic_Gems_arc" >🔗</a> **[ESA]** Webb captures star clusters in Cosmic Gems arc
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_John_McFall" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with John McFall
 - <a href="https://spacenews.com/china-may-need-adjust-approach-toward-spacex/" >🔗</a> **[SpaceNews]** China may need to adjust its approach toward SpaceX
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Two_large_asteroids_safely_pass_Earth_just_42_hours_apart" >🔗</a> **[ESA]** Two large asteroids safely pass Earth just 42 hours apart
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/chinas-state-owned-sast-performs-reusable-rocket-test/" >🔗</a> **[SpaceNews]** China’s state-owned SAST performs reusable rocket test
 - <a href="https://europeanspaceflight.com/pld-space-likely-to-be-the-first-to-use-new-launch-complex-in-kourou/" >🔗</a> **[European Spaceflight]** PLD Space Likely to Be the First to Use New Launch Complex in Kourou
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-23-29-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 23-29, 2024
-- <a href="https://spacenews.com/change-6-heads-for-earth-with-first-ever-lunar-far-side-samples/" >🔗</a> **[SpaceNews]** Chang’e-6 heads for Earth with first-ever lunar far side samples
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T150116">2024-06-24 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T153111">2024-06-24 15:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
