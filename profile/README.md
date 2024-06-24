@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-command-ready-for-potential-russian-satellite-attack-general-says/" >🔗</a> **[SpaceNews]** U.S. Space Command ready for potential Russian satellite attack, general says
 - <a href="https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/" >🔗</a> **[NASA]** NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
 - <a href="https://spacenews.com/skynopy-raises-funds-for-scalable-ground-station-network/" >🔗</a> **[SpaceNews]** Skynopy raises funds for scalable ground station network
 - <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/china-may-need-adjust-approach-toward-spacex/" >🔗</a> **[SpaceNews]** China may need to adjust its approach toward SpaceX
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Two_large_asteroids_safely_pass_Earth_just_42_hours_apart" >🔗</a> **[ESA]** Two large asteroids safely pass Earth just 42 hours apart
 - <a href="https://spacenews.com/exercise-examines-response-to-long-term-asteroid-impact-threat/" >🔗</a> **[SpaceNews]** Exercise examines response to long-term asteroid impact threat
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Ariane_6_who_makes_what_infographic" >🔗</a> **[ESA]** Ariane 6 who makes what infographic
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T203108">2024-06-24 20:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240624T210111">2024-06-24 21:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
