@@ -93,8 +93,8 @@ into *a Geostationary Transfer Orbit
 ### Latest News ⌛
 - <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
-- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
+- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
 - <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 - <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
 - <a href="https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/" >🔗</a> **[NASA]** Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T053122">2024-06-25 05:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T060143">2024-06-25 06:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
