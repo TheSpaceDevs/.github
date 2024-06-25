@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/u-s-space-command-ready-for-potential-russian-satellite-attack-general-says/" >🔗</a> **[SpaceNews]** U.S. Space Command ready for potential Russian satellite attack, general says
 - <a href="https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/" >🔗</a> **[NASA]** NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
 - <a href="https://spacenews.com/skynopy-raises-funds-for-scalable-ground-station-network/" >🔗</a> **[SpaceNews]** Skynopy raises funds for scalable ground station network
-- <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T040124">2024-06-25 04:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T043229">2024-06-25 04:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
