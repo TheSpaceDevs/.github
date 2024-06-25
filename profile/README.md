@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/open-science/ai-language-model-science-research/" >🔗</a> **[NASA]** NASA-IBM Collaboration Develops INDUS Large Language Models for Advanced Science Research
 - <a href="https://spacenews.com/the-missing-piece-of-satellites-multi-orbit-ambitions-a-big-picture-vision/" >🔗</a> **[SpaceNews]** The Missing Piece of Satellite’s Multi-Orbit Ambitions: A Big-picture Vision
 - <a href="https://arstechnica.com/space/2024/06/china-has-completed-another-impressive-robotic-mission-to-the-moon/" >🔗</a> **[Arstechnica]** Rocks from the far side of the Moon landed in Mongolia on Tuesday
 - <a href="https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/" >🔗</a> **[NASASpaceflight]** NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/" >🔗</a> **[NASA]** Gateway: Up Close in Stunning Detail
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Jupiter_s_upper_atmosphere_surprises_astronomers" >🔗</a> **[ESA]** Jupiter’s upper atmosphere surprises astronomers
 - <a href="https://europeanspaceflight.com/esa-signs-off-on-argonaut-lunar-lander-engine-test/" >🔗</a> **[European Spaceflight]** ESA Signs Off on Argonaut Lunar Lander Engine Test
-- <a href="https://spacenews.com/change-6-delivers-first-lunar-far-side-samples-to-earth-after-53-day-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 delivers first lunar far side samples to Earth after 53-day mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T150107">2024-06-25 15:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T153105">2024-06-25 15:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
