@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/06/25/live-coverage-spacex-to-launch-final-nasa-noaa-goes-weather-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final NASA, NOAA GOES weather satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/general/nasa-infrared-detector-technical-interchange-meeting-august-27-28-2024/" >🔗</a> **[NASA]** NASA Infrared Detector Technical Interchange
 - <a href="https://www.nasa.gov/general/jake-cupani-increasing-visibility-in-data-science/" >🔗</a> **[NASA]** Jake Cupani: Increasing Visibility in Data Science
 - <a href="https://science.nasa.gov/open-science/ai-language-model-science-research/" >🔗</a> **[NASA]** NASA-IBM Collaboration Develops INDUS Large Language Models for Advanced Science Research
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/sift-raises-17-5m-in-series-a-round/" >🔗</a> **[SpaceNews]** Sift raises $17.5M in Series A round
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
 - <a href="https://spacenews.com/airbus-takes-a-charge-of-nearly-1-billion-on-space-programs/" >🔗</a> **[SpaceNews]** Airbus takes a charge of nearly $1 billion on space programs
-- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/" >🔗</a> **[NASA]** Gateway: Up Close in Stunning Detail
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T170115">2024-06-25 17:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T173059">2024-06-25 17:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
