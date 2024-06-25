@@ -48,7 +48,7 @@ into *a Geostationary Transfer Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T211600">2024-06-25 21:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | GOES-U&location=Kennedy Space Center, FL, USA&dates=20240625T211600Z%2F20240625T231600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | GOES-U** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T051200">2024-06-26 05:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240626T051200Z%2F20240626T055700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T040000">2024-06-27 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA005 (Noise of Summer)&location=Vandenberg SFB, CA, USA&dates=20240627T040000Z%2F20240627T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA005 (Noise of Summer)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T040300">2024-06-27 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA005 (Noise of Summer)&location=Vandenberg SFB, CA, USA&dates=20240627T040300Z%2F20240627T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA005 (Noise of Summer)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T110000">2024-06-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-3&location=Cape Canaveral, FL, USA&dates=20240627T110000Z%2F20240627T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Wallops Island, Virginia, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Wallops Island, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
@@ -92,6 +92,7 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
+- <a href="https://spacenews.com/airbus-takes-a-charge-of-nearly-1-billion-on-space-programs/" >🔗</a> **[SpaceNews]** Airbus takes a charge of nearly $1 billion on space programs
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/" >🔗</a> **[NASA]** Gateway: Up Close in Stunning Detail
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Jupiter_s_upper_atmosphere_surprises_astronomers" >🔗</a> **[ESA]** Jupiter’s upper atmosphere surprises astronomers
 - <a href="https://europeanspaceflight.com/esa-signs-off-on-argonaut-lunar-lander-engine-test/" >🔗</a> **[European Spaceflight]** ESA Signs Off on Argonaut Lunar Lander Engine Test
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
 - <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
-- <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T113107">2024-06-25 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T120133">2024-06-25 12:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
