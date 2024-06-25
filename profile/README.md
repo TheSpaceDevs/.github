@@ -91,8 +91,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
+- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
+- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
 - <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 - <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
 - <a href="https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/" >🔗</a> **[NASA]** Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/" >🔗</a> **[NASA]** NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
 - <a href="https://spacenews.com/skynopy-raises-funds-for-scalable-ground-station-network/" >🔗</a> **[SpaceNews]** Skynopy raises funds for scalable ground station network
 - <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
-- <a href="https://spacenews.com/europe-aims-to-end-space-access-crisis-with-ariane-6s-inaugural-launch/" >🔗</a> **[SpaceNews]** Europe aims to end space access crisis with Ariane 6’s inaugural launch
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T023803">2024-06-25 02:38:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T030112">2024-06-25 03:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
