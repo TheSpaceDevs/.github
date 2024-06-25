@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
+- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/" >🔗</a> **[NASA]** Gateway: Up Close in Stunning Detail
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Jupiter_s_upper_atmosphere_surprises_astronomers" >🔗</a> **[ESA]** Jupiter’s upper atmosphere surprises astronomers
 - <a href="https://europeanspaceflight.com/esa-signs-off-on-argonaut-lunar-lander-engine-test/" >🔗</a> **[European Spaceflight]** ESA Signs Off on Argonaut Lunar Lander Engine Test
 - <a href="https://spacenews.com/change-6-delivers-first-lunar-far-side-samples-to-earth-after-53-day-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 delivers first lunar far side samples to Earth after 53-day mission
 - <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
-- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
 - <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 - <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
-- <a href="https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/" >🔗</a> **[NASA]** Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T110108">2024-06-25 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T113107">2024-06-25 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
