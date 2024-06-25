@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sol-4225-sliding-down-horsetail-falls/" >🔗</a> **[NASA]** Sol 4225: Sliding Down Horsetail Falls
+- <a href="https://www.nasa.gov/general/open-call-to-new-york-based-artists-to-create-collaborative-nasa-mural/" >🔗</a> **[NASA]** Open Call to New York-based Artists to Create Collaborative NASA Mural
+- <a href="https://tlpnetwork.com/news/america/nasa-spacesuit-program-faces-setback-as-collins-aerospace-backs-out" >🔗</a> **[The Launch Pad]** NASA's Next Generation Spacesuit Program Faces Setback as Collins Aerospace Backs Out
+- <a href="https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/" >🔗</a> **[Arstechnica]** NASA’s commercial spacesuit program just hit a major snag
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/unity-in-orbit-astronauts-soar-with-pride-aboard-station/" >🔗</a> **[NASA]** Unity in Orbit: Astronauts Soar with Pride Aboard Station
+- <a href="https://europeanspaceflight.com/latitude-awarded-e15m-in-new-france-2030-funding/" >🔗</a> **[European Spaceflight]** Latitude Awarded €15M in New France 2030 Funding
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/six-adapters-for-crewed-artemis-flights-tested-built-at-nasa-marshall/" >🔗</a> **[NASA]** Six Adapters for Crewed Artemis Flights Tested, Built at NASA Marshall
 - <a href="https://spacenews.com/space-force-seeks-bids-for-resilient-gps-satellite-program/" >🔗</a> **[SpaceNews]** Space Force seeks bids for ‘Resilient GPS’ satellite program
 - <a href="https://spaceflightnow.com/2024/06/25/live-coverage-spacex-to-launch-final-nasa-noaa-goes-weather-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final NASA, NOAA GOES weather satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/general/nasa-infrared-detector-technical-interchange-meeting-august-27-28-2024/" >🔗</a> **[NASA]** NASA Infrared Detector Technical Interchange
-- <a href="https://www.nasa.gov/general/jake-cupani-increasing-visibility-in-data-science/" >🔗</a> **[NASA]** Jake Cupani: Increasing Visibility in Data Science
-- <a href="https://science.nasa.gov/open-science/ai-language-model-science-research/" >🔗</a> **[NASA]** NASA-IBM Collaboration Develops INDUS Large Language Models for Advanced Science Research
-- <a href="https://spacenews.com/the-missing-piece-of-satellites-multi-orbit-ambitions-a-big-picture-vision/" >🔗</a> **[SpaceNews]** The Missing Piece of Satellite’s Multi-Orbit Ambitions: A Big-picture Vision
-- <a href="https://arstechnica.com/space/2024/06/china-has-completed-another-impressive-robotic-mission-to-the-moon/" >🔗</a> **[Arstechnica]** Rocks from the far side of the Moon landed in Mongolia on Tuesday
-- <a href="https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/" >🔗</a> **[NASASpaceflight]** NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy
-- <a href="https://spacenews.com/sift-raises-17-5m-in-series-a-round/" >🔗</a> **[SpaceNews]** Sift raises $17.5M in Series A round
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T190113">2024-06-25 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T203115">2024-06-25 20:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
