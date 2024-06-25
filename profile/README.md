@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Jupiter_s_upper_atmosphere_surprises_astronomers" >🔗</a> **[ESA]** Jupiter’s upper atmosphere surprises astronomers
+- <a href="https://europeanspaceflight.com/esa-signs-off-on-argonaut-lunar-lander-engine-test/" >🔗</a> **[European Spaceflight]** ESA Signs Off on Argonaut Lunar Lander Engine Test
 - <a href="https://spacenews.com/change-6-delivers-first-lunar-far-side-samples-to-earth-after-53-day-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 delivers first lunar far side samples to Earth after 53-day mission
 - <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 - <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
 - <a href="https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/" >🔗</a> **[NASA]** Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
-- <a href="https://spacenews.com/u-s-space-command-ready-for-potential-russian-satellite-attack-general-says/" >🔗</a> **[SpaceNews]** U.S. Space Command ready for potential Russian satellite attack, general says
-- <a href="https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/" >🔗</a> **[NASA]** NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T080134">2024-06-25 08:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T083242">2024-06-25 08:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
