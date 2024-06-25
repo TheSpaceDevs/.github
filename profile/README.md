@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/six-adapters-for-crewed-artemis-flights-tested-built-at-nasa-marshall/" >🔗</a> **[NASA]** Six Adapters for Crewed Artemis Flights Tested, Built at NASA Marshall
 - <a href="https://spacenews.com/space-force-seeks-bids-for-resilient-gps-satellite-program/" >🔗</a> **[SpaceNews]** Space Force seeks bids for ‘Resilient GPS’ satellite program
 - <a href="https://spaceflightnow.com/2024/06/25/live-coverage-spacex-to-launch-final-nasa-noaa-goes-weather-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final NASA, NOAA GOES weather satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/general/nasa-infrared-detector-technical-interchange-meeting-august-27-28-2024/" >🔗</a> **[NASA]** NASA Infrared Detector Technical Interchange
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2024/06/china-has-completed-another-impressive-robotic-mission-to-the-moon/" >🔗</a> **[Arstechnica]** Rocks from the far side of the Moon landed in Mongolia on Tuesday
 - <a href="https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/" >🔗</a> **[NASASpaceflight]** NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy
 - <a href="https://spacenews.com/sift-raises-17-5m-in-series-a-round/" >🔗</a> **[SpaceNews]** Sift raises $17.5M in Series A round
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T180119">2024-06-25 18:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T183344">2024-06-25 18:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
