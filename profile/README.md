@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-infrared-detector-technical-interchange-meeting-august-27-28-2024/" >🔗</a> **[NASA]** NASA Infrared Detector Technical Interchange
+- <a href="https://www.nasa.gov/general/jake-cupani-increasing-visibility-in-data-science/" >🔗</a> **[NASA]** Jake Cupani: Increasing Visibility in Data Science
 - <a href="https://science.nasa.gov/open-science/ai-language-model-science-research/" >🔗</a> **[NASA]** NASA-IBM Collaboration Develops INDUS Large Language Models for Advanced Science Research
 - <a href="https://spacenews.com/the-missing-piece-of-satellites-multi-orbit-ambitions-a-big-picture-vision/" >🔗</a> **[SpaceNews]** The Missing Piece of Satellite’s Multi-Orbit Ambitions: A Big-picture Vision
 - <a href="https://arstechnica.com/space/2024/06/china-has-completed-another-impressive-robotic-mission-to-the-moon/" >🔗</a> **[Arstechnica]** Rocks from the far side of the Moon landed in Mongolia on Tuesday
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
 - <a href="https://spacenews.com/airbus-takes-a-charge-of-nearly-1-billion-on-space-programs/" >🔗</a> **[SpaceNews]** Airbus takes a charge of nearly $1 billion on space programs
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/" >🔗</a> **[NASA]** Gateway: Up Close in Stunning Detail
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Jupiter_s_upper_atmosphere_surprises_astronomers" >🔗</a> **[ESA]** Jupiter’s upper atmosphere surprises astronomers
-- <a href="https://europeanspaceflight.com/esa-signs-off-on-argonaut-lunar-lander-engine-test/" >🔗</a> **[European Spaceflight]** ESA Signs Off on Argonaut Lunar Lander Engine Test
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T160117">2024-06-25 16:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T163420">2024-06-25 16:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
