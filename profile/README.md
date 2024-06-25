@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-missing-piece-of-satellites-multi-orbit-ambitions-a-big-picture-vision/" >🔗</a> **[SpaceNews]** The Missing Piece of Satellite’s Multi-Orbit Ambitions: A Big-picture Vision
+- <a href="https://arstechnica.com/space/2024/06/china-has-completed-another-impressive-robotic-mission-to-the-moon/" >🔗</a> **[Arstechnica]** Rocks from the far side of the Moon landed in Mongolia on Tuesday
 - <a href="https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/" >🔗</a> **[NASASpaceflight]** NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy
 - <a href="https://spacenews.com/sift-raises-17-5m-in-series-a-round/" >🔗</a> **[SpaceNews]** Sift raises $17.5M in Series A round
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
@@ -99,12 +101,11 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Jupiter_s_upper_atmosphere_surprises_astronomers" >🔗</a> **[ESA]** Jupiter’s upper atmosphere surprises astronomers
 - <a href="https://europeanspaceflight.com/esa-signs-off-on-argonaut-lunar-lander-engine-test/" >🔗</a> **[European Spaceflight]** ESA Signs Off on Argonaut Lunar Lander Engine Test
 - <a href="https://spacenews.com/change-6-delivers-first-lunar-far-side-samples-to-earth-after-53-day-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 delivers first lunar far side samples to Earth after 53-day mission
-- <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
-- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/" >🔗</a> **[NASASpaceflight]** NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
 - <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
 - <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
@@ -114,12 +115,11 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-noaa-weather-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for NOAA Weather Satellite
 - <a href="https://spacenews.com/goes-u-compact-coronagraph/" >🔗</a> **[SpaceNews]** NOAA might revise geostationary weather satellite timeline
 - <a href="https://arstechnica.com/science/2021/09/rocket-report-virgin-galactic-delays-flight-falcon-heavy-nets-nasa-mission/" >🔗</a> **[Arstechnica]** Rocket Report: Virgin Galactic delays flight, Falcon Heavy nets NASA mission
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-goes-u-ten-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy launch contracts reach double digits after latest NASA win
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T130256">2024-06-25 13:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T133100">2024-06-25 13:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
