@@ -91,20 +91,21 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/change-6-delivers-first-lunar-far-side-samples-to-earth-after-53-day-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 delivers first lunar far side samples to Earth after 53-day mission
 - <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
-- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
 - <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can can do it for free for all we care”
+- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
 - <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 - <a href="https://spacenews.com/u-s-space-command-sees-promise-in-rocket-cargo-initiative/" >🔗</a> **[SpaceNews]** U.S. Space Command sees promise in rocket cargo initiative
 - <a href="https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/" >🔗</a> **[NASA]** Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
 - <a href="https://spacenews.com/u-s-space-command-ready-for-potential-russian-satellite-attack-general-says/" >🔗</a> **[SpaceNews]** U.S. Space Command ready for potential Russian satellite attack, general says
 - <a href="https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/" >🔗</a> **[NASA]** NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
-- <a href="https://spacenews.com/skynopy-raises-funds-for-scalable-ground-station-network/" >🔗</a> **[SpaceNews]** Skynopy raises funds for scalable ground station network
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
 - <a href="https://www.nasa.gov/image-article/on-the-goes/" >🔗</a> **[NASA]** On the GOES
 - <a href="https://spacenews.com/goes-u-nears-launch-with-a-new-sun-sensor/" >🔗</a> **[SpaceNews]** GOES-U nears launch with a new sun sensor
 - <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-excitement-of-noaa-goes-u-launch/" >🔗</a> **[NASA]** NASA Invites Public to Share Excitement of NOAA GOES-U Launch
@@ -114,12 +115,11 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/goes-u-compact-coronagraph/" >🔗</a> **[SpaceNews]** NOAA might revise geostationary weather satellite timeline
 - <a href="https://arstechnica.com/science/2021/09/rocket-report-virgin-galactic-delays-flight-falcon-heavy-nets-nasa-mission/" >🔗</a> **[Arstechnica]** Rocket Report: Virgin Galactic delays flight, Falcon Heavy nets NASA mission
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-goes-u-ten-launch-contracts/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy launch contracts reach double digits after latest NASA win
-- <a href="https://spacenews.com/spacex-wins-contract-to-launch-weather-satellite-after-ula-withdraws/" >🔗</a> **[SpaceNews]** SpaceX wins contract to launch weather satellite after ULA withdraws
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T070111">2024-06-25 07:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T073103">2024-06-25 07:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
