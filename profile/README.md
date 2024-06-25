@@ -33,7 +33,7 @@ into *a Geostationary Transfer Orbit
 (GTO)*.
 <br>
 <blockquote>
-  The Geostationary Operational Environmental Satellite-S Series (GOES-S) is the second of the next generation of geostationary weather satellites. The four satellites of the series will provide advanced imaging with increased spatial resolution and faster coverage for more accurate forecasts, real-time mapping of lightning activity, and improved monitoring of solar activity.
+  The Geostationary Operational Environmental Satellite-U (GOES-U) is the fourth of the next generation of geostationary weather satellites, known as the GOES-R series. The four satellites of the series provide advanced imaging with increased spatial resolution and faster coverage for more accurate forecasts, real-time mapping of lightning activity, and improved monitoring of solar activity. Once GOES-U reaches orbit, it will be renamed GOES-19.
 </blockquote>
 
 <p float="left" align="center">
@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/06/goes-u-falcon-heavy/" >🔗</a> **[NASASpaceflight]** NASA, NOAA ready for launch of GOES-U aboard SpaceX Falcon Heavy
+- <a href="https://spacenews.com/sift-raises-17-5m-in-series-a-round/" >🔗</a> **[SpaceNews]** Sift raises $17.5M in Series A round
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Media_briefing_on_Ariane_6_s_inaugural_flight" >🔗</a> **[ESA]** Media briefing on Ariane 6’s inaugural flight
 - <a href="https://spacenews.com/airbus-takes-a-charge-of-nearly-1-billion-on-space-programs/" >🔗</a> **[SpaceNews]** Airbus takes a charge of nearly $1 billion on space programs
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/" >🔗</a> **[NASA]** Gateway: Up Close in Stunning Detail
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/change-6-delivers-first-lunar-far-side-samples-to-earth-after-53-day-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 delivers first lunar far side samples to Earth after 53-day mission
 - <a href="https://spacepolicyonline.com/news/another-spacewalk-scrub-for-nasa-astronauts/" >🔗</a> **[SpacePolicyOnline.com]** Another Spacewalk Scrub for NASA Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly launches an Alpha
-- <a href="https://arstechnica.com/space/2024/06/sir-peter-beck-unplugged-transporter-can-do-it-for-free-for-all-we-care/" >🔗</a> **[Arstechnica]** Sir Peter Beck unplugged: “Transporter can do it for free for all we care”
-- <a href="https://spacenews.com/firefly-to-launch-alpha-from-wallops/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha from Wallops
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T120133">2024-06-25 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240625T124000">2024-06-25 12:40:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
