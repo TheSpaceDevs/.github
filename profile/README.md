@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianespace-advocates-enforcing-european-launcher-preference/" >🔗</a> **[European Spaceflight]** Arianespace Advocates Enforcing European Launcher Preference
 - <a href="https://spacenews.com/space-mining-doesnt-need-more-international-regulation-from-the-u-n/" >🔗</a> **[SpaceNews]** Space Mining doesn’t need more international regulation from the U.N.
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_space_bricks_have_landed" >🔗</a> **[ESA]** The space bricks have landed!
 - <a href="https://spacenews.com/collins-aerospace-pulls-back-from-nasa-spacesuit-contract/" >🔗</a> **[SpaceNews]** Collins Aerospace pulls back from NASA spacesuit contract
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/" >🔗</a> **[NASA]** NASA, SpaceX Launch NOAA’s Latest Weather Satellite
 - <a href="https://spacepolicyonline.com/news/chinas-change-6-returns-samples-from-lunar-farside/" >🔗</a> **[SpacePolicyOnline.com]** China’s Chang’e-6 Returns Samples from Lunar Farside
 - <a href="https://spacenews.com/falcon-heavy-launches-goes-u-weather-satellite/" >🔗</a> **[SpaceNews]** Falcon Heavy launches GOES-U weather satellite
-- <a href="https://spacepolicyonline.com/news/house-appropriators-focus-nasa-cuts-on-science-stem/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Focus NASA Cuts on Science, STEM
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T133059">2024-06-26 13:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T140111">2024-06-26 14:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
