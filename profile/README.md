@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-awards-spacex-contract-for-space-station-deorbit-vehicle/" >🔗</a> **[SpaceNews]** NASA awards SpaceX contract for space station deorbit vehicle
 - <a href="https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html" >🔗</a> **[CNBC]** SpaceX is building a NASA craft to intentionally destroy the International Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-26-2024/" >🔗</a> **[NASA]** The Marshall Star for June 26, 2024
 - <a href="https://spacepolicyonline.com/news/ula-changes-plans-for-vulcans-second-certification-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA Changes Plans for Vulcan’s Second Certification Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/detective-work-enables-perseverance-team-to-revive-sherloc-instrument/" >🔗</a> **[NASA]** Detective Work Enables Perseverance Team to Revive SHERLOC Instrument
 - <a href="https://www.nasa.gov/image-article/noaas-goes-u-satellite-launches/" >🔗</a> **[NASA]** NOAA’s GOES-U Satellite Launches
 - <a href="https://www.nasa.gov/news-release/nasa-advances-research-to-grow-habitats-in-space-from-fungi/" >🔗</a> **[NASA]** NASA Advances Research to Grow Habitats in Space from Fungi
-- <a href="https://spacenews.com/ula-changes-payloads-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA changes payloads for second Vulcan launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T230110">2024-06-26 23:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T233106">2024-06-26 23:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
