@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/The_Young_Professional_Satellite_-_Dream_Big_Start_Small_episode_1" >🔗</a> **[ESA]** The Young Professional Satellite - Dream Big, Start Small (episode 1)
+- <a href="https://spacenews.com/urban-sky-wins-nasa-award-to-develop-balloon-borne-fire-sensors/" >🔗</a> **[SpaceNews]** Urban Sky wins NASA award to develop balloon-borne fire sensors
 - <a href="https://spacenews.com/starfish-space-to-extend-intelsat-satellite-life-in-first-commercial-mission/" >🔗</a> **[SpaceNews]** Starfish Space to extend Intelsat satellite life in first commercial mission
 - <a href="https://spacenews.com/wyvern-to-use-loft-orbital-satellites-for-hyperspectral-observations/" >🔗</a> **[SpaceNews]** Wyvern to use Loft Orbital satellites for hyperspectral observations
 - <a href="https://science.nasa.gov/missions/hubble/new-hubble-webb-pillars-of-creation-visualization/" >🔗</a> **[NASA]** Pillars of Creation Star in New Visualization from NASA’s Hubble and Webb Telescopes
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-mining-doesnt-need-more-international-regulation-from-the-u-n/" >🔗</a> **[SpaceNews]** Space Mining doesn’t need more international regulation from the U.N.
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_space_bricks_have_landed" >🔗</a> **[ESA]** The space bricks have landed!
 - <a href="https://spacenews.com/collins-aerospace-pulls-back-from-nasa-spacesuit-contract/" >🔗</a> **[SpaceNews]** Collins Aerospace pulls back from NASA spacesuit contract
-- <a href="https://www.esa.int/Space_Safety/Time_to_build_zero-debris_satellites" >🔗</a> **[ESA]** Time to build zero-debris satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T160129">2024-06-26 16:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T163402">2024-06-26 16:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
