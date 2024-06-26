@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Time_to_build_zero-debris_satellites" >🔗</a> **[ESA]** Time to build zero-debris satellites
+- <a href="https://europeanspaceflight.com/swedens-ssc-tapped-to-provide-ground-support-for-us-lunar-lander/" >🔗</a> **[European Spaceflight]** Sweden’s SSC Tapped to Provide Ground Support for US Lunar Lander
 - <a href="https://spacepolicyonline.com/news/new-noaa-weather-satellite-on-its-way-to-geo/" >🔗</a> **[SpacePolicyOnline.com]** New NOAA Weather Satellite On Its Way to GEO
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/" >🔗</a> **[NASA]** NASA, SpaceX Launch NOAA’s Latest Weather Satellite
 - <a href="https://spacepolicyonline.com/news/chinas-change-6-returns-samples-from-lunar-farside/" >🔗</a> **[SpacePolicyOnline.com]** China’s Chang’e-6 Returns Samples from Lunar Farside
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/planetary-science/nasa-selects-participating-scientists-to-join-esas-hera-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join ESA’s Hera Mission
 - <a href="https://science.nasa.gov/blogs/sol-4225-sliding-down-horsetail-falls/" >🔗</a> **[NASA]** Sol 4225: Sliding Down Horsetail Falls
 - <a href="https://www.nasa.gov/general/open-call-to-new-york-based-artists-to-create-collaborative-nasa-mural/" >🔗</a> **[NASA]** Open Call to New York-based Artists to Create Collaborative NASA Mural
-- <a href="https://tlpnetwork.com/news/america/nasa-spacesuit-program-faces-setback-as-collins-aerospace-backs-out" >🔗</a> **[The Launch Pad]** NASA's Next Generation Spacesuit Program Faces Setback as Collins Aerospace Backs Out
-- <a href="https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/" >🔗</a> **[Arstechnica]** NASA’s commercial spacesuit program just hit a major snag
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T090214">2024-06-26 09:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T093115">2024-06-26 09:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
