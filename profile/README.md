@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html" >🔗</a> **[CNBC]** SpaceX is building a NASA craft to intentionally destroy the International Space Station
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-26-2024/" >🔗</a> **[NASA]** The Marshall Star for June 26, 2024
 - <a href="https://spacepolicyonline.com/news/ula-changes-plans-for-vulcans-second-certification-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA Changes Plans for Vulcan’s Second Certification Mission
 - <a href="https://tlpnetwork.com/news/america/nasa-selects-spacex-to-destroy-iss-in-2030" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX To Build Spacecraft To Destroy ISS in 2030's
 - <a href="https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/" >🔗</a> **[NASA]** NASA Selects International Space Station US Deorbit Vehicle
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/noaas-goes-u-satellite-launches/" >🔗</a> **[NASA]** NOAA’s GOES-U Satellite Launches
 - <a href="https://www.nasa.gov/news-release/nasa-advances-research-to-grow-habitats-in-space-from-fungi/" >🔗</a> **[NASA]** NASA Advances Research to Grow Habitats in Space from Fungi
 - <a href="https://spacenews.com/ula-changes-payloads-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA changes payloads for second Vulcan launch
-- <a href="https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/" >🔗</a> **[NASA]** Surprising Phosphate Finding in NASA’s OSIRIS-REx Asteroid Sample
-- <a href="https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Gets a Close-Up Look at Lava Lakes on Jupiter’s Moon Io
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T220116">2024-06-26 22:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T223136">2024-06-26 22:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
