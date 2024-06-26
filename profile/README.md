@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ula-changes-plans-for-vulcans-second-certification-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA Changes Plans for Vulcan’s Second Certification Mission
+- <a href="https://tlpnetwork.com/news/america/nasa-selects-spacex-to-destroy-iss-in-2030" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX To Build Spacecraft To Destroy ISS in 2030's
 - <a href="https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/" >🔗</a> **[NASA]** NASA Selects International Space Station US Deorbit Vehicle
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-space-shuttle-launch-pad-abort/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Space Shuttle Launch Pad Abort
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/detective-work-enables-perseverance-team-to-revive-sherloc-instrument/" >🔗</a> **[NASA]** Detective Work Enables Perseverance Team to Revive SHERLOC Instrument
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ula-changes-payloads-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA changes payloads for second Vulcan launch
 - <a href="https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/" >🔗</a> **[NASA]** Surprising Phosphate Finding in NASA’s OSIRIS-REx Asteroid Sample
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Gets a Close-Up Look at Lava Lakes on Jupiter’s Moon Io
-- <a href="https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/" >🔗</a> **[Arstechnica]** Some European launch officials still have their heads stuck in the sand
-- <a href="https://spacenews.com/chinas-worst-case-thinking-could-spark-space-crisis-study-finds/" >🔗</a> **[SpaceNews]** China’s ‘worst-case thinking’ could spark space crisis, study finds
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T213054">2024-06-26 21:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T220116">2024-06-26 22:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
