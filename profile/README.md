@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Gets a Close-Up Look at Lava Lakes on Jupiter’s Moon Io
 - <a href="https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/" >🔗</a> **[Arstechnica]** Some European launch officials still have their heads stuck in the sand
 - <a href="https://spacenews.com/chinas-worst-case-thinking-could-spark-space-crisis-study-finds/" >🔗</a> **[SpaceNews]** China’s ‘worst-case thinking’ could spark space crisis, study finds
 - <a href="https://www.spacescout.info/2024/06/goes-u-heads-for-geostationary-orbit/" >🔗</a> **[Space Scout]** GOES-U Heads for Geostationary Orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starfish-space-to-extend-intelsat-satellite-life-in-first-commercial-mission/" >🔗</a> **[SpaceNews]** Starfish Space to extend Intelsat satellite life in first commercial mission
 - <a href="https://spacenews.com/wyvern-to-use-loft-orbital-satellites-for-hyperspectral-observations/" >🔗</a> **[SpaceNews]** Wyvern to use Loft Orbital satellites for hyperspectral observations
 - <a href="https://science.nasa.gov/missions/hubble/new-hubble-webb-pillars-of-creation-visualization/" >🔗</a> **[NASA]** Pillars of Creation Star in New Visualization from NASA’s Hubble and Webb Telescopes
-- <a href="https://www.nasa.gov/history/the-1998-florida-firestorm-and-nasas-kennedy-space-center/" >🔗</a> **[NASA]** The 1998 Florida Firestorm and NASA’s Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T173101">2024-06-26 17:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T180121">2024-06-26 18:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
