@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/new-noaa-weather-satellite-on-its-way-to-geo/" >🔗</a> **[SpacePolicyOnline.com]** New NOAA Weather Satellite On Its Way to GEO
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/" >🔗</a> **[NASA]** NASA, SpaceX Launch NOAA’s Latest Weather Satellite
 - <a href="https://spacepolicyonline.com/news/chinas-change-6-returns-samples-from-lunar-farside/" >🔗</a> **[SpacePolicyOnline.com]** China’s Chang’e-6 Returns Samples from Lunar Farside
 - <a href="https://spacenews.com/falcon-heavy-launches-goes-u-weather-satellite/" >🔗</a> **[SpaceNews]** Falcon Heavy launches GOES-U weather satellite
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/open-call-to-new-york-based-artists-to-create-collaborative-nasa-mural/" >🔗</a> **[NASA]** Open Call to New York-based Artists to Create Collaborative NASA Mural
 - <a href="https://tlpnetwork.com/news/america/nasa-spacesuit-program-faces-setback-as-collins-aerospace-backs-out" >🔗</a> **[The Launch Pad]** NASA's Next Generation Spacesuit Program Faces Setback as Collins Aerospace Backs Out
 - <a href="https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/" >🔗</a> **[Arstechnica]** NASA’s commercial spacesuit program just hit a major snag
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/unity-in-orbit-astronauts-soar-with-pride-aboard-station/" >🔗</a> **[NASA]** Unity in Orbit: Astronauts Soar with Pride Aboard Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T040121">2024-06-26 04:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T043342">2024-06-26 04:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
