@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-changes-payloads-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA changes payloads for second Vulcan launch
+- <a href="https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/" >🔗</a> **[NASA]** Surprising Phosphate Finding in NASA’s OSIRIS-REx Asteroid Sample
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Gets a Close-Up Look at Lava Lakes on Jupiter’s Moon Io
 - <a href="https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/" >🔗</a> **[Arstechnica]** Some European launch officials still have their heads stuck in the sand
 - <a href="https://spacenews.com/chinas-worst-case-thinking-could-spark-space-crisis-study-finds/" >🔗</a> **[SpaceNews]** China’s ‘worst-case thinking’ could spark space crisis, study finds
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/The_Young_Professional_Satellite_-_Dream_Big_Start_Small_episode_1" >🔗</a> **[ESA]** The Young Professional Satellite - Dream Big, Start Small (episode 1)
 - <a href="https://spacenews.com/urban-sky-wins-nasa-award-to-develop-balloon-borne-fire-sensors/" >🔗</a> **[SpaceNews]** Urban Sky wins NASA award to develop balloon-borne fire sensors
 - <a href="https://spacenews.com/starfish-space-to-extend-intelsat-satellite-life-in-first-commercial-mission/" >🔗</a> **[SpaceNews]** Starfish Space to extend Intelsat satellite life in first commercial mission
-- <a href="https://spacenews.com/wyvern-to-use-loft-orbital-satellites-for-hyperspectral-observations/" >🔗</a> **[SpaceNews]** Wyvern to use Loft Orbital satellites for hyperspectral observations
-- <a href="https://science.nasa.gov/missions/hubble/new-hubble-webb-pillars-of-creation-visualization/" >🔗</a> **[NASA]** Pillars of Creation Star in New Visualization from NASA’s Hubble and Webb Telescopes
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T180121">2024-06-26 18:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T183306">2024-06-26 18:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
