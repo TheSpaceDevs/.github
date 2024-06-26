@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/" >🔗</a> **[NASA]** NASA Selects International Space Station US Deorbit Vehicle
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-space-shuttle-launch-pad-abort/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Space Shuttle Launch Pad Abort
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/detective-work-enables-perseverance-team-to-revive-sherloc-instrument/" >🔗</a> **[NASA]** Detective Work Enables Perseverance Team to Revive SHERLOC Instrument
 - <a href="https://www.nasa.gov/image-article/noaas-goes-u-satellite-launches/" >🔗</a> **[NASA]** NOAA’s GOES-U Satellite Launches
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Gets a Close-Up Look at Lava Lakes on Jupiter’s Moon Io
 - <a href="https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/" >🔗</a> **[Arstechnica]** Some European launch officials still have their heads stuck in the sand
 - <a href="https://spacenews.com/chinas-worst-case-thinking-could-spark-space-crisis-study-finds/" >🔗</a> **[SpaceNews]** China’s ‘worst-case thinking’ could spark space crisis, study finds
-- <a href="https://www.spacescout.info/2024/06/goes-u-heads-for-geostationary-orbit/" >🔗</a> **[Space Scout]** GOES-U Heads for Geostationary Orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T203122">2024-06-26 20:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T210121">2024-06-26 21:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
