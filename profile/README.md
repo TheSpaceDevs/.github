@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/some-european-launch-officials-still-have-their-heads-stuck-in-the-sand/" >🔗</a> **[Arstechnica]** Some European launch officials still have their heads stuck in the sand
+- <a href="https://spacenews.com/chinas-worst-case-thinking-could-spark-space-crisis-study-finds/" >🔗</a> **[SpaceNews]** China’s ‘worst-case thinking’ could spark space crisis, study finds
+- <a href="https://www.spacescout.info/2024/06/goes-u-heads-for-geostationary-orbit/" >🔗</a> **[Space Scout]** GOES-U Heads for Geostationary Orbit
+- <a href="https://www.nasa.gov/directorates/stmd/niac/mycotecture-off-planet-en-route-to-the-moon-and-mars/" >🔗</a> **[NASA]** Mycotecture off Planet: En route to the Moon and Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/The_Young_Professional_Satellite_-_Dream_Big_Start_Small_episode_1" >🔗</a> **[ESA]** The Young Professional Satellite - Dream Big, Start Small (episode 1)
 - <a href="https://spacenews.com/urban-sky-wins-nasa-award-to-develop-balloon-borne-fire-sensors/" >🔗</a> **[SpaceNews]** Urban Sky wins NASA award to develop balloon-borne fire sensors
 - <a href="https://spacenews.com/starfish-space-to-extend-intelsat-satellite-life-in-first-commercial-mission/" >🔗</a> **[SpaceNews]** Starfish Space to extend Intelsat satellite life in first commercial mission
 - <a href="https://spacenews.com/wyvern-to-use-loft-orbital-satellites-for-hyperspectral-observations/" >🔗</a> **[SpaceNews]** Wyvern to use Loft Orbital satellites for hyperspectral observations
 - <a href="https://science.nasa.gov/missions/hubble/new-hubble-webb-pillars-of-creation-visualization/" >🔗</a> **[NASA]** Pillars of Creation Star in New Visualization from NASA’s Hubble and Webb Telescopes
 - <a href="https://www.nasa.gov/history/the-1998-florida-firestorm-and-nasas-kennedy-space-center/" >🔗</a> **[NASA]** The 1998 Florida Firestorm and NASA’s Kennedy Space Center
-- <a href="https://europeanspaceflight.com/arianespace-advocates-enforcing-european-launcher-preference/" >🔗</a> **[European Spaceflight]** Arianespace Advocates Enforcing European Launcher Preference
-- <a href="https://spacenews.com/space-mining-doesnt-need-more-international-regulation-from-the-u-n/" >🔗</a> **[SpaceNews]** Space Mining doesn’t need more international regulation from the U.N.
-- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_space_bricks_have_landed" >🔗</a> **[ESA]** The space bricks have landed!
-- <a href="https://spacenews.com/collins-aerospace-pulls-back-from-nasa-spacesuit-contract/" >🔗</a> **[SpaceNews]** Collins Aerospace pulls back from NASA spacesuit contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T170103">2024-06-26 17:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T173101">2024-06-26 17:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
