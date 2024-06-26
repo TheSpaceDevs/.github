@@ -53,9 +53,9 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=RS1 | Flight 2&location=Pacific Spaceport Complex, Alaska, USA&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **RS1 | Flight 2** from Pacific Spaceport Complex, Alaska, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Obzor-R No.1&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Obzor-R No.1** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Gaganyaan Abort Test Booster | TV-D2&location=Satish Dhawan Space Centre, India&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Gaganyaan Abort Test Booster | TV-D2** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T030642">2024-06-30 03:06:42 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Advanced Land Observing Satellite-4 (ALOS-4)&location=Tanegashima Space Center, Japan&dates=20240630T030642Z%2F20240630T031934Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Advanced Land Observing Satellite-4 (ALOS-4)** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T071100">2024-06-30 07:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-9&location=Cape Canaveral, FL, USA&dates=20240630T071100Z%2F20240630T093400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-9** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T040300">2024-07-02 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA005 (Noise of Summer)&location=Vandenberg SFB, CA, USA&dates=20240702T040300Z%2F20240702T043300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA005 (Noise of Summer)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/" >🔗</a> **[NASA]** NASA, SpaceX Launch NOAA’s Latest Weather Satellite
 - <a href="https://spacepolicyonline.com/news/chinas-change-6-returns-samples-from-lunar-farside/" >🔗</a> **[SpacePolicyOnline.com]** China’s Chang’e-6 Returns Samples from Lunar Farside
 - <a href="https://spacenews.com/falcon-heavy-launches-goes-u-weather-satellite/" >🔗</a> **[SpaceNews]** Falcon Heavy launches GOES-U weather satellite
 - <a href="https://spacepolicyonline.com/news/house-appropriators-focus-nasa-cuts-on-science-stem/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Focus NASA Cuts on Science, STEM
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/nasa-spacesuit-program-faces-setback-as-collins-aerospace-backs-out" >🔗</a> **[The Launch Pad]** NASA's Next Generation Spacesuit Program Faces Setback as Collins Aerospace Backs Out
 - <a href="https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/" >🔗</a> **[Arstechnica]** NASA’s commercial spacesuit program just hit a major snag
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/unity-in-orbit-astronauts-soar-with-pride-aboard-station/" >🔗</a> **[NASA]** Unity in Orbit: Astronauts Soar with Pride Aboard Station
-- <a href="https://europeanspaceflight.com/latitude-awarded-e15m-in-new-france-2030-funding/" >🔗</a> **[European Spaceflight]** Latitude Awarded €15M in New France 2030 Funding
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T023731">2024-06-26 02:37:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T030115">2024-06-26 03:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
