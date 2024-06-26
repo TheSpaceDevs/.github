@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_space_bricks_have_landed" >🔗</a> **[ESA]** The space bricks have landed!
 - <a href="https://www.esa.int/Space_Safety/Time_to_build_zero-debris_satellites" >🔗</a> **[ESA]** Time to build zero-debris satellites
 - <a href="https://europeanspaceflight.com/swedens-ssc-tapped-to-provide-ground-support-for-us-lunar-lander/" >🔗</a> **[European Spaceflight]** Sweden’s SSC Tapped to Provide Ground Support for US Lunar Lander
 - <a href="https://spacepolicyonline.com/news/new-noaa-weather-satellite-on-its-way-to-geo/" >🔗</a> **[SpacePolicyOnline.com]** New NOAA Weather Satellite On Its Way to GEO
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/house-appropriators-focus-nasa-cuts-on-science-stem/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Focus NASA Cuts on Science, STEM
 - <a href="https://science.nasa.gov/science-research/planetary-science/nasa-selects-participating-scientists-to-join-esas-hera-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join ESA’s Hera Mission
 - <a href="https://science.nasa.gov/blogs/sol-4225-sliding-down-horsetail-falls/" >🔗</a> **[NASA]** Sol 4225: Sliding Down Horsetail Falls
-- <a href="https://www.nasa.gov/general/open-call-to-new-york-based-artists-to-create-collaborative-nasa-mural/" >🔗</a> **[NASA]** Open Call to New York-based Artists to Create Collaborative NASA Mural
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T110108">2024-06-26 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T113101">2024-06-26 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
