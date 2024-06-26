@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/detective-work-enables-perseverance-team-to-revive-sherloc-instrument/" >🔗</a> **[NASA]** Detective Work Enables Perseverance Team to Revive SHERLOC Instrument
+- <a href="https://www.nasa.gov/image-article/noaas-goes-u-satellite-launches/" >🔗</a> **[NASA]** NOAA’s GOES-U Satellite Launches
+- <a href="https://www.nasa.gov/news-release/nasa-advances-research-to-grow-habitats-in-space-from-fungi/" >🔗</a> **[NASA]** NASA Advances Research to Grow Habitats in Space from Fungi
 - <a href="https://spacenews.com/ula-changes-payloads-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA changes payloads for second Vulcan launch
 - <a href="https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/" >🔗</a> **[NASA]** Surprising Phosphate Finding in NASA’s OSIRIS-REx Asteroid Sample
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/" >🔗</a> **[NASA]** NASA’s Juno Gets a Close-Up Look at Lava Lakes on Jupiter’s Moon Io
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-worst-case-thinking-could-spark-space-crisis-study-finds/" >🔗</a> **[SpaceNews]** China’s ‘worst-case thinking’ could spark space crisis, study finds
 - <a href="https://www.spacescout.info/2024/06/goes-u-heads-for-geostationary-orbit/" >🔗</a> **[Space Scout]** GOES-U Heads for Geostationary Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/niac/mycotecture-off-planet-en-route-to-the-moon-and-mars/" >🔗</a> **[NASA]** Mycotecture off Planet: En route to the Moon and Mars
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/The_Young_Professional_Satellite_-_Dream_Big_Start_Small_episode_1" >🔗</a> **[ESA]** The Young Professional Satellite - Dream Big, Start Small (episode 1)
-- <a href="https://spacenews.com/urban-sky-wins-nasa-award-to-develop-balloon-borne-fire-sensors/" >🔗</a> **[SpaceNews]** Urban Sky wins NASA award to develop balloon-borne fire sensors
-- <a href="https://spacenews.com/starfish-space-to-extend-intelsat-satellite-life-in-first-commercial-mission/" >🔗</a> **[SpaceNews]** Starfish Space to extend Intelsat satellite life in first commercial mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T190106">2024-06-26 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T193108">2024-06-26 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
