@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/chinas-change-6-returns-samples-from-lunar-farside/" >🔗</a> **[SpacePolicyOnline.com]** China’s Chang’e-6 Returns Samples from Lunar Farside
 - <a href="https://spacenews.com/falcon-heavy-launches-goes-u-weather-satellite/" >🔗</a> **[SpaceNews]** Falcon Heavy launches GOES-U weather satellite
 - <a href="https://spacepolicyonline.com/news/house-appropriators-focus-nasa-cuts-on-science-stem/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Focus NASA Cuts on Science, STEM
 - <a href="https://science.nasa.gov/science-research/planetary-science/nasa-selects-participating-scientists-to-join-esas-hera-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join ESA’s Hera Mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2024/06/nasas-commercial-spacesuit-program-just-hit-a-major-snag/" >🔗</a> **[Arstechnica]** NASA’s commercial spacesuit program just hit a major snag
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/unity-in-orbit-astronauts-soar-with-pride-aboard-station/" >🔗</a> **[NASA]** Unity in Orbit: Astronauts Soar with Pride Aboard Station
 - <a href="https://europeanspaceflight.com/latitude-awarded-e15m-in-new-france-2030-funding/" >🔗</a> **[European Spaceflight]** Latitude Awarded €15M in New France 2030 Funding
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/six-adapters-for-crewed-artemis-flights-tested-built-at-nasa-marshall/" >🔗</a> **[NASA]** Six Adapters for Crewed Artemis Flights Tested, Built at NASA Marshall
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T000337">2024-06-26 00:03:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240626T004502">2024-06-26 00:45:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
