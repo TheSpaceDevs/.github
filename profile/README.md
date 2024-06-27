@@ -46,7 +46,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T031400">2024-06-29 03:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-186&location=Vandenberg SFB, CA, USA&dates=20240629T031400Z%2F20240629T061900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-186** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T031400">2024-06-29 03:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-186&location=Vandenberg SFB, CA, USA&dates=20240629T031400Z%2F20240629T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-186** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T114700">2024-06-29 11:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20240629T114700Z%2F20240629T132700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T000000">2024-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240630T000000Z%2F20240630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T030642">2024-06-30 03:06:42 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Advanced Land Observing Satellite-4 (ALOS-4)&location=Tanegashima Space Center, Japan&dates=20240630T030642Z%2F20240630T031934Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Advanced Land Observing Satellite-4 (ALOS-4)** from Tanegashima Space Center, Japan.
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-to-supply-satellite-terminals-for-spains-maritime-surveillance-aircraft/" >🔗</a> **[SpaceNews]** Viasat to supply satellite terminals for Spain’s maritime surveillance aircraft
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-team-recognized-during-white-house-sustainability-awards/" >🔗</a> **[NASA]** NASA Kennedy Team Recognized During White House Sustainability Awards
 - <a href="https://www.nasaspaceflight.com/2024/06/starship-preparations-tower-catch-flight-5/" >🔗</a> **[NASASpaceflight]** Starship preparations point to possible tower catch attempt on Flight 5
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-pride-month-derek-bramble/" >🔗</a> **[NASA]** Langley Celebrates Pride Month: Derek Bramble
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-parachute-sensor-testing-could-make-epic-mars-landings/" >🔗</a> **[NASA]** NASA Parachute Sensor Testing Could Make EPIC Mars Landings
 - <a href="https://arstechnica.com/space/2024/06/nasa-will-pay-spacex-nearly-1-billion-to-deorbit-the-international-space-station/" >🔗</a> **[Arstechnica]** NASA will pay SpaceX nearly $1 billion to deorbit the International Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-10-years-of-human-spaceflights-next-pioneers/" >🔗</a> **[NASA]** NASA Celebrates 10 Years of Human Spaceflight’s NExT Pioneers
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/redesigned-ames-visitor-center-engages-kids-families/" >🔗</a> **[NASA]** Liftoff! Redesigned NASA Ames Visitor Center Engages Kids, Families
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T193106">2024-06-27 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T200125">2024-06-27 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
