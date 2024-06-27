@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Countdown_to_Hera_launch_campaign_begins_at_ESOC" >🔗</a> **[ESA]** Countdown to Hera: launch campaign begins at ESOC
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Proba-2_s_glimpse_of_home" >🔗</a> **[ESA]** Proba-2’s glimpse of home
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_reveals_inner_secrets_of_clouds" >🔗</a> **[ESA]** A first: EarthCARE reveals inner secrets of clouds
 - <a href="https://spacepolicyonline.com/news/nasa-picks-spacex-to-build-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** NASA Picks SpaceX To Build ISS Deorbit Vehicle
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html" >🔗</a> **[CNBC]** SpaceX is building a NASA craft to intentionally destroy the International Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-26-2024/" >🔗</a> **[NASA]** The Marshall Star for June 26, 2024
 - <a href="https://spacepolicyonline.com/news/ula-changes-plans-for-vulcans-second-certification-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA Changes Plans for Vulcan’s Second Certification Mission
-- <a href="https://tlpnetwork.com/news/america/nasa-selects-spacex-to-destroy-iss-in-2030" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX To Build Spacecraft To Destroy ISS in 2030's
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T093106">2024-06-27 09:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T100114">2024-06-27 10:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
