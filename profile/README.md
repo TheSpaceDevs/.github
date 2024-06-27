@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/nasa-will-pay-spacex-nearly-1-billion-to-deorbit-the-international-space-station/" >🔗</a> **[Arstechnica]** NASA will pay SpaceX nearly $1 billion to deorbit the International Space Station
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-10-years-of-human-spaceflights-next-pioneers/" >🔗</a> **[NASA]** NASA Celebrates 10 Years of Human Spaceflight’s NExT Pioneers
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/redesigned-ames-visitor-center-engages-kids-families/" >🔗</a> **[NASA]** Liftoff! Redesigned NASA Ames Visitor Center Engages Kids, Families
 - <a href="https://www.nasa.gov/missions/odyssey/nasas-mars-odyssey-captures-huge-volcano-nears-100000-orbits/" >🔗</a> **[NASA]** NASA’s Mars Odyssey Captures Huge Volcano, Nears 100,000 Orbits
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-engages-families-at-2024-stem-community-day/" >🔗</a> **[NASA]** NASA eClips Engages Families at 2024 STEM Community Day
 - <a href="https://spacenews.com/firefly-to-launch-alpha-rockets-from-esrange-in-sweden/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha rockets from Esrange in Sweden
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2024/06/us-and-india-advance-cooperation-on-space-and-technology/" >🔗</a> **[Space Scout]** US and India Advance Cooperation on Space and Technology
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Sergi_Inglada" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Sergi Inglada
 - <a href="https://europeanspaceflight.com/firefly-will-launch-its-alpha-rocket-from-esrange-in-sweden/" >🔗</a> **[European Spaceflight]** Firefly Will Launch its Alpha Rocket From Esrange in Sweden
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_tries_formation_flying_on_the_ground" >🔗</a> **[ESA]** Proba-3 tries formation flying on the ground
-- <a href="https://europeanspaceflight.com/pld-space-offers-free-flights-aboard-first-two-miura-5-flights/" >🔗</a> **[European Spaceflight]** PLD Space Offers Free Flights Aboard First Two Miura 5 Flights
-- <a href="https://www.esa.int/Space_Safety/Hera/Countdown_to_Hera_launch_campaign_begins_at_ESOC" >🔗</a> **[ESA]** Countdown to Hera: launch campaign begins at ESOC
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T170113">2024-06-27 17:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T173152">2024-06-27 17:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
