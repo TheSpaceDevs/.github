@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_tries_formation_flying_on_the_ground" >🔗</a> **[ESA]** Proba-3 tries formation flying on the ground
+- <a href="https://europeanspaceflight.com/pld-space-offers-free-flights-aboard-first-two-miura-5-flights/" >🔗</a> **[European Spaceflight]** PLD Space Offers Free Flights Aboard First Two Miura 5 Flights
 - <a href="https://www.esa.int/Space_Safety/Hera/Countdown_to_Hera_launch_campaign_begins_at_ESOC" >🔗</a> **[ESA]** Countdown to Hera: launch campaign begins at ESOC
 - <a href="https://spacenews.com/hydrosat-to-launch-its-first-thermal-infrared-sensor/" >🔗</a> **[SpaceNews]** Hydrosat to launch its first thermal infrared sensor
 - <a href="https://spacenews.com/china-to-launch-first-satellites-for-megaconstellation-in-august/" >🔗</a> **[SpaceNews]** China to launch first satellites for megaconstellation in August
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_reveals_inner_secrets_of_clouds" >🔗</a> **[ESA]** A first: EarthCARE reveals inner secrets of clouds
 - <a href="https://spacepolicyonline.com/news/nasa-picks-spacex-to-build-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** NASA Picks SpaceX To Build ISS Deorbit Vehicle
 - <a href="https://spaceflightnow.com/2024/06/27/live-coverage-spacex-to-launch-350th-falcon-9-rocket-on-starlink-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches 350th Falcon 9 rocket on a Starlink flight from Cape Canaveral
-- <a href="https://spacenews.com/planet-lays-off-17-of-workforce/" >🔗</a> **[SpaceNews]** Planet lays off 17% of workforce
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T130301">2024-06-27 13:03:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T133106">2024-06-27 13:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
