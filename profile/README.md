@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/06/27/investing-in-space-ula-needs-to-launch-second-vulcan-rocket.html" >🔗</a> **[CNBC]** Investing in Space: Why ULA needs to launch its second Vulcan rocket as soon as possible
+- <a href="https://spacenews.com/russian-satellite-breaks-up-creating-debris-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Russian satellite breaks up, creating debris in low Earth orbit
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-cargo-mission-support/" >🔗</a> **[NASA]** NASA Awards Contract for Cargo Mission Support
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-katie-burlingame-ethos-flight-controller-and-instructor-in-the-flight-operations-directorate/" >🔗</a> **[NASA]** Station Nation: Meet Katie Burlingame, ETHOS Flight Controller and Instructor in the Flight Operations Directorate
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-prepares-for-air-taxi-passenger-comfort-studies/" >🔗</a> **[NASA]** NASA Prepares for Air Taxi Passenger Comfort Studies
 - <a href="https://spacenews.com/viasat-to-supply-satellite-terminals-for-spains-maritime-surveillance-aircraft/" >🔗</a> **[SpaceNews]** Viasat to supply satellite terminals for Spain’s maritime surveillance aircraft
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-team-recognized-during-white-house-sustainability-awards/" >🔗</a> **[NASA]** NASA Kennedy Team Recognized During White House Sustainability Awards
 - <a href="https://www.nasaspaceflight.com/2024/06/starship-preparations-tower-catch-flight-5/" >🔗</a> **[NASASpaceflight]** Starship preparations point to possible tower catch attempt on Flight 5
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-pride-month-derek-bramble/" >🔗</a> **[NASA]** Langley Celebrates Pride Month: Derek Bramble
 - <a href="https://spacenews.com/beta-project-kuiper-broadband-services-pushed-to-early-2025/" >🔗</a> **[SpaceNews]** Beta Project Kuiper broadband services pushed to early 2025
-- <a href="https://science.nasa.gov/open-science/mars-mapping-open-source/" >🔗</a> **[NASA]** Mapping the Red Planet with the Power of Open Science
-- <a href="https://spacenews.com/brig-gen-kristin-l-panzenhagen-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Brig. Gen. Kristin L. Panzenhagen, United States Space Force – Leading Women in Space
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-parachute-sensor-testing-could-make-epic-mars-landings/" >🔗</a> **[NASA]** NASA Parachute Sensor Testing Could Make EPIC Mars Landings
-- <a href="https://arstechnica.com/space/2024/06/nasa-will-pay-spacex-nearly-1-billion-to-deorbit-the-international-space-station/" >🔗</a> **[Arstechnica]** NASA will pay SpaceX nearly $1 billion to deorbit the International Space Station
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-10-years-of-human-spaceflights-next-pioneers/" >🔗</a> **[NASA]** NASA Celebrates 10 Years of Human Spaceflight’s NExT Pioneers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T203058">2024-06-27 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T210113">2024-06-27 21:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
