@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-lays-off-17-of-workforce/" >🔗</a> **[SpaceNews]** Planet lays off 17% of workforce
 - <a href="https://spacenews.com/nasa-awards-spacex-contract-for-space-station-deorbit-vehicle/" >🔗</a> **[SpaceNews]** NASA awards SpaceX contract for space station deorbit vehicle
 - <a href="https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html" >🔗</a> **[CNBC]** SpaceX is building a NASA craft to intentionally destroy the International Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-26-2024/" >🔗</a> **[NASA]** The Marshall Star for June 26, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-space-shuttle-launch-pad-abort/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Space Shuttle Launch Pad Abort
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/detective-work-enables-perseverance-team-to-revive-sherloc-instrument/" >🔗</a> **[NASA]** Detective Work Enables Perseverance Team to Revive SHERLOC Instrument
 - <a href="https://www.nasa.gov/image-article/noaas-goes-u-satellite-launches/" >🔗</a> **[NASA]** NOAA’s GOES-U Satellite Launches
-- <a href="https://www.nasa.gov/news-release/nasa-advances-research-to-grow-habitats-in-space-from-fungi/" >🔗</a> **[NASA]** NASA Advances Research to Grow Habitats in Space from Fungi
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T000350">2024-06-27 00:03:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T004507">2024-06-27 00:45:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
