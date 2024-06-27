@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/asia/china-set-to-launch-first-satellites-forming-g60-starlink-constellation-in-early-august" >🔗</a> **[The Launch Pad]** China Set to Launch First Satellites Forming G60 Starlink Constellation in Early August
+- <a href="https://tlpnetwork.com/news/america/firefly-aerospace-to-launch-alpha-rocket-from-esrange-space-centre-in-2026" >🔗</a> **[The Launch Pad]** Firefly Aerospace to Launch Alpha Rocket from Sweden's Esrange Space Centre in 2026
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-commercial-crew-space-station-update/" >🔗</a> **[NASA]** NASA, Boeing to Provide Commercial Crew, Space Station Update
 - <a href="https://spacenews.com/russian-spy-satellite-reportedly-continues-suspicious-maneuvers/" >🔗</a> **[SpaceNews]** Russian spy satellite reportedly continues suspicious maneuvers
 - <a href="https://www.cnbc.com/2024/06/27/investing-in-space-ula-needs-to-launch-second-vulcan-rocket.html" >🔗</a> **[CNBC]** Investing in Space: Why ULA needs to launch its second Vulcan rocket as soon as possible
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-katie-burlingame-ethos-flight-controller-and-instructor-in-the-flight-operations-directorate/" >🔗</a> **[NASA]** Station Nation: Meet Katie Burlingame, ETHOS Flight Controller and Instructor in the Flight Operations Directorate
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-prepares-for-air-taxi-passenger-comfort-studies/" >🔗</a> **[NASA]** NASA Prepares for Air Taxi Passenger Comfort Studies
 - <a href="https://spacenews.com/viasat-to-supply-satellite-terminals-for-spains-maritime-surveillance-aircraft/" >🔗</a> **[SpaceNews]** Viasat to supply satellite terminals for Spain’s maritime surveillance aircraft
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-team-recognized-during-white-house-sustainability-awards/" >🔗</a> **[NASA]** NASA Kennedy Team Recognized During White House Sustainability Awards
-- <a href="https://www.nasaspaceflight.com/2024/06/starship-preparations-tower-catch-flight-5/" >🔗</a> **[NASASpaceflight]** Starship preparations point to possible tower catch attempt on Flight 5
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T230113">2024-06-27 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T233104">2024-06-27 23:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
