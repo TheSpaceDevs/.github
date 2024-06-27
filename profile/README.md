@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-pride-month-derek-bramble/" >🔗</a> **[NASA]** Langley Celebrates Pride Month: Derek Bramble
+- <a href="https://spacenews.com/beta-project-kuiper-broadband-services-pushed-to-early-2025/" >🔗</a> **[SpaceNews]** Beta Project Kuiper broadband services pushed to early 2025
+- <a href="https://science.nasa.gov/open-science/mars-mapping-open-source/" >🔗</a> **[NASA]** Mapping the Red Planet with the Power of Open Science
+- <a href="https://spacenews.com/brig-gen-kristin-l-panzenhagen-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Brig. Gen. Kristin L. Panzenhagen, United States Space Force – Leading Women in Space
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-parachute-sensor-testing-could-make-epic-mars-landings/" >🔗</a> **[NASA]** NASA Parachute Sensor Testing Could Make EPIC Mars Landings
 - <a href="https://arstechnica.com/space/2024/06/nasa-will-pay-spacex-nearly-1-billion-to-deorbit-the-international-space-station/" >🔗</a> **[Arstechnica]** NASA will pay SpaceX nearly $1 billion to deorbit the International Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-10-years-of-human-spaceflights-next-pioneers/" >🔗</a> **[NASA]** NASA Celebrates 10 Years of Human Spaceflight’s NExT Pioneers
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/redesigned-ames-visitor-center-engages-kids-families/" >🔗</a> **[NASA]** Liftoff! Redesigned NASA Ames Visitor Center Engages Kids, Families
 - <a href="https://www.nasa.gov/missions/odyssey/nasas-mars-odyssey-captures-huge-volcano-nears-100000-orbits/" >🔗</a> **[NASA]** NASA’s Mars Odyssey Captures Huge Volcano, Nears 100,000 Orbits
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-engages-families-at-2024-stem-community-day/" >🔗</a> **[NASA]** NASA eClips Engages Families at 2024 STEM Community Day
-- <a href="https://spacenews.com/firefly-to-launch-alpha-rockets-from-esrange-in-sweden/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha rockets from Esrange in Sweden
-- <a href="https://science.nasa.gov/science-research/heliophysics/alphabet-soup-nasas-gold-finds-surprising-c-x-shapes-in-atmosphere/" >🔗</a> **[NASA]** Alphabet Soup: NASA’s GOLD Finds Surprising C, X Shapes in Atmosphere
-- <a href="https://www.spacescout.info/2024/06/us-and-india-advance-cooperation-on-space-and-technology/" >🔗</a> **[Space Scout]** US and India Advance Cooperation on Space and Technology
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Sergi_Inglada" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Sergi Inglada
-- <a href="https://europeanspaceflight.com/firefly-will-launch-its-alpha-rocket-from-esrange-in-sweden/" >🔗</a> **[European Spaceflight]** Firefly Will Launch its Alpha Rocket From Esrange in Sweden
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T180118">2024-06-27 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T183239">2024-06-27 18:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
