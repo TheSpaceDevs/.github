@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-picks-spacex-to-build-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** NASA Picks SpaceX To Build ISS Deorbit Vehicle
 - <a href="https://spaceflightnow.com/2024/06/27/live-coverage-spacex-to-launch-350th-falcon-9-rocket-on-starlink-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 350th Falcon 9 rocket on a Starlink flight from Cape Canaveral
 - <a href="https://spacenews.com/planet-lays-off-17-of-workforce/" >🔗</a> **[SpaceNews]** Planet lays off 17% of workforce
 - <a href="https://spacenews.com/nasa-awards-spacex-contract-for-space-station-deorbit-vehicle/" >🔗</a> **[SpaceNews]** NASA awards SpaceX contract for space station deorbit vehicle
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-selects-spacex-to-destroy-iss-in-2030" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX To Build Spacecraft To Destroy ISS in 2030's
 - <a href="https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/" >🔗</a> **[NASA]** NASA Selects International Space Station US Deorbit Vehicle
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-space-shuttle-launch-pad-abort/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Space Shuttle Launch Pad Abort
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/detective-work-enables-perseverance-team-to-revive-sherloc-instrument/" >🔗</a> **[NASA]** Detective Work Enables Perseverance Team to Revive SHERLOC Instrument
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T040125">2024-06-27 04:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T043400">2024-06-27 04:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
