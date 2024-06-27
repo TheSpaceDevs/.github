@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/odyssey/nasas-mars-odyssey-captures-huge-volcano-nears-100000-orbits/" >🔗</a> **[NASA]** NASA’s Mars Odyssey Captures Huge Volcano, Nears 100,000 Orbits
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-engages-families-at-2024-stem-community-day/" >🔗</a> **[NASA]** NASA eClips Engages Families at 2024 STEM Community Day
 - <a href="https://spacenews.com/firefly-to-launch-alpha-rockets-from-esrange-in-sweden/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha rockets from Esrange in Sweden
 - <a href="https://science.nasa.gov/science-research/heliophysics/alphabet-soup-nasas-gold-finds-surprising-c-x-shapes-in-atmosphere/" >🔗</a> **[NASA]** Alphabet Soup: NASA’s GOLD Finds Surprising C, X Shapes in Atmosphere
 - <a href="https://www.spacescout.info/2024/06/us-and-india-advance-cooperation-on-space-and-technology/" >🔗</a> **[Space Scout]** US and India Advance Cooperation on Space and Technology
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_tries_formation_flying_on_the_ground" >🔗</a> **[ESA]** Proba-3 tries formation flying on the ground
 - <a href="https://europeanspaceflight.com/pld-space-offers-free-flights-aboard-first-two-miura-5-flights/" >🔗</a> **[European Spaceflight]** PLD Space Offers Free Flights Aboard First Two Miura 5 Flights
 - <a href="https://www.esa.int/Space_Safety/Hera/Countdown_to_Hera_launch_campaign_begins_at_ESOC" >🔗</a> **[ESA]** Countdown to Hera: launch campaign begins at ESOC
-- <a href="https://spacenews.com/hydrosat-to-launch-its-first-thermal-infrared-sensor/" >🔗</a> **[SpaceNews]** Hydrosat to launch its first thermal infrared sensor
-- <a href="https://spacenews.com/china-to-launch-first-satellites-for-megaconstellation-in-august/" >🔗</a> **[SpaceNews]** China to launch first satellites for megaconstellation in August
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T160122">2024-06-27 16:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T163355">2024-06-27 16:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
