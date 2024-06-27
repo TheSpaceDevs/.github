@@ -99,7 +99,7 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Proba-2_s_glimpse_of_home" >🔗</a> **[ESA]** Proba-2’s glimpse of home
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_reveals_inner_secrets_of_clouds" >🔗</a> **[ESA]** A first: EarthCARE reveals inner secrets of clouds
 - <a href="https://spacepolicyonline.com/news/nasa-picks-spacex-to-build-iss-deorbit-vehicle/" >🔗</a> **[SpacePolicyOnline.com]** NASA Picks SpaceX To Build ISS Deorbit Vehicle
-- <a href="https://spaceflightnow.com/2024/06/27/live-coverage-spacex-to-launch-350th-falcon-9-rocket-on-starlink-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 350th Falcon 9 rocket on a Starlink flight from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/06/27/live-coverage-spacex-to-launch-350th-falcon-9-rocket-on-starlink-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches 350th Falcon 9 rocket on a Starlink flight from Cape Canaveral
 - <a href="https://spacenews.com/planet-lays-off-17-of-workforce/" >🔗</a> **[SpaceNews]** Planet lays off 17% of workforce
 
 
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T120133">2024-06-27 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T124023">2024-06-27 12:40:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
