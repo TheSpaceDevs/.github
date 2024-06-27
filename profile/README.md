@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-to-launch-alpha-rockets-from-esrange-in-sweden/" >🔗</a> **[SpaceNews]** Firefly to launch Alpha rockets from Esrange in Sweden
+- <a href="https://science.nasa.gov/science-research/heliophysics/alphabet-soup-nasas-gold-finds-surprising-c-x-shapes-in-atmosphere/" >🔗</a> **[NASA]** Alphabet Soup: NASA’s GOLD Finds Surprising C, X Shapes in Atmosphere
+- <a href="https://www.spacescout.info/2024/06/us-and-india-advance-cooperation-on-space-and-technology/" >🔗</a> **[Space Scout]** US and India Advance Cooperation on Space and Technology
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Space_Team_Europe_for_Ariane_6_Sergi_Inglada" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Sergi Inglada
 - <a href="https://europeanspaceflight.com/firefly-will-launch-its-alpha-rocket-from-esrange-in-sweden/" >🔗</a> **[European Spaceflight]** Firefly Will Launch its Alpha Rocket From Esrange in Sweden
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_tries_formation_flying_on_the_ground" >🔗</a> **[ESA]** Proba-3 tries formation flying on the ground
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Space_Safety/Hera/Countdown_to_Hera_launch_campaign_begins_at_ESOC" >🔗</a> **[ESA]** Countdown to Hera: launch campaign begins at ESOC
 - <a href="https://spacenews.com/hydrosat-to-launch-its-first-thermal-infrared-sensor/" >🔗</a> **[SpaceNews]** Hydrosat to launch its first thermal infrared sensor
 - <a href="https://spacenews.com/china-to-launch-first-satellites-for-megaconstellation-in-august/" >🔗</a> **[SpaceNews]** China to launch first satellites for megaconstellation in August
-- <a href="https://spacenews.com/house-spending-bill-cuts-nasa-science-and-education-programs/" >🔗</a> **[SpaceNews]** House spending bill cuts NASA science and education programs
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Proba-2_s_glimpse_of_home" >🔗</a> **[ESA]** Proba-2’s glimpse of home
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_reveals_inner_secrets_of_clouds" >🔗</a> **[ESA]** A first: EarthCARE reveals inner secrets of clouds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T150120">2024-06-27 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240627T153102">2024-06-27 15:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
