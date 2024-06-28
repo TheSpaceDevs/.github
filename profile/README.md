@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/06/mere-days-before-its-debut-the-ariane-6-rocket-loses-a-key-customer-to-spacex/" >🔗</a> **[Arstechnica]** Mere days before its debut, the Ariane 6 rocket loses a key customer to SpaceX
 - <a href="https://www.nasa.gov/missions/station/inspa-news/" >🔗</a> **[NASA]** In Space Production Applications News
 - <a href="https://www.spacescout.info/2024/06/ula-provides-update-on-cert-2-mission/" >🔗</a> **[Space Scout]** ULA Provides Update on Cert-2 Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-my-library-and-partners-engage-millions-in-eclipse-training-and-preparation/" >🔗</a> **[NASA]** NASA@ My Library and Partners Engage Millions in Eclipse Training and Preparation
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/humans-in-space/nasa-shares-two-new-moon-to-mars-architecture-white-papers/" >🔗</a> **[NASA]** NASA Shares Two New Moon to Mars Architecture White Papers
 - <a href="https://spacenews.com/the-space-force-no-longer-has-the-luxury-of-time-it-needs-industry-help-to-stay-ahead/" >🔗</a> **[SpaceNews]** The Space Force no longer has the luxury of time. It needs industry help to stay ahead.
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/10_impact_craters_seen_from_space" >🔗</a> **[ESA]** 10 impact craters seen from space
-- <a href="https://spacenews.com/mda-space-receives-contract-for-next-phase-of-lunar-gateway-robotic-arm-development/" >🔗</a> **[SpaceNews]** MDA Space receives contract for next phase of lunar Gateway robotic arm development
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T173114">2024-06-28 17:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T180122">2024-06-28 18:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
