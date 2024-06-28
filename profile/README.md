@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/06/28/boeing-nasa-delays-starliner-further.html" >🔗</a> **[CNBC]** Boeing delays Starliner return by ‘weeks’ for testing, NASA says astronauts aren’t stranded
+- <a href="https://www.nasa.gov/image-article/the-maze-is-afoot/" >🔗</a> **[NASA]** The Maze is Afoot
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-opportunities-fuel-growth-and-entrepreneurship-for-bronco-space-club-students/" >🔗</a> **[NASA]** NASA Opportunities Fuel Growth and Entrepreneurship for Bronco Space Club Students
 - <a href="https://arstechnica.com/space/2024/06/mere-days-before-its-debut-the-ariane-6-rocket-loses-a-key-customer-to-spacex/" >🔗</a> **[Arstechnica]** Mere days before its debut, the Ariane 6 rocket loses a key customer to SpaceX
 - <a href="https://www.nasa.gov/missions/station/inspa-news/" >🔗</a> **[NASA]** In Space Production Applications News
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_June_2024" >🔗</a> **[ESA]** Week in images: 24-28 June 2024
 - <a href="https://science.nasa.gov/get-involved/citizen-science/an-eclipse-megamovie-megastar/" >🔗</a> **[NASA]** An Eclipse Megamovie Megastar
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Ariane_6_on_the_launch_pad_and_ready_for_liftoff" >🔗</a> **[ESA]** Ariane 6: on the launch pad and ready for liftoff
-- <a href="https://www.nasa.gov/humans-in-space/nasa-shares-two-new-moon-to-mars-architecture-white-papers/" >🔗</a> **[NASA]** NASA Shares Two New Moon to Mars Architecture White Papers
-- <a href="https://spacenews.com/the-space-force-no-longer-has-the-luxury-of-time-it-needs-industry-help-to-stay-ahead/" >🔗</a> **[SpaceNews]** The Space Force no longer has the luxury of time. It needs industry help to stay ahead.
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T190115">2024-06-28 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T193057">2024-06-28 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
