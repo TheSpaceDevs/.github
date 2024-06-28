@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_June_2024" >🔗</a> **[ESA]** Week in images: 24-28 June 2024
+- <a href="https://science.nasa.gov/get-involved/citizen-science/an-eclipse-megamovie-megastar/" >🔗</a> **[NASA]** An Eclipse Megamovie Megastar
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Ariane_6_on_the_launch_pad_and_ready_for_liftoff" >🔗</a> **[ESA]** Ariane 6: on the launch pad and ready for liftoff
 - <a href="https://www.nasa.gov/humans-in-space/nasa-shares-two-new-moon-to-mars-architecture-white-papers/" >🔗</a> **[NASA]** NASA Shares Two New Moon to Mars Architecture White Papers
 - <a href="https://spacenews.com/the-space-force-no-longer-has-the-luxury-of-time-it-needs-industry-help-to-stay-ahead/" >🔗</a> **[SpaceNews]** The Space Force no longer has the luxury of time. It needs industry help to stay ahead.
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/culture/2024/06/the-worlds-toughest-race-starts-saturday-and-its-delightfully-hard-to-call-this-year/" >🔗</a> **[Arstechnica]** The world’s toughest race starts Saturday, and it’s delightfully hard to call this year
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-an-active-galaxy-near-the-lions-heart/" >🔗</a> **[NASA]** Hubble Examines an Active Galaxy Near the Lion’s Heart
 - <a href="https://spacenews.com/china-gears-up-for-deep-space-missions-after-collecting-1935-grams-of-lunar-far-side-samples/" >🔗</a> **[SpaceNews]** China gears up for deep space missions after collecting 1,935 grams of lunar far side samples
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_LIFI_light-speed_secure_communications" >🔗</a> **[ESA]** Ariane 6 launches LIFI: light-speed secure communications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T143115">2024-06-28 14:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T150111">2024-06-28 15:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
