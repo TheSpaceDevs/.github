@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.spacescout.info/2024/06/ula-provides-update-on-cert-2-mission/" >🔗</a> **[Space Scout]** ULA Provides Update on Cert-2 Mission
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-my-library-and-partners-engage-millions-in-eclipse-training-and-preparation/" >🔗</a> **[NASA]** NASA@ My Library and Partners Engage Millions in Eclipse Training and Preparation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_June_2024" >🔗</a> **[ESA]** Week in images: 24-28 June 2024
 - <a href="https://science.nasa.gov/get-involved/citizen-science/an-eclipse-megamovie-megastar/" >🔗</a> **[NASA]** An Eclipse Megamovie Megastar
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Ariane_6_on_the_launch_pad_and_ready_for_liftoff" >🔗</a> **[ESA]** Ariane 6: on the launch pad and ready for liftoff
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/10_impact_craters_seen_from_space" >🔗</a> **[ESA]** 10 impact craters seen from space
 - <a href="https://spacenews.com/mda-space-receives-contract-for-next-phase-of-lunar-gateway-robotic-arm-development/" >🔗</a> **[SpaceNews]** MDA Space receives contract for next phase of lunar Gateway robotic arm development
 - <a href="https://arstechnica.com/culture/2024/06/the-worlds-toughest-race-starts-saturday-and-its-delightfully-hard-to-call-this-year/" >🔗</a> **[Arstechnica]** The world’s toughest race starts Saturday, and it’s delightfully hard to call this year
-- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-an-active-galaxy-near-the-lions-heart/" >🔗</a> **[NASA]** Hubble Examines an Active Galaxy Near the Lion’s Heart
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T160121">2024-06-28 16:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T163322">2024-06-28 16:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
