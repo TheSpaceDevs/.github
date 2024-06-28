@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/10_impact_craters_seen_from_space" >🔗</a> **[ESA]** 10 impact craters seen from space
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_LIFI_light-speed_secure_communications" >🔗</a> **[ESA]** Ariane 6 launches LIFI: light-speed secure communications
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Earth_from_Space_Meteor_Crater" >🔗</a> **[ESA]** Earth from Space: Meteor Crater
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q2" >🔗</a> **[ESA]** Take off with ESA Impact! Ariane 6 and astronaut news await
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/asia/china-set-to-launch-first-satellites-forming-g60-starlink-constellation-in-early-august" >🔗</a> **[The Launch Pad]** China Set to Launch First Satellites Forming G60 Starlink Constellation in Early August
 - <a href="https://tlpnetwork.com/news/america/firefly-aerospace-to-launch-alpha-rocket-from-esrange-space-centre-in-2026" >🔗</a> **[The Launch Pad]** Firefly Aerospace to Launch Alpha Rocket from Sweden's Esrange Space Centre in 2026
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-commercial-crew-space-station-update/" >🔗</a> **[NASA]** NASA, Boeing to Provide Commercial Crew, Space Station Update
-- <a href="https://spacenews.com/russian-spy-satellite-reportedly-continues-suspicious-maneuvers/" >🔗</a> **[SpaceNews]** Russian spy satellite reportedly continues suspicious maneuvers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T100116">2024-06-28 10:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T103311">2024-06-28 10:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
