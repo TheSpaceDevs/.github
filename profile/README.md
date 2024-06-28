@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q2" >🔗</a> **[ESA]** Take off with ESA Impact! Ariane 6 and astronaut news await
+- <a href="https://europeanspaceflight.com/cnes-chief-responds-harshly-to-eumetsats-decision-to-ditch-ariane-6/" >🔗</a> **[European Spaceflight]** CNES Chief Responds Harshly to Eumetsat’s Decision to Ditch Ariane 6
 - <a href="https://science.nasa.gov/blogs/sols-4226-4228-a-powerful-balancing-act/" >🔗</a> **[NASA]** Sols 4226-4228: A Powerful Balancing Act
 - <a href="https://science.nasa.gov/blogs/interesting-rock-textures-galore-at-bright-angel/" >🔗</a> **[NASA]** Interesting Rock Textures Galore at Bright Angel
 - <a href="https://tlpnetwork.com/news/asia/china-set-to-launch-first-satellites-forming-g60-starlink-constellation-in-early-august" >🔗</a> **[The Launch Pad]** China Set to Launch First Satellites Forming G60 Starlink Constellation in Early August
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/russian-spy-satellite-reportedly-continues-suspicious-maneuvers/" >🔗</a> **[SpaceNews]** Russian spy satellite reportedly continues suspicious maneuvers
 - <a href="https://www.cnbc.com/2024/06/27/investing-in-space-ula-needs-to-launch-second-vulcan-rocket.html" >🔗</a> **[CNBC]** Investing in Space: Why ULA needs to launch its second Vulcan rocket as soon as possible
 - <a href="https://spacenews.com/russian-satellite-breaks-up-creating-debris-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Russian satellite breaks up, creating debris in low Earth orbit
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-cargo-mission-support/" >🔗</a> **[NASA]** NASA Awards Contract for Cargo Mission Support
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-katie-burlingame-ethos-flight-controller-and-instructor-in-the-flight-operations-directorate/" >🔗</a> **[NASA]** Station Nation: Meet Katie Burlingame, ETHOS Flight Controller and Instructor in the Flight Operations Directorate
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T073055">2024-06-28 07:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T080126">2024-06-28 08:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
