@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4226-4228-a-powerful-balancing-act/" >🔗</a> **[NASA]** Sols 4226-4228: A Powerful Balancing Act
+- <a href="https://science.nasa.gov/blogs/interesting-rock-textures-galore-at-bright-angel/" >🔗</a> **[NASA]** Interesting Rock Textures Galore at Bright Angel
 - <a href="https://tlpnetwork.com/news/asia/china-set-to-launch-first-satellites-forming-g60-starlink-constellation-in-early-august" >🔗</a> **[The Launch Pad]** China Set to Launch First Satellites Forming G60 Starlink Constellation in Early August
 - <a href="https://tlpnetwork.com/news/america/firefly-aerospace-to-launch-alpha-rocket-from-esrange-space-centre-in-2026" >🔗</a> **[The Launch Pad]** Firefly Aerospace to Launch Alpha Rocket from Sweden's Esrange Space Centre in 2026
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-commercial-crew-space-station-update/" >🔗</a> **[NASA]** NASA, Boeing to Provide Commercial Crew, Space Station Update
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/russian-satellite-breaks-up-creating-debris-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Russian satellite breaks up, creating debris in low Earth orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-cargo-mission-support/" >🔗</a> **[NASA]** NASA Awards Contract for Cargo Mission Support
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-katie-burlingame-ethos-flight-controller-and-instructor-in-the-flight-operations-directorate/" >🔗</a> **[NASA]** Station Nation: Meet Katie Burlingame, ETHOS Flight Controller and Instructor in the Flight Operations Directorate
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-prepares-for-air-taxi-passenger-comfort-studies/" >🔗</a> **[NASA]** NASA Prepares for Air Taxi Passenger Comfort Studies
-- <a href="https://spacenews.com/viasat-to-supply-satellite-terminals-for-spains-maritime-surveillance-aircraft/" >🔗</a> **[SpaceNews]** Viasat to supply satellite terminals for Spain’s maritime surveillance aircraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T040128">2024-06-28 04:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T043221">2024-06-28 04:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
