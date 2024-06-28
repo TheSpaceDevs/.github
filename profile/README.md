@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Ariane_6_on_the_launch_pad_and_ready_for_liftoff" >🔗</a> **[ESA]** Ariane 6: on the launch pad and ready for liftoff
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/10_impact_craters_seen_from_space" >🔗</a> **[ESA]** 10 impact craters seen from space
+- <a href="https://arstechnica.com/culture/2024/06/the-worlds-toughest-race-starts-saturday-and-its-delightfully-hard-to-call-this-year/" >🔗</a> **[Arstechnica]** The world’s toughest race starts Saturday, and it’s delightfully hard to call this year
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-an-active-galaxy-near-the-lions-heart/" >🔗</a> **[NASA]** Hubble Examines an Active Galaxy Near the Lion’s Heart
+- <a href="https://spacenews.com/china-gears-up-for-deep-space-missions-after-collecting-1935-grams-of-lunar-far-side-samples/" >🔗</a> **[SpaceNews]** China gears up for deep space missions after collecting 1,935 grams of lunar far side samples
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_LIFI_light-speed_secure_communications" >🔗</a> **[ESA]** Ariane 6 launches LIFI: light-speed secure communications
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/06/Earth_from_Space_Meteor_Crater" >🔗</a> **[ESA]** Earth from Space: Meteor Crater
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q2" >🔗</a> **[ESA]** Take off with ESA Impact! Ariane 6 and astronaut news await
 - <a href="https://europeanspaceflight.com/cnes-chief-responds-harshly-to-eumetsats-decision-to-ditch-ariane-6/" >🔗</a> **[European Spaceflight]** CNES Chief Responds Harshly to Eumetsat’s Decision to Ditch Ariane 6
 - <a href="https://science.nasa.gov/blogs/sols-4226-4228-a-powerful-balancing-act/" >🔗</a> **[NASA]** Sols 4226-4228: A Powerful Balancing Act
-- <a href="https://science.nasa.gov/blogs/interesting-rock-textures-galore-at-bright-angel/" >🔗</a> **[NASA]** Interesting Rock Textures Galore at Bright Angel
-- <a href="https://tlpnetwork.com/news/asia/china-set-to-launch-first-satellites-forming-g60-starlink-constellation-in-early-august" >🔗</a> **[The Launch Pad]** China Set to Launch First Satellites Forming G60 Starlink Constellation in Early August
-- <a href="https://tlpnetwork.com/news/america/firefly-aerospace-to-launch-alpha-rocket-from-esrange-space-centre-in-2026" >🔗</a> **[The Launch Pad]** Firefly Aerospace to Launch Alpha Rocket from Sweden's Esrange Space Centre in 2026
-- <a href="https://www.nasa.gov/news-release/nasa-boeing-to-provide-commercial-crew-space-station-update/" >🔗</a> **[NASA]** NASA, Boeing to Provide Commercial Crew, Space Station Update
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T110121">2024-06-28 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T113104">2024-06-28 11:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
