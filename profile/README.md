@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-infrared-telescope-facility-operations/" >🔗</a> **[NASA]** NASA Awards Contract for Infrared Telescope Facility Operations
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-of-inaugural-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners of Inaugural Human Lander Challenge
 - <a href="https://www.cnbc.com/2024/06/28/boeing-nasa-delays-starliner-further.html" >🔗</a> **[CNBC]** Boeing delays Starliner return by ‘weeks’ for testing, NASA says astronauts aren’t stranded
 - <a href="https://www.nasa.gov/image-article/the-maze-is-afoot/" >🔗</a> **[NASA]** The Maze is Afoot
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-opportunities-fuel-growth-and-entrepreneurship-for-bronco-space-club-students/" >🔗</a> **[NASA]** NASA Opportunities Fuel Growth and Entrepreneurship for Bronco Space Club Students
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2024/06/ula-provides-update-on-cert-2-mission/" >🔗</a> **[Space Scout]** ULA Provides Update on Cert-2 Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-my-library-and-partners-engage-millions-in-eclipse-training-and-preparation/" >🔗</a> **[NASA]** NASA@ My Library and Partners Engage Millions in Eclipse Training and Preparation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_June_2024" >🔗</a> **[ESA]** Week in images: 24-28 June 2024
-- <a href="https://science.nasa.gov/get-involved/citizen-science/an-eclipse-megamovie-megastar/" >🔗</a> **[NASA]** An Eclipse Megamovie Megastar
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Ariane_6_on_the_launch_pad_and_ready_for_liftoff" >🔗</a> **[ESA]** Ariane 6: on the launch pad and ready for liftoff
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T203102">2024-06-28 20:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240628T210117">2024-06-28 21:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
