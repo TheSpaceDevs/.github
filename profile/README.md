@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/06/29/live-coverage-spacex-to-launch-multiple-satellites-for-the-nro-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch multiple satellites for the NRO from Vandenberg Space Force Base
 - <a href="https://spaceflightnow.com/2024/06/29/starliner-landing-now-on-indefinite-hold-for-more-tests-but-nasa-insists-crew-not-stranded-in-space/" >🔗</a> **[Spaceflight Now]** Starliner landing now on indefinite hold for more tests, but NASA insists crew not ‘stranded’ in space
 - <a href="https://spacenews.com/prize-winner-wants-to-detect-asteroids-coming-from-suns-direction/" >🔗</a> **[SpaceNews]** Prize winner wants to detect asteroids coming from sun’s direction
 - <a href="https://spacenews.com/starliner-to-remain-on-iss-for-more-thruster-tests/" >🔗</a> **[SpaceNews]** Starliner to remain on ISS for more thruster tests
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-of-inaugural-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners of Inaugural Human Lander Challenge
 - <a href="https://www.cnbc.com/2024/06/28/boeing-nasa-delays-starliner-further.html" >🔗</a> **[CNBC]** Boeing delays Starliner return by ‘weeks’ for testing, NASA says astronauts aren’t stranded
 - <a href="https://www.nasa.gov/image-article/the-maze-is-afoot/" >🔗</a> **[NASA]** The Maze is Afoot
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-opportunities-fuel-growth-and-entrepreneurship-for-bronco-space-club-students/" >🔗</a> **[NASA]** NASA Opportunities Fuel Growth and Entrepreneurship for Bronco Space Club Students
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T023711">2024-06-29 02:37:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T030120">2024-06-29 03:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
