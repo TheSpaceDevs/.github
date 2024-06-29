@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-nros-second-batch-of-small-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second batch of satellites for NRO’s proliferated constellation
 - <a href="https://europeanspaceflight.com/the-french-government-funds-commercial-in-orbit-serving-missions/" >🔗</a> **[European Spaceflight]** The French Government Funds Commercial In-Orbit Serving Missions
 - <a href="https://spacepolicyonline.com/news/date-for-boeing-starliner-cft-return-still-up-in-the-air/" >🔗</a> **[SpacePolicyOnline.com]** Date for Boeing Starliner CFT Return Still Up in the Air
 - <a href="https://spaceflightnow.com/2024/06/29/live-coverage-spacex-to-launch-multiple-satellites-for-the-nro-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches multiple satellites for the NRO from Vandenberg Space Force Base
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/house-passes-fy2025-defense-appropriations-bill-on-largely-partisan-lines/" >🔗</a> **[SpacePolicyOnline.com]** House Passes FY2025 Defense Appropriations Bill on Largely Partisan Lines
 - <a href="https://spacenews.com/military-space-trackers-to-keep-public-informed-on-starlink-satellite-reentries/" >🔗</a> **[SpaceNews]** Military space trackers to keep public informed on Starlink satellite reentries
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-infrared-telescope-facility-operations/" >🔗</a> **[NASA]** NASA Awards Contract for Infrared Telescope Facility Operations
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-of-inaugural-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners of Inaugural Human Lander Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T090120">2024-06-29 09:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T093105">2024-06-29 09:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
