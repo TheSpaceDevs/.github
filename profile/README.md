@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eumetsat-moves-weather-satellite-from-ariane-6-to-falcon-9/" >🔗</a> **[SpaceNews]** Eumetsat moves weather satellite from Ariane 6 to Falcon 9
 - <a href="https://spacenews.com/spacex-launches-nros-second-batch-of-small-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second batch of satellites for NRO’s proliferated constellation
 - <a href="https://europeanspaceflight.com/the-french-government-funds-commercial-in-orbit-serving-missions/" >🔗</a> **[European Spaceflight]** The French Government Funds Commercial In-Orbit Serving Missions
 - <a href="https://spacepolicyonline.com/news/date-for-boeing-starliner-cft-return-still-up-in-the-air/" >🔗</a> **[SpacePolicyOnline.com]** Date for Boeing Starliner CFT Return Still Up in the Air
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/starliner-to-remain-on-iss-for-more-thruster-tests/" >🔗</a> **[SpaceNews]** Starliner to remain on ISS for more thruster tests
 - <a href="https://spacepolicyonline.com/news/house-passes-fy2025-defense-appropriations-bill-on-largely-partisan-lines/" >🔗</a> **[SpacePolicyOnline.com]** House Passes FY2025 Defense Appropriations Bill on Largely Partisan Lines
 - <a href="https://spacenews.com/military-space-trackers-to-keep-public-informed-on-starlink-satellite-reentries/" >🔗</a> **[SpaceNews]** Military space trackers to keep public informed on Starlink satellite reentries
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-infrared-telescope-facility-operations/" >🔗</a> **[NASA]** NASA Awards Contract for Infrared Telescope Facility Operations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T170106">2024-06-29 17:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240629T173101">2024-06-29 17:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
