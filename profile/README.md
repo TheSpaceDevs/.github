@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/vulcan-centaur-cert-2-mission-to-launch-inert-payload-sierra-space-dream-chaser-demo-delayed" >🔗</a> **[The Launch Pad]** Vulcan Centaur’s Cert-2 Mission to Launch Inert Payload, Sierra Space Dream Chaser Demo Delayed
+- <a href="https://tlpnetwork.com/news/america/mds-space-secures-1b-contract-from-canadian-space-agency-for-lunar-gateway-robotic-arm" >🔗</a> **[The Launch Pad]** MDA Space Secures $1B Contract from Canadian Space Agency for Lunar Gateway Robotic Arm
 - <a href="https://tlpnetwork.com/news/europe/eumetsat-switches-weather-satellite-launch-from-ariane-6-to-falcon-9" >🔗</a> **[The Launch Pad]** Eumetsat Switches Weather Satellite Launch from Ariane 6 to Falcon 9
 - <a href="https://www.spacescout.info/2024/06/asteroid-day-2024-a-plethora-of-new-insights/" >🔗</a> **[Space Scout]** Asteroid Day 2024: A Plethora of New Insights
 - <a href="https://tlpnetwork.com/news/asia/static-fire-test-failure-launches-space-pioneer-tianlong-3-rocket" >🔗</a> **[The Launch Pad]** Static Fire Test Failure Launches Space Pioneer's Tianlong 3 Rocket
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/spacex-launches-nros-second-batch-of-small-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second batch of satellites for NRO’s proliferated constellation
 - <a href="https://europeanspaceflight.com/the-french-government-funds-commercial-in-orbit-serving-missions/" >🔗</a> **[European Spaceflight]** The French Government Funds Commercial In-Orbit Serving Missions
 - <a href="https://spacepolicyonline.com/news/date-for-boeing-starliner-cft-return-still-up-in-the-air/" >🔗</a> **[SpacePolicyOnline.com]** Date for Boeing Starliner CFT Return Still Up in the Air
-- <a href="https://spaceflightnow.com/2024/06/29/live-coverage-spacex-to-launch-multiple-satellites-for-the-nro-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches multiple satellites for the NRO from Vandenberg Space Force Base
-- <a href="https://spaceflightnow.com/2024/06/29/starliner-landing-now-on-indefinite-hold-for-more-tests-but-nasa-insists-crew-not-stranded-in-space/" >🔗</a> **[Spaceflight Now]** Starliner landing now on indefinite hold for more tests, but NASA insists crew not ‘stranded’ in space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T190112">2024-06-30 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T193109">2024-06-30 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
