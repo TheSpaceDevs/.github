@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/eumetsat-switches-weather-satellite-launch-from-ariane-6-to-falcon-9" >🔗</a> **[The Launch Pad]** Eumetsat Switches Weather Satellite Launch from Ariane 6 to Falcon 9
 - <a href="https://www.spacescout.info/2024/06/asteroid-day-2024-a-plethora-of-new-insights/" >🔗</a> **[Space Scout]** Asteroid Day 2024: A Plethora of New Insights
 - <a href="https://tlpnetwork.com/news/asia/static-fire-test-failure-launches-space-pioneer-tianlong-3-rocket" >🔗</a> **[The Launch Pad]** Static Fire Test Failure Launches Space Pioneer's Tianlong 3 Rocket
 - <a href="https://spacenews.com/chinese-rocket-static-fire-test-results-in-unintended-launch-and-huge-explosion/" >🔗</a> **[SpaceNews]** Chinese rocket static-fire test results in unintended launch and huge explosion
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/date-for-boeing-starliner-cft-return-still-up-in-the-air/" >🔗</a> **[SpacePolicyOnline.com]** Date for Boeing Starliner CFT Return Still Up in the Air
 - <a href="https://spaceflightnow.com/2024/06/29/live-coverage-spacex-to-launch-multiple-satellites-for-the-nro-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches multiple satellites for the NRO from Vandenberg Space Force Base
 - <a href="https://spaceflightnow.com/2024/06/29/starliner-landing-now-on-indefinite-hold-for-more-tests-but-nasa-insists-crew-not-stranded-in-space/" >🔗</a> **[Spaceflight Now]** Starliner landing now on indefinite hold for more tests, but NASA insists crew not ‘stranded’ in space
-- <a href="https://spacenews.com/prize-winner-wants-to-detect-asteroids-coming-from-suns-direction/" >🔗</a> **[SpaceNews]** Prize winner wants to detect asteroids coming from sun’s direction
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T180138">2024-06-30 18:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240630T183311">2024-06-30 18:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
