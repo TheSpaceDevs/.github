@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-upgraded-hyperwall-offers-improved-data-visualization/" >🔗</a> **[NASA]** NASA’s Upgraded Hyperwall Offers Improved Data Visualization
 - <a href="https://www.spacescout.info/2024/07/h3-launches-alos-4-earth-observation-satellite/" >🔗</a> **[Space Scout]** H3 Launches ALOS-4 Earth Observation Satellite
 - <a href="https://www.nasa.gov/news-release/nasa-awards-support-stem-research-at-minority-serving-institutions/" >🔗</a> **[NASA]** NASA Awards Support STEM Research at Minority Serving Institutions
 - <a href="https://science.nasa.gov/missions/artemis/behind-the-scenes-of-a-nasa-moonwalk-in-the-arizona-desert/" >🔗</a> **[NASA]** Behind the Scenes of a NASA ‘Moonwalk’ in the Arizona Desert
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/turion-wins-space-force-contract-for-debris-capture-technology/" >🔗</a> **[SpaceNews]** Turion wins Space Force contract for debris-capture technology
 - <a href="https://spacenews.com/transferring-the-international-space-station-into-the-future/" >🔗</a> **[SpaceNews]** Transferring the International Space Station into the future
 - <a href="https://arstechnica.com/space/2024/07/chinese-space-firm-unintentionally-launches-its-new-rocket/" >🔗</a> **[Arstechnica]** Chinese space firm unintentionally launches its new rocket
-- <a href="https://spacenews.com/spacex-to-launch-yahsat-satellites/" >🔗</a> **[SpaceNews]** SpaceX to launch Yahsat satellites
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T193111">2024-07-01 19:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T200137">2024-07-01 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
