@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/07/firefly-noise-of-summer/" >🔗</a> **[NASASpaceflight]** Firefly set to launch Alpha on Noise of Summer mission
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-upgraded-hyperwall-offers-improved-data-visualization/" >🔗</a> **[NASA]** NASA’s Upgraded Hyperwall Offers Improved Data Visualization
 - <a href="https://www.spacescout.info/2024/07/h3-launches-alos-4-earth-observation-satellite/" >🔗</a> **[Space Scout]** H3 Launches ALOS-4 Earth Observation Satellite
 - <a href="https://www.nasa.gov/news-release/nasa-awards-support-stem-research-at-minority-serving-institutions/" >🔗</a> **[NASA]** NASA Awards Support STEM Research at Minority Serving Institutions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/poland-to-launch-key-suborbital-rocket-test-flight-from-norway/" >🔗</a> **[European Spaceflight]** Poland to Launch Key Suborbital Rocket Test Flight from Norway
 - <a href="https://spacenews.com/turion-wins-space-force-contract-for-debris-capture-technology/" >🔗</a> **[SpaceNews]** Turion wins Space Force contract for debris-capture technology
 - <a href="https://spacenews.com/transferring-the-international-space-station-into-the-future/" >🔗</a> **[SpaceNews]** Transferring the International Space Station into the future
-- <a href="https://arstechnica.com/space/2024/07/chinese-space-firm-unintentionally-launches-its-new-rocket/" >🔗</a> **[Arstechnica]** Chinese space firm unintentionally launches its new rocket
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T203058">2024-07-01 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T210123">2024-07-01 21:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
