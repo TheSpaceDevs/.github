@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-spacex-studying-ways-to-mitigate-dragon-trunk-debris/" >🔗</a> **[SpaceNews]** NASA and SpaceX studying ways to mitigate Dragon trunk debris
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-30-july-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 30-July 13, 2024
 - <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-broadband-services-delayed-to-2025" >🔗</a> **[The Launch Pad]** Amazon's Project Kuiper Broadband Services Delayed to 2025
 - <a href="https://tlpnetwork.com/news/america/urban-sky-secures-nasa-grant-for-wildfire-monitoring-system-using-stratospheric-balloons" >🔗</a> **[The Launch Pad]** Urban Sky Secures NASA Grant for Wildfire Monitoring System Using Stratospheric Balloons
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacescout.info/2024/06/asteroid-day-2024-a-plethora-of-new-insights/" >🔗</a> **[Space Scout]** Asteroid Day 2024: A Plethora of New Insights
 - <a href="https://tlpnetwork.com/news/asia/static-fire-test-failure-launches-space-pioneer-tianlong-3-rocket" >🔗</a> **[The Launch Pad]** Static Fire Test Failure Launches Space Pioneer's Tianlong 3 Rocket
 - <a href="https://spacenews.com/chinese-rocket-static-fire-test-results-in-unintended-launch-and-huge-explosion/" >🔗</a> **[SpaceNews]** Chinese rocket static-fire test results in unintended launch and huge explosion
-- <a href="https://spacenews.com/eumetsat-moves-weather-satellite-from-ariane-6-to-falcon-9/" >🔗</a> **[SpaceNews]** Eumetsat moves weather satellite from Ariane 6 to Falcon 9
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T000418">2024-07-01 00:04:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T004526">2024-07-01 00:45:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
