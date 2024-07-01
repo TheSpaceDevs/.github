@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Happy_launch_anniversary_Euclid!" >🔗</a> **[ESA]** Happy launch anniversary, Euclid!
+- <a href="https://spacenews.com/h3-launches-alos-4-advanced-earth-observation-satellite/" >🔗</a> **[SpaceNews]** H3 launches ALOS-4 advanced Earth observation satellite
 - <a href="https://spacenews.com/nasa-and-spacex-studying-ways-to-mitigate-dragon-trunk-debris/" >🔗</a> **[SpaceNews]** NASA and SpaceX studying ways to mitigate Dragon trunk debris
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-30-july-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 30-July 13, 2024
 - <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-broadband-services-delayed-to-2025" >🔗</a> **[The Launch Pad]** Amazon's Project Kuiper Broadband Services Delayed to 2025
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/mds-space-secures-1b-contract-from-canadian-space-agency-for-lunar-gateway-robotic-arm" >🔗</a> **[The Launch Pad]** MDA Space Secures $1B Contract from Canadian Space Agency for Lunar Gateway Robotic Arm
 - <a href="https://tlpnetwork.com/news/europe/eumetsat-switches-weather-satellite-launch-from-ariane-6-to-falcon-9" >🔗</a> **[The Launch Pad]** Eumetsat Switches Weather Satellite Launch from Ariane 6 to Falcon 9
 - <a href="https://www.spacescout.info/2024/06/asteroid-day-2024-a-plethora-of-new-insights/" >🔗</a> **[Space Scout]** Asteroid Day 2024: A Plethora of New Insights
-- <a href="https://tlpnetwork.com/news/asia/static-fire-test-failure-launches-space-pioneer-tianlong-3-rocket" >🔗</a> **[The Launch Pad]** Static Fire Test Failure Launches Space Pioneer's Tianlong 3 Rocket
-- <a href="https://spacenews.com/chinese-rocket-static-fire-test-results-in-unintended-launch-and-huge-explosion/" >🔗</a> **[SpaceNews]** Chinese rocket static-fire test results in unintended launch and huge explosion
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T090125">2024-07-01 09:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T093230">2024-07-01 09:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
