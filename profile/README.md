@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Katherine_Bennell-Pegg" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Katherine Bennell-Pegg
 - <a href="https://europeanspaceflight.com/poland-to-launch-key-suborbital-rocket-test-flight-from-norway/" >🔗</a> **[European Spaceflight]** Poland to Launch Key Suborbital Rocket Test Flight from Norway
 - <a href="https://spacenews.com/turion-wins-space-force-contract-for-debris-capture-technology/" >🔗</a> **[SpaceNews]** Turion wins Space Force contract for debris-capture technology
 - <a href="https://spacenews.com/transferring-the-international-space-station-into-the-future/" >🔗</a> **[SpaceNews]** Transferring the International Space Station into the future
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/h3-launches-alos-4-advanced-earth-observation-satellite/" >🔗</a> **[SpaceNews]** H3 launches ALOS-4 advanced Earth observation satellite
 - <a href="https://spacenews.com/nasa-and-spacex-studying-ways-to-mitigate-dragon-trunk-debris/" >🔗</a> **[SpaceNews]** NASA and SpaceX studying ways to mitigate Dragon trunk debris
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-30-july-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 30-July 13, 2024
-- <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-broadband-services-delayed-to-2025" >🔗</a> **[The Launch Pad]** Amazon's Project Kuiper Broadband Services Delayed to 2025
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T133110">2024-07-01 13:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T140124">2024-07-01 14:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
