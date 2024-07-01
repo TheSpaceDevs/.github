@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Katherine_Bennell-Pegg" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Katherine Bennell-Pegg
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s 21st Station Resupply Launch
 - <a href="https://europeanspaceflight.com/poland-to-launch-key-suborbital-rocket-test-flight-from-norway/" >🔗</a> **[European Spaceflight]** Poland to Launch Key Suborbital Rocket Test Flight from Norway
 - <a href="https://spacenews.com/turion-wins-space-force-contract-for-debris-capture-technology/" >🔗</a> **[SpaceNews]** Turion wins Space Force contract for debris-capture technology
 - <a href="https://spacenews.com/transferring-the-international-space-station-into-the-future/" >🔗</a> **[SpaceNews]** Transferring the International Space Station into the future
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/06/Happy_launch_anniversary_Euclid!" >🔗</a> **[ESA]** Happy launch anniversary, Euclid!
 - <a href="https://spacenews.com/h3-launches-alos-4-advanced-earth-observation-satellite/" >🔗</a> **[SpaceNews]** H3 launches ALOS-4 advanced Earth observation satellite
 - <a href="https://spacenews.com/nasa-and-spacex-studying-ways-to-mitigate-dragon-trunk-debris/" >🔗</a> **[SpaceNews]** NASA and SpaceX studying ways to mitigate Dragon trunk debris
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-30-july-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 30-July 13, 2024
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T150122">2024-07-01 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T153057">2024-07-01 15:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
