@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europes-space-funding-gap-threatens-industry-potential/" >🔗</a> **[SpaceNews]** Europe’s space funding gap threatens industry potential
 - <a href="https://science.nasa.gov/blogs/sols-4229-4231-more-analyses-of-the-mammoth-lakes-2-sample/" >🔗</a> **[NASA]** Sols 4229-4231: More Analyses of the Mammoth Lakes 2 Sample!
 - <a href="https://www.nasa.gov/missions/neowise/nasas-neowise-infrared-heritage-will-live-on/" >🔗</a> **[NASA]** NASA’s NEOWISE Infrared Heritage Will Live On
 - <a href="https://www.nasa.gov/image-article/cassini-sees-saturn/" >🔗</a> **[NASA]** Cassini Sees Saturn
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-support-stem-research-at-minority-serving-institutions/" >🔗</a> **[NASA]** NASA Awards Support STEM Research at Minority Serving Institutions
 - <a href="https://science.nasa.gov/missions/artemis/behind-the-scenes-of-a-nasa-moonwalk-in-the-arizona-desert/" >🔗</a> **[NASA]** Behind the Scenes of a NASA ‘Moonwalk’ in the Arizona Desert
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Katherine_Bennell-Pegg" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Katherine Bennell-Pegg
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s 21st Station Resupply Launch
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240701T233103">2024-07-01 23:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T000350">2024-07-02 00:03:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
