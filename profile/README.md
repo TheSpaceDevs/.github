@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/success-for-historic-in-space-mission/" >🔗</a> **[NASA]** NASA Stennis Achieves Primary Success for Historic In-Space Mission
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mission-success-hera-crew-successfully-completes-45-day-simulated-journey-to-mars/" >🔗</a> **[NASA]** Mission Success: HERA Crew Successfully Completes 45-Day Simulated Journey to Mars
 - <a href="https://europeanspaceflight.com/sidereus-space-dynamics-complete-integrated-static-fire-test/" >🔗</a> **[European Spaceflight]** Sidereus Space Dynamics Complete Integrated Static Fire Test
 - <a href="https://spacenews.com/orbit-fab-completes-ground-test-of-satellite-fueling-payload/" >🔗</a> **[SpaceNews]** Orbit Fab completes ground test of satellite fueling payload
 - <a href="https://spacenews.com/innospace-shares-tumble-in-stock-market-debut/" >🔗</a> **[SpaceNews]** Innospace shares tumble in stock market debut
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Ground equipment issue scrubs Firefly’s 5th Alpha launch of 8 CubeSats for NASA
 - <a href="https://www.nasaspaceflight.com/2024/07/spacex-q2/" >🔗</a> **[NASASpaceflight]** SpaceX continues record-breaking year with Starship’s full success and Falcon milestones
 - <a href="https://spacenews.com/europes-space-funding-gap-threatens-industry-potential/" >🔗</a> **[SpaceNews]** Europe’s space funding gap threatens industry potential
-- <a href="https://science.nasa.gov/blogs/sols-4229-4231-more-analyses-of-the-mammoth-lakes-2-sample/" >🔗</a> **[NASA]** Sols 4229-4231: More Analyses of the Mammoth Lakes 2 Sample!
-- <a href="https://www.nasa.gov/missions/neowise/nasas-neowise-infrared-heritage-will-live-on/" >🔗</a> **[NASA]** NASA’s NEOWISE Infrared Heritage Will Live On
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T120203">2024-07-02 12:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T123943">2024-07-02 12:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
