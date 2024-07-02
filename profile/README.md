@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/studying-hurricane-beryl-from-space/" >🔗</a> **[NASA]** Studying Hurricane Beryl from Space
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-july-2024/" >🔗</a> **[NASA]** Lagniappe for July 2024
 - <a href="https://www.nasa.gov/image-article/chris-barnett-woods-nasa-engineer/" >🔗</a> **[NASA]** How a NASA Engineer Supports the Commercialization of Space
 - <a href="https://www.nasa.gov/general/interview-with-xinchuan-huang/" >🔗</a> **[NASA]** Interview with Xinchuan Huang
 - <a href="https://spaceflightnow.com/2024/07/02/live-coverage-spacex-to-launch-100th-direct-to-cell-starlink-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Direct to Cell Starlink satellite on Falcon 9 flight from Cape Canaveral
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/orbit-fab-achieves-milestone-in-in-space-refueling-with-successful-grip-test" >🔗</a> **[The Launch Pad]** Orbit Fab Achieves Milestone in In-Space Refueling with Successful GRIP Test
 - <a href="https://www.nasa.gov/news-release/nasas-boeing-test-flight-crew-to-discuss-starliner-mission-from-space/" >🔗</a> **[NASA]** NASA’s Boeing Test Flight Crew to Discuss Starliner Mission from Space
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2024 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/solar-system/asteroids/nasa-asteroid-experts-create-hypothetical-impact-scenario-for-exercise/" >🔗</a> **[NASA]** NASA Asteroid Experts Create Hypothetical Impact Scenario for Exercise
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-use-requirements-with-commercial-destination-partners/" >🔗</a> **[NASA]** NASA Shares Use Requirements with Commercial Destination Partners
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T190112">2024-07-02 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T193056">2024-07-02 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
