@@ -91,21 +91,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/chris-barnett-woods-nasa-engineer/" >🔗</a> **[NASA]** How a NASA Engineer Supports the Commercialization of Space
+- <a href="https://www.nasa.gov/general/interview-with-xinchuan-huang/" >🔗</a> **[NASA]** Interview with Xinchuan Huang
+- <a href="https://spaceflightnow.com/2024/07/02/live-coverage-spacex-to-launch-100th-direct-to-cell-starlink-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Direct to Cell Starlink satellite on Falcon 9 flight from Cape Canaveral
+- <a href="https://tlpnetwork.com/news/america/nasa-and-spacex-to-explore-new-methods-to-minimize-dragon-spacecraft-debris" >🔗</a> **[The Launch Pad]** NASA and SpaceX To Explore New Methods to Minimize Dragon Spacecraft Debris
+- <a href="https://tlpnetwork.com/news/asia/japans-h3-rocket-successfully-launches-alos-4" >🔗</a> **[The Launch Pad]** Japan's H3 Rocket Successfully Launches ALOS-4
+- <a href="https://tlpnetwork.com/news/america/orbit-fab-achieves-milestone-in-in-space-refueling-with-successful-grip-test" >🔗</a> **[The Launch Pad]** Orbit Fab Achieves Milestone in In-Space Refueling with Successful GRIP Test
 - <a href="https://www.nasa.gov/news-release/nasas-boeing-test-flight-crew-to-discuss-starliner-mission-from-space/" >🔗</a> **[NASA]** NASA’s Boeing Test Flight Crew to Discuss Starliner Mission from Space
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2024 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/solar-system/asteroids/nasa-asteroid-experts-create-hypothetical-impact-scenario-for-exercise/" >🔗</a> **[NASA]** NASA Asteroid Experts Create Hypothetical Impact Scenario for Exercise
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-celestial-fireworks-around-forming-star/" >🔗</a> **[NASA]** NASA’s Webb Captures Celestial Fireworks Around Forming Star
-- <a href="https://spacenews.com/cosmic-shielding-works-with-aethero-to-protect-nvidia-jetson-orin-nx-gpu/" >🔗</a> **[SpaceNews]** Cosmic Shielding works with Aethero to protect Nvidia Jetson Orin NX GPU
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-use-requirements-with-commercial-destination-partners/" >🔗</a> **[NASA]** NASA Shares Use Requirements with Commercial Destination Partners
-- <a href="https://arstechnica.com/science/2024/07/yes-you-should-be-a-little-freaked-out-about-hurricane-beryl/" >🔗</a> **[Arstechnica]** Yes, you should be a little freaked out about Hurricane Beryl
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bente-eegholm-ensuring-space-telescopes-have-stellar-vision/" >🔗</a> **[NASA]** Bente Eegholm: Ensuring Space Telescopes Have Stellar Vision
-- <a href="https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/" >🔗</a> **[SpaceNews]** Save Freedom: We must stop the destruction of the International Space Station
-- <a href="https://spacenews.com/can-altpnt-really-replace-gps/" >🔗</a> **[SpaceNews]** Can “AltPNT” Really Replace GPS?
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Ground equipment issue scrubs Firefly’s 5th Alpha launch of 8 CubeSats for NASA
+- <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Watch: Firefly prepares its Alpha rocket for a second launch attempt of NASA mission following ground systems issue
 - <a href="https://www.nasaspaceflight.com/2024/07/firefly-noise-of-summer/" >🔗</a> **[NASASpaceflight]** Firefly set to launch Alpha on Noise of Summer mission
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly Alpha launch attempt
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/" >🔗</a> **[NASA]** NASA’s ELaNa 43 Prepares for Firefly Aerospace Launch
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T180117">2024-07-02 18:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T183330">2024-07-02 18:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
