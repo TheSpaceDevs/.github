@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-boeing-test-flight-crew-to-discuss-starliner-mission-from-space/" >🔗</a> **[NASA]** NASA’s Boeing Test Flight Crew to Discuss Starliner Mission from Space
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2024 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/solar-system/asteroids/nasa-asteroid-experts-create-hypothetical-impact-scenario-for-exercise/" >🔗</a> **[NASA]** NASA Asteroid Experts Create Hypothetical Impact Scenario for Exercise
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-use-requirements-with-commercial-destination-partners/" >🔗</a> **[NASA]** NASA Shares Use Requirements with Commercial Destination Partners
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-celestial-fireworks-around-forming-star/" >🔗</a> **[NASA]** NASA’s Webb Captures Celestial Fireworks Around Forming Star
 - <a href="https://spacenews.com/cosmic-shielding-works-with-aethero-to-protect-nvidia-jetson-orin-nx-gpu/" >🔗</a> **[SpaceNews]** Cosmic Shielding works with Aethero to protect Nvidia Jetson Orin NX GPU
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-use-requirements-with-commercial-destination-partners/" >🔗</a> **[NASA]** NASA Shares Use Requirements with Commercial Destination Partners
 - <a href="https://arstechnica.com/science/2024/07/yes-you-should-be-a-little-freaked-out-about-hurricane-beryl/" >🔗</a> **[Arstechnica]** Yes, you should be a little freaked out about Hurricane Beryl
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bente-eegholm-ensuring-space-telescopes-have-stellar-vision/" >🔗</a> **[NASA]** Bente Eegholm: Ensuring Space Telescopes Have Stellar Vision
-- <a href="https://spacenews.com/can-altpnt-really-replace-gps/" >🔗</a> **[SpaceNews]** Can “AltPNT” Really Replace GPS?
-- <a href="https://spacenews.com/how-the-applied-physics-laboratory-is-tackling-challenges-facing-artemis-moon-exploration/" >🔗</a> **[SpaceNews]** How the Applied Physics Laboratory is tackling Artemis moon exploration
 - <a href="https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/" >🔗</a> **[SpaceNews]** Save Freedom: We must stop the destruction of the International Space Station
-- <a href="https://www.nasa.gov/news-release/success-for-historic-in-space-mission/" >🔗</a> **[NASA]** NASA Stennis Achieves Primary Success for Historic In-Space Mission
+- <a href="https://spacenews.com/can-altpnt-really-replace-gps/" >🔗</a> **[SpaceNews]** Can “AltPNT” Really Replace GPS?
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T170119">2024-07-02 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T173139">2024-07-02 17:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
