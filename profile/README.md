@@ -105,6 +105,8 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Ground equipment issue scrubs Firefly’s 5th Alpha launch of 8 CubeSats for NASA
+- <a href="https://www.nasaspaceflight.com/2024/07/firefly-noise-of-summer/" >🔗</a> **[NASASpaceflight]** Firefly set to launch Alpha on Noise of Summer mission
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly Alpha launch attempt
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/" >🔗</a> **[NASA]** NASA’s ELaNa 43 Prepares for Firefly Aerospace Launch
 - <a href="https://www.nasa.gov/image-article/nasa-cubesats-loaded-for-launch/" >🔗</a> **[NASA]** NASA CubeSats Loaded for Launch
@@ -112,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T070111">2024-07-02 07:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T073100">2024-07-02 07:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
