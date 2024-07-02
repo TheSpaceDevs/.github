@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/" >🔗</a> **[SpaceNews]** Save Freedom: We must stop the destruction of the International Space Station
+- <a href="https://spacenews.com/can-altpnt-really-replace-gps/" >🔗</a> **[SpaceNews]** Can “AltPNT” Really Replace GPS?
+- <a href="https://spacenews.com/how-the-applied-physics-laboratory-is-tackling-challenges-facing-artemis-moon-exploration/" >🔗</a> **[SpaceNews]** How the Applied Physics Laboratory is tackling Artemis moon exploration
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bente-eegholm-ensuring-space-telescopes-have-stellar-vision/" >🔗</a> **[NASA]** Bente Eegholm: Ensuring Space Telescopes Have Stellar Vision
 - <a href="https://www.nasa.gov/news-release/success-for-historic-in-space-mission/" >🔗</a> **[NASA]** NASA Stennis Achieves Primary Success for Historic In-Space Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mission-success-hera-crew-successfully-completes-45-day-simulated-journey-to-mars/" >🔗</a> **[NASA]** Mission Success: HERA Crew Successfully Completes 45-Day Simulated Journey to Mars
 - <a href="https://europeanspaceflight.com/sidereus-space-dynamics-complete-integrated-static-fire-test/" >🔗</a> **[European Spaceflight]** Sidereus Space Dynamics Complete Integrated Static Fire Test
 - <a href="https://spacenews.com/orbit-fab-completes-ground-test-of-satellite-fueling-payload/" >🔗</a> **[SpaceNews]** Orbit Fab completes ground test of satellite fueling payload
 - <a href="https://spacenews.com/innospace-shares-tumble-in-stock-market-debut/" >🔗</a> **[SpaceNews]** Innospace shares tumble in stock market debut
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_to_show_how_AI_advances_Earth_observation" >🔗</a> **[ESA]** New satellite to show how AI advances Earth observation
-- <a href="https://science.nasa.gov/blogs/sols-4232-4233-going-for-a-ride-anyone/" >🔗</a> **[NASA]** Sols 4232-4233: Going For a Ride, Anyone?
-- <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Ground equipment issue scrubs Firefly’s 5th Alpha launch of 8 CubeSats for NASA
-- <a href="https://www.nasaspaceflight.com/2024/07/spacex-q2/" >🔗</a> **[NASASpaceflight]** SpaceX continues record-breaking year with Starship’s full success and Falcon milestones
-- <a href="https://spacenews.com/europes-space-funding-gap-threatens-industry-potential/" >🔗</a> **[SpaceNews]** Europe’s space funding gap threatens industry potential
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T130258">2024-07-02 13:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T133058">2024-07-02 13:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
