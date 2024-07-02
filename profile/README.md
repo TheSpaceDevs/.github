@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/" >🔗</a> **[SpaceNews]** Save Freedom: We must stop the destruction of the International Space Station
+- <a href="https://spacenews.com/cosmic-shielding-works-with-aethero-to-protect-nvidia-jetson-orin-nx-gpu/" >🔗</a> **[SpaceNews]** Cosmic Shielding works with Aethero to protect Nvidia Jetson Orin NX GPU
+- <a href="https://arstechnica.com/science/2024/07/yes-you-should-be-a-little-freaked-out-about-hurricane-beryl/" >🔗</a> **[Arstechnica]** Yes, you should be a little freaked out about Hurricane Beryl
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bente-eegholm-ensuring-space-telescopes-have-stellar-vision/" >🔗</a> **[NASA]** Bente Eegholm: Ensuring Space Telescopes Have Stellar Vision
 - <a href="https://spacenews.com/can-altpnt-really-replace-gps/" >🔗</a> **[SpaceNews]** Can “AltPNT” Really Replace GPS?
 - <a href="https://spacenews.com/how-the-applied-physics-laboratory-is-tackling-challenges-facing-artemis-moon-exploration/" >🔗</a> **[SpaceNews]** How the Applied Physics Laboratory is tackling Artemis moon exploration
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bente-eegholm-ensuring-space-telescopes-have-stellar-vision/" >🔗</a> **[NASA]** Bente Eegholm: Ensuring Space Telescopes Have Stellar Vision
+- <a href="https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/" >🔗</a> **[SpaceNews]** Save Freedom: We must stop the destruction of the International Space Station
 - <a href="https://www.nasa.gov/news-release/success-for-historic-in-space-mission/" >🔗</a> **[NASA]** NASA Stennis Achieves Primary Success for Historic In-Space Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mission-success-hera-crew-successfully-completes-45-day-simulated-journey-to-mars/" >🔗</a> **[NASA]** Mission Success: HERA Crew Successfully Completes 45-Day Simulated Journey to Mars
 - <a href="https://europeanspaceflight.com/sidereus-space-dynamics-complete-integrated-static-fire-test/" >🔗</a> **[European Spaceflight]** Sidereus Space Dynamics Complete Integrated Static Fire Test
 - <a href="https://spacenews.com/orbit-fab-completes-ground-test-of-satellite-fueling-payload/" >🔗</a> **[SpaceNews]** Orbit Fab completes ground test of satellite fueling payload
-- <a href="https://spacenews.com/innospace-shares-tumble-in-stock-market-debut/" >🔗</a> **[SpaceNews]** Innospace shares tumble in stock market debut
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_to_show_how_AI_advances_Earth_observation" >🔗</a> **[ESA]** New satellite to show how AI advances Earth observation
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T133058">2024-07-02 13:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T140212">2024-07-02 14:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
