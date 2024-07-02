@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/innospace-shares-tumble-in-stock-market-debut/" >🔗</a> **[SpaceNews]** Innospace shares tumble in stock market debut
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_to_show_how_AI_advances_Earth_observation" >🔗</a> **[ESA]** New satellite to show how AI advances Earth observation
 - <a href="https://science.nasa.gov/blogs/sols-4232-4233-going-for-a-ride-anyone/" >🔗</a> **[NASA]** Sols 4232-4233: Going For a Ride, Anyone?
 - <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Ground equipment issue scrubs Firefly’s 5th Alpha launch of 8 CubeSats for NASA
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/neowise/nasas-neowise-infrared-heritage-will-live-on/" >🔗</a> **[NASA]** NASA’s NEOWISE Infrared Heritage Will Live On
 - <a href="https://www.nasa.gov/image-article/cassini-sees-saturn/" >🔗</a> **[NASA]** Cassini Sees Saturn
 - <a href="https://www.nasaspaceflight.com/2024/07/firefly-noise-of-summer/" >🔗</a> **[NASASpaceflight]** Firefly set to launch Alpha on Noise of Summer mission
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-upgraded-hyperwall-offers-improved-data-visualization/" >🔗</a> **[NASA]** NASA’s Upgraded Hyperwall Offers Improved Data Visualization
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T100119">2024-07-02 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T103253">2024-07-02 10:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
