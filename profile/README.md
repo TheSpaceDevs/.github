@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Watch: Firefly to launch 8 CubeSats for NASA on 5th Alpha rocket
 - <a href="https://www.nasaspaceflight.com/2024/07/spacex-q2/" >🔗</a> **[NASASpaceflight]** SpaceX continues record-breaking year with Starship’s full success and Falcon milestones
 - <a href="https://spacenews.com/europes-space-funding-gap-threatens-industry-potential/" >🔗</a> **[SpaceNews]** Europe’s space funding gap threatens industry potential
 - <a href="https://science.nasa.gov/blogs/sols-4229-4231-more-analyses-of-the-mammoth-lakes-2-sample/" >🔗</a> **[NASA]** Sols 4229-4231: More Analyses of the Mammoth Lakes 2 Sample!
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-upgraded-hyperwall-offers-improved-data-visualization/" >🔗</a> **[NASA]** NASA’s Upgraded Hyperwall Offers Improved Data Visualization
 - <a href="https://www.spacescout.info/2024/07/h3-launches-alos-4-earth-observation-satellite/" >🔗</a> **[Space Scout]** H3 Launches ALOS-4 Earth Observation Satellite
 - <a href="https://www.nasa.gov/news-release/nasa-awards-support-stem-research-at-minority-serving-institutions/" >🔗</a> **[NASA]** NASA Awards Support STEM Research at Minority Serving Institutions
-- <a href="https://science.nasa.gov/missions/artemis/behind-the-scenes-of-a-nasa-moonwalk-in-the-arizona-desert/" >🔗</a> **[NASA]** Behind the Scenes of a NASA ‘Moonwalk’ in the Arizona Desert
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T004500">2024-07-02 00:45:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T012723">2024-07-02 01:27:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
