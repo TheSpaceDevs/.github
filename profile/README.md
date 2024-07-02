@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/ecostress/nasas-ecostress-maps-burn-risk-across-phoenix-streets/" >🔗</a> **[NASA]** NASA’s ECOSTRESS Maps Burn Risk Across Phoenix Streets
 - <a href="https://www.nasa.gov/image-article/studying-hurricane-beryl-from-space/" >🔗</a> **[NASA]** Studying Hurricane Beryl from Space
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-july-2024/" >🔗</a> **[NASA]** Lagniappe for July 2024
 - <a href="https://www.nasa.gov/image-article/chris-barnett-woods-nasa-engineer/" >🔗</a> **[NASA]** How a NASA Engineer Supports the Commercialization of Space
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/asia/japans-h3-rocket-successfully-launches-alos-4" >🔗</a> **[The Launch Pad]** Japan's H3 Rocket Successfully Launches ALOS-4
 - <a href="https://tlpnetwork.com/news/america/orbit-fab-achieves-milestone-in-in-space-refueling-with-successful-grip-test" >🔗</a> **[The Launch Pad]** Orbit Fab Achieves Milestone in In-Space Refueling with Successful GRIP Test
 - <a href="https://www.nasa.gov/news-release/nasas-boeing-test-flight-crew-to-discuss-starliner-mission-from-space/" >🔗</a> **[NASA]** NASA’s Boeing Test Flight Crew to Discuss Starliner Mission from Space
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2024 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T193056">2024-07-02 19:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240702T200130">2024-07-02 20:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
