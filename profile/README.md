@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Video: Proba-3's new view on space weather
+- <a href="https://www.nasa.gov/news-release/nasa-announces-its-artemis-ii-backup-crew-member-for-moon-mission/" >🔗</a> **[NASA]** NASA Announces its Artemis II Backup Crew Member for Moon Mission
+- <a href="https://www.nasa.gov/solar-system/asteroids/near-earth-asteroid/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches/" >🔗</a> **[NASA]** NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches
 - <a href="https://spacenews.com/chinese-satellite-manufacturer-minospace-raises-137-million/" >🔗</a> **[SpaceNews]** Chinese satellite manufacturer MinoSpace raises $137 million
 - <a href="https://europeanspaceflight.com/exolaunch-and-unoosa-to-offer-free-launch-services/" >🔗</a> **[European Spaceflight]** Exolaunch and UNOOSA to Offer Free Launch Services
 - <a href="https://spacenews.com/commercial-space-stations-go-international/" >🔗</a> **[SpaceNews]** Commercial space stations go international
 - <a href="https://spacenews.com/increasingly-feasible-on-orbit-servicing-challenging-road-to-market/" >🔗</a> **[SpaceNews]** Increasingly feasible, on-orbit servicing has a challenging road to market
 - <a href="https://www.nasa.gov/history/fourth-of-july-holidays-in-space-2024/" >🔗</a> **[NASA]** Fourth of July Holidays in Space
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Proba-3’s new view on space weather
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_snaking_scar_on_Mars" >🔗</a> **[ESA]** A snaking scar on Mars
 - <a href="https://europeanspaceflight.com/cnes-publishes-call-to-develop-satellite-black-box/" >🔗</a> **[European Spaceflight]** CNES Publishes Call to Develop Satellite Black Box
-- <a href="https://spacenews.com/endurosat-to-build-botswanas-debut-satellite/" >🔗</a> **[SpaceNews]** EnduroSat gets order for Botswana’s debut satellite
-- <a href="https://spacenews.com/spacex-wins-nasa-contract-to-launch-gamma-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX wins NASA contract to launch gamma-ray astronomy mission
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T140121">2024-07-03 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T143125">2024-07-03 14:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
