@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sentinel-2c-ready-for-transatlantic-trip-to-farewell-vega-launch/" >🔗</a> **[SpaceNews]** Sentinel-2C ready for transatlantic trip to farewell Vega launch
+- <a href="https://www.cnbc.com/2024/07/03/investing-in-space-why-military-contracts-are-crucial-for-companies.html" >🔗</a> **[CNBC]** Investing in Space: Why military contracts are crucial for space companies
+- <a href="https://tlpnetwork.com/news/europe/endurosat-to-build-botsat-1-botswana-first-satellite" >🔗</a> **[The Launch Pad]** EnduroSat to Build Botsat-1, Botswana's First Satellite
 - <a href="https://tlpnetwork.com/news/in-space/nasa-parker-solar-probe-completes-20th-close-approach-to-the-sun" >🔗</a> **[The Launch Pad]** NASA’s Parker Solar Probe Completes 20th Close Approach to the Sun
 - <a href="https://www.nasa.gov/news-release/former-nasa-chief-astronaut-patrick-forrester-retires/" >🔗</a> **[NASA]** Former NASA Chief Astronaut Patrick Forrester Retires
 - <a href="https://tlpnetwork.com/news/america/polaris-dawn-now-net-july-31st-for-launch" >🔗</a> **[The Launch Pad]** Polaris Dawn Now Targeting NET July 31st For Launch
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-70-confidence-starship-lander-ready-by-february-2028" >🔗</a> **[The Launch Pad]** NASA "70% Confidence" Starship Ready by February 2028, 1.5 Year Delay From September 2026 Target In New GAO Report
 - <a href="https://tlpnetwork.com/news/america/nasa-selects-astronaut-andre-douglas-for-artemis-ii-backup-crew-member" >🔗</a> **[The Launch Pad]** NASA Selects Astronaut Andre Douglas for Artemis II Backup Crew
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Video: Proba-3's new view on space weather
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_Peregrinus_students_take_on_the_Sun" >🔗</a> **[ESA]** Ariane 6 launches Peregrinus: students take on the Sun
-- <a href="https://www.nasa.gov/news-release/nasa-announces-its-artemis-ii-backup-crew-member-for-moon-mission/" >🔗</a> **[NASA]** NASA Announces its Artemis II Backup Crew Member for Moon Mission
-- <a href="https://www.nasa.gov/solar-system/asteroids/near-earth-asteroid/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches/" >🔗</a> **[NASA]** NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T190102">2024-07-03 19:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T193100">2024-07-03 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
