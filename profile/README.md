@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 8-9**. It is scheduled to be launched by *SpaceX*
+**Firefly Alpha | FLTA005 (Noise of Summer)**. It is scheduled to be launched by *Firefly Aerospace*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_2">Space Launch Complex 2W</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T065700">2024-07-03 06:57:00 UTC</a>.  Until
-then, this pad will have been used for 250
-out of 962 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T040300">2024-07-04 04:03:00 UTC</a>.  Until
+then, this pad will have been used for 96
+out of 761 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Technology* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 20 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Fifth flight of the Firefly Alpha small sat launcher, carrying eight cubesats for NASA's ELaNa 43 (Educational Launch of a Nanosatellite) mission.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.7556,-120.6224" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T000000">2024-07-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20240715T000000Z%2F20240715T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 3 & 4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T000000">2024-07-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240718T000000Z%2F20240718T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T000000">2024-07-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | USSF-51&location=Cape Canaveral, FL, USA&dates=20240730T000000Z%2F20240730T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | USSF-51** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_snaking_scar_on_Mars" >🔗</a> **[ESA]** A snaking scar on Mars
+- <a href="https://europeanspaceflight.com/cnes-publishes-call-to-develop-satellite-black-box/" >🔗</a> **[European Spaceflight]** CNES Publishes Call to Develop Satellite Black Box
 - <a href="https://spacenews.com/endurosat-to-build-botswanas-debut-satellite/" >🔗</a> **[SpaceNews]** EnduroSat gets order for Botswana’s debut satellite
 - <a href="https://spacenews.com/spacex-wins-nasa-contract-to-launch-gamma-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX wins NASA contract to launch gamma-ray astronomy mission
 - <a href="https://spacenews.com/nasa-assessment-suggests-potential-additional-delays-for-artemis-3-lunar-lander/" >🔗</a> **[SpaceNews]** NASA assessment suggests potential additional delays for Artemis 3 lunar lander
@@ -98,19 +101,20 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/volunteer-crew-to-exit-nasas-simulated-mars-habitat-after-378-days/" >🔗</a> **[NASA]** Volunteer Crew to Exit NASA’s Simulated Mars Habitat After 378 Days
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-space-telescope-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Space Telescope Mission
 - <a href="https://www.nasa.gov/missions/ecostress/nasas-ecostress-maps-burn-risk-across-phoenix-streets/" >🔗</a> **[NASA]** NASA’s ECOSTRESS Maps Burn Risk Across Phoenix Streets
-- <a href="https://www.nasa.gov/image-article/studying-hurricane-beryl-from-space/" >🔗</a> **[NASA]** Studying Hurricane Beryl from Space
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-july-2024/" >🔗</a> **[NASA]** Lagniappe for July 2024
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/07/02/live-coverage-spacex-to-launch-100th-direct-to-cell-starlink-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Direct to Cell Starlink satellite on Falcon 9 flight from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Firefly puts Alpha rocket NASA mission on hold to study data
+- <a href="https://www.nasaspaceflight.com/2024/07/firefly-noise-of-summer/" >🔗</a> **[NASASpaceflight]** Firefly set to launch Alpha on Noise of Summer mission
 - <a href="https://www.nasaspaceflight.com/2024/06/launch-roundup-062424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon Heavy returns with GOES-U, Firefly Alpha launch attempt
+- <a href="https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/" >🔗</a> **[NASA]** NASA’s ELaNa 43 Prepares for Firefly Aerospace Launch
+- <a href="https://www.nasa.gov/image-article/nasa-cubesats-loaded-for-launch/" >🔗</a> **[NASA]** NASA CubeSats Loaded for Launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T090132">2024-07-03 09:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T093057">2024-07-03 09:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
