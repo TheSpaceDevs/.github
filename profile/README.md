@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/endurosat-to-build-botswanas-debut-satellite/" >🔗</a> **[SpaceNews]** EnduroSat gets order for Botswana’s debut satellite
+- <a href="https://spacenews.com/spacex-wins-nasa-contract-to-launch-gamma-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX wins NASA contract to launch gamma-ray astronomy mission
+- <a href="https://spacenews.com/nasa-assessment-suggests-potential-additional-delays-for-artemis-3-lunar-lander/" >🔗</a> **[SpaceNews]** NASA assessment suggests potential additional delays for Artemis 3 lunar lander
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Second half of 2024 begins with more launches from front runners US & China
 - <a href="https://arstechnica.com/space/2024/07/two-of-the-german-militarys-new-spy-satellites-appear-to-have-failed-in-orbit/" >🔗</a> **[Arstechnica]** Two of the German military’s new spy satellites appear to have failed in orbit
 - <a href="https://www.nasa.gov/news-release/volunteer-crew-to-exit-nasas-simulated-mars-habitat-after-378-days/" >🔗</a> **[NASA]** Volunteer Crew to Exit NASA’s Simulated Mars Habitat After 378 Days
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/ecostress/nasas-ecostress-maps-burn-risk-across-phoenix-streets/" >🔗</a> **[NASA]** NASA’s ECOSTRESS Maps Burn Risk Across Phoenix Streets
 - <a href="https://www.nasa.gov/image-article/studying-hurricane-beryl-from-space/" >🔗</a> **[NASA]** Studying Hurricane Beryl from Space
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-july-2024/" >🔗</a> **[NASA]** Lagniappe for July 2024
-- <a href="https://www.nasa.gov/image-article/chris-barnett-woods-nasa-engineer/" >🔗</a> **[NASA]** How a NASA Engineer Supports the Commercialization of Space
-- <a href="https://www.nasa.gov/general/interview-with-xinchuan-huang/" >🔗</a> **[NASA]** Interview with Xinchuan Huang
-- <a href="https://spaceflightnow.com/2024/07/02/live-coverage-spacex-to-launch-100th-direct-to-cell-starlink-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Direct to Cell Starlink satellite on Falcon 9 flight from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T060118">2024-07-03 06:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T063454">2024-07-03 06:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
