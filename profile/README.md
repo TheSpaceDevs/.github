@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/nasa-parker-solar-probe-completes-20th-close-approach-to-the-sun" >🔗</a> **[The Launch Pad]** NASA’s Parker Solar Probe Completes 20th Close Approach to the Sun
+- <a href="https://www.nasa.gov/news-release/former-nasa-chief-astronaut-patrick-forrester-retires/" >🔗</a> **[NASA]** Former NASA Chief Astronaut Patrick Forrester Retires
+- <a href="https://tlpnetwork.com/news/america/polaris-dawn-now-net-july-31st-for-launch" >🔗</a> **[The Launch Pad]** Polaris Dawn Now Targeting NET July 31st For Launch
 - <a href="https://www.nasa.gov/image-article/orion-on-the-rise/" >🔗</a> **[NASA]** Orion on the Rise
 - <a href="https://tlpnetwork.com/news/america/nasa-70-confidence-starship-lander-ready-by-february-2028" >🔗</a> **[The Launch Pad]** NASA "70% Confidence" Starship Ready by February 2028, 1.5 Year Delay From September 2026 Target In New GAO Report
 - <a href="https://tlpnetwork.com/news/america/nasa-selects-astronaut-andre-douglas-for-artemis-ii-backup-crew-member" >🔗</a> **[The Launch Pad]** NASA Selects Astronaut Andre Douglas for Artemis II Backup Crew
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launches_Peregrinus_students_take_on_the_Sun" >🔗</a> **[ESA]** Ariane 6 launches Peregrinus: students take on the Sun
 - <a href="https://www.nasa.gov/news-release/nasa-announces-its-artemis-ii-backup-crew-member-for-moon-mission/" >🔗</a> **[NASA]** NASA Announces its Artemis II Backup Crew Member for Moon Mission
 - <a href="https://www.nasa.gov/solar-system/asteroids/near-earth-asteroid/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches/" >🔗</a> **[NASA]** NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches
-- <a href="https://spacenews.com/chinese-satellite-manufacturer-minospace-raises-137-million/" >🔗</a> **[SpaceNews]** Chinese satellite manufacturer MinoSpace raises $137 million
-- <a href="https://europeanspaceflight.com/exolaunch-and-unoosa-to-offer-free-launch-services/" >🔗</a> **[European Spaceflight]** Exolaunch and UNOOSA to Offer Free Launch Services
-- <a href="https://spacenews.com/increasingly-feasible-on-orbit-servicing-challenging-road-to-market/" >🔗</a> **[SpaceNews]** Increasingly feasible, on-orbit servicing has a challenging road to market
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T180118">2024-07-03 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T183235">2024-07-03 18:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
