@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Proba-3’s new view on space weather
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_snaking_scar_on_Mars" >🔗</a> **[ESA]** A snaking scar on Mars
 - <a href="https://europeanspaceflight.com/cnes-publishes-call-to-develop-satellite-black-box/" >🔗</a> **[European Spaceflight]** CNES Publishes Call to Develop Satellite Black Box
 - <a href="https://spacenews.com/endurosat-to-build-botswanas-debut-satellite/" >🔗</a> **[SpaceNews]** EnduroSat gets order for Botswana’s debut satellite
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/two-of-the-german-militarys-new-spy-satellites-appear-to-have-failed-in-orbit/" >🔗</a> **[Arstechnica]** Two of the German military’s new spy satellites appear to have failed in orbit
 - <a href="https://www.nasa.gov/news-release/volunteer-crew-to-exit-nasas-simulated-mars-habitat-after-378-days/" >🔗</a> **[NASA]** Volunteer Crew to Exit NASA’s Simulated Mars Habitat After 378 Days
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-space-telescope-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Space Telescope Mission
-- <a href="https://www.nasa.gov/missions/ecostress/nasas-ecostress-maps-burn-risk-across-phoenix-streets/" >🔗</a> **[NASA]** NASA’s ECOSTRESS Maps Burn Risk Across Phoenix Streets
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T100129">2024-07-03 10:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T103356">2024-07-03 10:33:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
