@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-3-2024/" >🔗</a> **[NASA]** The Marshall Star for July 3, 2024
 - <a href="https://spacenews.com/sentinel-2c-ready-for-transatlantic-trip-to-farewell-vega-launch/" >🔗</a> **[SpaceNews]** Sentinel-2C ready for transatlantic trip to farewell Vega launch
 - <a href="https://www.cnbc.com/2024/07/03/investing-in-space-why-military-contracts-are-crucial-for-companies.html" >🔗</a> **[CNBC]** Investing in Space: Why military contracts are crucial for space companies
 - <a href="https://tlpnetwork.com/news/europe/endurosat-to-build-botsat-1-botswana-first-satellite" >🔗</a> **[The Launch Pad]** EnduroSat to Build Botsat-1, Botswana's First Satellite
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/orion-on-the-rise/" >🔗</a> **[NASA]** Orion on the Rise
 - <a href="https://tlpnetwork.com/news/america/nasa-70-confidence-starship-lander-ready-by-february-2028" >🔗</a> **[The Launch Pad]** NASA "70% Confidence" Starship Ready by February 2028, 1.5 Year Delay From September 2026 Target In New GAO Report
 - <a href="https://tlpnetwork.com/news/america/nasa-selects-astronaut-andre-douglas-for-artemis-ii-backup-crew-member" >🔗</a> **[The Launch Pad]** NASA Selects Astronaut Andre Douglas for Artemis II Backup Crew
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Video: Proba-3's new view on space weather
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T203055">2024-07-03 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T210127">2024-07-03 21:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
