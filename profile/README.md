@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/increasingly-feasible-on-orbit-servicing-challenging-road-to-market/" >🔗</a> **[SpaceNews]** Increasingly feasible, on-orbit servicing has a challenging road to market
+- <a href="https://spacenews.com/commercial-space-stations-go-international/" >🔗</a> **[SpaceNews]** Commercial space stations go international
+- <a href="https://www.nasa.gov/history/fourth-of-july-holidays-in-space-2024/" >🔗</a> **[NASA]** Fourth of July Holidays in Space
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Proba-3’s new view on space weather
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_snaking_scar_on_Mars" >🔗</a> **[ESA]** A snaking scar on Mars
 - <a href="https://europeanspaceflight.com/cnes-publishes-call-to-develop-satellite-black-box/" >🔗</a> **[European Spaceflight]** CNES Publishes Call to Develop Satellite Black Box
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-wins-nasa-contract-to-launch-gamma-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** SpaceX wins NASA contract to launch gamma-ray astronomy mission
 - <a href="https://spacenews.com/nasa-assessment-suggests-potential-additional-delays-for-artemis-3-lunar-lander/" >🔗</a> **[SpaceNews]** NASA assessment suggests potential additional delays for Artemis 3 lunar lander
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Second half of 2024 begins with more launches from front runners US & China
-- <a href="https://arstechnica.com/space/2024/07/two-of-the-german-militarys-new-spy-satellites-appear-to-have-failed-in-orbit/" >🔗</a> **[Arstechnica]** Two of the German military’s new spy satellites appear to have failed in orbit
-- <a href="https://www.nasa.gov/news-release/volunteer-crew-to-exit-nasas-simulated-mars-habitat-after-378-days/" >🔗</a> **[NASA]** Volunteer Crew to Exit NASA’s Simulated Mars Habitat After 378 Days
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-space-telescope-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Space Telescope Mission
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T130304">2024-07-03 13:03:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240703T133107">2024-07-03 13:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
