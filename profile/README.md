@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/eight-cubesats-lift-off-for-nasa-on-firefly-aerospace-rocket/" >🔗</a> **[NASA]** Eight CubeSats Lift Off for NASA on Firefly Aerospace Rocket!
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_flight_timeline" >🔗</a> **[ESA]** Ariane 6 first flight timeline
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launch_how_to_watch_and_what_to_look_out_for" >🔗</a> **[ESA]** Ariane 6 launch: how to watch and what to look out for
-- <a href="https://www.spacescout.info/2024/07/graceful-exit-part-1-how-to-responsibly-retire-iss/" >🔗</a> **[Space Scout]** Graceful Exit Part 1: How to Responsibly Retire ISS
+- <a href="https://www.spacescout.info/2024/07/graceful-exit-part-1-how-to-responsibly-retire-iss/" >🔗</a> **[Space Scout]** A Graceful Exit, Part 1: How to Responsibly Retire ISS
 - <a href="https://spacenews.com/firefly-aerospace-launches-nasa-sponsored-cubesats/" >🔗</a> **[SpaceNews]** Firefly Aerospace launches NASA-sponsored cubesats
 - <a href="https://spacenews.com/airbus-secures-2-5-billion-german-military-satellite-contract/" >🔗</a> **[SpaceNews]** Airbus secures $2.5 billion German military satellite contract
 - <a href="https://europeanspaceflight.com/payload-for-final-vega-flight-aboard-ariane-6-transport-headed-to-kourou/" >🔗</a> **[European Spaceflight]** Payload for Final Vega Flight Aboard Ariane 6 Transport Headed to Kourou
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_passengers_with_names" >🔗</a> **[ESA]** Ariane 6 first passengers – with names
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Eye_test_for_lunar_impact_surveyor" >🔗</a> **[ESA]** Eye test for lunar impact surveyor
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Laser_upgrade_for_Mars_rover" >🔗</a> **[ESA]** Laser upgrade for Mars rover
-- <a href="https://www.esa.int/Enabling_Support/Operations/Tracking_Ariane_6_as_it_soars_over_the_Azores" >🔗</a> **[ESA]** Tracking Ariane 6 as it soars over the Azores
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T180146">2024-07-04 18:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T183321">2024-07-04 18:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
