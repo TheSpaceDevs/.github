@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4234-4235-and-thats-nearly-a-wrap-on-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4234-4235: And That’s (Nearly) a Wrap on Mammoth Lakes!
 - <a href="https://spacenews.com/blue-origin-stoke-space-selected-by-u-s-space-force-to-compete-for-small-satellite-missions/" >🔗</a> **[SpaceNews]** Blue Origin, Stoke Space selected by U.S. Space Force to compete for small satellite missions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-3-2024/" >🔗</a> **[NASA]** The Marshall Star for July 3, 2024
 - <a href="https://spacenews.com/sentinel-2c-ready-for-transatlantic-trip-to-farewell-vega-launch/" >🔗</a> **[SpaceNews]** Sentinel-2C ready for transatlantic trip to farewell Vega launch
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/former-nasa-chief-astronaut-patrick-forrester-retires/" >🔗</a> **[NASA]** Former NASA Chief Astronaut Patrick Forrester Retires
 - <a href="https://tlpnetwork.com/news/america/polaris-dawn-now-net-july-31st-for-launch" >🔗</a> **[The Launch Pad]** Polaris Dawn Now Targeting NET July 31st For Launch
 - <a href="https://www.nasa.gov/image-article/orion-on-the-rise/" >🔗</a> **[NASA]** Orion on the Rise
-- <a href="https://tlpnetwork.com/news/america/nasa-70-confidence-starship-lander-ready-by-february-2028" >🔗</a> **[The Launch Pad]** NASA "70% Confidence" Starship Ready by February 2028, 1.5 Year Delay From September 2026 Target In New GAO Report
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T004500">2024-07-04 00:45:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T012717">2024-07-04 01:27:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
