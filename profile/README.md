@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Eye_test_for_lunar_impact_surveyor" >🔗</a> **[ESA]** Eye test for lunar impact surveyor
 - <a href="https://www.esa.int/Enabling_Support/Operations/Tracking_Ariane_6_as_it_soars_over_the_Azores" >🔗</a> **[ESA]** Tracking Ariane 6 as it soars over the Azores
 - <a href="https://science.nasa.gov/blogs/sols-4234-4235-and-thats-nearly-a-wrap-on-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4234-4235: And That’s (Nearly) a Wrap on Mammoth Lakes!
 - <a href="https://spacenews.com/blue-origin-stoke-space-selected-by-u-s-space-force-to-compete-for-small-satellite-missions/" >🔗</a> **[SpaceNews]** Blue Origin, Stoke Space selected by U.S. Space Force to compete for small satellite missions
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/europe/endurosat-to-build-botsat-1-botswana-first-satellite" >🔗</a> **[The Launch Pad]** EnduroSat to Build Botsat-1, Botswana's First Satellite
 - <a href="https://tlpnetwork.com/news/in-space/nasa-parker-solar-probe-completes-20th-close-approach-to-the-sun" >🔗</a> **[The Launch Pad]** NASA’s Parker Solar Probe Completes 20th Close Approach to the Sun
 - <a href="https://www.nasa.gov/news-release/former-nasa-chief-astronaut-patrick-forrester-retires/" >🔗</a> **[NASA]** Former NASA Chief Astronaut Patrick Forrester Retires
-- <a href="https://tlpnetwork.com/news/america/polaris-dawn-now-net-july-31st-for-launch" >🔗</a> **[The Launch Pad]** Polaris Dawn Now Targeting NET July 31st For Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T103150">2024-07-04 10:31:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T110216">2024-07-04 11:02:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
