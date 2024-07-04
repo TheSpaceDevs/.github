@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-secures-2-5-billion-german-military-satellite-contract/" >🔗</a> **[SpaceNews]** Airbus secures $2.5 billion German military satellite contract
 - <a href="https://europeanspaceflight.com/payload-for-final-vega-flight-aboard-ariane-6-transport-headed-to-kourou/" >🔗</a> **[European Spaceflight]** Payload for Final Vega Flight Aboard Ariane 6 Transport Headed to Kourou
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_passengers_with_names" >🔗</a> **[ESA]** Ariane 6 first passengers – with names
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Eye_test_for_lunar_impact_surveyor" >🔗</a> **[ESA]** Eye test for lunar impact surveyor
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/blue-origin-stoke-space-selected-by-u-s-space-force-to-compete-for-small-satellite-missions/" >🔗</a> **[SpaceNews]** Blue Origin, Stoke Space selected by U.S. Space Force to compete for small satellite missions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-3-2024/" >🔗</a> **[NASA]** The Marshall Star for July 3, 2024
 - <a href="https://spacenews.com/sentinel-2c-ready-for-transatlantic-trip-to-farewell-vega-launch/" >🔗</a> **[SpaceNews]** Sentinel-2C ready for transatlantic trip to farewell Vega launch
-- <a href="https://www.cnbc.com/2024/07/03/investing-in-space-why-military-contracts-are-crucial-for-companies.html" >🔗</a> **[CNBC]** Investing in Space: Why military contracts are crucial for space companies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T150111">2024-07-04 15:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T153101">2024-07-04 15:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
