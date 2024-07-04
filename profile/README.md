@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/payload-for-final-vega-flight-aboard-ariane-6-transport-headed-to-kourou/" >🔗</a> **[European Spaceflight]** Payload for Final Vega Flight Aboard Ariane 6 Transport Headed to Kourou
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_passengers_with_names" >🔗</a> **[ESA]** Ariane 6 first passengers – with names
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Eye_test_for_lunar_impact_surveyor" >🔗</a> **[ESA]** Eye test for lunar impact surveyor
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Laser_upgrade_for_Mars_rover" >🔗</a> **[ESA]** Laser upgrade for Mars rover
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-3-2024/" >🔗</a> **[NASA]** The Marshall Star for July 3, 2024
 - <a href="https://spacenews.com/sentinel-2c-ready-for-transatlantic-trip-to-farewell-vega-launch/" >🔗</a> **[SpaceNews]** Sentinel-2C ready for transatlantic trip to farewell Vega launch
 - <a href="https://www.cnbc.com/2024/07/03/investing-in-space-why-military-contracts-are-crucial-for-companies.html" >🔗</a> **[CNBC]** Investing in Space: Why military contracts are crucial for space companies
-- <a href="https://tlpnetwork.com/news/europe/endurosat-to-build-botsat-1-botswana-first-satellite" >🔗</a> **[The Launch Pad]** EnduroSat to Build Botsat-1, Botswana's First Satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T133120">2024-07-04 13:31:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T140123">2024-07-04 14:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
