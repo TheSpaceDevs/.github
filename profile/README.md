@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_flight_timeline" >🔗</a> **[ESA]** Ariane 6 first flight timeline
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launch_how_to_watch_and_what_to_look_out_for" >🔗</a> **[ESA]** Ariane 6 launch: how to watch and what to look out for
+- <a href="https://spacenews.com/firefly-aerospace-launches-nasa-sponsored-cubesats/" >🔗</a> **[SpaceNews]** Firefly Aerospace launches NASA-sponsored cubesats
 - <a href="https://spacenews.com/airbus-secures-2-5-billion-german-military-satellite-contract/" >🔗</a> **[SpaceNews]** Airbus secures $2.5 billion German military satellite contract
 - <a href="https://europeanspaceflight.com/payload-for-final-vega-flight-aboard-ariane-6-transport-headed-to-kourou/" >🔗</a> **[European Spaceflight]** Payload for Final Vega Flight Aboard Ariane 6 Transport Headed to Kourou
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_passengers_with_names" >🔗</a> **[ESA]** Ariane 6 first passengers – with names
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Laser_upgrade_for_Mars_rover" >🔗</a> **[ESA]** Laser upgrade for Mars rover
 - <a href="https://www.esa.int/Enabling_Support/Operations/Tracking_Ariane_6_as_it_soars_over_the_Azores" >🔗</a> **[ESA]** Tracking Ariane 6 as it soars over the Azores
 - <a href="https://science.nasa.gov/blogs/sols-4234-4235-and-thats-nearly-a-wrap-on-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4234-4235: And That’s (Nearly) a Wrap on Mammoth Lakes!
-- <a href="https://spacenews.com/blue-origin-stoke-space-selected-by-u-s-space-force-to-compete-for-small-satellite-missions/" >🔗</a> **[SpaceNews]** Blue Origin, Stoke Space selected by U.S. Space Force to compete for small satellite missions
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-3-2024/" >🔗</a> **[NASA]** The Marshall Star for July 3, 2024
-- <a href="https://spacenews.com/sentinel-2c-ready-for-transatlantic-trip-to-farewell-vega-launch/" >🔗</a> **[SpaceNews]** Sentinel-2C ready for transatlantic trip to farewell Vega launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T153101">2024-07-04 15:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240704T160128">2024-07-04 16:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
