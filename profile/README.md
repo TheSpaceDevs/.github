@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Webb_admires_bejewelled_ring" >🔗</a> **[ESA]** Webb admires bejewelled ring
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Europe_s_Earth_Return_Orbiter_reaches_design_maturity" >🔗</a> **[ESA]** Europe’s Earth Return Orbiter reaches design maturity
 - <a href="https://europeanspaceflight.com/airbus-awarded-e2-1b-to-build-german-military-communications-system/" >🔗</a> **[European Spaceflight]** Airbus Awarded €2.1B to Build German Military Communications System
 - <a href="https://www.nasa.gov/image-article/eight-cubesats-lift-off-for-nasa-on-firefly-aerospace-rocket/" >🔗</a> **[NASA]** Eight CubeSats Lift Off for NASA on Firefly Aerospace Rocket!
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_flight_timeline" >🔗</a> **[ESA]** Ariane 6 first flight timeline
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/07/graceful-exit-part-1-how-to-responsibly-retire-iss/" >🔗</a> **[Space Scout]** A Graceful Exit, Part 1: How to Responsibly Retire ISS
 - <a href="https://spacenews.com/firefly-aerospace-launches-nasa-sponsored-cubesats/" >🔗</a> **[SpaceNews]** Firefly Aerospace launches NASA-sponsored cubesats
 - <a href="https://spacenews.com/airbus-secures-2-5-billion-german-military-satellite-contract/" >🔗</a> **[SpaceNews]** Airbus secures $2.5 billion German military satellite contract
-- <a href="https://europeanspaceflight.com/payload-for-final-vega-flight-aboard-ariane-6-transport-headed-to-kourou/" >🔗</a> **[European Spaceflight]** Payload for Final Vega Flight Aboard Ariane 6 Transport Headed to Kourou
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_passengers_with_names" >🔗</a> **[ESA]** Ariane 6 first passengers – with names
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T080121">2024-07-05 08:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T083219">2024-07-05 08:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
