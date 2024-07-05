@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Europe_s_next_big_rocket_in_a_nutshell" >🔗</a> **[ESA]** Ariane 6: Europe’s next big rocket in a nutshell
+- <a href="https://europeanspaceflight.com/ilr-33-amber-2k-makes-history-as-polands-first-rocket-to-reach-space/" >🔗</a> **[European Spaceflight]** ILR-33 Amber 2K Makes History as Poland’s First Rocket to Reach Space
 - <a href="https://spacenews.com/kazakhstan-joins-chinas-ilrs-moon-base-program/" >🔗</a> **[SpaceNews]** Kazakhstan joins China’s ILRS moon base program
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Madeira" >🔗</a> **[ESA]** Earth from Space: Madeira
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Webb_admires_bejewelled_ring" >🔗</a> **[ESA]** Webb admires bejewelled ring
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/eight-cubesats-lift-off-for-nasa-on-firefly-aerospace-rocket/" >🔗</a> **[NASA]** Eight CubeSats Lift Off for NASA on Firefly Aerospace Rocket!
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_flight_timeline" >🔗</a> **[ESA]** Ariane 6 first flight timeline
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_offers_a_sneak_peek_into_Earth_s_energy_balance" >🔗</a> **[ESA]** EarthCARE offers a sneak peek into Earth’s energy balance
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launch_how_to_watch_and_what_to_look_out_for" >🔗</a> **[ESA]** Ariane 6 launch: how to watch and what to look out for
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T113101">2024-07-05 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T120146">2024-07-05 12:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
