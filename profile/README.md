@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-present-at-national-rural-stem-summit/" >🔗</a> **[NASA]** NASA Science Activation Teams Present at National Rural STEM Summit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_July_2024" >🔗</a> **[ESA]** Week in images: 01-05 July 2024
 - <a href="https://spacenews.com/regulating-outer-space-after-loper-bright/" >🔗</a> **[SpaceNews]** Regulating outer space after Loper Bright
 - <a href="https://spacenews.com/the-space-relayers-nasas-latest-bet-on-the-private-sector-is-starting-to-take-shape/" >🔗</a> **[SpaceNews]** The Space Relayers: NASA’s latest bet on the private sector is starting to take shape
 - <a href="https://spacenews.com/foust-forward-whos-afraid-of-the-big-bad-starship/" >🔗</a> **[SpaceNews]** Foust Forward: Who’s afraid of the big bad Starship?
-- <a href="https://spacenews.com/seeding-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Seeding the future of space warfare
 - <a href="https://spacenews.com/connecting-the-dots-from-oil-to-orbit/" >🔗</a> **[SpaceNews]** Connecting the Dots: From oil to orbit
 - <a href="https://spacenews.com/what-the-biggest-solar-storm-in-decades-revealed-about-space-system-resilience/" >🔗</a> **[SpaceNews]** What the biggest solar storm in decades revealed about space system resilience
+- <a href="https://spacenews.com/seeding-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Seeding the future of space warfare
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/ESA_Council_decisions_set_the_stage_for_more_diverse_European_launch_services" >🔗</a> **[ESA]** ESA Council decisions set the stage for more diverse  European launch services
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Europe_s_next_big_rocket_in_a_nutshell" >🔗</a> **[ESA]** Ariane 6: Europe’s next big rocket in a nutshell
-- <a href="https://europeanspaceflight.com/ilr-33-amber-2k-makes-history-as-polands-first-rocket-to-reach-space/" >🔗</a> **[European Spaceflight]** ILR-33 Amber 2K Makes History as Poland’s First Rocket to Reach Space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T170114">2024-07-05 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T173109">2024-07-05 17:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
