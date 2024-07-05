@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Webb_admires_bejewelled_ring" >🔗</a> **[ESA]** Webb admires bejewelled ring
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Europe_s_next_big_rocket_in_a_nutshell" >🔗</a> **[ESA]** Ariane 6: Europe’s next big rocket in a nutshell
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Madeira" >🔗</a> **[ESA]** Earth from Space: Madeira
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Webb_admires_bejewelled_ring" >🔗</a> **[ESA]** Webb admires bejewelled ring
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Europe_s_Earth_Return_Orbiter_reaches_design_maturity" >🔗</a> **[ESA]** Europe’s Earth Return Orbiter reaches design maturity
 - <a href="https://europeanspaceflight.com/airbus-awarded-e2-1b-to-build-german-military-communications-system/" >🔗</a> **[European Spaceflight]** Airbus Awarded €2.1B to Build German Military Communications System
 - <a href="https://www.nasa.gov/image-article/eight-cubesats-lift-off-for-nasa-on-firefly-aerospace-rocket/" >🔗</a> **[NASA]** Eight CubeSats Lift Off for NASA on Firefly Aerospace Rocket!
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_offers_a_sneak_peek_into_Earth_s_energy_balance" >🔗</a> **[ESA]** EarthCARE offers a sneak peek into Earth’s energy balance
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launch_how_to_watch_and_what_to_look_out_for" >🔗</a> **[ESA]** Ariane 6 launch: how to watch and what to look out for
 - <a href="https://www.spacescout.info/2024/07/graceful-exit-part-1-how-to-responsibly-retire-iss/" >🔗</a> **[Space Scout]** A Graceful Exit, Part 1: How to Responsibly Retire ISS
-- <a href="https://spacenews.com/firefly-aerospace-launches-nasa-sponsored-cubesats/" >🔗</a> **[SpaceNews]** Firefly Aerospace launches NASA-sponsored cubesats
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T093106">2024-07-05 09:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240705T100115">2024-07-05 10:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
