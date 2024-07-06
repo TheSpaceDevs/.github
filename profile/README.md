@@ -100,7 +100,7 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_July_2024" >🔗</a> **[ESA]** Week in images: 01-05 July 2024
 - <a href="https://spacenews.com/regulating-outer-space-after-loper-bright/" >🔗</a> **[SpaceNews]** Regulating outer space after Loper Bright
 - <a href="https://spacenews.com/connecting-the-dots-from-oil-to-orbit/" >🔗</a> **[SpaceNews]** Connecting the Dots: From oil to orbit
-- <a href="https://spacenews.com/foust-forward-whos-afraid-of-the-big-bad-starship/" >🔗</a> **[SpaceNews]** Foust Forward: Who’s afraid of the big bad Starship?
+- <a href="https://spacenews.com/the-space-relayers-nasas-latest-bet-on-the-private-sector-is-starting-to-take-shape/" >🔗</a> **[SpaceNews]** The Space Relayers: NASA’s latest bet on the private sector is starting to take shape
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T070108">2024-07-06 07:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T073109">2024-07-06 07:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
