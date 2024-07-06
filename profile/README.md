@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4236-4238-one-more-time-for-contact-science-at-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4236-4238: One More Time… for Contact Science at Mammoth Lakes
 - <a href="https://spacenews.com/super-press-release-test/" >🔗</a> **[SpaceNews]** Super Press Release Test
 - <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
 - <a href="https://www.nasaspaceflight.com/2024/07/pad-b-booster-12-static-fire/" >🔗</a> **[NASASpaceflight]** Pad B Starts to Rise As Booster 12 Static Fire nears
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-present-at-national-rural-stem-summit/" >🔗</a> **[NASA]** NASA Science Activation Teams Present at National Rural STEM Summit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_July_2024" >🔗</a> **[ESA]** Week in images: 01-05 July 2024
 - <a href="https://spacenews.com/regulating-outer-space-after-loper-bright/" >🔗</a> **[SpaceNews]** Regulating outer space after Loper Bright
-- <a href="https://spacenews.com/connecting-the-dots-from-oil-to-orbit/" >🔗</a> **[SpaceNews]** Connecting the Dots: From oil to orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T180120">2024-07-06 18:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T183218">2024-07-06 18:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
