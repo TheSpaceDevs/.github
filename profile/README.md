@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/airbus-secures-german-military-contract-for-next-generation-communications-satellites" >🔗</a> **[The Launch Pad]** Airbus Secures $2.5 Billion German Military Contract for Next-Generation Communications Satellites
+- <a href="https://tlpnetwork.com/news/asia/kazakhstan-joins-china-led-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Kazakhstan Joins China-Led International Lunar Research Station
 - <a href="https://science.nasa.gov/blogs/sols-4236-4238-one-more-time-for-contact-science-at-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4236-4238: One More Time… for Contact Science at Mammoth Lakes
 - <a href="https://spacenews.com/super-press-release-test/" >🔗</a> **[SpaceNews]** Super Press Release Test
 - <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-breath-diagnostics-challenge/" >🔗</a> **[NASA]** The NASA Breath Diagnostics Challenge
 - <a href="https://arstechnica.com/space/2024/07/spacex-video-teases-potential-starship-booster-catch-on-next-flight/" >🔗</a> **[Arstechnica]** SpaceX video teases potential Starship booster “catch” on next flight
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-present-at-national-rural-stem-summit/" >🔗</a> **[NASA]** NASA Science Activation Teams Present at National Rural STEM Summit
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_July_2024" >🔗</a> **[ESA]** Week in images: 01-05 July 2024
-- <a href="https://spacenews.com/regulating-outer-space-after-loper-bright/" >🔗</a> **[SpaceNews]** Regulating outer space after Loper Bright
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T190120">2024-07-06 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T193100">2024-07-06 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
