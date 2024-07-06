@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/blue-origin-and-stoke-space-to-compete-for-us-space-force-small-satellite-missions" >🔗</a> **[The Launch Pad]** Blue Origin & Stoke Space to Compete for US Space Force Small Satellite Missions
 - <a href="https://tlpnetwork.com/news/europe/airbus-secures-german-military-contract-for-next-generation-communications-satellites" >🔗</a> **[The Launch Pad]** Airbus Secures $2.5 Billion German Military Contract for Next-Generation Communications Satellites
 - <a href="https://tlpnetwork.com/news/asia/kazakhstan-joins-china-led-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Kazakhstan Joins China-Led International Lunar Research Station
 - <a href="https://science.nasa.gov/blogs/sols-4236-4238-one-more-time-for-contact-science-at-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4236-4238: One More Time… for Contact Science at Mammoth Lakes
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/ovzons-debut-broadband-satellite-ready-for-commercial-service/" >🔗</a> **[SpaceNews]** Ovzon’s debut broadband satellite ready for commercial service
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-breath-diagnostics-challenge/" >🔗</a> **[NASA]** The NASA Breath Diagnostics Challenge
 - <a href="https://arstechnica.com/space/2024/07/spacex-video-teases-potential-starship-booster-catch-on-next-flight/" >🔗</a> **[Arstechnica]** SpaceX video teases potential Starship booster “catch” on next flight
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-present-at-national-rural-stem-summit/" >🔗</a> **[NASA]** NASA Science Activation Teams Present at National Rural STEM Summit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T193100">2024-07-06 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T200125">2024-07-06 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
