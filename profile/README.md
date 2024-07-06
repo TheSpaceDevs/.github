@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
 - <a href="https://www.nasaspaceflight.com/2024/07/pad-b-booster-12-static-fire/" >🔗</a> **[NASASpaceflight]** Pad B Starts to Rise As Booster 12 Static Fire nears
 - <a href="https://spacenews.com/ovzons-debut-broadband-satellite-ready-for-commercial-service/" >🔗</a> **[SpaceNews]** Ovzon’s debut broadband satellite ready for commercial service
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-breath-diagnostics-challenge/" >🔗</a> **[NASA]** The NASA Breath Diagnostics Challenge
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_July_2024" >🔗</a> **[ESA]** Week in images: 01-05 July 2024
 - <a href="https://spacenews.com/regulating-outer-space-after-loper-bright/" >🔗</a> **[SpaceNews]** Regulating outer space after Loper Bright
 - <a href="https://spacenews.com/connecting-the-dots-from-oil-to-orbit/" >🔗</a> **[SpaceNews]** Connecting the Dots: From oil to orbit
-- <a href="https://spacenews.com/the-space-relayers-nasas-latest-bet-on-the-private-sector-is-starting-to-take-shape/" >🔗</a> **[SpaceNews]** The Space Relayers: NASA’s latest bet on the private sector is starting to take shape
 - <a href="https://spacenews.com/foust-forward-whos-afraid-of-the-big-bad-starship/" >🔗</a> **[SpaceNews]** Foust Forward: Who’s afraid of the big bad Starship?
 
 
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T060129">2024-07-06 06:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240706T063311">2024-07-06 06:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
