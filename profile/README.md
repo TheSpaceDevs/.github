@@ -92,6 +92,8 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://blogs.esa.int/rocketscience/2024/07/04/juice-returns-to-earth-this-summer/" >🔗</a> **[ESA]** Juice's lunar-Earth flyby link to blog
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Highlights_from_ESA_s_first_open_day_in_the_UK" >🔗</a> **[ESA]** Highlights from ESA’s first open day in the UK
+- <a href="https://spacenews.com/military-to-civilian-space-traffic-transitionnears-critical-juncture/" >🔗</a> **[SpaceNews]** Military-to-civilian space traffic transition nears critical juncture
 - <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
 - <a href="https://europeanspaceflight.com/could-avios-finalized-split-from-arianespace-offer-an-opening-for-competitors/" >🔗</a> **[European Spaceflight]** Could Avio’s Finalized Split from Arianespace Offer an Opening for Competitors?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
 - <a href="https://spacepolicyonline.com/news/four-analog-astronauts-complete-378-day-practice-mars-mission/" >🔗</a> **[SpacePolicyOnline.com]** Four Analog Astronauts Complete 378-Day Practice Mars Mission
 - <a href="https://spacenews.com/low-intensity-explosion-caused-russian-satellite-to-spew-debris/" >🔗</a> **[SpaceNews]** Low-intensity explosion caused Russian satellite to spew debris
-- <a href="https://tlpnetwork.com/news/america/blue-origin-and-stoke-space-to-compete-for-us-space-force-small-satellite-missions" >🔗</a> **[The Launch Pad]** Blue Origin & Stoke Space to Compete for US Space Force Small Satellite Missions
-- <a href="https://tlpnetwork.com/news/europe/airbus-secures-german-military-contract-for-next-generation-communications-satellites" >🔗</a> **[The Launch Pad]** Airbus Secures $2.5 Billion German Military Contract for Next-Generation Communications Satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T130307">2024-07-08 13:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T133209">2024-07-08 13:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
