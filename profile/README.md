@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-preparing-for-the-age-of-proliferated-low-earth-orbit-satellite-networks/" >🔗</a> **[SpaceNews]** Space Force preparing for the age of proliferated low Earth orbit satellite networks
+- <a href="https://spacenews.com/pentagon-greenlights-140-billion-icbm-program-despite-cost-overruns/" >🔗</a> **[SpaceNews]** Pentagon greenlights $140 billion ICBM program despite cost overruns
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
 - <a href="https://www.nasa.gov/image-article/30-years-ago-sts-65-lifts-off/" >🔗</a> **[NASA]** 30 Years Ago: STS-65 Lifts Off
 - <a href="https://spacenews.com/nine-ventures-join-first-socal-uk-space-accelerator/" >🔗</a> **[SpaceNews]** Nine ventures join first SoCal-UK Space Accelerator
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 - <a href="https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/" >🔗</a> **[NASA]** Happy Birthday, Meatball! NASA’s Iconic Logo Turns 65
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
-- <a href="https://spacenews.com/mda-space-taps-aerospacelab-for-satellite-components/" >🔗</a> **[SpaceNews]** MDA Space taps Aerospacelab for satellite components
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T203055">2024-07-08 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T210110">2024-07-08 21:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
