@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-boeing-provide-next-update-on-space-station-crew-flight-test/" >🔗</a> **[NASA]** NASA, Boeing Provide Next Update on Space Station Crew Flight Test
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-20th-cargo-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman’s 20th Cargo Space Station Departure
 - <a href="https://spacenews.com/jaxa-to-support-work-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** JAXA to support work on commercial space station technologies
 - <a href="https://spacenews.com/space-force-preparing-for-the-age-of-proliferated-low-earth-orbit-satellite-networks/" >🔗</a> **[SpaceNews]** Space Force preparing for the age of proliferated low Earth orbit satellite networks
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/nine-ventures-join-first-socal-uk-space-accelerator/" >🔗</a> **[SpaceNews]** Nine ventures join first SoCal-UK Space Accelerator
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasas-neurodiversity-network-interns-speak-at-national-space-development-conference/" >🔗</a> **[NASA]** NASA’s Neurodiversity Network Interns Speak at National Space Development Conference
 - <a href="https://spaceflightnow.com/2024/07/08/live-coverage-spacex-to-launch-turkish-communications-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Turkish satellite on Falcon 9 flight from Cape Canaveral
-- <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T220122">2024-07-08 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T223136">2024-07-08 22:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
