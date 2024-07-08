@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/could-avios-finalized-split-from-arianespace-offer-an-opening-for-competitors/" >🔗</a> **[European Spaceflight]** Could Avio’s Finalized Split from Arianespace Offer an Opening for Competitors?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-7-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 7-13, 2024
 - <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/europe/airbus-secures-german-military-contract-for-next-generation-communications-satellites" >🔗</a> **[The Launch Pad]** Airbus Secures $2.5 Billion German Military Contract for Next-Generation Communications Satellites
 - <a href="https://tlpnetwork.com/news/asia/kazakhstan-joins-china-led-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Kazakhstan Joins China-Led International Lunar Research Station
 - <a href="https://science.nasa.gov/blogs/sols-4236-4238-one-more-time-for-contact-science-at-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4236-4238: One More Time… for Contact Science at Mammoth Lakes
-- <a href="https://spacenews.com/super-press-release-test/" >🔗</a> **[SpaceNews]** Super Press Release Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T110125">2024-07-08 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T113107">2024-07-08 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
