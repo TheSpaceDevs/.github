@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
+- <a href="https://europeanspaceflight.com/orbital-defense-company-dark-completes-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Orbital Defense Company Dark Completes Hot Fire Test Campaign
 - <a href="https://blogs.esa.int/rocketscience/2024/07/04/juice-returns-to-earth-this-summer/" >🔗</a> **[ESA]** Juice's lunar-Earth flyby link to blog
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Highlights_from_ESA_s_first_open_day_in_the_UK" >🔗</a> **[ESA]** Highlights from ESA’s first open day in the UK
 - <a href="https://spacenews.com/military-to-civilian-space-traffic-transitionnears-critical-juncture/" >🔗</a> **[SpaceNews]** Military-to-civilian space traffic transition nears critical juncture
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-7-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 7-13, 2024
 - <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
-- <a href="https://spacepolicyonline.com/news/four-analog-astronauts-complete-378-day-practice-mars-mission/" >🔗</a> **[SpacePolicyOnline.com]** Four Analog Astronauts Complete 378-Day Practice Mars Mission
-- <a href="https://spacenews.com/low-intensity-explosion-caused-russian-satellite-to-spew-debris/" >🔗</a> **[SpaceNews]** Low-intensity explosion caused Russian satellite to spew debris
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T140121">2024-07-08 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T143245">2024-07-08 14:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
