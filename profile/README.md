@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-7-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 7-13, 2024
 - <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
 - <a href="https://spacepolicyonline.com/news/four-analog-astronauts-complete-378-day-practice-mars-mission/" >🔗</a> **[SpacePolicyOnline.com]** Four Analog Astronauts Complete 378-Day Practice Mars Mission
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://tlpnetwork.com/news/asia/kazakhstan-joins-china-led-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Kazakhstan Joins China-Led International Lunar Research Station
 - <a href="https://science.nasa.gov/blogs/sols-4236-4238-one-more-time-for-contact-science-at-mammoth-lakes/" >🔗</a> **[NASA]** Sols 4236-4238: One More Time… for Contact Science at Mammoth Lakes
 - <a href="https://spacenews.com/super-press-release-test/" >🔗</a> **[SpaceNews]** Super Press Release Test
-- <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T090117">2024-07-08 09:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T093104">2024-07-08 09:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
