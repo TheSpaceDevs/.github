@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T212000">2024-07-08 21:20:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T212100">2024-07-08 21:21:00 UTC</a>.  Until
 then, this pad will have been used for 251
 out of 963 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T212000">2024-07-08 21:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Türksat 6A&location=Cape Canaveral, FL, USA&dates=20240708T212000Z%2F20240709T014300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Türksat 6A** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T212100">2024-07-08 21:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Türksat 6A&location=Cape Canaveral, FL, USA&dates=20240708T212100Z%2F20240709T012100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Türksat 6A** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T180000">2024-07-09 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Maiden Flight&location=Guiana Space Centre, French Guiana&dates=20240709T180000Z%2F20240709T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Maiden Flight** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T020000">2024-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240711T020000Z%2F20240711T063100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T082000">2024-07-12 08:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240712T082000Z%2F20240712T125000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/" >🔗</a> **[NASA]** Happy Birthday, Meatball! NASA’s Iconic Logo Turns 65
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 - <a href="https://spacenews.com/mda-space-taps-aerospacelab-for-satellite-components/" >🔗</a> **[SpaceNews]** MDA Space taps Aerospacelab for satellite components
 - <a href="https://spacenews.com/scout-space-selected-for-darpas-commercial-tech-initiative/" >🔗</a> **[SpaceNews]** Scout Space selected for DARPA’s commercial tech initiative
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://europeanspaceflight.com/orbital-defense-company-dark-completes-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Orbital Defense Company Dark Completes Hot Fire Test Campaign
 - <a href="https://blogs.esa.int/rocketscience/2024/07/04/juice-returns-to-earth-this-summer/" >🔗</a> **[ESA]** Juice's lunar-Earth flyby link to blog
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Highlights_from_ESA_s_first_open_day_in_the_UK" >🔗</a> **[ESA]** Highlights from ESA’s first open day in the UK
-- <a href="https://spacenews.com/military-to-civilian-space-traffic-transitionnears-critical-juncture/" >🔗</a> **[SpaceNews]** Military-to-civilian space traffic transition nears critical juncture
-- <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T170119">2024-07-08 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T173100">2024-07-08 17:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
