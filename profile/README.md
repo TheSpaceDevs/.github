@@ -47,7 +47,7 @@ into *a Geostationary Transfer Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T180000">2024-07-09 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Maiden Flight&location=Guiana Space Centre, French Guiana&dates=20240709T180000Z%2F20240709T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Maiden Flight** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T020000">2024-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240711T020000Z%2F20240711T063100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T020000">2024-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240711T020000Z%2F20240711T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T082000">2024-07-12 08:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240712T082000Z%2F20240712T125000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T000000">2024-07-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20240715T000000Z%2F20240715T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 3 & 4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T000000">2024-07-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240718T000000Z%2F20240718T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-20th-cargo-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman’s 20th Cargo Space Station Departure
+- <a href="https://spacenews.com/jaxa-to-support-work-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** JAXA to support work on commercial space station technologies
 - <a href="https://spacenews.com/space-force-preparing-for-the-age-of-proliferated-low-earth-orbit-satellite-networks/" >🔗</a> **[SpaceNews]** Space Force preparing for the age of proliferated low Earth orbit satellite networks
 - <a href="https://spacenews.com/pentagon-greenlights-140-billion-icbm-program-despite-cost-overruns/" >🔗</a> **[SpaceNews]** Pentagon greenlights $140 billion ICBM program despite cost overruns
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasas-neurodiversity-network-interns-speak-at-national-space-development-conference/" >🔗</a> **[NASA]** NASA’s Neurodiversity Network Interns Speak at National Space Development Conference
 - <a href="https://spaceflightnow.com/2024/07/08/live-coverage-spacex-to-launch-turkish-communications-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Turkish satellite on Falcon 9 flight from Cape Canaveral
 - <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
-- <a href="https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/" >🔗</a> **[NASA]** Happy Birthday, Meatball! NASA’s Iconic Logo Turns 65
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T213058">2024-07-08 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T220122">2024-07-08 22:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
