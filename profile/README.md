@@ -92,15 +92,15 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
+- <a href="https://spacenews.com/scout-space-selected-for-darpas-commercial-tech-initiative/" >🔗</a> **[SpaceNews]** Scout Space selected for DARPA’s commercial tech initiative
+- <a href="https://www.nasa.gov/general/nextstep-q-cis-capability-studies-iii-lunar-user-terminals-network-orchestration-and-management-system/" >🔗</a> **[NASA]** NextSTEP Q: CIS Capability Studies III – Lunar User Terminals & Network Orchestration and Management System
+- <a href="https://science.nasa.gov/missions/webb/nasas-begona-vila-awarded-2024-galician-excellence-award/" >🔗</a> **[NASA]** NASA’s Begoña Vila Awarded 2024 Galician Excellence Award
 - <a href="https://europeanspaceflight.com/orbital-defense-company-dark-completes-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Orbital Defense Company Dark Completes Hot Fire Test Campaign
 - <a href="https://blogs.esa.int/rocketscience/2024/07/04/juice-returns-to-earth-this-summer/" >🔗</a> **[ESA]** Juice's lunar-Earth flyby link to blog
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Highlights_from_ESA_s_first_open_day_in_the_UK" >🔗</a> **[ESA]** Highlights from ESA’s first open day in the UK
 - <a href="https://spacenews.com/military-to-civilian-space-traffic-transitionnears-critical-juncture/" >🔗</a> **[SpaceNews]** Military-to-civilian space traffic transition nears critical juncture
 - <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
 - <a href="https://europeanspaceflight.com/could-avios-finalized-split-from-arianespace-offer-an-opening-for-competitors/" >🔗</a> **[European Spaceflight]** Could Avio’s Finalized Split from Arianespace Offer an Opening for Competitors?
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-7-13-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 7-13, 2024
-- <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T150118">2024-07-08 15:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T153108">2024-07-08 15:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
