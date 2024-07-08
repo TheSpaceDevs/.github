@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://blogs.esa.int/rocketscience/2024/07/04/juice-returns-to-earth-this-summer/" >🔗</a> **[ESA]** Juice's lunar-Earth flyby link to blog
 - <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
 - <a href="https://europeanspaceflight.com/could-avios-finalized-split-from-arianespace-offer-an-opening-for-competitors/" >🔗</a> **[European Spaceflight]** Could Avio’s Finalized Split from Arianespace Offer an Opening for Competitors?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/low-intensity-explosion-caused-russian-satellite-to-spew-debris/" >🔗</a> **[SpaceNews]** Low-intensity explosion caused Russian satellite to spew debris
 - <a href="https://tlpnetwork.com/news/america/blue-origin-and-stoke-space-to-compete-for-us-space-force-small-satellite-missions" >🔗</a> **[The Launch Pad]** Blue Origin & Stoke Space to Compete for US Space Force Small Satellite Missions
 - <a href="https://tlpnetwork.com/news/europe/airbus-secures-german-military-contract-for-next-generation-communications-satellites" >🔗</a> **[The Launch Pad]** Airbus Secures $2.5 Billion German Military Contract for Next-Generation Communications Satellites
-- <a href="https://tlpnetwork.com/news/asia/kazakhstan-joins-china-led-international-lunar-research-station" >🔗</a> **[The Launch Pad]** Kazakhstan Joins China-Led International Lunar Research Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T120132">2024-07-08 12:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T124017">2024-07-08 12:40:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
