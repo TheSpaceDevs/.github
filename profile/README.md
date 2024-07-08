@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nine-ventures-join-first-socal-uk-space-accelerator/" >🔗</a> **[SpaceNews]** Nine ventures join first SoCal-UK Space Accelerator
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasas-neurodiversity-network-interns-speak-at-national-space-development-conference/" >🔗</a> **[NASA]** NASA’s Neurodiversity Network Interns Speak at National Space Development Conference
 - <a href="https://spaceflightnow.com/2024/07/08/live-coverage-spacex-to-launch-turkish-communications-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Turkish satellite on Falcon 9 flight from Cape Canaveral
 - <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 - <a href="https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/" >🔗</a> **[NASA]** Happy Birthday, Meatball! NASA’s Iconic Logo Turns 65
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 - <a href="https://spacenews.com/scout-space-selected-for-darpas-commercial-tech-initiative/" >🔗</a> **[SpaceNews]** Scout Space selected for DARPA’s commercial tech initiative
 - <a href="https://www.nasa.gov/general/nextstep-q-cis-capability-studies-iii-lunar-user-terminals-network-orchestration-and-management-system/" >🔗</a> **[NASA]** NextSTEP Q: CIS Capability Studies III – Lunar User Terminals & Network Orchestration and Management System
-- <a href="https://science.nasa.gov/missions/webb/nasas-begona-vila-awarded-2024-galician-excellence-award/" >🔗</a> **[NASA]** NASA’s Begoña Vila Awarded 2024 Galician Excellence Award
-- <a href="https://europeanspaceflight.com/orbital-defense-company-dark-completes-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Orbital Defense Company Dark Completes Hot Fire Test Campaign
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T190113">2024-07-08 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T193058">2024-07-08 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
