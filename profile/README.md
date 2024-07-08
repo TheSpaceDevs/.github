@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/07/08/live-coverage-spacex-to-launch-turkish-communications-satellite-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Turkish satellite on Falcon 9 flight from Cape Canaveral
+- <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 - <a href="https://www.nasa.gov/general/happy-birthday-meatball-nasas-iconic-logo-turns-65/" >🔗</a> **[NASA]** Happy Birthday, Meatball! NASA’s Iconic Logo Turns 65
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 - <a href="https://spacenews.com/mda-space-taps-aerospacelab-for-satellite-components/" >🔗</a> **[SpaceNews]** MDA Space taps Aerospacelab for satellite components
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 - <a href="https://spacenews.com/scout-space-selected-for-darpas-commercial-tech-initiative/" >🔗</a> **[SpaceNews]** Scout Space selected for DARPA’s commercial tech initiative
 - <a href="https://www.nasa.gov/general/nextstep-q-cis-capability-studies-iii-lunar-user-terminals-network-orchestration-and-management-system/" >🔗</a> **[NASA]** NextSTEP Q: CIS Capability Studies III – Lunar User Terminals & Network Orchestration and Management System
 - <a href="https://science.nasa.gov/missions/webb/nasas-begona-vila-awarded-2024-galician-excellence-award/" >🔗</a> **[NASA]** NASA’s Begoña Vila Awarded 2024 Galician Excellence Award
 - <a href="https://europeanspaceflight.com/orbital-defense-company-dark-completes-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Orbital Defense Company Dark Completes Hot Fire Test Campaign
-- <a href="https://blogs.esa.int/rocketscience/2024/07/04/juice-returns-to-earth-this-summer/" >🔗</a> **[ESA]** Juice's lunar-Earth flyby link to blog
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Highlights_from_ESA_s_first_open_day_in_the_UK" >🔗</a> **[ESA]** Highlights from ESA’s first open day in the UK
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T173100">2024-07-08 17:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240708T180124">2024-07-08 18:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
