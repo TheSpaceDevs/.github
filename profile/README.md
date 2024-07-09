@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ariane 62 | Maiden Flight**. It is scheduled to be launched by *European Space Agency*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T180000">2024-07-09 18:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 320 launches from this location. The launch status is currently
+**Hyperbola-1 | Unknown Payload**. It is scheduled to be launched by *iSpace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T233300">2024-07-10 23:33:00 UTC</a>.  Until
+then, this pad will have been used for 54
+out of 228 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Maiden Flight of the Ariane 62 launch vehicle, carrying ten cubesats, two deployers, five experiments, and two reentry capsules.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_6" >
+  <a href="https://en.wikipedia.org/wiki/I-Space_(Chinese_company)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.256319,-52.786838" >
+  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Capella Acadia 3&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Capella Acadia 3** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html" >🔗</a> **[CNBC]** First Ariane 6 rocket launches, as Europe rejoins a market dominated by Musk’s SpaceX
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-65th-birthday-celebration-for-iconic-logo/" >🔗</a> **[NASA]** NASA Invites Media to 65th Birthday Celebration for Iconic Logo
 - <a href="https://www.nasa.gov/general/nasa-technology-soars-at-selfridge-air-show/" >🔗</a> **[NASA]** NASA Technology Soars at Selfridge Air Show
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
@@ -99,26 +101,15 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
 - <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
 - <a href="https://spacenews.com/maxar-upgrades-satellite-imagery-basemaps/" >🔗</a> **[SpaceNews]** Maxar upgrades satellite imagery basemaps
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-polar-peaks-to-celestial-heights-christy-hansens-unique-path-to-leading-nasas-commercial-low-earth-orbit-development-program/" >🔗</a> **[NASA]** From Polar Peaks to Celestial Heights: Christy Hansen’s Unique Path to Leading NASA’s Commercial Low Earth Orbit Development Program
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_sees_first_light_as_mobile_gantry_is_rolled_back_before_fuelling_begins" >🔗</a> **[ESA]** Ariane 6 sees 'first light' as mobile gantry is rolled back before fuelling begins
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
-- <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_of_launch" >🔗</a> **[ESA]** Ariane 6 the day of launch
-- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
-- <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T190115">2024-07-09 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T193102">2024-07-09 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
