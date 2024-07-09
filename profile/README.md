@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space" >🔗</a> **[ESA]** Europe's new Ariane 6 rocket powers into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_takes_flight" >🔗</a> **[ESA]** Ariane 6 takes flight
-- <a href="https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html" >🔗</a> **[CNBC]** First Ariane 6 rocket launches, as Europe rejoins a market dominated by Musk’s SpaceX
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_liftoff" >🔗</a> **[ESA]** Ariane 6 first liftoff
+- <a href="https://spacenews.com/astroscale-spacecraft-continues-inspection-of-upper-stage/" >🔗</a> **[SpaceNews]** Astroscale spacecraft continues inspection of upper stage
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/essence-fest-2024/" >🔗</a> **[NASA]** NASA Inspires at 2024 ESSENCE Fest in New Orleans
+- <a href="https://europeanspaceflight.com/ariane-6-rocket-successfully-launched-for-the-first-time/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Successfully Launched for the First Time
+- <a href="https://arstechnica.com/science/2024/07/well-houston-just-rode-out-hurricane-beryl-and-let-me-tell-you-it-blew/" >🔗</a> **[Arstechnica]** Beryl is just the latest disaster to strike the energy capital of the world
+- <a href="https://spacenews.com/ariane-6-performs-flawlessly-on-long-awaited-first-flight/" >🔗</a> **[SpaceNews]** Ariane 6 performs flawlessly on long-awaited first flight
+- <a href="https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html" >🔗</a> **[CNBC]** First Ariane 6 rocket launches as Europe rejoins a market dominated by Musk’s SpaceX
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-65th-birthday-celebration-for-iconic-logo/" >🔗</a> **[NASA]** NASA Invites Media to 65th Birthday Celebration for Iconic Logo
-- <a href="https://www.nasa.gov/general/nasa-technology-soars-at-selfridge-air-show/" >🔗</a> **[NASA]** NASA Technology Soars at Selfridge Air Show
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
-- <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-the-heliophysics-big-year-with-free-heliophysics-and-math-webinars-from-nasa-heat/" >🔗</a> **[NASA]** Celebrate the Heliophysics Big Year with Free Heliophysics and Math Webinars from NASA HEAT
-- <a href="https://www.nasa.gov/general/spectral-energies/" >🔗</a> **[NASA]** Spectral Energies is a NASA SBIR/STTR-Funded Tech that Could Change the Way We Fly
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_sees_first_light_as_mobile_gantry_is_rolled_back_before_fuelling_begins" >🔗</a> **[ESA]** Ariane 6 sees 'first light' as mobile gantry is rolled back before fuelling begins
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
-- <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T203059">2024-07-09 20:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T210113">2024-07-09 21:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
