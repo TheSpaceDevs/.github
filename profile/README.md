@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-65th-birthday-celebration-for-iconic-logo/" >🔗</a> **[NASA]** NASA Invites Media to 65th Birthday Celebration for Iconic Logo
 - <a href="https://www.nasa.gov/general/nasa-technology-soars-at-selfridge-air-show/" >🔗</a> **[NASA]** NASA Technology Soars at Selfridge Air Show
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
 - <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-the-heliophysics-big-year-with-free-heliophysics-and-math-webinars-from-nasa-heat/" >🔗</a> **[NASA]** Celebrate the Heliophysics Big Year with Free Heliophysics and Math Webinars from NASA HEAT
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
 - <a href="https://spacenews.com/maxar-upgrades-satellite-imagery-basemaps/" >🔗</a> **[SpaceNews]** Maxar upgrades satellite imagery basemaps
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-polar-peaks-to-celestial-heights-christy-hansens-unique-path-to-leading-nasas-commercial-low-earth-orbit-development-program/" >🔗</a> **[NASA]** From Polar Peaks to Celestial Heights: Christy Hansen’s Unique Path to Leading NASA’s Commercial Low Earth Orbit Development Program
-- <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T180119">2024-07-09 18:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T183331">2024-07-09 18:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
