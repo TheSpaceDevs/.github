@@ -47,7 +47,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T233300">2024-07-10 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240710T233300Z%2F20240711T003600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T020000">2024-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240711T020000Z%2F20240711T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T020000">2024-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240711T020000Z%2F20240711T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240714T073500">2024-07-14 07:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240714T073500Z%2F20240714T120500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T000000">2024-07-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240718T000000Z%2F20240718T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T000000">2024-07-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | USSF-51&location=Cape Canaveral, FL, USA&dates=20240730T000000Z%2F20240730T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | USSF-51** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/The_first_Ariane_6_rocket_soars_to_the_sky" >🔗</a> **[ESA]** The first Ariane 6 rocket soars to the sky
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space" >🔗</a> **[ESA]** Europe's new Ariane 6 rocket powers into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_takes_flight" >🔗</a> **[ESA]** Ariane 6 takes flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_liftoff" >🔗</a> **[ESA]** Ariane 6 first liftoff
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/science/2024/07/well-houston-just-rode-out-hurricane-beryl-and-let-me-tell-you-it-blew/" >🔗</a> **[Arstechnica]** Beryl is just the latest disaster to strike the energy capital of the world
 - <a href="https://spacenews.com/ariane-6-performs-flawlessly-on-long-awaited-first-flight/" >🔗</a> **[SpaceNews]** Ariane 6 performs flawlessly on long-awaited first flight
 - <a href="https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html" >🔗</a> **[CNBC]** First Ariane 6 rocket launches as Europe rejoins a market dominated by Musk’s SpaceX
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-65th-birthday-celebration-for-iconic-logo/" >🔗</a> **[NASA]** NASA Invites Media to 65th Birthday Celebration for Iconic Logo
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T213107">2024-07-09 21:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T220123">2024-07-09 22:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
