@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-appropriators-boost-mars-sample-return-while-cutting-science-overall/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Boost Mars Sample Return While Cutting Science Overall
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
 - <a href="https://spacenews.com/spacex-launches-turkeys-first-home-grown-communications-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Turkey’s first home-grown communications satellite
 - <a href="https://www.nasa.gov/image-article/nasa-moon-rocket-stage-for-artemis-ii-moved-prepped-for-shipment/" >🔗</a> **[NASA]** NASA Moon Rocket Stage for Artemis II Moved, Prepped for Shipment
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-preparing-for-the-age-of-proliferated-low-earth-orbit-satellite-networks/" >🔗</a> **[SpaceNews]** Space Force preparing for the age of proliferated low Earth orbit satellite networks
 - <a href="https://spacenews.com/pentagon-greenlights-140-billion-icbm-program-despite-cost-overruns/" >🔗</a> **[SpaceNews]** Pentagon greenlights $140 billion ICBM program despite cost overruns
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
-- <a href="https://www.nasa.gov/image-article/30-years-ago-sts-65-lifts-off/" >🔗</a> **[NASA]** 30 Years Ago: STS-65 Lifts Off
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T030129">2024-07-09 03:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T033304">2024-07-09 03:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
