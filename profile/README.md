@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_takes_flight" >🔗</a> **[ESA]** Ariane 6 takes flight
 - <a href="https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html" >🔗</a> **[CNBC]** First Ariane 6 rocket launches, as Europe rejoins a market dominated by Musk’s SpaceX
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-65th-birthday-celebration-for-iconic-logo/" >🔗</a> **[NASA]** NASA Invites Media to 65th Birthday Celebration for Iconic Logo
 - <a href="https://www.nasa.gov/general/nasa-technology-soars-at-selfridge-air-show/" >🔗</a> **[NASA]** NASA Technology Soars at Selfridge Air Show
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_sees_first_light_as_mobile_gantry_is_rolled_back_before_fuelling_begins" >🔗</a> **[ESA]** Ariane 6 sees 'first light' as mobile gantry is rolled back before fuelling begins
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
 - <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
-- <a href="https://spacenews.com/maxar-upgrades-satellite-imagery-basemaps/" >🔗</a> **[SpaceNews]** Maxar upgrades satellite imagery basemaps
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T193102">2024-07-09 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T200114">2024-07-09 20:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
