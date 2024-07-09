@@ -33,7 +33,7 @@ into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Maiden Flight of the Ariane 62 launcher from Korou.
+  Maiden Flight of the Ariane 62 launch vehicle, carrying ten cubesats, two deployers, five experiments, and two reentry capsules.
 </blockquote>
 
 <p float="left" align="center">
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-spending-bill-directs-nasa-to-study-asteroid-and-orbital-debris-missions/" >🔗</a> **[SpaceNews]** House spending bill directs NASA to study asteroid and orbital debris missions
 - <a href="https://spacepolicyonline.com/news/house-appropriators-boost-mars-sample-return-while-cutting-science-overall/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Boost Mars Sample Return While Cutting Science Overall
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
 - <a href="https://spacenews.com/spacex-launches-turkeys-first-home-grown-communications-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Turkey’s first home-grown communications satellite
@@ -100,12 +101,13 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/jaxa-to-support-work-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** JAXA to support work on commercial space station technologies
 - <a href="https://spacenews.com/space-force-preparing-for-the-age-of-proliferated-low-earth-orbit-satellite-networks/" >🔗</a> **[SpaceNews]** Space Force preparing for the age of proliferated low Earth orbit satellite networks
 - <a href="https://spacenews.com/pentagon-greenlights-140-billion-icbm-program-despite-cost-overruns/" >🔗</a> **[SpaceNews]** Pentagon greenlights $140 billion ICBM program despite cost overruns
-- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
+- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
+- <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 - <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
@@ -113,13 +115,11 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
 - <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Europe_s_next_big_rocket_in_a_nutshell" >🔗</a> **[ESA]** Ariane 6: Europe’s next big rocket in a nutshell
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_first_flight_timeline" >🔗</a> **[ESA]** Ariane 6 first flight timeline
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_launch_how_to_watch_and_what_to_look_out_for" >🔗</a> **[ESA]** Ariane 6 launch: how to watch and what to look out for
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T070123">2024-07-09 07:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T073103">2024-07-09 07:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
