@@ -112,14 +112,14 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
 - <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
-- <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** European Space Agency makes final preparations for inaugural Ariane 6 launch
+- <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: European Space Agency makes final preparations for inaugural Ariane 6 launch
 - <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Europe_s_next_big_rocket_in_a_nutshell" >🔗</a> **[ESA]** Ariane 6: Europe’s next big rocket in a nutshell
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T120134">2024-07-09 12:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T124121">2024-07-09 12:41:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
