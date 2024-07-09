@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
+- <a href="https://www.nasa.gov/general/spectral-energies/" >🔗</a> **[NASA]** Spectral Energies is a NASA SBIR/STTR-Funded Tech that Could Change the Way We Fly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_sees_first_light_as_mobile_gantry_is_rolled_back_before_fuelling_begins" >🔗</a> **[ESA]** Ariane 6 sees 'first light' as mobile gantry is rolled back before fuelling begins
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
 - <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
 - <a href="https://spacenews.com/russias-nuclear-threat-to-space-is-worse-than-a-cuban-missile-crisis-in-space/" >🔗</a> **[SpaceNews]** Russia’s nuclear threat to space is worse than a “Cuban Missile Crisis in space”
 - <a href="https://europeanspaceflight.com/esa-approves-european-launcher-definition-ahead-of-ariane-6-debut/" >🔗</a> **[European Spaceflight]** ESA Approves “European Launcher” Definition Ahead of Ariane 6 Debut
-- <a href="https://spacenews.com/house-spending-bill-directs-nasa-to-study-asteroid-and-orbital-debris-missions/" >🔗</a> **[SpaceNews]** House spending bill directs NASA to study asteroid and orbital debris missions
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T160117">2024-07-09 16:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T163423">2024-07-09 16:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
