@@ -91,21 +91,23 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-polar-peaks-to-celestial-heights-christy-hansens-unique-path-to-leading-nasas-commercial-low-earth-orbit-development-program/" >🔗</a> **[NASA]** From Polar Peaks to Celestial Heights: Christy Hansen’s Unique Path to Leading NASA’s Commercial Low Earth Orbit Development Program
+- <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
+- <a href="https://spacenews.com/russias-nuclear-threat-to-space-is-worse-than-a-cuban-missile-crisis-in-space/" >🔗</a> **[SpaceNews]** Russia’s nuclear threat to space is worse than a “Cuban Missile Crisis in space”
 - <a href="https://europeanspaceflight.com/esa-approves-european-launcher-definition-ahead-of-ariane-6-debut/" >🔗</a> **[European Spaceflight]** ESA Approves “European Launcher” Definition Ahead of Ariane 6 Debut
 - <a href="https://spacenews.com/house-spending-bill-directs-nasa-to-study-asteroid-and-orbital-debris-missions/" >🔗</a> **[SpaceNews]** House spending bill directs NASA to study asteroid and orbital debris missions
 - <a href="https://spacepolicyonline.com/news/house-appropriators-boost-mars-sample-return-while-cutting-science-overall/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Boost Mars Sample Return While Cutting Science Overall
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_of_launch" >🔗</a> **[ESA]** Ariane 6 the day of launch
 - <a href="https://spacenews.com/spacex-launches-turkeys-first-home-grown-communications-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Turkey’s first home-grown communications satellite
 - <a href="https://www.nasa.gov/image-article/nasa-moon-rocket-stage-for-artemis-ii-moved-prepped-for-shipment/" >🔗</a> **[NASA]** NASA Moon Rocket Stage for Artemis II Moved, Prepped for Shipment
-- <a href="https://www.nasa.gov/news-release/nasa-boeing-provide-next-update-on-space-station-crew-flight-test/" >🔗</a> **[NASA]** NASA, Boeing Provide Next Update on Space Station Crew Flight Test
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-20th-cargo-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman’s 20th Cargo Space Station Departure
-- <a href="https://spacenews.com/jaxa-to-support-work-on-commercial-space-station-technologies/" >🔗</a> **[SpaceNews]** JAXA to support work on commercial space station technologies
-- <a href="https://spacenews.com/space-force-preparing-for-the-age-of-proliferated-low-earth-orbit-satellite-networks/" >🔗</a> **[SpaceNews]** Space Force preparing for the age of proliferated low Earth orbit satellite networks
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_of_launch" >🔗</a> **[ESA]** Ariane 6 the day of launch
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
 - <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
@@ -113,13 +115,11 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
 - <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: European Space Agency makes final preparations for inaugural Ariane 6 launch
-- <a href="https://europeanspaceflight.com/rafale-combat-aircraft-arrive-in-kourou-to-secure-skies-for-ariane-6-debut/" >🔗</a> **[European Spaceflight]** Rafale Combat Aircraft Arrive in Kourou to Secure Skies for Ariane 6 Debut
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Europe_s_next_big_rocket_in_a_nutshell" >🔗</a> **[ESA]** Ariane 6: Europe’s next big rocket in a nutshell
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T130327">2024-07-09 13:03:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T133101">2024-07-09 13:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
