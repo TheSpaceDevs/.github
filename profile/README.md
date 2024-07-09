@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
+- <a href="https://spacenews.com/spacex-launches-turkeys-first-home-grown-communications-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Turkey’s first home-grown communications satellite
 - <a href="https://www.nasa.gov/image-article/nasa-moon-rocket-stage-for-artemis-ii-moved-prepped-for-shipment/" >🔗</a> **[NASA]** NASA Moon Rocket Stage for Artemis II Moved, Prepped for Shipment
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-provide-next-update-on-space-station-crew-flight-test/" >🔗</a> **[NASA]** NASA, Boeing Provide Next Update on Space Station Crew Flight Test
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-20th-cargo-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman’s 20th Cargo Space Station Departure
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagon-greenlights-140-billion-icbm-program-despite-cost-overruns/" >🔗</a> **[SpaceNews]** Pentagon greenlights $140 billion ICBM program despite cost overruns
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
 - <a href="https://www.nasa.gov/image-article/30-years-ago-sts-65-lifts-off/" >🔗</a> **[NASA]** 30 Years Ago: STS-65 Lifts Off
-- <a href="https://spacenews.com/nine-ventures-join-first-socal-uk-space-accelerator/" >🔗</a> **[SpaceNews]** Nine ventures join first SoCal-UK Space Accelerator
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T004505">2024-07-09 00:45:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T012730">2024-07-09 01:27:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
