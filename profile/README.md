@@ -92,6 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/The_first_Ariane_6_rocket_soars_to_the_sky" >🔗</a> **[ESA]** The first Ariane 6 rocket soars to the sky
+- <a href="https://spacepolicyonline.com/news/ariane-6-lifts-off-but-second-stage-anomaly-spoils-the-day/" >🔗</a> **[SpacePolicyOnline.com]** Ariane 6 Lifts Off, But Second Stage Anomaly Spoils the Day
+- <a href="https://spacenews.com/japanese-venture-seeks-to-develop-commercial-space-station-module/" >🔗</a> **[SpaceNews]** Japanese venture seeks to develop commercial space station module
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space" >🔗</a> **[ESA]** Europe's new Ariane 6 rocket powers into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_takes_flight" >🔗</a> **[ESA]** Ariane 6 takes flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_liftoff" >🔗</a> **[ESA]** Ariane 6 first liftoff
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/essence-fest-2024/" >🔗</a> **[NASA]** NASA Inspires at 2024 ESSENCE Fest in New Orleans
 - <a href="https://europeanspaceflight.com/ariane-6-rocket-successfully-launched-for-the-first-time/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Successfully Launched for the First Time
 - <a href="https://arstechnica.com/science/2024/07/well-houston-just-rode-out-hurricane-beryl-and-let-me-tell-you-it-blew/" >🔗</a> **[Arstechnica]** Beryl is just the latest disaster to strike the energy capital of the world
-- <a href="https://spacenews.com/ariane-6-performs-flawlessly-on-long-awaited-first-flight/" >🔗</a> **[SpaceNews]** Ariane 6 performs flawlessly on long-awaited first flight
-- <a href="https://www.cnbc.com/2024/07/09/first-ariane-6-launch-of-european-rocket.html" >🔗</a> **[CNBC]** First Ariane 6 rocket launches as Europe rejoins a market dominated by Musk’s SpaceX
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T220123">2024-07-09 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T223206">2024-07-09 22:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
