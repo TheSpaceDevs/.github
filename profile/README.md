@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_sees_first_light_as_mobile_gantry_is_rolled_back_before_fuelling_begins" >🔗</a> **[ESA]** Ariane 6 sees 'first light' as mobile gantry is rolled back before fuelling begins
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
 - <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
 - <a href="https://spacenews.com/maxar-upgrades-satellite-imagery-basemaps/" >🔗</a> **[SpaceNews]** Maxar upgrades satellite imagery basemaps
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-polar-peaks-to-celestial-heights-christy-hansens-unique-path-to-leading-nasas-commercial-low-earth-orbit-development-program/" >🔗</a> **[NASA]** From Polar Peaks to Celestial Heights: Christy Hansen’s Unique Path to Leading NASA’s Commercial Low Earth Orbit Development Program
@@ -98,13 +101,13 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/russias-nuclear-threat-to-space-is-worse-than-a-cuban-missile-crisis-in-space/" >🔗</a> **[SpaceNews]** Russia’s nuclear threat to space is worse than a “Cuban Missile Crisis in space”
 - <a href="https://europeanspaceflight.com/esa-approves-european-launcher-definition-ahead-of-ariane-6-debut/" >🔗</a> **[European Spaceflight]** ESA Approves “European Launcher” Definition Ahead of Ariane 6 Debut
 - <a href="https://spacenews.com/house-spending-bill-directs-nasa-to-study-asteroid-and-orbital-debris-missions/" >🔗</a> **[SpaceNews]** House spending bill directs NASA to study asteroid and orbital debris missions
-- <a href="https://spacepolicyonline.com/news/house-appropriators-boost-mars-sample-return-while-cutting-science-overall/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Boost Mars Sample Return While Cutting Science Overall
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_of_launch" >🔗</a> **[ESA]** Ariane 6 the day of launch
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_from_above_in_the_final_hours_before_liftoff" >🔗</a> **[ESA]** Ariane 6 from above in the final hours before liftoff
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_sees_first_light_as_mobile_gantry_is_rolled_back_before_fuelling_begins" >🔗</a> **[ESA]** Ariane 6 sees 'first light' as mobile gantry is rolled back before fuelling begins
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_revealed_as_nine-story_mobile_building_rolls_back_from_the_launch_pad" >🔗</a> **[ESA]** Ariane 6 revealed as nine-story mobile building rolls back from the launch pad
 - <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_of_launch" >🔗</a> **[ESA]** Ariane 6 the day of launch
@@ -112,14 +115,11 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/07/ariane-6-ready-for-debut-flight/" >🔗</a> **[Space Scout]** Ariane 6 Ready for Debut Flight
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-mission-to-study-mysteries-in-the-origin-of-solar-radio-waves/" >🔗</a> **[NASA]** NASA Mission to Study Mysteries in the Origin of Solar Radio Waves
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/The_Young_Professional_Satellite_-_From_Theory_to_Reality_episode_2" >🔗</a> **[ESA]** The Young Professional Satellite - From Theory to Reality (episode 2)
-- <a href="https://spacenews.com/europe-set-for-crucial-first-launch-of-ariane-6/" >🔗</a> **[SpaceNews]** Europe set for crucial first launch of Ariane 6
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Alexis_Van_Lysebeth" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Alexis Van Lysebeth
-- <a href="https://spaceflightnow.com/2024/07/07/esa-makes-final-preparations-for-its-inaugural-ariane-6-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: European Space Agency makes final preparations for inaugural Ariane 6 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T150119">2024-07-09 15:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T153106">2024-07-09 15:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
