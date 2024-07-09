@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/07/09/gravitics-lands-125-million-order-from-axiom.html" >🔗</a> **[CNBC]** Space station startup Gravitics lands $125 million order from Axiom
+- <a href="https://spacenews.com/maxar-upgrades-satellite-imagery-basemaps/" >🔗</a> **[SpaceNews]** Maxar upgrades satellite imagery basemaps
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-polar-peaks-to-celestial-heights-christy-hansens-unique-path-to-leading-nasas-commercial-low-earth-orbit-development-program/" >🔗</a> **[NASA]** From Polar Peaks to Celestial Heights: Christy Hansen’s Unique Path to Leading NASA’s Commercial Low Earth Orbit Development Program
 - <a href="https://www.nasaspaceflight.com/2024/07/ariane-6-maiden-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 set for maiden launch from French Guiana
 - <a href="https://spacenews.com/russias-nuclear-threat-to-space-is-worse-than-a-cuban-missile-crisis-in-space/" >🔗</a> **[SpaceNews]** Russia’s nuclear threat to space is worse than a “Cuban Missile Crisis in space”
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/house-appropriators-boost-mars-sample-return-while-cutting-science-overall/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Boost Mars Sample Return While Cutting Science Overall
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_before_launch" >🔗</a> **[ESA]** Ariane 6 the day before launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_the_day_of_launch" >🔗</a> **[ESA]** Ariane 6 the day of launch
-- <a href="https://spacenews.com/spacex-launches-turkeys-first-home-grown-communications-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches Turkey’s first home-grown communications satellite
-- <a href="https://www.nasa.gov/image-article/nasa-moon-rocket-stage-for-artemis-ii-moved-prepped-for-shipment/" >🔗</a> **[NASA]** NASA Moon Rocket Stage for Artemis II Moved, Prepped for Shipment
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T140125">2024-07-09 14:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240709T143131">2024-07-09 14:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
