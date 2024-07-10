@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/07/10/nasa-still-expects-boeing-starliner-to-return-astronauts-from-iss.html" >🔗</a> **[CNBC]** NASA still expects Boeing’s Starliner to return astronauts from ISS, but notes SpaceX backup option
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-10-2024/" >🔗</a> **[NASA]** The Marshall Star for July 10, 2024
 - <a href="https://spacenews.com/aei-hunting-for-more-space-investments-after-closing-1-28-billion-fund/" >🔗</a> **[SpaceNews]** AEI hunting for more space investments after closing $1.28 billion fund
 - <a href="https://arstechnica.com/space/2024/07/congress-apparently-feels-a-need-for-reaffirmation-of-sls-rocket/" >🔗</a> **[Arstechnica]** Congress apparently feels a need for “reaffirmation” of SLS rocket
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/" >🔗</a> **[NASA]** NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
 - <a href="https://www.spacescout.info/2024/07/ariane-6-conducts-inaugural-flight/" >🔗</a> **[Space Scout]** Ariane 6 Conducts Inaugural Flight
-- <a href="https://science.nasa.gov/blogs/sols-4239-4240-vuggin-out/" >🔗</a> **[NASA]** Sols 4239-4240: ‘Vuggin’ Out’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T203102">2024-07-10 20:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T210108">2024-07-10 21:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
