@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/d-orbit-forms-u-s-venture-to-pursue-satellite-manufacturing/" >🔗</a> **[SpaceNews]** D-Orbit forms U.S. venture to pursue satellite manufacturing
 - <a href="https://spacenews.com/starliner-return-eyed-for-end-of-july-as-tests-continue/" >🔗</a> **[SpaceNews]** Starliner return eyed for end of July as tests continue
 - <a href="https://www.nasa.gov/image-article/nasa-cubesat-launches-as-rideshare-on-esas-first-ariane-6-rocket/" >🔗</a> **[NASA]** NASA CubeSat Launches as Rideshare on ESA’s First Ariane 6 Rocket
 - <a href="https://www.cnbc.com/2024/07/10/nasa-still-expects-boeing-starliner-to-return-astronauts-from-iss.html" >🔗</a> **[CNBC]** NASA still expects Boeing’s Starliner to return astronauts from ISS, but notes SpaceX backup option
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.teslarati.com/spacex-starship-ift-5-coming-soon-elon-musk/" >🔗</a> **[Teslarati]** SpaceX’s next Starship test flight is coming soon, Elon Musk confirms
 - <a href="https://www.nasa.gov/general/surfing-nasas-internet-of-animals-satellites-study-ocean-wildlife/" >🔗</a> **[NASA]** Surfing NASA’s Internet of Animals: Satellites Study Ocean Wildlife
 - <a href="https://www.nasa.gov/image-article/a-midsummer-red-sprite-seen-from-space/" >🔗</a> **[NASA]** A Midsummer Red Sprite Seen from Space
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T220107">2024-07-10 22:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T223122">2024-07-10 22:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
