@@ -47,7 +47,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T233300">2024-07-10 23:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240710T233300Z%2F20240711T003600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T020000">2024-07-11 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240711T020000Z%2F20240711T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T023900">2024-07-12 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-3&location=Vandenberg SFB, CA, USA&dates=20240712T023900Z%2F20240712T063700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240714T073500">2024-07-14 07:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240714T073500Z%2F20240714T120500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T034000">2024-07-16 03:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240716T034000Z%2F20240716T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T000000">2024-07-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240718T000000Z%2F20240718T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/" >🔗</a> **[NASA]** NASA’s Hubble Finds Strong Evidence for Intermediate-Mass Black Hole in Omega Centauri
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-leaders-to-discuss-space-based-cancer-research/" >🔗</a> **[NASA]** NASA Administrator, Leaders to Discuss Space-Based Cancer Research
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-65-the-second-international-microgravity-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-65, the Second International Microgravity Lab Mission
 - <a href="https://spacenews.com/x-bow-raises-70-million-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** X-Bow raises $70 million to boost solid rocket motor production
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/end-chevron-deference-what-loper-bright-means-space-industry/" >🔗</a> **[SpaceNews]** The end of Chevron deference and what Loper Bright means for the space industry
 - <a href="https://www.nasa.gov/image-article/gateway-illuminating-the-future/" >🔗</a> **[NASA]** Gateway: Illuminating the Future
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_flight_highlights" >🔗</a> **[ESA]** Ariane 6 first flight highlights
-- <a href="https://europeanspaceflight.com/ariane-6-anomaly-will-have-no-consequence-on-upcoming-missions/" >🔗</a> **[European Spaceflight]** Ariane 6 Anomaly Will Have “No Consequence” On Upcoming Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T153113">2024-07-10 15:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T160123">2024-07-10 16:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
