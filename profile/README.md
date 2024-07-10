@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-midsummer-red-sprite-seen-from-space/" >🔗</a> **[NASA]** A Midsummer Red Sprite Seen from Space
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/" >🔗</a> **[NASA]** NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
 - <a href="https://www.spacescout.info/2024/07/ariane-6-conducts-inaugural-flight/" >🔗</a> **[Space Scout]** Ariane 6 Conducts Inaugural Flight
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-65-the-second-international-microgravity-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-65, the Second International Microgravity Lab Mission
 - <a href="https://spacenews.com/x-bow-raises-70-million-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** X-Bow raises $70 million to boost solid rocket motor production
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-researchers-battle-biofilm-in-space/" >🔗</a> **[NASA]** NASA Marshall Researchers Battle Biofilm in Space
-- <a href="https://arstechnica.com/space/2024/07/feds-who-forced-ukrainian-investor-to-sell-rocket-company-backtrack-years-later/" >🔗</a> **[Arstechnica]** Feds who forced Ukrainian investor to sell rocket company backtrack years later
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T173103">2024-07-10 17:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T180124">2024-07-10 18:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
