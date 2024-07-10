@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
+- <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/" >🔗</a> **[NASA]** NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
+- <a href="https://www.spacescout.info/2024/07/ariane-6-conducts-inaugural-flight/" >🔗</a> **[Space Scout]** Ariane 6 Conducts Inaugural Flight
+- <a href="https://science.nasa.gov/blogs/sols-4239-4240-vuggin-out/" >🔗</a> **[NASA]** Sols 4239-4240: ‘Vuggin’ Out’
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/" >🔗</a> **[NASA]** NASA’s Hubble Finds Strong Evidence for Intermediate-Mass Black Hole in Omega Centauri
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-leaders-to-discuss-space-based-cancer-research/" >🔗</a> **[NASA]** NASA Administrator, Leaders to Discuss Space-Based Cancer Research
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-65-the-second-international-microgravity-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-65, the Second International Microgravity Lab Mission
 - <a href="https://spacenews.com/x-bow-raises-70-million-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** X-Bow raises $70 million to boost solid rocket motor production
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-researchers-battle-biofilm-in-space/" >🔗</a> **[NASA]** NASA Marshall Researchers Battle Biofilm in Space
 - <a href="https://arstechnica.com/space/2024/07/feds-who-forced-ukrainian-investor-to-sell-rocket-company-backtrack-years-later/" >🔗</a> **[Arstechnica]** Feds who forced Ukrainian investor to sell rocket company backtrack years later
-- <a href="https://spacenews.com/end-chevron-deference-what-loper-bright-means-space-industry/" >🔗</a> **[SpaceNews]** The end of Chevron deference and what Loper Bright means for the space industry
-- <a href="https://www.nasa.gov/image-article/gateway-illuminating-the-future/" >🔗</a> **[NASA]** Gateway: Illuminating the Future
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_flight_highlights" >🔗</a> **[ESA]** Ariane 6 first flight highlights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T160123">2024-07-10 16:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T163359">2024-07-10 16:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
