@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-researchers-battle-biofilm-in-space/" >🔗</a> **[NASA]** NASA Marshall Researchers Battle Biofilm in Space
 - <a href="https://arstechnica.com/space/2024/07/feds-who-forced-ukrainian-investor-to-sell-rocket-company-backtrack-years-later/" >🔗</a> **[Arstechnica]** Feds who forced Ukrainian investor to sell rocket company backtrack years later
 - <a href="https://spacenews.com/end-chevron-deference-what-loper-bright-means-space-industry/" >🔗</a> **[SpaceNews]** The end of Chevron deference and what Loper Bright means for the space industry
 - <a href="https://www.nasa.gov/image-article/gateway-illuminating-the-future/" >🔗</a> **[NASA]** Gateway: Illuminating the Future
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_flight_highlights" >🔗</a> **[ESA]** Ariane 6 first flight highlights
 - <a href="https://europeanspaceflight.com/ariane-6-anomaly-will-have-no-consequence-on-upcoming-missions/" >🔗</a> **[European Spaceflight]** Ariane 6 Anomaly Will Have “No Consequence” On Upcoming Missions
 - <a href="https://spacenews.com/house-introduces-nasa-reauthorization-act/" >🔗</a> **[SpaceNews]** House introduces NASA reauthorization act
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_inaugural_flight_press_conference" >🔗</a> **[ESA]** Ariane 6 inaugural flight press conference
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_launch" >🔗</a> **[ESA]** Ariane 6 first launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/The_first_Ariane_6_rocket_soars_to_the_sky" >🔗</a> **[ESA]** The first Ariane 6 rocket soars to the sky
-- <a href="https://spacepolicyonline.com/news/ariane-6-lifts-off-but-second-stage-anomaly-spoils-the-day/" >🔗</a> **[SpacePolicyOnline.com]** Ariane 6 Lifts Off, But Second Stage Anomaly Spoils the Day
-- <a href="https://spacenews.com/japanese-venture-seeks-to-develop-commercial-space-station-module/" >🔗</a> **[SpaceNews]** Japanese venture seeks to develop commercial space station module
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T133108">2024-07-10 13:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T140122">2024-07-10 14:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
