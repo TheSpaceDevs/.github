@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-introduces-nasa-reauthorization-act/" >🔗</a> **[SpaceNews]** House introduces NASA reauthorization act
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_inaugural_flight_press_conference" >🔗</a> **[ESA]** Ariane 6 inaugural flight press conference
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_launch" >🔗</a> **[ESA]** Ariane 6 first launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/The_first_Ariane_6_rocket_soars_to_the_sky" >🔗</a> **[ESA]** The first Ariane 6 rocket soars to the sky
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_takes_flight" >🔗</a> **[ESA]** Ariane 6 takes flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_liftoff" >🔗</a> **[ESA]** Ariane 6 first liftoff
 - <a href="https://spacenews.com/astroscale-spacecraft-continues-inspection-of-upper-stage/" >🔗</a> **[SpaceNews]** Astroscale spacecraft continues inspection of upper stage
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/essence-fest-2024/" >🔗</a> **[NASA]** NASA Inspires at 2024 ESSENCE Fest in New Orleans
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T050120">2024-07-10 05:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T053138">2024-07-10 05:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
