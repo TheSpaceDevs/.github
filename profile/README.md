@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/gateway-illuminating-the-future/" >🔗</a> **[NASA]** Gateway: Illuminating the Future
 - <a href="https://europeanspaceflight.com/ariane-6-anomaly-will-have-no-consequence-on-upcoming-missions/" >🔗</a> **[European Spaceflight]** Ariane 6 Anomaly Will Have “No Consequence” On Upcoming Missions
 - <a href="https://spacenews.com/house-introduces-nasa-reauthorization-act/" >🔗</a> **[SpaceNews]** House introduces NASA reauthorization act
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_inaugural_flight_press_conference" >🔗</a> **[ESA]** Ariane 6 inaugural flight press conference
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/japanese-venture-seeks-to-develop-commercial-space-station-module/" >🔗</a> **[SpaceNews]** Japanese venture seeks to develop commercial space station module
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space" >🔗</a> **[ESA]** Europe's new Ariane 6 rocket powers into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_takes_flight" >🔗</a> **[ESA]** Ariane 6 takes flight
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_liftoff" >🔗</a> **[ESA]** Ariane 6 first liftoff
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T113103">2024-07-10 11:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T120138">2024-07-10 12:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
