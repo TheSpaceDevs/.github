@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-return-eyed-for-end-of-july-as-tests-continue/" >🔗</a> **[SpaceNews]** Starliner return eyed for end of July as tests continue
+- <a href="https://www.nasa.gov/image-article/nasa-cubesat-launches-as-rideshare-on-esas-first-ariane-6-rocket/" >🔗</a> **[NASA]** NASA CubeSat Launches as Rideshare on ESA’s First Ariane 6 Rocket
 - <a href="https://www.cnbc.com/2024/07/10/nasa-still-expects-boeing-starliner-to-return-astronauts-from-iss.html" >🔗</a> **[CNBC]** NASA still expects Boeing’s Starliner to return astronauts from ISS, but notes SpaceX backup option
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-10-2024/" >🔗</a> **[NASA]** The Marshall Star for July 10, 2024
 - <a href="https://spacenews.com/aei-hunting-for-more-space-investments-after-closing-1-28-billion-fund/" >🔗</a> **[SpaceNews]** AEI hunting for more space investments after closing $1.28 billion fund
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/surfing-nasas-internet-of-animals-satellites-study-ocean-wildlife/" >🔗</a> **[NASA]** Surfing NASA’s Internet of Animals: Satellites Study Ocean Wildlife
 - <a href="https://www.nasa.gov/image-article/a-midsummer-red-sprite-seen-from-space/" >🔗</a> **[NASA]** A Midsummer Red Sprite Seen from Space
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
-- <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/" >🔗</a> **[NASA]** NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
-- <a href="https://www.spacescout.info/2024/07/ariane-6-conducts-inaugural-flight/" >🔗</a> **[Space Scout]** Ariane 6 Conducts Inaugural Flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T213055">2024-07-10 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T220107">2024-07-10 22:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
