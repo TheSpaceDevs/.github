@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starship-ift-5-coming-soon-elon-musk/" >🔗</a> **[Teslarati]** SpaceX’s next Starship test flight is coming soon, Elon Musk confirms
+- <a href="https://www.nasa.gov/general/surfing-nasas-internet-of-animals-satellites-study-ocean-wildlife/" >🔗</a> **[NASA]** Surfing NASA’s Internet of Animals: Satellites Study Ocean Wildlife
 - <a href="https://www.nasa.gov/image-article/a-midsummer-red-sprite-seen-from-space/" >🔗</a> **[NASA]** A Midsummer Red Sprite Seen from Space
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/" >🔗</a> **[NASA]** NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/" >🔗</a> **[NASA]** NASA’s Hubble Finds Strong Evidence for Intermediate-Mass Black Hole in Omega Centauri
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-leaders-to-discuss-space-based-cancer-research/" >🔗</a> **[NASA]** NASA Administrator, Leaders to Discuss Space-Based Cancer Research
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-65-the-second-international-microgravity-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-65, the Second International Microgravity Lab Mission
-- <a href="https://spacenews.com/x-bow-raises-70-million-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** X-Bow raises $70 million to boost solid rocket motor production
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-researchers-battle-biofilm-in-space/" >🔗</a> **[NASA]** NASA Marshall Researchers Battle Biofilm in Space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T180124">2024-07-10 18:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T183436">2024-07-10 18:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
