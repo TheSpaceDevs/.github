@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-10-2024/" >🔗</a> **[NASA]** The Marshall Star for July 10, 2024
+- <a href="https://spacenews.com/aei-hunting-for-more-space-investments-after-closing-1-28-billion-fund/" >🔗</a> **[SpaceNews]** AEI hunting for more space investments after closing $1.28 billion fund
+- <a href="https://arstechnica.com/space/2024/07/congress-apparently-feels-a-need-for-reaffirmation-of-sls-rocket/" >🔗</a> **[Arstechnica]** Congress apparently feels a need for “reaffirmation” of SLS rocket
 - <a href="https://www.teslarati.com/spacex-starship-ift-5-coming-soon-elon-musk/" >🔗</a> **[Teslarati]** SpaceX’s next Starship test flight is coming soon, Elon Musk confirms
 - <a href="https://www.nasa.gov/general/surfing-nasas-internet-of-animals-satellites-study-ocean-wildlife/" >🔗</a> **[NASA]** Surfing NASA’s Internet of Animals: Satellites Study Ocean Wildlife
 - <a href="https://www.nasa.gov/image-article/a-midsummer-red-sprite-seen-from-space/" >🔗</a> **[NASA]** A Midsummer Red Sprite Seen from Space
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-strengthens-ties-in-japan-republic-of-korea/" >🔗</a> **[NASA]** NASA Deputy Administrator Strengthens Ties in Japan, Republic of Korea
 - <a href="https://www.spacescout.info/2024/07/ariane-6-conducts-inaugural-flight/" >🔗</a> **[Space Scout]** Ariane 6 Conducts Inaugural Flight
 - <a href="https://science.nasa.gov/blogs/sols-4239-4240-vuggin-out/" >🔗</a> **[NASA]** Sols 4239-4240: ‘Vuggin’ Out’
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-strong-evidence-for-intermediate-mass-black-hole-in-omega-centauri/" >🔗</a> **[NASA]** NASA’s Hubble Finds Strong Evidence for Intermediate-Mass Black Hole in Omega Centauri
-- <a href="https://www.nasa.gov/news-release/nasa-administrator-leaders-to-discuss-space-based-cancer-research/" >🔗</a> **[NASA]** NASA Administrator, Leaders to Discuss Space-Based Cancer Research
-- <a href="https://www.nasa.gov/history/30-years-ago-sts-65-the-second-international-microgravity-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-65, the Second International Microgravity Lab Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T190113">2024-07-10 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T193118">2024-07-10 19:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
