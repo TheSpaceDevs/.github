@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_evidence_for_rare_black_hole_in_Omega_Centauri" >🔗</a> **[ESA]** Hubble finds evidence for rare black hole in Omega Centauri
+- <a href="https://www.nasa.gov/news-release/nasa-administrator-leaders-to-discuss-space-based-cancer-research/" >🔗</a> **[NASA]** NASA Administrator, Leaders to Discuss Space-Based Cancer Research
+- <a href="https://www.nasa.gov/history/30-years-ago-sts-65-the-second-international-microgravity-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-65, the Second International Microgravity Lab Mission
+- <a href="https://spacenews.com/x-bow-raises-70-million-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** X-Bow raises $70 million to boost solid rocket motor production
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-researchers-battle-biofilm-in-space/" >🔗</a> **[NASA]** NASA Marshall Researchers Battle Biofilm in Space
 - <a href="https://arstechnica.com/space/2024/07/feds-who-forced-ukrainian-investor-to-sell-rocket-company-backtrack-years-later/" >🔗</a> **[Arstechnica]** Feds who forced Ukrainian investor to sell rocket company backtrack years later
 - <a href="https://spacenews.com/end-chevron-deference-what-loper-bright-means-space-industry/" >🔗</a> **[SpaceNews]** The end of Chevron deference and what Loper Bright means for the space industry
 - <a href="https://www.nasa.gov/image-article/gateway-illuminating-the-future/" >🔗</a> **[NASA]** Gateway: Illuminating the Future
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_flight_highlights" >🔗</a> **[ESA]** Ariane 6 first flight highlights
 - <a href="https://europeanspaceflight.com/ariane-6-anomaly-will-have-no-consequence-on-upcoming-missions/" >🔗</a> **[European Spaceflight]** Ariane 6 Anomaly Will Have “No Consequence” On Upcoming Missions
-- <a href="https://spacenews.com/house-introduces-nasa-reauthorization-act/" >🔗</a> **[SpaceNews]** House introduces NASA reauthorization act
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_inaugural_flight_press_conference" >🔗</a> **[ESA]** Ariane 6 inaugural flight press conference
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_launch" >🔗</a> **[ESA]** Ariane 6 first launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/The_first_Ariane_6_rocket_soars_to_the_sky" >🔗</a> **[ESA]** The first Ariane 6 rocket soars to the sky
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T143110">2024-07-10 14:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240710T150125">2024-07-10 15:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
