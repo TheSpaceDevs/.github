@@ -93,6 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_Young_Professionals_Satellites/YPSat_s_view_from_Ariane_6" >🔗</a> **[ESA]** YPSat’s view from Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Mpemba_effect_at_Concordia" >🔗</a> **[ESA]** Mpemba effect at Concordia
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/" >🔗</a> **[NASA]** Attention Civil Servant Retirees
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Hera_in_the_doghouse" >🔗</a> **[ESA]** Hera in the doghouse
 - <a href="https://spacenews.com/chinese-commercial-rocket-firm-suffers-4th-launch-failure/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm suffers 4th launch failure
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-confident-starliner-can-bring-them-home-safely/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Confident Starliner Can Bring Them Home Safely
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/d-orbit-forms-u-s-venture-to-pursue-satellite-manufacturing/" >🔗</a> **[SpaceNews]** D-Orbit forms U.S. venture to pursue satellite manufacturing
 - <a href="https://spacenews.com/starliner-return-eyed-for-end-of-july-as-tests-continue/" >🔗</a> **[SpaceNews]** Starliner return eyed for end of July as tests continue
 - <a href="https://www.nasa.gov/image-article/nasa-cubesat-launches-as-rideshare-on-esas-first-ariane-6-rocket/" >🔗</a> **[NASA]** NASA CubeSat Launches as Rideshare on ESA’s First Ariane 6 Rocket
-- <a href="https://www.cnbc.com/2024/07/10/nasa-still-expects-boeing-starliner-to-return-astronauts-from-iss.html" >🔗</a> **[CNBC]** NASA still expects Boeing’s Starliner to return astronauts from ISS, but notes SpaceX backup option
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T130321">2024-07-11 13:03:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T133058">2024-07-11 13:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
