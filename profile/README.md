@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_defies_gravity_in_breathtaking_first_flight" >🔗</a> **[ESA]** Ariane 6 defies gravity in breathtaking first flight
+- <a href="https://www.nasa.gov/image-article/nasa-barge-preparations-underway-for-artemis-ii-rocket-stage-delivery/" >🔗</a> **[NASA]** NASA Barge Preparations Underway for Artemis II Rocket Stage Delivery
 - <a href="https://www.nasa.gov/image-article/take-a-summer-cosmic-road-trip-with-nasas-chandra-and-webb/" >🔗</a> **[NASA]** Take a Summer Cosmic Road Trip With NASA’s Chandra and Webb
 - <a href="https://www.nasa.gov/image-article/acting-center-chief-technologist-dr-phillip-williams/" >🔗</a> **[NASA]** Acting Center Chief Technologist Dr. Phillip Williams
 - <a href="https://www.nasa.gov/missions/voyagers-of-mars-the-first-chapea-crews-yearlong-journey/" >🔗</a> **[NASA]** Voyagers of Mars: The First CHAPEA Crew’s Yearlong Journey
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-dark-matter-in-dwarf-galaxy-using-stellar-motions/" >🔗</a> **[NASA]** NASA’s Hubble Traces Dark Matter in Dwarf Galaxy Using Stellar Motions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Mpemba_effect_at_Concordia" >🔗</a> **[ESA]** Mpemba effect at Concordia
 - <a href="https://spacenews.com/booz-allen-ventures-invests-in-space-tech-startup-quindar/" >🔗</a> **[SpaceNews]** Booz Allen Ventures invests in space tech startup Quindar
-- <a href="https://europeanspaceflight.com/the-exploration-company-completes-wind-tunnel-testing-for-mission-possible/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Wind Tunnel Testing for Mission Possible
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/" >🔗</a> **[NASA]** Attention Civil Servant Retirees
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T160126">2024-07-11 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T163346">2024-07-11 16:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
