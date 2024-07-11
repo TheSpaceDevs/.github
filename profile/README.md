@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/take-a-summer-cosmic-road-trip-with-nasas-chandra-and-webb/" >🔗</a> **[NASA]** Take a Summer Cosmic Road Trip With NASA’s Chandra and Webb
+- <a href="https://www.nasa.gov/image-article/acting-center-chief-technologist-dr-phillip-williams/" >🔗</a> **[NASA]** Acting Center Chief Technologist Dr. Phillip Williams
 - <a href="https://www.nasa.gov/missions/voyagers-of-mars-the-first-chapea-crews-yearlong-journey/" >🔗</a> **[NASA]** Voyagers of Mars: The First CHAPEA Crew’s Yearlong Journey
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_Young_Professionals_Satellites/YPSat_the_view_from_Ariane_6" >🔗</a> **[ESA]** YPSat: the view from Ariane 6
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_Young_Professionals_Satellites/YPSat_s_view_from_Ariane_6" >🔗</a> **[ESA]** YPSat’s view from Ariane 6
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-dark-matter-in-dwarf-galaxy-using-stellar-motions/" >🔗</a> **[NASA]** NASA’s Hubble Traces Dark Matter in Dwarf Galaxy Using Stellar Motions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Mpemba_effect_at_Concordia" >🔗</a> **[ESA]** Mpemba effect at Concordia
 - <a href="https://spacenews.com/booz-allen-ventures-invests-in-space-tech-startup-quindar/" >🔗</a> **[SpaceNews]** Booz Allen Ventures invests in space tech startup Quindar
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-wind-tunnel-testing-for-mission-possible/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Wind Tunnel Testing for Mission Possible
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/" >🔗</a> **[NASA]** Attention Civil Servant Retirees
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Hera_in_the_doghouse" >🔗</a> **[ESA]** Hera in the doghouse
-- <a href="https://spacenews.com/chinese-commercial-rocket-firm-suffers-4th-launch-failure/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm suffers 4th launch failure
-- <a href="https://spacepolicyonline.com/news/butch-and-suni-confident-starliner-can-bring-them-home-safely/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Confident Starliner Can Bring Them Home Safely
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T150109">2024-07-11 15:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T153106">2024-07-11 15:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
