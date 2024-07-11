@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/voyagers-of-mars-the-first-chapea-crews-yearlong-journey/" >🔗</a> **[NASA]** Voyagers of Mars: The First CHAPEA Crew’s Yearlong Journey
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_Young_Professionals_Satellites/YPSat_s_view_from_Ariane_6" >🔗</a> **[ESA]** YPSat’s view from Ariane 6
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-dark-matter-in-dwarf-galaxy-using-stellar-motions/" >🔗</a> **[NASA]** NASA’s Hubble Traces Dark Matter in Dwarf Galaxy Using Stellar Motions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Mpemba_effect_at_Concordia" >🔗</a> **[ESA]** Mpemba effect at Concordia
+- <a href="https://spacenews.com/booz-allen-ventures-invests-in-space-tech-startup-quindar/" >🔗</a> **[SpaceNews]** Booz Allen Ventures invests in space tech startup Quindar
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-wind-tunnel-testing-for-mission-possible/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Wind Tunnel Testing for Mission Possible
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/" >🔗</a> **[NASA]** Attention Civil Servant Retirees
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Hera_in_the_doghouse" >🔗</a> **[ESA]** Hera in the doghouse
 - <a href="https://spacenews.com/chinese-commercial-rocket-firm-suffers-4th-launch-failure/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm suffers 4th launch failure
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-confident-starliner-can-bring-them-home-safely/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Confident Starliner Can Bring Them Home Safely
-- <a href="https://spacepolicyonline.com/news/house-committee-clears-bipartisan-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Clears Bipartisan NASA Authorization Bill
-- <a href="https://spacenews.com/d-orbit-forms-u-s-venture-to-pursue-satellite-manufacturing/" >🔗</a> **[SpaceNews]** D-Orbit forms U.S. venture to pursue satellite manufacturing
-- <a href="https://spacenews.com/starliner-return-eyed-for-end-of-july-as-tests-continue/" >🔗</a> **[SpaceNews]** Starliner return eyed for end of July as tests continue
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T140120">2024-07-11 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T143128">2024-07-11 14:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
