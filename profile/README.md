@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Hera_in_the_doghouse" >🔗</a> **[ESA]** Hera in the doghouse
+- <a href="https://spacenews.com/chinese-commercial-rocket-firm-suffers-4th-launch-failure/" >🔗</a> **[SpaceNews]** Chinese commercial rocket firm suffers 4th launch failure
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-confident-starliner-can-bring-them-home-safely/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Confident Starliner Can Bring Them Home Safely
 - <a href="https://spacepolicyonline.com/news/house-committee-clears-bipartisan-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Clears Bipartisan NASA Authorization Bill
 - <a href="https://spacenews.com/d-orbit-forms-u-s-venture-to-pursue-satellite-manufacturing/" >🔗</a> **[SpaceNews]** D-Orbit forms U.S. venture to pursue satellite manufacturing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/07/10/nasa-still-expects-boeing-starliner-to-return-astronauts-from-iss.html" >🔗</a> **[CNBC]** NASA still expects Boeing’s Starliner to return astronauts from ISS, but notes SpaceX backup option
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-10-2024/" >🔗</a> **[NASA]** The Marshall Star for July 10, 2024
 - <a href="https://spacenews.com/aei-hunting-for-more-space-investments-after-closing-1-28-billion-fund/" >🔗</a> **[SpaceNews]** AEI hunting for more space investments after closing $1.28 billion fund
-- <a href="https://arstechnica.com/space/2024/07/congress-apparently-feels-a-need-for-reaffirmation-of-sls-rocket/" >🔗</a> **[Arstechnica]** Congress apparently feels a need for “reaffirmation” of SLS rocket
-- <a href="https://www.teslarati.com/spacex-starship-ift-5-coming-soon-elon-musk/" >🔗</a> **[Teslarati]** SpaceX’s next Starship test flight is coming soon, Elon Musk confirms
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T070106">2024-07-11 07:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T080121">2024-07-11 08:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
