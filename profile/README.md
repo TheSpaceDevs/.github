@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_cuts_a_vertical_path_up_up_and_away" >🔗</a> **[ESA]** Ariane 6 cuts a vertical path up, up and away
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_defies_gravity_in_breathtaking_first_flight" >🔗</a> **[ESA]** Ariane 6 defies gravity in breathtaking first flight
 - <a href="https://www.nasa.gov/image-article/nasa-barge-preparations-underway-for-artemis-ii-rocket-stage-delivery/" >🔗</a> **[NASA]** NASA Barge Preparations Underway for Artemis II Rocket Stage Delivery
 - <a href="https://www.nasa.gov/image-article/take-a-summer-cosmic-road-trip-with-nasas-chandra-and-webb/" >🔗</a> **[NASA]** Take a Summer Cosmic Road Trip With NASA’s Chandra and Webb
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_Young_Professionals_Satellites/YPSat_s_view_from_Ariane_6" >🔗</a> **[ESA]** YPSat’s view from Ariane 6
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-dark-matter-in-dwarf-galaxy-using-stellar-motions/" >🔗</a> **[NASA]** NASA’s Hubble Traces Dark Matter in Dwarf Galaxy Using Stellar Motions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Mpemba_effect_at_Concordia" >🔗</a> **[ESA]** Mpemba effect at Concordia
-- <a href="https://spacenews.com/booz-allen-ventures-invests-in-space-tech-startup-quindar/" >🔗</a> **[SpaceNews]** Booz Allen Ventures invests in space tech startup Quindar
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T170118">2024-07-11 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T173129">2024-07-11 17:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
