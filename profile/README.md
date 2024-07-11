@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/general-atomics-to-build-second-space-force-weather-satellite/" >🔗</a> **[SpaceNews]** General Atomics to build second Space Force weather satellite
+- <a href="https://spacenews.com/dawn-aerospace-gets-approvals-for-supersonic-rocketplane-tests/" >🔗</a> **[SpaceNews]** Dawn Aerospace gets approvals for supersonic rocketplane tests
 - <a href="https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/" >🔗</a> **[NASA]** 45 Years Ago: Skylab Reenters Earth’s Atmosphere
 - <a href="https://www.nasa.gov/image-article/electrical-and-mechanical-technician-clifton-brown/" >🔗</a> **[NASA]** Electrical and Mechanical Technician Clifton Brown
 - <a href="https://spaceflightnow.com/2024/07/11/starliner-crew-confident-spacecraft-will-bring-them-safely-home/" >🔗</a> **[Spaceflight Now]** Starliner crew confident spacecraft will bring them safely home
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_defies_gravity_in_breathtaking_first_flight" >🔗</a> **[ESA]** Ariane 6 defies gravity in breathtaking first flight
 - <a href="https://www.nasa.gov/image-article/nasa-barge-preparations-underway-for-artemis-ii-rocket-stage-delivery/" >🔗</a> **[NASA]** NASA Barge Preparations Underway for Artemis II Rocket Stage Delivery
 - <a href="https://www.nasa.gov/image-article/take-a-summer-cosmic-road-trip-with-nasas-chandra-and-webb/" >🔗</a> **[NASA]** Take a Summer Cosmic Road Trip With NASA’s Chandra and Webb
-- <a href="https://www.nasa.gov/image-article/acting-center-chief-technologist-dr-phillip-williams/" >🔗</a> **[NASA]** Acting Center Chief Technologist Dr. Phillip Williams
-- <a href="https://www.nasa.gov/missions/voyagers-of-mars-the-first-chapea-crews-yearlong-journey/" >🔗</a> **[NASA]** Voyagers of Mars: The First CHAPEA Crew’s Yearlong Journey
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T203054">2024-07-11 20:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T210111">2024-07-11 21:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
