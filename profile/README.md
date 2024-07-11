@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/butch-and-suni-confident-starliner-can-bring-them-home-safely/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Confident Starliner Can Bring Them Home Safely
 - <a href="https://spacepolicyonline.com/news/house-committee-clears-bipartisan-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Clears Bipartisan NASA Authorization Bill
 - <a href="https://spacenews.com/d-orbit-forms-u-s-venture-to-pursue-satellite-manufacturing/" >🔗</a> **[SpaceNews]** D-Orbit forms U.S. venture to pursue satellite manufacturing
 - <a href="https://spacenews.com/starliner-return-eyed-for-end-of-july-as-tests-continue/" >🔗</a> **[SpaceNews]** Starliner return eyed for end of July as tests continue
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aei-hunting-for-more-space-investments-after-closing-1-28-billion-fund/" >🔗</a> **[SpaceNews]** AEI hunting for more space investments after closing $1.28 billion fund
 - <a href="https://arstechnica.com/space/2024/07/congress-apparently-feels-a-need-for-reaffirmation-of-sls-rocket/" >🔗</a> **[Arstechnica]** Congress apparently feels a need for “reaffirmation” of SLS rocket
 - <a href="https://www.teslarati.com/spacex-starship-ift-5-coming-soon-elon-musk/" >🔗</a> **[Teslarati]** SpaceX’s next Starship test flight is coming soon, Elon Musk confirms
-- <a href="https://www.nasa.gov/general/surfing-nasas-internet-of-animals-satellites-study-ocean-wildlife/" >🔗</a> **[NASA]** Surfing NASA’s Internet of Animals: Satellites Study Ocean Wildlife
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T033237">2024-07-11 03:32:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T040259">2024-07-11 04:02:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
