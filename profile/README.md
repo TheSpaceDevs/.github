@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/" >🔗</a> **[NASA]** NASA Remembers Retired Astronaut, US Air Force Pilot Joe Engle
+- <a href="https://spacenews.com/microsoft-leads-40-million-funding-for-starlink-networking-startup/" >🔗</a> **[SpaceNews]** Microsoft leads $40 million funding for Starlink networking startup
 - <a href="https://spacenews.com/general-atomics-to-build-second-space-force-weather-satellite/" >🔗</a> **[SpaceNews]** General Atomics to build second Space Force weather satellite
 - <a href="https://spacenews.com/dawn-aerospace-gets-approvals-for-supersonic-rocketplane-tests/" >🔗</a> **[SpaceNews]** Dawn Aerospace gets approvals for supersonic rocketplane tests
 - <a href="https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/" >🔗</a> **[NASA]** 45 Years Ago: Skylab Reenters Earth’s Atmosphere
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/07/11/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_cuts_a_vertical_path_up_up_and_away" >🔗</a> **[ESA]** Ariane 6 cuts a vertical path up, up and away
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_defies_gravity_in_breathtaking_first_flight" >🔗</a> **[ESA]** Ariane 6 defies gravity in breathtaking first flight
-- <a href="https://www.nasa.gov/image-article/nasa-barge-preparations-underway-for-artemis-ii-rocket-stage-delivery/" >🔗</a> **[NASA]** NASA Barge Preparations Underway for Artemis II Rocket Stage Delivery
-- <a href="https://www.nasa.gov/image-article/take-a-summer-cosmic-road-trip-with-nasas-chandra-and-webb/" >🔗</a> **[NASA]** Take a Summer Cosmic Road Trip With NASA’s Chandra and Webb
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T213106">2024-07-11 21:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240711T220112">2024-07-11 22:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
