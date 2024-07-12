@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Thank_you_Space_Team_Europe" >🔗</a> **[ESA]** Ariane 6: Thank you Space Team Europe
+- <a href="https://www.nasa.gov/image-article/two-years-since-webbs-first-images-celebrating-with-the-penguin-and-the-egg/" >🔗</a> **[NASA]** Two Years Since Webb’s First Images: Celebrating with the Penguin and the Egg
+- <a href="https://spacenews.com/dawns-mk-ii-cleared-for-supersonic-flight-tests/" >🔗</a> **[SpaceNews]** Dawn’s Mk-II cleared for supersonic flight tests
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-engineers-unveil-versatile-low-cost-hybrid-engine-testbed/" >🔗</a> **[NASA]** NASA Marshall Engineers Unveil Versatile, Low-cost Hybrid Engine Testbed
+- <a href="https://www.spacescout.info/2024/07/falcon-9-grounded-after-anomaly/" >🔗</a> **[Space Scout]** Falcon 9 Grounded after Anomaly
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_Webb_portrait_of_interacting_galaxies_Penguin_and_Egg" >🔗</a> **[ESA]** Vivid Webb portrait of interacting galaxies Penguin and Egg
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_portrait_of_interacting_galaxies_marks_Webb_s_second_anniversary" >🔗</a> **[ESA]** Vivid portrait of interacting galaxies marks Webb’s second anniversary
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Thank_you_Space_Team_Europe" >🔗</a> **[ESA]** Ariane 6: Thank you Space Team Europe
 - <a href="https://spacenews.com/u-s-military-to-award-3-billion-contract-for-ai-driven-intelligence/" >🔗</a> **[SpaceNews]** U.S. military to award $3 billion contract for AI-driven intelligence
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_July_2024" >🔗</a> **[ESA]** Week in images: 08-12 July 2024
 - <a href="https://www.cnbc.com/2024/07/12/spacex-falcon-9-rocket-grounded-after-rare-inflight-failure.html" >🔗</a> **[CNBC]** SpaceX’s Falcon 9 rocket suffers rare inflight failure, is grounded during investigation
-- <a href="https://tlpnetwork.com/news/america/nasa-europa-clipper-mission-at-risk-of-major-delay" >🔗</a> **[The Launch Pad]** NASA’s Europa Clipper Mission at Risk Of Major Delay Following Radiation Vulnerability Discovery
-- <a href="https://spacenews.com/tina-ghataore-group-csro-and-ceo-north-america-aerospacelab-leading-women-in-space/" >🔗</a> **[SpaceNews]** Tina Ghataore, Group CSRO and CEO North America,  Aerospacelab – Leading Women in Space
-- <a href="https://europeanspaceflight.com/pld-space-secure-e31-2m-loan-for-miura-5-development/" >🔗</a> **[European Spaceflight]** PLD Space Secure €31.2M Loan for Miura 5 Development
-- <a href="https://science.nasa.gov/missions/webb/vivid-portrait-of-interacting-galaxies-marks-webbs-second-anniversary/" >🔗</a> **[NASA]** Vivid Portrait of Interacting Galaxies Marks Webb’s Second Anniversary
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T170115">2024-07-12 17:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T173127">2024-07-12 17:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
