@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Hainan_Strait" >🔗</a> **[ESA]** Earth from Space: Hainan Strait
+- <a href="https://europeanspaceflight.com/esa-mars-earth-return-orbiter-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ESA Mars Earth Return Orbiter Passes Key Milestone
 - <a href="https://tlpnetwork.com/news/in-space/spacex-falcon-9-suffers-in-flight-engine-failure-starlink-payloads-lost" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Suffers In Flight Engine Failure, Starlink Payloads Lost
 - <a href="https://spacenews.com/falcon-9-suffers-upper-stage-engine-failure/" >🔗</a> **[SpaceNews]** Falcon 9 suffers upper stage engine failure
 - <a href="https://spacenews.com/lunar-spacecraft-receive-dozens-of-collision-warnings/" >🔗</a> **[SpaceNews]** Lunar spacecraft receive dozens of collision warnings
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/general-atomics-to-build-second-space-force-weather-satellite/" >🔗</a> **[SpaceNews]** General Atomics to build second Space Force weather satellite
 - <a href="https://spacenews.com/dawn-aerospace-gets-approvals-for-supersonic-rocketplane-tests/" >🔗</a> **[SpaceNews]** Dawn Aerospace gets approvals for supersonic rocketplane tests
 - <a href="https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/" >🔗</a> **[NASA]** 45 Years Ago: Skylab Reenters Earth’s Atmosphere
-- <a href="https://www.nasa.gov/image-article/electrical-and-mechanical-technician-clifton-brown/" >🔗</a> **[NASA]** Electrical and Mechanical Technician Clifton Brown
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T093057">2024-07-12 09:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T100119">2024-07-12 10:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
