@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/" >🔗</a> **[NASA]** 45 Years Ago: Skylab Reenters Earth’s Atmosphere
 - <a href="https://www.nasa.gov/image-article/electrical-and-mechanical-technician-clifton-brown/" >🔗</a> **[NASA]** Electrical and Mechanical Technician Clifton Brown
 - <a href="https://spaceflightnow.com/2024/07/11/starliner-crew-confident-spacecraft-will-bring-them-safely-home/" >🔗</a> **[Spaceflight Now]** Starliner crew confident spacecraft will bring them safely home
-- <a href="https://spaceflightnow.com/2024/07/11/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches 70th Falcon flight of 2024 with Starlink mission from Vandenberg Space Force Base
+- <a href="https://spaceflightnow.com/2024/07/11/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 second stage fails leaving Starlink satellites in wrong orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_cuts_a_vertical_path_up_up_and_away" >🔗</a> **[ESA]** Ariane 6 cuts a vertical path up, up and away
 
 
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T050113">2024-07-12 05:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T053111">2024-07-12 05:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
