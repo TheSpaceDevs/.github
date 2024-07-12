@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launch-anomaly-occurs-on-falcon-9-starlink-satellite-mission/" >🔗</a> **[Teslarati]** SpaceX launch anomaly occurs on Falcon 9 Starlink satellite mission
 - <a href="https://arstechnica.com/space/2024/07/nasas-flagship-mission-to-europa-has-a-problem-vulnerability-to-radiation/" >🔗</a> **[Arstechnica]** NASA’s flagship mission to Europa has a problem: Vulnerability to radiation
 - <a href="https://tlpnetwork.com/news/policy-and-finance/us-congress-introduces-nasa-reauthorization-act-to-fund-programs-and-review-key-projects" >🔗</a> **[The Launch Pad]** US Congress Introduces NASA Reauthorization Act  To Fund Programs And Review Key Projects
 - <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-spacecraft-continues-inspection-of-japanese-upper-stage-following-unexpected-attitude-anomaly-abort" >🔗</a> **[The Launch Pad]** Astroscale's ADRAS-J Spacecraft Continues Inspection of Japanese Upper Stage Following "Unexpected Attitude Anomaly" Abort
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/dawns-mk-ii-cleared-for-supersonic-flight-tests/" >🔗</a> **[SpaceNews]** Dawn’s Mk-II cleared for supersonic flight tests
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-engineers-unveil-versatile-low-cost-hybrid-engine-testbed/" >🔗</a> **[NASA]** NASA Marshall Engineers Unveil Versatile, Low-cost Hybrid Engine Testbed
 - <a href="https://www.spacescout.info/2024/07/falcon-9-grounded-after-anomaly/" >🔗</a> **[Space Scout]** Falcon 9 Grounded after Anomaly
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_portrait_of_interacting_galaxies_marks_Webb_s_second_anniversary" >🔗</a> **[ESA]** Vivid portrait of interacting galaxies marks Webb’s second anniversary
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T203059">2024-07-12 20:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T210121">2024-07-12 21:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
