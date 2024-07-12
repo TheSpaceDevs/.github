@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/" >🔗</a> **[SpaceNews]** Starlink satellites lost on Falcon 9 upper stage failure
+- <a href="https://tlpnetwork.com/news/america/spacex-falcon-9-grounded-faa-requires-public-safety-investigation-following-starlink-mission-failure" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Grounded, FAA Requires Public Safety Investigation Following Starlink Mission Failure
 - <a href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/" >🔗</a> **[NASA]** Sols 4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!
 - <a href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/" >🔗</a> **[NASA]** NASA to Commemorate 55th Anniversary of Apollo 11 Moon Landing
 - <a href="https://www.teslarati.com/spacex-launch-anomaly-occurs-on-falcon-9-starlink-satellite-mission/" >🔗</a> **[Teslarati]** SpaceX launch anomaly occurs on Falcon 9 Starlink satellite mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-spacecraft-continues-inspection-of-japanese-upper-stage-following-unexpected-attitude-anomaly-abort" >🔗</a> **[The Launch Pad]** Astroscale's ADRAS-J Spacecraft Continues Inspection of Japanese Upper Stage Following "Unexpected Attitude Anomaly" Abort
 - <a href="https://spacepolicyonline.com/news/nasa-evaluating-europa-clippers-ability-to-withstand-radiation-as-launch-nears/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating Europa Clipper’s Ability to Withstand Radiation as Launch Nears
 - <a href="https://tlpnetwork.com/news/europe/dawn-aerospace-go-for-supersonic-flight-tests-of-spaceplane" >🔗</a> **[The Launch Pad]** Dawn Aerospace "GO" for Supersonic Flight Tests of Spaceplane
-- <a href="https://www.nasa.gov/image-article/two-years-since-webbs-first-images-celebrating-with-the-penguin-and-the-egg/" >🔗</a> **[NASA]** Two Years Since Webb’s First Images: Celebrating with the Penguin and the Egg
-- <a href="https://spacenews.com/dawns-mk-ii-cleared-for-supersonic-flight-tests/" >🔗</a> **[SpaceNews]** Dawn’s Mk-II cleared for supersonic flight tests
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T230114">2024-07-12 23:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T233112">2024-07-12 23:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
