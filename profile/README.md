@@ -20,39 +20,39 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-4**. It is scheduled to be launched by *SpaceX*
+**Electron | A Sky Full of SARs (Capella Acadia 3)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240714T073500">2024-07-14 07:35:00 UTC</a>.  Until
-then, this pad will have been used for 252
-out of 964 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Communications* and the payload will be injected
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240720T191500">2024-07-20 19:15:00 UTC</a>.  Until
+then, this pad will have been used for 20
+out of 46 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Payload consists of a single SAR Earth-imaging Acadia satellite, a new generation satellite designed, manufactured, and operated by Capella Space.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240714T073500">2024-07-14 07:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240714T073500Z%2F20240714T120500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T034000">2024-07-16 03:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240716T034000Z%2F20240716T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T062600">2024-07-17 06:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-5&location=Cape Canaveral, FL, USA&dates=20240717T062600Z%2F20240717T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-5** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240720T191500">2024-07-20 19:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | A Sky Full of SARs (Capella Acadia 3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240720T191500Z%2F20240720T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | A Sky Full of SARs (Capella Acadia 3)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T000000">2024-07-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | USSF-51&location=Cape Canaveral, FL, USA&dates=20240730T000000Z%2F20240730T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | USSF-51** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-5&location=Cape Canaveral, FL, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-5** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-20&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-21&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-21** from Vandenberg SFB, CA, USA.
@@ -92,25 +92,24 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_portrait_of_interacting_galaxies_marks_Webb_s_second_anniversary" >🔗</a> **[ESA]** Vivid portrait of interacting galaxies marks Webb’s second anniversary
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_Webb_portrait_of_interacting_galaxies_Penguin_and_Egg" >🔗</a> **[ESA]** Vivid Webb portrait of interacting galaxies Penguin and Egg
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Thank_you_Space_Team_Europe" >🔗</a> **[ESA]** Ariane 6: Thank you Space Team Europe
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_July_2024" >🔗</a> **[ESA]** Week in images: 08-12 July 2024
+- <a href="https://www.cnbc.com/2024/07/12/spacex-falcon-9-rocket-grounded-after-rare-inflight-failure.html" >🔗</a> **[CNBC]** SpaceX’s Falcon 9 rocket suffers rare inflight failure, is grounded during investigation
+- <a href="https://tlpnetwork.com/news/america/nasa-europa-clipper-mission-at-risk-of-major-delay" >🔗</a> **[The Launch Pad]** NASA’s Europa Clipper Mission at Risk Of Major Delay Following Radiation Vulnerability Discovery
+- <a href="https://spacenews.com/tina-ghataore-group-csro-and-ceo-north-america-aerospacelab-leading-women-in-space/" >🔗</a> **[SpaceNews]** Tina Ghataore, Group CSRO and CEO North America,  Aerospacelab – Leading Women in Space
 - <a href="https://europeanspaceflight.com/pld-space-secure-e31-2m-loan-for-miura-5-development/" >🔗</a> **[European Spaceflight]** PLD Space Secure €31.2M Loan for Miura 5 Development
 - <a href="https://science.nasa.gov/missions/webb/vivid-portrait-of-interacting-galaxies-marks-webbs-second-anniversary/" >🔗</a> **[NASA]** Vivid Portrait of Interacting Galaxies Marks Webb’s Second Anniversary
 - <a href="https://spacenews.com/chinas-long-march-6a-rocket-appears-to-have-an-orbital-debris-problem/" >🔗</a> **[SpaceNews]** China’s Long March 6A rocket appears to have an orbital debris problem
-- <a href="https://arstechnica.com/space/2024/07/rocket-report-chinese-firm-suffers-another-failure-ariane-6-soars-in-debut/" >🔗</a> **[Arstechnica]** Rocket Report: Chinese firm suffers another failure; Ariane 6 soars in debut
-- <a href="https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/" >🔗</a> **[NASA]** Hubble Measures the Distance to a Supernova
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Hainan_Strait" >🔗</a> **[ESA]** Earth from Space: Hainan Strait
-- <a href="https://europeanspaceflight.com/esa-mars-earth-return-orbiter-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ESA Mars Earth Return Orbiter Passes Key Milestone
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T150120">2024-07-12 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T153104">2024-07-12 15:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
