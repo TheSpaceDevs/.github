@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/spacex-falcon-9-suffers-in-flight-engine-failure-starlink-payloads-lost" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Suffers In Flight Engine Failure, Starlink Payloads Lost
 - <a href="https://spacenews.com/falcon-9-suffers-upper-stage-engine-failure/" >🔗</a> **[SpaceNews]** Falcon 9 suffers upper stage engine failure
 - <a href="https://spacenews.com/lunar-spacecraft-receive-dozens-of-collision-warnings/" >🔗</a> **[SpaceNews]** Lunar spacecraft receive dozens of collision warnings
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/" >🔗</a> **[NASA]** NASA Remembers Retired Astronaut, US Air Force Pilot Joe Engle
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/" >🔗</a> **[NASA]** 45 Years Ago: Skylab Reenters Earth’s Atmosphere
 - <a href="https://www.nasa.gov/image-article/electrical-and-mechanical-technician-clifton-brown/" >🔗</a> **[NASA]** Electrical and Mechanical Technician Clifton Brown
 - <a href="https://spaceflightnow.com/2024/07/11/starliner-crew-confident-spacecraft-will-bring-them-safely-home/" >🔗</a> **[Spaceflight Now]** Starliner crew confident spacecraft will bring them safely home
-- <a href="https://spaceflightnow.com/2024/07/11/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 second stage fails leaving Starlink satellites in wrong orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T070123">2024-07-12 07:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T073058">2024-07-12 07:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
