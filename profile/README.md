@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-suffers-upper-stage-engine-failure/" >🔗</a> **[SpaceNews]** Falcon 9 suffers upper stage engine failure
 - <a href="https://spacenews.com/lunar-spacecraft-receive-dozens-of-collision-warnings/" >🔗</a> **[SpaceNews]** Lunar spacecraft receive dozens of collision warnings
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/" >🔗</a> **[NASA]** NASA Remembers Retired Astronaut, US Air Force Pilot Joe Engle
 - <a href="https://spacenews.com/microsoft-leads-40-million-funding-for-starlink-networking-startup/" >🔗</a> **[SpaceNews]** Microsoft leads $40 million funding for Starlink networking startup
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/electrical-and-mechanical-technician-clifton-brown/" >🔗</a> **[NASA]** Electrical and Mechanical Technician Clifton Brown
 - <a href="https://spaceflightnow.com/2024/07/11/starliner-crew-confident-spacecraft-will-bring-them-safely-home/" >🔗</a> **[Spaceflight Now]** Starliner crew confident spacecraft will bring them safely home
 - <a href="https://spaceflightnow.com/2024/07/11/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 second stage fails leaving Starlink satellites in wrong orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_cuts_a_vertical_path_up_up_and_away" >🔗</a> **[ESA]** Ariane 6 cuts a vertical path up, up and away
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T053111">2024-07-12 05:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T060129">2024-07-12 06:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
