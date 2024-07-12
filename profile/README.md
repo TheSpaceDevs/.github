@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_portrait_of_interacting_galaxies_marks_Webb_s_second_anniversary" >🔗</a> **[ESA]** Vivid portrait of interacting galaxies marks Webb’s second anniversary
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Thank_you_Space_Team_Europe" >🔗</a> **[ESA]** Ariane 6: Thank you Space Team Europe
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_July_2024" >🔗</a> **[ESA]** Week in images: 08-12 July 2024
+- <a href="https://europeanspaceflight.com/pld-space-secure-e31-2m-loan-for-miura-5-development/" >🔗</a> **[European Spaceflight]** PLD Space Secure €31.2M Loan for Miura 5 Development
+- <a href="https://science.nasa.gov/missions/webb/vivid-portrait-of-interacting-galaxies-marks-webbs-second-anniversary/" >🔗</a> **[NASA]** Vivid Portrait of Interacting Galaxies Marks Webb’s Second Anniversary
 - <a href="https://spacenews.com/chinas-long-march-6a-rocket-appears-to-have-an-orbital-debris-problem/" >🔗</a> **[SpaceNews]** China’s Long March 6A rocket appears to have an orbital debris problem
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-chinese-firm-suffers-another-failure-ariane-6-soars-in-debut/" >🔗</a> **[Arstechnica]** Rocket Report: Chinese firm suffers another failure; Ariane 6 soars in debut
 - <a href="https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/" >🔗</a> **[NASA]** Hubble Measures the Distance to a Supernova
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Hainan_Strait" >🔗</a> **[ESA]** Earth from Space: Hainan Strait
 - <a href="https://europeanspaceflight.com/esa-mars-earth-return-orbiter-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ESA Mars Earth Return Orbiter Passes Key Milestone
-- <a href="https://tlpnetwork.com/news/in-space/spacex-falcon-9-suffers-in-flight-engine-failure-starlink-payloads-lost" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Suffers In Flight Engine Failure, Starlink Payloads Lost
-- <a href="https://spacenews.com/falcon-9-suffers-upper-stage-engine-failure/" >🔗</a> **[SpaceNews]** Falcon 9 suffers upper stage engine failure
-- <a href="https://spacenews.com/lunar-spacecraft-receive-dozens-of-collision-warnings/" >🔗</a> **[SpaceNews]** Lunar spacecraft receive dozens of collision warnings
-- <a href="https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/" >🔗</a> **[NASA]** NASA Remembers Retired Astronaut, US Air Force Pilot Joe Engle
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T140128">2024-07-12 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T143218">2024-07-12 14:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
