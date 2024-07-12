@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-long-march-6a-rocket-appears-to-have-an-orbital-debris-problem/" >🔗</a> **[SpaceNews]** China’s Long March 6A rocket appears to have an orbital debris problem
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-chinese-firm-suffers-another-failure-ariane-6-soars-in-debut/" >🔗</a> **[Arstechnica]** Rocket Report: Chinese firm suffers another failure; Ariane 6 soars in debut
 - <a href="https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/" >🔗</a> **[NASA]** Hubble Measures the Distance to a Supernova
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Hainan_Strait" >🔗</a> **[ESA]** Earth from Space: Hainan Strait
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lunar-spacecraft-receive-dozens-of-collision-warnings/" >🔗</a> **[SpaceNews]** Lunar spacecraft receive dozens of collision warnings
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/" >🔗</a> **[NASA]** NASA Remembers Retired Astronaut, US Air Force Pilot Joe Engle
 - <a href="https://spacenews.com/microsoft-leads-40-million-funding-for-starlink-networking-startup/" >🔗</a> **[SpaceNews]** Microsoft leads $40 million funding for Starlink networking startup
-- <a href="https://spacenews.com/general-atomics-to-build-second-space-force-weather-satellite/" >🔗</a> **[SpaceNews]** General Atomics to build second Space Force weather satellite
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T113110">2024-07-12 11:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T120152">2024-07-12 12:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
