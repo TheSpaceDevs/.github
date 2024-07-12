@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/policy-and-finance/us-congress-introduces-nasa-reauthorization-act-to-fund-programs-and-review-key-projects" >🔗</a> **[The Launch Pad]** US Congress Introduces NASA Reauthorization Act  To Fund Programs And Review Key Projects
+- <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-spacecraft-continues-inspection-of-japanese-upper-stage-following-unexpected-attitude-anomaly-abort" >🔗</a> **[The Launch Pad]** Astroscale's ADRAS-J Spacecraft Continues Inspection of Japanese Upper Stage Following "Unexpected Attitude Anomaly" Abort
 - <a href="https://spacepolicyonline.com/news/nasa-evaluating-europa-clippers-ability-to-withstand-radiation-as-launch-nears/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating Europa Clipper’s Ability to Withstand Radiation as Launch Nears
 - <a href="https://tlpnetwork.com/news/europe/dawn-aerospace-go-for-supersonic-flight-tests-of-spaceplane" >🔗</a> **[The Launch Pad]** Dawn Aerospace "GO" for Supersonic Flight Tests of Spaceplane
 - <a href="https://www.nasa.gov/image-article/two-years-since-webbs-first-images-celebrating-with-the-penguin-and-the-egg/" >🔗</a> **[NASA]** Two Years Since Webb’s First Images: Celebrating with the Penguin and the Egg
@@ -98,9 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-engineers-unveil-versatile-low-cost-hybrid-engine-testbed/" >🔗</a> **[NASA]** NASA Marshall Engineers Unveil Versatile, Low-cost Hybrid Engine Testbed
 - <a href="https://www.spacescout.info/2024/07/falcon-9-grounded-after-anomaly/" >🔗</a> **[Space Scout]** Falcon 9 Grounded after Anomaly
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_portrait_of_interacting_galaxies_marks_Webb_s_second_anniversary" >🔗</a> **[ESA]** Vivid portrait of interacting galaxies marks Webb’s second anniversary
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_Thank_you_Space_Team_Europe" >🔗</a> **[ESA]** Ariane 6: Thank you Space Team Europe
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Vivid_Webb_portrait_of_interacting_galaxies_Penguin_and_Egg" >🔗</a> **[ESA]** Vivid Webb portrait of interacting galaxies Penguin and Egg
-- <a href="https://spacenews.com/u-s-military-to-award-3-billion-contract-for-ai-driven-intelligence/" >🔗</a> **[SpaceNews]** U.S. military to award $3 billion contract for AI-driven intelligence
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T190120">2024-07-12 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240712T193113">2024-07-12 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
