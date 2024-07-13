@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italian-startup-fast-secures-e500k-for-air-launched-hyperdart-rocket/" >🔗</a> **[European Spaceflight]** Italian Startup FAST Secures €500K for Air-Launched HyperDart Rocket
 - <a href="https://www.nasa.gov/aeronautics/digital-information-platform-could-help-improve-air-traffic/" >🔗</a> **[NASA]** NASA Cloud-Based Platform Could Help Streamline, Improve Air Traffic
 - <a href="https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/" >🔗</a> **[SpaceNews]** Starlink satellites lost on Falcon 9 upper stage failure
 - <a href="https://tlpnetwork.com/news/america/spacex-falcon-9-grounded-faa-requires-public-safety-investigation-following-starlink-mission-failure" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Grounded, FAA Requires Public Safety Investigation Following Starlink Mission Failure
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/nasas-flagship-mission-to-europa-has-a-problem-vulnerability-to-radiation/" >🔗</a> **[Arstechnica]** NASA’s flagship mission to Europa has a problem: Vulnerability to radiation
 - <a href="https://tlpnetwork.com/news/policy-and-finance/us-congress-introduces-nasa-reauthorization-act-to-fund-programs-and-review-key-projects" >🔗</a> **[The Launch Pad]** US Congress Introduces NASA Reauthorization Act  To Fund Programs And Review Key Projects
 - <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-spacecraft-continues-inspection-of-japanese-upper-stage-following-unexpected-attitude-anomaly-abort" >🔗</a> **[The Launch Pad]** Astroscale's ADRAS-J Spacecraft Continues Inspection of Japanese Upper Stage Following "Unexpected Attitude Anomaly" Abort
-- <a href="https://spacepolicyonline.com/news/nasa-evaluating-europa-clippers-ability-to-withstand-radiation-as-launch-nears/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating Europa Clipper’s Ability to Withstand Radiation as Launch Nears
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240713T060110">2024-07-13 06:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240713T063340">2024-07-13 06:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
