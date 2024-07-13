@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/digital-information-platform-could-help-improve-air-traffic/" >🔗</a> **[NASA]** NASA Cloud-Based Platform Could Help Streamline, Improve Air Traffic
 - <a href="https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/" >🔗</a> **[SpaceNews]** Starlink satellites lost on Falcon 9 upper stage failure
 - <a href="https://tlpnetwork.com/news/america/spacex-falcon-9-grounded-faa-requires-public-safety-investigation-following-starlink-mission-failure" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Grounded, FAA Requires Public Safety Investigation Following Starlink Mission Failure
 - <a href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/" >🔗</a> **[NASA]** Sols 4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/us-congress-introduces-nasa-reauthorization-act-to-fund-programs-and-review-key-projects" >🔗</a> **[The Launch Pad]** US Congress Introduces NASA Reauthorization Act  To Fund Programs And Review Key Projects
 - <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-spacecraft-continues-inspection-of-japanese-upper-stage-following-unexpected-attitude-anomaly-abort" >🔗</a> **[The Launch Pad]** Astroscale's ADRAS-J Spacecraft Continues Inspection of Japanese Upper Stage Following "Unexpected Attitude Anomaly" Abort
 - <a href="https://spacepolicyonline.com/news/nasa-evaluating-europa-clippers-ability-to-withstand-radiation-as-launch-nears/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating Europa Clipper’s Ability to Withstand Radiation as Launch Nears
-- <a href="https://tlpnetwork.com/news/europe/dawn-aerospace-go-for-supersonic-flight-tests-of-spaceplane" >🔗</a> **[The Launch Pad]** Dawn Aerospace "GO" for Supersonic Flight Tests of Spaceplane
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240713T004507">2024-07-13 00:45:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240713T012728">2024-07-13 01:27:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
