@@ -98,9 +98,9 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/" >🔗</a> **[NASA]** Sols 4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!
 - <a href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/" >🔗</a> **[NASA]** NASA to Commemorate 55th Anniversary of Apollo 11 Moon Landing
 - <a href="https://www.teslarati.com/spacex-launch-anomaly-occurs-on-falcon-9-starlink-satellite-mission/" >🔗</a> **[Teslarati]** SpaceX launch anomaly occurs on Falcon 9 Starlink satellite mission
+- <a href="https://spacepolicyonline.com/news/rare-spacex-failure-leaves-launch-schedules-in-flux/" >🔗</a> **[SpacePolicyOnline.com]** Rare SpaceX Failure Leaves Launch Schedules in Flux
 - <a href="https://arstechnica.com/space/2024/07/nasas-flagship-mission-to-europa-has-a-problem-vulnerability-to-radiation/" >🔗</a> **[Arstechnica]** NASA’s flagship mission to Europa has a problem: Vulnerability to radiation
 - <a href="https://tlpnetwork.com/news/policy-and-finance/us-congress-introduces-nasa-reauthorization-act-to-fund-programs-and-review-key-projects" >🔗</a> **[The Launch Pad]** US Congress Introduces NASA Reauthorization Act  To Fund Programs And Review Key Projects
-- <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-spacecraft-continues-inspection-of-japanese-upper-stage-following-unexpected-attitude-anomaly-abort" >🔗</a> **[The Launch Pad]** Astroscale's ADRAS-J Spacecraft Continues Inspection of Japanese Upper Stage Following "Unexpected Attitude Anomaly" Abort
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240713T170106">2024-07-13 17:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240713T173102">2024-07-13 17:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
