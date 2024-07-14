@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-makes-progress-on-space-sustainability-strategy/" >🔗</a> **[SpaceNews]** NASA makes progress on space sustainability strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 14-20, 2024
 - <a href="https://europeanspaceflight.com/italian-startup-fast-secures-e500k-for-air-launched-hyperdart-rocket/" >🔗</a> **[European Spaceflight]** Italian Startup FAST Secures €500K for Air-Launched HyperDart Rocket
 - <a href="https://www.nasa.gov/aeronautics/digital-information-platform-could-help-improve-air-traffic/" >🔗</a> **[NASA]** NASA Cloud-Based Platform Could Help Streamline, Improve Air Traffic
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/" >🔗</a> **[NASA]** NASA to Commemorate 55th Anniversary of Apollo 11 Moon Landing
 - <a href="https://www.teslarati.com/spacex-launch-anomaly-occurs-on-falcon-9-starlink-satellite-mission/" >🔗</a> **[Teslarati]** SpaceX launch anomaly occurs on Falcon 9 Starlink satellite mission
 - <a href="https://spacepolicyonline.com/news/rare-spacex-failure-leaves-launch-schedules-in-flux/" >🔗</a> **[SpacePolicyOnline.com]** Rare SpaceX Failure Leaves Launch Schedules in Flux
-- <a href="https://arstechnica.com/space/2024/07/nasas-flagship-mission-to-europa-has-a-problem-vulnerability-to-radiation/" >🔗</a> **[Arstechnica]** NASA’s flagship mission to Europa has a problem: Vulnerability to radiation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240714T220109">2024-07-14 22:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240714T223157">2024-07-14 22:31:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
