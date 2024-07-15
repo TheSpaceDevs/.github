@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-johnson-to-dedicate-building-to-dorothy-vaughan-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson to Dedicate Building to Dorothy Vaughan, Women of Apollo
 - <a href="https://www.nasaspaceflight.com/2024/07/booster-12-static-fires-pad-a-b-tower-stacking/" >🔗</a> **[NASASpaceflight]** Booster 12 static fires at Pad A and Pad B tower stacking underway
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/2023-nasa-engineering-safety-center-honor-awards/" >🔗</a> **[NASA]** 2023 NASA Engineering & Safety Center Honor Awards
 - <a href="https://www.nasa.gov/general/telepong/" >🔗</a> **[NASA]** Telepong
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/" >🔗</a> **[NASA]** NASA Transmits Hip-Hop Song to Deep Space for First Time
 - <a href="https://www.nasa.gov/image-article/the-meatball-turns-65/" >🔗</a> **[NASA]** “The Meatball’ Turns 65
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Alexander_Gerst" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Alexander Gerst
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-investigates-eternal-sunrises-sunsets-on-distant-world/" >🔗</a> **[NASA]** NASA’s Webb Investigates Eternal Sunrises, Sunsets on Distant World
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T220115">2024-07-15 22:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T223133">2024-07-15 22:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
