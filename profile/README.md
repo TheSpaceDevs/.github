@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weather_satellite_passes_bake_and_shake_tests_with_flying_colours" >🔗</a> **[ESA]** Weather satellite passes bake and shake tests with flying colours
 - <a href="https://spacenews.com/escapade-on-schedule-for-launch-this-fall/" >🔗</a> **[SpaceNews]** ESCAPADE on schedule for launch this fall
 - <a href="https://spacenews.com/nasa-makes-progress-on-space-sustainability-strategy/" >🔗</a> **[SpaceNews]** NASA makes progress on space sustainability strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 14-20, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/spacex-falcon-9-grounded-faa-requires-public-safety-investigation-following-starlink-mission-failure" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Grounded, FAA Requires Public Safety Investigation Following Starlink Mission Failure
 - <a href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/" >🔗</a> **[NASA]** Sols 4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!
 - <a href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/" >🔗</a> **[NASA]** NASA to Commemorate 55th Anniversary of Apollo 11 Moon Landing
-- <a href="https://www.teslarati.com/spacex-launch-anomaly-occurs-on-falcon-9-starlink-satellite-mission/" >🔗</a> **[Teslarati]** SpaceX launch anomaly occurs on Falcon 9 Starlink satellite mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T070108">2024-07-15 07:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T073058">2024-07-15 07:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
