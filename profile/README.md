@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-investigates-eternal-sunrises-sunsets-on-distant-world/" >🔗</a> **[NASA]** NASA’s Webb Investigates Eternal Sunrises, Sunsets on Distant World
 - <a href="https://spacenews.com/u-s-nuclear-command-satellites-need-hardening-against-attacks-report-warns/" >🔗</a> **[SpaceNews]** U.S. nuclear command satellites need hardening against attacks, report warns
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/sky-high-sustainability-nasa-johnsons-pocket-prairie-flourishes-atop-building-12/" >🔗</a> **[NASA]** Sky High Sustainability: NASA Johnson’s Pocket Prairie Flourishes Atop Building 12
 - <a href="https://spacenews.com/nasa-capstone-testing-autopilot-software-suite-cislunar-operations/" >🔗</a> **[SpaceNews]** NASA’s CAPSTONE is testing “Autopilot” software suite for cislunar operations
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weather_satellite_passes_bake_and_shake_tests_with_flying_colours" >🔗</a> **[ESA]** Weather satellite passes bake and shake tests with flying colours
 - <a href="https://spacenews.com/escapade-on-schedule-for-launch-this-fall/" >🔗</a> **[SpaceNews]** ESCAPADE on schedule for launch this fall
 - <a href="https://spacenews.com/nasa-makes-progress-on-space-sustainability-strategy/" >🔗</a> **[SpaceNews]** NASA makes progress on space sustainability strategy
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 14-20, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T150117">2024-07-15 15:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T153234">2024-07-15 15:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
