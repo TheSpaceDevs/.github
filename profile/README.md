@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/" >🔗</a> **[NASA]** NASA Transmits Hip-Hop Song to Deep Space for First Time
+- <a href="https://www.nasa.gov/image-article/the-meatball-turns-65/" >🔗</a> **[NASA]** “The Meatball’ Turns 65
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Alexander_Gerst" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Alexander Gerst
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-investigates-eternal-sunrises-sunsets-on-distant-world/" >🔗</a> **[NASA]** NASA’s Webb Investigates Eternal Sunrises, Sunsets on Distant World
 - <a href="https://spacenews.com/u-s-nuclear-command-satellites-need-hardening-against-attacks-report-warns/" >🔗</a> **[SpaceNews]** U.S. nuclear command satellites need hardening against attacks, report warns
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/themis-reusable-booster-demonstrator-hop-tests-delayed-once-again/" >🔗</a> **[European Spaceflight]** Themis Reusable Booster Demonstrator Hop Tests Delayed Once Again
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_We_did_it" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: We did it!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_lunar-Earth_flyby_all_you_need_to_know" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: all you need to know
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weather_satellite_passes_bake_and_shake_tests_with_flying_colours" >🔗</a> **[ESA]** Weather satellite passes bake and shake tests with flying colours
-- <a href="https://spacenews.com/escapade-on-schedule-for-launch-this-fall/" >🔗</a> **[SpaceNews]** ESCAPADE on schedule for launch this fall
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T190118">2024-07-15 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T193057">2024-07-15 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
