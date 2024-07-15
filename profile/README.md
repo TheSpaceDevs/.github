@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/15-years-ago-sts-127-delivers-japanese-external-platform-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-127 Delivers Japanese External Platform to Space Station
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-nasas-moonshot-launched-commercial-fuel-cell-industry/" >🔗</a> **[NASA]** Tech Today: NASA’s Moonshot Launched Commercial Fuel Cell Industry
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-universities-take-learning-out-of-classroom/" >🔗</a> **[NASA]** NASA, Universities Take Learning Out of Classroom
 - <a href="https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/" >🔗</a> **[NASA]** NASA Transmits Hip-Hop Song to Deep Space for First Time
 - <a href="https://www.nasa.gov/image-article/the-meatball-turns-65/" >🔗</a> **[NASA]** “The Meatball’ Turns 65
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Alexander_Gerst" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Alexander Gerst
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-nuclear-command-satellites-need-hardening-against-attacks-report-warns/" >🔗</a> **[SpaceNews]** U.S. nuclear command satellites need hardening against attacks, report warns
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/sky-high-sustainability-nasa-johnsons-pocket-prairie-flourishes-atop-building-12/" >🔗</a> **[NASA]** Sky High Sustainability: NASA Johnson’s Pocket Prairie Flourishes Atop Building 12
 - <a href="https://spacenews.com/nasa-capstone-testing-autopilot-software-suite-cislunar-operations/" >🔗</a> **[SpaceNews]** NASA’s CAPSTONE is testing “Autopilot” software suite for cislunar operations
-- <a href="https://europeanspaceflight.com/themis-reusable-booster-demonstrator-hop-tests-delayed-once-again/" >🔗</a> **[European Spaceflight]** Themis Reusable Booster Demonstrator Hop Tests Delayed Once Again
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_We_did_it" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: We did it!
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_lunar-Earth_flyby_all_you_need_to_know" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: all you need to know
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T193057">2024-07-15 19:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T200121">2024-07-15 20:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
