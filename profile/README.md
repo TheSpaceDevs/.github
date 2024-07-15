@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_lunar-Earth_flyby_all_you_need_to_know" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: all you need to know
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weather_satellite_passes_bake_and_shake_tests_with_flying_colours" >🔗</a> **[ESA]** Weather satellite passes bake and shake tests with flying colours
 - <a href="https://spacenews.com/escapade-on-schedule-for-launch-this-fall/" >🔗</a> **[SpaceNews]** ESCAPADE on schedule for launch this fall
 - <a href="https://spacenews.com/nasa-makes-progress-on-space-sustainability-strategy/" >🔗</a> **[SpaceNews]** NASA makes progress on space sustainability strategy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/" >🔗</a> **[SpaceNews]** Starlink satellites lost on Falcon 9 upper stage failure
 - <a href="https://tlpnetwork.com/news/america/spacex-falcon-9-grounded-faa-requires-public-safety-investigation-following-starlink-mission-failure" >🔗</a> **[The Launch Pad]** SpaceX Falcon 9 Grounded, FAA Requires Public Safety Investigation Following Starlink Mission Failure
 - <a href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/" >🔗</a> **[NASA]** Sols 4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!
-- <a href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/" >🔗</a> **[NASA]** NASA to Commemorate 55th Anniversary of Apollo 11 Moon Landing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T080145">2024-07-15 08:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T083323">2024-07-15 08:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
