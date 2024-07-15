@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-capstone-testing-autopilot-software-suite-cislunar-operations/" >🔗</a> **[SpaceNews]** NASA’s CAPSTONE is testing “Autopilot” software suite for cislunar operations
 - <a href="https://europeanspaceflight.com/themis-reusable-booster-demonstrator-hop-tests-delayed-once-again/" >🔗</a> **[European Spaceflight]** Themis Reusable Booster Demonstrator Hop Tests Delayed Once Again
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_We_did_it" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: We did it!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_lunar-Earth_flyby_all_you_need_to_know" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: all you need to know
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 14-20, 2024
 - <a href="https://europeanspaceflight.com/italian-startup-fast-secures-e500k-for-air-launched-hyperdart-rocket/" >🔗</a> **[European Spaceflight]** Italian Startup FAST Secures €500K for Air-Launched HyperDart Rocket
 - <a href="https://www.nasa.gov/aeronautics/digital-information-platform-could-help-improve-air-traffic/" >🔗</a> **[NASA]** NASA Cloud-Based Platform Could Help Streamline, Improve Air Traffic
-- <a href="https://spacenews.com/starlink-satellites-lost-on-falcon-9-upper-stage-failure/" >🔗</a> **[SpaceNews]** Starlink satellites lost on Falcon 9 upper stage failure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T130347">2024-07-15 13:03:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T133110">2024-07-15 13:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
