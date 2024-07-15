@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/escapade-on-schedule-for-launch-this-fall/" >🔗</a> **[SpaceNews]** ESCAPADE on schedule for launch this fall
 - <a href="https://spacenews.com/nasa-makes-progress-on-space-sustainability-strategy/" >🔗</a> **[SpaceNews]** NASA makes progress on space sustainability strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-14-20-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 14-20, 2024
 - <a href="https://europeanspaceflight.com/italian-startup-fast-secures-e500k-for-air-launched-hyperdart-rocket/" >🔗</a> **[European Spaceflight]** Italian Startup FAST Secures €500K for Air-Launched HyperDart Rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blogs/sols-4241-4242-we-cant-go-around-itweve-got-to-go-through-it/" >🔗</a> **[NASA]** Sols 4241–4242: We Can’t Go Around It…We’ve Got To Go Through It!
 - <a href="https://www.nasa.gov/news-release/nasa-to-commemorate-55th-anniversary-of-apollo-11-moon-landing/" >🔗</a> **[NASA]** NASA to Commemorate 55th Anniversary of Apollo 11 Moon Landing
 - <a href="https://www.teslarati.com/spacex-launch-anomaly-occurs-on-falcon-9-starlink-satellite-mission/" >🔗</a> **[Teslarati]** SpaceX launch anomaly occurs on Falcon 9 Starlink satellite mission
-- <a href="https://spacepolicyonline.com/news/rare-spacex-failure-leaves-launch-schedules-in-flux/" >🔗</a> **[SpacePolicyOnline.com]** Rare SpaceX Failure Leaves Launch Schedules in Flux
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T050111">2024-07-15 05:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T053135">2024-07-15 05:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
