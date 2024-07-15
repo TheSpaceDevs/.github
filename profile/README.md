@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/07/booster-12-static-fires-pad-a-b-tower-stacking/" >🔗</a> **[NASASpaceflight]** Booster 12 static fires at Pad A and Pad B tower stacking underway
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/2023-nasa-engineering-safety-center-honor-awards/" >🔗</a> **[NASA]** 2023 NASA Engineering & Safety Center Honor Awards
+- <a href="https://www.nasa.gov/general/telepong/" >🔗</a> **[NASA]** Telepong
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-127-delivers-japanese-external-platform-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-127 Delivers Japanese External Platform to Space Station
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-nasas-moonshot-launched-commercial-fuel-cell-industry/" >🔗</a> **[NASA]** Tech Today: NASA’s Moonshot Launched Commercial Fuel Cell Industry
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-universities-take-learning-out-of-classroom/" >🔗</a> **[NASA]** NASA, Universities Take Learning Out of Classroom
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/the-meatball-turns-65/" >🔗</a> **[NASA]** “The Meatball’ Turns 65
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/ESA_astronaut_class_of_2022_Astro_Chat_with_Alexander_Gerst" >🔗</a> **[ESA]** ESA astronaut class of 2022: Astro Chat with Alexander Gerst
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-investigates-eternal-sunrises-sunsets-on-distant-world/" >🔗</a> **[NASA]** NASA’s Webb Investigates Eternal Sunrises, Sunsets on Distant World
-- <a href="https://spacenews.com/u-s-nuclear-command-satellites-need-hardening-against-attacks-report-warns/" >🔗</a> **[SpaceNews]** U.S. nuclear command satellites need hardening against attacks, report warns
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/sky-high-sustainability-nasa-johnsons-pocket-prairie-flourishes-atop-building-12/" >🔗</a> **[NASA]** Sky High Sustainability: NASA Johnson’s Pocket Prairie Flourishes Atop Building 12
-- <a href="https://spacenews.com/nasa-capstone-testing-autopilot-software-suite-cislunar-operations/" >🔗</a> **[SpaceNews]** NASA’s CAPSTONE is testing “Autopilot” software suite for cislunar operations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T203055">2024-07-15 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240715T210112">2024-07-15 21:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
