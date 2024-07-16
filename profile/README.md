@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/XMM-Newton_shows_million-degree_gas_in_Abell_2390" >🔗</a> **[ESA]** XMM-Newton shows million-degree gas in Abell 2390
 - <a href="https://spacenews.com/china-reschedules-planetary-defense-mission-for-2027-launch/" >🔗</a> **[SpaceNews]** China reschedules planetary defense mission for 2027 launch
 - <a href="https://www.nasa.gov/news-release/nasa-johnson-to-dedicate-building-to-dorothy-vaughan-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson to Dedicate Building to Dorothy Vaughan, Women of Apollo
 - <a href="https://www.nasaspaceflight.com/2024/07/booster-12-static-fires-pad-a-b-tower-stacking/" >🔗</a> **[NASASpaceflight]** Booster 12 static fires at Pad A and Pad B tower stacking underway
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-nasas-moonshot-launched-commercial-fuel-cell-industry/" >🔗</a> **[NASA]** Tech Today: NASA’s Moonshot Launched Commercial Fuel Cell Industry
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-universities-take-learning-out-of-classroom/" >🔗</a> **[NASA]** NASA, Universities Take Learning Out of Classroom
 - <a href="https://www.nasa.gov/general/nasa-transmits-hip-hop-song-to-deep-space-for-first-time/" >🔗</a> **[NASA]** NASA Transmits Hip-Hop Song to Deep Space for First Time
-- <a href="https://www.nasa.gov/image-article/the-meatball-turns-65/" >🔗</a> **[NASA]** “The Meatball’ Turns 65
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T080139">2024-07-16 08:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T083305">2024-07-16 08:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
