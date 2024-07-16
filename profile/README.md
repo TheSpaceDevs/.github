@@ -91,7 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/07/16/spacex-requests-public-safety-determination-for-return-to-flight-for-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX requests public safety determination for early return to flight for its Falcon 9 rocket
 - <a href="https://www.nasa.gov/general/robotic-assembly-and-outfitting-for-nasa-space-missions/" >🔗</a> **[NASA]** Robotic Assembly and Outfitting for NASA Space Missions
+- <a href="https://science.nasa.gov/blogs/sols-4243-4245-exploring-stubblefield-canyon/" >🔗</a> **[NASA]** Sols 4243-4245: Exploring Stubblefield Canyon
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/heres-how-ai-is-changing-nasas-mars-rover-science/" >🔗</a> **[NASA]** Here’s How AI Is Changing NASA’s Mars Rover Science
 - <a href="https://www.nasa.gov/news-release/nasa-announces-leadership-changes/" >🔗</a> **[NASA]** NASA Announces Leadership Changes
 - <a href="https://spacenews.com/miura-5-spark-programme-presented-by-pld-space-offering-free-access-to-first-two-miura-5-flights-to-promote-space-innovation/" >🔗</a> **[SpaceNews]** MIURA 5 SPARK Programme, presented by PLD Space, offering free access to first two MIURA 5 flights to promote space innovation
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/hyprspace-fires-up-terminator-stage-demonstrator/" >🔗</a> **[European Spaceflight]** HyPrSpace Fires Up Terminator Stage Demonstrator
 - <a href="https://spacenews.com/kbr-to-acquire-defense-and-space-contractor-linquest-for-737-million/" >🔗</a> **[SpaceNews]** KBR to acquire defense and space contractor LinQuest for $737 million
 - <a href="https://www.nasa.gov/people-of-nasa/rebekah-hounsell-tracking-cosmic-light-to-untangle-the-universes-darkest-mysteries/" >🔗</a> **[NASA]** Rebekah Hounsell: Tracking Cosmic Light to Untangle the Universe’s Darkest Mysteries
-- <a href="https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 11’s One Small Step, One Giant Leap
-- <a href="https://www.nasa.gov/news-release/nasa-signs-us-saudi-arabia-agreement-for-civil-aeronautics-space-collaboration/" >🔗</a> **[NASA]** NASA Signs US, Saudi Arabia Agreement for Civil Aeronautics, Space Collaboration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T180118">2024-07-16 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T183359">2024-07-16 18:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
