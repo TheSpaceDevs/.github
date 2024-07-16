@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/heres-how-ai-is-changing-nasas-mars-rover-science/" >🔗</a> **[NASA]** Here’s How AI Is Changing NASA’s Mars Rover Science
 - <a href="https://www.nasa.gov/news-release/nasa-announces-leadership-changes/" >🔗</a> **[NASA]** NASA Announces Leadership Changes
 - <a href="https://spacenews.com/pld-space-launches-spark-programme-offering-free-access-to-first-two-miura-5-flights-to-promote-space-innovation/" >🔗</a> **[SpaceNews]** PLD Space launches SPARK Programme, offering free access to first two MIURA 5 flights to promote space innovation
 - <a href="https://europeanspaceflight.com/hyprspace-fires-up-terminator-stage-demonstrator/" >🔗</a> **[European Spaceflight]** HyPrSpace Fires Up Terminator Stage Demonstrator
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-signs-us-saudi-arabia-agreement-for-civil-aeronautics-space-collaboration/" >🔗</a> **[NASA]** NASA Signs US, Saudi Arabia Agreement for Civil Aeronautics, Space Collaboration
 - <a href="https://spacenews.com/refuellable-satellites-offer-critical-edge-amidst-intensifying-threats-space/" >🔗</a> **[SpaceNews]** Refuellable satellites offer critical edge amidst intensifying threats in space
 - <a href="https://spacenews.com/the-legacy-of-apollo-11-55-years-later/" >🔗</a> **[SpaceNews]** The legacy of Apollo 11, 55 years later
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Introducing_Ramses_ESA_s_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Introducing Ramses, ESA’s mission to asteroid Apophis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T160116">2024-07-16 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T163431">2024-07-16 16:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
