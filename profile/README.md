@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-announces-leadership-changes/" >🔗</a> **[NASA]** NASA Announces Leadership Changes
 - <a href="https://spacenews.com/pld-space-launches-spark-programme-offering-free-access-to-first-two-miura-5-flights-to-promote-space-innovation/" >🔗</a> **[SpaceNews]** PLD Space launches SPARK Programme, offering free access to first two MIURA 5 flights to promote space innovation
 - <a href="https://europeanspaceflight.com/hyprspace-fires-up-terminator-stage-demonstrator/" >🔗</a> **[European Spaceflight]** HyPrSpace Fires Up Terminator Stage Demonstrator
 - <a href="https://spacenews.com/kbr-to-acquire-defense-and-space-contractor-linquest-for-737-million/" >🔗</a> **[SpaceNews]** KBR to acquire defense and space contractor LinQuest for $737 million
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/refuellable-satellites-offer-critical-edge-amidst-intensifying-threats-space/" >🔗</a> **[SpaceNews]** Refuellable satellites offer critical edge amidst intensifying threats in space
 - <a href="https://spacenews.com/the-legacy-of-apollo-11-55-years-later/" >🔗</a> **[SpaceNews]** The legacy of Apollo 11, 55 years later
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Introducing_Ramses_ESA_s_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Introducing Ramses, ESA’s mission to asteroid Apophis
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Up_close_and_personal_Ariane_6_liftoff_from_the_launchpad" >🔗</a> **[ESA]** Up close and personal: Ariane 6 liftoff from the launchpad
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T153105">2024-07-16 15:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T160116">2024-07-16 16:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
