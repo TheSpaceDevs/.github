@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/apollo-11-lifts-off/" >🔗</a> **[NASA]** Apollo 11 Lifts Off
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-background-on-space-station-deorbit-planning/" >🔗</a> **[NASA]** NASA to Provide Background on Space Station Deorbit Planning
 - <a href="https://spacenews.com/ramon-space-creates-uk-space-computing-engineering-hub/" >🔗</a> **[SpaceNews]** Ramon.Space creates UK space computing engineering hub
 - <a href="https://science.nasa.gov/blogs/sols-4246-4247-next-stop-fairview-dome/" >🔗</a> **[NASA]** Sols 4246-4247: Next Stop: Fairview Dome
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/heres-how-ai-is-changing-nasas-mars-rover-science/" >🔗</a> **[NASA]** Here’s How AI Is Changing NASA’s Mars Rover Science
 - <a href="https://www.nasa.gov/news-release/nasa-announces-leadership-changes/" >🔗</a> **[NASA]** NASA Announces Leadership Changes
 - <a href="https://spacenews.com/pld-space-launches-spark-programme-offering-free-access-to-first-two-miura-5-flights-to-promote-space-innovation/" >🔗</a> **[SpaceNews]** PLD Space launches SPARK Programme, offering free access to first two MIURA 5 flights to promote space innovation
-- <a href="https://spacenews.com/miura-5-spark-programme-presented-by-pld-space-offering-free-access-to-first-two-miura-5-flights-to-promote-space-innovation/" >🔗</a> **[SpaceNews]** MIURA 5 SPARK Programme, presented by PLD Space, offering free access to first two MIURA 5 flights to promote space innovation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T203056">2024-07-16 20:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T210128">2024-07-16 21:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
