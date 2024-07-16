@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-exploration-science-program-update/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Exploration Science Program Update
 - <a href="https://www.nasa.gov/news-release/nasa-ships-moon-rocket-stage-ahead-of-first-crewed-artemis-flight/" >🔗</a> **[NASA]** NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight
 - <a href="https://www.nasa.gov/image-article/nasa-deputy-administrator-holds-first-bilateral-engagement-with-kasa/" >🔗</a> **[NASA]** NASA Deputy Administrator Holds First Bilateral Engagement with KASA
 - <a href="https://tlpnetwork.com/news/america/elon-announces-spacex-hq-leaving-california-moving-to-texas" >🔗</a> **[The Launch Pad]** Elon Announces SpaceX HQ Leaving California, Moving To Texas
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ramon-space-creates-uk-space-computing-engineering-hub/" >🔗</a> **[SpaceNews]** Ramon.Space creates UK space computing engineering hub
 - <a href="https://science.nasa.gov/blogs/sols-4246-4247-next-stop-fairview-dome/" >🔗</a> **[NASA]** Sols 4246-4247: Next Stop: Fairview Dome
 - <a href="https://spaceflightnow.com/2024/07/16/spacex-requests-public-safety-determination-for-return-to-flight-for-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX requests public safety determination for early return to flight for its Falcon 9 rocket
-- <a href="https://www.nasa.gov/general/robotic-assembly-and-outfitting-for-nasa-space-missions/" >🔗</a> **[NASA]** Robotic Assembly and Outfitting for NASA Space Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T220110">2024-07-16 22:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T223219">2024-07-16 22:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
