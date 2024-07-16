@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 11’s One Small Step, One Giant Leap
 - <a href="https://www.nasa.gov/news-release/nasa-signs-us-saudi-arabia-agreement-for-civil-aeronautics-space-collaboration/" >🔗</a> **[NASA]** NASA Signs US, Saudi Arabia Agreement for Civil Aeronautics, Space Collaboration
-- <a href="https://spacenews.com/the-legacy-of-apollo-11-55-years-later/" >🔗</a> **[SpaceNews]** The legacy of Apollo 11, 55 years later
 - <a href="https://spacenews.com/refuellable-satellites-offer-critical-edge-amidst-intensifying-threats-space/" >🔗</a> **[SpaceNews]** Refuellable satellites offer critical edge amidst intensifying threats in space
+- <a href="https://spacenews.com/the-legacy-of-apollo-11-55-years-later/" >🔗</a> **[SpaceNews]** The legacy of Apollo 11, 55 years later
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Up_close_and_personal_Ariane_6_liftoff_from_the_launchpad" >🔗</a> **[ESA]** Up close and personal: Ariane 6 liftoff from the launchpad
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Introducing_Ramses_ESA_s_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Introducing Ramses, ESA’s mission to asteroid Apophis
 - <a href="https://europeanspaceflight.com/esa-announces-ramses-mission-to-study-asteroids-close-flyby-of-earth/" >🔗</a> **[European Spaceflight]** ESA Announces Ramses Mission to Study Asteroid’s Close Flyby of Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/XMM-Newton_shows_million-degree_gas_in_Abell_2390" >🔗</a> **[ESA]** XMM-Newton shows million-degree gas in Abell 2390
 - <a href="https://spacenews.com/china-reschedules-planetary-defense-mission-for-2027-launch/" >🔗</a> **[SpaceNews]** China reschedules planetary defense mission for 2027 launch
 - <a href="https://www.nasa.gov/news-release/nasa-johnson-to-dedicate-building-to-dorothy-vaughan-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson to Dedicate Building to Dorothy Vaughan, Women of Apollo
-- <a href="https://www.nasaspaceflight.com/2024/07/booster-12-static-fires-pad-a-b-tower-stacking/" >🔗</a> **[NASASpaceflight]** Booster 12 static fires at Pad A and Pad B tower stacking underway
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T133112">2024-07-16 13:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240716T140208">2024-07-16 14:02:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
