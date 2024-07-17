@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Zero-G_testing_on_Europe_s_flattest_floor" >🔗</a> **[ESA]** Zero-G testing on Europe’s flattest floor
+- <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-second-professional-learning-institute/" >🔗</a> **[NASA]** Science Activation’s PLACES Team Facilitates Second Professional Learning Institute
 - <a href="https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/" >🔗</a> **[NASA]** NASA STEM Program for Indigenous Communities Honored for Excellence
 - <a href="https://spacenews.com/gps-startup-bets-on-advanced-signal-to-counter-jamming-threats/" >🔗</a> **[SpaceNews]** GPS startup bets on advanced signal to counter jamming threats
 - <a href="https://spacenews.com/gop-platform-lays-out-aggressive-space-agenda-to-counter-china/" >🔗</a> **[SpaceNews]** GOP platform lays out aggressive space agenda to counter China
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/esa-targets-2031-for-first-argonaut-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 2031 for First Argonaut Lunar Lander Mission
 - <a href="https://spacenews.com/second-sls-core-stage-ready-to-ship-to-florida/" >🔗</a> **[SpaceNews]** Second SLS core stage ready to ship to Florida
 - <a href="https://spacenews.com/nasa-space-technology-head-leaves-the-agency/" >🔗</a> **[SpaceNews]** NASA space technology head leaves the agency
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-with-six-new-worlds-5500-discovery-milestone-passed/" >🔗</a> **[NASA]** Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T160118">2024-07-17 16:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T163435">2024-07-17 16:34:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
