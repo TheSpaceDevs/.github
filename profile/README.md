@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-sls-core-stage-ready-to-ship-to-florida/" >🔗</a> **[SpaceNews]** Second SLS core stage ready to ship to Florida
 - <a href="https://spacenews.com/nasa-space-technology-head-leaves-the-agency/" >🔗</a> **[SpaceNews]** NASA space technology head leaves the agency
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-with-six-new-worlds-5500-discovery-milestone-passed/" >🔗</a> **[NASA]** Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!
 - <a href="https://spacenews.com/nasa-science-head-optimistic-europa-clipper-launches-on-schedule/" >🔗</a> **[SpaceNews]** NASA science head optimistic Europa Clipper launches on schedule
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/elon-announces-spacex-hq-leaving-california-moving-to-texas" >🔗</a> **[The Launch Pad]** Elon Announces SpaceX HQ Leaving California, Moving To Texas
 - <a href="https://science.nasa.gov/earth/nasa-celebrates-20-years-of-earth-observing-aura-satellite/" >🔗</a> **[NASA]** NASA Celebrates 20 Years of Earth-Observing Aura Satellite
 - <a href="https://www.nasa.gov/image-article/apollo-11-lifts-off/" >🔗</a> **[NASA]** Apollo 11 Lifts Off
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-background-on-space-station-deorbit-planning/" >🔗</a> **[NASA]** NASA to Provide Background on Space Station Deorbit Planning
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T060121">2024-07-17 06:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T063441">2024-07-17 06:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
