@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm" >🔗</a> **[ESA]** Double trouble: Gaia hit by micrometeoroid and solar storm
 - <a href="https://europeanspaceflight.com/esa-targets-2031-for-first-argonaut-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 2031 for First Argonaut Lunar Lander Mission
 - <a href="https://spacenews.com/second-sls-core-stage-ready-to-ship-to-florida/" >🔗</a> **[SpaceNews]** Second SLS core stage ready to ship to Florida
 - <a href="https://spacenews.com/nasa-space-technology-head-leaves-the-agency/" >🔗</a> **[SpaceNews]** NASA space technology head leaves the agency
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-ships-moon-rocket-stage-ahead-of-first-crewed-artemis-flight/" >🔗</a> **[NASA]** NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight
 - <a href="https://www.nasa.gov/image-article/nasa-deputy-administrator-holds-first-bilateral-engagement-with-kasa/" >🔗</a> **[NASA]** NASA Deputy Administrator Holds First Bilateral Engagement with KASA
 - <a href="https://tlpnetwork.com/news/america/elon-announces-spacex-hq-leaving-california-moving-to-texas" >🔗</a> **[The Launch Pad]** Elon Announces SpaceX HQ Leaving California, Moving To Texas
-- <a href="https://science.nasa.gov/earth/nasa-celebrates-20-years-of-earth-observing-aura-satellite/" >🔗</a> **[NASA]** NASA Celebrates 20 Years of Earth-Observing Aura Satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T073101">2024-07-17 07:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T080133">2024-07-17 08:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
