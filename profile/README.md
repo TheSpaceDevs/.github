@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-command-chief-expresses-confidence-in-falcon-9s-prompt-return-to-flight/" >🔗</a> **[SpaceNews]** U.S. Space Command chief expresses confidence in Falcon 9’s prompt return to flight
 - <a href="https://www.nasaspaceflight.com/2024/07/cape-flyover/" >🔗</a> **[NASASpaceflight]** New Glenn flight preparations in focus, Stoke Space moving in, SpaceX fleet in port at the Cape
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-17-2024/" >🔗</a> **[NASA]** The Marshall Star for July 17, 2024
 - <a href="https://spacenews.com/u-s-space-force-chief-emphasizes-international-partnerships/" >🔗</a> **[SpaceNews]** U.S. Space Force chief emphasizes international partnerships
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/leolabs-to-support-uks-project-tyche/" >🔗</a> **[SpaceNews]** LeoLabs to support UK’s Project Tyche
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
 - <a href="https://spacenews.com/rosotics-unveils-printer-for-space-applications/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer with space applications
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Zero-G_testing_on_Europe_s_flattest_floor" >🔗</a> **[ESA]** Zero-G testing on Europe’s flattest floor
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T213059">2024-07-17 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T220118">2024-07-17 22:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
