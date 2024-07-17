@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-9 Mission
 - <a href="https://spacenews.com/leolabs-to-support-uks-project-tyche/" >🔗</a> **[SpaceNews]** LeoLabs to support UK’s Project Tyche
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
 - <a href="https://spacenews.com/rosotics-unveils-printer-for-space-applications/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer with space applications
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/" >🔗</a> **[NASA]** NASA STEM Program for Indigenous Communities Honored for Excellence
 - <a href="https://spacenews.com/gps-startup-bets-on-advanced-signal-to-counter-jamming-threats/" >🔗</a> **[SpaceNews]** GPS startup bets on advanced signal to counter jamming threats
 - <a href="https://spacenews.com/gop-platform-lays-out-aggressive-space-agenda-to-counter-china/" >🔗</a> **[SpaceNews]** GOP platform lays out aggressive space agenda to counter China
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_enables_medical_and_emergency_response" >🔗</a> **[ESA]** Satnav enables medical and emergency response
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T173104">2024-07-17 17:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T180124">2024-07-17 18:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
