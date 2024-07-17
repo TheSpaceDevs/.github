@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_enables_medical_and_emergency_response" >🔗</a> **[ESA]** Satnav enables medical and emergency response
 - <a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm" >🔗</a> **[ESA]** Double trouble: Gaia hit by micrometeoroid and solar storm
 - <a href="https://europeanspaceflight.com/esa-targets-2031-for-first-argonaut-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 2031 for First Argonaut Lunar Lander Mission
 - <a href="https://spacenews.com/second-sls-core-stage-ready-to-ship-to-florida/" >🔗</a> **[SpaceNews]** Second SLS core stage ready to ship to Florida
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-exploration-science-program-update/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Exploration Science Program Update
 - <a href="https://www.nasa.gov/news-release/nasa-ships-moon-rocket-stage-ahead-of-first-crewed-artemis-flight/" >🔗</a> **[NASA]** NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight
 - <a href="https://www.nasa.gov/image-article/nasa-deputy-administrator-holds-first-bilateral-engagement-with-kasa/" >🔗</a> **[NASA]** NASA Deputy Administrator Holds First Bilateral Engagement with KASA
-- <a href="https://tlpnetwork.com/news/america/elon-announces-spacex-hq-leaving-california-moving-to-texas" >🔗</a> **[The Launch Pad]** Elon Announces SpaceX HQ Leaving California, Moving To Texas
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T100125">2024-07-17 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T103321">2024-07-17 10:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
