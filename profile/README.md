@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leolabs-to-support-uks-project-tyche/" >🔗</a> **[SpaceNews]** LeoLabs to support UK’s Project Tyche
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
+- <a href="https://spacenews.com/rosotics-unveils-printer-for-space-applications/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer with space applications
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Zero-G_testing_on_Europe_s_flattest_floor" >🔗</a> **[ESA]** Zero-G testing on Europe’s flattest floor
+- <a href="https://science.nasa.gov/uncategorized/the-next-full-moon-is-the-buck-or-thunder-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Buck or Thunder Moon
 - <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-second-professional-learning-institute/" >🔗</a> **[NASA]** Science Activation’s PLACES Team Facilitates Second Professional Learning Institute
 - <a href="https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/" >🔗</a> **[NASA]** NASA STEM Program for Indigenous Communities Honored for Excellence
 - <a href="https://spacenews.com/gps-startup-bets-on-advanced-signal-to-counter-jamming-threats/" >🔗</a> **[SpaceNews]** GPS startup bets on advanced signal to counter jamming threats
 - <a href="https://spacenews.com/gop-platform-lays-out-aggressive-space-agenda-to-counter-china/" >🔗</a> **[SpaceNews]** GOP platform lays out aggressive space agenda to counter China
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_enables_medical_and_emergency_response" >🔗</a> **[ESA]** Satnav enables medical and emergency response
-- <a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm" >🔗</a> **[ESA]** Double trouble: Gaia hit by micrometeoroid and solar storm
-- <a href="https://europeanspaceflight.com/esa-targets-2031-for-first-argonaut-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 2031 for First Argonaut Lunar Lander Mission
-- <a href="https://spacenews.com/second-sls-core-stage-ready-to-ship-to-florida/" >🔗</a> **[SpaceNews]** Second SLS core stage ready to ship to Florida
-- <a href="https://spacenews.com/nasa-space-technology-head-leaves-the-agency/" >🔗</a> **[SpaceNews]** NASA space technology head leaves the agency
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T170108">2024-07-17 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T173104">2024-07-17 17:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
