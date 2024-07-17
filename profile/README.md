@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-space-technology-head-leaves-the-agency/" >🔗</a> **[SpaceNews]** NASA space technology head leaves the agency
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-with-six-new-worlds-5500-discovery-milestone-passed/" >🔗</a> **[NASA]** Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!
 - <a href="https://spacenews.com/nasa-science-head-optimistic-europa-clipper-launches-on-schedule/" >🔗</a> **[SpaceNews]** NASA science head optimistic Europa Clipper launches on schedule
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-exploration-science-program-update/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Exploration Science Program Update
 - <a href="https://www.nasa.gov/news-release/nasa-ships-moon-rocket-stage-ahead-of-first-crewed-artemis-flight/" >🔗</a> **[NASA]** NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/nasa-celebrates-20-years-of-earth-observing-aura-satellite/" >🔗</a> **[NASA]** NASA Celebrates 20 Years of Earth-Observing Aura Satellite
 - <a href="https://www.nasa.gov/image-article/apollo-11-lifts-off/" >🔗</a> **[NASA]** Apollo 11 Lifts Off
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-background-on-space-station-deorbit-planning/" >🔗</a> **[NASA]** NASA to Provide Background on Space Station Deorbit Planning
-- <a href="https://spacenews.com/ramon-space-creates-uk-space-computing-engineering-hub/" >🔗</a> **[SpaceNews]** Ramon.Space creates UK space computing engineering hub
-- <a href="https://science.nasa.gov/blogs/sols-4246-4247-next-stop-fairview-dome/" >🔗</a> **[NASA]** Sols 4246-4247: Next Stop: Fairview Dome
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T030116">2024-07-17 03:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T033211">2024-07-17 03:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
