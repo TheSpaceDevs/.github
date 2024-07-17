@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/pld-space-secures-312-million-loan-for-miura-5-rocket-development" >🔗</a> **[The Launch Pad]** PLD Space Secures €31.2 Million Loan for Miura 5 Rocket Development
+- <a href="https://tlpnetwork.com/news/asia/china-delays-asteroid-deflection-mission-to-2027-changes-target" >🔗</a> **[The Launch Pad]** China Delays Asteroid Deflection Mission to 2027, Changes Target
+- <a href="https://tlpnetwork.com/news/america/nasa-escapade-set-to-launch-to-mars-on-blue-origin-new-glenn-this-fall" >🔗</a> **[The Launch Pad]** NASA ESCAPADE Set To Launch To Mars On Blue Origin New Glenn This Fall
+- <a href="https://tlpnetwork.com/news/america/nasa-cancels-viper-lunar-rover-project" >🔗</a> **[The Launch Pad]** NASA Cancels VIPER Lunar Rover Project
 - <a href="https://spacenews.com/u-s-space-command-chief-expresses-confidence-in-falcon-9s-prompt-return-to-flight/" >🔗</a> **[SpaceNews]** U.S. Space Command chief expresses confidence in Falcon 9’s prompt return to flight
 - <a href="https://www.nasaspaceflight.com/2024/07/cape-flyover/" >🔗</a> **[NASASpaceflight]** New Glenn flight preparations in focus, Stoke Space moving in, SpaceX fleet in port at the Cape
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-17-2024/" >🔗</a> **[NASA]** The Marshall Star for July 17, 2024
 - <a href="https://spacenews.com/u-s-space-force-chief-emphasizes-international-partnerships/" >🔗</a> **[SpaceNews]** U.S. Space Force chief emphasizes international partnerships
 - <a href="https://www.nasa.gov/news-release/nasa-ends-viper-project-continues-moon-exploration/" >🔗</a> **[NASA]** NASA Ends VIPER Project, Continues Moon Exploration
 - <a href="https://spaceflightnow.com/2024/07/17/vaya-space-receives-pathfinding-liquid-oxygen-tank-shell-for-its-dauntless-rocket/" >🔗</a> **[Spaceflight Now]** Vaya Space receives pathfinding liquid oxygen tank shell for its Dauntless rocket
-- <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-9 Mission
-- <a href="https://spacenews.com/leolabs-to-support-uks-project-tyche/" >🔗</a> **[SpaceNews]** LeoLabs to support UK’s Project Tyche
-- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
-- <a href="https://spacenews.com/rosotics-unveils-printer-for-space-applications/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer with space applications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T220118">2024-07-17 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T223231">2024-07-17 22:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
