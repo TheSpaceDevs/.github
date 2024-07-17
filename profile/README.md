@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/07/cape-flyover/" >🔗</a> **[NASASpaceflight]** New Glenn flight preparations in focus, Stoke Space moving in, SpaceX fleet in port at the Cape
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-17-2024/" >🔗</a> **[NASA]** The Marshall Star for July 17, 2024
+- <a href="https://spacenews.com/u-s-space-force-chief-emphasizes-international-partnerships/" >🔗</a> **[SpaceNews]** U.S. Space Force chief emphasizes international partnerships
 - <a href="https://www.nasa.gov/news-release/nasa-ends-viper-project-continues-moon-exploration/" >🔗</a> **[NASA]** NASA Ends VIPER Project, Continues Moon Exploration
 - <a href="https://spaceflightnow.com/2024/07/17/vaya-space-receives-pathfinding-liquid-oxygen-tank-shell-for-its-dauntless-rocket/" >🔗</a> **[Spaceflight Now]** Vaya Space receives pathfinding liquid oxygen tank shell for its Dauntless rocket
 - <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-9 Mission
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
 - <a href="https://spacenews.com/rosotics-unveils-printer-for-space-applications/" >🔗</a> **[SpaceNews]** Rosotics unveils 3D printer with space applications
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Zero-G_testing_on_Europe_s_flattest_floor" >🔗</a> **[ESA]** Zero-G testing on Europe’s flattest floor
-- <a href="https://science.nasa.gov/uncategorized/the-next-full-moon-is-the-buck-or-thunder-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Buck or Thunder Moon
-- <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-second-professional-learning-institute/" >🔗</a> **[NASA]** Science Activation’s PLACES Team Facilitates Second Professional Learning Institute
-- <a href="https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/" >🔗</a> **[NASA]** NASA STEM Program for Indigenous Communities Honored for Excellence
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T203059">2024-07-17 20:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T210116">2024-07-17 21:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
