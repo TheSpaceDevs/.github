@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/07/17/vaya-space-receives-pathfinding-liquid-oxygen-tank-shell-for-its-dauntless-rocket/" >🔗</a> **[Spaceflight Now]** Vaya Space receives pathfinding liquid oxygen tank shell for its Dauntless rocket
 - <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-9 Mission
 - <a href="https://spacenews.com/leolabs-to-support-uks-project-tyche/" >🔗</a> **[SpaceNews]** LeoLabs to support UK’s Project Tyche
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-9-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-9 Launch to Space Station
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-second-professional-learning-institute/" >🔗</a> **[NASA]** Science Activation’s PLACES Team Facilitates Second Professional Learning Institute
 - <a href="https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/" >🔗</a> **[NASA]** NASA STEM Program for Indigenous Communities Honored for Excellence
 - <a href="https://spacenews.com/gps-startup-bets-on-advanced-signal-to-counter-jamming-threats/" >🔗</a> **[SpaceNews]** GPS startup bets on advanced signal to counter jamming threats
-- <a href="https://spacenews.com/gop-platform-lays-out-aggressive-space-agenda-to-counter-china/" >🔗</a> **[SpaceNews]** GOP platform lays out aggressive space agenda to counter China
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T190111">2024-07-17 19:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T193115">2024-07-17 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
