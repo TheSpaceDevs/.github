@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-stem-program-for-indigenous-communities-honored-for-excellence/" >🔗</a> **[NASA]** NASA STEM Program for Indigenous Communities Honored for Excellence
+- <a href="https://spacenews.com/gps-startup-bets-on-advanced-signal-to-counter-jamming-threats/" >🔗</a> **[SpaceNews]** GPS startup bets on advanced signal to counter jamming threats
 - <a href="https://spacenews.com/gop-platform-lays-out-aggressive-space-agenda-to-counter-china/" >🔗</a> **[SpaceNews]** GOP platform lays out aggressive space agenda to counter China
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_enables_medical_and_emergency_response" >🔗</a> **[ESA]** Satnav enables medical and emergency response
 - <a href="https://www.esa.int/Enabling_Support/Operations/Double_trouble_Gaia_hit_by_micrometeoroid_and_solar_storm" >🔗</a> **[ESA]** Double trouble: Gaia hit by micrometeoroid and solar storm
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-space-technology-head-leaves-the-agency/" >🔗</a> **[SpaceNews]** NASA space technology head leaves the agency
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-with-six-new-worlds-5500-discovery-milestone-passed/" >🔗</a> **[NASA]** Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!
 - <a href="https://spacenews.com/nasa-science-head-optimistic-europa-clipper-launches-on-schedule/" >🔗</a> **[SpaceNews]** NASA science head optimistic Europa Clipper launches on schedule
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-exploration-science-program-update/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Exploration Science Program Update
-- <a href="https://www.nasa.gov/news-release/nasa-ships-moon-rocket-stage-ahead-of-first-crewed-artemis-flight/" >🔗</a> **[NASA]** NASA Ships Moon Rocket Stage Ahead of First Crewed Artemis Flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T140132">2024-07-17 14:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240717T143239">2024-07-17 14:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
