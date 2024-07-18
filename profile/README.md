@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/Preparing_for_Juice_s_daring_double_flyby" >🔗</a> **[ESA]** Preparing for Juice’s daring double flyby
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Artemis_II_no_pressure" >🔗</a> **[ESA]** Artemis II: no pressure
 - <a href="https://www.nasa.gov/general/july-2024-transformer-of-the-month-brooke-weborg/" >🔗</a> **[NASA]** July 2024 Transformer of the Month: Brooke Weborg
 - <a href="https://spacenews.com/maxar-intelligence-unveils-first-images-from-next-generation-worldview-legion-satellites/" >🔗</a> **[SpaceNews]** Maxar Intelligence unveils first images from next-generation WorldView Legion satellites
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/rfa-completes-full-mission-hot-fire-test-of-redshift-upper-stage/" >🔗</a> **[European Spaceflight]** RFA Completes Full-Mission Hot Fire Test of Redshift Upper Stage
 - <a href="https://spaceflightnow.com/2024/07/18/nasa-cancels-half-billion-dollar-water-ice-seeking-moon-rover/" >🔗</a> **[Spaceflight Now]** NASA cancels half-billion dollar water-ice-seeking VIPER Moon rover
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/ESA_gears_up_for_the_Farnborough_International_Airshow" >🔗</a> **[ESA]** ESA gears up for the Farnborough International Airshow
-- <a href="https://spacenews.com/firefly-ceo-leaves-company/" >🔗</a> **[SpaceNews]** Firefly CEO leaves company
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T133106">2024-07-18 13:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T140143">2024-07-18 14:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
