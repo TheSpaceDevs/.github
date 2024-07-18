@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-gears-up-for-nasa-satellite-data-relay-demonstration/" >🔗</a> **[SpaceNews]** Amazon gears up for NASA satellite data relay demonstration
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Heart_of_Hertz_2.0" >🔗</a> **[ESA]** Heart of Hertz 2.0
 - <a href="https://europeanspaceflight.com/rfa-completes-full-mission-hot-fire-test-of-redshift-upper-stage/" >🔗</a> **[European Spaceflight]** RFA Completes Full-Mission Hot Fire Test of Redshift Upper Stage
 - <a href="https://spaceflightnow.com/2024/07/18/nasa-cancels-half-billion-dollar-water-ice-seeking-moon-rover/" >🔗</a> **[Spaceflight Now]** NASA cancels half-billion dollar water-ice-seeking VIPER Moon rover
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/nasa-cancels-viper-lunar-rover/" >🔗</a> **[SpacePolicyOnline.com]** NASA Cancels VIPER Lunar Rover
 - <a href="https://spacenews.com/nasa-cancels-viper-lunar-rover/" >🔗</a> **[SpaceNews]** NASA cancels VIPER lunar rover
 - <a href="https://tlpnetwork.com/news/america/nasa-rolls-out-second-core-stage-for-artemis-2-mission" >🔗</a> **[The Launch Pad]** NASA Rolls Out Second Core Stage for Artemis 2 Mission
-- <a href="https://tlpnetwork.com/news/europe/pld-space-secures-312-million-loan-for-miura-5-rocket-development" >🔗</a> **[The Launch Pad]** PLD Space Secures €31.2 Million Loan for Miura 5 Rocket Development
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T120132">2024-07-18 12:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T124111">2024-07-18 12:41:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
