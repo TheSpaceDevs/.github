@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis II Core Stage on the Move
+- <a href="https://science.nasa.gov/earth/registration-opens-2024-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for the 2024 NASA International Space Apps Challenge
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-ames-welcomes-new-zealand-prime-minister-celebrates-partnership/" >🔗</a> **[NASA]** NASA Ames Welcomes New Zealand Prime Minister, Celebrates Partnership
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-life-signs-could-survive-near-surfaces-of-enceladus-and-europa/" >🔗</a> **[NASA]** NASA: Life Signs Could Survive Near Surfaces of Enceladus and Europa
 - <a href="https://www.esa.int/Enabling_Support/Operations/Preparing_for_Juice_s_daring_double_flyby" >🔗</a> **[ESA]** Preparing for Juice’s daring double flyby
 - <a href="https://spaceflightnow.com/2024/07/18/nasa-plans-for-space-stations-demise-with-new-spacex-deorbit-vehicle/" >🔗</a> **[Spaceflight Now]** NASA plans for space station’s demise with new SpaceX ‘Deorbit Vehicle’
 - <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-sun-climate-symposium/" >🔗</a> **[NASA]** Summary of the 2023 Sun – Climate Symposium
 - <a href="https://europeanspaceflight.com/arianegroup-ceo-reusable-ariane-6-not-economically-interesting/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO: Reusable Ariane 6 “Not Economically Interesting”
 - <a href="https://spacenews.com/chiara-manfletti-ceo-neuraspace-leading-women-in-space/" >🔗</a> **[SpaceNews]** Chiara Manfletti, CEO Neuraspace – Leading Women in Space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Artemis_II_no_pressure" >🔗</a> **[ESA]** Artemis II: no pressure
-- <a href="https://www.nasa.gov/general/july-2024-transformer-of-the-month-brooke-weborg/" >🔗</a> **[NASA]** July 2024 Transformer of the Month: Brooke Weborg
-- <a href="https://spacenews.com/maxar-intelligence-unveils-first-images-from-next-generation-worldview-legion-satellites/" >🔗</a> **[SpaceNews]** Maxar Intelligence unveils first images from next-generation WorldView Legion satellites
-- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/an-ancient-partnership-co-evolution-of-earth-environments-and-microbial-lifean-ancient-partnership/" >🔗</a> **[NASA]** An Ancient Partnership: Co-Evolution of Earth Environments and Microbial Life
-- <a href="https://spacenews.com/amazon-gears-up-for-nasa-satellite-data-relay-demonstration/" >🔗</a> **[SpaceNews]** Amazon gears up for NASA satellite data relay demonstration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T170112">2024-07-18 17:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T173108">2024-07-18 17:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
