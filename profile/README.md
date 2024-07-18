@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-cancels-viper-lunar-rover/" >🔗</a> **[SpaceNews]** NASA cancels VIPER lunar rover
 - <a href="https://tlpnetwork.com/news/america/nasa-rolls-out-second-core-stage-for-artemis-2-mission" >🔗</a> **[The Launch Pad]** NASA Rolls Out Second Core Stage for Artemis 2 Mission
 - <a href="https://tlpnetwork.com/news/europe/pld-space-secures-312-million-loan-for-miura-5-rocket-development" >🔗</a> **[The Launch Pad]** PLD Space Secures €31.2 Million Loan for Miura 5 Rocket Development
 - <a href="https://tlpnetwork.com/news/asia/china-delays-asteroid-deflection-mission-to-2027-changes-target" >🔗</a> **[The Launch Pad]** China Delays Asteroid Deflection Mission to 2027, Changes Target
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2024/07/cape-flyover/" >🔗</a> **[NASASpaceflight]** New Glenn flight preparations in focus, Stoke Space moving in, SpaceX fleet in port at the Cape
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-17-2024/" >🔗</a> **[NASA]** The Marshall Star for July 17, 2024
 - <a href="https://spacenews.com/u-s-space-force-chief-emphasizes-international-partnerships/" >🔗</a> **[SpaceNews]** U.S. Space Force chief emphasizes international partnerships
-- <a href="https://www.nasa.gov/news-release/nasa-ends-viper-project-continues-moon-exploration/" >🔗</a> **[NASA]** NASA Ends VIPER Project, Continues Moon Exploration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T023900">2024-07-18 02:39:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T030112">2024-07-18 03:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
