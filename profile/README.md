@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-souding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Souding Rocket Launches, Studies Heating of Sun’s Active Regions
+- <a href="https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/" >🔗</a> **[NASA]** New Evidence Adds to Findings Hinting at Network of Caves on Moon
+- <a href="https://science.nasa.gov/uncategorized/the-earth-observer-editors-corner-summer-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Summer 2024
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/" >🔗</a> **[NASA]** The Earth Observer’s 35th Anniversary
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis II Core Stage on the Move
 - <a href="https://science.nasa.gov/earth/registration-opens-2024-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for the 2024 NASA International Space Apps Challenge
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-life-signs-could-survive-near-surfaces-of-enceladus-and-europa/" >🔗</a> **[NASA]** NASA: Life Signs Could Survive Near Surfaces of Enceladus and Europa
 - <a href="https://www.esa.int/Enabling_Support/Operations/Preparing_for_Juice_s_daring_double_flyby" >🔗</a> **[ESA]** Preparing for Juice’s daring double flyby
 - <a href="https://spaceflightnow.com/2024/07/18/nasa-plans-for-space-stations-demise-with-new-spacex-deorbit-vehicle/" >🔗</a> **[Spaceflight Now]** NASA plans for space station’s demise with new SpaceX ‘Deorbit Vehicle’
-- <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-sun-climate-symposium/" >🔗</a> **[NASA]** Summary of the 2023 Sun – Climate Symposium
-- <a href="https://europeanspaceflight.com/arianegroup-ceo-reusable-ariane-6-not-economically-interesting/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO: Reusable Ariane 6 “Not Economically Interesting”
-- <a href="https://spacenews.com/chiara-manfletti-ceo-neuraspace-leading-women-in-space/" >🔗</a> **[SpaceNews]** Chiara Manfletti, CEO Neuraspace – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T190117">2024-07-18 19:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T193110">2024-07-18 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
