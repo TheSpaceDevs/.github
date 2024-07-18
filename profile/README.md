@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/" >🔗</a> **[NASA]** The Earth Observer’s 35th Anniversary
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis II Core Stage on the Move
 - <a href="https://science.nasa.gov/earth/registration-opens-2024-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for the 2024 NASA International Space Apps Challenge
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-ames-welcomes-new-zealand-prime-minister-celebrates-partnership/" >🔗</a> **[NASA]** NASA Ames Welcomes New Zealand Prime Minister, Celebrates Partnership
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/uncategorized/summary-of-the-2023-sun-climate-symposium/" >🔗</a> **[NASA]** Summary of the 2023 Sun – Climate Symposium
 - <a href="https://europeanspaceflight.com/arianegroup-ceo-reusable-ariane-6-not-economically-interesting/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO: Reusable Ariane 6 “Not Economically Interesting”
 - <a href="https://spacenews.com/chiara-manfletti-ceo-neuraspace-leading-women-in-space/" >🔗</a> **[SpaceNews]** Chiara Manfletti, CEO Neuraspace – Leading Women in Space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Artemis_II_no_pressure" >🔗</a> **[ESA]** Artemis II: no pressure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T180122">2024-07-18 18:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T183418">2024-07-18 18:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
