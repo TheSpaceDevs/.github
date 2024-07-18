@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Heart_of_Hertz_2.0" >🔗</a> **[ESA]** Heart of Hertz 2.0
+- <a href="https://spaceflightnow.com/2024/07/18/nasa-cancels-half-billion-dollar-water-ice-seeking-moon-rover/" >🔗</a> **[Spaceflight Now]** NASA cancels half-billion dollar water-ice-seeking VIPER Moon rover
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/ESA_gears_up_for_the_Farnborough_International_Airshow" >🔗</a> **[ESA]** ESA gears up for the Farnborough International Airshow
 - <a href="https://spacenews.com/firefly-ceo-leaves-company/" >🔗</a> **[SpaceNews]** Firefly CEO leaves company
 - <a href="https://spacenews.com/china-prepares-to-launch-new-long-march-12-rocket/" >🔗</a> **[SpaceNews]** China prepares to launch new Long March 12 rocket
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/nasa-rolls-out-second-core-stage-for-artemis-2-mission" >🔗</a> **[The Launch Pad]** NASA Rolls Out Second Core Stage for Artemis 2 Mission
 - <a href="https://tlpnetwork.com/news/europe/pld-space-secures-312-million-loan-for-miura-5-rocket-development" >🔗</a> **[The Launch Pad]** PLD Space Secures €31.2 Million Loan for Miura 5 Rocket Development
 - <a href="https://tlpnetwork.com/news/asia/china-delays-asteroid-deflection-mission-to-2027-changes-target" >🔗</a> **[The Launch Pad]** China Delays Asteroid Deflection Mission to 2027, Changes Target
-- <a href="https://tlpnetwork.com/news/america/nasa-escapade-set-to-launch-to-mars-on-blue-origin-new-glenn-this-fall" >🔗</a> **[The Launch Pad]** NASA ESCAPADE Set To Launch To Mars On Blue Origin New Glenn This Fall
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T100120">2024-07-18 10:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240718T103321">2024-07-18 10:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
