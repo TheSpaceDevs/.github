@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Central_Ethiopia" >🔗</a> **[ESA]** Earth from Space: Central Ethiopia
 - <a href="https://spacenews.com/enhanced-dragon-spacecraft-to-deorbit-the-iss-at-the-end-of-its-life/" >🔗</a> **[SpaceNews]** Enhanced Dragon spacecraft to deorbit the ISS at the end of its life
 - <a href="https://www.nasa.gov/image-article/from-one-crew-to-another-artemis-ii-astronauts-meet-nasa-barge-crew/" >🔗</a> **[NASA]** From One Crew to Another: Artemis II Astronauts Meet NASA Barge Crew
 - <a href="https://science.nasa.gov/blogs/sols-4248-4249-lunch-at-fairview-dome/" >🔗</a> **[NASA]** Sols 4248-4249: Lunch at Fairview Dome
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/" >🔗</a> **[NASA]** New Evidence Adds to Findings Hinting at Network of Caves on Moon
 - <a href="https://science.nasa.gov/uncategorized/the-earth-observer-editors-corner-summer-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Summer 2024
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/" >🔗</a> **[NASA]** The Earth Observer’s 35th Anniversary
-- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis II Core Stage on the Move
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T080120">2024-07-19 08:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T083239">2024-07-19 08:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
