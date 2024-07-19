@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
 - <a href="https://spacenews.com/china-launches-new-gaofen-11-high-resolution-spy-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-11 high resolution spy satellite
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-potential-galactic-merger/" >🔗</a> **[NASA]** Hubble Studies a Potential Galactic Merger
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Black_body_experiment_on_Ariane_6_captures_Pale_Blue_Dot" >🔗</a> **[ESA]** Black body experiment on Ariane 6 captures Pale Blue Dot
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astra-completes-deal-to-go-private/" >🔗</a> **[SpaceNews]** Astra completes deal to go private
 - <a href="https://spacenews.com/enhanced-dragon-spacecraft-to-deorbit-the-iss-at-the-end-of-its-life/" >🔗</a> **[SpaceNews]** Enhanced Dragon spacecraft to deorbit the ISS at the end of its life
 - <a href="https://www.nasa.gov/image-article/from-one-crew-to-another-artemis-ii-astronauts-meet-nasa-barge-crew/" >🔗</a> **[NASA]** From One Crew to Another: Artemis II Astronauts Meet NASA Barge Crew
-- <a href="https://science.nasa.gov/blogs/sols-4248-4249-lunch-at-fairview-dome/" >🔗</a> **[NASA]** Sols 4248-4249: Lunch at Fairview Dome
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T113057">2024-07-19 11:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T120137">2024-07-19 12:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
