@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 4B | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T025400">2024-07-19 02:54:00 UTC</a>.  Until
-then, this pad will have been used for 72
-out of 128 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**Falcon 9 Block 5 | Starlink Group 10-4**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T045900">2024-07-21 04:59:00 UTC</a>.  Until
+then, this pad will have been used for 252
+out of 964 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="http://en.wikipedia.org/wiki/Long_March_4B" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-9&location=Kennedy Space Center, FL, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-9** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-20&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-20** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-21&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-21** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -95,8 +96,8 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blogs/sols-4248-4249-lunch-at-fairview-dome/" >🔗</a> **[NASA]** Sols 4248-4249: Lunch at Fairview Dome
 - <a href="https://spacepolicyonline.com/news/nasa-iss-deorbit-vehicle-will-cost-1-5-billion-but-its-essential/" >🔗</a> **[SpacePolicyOnline.com]** NASA: ISS Deorbit Vehicle Will Cost $1.5 Billion, but It’s Essential
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-ros-sim-summer-sprint-challenge/" >🔗</a> **[NASA]** NASA Space ROS Sim Summer Sprint Challenge
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-souding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Souding Rocket Launches, Studies Heating of Sun’s Active Regions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-sounding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Sounding Rocket Launches, Studies Heating of Sun’s Active Regions
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-souding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Souding Rocket Launches, Studies Heating of Sun’s Active Regions
 - <a href="https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/" >🔗</a> **[NASA]** New Evidence Adds to Findings Hinting at Network of Caves on Moon
 - <a href="https://science.nasa.gov/uncategorized/the-earth-observer-editors-corner-summer-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Summer 2024
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/" >🔗</a> **[NASA]** The Earth Observer’s 35th Anniversary
@@ -104,11 +105,12 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T030123">2024-07-19 03:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T033327">2024-07-19 03:33:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
