@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
+- <a href="https://spacepolicyonline.com/news/esa-gets-go-ahead-to-begin-work-on-apophis-mission/" >🔗</a> **[SpacePolicyOnline.com]** ESA Gets Go Ahead to Begin Work on Apophis Mission
 - <a href="https://spacenews.com/france-funds-small-satellite-capture-and-inspection-mission/" >🔗</a> **[SpaceNews]** France funds small satellite capture and inspection mission
 - <a href="https://www.nasa.gov/aeronautics/oshkosh-2024-preview/" >🔗</a> **[NASA]** NASA to Host Panels, Forums, and More at Oshkosh 2024
 - <a href="https://www.nasa.gov/humans-in-space/exploring-the-moon-episode-previews/" >🔗</a> **[NASA]** Exploring the Moon: Episode Previews
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-seeks-permission-relaunch-falcon-9-during-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX seeks permission to relaunch Falcon 9 during FAA investigation
 - <a href="https://www.nasa.gov/image-article/explorers-on-the-moon-apollo-11-landing/" >🔗</a> **[NASA]** Explorers on the Moon: Apollo 11 Landing
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-funded-studies-explain-how-climate-is-changing-earths-rotation/" >🔗</a> **[NASA]** NASA-Funded Studies Explain How Climate Is Changing Earth’s Rotation
-- <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2024" >🔗</a> **[ESA]** ESA Space Environment Report 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T220119">2024-07-19 22:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T223236">2024-07-19 22:32:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
