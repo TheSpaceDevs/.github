@@ -96,11 +96,11 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blogs/sols-4248-4249-lunch-at-fairview-dome/" >🔗</a> **[NASA]** Sols 4248-4249: Lunch at Fairview Dome
 - <a href="https://spacepolicyonline.com/news/nasa-iss-deorbit-vehicle-will-cost-1-5-billion-but-its-essential/" >🔗</a> **[SpacePolicyOnline.com]** NASA: ISS Deorbit Vehicle Will Cost $1.5 Billion, but It’s Essential
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-ros-sim-summer-sprint-challenge/" >🔗</a> **[NASA]** NASA Space ROS Sim Summer Sprint Challenge
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-souding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Souding Rocket Launches, Studies Heating of Sun’s Active Regions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-sounding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Sounding Rocket Launches, Studies Heating of Sun’s Active Regions
 - <a href="https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/" >🔗</a> **[NASA]** New Evidence Adds to Findings Hinting at Network of Caves on Moon
 - <a href="https://science.nasa.gov/uncategorized/the-earth-observer-editors-corner-summer-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Summer 2024
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/" >🔗</a> **[NASA]** The Earth Observer’s 35th Anniversary
+- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis II Core Stage on the Move
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T070124">2024-07-19 07:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T073107">2024-07-19 07:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
