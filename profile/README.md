@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
+- <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2024" >🔗</a> **[ESA]** ESA Space Environment Report 2024
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_July_2024" >🔗</a> **[ESA]** Week in images: 15-19 July 2024
+- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-9-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for Crew-9 Mission to Space Station
 - <a href="https://europeanspaceflight.com/esa-explores-crewed-mission-capabilities-for-ariane-6-rocket/" >🔗</a> **[European Spaceflight]** ESA Explores Crewed Mission Capabilities for Ariane 6 Rocket
 - <a href="https://spacenews.com/ai-already-improving-operations-noaa-goesr-weather-environmental-satellites/" >🔗</a> **[SpaceNews]** How AI improves operations on NOAA GOES-R weather and environmental satellites
 - <a href="https://spacenews.com/china-launches-new-gaofen-11-high-resolution-spy-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-11 high resolution spy satellite
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-potential-galactic-merger/" >🔗</a> **[NASA]** Hubble Studies a Potential Galactic Merger
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Black_body_experiment_on_Ariane_6_captures_Pale_Blue_Dot" >🔗</a> **[ESA]** Black body experiment on Ariane 6 captures Pale Blue Dot
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/PariSat_school_experiment_sends_back_stunning_Earth_pics" >🔗</a> **[ESA]** PariSat school experiment sends back stunning Earth pics
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_science-after-school_experiment_sends_back_striking_snaps" >🔗</a> **[ESA]** Ariane 6 science-after-school experiment sends back striking snaps
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Central_Ethiopia" >🔗</a> **[ESA]** Earth from Space: Central Ethiopia
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T143200">2024-07-19 14:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T150111">2024-07-19 15:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
