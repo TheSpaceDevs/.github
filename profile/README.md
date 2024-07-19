@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Black_body_experiment_on_Ariane_6_captures_Pale_Blue_Dot" >🔗</a> **[ESA]** Black body experiment on Ariane 6 captures Pale Blue Dot
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/PariSat_school_experiment_sends_back_stunning_Earth_pics" >🔗</a> **[ESA]** PariSat school experiment sends back stunning Earth pics
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Ariane_6_science-after-school_experiment_sends_back_striking_snaps" >🔗</a> **[ESA]** Ariane 6 science-after-school experiment sends back striking snaps
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Central_Ethiopia" >🔗</a> **[ESA]** Earth from Space: Central Ethiopia
+- <a href="https://spacenews.com/astra-completes-deal-to-go-private/" >🔗</a> **[SpaceNews]** Astra completes deal to go private
 - <a href="https://spacenews.com/enhanced-dragon-spacecraft-to-deorbit-the-iss-at-the-end-of-its-life/" >🔗</a> **[SpaceNews]** Enhanced Dragon spacecraft to deorbit the ISS at the end of its life
 - <a href="https://www.nasa.gov/image-article/from-one-crew-to-another-artemis-ii-astronauts-meet-nasa-barge-crew/" >🔗</a> **[NASA]** From One Crew to Another: Artemis II Astronauts Meet NASA Barge Crew
 - <a href="https://science.nasa.gov/blogs/sols-4248-4249-lunch-at-fairview-dome/" >🔗</a> **[NASA]** Sols 4248-4249: Lunch at Fairview Dome
 - <a href="https://spacepolicyonline.com/news/nasa-iss-deorbit-vehicle-will-cost-1-5-billion-but-its-essential/" >🔗</a> **[SpacePolicyOnline.com]** NASA: ISS Deorbit Vehicle Will Cost $1.5 Billion, but It’s Essential
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-ros-sim-summer-sprint-challenge/" >🔗</a> **[NASA]** NASA Space ROS Sim Summer Sprint Challenge
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-sounding-rocket-launches-studies-heating-of-suns-active-regions/" >🔗</a> **[NASA]** NASA Sounding Rocket Launches, Studies Heating of Sun’s Active Regions
-- <a href="https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/" >🔗</a> **[NASA]** New Evidence Adds to Findings Hinting at Network of Caves on Moon
-- <a href="https://science.nasa.gov/uncategorized/the-earth-observer-editors-corner-summer-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Summer 2024
-- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observers-35th-anniversary/" >🔗</a> **[NASA]** The Earth Observer’s 35th Anniversary
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T090110">2024-07-19 09:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240719T093110">2024-07-19 09:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
