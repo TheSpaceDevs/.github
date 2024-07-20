@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nelson-apollo-11-united-the-country-in-1969-artemis-will-too/" >🔗</a> **[SpacePolicyOnline.com]** Nelson: Apollo 11 United the Country in 1969, Artemis Will Too
+- <a href="https://www.nasaspaceflight.com/2024/07/sls-cs-ksc-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA SLS Core Stage headed to KSC for Artemis II
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
 - <a href="https://spacenews.com/esa-supports-work-on-apophis-mission/" >🔗</a> **[SpaceNews]** ESA supports work on Apophis mission
 - <a href="https://spacepolicyonline.com/news/esa-gets-go-ahead-to-begin-work-on-apophis-mission/" >🔗</a> **[SpacePolicyOnline.com]** ESA Gets Go Ahead to Begin Work on Apophis Mission
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/humans-in-space/exploring-the-moon-episode-previews/" >🔗</a> **[NASA]** Exploring the Moon: Episode Previews
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-john-campbell/" >🔗</a> **[NASA]** I am Artemis: John Campbell
 - <a href="https://www.nasa.gov/image-article/nasas-juno-mission-captures-the-colorful-and-chaotic-clouds-of-jupiter/" >🔗</a> **[NASA]** NASA’s Juno Mission Captures the Colorful and Chaotic Clouds of Jupiter
-- <a href="https://www.teslarati.com/spacex-seeks-permission-relaunch-falcon-9-during-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX seeks permission to relaunch Falcon 9 during FAA investigation
-- <a href="https://www.nasa.gov/image-article/explorers-on-the-moon-apollo-11-landing/" >🔗</a> **[NASA]** Explorers on the Moon: Apollo 11 Landing
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240720T203052">2024-07-20 20:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240720T210129">2024-07-20 21:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
