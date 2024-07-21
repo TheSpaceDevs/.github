@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/south-koreas-new-space-agency-outlines-plans/" >🔗</a> **[SpaceNews]** South Korea’s new space agency outlines plans
 - <a href="https://spacepolicyonline.com/news/nelson-apollo-11-united-the-country-in-1969-artemis-will-too/" >🔗</a> **[SpacePolicyOnline.com]** Nelson: Apollo 11 United the Country in 1969, Artemis Will Too
 - <a href="https://www.nasaspaceflight.com/2024/07/sls-cs-ksc-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA SLS Core Stage headed to KSC for Artemis II
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/aeronautics/oshkosh-2024-preview/" >🔗</a> **[NASA]** NASA to Host Panels, Forums, and More at Oshkosh 2024
 - <a href="https://www.nasa.gov/humans-in-space/exploring-the-moon-episode-previews/" >🔗</a> **[NASA]** Exploring the Moon: Episode Previews
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-john-campbell/" >🔗</a> **[NASA]** I am Artemis: John Campbell
-- <a href="https://www.nasa.gov/image-article/nasas-juno-mission-captures-the-colorful-and-chaotic-clouds-of-jupiter/" >🔗</a> **[NASA]** NASA’s Juno Mission Captures the Colorful and Chaotic Clouds of Jupiter
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T023935">2024-07-21 02:39:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T030115">2024-07-21 03:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
