@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/07/curiosity-gediz-vallis/" >🔗</a> **[NASASpaceflight]** Curiosity discovers pure sulfur rocks, continues to explore Mount Sharp on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 21-27, 2024
 - <a href="https://europeanspaceflight.com/gaia-prevails-despite-a-no-good-dirty-rotten-year/" >🔗</a> **[European Spaceflight]** Gaia Prevails Despite a No-Good-Dirty-Rotten Year
 - <a href="https://spacenews.com/south-koreas-new-space-agency-outlines-plans/" >🔗</a> **[SpaceNews]** South Korea’s new space agency outlines plans
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/esa-supports-work-on-apophis-mission/" >🔗</a> **[SpaceNews]** ESA supports work on Apophis mission
 - <a href="https://spacepolicyonline.com/news/esa-gets-go-ahead-to-begin-work-on-apophis-mission/" >🔗</a> **[SpacePolicyOnline.com]** ESA Gets Go Ahead to Begin Work on Apophis Mission
 - <a href="https://spacenews.com/france-funds-small-satellite-capture-and-inspection-mission/" >🔗</a> **[SpaceNews]** France funds small satellite capture and inspection mission
-- <a href="https://www.nasa.gov/aeronautics/oshkosh-2024-preview/" >🔗</a> **[NASA]** NASA to Host Panels, Forums, and More at Oshkosh 2024
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T223112">2024-07-21 22:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T230107">2024-07-21 23:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
