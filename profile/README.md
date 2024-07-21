@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/gaia-prevails-despite-a-no-good-dirty-rotten-year/" >🔗</a> **[European Spaceflight]** Gaia Prevails Despite a No-Good-Dirty-Rotten Year
 - <a href="https://spacenews.com/south-koreas-new-space-agency-outlines-plans/" >🔗</a> **[SpaceNews]** South Korea’s new space agency outlines plans
 - <a href="https://spacepolicyonline.com/news/nelson-apollo-11-united-the-country-in-1969-artemis-will-too/" >🔗</a> **[SpacePolicyOnline.com]** Nelson: Apollo 11 United the Country in 1969, Artemis Will Too
 - <a href="https://www.nasaspaceflight.com/2024/07/sls-cs-ksc-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA SLS Core Stage headed to KSC for Artemis II
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/france-funds-small-satellite-capture-and-inspection-mission/" >🔗</a> **[SpaceNews]** France funds small satellite capture and inspection mission
 - <a href="https://www.nasa.gov/aeronautics/oshkosh-2024-preview/" >🔗</a> **[NASA]** NASA to Host Panels, Forums, and More at Oshkosh 2024
 - <a href="https://www.nasa.gov/humans-in-space/exploring-the-moon-episode-previews/" >🔗</a> **[NASA]** Exploring the Moon: Episode Previews
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-john-campbell/" >🔗</a> **[NASA]** I am Artemis: John Campbell
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T203109">2024-07-21 20:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240721T210104">2024-07-21 21:01:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
