@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-research-volunteers-to-begin-next-simulated-mission-to-mars/" >🔗</a> **[NASA]** NASA Research Volunteers to Begin Next Simulated Mission to Mars
 - <a href="https://europeanspaceflight.com/hyimpulse-awarded-5m-in-uksa-funding-for-sr75-launch/" >🔗</a> **[European Spaceflight]** HyImpulse Awarded £5M in UKSA Funding for SR75 Launch
 - <a href="https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/" >🔗</a> **[Arstechnica]** The Falcon 9 rocket may return to flight as soon as Tuesday night
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_Day_1" >🔗</a> **[ESA]** FIA 2024 – Day 1
 - <a href="https://spacenews.com/senate-appropriators-say-spending-bill-includes-nasa-increase/" >🔗</a> **[SpaceNews]** Senate appropriators say spending bill includes NASA increase
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-2C arrives in French Guiana
 - <a href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/" >🔗</a> **[NASA]** LIVE: NASA is with you from Oshkosh
 - <a href="https://www.nasaspaceflight.com/2024/07/curiosity-gediz-vallis/" >🔗</a> **[NASASpaceflight]** Curiosity discovers pure sulfur rocks, continues to explore Mount Sharp on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 21-27, 2024
 - <a href="https://europeanspaceflight.com/gaia-prevails-despite-a-no-good-dirty-rotten-year/" >🔗</a> **[European Spaceflight]** Gaia Prevails Despite a No-Good-Dirty-Rotten Year
-- <a href="https://spacenews.com/south-koreas-new-space-agency-outlines-plans/" >🔗</a> **[SpaceNews]** South Korea’s new space agency outlines plans
-- <a href="https://spacepolicyonline.com/news/nelson-apollo-11-united-the-country-in-1969-artemis-will-too/" >🔗</a> **[SpacePolicyOnline.com]** Nelson: Apollo 11 United the Country in 1969, Artemis Will Too
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T150108">2024-07-22 15:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T153159">2024-07-22 15:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
