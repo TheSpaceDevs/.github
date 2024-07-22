@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/" >🔗</a> **[NASA]** 25 Images to Celebrate NASA’s Chandra 25th Anniversary
+- <a href="https://www.nasa.gov/general/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/" >🔗</a> **[NASA]** Ground Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On
 - <a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/eileen-m-collins/eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander/" >🔗</a> **[NASA]** Eileen Collins Broke Barriers as America’s First Female Space Shuttle Commander
 - <a href="https://www.spacescout.info/2024/07/artemis-iis-core-stage-heads-to-florida/" >🔗</a> **[Space Scout]** Artemis II’s Core Stage Heads to Florida
 - <a href="https://spacenews.com/astroscale-unlocks-remaining-space-agency-funds-to-de-orbit-oneweb-satellite/" >🔗</a> **[SpaceNews]** Astroscale unlocks remaining space agency funds to de-orbit OneWeb satellite
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/" >🔗</a> **[Arstechnica]** The Falcon 9 rocket may return to flight as soon as Tuesday night
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_Day_1" >🔗</a> **[ESA]** FIA 2024 – Day 1
 - <a href="https://spacenews.com/senate-appropriators-say-spending-bill-includes-nasa-increase/" >🔗</a> **[SpaceNews]** Senate appropriators say spending bill includes NASA increase
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-2C arrives in French Guiana
-- <a href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/" >🔗</a> **[NASA]** LIVE: NASA is with you from Oshkosh
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T180126">2024-07-22 18:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T183357">2024-07-22 18:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
