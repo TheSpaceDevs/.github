@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/" >🔗</a> **[NASA]** LIVE: NASA is with you from Oshkosh
 - <a href="https://www.nasaspaceflight.com/2024/07/curiosity-gediz-vallis/" >🔗</a> **[NASASpaceflight]** Curiosity discovers pure sulfur rocks, continues to explore Mount Sharp on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 21-27, 2024
 - <a href="https://europeanspaceflight.com/gaia-prevails-despite-a-no-good-dirty-rotten-year/" >🔗</a> **[European Spaceflight]** Gaia Prevails Despite a No-Good-Dirty-Rotten Year
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
 - <a href="https://spacenews.com/esa-supports-work-on-apophis-mission/" >🔗</a> **[SpaceNews]** ESA supports work on Apophis mission
 - <a href="https://spacepolicyonline.com/news/esa-gets-go-ahead-to-begin-work-on-apophis-mission/" >🔗</a> **[SpacePolicyOnline.com]** ESA Gets Go Ahead to Begin Work on Apophis Mission
-- <a href="https://spacenews.com/france-funds-small-satellite-capture-and-inspection-mission/" >🔗</a> **[SpaceNews]** France funds small satellite capture and inspection mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T024043">2024-07-22 02:40:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T030125">2024-07-22 03:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
