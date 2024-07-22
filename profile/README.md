@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-2C arrives in French Guiana
 - <a href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/" >🔗</a> **[NASA]** LIVE: NASA is with you from Oshkosh
 - <a href="https://www.nasaspaceflight.com/2024/07/curiosity-gediz-vallis/" >🔗</a> **[NASASpaceflight]** Curiosity discovers pure sulfur rocks, continues to explore Mount Sharp on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 21-27, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/07/sls-cs-ksc-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA SLS Core Stage headed to KSC for Artemis II
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024" >🔗</a> **[ESA]** ESA stations support three Moon missions in 2024
 - <a href="https://spacenews.com/esa-supports-work-on-apophis-mission/" >🔗</a> **[SpaceNews]** ESA supports work on Apophis mission
-- <a href="https://spacepolicyonline.com/news/esa-gets-go-ahead-to-begin-work-on-apophis-mission/" >🔗</a> **[SpacePolicyOnline.com]** ESA Gets Go Ahead to Begin Work on Apophis Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T070107">2024-07-22 07:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T073102">2024-07-22 07:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
