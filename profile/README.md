@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-unlocks-remaining-space-agency-funds-to-de-orbit-oneweb-satellite/" >🔗</a> **[SpaceNews]** Astroscale unlocks remaining space agency funds to de-orbit OneWeb satellite
 - <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-research-volunteers-to-begin-next-simulated-mission-to-mars/" >🔗</a> **[NASA]** NASA Research Volunteers to Begin Next Simulated Mission to Mars
 - <a href="https://europeanspaceflight.com/hyimpulse-awarded-5m-in-uksa-funding-for-sr75-launch/" >🔗</a> **[European Spaceflight]** HyImpulse Awarded £5M in UKSA Funding for SR75 Launch
 - <a href="https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/" >🔗</a> **[Arstechnica]** The Falcon 9 rocket may return to flight as soon as Tuesday night
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/" >🔗</a> **[NASA]** LIVE: NASA is with you from Oshkosh
 - <a href="https://www.nasaspaceflight.com/2024/07/curiosity-gediz-vallis/" >🔗</a> **[NASASpaceflight]** Curiosity discovers pure sulfur rocks, continues to explore Mount Sharp on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-21-27-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 21-27, 2024
-- <a href="https://europeanspaceflight.com/gaia-prevails-despite-a-no-good-dirty-rotten-year/" >🔗</a> **[European Spaceflight]** Gaia Prevails Despite a No-Good-Dirty-Rotten Year
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T160130">2024-07-22 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T163427">2024-07-22 16:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
