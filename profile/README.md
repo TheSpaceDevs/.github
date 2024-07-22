@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for NOAA’s JPSS-4 Mission
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-discovers-new-energization-process-in-upper-atmosphere/" >🔗</a> **[NASA]** NASA Rocket Discovers New Energization Process in Upper Atmosphere
 - <a href="https://www.nasa.gov/image-article/chandra-sees-the-peacocks-galaxy/" >🔗</a> **[NASA]** Chandra Sees the Peacock’s Galaxy
 - <a href="https://spacenews.com/pentagons-arctic-strategy-emphasizes-space-and-satellite-capabilities/" >🔗</a> **[SpaceNews]** Pentagon’s Arctic strategy emphasizes space and satellite capabilities
 - <a href="https://science.nasa.gov/get-involved/citizen-science/seed-funding-proposals-due-november-19-this-year/" >🔗</a> **[NASA]** Seed Funding Proposals Due November 19 This Year!
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/" >🔗</a> **[NASA]** Ground Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On
 - <a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/eileen-m-collins/eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander/" >🔗</a> **[NASA]** Eileen Collins Broke Barriers as America’s First Female Space Shuttle Commander
 - <a href="https://www.spacescout.info/2024/07/artemis-iis-core-stage-heads-to-florida/" >🔗</a> **[Space Scout]** Artemis II’s Core Stage Heads to Florida
-- <a href="https://spacenews.com/astroscale-unlocks-remaining-space-agency-funds-to-de-orbit-oneweb-satellite/" >🔗</a> **[SpaceNews]** Astroscale unlocks remaining space agency funds to de-orbit OneWeb satellite
-- <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-research-volunteers-to-begin-next-simulated-mission-to-mars/" >🔗</a> **[NASA]** NASA Research Volunteers to Begin Next Simulated Mission to Mars
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T213054">2024-07-22 21:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T220119">2024-07-22 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
