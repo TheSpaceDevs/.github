@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/maxar-intelligence-releases-first-images-from-next-generation-worldview-legion-satellites" >🔗</a> **[The Launch Pad]** Maxar Intelligence Releases First Images from Next Generation WorldView Legion Satellites
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for NOAA’s JPSS-4 Mission
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-discovers-new-energization-process-in-upper-atmosphere/" >🔗</a> **[NASA]** NASA Rocket Discovers New Energization Process in Upper Atmosphere
 - <a href="https://www.nasa.gov/image-article/chandra-sees-the-peacocks-galaxy/" >🔗</a> **[NASA]** Chandra Sees the Peacock’s Galaxy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/" >🔗</a> **[NASA]** 25 Images to Celebrate NASA’s Chandra 25th Anniversary
 - <a href="https://www.nasa.gov/general/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/" >🔗</a> **[NASA]** Ground Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On
 - <a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/eileen-m-collins/eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander/" >🔗</a> **[NASA]** Eileen Collins Broke Barriers as America’s First Female Space Shuttle Commander
-- <a href="https://www.spacescout.info/2024/07/artemis-iis-core-stage-heads-to-florida/" >🔗</a> **[Space Scout]** Artemis II’s Core Stage Heads to Florida
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T230117">2024-07-22 23:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T233104">2024-07-22 23:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
