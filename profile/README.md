@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/seed-funding-proposals-due-november-19-this-year/" >🔗</a> **[NASA]** Seed Funding Proposals Due November 19 This Year!
+- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-072224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 approaches a return to flight, China launches Earth observation satellites
 - <a href="https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/" >🔗</a> **[NASA]** 25 Images to Celebrate NASA’s Chandra 25th Anniversary
 - <a href="https://www.nasa.gov/general/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/" >🔗</a> **[NASA]** Ground Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On
 - <a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/eileen-m-collins/eileen-collins-broke-barriers-as-americas-first-female-space-shuttle-commander/" >🔗</a> **[NASA]** Eileen Collins Broke Barriers as America’s First Female Space Shuttle Commander
@@ -99,12 +101,11 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-research-volunteers-to-begin-next-simulated-mission-to-mars/" >🔗</a> **[NASA]** NASA Research Volunteers to Begin Next Simulated Mission to Mars
 - <a href="https://europeanspaceflight.com/hyimpulse-awarded-5m-in-uksa-funding-for-sr75-launch/" >🔗</a> **[European Spaceflight]** HyImpulse Awarded £5M in UKSA Funding for SR75 Launch
 - <a href="https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/" >🔗</a> **[Arstechnica]** The Falcon 9 rocket may return to flight as soon as Tuesday night
-- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_Day_1" >🔗</a> **[ESA]** FIA 2024 – Day 1
-- <a href="https://spacenews.com/senate-appropriators-say-spending-bill-includes-nasa-increase/" >🔗</a> **[SpaceNews]** Senate appropriators say spending bill includes NASA increase
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-072224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 approaches a return to flight, China launches Earth observation satellites
 - <a href="https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/" >🔗</a> **[Arstechnica]** The Falcon 9 rocket may return to flight as soon as Tuesday night
 - <a href="https://www.teslarati.com/spacex-seeks-permission-relaunch-falcon-9-during-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX seeks permission to relaunch Falcon 9 during FAA investigation
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-070824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX flies more customer payloads and Ariane 6 debuts
@@ -112,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T190114">2024-07-22 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T193059">2024-07-22 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
