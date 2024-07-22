@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagons-arctic-strategy-emphasizes-space-and-satellite-capabilities/" >🔗</a> **[SpaceNews]** Pentagon’s Arctic strategy emphasizes space and satellite capabilities
 - <a href="https://science.nasa.gov/get-involved/citizen-science/seed-funding-proposals-due-november-19-this-year/" >🔗</a> **[NASA]** Seed Funding Proposals Due November 19 This Year!
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-072224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 approaches a return to flight, China launches Earth observation satellites
 - <a href="https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/" >🔗</a> **[NASA]** 25 Images to Celebrate NASA’s Chandra 25th Anniversary
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astroscale-unlocks-remaining-space-agency-funds-to-de-orbit-oneweb-satellite/" >🔗</a> **[SpaceNews]** Astroscale unlocks remaining space agency funds to de-orbit OneWeb satellite
 - <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-research-volunteers-to-begin-next-simulated-mission-to-mars/" >🔗</a> **[NASA]** NASA Research Volunteers to Begin Next Simulated Mission to Mars
 - <a href="https://europeanspaceflight.com/hyimpulse-awarded-5m-in-uksa-funding-for-sr75-launch/" >🔗</a> **[European Spaceflight]** HyImpulse Awarded £5M in UKSA Funding for SR75 Launch
-- <a href="https://arstechnica.com/space/2024/07/the-falcon-9-rocket-may-return-to-flight-as-soon-as-tuesday-night/" >🔗</a> **[Arstechnica]** The Falcon 9 rocket may return to flight as soon as Tuesday night
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T193059">2024-07-22 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240722T200120">2024-07-22 20:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
