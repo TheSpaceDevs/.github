@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-for-u-s-navy-fleet-training/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch for U.S. Navy Fleet Training
+- <a href="https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/" >🔗</a> **[NASA]** Watch Carbon Dioxide Move Through Earth’s Atmosphere
 - <a href="https://spacenews.com/smallsat-alliance-names-new-executive-director/" >🔗</a> **[SpaceNews]** SmallSat Alliance names new executive director
 - <a href="https://europeanspaceflight.com/gmv-completes-testing-of-its-multi-use-moon-rover-concept/" >🔗</a> **[European Spaceflight]** GMV Completes Testing of its Multi-Use Moon Rover Concept
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/" >🔗</a> **[NASA]** NASA’s 21st Northrop Grumman Mission Launches Scientific Studies to Station
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/abl-loses-rocket-after-static-fire-test/" >🔗</a> **[SpaceNews]** ABL loses rocket after static-fire test
 - <a href="https://spacenews.com/europe-sees-ariane-6-launch-as-an-end-to-its-launcher-crisis/" >🔗</a> **[SpaceNews]** Europe sees Ariane 6 launch as an end to its “launcher crisis”
 - <a href="https://tlpnetwork.com/news/in-space/maxar-intelligence-releases-first-images-from-next-generation-worldview-legion-satellites" >🔗</a> **[The Launch Pad]** Maxar Intelligence Releases First Images from Next Generation WorldView Legion Satellites
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for NOAA’s JPSS-4 Mission
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-discovers-new-energization-process-in-upper-atmosphere/" >🔗</a> **[NASA]** NASA Rocket Discovers New Energization Process in Upper Atmosphere
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T160121">2024-07-23 16:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T163456">2024-07-23 16:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
