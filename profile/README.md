@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/" >🔗</a> **[NASA]** Designing Space Exploration With the Human in Mind
+- <a href="https://spacenews.com/raytheon-partners-with-italys-avio-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** Raytheon partners with Italy’s Avio to boost solid rocket motor production
 - <a href="https://spacenews.com/european-space-agency-to-expand-uk-presence/" >🔗</a> **[SpaceNews]** European Space Agency to expand UK presence
 - <a href="https://www.nasa.gov/general/nasa-releases-first-integrated-ranking-of-civil-space-challenges/" >🔗</a> **[NASA]** NASA Releases First Integrated Ranking of Civil Space Challenges
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-discuss-crew-flight-test-mission-ground-testing/" >🔗</a> **[NASA]** NASA, Boeing to Discuss Crew Flight Test Mission, Ground Testing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/chandra/25-years-on-chandra-highlights-legacy-of-nasa-engineering-ingenuity/" >🔗</a> **[NASA]** 25 Years On, Chandra Highlights Legacy of NASA Engineering Ingenuity
 - <a href="https://www.nasa.gov/image-article/boneyard-airplane-sees-new-life-as-a-nasa-x-66-simulator/" >🔗</a> **[NASA]** Boneyard Airplane Sees New Life as a NASA X-66 Simulator
 - <a href="https://arstechnica.com/space/2024/07/spacex-just-stomped-the-competition-for-a-new-contract-thats-not-great/" >🔗</a> **[Arstechnica]** SpaceX just stomped the competition for a new contract—that’s not great
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-for-u-s-navy-fleet-training/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch for U.S. Navy Fleet Training
-- <a href="https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/" >🔗</a> **[NASA]** Watch Carbon Dioxide Move Through Earth’s Atmosphere
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T203100">2024-07-23 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T210116">2024-07-23 21:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
