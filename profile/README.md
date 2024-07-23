@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/smallsat-alliance-names-new-executive-director/" >🔗</a> **[SpaceNews]** SmallSat Alliance names new executive director
+- <a href="https://europeanspaceflight.com/gmv-completes-testing-of-its-multi-use-moon-rover-concept/" >🔗</a> **[European Spaceflight]** GMV Completes Testing of its Multi-Use Moon Rover Concept
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/" >🔗</a> **[NASA]** NASA’s 21st Northrop Grumman Mission Launches Scientific Studies to Station
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_2" >🔗</a> **[ESA]** FIA 2024 - Day 2
 - <a href="https://spacenews.com/china-wants-50-countries-involved-in-its-ilrs-moon-base/" >🔗</a> **[SpaceNews]** China wants 50 countries involved in its ILRS moon base
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/in-space/maxar-intelligence-releases-first-images-from-next-generation-worldview-legion-satellites" >🔗</a> **[The Launch Pad]** Maxar Intelligence Releases First Images from Next Generation WorldView Legion Satellites
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for NOAA’s JPSS-4 Mission
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-rocket-discovers-new-energization-process-in-upper-atmosphere/" >🔗</a> **[NASA]** NASA Rocket Discovers New Energization Process in Upper Atmosphere
-- <a href="https://www.nasa.gov/image-article/chandra-sees-the-peacocks-galaxy/" >🔗</a> **[NASA]** Chandra Sees the Peacock’s Galaxy
-- <a href="https://spacenews.com/pentagons-arctic-strategy-emphasizes-space-and-satellite-capabilities/" >🔗</a> **[SpaceNews]** Pentagon’s Arctic strategy emphasizes space and satellite capabilities
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T150112">2024-07-23 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T153105">2024-07-23 15:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
