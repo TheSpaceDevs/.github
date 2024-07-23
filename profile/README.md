@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-boeing-to-discuss-crew-flight-test-mission-ground-testing/" >🔗</a> **[NASA]** NASA, Boeing to Discuss Crew Flight Test Mission, Ground Testing
 - <a href="https://www.nasa.gov/organizations/otps/nasa-sponsors-new-research-on-orbital-debris-lunar-sustainability/" >🔗</a> **[NASA]** NASA Sponsors New Research on Orbital Debris, Lunar Sustainability
 - <a href="https://www.nasa.gov/image-article/astronaut-eileen-collins-nasas-first-female-shuttle-commander/" >🔗</a> **[NASA]** Astronaut Eileen Collins, NASA’s First Female Shuttle Commander
 - <a href="https://www.nasa.gov/missions/chandra/25-years-on-chandra-highlights-legacy-of-nasa-engineering-ingenuity/" >🔗</a> **[NASA]** 25 Years On, Chandra Highlights Legacy of NASA Engineering Ingenuity
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/" >🔗</a> **[NASA]** Watch Carbon Dioxide Move Through Earth’s Atmosphere
 - <a href="https://spacenews.com/smallsat-alliance-names-new-executive-director/" >🔗</a> **[SpaceNews]** SmallSat Alliance names new executive director
 - <a href="https://europeanspaceflight.com/gmv-completes-testing-of-its-multi-use-moon-rover-concept/" >🔗</a> **[European Spaceflight]** GMV Completes Testing of its Multi-Use Moon Rover Concept
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/" >🔗</a> **[NASA]** NASA’s 21st Northrop Grumman Mission Launches Scientific Studies to Station
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T190115">2024-07-23 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T193111">2024-07-23 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
