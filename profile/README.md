@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/european-space-agency-to-expand-uk-presence/" >🔗</a> **[SpaceNews]** European Space Agency to expand UK presence
+- <a href="https://www.nasa.gov/general/nasa-releases-first-integrated-ranking-of-civil-space-challenges/" >🔗</a> **[NASA]** NASA Releases First Integrated Ranking of Civil Space Challenges
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-discuss-crew-flight-test-mission-ground-testing/" >🔗</a> **[NASA]** NASA, Boeing to Discuss Crew Flight Test Mission, Ground Testing
 - <a href="https://www.nasa.gov/organizations/otps/nasa-sponsors-new-research-on-orbital-debris-lunar-sustainability/" >🔗</a> **[NASA]** NASA Sponsors New Research on Orbital Debris, Lunar Sustainability
 - <a href="https://www.nasa.gov/image-article/astronaut-eileen-collins-nasas-first-female-shuttle-commander/" >🔗</a> **[NASA]** Astronaut Eileen Collins, NASA’s First Female Shuttle Commander
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/spacex-just-stomped-the-competition-for-a-new-contract-thats-not-great/" >🔗</a> **[Arstechnica]** SpaceX just stomped the competition for a new contract—that’s not great
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-for-u-s-navy-fleet-training/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch for U.S. Navy Fleet Training
 - <a href="https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/" >🔗</a> **[NASA]** Watch Carbon Dioxide Move Through Earth’s Atmosphere
-- <a href="https://spacenews.com/smallsat-alliance-names-new-executive-director/" >🔗</a> **[SpaceNews]** SmallSat Alliance names new executive director
-- <a href="https://europeanspaceflight.com/gmv-completes-testing-of-its-multi-use-moon-rover-concept/" >🔗</a> **[European Spaceflight]** GMV Completes Testing of its Multi-Use Moon Rover Concept
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T193111">2024-07-23 19:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T200128">2024-07-23 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
