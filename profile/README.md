@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abl-loses-rocket-after-static-fire-test/" >🔗</a> **[SpaceNews]** ABL loses rocket after static-fire test
 - <a href="https://spacenews.com/europe-sees-ariane-6-launch-as-an-end-to-its-launcher-crisis/" >🔗</a> **[SpaceNews]** Europe sees Ariane 6 launch as an end to its “launcher crisis”
 - <a href="https://tlpnetwork.com/news/in-space/maxar-intelligence-releases-first-images-from-next-generation-worldview-legion-satellites" >🔗</a> **[The Launch Pad]** Maxar Intelligence Releases First Images from Next Generation WorldView Legion Satellites
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-noaas-jpss-4-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for NOAA’s JPSS-4 Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/seed-funding-proposals-due-november-19-this-year/" >🔗</a> **[NASA]** Seed Funding Proposals Due November 19 This Year!
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-072224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 approaches a return to flight, China launches Earth observation satellites
 - <a href="https://www.nasa.gov/missions/chandra/25-images-to-celebrate-nasas-chandra-25th-anniversary/" >🔗</a> **[NASA]** 25 Images to Celebrate NASA’s Chandra 25th Anniversary
-- <a href="https://www.nasa.gov/general/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/" >🔗</a> **[NASA]** Ground Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T090140">2024-07-23 09:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T093056">2024-07-23 09:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
