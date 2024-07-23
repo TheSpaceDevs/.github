@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/chandra/25-years-on-chandra-highlights-legacy-of-nasa-engineering-ingenuity/" >🔗</a> **[NASA]** 25 Years On, Chandra Highlights Legacy of NASA Engineering Ingenuity
+- <a href="https://www.nasa.gov/image-article/boneyard-airplane-sees-new-life-as-a-nasa-x-66-simulator/" >🔗</a> **[NASA]** Boneyard Airplane Sees New Life as a NASA X-66 Simulator
+- <a href="https://arstechnica.com/space/2024/07/spacex-just-stomped-the-competition-for-a-new-contract-thats-not-great/" >🔗</a> **[Arstechnica]** SpaceX just stomped the competition for a new contract—that’s not great
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-for-u-s-navy-fleet-training/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch for U.S. Navy Fleet Training
 - <a href="https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/" >🔗</a> **[NASA]** Watch Carbon Dioxide Move Through Earth’s Atmosphere
 - <a href="https://spacenews.com/smallsat-alliance-names-new-executive-director/" >🔗</a> **[SpaceNews]** SmallSat Alliance names new executive director
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/" >🔗</a> **[NASA]** NASA’s 21st Northrop Grumman Mission Launches Scientific Studies to Station
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_2" >🔗</a> **[ESA]** FIA 2024 - Day 2
 - <a href="https://spacenews.com/china-wants-50-countries-involved-in-its-ilrs-moon-base/" >🔗</a> **[SpaceNews]** China wants 50 countries involved in its ILRS moon base
-- <a href="https://spacenews.com/abl-loses-rocket-after-static-fire-test/" >🔗</a> **[SpaceNews]** ABL loses rocket after static-fire test
-- <a href="https://spacenews.com/europe-sees-ariane-6-launch-as-an-end-to-its-launcher-crisis/" >🔗</a> **[SpaceNews]** Europe sees Ariane 6 launch as an end to its “launcher crisis”
-- <a href="https://tlpnetwork.com/news/in-space/maxar-intelligence-releases-first-images-from-next-generation-worldview-legion-satellites" >🔗</a> **[The Launch Pad]** Maxar Intelligence Releases First Images from Next Generation WorldView Legion Satellites
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T170125">2024-07-23 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T173126">2024-07-23 17:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
