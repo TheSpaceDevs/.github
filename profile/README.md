@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbital-insight-wins-nga-contract-for-maritime-surveillance-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Orbital Insight wins NGA contract for maritime surveillance in Indo-Pacific region
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/" >🔗</a> **[NASA]** Designing Space Exploration With the Human in Mind
 - <a href="https://spacenews.com/raytheon-partners-with-italys-avio-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** Raytheon partners with Italy’s Avio to boost solid rocket motor production
 - <a href="https://spacenews.com/european-space-agency-to-expand-uk-presence/" >🔗</a> **[SpaceNews]** European Space Agency to expand UK presence
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/astronaut-eileen-collins-nasas-first-female-shuttle-commander/" >🔗</a> **[NASA]** Astronaut Eileen Collins, NASA’s First Female Shuttle Commander
 - <a href="https://www.nasa.gov/missions/chandra/25-years-on-chandra-highlights-legacy-of-nasa-engineering-ingenuity/" >🔗</a> **[NASA]** 25 Years On, Chandra Highlights Legacy of NASA Engineering Ingenuity
 - <a href="https://www.nasa.gov/image-article/boneyard-airplane-sees-new-life-as-a-nasa-x-66-simulator/" >🔗</a> **[NASA]** Boneyard Airplane Sees New Life as a NASA X-66 Simulator
-- <a href="https://arstechnica.com/space/2024/07/spacex-just-stomped-the-competition-for-a-new-contract-thats-not-great/" >🔗</a> **[Arstechnica]** SpaceX just stomped the competition for a new contract—that’s not great
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T213102">2024-07-23 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240723T220127">2024-07-23 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
