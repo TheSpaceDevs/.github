@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/viper-clears-acoustic-tests-as-scientists-question-proposed-cancellation/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Clears Acoustic Tests as Scientists Question Proposed Cancellation
 - <a href="https://science.nasa.gov/blogs/sols-4253-4254-pit-stop-for-contact-science/" >🔗</a> **[NASA]** Sols 4253-4254: Pit Stop for Contact Science
 - <a href="https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/" >🔗</a> **[NASA]** Sols 4250-4252: So Many Rocks, So Little Time
 - <a href="https://science.nasa.gov/solar-system/planets/mars/10-things-for-mars-10/" >🔗</a> **[NASA]** 10 Things for Mars 10
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/european-space-agency-to-expand-uk-presence/" >🔗</a> **[SpaceNews]** European Space Agency to expand UK presence
 - <a href="https://www.nasa.gov/general/nasa-releases-first-integrated-ranking-of-civil-space-challenges/" >🔗</a> **[NASA]** NASA Releases First Integrated Ranking of Civil Space Challenges
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-discuss-crew-flight-test-mission-ground-testing/" >🔗</a> **[NASA]** NASA, Boeing to Discuss Crew Flight Test Mission, Ground Testing
-- <a href="https://www.nasa.gov/organizations/otps/nasa-sponsors-new-research-on-orbital-debris-lunar-sustainability/" >🔗</a> **[NASA]** NASA Sponsors New Research on Orbital Debris, Lunar Sustainability
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T040117">2024-07-24 04:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T043211">2024-07-24 04:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
