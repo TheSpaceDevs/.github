@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/new-avio-us-subsidiary-secures-us-army-contract/" >🔗</a> **[European Spaceflight]** New Avio US Subsidiary Secures US Army Contract
 - <a href="https://spacenews.com/review-concludes-proposed-nasa-budget-cuts-would-end-chandra/" >🔗</a> **[SpaceNews]** Review concludes proposed NASA budget cuts would end Chandra
 - <a href="https://spacepolicyonline.com/news/viper-clears-acoustic-tests-as-scientists-question-proposed-cancellation/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Clears Acoustic Tests as Scientists Question Proposed Cancellation
 - <a href="https://science.nasa.gov/blogs/sols-4253-4254-pit-stop-for-contact-science/" >🔗</a> **[NASA]** Sols 4253-4254: Pit Stop for Contact Science
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/" >🔗</a> **[NASA]** Designing Space Exploration With the Human in Mind
 - <a href="https://spacenews.com/raytheon-partners-with-italys-avio-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** Raytheon partners with Italy’s Avio to boost solid rocket motor production
 - <a href="https://spacenews.com/european-space-agency-to-expand-uk-presence/" >🔗</a> **[SpaceNews]** European Space Agency to expand UK presence
-- <a href="https://www.nasa.gov/general/nasa-releases-first-integrated-ranking-of-civil-space-challenges/" >🔗</a> **[NASA]** NASA Releases First Integrated Ranking of Civil Space Challenges
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T070114">2024-07-24 07:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T073105">2024-07-24 07:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
