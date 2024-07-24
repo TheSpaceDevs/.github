@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/technology/westjet-partners-with-telus-to-revolutionize-inflight-connectivity-with-starlink" >🔗</a> **[The Launch Pad]** WestJet Partners with TELUS To Revolutionize Inflight Connectivity With Starlink
+- <a href="https://www.nasa.gov/news-release/update-nasa-boeing-to-stream-flight-test-mission-briefing-on-nasa/" >🔗</a> **[NASA]** UPDATE: NASA, Boeing to Stream Flight Test Mission Briefing on NASA+
+- <a href="https://tlpnetwork.com/news/europe/thales-alenia-space-to-lead-consortium-for-french-diane-satellite-capture-and-inspection-mission" >🔗</a> **[The Launch Pad]** Thales Alenia Space To Lead Consortium for French DIANE Satellite Capture & Inspection Mission
 - <a href="https://tlpnetwork.com/news/asia/japans-iwatani-giken-completes-record-setting-manned-stratospheric-balloon-test-flight" >🔗</a> **[The Launch Pad]** Japan's Iwatani Giken's Completes Record Setting Manned Stratospheric Balloon Test Flight
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-future-is-bright-johnson-space-center-interns-shine-throughout-summer-term/" >🔗</a> **[NASA]** The Future is Bright: Johnson Space Center Interns Shine Throughout Summer Term
 - <a href="https://tlpnetwork.com/news/europe/european-space-agency-unveils-uk-expansion-plans" >🔗</a> **[The Launch Pad]** European Space Agency Unveils UK Expansion Plans
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-24-2024/" >🔗</a> **[NASA]** The Marshall Star for July 24, 2024
 - <a href="https://tlpnetwork.com/news/america/astra-space-ends-public-trading-era-goes-private-in-deal-with-founders" >🔗</a> **[The Launch Pad]** Astra Space Ends Public Trading Era, Goes Private in Deal with Founders
 - <a href="https://tlpnetwork.com/news/america/star-catcher-industries-raises-millions-for-revolutionary-space-power-grid" >🔗</a> **[The Launch Pad]** Star Catcher Industries Raises $12.25 Million For Revolutionary Space Power Grid
-- <a href="https://www.teslarati.com/spacex-reports-starlink-satellites-make-275-collision-avoidance-maneuvers-daily/" >🔗</a> **[Teslarati]** SpaceX reports Starlink satellites make 275 collision-avoidance maneuvers daily
-- <a href="https://tlpnetwork.com/news/europe/uk-space-agency-awards-hyimpulse-5-million-for-suborbital-rocket-launch" >🔗</a> **[The Launch Pad]** UK Space Agency Awards HyImpulse £5 Million for Suborbital Rocket Launch
-- <a href="https://www.nasa.gov/image-article/a-saturnian-summer/" >🔗</a> **[NASA]** A Saturnian Summer
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T213104">2024-07-24 21:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T220108">2024-07-24 22:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
