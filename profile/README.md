@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_multispectral_imager_puts_clouds_into_context" >🔗</a> **[ESA]** EarthCARE’s multispectral imager puts clouds into context
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/YPSat_witnesses_ISTSat-1_3Cat-4_CubeSats_deployment_from_Ariane_6" >🔗</a> **[ESA]** YPSat witnesses ISTSat-1 & 3Cat-4 CubeSats deployment from Ariane 6
 - <a href="https://spaceflightnow.com/2024/07/24/nasa-prepares-to-roll-artemis-2-core-stage-to-the-vehicle-assembly-building/" >🔗</a> **[Spaceflight Now]** NASA prepares to roll Artemis 2 core stage to the Vehicle Assembly Building
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_spacecraft_trio_to_fly_safe_with_inter-linked_radio" >🔗</a> **[ESA]** Hera spacecraft trio to fly safe with inter-linked radio
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/viper-clears-acoustic-tests-as-scientists-question-proposed-cancellation/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Clears Acoustic Tests as Scientists Question Proposed Cancellation
 - <a href="https://science.nasa.gov/blogs/sols-4253-4254-pit-stop-for-contact-science/" >🔗</a> **[NASA]** Sols 4253-4254: Pit Stop for Contact Science
 - <a href="https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/" >🔗</a> **[NASA]** Sols 4250-4252: So Many Rocks, So Little Time
-- <a href="https://science.nasa.gov/solar-system/planets/mars/10-things-for-mars-10/" >🔗</a> **[NASA]** 10 Things for Mars 10
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T113110">2024-07-24 11:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T120150">2024-07-24 12:01:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
