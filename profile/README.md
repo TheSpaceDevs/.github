@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/chinas-domestic-turmoil-risks-escalating-space-tensions/" >🔗</a> **[SpaceNews]** China’s domestic turmoil risks escalating space tensions
+- <a href="https://www.nasa.gov/news-release/media-invited-to-watch-nasa-stream-4k-video-to-space/" >🔗</a> **[NASA]** Media Invited to Watch NASA Stream 4K Video to Space
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-streams-first-4k-video-from-aircraft-to-space-station-back/" >🔗</a> **[NASA]** NASA Streams First 4K Video from Aircraft to Space Station, Back
+- <a href="https://www.nasa.gov/history/45-years-ago-space-shuttle-enterprise-completes-launch-pad-checkout/" >🔗</a> **[NASA]** 45 Years Ago: Space Shuttle Enterprise Completes Launch Pad Checkout
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_3" >🔗</a> **[ESA]** FIA 2024 - Day 3
 - <a href="https://spacenews.com/star-catcher-banks-12-25-million-for-orbital-energy-grid/" >🔗</a> **[SpaceNews]** Star Catcher banks $12.25 million for orbital energy grid
+- <a href="https://spacenews.com/chinas-domestic-turmoil-risks-escalating-space-tensions/" >🔗</a> **[SpaceNews]** China’s domestic turmoil risks escalating space tensions
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_multispectral_imager_puts_clouds_into_context" >🔗</a> **[ESA]** EarthCARE’s multispectral imager puts clouds into context
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/YPSat_witnesses_ISTSat-1_3Cat-4_CubeSats_deployment_from_Ariane_6" >🔗</a> **[ESA]** YPSat witnesses ISTSat-1 & 3Cat-4 CubeSats deployment from Ariane 6
 - <a href="https://spaceflightnow.com/2024/07/24/nasa-prepares-to-roll-artemis-2-core-stage-to-the-vehicle-assembly-building/" >🔗</a> **[Spaceflight Now]** NASA prepares to roll Artemis 2 core stage to the Vehicle Assembly Building
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_spacecraft_trio_to_fly_safe_with_inter-linked_radio" >🔗</a> **[ESA]** Hera spacecraft trio to fly safe with inter-linked radio
-- <a href="https://spacenews.com/saxavord-prepares-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** SaxaVord prepares for first orbital launch
-- <a href="https://europeanspaceflight.com/new-avio-us-subsidiary-secures-us-army-contract/" >🔗</a> **[European Spaceflight]** New Avio US Subsidiary Secures US Army Contract
-- <a href="https://spacenews.com/review-concludes-proposed-nasa-budget-cuts-would-end-chandra/" >🔗</a> **[SpaceNews]** Review concludes proposed NASA budget cuts would end Chandra
-- <a href="https://spacepolicyonline.com/news/viper-clears-acoustic-tests-as-scientists-question-proposed-cancellation/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Clears Acoustic Tests as Scientists Question Proposed Cancellation
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T140126">2024-07-24 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T143218">2024-07-24 14:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
