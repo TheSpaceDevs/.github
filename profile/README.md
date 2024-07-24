@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/" >🔗</a> **[NASA]** Sols 4250-4252: So Many Rocks, So Little Time
 - <a href="https://science.nasa.gov/solar-system/planets/mars/10-things-for-mars-10/" >🔗</a> **[NASA]** 10 Things for Mars 10
 - <a href="https://spacenews.com/orbital-insight-wins-nga-contract-for-maritime-surveillance-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Orbital Insight wins NGA contract for maritime surveillance in Indo-Pacific region
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/" >🔗</a> **[NASA]** Designing Space Exploration With the Human in Mind
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-to-discuss-crew-flight-test-mission-ground-testing/" >🔗</a> **[NASA]** NASA, Boeing to Discuss Crew Flight Test Mission, Ground Testing
 - <a href="https://www.nasa.gov/organizations/otps/nasa-sponsors-new-research-on-orbital-debris-lunar-sustainability/" >🔗</a> **[NASA]** NASA Sponsors New Research on Orbital Debris, Lunar Sustainability
 - <a href="https://www.nasa.gov/image-article/astronaut-eileen-collins-nasas-first-female-shuttle-commander/" >🔗</a> **[NASA]** Astronaut Eileen Collins, NASA’s First Female Shuttle Commander
-- <a href="https://www.nasa.gov/missions/chandra/25-years-on-chandra-highlights-legacy-of-nasa-engineering-ingenuity/" >🔗</a> **[NASA]** 25 Years On, Chandra Highlights Legacy of NASA Engineering Ingenuity
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T004513">2024-07-24 00:45:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T012733">2024-07-24 01:27:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
