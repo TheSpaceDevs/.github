@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/YPSat_witnesses_ISTSat-1_3Cat-4_CubeSats_deployment_from_Ariane_6" >🔗</a> **[ESA]** YPSat witnesses ISTSat-1 & 3Cat-4 CubeSats deployment from Ariane 6
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_spacecraft_trio_to_fly_safe_with_inter-linked_radio" >🔗</a> **[ESA]** Hera spacecraft trio to fly safe with inter-linked radio
 - <a href="https://spacenews.com/saxavord-prepares-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** SaxaVord prepares for first orbital launch
 - <a href="https://europeanspaceflight.com/new-avio-us-subsidiary-secures-us-army-contract/" >🔗</a> **[European Spaceflight]** New Avio US Subsidiary Secures US Army Contract
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/" >🔗</a> **[NASA]** Sols 4250-4252: So Many Rocks, So Little Time
 - <a href="https://science.nasa.gov/solar-system/planets/mars/10-things-for-mars-10/" >🔗</a> **[NASA]** 10 Things for Mars 10
 - <a href="https://spacenews.com/orbital-insight-wins-nga-contract-for-maritime-surveillance-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Orbital Insight wins NGA contract for maritime surveillance in Indo-Pacific region
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/" >🔗</a> **[NASA]** Designing Space Exploration With the Human in Mind
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T093105">2024-07-24 09:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T100121">2024-07-24 10:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
