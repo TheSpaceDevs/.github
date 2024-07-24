@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-saturnian-summer/" >🔗</a> **[NASA]** A Saturnian Summer
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_images_new_cold_exoplanet_12_light-years_away" >🔗</a> **[ESA]** Webb images new, cold exoplanet 12 light-years away
 - <a href="https://www.spacescout.info/2024/07/a-graceful-exit-part-2-what-comes-after-iss/" >🔗</a> **[Space Scout]** A Graceful Exit, Part 2: What Comes After ISS?
 - <a href="https://spacenews.com/astranis-fully-funds-omega-with-200-million-fundraise/" >🔗</a> **[SpaceNews]** Astranis fully funds Omega with $200 million fundraise
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/media-invited-to-watch-nasa-stream-4k-video-to-space/" >🔗</a> **[NASA]** Media Invited to Watch NASA Stream 4K Video to Space
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-streams-first-4k-video-from-aircraft-to-space-station-back/" >🔗</a> **[NASA]** NASA Streams First 4K Video from Aircraft to Space Station, Back
 - <a href="https://www.nasa.gov/history/45-years-ago-space-shuttle-enterprise-completes-launch-pad-checkout/" >🔗</a> **[NASA]** 45 Years Ago: Space Shuttle Enterprise Completes Launch Pad Checkout
-- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_3" >🔗</a> **[ESA]** FIA 2024 - Day 3
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T180118">2024-07-24 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T183515">2024-07-24 18:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
