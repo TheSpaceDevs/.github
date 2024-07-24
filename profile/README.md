@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-domestic-turmoil-risks-escalating-space-tensions/" >🔗</a> **[SpaceNews]** China’s domestic turmoil risks escalating space tensions
+- <a href="https://spacenews.com/star-catcher-banks-12-25-million-for-orbital-energy-grid/" >🔗</a> **[SpaceNews]** Star Catcher banks $12.25 million for orbital energy grid
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_multispectral_imager_puts_clouds_into_context" >🔗</a> **[ESA]** EarthCARE’s multispectral imager puts clouds into context
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/YPSat_witnesses_ISTSat-1_3Cat-4_CubeSats_deployment_from_Ariane_6" >🔗</a> **[ESA]** YPSat witnesses ISTSat-1 & 3Cat-4 CubeSats deployment from Ariane 6
 - <a href="https://spaceflightnow.com/2024/07/24/nasa-prepares-to-roll-artemis-2-core-stage-to-the-vehicle-assembly-building/" >🔗</a> **[Spaceflight Now]** NASA prepares to roll Artemis 2 core stage to the Vehicle Assembly Building
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/new-avio-us-subsidiary-secures-us-army-contract/" >🔗</a> **[European Spaceflight]** New Avio US Subsidiary Secures US Army Contract
 - <a href="https://spacenews.com/review-concludes-proposed-nasa-budget-cuts-would-end-chandra/" >🔗</a> **[SpaceNews]** Review concludes proposed NASA budget cuts would end Chandra
 - <a href="https://spacepolicyonline.com/news/viper-clears-acoustic-tests-as-scientists-question-proposed-cancellation/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Clears Acoustic Tests as Scientists Question Proposed Cancellation
-- <a href="https://science.nasa.gov/blogs/sols-4253-4254-pit-stop-for-contact-science/" >🔗</a> **[NASA]** Sols 4253-4254: Pit Stop for Contact Science
-- <a href="https://science.nasa.gov/blogs/sols-4250-4252-so-many-rocks-so-little-time/" >🔗</a> **[NASA]** Sols 4250-4252: So Many Rocks, So Little Time
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T130333">2024-07-24 13:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T133133">2024-07-24 13:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
