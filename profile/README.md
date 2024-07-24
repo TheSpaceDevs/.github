@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-24-2024/" >🔗</a> **[NASA]** The Marshall Star for July 24, 2024
+- <a href="https://tlpnetwork.com/news/america/astra-space-ends-public-trading-era-goes-private-in-deal-with-founders" >🔗</a> **[The Launch Pad]** Astra Space Ends Public Trading Era, Goes Private in Deal with Founders
+- <a href="https://tlpnetwork.com/news/america/star-catcher-industries-raises-millions-for-revolutionary-space-power-grid" >🔗</a> **[The Launch Pad]** Star Catcher Industries Raises $12.25 Million For Revolutionary Space Power Grid
 - <a href="https://www.teslarati.com/spacex-reports-starlink-satellites-make-275-collision-avoidance-maneuvers-daily/" >🔗</a> **[Teslarati]** SpaceX reports Starlink satellites make 275 collision-avoidance maneuvers daily
 - <a href="https://tlpnetwork.com/news/europe/uk-space-agency-awards-hyimpulse-5-million-for-suborbital-rocket-launch" >🔗</a> **[The Launch Pad]** UK Space Agency Awards HyImpulse £5 Million for Suborbital Rocket Launch
 - <a href="https://www.nasa.gov/image-article/a-saturnian-summer/" >🔗</a> **[NASA]** A Saturnian Summer
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/07/a-graceful-exit-part-2-what-comes-after-iss/" >🔗</a> **[Space Scout]** A Graceful Exit, Part 2: What Comes After ISS?
 - <a href="https://spacenews.com/astranis-fully-funds-omega-with-200-million-fundraise/" >🔗</a> **[SpaceNews]** Astranis fully funds Omega with $200 million fundraise
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-images-cold-exoplanet-12-light-years-away/" >🔗</a> **[NASA]** NASA’s Webb Images Cold Exoplanet 12 Light-Years Away
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-icon-mission-ends-with-several-ionospheric-breakthroughs/" >🔗</a> **[NASA]** NASA’s ICON Mission Ends with Several Ionospheric Breakthroughs
-- <a href="https://spacenews.com/ses-providing-managed-satcom-services-to-u-s-army/" >🔗</a> **[SpaceNews]** SES providing “managed satcom” services to U.S. Army
-- <a href="https://www.nasa.gov/news-release/media-invited-to-watch-nasa-stream-4k-video-to-space/" >🔗</a> **[NASA]** Media Invited to Watch NASA Stream 4K Video to Space
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T193102">2024-07-24 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T200113">2024-07-24 20:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
