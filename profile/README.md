@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-reports-starlink-satellites-make-275-collision-avoidance-maneuvers-daily/" >🔗</a> **[Teslarati]** SpaceX reports Starlink satellites make 275 collision-avoidance maneuvers daily
+- <a href="https://tlpnetwork.com/news/europe/uk-space-agency-awards-hyimpulse-5-million-for-suborbital-rocket-launch" >🔗</a> **[The Launch Pad]** UK Space Agency Awards HyImpulse £5 Million for Suborbital Rocket Launch
 - <a href="https://www.nasa.gov/image-article/a-saturnian-summer/" >🔗</a> **[NASA]** A Saturnian Summer
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_images_new_cold_exoplanet_12_light-years_away" >🔗</a> **[ESA]** Webb images new, cold exoplanet 12 light-years away
 - <a href="https://www.spacescout.info/2024/07/a-graceful-exit-part-2-what-comes-after-iss/" >🔗</a> **[Space Scout]** A Graceful Exit, Part 2: What Comes After ISS?
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-icon-mission-ends-with-several-ionospheric-breakthroughs/" >🔗</a> **[NASA]** NASA’s ICON Mission Ends with Several Ionospheric Breakthroughs
 - <a href="https://spacenews.com/ses-providing-managed-satcom-services-to-u-s-army/" >🔗</a> **[SpaceNews]** SES providing “managed satcom” services to U.S. Army
 - <a href="https://www.nasa.gov/news-release/media-invited-to-watch-nasa-stream-4k-video-to-space/" >🔗</a> **[NASA]** Media Invited to Watch NASA Stream 4K Video to Space
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-streams-first-4k-video-from-aircraft-to-space-station-back/" >🔗</a> **[NASA]** NASA Streams First 4K Video from Aircraft to Space Station, Back
-- <a href="https://www.nasa.gov/history/45-years-ago-space-shuttle-enterprise-completes-launch-pad-checkout/" >🔗</a> **[NASA]** 45 Years Ago: Space Shuttle Enterprise Completes Launch Pad Checkout
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T190105">2024-07-24 19:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T193102">2024-07-24 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
