@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_spacecraft_trio_to_fly_safe_with_inter-linked_radio" >🔗</a> **[ESA]** Hera spacecraft trio to fly safe with inter-linked radio
+- <a href="https://spacenews.com/saxavord-prepares-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** SaxaVord prepares for first orbital launch
 - <a href="https://europeanspaceflight.com/new-avio-us-subsidiary-secures-us-army-contract/" >🔗</a> **[European Spaceflight]** New Avio US Subsidiary Secures US Army Contract
 - <a href="https://spacenews.com/review-concludes-proposed-nasa-budget-cuts-would-end-chandra/" >🔗</a> **[SpaceNews]** Review concludes proposed NASA budget cuts would end Chandra
 - <a href="https://spacepolicyonline.com/news/viper-clears-acoustic-tests-as-scientists-question-proposed-cancellation/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Clears Acoustic Tests as Scientists Question Proposed Cancellation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/planets/mars/10-things-for-mars-10/" >🔗</a> **[NASA]** 10 Things for Mars 10
 - <a href="https://spacenews.com/orbital-insight-wins-nga-contract-for-maritime-surveillance-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Orbital Insight wins NGA contract for maritime surveillance in Indo-Pacific region
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/designing-space-exploration-with-the-human-in-mind/" >🔗</a> **[NASA]** Designing Space Exploration With the Human in Mind
-- <a href="https://spacenews.com/raytheon-partners-with-italys-avio-to-boost-solid-rocket-motor-production/" >🔗</a> **[SpaceNews]** Raytheon partners with Italy’s Avio to boost solid rocket motor production
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T090105">2024-07-24 09:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240724T093105">2024-07-24 09:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
