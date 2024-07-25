@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasas-fy2025-budget-proposal-would-doom-chandra/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s FY2025 Budget Proposal Would Doom Chandra
 - <a href="https://www.nasa.gov/history/55-years-ago-one-year-before-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Year Before the Moon Landing
 - <a href="https://www.nasa.gov/history/25-years-ago-sts-93-launch-of-the-chandra-x-ray-observatory/" >🔗</a> **[NASA]** 25 Years Ago: STS-93, Launch of the Chandra X-Ray Observatory
 - <a href="https://tlpnetwork.com/news/technology/westjet-partners-with-telus-to-revolutionize-inflight-connectivity-with-starlink" >🔗</a> **[The Launch Pad]** WestJet Partners with TELUS To Revolutionize Inflight Connectivity With Starlink
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-future-is-bright-johnson-space-center-interns-shine-throughout-summer-term/" >🔗</a> **[NASA]** The Future is Bright: Johnson Space Center Interns Shine Throughout Summer Term
 - <a href="https://tlpnetwork.com/news/europe/european-space-agency-unveils-uk-expansion-plans" >🔗</a> **[The Launch Pad]** European Space Agency Unveils UK Expansion Plans
 - <a href="https://tlpnetwork.com/news/america/abl-space-systems-rs1-rocket-damaged-beyond-repair-following-static-fire-test" >🔗</a> **[The Launch Pad]** ABL Space Systems RS1 Rocket Damaged Beyond Repair Following Static Fire Test
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-24-2024/" >🔗</a> **[NASA]** The Marshall Star for July 24, 2024
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T040113">2024-07-25 04:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T043423">2024-07-25 04:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
