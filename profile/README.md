@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hungary-to-send-astronaut-to-iss-aboard-axiom-ax-4-mission/" >🔗</a> **[European Spaceflight]** Hungary to Send Astronaut to ISS aboard Axiom AX-4 Mission
 - <a href="https://spacenews.com/new-report-examines-space-force-agencys-ambitious-satellite-network-program/" >🔗</a> **[SpaceNews]** New report examines Space Force agency’s ambitious satellite network program
 - <a href="https://spacenews.com/sierra-space-conducts-second-full-scale-burst-test-of-inflatable-module/" >🔗</a> **[SpaceNews]** Sierra Space conducts second full-scale burst test of inflatable module
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Make_the_most_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Make the most of ESA’s Industry Space Days 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasas-fy2025-budget-proposal-would-doom-chandra/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s FY2025 Budget Proposal Would Doom Chandra
 - <a href="https://www.nasa.gov/history/55-years-ago-one-year-before-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Year Before the Moon Landing
 - <a href="https://www.nasa.gov/history/25-years-ago-sts-93-launch-of-the-chandra-x-ray-observatory/" >🔗</a> **[NASA]** 25 Years Ago: STS-93, Launch of the Chandra X-Ray Observatory
-- <a href="https://tlpnetwork.com/news/technology/westjet-partners-with-telus-to-revolutionize-inflight-connectivity-with-starlink" >🔗</a> **[The Launch Pad]** WestJet Partners with TELUS To Revolutionize Inflight Connectivity With Starlink
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T110111">2024-07-25 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T113053">2024-07-25 11:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
