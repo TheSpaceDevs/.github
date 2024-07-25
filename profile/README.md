@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_4" >🔗</a> **[ESA]** FIA 2024  - Day 4
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/From_Concordia_to_the_Moon" >🔗</a> **[ESA]** From Concordia to the Moon
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-space-telescope-will-illuminate-cosmic-dawn/" >🔗</a> **[NASA]** How NASA’s Roman Space Telescope Will Illuminate Cosmic Dawn
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/former-space-communications-navigation-interns-pioneer-nasas-future/" >🔗</a> **[NASA]** Former Space Communications, Navigation Interns Pioneer NASA’s Future
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Make_the_most_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Make the most of ESA’s Industry Space Days 2024
 - <a href="https://spacenews.com/rocket-engine-startup-ursa-major-adds-3d-printing-lab-in-ohio/" >🔗</a> **[SpaceNews]** Rocket engine startup Ursa Major adds 3D printing lab in Ohio
 - <a href="https://spacenews.com/new-frontier-aerospace-tests-rocket-engine-for-point-to-point-travel/" >🔗</a> **[SpaceNews]** New Frontier Aerospace tests rocket engine for point-to-point travel
-- <a href="https://spaceflightnow.com/2024/07/25/spacex-completes-falcon-9-static-fire-test-amid-return-to-flight-campaign/" >🔗</a> **[Spaceflight Now]** SpaceX completes Falcon 9 static fire test amid return to flight campaign
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T133056">2024-07-25 13:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T140124">2024-07-25 14:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
