@@ -48,7 +48,7 @@ into *a Low Earth Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T042100">2024-07-27 04:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-9&location=Kennedy Space Center, FL, USA&dates=20240727T042100Z%2F20240727T085100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-9** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T041300">2024-07-28 04:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-4&location=Cape Canaveral, FL, USA&dates=20240728T041300Z%2F20240728T084300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-4** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T000000">2024-07-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | USSF-51&location=Cape Canaveral, FL, USA&dates=20240730T000000Z%2F20240730T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | USSF-51** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T104500">2024-07-30 10:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | USSF-51&location=Cape Canaveral, FL, USA&dates=20240730T104500Z%2F20240730T154500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | USSF-51** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T161500">2024-07-30 16:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl for One, One for Owl (StriX 5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240730T161500Z%2F20240730T161500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl for One, One for Owl (StriX 5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-ready-to-ship-first-commercial-satellites-for-spacex-launch/" >🔗</a> **[SpaceNews]** AST SpaceMobile ready to ship first commercial satellites for SpaceX launch
+- <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-gets-lift-on-earth/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Gets Lift on Earth
 - <a href="https://www.nasa.gov/news-release/nasa-selects-marshall-logistics-support-services-ii-contractor/" >🔗</a> **[NASA]** NASA Selects Marshall Logistics Support Services II Contractor
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-approve-slightly-more-than-house-for-nasa-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Approve Slightly More Than House for NASA in FY2025
 - <a href="https://arstechnica.com/space/2024/07/no-nasa-hasnt-found-life-on-mars-yet-but-the-latest-discovery-is-intriguing/" >🔗</a> **[Arstechnica]** No, NASA hasn’t found life on Mars yet, but the latest discovery is intriguing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scientists-find-intriguing-mars-rock/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock
 - <a href="https://spacenews.com/akima-lands-480-million-space-force-contract-to-modernize-satellite-control-network/" >🔗</a> **[SpaceNews]** Akima lands $480 million Space Force contract to modernize Satellite Control Network
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/How_Europe_s_biggest_rocket_came_to_be_Ariane_6_montage" >🔗</a> **[ESA]** How Europe’s biggest rocket came to be: Ariane 6 montage
-- <a href="https://www.teslarati.com/spacex-successful-falcon-9-static-fire-test/" >🔗</a> **[Teslarati]** SpaceX successful in Falcon 9 static fire test
-- <a href="https://spacenews.com/shannon-pallone-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shannon Pallone, United States Space Force – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T213104">2024-07-25 21:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T220202">2024-07-25 22:02:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
