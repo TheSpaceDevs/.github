@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-report-examines-space-force-agencys-ambitious-satellite-network-program/" >🔗</a> **[SpaceNews]** New report examines Space Force agency’s ambitious satellite network program
+- <a href="https://spacenews.com/sierra-space-conducts-second-full-scale-burst-test-of-inflatable-module/" >🔗</a> **[SpaceNews]** Sierra Space conducts second full-scale burst test of inflatable module
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Make_the_most_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Make the most of ESA’s Industry Space Days 2024
 - <a href="https://spacenews.com/rocket-engine-startup-ursa-major-adds-3d-printing-lab-in-ohio/" >🔗</a> **[SpaceNews]** Rocket engine startup Ursa Major adds 3D printing lab in Ohio
 - <a href="https://spacenews.com/new-frontier-aerospace-tests-rocket-engine-for-point-to-point-travel/" >🔗</a> **[SpaceNews]** New Frontier Aerospace tests rocket engine for point-to-point travel
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/55-years-ago-one-year-before-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Year Before the Moon Landing
 - <a href="https://www.nasa.gov/history/25-years-ago-sts-93-launch-of-the-chandra-x-ray-observatory/" >🔗</a> **[NASA]** 25 Years Ago: STS-93, Launch of the Chandra X-Ray Observatory
 - <a href="https://tlpnetwork.com/news/technology/westjet-partners-with-telus-to-revolutionize-inflight-connectivity-with-starlink" >🔗</a> **[The Launch Pad]** WestJet Partners with TELUS To Revolutionize Inflight Connectivity With Starlink
-- <a href="https://www.nasa.gov/news-release/update-nasa-boeing-to-stream-flight-test-mission-briefing-on-nasa/" >🔗</a> **[NASA]** UPDATE: NASA, Boeing to Stream Flight Test Mission Briefing on NASA+
-- <a href="https://tlpnetwork.com/news/europe/thales-alenia-space-to-lead-consortium-for-french-diane-satellite-capture-and-inspection-mission" >🔗</a> **[The Launch Pad]** Thales Alenia Space To Lead Consortium for French DIANE Satellite Capture & Inspection Mission
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T100130">2024-07-25 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T103317">2024-07-25 10:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
