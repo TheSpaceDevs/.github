@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scientists-find-intriguing-mars-rock/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock
+- <a href="https://spacenews.com/akima-lands-480-million-space-force-contract-to-modernize-satellite-control-network/" >🔗</a> **[SpaceNews]** Akima lands $480 million Space Force contract to modernize Satellite Control Network
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/How_Europe_s_biggest_rocket_came_to_be_Ariane_6_montage" >🔗</a> **[ESA]** How Europe’s biggest rocket came to be: Ariane 6 montage
 - <a href="https://www.teslarati.com/spacex-successful-falcon-9-static-fire-test/" >🔗</a> **[Teslarati]** SpaceX successful in Falcon 9 static fire test
 - <a href="https://spacenews.com/shannon-pallone-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shannon Pallone, United States Space Force – Leading Women in Space
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/pete-beck-vs-chris-kemp-the-rocket-rivalry-youve-got-to-see-to-believe/" >🔗</a> **[Arstechnica]** Pete Beck vs. Chris Kemp: The rocket rivalry you’ve got to see to believe
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_4" >🔗</a> **[ESA]** FIA 2024  - Day 4
 - <a href="https://spaceflightnow.com/2024/07/25/live-nasa-boeing-provide-update-on-the-starliner-crew-flight-test-mission/" >🔗</a> **[Spaceflight Now]** NASA, Boeing provide update on the Starliner Crew Flight Test mission
-- <a href="https://science.nasa.gov/open-science/summer-interns-science-data/" >🔗</a> **[NASA]** Meet NASA Interns Shaping Future of Open Science
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/From_Concordia_to_the_Moon" >🔗</a> **[ESA]** From Concordia to the Moon
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T173129">2024-07-25 17:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T180134">2024-07-25 18:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
