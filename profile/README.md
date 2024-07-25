@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/07/no-nasa-hasnt-found-life-on-mars-yet-but-the-latest-discovery-is-intriguing/" >🔗</a> **[Arstechnica]** No, NASA hasn’t found life on Mars yet, but the latest discovery is intriguing
 - <a href="https://www.nasa.gov/image-article/from-intern-to-astronaut/" >🔗</a> **[NASA]** From Intern to Astronaut
 - <a href="https://science.nasa.gov/science-research/astrophysics/gamma-ray-bursts/nasas-fermi-finds-new-feature-in-brightest-gamma-ray-burst-yet-seen/" >🔗</a> **[NASA]** NASA’s Fermi Finds New Feature in Brightest Gamma-Ray Burst Yet Seen
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scientists-find-intriguing-mars-rock/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/shannon-pallone-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shannon Pallone, United States Space Force – Leading Women in Space
 - <a href="https://www.cnbc.com/2024/07/25/nasa-boeing-crewed-starliner-flight-return-august.html" >🔗</a> **[CNBC]** Boeing’s crewed Starliner flight won’t return until at least August, NASA says
 - <a href="https://www.spacescout.info/2024/07/nasa-spacex-share-updates-on-iss-deorbit-vehicle/" >🔗</a> **[Space Scout]** NASA, SpaceX Share Updates on ISS Deorbit Vehicle
-- <a href="https://arstechnica.com/space/2024/07/pete-beck-vs-chris-kemp-the-rocket-rivalry-youve-got-to-see-to-believe/" >🔗</a> **[Arstechnica]** Pete Beck vs. Chris Kemp: The rocket rivalry you’ve got to see to believe
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T190103">2024-07-25 19:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T193111">2024-07-25 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
