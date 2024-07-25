@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/07/25/spacex-completes-falcon-9-static-fire-test-amid-return-to-flight-campaign/" >🔗</a> **[Spaceflight Now]** SpaceX completes Falcon 9 static fire test amid return to flight campaign
 - <a href="https://spacepolicyonline.com/news/nasas-fy2025-budget-proposal-would-doom-chandra/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s FY2025 Budget Proposal Would Doom Chandra
 - <a href="https://www.nasa.gov/history/55-years-ago-one-year-before-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Year Before the Moon Landing
 - <a href="https://www.nasa.gov/history/25-years-ago-sts-93-launch-of-the-chandra-x-ray-observatory/" >🔗</a> **[NASA]** 25 Years Ago: STS-93, Launch of the Chandra X-Ray Observatory
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/asia/japans-iwatani-giken-completes-record-setting-manned-stratospheric-balloon-test-flight" >🔗</a> **[The Launch Pad]** Japan's Iwatani Giken's Completes Record Setting Manned Stratospheric Balloon Test Flight
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-future-is-bright-johnson-space-center-interns-shine-throughout-summer-term/" >🔗</a> **[NASA]** The Future is Bright: Johnson Space Center Interns Shine Throughout Summer Term
 - <a href="https://tlpnetwork.com/news/europe/european-space-agency-unveils-uk-expansion-plans" >🔗</a> **[The Launch Pad]** European Space Agency Unveils UK Expansion Plans
-- <a href="https://tlpnetwork.com/news/america/abl-space-systems-rs1-rocket-damaged-beyond-repair-following-static-fire-test" >🔗</a> **[The Launch Pad]** ABL Space Systems RS1 Rocket Damaged Beyond Repair Following Static Fire Test
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T050127">2024-07-25 05:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T053144">2024-07-25 05:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
