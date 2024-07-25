@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Make_the_most_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Make the most of ESA’s Industry Space Days 2024
 - <a href="https://spacenews.com/rocket-engine-startup-ursa-major-adds-3d-printing-lab-in-ohio/" >🔗</a> **[SpaceNews]** Rocket engine startup Ursa Major adds 3D printing lab in Ohio
 - <a href="https://spacenews.com/new-frontier-aerospace-tests-rocket-engine-for-point-to-point-travel/" >🔗</a> **[SpaceNews]** New Frontier Aerospace tests rocket engine for point-to-point travel
 - <a href="https://spaceflightnow.com/2024/07/25/spacex-completes-falcon-9-static-fire-test-amid-return-to-flight-campaign/" >🔗</a> **[Spaceflight Now]** SpaceX completes Falcon 9 static fire test amid return to flight campaign
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/technology/westjet-partners-with-telus-to-revolutionize-inflight-connectivity-with-starlink" >🔗</a> **[The Launch Pad]** WestJet Partners with TELUS To Revolutionize Inflight Connectivity With Starlink
 - <a href="https://www.nasa.gov/news-release/update-nasa-boeing-to-stream-flight-test-mission-briefing-on-nasa/" >🔗</a> **[NASA]** UPDATE: NASA, Boeing to Stream Flight Test Mission Briefing on NASA+
 - <a href="https://tlpnetwork.com/news/europe/thales-alenia-space-to-lead-consortium-for-french-diane-satellite-capture-and-inspection-mission" >🔗</a> **[The Launch Pad]** Thales Alenia Space To Lead Consortium for French DIANE Satellite Capture & Inspection Mission
-- <a href="https://tlpnetwork.com/news/asia/japans-iwatani-giken-completes-record-setting-manned-stratospheric-balloon-test-flight" >🔗</a> **[The Launch Pad]** Japan's Iwatani Giken's Completes Record Setting Manned Stratospheric Balloon Test Flight
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T080124">2024-07-25 08:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T083315">2024-07-25 08:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
