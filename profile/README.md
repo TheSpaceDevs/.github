@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_4" >🔗</a> **[ESA]** FIA 2024  - Day 4
+- <a href="https://science.nasa.gov/open-science/summer-interns-science-data/" >🔗</a> **[NASA]** Meet NASA Interns Shaping Future of Open Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/From_Concordia_to_the_Moon" >🔗</a> **[ESA]** From Concordia to the Moon
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-space-age-swimsuit-reduces-drag-breaks-records/" >🔗</a> **[NASA]** Tech Today: Space Age Swimsuit Reduces Drag, Breaks Records
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-supports-burst-test-for-orbital-reef-commercial-space-station/" >🔗</a> **[NASA]** NASA Supports Burst Test for Orbital Reef Commercial Space Station
 - <a href="https://spacenews.com/pentagons-office-of-strategic-capital-seeks-input-on-new-loan-program-for-critical-technologies/" >🔗</a> **[SpaceNews]** Pentagon’s Office of Strategic Capital seeks input on new loan program for critical technologies
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-space-telescope-will-illuminate-cosmic-dawn/" >🔗</a> **[NASA]** How NASA’s Roman Space Telescope Will Illuminate Cosmic Dawn
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/former-space-communications-navigation-interns-pioneer-nasas-future/" >🔗</a> **[NASA]** Former Space Communications, Navigation Interns Pioneer NASA’s Future
 - <a href="https://europeanspaceflight.com/hungary-to-send-astronaut-to-iss-aboard-axiom-ax-4-mission/" >🔗</a> **[European Spaceflight]** Hungary to Send Astronaut to ISS aboard Axiom AX-4 Mission
 - <a href="https://spacenews.com/new-report-examines-space-force-agencys-ambitious-satellite-network-program/" >🔗</a> **[SpaceNews]** New report examines Space Force agency’s ambitious satellite network program
-- <a href="https://spacenews.com/sierra-space-conducts-second-full-scale-burst-test-of-inflatable-module/" >🔗</a> **[SpaceNews]** Sierra Space conducts second full-scale burst test of inflatable module
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Make_the_most_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Make the most of ESA’s Industry Space Days 2024
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T150107">2024-07-25 15:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T153109">2024-07-25 15:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
