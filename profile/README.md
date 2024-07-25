@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/From_Concordia_to_the_Moon" >🔗</a> **[ESA]** From Concordia to the Moon
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-space-telescope-will-illuminate-cosmic-dawn/" >🔗</a> **[NASA]** How NASA’s Roman Space Telescope Will Illuminate Cosmic Dawn
+- <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/former-space-communications-navigation-interns-pioneer-nasas-future/" >🔗</a> **[NASA]** Former Space Communications, Navigation Interns Pioneer NASA’s Future
 - <a href="https://europeanspaceflight.com/hungary-to-send-astronaut-to-iss-aboard-axiom-ax-4-mission/" >🔗</a> **[European Spaceflight]** Hungary to Send Astronaut to ISS aboard Axiom AX-4 Mission
 - <a href="https://spacenews.com/new-report-examines-space-force-agencys-ambitious-satellite-network-program/" >🔗</a> **[SpaceNews]** New report examines Space Force agency’s ambitious satellite network program
 - <a href="https://spacenews.com/sierra-space-conducts-second-full-scale-burst-test-of-inflatable-module/" >🔗</a> **[SpaceNews]** Sierra Space conducts second full-scale burst test of inflatable module
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-engine-startup-ursa-major-adds-3d-printing-lab-in-ohio/" >🔗</a> **[SpaceNews]** Rocket engine startup Ursa Major adds 3D printing lab in Ohio
 - <a href="https://spacenews.com/new-frontier-aerospace-tests-rocket-engine-for-point-to-point-travel/" >🔗</a> **[SpaceNews]** New Frontier Aerospace tests rocket engine for point-to-point travel
 - <a href="https://spaceflightnow.com/2024/07/25/spacex-completes-falcon-9-static-fire-test-amid-return-to-flight-campaign/" >🔗</a> **[Spaceflight Now]** SpaceX completes Falcon 9 static fire test amid return to flight campaign
-- <a href="https://spacepolicyonline.com/news/nasas-fy2025-budget-proposal-would-doom-chandra/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s FY2025 Budget Proposal Would Doom Chandra
-- <a href="https://www.nasa.gov/history/55-years-ago-one-year-before-the-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: One Year Before the Moon Landing
-- <a href="https://www.nasa.gov/history/25-years-ago-sts-93-launch-of-the-chandra-x-ray-observatory/" >🔗</a> **[NASA]** 25 Years Ago: STS-93, Launch of the Chandra X-Ray Observatory
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T130336">2024-07-25 13:03:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240725T133056">2024-07-25 13:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
