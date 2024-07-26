@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_5" >🔗</a> **[ESA]** FIA 2024 - Day 5
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Ambra_Pedrazzini" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Ambra Pedrazzini
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-military-urged-to-embrace-smallsat-revolution/" >🔗</a> **[SpaceNews]** U.S. military urged to embrace smallsat revolution
 - <a href="https://spacepolicyonline.com/news/starliner-tests-still-underway-no-date-for-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Tests Still Underway, No Date for Butch and Suni’s Return
 - <a href="https://spaceflightnow.com/2024/07/26/make-or-break-tests-on-tap-for-boeings-starliner-capsule/" >🔗</a> **[Spaceflight Now]** Make-or-break tests on tap for Boeing’s Starliner capsule
-- <a href="https://tlpnetwork.com/news/america/spacex-submits-faa-mishap-report-falcon-9-set-for-return-to-flight" >🔗</a> **[The Launch Pad]** SpaceX Submits FAA Mishap Report, Falcon 9 Set For Return To Flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T120133">2024-07-26 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T124011">2024-07-26 12:40:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
