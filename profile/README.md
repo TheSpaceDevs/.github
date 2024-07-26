@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/nasa-returns-to-arctic-studying-summer-sea-ice-melt/" >🔗</a> **[NASA]** NASA Returns to Arctic Studying Summer Sea Ice Melt
 - <a href="https://www.spacescout.info/2024/07/op-ed-vipers-sidelining-is-a-scientific-disaster/" >🔗</a> **[Space Scout]** Op-Ed: VIPER’s Sidelining is a Scientific Disaster
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_July_2024" >🔗</a> **[ESA]** Week in images: 22-26 July 2024
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_5" >🔗</a> **[ESA]** FIA 2024 - Day 5
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 - <a href="https://spacenews.com/more-thruster-tests-for-starliner-before-return/" >🔗</a> **[SpaceNews]** More thruster tests for Starliner before return
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Paris_in_focus" >🔗</a> **[ESA]** Earth from Space: Paris in focus
-- <a href="https://spacenews.com/falcon-9-cleared-to-resume-launches/" >🔗</a> **[SpaceNews]** Falcon 9 cleared to resume launches
 
 
 ### Launch-related News 🚀
@@ -108,12 +108,12 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
 - <a href="https://spacenews.com/falcon-9-cleared-to-resume-launches/" >🔗</a> **[SpaceNews]** Falcon 9 cleared to resume launches
 - <a href="https://tlpnetwork.com/news/america/spacex-submits-faa-mishap-report-falcon-9-set-for-return-to-flight" >🔗</a> **[The Launch Pad]** SpaceX Submits FAA Mishap Report, Falcon 9 Set For Return To Flight
-- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-072224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 approaches a return to flight, China launches Earth observation satellites
+- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-072224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 returns to flight, China launches Earth observation satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T170112">2024-07-26 17:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T173102">2024-07-26 17:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
