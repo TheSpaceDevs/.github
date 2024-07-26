@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/uk-saxavord-spaceport-is-almost-ready-for-its-historic-first-launch" >🔗</a> **[The Launch Pad]** UK's SaxaVord Spaceport Is Almost Ready For Its Historic First Launch
 - <a href="https://spacenews.com/spacenews-welcomes-clara-swan-as-sales-and-business-development-manager/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Clara Swan as Sales and Business Development Manager
 - <a href="https://www.nasaspaceflight.com/2024/07/f9-return-to-flight-2024/" >🔗</a> **[NASASpaceflight]** Falcon 9’s returns to flight reminds spaceflight industry of past anomalies
 - <a href="https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/" >🔗</a> **[NASA]** Three NASA Interns Expand Classroom Access to NASA Data
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/07/op-ed-vipers-sidelining-is-a-scientific-disaster/" >🔗</a> **[Space Scout]** Op-Ed: VIPER’s Sidelining is a Scientific Disaster
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_July_2024" >🔗</a> **[ESA]** Week in images: 22-26 July 2024
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_5" >🔗</a> **[ESA]** FIA 2024 - Day 5
-- <a href="https://europeanspaceflight.com/italys-lunar-surface-habitat-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Italy’s Lunar Surface Habitat Passes Key Milestone
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T230105">2024-07-26 23:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T233057">2024-07-26 23:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
