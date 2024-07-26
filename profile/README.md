@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/07/26/make-or-break-tests-on-tap-for-boeings-starliner-capsule/" >🔗</a> **[Spaceflight Now]** Make-or-break tests on tap for Boeing’s Starliner capsule
 - <a href="https://tlpnetwork.com/news/america/spacex-submits-faa-mishap-report-falcon-9-set-for-return-to-flight" >🔗</a> **[The Launch Pad]** SpaceX Submits FAA Mishap Report, Falcon 9 Set For Return To Flight
 - <a href="https://spacenews.com/morpheus-expands-production-in-new-dresden-factory/" >🔗</a> **[SpaceNews]** Morpheus expands production in new Dresden factory
 - <a href="https://spacenews.com/ast-spacemobile-ready-to-ship-first-commercial-satellites-for-spacex-launch/" >🔗</a> **[SpaceNews]** AST SpaceMobile ready to ship first commercial satellites for SpaceX launch
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/no-nasa-hasnt-found-life-on-mars-yet-but-the-latest-discovery-is-intriguing/" >🔗</a> **[Arstechnica]** No, NASA hasn’t found life on Mars yet, but the latest discovery is intriguing
 - <a href="https://www.nasa.gov/image-article/from-intern-to-astronaut/" >🔗</a> **[NASA]** From Intern to Astronaut
 - <a href="https://science.nasa.gov/science-research/astrophysics/gamma-ray-bursts/nasas-fermi-finds-new-feature-in-brightest-gamma-ray-burst-yet-seen/" >🔗</a> **[NASA]** NASA’s Fermi Finds New Feature in Brightest Gamma-Ray Burst Yet Seen
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-scientists-find-intriguing-mars-rock/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Scientists Find Intriguing Mars Rock
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T004505">2024-07-26 00:45:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T012735">2024-07-26 01:27:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
