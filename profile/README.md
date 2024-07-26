@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/07/f9-return-to-flight-2024/" >🔗</a> **[NASASpaceflight]** Falcon 9’s returns to flight reminds spaceflight industry of past anomalies
 - <a href="https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/" >🔗</a> **[NASA]** Three NASA Interns Expand Classroom Access to NASA Data
 - <a href="https://www.nasa.gov/image-article/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 - <a href="https://www.cnbc.com/2024/07/26/faa-approves-spacex-to-resume-falcon-9-rocket-launches.html" >🔗</a> **[CNBC]** FAA approves SpaceX to resume Falcon 9 rocket launches after two-week hiatus
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_5" >🔗</a> **[ESA]** FIA 2024 - Day 5
 - <a href="https://europeanspaceflight.com/italys-lunar-surface-habitat-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Italy’s Lunar Surface Habitat Passes Key Milestone
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Ambra_Pedrazzini" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Ambra Pedrazzini
-- <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T203055">2024-07-26 20:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T210115">2024-07-26 21:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
