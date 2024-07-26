@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-urged-to-embrace-smallsat-revolution/" >🔗</a> **[SpaceNews]** U.S. military urged to embrace smallsat revolution
 - <a href="https://spacepolicyonline.com/news/starliner-tests-still-underway-no-date-for-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Tests Still Underway, No Date for Butch and Suni’s Return
 - <a href="https://spaceflightnow.com/2024/07/26/make-or-break-tests-on-tap-for-boeings-starliner-capsule/" >🔗</a> **[Spaceflight Now]** Make-or-break tests on tap for Boeing’s Starliner capsule
 - <a href="https://tlpnetwork.com/news/america/spacex-submits-faa-mishap-report-falcon-9-set-for-return-to-flight" >🔗</a> **[The Launch Pad]** SpaceX Submits FAA Mishap Report, Falcon 9 Set For Return To Flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-marshall-logistics-support-services-ii-contractor/" >🔗</a> **[NASA]** NASA Selects Marshall Logistics Support Services II Contractor
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-approve-slightly-more-than-house-for-nasa-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Approve Slightly More Than House for NASA in FY2025
 - <a href="https://arstechnica.com/space/2024/07/no-nasa-hasnt-found-life-on-mars-yet-but-the-latest-discovery-is-intriguing/" >🔗</a> **[Arstechnica]** No, NASA hasn’t found life on Mars yet, but the latest discovery is intriguing
-- <a href="https://www.nasa.gov/image-article/from-intern-to-astronaut/" >🔗</a> **[NASA]** From Intern to Astronaut
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T070106">2024-07-26 07:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T073057">2024-07-26 07:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
