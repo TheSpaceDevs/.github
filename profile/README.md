@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/07/26/faa-approves-spacex-to-resume-falcon-9-rocket-launches.html" >🔗</a> **[CNBC]** FAA approves SpaceX to resume Falcon 9 rocket launches after two-week hiatus
 - <a href="https://www.nasa.gov/earth/nasa-returns-to-arctic-studying-summer-sea-ice-melt/" >🔗</a> **[NASA]** NASA Returns to Arctic Studying Summer Sea Ice Melt
 - <a href="https://www.spacescout.info/2024/07/op-ed-vipers-sidelining-is-a-scientific-disaster/" >🔗</a> **[Space Scout]** Op-Ed: VIPER’s Sidelining is a Scientific Disaster
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_July_2024" >🔗</a> **[ESA]** Week in images: 22-26 July 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 - <a href="https://spacenews.com/more-thruster-tests-for-starliner-before-return/" >🔗</a> **[SpaceNews]** More thruster tests for Starliner before return
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Paris_in_focus" >🔗</a> **[ESA]** Earth from Space: Paris in focus
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T180114">2024-07-26 18:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T183244">2024-07-26 18:32:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
