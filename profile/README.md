@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Paris_in_focus" >🔗</a> **[ESA]** Earth from Space: Paris in focus
+- <a href="https://spacenews.com/falcon-9-cleared-to-resume-launches/" >🔗</a> **[SpaceNews]** Falcon 9 cleared to resume launches
 - <a href="https://spacenews.com/u-s-military-urged-to-embrace-smallsat-revolution/" >🔗</a> **[SpaceNews]** U.S. military urged to embrace smallsat revolution
 - <a href="https://spacepolicyonline.com/news/starliner-tests-still-underway-no-date-for-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Tests Still Underway, No Date for Butch and Suni’s Return
 - <a href="https://spaceflightnow.com/2024/07/26/make-or-break-tests-on-tap-for-boeings-starliner-capsule/" >🔗</a> **[Spaceflight Now]** Make-or-break tests on tap for Boeing’s Starliner capsule
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ast-spacemobile-ready-to-ship-first-commercial-satellites-for-spacex-launch/" >🔗</a> **[SpaceNews]** AST SpaceMobile ready to ship first commercial satellites for SpaceX launch
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-gets-lift-on-earth/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Gets Lift on Earth
 - <a href="https://www.nasa.gov/news-release/nasa-selects-marshall-logistics-support-services-ii-contractor/" >🔗</a> **[NASA]** NASA Selects Marshall Logistics Support Services II Contractor
-- <a href="https://spacepolicyonline.com/news/senate-appropriators-approve-slightly-more-than-house-for-nasa-in-fy2025/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Approve Slightly More Than House for NASA in FY2025
-- <a href="https://arstechnica.com/space/2024/07/no-nasa-hasnt-found-life-on-mars-yet-but-the-latest-discovery-is-intriguing/" >🔗</a> **[Arstechnica]** No, NASA hasn’t found life on Mars yet, but the latest discovery is intriguing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T080135">2024-07-26 08:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T083225">2024-07-26 08:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
