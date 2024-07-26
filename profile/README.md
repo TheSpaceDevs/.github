@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/" >🔗</a> **[NASA]** Three NASA Interns Expand Classroom Access to NASA Data
+- <a href="https://www.nasa.gov/image-article/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 - <a href="https://www.cnbc.com/2024/07/26/faa-approves-spacex-to-resume-falcon-9-rocket-launches.html" >🔗</a> **[CNBC]** FAA approves SpaceX to resume Falcon 9 rocket launches after two-week hiatus
 - <a href="https://www.nasa.gov/earth/nasa-returns-to-arctic-studying-summer-sea-ice-melt/" >🔗</a> **[NASA]** NASA Returns to Arctic Studying Summer Sea Ice Melt
 - <a href="https://www.spacescout.info/2024/07/op-ed-vipers-sidelining-is-a-scientific-disaster/" >🔗</a> **[Space Scout]** Op-Ed: VIPER’s Sidelining is a Scientific Disaster
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/italys-lunar-surface-habitat-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Italy’s Lunar Surface Habitat Passes Key Milestone
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Ambra_Pedrazzini" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Ambra Pedrazzini
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
-- <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
-- <a href="https://spacenews.com/more-thruster-tests-for-starliner-before-return/" >🔗</a> **[SpaceNews]** More thruster tests for Starliner before return
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T190117">2024-07-26 19:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T193114">2024-07-26 19:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
