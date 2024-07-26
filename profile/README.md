@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_July_2024" >🔗</a> **[ESA]** Week in images: 22-26 July 2024
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/FIA_2024_-_Day_5" >🔗</a> **[ESA]** FIA 2024 - Day 5
+- <a href="https://europeanspaceflight.com/italys-lunar-surface-habitat-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Italy’s Lunar Surface Habitat Passes Key Milestone
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Space_Team_Europe_for_Ariane_6_Ambra_Pedrazzini" >🔗</a> **[ESA]** Space Team Europe for Ariane 6: Ambra Pedrazzini
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/07/Earth_from_Space_Paris_in_focus" >🔗</a> **[ESA]** Earth from Space: Paris in focus
 - <a href="https://spacenews.com/falcon-9-cleared-to-resume-launches/" >🔗</a> **[SpaceNews]** Falcon 9 cleared to resume launches
 - <a href="https://spacenews.com/u-s-military-urged-to-embrace-smallsat-revolution/" >🔗</a> **[SpaceNews]** U.S. military urged to embrace smallsat revolution
-- <a href="https://spacepolicyonline.com/news/starliner-tests-still-underway-no-date-for-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Tests Still Underway, No Date for Butch and Suni’s Return
-- <a href="https://spaceflightnow.com/2024/07/26/make-or-break-tests-on-tap-for-boeings-starliner-capsule/" >🔗</a> **[Spaceflight Now]** Make-or-break tests on tap for Boeing’s Starliner capsule
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T130258">2024-07-26 13:02:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240726T133059">2024-07-26 13:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
