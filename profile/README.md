@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/07/spacex-roars-back-to-orbit-barely-two-weeks-after-in-flight-anomaly/" >🔗</a> **[Arstechnica]** SpaceX roars back to orbit barely two weeks after in-flight anomaly
 - <a href="https://europeanspaceflight.com/uk-funds-tech-to-purify-water-frozen-in-lunar-soil/" >🔗</a> **[European Spaceflight]** UK Funds Tech to Purify Water Frozen in Lunar Soil
-- <a href="https://spaceflightnow.com/2024/07/26/live-coverage-spacex-prepares-for-return-to-flight-mission-with-falcon-9-launch-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX prepares for return to flight mission with Falcon 9 launch from the Kennedy Space Center
+- <a href="https://spaceflightnow.com/2024/07/26/live-coverage-spacex-prepares-for-return-to-flight-mission-with-falcon-9-launch-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 return to flight mission from the Kennedy Space Center
 - <a href="https://tlpnetwork.com/news/europe/uk-saxavord-spaceport-is-almost-ready-for-its-historic-first-launch" >🔗</a> **[The Launch Pad]** UK's SaxaVord Spaceport Is Almost Ready For Its Historic First Launch
 - <a href="https://spacenews.com/spacenews-welcomes-clara-swan-as-sales-and-business-development-manager/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Clara Swan as Sales and Business Development Manager
 - <a href="https://www.nasaspaceflight.com/2024/07/f9-return-to-flight-2024/" >🔗</a> **[NASASpaceflight]** Falcon 9’s returns to flight reminds spaceflight industry of past anomalies
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 - <a href="https://www.cnbc.com/2024/07/26/faa-approves-spacex-to-resume-falcon-9-rocket-launches.html" >🔗</a> **[CNBC]** FAA approves SpaceX to resume Falcon 9 rocket launches after two-week hiatus
 - <a href="https://www.nasa.gov/earth/nasa-returns-to-arctic-studying-summer-sea-ice-melt/" >🔗</a> **[NASA]** NASA Returns to Arctic Studying Summer Sea Ice Melt
-- <a href="https://www.spacescout.info/2024/07/op-ed-vipers-sidelining-is-a-scientific-disaster/" >🔗</a> **[Space Scout]** Op-Ed: VIPER’s Sidelining is a Scientific Disaster
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T070203">2024-07-27 07:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T073105">2024-07-27 07:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
