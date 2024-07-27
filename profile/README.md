@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-returns-to-flight-with-starlink-launch/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight with Starlink launch
 - <a href="https://arstechnica.com/space/2024/07/spacex-roars-back-to-orbit-barely-two-weeks-after-in-flight-anomaly/" >🔗</a> **[Arstechnica]** SpaceX roars back to orbit barely two weeks after in-flight anomaly
 - <a href="https://europeanspaceflight.com/uk-funds-tech-to-purify-water-frozen-in-lunar-soil/" >🔗</a> **[European Spaceflight]** UK Funds Tech to Purify Water Frozen in Lunar Soil
 - <a href="https://spaceflightnow.com/2024/07/26/live-coverage-spacex-prepares-for-return-to-flight-mission-with-falcon-9-launch-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 return to flight mission from the Kennedy Space Center
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/" >🔗</a> **[NASA]** Three NASA Interns Expand Classroom Access to NASA Data
 - <a href="https://www.nasa.gov/image-article/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 - <a href="https://www.cnbc.com/2024/07/26/faa-approves-spacex-to-resume-falcon-9-rocket-launches.html" >🔗</a> **[CNBC]** FAA approves SpaceX to resume Falcon 9 rocket launches after two-week hiatus
-- <a href="https://www.nasa.gov/earth/nasa-returns-to-arctic-studying-summer-sea-ice-melt/" >🔗</a> **[NASA]** NASA Returns to Arctic Studying Summer Sea Ice Melt
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T120127">2024-07-27 12:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T124009">2024-07-27 12:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
