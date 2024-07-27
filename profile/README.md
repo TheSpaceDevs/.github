@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/falcon-9-returns-to-flight-in-record-time/" >🔗</a> **[SpacePolicyOnline.com]** Falcon 9 Returns to Flight in Record Time
 - <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA prepares for final Atlas 5 launch supporting a national security payload
 - <a href="https://spacenews.com/falcon-9-returns-to-flight-with-starlink-launch/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight with Starlink launch
 - <a href="https://arstechnica.com/space/2024/07/spacex-roars-back-to-orbit-barely-two-weeks-after-in-flight-anomaly/" >🔗</a> **[Arstechnica]** SpaceX roars back to orbit barely two weeks after in-flight anomaly
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacenews-welcomes-clara-swan-as-sales-and-business-development-manager/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Clara Swan as Sales and Business Development Manager
 - <a href="https://www.nasaspaceflight.com/2024/07/f9-return-to-flight-2024/" >🔗</a> **[NASASpaceflight]** Falcon 9’s returns to flight reminds spaceflight industry of past anomalies
 - <a href="https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/" >🔗</a> **[NASA]** Three NASA Interns Expand Classroom Access to NASA Data
-- <a href="https://www.nasa.gov/image-article/hubble-images-a-classic-spiral/" >🔗</a> **[NASA]** Hubble Images a Classic Spiral
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T203100">2024-07-27 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T210112">2024-07-27 21:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
