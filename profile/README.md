@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/07/26/live-coverage-spacex-prepares-for-return-to-flight-mission-with-falcon-9-launch-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 return to flight mission from the Kennedy Space Center
 - <a href="https://tlpnetwork.com/news/europe/uk-saxavord-spaceport-is-almost-ready-for-its-historic-first-launch" >🔗</a> **[The Launch Pad]** UK's SaxaVord Spaceport Is Almost Ready For Its Historic First Launch
 - <a href="https://spacenews.com/spacenews-welcomes-clara-swan-as-sales-and-business-development-manager/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Clara Swan as Sales and Business Development Manager
-- <a href="https://www.nasaspaceflight.com/2024/07/f9-return-to-flight-2024/" >🔗</a> **[NASASpaceflight]** Falcon 9’s returns to flight reminds spaceflight industry of past anomalies
+- <a href="https://www.nasaspaceflight.com/2024/07/f9-return-to-flight-2024/" >🔗</a> **[NASASpaceflight]** Falcon 9’s return to flight reminds spaceflight industry of past anomalies
 - <a href="https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/" >🔗</a> **[NASA]** Three NASA Interns Expand Classroom Access to NASA Data
 
 
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T213102">2024-07-27 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240727T220113">2024-07-27 22:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
