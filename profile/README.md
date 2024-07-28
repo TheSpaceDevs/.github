@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacepolicyonline.com/news/falcon-9-returns-to-flight-in-record-time/" >🔗</a> **[SpacePolicyOnline.com]** Falcon 9 Returns to Flight in Record Time
-- <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA prepares for final Atlas 5 launch supporting a national security payload
+- <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** ULA prepares for final Atlas 5 launch supporting a national security payload
 - <a href="https://spacenews.com/falcon-9-returns-to-flight-with-starlink-launch/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight with Starlink launch
 - <a href="https://arstechnica.com/space/2024/07/spacex-roars-back-to-orbit-barely-two-weeks-after-in-flight-anomaly/" >🔗</a> **[Arstechnica]** SpaceX roars back to orbit barely two weeks after in-flight anomaly
 - <a href="https://europeanspaceflight.com/uk-funds-tech-to-purify-water-frozen-in-lunar-soil/" >🔗</a> **[European Spaceflight]** UK Funds Tech to Purify Water Frozen in Lunar Soil
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T030120">2024-07-28 03:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T033124">2024-07-28 03:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
