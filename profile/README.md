@@ -104,6 +104,7 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** ULA prepares for final Atlas 5 launch supporting a national security payload
 - <a href="https://arstechnica.com/science/2021/05/rocket-report-a-new-space-race-in-india-elons-hat-is-safe-for-now/" >🔗</a> **[Arstechnica]** Rocket Report: A new space race in India, Elon’s hat is safe for now
 - <a href="https://www.teslarati.com/spacex-ceo-elon-musk-predicts-ula-launch-delay/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk’s hat is safe after ULA Vulcan rocket launch slips to 2023
 - <a href="https://spacenews.com/with-ulas-new-rocket-vulcan-behind-schedule-space-force-agrees-to-let-atlas-5-fill-in/" >🔗</a> **[SpaceNews]** With ULA’s new rocket Vulcan behind schedule, Space Force agrees to let Atlas 5 fill in
@@ -111,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T153058">2024-07-28 15:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T160124">2024-07-28 16:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
