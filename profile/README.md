@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-spending-bill-pushes-back-on-proposed-nasa-mission-cuts/" >🔗</a> **[SpaceNews]** Senate spending bill pushes back on proposed NASA mission cuts
 - <a href="https://spacenews.com/spacex-to-move-dragon-splashdowns-back-to-west-coast/" >🔗</a> **[SpaceNews]** SpaceX to move Dragon splashdowns back to West Coast
 - <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launched 21 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX completes 300th booster reflight during first of planned back-to-back Falcon 9 launches
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2024/07/spacex-roars-back-to-orbit-barely-two-weeks-after-in-flight-anomaly/" >🔗</a> **[Arstechnica]** SpaceX roars back to orbit barely two weeks after in-flight anomaly
 - <a href="https://europeanspaceflight.com/uk-funds-tech-to-purify-water-frozen-in-lunar-soil/" >🔗</a> **[European Spaceflight]** UK Funds Tech to Purify Water Frozen in Lunar Soil
 - <a href="https://spaceflightnow.com/2024/07/26/live-coverage-spacex-prepares-for-return-to-flight-mission-with-falcon-9-launch-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 return to flight mission from the Kennedy Space Center
-- <a href="https://tlpnetwork.com/news/europe/uk-saxavord-spaceport-is-almost-ready-for-its-historic-first-launch" >🔗</a> **[The Launch Pad]** UK's SaxaVord Spaceport Is Almost Ready For Its Historic First Launch
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T190114">2024-07-28 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T193054">2024-07-28 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
