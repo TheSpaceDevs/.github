@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-move-dragon-splashdowns-back-to-west-coast/" >🔗</a> **[SpaceNews]** SpaceX to move Dragon splashdowns back to West Coast
 - <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launched 21 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX completes 300th booster reflight during first of planned back-to-back Falcon 9 launches
 - <a href="https://spacepolicyonline.com/news/falcon-9-returns-to-flight-in-record-time/" >🔗</a> **[SpacePolicyOnline.com]** Falcon 9 Returns to Flight in Record Time
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/uk-funds-tech-to-purify-water-frozen-in-lunar-soil/" >🔗</a> **[European Spaceflight]** UK Funds Tech to Purify Water Frozen in Lunar Soil
 - <a href="https://spaceflightnow.com/2024/07/26/live-coverage-spacex-prepares-for-return-to-flight-mission-with-falcon-9-launch-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 return to flight mission from the Kennedy Space Center
 - <a href="https://tlpnetwork.com/news/europe/uk-saxavord-spaceport-is-almost-ready-for-its-historic-first-launch" >🔗</a> **[The Launch Pad]** UK's SaxaVord Spaceport Is Almost Ready For Its Historic First Launch
-- <a href="https://spacenews.com/spacenews-welcomes-clara-swan-as-sales-and-business-development-manager/" >🔗</a> **[SpaceNews]** SpaceNews Welcomes Clara Swan as Sales and Business Development Manager
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T130204">2024-07-28 13:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240728T133100">2024-07-28 13:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
