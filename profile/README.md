@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_blasts_off_at_Gamescom" >🔗</a> **[ESA]** ESA blasts off at Gamescom
 - <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-28-august-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 28-August 3, 2024
 - <a href="https://spacenews.com/senate-spending-bill-pushes-back-on-proposed-nasa-mission-cuts/" >🔗</a> **[SpaceNews]** Senate spending bill pushes back on proposed NASA mission cuts
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/falcon-9-returns-to-flight-in-record-time/" >🔗</a> **[SpacePolicyOnline.com]** Falcon 9 Returns to Flight in Record Time
 - <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** ULA prepares for final Atlas 5 launch supporting a national security payload
 - <a href="https://spacenews.com/falcon-9-returns-to-flight-with-starlink-launch/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight with Starlink launch
-- <a href="https://arstechnica.com/space/2024/07/spacex-roars-back-to-orbit-barely-two-weeks-after-in-flight-anomaly/" >🔗</a> **[Arstechnica]** SpaceX roars back to orbit barely two weeks after in-flight anomaly
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T073102">2024-07-29 07:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T080133">2024-07-29 08:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
