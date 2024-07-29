@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/gateway/earth-to-gateway-electric-field-tests-enhance-lunar-communication/" >🔗</a> **[NASA]** Earth to Gateway: Electric Field Tests Enhance Lunar Communication
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_blasts_off_at_Gamescom" >🔗</a> **[ESA]** ESA blasts off at Gamescom
 - <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-28-august-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 28-August 3, 2024
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX completes 300th booster reflight during first of planned back-to-back Falcon 9 launches
 - <a href="https://spacepolicyonline.com/news/falcon-9-returns-to-flight-in-record-time/" >🔗</a> **[SpacePolicyOnline.com]** Falcon 9 Returns to Flight in Record Time
 - <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** ULA prepares for final Atlas 5 launch supporting a national security payload
-- <a href="https://spacenews.com/falcon-9-returns-to-flight-with-starlink-launch/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight with Starlink launch
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T113057">2024-07-29 11:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T120131">2024-07-29 12:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
