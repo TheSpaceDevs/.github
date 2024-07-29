@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/peekaboo/" >🔗</a> **[NASA]** Peekaboo!
+- <a href="https://arstechnica.com/space/2024/07/although-its-not-final-spacex-just-got-good-news-from-the-faa-on-starbase/" >🔗</a> **[Arstechnica]** Although it’s not final, SpaceX just got good news from the FAA on Starbase
 - <a href="https://www.teslarati.com/spacex-returns-back-to-back-successful-starlink-launches/" >🔗</a> **[Teslarati]** SpaceX returns to form with back-to-back successful Starlink launches
 - <a href="https://www.nasa.gov/missions/nasa-offers-virtual-activities-for-21st-northrop-grumman-resupply-mission/" >🔗</a> **[NASA]** NASA Offers Virtual Activities for 21st Northrop Grumman Resupply Mission
 - <a href="https://tlpnetwork.com/news/america/new-ula-policy-restricts-space-coast-photographers-use-of-launch-photo" >🔗</a> **[The Launch Pad]** Photographers Scrub Launch Coverage Due To New ULA Policy That Restricts Use of Launch Photo
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2024/07/cft-continues-safely-starliner-and-the-commercial-crew-return-process/" >🔗</a> **[Space Scout]** CFT Continues Safely: Starliner and the Commercial Crew Return Process
 - <a href="https://www.nasa.gov/missions/station/managing-heat/" >🔗</a> **[NASA]** Managing Heat
 - <a href="https://science.nasa.gov/solar-system/nasa-jaxa-bounce-laser-beam-between-moons-surface-and-lunar-orbit/" >🔗</a> **[NASA]** NASA, JAXA Bounce Laser Beam Between Moon’s Surface and Lunar Orbit
-- <a href="https://europeanspaceflight.com/mt-aerospace-begins-testing-themis-landing-leg/" >🔗</a> **[European Spaceflight]** MT Aerospace Begins Testing Themis Landing Leg
-- <a href="https://spacenews.com/a-new-kind-of-space-politics/" >🔗</a> **[SpaceNews]** A new kind of space politics
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T180128">2024-07-29 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T183348">2024-07-29 18:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
