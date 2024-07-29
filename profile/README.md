@@ -52,8 +52,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T041900">2024-08-02 04:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-6&location=Kennedy Space Center, FL, USA&dates=20240802T041900Z%2F20240802T090200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T152851">2024-08-03 15:28:51 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-21&location=Cape Canaveral, FL, USA&dates=20240803T152851Z%2F20240803T152851Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-21** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T031500">2024-08-07 03:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | Flight 3&location=Satish Dhawan Space Centre, India&dates=20240807T031500Z%2F20240807T071500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV | Flight 3** from Satish Dhawan Space Centre, India.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T000000">2024-08-13 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-28 (89P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240813T000000Z%2F20240813T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-28 (89P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T000000">2024-08-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240815T000000Z%2F20240815T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T031900">2024-08-15 03:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-28 (89P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240815T031900Z%2F20240815T031900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-28 (89P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T093900">2024-08-18 09:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Kennedy Space Center, FL, USA&dates=20240818T093900Z%2F20240818T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Kennedy Space Center, FL, USA.
 
 
@@ -91,6 +91,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Juice_returns_for_a_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice returns for a lunar-Earth flyby
+- <a href="https://www.nasa.gov/missions/station/managing-heat/" >🔗</a> **[NASA]** Managing Heat
+- <a href="https://science.nasa.gov/solar-system/nasa-jaxa-bounce-laser-beam-between-moons-surface-and-lunar-orbit/" >🔗</a> **[NASA]** NASA, JAXA Bounce Laser Beam Between Moon’s Surface and Lunar Orbit
 - <a href="https://europeanspaceflight.com/mt-aerospace-begins-testing-themis-landing-leg/" >🔗</a> **[European Spaceflight]** MT Aerospace Begins Testing Themis Landing Leg
 - <a href="https://spacenews.com/a-new-kind-of-space-politics/" >🔗</a> **[SpaceNews]** A new kind of space politics
 - <a href="https://www.nasa.gov/missions/artemis/gateway/earth-to-gateway-electric-field-tests-enhance-lunar-communication/" >🔗</a> **[NASA]** Earth to Gateway: Electric Field Tests Enhance Lunar Communication
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-28-august-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 28-August 3, 2024
 - <a href="https://spacenews.com/senate-spending-bill-pushes-back-on-proposed-nasa-mission-cuts/" >🔗</a> **[SpaceNews]** Senate spending bill pushes back on proposed NASA mission cuts
-- <a href="https://spacenews.com/spacex-to-move-dragon-splashdowns-back-to-west-coast/" >🔗</a> **[SpaceNews]** SpaceX to move Dragon splashdowns back to West Coast
-- <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launched 21 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T140115">2024-07-29 14:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T143214">2024-07-29 14:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
