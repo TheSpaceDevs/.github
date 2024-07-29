@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/british-financial-advisor-citicourt-co-plots-space-venture-capital-fund/" >🔗</a> **[SpaceNews]** British financial advisor Citicourt & Co plots space venture capital fund
+- <a href="https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 7 Photographs the Moon
+- <a href="https://www.nasaspaceflight.com/2024/07/ussf-51/" >🔗</a> **[NASASpaceflight]** Atlas V prepares to fly its last ever national security mission
 - <a href="https://tlpnetwork.com/news/america/us-space-force-awards-480-million-contract-to-modernize-satellite-control-network" >🔗</a> **[The Launch Pad]** U.S. Space Force Awards Akima A $480 Million Contract to Modernize Satellite Control Network
 - <a href="https://tlpnetwork.com/news/america/retired-us-marine-angel-smith-appointed-executive-director-of-smallsat-alliance" >🔗</a> **[The Launch Pad]** Retired U.S. Marine Angel Smith Appointed Executive Director of SmallSat Alliance
 - <a href="https://www.nasa.gov/general/visit-with-nasa-scan/" >🔗</a> **[NASA]** Visit with NASA SCaN
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-publishes-blog-post-on-nextgenscience-blog/" >🔗</a> **[NASA]** PLACES team publishes blog post on NextGenScience Blog
 - <a href="https://www.nasa.gov/image-article/peekaboo/" >🔗</a> **[NASA]** Peekaboo!
 - <a href="https://arstechnica.com/space/2024/07/although-its-not-final-spacex-just-got-good-news-from-the-faa-on-starbase/" >🔗</a> **[Arstechnica]** Although it’s not final, SpaceX just got good news from the FAA on Starbase
-- <a href="https://www.teslarati.com/spacex-returns-back-to-back-successful-starlink-launches/" >🔗</a> **[Teslarati]** SpaceX returns to form with back-to-back successful Starlink launches
-- <a href="https://www.nasa.gov/missions/nasa-offers-virtual-activities-for-21st-northrop-grumman-resupply-mission/" >🔗</a> **[NASA]** NASA Offers Virtual Activities for 21st Northrop Grumman Resupply Mission
-- <a href="https://tlpnetwork.com/news/america/new-ula-policy-restricts-space-coast-photographers-use-of-launch-photo" >🔗</a> **[The Launch Pad]** Photographers Scrub Launch Coverage Due To New ULA Policy That Restricts Use of Launch Photo
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T203101">2024-07-29 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T210112">2024-07-29 21:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
