@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/announcing-the-launch-of-starris-optimax-space-systems-lifting-precision-optical-payloads-from-idea-to-orbit-in-one-year/" >🔗</a> **[SpaceNews]** Announcing the launch of Starris: Optimax Space Systems,  lifting precision optical payloads from idea to orbit in one year
 - <a href="https://spaceflightnow.com/2024/07/29/live-coverage-ula-to-launch-atlas-5-rocket-on-the-companys-100th-national-security-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Atlas 5 rocket on the company’s 100th national security mission
 - <a href="https://tlpnetwork.com/news/america/sierra-space-successfully-bursts-second-full-scale-inflatable-module" >🔗</a> **[The Launch Pad]** Sierra Space Successfully Bursts Second Full Scale Inflatable Module
 - <a href="https://tlpnetwork.com/news/america/morpheus-space-expands-electric-propulsion-production-with-new-dresden-factory" >🔗</a> **[The Launch Pad]** Morpheus Space Expands Electric Propulsion Production with New Dresden Factory
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blogs/sols-4255-4256-just-passing-through/" >🔗</a> **[NASA]** Sols 4255-4256: Just Passing Through
 - <a href="https://spacenews.com/british-financial-advisor-citicourt-co-plots-space-venture-capital-fund/" >🔗</a> **[SpaceNews]** British financial advisor Citicourt & Co plots space venture capital fund
 - <a href="https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 7 Photographs the Moon
-- <a href="https://www.nasaspaceflight.com/2024/07/ussf-51/" >🔗</a> **[NASASpaceflight]** Atlas V prepares to fly its last ever national security mission
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T230119">2024-07-29 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T233107">2024-07-29 23:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
