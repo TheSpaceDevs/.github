@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/nasa-data-shows-july-22-was-earths-hottest-day-on-record/" >🔗</a> **[NASA]** NASA Data Shows July 22 Was Earth’s Hottest Day on Record
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Juice_returns_for_a_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice returns for a lunar-Earth flyby
+- <a href="https://www.spacescout.info/2024/07/cft-continues-safely-starliner-and-the-commercial-crew-return-process/" >🔗</a> **[Space Scout]** CFT Continues Safely: Starliner and the Commercial Crew Return Process
 - <a href="https://www.nasa.gov/missions/station/managing-heat/" >🔗</a> **[NASA]** Managing Heat
 - <a href="https://science.nasa.gov/solar-system/nasa-jaxa-bounce-laser-beam-between-moons-surface-and-lunar-orbit/" >🔗</a> **[NASA]** NASA, JAXA Bounce Laser Beam Between Moon’s Surface and Lunar Orbit
 - <a href="https://europeanspaceflight.com/mt-aerospace-begins-testing-themis-landing-leg/" >🔗</a> **[European Spaceflight]** MT Aerospace Begins Testing Themis Landing Leg
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/artemis/gateway/earth-to-gateway-electric-field-tests-enhance-lunar-communication/" >🔗</a> **[NASA]** Earth to Gateway: Electric Field Tests Enhance Lunar Communication
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_blasts_off_at_Gamescom" >🔗</a> **[ESA]** ESA blasts off at Gamescom
 - <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-28-august-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 28-August 3, 2024
-- <a href="https://spacenews.com/senate-spending-bill-pushes-back-on-proposed-nasa-mission-cuts/" >🔗</a> **[SpaceNews]** Senate spending bill pushes back on proposed NASA mission cuts
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T150113">2024-07-29 15:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T153144">2024-07-29 15:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
