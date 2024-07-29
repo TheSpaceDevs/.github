@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Juice_returns_for_a_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice returns for a lunar-Earth flyby
+- <a href="https://europeanspaceflight.com/mt-aerospace-begins-testing-themis-landing-leg/" >🔗</a> **[European Spaceflight]** MT Aerospace Begins Testing Themis Landing Leg
+- <a href="https://spacenews.com/a-new-kind-of-space-politics/" >🔗</a> **[SpaceNews]** A new kind of space politics
 - <a href="https://www.nasa.gov/missions/artemis/gateway/earth-to-gateway-electric-field-tests-enhance-lunar-communication/" >🔗</a> **[NASA]** Earth to Gateway: Electric Field Tests Enhance Lunar Communication
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_blasts_off_at_Gamescom" >🔗</a> **[ESA]** ESA blasts off at Gamescom
 - <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/senate-spending-bill-pushes-back-on-proposed-nasa-mission-cuts/" >🔗</a> **[SpaceNews]** Senate spending bill pushes back on proposed NASA mission cuts
 - <a href="https://spacenews.com/spacex-to-move-dragon-splashdowns-back-to-west-coast/" >🔗</a> **[SpaceNews]** SpaceX to move Dragon splashdowns back to West Coast
 - <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launched 21 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
-- <a href="https://spaceflightnow.com/2024/07/28/live-coverage-spacex-to-launch-falcon-9-rocket-on-starlink-mission-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX completes 300th booster reflight during first of planned back-to-back Falcon 9 launches
-- <a href="https://spacepolicyonline.com/news/falcon-9-returns-to-flight-in-record-time/" >🔗</a> **[SpacePolicyOnline.com]** Falcon 9 Returns to Flight in Record Time
-- <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** ULA prepares for final Atlas 5 launch supporting a national security payload
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T130354">2024-07-29 13:03:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T133117">2024-07-29 13:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
