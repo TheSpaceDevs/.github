@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/new-ula-policy-restricts-space-coast-photographers-use-of-launch-photo" >🔗</a> **[The Launch Pad]** Photographers Scrub Launch Coverage Due To New ULA Policy That Restricts Use of Launch Photo
 - <a href="https://www.nasa.gov/earth/nasa-data-shows-july-22-was-earths-hottest-day-on-record/" >🔗</a> **[NASA]** NASA Data Shows July 22 Was Earth’s Hottest Day on Record
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Juice_returns_for_a_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice returns for a lunar-Earth flyby
 - <a href="https://www.spacescout.info/2024/07/cft-continues-safely-starliner-and-the-commercial-crew-return-process/" >🔗</a> **[Space Scout]** CFT Continues Safely: Starliner and the Commercial Crew Return Process
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/a-new-kind-of-space-politics/" >🔗</a> **[SpaceNews]** A new kind of space politics
 - <a href="https://www.nasa.gov/missions/artemis/gateway/earth-to-gateway-electric-field-tests-enhance-lunar-communication/" >🔗</a> **[NASA]** Earth to Gateway: Electric Field Tests Enhance Lunar Communication
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_blasts_off_at_Gamescom" >🔗</a> **[ESA]** ESA blasts off at Gamescom
-- <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T160115">2024-07-29 16:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240729T163423">2024-07-29 16:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
