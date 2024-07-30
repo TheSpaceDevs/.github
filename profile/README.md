@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-0630/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Atlas V, Electron, and Falcon 9 missions scheduled for this week
+- <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month, July 2024
 - <a href="https://science.nasa.gov/blogs/sols-4259-4260-kings-canyon-go-again/" >🔗</a> **[NASA]** Sols 4259-4260: Kings Canyon Go Again!
 - <a href="https://spacenews.com/united-launch-alliance-and-spacex-get-1-8-billion-boost-in-space-force-contracts/" >🔗</a> **[SpaceNews]** United Launch Alliance and SpaceX get $1.8 billion boost in Space Force contracts
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/" >🔗</a> **[NASA]** GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/defying-the-heat/" >🔗</a> **[SpaceNews]** Defying the heat
 - <a href="https://spacenews.com/land-of-the-rising-space-startups/" >🔗</a> **[SpaceNews]** Land of the rising space startups
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-takes-delivery-of-mira-ii-and-iii-airframes/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Takes Delivery of MIRA II and III Airframes
-- <a href="https://spacenews.com/nasa-proceeding-with-august-launch-of-crew-9/" >🔗</a> **[SpaceNews]** NASA proceeding with August launch of Crew-9
-- <a href="https://spacenews.com/ulas-atlas-5-launches-its-final-national-security-mission/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches its final national security mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T173105">2024-07-30 17:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T180127">2024-07-30 18:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
