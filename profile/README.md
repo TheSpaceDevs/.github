@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T161500">2024-07-30 16:15:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>.  Until
 then, this pad will have been used for 20
 out of 46 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBD* 🟧 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,10 +46,11 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T161500">2024-07-30 16:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl for One, One for Owl (StriX 5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240730T161500Z%2F20240730T181500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl for One, One for Owl (StriX 5)** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T000000">2024-07-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl for One, One for Owl (StriX 5)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240731T000000Z%2F20240731T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl for One, One for Owl (StriX 5)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T130400">2024-08-01 13:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240801T130400Z%2F20240801T133900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T041900">2024-08-02 04:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-6&location=Kennedy Space Center, FL, USA&dates=20240802T041900Z%2F20240802T090200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T152832">2024-08-03 15:28:32 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-21&location=Cape Canaveral, FL, USA&dates=20240803T152832Z%2F20240803T152832Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-21** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T070000">2024-08-04 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-1&location=Vandenberg SFB, CA, USA&dates=20240804T070000Z%2F20240804T113100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T065100">2024-08-06 06:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240806T065100Z%2F20240806T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T031500">2024-08-07 03:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | Flight 3&location=Satish Dhawan Space Centre, India&dates=20240807T031500Z%2F20240807T071500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV | Flight 3** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T000000">2024-08-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240815T000000Z%2F20240815T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -90,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/land-of-the-rising-space-startups/" >🔗</a> **[SpaceNews]** Land of the rising space startups
+- <a href="https://europeanspaceflight.com/polaris-spaceplanes-takes-delivery-of-mira-ii-and-iii-airframes/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Takes Delivery of MIRA II and III Airframes
 - <a href="https://spacenews.com/nasa-proceeding-with-august-launch-of-crew-9/" >🔗</a> **[SpaceNews]** NASA proceeding with August launch of Crew-9
 - <a href="https://spacenews.com/ulas-atlas-5-launches-its-final-national-security-mission/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches its final national security mission
 - <a href="https://europeanspaceflight.com/rolls-royce-submarines-to-develop-nuclear-reactors-for-uk-space-agency/" >🔗</a> **[European Spaceflight]** Rolls-Royce Submarines to Develop Nuclear Reactors for UK Space Agency
@@ -98,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/announcing-the-launch-of-starris-optimax-space-systems-lifting-precision-optical-payloads-from-idea-to-orbit-in-one-year/" >🔗</a> **[SpaceNews]** Announcing the launch of Starris: Optimax Space Systems,  lifting precision optical payloads from idea to orbit in one year
 - <a href="https://spaceflightnow.com/2024/07/29/live-coverage-ula-to-launch-atlas-5-rocket-on-the-companys-100th-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA launches Atlas 5 rocket on the company’s 100th national security mission
 - <a href="https://tlpnetwork.com/news/america/sierra-space-successfully-bursts-second-full-scale-inflatable-module" >🔗</a> **[The Launch Pad]** Sierra Space Successfully Bursts Second Full Scale Inflatable Module
-- <a href="https://tlpnetwork.com/news/america/morpheus-space-expands-electric-propulsion-production-with-new-dresden-factory" >🔗</a> **[The Launch Pad]** Morpheus Space Expands Electric Propulsion Production with New Dresden Factory
-- <a href="https://www.nasa.gov/news-release/nasa-to-highlight-13th-space-station-research-development-conference/" >🔗</a> **[NASA]** NASA to Highlight 13th Space Station Research, Development Conference
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T130329">2024-07-30 13:03:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T133100">2024-07-30 13:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
