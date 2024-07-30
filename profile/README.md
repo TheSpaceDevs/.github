@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
 - <a href="https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/" >🔗</a> **[NASA]** Repair Kit for NASA’s NICER Mission Heading to Space Station
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-0630/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Atlas V, Electron, and Falcon 9 missions scheduled for this week
 - <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month, July 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-scientists-outline-major-cislunar-space-infrastructure-project/" >🔗</a> **[SpaceNews]** Chinese scientists outline major cislunar space infrastructure project
 - <a href="https://science.nasa.gov/missions/dart/nasas-dart-mission-sheds-new-light-on-target-binary-asteroid-system/" >🔗</a> **[NASA]** NASA’s DART Mission Sheds New Light on Target Binary Asteroid System
 - <a href="https://spacenews.com/defying-the-heat/" >🔗</a> **[SpaceNews]** Defying the heat
-- <a href="https://spacenews.com/land-of-the-rising-space-startups/" >🔗</a> **[SpaceNews]** Land of the rising space startups
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T190211">2024-07-30 19:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T193108">2024-07-30 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
