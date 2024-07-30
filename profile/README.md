@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-proceeding-with-august-launch-of-crew-9/" >🔗</a> **[SpaceNews]** NASA proceeding with August launch of Crew-9
 - <a href="https://spacenews.com/ulas-atlas-5-launches-its-final-national-security-mission/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches its final national security mission
 - <a href="https://europeanspaceflight.com/rolls-royce-submarines-to-develop-nuclear-reactors-for-uk-space-agency/" >🔗</a> **[European Spaceflight]** Rolls-Royce Submarines to Develop Nuclear Reactors for UK Space Agency
 - <a href="https://spacenews.com/nisar-launch-slips-to-2025/" >🔗</a> **[SpaceNews]** NISAR launch slips to 2025
 - <a href="https://spacepolicyonline.com/news/starliner-passes-in-orbit-tests-but-first-operational-launch-slips/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Passes In-Orbit Tests, But First Operational Launch Slips
 - <a href="https://spacenews.com/announcing-the-launch-of-starris-optimax-space-systems-lifting-precision-optical-payloads-from-idea-to-orbit-in-one-year/" >🔗</a> **[SpaceNews]** Announcing the launch of Starris: Optimax Space Systems,  lifting precision optical payloads from idea to orbit in one year
-- <a href="https://spaceflightnow.com/2024/07/29/live-coverage-ula-to-launch-atlas-5-rocket-on-the-companys-100th-national-security-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Atlas 5 rocket on the company’s 100th national security mission
+- <a href="https://spaceflightnow.com/2024/07/29/live-coverage-ula-to-launch-atlas-5-rocket-on-the-companys-100th-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA launches Atlas 5 rocket on the company’s 100th national security mission
 - <a href="https://tlpnetwork.com/news/america/sierra-space-successfully-bursts-second-full-scale-inflatable-module" >🔗</a> **[The Launch Pad]** Sierra Space Successfully Bursts Second Full Scale Inflatable Module
 - <a href="https://tlpnetwork.com/news/america/morpheus-space-expands-electric-propulsion-production-with-new-dresden-factory" >🔗</a> **[The Launch Pad]** Morpheus Space Expands Electric Propulsion Production with New Dresden Factory
 - <a href="https://www.nasa.gov/news-release/nasa-to-highlight-13th-space-station-research-development-conference/" >🔗</a> **[NASA]** NASA to Highlight 13th Space Station Research, Development Conference
-- <a href="https://science.nasa.gov/blogs/sols-4257-4258-a-little-nudge-on-kings-canyon/" >🔗</a> **[NASA]** Sols 4257-4258: A Little Nudge on Kings Canyon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T113102">2024-07-30 11:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T120127">2024-07-30 12:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
