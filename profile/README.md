@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-issues-deliver-mixed-bag-for-yahsat-earnings/" >🔗</a> **[SpaceNews]** Satellite issues deliver mixed bag for Yahsat earnings
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
 - <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
 - <a href="https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/" >🔗</a> **[NASA]** Repair Kit for NASA’s NICER Mission Heading to Space Station
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/united-launch-alliance-and-spacex-get-1-8-billion-boost-in-space-force-contracts/" >🔗</a> **[SpaceNews]** United Launch Alliance and SpaceX get $1.8 billion boost in Space Force contracts
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/" >🔗</a> **[NASA]** GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
 - <a href="https://spacenews.com/chinese-scientists-outline-major-cislunar-space-infrastructure-project/" >🔗</a> **[SpaceNews]** Chinese scientists outline major cislunar space infrastructure project
-- <a href="https://science.nasa.gov/missions/dart/nasas-dart-mission-sheds-new-light-on-target-binary-asteroid-system/" >🔗</a> **[NASA]** NASA’s DART Mission Sheds New Light on Target Binary Asteroid System
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T223057">2024-07-30 22:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T230111">2024-07-30 23:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
