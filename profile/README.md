@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/chinese-scientists-outline-major-cislunar-space-infrastructure-project/" >🔗</a> **[SpaceNews]** Chinese scientists outline major cislunar space infrastructure project
+- <a href="https://science.nasa.gov/missions/dart/nasas-dart-mission-sheds-new-light-on-target-binary-asteroid-system/" >🔗</a> **[NASA]** NASA’s DART Mission Sheds New Light on Target Binary Asteroid System
 - <a href="https://spacenews.com/defying-the-heat/" >🔗</a> **[SpaceNews]** Defying the heat
 - <a href="https://spacenews.com/land-of-the-rising-space-startups/" >🔗</a> **[SpaceNews]** Land of the rising space startups
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-takes-delivery-of-mira-ii-and-iii-airframes/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Takes Delivery of MIRA II and III Airframes
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/rolls-royce-submarines-to-develop-nuclear-reactors-for-uk-space-agency/" >🔗</a> **[European Spaceflight]** Rolls-Royce Submarines to Develop Nuclear Reactors for UK Space Agency
 - <a href="https://spacenews.com/nisar-launch-slips-to-2025/" >🔗</a> **[SpaceNews]** NISAR launch slips to 2025
 - <a href="https://spacepolicyonline.com/news/starliner-passes-in-orbit-tests-but-first-operational-launch-slips/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Passes In-Orbit Tests, But First Operational Launch Slips
-- <a href="https://spacenews.com/announcing-the-launch-of-starris-optimax-space-systems-lifting-precision-optical-payloads-from-idea-to-orbit-in-one-year/" >🔗</a> **[SpaceNews]** Announcing the launch of Starris: Optimax Space Systems,  lifting precision optical payloads from idea to orbit in one year
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T160118">2024-07-30 16:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T163432">2024-07-30 16:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
