@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4259-4260-kings-canyon-go-again/" >🔗</a> **[NASA]** Sols 4259-4260: Kings Canyon Go Again!
+- <a href="https://spacenews.com/united-launch-alliance-and-spacex-get-1-8-billion-boost-in-space-force-contracts/" >🔗</a> **[SpaceNews]** United Launch Alliance and SpaceX get $1.8 billion boost in Space Force contracts
+- <a href="https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/" >🔗</a> **[NASA]** GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
 - <a href="https://spacenews.com/chinese-scientists-outline-major-cislunar-space-infrastructure-project/" >🔗</a> **[SpaceNews]** Chinese scientists outline major cislunar space infrastructure project
 - <a href="https://science.nasa.gov/missions/dart/nasas-dart-mission-sheds-new-light-on-target-binary-asteroid-system/" >🔗</a> **[NASA]** NASA’s DART Mission Sheds New Light on Target Binary Asteroid System
 - <a href="https://spacenews.com/defying-the-heat/" >🔗</a> **[SpaceNews]** Defying the heat
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-takes-delivery-of-mira-ii-and-iii-airframes/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Takes Delivery of MIRA II and III Airframes
 - <a href="https://spacenews.com/nasa-proceeding-with-august-launch-of-crew-9/" >🔗</a> **[SpaceNews]** NASA proceeding with August launch of Crew-9
 - <a href="https://spacenews.com/ulas-atlas-5-launches-its-final-national-security-mission/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches its final national security mission
-- <a href="https://europeanspaceflight.com/rolls-royce-submarines-to-develop-nuclear-reactors-for-uk-space-agency/" >🔗</a> **[European Spaceflight]** Rolls-Royce Submarines to Develop Nuclear Reactors for UK Space Agency
-- <a href="https://spacenews.com/nisar-launch-slips-to-2025/" >🔗</a> **[SpaceNews]** NISAR launch slips to 2025
-- <a href="https://spacepolicyonline.com/news/starliner-passes-in-orbit-tests-but-first-operational-launch-slips/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Passes In-Orbit Tests, But First Operational Launch Slips
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T170104">2024-07-30 17:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T173105">2024-07-30 17:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
