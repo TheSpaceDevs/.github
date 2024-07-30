@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V 551 | USSF-51**. It is scheduled to be launched by *United Launch Alliance*
+**Electron | Owl for One, One for Owl (StriX 5)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T104500">2024-07-30 10:45:00 UTC</a>.  Until
-then, this pad will have been used for 112
-out of 965 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T161500">2024-07-30 16:15:00 UTC</a>.  Until
+then, this pad will have been used for 20
+out of 46 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Earth Science* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Classified payload for the US Space Force.
+  Synthetic aperture radar satellites for Japanese Earth imaging company Synspective.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Atlas_V?wprov=sfla1" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ulas-atlas-5-launches-its-final-national-security-mission/" >🔗</a> **[SpaceNews]** ULA’s Atlas 5 launches its final national security mission
 - <a href="https://europeanspaceflight.com/rolls-royce-submarines-to-develop-nuclear-reactors-for-uk-space-agency/" >🔗</a> **[European Spaceflight]** Rolls-Royce Submarines to Develop Nuclear Reactors for UK Space Agency
 - <a href="https://spacenews.com/nisar-launch-slips-to-2025/" >🔗</a> **[SpaceNews]** NISAR launch slips to 2025
 - <a href="https://spacepolicyonline.com/news/starliner-passes-in-orbit-tests-but-first-operational-launch-slips/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Passes In-Orbit Tests, But First Operational Launch Slips
@@ -99,24 +100,15 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/morpheus-space-expands-electric-propulsion-production-with-new-dresden-factory" >🔗</a> **[The Launch Pad]** Morpheus Space Expands Electric Propulsion Production with New Dresden Factory
 - <a href="https://www.nasa.gov/news-release/nasa-to-highlight-13th-space-station-research-development-conference/" >🔗</a> **[NASA]** NASA to Highlight 13th Space Station Research, Development Conference
 - <a href="https://science.nasa.gov/blogs/sols-4257-4258-a-little-nudge-on-kings-canyon/" >🔗</a> **[NASA]** Sols 4257-4258: A Little Nudge on Kings Canyon
-- <a href="https://tlpnetwork.com/news/america/astranis-secures-200-million-for-omega-program-and-next-gen-broadband-spacecraft" >🔗</a> **[The Launch Pad]** Astranis Secures $200 Million For Omega Program and Next-Gen Broadband Spacecraft
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/07/29/live-coverage-ula-to-launch-atlas-5-rocket-on-the-companys-100th-national-security-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Atlas 5 rocket on the company’s 100th national security mission
-- <a href="https://www.nasaspaceflight.com/2024/07/ussf-51/" >🔗</a> **[NASASpaceflight]** Atlas V prepares to fly its last ever national security mission
-- <a href="https://tlpnetwork.com/news/america/new-ula-policy-restricts-space-coast-photographers-use-of-launch-photo" >🔗</a> **[The Launch Pad]** Photographers Scrub Launch Coverage Due To New ULA Policy That Restricts Use of Launch Photo
-- <a href="https://spacenews.com/ula-prepares-for-final-military-launch-of-atlas-5-rocket/" >🔗</a> **[SpaceNews]** ULA prepares for final military launch of Atlas 5 rocket
-- <a href="https://spaceflightnow.com/2024/07/27/live-coverage-ula-prepares-for-final-atlas-5-launch-supporting-a-national-security-payload/" >🔗</a> **[Spaceflight Now]** ULA prepares for final Atlas 5 launch supporting a national security payload
-- <a href="https://arstechnica.com/science/2021/05/rocket-report-a-new-space-race-in-india-elons-hat-is-safe-for-now/" >🔗</a> **[Arstechnica]** Rocket Report: A new space race in India, Elon’s hat is safe for now
-- <a href="https://www.teslarati.com/spacex-ceo-elon-musk-predicts-ula-launch-delay/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk’s hat is safe after ULA Vulcan rocket launch slips to 2023
-- <a href="https://spacenews.com/with-ulas-new-rocket-vulcan-behind-schedule-space-force-agrees-to-let-atlas-5-fill-in/" >🔗</a> **[SpaceNews]** With ULA’s new rocket Vulcan behind schedule, Space Force agrees to let Atlas 5 fill in
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T110107">2024-07-30 11:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T113102">2024-07-30 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
