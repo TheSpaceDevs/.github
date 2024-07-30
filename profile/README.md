@@ -89,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nisar-launch-slips-to-2025/" >🔗</a> **[SpaceNews]** NISAR launch slips to 2025
 - <a href="https://spacepolicyonline.com/news/starliner-passes-in-orbit-tests-but-first-operational-launch-slips/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Passes In-Orbit Tests, But First Operational Launch Slips
 - <a href="https://spacenews.com/announcing-the-launch-of-starris-optimax-space-systems-lifting-precision-optical-payloads-from-idea-to-orbit-in-one-year/" >🔗</a> **[SpaceNews]** Announcing the launch of Starris: Optimax Space Systems,  lifting precision optical payloads from idea to orbit in one year
 - <a href="https://spaceflightnow.com/2024/07/29/live-coverage-ula-to-launch-atlas-5-rocket-on-the-companys-100th-national-security-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Atlas 5 rocket on the company’s 100th national security mission
@@ -98,7 +99,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blogs/sols-4257-4258-a-little-nudge-on-kings-canyon/" >🔗</a> **[NASA]** Sols 4257-4258: A Little Nudge on Kings Canyon
 - <a href="https://tlpnetwork.com/news/america/astranis-secures-200-million-for-omega-program-and-next-gen-broadband-spacecraft" >🔗</a> **[The Launch Pad]** Astranis Secures $200 Million For Omega Program and Next-Gen Broadband Spacecraft
 - <a href="https://science.nasa.gov/blogs/sols-4255-4256-just-passing-through/" >🔗</a> **[NASA]** Sols 4255-4256: Just Passing Through
-- <a href="https://spacenews.com/british-financial-advisor-citicourt-co-plots-space-venture-capital-fund/" >🔗</a> **[SpaceNews]** British financial advisor Citicourt & Co plots space venture capital fund
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T040127">2024-07-30 04:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240730T043236">2024-07-30 04:32:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
