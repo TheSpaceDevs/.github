@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_Safety/Hera/Glimpses_of_Hera_s_target_asteroids_inspire_new_science" >🔗</a> **[ESA]** Glimpses of Hera’s target asteroids inspire new science
+- <a href="https://spacenews.com/chinas-space-pioneer-pushes-towards-launch-despite-static-fire-debacle/" >🔗</a> **[SpaceNews]** China’s Space Pioneer pushes towards launch despite static-fire debacle
 - <a href="https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/" >🔗</a> **[Arstechnica]** After years of leniency, ULA cracks down on hobbyist photographers
 - <a href="https://spacenews.com/growing-pains-for-smallsat-propulsion/" >🔗</a> **[SpaceNews]** Growing pains for smallsat propulsion
 - <a href="https://www.nasa.gov/general/nasas-first-ever-quantum-memory-made-at-glenn-research-center/" >🔗</a> **[NASA]** NASA’s First-Ever Quantum Memory Made at Glenn Research Center
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ghgsat-gains-nasa-approval-for-methane-emissions-data/" >🔗</a> **[SpaceNews]** GHGSat gains  NASA approval for methane-emissions data
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_post-launch_update" >🔗</a> **[ESA]** Ariane 6: post-launch update
 - <a href="https://spacenews.com/companies-describe-studies-to-revise-mars-sample-return/" >🔗</a> **[SpaceNews]** Companies describe studies to revise Mars Sample Return
-- <a href="https://spacenews.com/ses-wins-46-million-u-s-air-force-contract-for-satellite-services/" >🔗</a> **[SpaceNews]** SES wins $46 million U.S. Air Force contract for satellite services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T150114">2024-07-31 15:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T153131">2024-07-31 15:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
