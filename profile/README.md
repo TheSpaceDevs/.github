@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_post-launch_update" >🔗</a> **[ESA]** Ariane 6: post-launch update
+- <a href="https://spacenews.com/companies-describe-studies-to-revise-mars-sample-return/" >🔗</a> **[SpaceNews]** Companies describe studies to revise Mars Sample Return
 - <a href="https://spacenews.com/ses-wins-46-million-u-s-air-force-contract-for-satellite-services/" >🔗</a> **[SpaceNews]** SES wins $46 million U.S. Air Force contract for satellite services
 - <a href="https://spacenews.com/satellite-issues-deliver-mixed-bag-for-yahsat-earnings/" >🔗</a> **[SpaceNews]** Satellite issues deliver mixed bag for Yahsat earnings
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-0630/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Atlas V, Electron, and Falcon 9 missions scheduled for this week
 - <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month, July 2024
 - <a href="https://science.nasa.gov/blogs/sols-4259-4260-kings-canyon-go-again/" >🔗</a> **[NASA]** Sols 4259-4260: Kings Canyon Go Again!
-- <a href="https://spacenews.com/united-launch-alliance-and-spacex-get-1-8-billion-boost-in-space-force-contracts/" >🔗</a> **[SpaceNews]** United Launch Alliance and SpaceX get $1.8 billion boost in Space Force contracts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T093102">2024-07-31 09:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T100110">2024-07-31 10:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
