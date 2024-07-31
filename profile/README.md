@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/" >🔗</a> **[NASA]** The Marshall Star for July 31, 2024
+- <a href="https://www.nasaspaceflight.com/2024/07/starship-7-30-24/" >🔗</a> **[NASASpaceflight]** Successful Static Fire Leads to Final Preparation Before Full Stack
+- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/autonomous-medical-operations-amo/" >🔗</a> **[NASA]** Autonomous Medical Operations (AMO)
+- <a href="https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/" >🔗</a> **[NASA]** A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan
 - <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/" >🔗</a> **[NASA]** 2024 Software of the Year Co-Winner – Orbital Debris Engineering Model (ORDEM)
 - <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/" >🔗</a> **[NASA]** 2024 Software of the Year Award Co-Winner -Prognostics Python Packages (ProgPy)
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-dedicates-dorothy-vaughan-center-to-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo
 - <a href="https://www.teslarati.com/spacex-dragon-splashdowns-get-new-destination/" >🔗</a> **[Teslarati]** SpaceX Dragon splashdowns get new destination
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/affordable-access-to-space/" >🔗</a> **[NASA]** Affordable Access to Space
 - <a href="https://www.nasa.gov/organizations/otps/2024-invention-of-the-year-winner/" >🔗</a> **[NASA]** 2024 Invention of the Year Winner – Thrust Chamber Liner and Fabrication Method
-- <a href="https://www.nasa.gov/image-article/ranger-7-snaps-the-moon/" >🔗</a> **[NASA]** Ranger 7 Snaps the Moon
-- <a href="https://www.nasa.gov/general/tech-today-remote-sensing-technology-fights-forest-fires/" >🔗</a> **[NASA]** Tech Today: Remote Sensing Technology Fights Forest Fires
-- <a href="https://spacenews.com/caci-secures-450-million-contract-to-support-u-s-space-commands-navigation-warfare-center/" >🔗</a> **[SpaceNews]** CACI secures $450 million contract to support U.S. Space Command’s navigation warfare center
-- <a href="https://spacenews.com/honoring-the-best-in-space-2024-spacenews-icon-awards-nominations-open/" >🔗</a> **[SpaceNews]** Honoring the Best in Space: 2024 SpaceNews Icon Awards Nominations Open
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T203104">2024-07-31 20:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T210110">2024-07-31 21:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
