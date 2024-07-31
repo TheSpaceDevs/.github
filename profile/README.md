@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/caci-secures-450-million-contract-to-support-u-s-space-commands-navigation-warfare-center/" >🔗</a> **[SpaceNews]** CACI secures $450 million contract to support U.S. Space Command’s navigation warfare center
+- <a href="https://spacenews.com/honoring-the-best-in-space-2024-spacenews-icon-awards-nominations-open/" >🔗</a> **[SpaceNews]** Honoring the Best in Space: 2024 SpaceNews Icon Awards Nominations Open
+- <a href="https://www.spacescout.info/2024/07/falcon-9-completes-rtf-resumes-cadence/" >🔗</a> **[Space Scout]** Falcon 9 Completes RTF, Resumes Cadence
 - <a href="https://www.esa.int/Space_Safety/Hera/Glimpses_of_Hera_s_target_asteroids_inspire_new_science" >🔗</a> **[ESA]** Glimpses of Hera’s target asteroids inspire new science
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-august-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2024 Skywatching Tips from NASA
+- <a href="https://www.nasa.gov/general/nasa-public-engagement-specialist-loves-to-inspire-kids-with-stem/" >🔗</a> **[NASA]** NASA Public Engagement Specialist Loves to Inspire Kids with STEM
 - <a href="https://spacenews.com/chinas-space-pioneer-pushes-towards-launch-despite-static-fire-debacle/" >🔗</a> **[SpaceNews]** China’s Space Pioneer pushes towards launch despite static-fire debacle
 - <a href="https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/" >🔗</a> **[Arstechnica]** After years of leniency, ULA cracks down on hobbyist photographers
 - <a href="https://spacenews.com/growing-pains-for-smallsat-propulsion/" >🔗</a> **[SpaceNews]** Growing pains for smallsat propulsion
 - <a href="https://www.nasa.gov/general/nasas-first-ever-quantum-memory-made-at-glenn-research-center/" >🔗</a> **[NASA]** NASA’s First-Ever Quantum Memory Made at Glenn Research Center
-- <a href="https://spacenews.com/study-finds-space-industry-growth-uncorrelated-to-larger-markets/" >🔗</a> **[SpaceNews]** Study finds space industry growth uncorrelated to larger markets
-- <a href="https://europeanspaceflight.com/dlr-laser-clock-loses-just-one-second-every-30m-years/" >🔗</a> **[European Spaceflight]** DLR Laser Clock Loses Just One Second Every 30M Years
-- <a href="https://spacenews.com/ghgsat-gains-nasa-approval-for-methane-emissions-data/" >🔗</a> **[SpaceNews]** GHGSat gains  NASA approval for methane-emissions data
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_post-launch_update" >🔗</a> **[ESA]** Ariane 6: post-launch update
-- <a href="https://spacenews.com/companies-describe-studies-to-revise-mars-sample-return/" >🔗</a> **[SpaceNews]** Companies describe studies to revise Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T160116">2024-07-31 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T163404">2024-07-31 16:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
