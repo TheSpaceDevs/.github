@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/study-finds-space-industry-growth-uncorrelated-to-larger-markets/" >🔗</a> **[SpaceNews]** Study finds space industry growth uncorrelated to larger markets
+- <a href="https://europeanspaceflight.com/dlr-laser-clock-loses-just-one-second-every-30m-years/" >🔗</a> **[European Spaceflight]** DLR Laser Clock Loses Just One Second Every 30M Years
 - <a href="https://spacenews.com/ghgsat-gains-nasa-approval-for-methane-emissions-data/" >🔗</a> **[SpaceNews]** GHGSat gains  NASA approval for methane-emissions data
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_post-launch_update" >🔗</a> **[ESA]** Ariane 6: post-launch update
 - <a href="https://spacenews.com/companies-describe-studies-to-revise-mars-sample-return/" >🔗</a> **[SpaceNews]** Companies describe studies to revise Mars Sample Return
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
 - <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
 - <a href="https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/" >🔗</a> **[NASA]** Repair Kit for NASA’s NICER Mission Heading to Space Station
-- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-0630/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Atlas V, Electron, and Falcon 9 missions scheduled for this week
-- <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month, July 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T110112">2024-07-31 11:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T113103">2024-07-31 11:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
