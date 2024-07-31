@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Glimpses_of_Hera_s_target_asteroids_inspire_new_science" >🔗</a> **[ESA]** Glimpses of Hera’s target asteroids inspire new science
 - <a href="https://spacenews.com/growing-pains-for-smallsat-propulsion/" >🔗</a> **[SpaceNews]** Growing pains for smallsat propulsion
 - <a href="https://www.nasa.gov/general/nasas-first-ever-quantum-memory-made-at-glenn-research-center/" >🔗</a> **[NASA]** NASA’s First-Ever Quantum Memory Made at Glenn Research Center
 - <a href="https://spacenews.com/study-finds-space-industry-growth-uncorrelated-to-larger-markets/" >🔗</a> **[SpaceNews]** Study finds space industry growth uncorrelated to larger markets
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/companies-describe-studies-to-revise-mars-sample-return/" >🔗</a> **[SpaceNews]** Companies describe studies to revise Mars Sample Return
 - <a href="https://spacenews.com/ses-wins-46-million-u-s-air-force-contract-for-satellite-services/" >🔗</a> **[SpaceNews]** SES wins $46 million U.S. Air Force contract for satellite services
 - <a href="https://spacenews.com/satellite-issues-deliver-mixed-bag-for-yahsat-earnings/" >🔗</a> **[SpaceNews]** Satellite issues deliver mixed bag for Yahsat earnings
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T133101">2024-07-31 13:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T140126">2024-07-31 14:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
