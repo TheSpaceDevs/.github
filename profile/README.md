@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_post-launch_update" >🔗</a> **[ESA]** Ariane 6: post-launch update
 - <a href="https://spacenews.com/satellite-issues-deliver-mixed-bag-for-yahsat-earnings/" >🔗</a> **[SpaceNews]** Satellite issues deliver mixed bag for Yahsat earnings
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
 - <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blogs/sols-4259-4260-kings-canyon-go-again/" >🔗</a> **[NASA]** Sols 4259-4260: Kings Canyon Go Again!
 - <a href="https://spacenews.com/united-launch-alliance-and-spacex-get-1-8-billion-boost-in-space-force-contracts/" >🔗</a> **[SpaceNews]** United Launch Alliance and SpaceX get $1.8 billion boost in Space Force contracts
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/" >🔗</a> **[NASA]** GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
-- <a href="https://spacenews.com/chinese-scientists-outline-major-cislunar-space-infrastructure-project/" >🔗</a> **[SpaceNews]** Chinese scientists outline major cislunar space infrastructure project
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T073057">2024-07-31 07:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T080125">2024-07-31 08:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
