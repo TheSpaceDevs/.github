@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/" >🔗</a> **[NASA]** 2024 Software of the Year Co-Winner – Orbital Debris Engineering Model (ORDEM)
+- <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/" >🔗</a> **[NASA]** 2024 Software of the Year Award Co-Winner -Prognostics Python Packages (ProgPy)
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-dedicates-dorothy-vaughan-center-to-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo
+- <a href="https://www.teslarati.com/spacex-dragon-splashdowns-get-new-destination/" >🔗</a> **[Teslarati]** SpaceX Dragon splashdowns get new destination
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/affordable-access-to-space/" >🔗</a> **[NASA]** Affordable Access to Space
 - <a href="https://www.nasa.gov/organizations/otps/2024-invention-of-the-year-winner/" >🔗</a> **[NASA]** 2024 Invention of the Year Winner – Thrust Chamber Liner and Fabrication Method
 - <a href="https://www.nasa.gov/image-article/ranger-7-snaps-the-moon/" >🔗</a> **[NASA]** Ranger 7 Snaps the Moon
 - <a href="https://www.nasa.gov/general/tech-today-remote-sensing-technology-fights-forest-fires/" >🔗</a> **[NASA]** Tech Today: Remote Sensing Technology Fights Forest Fires
 - <a href="https://spacenews.com/caci-secures-450-million-contract-to-support-u-s-space-commands-navigation-warfare-center/" >🔗</a> **[SpaceNews]** CACI secures $450 million contract to support U.S. Space Command’s navigation warfare center
 - <a href="https://spacenews.com/honoring-the-best-in-space-2024-spacenews-icon-awards-nominations-open/" >🔗</a> **[SpaceNews]** Honoring the Best in Space: 2024 SpaceNews Icon Awards Nominations Open
-- <a href="https://www.spacescout.info/2024/07/falcon-9-completes-rtf-resumes-cadence/" >🔗</a> **[Space Scout]** Falcon 9 Completes RTF, Resumes Cadence
-- <a href="https://www.esa.int/Space_Safety/Hera/Glimpses_of_Hera_s_target_asteroids_inspire_new_science" >🔗</a> **[ESA]** Glimpses of Hera’s target asteroids inspire new science
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-august-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2024 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/general/nasa-public-engagement-specialist-loves-to-inspire-kids-with-stem/" >🔗</a> **[NASA]** NASA Public Engagement Specialist Loves to Inspire Kids with STEM
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T193105">2024-07-31 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T200112">2024-07-31 20:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
