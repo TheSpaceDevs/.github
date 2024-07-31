@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/tech-today-remote-sensing-technology-fights-forest-fires/" >🔗</a> **[NASA]** Tech Today: Remote Sensing Technology Fights Forest Fires
 - <a href="https://spacenews.com/caci-secures-450-million-contract-to-support-u-s-space-commands-navigation-warfare-center/" >🔗</a> **[SpaceNews]** CACI secures $450 million contract to support U.S. Space Command’s navigation warfare center
 - <a href="https://spacenews.com/honoring-the-best-in-space-2024-spacenews-icon-awards-nominations-open/" >🔗</a> **[SpaceNews]** Honoring the Best in Space: 2024 SpaceNews Icon Awards Nominations Open
 - <a href="https://www.spacescout.info/2024/07/falcon-9-completes-rtf-resumes-cadence/" >🔗</a> **[Space Scout]** Falcon 9 Completes RTF, Resumes Cadence
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/chinas-space-pioneer-pushes-towards-launch-despite-static-fire-debacle/" >🔗</a> **[SpaceNews]** China’s Space Pioneer pushes towards launch despite static-fire debacle
 - <a href="https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/" >🔗</a> **[Arstechnica]** After years of leniency, ULA cracks down on hobbyist photographers
 - <a href="https://spacenews.com/growing-pains-for-smallsat-propulsion/" >🔗</a> **[SpaceNews]** Growing pains for smallsat propulsion
-- <a href="https://www.nasa.gov/general/nasas-first-ever-quantum-memory-made-at-glenn-research-center/" >🔗</a> **[NASA]** NASA’s First-Ever Quantum Memory Made at Glenn Research Center
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T170114">2024-07-31 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T173210">2024-07-31 17:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
