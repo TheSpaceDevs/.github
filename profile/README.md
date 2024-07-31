@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/otps/2024-invention-of-the-year-winner/" >🔗</a> **[NASA]** 2024 Invention of the Year Winner
 - <a href="https://www.nasa.gov/image-article/ranger-7-snaps-the-moon/" >🔗</a> **[NASA]** Ranger 7 Snaps the Moon
 - <a href="https://www.nasa.gov/general/tech-today-remote-sensing-technology-fights-forest-fires/" >🔗</a> **[NASA]** Tech Today: Remote Sensing Technology Fights Forest Fires
 - <a href="https://spacenews.com/caci-secures-450-million-contract-to-support-u-s-space-commands-navigation-warfare-center/" >🔗</a> **[SpaceNews]** CACI secures $450 million contract to support U.S. Space Command’s navigation warfare center
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-august-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2024 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/general/nasa-public-engagement-specialist-loves-to-inspire-kids-with-stem/" >🔗</a> **[NASA]** NASA Public Engagement Specialist Loves to Inspire Kids with STEM
 - <a href="https://spacenews.com/chinas-space-pioneer-pushes-towards-launch-despite-static-fire-debacle/" >🔗</a> **[SpaceNews]** China’s Space Pioneer pushes towards launch despite static-fire debacle
-- <a href="https://arstechnica.com/space/2024/07/ula-to-amateur-launch-photographers-work-for-me-but-not-for-thee/" >🔗</a> **[Arstechnica]** After years of leniency, ULA cracks down on hobbyist photographers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T180214">2024-07-31 18:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T183349">2024-07-31 18:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
