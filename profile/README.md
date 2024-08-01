@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Space_is_not_the_limit" >🔗</a> **[ESA]** Space is not the limit
+- <a href="https://spacenews.com/boeing-takes-additional-125-million-loss-on-starliner/" >🔗</a> **[SpaceNews]** Boeing takes additional $125 million loss on Starliner
 - <a href="https://science.nasa.gov/blogs/sols-4261-4262-drill-sol-1take-2/" >🔗</a> **[NASA]** Sols 4261-4262: Drill Sol 1…Take 2
 - <a href="https://spacenews.com/ascend-panel-cites-ai-challenges-and-promise/" >🔗</a> **[SpaceNews]** ASCEND panel cites AI challenges and promise
 - <a href="https://spacepolicyonline.com/news/boeing-takes-another-financial-hit-due-to-starliner/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Takes Another Financial Hit Due to Starliner
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/cooperative-blending-of-autonomous-landing-technology-cobalt/" >🔗</a> **[NASA]** Cooperative Blending of Autonomous Landing Technology (COBALT)
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/composite-cryotank-technologies-and-demonstration-cctd/" >🔗</a> **[NASA]** Composite Cryotank Technologies and Demonstration (CCTD)
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/" >🔗</a> **[NASA]** The Marshall Star for July 31, 2024
-- <a href="https://www.nasaspaceflight.com/2024/07/starship-7-30-24/" >🔗</a> **[NASASpaceflight]** Successful Static Fire Leads to Final Preparation Before Full Stack
-- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/autonomous-medical-operations-amo/" >🔗</a> **[NASA]** Autonomous Medical Operations (AMO)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T100122">2024-08-01 10:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T103341">2024-08-01 10:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
