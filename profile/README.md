@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-industry-considers-implications-of-harris-as-presidential-candidate/" >🔗</a> **[SpaceNews]** Space industry considers implications of Harris as presidential candidate
+- <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-successfully-conducts-2-fly-around-observations-of-space-debris" >🔗</a> **[The Launch Pad]** Astroscale ADRAS-J Successfully Conducts 2 Fly-Around Observations of Space Debris
+- <a href="https://spacenews.com/ses-searching-for-cost-savings-to-tackle-video-woes/" >🔗</a> **[SpaceNews]** SES searching for cost savings to tackle video woes
+- <a href="https://tlpnetwork.com/news/policy-and-finance/boeing-losses-125-million-amid-cst-100-starliner-program-delays" >🔗</a> **[The Launch Pad]** Boeing Losses $125 Million Amid CST-100 Starliner Program Delays
+- <a href="https://tlpnetwork.com/news/america/nasa-spacex-crew-9-mission-proceeding-amid-starliner-delays" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 9 Mission Proceeding Amid Starliner Delays
 - <a href="https://spacenews.com/sda-is-set-to-award-satellite-servicing-contracts/" >🔗</a> **[SpaceNews]** SDA is set to award satellite servicing contracts
 - <a href="https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares its SpaceX Crew-10 Assignments for Space Station Mission
 - <a href="https://tlpnetwork.com/news/america/nisar-satellite-delayed-to-2025-due-to-special-coating-work-and-orbital-constraints" >🔗</a> **[The Launch Pad]** NISAR Satellite Delayed To 2025 Due To Special Coating Work and Orbital Constraints
 - <a href="https://spaceflightnow.com/2024/08/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://tlpnetwork.com/news/in-space/classified-us-space-force-satellites-reach-geostationary-earth-orbit-completing-final-national-security-atlas-5-mission" >🔗</a> **[The Launch Pad]** Classified US Space Force Satellites Reach Geostationary Earth Orbit Completing Final National Security Atlas 5 Mission
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/exploring-deep-space-nasa-announces-2025-rasc-al-competition/" >🔗</a> **[NASA]** Exploring Deep Space: NASA Announces 2025 RASC-AL Competition
-- <a href="https://spacenews.com/japans-expanding-role-in-space-domain-awareness/" >🔗</a> **[SpaceNews]** Japan’s expanding role in space domain awareness
-- <a href="https://spacenews.com/claire-leon-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Claire Leon, U.S. Space Force Space Systems Integration Office director
-- <a href="https://www.nasa.gov/image-article/telfer-mine-western-australia/" >🔗</a> **[NASA]** Telfer Mine, Western Australia
-- <a href="https://arstechnica.com/space/2024/08/nasas-lunar-gateway-has-a-big-visiting-vehicles-problem/" >🔗</a> **[Arstechnica]** NASA’s Lunar Gateway has a big visiting vehicles problem
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T213057">2024-08-01 21:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T220117">2024-08-01 22:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
