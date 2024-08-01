@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/08/yes-nasa-really-could-bring-starliners-astronauts-back-on-crew-dragon/" >🔗</a> **[Arstechnica]** NASA says it is “evaluating all options” for the safe return of Starliner crew
+- <a href="https://tlpnetwork.com/news/america/scientists-propose-creation-of-lunar-noah-ark-to-preserve-dna-of-earths-endangered-species-and-plants" >🔗</a> **[The Launch Pad]** Scientists Propose Creation Of Lunar "Noah Ark' To Preserve DNA of Earth's Endangered Species and Plants
 - <a href="https://spacenews.com/space-industry-considers-implications-of-harris-as-presidential-candidate/" >🔗</a> **[SpaceNews]** Space industry considers implications of Harris as presidential candidate
 - <a href="https://tlpnetwork.com/news/america/meet-the-crew-nasa-spacex-crew-10-announced" >🔗</a> **[The Launch Pad]** Meet The Crew! NASA SpaceX Crew 10 Announced
 - <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-successfully-conducts-2-fly-around-observations-of-space-debris" >🔗</a> **[The Launch Pad]** Astroscale ADRAS-J Successfully Conducts 2 Fly-Around Observations of Space Debris
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-spacex-crew-9-mission-proceeding-amid-starliner-delays" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 9 Mission Proceeding Amid Starliner Delays
 - <a href="https://spacenews.com/sda-is-set-to-award-satellite-servicing-contracts/" >🔗</a> **[SpaceNews]** SDA is set to award satellite servicing contracts
 - <a href="https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares its SpaceX Crew-10 Assignments for Space Station Mission
-- <a href="https://tlpnetwork.com/news/america/nisar-satellite-delayed-to-2025-due-to-special-coating-work-and-orbital-constraints" >🔗</a> **[The Launch Pad]** NISAR Satellite Delayed To 2025 Due To Special Coating Work and Orbital Constraints
-- <a href="https://spaceflightnow.com/2024/08/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T230106">2024-08-01 23:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T233102">2024-08-01 23:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
