@@ -93,6 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Galaxy_Zoo_help_us_classify_the_shapes_of_galaxies" >🔗</a> **[ESA]** Euclid Galaxy Zoo – help us classify the shapes of galaxies
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Omega_Subscription-based_space_mobility_service_gets_a_boost" >🔗</a> **[ESA]** Omega: Subscription-based space mobility service gets a boost
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Space_propulsion-as-a-service_gets_a_Boost" >🔗</a> **[ESA]** Space propulsion-as-a-service gets a Boost!
 - <a href="https://spacenews.com/booz-allen-deploys-advanced-language-model-in-space/" >🔗</a> **[SpaceNews]** Booz Allen deploys advanced language model in space
 - <a href="https://spacenews.com/connecting-the-dots-avoiding-space-explosions/" >🔗</a> **[SpaceNews]** Connecting the Dots: Avoiding space explosions
 - <a href="https://europeanspaceflight.com/dawn-aerospace-introduces-on-orbit-docking-and-refueling-system/" >🔗</a> **[European Spaceflight]** Dawn Aerospace Introduces On-Orbit Docking and Refueling System
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/vast-offers-microgravity-lab-space-on-haven-1-station/" >🔗</a> **[SpaceNews]** Vast offers microgravity lab space on Haven-1 station
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Space_is_not_the_limit" >🔗</a> **[ESA]** Space is not the limit
 - <a href="https://spacenews.com/boeing-takes-additional-125-million-loss-on-starliner/" >🔗</a> **[SpaceNews]** Boeing takes additional $125 million loss on Starliner
-- <a href="https://science.nasa.gov/blogs/sols-4261-4262-drill-sol-1take-2/" >🔗</a> **[NASA]** Sols 4261-4262: Drill Sol 1…Take 2
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T133057">2024-08-01 13:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T140120">2024-08-01 14:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
