@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ascend-panel-cites-ai-challenges-and-promise/" >🔗</a> **[SpaceNews]** ASCEND panel cites AI challenges and promise
 - <a href="https://spacepolicyonline.com/news/boeing-takes-another-financial-hit-due-to-starliner/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Takes Another Financial Hit Due to Starliner
 - <a href="https://www.nasa.gov/directorates/armd/aosp/sws/about-system-wide-safety/" >🔗</a> **[NASA]** System-Wide Safety Project Description
 - <a href="https://www.nasa.gov/directorates/armd/aosp/sws/sws-project-leadership/" >🔗</a> **[NASA]** System-Wide Safety Project Leadership
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2024/07/starship-7-30-24/" >🔗</a> **[NASASpaceflight]** Successful Static Fire Leads to Final Preparation Before Full Stack
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/autonomous-medical-operations-amo/" >🔗</a> **[NASA]** Autonomous Medical Operations (AMO)
 - <a href="https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/" >🔗</a> **[NASA]** A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan
-- <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/" >🔗</a> **[NASA]** 2024 Software of the Year Co-Winner – Orbital Debris Engineering Model (ORDEM)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T050107">2024-08-01 05:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T053143">2024-08-01 05:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
