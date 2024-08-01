@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/claire-leon-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Claire Leon, United States Space Force – Leading Women in Space
+- <a href="https://www.nasa.gov/image-article/telfer-mine-western-australia/" >🔗</a> **[NASA]** Telfer Mine, Western Australia
 - <a href="https://arstechnica.com/space/2024/08/nasas-lunar-gateway-has-a-big-visiting-vehicles-problem/" >🔗</a> **[Arstechnica]** NASA’s Lunar Gateway has a big visiting vehicles problem
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/" >🔗</a> **[NASA]** NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers
 - <a href="https://spacenews.com/ursa-major-names-former-maxar-ceo-as-its-new-chief-executive/" >🔗</a> **[SpaceNews]** Ursa Major names former Maxar CEO as its new chief executive
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/has-the-inaugural-callisto-test-flight-slipped-to-2026/" >🔗</a> **[European Spaceflight]** Has the Inaugural Callisto Test Flight Slipped to 2026?
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Space_propulsion-as-a-service_gets_a_Boost" >🔗</a> **[ESA]** Space propulsion-as-a-service gets a Boost!
 - <a href="https://spacenews.com/booz-allen-deploys-advanced-language-model-in-space/" >🔗</a> **[SpaceNews]** Booz Allen deploys advanced language model in space
-- <a href="https://spacenews.com/connecting-the-dots-avoiding-space-explosions/" >🔗</a> **[SpaceNews]** Connecting the Dots: Avoiding space explosions
-- <a href="https://europeanspaceflight.com/dawn-aerospace-introduces-on-orbit-docking-and-refueling-system/" >🔗</a> **[European Spaceflight]** Dawn Aerospace Introduces On-Orbit Docking and Refueling System
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T170122">2024-08-01 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T173131">2024-08-01 17:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
