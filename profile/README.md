@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-industry-considers-implications-of-harris-as-presidential-candidate/" >🔗</a> **[SpaceNews]** Space industry considers implications of Harris as presidential candidate
+- <a href="https://tlpnetwork.com/news/america/meet-the-crew-nasa-spacex-crew-10-announced" >🔗</a> **[The Launch Pad]** Meet The Crew! NASA SpaceX Crew 10 Announced
 - <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-successfully-conducts-2-fly-around-observations-of-space-debris" >🔗</a> **[The Launch Pad]** Astroscale ADRAS-J Successfully Conducts 2 Fly-Around Observations of Space Debris
 - <a href="https://spacenews.com/ses-searching-for-cost-savings-to-tackle-video-woes/" >🔗</a> **[SpaceNews]** SES searching for cost savings to tackle video woes
 - <a href="https://tlpnetwork.com/news/policy-and-finance/boeing-losses-125-million-amid-cst-100-starliner-program-delays" >🔗</a> **[The Launch Pad]** Boeing Losses $125 Million Amid CST-100 Starliner Program Delays
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares its SpaceX Crew-10 Assignments for Space Station Mission
 - <a href="https://tlpnetwork.com/news/america/nisar-satellite-delayed-to-2025-due-to-special-coating-work-and-orbital-constraints" >🔗</a> **[The Launch Pad]** NISAR Satellite Delayed To 2025 Due To Special Coating Work and Orbital Constraints
 - <a href="https://spaceflightnow.com/2024/08/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://tlpnetwork.com/news/in-space/classified-us-space-force-satellites-reach-geostationary-earth-orbit-completing-final-national-security-atlas-5-mission" >🔗</a> **[The Launch Pad]** Classified US Space Force Satellites Reach Geostationary Earth Orbit Completing Final National Security Atlas 5 Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T220117">2024-08-01 22:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T223139">2024-08-01 22:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
