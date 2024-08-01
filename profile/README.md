@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aosp/sws/about-system-wide-safety/" >🔗</a> **[NASA]** System-Wide Safety Project Description
+- <a href="https://www.nasa.gov/directorates/armd/aosp/sws/sws-project-leadership/" >🔗</a> **[NASA]** System-Wide Safety Project Leadership
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/cooperative-blending-of-autonomous-landing-technology-cobalt/" >🔗</a> **[NASA]** Cooperative Blending of Autonomous Landing Technology (COBALT)
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/composite-cryotank-technologies-and-demonstration-cctd/" >🔗</a> **[NASA]** Composite Cryotank Technologies and Demonstration (CCTD)
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/" >🔗</a> **[NASA]** The Marshall Star for July 31, 2024
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/" >🔗</a> **[NASA]** A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan
 - <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/" >🔗</a> **[NASA]** 2024 Software of the Year Co-Winner – Orbital Debris Engineering Model (ORDEM)
 - <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/" >🔗</a> **[NASA]** 2024 Software of the Year Award Co-Winner -Prognostics Python Packages (ProgPy)
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-dedicates-dorothy-vaughan-center-to-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo
-- <a href="https://www.teslarati.com/spacex-dragon-splashdowns-get-new-destination/" >🔗</a> **[Teslarati]** SpaceX Dragon splashdowns get new destination
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T000420">2024-08-01 00:04:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T004522">2024-08-01 00:45:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
