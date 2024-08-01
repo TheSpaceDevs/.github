@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sda-is-set-to-award-satellite-servicing-contracts/" >🔗</a> **[SpaceNews]** SDA is set to award satellite servicing contracts
+- <a href="https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares its SpaceX Crew-10 Assignments for Space Station Mission
+- <a href="https://tlpnetwork.com/news/america/nisar-satellite-delayed-to-2025-due-to-special-coating-work-and-orbital-constraints" >🔗</a> **[The Launch Pad]** NISAR Satellite Delayed To 2025 Due To Special Coating Work and Orbital Constraints
+- <a href="https://spaceflightnow.com/2024/08/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://tlpnetwork.com/news/in-space/classified-us-space-force-satellites-reach-geostationary-earth-orbit-completing-final-national-security-atlas-5-mission" >🔗</a> **[The Launch Pad]** Classified US Space Force Satellites Reach Geostationary Earth Orbit Completing Final National Security Atlas 5 Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/exploring-deep-space-nasa-announces-2025-rasc-al-competition/" >🔗</a> **[NASA]** Exploring Deep Space: NASA Announces 2025 RASC-AL Competition
 - <a href="https://spacenews.com/japans-expanding-role-in-space-domain-awareness/" >🔗</a> **[SpaceNews]** Japan’s expanding role in space domain awareness
 - <a href="https://spacenews.com/claire-leon-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Claire Leon, U.S. Space Force Space Systems Integration Office director
 - <a href="https://www.nasa.gov/image-article/telfer-mine-western-australia/" >🔗</a> **[NASA]** Telfer Mine, Western Australia
 - <a href="https://arstechnica.com/space/2024/08/nasas-lunar-gateway-has-a-big-visiting-vehicles-problem/" >🔗</a> **[Arstechnica]** NASA’s Lunar Gateway has a big visiting vehicles problem
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/" >🔗</a> **[NASA]** NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers
-- <a href="https://spacenews.com/ursa-major-names-former-maxar-ceo-as-its-new-chief-executive/" >🔗</a> **[SpaceNews]** Ursa Major names former Maxar CEO as its new chief executive
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Galaxy_Zoo_help_us_classify_the_shapes_of_galaxies" >🔗</a> **[ESA]** Euclid Galaxy Zoo – help us classify the shapes of galaxies
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Omega_Subscription-based_space_mobility_service_gets_a_boost" >🔗</a> **[ESA]** Omega: Subscription-based space mobility service gets a boost
-- <a href="https://europeanspaceflight.com/has-the-inaugural-callisto-test-flight-slipped-to-2026/" >🔗</a> **[European Spaceflight]** Has the Inaugural Callisto Test Flight Slipped to 2026?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T203106">2024-08-01 20:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T210113">2024-08-01 21:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
