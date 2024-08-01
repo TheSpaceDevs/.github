@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dawn-unveils-docking-and-refueling-port/" >🔗</a> **[SpaceNews]** Dawn unveils docking and refueling port
+- <a href="https://spacenews.com/vast-offers-microgravity-lab-space-on-haven-1-station/" >🔗</a> **[SpaceNews]** Vast offers microgravity lab space on Haven-1 station
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Space_is_not_the_limit" >🔗</a> **[ESA]** Space is not the limit
 - <a href="https://spacenews.com/boeing-takes-additional-125-million-loss-on-starliner/" >🔗</a> **[SpaceNews]** Boeing takes additional $125 million loss on Starliner
 - <a href="https://science.nasa.gov/blogs/sols-4261-4262-drill-sol-1take-2/" >🔗</a> **[NASA]** Sols 4261-4262: Drill Sol 1…Take 2
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/armd/aosp/sws/about-system-wide-safety/" >🔗</a> **[NASA]** System-Wide Safety Project Description
 - <a href="https://www.nasa.gov/directorates/armd/aosp/sws/sws-project-leadership/" >🔗</a> **[NASA]** System-Wide Safety Project Leadership
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/cooperative-blending-of-autonomous-landing-technology-cobalt/" >🔗</a> **[NASA]** Cooperative Blending of Autonomous Landing Technology (COBALT)
-- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/composite-cryotank-technologies-and-demonstration-cctd/" >🔗</a> **[NASA]** Composite Cryotank Technologies and Demonstration (CCTD)
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/" >🔗</a> **[NASA]** The Marshall Star for July 31, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T113057">2024-08-01 11:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T120138">2024-08-01 12:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
