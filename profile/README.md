@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/" >🔗</a> **[NASA]** NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers
+- <a href="https://spacenews.com/ursa-major-names-former-maxar-ceo-as-its-new-chief-executive/" >🔗</a> **[SpaceNews]** Ursa Major names former Maxar CEO as its new chief executive
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Galaxy_Zoo_help_us_classify_the_shapes_of_galaxies" >🔗</a> **[ESA]** Euclid Galaxy Zoo – help us classify the shapes of galaxies
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Omega_Subscription-based_space_mobility_service_gets_a_boost" >🔗</a> **[ESA]** Omega: Subscription-based space mobility service gets a boost
 - <a href="https://europeanspaceflight.com/has-the-inaugural-callisto-test-flight-slipped-to-2026/" >🔗</a> **[European Spaceflight]** Has the Inaugural Callisto Test Flight Slipped to 2026?
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/connecting-the-dots-avoiding-space-explosions/" >🔗</a> **[SpaceNews]** Connecting the Dots: Avoiding space explosions
 - <a href="https://europeanspaceflight.com/dawn-aerospace-introduces-on-orbit-docking-and-refueling-system/" >🔗</a> **[European Spaceflight]** Dawn Aerospace Introduces On-Orbit Docking and Refueling System
 - <a href="https://spacenews.com/dawn-unveils-docking-and-refueling-port/" >🔗</a> **[SpaceNews]** Dawn unveils docking and refueling port
-- <a href="https://spacenews.com/vast-offers-microgravity-lab-space-on-haven-1-station/" >🔗</a> **[SpaceNews]** Vast offers microgravity lab space on Haven-1 station
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Space_is_not_the_limit" >🔗</a> **[ESA]** Space is not the limit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T150109">2024-08-01 15:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T153056">2024-08-01 15:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
