@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/dawn-aerospace-introduces-on-orbit-docking-and-refueling-system/" >🔗</a> **[European Spaceflight]** Dawn Aerospace Introduces On-Orbit Docking and Refueling System
 - <a href="https://spacenews.com/dawn-unveils-docking-and-refueling-port/" >🔗</a> **[SpaceNews]** Dawn unveils docking and refueling port
 - <a href="https://spacenews.com/vast-offers-microgravity-lab-space-on-haven-1-station/" >🔗</a> **[SpaceNews]** Vast offers microgravity lab space on Haven-1 station
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Space_is_not_the_limit" >🔗</a> **[ESA]** Space is not the limit
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/boeing-takes-another-financial-hit-due-to-starliner/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Takes Another Financial Hit Due to Starliner
 - <a href="https://www.nasa.gov/directorates/armd/aosp/sws/about-system-wide-safety/" >🔗</a> **[NASA]** System-Wide Safety Project Description
 - <a href="https://www.nasa.gov/directorates/armd/aosp/sws/sws-project-leadership/" >🔗</a> **[NASA]** System-Wide Safety Project Leadership
-- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/cooperative-blending-of-autonomous-landing-technology-cobalt/" >🔗</a> **[NASA]** Cooperative Blending of Autonomous Landing Technology (COBALT)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T120138">2024-08-01 12:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T124114">2024-08-01 12:41:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
