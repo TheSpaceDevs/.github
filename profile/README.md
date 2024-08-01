@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/exploring-deep-space-nasa-announces-2025-rasc-al-competition/" >🔗</a> **[NASA]** Exploring Deep Space: NASA Announces 2025 RASC-AL Competition
+- <a href="https://spacenews.com/japans-expanding-role-in-space-domain-awareness/" >🔗</a> **[SpaceNews]** Japan’s expanding role in space domain awareness
 - <a href="https://spacenews.com/claire-leon-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Claire Leon, United States Space Force – Leading Women in Space
 - <a href="https://www.nasa.gov/image-article/telfer-mine-western-australia/" >🔗</a> **[NASA]** Telfer Mine, Western Australia
 - <a href="https://arstechnica.com/space/2024/08/nasas-lunar-gateway-has-a-big-visiting-vehicles-problem/" >🔗</a> **[Arstechnica]** NASA’s Lunar Gateway has a big visiting vehicles problem
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Galaxy_Zoo_help_us_classify_the_shapes_of_galaxies" >🔗</a> **[ESA]** Euclid Galaxy Zoo – help us classify the shapes of galaxies
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Omega_Subscription-based_space_mobility_service_gets_a_boost" >🔗</a> **[ESA]** Omega: Subscription-based space mobility service gets a boost
 - <a href="https://europeanspaceflight.com/has-the-inaugural-callisto-test-flight-slipped-to-2026/" >🔗</a> **[European Spaceflight]** Has the Inaugural Callisto Test Flight Slipped to 2026?
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Space_propulsion-as-a-service_gets_a_Boost" >🔗</a> **[ESA]** Space propulsion-as-a-service gets a Boost!
-- <a href="https://spacenews.com/booz-allen-deploys-advanced-language-model-in-space/" >🔗</a> **[SpaceNews]** Booz Allen deploys advanced language model in space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T180129">2024-08-01 18:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T183345">2024-08-01 18:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
