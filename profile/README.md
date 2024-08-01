@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/cooperative-blending-of-autonomous-landing-technology-cobalt/" >🔗</a> **[NASA]** Cooperative Blending of Autonomous Landing Technology (COBALT)
+- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/composite-cryotank-technologies-and-demonstration-cctd/" >🔗</a> **[NASA]** Composite Cryotank Technologies and Demonstration (CCTD)
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/" >🔗</a> **[NASA]** The Marshall Star for July 31, 2024
 - <a href="https://www.nasaspaceflight.com/2024/07/starship-7-30-24/" >🔗</a> **[NASASpaceflight]** Successful Static Fire Leads to Final Preparation Before Full Stack
 - <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/autonomous-medical-operations-amo/" >🔗</a> **[NASA]** Autonomous Medical Operations (AMO)
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/" >🔗</a> **[NASA]** 2024 Software of the Year Award Co-Winner -Prognostics Python Packages (ProgPy)
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-dedicates-dorothy-vaughan-center-to-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo
 - <a href="https://www.teslarati.com/spacex-dragon-splashdowns-get-new-destination/" >🔗</a> **[Teslarati]** SpaceX Dragon splashdowns get new destination
-- <a href="https://www.nasa.gov/directorates/stmd/game-changing-development-program/affordable-access-to-space/" >🔗</a> **[NASA]** Affordable Access to Space
-- <a href="https://www.nasa.gov/organizations/otps/2024-invention-of-the-year-winner/" >🔗</a> **[NASA]** 2024 Invention of the Year Winner – Thrust Chamber Liner and Fabrication Method
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240731T233102">2024-07-31 23:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T000420">2024-08-01 00:04:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
