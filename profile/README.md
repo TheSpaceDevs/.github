@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/exploring-deep-space-nasa-announces-2025-rasc-al-competition/" >🔗</a> **[NASA]** Exploring Deep Space: NASA Announces 2025 RASC-AL Competition
 - <a href="https://spacenews.com/japans-expanding-role-in-space-domain-awareness/" >🔗</a> **[SpaceNews]** Japan’s expanding role in space domain awareness
-- <a href="https://spacenews.com/claire-leon-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Claire Leon, United States Space Force – Leading Women in Space
+- <a href="https://spacenews.com/claire-leon-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Claire Leon, U.S. Space Force Space Systems Integration Office director
 - <a href="https://www.nasa.gov/image-article/telfer-mine-western-australia/" >🔗</a> **[NASA]** Telfer Mine, Western Australia
 - <a href="https://arstechnica.com/space/2024/08/nasas-lunar-gateway-has-a-big-visiting-vehicles-problem/" >🔗</a> **[Arstechnica]** NASA’s Lunar Gateway has a big visiting vehicles problem
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/" >🔗</a> **[NASA]** NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T190106">2024-08-01 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240801T193115">2024-08-01 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
