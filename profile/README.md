@@ -20,7 +20,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Cygnus CRS-2 NG-21**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T152832">2024-08-03 15:28:32 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-21&location=Cape Canaveral, FL, USA&dates=20240803T152832Z%2F20240803T152832Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-21** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T152832">2024-08-03 15:28:32 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)&location=Cape Canaveral, FL, USA&dates=20240803T152832Z%2F20240803T152832Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T070000">2024-08-04 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-1&location=Vandenberg SFB, CA, USA&dates=20240804T070000Z%2F20240804T113100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T065100">2024-08-06 06:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240806T065100Z%2F20240806T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T125900">2024-08-07 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240807T125900Z%2F20240807T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/celebrating-nasas-coast-guard-astronauts-on-coast-guard-day/" >🔗</a> **[NASA]** Celebrating NASA’s Coast Guard Astronauts on Coast Guard Day
+- <a href="https://www.nasa.gov/general/nasa-ames-to-host-supercomputing-resources-for-uc-berkeley-researchers/" >🔗</a> **[NASA]** NASA Ames to Host Supercomputing Resources for UC Berkeley Researchers
 - <a href="https://spaceflightnow.com/2024/08/02/rocket-lab-to-launch-5th-mission-for-japanese-earth-observation-company-synspective/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch 5th mission for Japanese Earth observation company, Synspective
 - <a href="https://www.nasa.gov/history/messenger-from-setbacks-to-success/" >🔗</a> **[NASA]** MESSENGER – From Setbacks to Success
 - <a href="https://www.cnbc.com/2024/08/02/nasa-may-return-starliner-astronauts-on-boeing-or-spacex.html" >🔗</a> **[CNBC]** NASA weighs Boeing vs. SpaceX choice in bringing back Starliner astronauts
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/umbra-ventures-into-custom-satellite-manufacturing/" >🔗</a> **[SpaceNews]** Umbra ventures into custom satellite manufacturing
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-scientists-on-why-we-might-not-spot-solar-panel-technosignatures/" >🔗</a> **[NASA]** NASA Scientists on Why We Might Not Spot Solar Panel Technosignatures
 - <a href="https://www.nasa.gov/image-article/systems-engineer-douglas-wong/" >🔗</a> **[NASA]** Systems Engineer Douglas Wong
-- <a href="https://europeanspaceflight.com/arianespace-announce-sept-3-launch-date-for-final-vega-flight/" >🔗</a> **[European Spaceflight]** Arianespace Announce Sept. 3 Launch Date for Final Vega Flight
-- <a href="https://spacenews.com/foust-forward-mind-the-launch-gap/" >🔗</a> **[SpaceNews]** Foust Forward: Mind the launch gap
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T173108">2024-08-02 17:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T180124">2024-08-02 18:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
