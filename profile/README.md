@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/messenger-from-setbacks-to-success/" >🔗</a> **[NASA]** MESSENGER – From Setbacks to Success
+- <a href="https://www.cnbc.com/2024/08/02/nasa-may-return-starliner-astronauts-on-boeing-or-spacex.html" >🔗</a> **[CNBC]** NASA weighs Boeing vs. SpaceX choice in bringing back Starliner astronauts
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_July_-_02_August_2024" >🔗</a> **[ESA]** Week in images: 29 July - 02 August 2024
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-attend-deep-space-food-challenge-finale/" >🔗</a> **[NASA]** NASA Invites Media, Public to Attend Deep Space Food Challenge Finale
 - <a href="https://spacenews.com/umbra-ventures-into-custom-satellite-manufacturing/" >🔗</a> **[SpaceNews]** Umbra ventures into custom satellite manufacturing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianespace-announce-sept-3-launch-date-for-final-vega-flight/" >🔗</a> **[European Spaceflight]** Arianespace Announce Sept. 3 Launch Date for Final Vega Flight
 - <a href="https://spacenews.com/foust-forward-mind-the-launch-gap/" >🔗</a> **[SpaceNews]** Foust Forward: Mind the launch gap
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-diminutive-galaxy/" >🔗</a> **[NASA]** Hubble Spies a Diminutive Galaxy
-- <a href="https://spacenews.com/nasa-to-soon-resume-awards-of-lunar-lander-missions/" >🔗</a> **[SpaceNews]** NASA to soon resume awards of lunar lander missions
-- <a href="https://spacenews.com/china-launches-second-secretive-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches second secretive high orbit internet satellite
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T153055">2024-08-02 15:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T160140">2024-08-02 16:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
