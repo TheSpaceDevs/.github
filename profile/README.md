@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/08/poland-hungary-and-india-join-next-axiom-crew/" >🔗</a> **[Space Scout]** Poland, Hungary, and India Join Next Axiom Crew
 - <a href="https://spacenews.com/u-s-air-force-awards-14-9-million-contract-to-capella-space-for-radar-imaging/" >🔗</a> **[SpaceNews]** U.S. Air Force awards $14.9 million contract to Capella Space for radar imaging
 - <a href="https://spacenews.com/kvh-industries-leans-on-maritime-connectivity-competitor-starlink-for-growth/" >🔗</a> **[SpaceNews]** KVH Industries leans on maritime connectivity competitor Starlink for growth
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-arrives-at-kennedy/" >🔗</a> **[NASA]** Artemis II Core Stage Arrives at Kennedy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/02/rocket-lab-to-launch-5th-mission-for-japanese-earth-observation-company-synspective/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch 5th mission for Japanese Earth observation company, Synspective
 - <a href="https://www.nasa.gov/history/messenger-from-setbacks-to-success/" >🔗</a> **[NASA]** MESSENGER – From Setbacks to Success
 - <a href="https://www.cnbc.com/2024/08/02/nasa-may-return-starliner-astronauts-on-boeing-or-spacex.html" >🔗</a> **[CNBC]** NASA weighs Boeing vs. SpaceX choice in bringing back Starliner astronauts
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_July_-_02_August_2024" >🔗</a> **[ESA]** Week in images: 29 July - 02 August 2024
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T193058">2024-08-02 19:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T200125">2024-08-02 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
