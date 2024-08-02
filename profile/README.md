@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-retaining-plans-to-select-a-single-artemis-lunar-rover/" >🔗</a> **[SpaceNews]** NASA retaining plans to select a single Artemis lunar rover
+- <a href="https://tlpnetwork.com/news/in-space/gao-reports-nasa-lunar-gateway-may-have-stack-controllability-issue-with-starship" >🔗</a> **[The Launch Pad]** GAO Reports NASA’s Lunar Gateway May Have "Stack Controllability." Issue With Starship
 - <a href="https://spacenews.com/rocket-lab-launches-fifth-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches fifth Synspective satellite
 - <a href="https://tlpnetwork.com/news/america/spacex-announces-dragon-recovery-operations-moving-to-us-west-coast" >🔗</a> **[The Launch Pad]** SpaceX Announces Dragon Recovery Operations Moving To US West Coast
 - <a href="https://tlpnetwork.com/news/america/nordspace-announces-new-spaceport-canada-and-investment" >🔗</a> **[The Launch Pad]** NordSpace Announces New Spaceport Canada and $5M Investment
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-air-force-awards-14-9-million-contract-to-capella-space-for-radar-imaging/" >🔗</a> **[SpaceNews]** U.S. Air Force awards $14.9 million contract to Capella Space for radar imaging
 - <a href="https://spacenews.com/kvh-industries-leans-on-maritime-connectivity-competitor-starlink-for-growth/" >🔗</a> **[SpaceNews]** KVH Industries leans on maritime connectivity competitor Starlink for growth
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-arrives-at-kennedy/" >🔗</a> **[NASA]** Artemis II Core Stage Arrives at Kennedy
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/there-are-no-imaginary-boundaries-for-dr-ariadna-farres-basiana/" >🔗</a> **[NASA]** There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana
-- <a href="https://www.nasa.gov/history/celebrating-nasas-coast-guard-astronauts-on-coast-guard-day/" >🔗</a> **[NASA]** Celebrating NASA’s Coast Guard Astronauts on Coast Guard Day
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T213059">2024-08-02 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T220124">2024-08-02 22:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
