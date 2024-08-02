@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-confirms-first-mission-possible-customer/" >🔗</a> **[European Spaceflight]** The Exploration Company Confirms First Mission Possible Customer
 - <a href="https://spacenews.com/pentagon-advisory-panel-urges-integration-of-commercial-space-tech-for-military-use/" >🔗</a> **[SpaceNews]** Pentagon advisory panel urges integration of commercial space tech for military use
 - <a href="https://arstechnica.com/space/2024/08/yes-nasa-really-could-bring-starliners-astronauts-back-on-crew-dragon/" >🔗</a> **[Arstechnica]** NASA says it is “evaluating all options” for the safe return of Starliner crew
 - <a href="https://tlpnetwork.com/news/america/scientists-propose-creation-of-lunar-noah-ark-to-preserve-dna-of-earths-endangered-species-and-plants" >🔗</a> **[The Launch Pad]** Scientists Propose Creation Of Lunar "Noah Ark' To Preserve DNA of Earth's Endangered Species and Plants
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ses-searching-for-cost-savings-to-tackle-video-woes/" >🔗</a> **[SpaceNews]** SES searching for cost savings to tackle video woes
 - <a href="https://tlpnetwork.com/news/policy-and-finance/boeing-losses-125-million-amid-cst-100-starliner-program-delays" >🔗</a> **[The Launch Pad]** Boeing Losses $125 Million Amid CST-100 Starliner Program Delays
 - <a href="https://tlpnetwork.com/news/america/nasa-spacex-crew-9-mission-proceeding-amid-starliner-delays" >🔗</a> **[The Launch Pad]** NASA SpaceX Crew 9 Mission Proceeding Amid Starliner Delays
-- <a href="https://spacenews.com/sda-is-set-to-award-satellite-servicing-contracts/" >🔗</a> **[SpaceNews]** SDA is set to award satellite servicing contracts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T080126">2024-08-02 08:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T083325">2024-08-02 08:33:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
