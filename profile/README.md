@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_July_-_02_August_2024" >🔗</a> **[ESA]** Week in images: 29 July - 02 August 2024
+- <a href="https://spacenews.com/foust-forward-mind-the-launch-gap/" >🔗</a> **[SpaceNews]** Foust Forward: Mind the launch gap
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-diminutive-galaxy/" >🔗</a> **[NASA]** Hubble Spies a Diminutive Galaxy
 - <a href="https://spacenews.com/nasa-to-soon-resume-awards-of-lunar-lander-missions/" >🔗</a> **[SpaceNews]** NASA to soon resume awards of lunar lander missions
 - <a href="https://spacenews.com/china-launches-second-secretive-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches second secretive high orbit internet satellite
-- <a href="https://europeanspaceflight.com/the-exploration-company-confirms-first-mission-possible-customer/" >🔗</a> **[European Spaceflight]** The Exploration Company Confirms First Mission Possible Customer
+- <a href="https://europeanspaceflight.com/the-exploration-company-confirms-first-mission-possible-customer/" >🔗</a> **[European Spaceflight]** The Exploration Company Confirms Mission Possible Sold Out
 - <a href="https://spacenews.com/pentagon-advisory-panel-urges-integration-of-commercial-space-tech-for-military-use/" >🔗</a> **[SpaceNews]** Pentagon advisory panel urges integration of commercial space tech for military use
 - <a href="https://arstechnica.com/space/2024/08/yes-nasa-really-could-bring-starliners-astronauts-back-on-crew-dragon/" >🔗</a> **[Arstechnica]** NASA says it is “evaluating all options” for the safe return of Starliner crew
 - <a href="https://tlpnetwork.com/news/america/scientists-propose-creation-of-lunar-noah-ark-to-preserve-dna-of-earths-endangered-species-and-plants" >🔗</a> **[The Launch Pad]** Scientists Propose Creation Of Lunar "Noah Ark' To Preserve DNA of Earth's Endangered Species and Plants
 - <a href="https://spacenews.com/space-industry-considers-implications-of-harris-as-presidential-candidate/" >🔗</a> **[SpaceNews]** Space industry considers implications of Harris as presidential candidate
-- <a href="https://tlpnetwork.com/news/america/meet-the-crew-nasa-spacex-crew-10-announced" >🔗</a> **[The Launch Pad]** Meet The Crew! NASA SpaceX Crew 10 Announced
-- <a href="https://tlpnetwork.com/news/in-space/astroscale-adras-j-successfully-conducts-2-fly-around-observations-of-space-debris" >🔗</a> **[The Launch Pad]** Astroscale ADRAS-J Successfully Conducts 2 Fly-Around Observations of Space Debris
-- <a href="https://spacenews.com/ses-searching-for-cost-savings-to-tackle-video-woes/" >🔗</a> **[SpaceNews]** SES searching for cost savings to tackle video woes
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T130320">2024-08-02 13:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T133101">2024-08-02 13:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
