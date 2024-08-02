@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_July_-_02_August_2024" >🔗</a> **[ESA]** Week in images: 29 July - 02 August 2024
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-attend-deep-space-food-challenge-finale/" >🔗</a> **[NASA]** NASA Invites Media, Public to Attend Deep Space Food Challenge Finale
+- <a href="https://spacenews.com/umbra-ventures-into-custom-satellite-manufacturing/" >🔗</a> **[SpaceNews]** Umbra ventures into custom satellite manufacturing
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-scientists-on-why-we-might-not-spot-solar-panel-technosignatures/" >🔗</a> **[NASA]** NASA Scientists on Why We Might Not Spot Solar Panel Technosignatures
 - <a href="https://www.nasa.gov/image-article/systems-engineer-douglas-wong/" >🔗</a> **[NASA]** Systems Engineer Douglas Wong
 - <a href="https://europeanspaceflight.com/arianespace-announce-sept-3-launch-date-for-final-vega-flight/" >🔗</a> **[European Spaceflight]** Arianespace Announce Sept. 3 Launch Date for Final Vega Flight
 - <a href="https://spacenews.com/foust-forward-mind-the-launch-gap/" >🔗</a> **[SpaceNews]** Foust Forward: Mind the launch gap
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-diminutive-galaxy/" >🔗</a> **[NASA]** Hubble Spies a Diminutive Galaxy
 - <a href="https://spacenews.com/nasa-to-soon-resume-awards-of-lunar-lander-missions/" >🔗</a> **[SpaceNews]** NASA to soon resume awards of lunar lander missions
 - <a href="https://spacenews.com/china-launches-second-secretive-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches second secretive high orbit internet satellite
-- <a href="https://europeanspaceflight.com/the-exploration-company-confirms-first-mission-possible-customer/" >🔗</a> **[European Spaceflight]** The Exploration Company Confirms Mission Possible Sold Out
-- <a href="https://spacenews.com/pentagon-advisory-panel-urges-integration-of-commercial-space-tech-for-military-use/" >🔗</a> **[SpaceNews]** Pentagon advisory panel urges integration of commercial space tech for military use
-- <a href="https://arstechnica.com/space/2024/08/yes-nasa-really-could-bring-starliners-astronauts-back-on-crew-dragon/" >🔗</a> **[Arstechnica]** NASA says it is “evaluating all options” for the safe return of Starliner crew
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T150120">2024-08-02 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240802T153055">2024-08-02 15:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
