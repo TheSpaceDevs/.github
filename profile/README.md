@@ -105,6 +105,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Northrop Grumman Cygnus spacecraft to the International Space Station on Falcon 9 rocket
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
 - <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
 - <a href="https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/" >🔗</a> **[NASA]** Repair Kit for NASA’s NICER Mission Heading to Space Station
@@ -116,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T060127">2024-08-03 06:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T063403">2024-08-03 06:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
