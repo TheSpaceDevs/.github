@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Northrop Grumman Cygnus spacecraft to the International Space Station on Falcon 9 rocket
+- <a href="https://tlpnetwork.com/news/america/rocket-lab-successfully-launches-fifth-radar-imaging-satellite-for-synspective" >🔗</a> **[The Launch Pad]** Rocket Lab Successfully Launches Fifth Radar Imaging Satellite for Synspective
+- <a href="https://tlpnetwork.com/news/america/capella-space-secures-sar-services-contract-from-us-air-force-research-laboratory" >🔗</a> **[The Launch Pad]** Capella Space Secures $14.9 Million SAR Services Contract from U.S. Air Force Research Laboratory
+- <a href="https://tlpnetwork.com/news/asia/china-launches-second-classified-high-orbit-internet-satellite" >🔗</a> **[The Launch Pad]** China Launches Second Classified High Orbit Internet Satellite
 - <a href="https://tlpnetwork.com/news/america/ursa-major-appoints-dan-jablonsky-as-ceo-amid-expansion-plans" >🔗</a> **[The Launch Pad]** Ursa Major Appoints Dan Jablonsky As CEO Amid Expansion Plans
 - <a href="https://tlpnetwork.com/news/america/ses-space-and-defense-secures-contract-to-support-us-air-force-rpa-training" >🔗</a> **[The Launch Pad]** SES Space & Defense Secures $46.8 Million Contract to Support U.S. Air Force RPA Training
 - <a href="https://tlpnetwork.com/news/america/caci-international-secures-contract-to-support-joint-navigation-warfare-center" >🔗</a> **[The Launch Pad]** CACI International Secures $450 Million Contract to Support Joint Navigation Warfare Center
 - <a href="https://spacenews.com/nasa-retaining-plans-to-select-a-single-artemis-lunar-rover/" >🔗</a> **[SpaceNews]** NASA retaining plans to select a single Artemis lunar rover
 - <a href="https://tlpnetwork.com/news/in-space/gao-reports-nasa-lunar-gateway-may-have-stack-controllability-issue-with-starship" >🔗</a> **[The Launch Pad]** GAO Reports NASA’s Lunar Gateway May Have "Stack Controllability." Issue With Starship
 - <a href="https://spacenews.com/rocket-lab-launches-fifth-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches fifth Synspective satellite
-- <a href="https://tlpnetwork.com/news/america/spacex-announces-dragon-recovery-operations-moving-to-us-west-coast" >🔗</a> **[The Launch Pad]** SpaceX Announces Dragon Recovery Operations Moving To US West Coast
-- <a href="https://tlpnetwork.com/news/america/nordspace-announces-new-spaceport-canada-and-investment" >🔗</a> **[The Launch Pad]** NordSpace Announces New Spaceport Canada and $5M Investment
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-dedicates-dorothy-vaughan-center-to-women-of-apollo/" >🔗</a> **[NASA]** NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo
-- <a href="https://www.spacescout.info/2024/08/poland-hungary-and-india-join-next-axiom-crew/" >🔗</a> **[Space Scout]** Poland, Hungary, and India Join Next Axiom Crew
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T030117">2024-08-03 03:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T033123">2024-08-03 03:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
