@@ -20,34 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 11-1**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T152917">2024-08-03 15:29:17 UTC</a>.  Until
-then, this pad will have been used for 253
-out of 966 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T072400">2024-08-04 07:24:00 UTC</a>.  Until
+then, this pad will have been used for 152
+out of 764 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Resupply* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  This is the 21st flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 20th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T152917">2024-08-03 15:29:17 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)&location=Cape Canaveral, FL, USA&dates=20240803T152917Z%2F20240803T152917Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T072400">2024-08-04 07:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-1&location=Vandenberg SFB, CA, USA&dates=20240804T072400Z%2F20240804T105200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-1** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T072400">2024-08-04 07:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-1&location=Vandenberg SFB, CA, USA&dates=20240804T072400Z%2F20240804T105200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-1** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T150200">2024-08-04 15:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)&location=Cape Canaveral, FL, USA&dates=20240804T150200Z%2F20240804T150200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-21 (S.S. Francis R. “Dick” Scobee)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T065100">2024-08-06 06:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240806T065100Z%2F20240806T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T125900">2024-08-07 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240807T125900Z%2F20240807T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T000000">2024-08-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240815T000000Z%2F20240815T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies ready to fly on Falcon 9, Cygnus NG-21
-- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Northrop Grumman Cygnus spacecraft to the International Space Station on Falcon 9 rocket
+- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Northrop Grumman Cygnus spacecraft launch to the International Space Station due to poor weather
 - <a href="https://tlpnetwork.com/news/america/chinese-scientists-outline-comprehensive-cislunar-space-infrastructure-plan" >🔗</a> **[The Launch Pad]** Chinese Scientists Outline Comprehensive Cislunar Space Infrastructure Plan
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-successfully-launches-fifth-radar-imaging-satellite-for-synspective" >🔗</a> **[The Launch Pad]** Rocket Lab Successfully Launches Fifth Radar Imaging Satellite for Synspective
 - <a href="https://tlpnetwork.com/news/america/capella-space-secures-sar-services-contract-from-us-air-force-research-laboratory" >🔗</a> **[The Launch Pad]** Capella Space Secures $14.9 Million SAR Services Contract from U.S. Air Force Research Laboratory
@@ -105,19 +105,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Northrop Grumman Cygnus spacecraft to the International Space Station on Falcon 9 rocket
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
-- <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
-- <a href="https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/" >🔗</a> **[NASA]** Repair Kit for NASA’s NICER Mission Heading to Space Station
-- <a href="https://www.nasaspaceflight.com/2024/07/launch-roundup-0630/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Atlas V, Electron, CZ-3B/E, and Falcon 9 missions flying this week
-- <a href="https://www.nasa.gov/missions/nasa-offers-virtual-activities-for-21st-northrop-grumman-resupply-mission/" >🔗</a> **[NASA]** NASA Offers Virtual Activities for 21st Northrop Grumman Resupply Mission
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-21st-northrop-grumman-mission-launches-scientific-studies-to-station/" >🔗</a> **[NASA]** NASA’s 21st Northrop Grumman Mission Launches Scientific Studies to Station
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman’s 21st Station Resupply Launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T150106">2024-08-03 15:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T153109">2024-08-03 15:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
