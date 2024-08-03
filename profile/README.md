@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies ready to fly on Falcon 9, Cygnus NG-21
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Northrop Grumman Cygnus spacecraft to the International Space Station on Falcon 9 rocket
 - <a href="https://tlpnetwork.com/news/america/chinese-scientists-outline-comprehensive-cislunar-space-infrastructure-plan" >🔗</a> **[The Launch Pad]** Chinese Scientists Outline Comprehensive Cislunar Space Infrastructure Plan
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-successfully-launches-fifth-radar-imaging-satellite-for-synspective" >🔗</a> **[The Launch Pad]** Rocket Lab Successfully Launches Fifth Radar Imaging Satellite for Synspective
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/ses-space-and-defense-secures-contract-to-support-us-air-force-rpa-training" >🔗</a> **[The Launch Pad]** SES Space & Defense Secures $46.8 Million Contract to Support U.S. Air Force RPA Training
 - <a href="https://tlpnetwork.com/news/america/caci-international-secures-contract-to-support-joint-navigation-warfare-center" >🔗</a> **[The Launch Pad]** CACI International Secures $450 Million Contract to Support Joint Navigation Warfare Center
 - <a href="https://spacenews.com/nasa-retaining-plans-to-select-a-single-artemis-lunar-rover/" >🔗</a> **[SpaceNews]** NASA retaining plans to select a single Artemis lunar rover
-- <a href="https://tlpnetwork.com/news/in-space/gao-reports-nasa-lunar-gateway-may-have-stack-controllability-issue-with-starship" >🔗</a> **[The Launch Pad]** GAO Reports NASA’s Lunar Gateway May Have "Stack Controllability." Issue With Starship
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T133055">2024-08-03 13:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T140121">2024-08-03 14:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
