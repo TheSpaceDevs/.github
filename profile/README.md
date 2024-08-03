@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Northrop Grumman Cygnus spacecraft to the International Space Station on Falcon 9 rocket
+- <a href="https://tlpnetwork.com/news/america/chinese-scientists-outline-comprehensive-cislunar-space-infrastructure-plan" >🔗</a> **[The Launch Pad]** Chinese Scientists Outline Comprehensive Cislunar Space Infrastructure Plan
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-successfully-launches-fifth-radar-imaging-satellite-for-synspective" >🔗</a> **[The Launch Pad]** Rocket Lab Successfully Launches Fifth Radar Imaging Satellite for Synspective
 - <a href="https://tlpnetwork.com/news/america/capella-space-secures-sar-services-contract-from-us-air-force-research-laboratory" >🔗</a> **[The Launch Pad]** Capella Space Secures $14.9 Million SAR Services Contract from U.S. Air Force Research Laboratory
 - <a href="https://tlpnetwork.com/news/asia/china-launches-second-classified-high-orbit-internet-satellite" >🔗</a> **[The Launch Pad]** China Launches Second Classified High Orbit Internet Satellite
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/caci-international-secures-contract-to-support-joint-navigation-warfare-center" >🔗</a> **[The Launch Pad]** CACI International Secures $450 Million Contract to Support Joint Navigation Warfare Center
 - <a href="https://spacenews.com/nasa-retaining-plans-to-select-a-single-artemis-lunar-rover/" >🔗</a> **[SpaceNews]** NASA retaining plans to select a single Artemis lunar rover
 - <a href="https://tlpnetwork.com/news/in-space/gao-reports-nasa-lunar-gateway-may-have-stack-controllability-issue-with-starship" >🔗</a> **[The Launch Pad]** GAO Reports NASA’s Lunar Gateway May Have "Stack Controllability." Issue With Starship
-- <a href="https://spacenews.com/rocket-lab-launches-fifth-synspective-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches fifth Synspective satellite
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T040115">2024-08-03 04:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240803T043214">2024-08-03 04:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
