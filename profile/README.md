@@ -96,7 +96,7 @@ into *an Unknown
 - <a href="https://spacenews.com/indian-astronauts-to-start-training-for-iss-mission/" >🔗</a> **[SpaceNews]** Indian astronauts to start training for ISS mission
 - <a href="https://spacepolicyonline.com/news/gao-questions-gateways-mass-schedule/" >🔗</a> **[SpacePolicyOnline.com]** GAO Questions Gateway’s Mass, Schedule
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches 23 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
-- <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies ready to fly on Falcon 9, Cygnus NG-21
+- <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies fly on Falcon 9, Cygnus NG-21
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX and Northrop Grumman make second attempt to launch a Cygnus spacecraft to the International Space Station
 - <a href="https://tlpnetwork.com/news/america/chinese-scientists-outline-comprehensive-cislunar-space-infrastructure-plan" >🔗</a> **[The Launch Pad]** Chinese Scientists Outline Comprehensive Cislunar Space Infrastructure Plan
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-successfully-launches-fifth-radar-imaging-satellite-for-synspective" >🔗</a> **[The Launch Pad]** Rocket Lab Successfully Launches Fifth Radar Imaging Satellite for Synspective
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T153057">2024-08-04 15:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T160112">2024-08-04 16:01:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
