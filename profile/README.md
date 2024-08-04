@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/indian-astronauts-to-start-training-for-iss-mission/" >🔗</a> **[SpaceNews]** Indian astronauts to start training for ISS mission
 - <a href="https://spacepolicyonline.com/news/gao-questions-gateways-mass-schedule/" >🔗</a> **[SpacePolicyOnline.com]** GAO Questions Gateway’s Mass, Schedule
-- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
+- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches 23 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies ready to fly on Falcon 9, Cygnus NG-21
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Northrop Grumman Cygnus spacecraft launch to the International Space Station due to poor weather
 - <a href="https://tlpnetwork.com/news/america/chinese-scientists-outline-comprehensive-cislunar-space-infrastructure-plan" >🔗</a> **[The Launch Pad]** Chinese Scientists Outline Comprehensive Cislunar Space Infrastructure Plan
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T073101">2024-08-04 07:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T080125">2024-08-04 08:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
