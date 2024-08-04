@@ -91,22 +91,22 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2024/08/the-atlantic-hurricane-season-starts-to-sizzle-first-up-is-a-major-flood-storm/" >🔗</a> **[Arstechnica]** Historic flooding possible as TS Debby bears down on southeastern United States
 - <a href="https://spacenews.com/indian-astronauts-to-start-training-for-iss-mission/" >🔗</a> **[SpaceNews]** Indian astronauts to start training for ISS mission
 - <a href="https://spacepolicyonline.com/news/gao-questions-gateways-mass-schedule/" >🔗</a> **[SpacePolicyOnline.com]** GAO Questions Gateway’s Mass, Schedule
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches 23 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies ready to fly on Falcon 9, Cygnus NG-21
-- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Northrop Grumman Cygnus spacecraft launch to the International Space Station due to poor weather
+- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX and Northrop Grumman make second attempt to launch a Cygnus spacecraft to the International Space Station
 - <a href="https://tlpnetwork.com/news/america/chinese-scientists-outline-comprehensive-cislunar-space-infrastructure-plan" >🔗</a> **[The Launch Pad]** Chinese Scientists Outline Comprehensive Cislunar Space Infrastructure Plan
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-successfully-launches-fifth-radar-imaging-satellite-for-synspective" >🔗</a> **[The Launch Pad]** Rocket Lab Successfully Launches Fifth Radar Imaging Satellite for Synspective
 - <a href="https://tlpnetwork.com/news/america/capella-space-secures-sar-services-contract-from-us-air-force-research-laboratory" >🔗</a> **[The Launch Pad]** Capella Space Secures $14.9 Million SAR Services Contract from U.S. Air Force Research Laboratory
 - <a href="https://tlpnetwork.com/news/asia/china-launches-second-classified-high-orbit-internet-satellite" >🔗</a> **[The Launch Pad]** China Launches Second Classified High Orbit Internet Satellite
-- <a href="https://tlpnetwork.com/news/america/ursa-major-appoints-dan-jablonsky-as-ceo-amid-expansion-plans" >🔗</a> **[The Launch Pad]** Ursa Major Appoints Dan Jablonsky As CEO Amid Expansion Plans
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies ready to fly on Falcon 9, Cygnus NG-21
-- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Northrop Grumman Cygnus spacecraft launch to the International Space Station due to poor weather
+- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-northrop-grumman-cygnus-spacecraft-to-the-international-space-station-on-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX and Northrop Grumman make second attempt to launch a Cygnus spacecraft to the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s 21st Station Resupply Launch
 - <a href="https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/" >🔗</a> **[NASA]** Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
 - <a href="https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/" >🔗</a> **[NASA]** Repair Kit for NASA’s NICER Mission Heading to Space Station
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T133053">2024-08-04 13:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240804T140110">2024-08-04 14:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
