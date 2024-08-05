@@ -94,7 +94,7 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-student-missions-to-send-to-space-in-2026-beyond/" >🔗</a> **[NASA]** NASA Seeks Student Missions to Send to Space in 2026, Beyond
 - <a href="https://spacenews.com/aerospace-ceo-lauds-smallsat-innovation-and-risk-taking/" >🔗</a> **[SpaceNews]** Aerospace CEO lauds smallsat  innovation and risk-taking
 - <a href="https://spacenews.com/smallsat-conference-relocates-to-salt-lake-city-in-2025/" >🔗</a> **[SpaceNews]** SmallSat Conference relocates to Salt Lake City in 2025
-- <a href="https://spaceflightnow.com/2024/08/05/axiom-spaces-fourth-private-astronaut-crew-named-begin-training-in-houston/" >🔗</a> **[Spaceflight Now]** Axiom Space’s fourth private astronaut crew named, begin training in Houston
+- <a href="https://spaceflightnow.com/2024/08/05/axiom-spaces-fourth-private-astronaut-crew-named-begin-training-in-houston/" >🔗</a> **[Spaceflight Now]** Axiom Space’s fourth private astronaut crew named, begins training in Houston
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/disaster-response-coordination-system-drcs-formally-launches/" >🔗</a> **[NASA]** Disaster Response Coordination System (DRCS) Formally Launches
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/coming-in-hot-nasas-chandra-checks-habitability-of-exoplanets-2/" >🔗</a> **[NASA]** Coming in Hot – NASA’s Chandra Checks Habitability of Exoplanets
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/marshall-disasters-team-support-national-weather-service-offices-during-may-severe-weather/" >🔗</a> **[NASA]** Marshall Disasters Team Support National Weather Service Offices During May Severe Weather
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T230119">2024-08-05 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T233101">2024-08-05 23:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
