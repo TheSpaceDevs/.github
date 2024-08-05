@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/participation-at-the-national-artificial-intelligence-ai-research-resource-event-on-capitol-hill/" >🔗</a> **[NASA]** Participation at the National Artificial Intelligence (AI) Research Resource Event on Capitol Hill
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/nasa-and-ibm-collaborate-to-develop-indus-large-language-models-for-advanced-science-research/" >🔗</a> **[NASA]** NASA and IBM Collaborate to Develop INDUS Large Language Models for Advanced Science Research
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/seminar-preentation-given-t-the-university-of-new-hampshire-unh/" >🔗</a> **[NASA]** Seminar Preentation Given at the University of New Hampshire (UNH)
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/lecture-to-uah-research-experiences-for-undergraduates-reu-students/" >🔗</a> **[NASA]** Lecture to UAH Research Experiences for Undergraduates (REU) Students
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/lecture-on-solar-physics-given-to-students-in-poland/" >🔗</a> **[NASA]** Lecture on Solar Physics Given to Students in Poland
-- <a href="https://www.nasa.gov/get-involved/2025-rasc-al-competition/" >🔗</a> **[NASA]** 2025 RASC-AL Competition
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/paper-on-coronal-jets-and-cmes-published/" >🔗</a> **[NASA]** Paper on Coronal Jets and CMEs Published
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-080524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink constellation continues to expand while China begins building G60 constellation
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/nasa-ocean-winds-proposal-selected/" >🔗</a> **[NASA]** NASA Ocean Winds Proposal Selected
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/paper-on-creating-friendly-color-maps-for-color-vision-deficiency-accepted-for-publication/" >🔗</a> **[NASA]** Paper on Creating Friendly Color Maps for Color Vision Deficiency Accepted for Publication
+- <a href="https://spacenews.com/aerospace-ceo-lauds-smallsat-innovation-and-risk-taking/" >🔗</a> **[SpaceNews]** Aerospace CEO lauds smallsat  innovation and risk-taking
+- <a href="https://spacenews.com/smallsat-conference-relocates-to-salt-lake-city-in-2025/" >🔗</a> **[SpaceNews]** SmallSat Conference relocates to Salt Lake City in 2025
+- <a href="https://spaceflightnow.com/2024/08/05/axiom-spaces-fourth-private-astronaut-crew-named-begin-training-in-houston/" >🔗</a> **[Spaceflight Now]** Axiom Space’s fourth private astronaut crew named, begin training in Houston
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/disaster-response-coordination-system-drcs-formally-launches/" >🔗</a> **[NASA]** Disaster Response Coordination System (DRCS) Formally Launches
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/coming-in-hot-nasas-chandra-checks-habitability-of-exoplanets-2/" >🔗</a> **[NASA]** Coming in Hot – NASA’s Chandra Checks Habitability of Exoplanets
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/marshall-disasters-team-support-national-weather-service-offices-during-may-severe-weather/" >🔗</a> **[NASA]** Marshall Disasters Team Support National Weather Service Offices During May Severe Weather
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/snowstorm-field-campaign-wins-prestigious-presidential-rank-group-achievement-award/" >🔗</a> **[NASA]** Snowstorm Field Campaign Wins Prestigious Presidential Rank Group Achievement Award
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/knack-lidar-technology-demonstration-at-5th-joint-eva-test-team-jettf-field-compaign-flagstaff-arizona/" >🔗</a> **[NASA]** KNaCK LIDAR Technology Demonstration at 5th Joint EVA Test Team (JETT5) Field Compaign, Flagstaff, Arizona
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/servir-science-coordination-office-sco-and-bhutans-implementing-partners-launch-farm-action-toolkit-service/" >🔗</a> **[NASA]** SERVIR Science Coordination Office (SCO) and Bhutan’s Implementing Partners Launch Farm Action Toolkit Service
+- <a href="https://spacenews.com/viasat-developing-small-satellite-constellation-management-service/" >🔗</a> **[SpaceNews]** Viasat developing small satellite constellation management service
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T213105">2024-08-05 21:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T220110">2024-08-05 22:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
