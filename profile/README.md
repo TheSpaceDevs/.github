@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-epa-tackle-no2-air-pollution-in-overburdened-communities/" >🔗</a> **[NASA]** NASA, EPA Tackle NO2 Air Pollution in Overburdened Communities
 - <a href="https://spacenews.com/ast-spacemobile-cleared-to-operate-bluebird-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile cleared to operate BlueBird direct-to-smartphone satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/when-teachers-become-the-students-educators-spend-summer-studying-stem-engagement-at-johnson/" >🔗</a> **[NASA]** When Teachers Become the Students: Educators Spend Summer Studying STEM Engagement at Johnson
 - <a href="https://www.nasa.gov/directorates/smd/earth-science-division/current-events-nasa-and-usgs-find-a-new-way-to-measure-river-flows/" >🔗</a> **[NASA]** ‘Current’ Events: NASA and USGS Find a New Way to Measure River Flows
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/navigate-nasa-learning-resources/" >🔗</a> **[NASA]** How Do I Navigate NASA Learning Resources and Opportunities?
 - <a href="https://www.nasa.gov/news-release/nasa-engagement-platform-brings-experts-to-classrooms-communities/" >🔗</a> **[NASA]** NASA Engagement Platform Brings Experts to Classrooms, Communities
 - <a href="https://www.nasa.gov/image-article/europa-clipper-solar-array-alignment-and-install/" >🔗</a> **[NASA]** Europa Clipper Solar Array Alignment and Install
-- <a href="https://europeanspaceflight.com/esa-completes-first-drop-test-for-reusable-space-rider-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Completes First Drop Test for Reusable Space Rider Spacecraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T180121">2024-08-05 18:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T183427">2024-08-05 18:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
