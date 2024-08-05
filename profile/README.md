@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Detecting_nitrogen_dioxide_from_power_plants_with_Sentinel-2" >🔗</a> **[ESA]** Detecting nitrogen dioxide from power plants with Sentinel-2
 - <a href="https://www.nasaspaceflight.com/2024/08/dart-impact-data/" >🔗</a> **[NASASpaceflight]** Using data from DART’s impact, scientists investigate characteristics of Dimorphos and Didymos
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-21st-northrop-grumman-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 21st Northrop Grumman Mission to Station
 - <a href="https://spacenews.com/cygnus-spacecraft-suffers-glitches-after-launch/" >🔗</a> **[SpaceNews]** Cygnus spacecraft suffers glitches after launch
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/indian-astronauts-to-start-training-for-iss-mission/" >🔗</a> **[SpaceNews]** Indian astronauts to start training for ISS mission
 - <a href="https://spacepolicyonline.com/news/gao-questions-gateways-mass-schedule/" >🔗</a> **[SpacePolicyOnline.com]** GAO Questions Gateway’s Mass, Schedule
 - <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches 23 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
-- <a href="https://www.nasaspaceflight.com/2024/08/cygnus-ng-21/" >🔗</a> **[NASASpaceflight]** Science and supplies fly on Falcon 9, Cygnus NG-21
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T090108">2024-08-05 09:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T093118">2024-08-05 09:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
