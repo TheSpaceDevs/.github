@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/imaging-x-ray-polarimetry-explorer-icpe-discovery-papers/" >🔗</a> **[NASA]** Imaging X-ray Polarimetry Explorer (ICPE) Discovery Papers
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/nasa-ocean-winds-proposal-selected/" >🔗</a> **[NASA]** NASA Ocean Winds Proposal Selected
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/paper-on-creating-friendly-color-maps-for-color-vision-deficiency-accepted-for-publication/" >🔗</a> **[NASA]** Paper on Creating Friendly Color Maps for Color Vision Deficiency Accepted for Publication
+- <a href="https://spacenews.com/voyager-space-to-maintain-subcontractor-role-in-lockheed-martins-missile-program/" >🔗</a> **[SpaceNews]** Voyager Space to maintain subcontractor role in Lockheed Martin’s missile program
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/lunar-vehicle-active-charge-control-system-lvaccs-picasso-proposal-awarded/" >🔗</a> **[NASA]** Lunar Vehicle Active Charge Control System (LVACCS) PICASSO Proposal Awarded
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/imaging-x-ray-polarimetry-explorer-icpe-discovery-papers/" >🔗</a> **[NASA]** Imaging X-ray Polarimetry Explorer (IXPE) Discovery Papers
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/invited-guest-speaker-at-the-taylor-geospatial-institutes-geoai-gathering/" >🔗</a> **[NASA]** Invited Guest Speaker at the Taylor Geospatial Institutes GEOAI Gathering
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/large-earth-foundation-models-panel-at-satsummit/" >🔗</a> **[NASA]** Large Earth Foundation Models Panel at SatSummit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/invited-panelist-at-the-united-states-geospatial-intelligence-foundation-usgif-symposium/" >🔗</a> **[NASA]** Invited Panelist at the United States Geospatial intelligence Foundation (USGIF) Symposium
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-lasp-sign-agreement-to-advance-space-weather-research-modeling/" >🔗</a> **[NASA]** NASA, LASP Sign Agreement To Advance Space Weather Research, Modeling
 - <a href="https://spacenews.com/space-force-seeks-agile-solutions-with-small-geo-services/" >🔗</a> **[SpaceNews]** Space Force explores ‘small GEO’ options for resilient communications
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/tempo-emit-synergy-enhancing-applications-of-ghg-and-air-pollutant-observations-over-key-emission-sources/" >🔗</a> **[NASA]** TEMPO-EMIT Synergy: Enhancing Applications of GHG and Air Pollutant Observations over Key Emission Sources
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-2-2024/" >🔗</a> **[NASA]** Station Science Top News: August 2, 2024
-- <a href="https://spacenews.com/interstellar-raises-21-million-for-rocket-and-satellite-development/" >🔗</a> **[SpaceNews]** Interstellar raises $21 million for rocket and satellite development
-- <a href="https://science.nasa.gov/learning-resources/science-activation/astroviz-iconic-pillars-of-creation-star-in-nasas-new-3d-visualization/" >🔗</a> **[NASA]** AstroViz: Iconic Pillars of Creation Star in NASA’s New 3D Visualization
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T193100">2024-08-05 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T200116">2024-08-05 20:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
