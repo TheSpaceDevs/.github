@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/participation-at-the-national-artificial-intelligence-ai-research-resource-event-on-capitol-hill/" >🔗</a> **[NASA]** Participation at the National Artificial Intelligence (AI) Research Resource Event on Capitol Hill
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/nasa-and-ibm-collaborate-to-develop-indus-large-language-models-for-advanced-science-research/" >🔗</a> **[NASA]** NASA and IBM Collaborate to Develop INDUS Large Language Models for Advanced Science Research
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/seminar-preentation-given-t-the-university-of-new-hampshire-unh/" >🔗</a> **[NASA]** Seminar Preentation Given at the University of New Hampshire (UNH)
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/lecture-to-uah-research-experiences-for-undergraduates-reu-students/" >🔗</a> **[NASA]** Lecture to UAH Research Experiences for Undergraduates (REU) Students
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/lecture-on-solar-physics-given-to-students-in-poland/" >🔗</a> **[NASA]** Lecture on Solar Physics Given to Students in Poland
+- <a href="https://www.nasa.gov/get-involved/2025-rasc-al-competition/" >🔗</a> **[NASA]** 2025 RASC-AL Competition
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/paper-on-coronal-jets-and-cmes-published/" >🔗</a> **[NASA]** Paper on Coronal Jets and CMEs Published
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-080524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink constellation continues to expand while China begins building G60 constellation
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/nasa-ocean-winds-proposal-selected/" >🔗</a> **[NASA]** NASA Ocean Winds Proposal Selected
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/paper-on-creating-friendly-color-maps-for-color-vision-deficiency-accepted-for-publication/" >🔗</a> **[NASA]** Paper on Creating Friendly Color Maps for Color Vision Deficiency Accepted for Publication
-- <a href="https://spacenews.com/voyager-space-to-maintain-subcontractor-role-in-lockheed-martins-missile-program/" >🔗</a> **[SpaceNews]** Voyager Space to maintain subcontractor role in Lockheed Martin’s missile program
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/lunar-vehicle-active-charge-control-system-lvaccs-picasso-proposal-awarded/" >🔗</a> **[NASA]** Lunar Vehicle Active Charge Control System (LVACCS) PICASSO Proposal Awarded
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/imaging-x-ray-polarimetry-explorer-icpe-discovery-papers/" >🔗</a> **[NASA]** Imaging X-ray Polarimetry Explorer (IXPE) Discovery Papers
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/invited-guest-speaker-at-the-taylor-geospatial-institutes-geoai-gathering/" >🔗</a> **[NASA]** Invited Guest Speaker at the Taylor Geospatial Institutes GEOAI Gathering
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/large-earth-foundation-models-panel-at-satsummit/" >🔗</a> **[NASA]** Large Earth Foundation Models Panel at SatSummit
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/invited-panelist-at-the-united-states-geospatial-intelligence-foundation-usgif-symposium/" >🔗</a> **[NASA]** Invited Panelist at the United States Geospatial intelligence Foundation (USGIF) Symposium
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-lasp-sign-agreement-to-advance-space-weather-research-modeling/" >🔗</a> **[NASA]** NASA, LASP Sign Agreement To Advance Space Weather Research, Modeling
-- <a href="https://spacenews.com/space-force-seeks-agile-solutions-with-small-geo-services/" >🔗</a> **[SpaceNews]** Space Force explores ‘small GEO’ options for resilient communications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T203057">2024-08-05 20:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T210118">2024-08-05 21:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
