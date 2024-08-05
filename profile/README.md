@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T065100">2024-08-06 06:51:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T063300">2024-08-06 06:33:00 UTC</a>.  Until
 then, this pad will have been used for 7
 out of 129 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T065100">2024-08-06 06:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240806T065100Z%2F20240806T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T063300">2024-08-06 06:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240806T063300Z%2F20240806T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T125900">2024-08-07 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240807T125900Z%2F20240807T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240810T111500">2024-08-10 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-7&location=Kennedy Space Center, FL, USA&dates=20240810T111500Z%2F20240810T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-7** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T020000">2024-08-12 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240812T020000Z%2F20240812T020500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-completes-first-drop-test-for-reusable-space-rider-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Completes First Drop Test for Reusable Space Rider Spacecraft
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-sends-more-science-to-space-more-strides-for-future-exploration/" >🔗</a> **[NASA]** NASA Sends More Science to Space, More Strides for Future Exploration
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-august-2024/" >🔗</a> **[NASA]** Lagniappe for August 2024
+- <a href="https://www.nasa.gov/image-article/kim-johnson-inspired-to-reach-potential/" >🔗</a> **[NASA]** NASA Inspires Employee to Reach Full Potential
+- <a href="https://www.nasa.gov/news-release/stennis-announces-new-deputy-director/" >🔗</a> **[NASA]** NASA’s Stennis Space Center Announces New Deputy Director
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-flashback-shuttle-milestone/" >🔗</a> **[NASA]** NASA Stennis Flashback: Shuttle Team Achieves Unprecedented Milestone
+- <a href="https://www.nasa.gov/technology/nasa-trains-machine-learning-algorithm-for-mars-sample-analysis/" >🔗</a> **[NASA]** NASA Trains Machine Learning Algorithm for Mars Sample Analysis
+- <a href="https://spacenews.com/intuitive-machines-and-seops-partner-on-lunar-rideshare-services/" >🔗</a> **[SpaceNews]** Intuitive Machines and SEOPS partner on lunar rideshare services
 - <a href="https://spacenews.com/satellite-startup-muon-space-raises-56-7-million/" >🔗</a> **[SpaceNews]** Satellite startup Muon Space raises $56.7 million
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Slawosz_Uznanski_from_Poland_will_fly_to_International_Space_Station_on_fourth_Axiom_Space_mission" >🔗</a> **[ESA]** Sławosz Uznański from Poland will fly to International Space Station on fourth Axiom Space mission
 - <a href="https://spacenews.com/from-ukraine-to-taiwan-jamming-of-50-year-old-gps-is-a-defense-tech-nightmare/" >🔗</a> **[SpaceNews]** From Ukraine to Taiwan, Jamming of 50-year-old GPS is a Defense Tech Nightmare
-- <a href="https://europeanspaceflight.com/dlr-reusable-flight-experiment-refex-launch-slips-to-2025/" >🔗</a> **[European Spaceflight]** DLR Reusable Flight Experiment (ReFEx) Launch Slips to 2025
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Detecting_nitrogen_dioxide_from_power_plants_with_Sentinel-2" >🔗</a> **[ESA]** Detecting nitrogen dioxide from power plants with Sentinel-2
-- <a href="https://spacenews.com/lynker-space-unveils-new-operational-space-weather-forecasting-capability/" >🔗</a> **[SpaceNews]** Lynker Space Unveils New Operational Space Weather Forecasting Capability
-- <a href="https://spacenews.com/ascending-node-technologies-unveils-mission-visualization-software/" >🔗</a> **[SpaceNews]** Ascending Node Technologies unveils mission-visualization software
-- <a href="https://www.nasa.gov/aeronautics/nasa-model-based-systems/" >🔗</a> **[NASA]** NASA Furthers Aeronautical Innovation Using Model-Based Systems
-- <a href="https://spacenews.com/hungary-and-poland-to-join-india-on-ax-4/" >🔗</a> **[SpaceNews]** Hungary and Poland to join India on Ax-4
-- <a href="https://www.nasaspaceflight.com/2024/08/dart-impact-data/" >🔗</a> **[NASASpaceflight]** Using data from DART’s impact, scientists investigate characteristics of Dimorphos and Didymos
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T140114">2024-08-05 14:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T143206">2024-08-05 14:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
