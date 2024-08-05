@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Slawosz_Uznanski_from_Poland_will_fly_to_International_Space_Station_on_fourth_Axiom_Space_mission" >🔗</a> **[ESA]** Sławosz Uznański from Poland will fly to International Space Station on fourth Axiom Space mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Detecting_nitrogen_dioxide_from_power_plants_with_Sentinel-2" >🔗</a> **[ESA]** Detecting nitrogen dioxide from power plants with Sentinel-2
+- <a href="https://spacenews.com/ascending-node-technologies-unveils-mission-visualization-software/" >🔗</a> **[SpaceNews]** Ascending Node Technologies unveils mission-visualization software
+- <a href="https://spacenews.com/lynker-space-unveils-new-operational-space-weather-forecasting-capability/" >🔗</a> **[SpaceNews]** Lynker Space Unveils New Operational Space Weather Forecasting Capability
+- <a href="https://spacenews.com/hungary-and-poland-to-join-india-on-ax-4/" >🔗</a> **[SpaceNews]** Hungary and Poland to join India on Ax-4
+- <a href="https://www.nasa.gov/aeronautics/nasa-model-based-systems/" >🔗</a> **[NASA]** NASA Furthers Aeronautical Innovation Using Model-Based Systems
 - <a href="https://www.nasaspaceflight.com/2024/08/dart-impact-data/" >🔗</a> **[NASASpaceflight]** Using data from DART’s impact, scientists investigate characteristics of Dimorphos and Didymos
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-21st-northrop-grumman-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 21st Northrop Grumman Mission to Station
 - <a href="https://spacenews.com/cygnus-spacecraft-suffers-glitches-after-launch/" >🔗</a> **[SpaceNews]** Cygnus spacecraft suffers glitches after launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-4-10-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 4-10, 2024
-- <a href="https://spacenews.com/on-national-security-space-force-reshapes-for-new-era-competition/" >🔗</a> **[SpaceNews]** Space Force reshapes for a new era of competition
-- <a href="https://arstechnica.com/science/2024/08/the-atlantic-hurricane-season-starts-to-sizzle-first-up-is-a-major-flood-storm/" >🔗</a> **[Arstechnica]** Historic flooding possible as TS Debby bears down on southeastern United States
-- <a href="https://spacenews.com/indian-astronauts-to-start-training-for-iss-mission/" >🔗</a> **[SpaceNews]** Indian astronauts to start training for ISS mission
-- <a href="https://spacepolicyonline.com/news/gao-questions-gateways-mass-schedule/" >🔗</a> **[SpacePolicyOnline.com]** GAO Questions Gateway’s Mass, Schedule
-- <a href="https://spaceflightnow.com/2024/08/03/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** SpaceX launches 23 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T100105">2024-08-05 10:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T103320">2024-08-05 10:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
