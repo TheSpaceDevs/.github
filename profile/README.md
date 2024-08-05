@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/08/nasa-likely-to-significantly-delay-the-launch-of-crew-9-due-to-starliner-issues/" >🔗</a> **[Arstechnica]** NASA likely to significantly delay the launch of Crew 9 due to Starliner issues
+- <a href="https://www.nasa.gov/learning-resources/navigate-nasa-learning-resources/" >🔗</a> **[NASA]** How Do I Navigate NASA Learning Resources and Opportunities?
 - <a href="https://www.nasa.gov/news-release/nasa-engagement-platform-brings-experts-to-classrooms-communities/" >🔗</a> **[NASA]** NASA Engagement Platform Brings Experts to Classrooms, Communities
 - <a href="https://www.nasa.gov/image-article/europa-clipper-solar-array-alignment-and-install/" >🔗</a> **[NASA]** Europa Clipper Solar Array Alignment and Install
 - <a href="https://europeanspaceflight.com/esa-completes-first-drop-test-for-reusable-space-rider-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Completes First Drop Test for Reusable Space Rider Spacecraft
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/stennis-announces-new-deputy-director/" >🔗</a> **[NASA]** NASA’s Stennis Space Center Announces New Deputy Director
 - <a href="https://www.nasa.gov/image-article/kim-johnson-inspired-to-reach-potential/" >🔗</a> **[NASA]** NASA Inspires Employee to Reach Full Potential
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-flashback-shuttle-milestone/" >🔗</a> **[NASA]** NASA Stennis Flashback: Shuttle Team Achieves Unprecedented Milestone
-- <a href="https://www.nasa.gov/technology/nasa-trains-machine-learning-algorithm-for-mars-sample-analysis/" >🔗</a> **[NASA]** NASA Trains Machine Learning Algorithm for Mars Sample Analysis
-- <a href="https://spacenews.com/intuitive-machines-and-seops-partner-on-lunar-rideshare-services/" >🔗</a> **[SpaceNews]** Intuitive Machines and SEOPS partner on lunar rideshare services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T153113">2024-08-05 15:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T160126">2024-08-05 16:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
