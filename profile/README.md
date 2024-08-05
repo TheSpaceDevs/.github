@@ -94,10 +94,10 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Slawosz_Uznanski_from_Poland_will_fly_to_International_Space_Station_on_fourth_Axiom_Space_mission" >🔗</a> **[ESA]** Sławosz Uznański from Poland will fly to International Space Station on fourth Axiom Space mission
 - <a href="https://europeanspaceflight.com/dlr-reusable-flight-experiment-refex-launch-slips-to-2025/" >🔗</a> **[European Spaceflight]** DLR Reusable Flight Experiment (ReFEx) Launch Slips to 2025
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Detecting_nitrogen_dioxide_from_power_plants_with_Sentinel-2" >🔗</a> **[ESA]** Detecting nitrogen dioxide from power plants with Sentinel-2
-- <a href="https://www.nasa.gov/aeronautics/nasa-model-based-systems/" >🔗</a> **[NASA]** NASA Furthers Aeronautical Innovation Using Model-Based Systems
 - <a href="https://spacenews.com/lynker-space-unveils-new-operational-space-weather-forecasting-capability/" >🔗</a> **[SpaceNews]** Lynker Space Unveils New Operational Space Weather Forecasting Capability
-- <a href="https://spacenews.com/hungary-and-poland-to-join-india-on-ax-4/" >🔗</a> **[SpaceNews]** Hungary and Poland to join India on Ax-4
 - <a href="https://spacenews.com/ascending-node-technologies-unveils-mission-visualization-software/" >🔗</a> **[SpaceNews]** Ascending Node Technologies unveils mission-visualization software
+- <a href="https://www.nasa.gov/aeronautics/nasa-model-based-systems/" >🔗</a> **[NASA]** NASA Furthers Aeronautical Innovation Using Model-Based Systems
+- <a href="https://spacenews.com/hungary-and-poland-to-join-india-on-ax-4/" >🔗</a> **[SpaceNews]** Hungary and Poland to join India on Ax-4
 - <a href="https://www.nasaspaceflight.com/2024/08/dart-impact-data/" >🔗</a> **[NASASpaceflight]** Using data from DART’s impact, scientists investigate characteristics of Dimorphos and Didymos
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-21st-northrop-grumman-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 21st Northrop Grumman Mission to Station
 - <a href="https://spacenews.com/cygnus-spacecraft-suffers-glitches-after-launch/" >🔗</a> **[SpaceNews]** Cygnus spacecraft suffers glitches after launch
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T113059">2024-08-05 11:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T120128">2024-08-05 12:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
