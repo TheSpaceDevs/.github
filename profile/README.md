@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-engagement-platform-brings-experts-to-classrooms-communities/" >🔗</a> **[NASA]** NASA Engagement Platform Brings Experts to Classrooms, Communities
+- <a href="https://www.nasa.gov/image-article/europa-clipper-solar-array-alignment-and-install/" >🔗</a> **[NASA]** Europa Clipper Solar Array Alignment and Install
 - <a href="https://europeanspaceflight.com/esa-completes-first-drop-test-for-reusable-space-rider-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Completes First Drop Test for Reusable Space Rider Spacecraft
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-sends-more-science-to-space-more-strides-for-future-exploration/" >🔗</a> **[NASA]** NASA Sends More Science to Space, More Strides for Future Exploration
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-august-2024/" >🔗</a> **[NASA]** Lagniappe for August 2024
-- <a href="https://www.nasa.gov/image-article/kim-johnson-inspired-to-reach-potential/" >🔗</a> **[NASA]** NASA Inspires Employee to Reach Full Potential
 - <a href="https://www.nasa.gov/news-release/stennis-announces-new-deputy-director/" >🔗</a> **[NASA]** NASA’s Stennis Space Center Announces New Deputy Director
+- <a href="https://www.nasa.gov/image-article/kim-johnson-inspired-to-reach-potential/" >🔗</a> **[NASA]** NASA Inspires Employee to Reach Full Potential
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-flashback-shuttle-milestone/" >🔗</a> **[NASA]** NASA Stennis Flashback: Shuttle Team Achieves Unprecedented Milestone
 - <a href="https://www.nasa.gov/technology/nasa-trains-machine-learning-algorithm-for-mars-sample-analysis/" >🔗</a> **[NASA]** NASA Trains Machine Learning Algorithm for Mars Sample Analysis
 - <a href="https://spacenews.com/intuitive-machines-and-seops-partner-on-lunar-rideshare-services/" >🔗</a> **[SpaceNews]** Intuitive Machines and SEOPS partner on lunar rideshare services
-- <a href="https://spacenews.com/satellite-startup-muon-space-raises-56-7-million/" >🔗</a> **[SpaceNews]** Satellite startup Muon Space raises $56.7 million
-- <a href="https://spacenews.com/from-ukraine-to-taiwan-jamming-of-50-year-old-gps-is-a-defense-tech-nightmare/" >🔗</a> **[SpaceNews]** From Ukraine to Taiwan, Jamming of 50-year-old GPS is a Defense Tech Nightmare
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T150125">2024-08-05 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T153113">2024-08-05 15:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
