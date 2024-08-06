@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-first-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches first satellites for Thousand Sails megaconstellation
+- <a href="https://spacenews.com/nasa-budget-pressures-create-opportunities-for-smallsats/" >🔗</a> **[SpaceNews]** NASA budget pressures create opportunities for smallsats
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_and_beyond_tales_of_a_mission_that_left_a_mark" >🔗</a> **[ESA]** Rosetta and beyond: tales of a mission that left a mark
 - <a href="https://spacenews.com/benchmark-adds-starlight-thruster-to-partner-network/" >🔗</a> **[SpaceNews]** Benchmark adds Starlight thruster to partner network
 - <a href="https://tlpnetwork.com/news/america/sierra-space-begins-final-preparations-for-dream-chaser-inaugural-mission" >🔗</a> **[The Launch Pad]** Sierra Space Begins Final Preparations for Dream Chaser Inaugural Mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/hungary-poland-and-india-astronauts-join-axiom-space-next-private-mission-to-iss" >🔗</a> **[The Launch Pad]** Hungary, Poland, and India Astronauts Join Axiom Space's Next Private Mission to ISS
 - <a href="https://tlpnetwork.com/news/middle-east/isro-astronauts-to-begin-training-at-nasa-for-upcoming-iss-missions" >🔗</a> **[The Launch Pad]** ISRO Astronauts To Begin Training At NASA for Upcoming ISS Missions
 - <a href="https://tlpnetwork.com/news/policy-and-finance/muon-space-secures-567-million-in-series-b-funding" >🔗</a> **[The Launch Pad]** Muon Space Secures $56.7 Million in Series B Funding
-- <a href="https://tlpnetwork.com/news/policy-and-finance/japanese-startup-interstellar-technologies-raises-31-billion" >🔗</a> **[The Launch Pad]** Japanese Startup Interstellar Technologies Raises ¥3.1 Billion for Rocket & Satellite Development
-- <a href="https://tlpnetwork.com/news/america/smallsat-conference-to-relocate-to-salt-lake-city-in-2025-after-four-decades-in-logan" >🔗</a> **[The Launch Pad]** SmallSat Conference To Relocate to Salt Lake City In 2025 After Four Decades in Logan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T093058">2024-08-06 09:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T100143">2024-08-06 10:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
