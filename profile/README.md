@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-heliophysics-big-year-free-monthly-webinars-on-the-sun-touches-everything/" >🔗</a> **[NASA]** Celebrate Heliophysics Big Year: Free Monthly Webinars on the Sun Touches Everything
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-emergency-egress-system-emphasizes-crew-safety/" >🔗</a> **[NASA]** Artemis Emergency Egress System Emphasizes Crew Safety
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bindu-rani-explores-black-holes-mothers-hard-balances-life/" >🔗</a> **[NASA]** Bindu Rani Explores Black Holes, Mothers Hard, Balances Life
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-flipping-nasa-tech-and-sticking-the-landing/" >🔗</a> **[NASA]** Tech Today: Flipping NASA Tech and Sticking the Landing
 - <a href="https://spacenews.com/perceptive-space-raises-2-8-million-for-space-weather-platform/" >🔗</a> **[SpaceNews]** Perceptive Space raises $2.8 million for space weather platform
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-first-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches first satellites for Thousand Sails megaconstellation
 - <a href="https://spacenews.com/nasa-budget-pressures-create-opportunities-for-smallsats/" >🔗</a> **[SpaceNews]** NASA budget pressures create opportunities for smallsats
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_and_beyond_tales_of_a_mission_that_left_a_mark" >🔗</a> **[ESA]** Rosetta and beyond: tales of a mission that left a mark
-- <a href="https://spacenews.com/benchmark-adds-starlight-thruster-to-partner-network/" >🔗</a> **[SpaceNews]** Benchmark adds Starlight thruster to partner network
-- <a href="https://tlpnetwork.com/news/america/sierra-space-begins-final-preparations-for-dream-chaser-inaugural-mission" >🔗</a> **[The Launch Pad]** Sierra Space Begins Final Preparations for Dream Chaser Inaugural Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T170114">2024-08-06 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T173208">2024-08-06 17:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
