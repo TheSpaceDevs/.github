@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bindu-rani-explores-black-holes-mothers-hard-balances-life/" >🔗</a> **[NASA]** Bindu Rani Explores Black Holes, Mothers Hard, Balances Life
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-flipping-nasa-tech-and-sticking-the-landing/" >🔗</a> **[NASA]** Tech Today: Flipping NASA Tech and Sticking the Landing
 - <a href="https://spacenews.com/perceptive-space-raises-2-8-million-for-space-weather-platform/" >🔗</a> **[SpaceNews]** Perceptive Space raises $2.8 million for space weather platform
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/quantum-scale-sensors-used-to-measure-planetary-scale-magnetic-fields/" >🔗</a> **[NASA]** Quantum Scale Sensors used to Measure Planetary Scale Magnetic Fields
 - <a href="https://europeanspaceflight.com/polaris-and-dlr-to-explore-integrating-spaceplanes-in-commercial-airspace/" >🔗</a> **[European Spaceflight]** POLARIS and DLR to Explore Integrating Spaceplanes in Commercial Airspace
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_and_beyond_tales_of_a_mission_that_left_a_mark" >🔗</a> **[ESA]** Rosetta and beyond: tales of a mission that left a mark
 - <a href="https://spacenews.com/benchmark-adds-starlight-thruster-to-partner-network/" >🔗</a> **[SpaceNews]** Benchmark adds Starlight thruster to partner network
 - <a href="https://tlpnetwork.com/news/america/sierra-space-begins-final-preparations-for-dream-chaser-inaugural-mission" >🔗</a> **[The Launch Pad]** Sierra Space Begins Final Preparations for Dream Chaser Inaugural Mission
-- <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-new-shepard-26th-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for New Shepard’s 26th Mission
-- <a href="https://tlpnetwork.com/news/america/ascending-node-technologies-unveils-mission-visualization-software" >🔗</a> **[The Launch Pad]** Ascending Node Technologies Unveils Mission Visualization Software
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T150121">2024-08-06 15:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T153132">2024-08-06 15:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
