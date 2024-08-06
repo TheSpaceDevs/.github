@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dcubed-raises-4-4-million-euros-for-in-space-manufacturing/" >🔗</a> **[SpaceNews]** Dcubed raises 4.4 million euros for in-space manufacturing
+- <a href="https://tlpnetwork.com/news/america/nasa-and-spacex-delay-crew-9-to-due-to-starliner-mission-delays" >🔗</a> **[The Launch Pad]** NASA & SpaceX Delay Crew 9 To September 24 Due To Starliner Mission Delays
 - <a href="https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/" >🔗</a> **[Arstechnica]** NASA chief will make the final decision on how Starliner crew flies home
 - <a href="https://spacenews.com/impulse-space-announces-geo-rideshare-program/" >🔗</a> **[SpaceNews]** Impulse Space announces GEO rideshare program
 - <a href="https://spacenews.com/u-s-army-seeks-to-expand-space-expertise-among-soldiers/" >🔗</a> **[SpaceNews]** U.S. Army seeks to expand space expertise among soldiers
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/06/nasa-pushes-crew-9-launch-to-september-amid-uncertainty-of-starliners-return-timeline/" >🔗</a> **[Spaceflight Now]** NASA pushes Crew-9 launch to September amid uncertainty of Starliner’s return timeline
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-space-station-missions-update/" >🔗</a> **[NASA]** NASA to Provide Crew Flight Test, Space Station Missions Update
 - <a href="https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/" >🔗</a> **[NASA]** Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds
-- <a href="https://spacenews.com/leaf-space-deploys-first-ground-antenna-with-high-speed-ka-band/" >🔗</a> **[SpaceNews]** Leaf Space deploys first ground antenna with high-speed Ka-band
-- <a href="https://spacenews.com/bae-wins-48-million-u-s-air-force-contract-for-data-analytics-platform/" >🔗</a> **[SpaceNews]** BAE wins $48 million U.S. Air Force contract for data analytics platform
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T230203">2024-08-06 23:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T233058">2024-08-06 23:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
