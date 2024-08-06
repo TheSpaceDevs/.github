@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/" >🔗</a> **[Arstechnica]** NASA confirms slip of Crew 9 launch to late September for “flexibility”
+- <a href="https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/" >🔗</a> **[Arstechnica]** NASA chief will make the final decision on how Starliner crew flies home
 - <a href="https://spacenews.com/impulse-space-announces-geo-rideshare-program/" >🔗</a> **[SpaceNews]** Impulse Space announces GEO rideshare program
 - <a href="https://spacenews.com/u-s-army-seeks-to-expand-space-expertise-among-soldiers/" >🔗</a> **[SpaceNews]** U.S. Army seeks to expand space expertise among soldiers
 - <a href="https://spacenews.com/safran-to-open-electric-thruster-production-line-in-u-s/" >🔗</a> **[SpaceNews]** Safran to open electric thruster production line in U.S.
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T220118">2024-08-06 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T223219">2024-08-06 22:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
