@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/benchmark-adds-starlight-thruster-to-partner-network/" >🔗</a> **[SpaceNews]** Benchmark adds Starlight thruster to partner network
+- <a href="https://tlpnetwork.com/news/america/sierra-space-begins-final-preparations-for-dream-chaser-inaugural-mission" >🔗</a> **[The Launch Pad]** Sierra Space Begins Final Preparations for Dream Chaser Inaugural Mission
+- <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-new-shepard-26th-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for New Shepard’s 26th Mission
+- <a href="https://tlpnetwork.com/news/america/ascending-node-technologies-unveils-mission-visualization-software" >🔗</a> **[The Launch Pad]** Ascending Node Technologies Unveils Mission Visualization Software
+- <a href="https://tlpnetwork.com/news/america/hungary-poland-and-india-astronauts-join-axiom-space-next-private-mission-to-iss" >🔗</a> **[The Launch Pad]** Hungary, Poland, and India Astronauts Join Axiom Space's Next Private Mission to ISS
 - <a href="https://tlpnetwork.com/news/middle-east/isro-astronauts-to-begin-training-at-nasa-for-upcoming-iss-missions" >🔗</a> **[The Launch Pad]** ISRO Astronauts To Begin Training At NASA for Upcoming ISS Missions
 - <a href="https://tlpnetwork.com/news/policy-and-finance/muon-space-secures-567-million-in-series-b-funding" >🔗</a> **[The Launch Pad]** Muon Space Secures $56.7 Million in Series B Funding
 - <a href="https://tlpnetwork.com/news/policy-and-finance/japanese-startup-interstellar-technologies-raises-31-billion" >🔗</a> **[The Launch Pad]** Japanese Startup Interstellar Technologies Raises ¥3.1 Billion for Rocket & Satellite Development
 - <a href="https://tlpnetwork.com/news/america/smallsat-conference-to-relocate-to-salt-lake-city-in-2025-after-four-decades-in-logan" >🔗</a> **[The Launch Pad]** SmallSat Conference To Relocate to Salt Lake City In 2025 After Four Decades in Logan
 - <a href="https://spaceflightnow.com/2024/08/05/nasa-cygnus-on-track-for-tuesday-morning-arrival-at-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA: Cygnus on track for Tuesday morning arrival at the International Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-seeks-student-missions-to-send-to-space-in-2026-beyond/" >🔗</a> **[NASA]** NASA Seeks Student Missions to Send to Space in 2026, Beyond
-- <a href="https://spacenews.com/aerospace-ceo-lauds-smallsat-innovation-and-risk-taking/" >🔗</a> **[SpaceNews]** Aerospace CEO lauds smallsat  innovation and risk-taking
-- <a href="https://spacenews.com/smallsat-conference-relocates-to-salt-lake-city-in-2025/" >🔗</a> **[SpaceNews]** SmallSat Conference relocates to Salt Lake City in 2025
-- <a href="https://spaceflightnow.com/2024/08/05/axiom-spaces-fourth-private-astronaut-crew-named-begin-training-in-houston/" >🔗</a> **[Spaceflight Now]** Axiom Space’s fourth private astronaut crew named, begins training in Houston
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/disaster-response-coordination-system-drcs-formally-launches/" >🔗</a> **[NASA]** Disaster Response Coordination System (DRCS) Formally Launches
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T030117">2024-08-06 03:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T033159">2024-08-06 03:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
