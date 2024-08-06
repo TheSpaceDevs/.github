@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bae-wins-48-million-u-s-air-force-contract-for-data-analytics-platform/" >🔗</a> **[SpaceNews]** BAE wins $48 million U.S. Air Force contract for data analytics platform
+- <a href="https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
+- <a href="https://www.nasa.gov/aeronautics/winners-announced-in-gateways-to-blue-skies-aeronautics-competition-3/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
 - <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-heliophysics-big-year-free-monthly-webinars-on-the-sun-touches-everything/" >🔗</a> **[NASA]** Celebrate Heliophysics Big Year: Free Monthly Webinars on the Sun Touches Everything
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-emergency-egress-system-emphasizes-crew-safety/" >🔗</a> **[NASA]** Artemis Emergency Egress System Emphasizes Crew Safety
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bindu-rani-explores-black-holes-mothers-hard-balances-life/" >🔗</a> **[NASA]** Bindu Rani Explores Black Holes, Mothers Hard, Balances Life
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/perceptive-space-raises-2-8-million-for-space-weather-platform/" >🔗</a> **[SpaceNews]** Perceptive Space raises $2.8 million for space weather platform
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/quantum-scale-sensors-used-to-measure-planetary-scale-magnetic-fields/" >🔗</a> **[NASA]** Quantum Scale Sensors used to Measure Planetary Scale Magnetic Fields
 - <a href="https://europeanspaceflight.com/polaris-and-dlr-to-explore-integrating-spaceplanes-in-commercial-airspace/" >🔗</a> **[European Spaceflight]** POLARIS and DLR to Explore Integrating Spaceplanes in Commercial Airspace
-- <a href="https://spacenews.com/china-launches-first-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches first satellites for Thousand Sails megaconstellation
-- <a href="https://spacenews.com/nasa-budget-pressures-create-opportunities-for-smallsats/" >🔗</a> **[SpaceNews]** NASA budget pressures create opportunities for smallsats
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Rosetta_and_beyond_tales_of_a_mission_that_left_a_mark" >🔗</a> **[ESA]** Rosetta and beyond: tales of a mission that left a mark
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T180133">2024-08-06 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T183436">2024-08-06 18:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
