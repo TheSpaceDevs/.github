@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/05/nasa-cygnus-on-track-for-tuesday-morning-arrival-at-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA: Cygnus on track for Tuesday morning arrival at the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-student-missions-to-send-to-space-in-2026-beyond/" >🔗</a> **[NASA]** NASA Seeks Student Missions to Send to Space in 2026, Beyond
 - <a href="https://spacenews.com/aerospace-ceo-lauds-smallsat-innovation-and-risk-taking/" >🔗</a> **[SpaceNews]** Aerospace CEO lauds smallsat  innovation and risk-taking
 - <a href="https://spacenews.com/smallsat-conference-relocates-to-salt-lake-city-in-2025/" >🔗</a> **[SpaceNews]** SmallSat Conference relocates to Salt Lake City in 2025
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/marshall-disasters-team-support-national-weather-service-offices-during-may-severe-weather/" >🔗</a> **[NASA]** Marshall Disasters Team Support National Weather Service Offices During May Severe Weather
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/snowstorm-field-campaign-wins-prestigious-presidential-rank-group-achievement-award/" >🔗</a> **[NASA]** Snowstorm Field Campaign Wins Prestigious Presidential Rank Group Achievement Award
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/knack-lidar-technology-demonstration-at-5th-joint-eva-test-team-jettf-field-compaign-flagstaff-arizona/" >🔗</a> **[NASA]** KNaCK LIDAR Technology Demonstration at 5th Joint EVA Test Team (JETT5) Field Compaign, Flagstaff, Arizona
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/servir-science-coordination-office-sco-and-bhutans-implementing-partners-launch-farm-action-toolkit-service/" >🔗</a> **[NASA]** SERVIR Science Coordination Office (SCO) and Bhutan’s Implementing Partners Launch Farm Action Toolkit Service
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240805T233101">2024-08-05 23:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T000353">2024-08-06 00:03:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
