@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/perceptive-space-raises-2-8-million-for-space-weather-platform/" >🔗</a> **[SpaceNews]** Perceptive Space raises $2.8 million for space weather platform
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/quantum-scale-sensors-used-to-measure-planetary-scale-magnetic-fields/" >🔗</a> **[NASA]** Quantum Scale Sensors used to Measure Planetary Scale Magnetic Fields
 - <a href="https://europeanspaceflight.com/polaris-and-dlr-to-explore-integrating-spaceplanes-in-commercial-airspace/" >🔗</a> **[European Spaceflight]** POLARIS and DLR to Explore Integrating Spaceplanes in Commercial Airspace
 - <a href="https://spacenews.com/china-launches-first-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches first satellites for Thousand Sails megaconstellation
 - <a href="https://spacenews.com/nasa-budget-pressures-create-opportunities-for-smallsats/" >🔗</a> **[SpaceNews]** NASA budget pressures create opportunities for smallsats
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/sierra-space-begins-final-preparations-for-dream-chaser-inaugural-mission" >🔗</a> **[The Launch Pad]** Sierra Space Begins Final Preparations for Dream Chaser Inaugural Mission
 - <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-new-shepard-26th-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for New Shepard’s 26th Mission
 - <a href="https://tlpnetwork.com/news/america/ascending-node-technologies-unveils-mission-visualization-software" >🔗</a> **[The Launch Pad]** Ascending Node Technologies Unveils Mission Visualization Software
-- <a href="https://tlpnetwork.com/news/america/hungary-poland-and-india-astronauts-join-axiom-space-next-private-mission-to-iss" >🔗</a> **[The Launch Pad]** Hungary, Poland, and India Astronauts Join Axiom Space's Next Private Mission to ISS
-- <a href="https://tlpnetwork.com/news/middle-east/isro-astronauts-to-begin-training-at-nasa-for-upcoming-iss-missions" >🔗</a> **[The Launch Pad]** ISRO Astronauts To Begin Training At NASA for Upcoming ISS Missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T140110">2024-08-06 14:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T143204">2024-08-06 14:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
