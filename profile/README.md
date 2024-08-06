@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/" >🔗</a> **[Arstechnica]** NASA confirms slip of Crew 9 launch to late September for “flexibility”
+- <a href="https://spacenews.com/impulse-space-announces-geo-rideshare-program/" >🔗</a> **[SpaceNews]** Impulse Space announces GEO rideshare program
+- <a href="https://spacenews.com/u-s-army-seeks-to-expand-space-expertise-among-soldiers/" >🔗</a> **[SpaceNews]** U.S. Army seeks to expand space expertise among soldiers
+- <a href="https://spacenews.com/safran-to-open-electric-thruster-production-line-in-u-s/" >🔗</a> **[SpaceNews]** Safran to open electric thruster production line in U.S.
 - <a href="https://www.nasa.gov/image-article/doomed-star-eta-carinae/" >🔗</a> **[NASA]** Doomed Star Eta Carinae
 - <a href="https://spaceflightnow.com/2024/08/06/nasa-pushes-crew-9-launch-to-september-amid-uncertainty-of-starliners-return-timeline/" >🔗</a> **[Spaceflight Now]** NASA pushes Crew-9 launch to September amid uncertainty of Starliner’s return timeline
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-space-station-missions-update/" >🔗</a> **[NASA]** NASA to Provide Crew Flight Test, Space Station Missions Update
 - <a href="https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/" >🔗</a> **[NASA]** Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds
 - <a href="https://spacenews.com/leaf-space-deploys-first-ground-antenna-with-high-speed-ka-band/" >🔗</a> **[SpaceNews]** Leaf Space deploys first ground antenna with high-speed Ka-band
 - <a href="https://spacenews.com/bae-wins-48-million-u-s-air-force-contract-for-data-analytics-platform/" >🔗</a> **[SpaceNews]** BAE wins $48 million U.S. Air Force contract for data analytics platform
-- <a href="https://www.nasa.gov/aeronautics/winners-announced-in-gateways-to-blue-skies-aeronautics-competition-3/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
-- <a href="https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
-- <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-heliophysics-big-year-free-monthly-webinars-on-the-sun-touches-everything/" >🔗</a> **[NASA]** Celebrate Heliophysics Big Year: Free Monthly Webinars on the Sun Touches Everything
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-emergency-egress-system-emphasizes-crew-safety/" >🔗</a> **[NASA]** Artemis Emergency Egress System Emphasizes Crew Safety
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T213055">2024-08-06 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T220118">2024-08-06 22:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
