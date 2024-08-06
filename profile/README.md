@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/" >🔗</a> **[NASA]** Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds
+- <a href="https://spacenews.com/leaf-space-deploys-first-ground-antenna-with-high-speed-ka-band/" >🔗</a> **[SpaceNews]** Leaf Space deploys first ground antenna with high-speed Ka-band
 - <a href="https://spacenews.com/bae-wins-48-million-u-s-air-force-contract-for-data-analytics-platform/" >🔗</a> **[SpaceNews]** BAE wins $48 million U.S. Air Force contract for data analytics platform
-- <a href="https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
 - <a href="https://www.nasa.gov/aeronautics/winners-announced-in-gateways-to-blue-skies-aeronautics-competition-3/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
+- <a href="https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
 - <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-heliophysics-big-year-free-monthly-webinars-on-the-sun-touches-everything/" >🔗</a> **[NASA]** Celebrate Heliophysics Big Year: Free Monthly Webinars on the Sun Touches Everything
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-emergency-egress-system-emphasizes-crew-safety/" >🔗</a> **[NASA]** Artemis Emergency Egress System Emphasizes Crew Safety
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bindu-rani-explores-black-holes-mothers-hard-balances-life/" >🔗</a> **[NASA]** Bindu Rani Explores Black Holes, Mothers Hard, Balances Life
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-flipping-nasa-tech-and-sticking-the-landing/" >🔗</a> **[NASA]** Tech Today: Flipping NASA Tech and Sticking the Landing
 - <a href="https://spacenews.com/perceptive-space-raises-2-8-million-for-space-weather-platform/" >🔗</a> **[SpaceNews]** Perceptive Space raises $2.8 million for space weather platform
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/quantum-scale-sensors-used-to-measure-planetary-scale-magnetic-fields/" >🔗</a> **[NASA]** Quantum Scale Sensors used to Measure Planetary Scale Magnetic Fields
-- <a href="https://europeanspaceflight.com/polaris-and-dlr-to-explore-integrating-spaceplanes-in-commercial-airspace/" >🔗</a> **[European Spaceflight]** POLARIS and DLR to Explore Integrating Spaceplanes in Commercial Airspace
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T190115">2024-08-06 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T193101">2024-08-06 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
