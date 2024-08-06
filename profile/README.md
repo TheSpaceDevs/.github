@@ -47,7 +47,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T063300">2024-08-06 06:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240806T063300Z%2F20240806T071700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T125900">2024-08-07 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240807T125900Z%2F20240807T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T121300">2024-08-09 12:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240809T121300Z%2F20240809T161300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240810T111500">2024-08-10 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-7&location=Kennedy Space Center, FL, USA&dates=20240810T111500Z%2F20240810T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-7** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T020000">2024-08-12 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240812T020000Z%2F20240812T020500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T000000">2024-08-14 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20240814T000000Z%2F20240814T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 3 & 4** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/smallsat-conference-to-relocate-to-salt-lake-city-in-2025-after-four-decades-in-logan" >🔗</a> **[The Launch Pad]** SmallSat Conference To Relocate to Salt Lake City In 2025 After Four Decades in Logan
 - <a href="https://spaceflightnow.com/2024/08/05/nasa-cygnus-on-track-for-tuesday-morning-arrival-at-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA: Cygnus on track for Tuesday morning arrival at the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-student-missions-to-send-to-space-in-2026-beyond/" >🔗</a> **[NASA]** NASA Seeks Student Missions to Send to Space in 2026, Beyond
 - <a href="https://spacenews.com/aerospace-ceo-lauds-smallsat-innovation-and-risk-taking/" >🔗</a> **[SpaceNews]** Aerospace CEO lauds smallsat  innovation and risk-taking
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/coming-in-hot-nasas-chandra-checks-habitability-of-exoplanets-2/" >🔗</a> **[NASA]** Coming in Hot – NASA’s Chandra Checks Habitability of Exoplanets
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/marshall-disasters-team-support-national-weather-service-offices-during-may-severe-weather/" >🔗</a> **[NASA]** Marshall Disasters Team Support National Weather Service Offices During May Severe Weather
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/snowstorm-field-campaign-wins-prestigious-presidential-rank-group-achievement-award/" >🔗</a> **[NASA]** Snowstorm Field Campaign Wins Prestigious Presidential Rank Group Achievement Award
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/knack-lidar-technology-demonstration-at-5th-joint-eva-test-team-jettf-field-compaign-flagstaff-arizona/" >🔗</a> **[NASA]** KNaCK LIDAR Technology Demonstration at 5th Joint EVA Test Team (JETT5) Field Compaign, Flagstaff, Arizona
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T015343">2024-08-06 01:53:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T021506">2024-08-06 02:15:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
