@@ -53,9 +53,9 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T000000">2024-08-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240815T000000Z%2F20240815T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T031500">2024-08-15 03:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-08/Microsat-2C&location=Satish Dhawan Space Centre, India&dates=20240815T031500Z%2F20240815T071500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV | EOS-08/Microsat-2C** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T032017">2024-08-15 03:20:17 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-28 (89P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240815T032017Z%2F20240815T032017Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-28 (89P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T093900">2024-08-18 09:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Kennedy Space Center, FL, USA&dates=20240818T093900Z%2F20240818T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | A Sky Full of SARs (Capella Acadia 3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | A Sky Full of SARs (Capella Acadia 3)** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GSAT-20&location=Cape Canaveral, FL, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GSAT-20** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/doomed-star-eta-carinae/" >🔗</a> **[NASA]** Doomed Star Eta Carinae
+- <a href="https://spaceflightnow.com/2024/08/06/nasa-pushes-crew-9-launch-to-september-amid-uncertainty-of-starliners-return-timeline/" >🔗</a> **[Spaceflight Now]** NASA pushes Crew-9 launch to September amid uncertainty of Starliner’s return timeline
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-space-station-missions-update/" >🔗</a> **[NASA]** NASA to Provide Crew Flight Test, Space Station Missions Update
 - <a href="https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/" >🔗</a> **[NASA]** Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds
 - <a href="https://spacenews.com/leaf-space-deploys-first-ground-antenna-with-high-speed-ka-band/" >🔗</a> **[SpaceNews]** Leaf Space deploys first ground antenna with high-speed Ka-band
 - <a href="https://spacenews.com/bae-wins-48-million-u-s-air-force-contract-for-data-analytics-platform/" >🔗</a> **[SpaceNews]** BAE wins $48 million U.S. Air Force contract for data analytics platform
-- <a href="https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
 - <a href="https://www.nasa.gov/aeronautics/winners-announced-in-gateways-to-blue-skies-aeronautics-competition-3/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
+- <a href="https://www.nasa.gov/aeronautics/collegiate-teams-to-focus-on-aviation-solutions-for-agriculture-in-2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** Collegiate Teams to Focus on Aviation Solutions for Agriculture in 2025 Gateways to Blue Skies Competition
 - <a href="https://science.nasa.gov/learning-resources/science-activation/celebrate-heliophysics-big-year-free-monthly-webinars-on-the-sun-touches-everything/" >🔗</a> **[NASA]** Celebrate Heliophysics Big Year: Free Monthly Webinars on the Sun Touches Everything
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-emergency-egress-system-emphasizes-crew-safety/" >🔗</a> **[NASA]** Artemis Emergency Egress System Emphasizes Crew Safety
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bindu-rani-explores-black-holes-mothers-hard-balances-life/" >🔗</a> **[NASA]** Bindu Rani Explores Black Holes, Mothers Hard, Balances Life
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-flipping-nasa-tech-and-sticking-the-landing/" >🔗</a> **[NASA]** Tech Today: Flipping NASA Tech and Sticking the Landing
-- <a href="https://spacenews.com/perceptive-space-raises-2-8-million-for-space-weather-platform/" >🔗</a> **[SpaceNews]** Perceptive Space raises $2.8 million for space weather platform
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T203101">2024-08-06 20:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T210119">2024-08-06 21:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
