@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-signs-multi-launch-agreement-with-l3harris/" >🔗</a> **[SpaceNews]** Firefly signs multi-launch agreement with L3Harris
+- <a href="https://spacenews.com/in-the-west-ties-between-space-and-defense-are-strengthening/" >🔗</a> **[SpaceNews]** In the West, ties between space and defense are strengthening
 - <a href="https://spacenews.com/oxford-space-systems-shares-yagi-antenna-deployment/" >🔗</a> **[SpaceNews]** Oxford Space Systems shares Yagi antenna deployment
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Take_a_trip_to_Mars_s_largest_lake" >🔗</a> **[ESA]** Take a trip to Mars’s largest lake
 - <a href="https://spacenews.com/nasa-delays-crew-9-launch-as-it-grapples-with-starliner-problems/" >🔗</a> **[SpaceNews]** NASA delays Crew-9 launch as it grapples with Starliner problems
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/crew-9-launch-slips-to-give-nasa-more-time-to-analyze-starliner-data/" >🔗</a> **[SpacePolicyOnline.com]** Crew-9 Launch Slips to Give NASA More Time to Analyze Starliner Data
 - <a href="https://spacenews.com/dcubed-raises-4-4-million-euros-for-in-space-manufacturing/" >🔗</a> **[SpaceNews]** Dcubed raises 4.4 million euros for in-space manufacturing
 - <a href="https://tlpnetwork.com/news/america/nasa-and-spacex-delay-crew-9-to-due-to-starliner-mission-delays" >🔗</a> **[The Launch Pad]** NASA & SpaceX Delay Crew 9 To September 24 Due To Starliner Mission Delays
-- <a href="https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/" >🔗</a> **[Arstechnica]** NASA chief will make the final decision on how Starliner crew flies home
-- <a href="https://spacenews.com/impulse-space-announces-geo-rideshare-program/" >🔗</a> **[SpaceNews]** Impulse Space announces GEO rideshare program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T130414">2024-08-07 13:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T133145">2024-08-07 13:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
