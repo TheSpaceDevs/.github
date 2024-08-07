@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/goddard-tech/nasa-optical-navigation-tech-could-streamline-planetary-exploration/" >🔗</a> **[NASA]** NASA Optical Navigation Tech Could Streamline Planetary Exploration
+- <a href="https://www.nasa.gov/image-article/carving-canyons/" >🔗</a> **[NASA]** Carving Canyons
+- <a href="https://www.nasaspaceflight.com/2024/08/iss-starliner-contingencies-resumption-evas/" >🔗</a> **[NASASpaceflight]** ISS prepares for Starliner contingencies and resumption of EVAs
+- <a href="https://spacenews.com/pld-space-to-start-building-french-guiana-launch-facilities-next-month/" >🔗</a> **[SpaceNews]** PLD Space to start building French Guiana launch facilities next month
 - <a href="https://spacenews.com/long-term-moon-mission-safety-depends-on-sturdy-infrastructure/" >🔗</a> **[SpaceNews]** Long-term moon mission safety depends on sturdy infrastructure
 - <a href="https://spacenews.com/heavier-smallsats-weigh-down-market-forecasts/" >🔗</a> **[SpaceNews]** Heavier smallsats weigh down market forecasts
 - <a href="https://spaceflightnow.com/2024/08/07/live-coverage-nasa-to-discuss-iss-schedule-shuffle-amid-spacex-crew-9-launch-delay-boeing-starliner-questions/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to discuss ISS schedule shuffle amid SpaceX Crew-9 launch delay, Boeing Starliner questions
 - <a href="https://spacenews.com/firefly-signs-multi-launch-agreement-with-l3harris/" >🔗</a> **[SpaceNews]** Firefly signs multi-launch agreement with L3Harris
 - <a href="https://spacenews.com/in-the-west-ties-between-space-and-defense-are-strengthening/" >🔗</a> **[SpaceNews]** In the West, ties between space and defense are strengthening
 - <a href="https://spacenews.com/little-place-labs-and-loft-orbital-to-test-analytics-in-orbit/" >🔗</a> **[SpaceNews]** Little Place Labs and Loft Orbital to test analytics in orbit
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-julia-khodabandeh/" >🔗</a> **[NASA]** I Am Artemis: Julia Khodabandeh
-- <a href="https://spacenews.com/oxford-space-systems-shares-yagi-antenna-deployment/" >🔗</a> **[SpaceNews]** Oxford Space Systems shares Yagi antenna deployment
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Take_a_trip_to_Mars_s_largest_lake" >🔗</a> **[ESA]** Take a trip to Mars’s largest lake
-- <a href="https://spacenews.com/nasa-delays-crew-9-launch-as-it-grapples-with-starliner-problems/" >🔗</a> **[SpaceNews]** NASA delays Crew-9 launch as it grapples with Starliner problems
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T180119">2024-08-07 18:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T183411">2024-08-07 18:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
