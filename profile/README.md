@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/heavier-smallsats-weigh-down-market-forecasts/" >🔗</a> **[SpaceNews]** Heavier smallsats weigh down market forecasts
+- <a href="https://spaceflightnow.com/2024/08/07/live-coverage-nasa-to-discuss-iss-schedule-shuffle-amid-spacex-crew-9-launch-delay-boeing-starliner-questions/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to discuss ISS schedule shuffle amid SpaceX Crew-9 launch delay, Boeing Starliner questions
 - <a href="https://spacenews.com/firefly-signs-multi-launch-agreement-with-l3harris/" >🔗</a> **[SpaceNews]** Firefly signs multi-launch agreement with L3Harris
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-julia-khodabandeh/" >🔗</a> **[NASA]** I Am Artemis: Julia Khodabandeh
 - <a href="https://spacenews.com/in-the-west-ties-between-space-and-defense-are-strengthening/" >🔗</a> **[SpaceNews]** In the West, ties between space and defense are strengthening
 - <a href="https://spacenews.com/little-place-labs-and-loft-orbital-to-test-analytics-in-orbit/" >🔗</a> **[SpaceNews]** Little Place Labs and Loft Orbital to test analytics in orbit
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-julia-khodabandeh/" >🔗</a> **[NASA]** I Am Artemis: Julia Khodabandeh
 - <a href="https://spacenews.com/oxford-space-systems-shares-yagi-antenna-deployment/" >🔗</a> **[SpaceNews]** Oxford Space Systems shares Yagi antenna deployment
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Take_a_trip_to_Mars_s_largest_lake" >🔗</a> **[ESA]** Take a trip to Mars’s largest lake
 - <a href="https://spacenews.com/nasa-delays-crew-9-launch-as-it-grapples-with-starliner-problems/" >🔗</a> **[SpaceNews]** NASA delays Crew-9 launch as it grapples with Starliner problems
 - <a href="https://europeanspaceflight.com/airbus-taps-lufthansa-to-provide-starlab-astronaut-training/" >🔗</a> **[European Spaceflight]** Airbus Taps Lufthansa to Provide Starlab Astronaut Training
-- <a href="https://www.nasaspaceflight.com/2024/08/cosmonaut-training/" >🔗</a> **[NASASpaceflight]** From Star City to Cape Canaveral, how a cosmonaut trains for a SpaceX flight
-- <a href="https://spacepolicyonline.com/news/crew-9-launch-slips-to-give-nasa-more-time-to-analyze-starliner-data/" >🔗</a> **[SpacePolicyOnline.com]** Crew-9 Launch Slips to Give NASA More Time to Analyze Starliner Data
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T150113">2024-08-07 15:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T153118">2024-08-07 15:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
