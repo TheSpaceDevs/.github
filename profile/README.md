@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spanish-defense-contractor-buys-small-satellite-mission-specialist-deimos/" >🔗</a> **[SpaceNews]** Spanish defense contractor buys small satellite mission specialist Deimos
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-7-2024/" >🔗</a> **[NASA]** The Marshall Star for August 7, 2024
 - <a href="https://www.nasa.gov/technology/goddard-tech/nasa-optical-navigation-tech-could-streamline-planetary-exploration/" >🔗</a> **[NASA]** NASA Optical Navigation Tech Could Streamline Planetary Exploration
 - <a href="https://www.nasa.gov/image-article/carving-canyons/" >🔗</a> **[NASA]** Carving Canyons
 - <a href="https://www.nasaspaceflight.com/2024/08/iss-starliner-contingencies-resumption-evas/" >🔗</a> **[NASASpaceflight]** ISS prepares for Starliner contingencies and resumption of EVAs
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/heavier-smallsats-weigh-down-market-forecasts/" >🔗</a> **[SpaceNews]** Heavier smallsats weigh down market forecasts
 - <a href="https://spaceflightnow.com/2024/08/07/live-coverage-nasa-to-discuss-iss-schedule-shuffle-amid-spacex-crew-9-launch-delay-boeing-starliner-questions/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to discuss ISS schedule shuffle amid SpaceX Crew-9 launch delay, Boeing Starliner questions
 - <a href="https://spacenews.com/firefly-signs-multi-launch-agreement-with-l3harris/" >🔗</a> **[SpaceNews]** Firefly signs multi-launch agreement with L3Harris
-- <a href="https://spacenews.com/in-the-west-ties-between-space-and-defense-are-strengthening/" >🔗</a> **[SpaceNews]** In the West, ties between space and defense are strengthening
-- <a href="https://spacenews.com/little-place-labs-and-loft-orbital-to-test-analytics-in-orbit/" >🔗</a> **[SpaceNews]** Little Place Labs and Loft Orbital to test analytics in orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T193100">2024-08-07 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T200114">2024-08-07 20:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
