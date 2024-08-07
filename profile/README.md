@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-considering-returning-starliner-astronauts-on-crew-dragon/" >🔗</a> **[SpaceNews]** NASA considering returning Starliner astronauts on Crew Dragon
 - <a href="https://spacenews.com/u-s-army-gears-up-for-space-warfare-drawing-lessons-from-ukraine/" >🔗</a> **[SpaceNews]** U.S. Army gears up for space warfare, drawing lessons from Ukraine
 - <a href="https://spaceflightnow.com/2024/08/07/firefly-aerospace-announces-contract-with-l3harris-for-up-to-20-launches-on-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace announces contract with L3Harris for up to 20 launches on Alpha rocket
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/" >🔗</a> **[NASA]** Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-7-2024/" >🔗</a> **[NASA]** The Marshall Star for August 7, 2024
 - <a href="https://www.nasa.gov/technology/goddard-tech/nasa-optical-navigation-tech-could-streamline-planetary-exploration/" >🔗</a> **[NASA]** NASA Optical Navigation Tech Could Streamline Planetary Exploration
 - <a href="https://www.nasa.gov/image-article/carving-canyons/" >🔗</a> **[NASA]** Carving Canyons
-- <a href="https://www.nasaspaceflight.com/2024/08/iss-starliner-contingencies-resumption-evas/" >🔗</a> **[NASASpaceflight]** ISS prepares for Starliner contingencies and resumption of EVAs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T213109">2024-08-07 21:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T220115">2024-08-07 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
