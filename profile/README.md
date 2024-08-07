@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/08/cosmonaut-training/" >🔗</a> **[NASASpaceflight]** From Star City to Cape Canaveral, how a cosmonaut trains for a SpaceX flight
+- <a href="https://spacepolicyonline.com/news/crew-9-launch-slips-to-give-nasa-more-time-to-analyze-starliner-data/" >🔗</a> **[SpacePolicyOnline.com]** Crew-9 Launch Slips to Give NASA More Time to Analyze Starliner Data
 - <a href="https://spacenews.com/dcubed-raises-4-4-million-euros-for-in-space-manufacturing/" >🔗</a> **[SpaceNews]** Dcubed raises 4.4 million euros for in-space manufacturing
 - <a href="https://tlpnetwork.com/news/america/nasa-and-spacex-delay-crew-9-to-due-to-starliner-mission-delays" >🔗</a> **[The Launch Pad]** NASA & SpaceX Delay Crew 9 To September 24 Due To Starliner Mission Delays
 - <a href="https://arstechnica.com/space/2024/08/nasa-confirms-slip-of-crew-9-launch-to-late-september-for-flexibility/" >🔗</a> **[Arstechnica]** NASA chief will make the final decision on how Starliner crew flies home
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/safran-to-open-electric-thruster-production-line-in-u-s/" >🔗</a> **[SpaceNews]** Safran to open electric thruster production line in U.S.
 - <a href="https://www.nasa.gov/image-article/doomed-star-eta-carinae/" >🔗</a> **[NASA]** Doomed Star Eta Carinae
 - <a href="https://spaceflightnow.com/2024/08/06/nasa-pushes-crew-9-launch-to-september-amid-uncertainty-of-starliners-return-timeline/" >🔗</a> **[Spaceflight Now]** NASA pushes Crew-9 launch to September amid uncertainty of Starliner’s return timeline
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-space-station-missions-update/" >🔗</a> **[NASA]** NASA to Provide Crew Flight Test, Space Station Missions Update
-- <a href="https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/" >🔗</a> **[NASA]** Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240806T233058">2024-08-06 23:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240807T000351">2024-08-07 00:03:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
