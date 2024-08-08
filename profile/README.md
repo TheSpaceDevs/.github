@@ -46,8 +46,8 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T121300">2024-08-09 12:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240809T121300Z%2F20240809T161300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240810T112100">2024-08-10 11:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-7&location=Kennedy Space Center, FL, USA&dates=20240810T112100Z%2F20240810T152100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-7** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T121300">2024-08-09 12:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240809T121300Z%2F20240809T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240810T112700">2024-08-10 11:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-7&location=Kennedy Space Center, FL, USA&dates=20240810T112700Z%2F20240810T150500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-7** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240811T111500">2024-08-11 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | A Sky Full of SARs (Capella Acadia 3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240811T111500Z%2F20240811T111500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | A Sky Full of SARs (Capella Acadia 3)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T020000">2024-08-12 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240812T020000Z%2F20240812T020500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T000000">2024-08-14 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 3 &amp; 4&location=Cape Canaveral, FL, USA&dates=20240814T000000Z%2F20240814T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 3 & 4** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/08/starship-new-environmental-assessment/" >🔗</a> **[NASASpaceflight]** Starship is Getting a New Environmental Assessment
 - <a href="https://www.nasa.gov/news-release/calling-all-innovators-apply-for-nasas-2025-lunabotics-challenge/" >🔗</a> **[NASA]** Calling All Innovators: Apply for NASA’s 2025 Lunabotics Challenge
 - <a href="https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/" >🔗</a> **[Arstechnica]** A new report finds Boeing’s rockets are built with an unqualified work force
 - <a href="https://www.spacescout.info/2024/08/australia-joins-us-led-landsat-next-program/" >🔗</a> **[Space Scout]** Australia Joins US-Led Landsat Next Program
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/gabrielle-carlisle-millennium-space-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Gabrielle Carlisle, Millennium Space Systems – Leading Women in Space
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Promising_early_tests_for_variable-thrust_landing_engine" >🔗</a> **[ESA]** Promising early tests for variable-thrust landing engine
 - <a href="https://spacenews.com/chinese-megaconstellation-launch-creates-field-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese megaconstellation launch creates field of space debris
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Mermaid_on_salty_Mars" >🔗</a> **[ESA]** Mermaid on salty Mars
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T173111">2024-08-08 17:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T180128">2024-08-08 18:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
