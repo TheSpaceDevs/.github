@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gabrielle-carlisle-millennium-space-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Gabrielle Carlisle, Millennium Space Systems – Leading Women in Space
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Promising_early_tests_for_variable-thrust_landing_engine" >🔗</a> **[ESA]** Promising early tests for variable-thrust landing engine
 - <a href="https://spacenews.com/chinese-megaconstellation-launch-creates-field-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese megaconstellation launch creates field of space debris
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Mermaid_on_salty_Mars" >🔗</a> **[ESA]** Mermaid on salty Mars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_possible_moons_around_hundreds_of_asteroids" >🔗</a> **[ESA]** Gaia spots possible moons around hundreds of asteroids
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-still-deciding-if-butch-and-suni-will-come-home-on-starliner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Still Deciding If Butch and Suni Will Come Home on Starliner
 - <a href="https://arstechnica.com/space/2024/08/nasa-official-acknowledges-internal-disagreement-on-safety-of-starliner-return/" >🔗</a> **[Arstechnica]** NASA official acknowledges internal “disagreement” on safety of Starliner return
 - <a href="https://spacenews.com/nasa-considering-returning-starliner-astronauts-on-crew-dragon/" >🔗</a> **[SpaceNews]** NASA considering returning Starliner astronauts on Crew Dragon
-- <a href="https://spacenews.com/u-s-army-gears-up-for-space-warfare-drawing-lessons-from-ukraine/" >🔗</a> **[SpaceNews]** U.S. Army gears up for space warfare, drawing lessons from Ukraine
-- <a href="https://spaceflightnow.com/2024/08/07/firefly-aerospace-announces-contract-with-l3harris-for-up-to-20-launches-on-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace announces contract with L3Harris for up to 20 launches on Alpha rocket
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T140110">2024-08-08 14:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T143129">2024-08-08 14:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
