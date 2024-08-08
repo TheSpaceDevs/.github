@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-shares-soar-on-government-and-aviation-growth/" >🔗</a> **[SpaceNews]** Viasat shares soar on government and aviation growth
+- <a href="https://www.nasa.gov/news-release/nasa-mission-concludes-after-years-of-successful-asteroid-detections/" >🔗</a> **[NASA]** NASA Mission Concludes After Years of Successful Asteroid Detections
 - <a href="https://spacenews.com/logan-utah-bids-farewell-to-the-small-satellite-conference/" >🔗</a> **[SpaceNews]** Logan, Utah, bids farewell to the Small Satellite Conference
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aircraft-gathers-150-hours-of-data-to-better-understand-earth/" >🔗</a> **[NASA]** NASA Aircraft Gathers 150 Hours of Data to Better Understand Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/this-rocks-nasa-is-sending-student-science-to-space/" >🔗</a> **[NASA]** This Rocks! NASA is Sending Student Science to Space
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/08/starship-new-environmental-assessment/" >🔗</a> **[NASASpaceflight]** Starship is Getting a New Environmental Assessment
 - <a href="https://www.nasa.gov/news-release/calling-all-innovators-apply-for-nasas-2025-lunabotics-challenge/" >🔗</a> **[NASA]** Calling All Innovators: Apply for NASA’s 2025 Lunabotics Challenge
 - <a href="https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/" >🔗</a> **[Arstechnica]** A new report finds Boeing’s rockets are built with an unqualified work force
-- <a href="https://www.spacescout.info/2024/08/australia-joins-us-led-landsat-next-program/" >🔗</a> **[Space Scout]** Australia Joins US-Led Landsat Next Program
-- <a href="https://www.nasa.gov/image-article/sedimentary-and-planetary-geologist-dr-michael-thorpe/" >🔗</a> **[NASA]** Sedimentary and Planetary Geologist Dr. Michael Thorpe
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T230108">2024-08-08 23:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T233104">2024-08-08 23:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
