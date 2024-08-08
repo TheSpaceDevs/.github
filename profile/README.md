@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Mermaid_on_salty_Mars" >🔗</a> **[ESA]** Mermaid on salty Mars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_possible_moons_around_hundreds_of_asteroids" >🔗</a> **[ESA]** Gaia spots possible moons around hundreds of asteroids
 - <a href="https://europeanspaceflight.com/rfa-complete-second-first-stage-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Complete Second First Stage Static Fire Test
 - <a href="https://science.nasa.gov/blogs/sols-4266-4267-happy-landiversary-curiosity/" >🔗</a> **[NASA]** Sols 4266-4267: Happy ‘Landiversary,’ Curiosity
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-army-gears-up-for-space-warfare-drawing-lessons-from-ukraine/" >🔗</a> **[SpaceNews]** U.S. Army gears up for space warfare, drawing lessons from Ukraine
 - <a href="https://spaceflightnow.com/2024/08/07/firefly-aerospace-announces-contract-with-l3harris-for-up-to-20-launches-on-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace announces contract with L3Harris for up to 20 launches on Alpha rocket
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/" >🔗</a> **[NASA]** Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars
-- <a href="https://spaceflightnow.com/2024/08/07/nasa-getting-more-serious-about-backup-plan-to-bring-starliner-astronauts-home-if-needed/" >🔗</a> **[Spaceflight Now]** NASA ‘getting more serious’ about backup plan to bring Starliner astronauts home if needed
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T080134">2024-08-08 08:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T083327">2024-08-08 08:33:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
