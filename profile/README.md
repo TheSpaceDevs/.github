@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_possible_moons_around_hundreds_of_asteroids" >🔗</a> **[ESA]** Gaia spots possible moons around hundreds of asteroids
+- <a href="https://europeanspaceflight.com/rfa-complete-second-first-stage-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Complete Second First Stage Static Fire Test
 - <a href="https://science.nasa.gov/blogs/sols-4266-4267-happy-landiversary-curiosity/" >🔗</a> **[NASA]** Sols 4266-4267: Happy ‘Landiversary,’ Curiosity
 - <a href="https://spacepolicyonline.com/news/nasa-still-deciding-if-butch-and-suni-will-come-home-on-starliner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Still Deciding If Butch and Suni Will Come Home on Starliner
 - <a href="https://arstechnica.com/space/2024/08/nasa-official-acknowledges-internal-disagreement-on-safety-of-starliner-return/" >🔗</a> **[Arstechnica]** NASA official acknowledges internal “disagreement” on safety of Starliner return
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/07/firefly-aerospace-announces-contract-with-l3harris-for-up-to-20-launches-on-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace announces contract with L3Harris for up to 20 launches on Alpha rocket
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/" >🔗</a> **[NASA]** Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars
 - <a href="https://spaceflightnow.com/2024/08/07/nasa-getting-more-serious-about-backup-plan-to-bring-starliner-astronauts-home-if-needed/" >🔗</a> **[Spaceflight Now]** NASA ‘getting more serious’ about backup plan to bring Starliner astronauts home if needed
-- <a href="https://www.cnbc.com/2024/08/07/nasa-deadline-returning-boeing-starliner-with-crew-or-empty.html" >🔗</a> **[CNBC]** NASA has about a week to decide on returning Boeing’s Starliner with crew or empty
-- <a href="https://spacenews.com/spanish-defense-contractor-buys-small-satellite-mission-specialist-deimos/" >🔗</a> **[SpaceNews]** Spanish defense contractor buys small satellite mission specialist Deimos
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T070120">2024-08-08 07:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T073057">2024-08-08 07:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
