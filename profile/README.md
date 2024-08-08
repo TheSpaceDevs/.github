@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aircraft-gathers-150-hours-of-data-to-better-understand-earth/" >🔗</a> **[NASA]** NASA Aircraft Gathers 150 Hours of Data to Better Understand Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/this-rocks-nasa-is-sending-student-science-to-space/" >🔗</a> **[NASA]** This Rocks! NASA is Sending Student Science to Space
 - <a href="https://spacenews.com/commerce-department-preparing-to-turn-on-initial-version-of-space-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Commerce Department preparing to turn on initial version of space traffic coordination service
 - <a href="https://www.nasa.gov/image-article/interior-of-vacuum-tank-at-the-electric-propulsion-laboratory/" >🔗</a> **[NASA]** Interior of Vacuum Tank at the Electric Propulsion Laboratory
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/08/australia-joins-us-led-landsat-next-program/" >🔗</a> **[Space Scout]** Australia Joins US-Led Landsat Next Program
 - <a href="https://www.nasa.gov/image-article/sedimentary-and-planetary-geologist-dr-michael-thorpe/" >🔗</a> **[NASA]** Sedimentary and Planetary Geologist Dr. Michael Thorpe
 - <a href="https://www.nasa.gov/image-article/communications-strategist-thalia-patrinos/" >🔗</a> **[NASA]** Communications Strategist Thalia Patrinos
-- <a href="https://science.nasa.gov/open-science/exoplanet-future-citizen-science/" >🔗</a> **[NASA]** How NASA Citizen Science Fuels Future Exoplanet Research
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T210120">2024-08-08 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T213122">2024-08-08 21:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
