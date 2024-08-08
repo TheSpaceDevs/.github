@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/calling-all-innovators-apply-for-nasas-2025-lunabotics-challenge/" >🔗</a> **[NASA]** Calling All Innovators: Apply for NASA’s 2025 Lunabotics Challenge
+- <a href="https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/" >🔗</a> **[Arstechnica]** A new report finds Boeing’s rockets are built with an unqualified work force
 - <a href="https://www.spacescout.info/2024/08/australia-joins-us-led-landsat-next-program/" >🔗</a> **[Space Scout]** Australia Joins US-Led Landsat Next Program
 - <a href="https://www.nasa.gov/image-article/sedimentary-and-planetary-geologist-dr-michael-thorpe/" >🔗</a> **[NASA]** Sedimentary and Planetary Geologist Dr. Michael Thorpe
 - <a href="https://www.nasa.gov/image-article/communications-strategist-thalia-patrinos/" >🔗</a> **[NASA]** Communications Strategist Thalia Patrinos
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Promising_early_tests_for_variable-thrust_landing_engine" >🔗</a> **[ESA]** Promising early tests for variable-thrust landing engine
 - <a href="https://spacenews.com/chinese-megaconstellation-launch-creates-field-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese megaconstellation launch creates field of space debris
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Mermaid_on_salty_Mars" >🔗</a> **[ESA]** Mermaid on salty Mars
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_possible_moons_around_hundreds_of_asteroids" >🔗</a> **[ESA]** Gaia spots possible moons around hundreds of asteroids
-- <a href="https://europeanspaceflight.com/rfa-complete-second-first-stage-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Complete Second First Stage Static Fire Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T170121">2024-08-08 17:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T173111">2024-08-08 17:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
