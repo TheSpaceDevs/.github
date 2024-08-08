@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/08/australia-joins-us-led-landsat-next-program/" >🔗</a> **[Space Scout]** Australia Joins US-Led Landsat Next Program
 - <a href="https://www.nasa.gov/image-article/sedimentary-and-planetary-geologist-dr-michael-thorpe/" >🔗</a> **[NASA]** Sedimentary and Planetary Geologist Dr. Michael Thorpe
 - <a href="https://www.nasa.gov/image-article/communications-strategist-thalia-patrinos/" >🔗</a> **[NASA]** Communications Strategist Thalia Patrinos
 - <a href="https://science.nasa.gov/open-science/exoplanet-future-citizen-science/" >🔗</a> **[NASA]** How NASA Citizen Science Fuels Future Exoplanet Research
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Mermaid_on_salty_Mars" >🔗</a> **[ESA]** Mermaid on salty Mars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_possible_moons_around_hundreds_of_asteroids" >🔗</a> **[ESA]** Gaia spots possible moons around hundreds of asteroids
 - <a href="https://europeanspaceflight.com/rfa-complete-second-first-stage-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Complete Second First Stage Static Fire Test
-- <a href="https://science.nasa.gov/blogs/sols-4266-4267-happy-landiversary-curiosity/" >🔗</a> **[NASA]** Sols 4266-4267: Happy ‘Landiversary,’ Curiosity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T160117">2024-08-08 16:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T163422">2024-08-08 16:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
