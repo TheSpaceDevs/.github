@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commerce-department-preparing-to-turn-on-initial-version-of-space-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Commerce Department preparing to turn on initial version of space traffic coordination service
+- <a href="https://www.nasa.gov/image-article/interior-of-vacuum-tank-at-the-electric-propulsion-laboratory/" >🔗</a> **[NASA]** Interior of Vacuum Tank at the Electric Propulsion Laboratory
 - <a href="https://www.nasaspaceflight.com/2024/08/starship-new-environmental-assessment/" >🔗</a> **[NASASpaceflight]** Starship is Getting a New Environmental Assessment
 - <a href="https://www.nasa.gov/news-release/calling-all-innovators-apply-for-nasas-2025-lunabotics-challenge/" >🔗</a> **[NASA]** Calling All Innovators: Apply for NASA’s 2025 Lunabotics Challenge
 - <a href="https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/" >🔗</a> **[Arstechnica]** A new report finds Boeing’s rockets are built with an unqualified work force
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/communications-strategist-thalia-patrinos/" >🔗</a> **[NASA]** Communications Strategist Thalia Patrinos
 - <a href="https://science.nasa.gov/open-science/exoplanet-future-citizen-science/" >🔗</a> **[NASA]** How NASA Citizen Science Fuels Future Exoplanet Research
 - <a href="https://spacenews.com/gabrielle-carlisle-millennium-space-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Gabrielle Carlisle, Millennium Space Systems – Leading Women in Space
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Promising_early_tests_for_variable-thrust_landing_engine" >🔗</a> **[ESA]** Promising early tests for variable-thrust landing engine
-- <a href="https://spacenews.com/chinese-megaconstellation-launch-creates-field-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese megaconstellation launch creates field of space debris
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T180128">2024-08-08 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T183439">2024-08-08 18:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
