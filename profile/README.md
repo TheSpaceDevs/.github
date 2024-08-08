@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-megaconstellation-launch-creates-field-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese megaconstellation launch creates field of space debris
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Mermaid_on_salty_Mars" >🔗</a> **[ESA]** Mermaid on salty Mars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_possible_moons_around_hundreds_of_asteroids" >🔗</a> **[ESA]** Gaia spots possible moons around hundreds of asteroids
 - <a href="https://europeanspaceflight.com/rfa-complete-second-first-stage-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Complete Second First Stage Static Fire Test
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-considering-returning-starliner-astronauts-on-crew-dragon/" >🔗</a> **[SpaceNews]** NASA considering returning Starliner astronauts on Crew Dragon
 - <a href="https://spacenews.com/u-s-army-gears-up-for-space-warfare-drawing-lessons-from-ukraine/" >🔗</a> **[SpaceNews]** U.S. Army gears up for space warfare, drawing lessons from Ukraine
 - <a href="https://spaceflightnow.com/2024/08/07/firefly-aerospace-announces-contract-with-l3harris-for-up-to-20-launches-on-alpha-rocket/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace announces contract with L3Harris for up to 20 launches on Alpha rocket
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/" >🔗</a> **[NASA]** Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T110115">2024-08-08 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T113112">2024-08-08 11:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
