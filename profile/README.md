@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/wallops/this-rocks-nasa-is-sending-student-science-to-space/" >🔗</a> **[NASA]** This Rocks! NASA is Sending Student Science to Space
 - <a href="https://spacenews.com/commerce-department-preparing-to-turn-on-initial-version-of-space-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Commerce Department preparing to turn on initial version of space traffic coordination service
 - <a href="https://www.nasa.gov/image-article/interior-of-vacuum-tank-at-the-electric-propulsion-laboratory/" >🔗</a> **[NASA]** Interior of Vacuum Tank at the Electric Propulsion Laboratory
 - <a href="https://www.nasaspaceflight.com/2024/08/starship-new-environmental-assessment/" >🔗</a> **[NASASpaceflight]** Starship is Getting a New Environmental Assessment
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/sedimentary-and-planetary-geologist-dr-michael-thorpe/" >🔗</a> **[NASA]** Sedimentary and Planetary Geologist Dr. Michael Thorpe
 - <a href="https://www.nasa.gov/image-article/communications-strategist-thalia-patrinos/" >🔗</a> **[NASA]** Communications Strategist Thalia Patrinos
 - <a href="https://science.nasa.gov/open-science/exoplanet-future-citizen-science/" >🔗</a> **[NASA]** How NASA Citizen Science Fuels Future Exoplanet Research
-- <a href="https://spacenews.com/gabrielle-carlisle-millennium-space-systems-leading-women-in-space/" >🔗</a> **[SpaceNews]** Gabrielle Carlisle, Millennium Space Systems – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T190107">2024-08-08 19:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T193100">2024-08-08 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
