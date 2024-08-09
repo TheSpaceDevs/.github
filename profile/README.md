@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-ig-blasts-boeing-on-block-1b/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Blasts Boeing on Block 1B
 - <a href="https://spaceflightnow.com/2024/08/09/nasa-sends-final-command-to-its-neowise-spacecraft-ending-more-than-a-decade-of-asteroid-observations/" >🔗</a> **[Spaceflight Now]** NASA sends final command to its NEOWISE spacecraft, ending more than a decade of asteroid observations
 - <a href="https://spacenews.com/virgin-galactic-outlines-economics-of-its-future-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic outlines economics of its future spaceplanes
 - <a href="https://spaceflightnow.com/2024/08/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aircraft-gathers-150-hours-of-data-to-better-understand-earth/" >🔗</a> **[NASA]** NASA Aircraft Gathers 150 Hours of Data to Better Understand Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/this-rocks-nasa-is-sending-student-science-to-space/" >🔗</a> **[NASA]** This Rocks! NASA is Sending Student Science to Space
 - <a href="https://spacenews.com/commerce-department-preparing-to-turn-on-initial-version-of-space-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Commerce Department preparing to turn on initial version of space traffic coordination service
-- <a href="https://www.nasa.gov/image-article/interior-of-vacuum-tank-at-the-electric-propulsion-laboratory/" >🔗</a> **[NASA]** Interior of Vacuum Tank at the Electric Propulsion Laboratory
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T040118">2024-08-09 04:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T043302">2024-08-09 04:33:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
