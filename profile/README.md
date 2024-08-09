@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/08/rocket-report-archimedes-engine-sees-first-light-new-glenn-making-moves/" >🔗</a> **[Arstechnica]** Rocket Report: Archimedes engine sees first light, New Glenn making moves
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/The_hidden_intricacies_of_Messier_106" >🔗</a> **[ESA]** The hidden intricacies of Messier 106
 - <a href="https://www.esa.int/About_Us/ESA_Publications/Build_your_own_Ariane_6_rocket_with_ESA" >🔗</a> **[ESA]** Build your own Ariane 6 rocket with ESA!
 - <a href="https://tlpnetwork.com/news/america/safran-electronics-and-defense-to-establish-new-satellite-electric-propulsion-production-line-in-colorado" >🔗</a> **[The Launch Pad]** Safran Electronics & Defense to Establish New Satellite Electric Propulsion Production Line in Colorado
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/the-exploration-company-has-secured-770m-in-contracts/" >🔗</a> **[European Spaceflight]** The Exploration Company Has Secured $770M in Contracts
 - <a href="https://tlpnetwork.com/news/america/vast-partners-with-redwire-and-yuri-for-microgravity-lab-on-haven-1-space-station" >🔗</a> **[The Launch Pad]** Vast Partners with Redwire and Yuri for Microgravity Lab on Haven-1 Space Station
 - <a href="https://tlpnetwork.com/news/america/nasa-explores-mars-sample-return-mission-approaches-with-commercial-partners" >🔗</a> **[The Launch Pad]** NASA Explores Mars Sample Return Mission Approaches with Commercial Partners
-- <a href="https://tlpnetwork.com/news/europe/yahsat-revenue-dip-amid-satellite-issues-gains-profit-boost-from-airbus-compensation" >🔗</a> **[The Launch Pad]** Yahsat Revenue Dip Amid Satellite Issues, Gains Profit Boost from Airbus Compensation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T110122">2024-08-09 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T113116">2024-08-09 11:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
