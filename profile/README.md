@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" >🔗</a> **[NASA]** NASA Explores Industry, Partner Interest in Using VIPER Moon Rover
+- <a href="https://tlpnetwork.com/news/asia/china-thousand-sails-megaconstellation-kicks-off-with-dangerous-debris-field" >🔗</a> **[The Launch Pad]** China's Thousand Sails Megaconstellation Kicks Off with Dangerous Debris Field
 - <a href="https://tlpnetwork.com/news/america/viasat-shares-surge-amid-strong-2024-q1-performance-and-upbeat-revenue-outlook" >🔗</a> **[The Launch Pad]** Viasat Shares Surge 38% Amid Strong Q1 Performance and Upbeat Revenue Outlook
 - <a href="https://www.nasaspaceflight.com/2024/08/flight-5-6-preparations-raptor-3/" >🔗</a> **[NASASpaceflight]** Flight 5 and 6 Preparations Underway as SpaceX reveals Raptor 3
 - <a href="https://tlpnetwork.com/news/america/impulse-space-to-offer-rideshare-services-to-geostationary-orbit-with-helios-tug" >🔗</a> **[The Launch Pad]** Impulse Space to Offer Rideshare Services to Geostationary Orbit with Helios Tug
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/08/pressure-mounts-as-new-glenn-nears-launch-date/" >🔗</a> **[Space Scout]** Pressure Mounts as New Glenn Nears Launch Date
 - <a href="https://www.nasa.gov/news-release/nasa-hosts-astronaut-don-pettit-prelaunch-interviews/" >🔗</a> **[NASA]** NASA Hosts Astronaut Don Pettit Prelaunch Interviews
 - <a href="https://science.nasa.gov/learning-resources/science-activation/astro-campers-scope-out-new-worlds/" >🔗</a> **[NASA]** Astro Campers SCoPE Out New Worlds
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/a-furst-of-its-kind-sounding-rocket-mission-to-study-sun-as-a-star/" >🔗</a> **[NASA]** A ‘FURST’ of its Kind: Sounding Rocket Mission to Study Sun as a Star
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-teams-change-brakes-to-keep-artemis-crew-safe/" >🔗</a> **[NASA]** NASA Teams Change Brakes to Keep Artemis Crew Safe
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T213109">2024-08-09 21:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T220122">2024-08-09 22:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
