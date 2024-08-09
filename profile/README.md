@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-in-exclusive-talks-to-create-ground-station-as-a-service-giant/" >🔗</a> **[SpaceNews]** Eutelsat in exclusive talks to create ground station-as-a-service giant
+- <a href="https://www.spacescout.info/2024/08/pressure-mounts-as-new-glenn-nears-launch-date/" >🔗</a> **[Space Scout]** Pressure Mounts as New Glenn Nears Launch Date
+- <a href="https://www.nasa.gov/news-release/nasa-hosts-astronaut-don-pettit-prelaunch-interviews/" >🔗</a> **[NASA]** NASA Hosts Astronaut Don Pettit Prelaunch Interviews
+- <a href="https://science.nasa.gov/learning-resources/science-activation/astro-campers-scope-out-new-worlds/" >🔗</a> **[NASA]** Astro Campers SCoPE Out New Worlds
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/a-furst-of-its-kind-sounding-rocket-mission-to-study-sun-as-a-star/" >🔗</a> **[NASA]** A ‘FURST’ of its Kind: Sounding Rocket Mission to Study Sun as a Star
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-teams-change-brakes-to-keep-artemis-crew-safe/" >🔗</a> **[NASA]** NASA Teams Change Brakes to Keep Artemis Crew Safe
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/regina-caputo-charts-the-future-of-high-energy-astrophysics/" >🔗</a> **[NASA]** Regina Caputo Charts the Future of High-Energy Astrophysics
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_August_2024" >🔗</a> **[ESA]** Week in images: 05-09 August 2024
 - <a href="https://www.nasa.gov/image-article/the-international-space-stations-window-to-the-world/" >🔗</a> **[NASA]** The International Space Station’s “window to the world”
 - <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-to-launch-8-scientific-balloons-from-new-mexico/" >🔗</a> **[NASA]** NASA to Launch 8 Scientific Balloons From New Mexico
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-tests-deployment-of-roman-space-telescopes-visor/" >🔗</a> **[NASA]** NASA Tests Deployment of Roman Space Telescope’s ‘Visor’
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spotlights-a-supernova/" >🔗</a> **[NASA]** Hubble Spotlights a Supernova
-- <a href="https://spacenews.com/chinese-rocket-stage-breaks-up-into-cloud-of-more-than-700-pieces-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese rocket stage breaks up into cloud of more than 700 pieces of space debris
-- <a href="https://spacenews.com/rocket-lab-fires-archimedes-engine-for-the-first-time/" >🔗</a> **[SpaceNews]** Rocket Lab fires Archimedes engine for the first time
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T170123">2024-08-09 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T173110">2024-08-09 17:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
