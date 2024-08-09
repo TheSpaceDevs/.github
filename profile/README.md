@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-outlines-economics-of-its-future-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic outlines economics of its future spaceplanes
+- <a href="https://spaceflightnow.com/2024/08/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/viasat-shares-soar-on-government-and-aviation-growth/" >🔗</a> **[SpaceNews]** Viasat shares soar on government and aviation growth
 - <a href="https://www.nasa.gov/news-release/nasa-mission-concludes-after-years-of-successful-asteroid-detections/" >🔗</a> **[NASA]** NASA Mission Concludes After Years of Successful Asteroid Detections
 - <a href="https://spacenews.com/logan-utah-bids-farewell-to-the-small-satellite-conference/" >🔗</a> **[SpaceNews]** Logan, Utah, bids farewell to the Small Satellite Conference
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commerce-department-preparing-to-turn-on-initial-version-of-space-traffic-coordination-service/" >🔗</a> **[SpaceNews]** Commerce Department preparing to turn on initial version of space traffic coordination service
 - <a href="https://www.nasa.gov/image-article/interior-of-vacuum-tank-at-the-electric-propulsion-laboratory/" >🔗</a> **[NASA]** Interior of Vacuum Tank at the Electric Propulsion Laboratory
 - <a href="https://www.nasaspaceflight.com/2024/08/starship-new-environmental-assessment/" >🔗</a> **[NASASpaceflight]** Starship is Getting a New Environmental Assessment
-- <a href="https://www.nasa.gov/news-release/calling-all-innovators-apply-for-nasas-2025-lunabotics-challenge/" >🔗</a> **[NASA]** Calling All Innovators: Apply for NASA’s 2025 Lunabotics Challenge
-- <a href="https://arstechnica.com/space/2024/08/a-new-report-finds-boeings-rockets-are-built-with-an-unqualified-work-force/" >🔗</a> **[Arstechnica]** A new report finds Boeing’s rockets are built with an unqualified work force
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240808T233104">2024-08-08 23:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T000348">2024-08-09 00:03:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
