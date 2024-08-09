@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/bae-systems-secures-contract-to-enhance-military-intelligence-data-analytics-platform" >🔗</a> **[The Launch Pad]** BAE Systems Secures $48 Million Contract to Enhance Military Intelligence Data Analytics Platform
+- <a href="https://tlpnetwork.com/news/america/perceptive-space-secures-millions-for-space-weather-platform" >🔗</a> **[The Launch Pad]** Perceptive Space Secures $2.8 Million For Space Weather Platform
 - <a href="https://tlpnetwork.com/news/america/voyager-space-to-continue-development-of-advanced-propulsion-subsystem-for-us-defense-program" >🔗</a> **[The Launch Pad]** Voyager Space To Continue Development of Advanced Propulsion Subsystem for US Defense Program
 - <a href="https://europeanspaceflight.com/the-exploration-company-has-secured-770m-in-contracts/" >🔗</a> **[European Spaceflight]** The Exploration Company Has Secured $770M in Contracts
 - <a href="https://tlpnetwork.com/news/america/vast-partners-with-redwire-and-yuri-for-microgravity-lab-on-haven-1-space-station" >🔗</a> **[The Launch Pad]** Vast Partners with Redwire and Yuri for Microgravity Lab on Haven-1 Space Station
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-ig-blasts-boeing-on-block-1b/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Blasts Boeing on Block 1B
 - <a href="https://spaceflightnow.com/2024/08/09/nasa-sends-final-command-to-its-neowise-spacecraft-ending-more-than-a-decade-of-asteroid-observations/" >🔗</a> **[Spaceflight Now]** NASA sends final command to its NEOWISE spacecraft, ending more than a decade of asteroid observations
 - <a href="https://spacenews.com/virgin-galactic-outlines-economics-of-its-future-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic outlines economics of its future spaceplanes
-- <a href="https://spaceflightnow.com/2024/08/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/viasat-shares-soar-on-government-and-aviation-growth/" >🔗</a> **[SpaceNews]** Viasat shares soar on government and aviation growth
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T073108">2024-08-09 07:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T080131">2024-08-09 08:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
