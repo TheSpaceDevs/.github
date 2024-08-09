@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T121300">2024-08-09 12:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-3&location=Cape Canaveral, FL, USA&dates=20240809T121300Z%2F20240809T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-3** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240810T112700">2024-08-10 11:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-7&location=Kennedy Space Center, FL, USA&dates=20240810T112700Z%2F20240810T150500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-7** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240811T111500">2024-08-11 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | A Sky Full of SARs (Capella Acadia 3)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240811T111500Z%2F20240811T111500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | A Sky Full of SARs (Capella Acadia 3)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T020200">2024-08-12 02:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240812T020200Z%2F20240812T020200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
@@ -91,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-rocket-stage-breaks-up-into-cloud-of-more-than-700-pieces-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese rocket stage breaks up into cloud of more than 700 pieces of space debris
+- <a href="https://spacenews.com/rocket-lab-fires-archimedes-engine-for-the-first-time/" >🔗</a> **[SpaceNews]** Rocket Lab fires Archimedes engine for the first time
 - <a href="https://arstechnica.com/space/2024/08/rocket-report-archimedes-engine-sees-first-light-new-glenn-making-moves/" >🔗</a> **[Arstechnica]** Rocket Report: Archimedes engine sees first light, New Glenn making moves
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/The_hidden_intricacies_of_Messier_106" >🔗</a> **[ESA]** The hidden intricacies of Messier 106
 - <a href="https://www.esa.int/About_Us/ESA_Publications/Build_your_own_Ariane_6_rocket_with_ESA" >🔗</a> **[ESA]** Build your own Ariane 6 rocket with ESA!
@@ -99,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/perceptive-space-secures-millions-for-space-weather-platform" >🔗</a> **[The Launch Pad]** Perceptive Space Secures $2.8 Million For Space Weather Platform
 - <a href="https://tlpnetwork.com/news/america/voyager-space-to-continue-development-of-advanced-propulsion-subsystem-for-us-defense-program" >🔗</a> **[The Launch Pad]** Voyager Space To Continue Development of Advanced Propulsion Subsystem for US Defense Program
 - <a href="https://europeanspaceflight.com/the-exploration-company-has-secured-770m-in-contracts/" >🔗</a> **[European Spaceflight]** The Exploration Company Has Secured $770M in Contracts
-- <a href="https://tlpnetwork.com/news/america/vast-partners-with-redwire-and-yuri-for-microgravity-lab-on-haven-1-space-station" >🔗</a> **[The Launch Pad]** Vast Partners with Redwire and Yuri for Microgravity Lab on Haven-1 Space Station
-- <a href="https://tlpnetwork.com/news/america/nasa-explores-mars-sample-return-mission-approaches-with-commercial-partners" >🔗</a> **[The Launch Pad]** NASA Explores Mars Sample Return Mission Approaches with Commercial Partners
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T120131">2024-08-09 12:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T124112">2024-08-09 12:41:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
