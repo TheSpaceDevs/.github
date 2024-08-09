@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/regina-caputo-charts-the-future-of-high-energy-astrophysics/" >🔗</a> **[NASA]** Regina Caputo Charts the Future of High-Energy Astrophysics
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_August_2024" >🔗</a> **[ESA]** Week in images: 05-09 August 2024
+- <a href="https://www.nasa.gov/image-article/the-international-space-stations-window-to-the-world/" >🔗</a> **[NASA]** The International Space Station’s “window to the world”
 - <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-to-launch-8-scientific-balloons-from-new-mexico/" >🔗</a> **[NASA]** NASA to Launch 8 Scientific Balloons From New Mexico
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-tests-deployment-of-roman-space-telescopes-visor/" >🔗</a> **[NASA]** NASA Tests Deployment of Roman Space Telescope’s ‘Visor’
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spotlights-a-supernova/" >🔗</a> **[NASA]** Hubble Spotlights a Supernova
 - <a href="https://spacenews.com/chinese-rocket-stage-breaks-up-into-cloud-of-more-than-700-pieces-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese rocket stage breaks up into cloud of more than 700 pieces of space debris
 - <a href="https://spacenews.com/rocket-lab-fires-archimedes-engine-for-the-first-time/" >🔗</a> **[SpaceNews]** Rocket Lab fires Archimedes engine for the first time
 - <a href="https://arstechnica.com/space/2024/08/rocket-report-archimedes-engine-sees-first-light-new-glenn-making-moves/" >🔗</a> **[Arstechnica]** Rocket Report: Archimedes engine sees first light, New Glenn making moves
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/The_hidden_intricacies_of_Messier_106" >🔗</a> **[ESA]** The hidden intricacies of Messier 106
-- <a href="https://www.esa.int/About_Us/ESA_Publications/Build_your_own_Ariane_6_rocket_with_ESA" >🔗</a> **[ESA]** Build your own Ariane 6 rocket with ESA!
-- <a href="https://tlpnetwork.com/news/america/safran-electronics-and-defense-to-establish-new-satellite-electric-propulsion-production-line-in-colorado" >🔗</a> **[The Launch Pad]** Safran Electronics & Defense to Establish New Satellite Electric Propulsion Production Line in Colorado
-- <a href="https://tlpnetwork.com/news/america/bae-systems-secures-contract-to-enhance-military-intelligence-data-analytics-platform" >🔗</a> **[The Launch Pad]** BAE Systems Secures $48 Million Contract to Enhance Military Intelligence Data Analytics Platform
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T150109">2024-08-09 15:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T153133">2024-08-09 15:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
