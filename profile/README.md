@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-explores-mars-sample-return-mission-approaches-with-commercial-partners" >🔗</a> **[The Launch Pad]** NASA Explores Mars Sample Return Mission Approaches with Commercial Partners
 - <a href="https://tlpnetwork.com/news/europe/yahsat-revenue-dip-amid-satellite-issues-gains-profit-boost-from-airbus-compensation" >🔗</a> **[The Launch Pad]** Yahsat Revenue Dip Amid Satellite Issues, Gains Profit Boost from Airbus Compensation
 - <a href="https://spacepolicyonline.com/news/nasa-ig-blasts-boeing-on-block-1b/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Blasts Boeing on Block 1B
 - <a href="https://spaceflightnow.com/2024/08/09/nasa-sends-final-command-to-its-neowise-spacecraft-ending-more-than-a-decade-of-asteroid-observations/" >🔗</a> **[Spaceflight Now]** NASA sends final command to its NEOWISE spacecraft, ending more than a decade of asteroid observations
@@ -100,17 +101,17 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-mission-concludes-after-years-of-successful-asteroid-detections/" >🔗</a> **[NASA]** NASA Mission Concludes After Years of Successful Asteroid Detections
 - <a href="https://spacenews.com/logan-utah-bids-farewell-to-the-small-satellite-conference/" >🔗</a> **[SpaceNews]** Logan, Utah, bids farewell to the Small Satellite Conference
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aircraft-gathers-150-hours-of-data-to-better-understand-earth/" >🔗</a> **[NASA]** NASA Aircraft Gathers 150 Hours of Data to Better Understand Earth
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/this-rocks-nasa-is-sending-student-science-to-space/" >🔗</a> **[NASA]** This Rocks! NASA is Sending Student Science to Space
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/08/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-080524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink constellation continues to expand while China begins building G60 constellation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T060128">2024-08-09 06:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T063529">2024-08-09 06:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
