@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_August_2024" >🔗</a> **[ESA]** Week in images: 05-09 August 2024
 - <a href="https://spacenews.com/chinese-rocket-stage-breaks-up-into-cloud-of-more-than-700-pieces-of-space-debris/" >🔗</a> **[SpaceNews]** Chinese rocket stage breaks up into cloud of more than 700 pieces of space debris
 - <a href="https://spacenews.com/rocket-lab-fires-archimedes-engine-for-the-first-time/" >🔗</a> **[SpaceNews]** Rocket Lab fires Archimedes engine for the first time
 - <a href="https://arstechnica.com/space/2024/08/rocket-report-archimedes-engine-sees-first-light-new-glenn-making-moves/" >🔗</a> **[Arstechnica]** Rocket Report: Archimedes engine sees first light, New Glenn making moves
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/bae-systems-secures-contract-to-enhance-military-intelligence-data-analytics-platform" >🔗</a> **[The Launch Pad]** BAE Systems Secures $48 Million Contract to Enhance Military Intelligence Data Analytics Platform
 - <a href="https://tlpnetwork.com/news/america/perceptive-space-secures-millions-for-space-weather-platform" >🔗</a> **[The Launch Pad]** Perceptive Space Secures $2.8 Million For Space Weather Platform
 - <a href="https://tlpnetwork.com/news/america/voyager-space-to-continue-development-of-advanced-propulsion-subsystem-for-us-defense-program" >🔗</a> **[The Launch Pad]** Voyager Space To Continue Development of Advanced Propulsion Subsystem for US Defense Program
-- <a href="https://europeanspaceflight.com/the-exploration-company-has-secured-770m-in-contracts/" >🔗</a> **[European Spaceflight]** The Exploration Company Has Secured $770M in Contracts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T130349">2024-08-09 13:03:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T133109">2024-08-09 13:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
