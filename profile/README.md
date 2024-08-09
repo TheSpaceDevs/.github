@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/The_hidden_intricacies_of_Messier_106" >🔗</a> **[ESA]** The hidden intricacies of Messier 106
+- <a href="https://www.esa.int/About_Us/ESA_Publications/Build_your_own_Ariane_6_rocket_with_ESA" >🔗</a> **[ESA]** Build your own Ariane 6 rocket with ESA!
+- <a href="https://tlpnetwork.com/news/america/safran-electronics-and-defense-to-establish-new-satellite-electric-propulsion-production-line-in-colorado" >🔗</a> **[The Launch Pad]** Safran Electronics & Defense to Establish New Satellite Electric Propulsion Production Line in Colorado
 - <a href="https://tlpnetwork.com/news/america/bae-systems-secures-contract-to-enhance-military-intelligence-data-analytics-platform" >🔗</a> **[The Launch Pad]** BAE Systems Secures $48 Million Contract to Enhance Military Intelligence Data Analytics Platform
 - <a href="https://tlpnetwork.com/news/america/perceptive-space-secures-millions-for-space-weather-platform" >🔗</a> **[The Launch Pad]** Perceptive Space Secures $2.8 Million For Space Weather Platform
 - <a href="https://tlpnetwork.com/news/america/voyager-space-to-continue-development-of-advanced-propulsion-subsystem-for-us-defense-program" >🔗</a> **[The Launch Pad]** Voyager Space To Continue Development of Advanced Propulsion Subsystem for US Defense Program
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/vast-partners-with-redwire-and-yuri-for-microgravity-lab-on-haven-1-space-station" >🔗</a> **[The Launch Pad]** Vast Partners with Redwire and Yuri for Microgravity Lab on Haven-1 Space Station
 - <a href="https://tlpnetwork.com/news/america/nasa-explores-mars-sample-return-mission-approaches-with-commercial-partners" >🔗</a> **[The Launch Pad]** NASA Explores Mars Sample Return Mission Approaches with Commercial Partners
 - <a href="https://tlpnetwork.com/news/europe/yahsat-revenue-dip-amid-satellite-issues-gains-profit-boost-from-airbus-compensation" >🔗</a> **[The Launch Pad]** Yahsat Revenue Dip Amid Satellite Issues, Gains Profit Boost from Airbus Compensation
-- <a href="https://spacepolicyonline.com/news/nasa-ig-blasts-boeing-on-block-1b/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Blasts Boeing on Block 1B
-- <a href="https://spaceflightnow.com/2024/08/09/nasa-sends-final-command-to-its-neowise-spacecraft-ending-more-than-a-decade-of-asteroid-observations/" >🔗</a> **[Spaceflight Now]** NASA sends final command to its NEOWISE spacecraft, ending more than a decade of asteroid observations
-- <a href="https://spacenews.com/virgin-galactic-outlines-economics-of-its-future-spaceplanes/" >🔗</a> **[SpaceNews]** Virgin Galactic outlines economics of its future spaceplanes
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T080131">2024-08-09 08:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T083321">2024-08-09 08:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
