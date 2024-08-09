@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/technology/dawn-aerospace-unveils-docking-and-refueling-port-for-satdrive-propulsion-systems" >🔗</a> **[The Launch Pad]** Dawn Aerospace Unveils Docking & Refueling Port for SatDrive Propulsion Systems
 - <a href="https://spacenews.com/eutelsat-in-exclusive-talks-to-create-ground-station-as-a-service-giant/" >🔗</a> **[SpaceNews]** Eutelsat in exclusive talks to create ground station-as-a-service giant
 - <a href="https://www.spacescout.info/2024/08/pressure-mounts-as-new-glenn-nears-launch-date/" >🔗</a> **[Space Scout]** Pressure Mounts as New Glenn Nears Launch Date
 - <a href="https://www.nasa.gov/news-release/nasa-hosts-astronaut-don-pettit-prelaunch-interviews/" >🔗</a> **[NASA]** NASA Hosts Astronaut Don Pettit Prelaunch Interviews
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/regina-caputo-charts-the-future-of-high-energy-astrophysics/" >🔗</a> **[NASA]** Regina Caputo Charts the Future of High-Energy Astrophysics
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_August_2024" >🔗</a> **[ESA]** Week in images: 05-09 August 2024
 - <a href="https://www.nasa.gov/image-article/the-international-space-stations-window-to-the-world/" >🔗</a> **[NASA]** The International Space Station’s “window to the world”
-- <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-to-launch-8-scientific-balloons-from-new-mexico/" >🔗</a> **[NASA]** NASA to Launch 8 Scientific Balloons From New Mexico
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T193109">2024-08-09 19:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T200123">2024-08-09 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
