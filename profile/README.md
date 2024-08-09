@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/viasat-shares-surge-amid-strong-2024-q1-performance-and-upbeat-revenue-outlook" >🔗</a> **[The Launch Pad]** Viasat Shares Surge 38% Amid Strong Q1 Performance and Upbeat Revenue Outlook
+- <a href="https://www.nasaspaceflight.com/2024/08/flight-5-6-preparations-raptor-3/" >🔗</a> **[NASASpaceflight]** Flight 5 and 6 Preparations Underway as SpaceX reveals Raptor 3
+- <a href="https://tlpnetwork.com/news/america/impulse-space-to-offer-rideshare-services-to-geostationary-orbit-with-helios-tug" >🔗</a> **[The Launch Pad]** Impulse Space to Offer Rideshare Services to Geostationary Orbit with Helios Tug
 - <a href="https://tlpnetwork.com/news/technology/dawn-aerospace-unveils-docking-and-refueling-port-for-satdrive-propulsion-systems" >🔗</a> **[The Launch Pad]** Dawn Aerospace Unveils Docking & Refueling Port for SatDrive Propulsion Systems
 - <a href="https://spacenews.com/eutelsat-in-exclusive-talks-to-create-ground-station-as-a-service-giant/" >🔗</a> **[SpaceNews]** Eutelsat in exclusive talks to create ground station-as-a-service giant
 - <a href="https://www.spacescout.info/2024/08/pressure-mounts-as-new-glenn-nears-launch-date/" >🔗</a> **[Space Scout]** Pressure Mounts as New Glenn Nears Launch Date
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/astro-campers-scope-out-new-worlds/" >🔗</a> **[NASA]** Astro Campers SCoPE Out New Worlds
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/a-furst-of-its-kind-sounding-rocket-mission-to-study-sun-as-a-star/" >🔗</a> **[NASA]** A ‘FURST’ of its Kind: Sounding Rocket Mission to Study Sun as a Star
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-teams-change-brakes-to-keep-artemis-crew-safe/" >🔗</a> **[NASA]** NASA Teams Change Brakes to Keep Artemis Crew Safe
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/regina-caputo-charts-the-future-of-high-energy-astrophysics/" >🔗</a> **[NASA]** Regina Caputo Charts the Future of High-Energy Astrophysics
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_August_2024" >🔗</a> **[ESA]** Week in images: 05-09 August 2024
-- <a href="https://www.nasa.gov/image-article/the-international-space-stations-window-to-the-world/" >🔗</a> **[NASA]** The International Space Station’s “window to the world”
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T203059">2024-08-09 20:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T210110">2024-08-09 21:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
