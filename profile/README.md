@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
 - <a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" >🔗</a> **[NASA]** NASA Explores Industry, Partner Interest in Using VIPER Moon Rover
 - <a href="https://tlpnetwork.com/news/asia/china-thousand-sails-megaconstellation-kicks-off-with-dangerous-debris-field" >🔗</a> **[The Launch Pad]** China's Thousand Sails Megaconstellation Kicks Off with Dangerous Debris Field
 - <a href="https://tlpnetwork.com/news/america/viasat-shares-surge-amid-strong-2024-q1-performance-and-upbeat-revenue-outlook" >🔗</a> **[The Launch Pad]** Viasat Shares Surge 38% Amid Strong Q1 Performance and Upbeat Revenue Outlook
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eutelsat-in-exclusive-talks-to-create-ground-station-as-a-service-giant/" >🔗</a> **[SpaceNews]** Eutelsat in exclusive talks to create ground station-as-a-service giant
 - <a href="https://www.spacescout.info/2024/08/pressure-mounts-as-new-glenn-nears-launch-date/" >🔗</a> **[Space Scout]** Pressure Mounts as New Glenn Nears Launch Date
 - <a href="https://www.nasa.gov/news-release/nasa-hosts-astronaut-don-pettit-prelaunch-interviews/" >🔗</a> **[NASA]** NASA Hosts Astronaut Don Pettit Prelaunch Interviews
-- <a href="https://science.nasa.gov/learning-resources/science-activation/astro-campers-scope-out-new-worlds/" >🔗</a> **[NASA]** Astro Campers SCoPE Out New Worlds
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T230114">2024-08-09 23:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240809T233057">2024-08-09 23:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
