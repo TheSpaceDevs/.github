@@ -95,6 +95,7 @@ The US Air Force provides the Extremely High Frequency eXtended Data Rate payloa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-capella-space-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Capella Space SAR satellite
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX scrubs Sunday Starlink launch in final minute; targets Monday launch opportunity
 - <a href="https://spacenews.com/nasa-requests-details-on-potential-viper-partnerships/" >🔗</a> **[SpaceNews]** NASA requests details on potential VIPER partnerships
 - <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
@@ -104,7 +105,6 @@ The US Air Force provides the Extremely High Frequency eXtended Data Rate payloa
 - <a href="https://www.nasaspaceflight.com/2024/08/flight-5-6-preparations-raptor-3/" >🔗</a> **[NASASpaceflight]** Flight 5 and 6 Preparations Underway as SpaceX reveals Raptor 3
 - <a href="https://tlpnetwork.com/news/america/impulse-space-to-offer-rideshare-services-to-geostationary-orbit-with-helios-tug" >🔗</a> **[The Launch Pad]** Impulse Space to Offer Rideshare Services to Geostationary Orbit with Helios Tug
 - <a href="https://tlpnetwork.com/news/technology/dawn-aerospace-unveils-docking-and-refueling-port-for-satdrive-propulsion-systems" >🔗</a> **[The Launch Pad]** Dawn Aerospace Unveils Docking & Refueling Port for SatDrive Propulsion Systems
-- <a href="https://spacenews.com/eutelsat-in-exclusive-talks-to-create-ground-station-as-a-service-giant/" >🔗</a> **[SpaceNews]** Eutelsat in exclusive talks to create ground station-as-a-service giant
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ The US Air Force provides the Extremely High Frequency eXtended Data Rate payloa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240811T160110">2024-08-11 16:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240811T163318">2024-08-11 16:33:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
