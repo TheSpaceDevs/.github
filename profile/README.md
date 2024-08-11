@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites from the Kennedy Space Center
 - <a href="https://spacenews.com/nasa-requests-details-on-potential-viper-partnerships/" >🔗</a> **[SpaceNews]** NASA requests details on potential VIPER partnerships
 - <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
 - <a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" >🔗</a> **[NASA]** NASA Explores Industry, Partner Interest in Using VIPER Moon Rover
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/impulse-space-to-offer-rideshare-services-to-geostationary-orbit-with-helios-tug" >🔗</a> **[The Launch Pad]** Impulse Space to Offer Rideshare Services to Geostationary Orbit with Helios Tug
 - <a href="https://tlpnetwork.com/news/technology/dawn-aerospace-unveils-docking-and-refueling-port-for-satdrive-propulsion-systems" >🔗</a> **[The Launch Pad]** Dawn Aerospace Unveils Docking & Refueling Port for SatDrive Propulsion Systems
 - <a href="https://spacenews.com/eutelsat-in-exclusive-talks-to-create-ground-station-as-a-service-giant/" >🔗</a> **[SpaceNews]** Eutelsat in exclusive talks to create ground station-as-a-service giant
-- <a href="https://www.spacescout.info/2024/08/pressure-mounts-as-new-glenn-nears-launch-date/" >🔗</a> **[Space Scout]** Pressure Mounts as New Glenn Nears Launch Date
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240811T050110">2024-08-11 05:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240811T053108">2024-08-11 05:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
