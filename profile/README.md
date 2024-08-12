@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/we-must-adopt-sustainability-in-planetary-exploration/" >🔗</a> **[SpaceNews]** We must adopt sustainability in planetary exploration
 - <a href="https://europeanspaceflight.com/esa-and-poland-test-fire-variable-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** ESA and Poland Test Fire Variable-Thrust Rocket Engine
 - <a href="https://spacenews.com/nasa-watchdog-finds-quality-control-problems-with-boeing-sls-work/" >🔗</a> **[SpaceNews]** NASA watchdog finds quality control problems with Boeing SLS work
 - <a href="https://science.nasa.gov/blogs/sols-4268-4269-admiring-kings-canyon/" >🔗</a> **[NASA]** Sols 4268-4269: Admiring Kings Canyon
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-capella-space-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Capella Space SAR satellite
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 at sunrise with 23 Starlink satellites
 - <a href="https://spacenews.com/nasa-requests-details-on-potential-viper-partnerships/" >🔗</a> **[SpaceNews]** NASA requests details on potential VIPER partnerships
-- <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T130435">2024-08-12 13:04:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T133204">2024-08-12 13:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
