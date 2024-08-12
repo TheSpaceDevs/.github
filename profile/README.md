@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-and-poland-test-fire-variable-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** ESA and Poland Test Fire Variable-Thrust Rocket Engine
+- <a href="https://spacenews.com/nasa-watchdog-finds-quality-control-problems-with-boeing-sls-work/" >🔗</a> **[SpaceNews]** NASA watchdog finds quality control problems with Boeing SLS work
 - <a href="https://science.nasa.gov/blogs/sols-4268-4269-admiring-kings-canyon/" >🔗</a> **[NASA]** Sols 4268-4269: Admiring Kings Canyon
 - <a href="https://spacenews.com/spacex-launches-two-satellites-for-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** SpaceX launches two satellites for Arctic broadband mission
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-11-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 11-24, 2024
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX scrubs Sunday Starlink launch in final minute; targets Monday launch opportunity
 - <a href="https://spacenews.com/nasa-requests-details-on-potential-viper-partnerships/" >🔗</a> **[SpaceNews]** NASA requests details on potential VIPER partnerships
 - <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
-- <a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" >🔗</a> **[NASA]** NASA Explores Industry, Partner Interest in Using VIPER Moon Rover
-- <a href="https://tlpnetwork.com/news/asia/china-thousand-sails-megaconstellation-kicks-off-with-dangerous-debris-field" >🔗</a> **[The Launch Pad]** China's Thousand Sails Megaconstellation Kicks Off with Dangerous Debris Field
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T100113">2024-08-12 10:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T103333">2024-08-12 10:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
