@@ -91,25 +91,26 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4270-4272-sample-for-sam/" >🔗</a> **[NASA]** Sols 4270-4272: Sample for SAM
+- <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-i-forging-the-path/" >🔗</a> **[Space Scout]** Moon to Mars Part I: Forging the Path
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-89-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 89 Launch, Space Station Docking
 - <a href="https://arstechnica.com/space/2024/08/with-starliner-stuck-in-space-has-nasas-safety-culture-changed-since-columbia/" >🔗</a> **[Arstechnica]** I trust NASA’s safety culture this time around, and so should you
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-blue-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Supermoon Blue Moon
 - <a href="https://science.nasa.gov/learning-resources/science-activation/earth-educators-rendezvous-with-infiniscope-and-tour-it/" >🔗</a> **[NASA]** Earth Educators Rendezvous with Infiniscope and Tour It
 - <a href="https://spacenews.com/nasa-payload-to-fly-on-first-blue-origin-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA payload to fly on first Blue Origin lunar lander mission
 - <a href="https://spacenews.com/we-must-adopt-sustainability-in-planetary-exploration/" >🔗</a> **[SpaceNews]** We must adopt sustainability in planetary exploration
 - <a href="https://europeanspaceflight.com/esa-and-poland-test-fire-variable-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** ESA and Poland Test Fire Variable-Thrust Rocket Engine
 - <a href="https://spacenews.com/nasa-watchdog-finds-quality-control-problems-with-boeing-sls-work/" >🔗</a> **[SpaceNews]** NASA watchdog finds quality control problems with Boeing SLS work
-- <a href="https://science.nasa.gov/blogs/sols-4268-4269-admiring-kings-canyon/" >🔗</a> **[NASA]** Sols 4268-4269: Admiring Kings Canyon
-- <a href="https://spacenews.com/spacex-launches-two-satellites-for-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** SpaceX launches two satellites for Arctic broadband mission
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-11-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 11-24, 2024
-- <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-communications-satellites-for-space-norway-on-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launched twin communications satellites for Space Norway
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-89-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 89 Launch, Space Station Docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T160122">2024-08-12 16:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T163350">2024-08-12 16:33:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
