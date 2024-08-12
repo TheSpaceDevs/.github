@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-9-2024/" >🔗</a> **[NASA]** Station Science Top News: August 9, 2024
+- <a href="https://www.nasa.gov/image-article/webb-sees-gassy-baby-stars/" >🔗</a> **[NASA]** Webb Sees Gassy Baby Stars
 - <a href="https://science.nasa.gov/blogs/sols-4270-4272-sample-for-sam/" >🔗</a> **[NASA]** Sols 4270-4272: Sample for SAM
 - <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-i-forging-the-path/" >🔗</a> **[Space Scout]** Moon to Mars Part I: Forging the Path
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-89-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 89 Launch, Space Station Docking
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/earth-educators-rendezvous-with-infiniscope-and-tour-it/" >🔗</a> **[NASA]** Earth Educators Rendezvous with Infiniscope and Tour It
 - <a href="https://spacenews.com/nasa-payload-to-fly-on-first-blue-origin-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA payload to fly on first Blue Origin lunar lander mission
 - <a href="https://spacenews.com/we-must-adopt-sustainability-in-planetary-exploration/" >🔗</a> **[SpaceNews]** We must adopt sustainability in planetary exploration
-- <a href="https://europeanspaceflight.com/esa-and-poland-test-fire-variable-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** ESA and Poland Test Fire Variable-Thrust Rocket Engine
-- <a href="https://spacenews.com/nasa-watchdog-finds-quality-control-problems-with-boeing-sls-work/" >🔗</a> **[SpaceNews]** NASA watchdog finds quality control problems with Boeing SLS work
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T180214">2024-08-12 18:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T183504">2024-08-12 18:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
