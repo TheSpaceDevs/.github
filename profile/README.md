@@ -20,37 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 10-7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T020200">2024-08-12 02:02:00 UTC</a>.  Until
-then, this pad will have been used for 153
-out of 765 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T103700">2024-08-12 10:37:00 UTC</a>.  Until
+then, this pad will have been used for 183
+out of 241 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *an Elliptical Orbit
-(Elliptical)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  ASBM (Arctic Satellite Broadband Mission) 1 & 2 are two twin satellites built by Northrop Grumman for Space Norway, in cooperation with Inmarsat and the Norwegian Ministry of Defence.
-
-They are designed to bring mobile broadband coverage in the Arctic for both civilians and military.
-
-The US Air Force provides the Extremely High Frequency eXtended Data Rate payloads on ASBM satellites as part of the Enhanced Polar System Recapitalization (EPS-R) program.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T020200">2024-08-12 02:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)&location=Vandenberg SFB, CA, USA&dates=20240812T020200Z%2F20240812T020200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Arctic Satellite Broadband Mission (ASBM)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T103700">2024-08-12 10:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-7&location=Kennedy Space Center, FL, USA&dates=20240812T103700Z%2F20240812T134900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-7** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T032017">2024-08-15 03:20:17 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-28 (89P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240815T032017Z%2F20240815T032017Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-28 (89P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T034700">2024-08-15 03:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SSLV | EOS-08/Microsat-2C&location=Satish Dhawan Space Centre, India&dates=20240815T034700Z%2F20240815T034700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SSLV | EOS-08/Microsat-2C** from Satish Dhawan Space Centre, India.
@@ -60,6 +55,7 @@ The US Air Force provides the Extremely High Frequency eXtended Data Rate payloa
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GSAT-20&location=Cape Canaveral, FL, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GSAT-20** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-20&location=Vandenberg SFB, CA, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-20** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -95,6 +91,7 @@ The US Air Force provides the Extremely High Frequency eXtended Data Rate payloa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-two-satellites-for-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** SpaceX launches two satellites for Arctic broadband mission
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-11-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 11-24, 2024
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-communications-satellites-for-space-norway-on-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch communications satellites for Space Norway on its Falcon 9 rocket
 - <a href="https://spacenews.com/rocket-lab-launches-capella-space-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Capella Space SAR satellite
@@ -104,21 +101,16 @@ The US Air Force provides the Extremely High Frequency eXtended Data Rate payloa
 - <a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" >🔗</a> **[NASA]** NASA Explores Industry, Partner Interest in Using VIPER Moon Rover
 - <a href="https://tlpnetwork.com/news/asia/china-thousand-sails-megaconstellation-kicks-off-with-dangerous-debris-field" >🔗</a> **[The Launch Pad]** China's Thousand Sails Megaconstellation Kicks Off with Dangerous Debris Field
 - <a href="https://tlpnetwork.com/news/america/viasat-shares-surge-amid-strong-2024-q1-performance-and-upbeat-revenue-outlook" >🔗</a> **[The Launch Pad]** Viasat Shares Surge 38% Amid Strong Q1 Performance and Upbeat Revenue Outlook
-- <a href="https://www.nasaspaceflight.com/2024/08/flight-5-6-preparations-raptor-3/" >🔗</a> **[NASASpaceflight]** Flight 5 and 6 Preparations Underway as SpaceX reveals Raptor 3
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-080524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink constellation continues to expand while China begins building G60 constellation
-- <a href="https://spacenews.com/northrop-grumman-delivers-arctic-broadband-satellites-ahead-of-scheduled-july-launch/" >🔗</a> **[SpaceNews]** Northrop Grumman delivers Arctic broadband satellites ahead of scheduled July launch
-- <a href="https://spacenews.com/arctic-broadband-satellites-complete-key-tests-ahead-of-mid-2024-launch/" >🔗</a> **[SpaceNews]** Arctic broadband satellites complete key tests ahead of mid-2024 launch
-- <a href="https://spacenews.com/space-force-delivers-final-payload-for-space-norways-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** Space Force delivers final payload for Space Norway’s arctic broadband mission
-- <a href="https://spacenews.com/space-force-delivers-first-of-two-u-s-payloads-to-launch-on-space-norways-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** Space Force delivers first of two U.S. payloads to launch on Space Norway’s arctic broadband mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T015624">2024-08-12 01:56:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T021842">2024-08-12 02:18:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
