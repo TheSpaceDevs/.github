@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4268-4269-admiring-kings-canyon/" >🔗</a> **[NASA]** Sols 4268-4269: Admiring Kings Canyon
 - <a href="https://spacenews.com/spacex-launches-two-satellites-for-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** SpaceX launches two satellites for Arctic broadband mission
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-11-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 11-24, 2024
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-communications-satellites-for-space-norway-on-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launched twin communications satellites for Space Norway
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
 - <a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" >🔗</a> **[NASA]** NASA Explores Industry, Partner Interest in Using VIPER Moon Rover
 - <a href="https://tlpnetwork.com/news/asia/china-thousand-sails-megaconstellation-kicks-off-with-dangerous-debris-field" >🔗</a> **[The Launch Pad]** China's Thousand Sails Megaconstellation Kicks Off with Dangerous Debris Field
-- <a href="https://tlpnetwork.com/news/america/viasat-shares-surge-amid-strong-2024-q1-performance-and-upbeat-revenue-outlook" >🔗</a> **[The Launch Pad]** Viasat Shares Surge 38% Amid Strong Q1 Performance and Upbeat Revenue Outlook
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T080134">2024-08-12 08:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T083406">2024-08-12 08:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
