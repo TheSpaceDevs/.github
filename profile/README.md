@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-denies-violating-environmental-regulations-at-starbase/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Denies Violating Environmental Regulations at Starbase
+- <a href="https://spaceflightnow.com/2024/08/12/spacex-to-launch-privately-financed-international-crew-of-four-around-earths-poles/" >🔗</a> **[Spaceflight Now]** SpaceX to launch privately-financed international crew of four around Earth’s poles
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, and Falcon 9 flights scheduled
+- <a href="https://arstechnica.com/space/2024/08/spacex-announces-first-human-mission-to-ever-fly-over-the-planets-poles/" >🔗</a> **[Arstechnica]** SpaceX announces first human mission to ever fly over the planet’s poles
 - <a href="https://spacenews.com/airbus-and-astroscale-expand-in-orbit-servicing-partnership/" >🔗</a> **[SpaceNews]** Airbus and Astroscale expand in-orbit servicing partnership
 - <a href="https://www.teslarati.com/spacex-aces-sunrise-falcon-9-launch-with-23-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX aces sunrise Falcon 9 launch with 23 Starlink satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-9-2024/" >🔗</a> **[NASA]** Station Science Top News: August 9, 2024
 - <a href="https://www.nasa.gov/image-article/webb-sees-gassy-baby-stars/" >🔗</a> **[NASA]** Webb Sees Gassy Baby Stars
 - <a href="https://science.nasa.gov/blogs/sols-4270-4272-sample-for-sam/" >🔗</a> **[NASA]** Sols 4270-4272: Sample for SAM
 - <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-i-forging-the-path/" >🔗</a> **[Space Scout]** Moon to Mars Part I: Forging the Path
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-89-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 89 Launch, Space Station Docking
-- <a href="https://arstechnica.com/space/2024/08/with-starliner-stuck-in-space-has-nasas-safety-culture-changed-since-columbia/" >🔗</a> **[Arstechnica]** I trust NASA’s safety culture this time around, and so should you
-- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-blue-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Supermoon Blue Moon
-- <a href="https://science.nasa.gov/learning-resources/science-activation/earth-educators-rendezvous-with-infiniscope-and-tour-it/" >🔗</a> **[NASA]** Earth Educators Rendezvous with Infiniscope and Tour It
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T230116">2024-08-12 23:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T233057">2024-08-12 23:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
