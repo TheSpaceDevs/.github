@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-and-astroscale-expand-in-orbit-servicing-partnership/" >🔗</a> **[SpaceNews]** Airbus and Astroscale expand in-orbit servicing partnership
 - <a href="https://www.teslarati.com/spacex-aces-sunrise-falcon-9-launch-with-23-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX aces sunrise Falcon 9 launch with 23 Starlink satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-9-2024/" >🔗</a> **[NASA]** Station Science Top News: August 9, 2024
 - <a href="https://www.nasa.gov/image-article/webb-sees-gassy-baby-stars/" >🔗</a> **[NASA]** Webb Sees Gassy Baby Stars
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/08/with-starliner-stuck-in-space-has-nasas-safety-culture-changed-since-columbia/" >🔗</a> **[Arstechnica]** I trust NASA’s safety culture this time around, and so should you
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-blue-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Supermoon Blue Moon
 - <a href="https://science.nasa.gov/learning-resources/science-activation/earth-educators-rendezvous-with-infiniscope-and-tour-it/" >🔗</a> **[NASA]** Earth Educators Rendezvous with Infiniscope and Tour It
-- <a href="https://spacenews.com/nasa-payload-to-fly-on-first-blue-origin-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA payload to fly on first Blue Origin lunar lander mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T220113">2024-08-12 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T223233">2024-08-12 22:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
