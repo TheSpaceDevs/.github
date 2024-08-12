@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-11-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 11-24, 2024
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-communications-satellites-for-space-norway-on-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launched twin communications satellites for Space Norway
 - <a href="https://spacenews.com/rocket-lab-launches-capella-space-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Capella Space SAR satellite
-- <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX scrubs Sunday Starlink launch in final minute; targets Monday launch opportunity
+- <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 at sunrise with 23 Starlink satellites
 - <a href="https://spacenews.com/nasa-requests-details-on-potential-viper-partnerships/" >🔗</a> **[SpaceNews]** NASA requests details on potential VIPER partnerships
 - <a href="https://spacenews.com/space-force-to-expand-missile-defense-satellite-network-in-medium-earth-orbit/" >🔗</a> **[SpaceNews]** Space Force to expand missile-defense satellite network in medium Earth orbit
 
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T113100">2024-08-12 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T120133">2024-08-12 12:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
