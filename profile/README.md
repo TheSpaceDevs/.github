@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/spacex-launches-two-satellites-for-arctic-broadband-mission/" >🔗</a> **[SpaceNews]** SpaceX launches two satellites for Arctic broadband mission
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-11-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 11-24, 2024
-- <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-communications-satellites-for-space-norway-on-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch communications satellites for Space Norway on its Falcon 9 rocket
+- <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-communications-satellites-for-space-norway-on-its-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launched twin communications satellites for Space Norway
 - <a href="https://spacenews.com/rocket-lab-launches-capella-space-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Capella Space SAR satellite
 - <a href="https://spaceflightnow.com/2024/08/11/live-coverage-spacex-to-launch-23-starlink-satellites-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX scrubs Sunday Starlink launch in final minute; targets Monday launch opportunity
 - <a href="https://spacenews.com/nasa-requests-details-on-potential-viper-partnerships/" >🔗</a> **[SpaceNews]** NASA requests details on potential VIPER partnerships
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T040125">2024-08-12 04:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240812T043256">2024-08-12 04:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
