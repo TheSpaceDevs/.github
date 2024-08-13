@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.cnbc.com/2024/08/13/crypto-magnate-chun-wang-buys-spacex-polar-spaceflight-fram2.html" >🔗</a> **[CNBC]** Crypto magnate buys SpaceX mission for private polar spaceflight expedition
+- <a href="https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasa-demonstrates-ultra-cool-quantum-sensor-for-first-time-in-space/" >🔗</a> **[NASA]** NASA Demonstrates ‘Ultra-Cool’ Quantum Sensor for First Time in Space
+- <a href="https://spacenews.com/deep-blue-aerospace-secures-strategic-funding-landmark-vtvl-rocket-test-soon/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures strategic funding, landmark VTVL rocket test soon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Wildfires_rage_across_Athens" >🔗</a> **[ESA]** Wildfires rage across Athens
 - <a href="https://europeanspaceflight.com/atlantic-spaceport-consortium-to-explore-azores-launch-facility/" >🔗</a> **[European Spaceflight]** Atlantic Spaceport Consortium to Explore Azores Launch Facility
 - <a href="https://spacenews.com/atlas-ai-reveals-work-with-airbus/" >🔗</a> **[SpaceNews]** Atlas AI reveals work with Airbus
 - <a href="https://spacenews.com/faa-postpones-hearings-on-starship-environmental-review/" >🔗</a> **[SpaceNews]** FAA postpones hearings on Starship environmental review
 - <a href="https://spacenews.com/crypto-entrepreneur-buys-crew-dragon-flight/" >🔗</a> **[SpaceNews]** Crypto entrepreneur buys Crew Dragon flight
 - <a href="https://spacenews.com/weapons-in-space-study-suggests-path-forward-for-arms-control/" >🔗</a> **[SpaceNews]** Weapons in space: Study suggests path forward for arms control
-- <a href="https://www.reuters.com/science/seismic-data-indicates-huge-underground-reservoir-liquid-water-mars-2024-08-12/" >🔗</a> **[Reuters]** Seismic data indicates huge underground reservoir of liquid water on Mars
-- <a href="https://spacepolicyonline.com/news/spacex-denies-violating-environmental-regulations-at-starbase/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Denies Violating Environmental Regulations at Starbase
-- <a href="https://spaceflightnow.com/2024/08/12/spacex-to-launch-privately-financed-international-crew-of-four-around-earths-poles/" >🔗</a> **[Spaceflight Now]** SpaceX to launch privately-financed international crew of four around Earth’s poles
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T150110">2024-08-13 15:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T153120">2024-08-13 15:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
