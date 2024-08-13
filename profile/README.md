@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasa.gov/aeronautics/nasas-x-59-progresses-through-tests-on-the-path-to-flight/" >🔗</a> **[NASA]** NASA’s X-59 Progresses Through Tests on the Path to Flight
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/automated-technology-developed-at-glenn-launches-to-space/" >🔗</a> **[NASA]** Automated Technology Developed at Glenn Launches to Space
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/cleveland-high-school-students-land-stem-career-exploration-experience/" >🔗</a> **[NASA]** Cleveland High School Students Land STEM Career Exploration Experience
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-lands-at-national-cherry-festival/" >🔗</a> **[NASA]** NASA Lands at National Cherry Festival
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/community-celebrates-nasas-logo-at-science-center/" >🔗</a> **[NASA]** Community Celebrates NASA’s Logo at Science Center
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/back-to-the-future-cast-learns-about-nasas-future-missions/" >🔗</a> **[NASA]** Back to the Future Cast Learns About NASA’s Future Missions
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-tempo-cosmic-data-story-makes-air-quality-data-publicly-available/" >🔗</a> **[NASA]** New TEMPO Cosmic Data Story Makes Air Quality Data Publicly Available
-- <a href="https://www.cnbc.com/2024/08/13/crypto-magnate-chun-wang-buys-spacex-polar-spaceflight-fram2.html" >🔗</a> **[CNBC]** Crypto magnate buys SpaceX mission for private polar spaceflight expedition
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T170118">2024-08-13 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T173150">2024-08-13 17:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
