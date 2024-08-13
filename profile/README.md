@@ -95,12 +95,12 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/faa-postpones-hearings-on-starship-environmental-review/" >🔗</a> **[SpaceNews]** FAA postpones hearings on Starship environmental review
 - <a href="https://spacenews.com/crypto-entrepreneur-buys-crew-dragon-flight/" >🔗</a> **[SpaceNews]** Crypto entrepreneur buys Crew Dragon flight
 - <a href="https://spacenews.com/weapons-in-space-study-suggests-path-forward-for-arms-control/" >🔗</a> **[SpaceNews]** Weapons in space: Study suggests path forward for arms control
+- <a href="https://www.reuters.com/science/seismic-data-indicates-huge-underground-reservoir-liquid-water-mars-2024-08-12/" >🔗</a> **[Reuters]** Seismic data indicates huge underground reservoir of liquid water on Mars
 - <a href="https://spacepolicyonline.com/news/spacex-denies-violating-environmental-regulations-at-starbase/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Denies Violating Environmental Regulations at Starbase
 - <a href="https://spaceflightnow.com/2024/08/12/spacex-to-launch-privately-financed-international-crew-of-four-around-earths-poles/" >🔗</a> **[Spaceflight Now]** SpaceX to launch privately-financed international crew of four around Earth’s poles
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, and Falcon 9 flights scheduled
 - <a href="https://arstechnica.com/space/2024/08/spacex-announces-first-human-mission-to-ever-fly-over-the-planets-poles/" >🔗</a> **[Arstechnica]** SpaceX announces first human mission to ever fly over the planet’s poles
 - <a href="https://spacenews.com/airbus-and-astroscale-expand-in-orbit-servicing-partnership/" >🔗</a> **[SpaceNews]** Airbus and Astroscale expand in-orbit servicing partnership
-- <a href="https://www.teslarati.com/spacex-aces-sunrise-falcon-9-launch-with-23-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX aces sunrise Falcon 9 launch with 23 Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T120135">2024-08-13 12:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T124149">2024-08-13 12:41:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
