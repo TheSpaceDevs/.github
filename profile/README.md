@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasaspaceflight.com/2024/08/blue-origin-launch-preps/" >🔗</a> **[NASASpaceflight]** New Glenn’s maiden flight approaches as hardware undergoes testing
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-status-update/" >🔗</a> **[NASA]** NASA to Provide Crew Flight Test Status Update
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-challenge-seeks-cooler-solutions-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Challenge Seeks ‘Cooler’ Solutions for Deep Space Exploration
 - <a href="https://spacenews.com/terran-orbital-removes-rivada-constellation-from-revenue-backlog/" >🔗</a> **[SpaceNews]** Terran Orbital removes Rivada constellation from revenue backlog
 - <a href="https://www.nasa.gov/image-article/699335/" >🔗</a> **[NASA]** Earth’s Crest Over the Lunar Horizon
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/" >🔗</a> **[NASA]** Primary Instrument for Roman Space Telescope Arrives at NASA Goddard
 - <a href="https://spacenews.com/lockheed-martin-taps-general-dynamics-for-solid-rocket-motor-manufacturing/" >🔗</a> **[SpaceNews]** Lockheed Martin taps General Dynamics for solid rocket motor manufacturing
 - <a href="https://www.nasa.gov/aeronautics/nasas-x-59-progresses-through-tests-on-the-path-to-flight/" >🔗</a> **[NASA]** NASA’s X-59 Progresses Through Tests on the Path to Flight
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/automated-technology-developed-at-glenn-launches-to-space/" >🔗</a> **[NASA]** Automated Technology Developed at Glenn Launches to Space
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/cleveland-high-school-students-land-stem-career-exploration-experience/" >🔗</a> **[NASA]** Cleveland High School Students Land STEM Career Exploration Experience
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T203102">2024-08-13 20:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T210122">2024-08-13 21:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
