@@ -105,12 +105,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, and Falcon 9 flights scheduled
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-89-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 89 Launch, Space Station Docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T070115">2024-08-13 07:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T073116">2024-08-13 07:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
