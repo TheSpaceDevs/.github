@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/automated-technology-developed-at-glenn-launches-to-space/" >🔗</a> **[NASA]** Automated Technology Developed at Glenn Launches to Space
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/cleveland-high-school-students-land-stem-career-exploration-experience/" >🔗</a> **[NASA]** Cleveland High School Students Land STEM Career Exploration Experience
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-lands-at-national-cherry-festival/" >🔗</a> **[NASA]** NASA Lands at National Cherry Festival
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/local-creators-learn-about-nasas-iconic-logo/" >🔗</a> **[NASA]** Local Creators Learn About NASA’s Iconic Logo
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/center-director-eva-the-astronaut-join-guardians-game/" >🔗</a> **[NASA]** Center Director, Eva the Astronaut Join Guardians Game
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/community-celebrates-nasas-logo-at-science-center/" >🔗</a> **[NASA]** Community Celebrates NASA’s Logo at Science Center
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/back-to-the-future-cast-learns-about-nasas-future-missions/" >🔗</a> **[NASA]** Back to the Future Cast Learns About NASA’s Future Missions
+- <a href="https://science.nasa.gov/learning-resources/science-activation/new-tempo-cosmic-data-story-makes-air-quality-data-publicly-available/" >🔗</a> **[NASA]** New TEMPO Cosmic Data Story Makes Air Quality Data Publicly Available
 - <a href="https://www.cnbc.com/2024/08/13/crypto-magnate-chun-wang-buys-spacex-polar-spaceflight-fram2.html" >🔗</a> **[CNBC]** Crypto magnate buys SpaceX mission for private polar spaceflight expedition
-- <a href="https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasa-demonstrates-ultra-cool-quantum-sensor-for-first-time-in-space/" >🔗</a> **[NASA]** NASA Demonstrates ‘Ultra-Cool’ Quantum Sensor for First Time in Space
-- <a href="https://spacenews.com/deep-blue-aerospace-secures-strategic-funding-landmark-vtvl-rocket-test-soon/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace secures strategic funding, landmark VTVL rocket test soon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Wildfires_rage_across_Athens" >🔗</a> **[ESA]** Wildfires rage across Athens
-- <a href="https://europeanspaceflight.com/atlantic-spaceport-consortium-to-explore-azores-launch-facility/" >🔗</a> **[European Spaceflight]** Atlantic Spaceport Consortium to Explore Azores Launch Facility
-- <a href="https://spacenews.com/atlas-ai-reveals-work-with-airbus/" >🔗</a> **[SpaceNews]** Atlas AI reveals work with Airbus
-- <a href="https://spacenews.com/faa-postpones-hearings-on-starship-environmental-review/" >🔗</a> **[SpaceNews]** FAA postpones hearings on Starship environmental review
-- <a href="https://spacenews.com/crypto-entrepreneur-buys-crew-dragon-flight/" >🔗</a> **[SpaceNews]** Crypto entrepreneur buys Crew Dragon flight
-- <a href="https://spacenews.com/weapons-in-space-study-suggests-path-forward-for-arms-control/" >🔗</a> **[SpaceNews]** Weapons in space: Study suggests path forward for arms control
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T160124">2024-08-13 16:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T163458">2024-08-13 16:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
