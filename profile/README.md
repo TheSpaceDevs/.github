@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
 - <a href="https://spacepolicyonline.com/news/spacex-denies-violating-environmental-regulations-at-starbase/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Denies Violating Environmental Regulations at Starbase
 - <a href="https://spaceflightnow.com/2024/08/12/spacex-to-launch-privately-financed-international-crew-of-four-around-earths-poles/" >🔗</a> **[Spaceflight Now]** SpaceX to launch privately-financed international crew of four around Earth’s poles
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, and Falcon 9 flights scheduled
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-9-2024/" >🔗</a> **[NASA]** Station Science Top News: August 9, 2024
 - <a href="https://www.nasa.gov/image-article/webb-sees-gassy-baby-stars/" >🔗</a> **[NASA]** Webb Sees Gassy Baby Stars
 - <a href="https://science.nasa.gov/blogs/sols-4270-4272-sample-for-sam/" >🔗</a> **[NASA]** Sols 4270-4272: Sample for SAM
-- <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-i-forging-the-path/" >🔗</a> **[Space Scout]** Moon to Mars Part I: Forging the Path
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T090116">2024-08-13 09:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T093200">2024-08-13 09:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
