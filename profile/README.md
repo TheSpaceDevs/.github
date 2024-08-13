@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://arstechnica.com/space/2024/08/a-conversation-with-nasa-chief-bill-nelson-on-artemis-budget-holes-and-more/" >🔗</a> **[Arstechnica]** NASA chief to scientists on budget cuts: “I feel your pain”
 - <a href="https://www.nasaspaceflight.com/2024/08/blue-origin-launch-preps/" >🔗</a> **[NASASpaceflight]** New Glenn’s maiden flight approaches as hardware undergoes testing
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-crew-flight-test-status-update/" >🔗</a> **[NASA]** NASA to Provide Crew Flight Test Status Update
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-challenge-seeks-cooler-solutions-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Challenge Seeks ‘Cooler’ Solutions for Deep Space Exploration
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/moog-unveils-new-radiation-hardened-space-computer-to-support-the-next-generation-of-high-speed-computing-on-orbit/" >🔗</a> **[SpaceNews]** Moog Unveils New, Radiation-Hardened Space Computer to Support the Next Generation of High-Speed Computing On-Orbit
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/" >🔗</a> **[NASA]** Primary Instrument for Roman Space Telescope Arrives at NASA Goddard
 - <a href="https://spacenews.com/lockheed-martin-taps-general-dynamics-for-solid-rocket-motor-manufacturing/" >🔗</a> **[SpaceNews]** Lockheed Martin taps General Dynamics for solid rocket motor manufacturing
-- <a href="https://www.nasa.gov/aeronautics/nasas-x-59-progresses-through-tests-on-the-path-to-flight/" >🔗</a> **[NASA]** NASA’s X-59 Progresses Through Tests on the Path to Flight
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T213059">2024-08-13 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T220120">2024-08-13 22:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
