@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://spacenews.com/crypto-entrepreneur-buys-crew-dragon-flight/" >🔗</a> **[SpaceNews]** Crypto entrepreneur buys Crew Dragon flight
 - <a href="https://spacenews.com/weapons-in-space-study-suggests-path-forward-for-arms-control/" >🔗</a> **[SpaceNews]** Weapons in space: Study suggests path forward for arms control
 - <a href="https://spacepolicyonline.com/news/spacex-denies-violating-environmental-regulations-at-starbase/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Denies Violating Environmental Regulations at Starbase
 - <a href="https://spaceflightnow.com/2024/08/12/spacex-to-launch-privately-financed-international-crew-of-four-around-earths-poles/" >🔗</a> **[Spaceflight Now]** SpaceX to launch privately-financed international crew of four around Earth’s poles
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/airbus-and-astroscale-expand-in-orbit-servicing-partnership/" >🔗</a> **[SpaceNews]** Airbus and Astroscale expand in-orbit servicing partnership
 - <a href="https://www.teslarati.com/spacex-aces-sunrise-falcon-9-launch-with-23-starlink-satellites/" >🔗</a> **[Teslarati]** SpaceX aces sunrise Falcon 9 launch with 23 Starlink satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-9-2024/" >🔗</a> **[NASA]** Station Science Top News: August 9, 2024
-- <a href="https://www.nasa.gov/image-article/webb-sees-gassy-baby-stars/" >🔗</a> **[NASA]** Webb Sees Gassy Baby Stars
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T110136">2024-08-13 11:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240813T113109">2024-08-13 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
