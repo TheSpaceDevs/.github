@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasa.gov/image-article/a-practiced-escape/" >🔗</a> **[NASA]** A Practiced Escape
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-work-out-black-holes-snack-schedule/" >🔗</a> **[NASA]** NASA Telescopes Work Out Black Hole’s Snack Schedule
 - <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar – Space: The Next Frontier of Strategic Competition
 - <a href="https://spacenews.com/senate-bill-would-create-center-to-study-satellite-interference-with-astronomy/" >🔗</a> **[SpaceNews]** Senate bill would create center to study satellite interference with astronomy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/55-years-ago-nasa-group-7-astronaut-selection/" >🔗</a> **[NASA]** 55 Years Ago: NASA Group 7 Astronaut Selection
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-event-with-scientists-research-plane-in-alaska/" >🔗</a> **[NASA]** NASA Invites Media to Event with Scientists, Research Plane in Alaska
 - <a href="https://spacenews.com/northrop-grumman-continues-to-trim-space-workforce-in-california/" >🔗</a> **[SpaceNews]** Northrop Grumman continues to trim space workforce in California
-- <a href="https://www.nasa.gov/news-release/nasa-funds-research-projects-advancing-stem-career-development/" >🔗</a> **[NASA]** NASA Funds Research Projects Advancing STEM Career Development
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T190119">2024-08-14 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T193106">2024-08-14 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
