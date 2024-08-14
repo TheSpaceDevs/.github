@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Publications_Brochures/Forward_to_the_Moon_interactive_publication" >🔗</a> **[ESA]** How the Moon shaped our world: discover our interactive publication
 - <a href="https://spacenews.com/intuitive-machines-seeks-to-take-over-nasas-viper-lunar-rover/" >🔗</a> **[SpaceNews]** Intuitive Machines seeks to take over NASA’s VIPER lunar rover
 - <a href="https://arstechnica.com/space/2024/08/a-conversation-with-nasa-chief-bill-nelson-on-artemis-budget-holes-and-more/" >🔗</a> **[Arstechnica]** NASA chief to scientists on budget cuts: “I feel your pain”
 - <a href="https://www.nasaspaceflight.com/2024/08/blue-origin-launch-preps/" >🔗</a> **[NASASpaceflight]** New Glenn’s maiden flight approaches as hardware undergoes testing
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/terran-orbital-removes-rivada-constellation-from-revenue-backlog/" >🔗</a> **[SpaceNews]** Terran Orbital removes Rivada constellation from revenue backlog
 - <a href="https://www.nasa.gov/image-article/699335/" >🔗</a> **[NASA]** Earth’s Crest Over the Lunar Horizon
 - <a href="https://spacenews.com/moog-unveils-new-radiation-hardened-space-computer-to-support-the-next-generation-of-high-speed-computing-on-orbit/" >🔗</a> **[SpaceNews]** Moog Unveils New, Radiation-Hardened Space Computer to Support the Next Generation of High-Speed Computing On-Orbit
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/" >🔗</a> **[NASA]** Primary Instrument for Roman Space Telescope Arrives at NASA Goddard
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T110116">2024-08-14 11:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T113111">2024-08-14 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
