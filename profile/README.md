@@ -92,26 +92,26 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-watch-artemis-ii-rocket-adapter-roll-out/" >🔗</a> **[NASA]** NASA Invites Media to Watch Artemis II Rocket Adapter Roll Out
 - <a href="https://www.nasa.gov/image-article/a-practiced-escape/" >🔗</a> **[NASA]** A Practiced Escape
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-work-out-black-holes-snack-schedule/" >🔗</a> **[NASA]** NASA Telescopes Work Out Black Hole’s Snack Schedule
 - <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar – Space: The Next Frontier of Strategic Competition
 - <a href="https://spacenews.com/senate-bill-would-create-center-to-study-satellite-interference-with-astronomy/" >🔗</a> **[SpaceNews]** Senate bill would create center to study satellite interference with astronomy
 - <a href="https://science.nasa.gov/learning-resources/science-activation/solar-eclipse-data-story-helps-the-public-visualize-the-april-2024-total-eclipse/" >🔗</a> **[NASA]** Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse
+- <a href="https://science.nasa.gov/rps/perseverance-pays-off-for-student-challenge-winners/" >🔗</a> **[NASA]** Perseverance Pays Off for Student Challenge Winners
 - <a href="https://science.nasa.gov/rps/winners-of-nasas-power-to-explore-student-challenge-tour-nasas-glenn-research-center-and-meet-nasa-engineers/" >🔗</a> **[NASA]** Winners of NASA’s Power to Explore Student Challenge Tour NASA’s Glenn Research Center and Meet NASA Engineers
 - <a href="https://www.nasa.gov/history/55-years-ago-nasa-group-7-astronaut-selection/" >🔗</a> **[NASA]** 55 Years Ago: NASA Group 7 Astronaut Selection
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-event-with-scientists-research-plane-in-alaska/" >🔗</a> **[NASA]** NASA Invites Media to Event with Scientists, Research Plane in Alaska
-- <a href="https://spacenews.com/northrop-grumman-continues-to-trim-space-workforce-in-california/" >🔗</a> **[SpaceNews]** Northrop Grumman continues to trim space workforce in California
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, and Falcon 9 flights scheduled
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, Chinese CZ-2D, and Falcon 9 flights scheduled
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-89-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 89 Launch, Space Station Docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T203100">2024-08-14 20:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T210110">2024-08-14 21:01:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
