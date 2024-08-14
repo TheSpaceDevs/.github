@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://spacenews.com/senate-bill-would-create-center-to-study-satellite-interference-with-astronomy/" >🔗</a> **[SpaceNews]** Senate bill would create center to study satellite interference with astronomy
+- <a href="https://science.nasa.gov/learning-resources/science-activation/solar-eclipse-data-story-helps-the-public-visualize-the-april-2024-total-eclipse/" >🔗</a> **[NASA]** Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse
+- <a href="https://science.nasa.gov/rps/winners-of-nasas-power-to-explore-student-challenge-tour-nasas-glenn-research-center-and-meet-nasa-engineers/" >🔗</a> **[NASA]** Winners of NASA’s Power to Explore Student Challenge Tour NASA’s Glenn Research Center and Meet NASA Engineers
 - <a href="https://www.nasa.gov/history/55-years-ago-nasa-group-7-astronaut-selection/" >🔗</a> **[NASA]** 55 Years Ago: NASA Group 7 Astronaut Selection
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-event-with-scientists-research-plane-in-alaska/" >🔗</a> **[NASA]** NASA Invites Media to Event with Scientists, Research Plane in Alaska
 - <a href="https://spacenews.com/northrop-grumman-continues-to-trim-space-workforce-in-california/" >🔗</a> **[SpaceNews]** Northrop Grumman continues to trim space workforce in California
 - <a href="https://www.nasa.gov/news-release/nasa-funds-research-projects-advancing-stem-career-development/" >🔗</a> **[NASA]** NASA Funds Research Projects Advancing STEM Career Development
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-to-begin-long-climb-up-martian-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover to Begin Long Climb Up Martian Crater Rim
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Publications_Brochures/Forward_to_the_Moon_interactive_publication" >🔗</a> **[ESA]** How the Moon shaped our world: discover our interactive publication
-- <a href="https://spacenews.com/get-space-weather-policy-right/" >🔗</a> **[SpaceNews]** Get Space Weather Policy Right
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/xiaoyi-li-engineers-instruments-and-the-teams-that-get-them-done/" >🔗</a> **[NASA]** Xiaoyi Li Engineers Instruments and the Teams that Get Them Done
-- <a href="https://europeanspaceflight.com/the-exploration-company-to-increase-workforce-by-40/" >🔗</a> **[European Spaceflight]** The Exploration Company to Increase Workforce by 40%
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T160117">2024-08-14 16:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T163538">2024-08-14 16:35:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
