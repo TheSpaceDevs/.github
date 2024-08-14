@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://spacenews.com/nasa-pushes-starliner-return-decision-to-late-august/" >🔗</a> **[SpaceNews]** NASA pushes Starliner return decision to late August
 - <a href="https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html" >🔗</a> **[CNBC]** Why NASA astronauts are waiting to return on Boeing’s Starliner
 - <a href="https://spacenews.com/telesat-close-to-securing-government-funds-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat close to securing government funds for Lightspeed
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-14-2024/" >🔗</a> **[NASA]** The Marshall Star for August 14, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-work-out-black-holes-snack-schedule/" >🔗</a> **[NASA]** NASA Telescopes Work Out Black Hole’s Snack Schedule
 - <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar – Space: The Next Frontier of Strategic Competition
 - <a href="https://spacenews.com/senate-bill-would-create-center-to-study-satellite-interference-with-astronomy/" >🔗</a> **[SpaceNews]** Senate bill would create center to study satellite interference with astronomy
-- <a href="https://science.nasa.gov/learning-resources/science-activation/solar-eclipse-data-story-helps-the-public-visualize-the-april-2024-total-eclipse/" >🔗</a> **[NASA]** Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T220127">2024-08-14 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T223240">2024-08-14 22:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
