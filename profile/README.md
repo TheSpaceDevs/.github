@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-event-with-scientists-research-plane-in-alaska/" >🔗</a> **[NASA]** NASA Invites Media to Event with Scientists, Research Plane in Alaska
+- <a href="https://spacenews.com/northrop-grumman-continues-to-trim-space-workforce-in-california/" >🔗</a> **[SpaceNews]** Northrop Grumman continues to trim space workforce in California
 - <a href="https://www.nasa.gov/news-release/nasa-funds-research-projects-advancing-stem-career-development/" >🔗</a> **[NASA]** NASA Funds Research Projects Advancing STEM Career Development
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-to-begin-long-climb-up-martian-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover to Begin Long Climb Up Martian Crater Rim
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Publications_Brochures/Forward_to_the_Moon_interactive_publication" >🔗</a> **[ESA]** How the Moon shaped our world: discover our interactive publication
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/xiaoyi-li-engineers-instruments-and-the-teams-that-get-them-done/" >🔗</a> **[NASA]** Xiaoyi Li Engineers Instruments and the Teams that Get Them Done
 - <a href="https://europeanspaceflight.com/the-exploration-company-to-increase-workforce-by-40/" >🔗</a> **[European Spaceflight]** The Exploration Company to Increase Workforce by 40%
 - <a href="https://spacenews.com/intuitive-machines-seeks-to-take-over-nasas-viper-lunar-rover/" >🔗</a> **[SpaceNews]** Intuitive Machines seeks to take over NASA’s VIPER lunar rover
-- <a href="https://arstechnica.com/space/2024/08/a-conversation-with-nasa-chief-bill-nelson-on-artemis-budget-holes-and-more/" >🔗</a> **[Arstechnica]** NASA chief to scientists on budget cuts: “I feel your pain”
-- <a href="https://www.nasaspaceflight.com/2024/08/blue-origin-launch-preps/" >🔗</a> **[NASASpaceflight]** New Glenn’s maiden flight approaches as hardware undergoes testing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T150117">2024-08-14 15:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240814T153113">2024-08-14 15:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
