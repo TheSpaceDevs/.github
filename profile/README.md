@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://spacepolicyonline.com/news/lessons-learned-from-challenger-and-columbia-guide-starliner-decisions/" >🔗</a> **[SpacePolicyOnline.com]** Lessons Learned from Challenger and Columbia Guide Starliner Decisions
+- <a href="https://science.nasa.gov/blogs/sols-4275-4276-a-familiar-view/" >🔗</a> **[NASA]** Sols 4275-4276: A Familiar View
 - <a href="https://science.nasa.gov/blogs/sols-4273-4274-prep-rally/" >🔗</a> **[NASA]** Sols 4273-4274: Prep Rally
 - <a href="https://spacenews.com/redwire-to-acquire-satellite-manufacturer-hera-systems-bolstering-defense-portfolio/" >🔗</a> **[SpaceNews]** Redwire to acquire satellite manufacturer Hera Systems, bolstering defense portfolio
 - <a href="https://spaceflightnow.com/2024/08/14/live-coverage-spacex-to-launch-2nd-pair-of-maxars-worldview-legion-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2nd pair of Maxar’s WorldView Legion satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/wildland-fire-management-initiative-description/" >🔗</a> **[NASA]** Wildland Fire Management Initiative Description
 - <a href="https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html" >🔗</a> **[CNBC]** Why NASA astronauts are waiting to return on Boeing’s Starliner
 - <a href="https://spacenews.com/telesat-close-to-securing-government-funds-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat close to securing government funds for Lightspeed
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-14-2024/" >🔗</a> **[NASA]** The Marshall Star for August 14, 2024
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-watch-artemis-ii-rocket-adapter-roll-out/" >🔗</a> **[NASA]** NASA Invites Media to Watch Artemis II Rocket Adapter Roll Out
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T000350">2024-08-15 00:03:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T004501">2024-08-15 00:45:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
