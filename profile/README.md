@@ -93,6 +93,7 @@ Also included is the cubesat Space Rickshaw-0
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasa.gov/news-release/southern-california-student-wins-nasa-scholarship/" >🔗</a> **[NASA]** Southern California Student Wins NASA Scholarship
 - <a href="https://spacenews.com/ast-spacemobile-starts-work-on-17-larger-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile starts work on 17 larger direct-to-smartphone satellites
 - <a href="https://science.nasa.gov/open-science/geospatial-artificial-intelligence-team-award/" >🔗</a> **[NASA]** Geospatial AI Foundation Model Team Receives NASA Marshall Group Achievement Award
 - <a href="https://spacenews.com/russian-nukes-in-space-why-a-cold-war-response-will-only-make-it-worse/" >🔗</a> **[SpaceNews]** Russian nukes in space: Why a Cold War response will only make it worse
@@ -101,7 +102,6 @@ Also included is the cubesat Space Rickshaw-0
 - <a href="https://tlpnetwork.com/news/technology/apex-introduces-geo-aries-a-geostationary-satellite-bus" >🔗</a> **[The Launch Pad]** Apex Introduces GEO Aries, A Geostationary Satellite Bus
 - <a href="https://tlpnetwork.com/news/america/lockheed-martin-to-acquire-terran-orbital-in-450-million-deal" >🔗</a> **[The Launch Pad]** Lockheed Martin to Acquire Terran Orbital in $450 Million Deal
 - <a href="https://www.nasa.gov/image-article/sao-franciscos-colorful-palette/" >🔗</a> **[NASA]** São Francisco’s Colorful Palette
-- <a href="https://arstechnica.com/space/2024/08/facing-financial-crisis-russia-on-pace-for-lowest-launch-total-in-6-decades/" >🔗</a> **[Arstechnica]** Facing “financial crisis,” Russia on pace for lowest launch total in 6 decades
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Also included is the cubesat Space Rickshaw-0
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T230108">2024-08-15 23:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T233055">2024-08-15 23:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
