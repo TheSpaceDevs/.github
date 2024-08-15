@@ -93,6 +93,7 @@ Also included is the cubesat Space Rickshaw-0
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://arstechnica.com/space/2024/08/facing-financial-crisis-russia-on-pace-for-lowest-launch-total-in-6-decades/" >🔗</a> **[Arstechnica]** Facing “financial crisis,” Russia on pace for lowest launch total in 6 decades
 - <a href="https://science.nasa.gov/science-research/astrophysics/nasa-selects-5-new-roman-technology-fellows-in-astrophysics/" >🔗</a> **[NASA]** NASA Selects 5 New Roman Technology Fellows in Astrophysics
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/" >🔗</a> **[NASA]** NASA Citizen Scientists Spot Object Moving 1 Million Miles Per Hour
 - <a href="https://europeanspaceflight.com/student-led-reusable-rocket-team-prepares-to-spin-off-tech/" >🔗</a> **[European Spaceflight]** Student-Led Reusable Rocket Team Prepares to Spin-Off Tech
@@ -101,7 +102,6 @@ Also included is the cubesat Space Rickshaw-0
 - <a href="https://spacenews.com/spacex-launches-second-pair-of-maxar-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches second pair of Maxar WorldView Legion imaging satellites
 - <a href="https://spacenews.com/lockheed-martin-to-acquire-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed Martin to acquire Terran Orbital
 - <a href="https://spacenews.com/china-could-develop-dual-relay-satellite-system-for-earth-moon-communications-to-reduce-geopolitical-risks/" >🔗</a> **[SpaceNews]** China could develop dual relay satellite system for Earth-moon communications to reduce geopolitical risks
-- <a href="https://www.cnbc.com/2024/08/15/lockheed-martin-take-terran-orbital-private.html" >🔗</a> **[CNBC]** Lockheed Martin to take struggling spacecraft manufacturer Terran Orbital private in $450 million deal
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Also included is the cubesat Space Rickshaw-0
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T173105">2024-08-15 17:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T180205">2024-08-15 18:02:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
