@@ -93,6 +93,7 @@ Also included is the cubesat Space Rickshaw-0
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/" >🔗</a> **[NASA]** NASA Citizen Scientists Spot Object Moving 1 Million Miles Per Hour
 - <a href="https://europeanspaceflight.com/student-led-reusable-rocket-team-prepares-to-spin-off-tech/" >🔗</a> **[European Spaceflight]** Student-Led Reusable Rocket Team Prepares to Spin-Off Tech
 - <a href="https://spacenews.com/maria-demaree-lockheed-martin-leading-women-in-space/" >🔗</a> **[SpaceNews]** Maria Demaree, Lockheed Martin – Leading Women in Space
 - <a href="https://www.nasa.gov/missions/station/iss-research/mental-well-being-in-space/" >🔗</a> **[NASA]** Mental Well-Being in Space
@@ -101,7 +102,6 @@ Also included is the cubesat Space Rickshaw-0
 - <a href="https://spacenews.com/china-could-develop-dual-relay-satellite-system-for-earth-moon-communications-to-reduce-geopolitical-risks/" >🔗</a> **[SpaceNews]** China could develop dual relay satellite system for Earth-moon communications to reduce geopolitical risks
 - <a href="https://www.cnbc.com/2024/08/15/lockheed-martin-take-terran-orbital-private.html" >🔗</a> **[CNBC]** Lockheed Martin to take struggling spacecraft manufacturer Terran Orbital private in $450 million deal
 - <a href="https://spacenews.com/apex-offers-geo-version-of-aries-satellite-bus/" >🔗</a> **[SpaceNews]** Apex offers GEO version of Aries satellite bus
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/the-summer-triangles-hidden-treasures/" >🔗</a> **[NASA]** The Summer Triangle’s Hidden Treasures
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Also included is the cubesat Space Rickshaw-0
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T160126">2024-08-15 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T163412">2024-08-15 16:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
