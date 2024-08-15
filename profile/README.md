@@ -101,7 +101,7 @@ Also included is the cubesat Space Rickshaw-0
 - <a href="https://spacenews.com/china-could-develop-dual-relay-satellite-system-for-earth-moon-communications-to-reduce-geopolitical-risks/" >🔗</a> **[SpaceNews]** China could develop dual relay satellite system for Earth-moon communications to reduce geopolitical risks
 - <a href="https://www.cnbc.com/2024/08/15/lockheed-martin-take-terran-orbital-private.html" >🔗</a> **[CNBC]** Lockheed Martin to take struggling spacecraft manufacturer Terran Orbital private in $450 million deal
 - <a href="https://spacenews.com/apex-offers-geo-version-of-aries-satellite-bus/" >🔗</a> **[SpaceNews]** Apex offers GEO version of Aries satellite bus
-- <a href="https://spacepolicyonline.com/news/lessons-learned-from-challenger-and-columbia-guide-starliner-decisions/" >🔗</a> **[SpacePolicyOnline.com]** Lessons Learned from Challenger and Columbia Guide Starliner Decisions
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/the-summer-triangles-hidden-treasures/" >🔗</a> **[NASA]** The Summer Triangle’s Hidden Treasures
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Also included is the cubesat Space Rickshaw-0
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T150124">2024-08-15 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240815T153107">2024-08-15 15:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
