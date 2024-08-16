@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-ii-evolving-to-mars/" >🔗</a> **[Space Scout]** Moon to Mars Part II: Evolving to Mars
 - <a href="https://www.nasa.gov/news-release/kansas-students-to-hear-from-nasa-astronauts-aboard-station/" >🔗</a> **[NASA]** Kansas Students to Hear from NASA Astronauts Aboard Station
 - <a href="https://europeanspaceflight.com/esa-weather-satellite-to-launch-aboard-falcon-9-today/" >🔗</a> **[European Spaceflight]** ESA Weather Satellite to Launch Aboard Falcon 9 Today
 - <a href="https://spacenews.com/snc-scaling-up-its-fleet-of-radio-frequency-monitoring-satellites/" >🔗</a> **[SpaceNews]** SNC scaling up its fleet of radio-frequency monitoring satellites
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2024/08/transporter-11/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-11 rideshare with 116 payloads
 - <a href="https://spacenews.com/long-march-4b-launches-experimental-yaogan-43-satellite-group/" >🔗</a> **[SpaceNews]** Long March 4B launches experimental Yaogan-43 satellite group
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
-- <a href="https://spacenews.com/indian-solid-sslv-rocket-launches-earth-observation-satellite/" >🔗</a> **[SpaceNews]** Indian solid SSLV rocket launches Earth observation satellite
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T160123">2024-08-16 16:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T163513">2024-08-16 16:35:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
