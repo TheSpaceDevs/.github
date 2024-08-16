@@ -46,7 +46,6 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T182000">2024-08-16 18:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20240816T182000Z%2F20240816T191300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T092000">2024-08-20 09:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-5&location=Cape Canaveral, FL, USA&dates=20240820T092000Z%2F20240820T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-5** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T084700">2024-08-21 08:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240821T084700Z%2F20240821T124700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T073800">2024-08-26 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240826T073800Z%2F20240826T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
@@ -91,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/16/live-coverage-spacex-to-launch-116-payloads-on-falcon-9-rideshare-mission-transporter-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 116 payloads on Falcon 9 rideshare mission: Transporter-11
 - <a href="https://www.nasa.gov/news-release/nasa-funded-research-institute-selects-new-class-of-space-health-fellows/" >🔗</a> **[NASA]** NASA-Funded Research Institute Selects New Class of Space Health Fellows
 - <a href="https://spacenews.com/republican-former-nasa-administrator-endorses-harris-for-president/" >🔗</a> **[SpaceNews]** Republican former NASA administrator endorses Harris for president
 - <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-ii-evolving-to-mars/" >🔗</a> **[Space Scout]** Moon to Mars Part II: Evolving to Mars
@@ -100,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-rings-in-a-new-galactic-view/" >🔗</a> **[NASA]** Hubble Rings in a New Galactic View
 - <a href="https://spacenews.com/make-space-great-again/" >🔗</a> **[SpaceNews]** Make Space Great Again
 - <a href="https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Mars-bound twin satellites – Blue and Gold – hit the road ahead of Blue Origin launch
-- <a href="https://www.nasaspaceflight.com/2024/08/transporter-11/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-11 rideshare with 116 payloads
 
 
 ### Launch-related News 🚀
@@ -116,7 +115,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T180119">2024-08-16 18:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T183415">2024-08-16 18:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
