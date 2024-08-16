@@ -20,28 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SSLV | EOS-08/Microsat-2C**. It is scheduled to be launched by *Indian Space Research Organization*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Satish Dhawan Space Centre, India*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T034700">2024-08-16 03:47:00 UTC</a>.  Until
-then, this pad will have been used for 58
-out of 94 launches from this location. The launch status is currently
+**Long March 2D/YZ-3 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T072500">2024-08-16 07:25:00 UTC</a>.  Until
+then, this pad will have been used for 92
+out of 208 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Earth observation micro-satellite for ISRO designed to test new technologies for building an Earth observation satellite in a micro-satellite bus. The satellite hoists an Electro-Optical Infrared Payload (EOIR) for Earth observation, a Global Navigation Satellite System-Reflectometry payload (GNSS-R) for weather studies, and an UV Dosimeter to measure UV radiation in low Earth orbit.
-Also included is the cubesat Space Rickshaw-0
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Small_Satellite_Launch_Vehicle" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.733,80.235" >
+  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +55,7 @@ Also included is the cubesat Space Rickshaw-0
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GSAT-20&location=Cape Canaveral, FL, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GSAT-20** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T015000">2024-09-04 01:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | Sentinel-2C&location=Guiana Space Centre, French Guiana&dates=20240904T015000Z%2F20240904T015000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | Sentinel-2C** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T040000">2024-09-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar 8&location=Tanegashima Space Center, Japan&dates=20240911T040000Z%2F20240911T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar 8** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,12 +105,11 @@ Also included is the cubesat Space Rickshaw-0
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, Chinese CZ-2D, and Falcon 9 flights scheduled
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T040118">2024-08-16 04:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T043252">2024-08-16 04:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
