@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/kansas-students-to-hear-from-nasa-astronauts-aboard-station/" >🔗</a> **[NASA]** Kansas Students to Hear from NASA Astronauts Aboard Station
 - <a href="https://europeanspaceflight.com/esa-weather-satellite-to-launch-aboard-falcon-9-today/" >🔗</a> **[European Spaceflight]** ESA Weather Satellite to Launch Aboard Falcon 9 Today
 - <a href="https://spacenews.com/snc-scaling-up-its-fleet-of-radio-frequency-monitoring-satellites/" >🔗</a> **[SpaceNews]** SNC scaling up its fleet of radio-frequency monitoring satellites
 - <a href="https://science.nasa.gov/missions/hubble/hubble-rings-in-a-new-galactic-view/" >🔗</a> **[NASA]** Hubble Rings in a New Galactic View
 - <a href="https://spacenews.com/make-space-great-again/" >🔗</a> **[SpaceNews]** Make Space Great Again
-- <a href="https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Mars-bound twin satellites – Blue and Gold – hit the road ahead for Blue Origin launch
+- <a href="https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Mars-bound twin satellites – Blue and Gold – hit the road ahead of Blue Origin launch
 - <a href="https://www.nasaspaceflight.com/2024/08/transporter-11/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-11 rideshare with 116 payloads
 - <a href="https://spacenews.com/long-march-4b-launches-experimental-yaogan-43-satellite-group/" >🔗</a> **[SpaceNews]** Long March 4B launches experimental Yaogan-43 satellite group
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
 - <a href="https://spacenews.com/indian-solid-sslv-rocket-launches-earth-observation-satellite/" >🔗</a> **[SpaceNews]** Indian solid SSLV rocket launches Earth observation satellite
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Watch_Arctic_Weather_Satellite_and_Phsat-2_launch_live" >🔗</a> **[ESA]** Watch Arctic Weather Satellite and Φsat-2 launch live
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T150107">2024-08-16 15:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T153101">2024-08-16 15:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
