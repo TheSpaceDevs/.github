@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/climate-change/nasa-designed-greenhouse-gas-detection-instrument-launches/" >🔗</a> **[NASA]** NASA-Designed Greenhouse Gas-Detection Instrument Launches
+- <a href="https://spacenews.com/spacex-launches-transporter-11-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-11 smallsat rideshare mission
 - <a href="https://www.nasa.gov/organizations/otps/the-macroeconomics-of-space-symposium/" >🔗</a> **[NASA]** The Macroeconomics of Space Symposium
 - <a href="https://spacenews.com/terran-orbital-york-space-win-u-s-military-satellite-contracts/" >🔗</a> **[SpaceNews]** Terran Orbital, York Space win U.S. military satellite contracts
 - <a href="https://tlpnetwork.com/news/america/boeing-and-lockheed-martin-in-talks-to-sell-ula-to-sierra-space" >🔗</a> **[The Launch Pad]** Boeing & Lockheed Martin in Talks to Sell ULA to Sierra Space
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/rings-and-things/" >🔗</a> **[NASA]** Rings and Things
 - <a href="https://spacenews.com/u-s-space-command-chief-expresses-support-for-armys-space-initiatives/" >🔗</a> **[SpaceNews]** U.S. Space Command chief expresses support for Army’s space initiatives
 - <a href="https://spaceflightnow.com/2024/08/16/live-coverage-spacex-to-launch-116-payloads-on-falcon-9-rideshare-mission-transporter-11/" >🔗</a> **[Spaceflight Now]** SpaceX launches 116 payloads on Falcon 9 rideshare mission, Transporter-11
-- <a href="https://www.nasa.gov/news-release/nasa-funded-research-institute-selects-new-class-of-space-health-fellows/" >🔗</a> **[NASA]** NASA-Funded Research Institute Selects New Class of Space Health Fellows
-- <a href="https://spacenews.com/republican-former-nasa-administrator-endorses-harris-for-president/" >🔗</a> **[SpaceNews]** Republican former NASA administrator endorses Harris for president
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T220115">2024-08-16 22:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T223211">2024-08-16 22:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
