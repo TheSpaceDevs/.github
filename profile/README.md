@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D/YZ-3 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T072500">2024-08-16 07:25:00 UTC</a>.  Until
-then, this pad will have been used for 92
-out of 208 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Transporter 11 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T182000">2024-08-16 18:20:00 UTC</a>.  Until
+then, this pad will have been used for 154
+out of 766 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Dedicated Rideshare* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000000">2024-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 7-19&location=Vandenberg SFB, CA, USA&dates=20240831T000000Z%2F20240831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 7-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T015000">2024-09-04 01:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | Sentinel-2C&location=Guiana Space Centre, French Guiana&dates=20240904T015000Z%2F20240904T015000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | Sentinel-2C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T040000">2024-09-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar 8&location=Tanegashima Space Center, Japan&dates=20240911T040000Z%2F20240911T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar 8** from Tanegashima Space Center, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162200">2024-09-11 16:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-26&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240911T162200Z%2F20240911T162200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-26** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Watch_Arctic_Weather_Satellite_and_Phsat-2_launch_live" >🔗</a> **[ESA]** Watch Arctic Weather Satellite and Φsat-2 launch live
 - <a href="https://spacenews.com/nasa-evaluating-plan-to-restructure-osam-1-satellite-servicing-mission/" >🔗</a> **[SpaceNews]** NASA evaluating plan to restructure OSAM-1 satellite servicing mission
 - <a href="https://www.nasa.gov/news-release/southern-california-student-wins-nasa-scholarship/" >🔗</a> **[NASA]** Southern California Student Wins NASA Scholarship
 - <a href="https://spacenews.com/ast-spacemobile-starts-work-on-17-larger-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile starts work on 17 larger direct-to-smartphone satellites
@@ -99,16 +101,22 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/intuitive-machines-gathers-coalition-to-rescue-nasa-viper-mission" >🔗</a> **[The Launch Pad]** Intuitive Machines Gathers Coalition to Rescue NASA’s VIPER Mission
 - <a href="https://tlpnetwork.com/news/america/northrop-grumman-layoffs-550-employees-at-california-space-facilities" >🔗</a> **[The Launch Pad]** Northrop Grumman Layoffs 550 Employees at California Space Facilities
 - <a href="https://tlpnetwork.com/news/technology/apex-introduces-geo-aries-a-geostationary-satellite-bus" >🔗</a> **[The Launch Pad]** Apex Introduces GEO Aries, A Geostationary Satellite Bus
-- <a href="https://tlpnetwork.com/news/america/lockheed-martin-to-acquire-terran-orbital-in-450-million-deal" >🔗</a> **[The Launch Pad]** Lockheed Martin to Acquire Terran Orbital in $450 Million Deal
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, Chinese CZ-2D, and Falcon 9 flights scheduled
+- <a href="https://spacenews.com/hydrosat-to-launch-its-first-thermal-infrared-sensor/" >🔗</a> **[SpaceNews]** Hydrosat to launch its first thermal infrared sensor
+- <a href="https://tlpnetwork.com/news/america/planets-tanager-1-hyperspectral-satellite-ready-for-launch" >🔗</a> **[The Launch Pad]** Planet’s Tanager-1 Hyperspectral Satellite Ready for Launch
+- <a href="https://spacenews.com/planets-first-hyperspectral-satellite-is-ready-to-launch/" >🔗</a> **[SpaceNews]** Planet’s first hyperspectral satellite is ready to launch
+- <a href="https://europeanspaceflight.com/exolaunch-awarded-first-european-space-agency-launch-contract/" >🔗</a> **[European Spaceflight]** Exolaunch Awarded First European Space Agency Launch Contract
+- <a href="https://spacenews.com/capella-to-use-spacex-for-two-acadia-satellite-launches/" >🔗</a> **[SpaceNews]** Capella to use SpaceX for two Acadia satellite launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T073058">2024-08-16 07:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T080121">2024-08-16 08:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
