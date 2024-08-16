@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/exploration-ground-systems/rescuers-at-the-ready-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** Rescuers at the Ready at NASA’s Kennedy Space Center
 - <a href="https://www.nasa.gov/image-article/rings-and-things/" >🔗</a> **[NASA]** Rings and Things
 - <a href="https://spacenews.com/u-s-space-command-chief-expresses-support-for-armys-space-initiatives/" >🔗</a> **[SpaceNews]** U.S. Space Command chief expresses support for Army’s space initiatives
-- <a href="https://spaceflightnow.com/2024/08/16/live-coverage-spacex-to-launch-116-payloads-on-falcon-9-rideshare-mission-transporter-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 116 payloads on Falcon 9 rideshare mission: Transporter-11
+- <a href="https://spaceflightnow.com/2024/08/16/live-coverage-spacex-to-launch-116-payloads-on-falcon-9-rideshare-mission-transporter-11/" >🔗</a> **[Spaceflight Now]** SpaceX launches 116 payloads on Falcon 9 rideshare mission, Transporter-11
 - <a href="https://www.nasa.gov/news-release/nasa-funded-research-institute-selects-new-class-of-space-health-fellows/" >🔗</a> **[NASA]** NASA-Funded Research Institute Selects New Class of Space Health Fellows
 - <a href="https://spacenews.com/republican-former-nasa-administrator-endorses-harris-for-president/" >🔗</a> **[SpaceNews]** Republican former NASA administrator endorses Harris for president
 
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T213055">2024-08-16 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T220115">2024-08-16 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
