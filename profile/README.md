@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-funded-research-institute-selects-new-class-of-space-health-fellows/" >🔗</a> **[NASA]** NASA-Funded Research Institute Selects New Class of Space Health Fellows
+- <a href="https://spacenews.com/republican-former-nasa-administrator-endorses-harris-for-president/" >🔗</a> **[SpaceNews]** Republican former NASA administrator endorses Harris for president
 - <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-ii-evolving-to-mars/" >🔗</a> **[Space Scout]** Moon to Mars Part II: Evolving to Mars
 - <a href="https://www.nasa.gov/news-release/kansas-students-to-hear-from-nasa-astronauts-aboard-station/" >🔗</a> **[NASA]** Kansas Students to Hear from NASA Astronauts Aboard Station
 - <a href="https://europeanspaceflight.com/esa-weather-satellite-to-launch-aboard-falcon-9-today/" >🔗</a> **[European Spaceflight]** ESA Weather Satellite to Launch Aboard Falcon 9 Today
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/make-space-great-again/" >🔗</a> **[SpaceNews]** Make Space Great Again
 - <a href="https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Mars-bound twin satellites – Blue and Gold – hit the road ahead of Blue Origin launch
 - <a href="https://www.nasaspaceflight.com/2024/08/transporter-11/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-11 rideshare with 116 payloads
-- <a href="https://spacenews.com/long-march-4b-launches-experimental-yaogan-43-satellite-group/" >🔗</a> **[SpaceNews]** Long March 4B launches experimental Yaogan-43 satellite group
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T170118">2024-08-16 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T173110">2024-08-16 17:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
