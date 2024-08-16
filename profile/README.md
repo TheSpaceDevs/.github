@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Mars-bound twin satellites – Blue and Gold – hit the road ahead for Blue Origin launch
+- <a href="https://www.nasaspaceflight.com/2024/08/transporter-11/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-11 rideshare with 116 payloads
 - <a href="https://spacenews.com/long-march-4b-launches-experimental-yaogan-43-satellite-group/" >🔗</a> **[SpaceNews]** Long March 4B launches experimental Yaogan-43 satellite group
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
 - <a href="https://spacenews.com/indian-solid-sslv-rocket-launches-earth-observation-satellite/" >🔗</a> **[SpaceNews]** Indian solid SSLV rocket launches Earth observation satellite
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/southern-california-student-wins-nasa-scholarship/" >🔗</a> **[NASA]** Southern California Student Wins NASA Scholarship
 - <a href="https://spacenews.com/ast-spacemobile-starts-work-on-17-larger-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile starts work on 17 larger direct-to-smartphone satellites
 - <a href="https://science.nasa.gov/open-science/geospatial-artificial-intelligence-team-award/" >🔗</a> **[NASA]** Geospatial AI Foundation Model Team Receives NASA Marshall Group Achievement Award
-- <a href="https://spacenews.com/russian-nukes-in-space-why-a-cold-war-response-will-only-make-it-worse/" >🔗</a> **[SpaceNews]** Russian nukes in space: Why a Cold War response will only make it worse
-- <a href="https://tlpnetwork.com/news/america/intuitive-machines-gathers-coalition-to-rescue-nasa-viper-mission" >🔗</a> **[The Launch Pad]** Intuitive Machines Gathers Coalition to Rescue NASA’s VIPER Mission
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T120131">2024-08-16 12:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T124101">2024-08-16 12:41:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
