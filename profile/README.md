@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/otps/the-macroeconomics-of-space-symposium/" >🔗</a> **[NASA]** The Macroeconomics of Space Symposium
+- <a href="https://spacenews.com/terran-orbital-york-space-win-u-s-military-satellite-contracts/" >🔗</a> **[SpaceNews]** Terran Orbital, York Space win U.S. military satellite contracts
+- <a href="https://tlpnetwork.com/news/america/boeing-and-lockheed-martin-in-talks-to-sell-ula-to-sierra-space" >🔗</a> **[The Launch Pad]** Boeing & Lockheed Martin in Talks to Sell ULA to Sierra Space
+- <a href="https://spacenews.com/electronics-maker-seeks-more-space-growth-after-ceo-retires/" >🔗</a> **[SpaceNews]** Electronics maker seeks more space growth after CEO retires
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/exploration-ground-systems/rescuers-at-the-ready-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** Rescuers at the Ready at NASA’s Kennedy Space Center
 - <a href="https://www.nasa.gov/image-article/rings-and-things/" >🔗</a> **[NASA]** Rings and Things
 - <a href="https://spacenews.com/u-s-space-command-chief-expresses-support-for-armys-space-initiatives/" >🔗</a> **[SpaceNews]** U.S. Space Command chief expresses support for Army’s space initiatives
 - <a href="https://spaceflightnow.com/2024/08/16/live-coverage-spacex-to-launch-116-payloads-on-falcon-9-rideshare-mission-transporter-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 116 payloads on Falcon 9 rideshare mission: Transporter-11
 - <a href="https://www.nasa.gov/news-release/nasa-funded-research-institute-selects-new-class-of-space-health-fellows/" >🔗</a> **[NASA]** NASA-Funded Research Institute Selects New Class of Space Health Fellows
 - <a href="https://spacenews.com/republican-former-nasa-administrator-endorses-harris-for-president/" >🔗</a> **[SpaceNews]** Republican former NASA administrator endorses Harris for president
-- <a href="https://www.spacescout.info/2024/08/moon-to-mars-part-ii-evolving-to-mars/" >🔗</a> **[Space Scout]** Moon to Mars Part II: Evolving to Mars
-- <a href="https://www.nasa.gov/news-release/kansas-students-to-hear-from-nasa-astronauts-aboard-station/" >🔗</a> **[NASA]** Kansas Students to Hear from NASA Astronauts Aboard Station
-- <a href="https://europeanspaceflight.com/esa-weather-satellite-to-launch-aboard-falcon-9-today/" >🔗</a> **[European Spaceflight]** ESA Weather Satellite to Launch Aboard Falcon 9 Today
-- <a href="https://spacenews.com/snc-scaling-up-its-fleet-of-radio-frequency-monitoring-satellites/" >🔗</a> **[SpaceNews]** SNC scaling up its fleet of radio-frequency monitoring satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T203103">2024-08-16 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T210118">2024-08-16 21:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
