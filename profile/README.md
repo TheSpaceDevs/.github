@@ -92,6 +92,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
+- <a href="https://spacenews.com/indian-solid-sslv-rocket-launches-earth-observation-satellite/" >🔗</a> **[SpaceNews]** Indian solid SSLV rocket launches Earth observation satellite
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Watch_Arctic_Weather_Satellite_and_Phsat-2_launch_live" >🔗</a> **[ESA]** Watch Arctic Weather Satellite and Φsat-2 launch live
 - <a href="https://spacenews.com/nasa-evaluating-plan-to-restructure-osam-1-satellite-servicing-mission/" >🔗</a> **[SpaceNews]** NASA evaluating plan to restructure OSAM-1 satellite servicing mission
 - <a href="https://www.nasa.gov/news-release/southern-california-student-wins-nasa-scholarship/" >🔗</a> **[NASA]** Southern California Student Wins NASA Scholarship
@@ -100,13 +101,12 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/russian-nukes-in-space-why-a-cold-war-response-will-only-make-it-worse/" >🔗</a> **[SpaceNews]** Russian nukes in space: Why a Cold War response will only make it worse
 - <a href="https://tlpnetwork.com/news/america/intuitive-machines-gathers-coalition-to-rescue-nasa-viper-mission" >🔗</a> **[The Launch Pad]** Intuitive Machines Gathers Coalition to Rescue NASA’s VIPER Mission
 - <a href="https://tlpnetwork.com/news/america/northrop-grumman-layoffs-550-employees-at-california-space-facilities" >🔗</a> **[The Launch Pad]** Northrop Grumman Layoffs 550 Employees at California Space Facilities
-- <a href="https://tlpnetwork.com/news/technology/apex-introduces-geo-aries-a-geostationary-satellite-bus" >🔗</a> **[The Launch Pad]** Apex Introduces GEO Aries, A Geostationary Satellite Bus
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Arctic_Weather_Satellite_advancing_weather_forecasting_in_a_changing_climate" >🔗</a> **[ESA]** Arctic Weather Satellite: advancing weather forecasting in a changing climate
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, Chinese CZ-2D, and Falcon 9 flights scheduled
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-081224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Progress MS-28, Indian SSLV, Chinese CZ-4B, and Falcon 9 flights scheduled
 - <a href="https://spacenews.com/hydrosat-to-launch-its-first-thermal-infrared-sensor/" >🔗</a> **[SpaceNews]** Hydrosat to launch its first thermal infrared sensor
 - <a href="https://tlpnetwork.com/news/america/planets-tanager-1-hyperspectral-satellite-ready-for-launch" >🔗</a> **[The Launch Pad]** Planet’s Tanager-1 Hyperspectral Satellite Ready for Launch
 - <a href="https://spacenews.com/planets-first-hyperspectral-satellite-is-ready-to-launch/" >🔗</a> **[SpaceNews]** Planet’s first hyperspectral satellite is ready to launch
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T100124">2024-08-16 10:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T103337">2024-08-16 10:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
