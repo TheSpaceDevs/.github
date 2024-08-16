@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/make-space-great-again/" >🔗</a> **[SpaceNews]** Make Space Great Again
 - <a href="https://spaceflightnow.com/2024/08/16/rocket-labs-mars-bound-twin-satellites-blue-and-gold-hit-the-road-ahead-for-blue-origin-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Mars-bound twin satellites – Blue and Gold – hit the road ahead for Blue Origin launch
 - <a href="https://www.nasaspaceflight.com/2024/08/transporter-11/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-11 rideshare with 116 payloads
 - <a href="https://spacenews.com/long-march-4b-launches-experimental-yaogan-43-satellite-group/" >🔗</a> **[SpaceNews]** Long March 4B launches experimental Yaogan-43 satellite group
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-evaluating-plan-to-restructure-osam-1-satellite-servicing-mission/" >🔗</a> **[SpaceNews]** NASA evaluating plan to restructure OSAM-1 satellite servicing mission
 - <a href="https://www.nasa.gov/news-release/southern-california-student-wins-nasa-scholarship/" >🔗</a> **[NASA]** Southern California Student Wins NASA Scholarship
 - <a href="https://spacenews.com/ast-spacemobile-starts-work-on-17-larger-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile starts work on 17 larger direct-to-smartphone satellites
-- <a href="https://science.nasa.gov/open-science/geospatial-artificial-intelligence-team-award/" >🔗</a> **[NASA]** Geospatial AI Foundation Model Team Receives NASA Marshall Group Achievement Award
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T130341">2024-08-16 13:03:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240816T133059">2024-08-16 13:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
