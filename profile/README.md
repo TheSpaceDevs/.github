@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_demonstrates_the_power_of_AI_for_Earth_observation" >🔗</a> **[ESA]** New satellite demonstrates the power of AI for Earth observation
+- <a href="https://www.cnbc.com/2024/08/17/first-spacex-spacewalk-polaris-dawn-mission-launch-date-details.html" >🔗</a> **[CNBC]** The first SpaceX spacewalk: What the Polaris Dawn commander says about the bold upcoming mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_lifts_off_to_set_the_stage_for_better_forecasts" >🔗</a> **[ESA]** Arctic Weather Satellite lifts off to set the stage for better forecasts
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-designed-greenhouse-gas-detection-instrument-launches/" >🔗</a> **[NASA]** NASA-Designed Greenhouse Gas-Detection Instrument Launches
 - <a href="https://spacenews.com/spacex-launches-transporter-11-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-11 smallsat rideshare mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/boeing-and-lockheed-martin-in-talks-to-sell-ula-to-sierra-space" >🔗</a> **[The Launch Pad]** Boeing & Lockheed Martin in Talks to Sell ULA to Sierra Space
 - <a href="https://spacenews.com/electronics-maker-seeks-more-space-growth-after-ceo-retires/" >🔗</a> **[SpaceNews]** Electronics maker seeks more space growth after CEO retires
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/exploration-ground-systems/rescuers-at-the-ready-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** Rescuers at the Ready at NASA’s Kennedy Space Center
-- <a href="https://www.nasa.gov/image-article/rings-and-things/" >🔗</a> **[NASA]** Rings and Things
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240817T130205">2024-08-17 13:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240817T133102">2024-08-17 13:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
