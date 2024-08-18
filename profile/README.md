@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-18-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 18-31, 2024
 - <a href="https://spacenews.com/first-rfa-launch-in-a-matter-of-weeks/" >🔗</a> **[SpaceNews]** First RFA launch in a “matter of weeks”
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_demonstrates_the_power_of_AI_for_Earth_observation" >🔗</a> **[ESA]** New satellite demonstrates the power of AI for Earth observation
 - <a href="https://www.cnbc.com/2024/08/17/first-spacex-spacewalk-polaris-dawn-mission-launch-date-details.html" >🔗</a> **[CNBC]** The first SpaceX spacewalk: What the Polaris Dawn commander says about the bold upcoming mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/orville-wright-and-national-aviation-day/" >🔗</a> **[NASA]** Orville Wright and National Aviation Day
 - <a href="https://www.nasa.gov/aeronautics/spread-your-wings-on-national-aviation-day/" >🔗</a> **[NASA]** Ideas for Celebrating National Aviation Day
 - <a href="https://www.nasa.gov/organizations/otps/the-macroeconomics-of-space-symposium/" >🔗</a> **[NASA]** The Macroeconomics of Space Symposium
-- <a href="https://spacenews.com/terran-orbital-york-space-win-u-s-military-satellite-contracts/" >🔗</a> **[SpaceNews]** Terran Orbital, York Space win U.S. military satellite contracts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T220104">2024-08-18 22:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T223136">2024-08-18 22:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
