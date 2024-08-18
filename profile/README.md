@@ -97,10 +97,10 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_lifts_off_to_set_the_stage_for_better_forecasts" >🔗</a> **[ESA]** Arctic Weather Satellite lifts off to set the stage for better forecasts
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-designed-greenhouse-gas-detection-instrument-launches/" >🔗</a> **[NASA]** NASA-Designed Greenhouse Gas-Detection Instrument Launches
 - <a href="https://spacenews.com/spacex-launches-transporter-11-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-11 smallsat rideshare mission
+- <a href="https://www.nasa.gov/aeronautics/orville-wright-and-national-aviation-day/" >🔗</a> **[NASA]** Orville Wright and National Aviation Day
 - <a href="https://www.nasa.gov/organizations/otps/the-macroeconomics-of-space-symposium/" >🔗</a> **[NASA]** The Macroeconomics of Space Symposium
 - <a href="https://spacenews.com/terran-orbital-york-space-win-u-s-military-satellite-contracts/" >🔗</a> **[SpaceNews]** Terran Orbital, York Space win U.S. military satellite contracts
 - <a href="https://tlpnetwork.com/news/america/boeing-and-lockheed-martin-in-talks-to-sell-ula-to-sierra-space" >🔗</a> **[The Launch Pad]** Boeing & Lockheed Martin in Talks to Sell ULA to Sierra Space
-- <a href="https://spacenews.com/electronics-maker-seeks-more-space-growth-after-ceo-retires/" >🔗</a> **[SpaceNews]** Electronics maker seeks more space growth after CEO retires
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T190111">2024-08-18 19:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T193058">2024-08-18 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
