@@ -91,8 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/rfa-shareholder-announces-rfa-one-debut-weeks-away/" >🔗</a> **[European Spaceflight]** RFA Shareholder Announces RFA ONE Debut “Weeks” Away
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/merging-art-and-analysis-the-collaborative-efforts-behind-nasa-johnsons-visual-legacy/" >🔗</a> **[NASA]** Merging Art and Analysis: The Collaborative Efforts Behind NASA Johnson’s Visual Legacy
+- <a href="https://europeanspaceflight.com/rfa-shareholder-announces-rfa-one-debut-weeks-away/" >🔗</a> **[European Spaceflight]** RFA Shareholder Announces RFA ONE Debut “Weeks” Away
 - <a href="https://spacenews.com/orbex-working-towards-2025-first-launch/" >🔗</a> **[SpaceNews]** Orbex working towards 2025 first launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-18-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 18-31, 2024
 - <a href="https://spacenews.com/first-rfa-launch-in-a-matter-of-weeks/" >🔗</a> **[SpaceNews]** First RFA launch in a “matter of weeks”
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T090119">2024-08-19 09:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T093118">2024-08-19 09:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
