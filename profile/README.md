@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/orbex-working-towards-2025-first-launch/" >🔗</a> **[SpaceNews]** Orbex working towards 2025 first launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-18-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 18-31, 2024
 - <a href="https://spacenews.com/first-rfa-launch-in-a-matter-of-weeks/" >🔗</a> **[SpaceNews]** First RFA launch in a “matter of weeks”
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_demonstrates_the_power_of_AI_for_Earth_observation" >🔗</a> **[ESA]** New satellite demonstrates the power of AI for Earth observation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-transporter-11-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-11 smallsat rideshare mission
 - <a href="https://www.nasa.gov/aeronautics/orville-wright-and-national-aviation-day/" >🔗</a> **[NASA]** Orville Wright and National Aviation Day
 - <a href="https://www.nasa.gov/aeronautics/spread-your-wings-on-national-aviation-day/" >🔗</a> **[NASA]** Ideas for Celebrating National Aviation Day
-- <a href="https://www.nasa.gov/organizations/otps/the-macroeconomics-of-space-symposium/" >🔗</a> **[NASA]** The Macroeconomics of Space Symposium
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240818T233107">2024-08-18 23:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T000356">2024-08-19 00:03:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
