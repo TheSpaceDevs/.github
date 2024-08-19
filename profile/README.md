@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rethinking-safety-in-the-age-of-machine-complexity/" >🔗</a> **[SpaceNews]** Rethinking Safety in the Age of Machine Complexity
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/at-work-and-beyond-nasa-employees-find-joy-in-aviation/" >🔗</a> **[NASA]** At Work and Beyond, NASA Employees Find Joy in Aviation
 - <a href="https://spacenews.com/rocket-lab-built-mars-smallsats-arrive-at-launch-site/" >🔗</a> **[SpaceNews]** Rocket Lab-built Mars smallsats arrive at launch site
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/merging-art-and-analysis-the-collaborative-efforts-behind-nasa-johnsons-visual-legacy/" >🔗</a> **[NASA]** Merging Art and Analysis: The Collaborative Efforts Behind NASA Johnson’s Visual Legacy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/first-rfa-launch-in-a-matter-of-weeks/" >🔗</a> **[SpaceNews]** First RFA launch in a “matter of weeks”
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Phsat-2/New_satellite_demonstrates_the_power_of_AI_for_Earth_observation" >🔗</a> **[ESA]** New satellite demonstrates the power of AI for Earth observation
 - <a href="https://www.cnbc.com/2024/08/17/first-spacex-spacewalk-polaris-dawn-mission-launch-date-details.html" >🔗</a> **[CNBC]** The first SpaceX spacewalk: What the Polaris Dawn commander says about the bold upcoming mission
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_lifts_off_to_set_the_stage_for_better_forecasts" >🔗</a> **[ESA]** Arctic Weather Satellite lifts off to set the stage for better forecasts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T130356">2024-08-19 13:03:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T133145">2024-08-19 13:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
