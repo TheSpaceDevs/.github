@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rfa-shareholder-announces-rfa-one-debut-weeks-away/" >🔗</a> **[European Spaceflight]** RFA Shareholder Announces RFA ONE Debut “Weeks” Away
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/merging-art-and-analysis-the-collaborative-efforts-behind-nasa-johnsons-visual-legacy/" >🔗</a> **[NASA]** Merging Art and Analysis: The Collaborative Efforts Behind NASA Johnson’s Visual Legacy
 - <a href="https://spacenews.com/orbex-working-towards-2025-first-launch/" >🔗</a> **[SpaceNews]** Orbex working towards 2025 first launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-18-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 18-31, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_lifts_off_to_set_the_stage_for_better_forecasts" >🔗</a> **[ESA]** Arctic Weather Satellite lifts off to set the stage for better forecasts
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-designed-greenhouse-gas-detection-instrument-launches/" >🔗</a> **[NASA]** NASA-Designed Greenhouse Gas-Detection Instrument Launches
 - <a href="https://spacenews.com/spacex-launches-transporter-11-smallsat-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-11 smallsat rideshare mission
-- <a href="https://www.nasa.gov/aeronautics/orville-wright-and-national-aviation-day/" >🔗</a> **[NASA]** Orville Wright and National Aviation Day
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T073059">2024-08-19 07:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T080122">2024-08-19 08:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
