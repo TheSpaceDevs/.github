@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starlink-cellular-interference-att-verizon-fcc-complaint/" >🔗</a> **[Teslarati]** SpaceX cellular Starlink would cause interference to AT&T, Verizon: FCC document
+- <a href="https://www.nasa.gov/news-release/nasa-awards-1-25-million-to-three-teams-at-deep-space-food-finale/" >🔗</a> **[NASA]** NASA Awards $1.25 Million to Three Teams at Deep Space Food Finale
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-celebrates-amess-legacy-of-research-on-national-aviation-day/" >🔗</a> **[NASA]** NASA Celebrates Ames’s Legacy of Research on National Aviation Day
+- <a href="https://www.nasa.gov/image-article/revisiting-osiris-rex/" >🔗</a> **[NASA]** Revisiting OSIRIS-REx
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-16-2024/" >🔗</a> **[NASA]** Station Science Top News: August 16, 2024
 - <a href="https://science.nasa.gov/blogs/sols-4277-4279-getting-ready-to-say-goodbye-to-the-king/" >🔗</a> **[NASA]** Sols 4277-4279: Getting Ready To Say Goodbye to the King!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Why_Juice_is_coming_back_to_Earth" >🔗</a> **[ESA]** Why Juice is coming back to Earth
 - <a href="https://spacenews.com/planet-signs-deal-with-nato-to-supply-satellite-imagery/" >🔗</a> **[SpaceNews]** Planet signs deal with NATO to supply satellite imagery
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_fully_loaded" >🔗</a> **[ESA]** Sentinel-2C fully loaded
 - <a href="https://www.teslarati.com/spacex-tiptoes-toward-starship-fifth-test-flight/" >🔗</a> **[Teslarati]** SpaceX tiptoes toward Starship’s fifth test flight
-- <a href="https://spacenews.com/rs-25-engine-evolves-for-the-evolvable-sls-rocket/" >🔗</a> **[SpaceNews]** RS-25 Engine Evolves for the Evolvable SLS Rocket
-- <a href="https://spacenews.com/south-korea-spacex-geo-kompsat-3-launch/" >🔗</a> **[SpaceNews]** South Korea hires SpaceX to launch GEO satellite in 2027
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-billowing-bubbles-of-stellar-floss/" >🔗</a> **[NASA]** Hubble Spots Billowing Bubbles of Stellar Floss
-- <a href="https://spacenews.com/rethinking-safety-in-the-age-of-machine-complexity/" >🔗</a> **[SpaceNews]** Rethinking Safety in the Age of Machine Complexity
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/at-work-and-beyond-nasa-employees-find-joy-in-aviation/" >🔗</a> **[NASA]** At Work and Beyond, NASA Employees Find Joy in Aviation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T190119">2024-08-19 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T193102">2024-08-19 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
