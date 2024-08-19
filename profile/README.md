@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nextstep-r-lunar-logistics-and-mobility-studies/" >🔗</a> **[NASA]** NextSTEP R: Lunar Logistics and Mobility Studies
+- <a href="https://www.nasa.gov/image-article/nasa-cubesats-launch-as-commercial-rideshares/" >🔗</a> **[NASA]** NASA CubeSats Launch as Commercial Rideshares
 - <a href="https://www.teslarati.com/spacex-starlink-cellular-interference-att-verizon-fcc-complaint/" >🔗</a> **[Teslarati]** SpaceX cellular Starlink would cause interference to AT&T, Verizon: FCC document
 - <a href="https://www.nasa.gov/news-release/nasa-awards-1-25-million-to-three-teams-at-deep-space-food-finale/" >🔗</a> **[NASA]** NASA Awards $1.25 Million to Three Teams at Deep Space Food Finale
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-celebrates-amess-legacy-of-research-on-national-aviation-day/" >🔗</a> **[NASA]** NASA Celebrates Ames’s Legacy of Research on National Aviation Day
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blogs/sols-4277-4279-getting-ready-to-say-goodbye-to-the-king/" >🔗</a> **[NASA]** Sols 4277-4279: Getting Ready To Say Goodbye to the King!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Why_Juice_is_coming_back_to_Earth" >🔗</a> **[ESA]** Why Juice is coming back to Earth
 - <a href="https://spacenews.com/planet-signs-deal-with-nato-to-supply-satellite-imagery/" >🔗</a> **[SpaceNews]** Planet signs deal with NATO to supply satellite imagery
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_fully_loaded" >🔗</a> **[ESA]** Sentinel-2C fully loaded
-- <a href="https://www.teslarati.com/spacex-tiptoes-toward-starship-fifth-test-flight/" >🔗</a> **[Teslarati]** SpaceX tiptoes toward Starship’s fifth test flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T203058">2024-08-19 20:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T210109">2024-08-19 21:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
