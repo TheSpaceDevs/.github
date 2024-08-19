@@ -93,14 +93,14 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Why_Juice_is_coming_back_to_Earth" >🔗</a> **[ESA]** Why Juice is coming back to Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_fully_loaded" >🔗</a> **[ESA]** Sentinel-2C fully loaded
+- <a href="https://www.teslarati.com/spacex-tiptoes-toward-starship-fifth-test-flight/" >🔗</a> **[Teslarati]** SpaceX tiptoes toward Starship’s fifth test flight
+- <a href="https://spacenews.com/rs-25-engine-evolves-for-the-evolvable-sls-rocket/" >🔗</a> **[SpaceNews]** RS-25 Engine Evolves for the Evolvable SLS Rocket
 - <a href="https://spacenews.com/south-korea-spacex-geo-kompsat-3-launch/" >🔗</a> **[SpaceNews]** South Korea hires SpaceX to launch GEO satellite in 2027
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-billowing-bubbles-of-stellar-floss/" >🔗</a> **[NASA]** Hubble Spots Billowing Bubbles of Stellar Floss
 - <a href="https://spacenews.com/rethinking-safety-in-the-age-of-machine-complexity/" >🔗</a> **[SpaceNews]** Rethinking Safety in the Age of Machine Complexity
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/at-work-and-beyond-nasa-employees-find-joy-in-aviation/" >🔗</a> **[NASA]** At Work and Beyond, NASA Employees Find Joy in Aviation
 - <a href="https://spacenews.com/rocket-lab-built-mars-smallsats-arrive-at-launch-site/" >🔗</a> **[SpaceNews]** Rocket Lab-built Mars smallsats arrive at launch site
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/merging-art-and-analysis-the-collaborative-efforts-behind-nasa-johnsons-visual-legacy/" >🔗</a> **[NASA]** Merging Art and Analysis: The Collaborative Efforts Behind NASA Johnson’s Visual Legacy
-- <a href="https://europeanspaceflight.com/rfa-shareholder-announces-rfa-one-debut-weeks-away/" >🔗</a> **[European Spaceflight]** RFA Shareholder Announces RFA ONE Debut “Weeks” Away
-- <a href="https://spacenews.com/orbex-working-towards-2025-first-launch/" >🔗</a> **[SpaceNews]** Orbex working towards 2025 first launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T160127">2024-08-19 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T163410">2024-08-19 16:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
