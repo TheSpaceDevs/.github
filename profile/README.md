@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Why_Juice_is_coming_back_to_Earth" >🔗</a> **[ESA]** Why Juice is coming back to Earth
+- <a href="https://spacenews.com/planet-signs-deal-with-nato-to-supply-satellite-imagery/" >🔗</a> **[SpaceNews]** Planet signs deal with NATO to supply satellite imagery
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_fully_loaded" >🔗</a> **[ESA]** Sentinel-2C fully loaded
 - <a href="https://www.teslarati.com/spacex-tiptoes-toward-starship-fifth-test-flight/" >🔗</a> **[Teslarati]** SpaceX tiptoes toward Starship’s fifth test flight
 - <a href="https://spacenews.com/rs-25-engine-evolves-for-the-evolvable-sls-rocket/" >🔗</a> **[SpaceNews]** RS-25 Engine Evolves for the Evolvable SLS Rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rethinking-safety-in-the-age-of-machine-complexity/" >🔗</a> **[SpaceNews]** Rethinking Safety in the Age of Machine Complexity
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/at-work-and-beyond-nasa-employees-find-joy-in-aviation/" >🔗</a> **[NASA]** At Work and Beyond, NASA Employees Find Joy in Aviation
 - <a href="https://spacenews.com/rocket-lab-built-mars-smallsats-arrive-at-launch-site/" >🔗</a> **[SpaceNews]** Rocket Lab-built Mars smallsats arrive at launch site
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/merging-art-and-analysis-the-collaborative-efforts-behind-nasa-johnsons-visual-legacy/" >🔗</a> **[NASA]** Merging Art and Analysis: The Collaborative Efforts Behind NASA Johnson’s Visual Legacy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T170108">2024-08-19 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T173128">2024-08-19 17:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
