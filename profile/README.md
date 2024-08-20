@@ -96,7 +96,7 @@ into *an Unknown
 - <a href="https://spacenews.com/chinese-spacecraft-appear-to-reach-lunar-orbit-despite-launch-setback/" >🔗</a> **[SpaceNews]** Chinese spacecraft appear to reach lunar orbit despite launch setback
 - <a href="https://spaceflightnow.com/2024/08/20/polaris-dawn-astronauts-set-to-perform-first-commercial-spacewalk-arrive-in-florida-ahead-of-launch/" >🔗</a> **[Spaceflight Now]** Polaris Dawn astronauts, set to perform first commercial spacewalk, arrive in Florida ahead of launch
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-readies-for-first-commercial-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Readies for First Commercial Spacewalk
-- <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket launch from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches new Falcon 9 rocket on Starlink mission following ‘water intrusion’ issue
 - <a href="https://spacenews.com/globalstar-gets-conditional-approval-to-replenish-constellation/" >🔗</a> **[SpaceNews]** Globalstar gets conditional approval to replenish constellation
 - <a href="https://spacenews.com/rfa-first-stage-destroyed-in-static-fire-test/" >🔗</a> **[SpaceNews]** RFA first stage destroyed in static-fire test
 - <a href="https://europeanspaceflight.com/rfa-hot-fire-anomaly-results-in-loss-of-rfa-one-first-stage/" >🔗</a> **[European Spaceflight]** RFA Hot Fire Anomaly Results in Loss of RFA ONE First Stage
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T133116">2024-08-20 13:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T140115">2024-08-20 14:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
