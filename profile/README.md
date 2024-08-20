@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/20/polaris-dawn-astronauts-set-to-perform-first-commercial-spacewalk-arrive-in-florida-ahead-of-launch/" >🔗</a> **[Spaceflight Now]** Polaris Dawn astronauts, set to perform first commercial spacewalk, arrive in Florida ahead of launch
+- <a href="https://spacepolicyonline.com/news/polaris-dawn-readies-for-first-commercial-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Readies for First Commercial Spacewalk
+- <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket launch from Cape Canaveral
 - <a href="https://spacenews.com/globalstar-gets-conditional-approval-to-replenish-constellation/" >🔗</a> **[SpaceNews]** Globalstar gets conditional approval to replenish constellation
 - <a href="https://spacenews.com/rfa-first-stage-destroyed-in-static-fire-test/" >🔗</a> **[SpaceNews]** RFA first stage destroyed in static-fire test
 - <a href="https://europeanspaceflight.com/rfa-hot-fire-anomaly-results-in-loss-of-rfa-one-first-stage/" >🔗</a> **[European Spaceflight]** RFA Hot Fire Anomaly Results in Loss of RFA ONE First Stage
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/rfa-hot-fire-anomaly-ends-with-loss-of-vehicle" >🔗</a> **[The Launch Pad]** RFA Hot Fire Anomaly Ends With Loss Of Vehicle
 - <a href="https://spaceflightnow.com/2024/08/19/live-coverage-spacex-to-static-fire-falcon-9-rocket-ahead-of-starlink-and-crew-9-missions/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire of Falcon 9 rocket ahead of Starlink and Crew 9 missions
 - <a href="https://spacenews.com/polaris-dawn-private-astronaut-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Polaris Dawn private astronaut mission ready for launch
-- <a href="https://science.nasa.gov/solar-system/moon/super-blue-moons-your-questions-answered/" >🔗</a> **[NASA]** Super Blue Moons: Your Questions Answered
-- <a href="https://www.nasa.gov/general/nextstep-r-lunar-logistics-and-mobility-studies/" >🔗</a> **[NASA]** NextSTEP R: Lunar Logistics and Mobility Studies
-- <a href="https://www.nasa.gov/image-article/nasa-cubesats-launch-as-commercial-rideshares/" >🔗</a> **[NASA]** NASA CubeSats Launch as Commercial Rideshares
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T030121">2024-08-20 03:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T033302">2024-08-20 03:33:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
