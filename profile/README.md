@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rfa-first-stage-destroyed-in-static-fire-test/" >🔗</a> **[SpaceNews]** RFA first stage destroyed in static-fire test
 - <a href="https://europeanspaceflight.com/rfa-hot-fire-anomaly-results-in-loss-of-rfa-one-first-stage/" >🔗</a> **[European Spaceflight]** RFA Hot Fire Anomaly Results in Loss of RFA ONE First Stage
 - <a href="https://spacenews.com/german-cubesat-to-test-quantum-key-distribution/" >🔗</a> **[SpaceNews]** German cubesat to test quantum key distribution
 - <a href="https://tlpnetwork.com/news/europe/rfa-hot-fire-anomaly-ends-with-loss-of-vehicle" >🔗</a> **[The Launch Pad]** RFA Hot Fire Anomaly Ends With Loss Of Vehicle
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nextstep-r-lunar-logistics-and-mobility-studies/" >🔗</a> **[NASA]** NextSTEP R: Lunar Logistics and Mobility Studies
 - <a href="https://www.nasa.gov/image-article/nasa-cubesats-launch-as-commercial-rideshares/" >🔗</a> **[NASA]** NASA CubeSats Launch as Commercial Rideshares
 - <a href="https://www.teslarati.com/spacex-starlink-cellular-interference-att-verizon-fcc-complaint/" >🔗</a> **[Teslarati]** SpaceX cellular Starlink would cause interference to AT&T, Verizon: FCC document
-- <a href="https://www.nasa.gov/news-release/nasa-awards-1-25-million-to-three-teams-at-deep-space-food-finale/" >🔗</a> **[NASA]** NASA Awards $1.25 Million to Three Teams at Deep Space Food Finale
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240819T233054">2024-08-19 23:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T000353">2024-08-20 00:03:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
