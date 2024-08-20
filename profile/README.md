@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blogs/sols-4280-4281-last-call-at-kings-canyon/" >🔗</a> **[NASA]** Sols 4280-4281: Last Call at Kings Canyon
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/entrepreneurs-challenge-prize-winner-uses-artificial-intelligence-to-identify-methane-emissions/" >🔗</a> **[NASA]** Entrepreneurs Challenge Prize Winner Uses Artificial Intelligence to Identify Methane Emissions
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-possible-relic/" >🔗</a> **[NASA]** Hubble Examines a Possible Relic
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-readies-for-first-commercial-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Readies for First Commercial Spacewalk
 - <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches new Falcon 9 rocket on Starlink mission following ‘water intrusion’ issue
 - <a href="https://spacenews.com/globalstar-gets-conditional-approval-to-replenish-constellation/" >🔗</a> **[SpaceNews]** Globalstar gets conditional approval to replenish constellation
-- <a href="https://spacenews.com/rfa-first-stage-destroyed-in-static-fire-test/" >🔗</a> **[SpaceNews]** RFA first stage destroyed in static-fire test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T150127">2024-08-20 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T153114">2024-08-20 15:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
