@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-names-roger-baird-associate-director/" >🔗</a> **[NASA]** NASA Marshall Names Roger Baird Associate Director
+- <a href="https://www.nasa.gov/general/2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** 2025 Gateways to Blue Skies Competition
 - <a href="https://www.nasa.gov/image-article/tortoise-takes-a-leisurely-stroll/" >🔗</a> **[NASA]** Tortoise Takes a Leisurely Stroll
 - <a href="https://www.teslarati.com/spacex-launches-another-starlink-batch-using-new-falcon-9-first-stage/" >🔗</a> **[Teslarati]** SpaceX launches another Starlink batch using new Falcon 9 first stage
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/tyler-parsotan-takes-a-long-look-at-the-transient-universe-with-nasas-swift/" >🔗</a> **[NASA]** Tyler Parsotan Takes a Long Look at the Transient Universe with NASA’s Swift
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.cnbc.com/2024/08/20/mynaric-myna-stock-tanks-after-slashing-revenue-guidance-cfo-exit.html" >🔗</a> **[CNBC]** Mynaric stock tanks after space lasers company slashes revenue guidance, announces CFO departure
 - <a href="https://www.nasa.gov/history/55-years-ago-apollo-11-astronauts-end-quarantine-feted-from-coast-to-coast/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 11 Astronauts End Quarantine, Feted from Coast to Coast
 - <a href="https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/" >🔗</a> **[Arstechnica]** Against all odds, an asteroid mining company appears to be making headway
-- <a href="https://spacenews.com/new-startup-seeks-to-tackle-space-weather-challenges/" >🔗</a> **[SpaceNews]** New startup seeks to tackle space weather challenges
-- <a href="https://arstechnica.com/space/2024/08/boeings-starliner-problems-have-become-fodder-for-putins-propaganda-squads/" >🔗</a> **[Arstechnica]** Russian pensioners urge Vladimir Putin to rescue Starliner astronauts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T210112">2024-08-20 21:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T213055">2024-08-20 21:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
