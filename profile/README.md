@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/entrepreneurs-challenge-prize-winner-uses-artificial-intelligence-to-identify-methane-emissions/" >🔗</a> **[NASA]** Entrepreneurs Challenge Prize Winner Uses Artificial Intelligence to Identify Methane Emissions
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-possible-relic/" >🔗</a> **[NASA]** Hubble Examines a Possible Relic
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Juice_snaps_Moon_en_route_to_Earth" >🔗</a> **[ESA]** Juice snaps Moon en route to Earth
 - <a href="https://spacenews.com/chinese-spacecraft-appear-to-reach-lunar-orbit-despite-launch-setback/" >🔗</a> **[SpaceNews]** Chinese spacecraft appear to reach lunar orbit despite launch setback
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches new Falcon 9 rocket on Starlink mission following ‘water intrusion’ issue
 - <a href="https://spacenews.com/globalstar-gets-conditional-approval-to-replenish-constellation/" >🔗</a> **[SpaceNews]** Globalstar gets conditional approval to replenish constellation
 - <a href="https://spacenews.com/rfa-first-stage-destroyed-in-static-fire-test/" >🔗</a> **[SpaceNews]** RFA first stage destroyed in static-fire test
-- <a href="https://europeanspaceflight.com/rfa-hot-fire-anomaly-results-in-loss-of-rfa-one-first-stage/" >🔗</a> **[European Spaceflight]** RFA Hot Fire Anomaly Results in Loss of RFA ONE First Stage
-- <a href="https://spacenews.com/german-cubesat-to-test-quantum-key-distribution/" >🔗</a> **[SpaceNews]** German cubesat to test quantum key distribution
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T140115">2024-08-20 14:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T143214">2024-08-20 14:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
