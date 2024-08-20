@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Juice_snaps_Moon_en_route_to_Earth" >🔗</a> **[ESA]** Juice snaps Moon en route to Earth
 - <a href="https://spacenews.com/chinese-spacecraft-appear-to-reach-lunar-orbit-despite-launch-setback/" >🔗</a> **[SpaceNews]** Chinese spacecraft appear to reach lunar orbit despite launch setback
 - <a href="https://spaceflightnow.com/2024/08/20/polaris-dawn-astronauts-set-to-perform-first-commercial-spacewalk-arrive-in-florida-ahead-of-launch/" >🔗</a> **[Spaceflight Now]** Polaris Dawn astronauts, set to perform first commercial spacewalk, arrive in Florida ahead of launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rfa-first-stage-destroyed-in-static-fire-test/" >🔗</a> **[SpaceNews]** RFA first stage destroyed in static-fire test
 - <a href="https://europeanspaceflight.com/rfa-hot-fire-anomaly-results-in-loss-of-rfa-one-first-stage/" >🔗</a> **[European Spaceflight]** RFA Hot Fire Anomaly Results in Loss of RFA ONE First Stage
 - <a href="https://spacenews.com/german-cubesat-to-test-quantum-key-distribution/" >🔗</a> **[SpaceNews]** German cubesat to test quantum key distribution
-- <a href="https://tlpnetwork.com/news/europe/rfa-hot-fire-anomaly-ends-with-loss-of-vehicle" >🔗</a> **[The Launch Pad]** RFA Hot Fire Anomaly Ends With Loss Of Vehicle
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T110111">2024-08-20 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T113111">2024-08-20 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
