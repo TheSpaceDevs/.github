@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/tortoise-takes-a-leisurely-stroll/" >🔗</a> **[NASA]** Tortoise Takes a Leisurely Stroll
 - <a href="https://www.teslarati.com/spacex-launches-another-starlink-batch-using-new-falcon-9-first-stage/" >🔗</a> **[Teslarati]** SpaceX launches another Starlink batch using new Falcon 9 first stage
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/tyler-parsotan-takes-a-long-look-at-the-transient-universe-with-nasas-swift/" >🔗</a> **[NASA]** Tyler Parsotan Takes a Long Look at the Transient Universe with NASA’s Swift
 - <a href="https://www.nasa.gov/missions/juno/danish-instrument-helps-nasas-juno-spacecraft-see-radiation/" >🔗</a> **[NASA]** Danish Instrument Helps NASA’s Juno Spacecraft See Radiation
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/" >🔗</a> **[Arstechnica]** Against all odds, an asteroid mining company appears to be making headway
 - <a href="https://spacenews.com/new-startup-seeks-to-tackle-space-weather-challenges/" >🔗</a> **[SpaceNews]** New startup seeks to tackle space weather challenges
 - <a href="https://arstechnica.com/space/2024/08/boeings-starliner-problems-have-become-fodder-for-putins-propaganda-squads/" >🔗</a> **[Arstechnica]** Russian pensioners urge Vladimir Putin to rescue Starliner astronauts
-- <a href="https://science.nasa.gov/blogs/sols-4280-4281-last-call-at-kings-canyon/" >🔗</a> **[NASA]** Sols 4280-4281: Last Call at Kings Canyon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T193118">2024-08-20 19:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T200128">2024-08-20 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
