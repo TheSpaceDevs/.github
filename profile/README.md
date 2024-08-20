@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-another-starlink-batch-using-new-falcon-9-first-stage/" >🔗</a> **[Teslarati]** SpaceX launches another Starlink batch using new Falcon 9 first stage
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/tyler-parsotan-takes-a-long-look-at-the-transient-universe-with-nasas-swift/" >🔗</a> **[NASA]** Tyler Parsotan Takes a Long Look at the Transient Universe with NASA’s Swift
 - <a href="https://www.nasa.gov/missions/juno/danish-instrument-helps-nasas-juno-spacecraft-see-radiation/" >🔗</a> **[NASA]** Danish Instrument Helps NASA’s Juno Spacecraft See Radiation
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/starliner-faq/" >🔗</a> **[NASA]** FAQ: NASA’s Boeing Crew Flight Test Return Status
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/new-startup-seeks-to-tackle-space-weather-challenges/" >🔗</a> **[SpaceNews]** New startup seeks to tackle space weather challenges
 - <a href="https://arstechnica.com/space/2024/08/boeings-starliner-problems-have-become-fodder-for-putins-propaganda-squads/" >🔗</a> **[Arstechnica]** Russian pensioners urge Vladimir Putin to rescue Starliner astronauts
 - <a href="https://science.nasa.gov/blogs/sols-4280-4281-last-call-at-kings-canyon/" >🔗</a> **[NASA]** Sols 4280-4281: Last Call at Kings Canyon
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/entrepreneurs-challenge-prize-winner-uses-artificial-intelligence-to-identify-methane-emissions/" >🔗</a> **[NASA]** Entrepreneurs Challenge Prize Winner Uses Artificial Intelligence to Identify Methane Emissions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T173109">2024-08-20 17:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T180125">2024-08-20 18:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
