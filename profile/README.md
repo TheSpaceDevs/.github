@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/08/20/mynaric-myna-stock-tanks-after-slashing-revenue-guidance-cfo-exit.html" >🔗</a> **[CNBC]** Mynaric stock tanks after space lasers company slashes revenue guidance, announces CFO departure
+- <a href="https://www.nasa.gov/history/55-years-ago-apollo-11-astronauts-end-quarantine-feted-from-coast-to-coast/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 11 Astronauts End Quarantine, Feted from Coast to Coast
+- <a href="https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/" >🔗</a> **[Arstechnica]** Against all odds, an asteroid mining company appears to be making headway
+- <a href="https://spacenews.com/new-startup-seeks-to-tackle-space-weather-challenges/" >🔗</a> **[SpaceNews]** New startup seeks to tackle space weather challenges
+- <a href="https://arstechnica.com/space/2024/08/boeings-starliner-problems-have-become-fodder-for-putins-propaganda-squads/" >🔗</a> **[Arstechnica]** Russian pensioners urge Vladimir Putin to rescue Starliner astronauts
 - <a href="https://science.nasa.gov/blogs/sols-4280-4281-last-call-at-kings-canyon/" >🔗</a> **[NASA]** Sols 4280-4281: Last Call at Kings Canyon
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/entrepreneurs-challenge-prize-winner-uses-artificial-intelligence-to-identify-methane-emissions/" >🔗</a> **[NASA]** Entrepreneurs Challenge Prize Winner Uses Artificial Intelligence to Identify Methane Emissions
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-possible-relic/" >🔗</a> **[NASA]** Hubble Examines a Possible Relic
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Juice_snaps_Moon_en_route_to_Earth" >🔗</a> **[ESA]** Juice snaps Moon en route to Earth
-- <a href="https://spacenews.com/chinese-spacecraft-appear-to-reach-lunar-orbit-despite-launch-setback/" >🔗</a> **[SpaceNews]** Chinese spacecraft appear to reach lunar orbit despite launch setback
-- <a href="https://spaceflightnow.com/2024/08/20/polaris-dawn-astronauts-set-to-perform-first-commercial-spacewalk-arrive-in-florida-ahead-of-launch/" >🔗</a> **[Spaceflight Now]** Polaris Dawn astronauts, set to perform first commercial spacewalk, arrive in Florida ahead of launch
-- <a href="https://spacepolicyonline.com/news/polaris-dawn-readies-for-first-commercial-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Readies for First Commercial Spacewalk
-- <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches new Falcon 9 rocket on Starlink mission following ‘water intrusion’ issue
-- <a href="https://spacenews.com/globalstar-gets-conditional-approval-to-replenish-constellation/" >🔗</a> **[SpaceNews]** Globalstar gets conditional approval to replenish constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T160113">2024-08-20 16:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T163401">2024-08-20 16:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
