@@ -104,13 +104,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 - <a href="https://spaceflightnow.com/2024/08/20/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket launch from Cape Canaveral
 - <a href="https://spaceflightnow.com/2024/08/19/live-coverage-spacex-to-static-fire-falcon-9-rocket-ahead-of-starlink-and-crew-9-missions/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire of Falcon 9 rocket ahead of Starlink and Crew 9 missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T120133">2024-08-20 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T124129">2024-08-20 12:41:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
