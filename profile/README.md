@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/navigating-by-sight/" >🔗</a> **[SpaceNews]** Navigating by sight
+- <a href="https://spacenews.com/astroforge-raises-40-million/" >🔗</a> **[SpaceNews]** AstroForge raises $40 million
+- <a href="https://spacenews.com/fcc-approves-starlink-first-generation-upgrade-plan/" >🔗</a> **[SpaceNews]** FCC approves Starlink first generation upgrade plan
+- <a href="https://science.nasa.gov/open-science/funding-winners-open-source/" >🔗</a> **[NASA]** NASA Awards 15 Grants to Support Open-Source Science
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-names-roger-baird-associate-director/" >🔗</a> **[NASA]** NASA Marshall Names Roger Baird Associate Director
 - <a href="https://www.nasa.gov/general/2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** 2025 Gateways to Blue Skies Competition
 - <a href="https://www.nasa.gov/image-article/tortoise-takes-a-leisurely-stroll/" >🔗</a> **[NASA]** Tortoise Takes a Leisurely Stroll
 - <a href="https://www.teslarati.com/spacex-launches-another-starlink-batch-using-new-falcon-9-first-stage/" >🔗</a> **[Teslarati]** SpaceX launches another Starlink batch using new Falcon 9 first stage
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/tyler-parsotan-takes-a-long-look-at-the-transient-universe-with-nasas-swift/" >🔗</a> **[NASA]** Tyler Parsotan Takes a Long Look at the Transient Universe with NASA’s Swift
 - <a href="https://www.nasa.gov/missions/juno/danish-instrument-helps-nasas-juno-spacecraft-see-radiation/" >🔗</a> **[NASA]** Danish Instrument Helps NASA’s Juno Spacecraft See Radiation
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/starliner-faq/" >🔗</a> **[NASA]** FAQ: NASA’s Boeing Crew Flight Test Return Status
-- <a href="https://www.cnbc.com/2024/08/20/mynaric-myna-stock-tanks-after-slashing-revenue-guidance-cfo-exit.html" >🔗</a> **[CNBC]** Mynaric stock tanks after space lasers company slashes revenue guidance, announces CFO departure
-- <a href="https://www.nasa.gov/history/55-years-ago-apollo-11-astronauts-end-quarantine-feted-from-coast-to-coast/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 11 Astronauts End Quarantine, Feted from Coast to Coast
-- <a href="https://arstechnica.com/space/2024/08/against-all-odds-an-asteroid-mining-company-appears-to-be-making-headway/" >🔗</a> **[Arstechnica]** Against all odds, an asteroid mining company appears to be making headway
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T223130">2024-08-20 22:31:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240820T230215">2024-08-20 23:02:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
