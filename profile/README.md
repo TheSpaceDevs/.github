@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/copernicus/" >🔗</a> **[NASA]** Copernicus Trajectory Design and Optimization System
 - <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/" >🔗</a> **[NASA]** Talented Teams Tackle Toasty Planet
 - <a href="https://www.nasa.gov/image-article/august-2024-supermoon-rises-near-nasa-marshall/" >🔗</a> **[NASA]** August 2024 Supermoon Rises Near NASA Marshall
 - <a href="https://science.nasa.gov/missions/ixpe/how-students-learn-to-fly-nasas-ixpe-spacecraft/" >🔗</a> **[NASA]** How Students Learn to Fly NASA’s IXPE Spacecraft
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/can-ai-detect-anomalies-in-orbital-astrodynamics-managing-a-complex-challenge/" >🔗</a> **[SpaceNews]** Can AI detect anomalies in orbital astrodynamics? Managing a complex challenge
 - <a href="https://spacenews.com/astroscale-finalizes-contract-for-japanese-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale finalizes contract for Japanese debris removal mission
 - <a href="https://spacenews.com/trustpoint-wins-spacewerx-contracts-for-alternative-pnt/" >🔗</a> **[SpaceNews]** TrustPoint wins SpaceWERX contracts for alternative PNT
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T173106">2024-08-21 17:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T180128">2024-08-21 18:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
