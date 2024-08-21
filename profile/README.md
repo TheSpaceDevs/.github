@@ -92,8 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/astroscale-finalizes-contract-for-japanese-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale finalizes contract for Japanese debris removal mission
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
 - <a href="https://spacenews.com/trustpoint-wins-spacewerx-contracts-for-alternative-pnt/" >🔗</a> **[SpaceNews]** TrustPoint wins SpaceWERX contracts for alternative PNT
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
 - <a href="https://europeanspaceflight.com/uk-space-command-launches-22-million-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Space Command Launches £22-Million Spy Satellite
 - <a href="https://spacenews.com/navigating-by-sight/" >🔗</a> **[SpaceNews]** Navigating by sight
 - <a href="https://spacenews.com/astroforge-raises-40-million/" >🔗</a> **[SpaceNews]** AstroForge raises $40 million
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T113054">2024-08-21 11:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T120143">2024-08-21 12:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
