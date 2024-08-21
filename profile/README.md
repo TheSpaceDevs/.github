@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/dart/nasas-dart-team-earns-aiaa-space-systems-award-for-pioneering-mission/" >🔗</a> **[NASA]** NASA’s DART Team Earns AIAA Space Systems Award for Pioneering Mission
 - <a href="https://www.nasa.gov/general/copernicus/" >🔗</a> **[NASA]** Copernicus Trajectory Design and Optimization System
 - <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/" >🔗</a> **[NASA]** Talented Teams Tackle Toasty Planet
 - <a href="https://www.nasa.gov/image-article/august-2024-supermoon-rises-near-nasa-marshall/" >🔗</a> **[NASA]** August 2024 Supermoon Rises Near NASA Marshall
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/axiom-space-and-nokia-partner-to-develop-high-speed-wireless-communications-for-spacesuits/" >🔗</a> **[SpaceNews]** Axiom Space and Nokia partner to develop high-speed wireless communications for spacesuits
 - <a href="https://spacenews.com/can-ai-detect-anomalies-in-orbital-astrodynamics-managing-a-complex-challenge/" >🔗</a> **[SpaceNews]** Can AI detect anomalies in orbital astrodynamics? Managing a complex challenge
 - <a href="https://spacenews.com/astroscale-finalizes-contract-for-japanese-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale finalizes contract for Japanese debris removal mission
-- <a href="https://spacenews.com/trustpoint-wins-spacewerx-contracts-for-alternative-pnt/" >🔗</a> **[SpaceNews]** TrustPoint wins SpaceWERX contracts for alternative PNT
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T180128">2024-08-21 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T183429">2024-08-21 18:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
