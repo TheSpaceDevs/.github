@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/" >🔗</a> **[NASA]** Hubble Peers Into the Center of a Star-forming Powerhouse
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_profiles_atmospheric_particles_in_detail" >🔗</a> **[ESA]** EarthCARE profiles atmospheric particles in detail
 - <a href="https://spacenews.com/axiom-space-and-nokia-partner-to-develop-high-speed-wireless-communications-for-spacesuits/" >🔗</a> **[SpaceNews]** Axiom Space and Nokia partner to develop high-speed wireless communications for spacesuits
 - <a href="https://spacenews.com/can-ai-detect-anomalies-in-orbital-astrodynamics-managing-a-complex-challenge/" >🔗</a> **[SpaceNews]** Can AI detect anomalies in orbital astrodynamics? Managing a complex challenge
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/uk-space-command-launches-22-million-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Space Command Launches £22-Million Spy Satellite
 - <a href="https://spacenews.com/navigating-by-sight/" >🔗</a> **[SpaceNews]** Navigating by sight
 - <a href="https://spacenews.com/astroforge-raises-40-million/" >🔗</a> **[SpaceNews]** AstroForge raises $40 million
-- <a href="https://spacenews.com/fcc-approves-starlink-first-generation-upgrade-plan/" >🔗</a> **[SpaceNews]** FCC approves Starlink first generation upgrade plan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T150120">2024-08-21 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T153106">2024-08-21 15:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
