@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
+- <a href="https://europeanspaceflight.com/uk-space-command-launches-22-million-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Space Command Launches £22-Million Spy Satellite
 - <a href="https://spacenews.com/navigating-by-sight/" >🔗</a> **[SpaceNews]** Navigating by sight
 - <a href="https://spacenews.com/astroforge-raises-40-million/" >🔗</a> **[SpaceNews]** AstroForge raises $40 million
 - <a href="https://spacenews.com/fcc-approves-starlink-first-generation-upgrade-plan/" >🔗</a> **[SpaceNews]** FCC approves Starlink first generation upgrade plan
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** 2025 Gateways to Blue Skies Competition
 - <a href="https://www.nasa.gov/image-article/tortoise-takes-a-leisurely-stroll/" >🔗</a> **[NASA]** Tortoise Takes a Leisurely Stroll
 - <a href="https://www.teslarati.com/spacex-launches-another-starlink-batch-using-new-falcon-9-first-stage/" >🔗</a> **[Teslarati]** SpaceX launches another Starlink batch using new Falcon 9 first stage
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/tyler-parsotan-takes-a-long-look-at-the-transient-universe-with-nasas-swift/" >🔗</a> **[NASA]** Tyler Parsotan Takes a Long Look at the Transient Universe with NASA’s Swift
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T090124">2024-08-21 09:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T093109">2024-08-21 09:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
