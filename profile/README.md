@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/" >🔗</a> **[NASA]** Talented Teams Tackle Toasty Planet
 - <a href="https://www.nasa.gov/image-article/august-2024-supermoon-rises-near-nasa-marshall/" >🔗</a> **[NASA]** August 2024 Supermoon Rises Near NASA Marshall
 - <a href="https://science.nasa.gov/missions/ixpe/how-students-learn-to-fly-nasas-ixpe-spacecraft/" >🔗</a> **[NASA]** How Students Learn to Fly NASA’s IXPE Spacecraft
 - <a href="https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/" >🔗</a> **[NASA]** Hubble Peers Into the Center of a Star-forming Powerhouse
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/astroscale-finalizes-contract-for-japanese-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale finalizes contract for Japanese debris removal mission
 - <a href="https://spacenews.com/trustpoint-wins-spacewerx-contracts-for-alternative-pnt/" >🔗</a> **[SpaceNews]** TrustPoint wins SpaceWERX contracts for alternative PNT
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
-- <a href="https://europeanspaceflight.com/uk-space-command-launches-22-million-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Space Command Launches £22-Million Spy Satellite
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T170104">2024-08-21 17:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T173106">2024-08-21 17:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
