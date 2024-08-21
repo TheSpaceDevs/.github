@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-21-2024/" >🔗</a> **[NASA]** The Marshall Star for August 21, 2024
 - <a href="https://www.nasa.gov/general/2025-human-lander-challenge/" >🔗</a> **[NASA]** 2025 Human Lander Challenge
 - <a href="https://science.nasa.gov/missions/dart/nasas-dart-team-earns-aiaa-space-systems-award-for-pioneering-mission/" >🔗</a> **[NASA]** NASA’s DART Team Earns AIAA Space Systems Award for Pioneering Mission
 - <a href="https://www.nasa.gov/general/copernicus/" >🔗</a> **[NASA]** Copernicus Trajectory Design and Optimization System
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/" >🔗</a> **[NASA]** Hubble Peers Into the Center of a Star-forming Powerhouse
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_profiles_atmospheric_particles_in_detail" >🔗</a> **[ESA]** EarthCARE profiles atmospheric particles in detail
 - <a href="https://spacenews.com/axiom-space-and-nokia-partner-to-develop-high-speed-wireless-communications-for-spacesuits/" >🔗</a> **[SpaceNews]** Axiom Space and Nokia partner to develop high-speed wireless communications for spacesuits
-- <a href="https://spacenews.com/can-ai-detect-anomalies-in-orbital-astrodynamics-managing-a-complex-challenge/" >🔗</a> **[SpaceNews]** Can AI detect anomalies in orbital astrodynamics? Managing a complex challenge
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T210127">2024-08-21 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T213103">2024-08-21 21:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
