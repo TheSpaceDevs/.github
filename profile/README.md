@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-finalizes-contract-for-japanese-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale finalizes contract for Japanese debris removal mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
 - <a href="https://spacenews.com/trustpoint-wins-spacewerx-contracts-for-alternative-pnt/" >🔗</a> **[SpaceNews]** TrustPoint wins SpaceWERX contracts for alternative PNT
 - <a href="https://europeanspaceflight.com/uk-space-command-launches-22-million-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Space Command Launches £22-Million Spy Satellite
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/open-science/funding-winners-open-source/" >🔗</a> **[NASA]** NASA Awards 15 Grants to Support Open-Source Science
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-names-roger-baird-associate-director/" >🔗</a> **[NASA]** NASA Marshall Names Roger Baird Associate Director
 - <a href="https://www.nasa.gov/general/2025-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** 2025 Gateways to Blue Skies Competition
-- <a href="https://www.nasa.gov/image-article/tortoise-takes-a-leisurely-stroll/" >🔗</a> **[NASA]** Tortoise Takes a Leisurely Stroll
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T110106">2024-08-21 11:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T113054">2024-08-21 11:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
