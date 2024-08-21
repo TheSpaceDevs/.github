@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_profiles_atmospheric_particles_in_detail" >🔗</a> **[ESA]** EarthCARE profiles atmospheric particles in detail
+- <a href="https://spacenews.com/can-ai-detect-anomalies-in-orbital-astrodynamics-managing-a-complex-challenge/" >🔗</a> **[SpaceNews]** Can AI detect anomalies in orbital astrodynamics? Managing a complex challenge
 - <a href="https://spacenews.com/astroscale-finalizes-contract-for-japanese-debris-removal-mission/" >🔗</a> **[SpaceNews]** Astroscale finalizes contract for Japanese debris removal mission
 - <a href="https://spacenews.com/trustpoint-wins-spacewerx-contracts-for-alternative-pnt/" >🔗</a> **[SpaceNews]** TrustPoint wins SpaceWERX contracts for alternative PNT
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_rerouted_to_Venus_in_world_s_first_lunar-Earth_flyby" >🔗</a> **[ESA]** Juice rerouted to Venus in world’s first lunar-Earth flyby
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/astroforge-raises-40-million/" >🔗</a> **[SpaceNews]** AstroForge raises $40 million
 - <a href="https://spacenews.com/fcc-approves-starlink-first-generation-upgrade-plan/" >🔗</a> **[SpaceNews]** FCC approves Starlink first generation upgrade plan
 - <a href="https://science.nasa.gov/open-science/funding-winners-open-source/" >🔗</a> **[NASA]** NASA Awards 15 Grants to Support Open-Source Science
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-names-roger-baird-associate-director/" >🔗</a> **[NASA]** NASA Marshall Names Roger Baird Associate Director
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T130253">2024-08-21 13:02:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240821T133234">2024-08-21 13:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
