@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-chinasat-4a-communications-satellite/" >🔗</a> **[SpaceNews]** China launches ChinaSat-4A communications satellite
+- <a href="https://spacenews.com/scout-space-dawn-aerospace-partner-for-spaceplane-surveillance-demonstration/" >🔗</a> **[SpaceNews]** Scout Space, Dawn Aerospace partner for spaceplane surveillance demonstration
+- <a href="https://spacenews.com/suzi-mcbride-iridium-leading-women-in-space/" >🔗</a> **[SpaceNews]** Suzi McBride, Iridium – Leading Women in Space
+- <a href="https://science.nasa.gov/science-research/earth-science/looking-back-on-looking-up-the-2024-total-solar-eclipse/" >🔗</a> **[NASA]** Looking Back on Looking Up: The 2024 Total Solar Eclipse
 - <a href="https://europeanspaceflight.com/europe-delivers-orion-service-module-for-artemis-iii-mission/" >🔗</a> **[European Spaceflight]** Europe Delivers Orion Service Module for Artemis III Mission
 - <a href="https://science.nasa.gov/missions/hubble/hubble-finds-structure-in-an-unstructured-galaxy/" >🔗</a> **[NASA]** Hubble Finds Structure in an Unstructured Galaxy
 - <a href="https://www.spacescout.info/2024/08/nasa-identifies-lunar-cargo-and-mobility-gaps/" >🔗</a> **[Space Scout]** NASA Identifies Lunar Cargo and Mobility Gaps
 - <a href="https://spacenews.com/china-to-launch-earth-2-0-exoplanet-observatory-in-2028/" >🔗</a> **[SpaceNews]** China to launch “Earth 2.0” exoplanet observatory in 2028
 - <a href="https://spacenews.com/sls-contract-extension-hints-at-additional-artemis-delays/" >🔗</a> **[SpaceNews]** SLS contract extension hints at additional Artemis delays
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cluster/Cluster_mission_set_to_end_with_reentry_over_South_Pacific" >🔗</a> **[ESA]** Cluster mission set to end with reentry over South Pacific
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Europe_delivers_for_Artemis_III" >🔗</a> **[ESA]** Europe delivers for Artemis III
-- <a href="https://europeanspaceflight.com/esas-icy-moons-explorer-racks-up-two-world-firsts/" >🔗</a> **[European Spaceflight]** ESA’s Icy Moons Explorer Racks Up Two World Firsts
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-21-2024/" >🔗</a> **[NASA]** The Marshall Star for August 21, 2024
-- <a href="https://www.nasa.gov/general/2025-human-lander-challenge/" >🔗</a> **[NASA]** 2025 Human Lander Challenge
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T150127">2024-08-22 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T153214">2024-08-22 15:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
