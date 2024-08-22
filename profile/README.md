@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/08/nasa-identifies-lunar-cargo-and-mobility-gaps/" >🔗</a> **[Space Scout]** NASA Identifies Lunar Cargo and Mobility Gaps
 - <a href="https://spacenews.com/china-to-launch-earth-2-0-exoplanet-observatory-in-2028/" >🔗</a> **[SpaceNews]** China to launch “Earth 2.0” exoplanet observatory in 2028
 - <a href="https://spacenews.com/sls-contract-extension-hints-at-additional-artemis-delays/" >🔗</a> **[SpaceNews]** SLS contract extension hints at additional Artemis delays
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cluster/Cluster_mission_set_to_end_with_reentry_over_South_Pacific" >🔗</a> **[ESA]** Cluster mission set to end with reentry over South Pacific
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/2025-human-lander-challenge/" >🔗</a> **[NASA]** 2025 Human Lander Challenge
 - <a href="https://science.nasa.gov/missions/dart/nasas-dart-team-earns-aiaa-space-systems-award-for-pioneering-mission/" >🔗</a> **[NASA]** NASA’s DART Team Earns AIAA Space Systems Award for Pioneering Mission
 - <a href="https://www.nasa.gov/general/copernicus/" >🔗</a> **[NASA]** Copernicus Trajectory Design and Optimization System
-- <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/" >🔗</a> **[NASA]** Talented Teams Tackle Toasty Planet
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T133121">2024-08-22 13:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T140247">2024-08-22 14:02:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
