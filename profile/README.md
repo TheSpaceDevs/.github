@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/europe-delivers-orion-service-module-for-artemis-iii-mission/" >🔗</a> **[European Spaceflight]** Europe Delivers Orion Service Module for Artemis III Mission
+- <a href="https://science.nasa.gov/missions/hubble/hubble-finds-structure-in-an-unstructured-galaxy/" >🔗</a> **[NASA]** Hubble Finds Structure in an Unstructured Galaxy
 - <a href="https://www.spacescout.info/2024/08/nasa-identifies-lunar-cargo-and-mobility-gaps/" >🔗</a> **[Space Scout]** NASA Identifies Lunar Cargo and Mobility Gaps
 - <a href="https://spacenews.com/china-to-launch-earth-2-0-exoplanet-observatory-in-2028/" >🔗</a> **[SpaceNews]** China to launch “Earth 2.0” exoplanet observatory in 2028
 - <a href="https://spacenews.com/sls-contract-extension-hints-at-additional-artemis-delays/" >🔗</a> **[SpaceNews]** SLS contract extension hints at additional Artemis delays
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esas-icy-moons-explorer-racks-up-two-world-firsts/" >🔗</a> **[European Spaceflight]** ESA’s Icy Moons Explorer Racks Up Two World Firsts
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-21-2024/" >🔗</a> **[NASA]** The Marshall Star for August 21, 2024
 - <a href="https://www.nasa.gov/general/2025-human-lander-challenge/" >🔗</a> **[NASA]** 2025 Human Lander Challenge
-- <a href="https://science.nasa.gov/missions/dart/nasas-dart-team-earns-aiaa-space-systems-award-for-pioneering-mission/" >🔗</a> **[NASA]** NASA’s DART Team Earns AIAA Space Systems Award for Pioneering Mission
-- <a href="https://www.nasa.gov/general/copernicus/" >🔗</a> **[NASA]** Copernicus Trajectory Design and Optimization System
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T140247">2024-08-22 14:02:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T143305">2024-08-22 14:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
