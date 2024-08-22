@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/norwegian-spaceport-receives-government-license/" >🔗</a> **[SpaceNews]** Norwegian spaceport receives government license
+- <a href="https://www.nasa.gov/news-release/nasa-selects-three-new-venture-class-launch-service-providers/" >🔗</a> **[NASA]** NASA Selects Three New Venture-Class Launch Service Providers
 - <a href="https://www.nasa.gov/news-release/leadership-to-discuss-nasas-boeing-crew-flight-test/" >🔗</a> **[NASA]** Leadership to Discuss NASA’s Boeing Crew Flight Test
 - <a href="https://www.nasa.gov/image-article/sunrise-begins/" >🔗</a> **[NASA]** Sunrise Begins
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_navigation_camera_gets_first_taste_of_space" >🔗</a> **[ESA]** Juice’s navigation camera gets first taste of space
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/scout-space-dawn-aerospace-partner-for-spaceplane-surveillance-demonstration/" >🔗</a> **[SpaceNews]** Scout Space, Dawn Aerospace partner for spaceplane surveillance demonstration
 - <a href="https://spacenews.com/suzi-mcbride-iridium-leading-women-in-space/" >🔗</a> **[SpaceNews]** Suzi McBride, Iridium – Leading Women in Space
 - <a href="https://science.nasa.gov/science-research/earth-science/looking-back-on-looking-up-the-2024-total-solar-eclipse/" >🔗</a> **[NASA]** Looking Back on Looking Up: The 2024 Total Solar Eclipse
-- <a href="https://europeanspaceflight.com/europe-delivers-orion-service-module-for-artemis-iii-mission/" >🔗</a> **[European Spaceflight]** Europe Delivers Orion Service Module for Artemis III Mission
-- <a href="https://science.nasa.gov/missions/hubble/hubble-finds-structure-in-an-unstructured-galaxy/" >🔗</a> **[NASA]** Hubble Finds Structure in an Unstructured Galaxy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T203107">2024-08-22 20:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T210119">2024-08-22 21:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
