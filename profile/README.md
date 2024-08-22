@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sls-contract-extension-hints-at-additional-artemis-delays/" >🔗</a> **[SpaceNews]** SLS contract extension hints at additional Artemis delays
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cluster/Cluster_mission_set_to_end_with_reentry_over_South_Pacific" >🔗</a> **[ESA]** Cluster mission set to end with reentry over South Pacific
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Europe_delivers_for_Artemis_III" >🔗</a> **[ESA]** Europe delivers for Artemis III
 - <a href="https://europeanspaceflight.com/esas-icy-moons-explorer-racks-up-two-world-firsts/" >🔗</a> **[European Spaceflight]** ESA’s Icy Moons Explorer Racks Up Two World Firsts
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/copernicus/" >🔗</a> **[NASA]** Copernicus Trajectory Design and Optimization System
 - <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/" >🔗</a> **[NASA]** Talented Teams Tackle Toasty Planet
 - <a href="https://www.nasa.gov/image-article/august-2024-supermoon-rises-near-nasa-marshall/" >🔗</a> **[NASA]** August 2024 Supermoon Rises Near NASA Marshall
-- <a href="https://science.nasa.gov/missions/ixpe/how-students-learn-to-fly-nasas-ixpe-spacecraft/" >🔗</a> **[NASA]** How Students Learn to Fly NASA’s IXPE Spacecraft
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T113107">2024-08-22 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T120139">2024-08-22 12:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
