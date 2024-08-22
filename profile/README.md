@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-expands-kennedy-space-center-facility-to-accelerate-satellite-deployments/" >🔗</a> **[SpaceNews]** Amazon expands Kennedy Space Center facility to accelerate satellite deployments
+- <a href="https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/" >🔗</a> **[NASA]** NASA’s EXCITE Mission Prepared for Scientific Balloon Flight
 - <a href="https://spacenews.com/norwegian-spaceport-receives-government-license/" >🔗</a> **[SpaceNews]** Norwegian spaceport receives government license
 - <a href="https://www.nasa.gov/news-release/nasa-selects-three-new-venture-class-launch-service-providers/" >🔗</a> **[NASA]** NASA Selects Three New Venture-Class Launch Service Providers
+- <a href="https://science.nasa.gov/solar-system/into-the-field-with-nasa-valley-of-ten-thousand-smokes/" >🔗</a> **[NASA]** Into The Field With NASA: Valley Of Ten Thousand Smokes
 - <a href="https://www.nasa.gov/news-release/leadership-to-discuss-nasas-boeing-crew-flight-test/" >🔗</a> **[NASA]** Leadership to Discuss NASA’s Boeing Crew Flight Test
 - <a href="https://www.nasa.gov/image-article/sunrise-begins/" >🔗</a> **[NASA]** Sunrise Begins
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_navigation_camera_gets_first_taste_of_space" >🔗</a> **[ESA]** Juice’s navigation camera gets first taste of space
 - <a href="https://www.nasa.gov/image-article/nasa-moves-artemis-ii-rocket-adapter-prepares-for-shipment/" >🔗</a> **[NASA]** NASA Moves Artemis II Rocket Adapter, Prepares for Shipment
 - <a href="https://spacenews.com/china-launches-chinasat-4a-communications-satellite/" >🔗</a> **[SpaceNews]** China launches ChinaSat-4A communications satellite
-- <a href="https://spacenews.com/scout-space-dawn-aerospace-partner-for-spaceplane-surveillance-demonstration/" >🔗</a> **[SpaceNews]** Scout Space, Dawn Aerospace partner for spaceplane surveillance demonstration
-- <a href="https://spacenews.com/suzi-mcbride-iridium-leading-women-in-space/" >🔗</a> **[SpaceNews]** Suzi McBride, Iridium – Leading Women in Space
-- <a href="https://science.nasa.gov/science-research/earth-science/looking-back-on-looking-up-the-2024-total-solar-eclipse/" >🔗</a> **[NASA]** Looking Back on Looking Up: The 2024 Total Solar Eclipse
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T210119">2024-08-22 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T213159">2024-08-22 21:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
