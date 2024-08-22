@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cluster/Cluster_mission_set_to_end_with_reentry_over_South_Pacific" >🔗</a> **[ESA]** Cluster mission set to end with reentry over South Pacific
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Europe_delivers_for_Artemis_III" >🔗</a> **[ESA]** Europe delivers for Artemis III
+- <a href="https://europeanspaceflight.com/esas-icy-moons-explorer-racks-up-two-world-firsts/" >🔗</a> **[European Spaceflight]** ESA’s Icy Moons Explorer Racks Up Two World Firsts
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-21-2024/" >🔗</a> **[NASA]** The Marshall Star for August 21, 2024
 - <a href="https://www.nasa.gov/general/2025-human-lander-challenge/" >🔗</a> **[NASA]** 2025 Human Lander Challenge
 - <a href="https://science.nasa.gov/missions/dart/nasas-dart-team-earns-aiaa-space-systems-award-for-pioneering-mission/" >🔗</a> **[NASA]** NASA’s DART Team Earns AIAA Space Systems Award for Pioneering Mission
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/" >🔗</a> **[NASA]** Talented Teams Tackle Toasty Planet
 - <a href="https://www.nasa.gov/image-article/august-2024-supermoon-rises-near-nasa-marshall/" >🔗</a> **[NASA]** August 2024 Supermoon Rises Near NASA Marshall
 - <a href="https://science.nasa.gov/missions/ixpe/how-students-learn-to-fly-nasas-ixpe-spacecraft/" >🔗</a> **[NASA]** How Students Learn to Fly NASA’s IXPE Spacecraft
-- <a href="https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/" >🔗</a> **[NASA]** Hubble Peers Into the Center of a Star-forming Powerhouse
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_profiles_atmospheric_particles_in_detail" >🔗</a> **[ESA]** EarthCARE profiles atmospheric particles in detail
-- <a href="https://spacenews.com/axiom-space-and-nokia-partner-to-develop-high-speed-wireless-communications-for-spacesuits/" >🔗</a> **[SpaceNews]** Axiom Space and Nokia partner to develop high-speed wireless communications for spacesuits
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T080131">2024-08-22 08:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T083320">2024-08-22 08:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
