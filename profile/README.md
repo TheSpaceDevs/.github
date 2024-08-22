@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mynarics-manufacturing-woes-threaten-to-delay-production-of-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Mynaric’s manufacturing woes threaten to delay production of U.S. military satellites
 - <a href="https://europeanspaceflight.com/rfa-identifies-turbopump-as-the-cause-for-rfa-one-test-failure/" >🔗</a> **[European Spaceflight]** RFA Identifies Turbopump as the Cause for RFA ONE Test Failure
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/beyond-the-textbook-dc-8-aircraft-inspires-students-in-retirement/" >🔗</a> **[NASA]** Beyond the Textbook: DC-8 Aircraft Inspires Students in Retirement
 - <a href="https://spacenews.com/amazon-expands-kennedy-space-center-facility-to-accelerate-satellite-deployments/" >🔗</a> **[SpaceNews]** Amazon expands Kennedy Space Center facility to accelerate satellite deployments
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/into-the-field-with-nasa-valley-of-ten-thousand-smokes/" >🔗</a> **[NASA]** Into The Field With NASA: Valley Of Ten Thousand Smokes
 - <a href="https://www.nasa.gov/news-release/leadership-to-discuss-nasas-boeing-crew-flight-test/" >🔗</a> **[NASA]** Leadership to Discuss NASA’s Boeing Crew Flight Test
 - <a href="https://www.nasa.gov/image-article/sunrise-begins/" >🔗</a> **[NASA]** Sunrise Begins
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_navigation_camera_gets_first_taste_of_space" >🔗</a> **[ESA]** Juice’s navigation camera gets first taste of space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T230121">2024-08-22 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240822T233105">2024-08-22 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
