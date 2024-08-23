@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-astronauts-wilmore-williams-space-station-science-highlights/" >🔗</a> **[NASA]** NASA Astronauts Wilmore, Williams’ Space Station Science Highlights
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_August_2024" >🔗</a> **[ESA]** Week in images: 19-23 August 2024
+- <a href="https://www.nasa.gov/general/preguntas-frecuentes-estado-del-retorno-de-la-prueba-de-vuelo-tripulado-boeing-de-la-nasa/" >🔗</a> **[NASA]** Preguntas frecuentes: Estado del retorno de la prueba de vuelo tripulado Boeing de la NASA
 - <a href="https://arstechnica.com/space/2024/08/as-nasa-nears-major-decision-on-starliner-heres-what-we-know-and-what-we-dont/" >🔗</a> **[Arstechnica]** Cards on the table: Are Butch and Suni coming home on Starliner or Crew Dragon?
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-reaches-a-lonely-light-in-the-dark/" >🔗</a> **[NASA]** Hubble Reaches a Lonely Light in the Dark
 - <a href="https://spacenews.com/case-for-international-space-artifacts-museum/" >🔗</a> **[SpaceNews]** The case for an international space artifacts museum
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/First_views_from_Juice_s_science_camera" >🔗</a> **[ESA]** First views from Juice’s science camera
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_sealed_in_the_Vega_rocket_fairing" >🔗</a> **[ESA]** Sentinel-2C sealed in the Vega rocket fairing
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_blueprint" >🔗</a> **[ESA]** Ariane 6 blueprint
 - <a href="https://arstechnica.com/space/2024/08/rocket-report-a-ula-sale-tidbit-polaris-dawn-mission-is-on-deck/" >🔗</a> **[Arstechnica]** Rocket Report: A ULA sale tidbit; Polaris Dawn mission is on deck
-- <a href="https://europeanspaceflight.com/norways-andoya-spaceport-receives-launch-site-operator-license/" >🔗</a> **[European Spaceflight]** Norway’s Andøya Spaceport Receives Launch Site Operator License
-- <a href="https://spacepolicyonline.com/news/harris-vows-leadership-in-space-if-elected/" >🔗</a> **[SpacePolicyOnline.com]** Harris Vows Leadership in Space if Elected
-- <a href="https://spacenews.com/nasa-adds-three-companies-to-launch-services-contract-for-smallsat-missions/" >🔗</a> **[SpaceNews]** NASA adds three companies to launch services contract for smallsat missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T150119">2024-08-23 15:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T153238">2024-08-23 15:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
