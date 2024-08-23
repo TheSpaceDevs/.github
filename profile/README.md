@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/norways-andoya-spaceport-receives-launch-site-operator-license/" >🔗</a> **[European Spaceflight]** Norway’s Andøya Spaceport Receives Launch Site Operator License
 - <a href="https://spacepolicyonline.com/news/harris-vows-leadership-in-space-if-elected/" >🔗</a> **[SpacePolicyOnline.com]** Harris Vows Leadership in Space if Elected
 - <a href="https://spacenews.com/nasa-adds-three-companies-to-launch-services-contract-for-smallsat-missions/" >🔗</a> **[SpaceNews]** NASA adds three companies to launch services contract for smallsat missions
 - <a href="https://www.nasa.gov/aeronautics/hicam-composite-new-partners-082424/" >🔗</a> **[NASA]** NASA Composite Manufacturing Initiative Gains Two New Members
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/amazon-expands-kennedy-space-center-facility-to-accelerate-satellite-deployments/" >🔗</a> **[SpaceNews]** Amazon expands Kennedy Space Center facility to accelerate satellite deployments
 - <a href="https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/" >🔗</a> **[NASA]** NASA’s EXCITE Mission Prepared for Scientific Balloon Flight
 - <a href="https://spacenews.com/norwegian-spaceport-receives-government-license/" >🔗</a> **[SpaceNews]** Norwegian spaceport receives government license
-- <a href="https://www.nasa.gov/news-release/nasa-selects-three-new-venture-class-launch-service-providers/" >🔗</a> **[NASA]** NASA Selects Three New Venture-Class Launch Service Providers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T080120">2024-08-23 08:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T083347">2024-08-23 08:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
