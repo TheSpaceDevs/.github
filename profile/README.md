@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/hicam-composite-new-partners-082424/" >🔗</a> **[NASA]** NASA Composite Manufacturing Initiative Gains Two New Members
 - <a href="https://spacenews.com/mynarics-manufacturing-woes-threaten-to-delay-production-of-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Mynaric’s manufacturing woes threaten to delay production of U.S. military satellites
 - <a href="https://europeanspaceflight.com/rfa-identifies-turbopump-as-the-cause-for-rfa-one-test-failure/" >🔗</a> **[European Spaceflight]** RFA Identifies Turbopump as the Cause for RFA ONE Test Failure
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/beyond-the-textbook-dc-8-aircraft-inspires-students-in-retirement/" >🔗</a> **[NASA]** Beyond the Textbook: DC-8 Aircraft Inspires Students in Retirement
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-three-new-venture-class-launch-service-providers/" >🔗</a> **[NASA]** NASA Selects Three New Venture-Class Launch Service Providers
 - <a href="https://science.nasa.gov/solar-system/into-the-field-with-nasa-valley-of-ten-thousand-smokes/" >🔗</a> **[NASA]** Into The Field With NASA: Valley Of Ten Thousand Smokes
 - <a href="https://www.nasa.gov/news-release/leadership-to-discuss-nasas-boeing-crew-flight-test/" >🔗</a> **[NASA]** Leadership to Discuss NASA’s Boeing Crew Flight Test
-- <a href="https://www.nasa.gov/image-article/sunrise-begins/" >🔗</a> **[NASA]** Sunrise Begins
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T015447">2024-08-23 01:54:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T021602">2024-08-23 02:16:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
