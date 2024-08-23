@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/case-for-international-space-artifacts-museum/" >🔗</a> **[SpaceNews]** The case for an international space artifacts museum
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_sealed_in_the_Vega_rocket_fairing" >🔗</a> **[ESA]** Sentinel-2C sealed in the Vega rocket fairing
 - <a href="https://arstechnica.com/space/2024/08/rocket-report-a-ula-sale-tidbit-polaris-dawn-mission-is-on-deck/" >🔗</a> **[Arstechnica]** Rocket Report: A ULA sale tidbit; Polaris Dawn mission is on deck
 - <a href="https://europeanspaceflight.com/norways-andoya-spaceport-receives-launch-site-operator-license/" >🔗</a> **[European Spaceflight]** Norway’s Andøya Spaceport Receives Launch Site Operator License
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/mynarics-manufacturing-woes-threaten-to-delay-production-of-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Mynaric’s manufacturing woes threaten to delay production of U.S. military satellites
 - <a href="https://europeanspaceflight.com/rfa-identifies-turbopump-as-the-cause-for-rfa-one-test-failure/" >🔗</a> **[European Spaceflight]** RFA Identifies Turbopump as the Cause for RFA ONE Test Failure
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/beyond-the-textbook-dc-8-aircraft-inspires-students-in-retirement/" >🔗</a> **[NASA]** Beyond the Textbook: DC-8 Aircraft Inspires Students in Retirement
-- <a href="https://spacenews.com/amazon-expands-kennedy-space-center-facility-to-accelerate-satellite-deployments/" >🔗</a> **[SpaceNews]** Amazon expands Kennedy Space Center facility to accelerate satellite deployments
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T130345">2024-08-23 13:03:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T133105">2024-08-23 13:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
