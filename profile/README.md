@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_August_2024" >🔗</a> **[ESA]** Week in images: 19-23 August 2024
+- <a href="https://arstechnica.com/space/2024/08/as-nasa-nears-major-decision-on-starliner-heres-what-we-know-and-what-we-dont/" >🔗</a> **[Arstechnica]** Cards on the table: Are Butch and Suni coming home on Starliner or Crew Dragon?
+- <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-reaches-a-lonely-light-in-the-dark/" >🔗</a> **[NASA]** Hubble Reaches a Lonely Light in the Dark
 - <a href="https://spacenews.com/case-for-international-space-artifacts-museum/" >🔗</a> **[SpaceNews]** The case for an international space artifacts museum
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_sealed_in_the_Vega_rocket_fairing" >🔗</a> **[ESA]** Sentinel-2C sealed in the Vega rocket fairing
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_blueprint" >🔗</a> **[ESA]** Ariane 6 blueprint
 - <a href="https://arstechnica.com/space/2024/08/rocket-report-a-ula-sale-tidbit-polaris-dawn-mission-is-on-deck/" >🔗</a> **[Arstechnica]** Rocket Report: A ULA sale tidbit; Polaris Dawn mission is on deck
 - <a href="https://europeanspaceflight.com/norways-andoya-spaceport-receives-launch-site-operator-license/" >🔗</a> **[European Spaceflight]** Norway’s Andøya Spaceport Receives Launch Site Operator License
 - <a href="https://spacepolicyonline.com/news/harris-vows-leadership-in-space-if-elected/" >🔗</a> **[SpacePolicyOnline.com]** Harris Vows Leadership in Space if Elected
 - <a href="https://spacenews.com/nasa-adds-three-companies-to-launch-services-contract-for-smallsat-missions/" >🔗</a> **[SpaceNews]** NASA adds three companies to launch services contract for smallsat missions
-- <a href="https://www.nasa.gov/aeronautics/hicam-composite-new-partners-082424/" >🔗</a> **[NASA]** NASA Composite Manufacturing Initiative Gains Two New Members
-- <a href="https://spacenews.com/mynarics-manufacturing-woes-threaten-to-delay-production-of-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Mynaric’s manufacturing woes threaten to delay production of U.S. military satellites
-- <a href="https://europeanspaceflight.com/rfa-identifies-turbopump-as-the-cause-for-rfa-one-test-failure/" >🔗</a> **[European Spaceflight]** RFA Identifies Turbopump as the Cause for RFA ONE Test Failure
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/beyond-the-textbook-dc-8-aircraft-inspires-students-in-retirement/" >🔗</a> **[NASA]** Beyond the Textbook: DC-8 Aircraft Inspires Students in Retirement
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T140122">2024-08-23 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T143312">2024-08-23 14:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
