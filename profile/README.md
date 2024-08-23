@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_sealed_in_the_Vega_rocket_fairing" >🔗</a> **[ESA]** Sentinel-2C sealed in the Vega rocket fairing
+- <a href="https://arstechnica.com/space/2024/08/rocket-report-a-ula-sale-tidbit-polaris-dawn-mission-is-on-deck/" >🔗</a> **[Arstechnica]** Rocket Report: A ULA sale tidbit; Polaris Dawn mission is on deck
 - <a href="https://europeanspaceflight.com/norways-andoya-spaceport-receives-launch-site-operator-license/" >🔗</a> **[European Spaceflight]** Norway’s Andøya Spaceport Receives Launch Site Operator License
 - <a href="https://spacepolicyonline.com/news/harris-vows-leadership-in-space-if-elected/" >🔗</a> **[SpacePolicyOnline.com]** Harris Vows Leadership in Space if Elected
 - <a href="https://spacenews.com/nasa-adds-three-companies-to-launch-services-contract-for-smallsat-missions/" >🔗</a> **[SpaceNews]** NASA adds three companies to launch services contract for smallsat missions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/rfa-identifies-turbopump-as-the-cause-for-rfa-one-test-failure/" >🔗</a> **[European Spaceflight]** RFA Identifies Turbopump as the Cause for RFA ONE Test Failure
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/beyond-the-textbook-dc-8-aircraft-inspires-students-in-retirement/" >🔗</a> **[NASA]** Beyond the Textbook: DC-8 Aircraft Inspires Students in Retirement
 - <a href="https://spacenews.com/amazon-expands-kennedy-space-center-facility-to-accelerate-satellite-deployments/" >🔗</a> **[SpaceNews]** Amazon expands Kennedy Space Center facility to accelerate satellite deployments
-- <a href="https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/" >🔗</a> **[NASA]** NASA’s EXCITE Mission Prepared for Scientific Balloon Flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T110117">2024-08-23 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T113102">2024-08-23 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
