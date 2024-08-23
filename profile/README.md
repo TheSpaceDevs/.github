@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/harris-vows-leadership-in-space-if-elected/" >🔗</a> **[SpacePolicyOnline.com]** Harris Vows Leadership in Space if Elected
 - <a href="https://spacenews.com/nasa-adds-three-companies-to-launch-services-contract-for-smallsat-missions/" >🔗</a> **[SpaceNews]** NASA adds three companies to launch services contract for smallsat missions
 - <a href="https://www.nasa.gov/aeronautics/hicam-composite-new-partners-082424/" >🔗</a> **[NASA]** NASA Composite Manufacturing Initiative Gains Two New Members
 - <a href="https://spacenews.com/mynarics-manufacturing-woes-threaten-to-delay-production-of-u-s-military-satellites/" >🔗</a> **[SpaceNews]** Mynaric’s manufacturing woes threaten to delay production of U.S. military satellites
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/" >🔗</a> **[NASA]** NASA’s EXCITE Mission Prepared for Scientific Balloon Flight
 - <a href="https://spacenews.com/norwegian-spaceport-receives-government-license/" >🔗</a> **[SpaceNews]** Norwegian spaceport receives government license
 - <a href="https://www.nasa.gov/news-release/nasa-selects-three-new-venture-class-launch-service-providers/" >🔗</a> **[NASA]** NASA Selects Three New Venture-Class Launch Service Providers
-- <a href="https://science.nasa.gov/solar-system/into-the-field-with-nasa-valley-of-ten-thousand-smokes/" >🔗</a> **[NASA]** Into The Field With NASA: Valley Of Ten Thousand Smokes
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T040138">2024-08-23 04:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T043311">2024-08-23 04:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
