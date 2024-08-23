@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T073700">2024-08-24 07:37:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T074100">2024-08-24 07:41:00 UTC</a>.  Until
 then, this pad will have been used for 155
 out of 767 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T073700">2024-08-24 07:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240824T073700Z%2F20240824T113700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T074100">2024-08-24 07:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240824T074100Z%2F20240824T113100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T073800">2024-08-27 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240827T073800Z%2F20240827T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T055000">2024-08-28 05:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-6&location=Cape Canaveral, FL, USA&dates=20240828T055000Z%2F20240828T095000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-6** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T051000">2024-08-29 05:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240829T051000Z%2F20240829T053500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/first-look-at-hybrid-electric-research-aircraft/" >🔗</a> **[NASA]** First Look at Hybrid Electric Research Aircraft
+- <a href="https://www.nasa.gov/humans-in-space/nasa-funds-studies-to-support-crew-performance-on-long-duration-missions/" >🔗</a> **[NASA]** NASA Funds Studies to Support Crew Performance on Long-Duration Missions
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-shares-asteroid-bennu-sample-in-exchange-with-jaxa/" >🔗</a> **[NASA]** NASA Shares Asteroid Bennu Sample in Exchange with JAXA
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-astronauts-wilmore-williams-space-station-science-highlights/" >🔗</a> **[NASA]** NASA Astronauts Wilmore, Williams’ Space Station Science Highlights
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_August_2024" >🔗</a> **[ESA]** Week in images: 19-23 August 2024
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-reaches-a-lonely-light-in-the-dark/" >🔗</a> **[NASA]** Hubble Reaches a Lonely Light in the Dark
 - <a href="https://spacenews.com/case-for-international-space-artifacts-museum/" >🔗</a> **[SpaceNews]** The case for an international space artifacts museum
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/First_views_from_Juice_s_science_camera" >🔗</a> **[ESA]** First views from Juice’s science camera
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_sealed_in_the_Vega_rocket_fairing" >🔗</a> **[ESA]** Sentinel-2C sealed in the Vega rocket fairing
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_blueprint" >🔗</a> **[ESA]** Ariane 6 blueprint
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T170124">2024-08-23 17:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T173159">2024-08-23 17:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
