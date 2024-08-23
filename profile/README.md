@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-200-million-contract-to-northrop-grumman-for-uk-radar-site/" >🔗</a> **[SpaceNews]** Space Force awards $200 million contract to Northrop Grumman for UK radar site
+- <a href="https://spacenews.com/blue-origin-sets-date-for-next-new-shepard-flight-after-completing-parachute-investigation/" >🔗</a> **[SpaceNews]** Blue Origin sets date for next New Shepard flight after completing parachute investigation
 - <a href="https://www.nasaspaceflight.com/2024/08/starbase-pad-b-tower-stacked/" >🔗</a> **[NASASpaceflight]** Second Tower complete at Starbase as Flight 5 preps continue
 - <a href="https://spacenews.com/spacewerx-awards-contracts-to-nine-space-tech-firms-for-defense-projects/" >🔗</a> **[SpaceNews]** SpaceWERX awards contracts to nine space tech firms for defense projects
 - <a href="https://spacenews.com/supreme-court-case-could-affect-orbital-debris-mitigation-rules/" >🔗</a> **[SpaceNews]** Supreme Court case could affect orbital debris mitigation rules
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-august-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: August 2024
 - <a href="https://www.nasa.gov/image-article/first-look-at-hybrid-electric-research-aircraft/" >🔗</a> **[NASA]** First Look at Hybrid Electric Research Aircraft
 - <a href="https://www.nasa.gov/humans-in-space/nasa-funds-studies-to-support-crew-performance-on-long-duration-missions/" >🔗</a> **[NASA]** NASA Funds Studies to Support Crew Performance on Long-Duration Missions
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-shares-asteroid-bennu-sample-in-exchange-with-jaxa/" >🔗</a> **[NASA]** NASA Shares Asteroid Bennu Sample in Exchange with JAXA
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-astronauts-wilmore-williams-space-station-science-highlights/" >🔗</a> **[NASA]** NASA Astronauts Wilmore, Williams’ Space Station Science Highlights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T230111">2024-08-23 23:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T233056">2024-08-23 23:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
