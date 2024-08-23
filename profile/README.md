@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/august-2024-transformer-of-the-month-selina-salgado/" >🔗</a> **[NASA]** August 2024 Transformer of the Month: Selina Salgado
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-august-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: August 2024
 - <a href="https://www.nasa.gov/image-article/first-look-at-hybrid-electric-research-aircraft/" >🔗</a> **[NASA]** First Look at Hybrid Electric Research Aircraft
 - <a href="https://www.nasa.gov/humans-in-space/nasa-funds-studies-to-support-crew-performance-on-long-duration-missions/" >🔗</a> **[NASA]** NASA Funds Studies to Support Crew Performance on Long-Duration Missions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/preguntas-frecuentes-estado-del-retorno-de-la-prueba-de-vuelo-tripulado-boeing-de-la-nasa/" >🔗</a> **[NASA]** Preguntas frecuentes: Estado del retorno de la prueba de vuelo tripulado Boeing de la NASA
 - <a href="https://arstechnica.com/space/2024/08/as-nasa-nears-major-decision-on-starliner-heres-what-we-know-and-what-we-dont/" >🔗</a> **[Arstechnica]** Cards on the table: Are Butch and Suni coming home on Starliner or Crew Dragon?
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-reaches-a-lonely-light-in-the-dark/" >🔗</a> **[NASA]** Hubble Reaches a Lonely Light in the Dark
-- <a href="https://spacenews.com/case-for-international-space-artifacts-museum/" >🔗</a> **[SpaceNews]** The case for an international space artifacts museum
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T190119">2024-08-23 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T193103">2024-08-23 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
