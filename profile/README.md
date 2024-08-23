@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/supreme-court-case-could-affect-orbital-debris-mitigation-rules/" >🔗</a> **[SpaceNews]** Supreme Court case could affect orbital debris mitigation rules
 - <a href="https://spacenews.com/rfa-pushes-maiden-flight-to-2025-after-launchpad-explosion/" >🔗</a> **[SpaceNews]** RFA pushes maiden flight to 2025 after launchpad explosion
 - <a href="https://www.nasa.gov/general/august-2024-transformer-of-the-month-selina-salgado/" >🔗</a> **[NASA]** August 2024 Transformer of the Month: Selina Salgado
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-august-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: August 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-astronauts-wilmore-williams-space-station-science-highlights/" >🔗</a> **[NASA]** NASA Astronauts Wilmore, Williams’ Space Station Science Highlights
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_August_2024" >🔗</a> **[ESA]** Week in images: 19-23 August 2024
 - <a href="https://www.nasa.gov/general/preguntas-frecuentes-estado-del-retorno-de-la-prueba-de-vuelo-tripulado-boeing-de-la-nasa/" >🔗</a> **[NASA]** Preguntas frecuentes: Estado del retorno de la prueba de vuelo tripulado Boeing de la NASA
-- <a href="https://arstechnica.com/space/2024/08/as-nasa-nears-major-decision-on-starliner-heres-what-we-know-and-what-we-dont/" >🔗</a> **[Arstechnica]** Cards on the table: Are Butch and Suni coming home on Starliner or Crew Dragon?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T203056">2024-08-23 20:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240823T210124">2024-08-23 21:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
