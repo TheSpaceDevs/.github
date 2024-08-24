@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-program-manager-shares-italian-lunar-habitat-details/" >🔗</a> **[European Spaceflight]** Thales Program Manager Shares Italian Lunar Habitat Details
 - <a href="https://spacenews.com/space-force-awards-200-million-contract-to-northrop-grumman-for-uk-radar-site/" >🔗</a> **[SpaceNews]** Space Force awards $200 million contract to Northrop Grumman for UK radar site
 - <a href="https://spacenews.com/blue-origin-sets-date-for-next-new-shepard-flight-after-completing-parachute-investigation/" >🔗</a> **[SpaceNews]** Blue Origin sets date for next New Shepard flight after completing parachute investigation
 - <a href="https://www.nasaspaceflight.com/2024/08/starbase-pad-b-tower-stacked/" >🔗</a> **[NASASpaceflight]** Second Tower complete at Starbase as Flight 5 preps continue
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/august-2024-transformer-of-the-month-selina-salgado/" >🔗</a> **[NASA]** August 2024 Transformer of the Month: Selina Salgado
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-august-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: August 2024
 - <a href="https://www.nasa.gov/image-article/first-look-at-hybrid-electric-research-aircraft/" >🔗</a> **[NASA]** First Look at Hybrid Electric Research Aircraft
-- <a href="https://www.nasa.gov/humans-in-space/nasa-funds-studies-to-support-crew-performance-on-long-duration-missions/" >🔗</a> **[NASA]** NASA Funds Studies to Support Crew Performance on Long-Duration Missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T073109">2024-08-24 07:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T080126">2024-08-24 08:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
