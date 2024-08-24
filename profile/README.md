@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-starliner-will-return-empty-still-confident-in-boeing/" >🔗</a> **[SpacePolicyOnline.com]** NASA: Starliner Will Return Empty, Still Confident in Boeing
+- <a href="https://www.spacescout.info/2024/08/starliner-astronauts-to-return-aboard-crew-9/" >🔗</a> **[Space Scout]** Starliner Astronauts to Return Aboard Crew-9
+- <a href="https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/" >🔗</a> **[SpaceNews]** Starliner to return from ISS without astronauts on board
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/our-alien-earth-episode3-bts/" >🔗</a> **[NASA]** The Making of Our Alien Earth: The Undersea Volcanoes of Santorini, Greece
 - <a href="https://www.nasaspaceflight.com/2024/08/cft-update/" >🔗</a> **[NASASpaceflight]** Boeing Starliner returning without crew – Butch and Suni to fly SpaceX
 - <a href="https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/" >🔗</a> **[NASA]** NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/24/live-coverage-nasa-to-announce-final-determination-on-how-to-conclude-starliner-crew-flight-test/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to announce final determination on how to conclude Starliner Crew Flight Test
 - <a href="https://europeanspaceflight.com/thales-program-manager-shares-italian-lunar-habitat-details/" >🔗</a> **[European Spaceflight]** Thales Program Manager Shares Italian Lunar Habitat Details
 - <a href="https://spacenews.com/space-force-awards-200-million-contract-to-northrop-grumman-for-uk-radar-site/" >🔗</a> **[SpaceNews]** Space Force awards $200 million contract to Northrop Grumman for UK radar site
-- <a href="https://spacenews.com/blue-origin-sets-date-for-next-new-shepard-flight-after-completing-parachute-investigation/" >🔗</a> **[SpaceNews]** Blue Origin sets date for next New Shepard flight after completing parachute investigation
-- <a href="https://www.nasaspaceflight.com/2024/08/starbase-pad-b-tower-stacked/" >🔗</a> **[NASASpaceflight]** Second Tower complete at Starbase as Flight 5 preps continue
-- <a href="https://spacenews.com/spacewerx-awards-contracts-to-nine-space-tech-firms-for-defense-projects/" >🔗</a> **[SpaceNews]** SpaceWERX awards contracts to nine space tech firms for defense projects
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T203052">2024-08-24 20:30:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T210105">2024-08-24 21:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
