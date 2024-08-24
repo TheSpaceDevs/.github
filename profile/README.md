@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/" >🔗</a> **[NASA]** NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew
+- <a href="https://www.cnbc.com/2024/08/24/nasa-boeing-starliner-decision-return-empty-spacex-astronauts-iss.html" >🔗</a> **[CNBC]** Boeing Starliner returning empty as NASA turns to SpaceX to bring astronauts back from ISS
 - <a href="https://spaceflightnow.com/2024/08/24/live-coverage-nasa-to-announce-final-determination-on-how-to-conclude-starliner-crew-flight-test/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to announce final determination on how to conclude Starliner Crew Flight Test
 - <a href="https://europeanspaceflight.com/thales-program-manager-shares-italian-lunar-habitat-details/" >🔗</a> **[European Spaceflight]** Thales Program Manager Shares Italian Lunar Habitat Details
 - <a href="https://spacenews.com/space-force-awards-200-million-contract-to-northrop-grumman-for-uk-radar-site/" >🔗</a> **[SpaceNews]** Space Force awards $200 million contract to Northrop Grumman for UK radar site
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacewerx-awards-contracts-to-nine-space-tech-firms-for-defense-projects/" >🔗</a> **[SpaceNews]** SpaceWERX awards contracts to nine space tech firms for defense projects
 - <a href="https://spacenews.com/supreme-court-case-could-affect-orbital-debris-mitigation-rules/" >🔗</a> **[SpaceNews]** Supreme Court case could affect orbital debris mitigation rules
 - <a href="https://spacenews.com/rfa-pushes-maiden-flight-to-2025-after-launchpad-explosion/" >🔗</a> **[SpaceNews]** RFA pushes maiden flight to 2025 after launchpad explosion
-- <a href="https://www.nasa.gov/general/august-2024-transformer-of-the-month-selina-salgado/" >🔗</a> **[NASA]** August 2024 Transformer of the Month: Selina Salgado
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-august-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: August 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T170209">2024-08-24 17:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240824T173105">2024-08-24 17:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
