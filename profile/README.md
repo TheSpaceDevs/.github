@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to static fire test its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
+- <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire test of its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
 - <a href="https://spaceflightnow.com/2024/08/24/nasa-rules-out-bringing-astronauts-home-on-boeings-starliner/" >🔗</a> **[Spaceflight Now]** NASA rules out bringing astronauts home on Boeing’s Starliner
 - <a href="https://arstechnica.com/space/2024/08/its-official-nasa-calls-on-crew-dragon-to-rescue-the-starliner-astronauts/" >🔗</a> **[Arstechnica]** NASA not comfortable with Starliner thrusters, so crew will fly home on Dragon
 - <a href="https://spacepolicyonline.com/news/nasa-starliner-will-return-empty-still-confident-in-boeing/" >🔗</a> **[SpacePolicyOnline.com]** NASA: Starliner Will Return Empty, Still Confident in Boeing
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240825T110120">2024-08-25 11:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240825T113058">2024-08-25 11:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
