@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to static fire test its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
 - <a href="https://spaceflightnow.com/2024/08/24/nasa-rules-out-bringing-astronauts-home-on-boeings-starliner/" >🔗</a> **[Spaceflight Now]** NASA rules out bringing astronauts home on Boeing’s Starliner
 - <a href="https://arstechnica.com/space/2024/08/its-official-nasa-calls-on-crew-dragon-to-rescue-the-starliner-astronauts/" >🔗</a> **[Arstechnica]** NASA not comfortable with Starliner thrusters, so crew will fly home on Dragon
 - <a href="https://spacepolicyonline.com/news/nasa-starliner-will-return-empty-still-confident-in-boeing/" >🔗</a> **[SpacePolicyOnline.com]** NASA: Starliner Will Return Empty, Still Confident in Boeing
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/08/cft-update/" >🔗</a> **[NASASpaceflight]** Boeing Starliner returning without crew – Butch and Suni to fly SpaceX
 - <a href="https://www.nasa.gov/news-release/nasa-decides-to-bring-starliner-spacecraft-back-to-earth-without-crew/" >🔗</a> **[NASA]** NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew
 - <a href="https://www.cnbc.com/2024/08/24/nasa-boeing-starliner-decision-return-empty-spacex-astronauts-iss.html" >🔗</a> **[CNBC]** Boeing Starliner returning empty as NASA turns to SpaceX to bring astronauts back from ISS
-- <a href="https://spaceflightnow.com/2024/08/24/live-coverage-nasa-to-announce-final-determination-on-how-to-conclude-starliner-crew-flight-test/" >🔗</a> **[Spaceflight Now]** NASA to announce final determination on how to conclude Starliner Crew Flight Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240825T000410">2024-08-25 00:04:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240825T004521">2024-08-25 00:45:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
