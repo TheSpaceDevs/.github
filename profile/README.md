@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-decide-traer-de-vuelta-la-nave-starliner-a-la-tierra-sin-tripulacion/" >🔗</a> **[NASA]** La NASA decide traer de vuelta la nave Starliner a la Tierra sin tripulación
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-23-2024/" >🔗</a> **[NASA]** Station Science Top News: August 23, 2024
 - <a href="https://www.nasa.gov/image-article/dr-irene-duhart-long/" >🔗</a> **[NASA]** Dr. Irene Duhart Long
 - <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar Replay – Space: The Next Frontier of Strategic Competition
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/26/live-coverage-spacex-to-launch-polaris-dawn-astronauts-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Polaris Dawn astronauts to launch on historic mission featuring first commercial spacewalk
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-new-glenn-launch-of-mars-mission/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to New Glenn Launch of Mars Mission
 - <a href="https://spacenews.com/mynaric-ousts-ceo-amid-production-troubles/" >🔗</a> **[SpaceNews]** Mynaric ousts CEO amid production troubles
-- <a href="https://www.nasa.gov/news-release/nasa-invites-public-input-on-low-earth-orbit-microgravity-strategy/" >🔗</a> **[NASA]** NASA Invites Public Input on Low Earth Orbit Microgravity Strategy
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T193101">2024-08-26 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T200124">2024-08-26 20:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
