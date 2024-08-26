@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-23-2024/" >🔗</a> **[NASA]** Station Science Top News: August 23, 2024
+- <a href="https://www.nasa.gov/image-article/dr-irene-duhart-long/" >🔗</a> **[NASA]** Dr. Irene Duhart Long
+- <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar Replay – Space: The Next Frontier of Strategic Competition
+- <a href="https://www.nasa.gov/missions/chandra/cassiopeia-a-then-the-cosmos-25-years-of-chandra-x-ray-science/" >🔗</a> **[NASA]** Cassiopeia A, Then the Cosmos: 25 Years of Chandra X-ray Science
+- <a href="https://arstechnica.com/space/2024/08/when-it-comes-to-expanding-human-activity-in-space-polaris-dawn-is-the-real-deal/" >🔗</a> **[Arstechnica]** One of the most adventurous human spaceflights since Apollo may launch tonight
 - <a href="https://www.teslarati.com/spacex-bails-out-boeing-employees-reportedly-humiliated/" >🔗</a> **[Teslarati]** SpaceX bails out Boeing and employees are reportedly ‘humiliated’
 - <a href="https://spaceflightnow.com/2024/08/26/live-coverage-spacex-to-launch-polaris-dawn-astronauts-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Polaris Dawn astronauts to launch on historic mission featuring first commercial spacewalk
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-new-glenn-launch-of-mars-mission/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to New Glenn Launch of Mars Mission
 - <a href="https://spacenews.com/mynaric-ousts-ceo-amid-production-troubles/" >🔗</a> **[SpaceNews]** Mynaric ousts CEO amid production troubles
 - <a href="https://www.nasa.gov/news-release/nasa-invites-public-input-on-low-earth-orbit-microgravity-strategy/" >🔗</a> **[NASA]** NASA Invites Public Input on Low Earth Orbit Microgravity Strategy
-- <a href="https://science.nasa.gov/blog/sols-4284-4286-environmental-science-extravaganza/" >🔗</a> **[NASA]** Sols 4284–4286: Environmental Science Extravaganza
-- <a href="https://science.nasa.gov/blog/sols-4282-4283-bumping-away-from-kings-canyon/" >🔗</a> **[NASA]** Sols 4282-4283: Bumping Away from Kings Canyon
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/solar-panels-for-nasas-roman-space-telescope-pass-key-tests/" >🔗</a> **[NASA]** Solar Panels for NASA’s Roman Space Telescope Pass Key Tests
-- <a href="https://spacenews.com/reorbit-completes-pdr-phase-for-ukko-mission/" >🔗</a> **[SpaceNews]** ReOrbit Completes PDR Phase for UKKO Mission
-- <a href="https://science.nasa.gov/missions/webb/webb-finds-early-galaxies-werent-too-big-for-their-britches-after-all/" >🔗</a> **[NASA]** Webb Finds Early Galaxies Weren’t Too Big for Their Britches After All
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T190108">2024-08-26 19:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T193101">2024-08-26 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
