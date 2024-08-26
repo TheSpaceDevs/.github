@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/robotics/nasa-seeks-input-for-astrobee-free-flying-space-robots/" >🔗</a> **[NASA]** NASA Seeks Input for Astrobee Free-flying Space Robots
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-develops-pod-to-help-autonomous-aircraft-operators/" >🔗</a> **[NASA]** NASA Develops Pod to Help Autonomous Aircraft Operators
 - <a href="https://spacenews.com/u-s-military-space-domain-awareness-lags-behind-expectations/" >🔗</a> **[SpaceNews]** U.S. military space domain awareness lags behind expectations
 - <a href="https://www.nasaspaceflight.com/2024/08/polaris-dawn/" >🔗</a> **[NASASpaceflight]** SpaceX ready to launch historic Polaris Dawn mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar Replay – Space: The Next Frontier of Strategic Competition
 - <a href="https://www.nasa.gov/missions/chandra/cassiopeia-a-then-the-cosmos-25-years-of-chandra-x-ray-science/" >🔗</a> **[NASA]** Cassiopeia A, Then the Cosmos: 25 Years of Chandra X-ray Science
 - <a href="https://arstechnica.com/space/2024/08/when-it-comes-to-expanding-human-activity-in-space-polaris-dawn-is-the-real-deal/" >🔗</a> **[Arstechnica]** One of the most adventurous human spaceflights since Apollo may launch tonight
-- <a href="https://www.teslarati.com/spacex-bails-out-boeing-employees-reportedly-humiliated/" >🔗</a> **[Teslarati]** SpaceX bails out Boeing and employees are reportedly ‘humiliated’
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T213056">2024-08-26 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T220125">2024-08-26 22:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
