@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mynaric-ousts-ceo-amid-production-troubles/" >🔗</a> **[SpaceNews]** Mynaric ousts CEO amid production troubles
+- <a href="https://www.nasa.gov/news-release/nasa-invites-public-input-on-low-earth-orbit-microgravity-strategy/" >🔗</a> **[NASA]** NASA Invites Public Input on Low Earth Orbit Microgravity Strategy
 - <a href="https://science.nasa.gov/blog/sols-4284-4286-environmental-science-extravaganza/" >🔗</a> **[NASA]** Sols 4284–4286: Environmental Science Extravaganza
 - <a href="https://science.nasa.gov/blog/sols-4282-4283-bumping-away-from-kings-canyon/" >🔗</a> **[NASA]** Sols 4282-4283: Bumping Away from Kings Canyon
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/solar-panels-for-nasas-roman-space-telescope-pass-key-tests/" >🔗</a> **[NASA]** Solar Panels for NASA’s Roman Space Telescope Pass Key Tests
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Watching_Salsa_s_reentry_live_from_the_sky" >🔗</a> **[ESA]** Watching Salsa’s reentry live from the sky
 - <a href="https://europeanspaceflight.com/rfa-release-footage-of-failed-rfa-one-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Release Footage of Failed RFA ONE Static Fire Test
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-unique-ultraviolet-view-of-a-spectacular-star-cluster/" >🔗</a> **[NASA]** Hubble Captures Unique Ultraviolet View of a Spectacular Star Cluster
-- <a href="https://spacenews.com/firefly-aerospaces-lunar-lander-begins-pre-launch-environmental-tests/" >🔗</a> **[SpaceNews]** Firefly Aerospace’s lunar lander begins pre-launch environmental tests
-- <a href="https://spacenews.com/space-weather-prioritization-not-policy-missing-piece-us-resilience/" >🔗</a> **[SpaceNews]** Space weather: prioritization, not policy, is the missing piece in U.S. resilience
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T170108">2024-08-26 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T173136">2024-08-26 17:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
