@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-develops-pod-to-help-autonomous-aircraft-operators/" >🔗</a> **[NASA]** NASA Develops Pod to Help Autonomous Aircraft Operators
+- <a href="https://spacenews.com/u-s-military-space-domain-awareness-lags-behind-expectations/" >🔗</a> **[SpaceNews]** U.S. military space domain awareness lags behind expectations
+- <a href="https://www.nasaspaceflight.com/2024/08/polaris-dawn/" >🔗</a> **[NASASpaceflight]** SpaceX ready to launch historic Polaris Dawn mission
 - <a href="https://www.nasa.gov/news-release/la-nasa-decide-traer-de-vuelta-la-nave-starliner-a-la-tierra-sin-tripulacion/" >🔗</a> **[NASA]** La NASA decide traer de vuelta la nave Starliner a la Tierra sin tripulación
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-23-2024/" >🔗</a> **[NASA]** Station Science Top News: August 23, 2024
 - <a href="https://www.nasa.gov/image-article/dr-irene-duhart-long/" >🔗</a> **[NASA]** Dr. Irene Duhart Long
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/chandra/cassiopeia-a-then-the-cosmos-25-years-of-chandra-x-ray-science/" >🔗</a> **[NASA]** Cassiopeia A, Then the Cosmos: 25 Years of Chandra X-ray Science
 - <a href="https://arstechnica.com/space/2024/08/when-it-comes-to-expanding-human-activity-in-space-polaris-dawn-is-the-real-deal/" >🔗</a> **[Arstechnica]** One of the most adventurous human spaceflights since Apollo may launch tonight
 - <a href="https://www.teslarati.com/spacex-bails-out-boeing-employees-reportedly-humiliated/" >🔗</a> **[Teslarati]** SpaceX bails out Boeing and employees are reportedly ‘humiliated’
-- <a href="https://spaceflightnow.com/2024/08/26/live-coverage-spacex-to-launch-polaris-dawn-astronauts-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Polaris Dawn astronauts to launch on historic mission featuring first commercial spacewalk
-- <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-new-glenn-launch-of-mars-mission/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to New Glenn Launch of Mars Mission
-- <a href="https://spacenews.com/mynaric-ousts-ceo-amid-production-troubles/" >🔗</a> **[SpaceNews]** Mynaric ousts CEO amid production troubles
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T203118">2024-08-26 20:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T210107">2024-08-26 21:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
