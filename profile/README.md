@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4284-4286-environmental-science-extravaganza/" >🔗</a> **[NASA]** Sols 4284–4286: Environmental Science Extravaganza
+- <a href="https://science.nasa.gov/blog/sols-4282-4283-bumping-away-from-kings-canyon/" >🔗</a> **[NASA]** Sols 4282-4283: Bumping Away from Kings Canyon
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/solar-panels-for-nasas-roman-space-telescope-pass-key-tests/" >🔗</a> **[NASA]** Solar Panels for NASA’s Roman Space Telescope Pass Key Tests
 - <a href="https://spacenews.com/reorbit-completes-pdr-phase-for-ukko-mission/" >🔗</a> **[SpaceNews]** ReOrbit Completes PDR Phase for UKKO Mission
 - <a href="https://science.nasa.gov/missions/webb/webb-finds-early-galaxies-werent-too-big-for-their-britches-after-all/" >🔗</a> **[NASA]** Webb Finds Early Galaxies Weren’t Too Big for Their Britches After All
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-unique-ultraviolet-view-of-a-spectacular-star-cluster/" >🔗</a> **[NASA]** Hubble Captures Unique Ultraviolet View of a Spectacular Star Cluster
 - <a href="https://spacenews.com/firefly-aerospaces-lunar-lander-begins-pre-launch-environmental-tests/" >🔗</a> **[SpaceNews]** Firefly Aerospace’s lunar lander begins pre-launch environmental tests
 - <a href="https://spacenews.com/space-weather-prioritization-not-policy-missing-piece-us-resilience/" >🔗</a> **[SpaceNews]** Space weather: prioritization, not policy, is the missing piece in U.S. resilience
-- <a href="https://www.esa.int/About_Us/ESA_Publications/This_is_ESA" >🔗</a> **[ESA]** This is ESA: your perfect introduction to what Europe does in space
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-25-august-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 25-August 31, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T150111">2024-08-26 15:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T153253">2024-08-26 15:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
