@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/solar-panels-for-nasas-roman-space-telescope-pass-key-tests/" >🔗</a> **[NASA]** Solar Panels for NASA’s Roman Space Telescope Pass Key Tests
+- <a href="https://spacenews.com/reorbit-completes-pdr-phase-for-ukko-mission/" >🔗</a> **[SpaceNews]** ReOrbit Completes PDR Phase for UKKO Mission
+- <a href="https://science.nasa.gov/missions/webb/webb-finds-early-galaxies-werent-too-big-for-their-britches-after-all/" >🔗</a> **[NASA]** Webb Finds Early Galaxies Weren’t Too Big for Their Britches After All
+- <a href="https://www.esa.int/Space_Safety/Watching_Salsa_s_reentry_live_from_the_sky" >🔗</a> **[ESA]** Watching Salsa’s reentry live from the sky
+- <a href="https://europeanspaceflight.com/rfa-release-footage-of-failed-rfa-one-static-fire-test/" >🔗</a> **[European Spaceflight]** RFA Release Footage of Failed RFA ONE Static Fire Test
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-unique-ultraviolet-view-of-a-spectacular-star-cluster/" >🔗</a> **[NASA]** Hubble Captures Unique Ultraviolet View of a Spectacular Star Cluster
 - <a href="https://spacenews.com/firefly-aerospaces-lunar-lander-begins-pre-launch-environmental-tests/" >🔗</a> **[SpaceNews]** Firefly Aerospace’s lunar lander begins pre-launch environmental tests
 - <a href="https://spacenews.com/space-weather-prioritization-not-policy-missing-piece-us-resilience/" >🔗</a> **[SpaceNews]** Space weather: prioritization, not policy, is the missing piece in U.S. resilience
 - <a href="https://www.esa.int/About_Us/ESA_Publications/This_is_ESA" >🔗</a> **[ESA]** This is ESA: your perfect introduction to what Europe does in space
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-25-august-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 25-August 31, 2024
-- <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire test of its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
-- <a href="https://spaceflightnow.com/2024/08/24/nasa-rules-out-bringing-astronauts-home-on-boeings-starliner/" >🔗</a> **[Spaceflight Now]** NASA rules out bringing astronauts home on Boeing’s Starliner
-- <a href="https://arstechnica.com/space/2024/08/its-official-nasa-calls-on-crew-dragon-to-rescue-the-starliner-astronauts/" >🔗</a> **[Arstechnica]** NASA not comfortable with Starliner thrusters, so crew will fly home on Dragon
-- <a href="https://spacepolicyonline.com/news/nasa-starliner-will-return-empty-still-confident-in-boeing/" >🔗</a> **[SpacePolicyOnline.com]** NASA: Starliner Will Return Empty, Still Confident in Boeing
-- <a href="https://www.spacescout.info/2024/08/starliner-astronauts-to-return-aboard-crew-9/" >🔗</a> **[Space Scout]** Starliner Astronauts to Return Aboard Crew-9
-- <a href="https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/" >🔗</a> **[SpaceNews]** Starliner to return from ISS without astronauts on board
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T140120">2024-08-26 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T143227">2024-08-26 14:32:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
