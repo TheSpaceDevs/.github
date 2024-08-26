@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-aerospaces-lunar-lander-begins-pre-launch-environmental-tests/" >🔗</a> **[SpaceNews]** Firefly Aerospace’s lunar lander begins pre-launch environmental tests
+- <a href="https://spacenews.com/space-weather-prioritization-not-policy-missing-piece-us-resilience/" >🔗</a> **[SpaceNews]** Space weather: prioritization, not policy, is the missing piece in U.S. resilience
 - <a href="https://www.esa.int/About_Us/ESA_Publications/This_is_ESA" >🔗</a> **[ESA]** This is ESA: your perfect introduction to what Europe does in space
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-25-august-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 25-August 31, 2024
 - <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire test of its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-starliner-will-return-empty-still-confident-in-boeing/" >🔗</a> **[SpacePolicyOnline.com]** NASA: Starliner Will Return Empty, Still Confident in Boeing
 - <a href="https://www.spacescout.info/2024/08/starliner-astronauts-to-return-aboard-crew-9/" >🔗</a> **[Space Scout]** Starliner Astronauts to Return Aboard Crew-9
 - <a href="https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/" >🔗</a> **[SpaceNews]** Starliner to return from ISS without astronauts on board
-- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/our-alien-earth-episode3-bts/" >🔗</a> **[NASA]** The Making of Our Alien Earth: The Undersea Volcanoes of Santorini, Greece
-- <a href="https://www.nasaspaceflight.com/2024/08/cft-update/" >🔗</a> **[NASASpaceflight]** Boeing Starliner returning without crew – Butch and Suni to fly SpaceX
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T130436">2024-08-26 13:04:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240826T133245">2024-08-26 13:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
