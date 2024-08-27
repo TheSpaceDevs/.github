@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Juice_s_lunar-Earth_flyby_the_movie" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: the movie
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_in_the_Vega_launch_tower" >🔗</a> **[ESA]** Sentinel-2C in the Vega launch tower
+- <a href="https://www.nasa.gov/history/40-years-ago-president-reagan-announces-teacher-in-space-project/" >🔗</a> **[NASA]** 40 Years Ago: President Reagan Announces Teacher in Space Project
 - <a href="https://spacenews.com/hungary-for-space-4ig-seeks-vertically-integrated-capabilities/" >🔗</a> **[SpaceNews]** Hungary for space: 4iG seeks vertically integrated capabilities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/wizards-behind-the-curtain-johnsons-administrative-team-makes-missions-possible/" >🔗</a> **[NASA]** Wizards Behind the Curtain: Johnson’s Administrative Team Makes Missions Possible
 - <a href="https://science.nasa.gov/missions/hubble/hubble-pinpoints-a-dim-starry-mini-galaxy/" >🔗</a> **[NASA]** Hubble Pinpoints a Dim, Starry Mini-galaxy
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Webb_peeks_into_Perseus" >🔗</a> **[ESA]** Webb peeks into Perseus
 - <a href="https://spacenews.com/fire-fed-by-leaking-engines-destroyed-abl-space-systems-rocket/" >🔗</a> **[SpaceNews]** Fire, fed by leaking engines, destroyed ABL Space Systems rocket
 - <a href="https://spacepolicyonline.com/news/farewell-slim/" >🔗</a> **[SpacePolicyOnline.com]** Farewell SLIM
-- <a href="https://spacenews.com/military-commercial-space-divide-persists-despite-policy-push-experts-say/" >🔗</a> **[SpaceNews]** Military-commercial space divide persists despite policy push, experts say
-- <a href="https://www.nasa.gov/general/detail-opportunity-nasa-office-of-the-general-counsel/" >🔗</a> **[NASA]** DETAIL OPPORTUNITY: NASA OFFICE OF THE GENERAL COUNSEL
-- <a href="https://www.nasa.gov/technology/robotics/nasa-seeks-input-for-astrobee-free-flying-space-robots/" >🔗</a> **[NASA]** NASA Seeks Input for Astrobee Free-flying Space Robots
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T150112">2024-08-27 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T153138">2024-08-27 15:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
