@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/farewell-slim/" >🔗</a> **[SpacePolicyOnline.com]** Farewell SLIM
 - <a href="https://spacenews.com/military-commercial-space-divide-persists-despite-policy-push-experts-say/" >🔗</a> **[SpaceNews]** Military-commercial space divide persists despite policy push, experts say
 - <a href="https://www.nasa.gov/general/detail-opportunity-nasa-office-of-the-general-counsel/" >🔗</a> **[NASA]** DETAIL OPPORTUNITY: NASA OFFICE OF THE GENERAL COUNSEL
 - <a href="https://www.nasa.gov/technology/robotics/nasa-seeks-input-for-astrobee-free-flying-space-robots/" >🔗</a> **[NASA]** NASA Seeks Input for Astrobee Free-flying Space Robots
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/la-nasa-decide-traer-de-vuelta-la-nave-starliner-a-la-tierra-sin-tripulacion/" >🔗</a> **[NASA]** La NASA decide traer de vuelta la nave Starliner a la Tierra sin tripulación
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-23-2024/" >🔗</a> **[NASA]** Station Science Top News: August 23, 2024
 - <a href="https://www.nasa.gov/image-article/dr-irene-duhart-long/" >🔗</a> **[NASA]** Dr. Irene Duhart Long
-- <a href="https://spacenews.com/webinar-space-the-next-frontier-of-strategic-competition/" >🔗</a> **[SpaceNews]** Webinar Replay – Space: The Next Frontier of Strategic Competition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T024106">2024-08-27 02:41:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T030111">2024-08-27 03:01:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
