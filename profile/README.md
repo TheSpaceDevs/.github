@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/independent-review-confirms-bad-valve-doomed-astrobotics-peregrine-1-mission/" >🔗</a> **[SpacePolicyOnline.com]** Independent Review Confirms Bad Valve Doomed Astrobotic’s Peregrine-1 Mission
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn headlines this week’s launches; SpaceX to fly five Falcon 9s
+- <a href="https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/" >🔗</a> **[Arstechnica]** NASA has to be trolling with the latest cost estimate of its SLS launch tower
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-boeing-optimizing-vehicle-assembly-building-high-bay-for-future-sls-stage-production/" >🔗</a> **[NASA]** NASA, Boeing Optimizing Vehicle Assembly Building High Bay for Future SLS Stage Production
 - <a href="https://spacenews.com/valve-problem-blamed-for-peregrine-lunar-lander-failure/" >🔗</a> **[SpaceNews]** Valve problem blamed for Peregrine lunar lander failure
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-gets-set-of-super-size-solar-arrays/" >🔗</a> **[NASA]** NASA’s Europa Clipper Gets Set of Super-Size Solar Arrays
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_in_the_Vega_launch_tower" >🔗</a> **[ESA]** Sentinel-2C in the Vega launch tower
 - <a href="https://www.nasa.gov/history/40-years-ago-president-reagan-announces-teacher-in-space-project/" >🔗</a> **[NASA]** 40 Years Ago: President Reagan Announces Teacher in Space Project
 - <a href="https://spacenews.com/hungary-for-space-4ig-seeks-vertically-integrated-capabilities/" >🔗</a> **[SpaceNews]** Hungary for space: 4iG seeks vertically integrated capabilities
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/wizards-behind-the-curtain-johnsons-administrative-team-makes-missions-possible/" >🔗</a> **[NASA]** Wizards Behind the Curtain: Johnson’s Administrative Team Makes Missions Possible
-- <a href="https://science.nasa.gov/missions/hubble/hubble-pinpoints-a-dim-starry-mini-galaxy/" >🔗</a> **[NASA]** Hubble Pinpoints a Dim, Starry Mini-galaxy
-- <a href="https://europeanspaceflight.com/d-orbits-magnificent-monica-space-tug-begins-payload-deployment/" >🔗</a> **[European Spaceflight]** D-Orbit’s Magnificent Monica Space Tug Begins Payload Deployment
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T203124">2024-08-27 20:31:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T210113">2024-08-27 21:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
