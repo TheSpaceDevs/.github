@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-boeing-optimizing-vehicle-assembly-building-high-bay-for-future-sls-stage-production/" >🔗</a> **[NASA]** NASA, Boeing Optimizing Vehicle Assembly Building High Bay for Future SLS Stage Production
+- <a href="https://spacenews.com/valve-problem-blamed-for-peregrine-lunar-lander-failure/" >🔗</a> **[SpaceNews]** Valve problem blamed for Peregrine lunar lander failure
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-gets-set-of-super-size-solar-arrays/" >🔗</a> **[NASA]** NASA’s Europa Clipper Gets Set of Super-Size Solar Arrays
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Juice_s_lunar-Earth_flyby_the_movie" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: the movie
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_in_the_Vega_launch_tower" >🔗</a> **[ESA]** Sentinel-2C in the Vega launch tower
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/wizards-behind-the-curtain-johnsons-administrative-team-makes-missions-possible/" >🔗</a> **[NASA]** Wizards Behind the Curtain: Johnson’s Administrative Team Makes Missions Possible
 - <a href="https://science.nasa.gov/missions/hubble/hubble-pinpoints-a-dim-starry-mini-galaxy/" >🔗</a> **[NASA]** Hubble Pinpoints a Dim, Starry Mini-galaxy
 - <a href="https://europeanspaceflight.com/d-orbits-magnificent-monica-space-tug-begins-payload-deployment/" >🔗</a> **[European Spaceflight]** D-Orbit’s Magnificent Monica Space Tug Begins Payload Deployment
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Webb_peeks_into_Perseus" >🔗</a> **[ESA]** Webb peeks into Perseus
-- <a href="https://spacenews.com/fire-fed-by-leaking-engines-destroyed-abl-space-systems-rocket/" >🔗</a> **[SpaceNews]** Fire, fed by leaking engines, destroyed ABL Space Systems rocket
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T173110">2024-08-27 17:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T180154">2024-08-27 18:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
