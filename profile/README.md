@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Webb_peeks_into_Perseus" >🔗</a> **[ESA]** Webb peeks into Perseus
 - <a href="https://spacenews.com/fire-fed-by-leaking-engines-destroyed-abl-space-systems-rocket/" >🔗</a> **[SpaceNews]** Fire, fed by leaking engines, destroyed ABL Space Systems rocket
 - <a href="https://spacepolicyonline.com/news/farewell-slim/" >🔗</a> **[SpacePolicyOnline.com]** Farewell SLIM
 - <a href="https://spacenews.com/military-commercial-space-divide-persists-despite-policy-push-experts-say/" >🔗</a> **[SpaceNews]** Military-commercial space divide persists despite policy push, experts say
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-military-space-domain-awareness-lags-behind-expectations/" >🔗</a> **[SpaceNews]** U.S. military space domain awareness lags behind expectations
 - <a href="https://www.nasaspaceflight.com/2024/08/polaris-dawn/" >🔗</a> **[NASASpaceflight]** SpaceX ready to launch historic Polaris Dawn mission
 - <a href="https://www.nasa.gov/news-release/la-nasa-decide-traer-de-vuelta-la-nave-starliner-a-la-tierra-sin-tripulacion/" >🔗</a> **[NASA]** La NASA decide traer de vuelta la nave Starliner a la Tierra sin tripulación
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-23-2024/" >🔗</a> **[NASA]** Station Science Top News: August 23, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T073102">2024-08-27 07:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T080122">2024-08-27 08:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
