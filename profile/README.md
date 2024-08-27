@@ -20,35 +20,35 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Polaris Dawn**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 9-5**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T073800">2024-08-27 07:38:00 UTC</a>.  Until
-then, this pad will have been used for 184
-out of 242 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T060400">2024-08-28 06:04:00 UTC</a>.  Until
+then, this pad will have been used for 155
+out of 767 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  First mission of the privately funded Polaris program. The goal of this mission, lasting up to five days in orbit, is to fly higher than previous Dragon missions, perform the first-ever commercial EVA with SpaceX-designed spacesuits, orbit through portions of the Van Allen radiation belt, conduct medical research, and test laser-based Starlink communications in space.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T073800">2024-08-27 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240827T073800Z%2F20240827T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T060400">2024-08-28 06:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240828T060400Z%2F20240828T100400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T055000">2024-08-28 05:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-6&location=Cape Canaveral, FL, USA&dates=20240828T055000Z%2F20240828T095000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-6** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T073800">2024-08-28 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240828T073800Z%2F20240828T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T051000">2024-08-29 05:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240829T051000Z%2F20240829T053500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T130000">2024-08-29 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-26&location=Corn Ranch, Van Horn, TX, USA&dates=20240829T130000Z%2F20240829T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-26** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T025100">2024-08-30 02:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-113&location=Vandenberg SFB, CA, USA&dates=20240830T025100Z%2F20240830T072100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-113** from Vandenberg SFB, CA, USA.
@@ -105,21 +105,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire test of its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
-- <a href="https://arstechnica.com/space/2024/08/rocket-report-a-ula-sale-tidbit-polaris-dawn-mission-is-on-deck/" >🔗</a> **[Arstechnica]** Rocket Report: A ULA sale tidbit; Polaris Dawn mission is on deck
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
-- <a href="https://spaceflightnow.com/2024/08/20/polaris-dawn-astronauts-set-to-perform-first-commercial-spacewalk-arrive-in-florida-ahead-of-launch/" >🔗</a> **[Spaceflight Now]** Polaris Dawn astronauts, set to perform first commercial spacewalk, arrive in Florida ahead of launch
-- <a href="https://spacepolicyonline.com/news/polaris-dawn-readies-for-first-commercial-spacewalk/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Readies for First Commercial Spacewalk
-- <a href="https://spacenews.com/polaris-dawn-private-astronaut-mission-ready-for-launch/" >🔗</a> **[SpaceNews]** Polaris Dawn private astronaut mission ready for launch
-- <a href="https://www.cnbc.com/2024/08/17/first-spacex-spacewalk-polaris-dawn-mission-launch-date-details.html" >🔗</a> **[CNBC]** The first SpaceX spacewalk: What the Polaris Dawn commander says about the bold upcoming mission
-- <a href="https://tlpnetwork.com/news/america/polaris-dawn-now-net-july-31st-for-launch" >🔗</a> **[The Launch Pad]** Polaris Dawn Now Targeting NET July 31st For Launch
-- <a href="https://www.teslarati.com/spacex-reveals-first-extravehicular-activity-eva-suits-polaris-dawn/" >🔗</a> **[Teslarati]** SpaceX reveals its first Extravehicular Activity Suits (EVA) for Polaris Dawn mission
-- <a href="https://arstechnica.com/space/2024/05/private-astronauts-to-fly-highest-mission-since-apollo-make-groundbreaking-eva/" >🔗</a> **[Arstechnica]** Here’s why a rich guy going to space for a second time actually matters
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T000342">2024-08-27 00:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T004511">2024-08-27 00:45:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
