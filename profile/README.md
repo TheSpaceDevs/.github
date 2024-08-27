@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/experts-warn-u-s-falling-behind-in-satellite-imaging-race-weve-gone-backwards/" >🔗</a> **[SpaceNews]** Experts warn U.S. falling behind in satellite imaging race: ‘We’ve gone backwards’
 - <a href="https://science.nasa.gov/blog/perseverance-kicks-off-the-crater-rim-campaign/" >🔗</a> **[NASA]** Perseverance Kicks off the Crater Rim Campaign!
 - <a href="https://spacepolicyonline.com/news/independent-review-confirms-bad-valve-doomed-astrobotics-peregrine-1-mission/" >🔗</a> **[SpacePolicyOnline.com]** Independent Review Confirms Bad Valve Doomed Astrobotic’s Peregrine-1 Mission
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn headlines this week’s launches; SpaceX to fly five Falcon 9s
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-gets-set-of-super-size-solar-arrays/" >🔗</a> **[NASA]** NASA’s Europa Clipper Gets Set of Super-Size Solar Arrays
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Juice_s_lunar-Earth_flyby_the_movie" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: the movie
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_in_the_Vega_launch_tower" >🔗</a> **[ESA]** Sentinel-2C in the Vega launch tower
-- <a href="https://www.nasa.gov/history/40-years-ago-president-reagan-announces-teacher-in-space-project/" >🔗</a> **[NASA]** 40 Years Ago: President Reagan Announces Teacher in Space Project
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T230120">2024-08-27 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240827T233102">2024-08-27 23:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
