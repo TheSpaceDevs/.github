@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-booster-lost-in-rare-unsuccessful-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost in rare unsuccessful landing
 - <a href="https://europeanspaceflight.com/kkr-receives-regulatory-approval-for-ohb-minority-stake-purchase/" >🔗</a> **[European Spaceflight]** KKR Receives Regulatory Approval for OHB Minority Stake Purchase
 - <a href="https://science.nasa.gov/blog/sols-4287-4288-back-on-the-road/" >🔗</a> **[NASA]** Sols 4287-4288: Back on the Road
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-slips-again-for-a-different-kind-of-weather-problem/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Slips Again For a Different Kind of Weather Problem
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/perseverance-kicks-off-the-crater-rim-campaign/" >🔗</a> **[NASA]** Perseverance Kicks off the Crater Rim Campaign!
 - <a href="https://spacepolicyonline.com/news/independent-review-confirms-bad-valve-doomed-astrobotics-peregrine-1-mission/" >🔗</a> **[SpacePolicyOnline.com]** Independent Review Confirms Bad Valve Doomed Astrobotic’s Peregrine-1 Mission
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn headlines this week’s launches; SpaceX to fly five Falcon 9s
-- <a href="https://arstechnica.com/space/2024/08/nasas-second-large-launch-tower-has-gotten-stupidly-expensive/" >🔗</a> **[Arstechnica]** NASA has to be trolling with the latest cost estimate of its SLS launch tower
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T110103">2024-08-28 11:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T113101">2024-08-28 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
