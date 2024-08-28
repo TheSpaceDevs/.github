@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/28/faa-grounds-spacexs-falcon-9-rocket-following-landing-mishap/" >🔗</a> **[Spaceflight Now]** FAA grounds SpaceX’s Falcon 9 rocket following landing mishap
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-28-2024/" >🔗</a> **[NASA]** The Marshall Star for August 28, 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-expands-human-exploration-rover-challenge-to-middle-schools/" >🔗</a> **[NASA]** NASA Expands Human Exploration Rover Challenge to Middle Schools
 - <a href="https://www.nasa.gov/image-article/a-safer-way/" >🔗</a> **[NASA]** A SAFER Way
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-jonny-kim-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Jonny Kim to First Space Station Mission
 - <a href="https://www.nasa.gov/general/nasa-project-in-puerto-rico-trains-students-in-marine-biology/" >🔗</a> **[NASA]** NASA Project in Puerto Rico Trains Students in Marine Biology
 - <a href="https://www.nasa.gov/general/nasa-pilot-program-continues-to-award-small-business-innovators/" >🔗</a> **[NASA]** NASA Pilot Program Continues to Award Small Business Innovators
-- <a href="https://spacenews.com/nasas-inspector-general-predicts-continued-cost-growth-for-sls-mobile-launch-platform/" >🔗</a> **[SpaceNews]** NASA’s inspector general predicts continued cost growth for SLS mobile launch platform
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T213114">2024-08-28 21:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T220115">2024-08-28 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
