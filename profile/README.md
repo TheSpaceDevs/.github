@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-28-2024/" >🔗</a> **[NASA]** The Marshall Star for August 28, 2024
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-expands-human-exploration-rover-challenge-to-middle-schools/" >🔗</a> **[NASA]** NASA Expands Human Exploration Rover Challenge to Middle Schools
 - <a href="https://www.nasa.gov/image-article/a-safer-way/" >🔗</a> **[NASA]** A SAFER Way
 - <a href="https://www.nasa.gov/directorates/stmd/first-nasa-supported-researcher-to-fly-on-suborbital-rocket/" >🔗</a> **[NASA]** First NASA-Supported Researcher to Fly on Suborbital Rocket
 - <a href="https://spacenews.com/successful-airlock-test-lockheed-martin-invests-inflatable-space-structures/" >🔗</a> **[SpaceNews]** With successful airlock test, Lockheed Martin invests in inflatable space structures
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/nasa-project-in-puerto-rico-trains-students-in-marine-biology/" >🔗</a> **[NASA]** NASA Project in Puerto Rico Trains Students in Marine Biology
 - <a href="https://www.nasa.gov/general/nasa-pilot-program-continues-to-award-small-business-innovators/" >🔗</a> **[NASA]** NASA Pilot Program Continues to Award Small Business Innovators
 - <a href="https://spacenews.com/nasas-inspector-general-predicts-continued-cost-growth-for-sls-mobile-launch-platform/" >🔗</a> **[SpaceNews]** NASA’s inspector general predicts continued cost growth for SLS mobile launch platform
-- <a href="https://www.nasa.gov/news-release/nasa-spacex-extend-us-media-deadline-for-crew-9-launch-to-station/" >🔗</a> **[NASA]** NASA, SpaceX Extend US Media Deadline for Crew-9 Launch to Station
-- <a href="https://www.nasa.gov/history/15-years-ago-sts-128-delivers-cargo-to-enable-six-person-space-station-crew/" >🔗</a> **[NASA]** 15 Years Ago: STS-128 Delivers Cargo to Enable Six-Person Space Station Crew
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T203106">2024-08-28 20:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T210113">2024-08-28 21:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
