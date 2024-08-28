@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-ig-issues-another-harsh-report-on-nasa-management-of-mobile-launcher-2/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Issues Another Harsh Report On NASA Management of Mobile Launcher-2
 - <a href="https://spacenews.com/experts-warn-u-s-falling-behind-in-satellite-imaging-race-weve-gone-backwards/" >🔗</a> **[SpaceNews]** Experts warn U.S. falling behind in satellite imaging race: ‘We’ve gone backwards’
 - <a href="https://science.nasa.gov/blog/perseverance-kicks-off-the-crater-rim-campaign/" >🔗</a> **[NASA]** Perseverance Kicks off the Crater Rim Campaign!
 - <a href="https://spacepolicyonline.com/news/independent-review-confirms-bad-valve-doomed-astrobotics-peregrine-1-mission/" >🔗</a> **[SpacePolicyOnline.com]** Independent Review Confirms Bad Valve Doomed Astrobotic’s Peregrine-1 Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/valve-problem-blamed-for-peregrine-lunar-lander-failure/" >🔗</a> **[SpaceNews]** Valve problem blamed for Peregrine lunar lander failure
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-gets-set-of-super-size-solar-arrays/" >🔗</a> **[NASA]** NASA’s Europa Clipper Gets Set of Super-Size Solar Arrays
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Juice_s_lunar-Earth_flyby_the_movie" >🔗</a> **[ESA]** Juice’s lunar-Earth flyby: the movie
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_in_the_Vega_launch_tower" >🔗</a> **[ESA]** Sentinel-2C in the Vega launch tower
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T004515">2024-08-28 00:45:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T012752">2024-08-28 01:27:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
