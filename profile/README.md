@@ -47,8 +47,8 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T051000">2024-08-29 05:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20240829T051000Z%2F20240829T053500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T054100">2024-08-29 05:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240829T054100Z%2F20240829T101200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T130000">2024-08-29 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-26&location=Corn Ranch, Van Horn, TX, USA&dates=20240829T130000Z%2F20240829T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-26** from Corn Ranch, Van Horn, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T051800">2024-08-30 05:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240830T051800Z%2F20240830T094900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T073800">2024-08-30 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240830T073800Z%2F20240830T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T053900">2024-08-31 05:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-10&location=Cape Canaveral, FL, USA&dates=20240831T053900Z%2F20240831T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-10** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T015600">2024-09-03 01:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-113&location=Vandenberg SFB, CA, USA&dates=20240903T015600Z%2F20240903T062600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-113** from Vandenberg SFB, CA, USA.
@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-extend-us-media-deadline-for-crew-9-launch-to-station/" >🔗</a> **[NASA]** NASA, SpaceX Extend US Media Deadline for Crew-9 Launch to Station
+- <a href="https://www.nasa.gov/history/15-years-ago-sts-128-delivers-cargo-to-enable-six-person-space-station-crew/" >🔗</a> **[NASA]** 15 Years Ago: STS-128 Delivers Cargo to Enable Six-Person Space Station Crew
+- <a href="https://www.nasa.gov/missions/neo-surveyor/work-is-under-way-on-nasas-next-generation-asteroid-hunter/" >🔗</a> **[NASA]** Work Is Under Way on NASA’s Next-Generation Asteroid Hunter
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/" >🔗</a> **[NASA]** NASA Discovers a Long-Sought Global Electric Field on Earth
 - <a href="https://www.nasa.gov/earth/new-nasa-study-tallies-carbon-emissions-from-massive-canadian-fires/" >🔗</a> **[NASA]** New NASA Study Tallies Carbon Emissions From Massive Canadian Fires
 - <a href="https://science.nasa.gov/learning-resources/science-activation/eclipse-soundscapes-audiomoth-donations-will-study-nature-at-night/" >🔗</a> **[NASA]** Eclipse Soundscapes AudioMoth Donations Will Study Nature at Night
 - <a href="https://science.nasa.gov/missions/hubble/hubble-traces-star-formation-in-a-nearby-nebula/" >🔗</a> **[NASA]** Hubble Traces Star Formation in a Nearby Nebula
 - <a href="https://arstechnica.com/space/2024/08/for-the-first-time-in-more-than-three-years-spacex-misses-a-booster-landing/" >🔗</a> **[Arstechnica]** For the first time in more than three years, SpaceX misses a booster landing
 - <a href="https://spacenews.com/us-leaders-warned-focus-gps-pnt-protect-nation/" >🔗</a> **[SpaceNews]** US leaders have been warned to focus on GPS and PNT to protect the nation
 - <a href="https://spacenews.com/falcon-9-booster-lost-in-rare-unsuccessful-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost in rare unsuccessful landing
-- <a href="https://europeanspaceflight.com/kkr-receives-regulatory-approval-for-ohb-minority-stake-purchase/" >🔗</a> **[European Spaceflight]** KKR Receives Regulatory Approval for OHB Minority Stake Purchase
-- <a href="https://science.nasa.gov/blog/sols-4287-4288-back-on-the-road/" >🔗</a> **[NASA]** Sols 4287-4288: Back on the Road
-- <a href="https://spacepolicyonline.com/news/polaris-dawn-slips-again-for-a-different-kind-of-weather-problem/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Slips Again For a Different Kind of Weather Problem
-- <a href="https://spaceflightnow.com/2024/08/28/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 booster collapses in a fireball on the droneship, ending a streak of 267 successful landings
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T160120">2024-08-28 16:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T163501">2024-08-28 16:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
