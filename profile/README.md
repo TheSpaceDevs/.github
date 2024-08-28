@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/successful-airlock-test-lockheed-martin-invests-inflatable-space-structures/" >🔗</a> **[SpaceNews]** With successful airlock test, Lockheed Martin invests in inflatable space structures
+- <a href="https://www.teslarati.com/faa-may-just-pushed-back-spacex-polaris-dawn-mission-falcon-9-mishap/" >🔗</a> **[Teslarati]** FAA may have just pushed back SpaceX Polaris Dawn mission after Falcon 9 mishap
 - <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-jonny-kim-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Jonny Kim to First Space Station Mission
 - <a href="https://www.nasa.gov/general/nasa-project-in-puerto-rico-trains-students-in-marine-biology/" >🔗</a> **[NASA]** NASA Project in Puerto Rico Trains Students in Marine Biology
 - <a href="https://www.nasa.gov/general/nasa-pilot-program-continues-to-award-small-business-innovators/" >🔗</a> **[NASA]** NASA Pilot Program Continues to Award Small Business Innovators
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-128-delivers-cargo-to-enable-six-person-space-station-crew/" >🔗</a> **[NASA]** 15 Years Ago: STS-128 Delivers Cargo to Enable Six-Person Space Station Crew
 - <a href="https://www.nasa.gov/missions/neo-surveyor/work-is-under-way-on-nasas-next-generation-asteroid-hunter/" >🔗</a> **[NASA]** Work Is Under Way on NASA’s Next-Generation Asteroid Hunter
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/" >🔗</a> **[NASA]** NASA Discovers a Long-Sought Global Electric Field on Earth
-- <a href="https://www.nasa.gov/earth/new-nasa-study-tallies-carbon-emissions-from-massive-canadian-fires/" >🔗</a> **[NASA]** New NASA Study Tallies Carbon Emissions From Massive Canadian Fires
-- <a href="https://science.nasa.gov/learning-resources/science-activation/eclipse-soundscapes-audiomoth-donations-will-study-nature-at-night/" >🔗</a> **[NASA]** Eclipse Soundscapes AudioMoth Donations Will Study Nature at Night
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T173208">2024-08-28 17:32:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T183425">2024-08-28 18:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
