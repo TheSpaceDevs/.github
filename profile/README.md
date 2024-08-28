@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-jonny-kim-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Jonny Kim to First Space Station Mission
+- <a href="https://www.nasa.gov/general/nasa-project-in-puerto-rico-trains-students-in-marine-biology/" >🔗</a> **[NASA]** NASA Project in Puerto Rico Trains Students in Marine Biology
+- <a href="https://www.nasa.gov/general/nasa-pilot-program-continues-to-award-small-business-innovators/" >🔗</a> **[NASA]** NASA Pilot Program Continues to Award Small Business Innovators
+- <a href="https://spacenews.com/nasas-inspector-general-predicts-continued-cost-growth-for-sls-mobile-launch-platform/" >🔗</a> **[SpaceNews]** NASA’s inspector general predicts continued cost growth for SLS mobile launch platform
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-extend-us-media-deadline-for-crew-9-launch-to-station/" >🔗</a> **[NASA]** NASA, SpaceX Extend US Media Deadline for Crew-9 Launch to Station
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-128-delivers-cargo-to-enable-six-person-space-station-crew/" >🔗</a> **[NASA]** 15 Years Ago: STS-128 Delivers Cargo to Enable Six-Person Space Station Crew
 - <a href="https://www.nasa.gov/missions/neo-surveyor/work-is-under-way-on-nasas-next-generation-asteroid-hunter/" >🔗</a> **[NASA]** Work Is Under Way on NASA’s Next-Generation Asteroid Hunter
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-discovers-long-sought-global-electric-field-on-earth/" >🔗</a> **[NASA]** NASA Discovers a Long-Sought Global Electric Field on Earth
 - <a href="https://www.nasa.gov/earth/new-nasa-study-tallies-carbon-emissions-from-massive-canadian-fires/" >🔗</a> **[NASA]** New NASA Study Tallies Carbon Emissions From Massive Canadian Fires
 - <a href="https://science.nasa.gov/learning-resources/science-activation/eclipse-soundscapes-audiomoth-donations-will-study-nature-at-night/" >🔗</a> **[NASA]** Eclipse Soundscapes AudioMoth Donations Will Study Nature at Night
-- <a href="https://science.nasa.gov/missions/hubble/hubble-traces-star-formation-in-a-nearby-nebula/" >🔗</a> **[NASA]** Hubble Traces Star Formation in a Nearby Nebula
-- <a href="https://arstechnica.com/space/2024/08/for-the-first-time-in-more-than-three-years-spacex-misses-a-booster-landing/" >🔗</a> **[Arstechnica]** For the first time in more than three years, SpaceX misses a booster landing
-- <a href="https://spacenews.com/us-leaders-warned-focus-gps-pnt-protect-nation/" >🔗</a> **[SpaceNews]** US leaders have been warned to focus on GPS and PNT to protect the nation
-- <a href="https://spacenews.com/falcon-9-booster-lost-in-rare-unsuccessful-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost in rare unsuccessful landing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T170123">2024-08-28 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T173208">2024-08-28 17:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
