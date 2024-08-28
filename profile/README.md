@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/08/for-the-first-time-in-more-than-three-years-spacex-misses-a-booster-landing/" >🔗</a> **[Arstechnica]** For the first time in more than three years, SpaceX misses a booster landing
+- <a href="https://spacenews.com/us-leaders-warned-focus-gps-pnt-protect-nation/" >🔗</a> **[SpaceNews]** US leaders have been warned to focus on GPS and PNT to protect the nation
 - <a href="https://spacenews.com/falcon-9-booster-lost-in-rare-unsuccessful-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost in rare unsuccessful landing
 - <a href="https://europeanspaceflight.com/kkr-receives-regulatory-approval-for-ohb-minority-stake-purchase/" >🔗</a> **[European Spaceflight]** KKR Receives Regulatory Approval for OHB Minority Stake Purchase
 - <a href="https://science.nasa.gov/blog/sols-4287-4288-back-on-the-road/" >🔗</a> **[NASA]** Sols 4287-4288: Back on the Road
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/nasa-ig-issues-another-harsh-report-on-nasa-management-of-mobile-launcher-2/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Issues Another Harsh Report On NASA Management of Mobile Launcher-2
 - <a href="https://spacenews.com/experts-warn-u-s-falling-behind-in-satellite-imaging-race-weve-gone-backwards/" >🔗</a> **[SpaceNews]** Experts warn U.S. falling behind in satellite imaging race: ‘We’ve gone backwards’
 - <a href="https://science.nasa.gov/blog/perseverance-kicks-off-the-crater-rim-campaign/" >🔗</a> **[NASA]** Perseverance Kicks off the Crater Rim Campaign!
-- <a href="https://spacepolicyonline.com/news/independent-review-confirms-bad-valve-doomed-astrobotics-peregrine-1-mission/" >🔗</a> **[SpacePolicyOnline.com]** Independent Review Confirms Bad Valve Doomed Astrobotic’s Peregrine-1 Mission
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn headlines this week’s launches; SpaceX to fly five Falcon 9s
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T130424">2024-08-28 13:04:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T133149">2024-08-28 13:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
