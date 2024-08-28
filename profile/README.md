@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-traces-star-formation-in-a-nearby-nebula/" >🔗</a> **[NASA]** Hubble Traces Star Formation in a Nearby Nebula
 - <a href="https://arstechnica.com/space/2024/08/for-the-first-time-in-more-than-three-years-spacex-misses-a-booster-landing/" >🔗</a> **[Arstechnica]** For the first time in more than three years, SpaceX misses a booster landing
 - <a href="https://spacenews.com/us-leaders-warned-focus-gps-pnt-protect-nation/" >🔗</a> **[SpaceNews]** US leaders have been warned to focus on GPS and PNT to protect the nation
 - <a href="https://spacenews.com/falcon-9-booster-lost-in-rare-unsuccessful-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost in rare unsuccessful landing
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/08/28/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX Falcon 9 booster collapses in a fireball on the droneship, ending a streak of 267 successful landings
 - <a href="https://spacepolicyonline.com/news/nasa-ig-issues-another-harsh-report-on-nasa-management-of-mobile-launcher-2/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Issues Another Harsh Report On NASA Management of Mobile Launcher-2
 - <a href="https://spacenews.com/experts-warn-u-s-falling-behind-in-satellite-imaging-race-weve-gone-backwards/" >🔗</a> **[SpaceNews]** Experts warn U.S. falling behind in satellite imaging race: ‘We’ve gone backwards’
-- <a href="https://science.nasa.gov/blog/perseverance-kicks-off-the-crater-rim-campaign/" >🔗</a> **[NASA]** Perseverance Kicks off the Crater Rim Campaign!
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T140121">2024-08-28 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240828T143230">2024-08-28 14:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
