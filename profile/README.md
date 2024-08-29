@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-25-years-of-high-school-aerospace-scholars/" >🔗</a> **[NASA]** NASA Celebrates 25 Years of High School Aerospace Scholars
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/" >🔗</a> **[NASA]** NASA G-IV Plane Will Carry Next-Generation Science Instrument
 - <a href="https://www.nasa.gov/image-article/saharan-dust-in-the-wind/" >🔗</a> **[NASA]** Saharan Dust in the Wind
 - <a href="https://spacenews.com/firefly-aerospace-names-space-industry-veteran-jason-kim-as-new-ceo/" >🔗</a> **[SpaceNews]** Firefly Aerospace names space industry veteran Jason Kim as new CEO
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianespace-ceo-declines-to-comment-on-how-avio-replaced-vega-propellants-tanks/" >🔗</a> **[European Spaceflight]** Arianespace CEO Declines to Comment on How Avio Replaced Vega Propellants Tanks
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-to-investigate-galactic-fossils/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope to Investigate Galactic Fossils
 - <a href="https://www.nasa.gov/learning-resources/bring-nasa-into-your-classroom/" >🔗</a> **[NASA]** Bring NASA Into Your Classroom This Fall Through Virtual Experiences
-- <a href="https://spacenews.com/shikha-ganguly-l3harris-technologies-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shikha Ganguly, L3Harris Technologies – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T193100">2024-08-29 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T200117">2024-08-29 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
