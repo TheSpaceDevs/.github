@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/" >🔗</a> **[NASA]** NASA G-IV Plane Will Carry Next-Generation Science Instrument
+- <a href="https://www.nasa.gov/image-article/saharan-dust-in-the-wind/" >🔗</a> **[NASA]** Saharan Dust in the Wind
+- <a href="https://spacenews.com/firefly-aerospace-names-space-industry-veteran-jason-kim-as-new-ceo/" >🔗</a> **[SpaceNews]** Firefly Aerospace names space industry veteran Jason Kim as new CEO
+- <a href="https://spacenews.com/blue-origin-flies-nasa-funded-scientist-and-space-tourists-on-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin flies NASA-funded scientist and space tourists on New Shepard suborbital flight
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/aaron-vigil-helps-give-sass-to-roman-space-telescope/" >🔗</a> **[NASA]** Aaron Vigil Helps Give SASS to Roman Space Telescope
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/" >🔗</a> **[NASA]** NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice
 - <a href="https://europeanspaceflight.com/arianespace-ceo-declines-to-comment-on-how-avio-replaced-vega-propellants-tanks/" >🔗</a> **[European Spaceflight]** Arianespace CEO Declines to Comment on How Avio Replaced Vega Propellants Tanks
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-to-investigate-galactic-fossils/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope to Investigate Galactic Fossils
 - <a href="https://www.nasa.gov/learning-resources/bring-nasa-into-your-classroom/" >🔗</a> **[NASA]** Bring NASA Into Your Classroom This Fall Through Virtual Experiences
 - <a href="https://spacenews.com/shikha-ganguly-l3harris-technologies-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shikha Ganguly, L3Harris Technologies – Leading Women in Space
-- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-an-oddly-organized-satellite/" >🔗</a> **[NASA]** Hubble Observes An Oddly Organized Satellite
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-2C pre-launch media briefing
-- <a href="https://spacenews.com/galactic-energy-launches-six-satellites-with-third-sea-launch/" >🔗</a> **[SpaceNews]** Galactic Energy launches six satellites with third sea launch
-- <a href="https://europeanspaceflight.com/heriot-watt-begins-work-on-2-5m-quantum-comms-ground-station/" >🔗</a> **[European Spaceflight]** Heriot-Watt Begins Work on £2.5M Quantum Comms Ground Station
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T180113">2024-08-29 18:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T183454">2024-08-29 18:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
