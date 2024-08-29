@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-pauses-falcon-9-launches-to-investigate-failed-booster-landing/" >🔗</a> **[SpaceNews]** FAA pauses Falcon 9 launches to investigate failed booster landing
 - <a href="https://spacenews.com/guetlein-outlines-u-s-space-force-vision-for-allied-by-design-space-systems/" >🔗</a> **[SpaceNews]** Guetlein outlines U.S. Space Force vision for ‘allied by design’ space systems
 - <a href="https://spaceflightnow.com/2024/08/28/faa-grounds-spacexs-falcon-9-rocket-following-landing-mishap/" >🔗</a> **[Spaceflight Now]** FAA grounds SpaceX’s Falcon 9 rocket following landing mishap
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-28-2024/" >🔗</a> **[NASA]** The Marshall Star for August 28, 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/successful-airlock-test-lockheed-martin-invests-inflatable-space-structures/" >🔗</a> **[SpaceNews]** With successful airlock test, Lockheed Martin invests in inflatable space structures
 - <a href="https://www.teslarati.com/faa-may-just-pushed-back-spacex-polaris-dawn-mission-falcon-9-mishap/" >🔗</a> **[Teslarati]** FAA may have just pushed back SpaceX Polaris Dawn mission after Falcon 9 mishap
 - <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-jonny-kim-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Jonny Kim to First Space Station Mission
-- <a href="https://www.nasa.gov/general/nasa-project-in-puerto-rico-trains-students-in-marine-biology/" >🔗</a> **[NASA]** NASA Project in Puerto Rico Trains Students in Marine Biology
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T024230">2024-08-29 02:42:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T030122">2024-08-29 03:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
