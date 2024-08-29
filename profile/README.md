@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/nlsp/" >🔗</a> **[NASA]** NASA Life Sciences Portal (NLSP)
+- <a href="https://spacenews.com/verizon-to-bring-satellite-connectivity-to-android-phones-this-fall/" >🔗</a> **[SpaceNews]** Verizon to bring satellite connectivity to Android phones this fall
+- <a href="https://www.nasa.gov/history/235-years-ago-herschel-discovers-saturns-moon-enceladus/" >🔗</a> **[NASA]** 235 Years Ago: Herschel Discovers Saturn’s Moon Enceladus
 - <a href="https://www.nasa.gov/news-release/nasa-awards-intuitive-machines-lunar-south-pole-research-delivery/" >🔗</a> **[NASA]** NASA Awards Intuitive Machines Lunar South Pole Research Delivery
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-leaders-tour-ames-campus-meet-with-employees/" >🔗</a> **[NASA]** NASA Leaders Tour Ames Campus, Meet with Employees
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-25-years-of-high-school-aerospace-scholars/" >🔗</a> **[NASA]** NASA Celebrates 25 Years of High School Aerospace Scholars
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/" >🔗</a> **[NASA]** NASA G-IV Plane Will Carry Next-Generation Science Instrument
 - <a href="https://www.nasa.gov/image-article/saharan-dust-in-the-wind/" >🔗</a> **[NASA]** Saharan Dust in the Wind
-- <a href="https://spacenews.com/firefly-aerospace-names-space-industry-veteran-jason-kim-as-new-ceo/" >🔗</a> **[SpaceNews]** Firefly Aerospace names space industry veteran Jason Kim as new CEO
+- <a href="https://spacenews.com/firefly-aerospace-names-space-industry-veteran-jason-kim-as-new-ceo/" >🔗</a> **[SpaceNews]** Firefly names space industry veteran Jason Kim as new CEO
 - <a href="https://spacenews.com/blue-origin-flies-nasa-funded-scientist-and-space-tourists-on-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin flies NASA-funded scientist and space tourists on New Shepard suborbital flight
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/aaron-vigil-helps-give-sass-to-roman-space-telescope/" >🔗</a> **[NASA]** Aaron Vigil Helps Give SASS to Roman Space Telescope
-- <a href="https://www.nasa.gov/earth/climate-change/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/" >🔗</a> **[NASA]** NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice
-- <a href="https://europeanspaceflight.com/arianespace-ceo-declines-to-comment-on-how-avio-replaced-vega-propellants-tanks/" >🔗</a> **[European Spaceflight]** Arianespace CEO Declines to Comment on How Avio Replaced Vega Propellants Tanks
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T213058">2024-08-29 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T220118">2024-08-29 22:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
