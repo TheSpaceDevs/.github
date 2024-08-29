@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-intuitive-machines-lunar-south-pole-research-delivery/" >🔗</a> **[NASA]** NASA Awards Intuitive Machines Lunar South Pole Research Delivery
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-leaders-tour-ames-campus-meet-with-employees/" >🔗</a> **[NASA]** NASA Leaders Tour Ames Campus, Meet with Employees
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-25-years-of-high-school-aerospace-scholars/" >🔗</a> **[NASA]** NASA Celebrates 25 Years of High School Aerospace Scholars
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/" >🔗</a> **[NASA]** NASA G-IV Plane Will Carry Next-Generation Science Instrument
 - <a href="https://www.nasa.gov/image-article/saharan-dust-in-the-wind/" >🔗</a> **[NASA]** Saharan Dust in the Wind
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/aaron-vigil-helps-give-sass-to-roman-space-telescope/" >🔗</a> **[NASA]** Aaron Vigil Helps Give SASS to Roman Space Telescope
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/" >🔗</a> **[NASA]** NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice
 - <a href="https://europeanspaceflight.com/arianespace-ceo-declines-to-comment-on-how-avio-replaced-vega-propellants-tanks/" >🔗</a> **[European Spaceflight]** Arianespace CEO Declines to Comment on How Avio Replaced Vega Propellants Tanks
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-to-investigate-galactic-fossils/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope to Investigate Galactic Fossils
-- <a href="https://www.nasa.gov/learning-resources/bring-nasa-into-your-classroom/" >🔗</a> **[NASA]** Bring NASA Into Your Classroom This Fall Through Virtual Experiences
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T203105">2024-08-29 20:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T210109">2024-08-29 21:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
