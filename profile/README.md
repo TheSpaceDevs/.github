@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/aaron-vigil-helps-give-sass-to-roman-space-telescope/" >🔗</a> **[NASA]** Aaron Vigil Helps Give SASS to Roman Space Telescope
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/" >🔗</a> **[NASA]** NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice
 - <a href="https://europeanspaceflight.com/arianespace-ceo-declines-to-comment-on-how-avio-replaced-vega-propellants-tanks/" >🔗</a> **[European Spaceflight]** Arianespace CEO Declines to Comment on How Avio Replaced Vega Propellants Tanks
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-to-investigate-galactic-fossils/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope to Investigate Galactic Fossils
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-2C pre-launch media briefing
 - <a href="https://spacenews.com/galactic-energy-launches-six-satellites-with-third-sea-launch/" >🔗</a> **[SpaceNews]** Galactic Energy launches six satellites with third sea launch
 - <a href="https://europeanspaceflight.com/heriot-watt-begins-work-on-2-5m-quantum-comms-ground-station/" >🔗</a> **[European Spaceflight]** Heriot-Watt Begins Work on £2.5M Quantum Comms Ground Station
-- <a href="https://science.nasa.gov/blog/sols-4289-4290-from-discovery-pinnacle-to-kings-canyon-and-back-again/" >🔗</a> **[NASA]** Sols 4289-4290: From Discovery Pinnacle to Kings Canyon and Back Again
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T170137">2024-08-29 17:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T173124">2024-08-29 17:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
