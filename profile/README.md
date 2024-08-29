@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-2C pre-launch media briefing
+- <a href="https://spacenews.com/galactic-energy-launches-six-satellites-with-third-sea-launch/" >🔗</a> **[SpaceNews]** Galactic Energy launches six satellites with third sea launch
 - <a href="https://europeanspaceflight.com/heriot-watt-begins-work-on-2-5m-quantum-comms-ground-station/" >🔗</a> **[European Spaceflight]** Heriot-Watt Begins Work on £2.5M Quantum Comms Ground Station
 - <a href="https://science.nasa.gov/blog/sols-4289-4290-from-discovery-pinnacle-to-kings-canyon-and-back-again/" >🔗</a> **[NASA]** Sols 4289-4290: From Discovery Pinnacle to Kings Canyon and Back Again
 - <a href="https://spacepolicyonline.com/news/faa-suspends-falcon-9-launches-to-investigate-landing-failure/" >🔗</a> **[SpacePolicyOnline.com]** FAA Suspends Falcon 9 Launches To Investigate Landing Failure
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2024/08/28/faa-grounds-spacexs-falcon-9-rocket-following-landing-mishap/" >🔗</a> **[Spaceflight Now]** FAA grounds SpaceX’s Falcon 9 rocket following landing mishap
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-28-2024/" >🔗</a> **[NASA]** The Marshall Star for August 28, 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-expands-human-exploration-rover-challenge-to-middle-schools/" >🔗</a> **[NASA]** NASA Expands Human Exploration Rover Challenge to Middle Schools
-- <a href="https://www.nasa.gov/image-article/a-safer-way/" >🔗</a> **[NASA]** A SAFER Way
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T110111">2024-08-29 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T113111">2024-08-29 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
