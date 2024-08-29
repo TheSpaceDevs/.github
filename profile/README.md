@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-26**. It is scheduled to be launched by *Blue Origin*
+**Falcon 9 Block 5 | Starlink Group 9-5**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T130000">2024-08-29 13:00:00 UTC</a>.  Until
-then, this pad will have been used for 25
-out of 25 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Suborbital* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T051800">2024-08-30 05:18:00 UTC</a>.  Until
+then, this pad will have been used for 155
+out of 767 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Twenty-sixth flight of New Shepard carrying six passengers.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T040000">2024-09-11 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar 8&location=Tanegashima Space Center, Japan&dates=20240911T040000Z%2F20240911T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar 8** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162200">2024-09-11 16:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-26&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240911T162200Z%2F20240911T162200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-26** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T000000">2024-09-13 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galileo L13 (FOC FM26 &amp; FM28)&location=Cape Canaveral, FL, USA&dates=20240913T000000Z%2F20240913T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galileo L13 (FOC FM26 & FM28)** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T000000">2024-09-16 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC2S | Certification Flight 2&location=Cape Canaveral, FL, USA&dates=20240916T000000Z%2F20240916T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC2S | Certification Flight 2** from Cape Canaveral, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/bring-nasa-into-your-classroom/" >🔗</a> **[NASA]** Bring NASA Into Your Classroom This Fall Through Virtual Experiences
+- <a href="https://spacenews.com/shikha-ganguly-l3harris-technologies-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shikha Ganguly, L3Harris Technologies – Leading Women in Space
+- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-an-oddly-organized-satellite/" >🔗</a> **[NASA]** Hubble Observes An Oddly Organized Satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-2C pre-launch media briefing
 - <a href="https://spacenews.com/galactic-energy-launches-six-satellites-with-third-sea-launch/" >🔗</a> **[SpaceNews]** Galactic Energy launches six satellites with third sea launch
 - <a href="https://europeanspaceflight.com/heriot-watt-begins-work-on-2-5m-quantum-comms-ground-station/" >🔗</a> **[European Spaceflight]** Heriot-Watt Begins Work on £2.5M Quantum Comms Ground Station
@@ -97,23 +101,17 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/faa-suspends-falcon-9-launches-to-investigate-landing-failure/" >🔗</a> **[SpacePolicyOnline.com]** FAA Suspends Falcon 9 Launches To Investigate Landing Failure
 - <a href="https://spacenews.com/faa-pauses-falcon-9-launches-to-investigate-failed-booster-landing/" >🔗</a> **[SpaceNews]** FAA pauses Falcon 9 launches to investigate failed booster landing
 - <a href="https://spacenews.com/guetlein-outlines-u-s-space-force-vision-for-allied-by-design-space-systems/" >🔗</a> **[SpaceNews]** Guetlein outlines U.S. Space Force vision for ‘allied by design’ space systems
-- <a href="https://spaceflightnow.com/2024/08/28/faa-grounds-spacexs-falcon-9-rocket-following-landing-mishap/" >🔗</a> **[Spaceflight Now]** FAA grounds SpaceX’s Falcon 9 rocket following landing mishap
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-august-28-2024/" >🔗</a> **[NASA]** The Marshall Star for August 28, 2024
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-expands-human-exploration-rover-challenge-to-middle-schools/" >🔗</a> **[NASA]** NASA Expands Human Exploration Rover Challenge to Middle Schools
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasa.gov/directorates/stmd/first-nasa-supported-researcher-to-fly-on-suborbital-rocket/" >🔗</a> **[NASA]** First NASA-Supported Researcher to Fly on Suborbital Rocket
-- <a href="https://www.teslarati.com/faa-may-just-pushed-back-spacex-polaris-dawn-mission-falcon-9-mishap/" >🔗</a> **[Teslarati]** FAA may have just pushed back SpaceX Polaris Dawn mission after Falcon 9 mishap
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn headlines this week’s launches; SpaceX to fly five Falcon 9s
-- <a href="https://spacenews.com/blue-origin-sets-date-for-next-new-shepard-flight-after-completing-parachute-investigation/" >🔗</a> **[SpaceNews]** Blue Origin sets date for next New Shepard flight after completing parachute investigation
-- <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-new-shepard-26th-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for New Shepard’s 26th Mission
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T130426">2024-08-29 13:04:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T133235">2024-08-29 13:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
