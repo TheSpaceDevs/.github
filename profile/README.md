@@ -47,8 +47,8 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T051800">2024-08-30 05:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-5&location=Vandenberg SFB, CA, USA&dates=20240830T051800Z%2F20240830T094900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-5** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T073800">2024-08-30 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240830T073800Z%2F20240830T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T053900">2024-08-31 05:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-10&location=Cape Canaveral, FL, USA&dates=20240831T053900Z%2F20240831T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-10** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T073800">2024-08-31 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240831T073800Z%2F20240831T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T015600">2024-09-03 01:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-113&location=Vandenberg SFB, CA, USA&dates=20240903T015600Z%2F20240903T062600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-113** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T015027">2024-09-04 01:50:27 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | Sentinel-2C&location=Guiana Space Centre, French Guiana&dates=20240904T015027Z%2F20240904T015027Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | Sentinel-2C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T125900">2024-09-04 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-11&location=Cape Canaveral, FL, USA&dates=20240904T125900Z%2F20240904T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-11** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-to-investigate-galactic-fossils/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope to Investigate Galactic Fossils
 - <a href="https://www.nasa.gov/learning-resources/bring-nasa-into-your-classroom/" >🔗</a> **[NASA]** Bring NASA Into Your Classroom This Fall Through Virtual Experiences
 - <a href="https://spacenews.com/shikha-ganguly-l3harris-technologies-leading-women-in-space/" >🔗</a> **[SpaceNews]** Shikha Ganguly, L3Harris Technologies – Leading Women in Space
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observes-an-oddly-organized-satellite/" >🔗</a> **[NASA]** Hubble Observes An Oddly Organized Satellite
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4289-4290-from-discovery-pinnacle-to-kings-canyon-and-back-again/" >🔗</a> **[NASA]** Sols 4289-4290: From Discovery Pinnacle to Kings Canyon and Back Again
 - <a href="https://spacepolicyonline.com/news/faa-suspends-falcon-9-launches-to-investigate-landing-failure/" >🔗</a> **[SpacePolicyOnline.com]** FAA Suspends Falcon 9 Launches To Investigate Landing Failure
 - <a href="https://spacenews.com/faa-pauses-falcon-9-launches-to-investigate-failed-booster-landing/" >🔗</a> **[SpaceNews]** FAA pauses Falcon 9 launches to investigate failed booster landing
-- <a href="https://spacenews.com/guetlein-outlines-u-s-space-force-vision-for-allied-by-design-space-systems/" >🔗</a> **[SpaceNews]** Guetlein outlines U.S. Space Force vision for ‘allied by design’ space systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T140121">2024-08-29 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240829T143341">2024-08-29 14:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
