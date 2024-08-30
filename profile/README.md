@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_August_2024" >🔗</a> **[ESA]** Week in images: 26-30 August 2024
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Cluster_s_Salsa_satellite_primed_to_reenter_and_break_up" >🔗</a> **[ESA]** Cluster’s Salsa satellite primed to reenter and break up
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/25-years-strong-nasas-student-launch-competition-accepting-2025-proposals/" >🔗</a> **[NASA]** 25 Years Strong: NASA’s Student Launch Competition Accepting 2025 Proposals
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-2C: ready for liftoff
 - <a href="https://www.esa.int/About_Us/ESA_Publications/One_ESA_brochure" >🔗</a> **[ESA]** Discover where space begins: the guide to ESA’s establishments
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-return-from-iss-set-for-sept-6/" >🔗</a> **[SpaceNews]** Starliner return from ISS set for Sept. 6
 - <a href="https://spacepolicyonline.com/news/boeing-starliner-crew-flight-test-will-end-september-6/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Starliner Crew Flight Test Will End September 6
 - <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-south-pole-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for south pole lunar lander mission
-- <a href="https://spacenews.com/raytheon-wins-51-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Raytheon wins $51.7 million contract for military satcom antennas
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/nlsp/" >🔗</a> **[NASA]** NASA Life Sciences Portal (NLSP)
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T130420">2024-08-30 13:04:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T133238">2024-08-30 13:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
