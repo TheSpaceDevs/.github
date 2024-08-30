@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_August_2024" >🔗</a> **[ESA]** Week in images: 26-30 August 2024
+- <a href="https://www.spacescout.info/2024/08/iss-crews-face-upcoming-shakeups-amid-curtailed-seat-exchanges/" >🔗</a> **[Space Scout]** ISS Crews Face Upcoming Shakeups amid Curtailed Seat Exchanges
+- <a href="https://www.nasa.gov/image-article/t-38-flyover-of-artemis-i-on-launch-pad/" >🔗</a> **[NASA]** T-38 Flyover of Artemis I on Launch Pad
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-changes-ahead-of-september-launch/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Changes Ahead of September Launch
 - <a href="https://europeanspaceflight.com/intuitive-machines-to-carry-esa-prospect-payload-to-lunar-surface/" >🔗</a> **[European Spaceflight]** Intuitive Machines to Carry ESA Prospect Payload to Lunar Surface
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Cluster_s_Salsa_satellite_primed_to_reenter_and_break_up" >🔗</a> **[ESA]** Cluster’s Salsa satellite primed to reenter and break up
 - <a href="https://science.nasa.gov/missions/hubble/hubble-zooms-into-the-rosy-tendrils-of-andromeda/" >🔗</a> **[NASA]** Hubble Zooms into the Rosy Tendrils of Andromeda
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/25-years-strong-nasas-student-launch-competition-accepting-2025-proposals/" >🔗</a> **[NASA]** 25 Years Strong: NASA’s Student Launch Competition Accepting 2025 Proposals
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-2C: ready for liftoff
 - <a href="https://www.esa.int/About_Us/ESA_Publications/One_ESA_brochure" >🔗</a> **[ESA]** Discover where space begins: the guide to ESA’s establishments
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_drill_and_mini_lab_secure_ride_to_the_Moon" >🔗</a> **[ESA]** European drill and mini lab secure ride to the Moon
-- <a href="https://spacenews.com/chinese-researchers-assess-u-s-space-situational-awareness-call-for-boost-in-chinas-capabilities/" >🔗</a> **[SpaceNews]** Chinese researchers assess U.S. space situational awareness, call for boost in China’s capabilities
-- <a href="https://spacenews.com/starliner-return-from-iss-set-for-sept-6/" >🔗</a> **[SpaceNews]** Starliner return from ISS set for Sept. 6
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T150121">2024-08-30 15:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T153122">2024-08-30 15:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
