@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/boeing-starliner-crew-flight-test-will-end-september-6/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Starliner Crew Flight Test Will End September 6
 - <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-south-pole-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for south pole lunar lander mission
 - <a href="https://spacenews.com/raytheon-wins-51-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Raytheon wins $51.7 million contract for military satcom antennas
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/nlsp/" >🔗</a> **[NASA]** NASA Life Sciences Portal (NLSP)
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-leaders-tour-ames-campus-meet-with-employees/" >🔗</a> **[NASA]** NASA Leaders Tour Ames Campus, Meet with Employees
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-25-years-of-high-school-aerospace-scholars/" >🔗</a> **[NASA]** NASA Celebrates 25 Years of High School Aerospace Scholars
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/" >🔗</a> **[NASA]** NASA G-IV Plane Will Carry Next-Generation Science Instrument
-- <a href="https://www.nasa.gov/image-article/saharan-dust-in-the-wind/" >🔗</a> **[NASA]** Saharan Dust in the Wind
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T004513">2024-08-30 00:45:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T012800">2024-08-30 01:28:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
