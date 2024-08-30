@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/30/nasa-bumps-two-astronauts-from-spacex-flight-to-make-room-for-starliner-crew/" >🔗</a> **[Spaceflight Now]** NASA bumps two astronauts from SpaceX flight to make room for Starliner crew
+- <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
+- <a href="https://spacenews.com/hague-and-gorbunov-to-fly-crew-9-mission-to-iss/" >🔗</a> **[SpaceNews]** Hague and Gorbunov to fly Crew-9 mission to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-starliner-news-conference-return-to-earth/" >🔗</a> **[NASA]** NASA Sets Coverage for Starliner News Conference, Return to Earth
 - <a href="https://science.nasa.gov/learning-resources/science-activation/co-creating-authentic-stem-learning-experiences-with-latino-communities/" >🔗</a> **[NASA]** Co-creating authentic STEM learning experiences with Latino communities
 - <a href="https://science.nasa.gov/blog/behind-the-scenes-at-the-2024-mars-2020-science-team-meeting/" >🔗</a> **[NASA]** Behind the Scenes at the 2024 Mars 2020 Science Team Meeting
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_August_2024" >🔗</a> **[ESA]** Week in images: 26-30 August 2024
 - <a href="https://www.spacescout.info/2024/08/iss-crews-face-upcoming-shakeups-amid-curtailed-seat-exchanges/" >🔗</a> **[Space Scout]** ISS Crews Face Upcoming Shakeups amid Curtailed Seat Exchanges
 - <a href="https://www.nasa.gov/image-article/t-38-flyover-of-artemis-i-on-launch-pad/" >🔗</a> **[NASA]** T-38 Flyover of Artemis I on Launch Pad
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-changes-ahead-of-september-launch/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Changes Ahead of September Launch
-- <a href="https://europeanspaceflight.com/intuitive-machines-to-carry-esa-prospect-payload-to-lunar-surface/" >🔗</a> **[European Spaceflight]** Intuitive Machines to Carry ESA Prospect Payload to Lunar Surface
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Cluster_s_Salsa_satellite_primed_to_reenter_and_break_up" >🔗</a> **[ESA]** Cluster’s Salsa satellite primed to reenter and break up
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T190112">2024-08-30 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T193106">2024-08-30 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
