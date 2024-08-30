@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
 - <a href="https://spacenews.com/general-dynamics-secures-491-million-contract-extension-from-space-development-agency/" >🔗</a> **[SpaceNews]** General Dynamics secures $491 million contract extension from Space Development Agency
 - <a href="https://spacenews.com/abl-space-systems-lays-off-staff/" >🔗</a> **[SpaceNews]** ABL Space Systems lays off staff
 - <a href="https://spacenews.com/real-estate-investor-moves-to-ease-space-coast-strain/" >🔗</a> **[SpaceNews]** Real estate investor moves to ease Space Coast strain
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/hague-and-gorbunov-to-fly-crew-9-mission-to-iss/" >🔗</a> **[SpaceNews]** Hague and Gorbunov to fly Crew-9 mission to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-starliner-news-conference-return-to-earth/" >🔗</a> **[NASA]** NASA Sets Coverage for Starliner News Conference, Return to Earth
 - <a href="https://science.nasa.gov/learning-resources/science-activation/co-creating-authentic-stem-learning-experiences-with-latino-communities/" >🔗</a> **[NASA]** Co-creating authentic STEM learning experiences with Latino communities
-- <a href="https://science.nasa.gov/blog/behind-the-scenes-at-the-2024-mars-2020-science-team-meeting/" >🔗</a> **[NASA]** Behind the Scenes at the 2024 Mars 2020 Science Team Meeting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T230210">2024-08-30 23:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T233057">2024-08-30 23:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
