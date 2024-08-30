@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/general-dynamics-secures-491-million-contract-extension-from-space-development-agency/" >🔗</a> **[SpaceNews]** General Dynamics secures $491 million contract extension from Space Development Agency
+- <a href="https://spacenews.com/abl-space-systems-lays-off-staff/" >🔗</a> **[SpaceNews]** ABL Space Systems lays off staff
+- <a href="https://spacenews.com/real-estate-investor-moves-to-ease-space-coast-strain/" >🔗</a> **[SpaceNews]** Real estate investor moves to ease Space Coast strain
 - <a href="https://spacenews.com/space-startup-thinkorbital-taps-retired-general-john-shaw-as-advisor/" >🔗</a> **[SpaceNews]** Space startup ThinkOrbital taps retired general John Shaw as advisor
 - <a href="https://spaceflightnow.com/2024/08/30/nasa-bumps-two-astronauts-from-spacex-flight-to-make-room-for-starliner-crew/" >🔗</a> **[Spaceflight Now]** NASA bumps two astronauts from SpaceX flight to make room for Starliner crew
 - <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-starliner-news-conference-return-to-earth/" >🔗</a> **[NASA]** NASA Sets Coverage for Starliner News Conference, Return to Earth
 - <a href="https://science.nasa.gov/learning-resources/science-activation/co-creating-authentic-stem-learning-experiences-with-latino-communities/" >🔗</a> **[NASA]** Co-creating authentic STEM learning experiences with Latino communities
 - <a href="https://science.nasa.gov/blog/behind-the-scenes-at-the-2024-mars-2020-science-team-meeting/" >🔗</a> **[NASA]** Behind the Scenes at the 2024 Mars 2020 Science Team Meeting
-- <a href="https://science.nasa.gov/science-research/nasa-esa-missions-help-scientists-uncover-how-solar-wind-gets-energy/" >🔗</a> **[NASA]** NASA, ESA Missions Help Scientists Uncover How Solar Wind Gets Energy
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_August_2024" >🔗</a> **[ESA]** Week in images: 26-30 August 2024
-- <a href="https://www.spacescout.info/2024/08/iss-crews-face-upcoming-shakeups-amid-curtailed-seat-exchanges/" >🔗</a> **[Space Scout]** ISS Crews Face Upcoming Shakeups amid Curtailed Seat Exchanges
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T220126">2024-08-30 22:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T223247">2024-08-30 22:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
