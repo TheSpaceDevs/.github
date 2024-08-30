@@ -105,13 +105,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn headlines this week’s launches; SpaceX booster fails on landing
+- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn on hold; SpaceX booster fails on landing
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T213106">2024-08-30 21:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T220126">2024-08-30 22:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
