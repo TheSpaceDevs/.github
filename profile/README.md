@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/One_ESA_brochure" >🔗</a> **[ESA]** Discover where space begins: the guide to ESA’s establishments
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_drill_and_mini_lab_secure_ride_to_the_Moon" >🔗</a> **[ESA]** European drill and mini lab secure ride to the Moon
+- <a href="https://spacenews.com/chinese-researchers-assess-u-s-space-situational-awareness-call-for-boost-in-chinas-capabilities/" >🔗</a> **[SpaceNews]** Chinese researchers assess U.S. space situational awareness, call for boost in China’s capabilities
 - <a href="https://spacenews.com/starliner-return-from-iss-set-for-sept-6/" >🔗</a> **[SpaceNews]** Starliner return from ISS set for Sept. 6
 - <a href="https://spacepolicyonline.com/news/boeing-starliner-crew-flight-test-will-end-september-6/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Starliner Crew Flight Test Will End September 6
 - <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-south-pole-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for south pole lunar lander mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/nlsp/" >🔗</a> **[NASA]** NASA Life Sciences Portal (NLSP)
 - <a href="https://spacenews.com/verizon-to-bring-satellite-connectivity-to-android-phones-this-fall/" >🔗</a> **[SpaceNews]** Verizon to bring satellite connectivity to Android phones this fall
 - <a href="https://www.nasa.gov/history/235-years-ago-herschel-discovers-saturns-moon-enceladus/" >🔗</a> **[NASA]** 235 Years Ago: Herschel Discovers Saturn’s Moon Enceladus
-- <a href="https://www.nasa.gov/news-release/nasa-awards-intuitive-machines-lunar-south-pole-research-delivery/" >🔗</a> **[NASA]** NASA Awards Intuitive Machines Lunar South Pole Research Delivery
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-leaders-tour-ames-campus-meet-with-employees/" >🔗</a> **[NASA]** NASA Leaders Tour Ames Campus, Meet with Employees
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T073114">2024-08-30 07:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T080121">2024-08-30 08:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
