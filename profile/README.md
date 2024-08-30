@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/25-years-strong-nasas-student-launch-competition-accepting-2025-proposals/" >🔗</a> **[NASA]** 25 Years Strong: NASA’s Student Launch Competition Accepting 2025 Proposals
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-2C: ready for liftoff
 - <a href="https://www.esa.int/About_Us/ESA_Publications/One_ESA_brochure" >🔗</a> **[ESA]** Discover where space begins: the guide to ESA’s establishments
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_drill_and_mini_lab_secure_ride_to_the_Moon" >🔗</a> **[ESA]** European drill and mini lab secure ride to the Moon
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-south-pole-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for south pole lunar lander mission
 - <a href="https://spacenews.com/raytheon-wins-51-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Raytheon wins $51.7 million contract for military satcom antennas
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/nlsp/" >🔗</a> **[NASA]** NASA Life Sciences Portal (NLSP)
-- <a href="https://spacenews.com/verizon-to-bring-satellite-connectivity-to-android-phones-this-fall/" >🔗</a> **[SpaceNews]** Verizon to bring satellite connectivity to Android phones this fall
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T120150">2024-08-30 12:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T124153">2024-08-30 12:41:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
