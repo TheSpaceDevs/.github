@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-startup-thinkorbital-taps-retired-general-john-shaw-as-advisor/" >🔗</a> **[SpaceNews]** Space startup ThinkOrbital taps retired general John Shaw as advisor
 - <a href="https://spaceflightnow.com/2024/08/30/nasa-bumps-two-astronauts-from-spacex-flight-to-make-room-for-starliner-crew/" >🔗</a> **[Spaceflight Now]** NASA bumps two astronauts from SpaceX flight to make room for Starliner crew
 - <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
 - <a href="https://spacenews.com/hague-and-gorbunov-to-fly-crew-9-mission-to-iss/" >🔗</a> **[SpaceNews]** Hague and Gorbunov to fly Crew-9 mission to ISS
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/nasa-esa-missions-help-scientists-uncover-how-solar-wind-gets-energy/" >🔗</a> **[NASA]** NASA, ESA Missions Help Scientists Uncover How Solar Wind Gets Energy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_August_2024" >🔗</a> **[ESA]** Week in images: 26-30 August 2024
 - <a href="https://www.spacescout.info/2024/08/iss-crews-face-upcoming-shakeups-amid-curtailed-seat-exchanges/" >🔗</a> **[Space Scout]** ISS Crews Face Upcoming Shakeups amid Curtailed Seat Exchanges
-- <a href="https://www.nasa.gov/image-article/t-38-flyover-of-artemis-i-on-launch-pad/" >🔗</a> **[NASA]** T-38 Flyover of Artemis I on Launch Pad
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T210123">2024-08-30 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T213106">2024-08-30 21:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
