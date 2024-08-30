@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-return-from-iss-set-for-sept-6/" >🔗</a> **[SpaceNews]** Starliner return from ISS set for Sept. 6
 - <a href="https://spacepolicyonline.com/news/boeing-starliner-crew-flight-test-will-end-september-6/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Starliner Crew Flight Test Will End September 6
 - <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-south-pole-lunar-lander-mission/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for south pole lunar lander mission
 - <a href="https://spacenews.com/raytheon-wins-51-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Raytheon wins $51.7 million contract for military satcom antennas
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-intuitive-machines-lunar-south-pole-research-delivery/" >🔗</a> **[NASA]** NASA Awards Intuitive Machines Lunar South Pole Research Delivery
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-leaders-tour-ames-campus-meet-with-employees/" >🔗</a> **[NASA]** NASA Leaders Tour Ames Campus, Meet with Employees
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-25-years-of-high-school-aerospace-scholars/" >🔗</a> **[NASA]** NASA Celebrates 25 Years of High School Aerospace Scholars
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/" >🔗</a> **[NASA]** NASA G-IV Plane Will Carry Next-Generation Science Instrument
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T030108">2024-08-30 03:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T033241">2024-08-30 03:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
