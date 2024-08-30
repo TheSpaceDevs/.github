@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-starliner-news-conference-return-to-earth/" >🔗</a> **[NASA]** NASA Sets Coverage for Starliner News Conference, Return to Earth
+- <a href="https://science.nasa.gov/learning-resources/science-activation/co-creating-authentic-stem-learning-experiences-with-latino-communities/" >🔗</a> **[NASA]** Co-creating authentic STEM learning experiences with Latino communities
 - <a href="https://science.nasa.gov/blog/behind-the-scenes-at-the-2024-mars-2020-science-team-meeting/" >🔗</a> **[NASA]** Behind the Scenes at the 2024 Mars 2020 Science Team Meeting
 - <a href="https://science.nasa.gov/science-research/nasa-esa-missions-help-scientists-uncover-how-solar-wind-gets-energy/" >🔗</a> **[NASA]** NASA, ESA Missions Help Scientists Uncover How Solar Wind Gets Energy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_August_2024" >🔗</a> **[ESA]** Week in images: 26-30 August 2024
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-changes-ahead-of-september-launch/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Changes Ahead of September Launch
 - <a href="https://europeanspaceflight.com/intuitive-machines-to-carry-esa-prospect-payload-to-lunar-surface/" >🔗</a> **[European Spaceflight]** Intuitive Machines to Carry ESA Prospect Payload to Lunar Surface
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Cluster_s_Salsa_satellite_primed_to_reenter_and_break_up" >🔗</a> **[ESA]** Cluster’s Salsa satellite primed to reenter and break up
-- <a href="https://science.nasa.gov/missions/hubble/hubble-zooms-into-the-rosy-tendrils-of-andromeda/" >🔗</a> **[NASA]** Hubble Zooms into the Rosy Tendrils of Andromeda
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/25-years-strong-nasas-student-launch-competition-accepting-2025-proposals/" >🔗</a> **[NASA]** 25 Years Strong: NASA’s Student Launch Competition Accepting 2025 Proposals
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T180123">2024-08-30 18:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T183502">2024-08-30 18:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
