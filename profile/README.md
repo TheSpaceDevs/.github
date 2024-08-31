@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket return to flight mission
 - <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
 - <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
 - <a href="https://spacenews.com/general-dynamics-secures-491-million-contract-extension-from-space-development-agency/" >🔗</a> **[SpaceNews]** General Dynamics secures $491 million contract extension from Space Development Agency
@@ -100,18 +101,19 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/08/30/nasa-bumps-two-astronauts-from-spacex-flight-to-make-room-for-starliner-crew/" >🔗</a> **[Spaceflight Now]** NASA bumps two astronauts from SpaceX flight to make room for Starliner crew
 - <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
 - <a href="https://spacenews.com/hague-and-gorbunov-to-fly-crew-9-mission-to-iss/" >🔗</a> **[SpaceNews]** Hague and Gorbunov to fly Crew-9 mission to ISS
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-starliner-news-conference-return-to-earth/" >🔗</a> **[NASA]** NASA Sets Coverage for Starliner News Conference, Return to Earth
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket return to flight mission
+- <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn on hold; SpaceX booster fails on landing
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn aims high, Starlink launches continue
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T030111">2024-08-31 03:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T033158">2024-08-31 03:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
