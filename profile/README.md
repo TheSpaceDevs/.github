@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
 - <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
 - <a href="https://spacenews.com/general-dynamics-secures-491-million-contract-extension-from-space-development-agency/" >🔗</a> **[SpaceNews]** General Dynamics secures $491 million contract extension from Space Development Agency
 - <a href="https://spacenews.com/abl-space-systems-lays-off-staff/" >🔗</a> **[SpaceNews]** ABL Space Systems lays off staff
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
 - <a href="https://spacenews.com/hague-and-gorbunov-to-fly-crew-9-mission-to-iss/" >🔗</a> **[SpaceNews]** Hague and Gorbunov to fly Crew-9 mission to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-starliner-news-conference-return-to-earth/" >🔗</a> **[NASA]** NASA Sets Coverage for Starliner News Conference, Return to Earth
-- <a href="https://science.nasa.gov/learning-resources/science-activation/co-creating-authentic-stem-learning-experiences-with-latino-communities/" >🔗</a> **[NASA]** Co-creating authentic STEM learning experiences with Latino communities
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240830T233057">2024-08-30 23:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T000338">2024-08-31 00:03:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
