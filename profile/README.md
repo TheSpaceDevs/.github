@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket return to flight mission
 - <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
 - <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-startup-thinkorbital-taps-retired-general-john-shaw-as-advisor/" >🔗</a> **[SpaceNews]** Space startup ThinkOrbital taps retired general John Shaw as advisor
 - <a href="https://spaceflightnow.com/2024/08/30/nasa-bumps-two-astronauts-from-spacex-flight-to-make-room-for-starliner-crew/" >🔗</a> **[Spaceflight Now]** NASA bumps two astronauts from SpaceX flight to make room for Starliner crew
 - <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
-- <a href="https://spacenews.com/hague-and-gorbunov-to-fly-crew-9-mission-to-iss/" >🔗</a> **[SpaceNews]** Hague and Gorbunov to fly Crew-9 mission to ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T070104">2024-08-31 07:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T073108">2024-08-31 07:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
