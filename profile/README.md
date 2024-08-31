@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-resumes-falcon-9-launches-after-brief-faa-grounding/" >🔗</a> **[SpaceNews]** SpaceX resumes Falcon 9 launches after brief FAA grounding
 - <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 return to flight mission
 - <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** SpaceX set a launch turnaround record with back-to-back, coast-to-coast Falcon 9 launches
 - <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/real-estate-investor-moves-to-ease-space-coast-strain/" >🔗</a> **[SpaceNews]** Real estate investor moves to ease Space Coast strain
 - <a href="https://spacenews.com/space-startup-thinkorbital-taps-retired-general-john-shaw-as-advisor/" >🔗</a> **[SpaceNews]** Space startup ThinkOrbital taps retired general John Shaw as advisor
 - <a href="https://spaceflightnow.com/2024/08/30/nasa-bumps-two-astronauts-from-spacex-flight-to-make-room-for-starliner-crew/" >🔗</a> **[Spaceflight Now]** NASA bumps two astronauts from SpaceX flight to make room for Starliner crew
-- <a href="https://arstechnica.com/space/2024/08/nasa-makes-a-very-tough-decision-in-setting-final-crew-9-assignments/" >🔗</a> **[Arstechnica]** NASA makes a very tough decision in setting final Crew-9 assignments
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T140113">2024-08-31 14:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240831T143135">2024-08-31 14:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
