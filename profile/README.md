@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 1-7, 2024
 - <a href="https://www.spacescout.info/2024/08/falcon-9-completes-second-return-to-flight-of-2024/" >🔗</a> **[Space Scout]** Falcon 9 Completes Second Return to Flight of 2024
 - <a href="https://spacenews.com/spacex-resumes-falcon-9-launches-after-brief-faa-grounding/" >🔗</a> **[SpaceNews]** SpaceX resumes Falcon 9 launches after brief FAA grounding
 - <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 return to flight mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/general-dynamics-secures-491-million-contract-extension-from-space-development-agency/" >🔗</a> **[SpaceNews]** General Dynamics secures $491 million contract extension from Space Development Agency
 - <a href="https://spacenews.com/abl-space-systems-lays-off-staff/" >🔗</a> **[SpaceNews]** ABL Space Systems lays off staff
 - <a href="https://spacenews.com/real-estate-investor-moves-to-ease-space-coast-strain/" >🔗</a> **[SpaceNews]** Real estate investor moves to ease Space Coast strain
-- <a href="https://spacenews.com/space-startup-thinkorbital-taps-retired-general-john-shaw-as-advisor/" >🔗</a> **[SpaceNews]** Space startup ThinkOrbital taps retired general John Shaw as advisor
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240901T120124">2024-09-01 12:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240901T124042">2024-09-01 12:40:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
