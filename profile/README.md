@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/09/blue-origin-to-roll-out-new-glenn-second-stage-enter-final-phase-of-launch-prep/" >🔗</a> **[Arstechnica]** The New Glenn rocket’s second stage set to roll to the launch pad on Monday
+- <a href="https://www.esa.int/About_Us/Exhibitions/Ignite_your_curiosity_for_space_at_ESA_Open_Days_2024" >🔗</a> **[ESA]** Ignite your curiosity for space at ESA Open Days 2024!
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Watch_Sentinel-2C_launch_live_on_the_final_Vega_rocket" >🔗</a> **[ESA]** Watch Sentinel-2C launch live on the final Vega rocket
 - <a href="https://www.esa.int/Space_Safety/Hera/Goodbye_Hera_asteroid_mission_departs_ESA_test_centre" >🔗</a> **[ESA]** Goodbye Hera: asteroid mission departs ESA test centre
 - <a href="https://europeanspaceflight.com/thruster-issues-delay-bepicolombos-mercury-arrival-by-11-months/" >🔗</a> **[European Spaceflight]** Thruster Issues Delay BepiColombo’s Mercury Arrival by 11 Months
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 1-7, 2024
 - <a href="https://www.spacescout.info/2024/08/falcon-9-completes-second-return-to-flight-of-2024/" >🔗</a> **[Space Scout]** Falcon 9 Completes Second Return to Flight of 2024
 - <a href="https://spacenews.com/spacex-resumes-falcon-9-launches-after-brief-faa-grounding/" >🔗</a> **[SpaceNews]** SpaceX resumes Falcon 9 launches after brief FAA grounding
-- <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 return to flight mission
-- <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** SpaceX set a launch turnaround record with back-to-back, coast-to-coast Falcon 9 launches
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240902T130445">2024-09-02 13:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240902T133236">2024-09-02 13:32:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
