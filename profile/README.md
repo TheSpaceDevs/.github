@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Fourth_Mercury_flyby_begins_BepiColombo_s_new_trajectory" >🔗</a> **[ESA]** Fourth Mercury flyby begins BepiColombo’s new trajectory
 - <a href="https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/" >🔗</a> **[Arstechnica]** The Starliner spacecraft has started to emit strange noises
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 1-7, 2024
 - <a href="https://www.spacescout.info/2024/08/falcon-9-completes-second-return-to-flight-of-2024/" >🔗</a> **[Space Scout]** Falcon 9 Completes Second Return to Flight of 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
 - <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
 - <a href="https://spacenews.com/general-dynamics-secures-491-million-contract-extension-from-space-development-agency/" >🔗</a> **[SpaceNews]** General Dynamics secures $491 million contract extension from Space Development Agency
-- <a href="https://spacenews.com/abl-space-systems-lays-off-staff/" >🔗</a> **[SpaceNews]** ABL Space Systems lays off staff
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240902T073104">2024-09-02 07:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240902T080135">2024-09-02 08:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
