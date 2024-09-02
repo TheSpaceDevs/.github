@@ -91,7 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Watch_Sentinel-2C_launch_live_on_the_final_Vega_rocket" >🔗</a> **[ESA]** Watch Sentinel-2C launch live on the final Vega rocket
 - <a href="https://www.esa.int/Space_Safety/Hera/Goodbye_Hera_asteroid_mission_departs_ESA_test_centre" >🔗</a> **[ESA]** Goodbye Hera: asteroid mission departs ESA test centre
+- <a href="https://europeanspaceflight.com/thruster-issues-delay-bepicolombos-mercury-arrival-by-11-months/" >🔗</a> **[European Spaceflight]** Thruster Issues Delay BepiColombo’s Mercury Arrival by 11 Months
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Fourth_Mercury_flyby_begins_BepiColombo_s_new_trajectory" >🔗</a> **[ESA]** Fourth Mercury flyby begins BepiColombo’s new trajectory
 - <a href="https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/" >🔗</a> **[Arstechnica]** The Starliner spacecraft has started to emit strange noises
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 1-7, 2024
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacex-resumes-falcon-9-launches-after-brief-faa-grounding/" >🔗</a> **[SpaceNews]** SpaceX resumes Falcon 9 launches after brief FAA grounding
 - <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 return to flight mission
 - <a href="https://spaceflightnow.com/2024/08/31/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** SpaceX set a launch turnaround record with back-to-back, coast-to-coast Falcon 9 launches
-- <a href="https://www.teslarati.com/spacex-falcon-9-regains-flight-approval-operations-faa/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 regains flight approval operations from FAA
-- <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240902T100115">2024-09-02 10:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240902T103433">2024-09-02 10:34:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
