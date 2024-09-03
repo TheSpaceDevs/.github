@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-delays-bepicolombo-orbital-insertion-because-of-thruster-problem/" >🔗</a> **[SpaceNews]** ESA delays BepiColombo orbital insertion because of thruster problem
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega set to be retired; Polaris Dawn set for new launch attempt
 - <a href="https://spacenews.com/ohb-secures-final-regulatory-approvals-for-kkr-deal/" >🔗</a> **[SpaceNews]** OHB secures final regulatory approvals for KKR deal
 - <a href="https://arstechnica.com/space/2024/09/blue-origin-to-roll-out-new-glenn-second-stage-enter-final-phase-of-launch-prep/" >🔗</a> **[Arstechnica]** The New Glenn rocket’s second stage set to roll to the launch pad on Monday
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/thruster-issues-delay-bepicolombos-mercury-arrival-by-11-months/" >🔗</a> **[European Spaceflight]** Thruster Issues Delay BepiColombo’s Mercury Arrival by 11 Months
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Fourth_Mercury_flyby_begins_BepiColombo_s_new_trajectory" >🔗</a> **[ESA]** Fourth Mercury flyby begins BepiColombo’s new trajectory
 - <a href="https://arstechnica.com/space/2024/09/starliners-speaker-began-emitting-strange-sonar-noises-on-saturday/" >🔗</a> **[Arstechnica]** The Starliner spacecraft has started to emit strange noises
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 1-7, 2024
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T030114">2024-09-03 03:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T033311">2024-09-03 03:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
