@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Juice_s_flight_through_Earth_s_radiation_belts" >🔗</a> **[ESA]** Juice's flight through Earth's radiation belts
+- <a href="https://spacenews.com/space-startups-eye-opportunities-in-the-orbital-surveillance-market/" >🔗</a> **[SpaceNews]** Space startups eye opportunities in the orbital surveillance market
+- <a href="https://science.nasa.gov/burstcube/nasas-mini-burstcube-mission-detects-mega-blast/" >🔗</a> **[NASA]** NASA’s Mini BurstCube Mission Detects Mega Blast
+- <a href="https://spacenews.com/l3harris-rapidly-advances-u-s-hypersonic-missile-tracking-and-defense-capabilities/" >🔗</a> **[SpaceNews]** L3Harris Rapidly Advances U.S. Hypersonic Missile Tracking and Defense Capabilities
 - <a href="https://spacenews.com/nga-to-launch-700-million-program-to-help-ai-make-sense-of-satellite-images/" >🔗</a> **[SpaceNews]** NGA to launch $700 million program to help AI make sense of satellite images
 - <a href="https://www.nasa.gov/organizations/osi/emd/pollinator-initiatives-at-nasa/" >🔗</a> **[NASA]** Pollinator Initiatives at NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-29-2024/" >🔗</a> **[NASA]** Station Science Top News: August 29, 2024
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/carbon-nanotubes-and-the-search-for-life-on-other-planets/" >🔗</a> **[NASA]** Carbon Nanotubes and the Search for Life on Other Planets
 - <a href="https://spacenews.com/space-force-and-intelligence-agencies-seek-to-streamline-satellite-imagery-delivery/" >🔗</a> **[SpaceNews]** Space Force and intelligence agencies seek to streamline satellite imagery delivery
 - <a href="https://spacenews.com/u-s-intelligence-agency-to-evaluate-trustworthiness-of-ai-models/" >🔗</a> **[SpaceNews]** U.S. intelligence agency to evaluate trustworthiness of AI models
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Vega_for_ESA_the_story" >🔗</a> **[ESA]** Vega for ESA: the story
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/ESA_for_Vega_the_story" >🔗</a> **[ESA]** ESA for Vega: the story
-- <a href="https://spacenews.com/evolution-space-conducts-sea-based-rocket-test-with-the-spaceport-company/" >🔗</a> **[SpaceNews]** Evolution Space tests rocket on Spaceport Company sea-based platform
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Opportunities_with_ESA_at_Big_Science_Business_Forum_2024" >🔗</a> **[ESA]** Opportunities with ESA at Big Science Business Forum 2024
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T170123">2024-09-03 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T173159">2024-09-03 17:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
