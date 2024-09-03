@@ -105,6 +105,7 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega set to be retired; Polaris Dawn set for new launch attempt
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Watch_Sentinel-2C_launch_live_on_the_final_Vega_rocket" >🔗</a> **[ESA]** Watch Sentinel-2C launch live on the final Vega rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Sentinel-2C_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-2C: ready for liftoff
 - <a href="https://europeanspaceflight.com/arianespace-ceo-declines-to-comment-on-how-avio-replaced-vega-propellants-tanks/" >🔗</a> **[European Spaceflight]** Arianespace CEO Declines to Comment on How Avio Replaced Vega Propellants Tanks
@@ -114,12 +115,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Sentinel-2C_fully_loaded" >🔗</a> **[ESA]** Sentinel-2C fully loaded
 - <a href="https://europeanspaceflight.com/arianespace-announce-sept-3-launch-date-for-final-vega-flight/" >🔗</a> **[European Spaceflight]** Arianespace Announce Sept. 3 Launch Date for Final Vega Flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-2C arrives in French Guiana
-- <a href="https://europeanspaceflight.com/payload-for-final-vega-flight-aboard-ariane-6-transport-headed-to-kourou/" >🔗</a> **[European Spaceflight]** Payload for Final Vega Flight Aboard Ariane 6 Transport Headed to Kourou
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T060126">2024-09-03 06:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T063527">2024-09-03 06:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
