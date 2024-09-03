@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Europa Clipper
 - <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA prepares to launch swan song mission for its Vega rocket
 - <a href="https://spacenews.com/telesat-sells-remote-communications-services-business/" >🔗</a> **[SpaceNews]** Telesat sells remote communications services business
 - <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/" >🔗</a> **[NASA]** El X-59 de la NASA avanza en las pruebas de preparación para volar
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a creadores de las redes sociales al lanzamiento de la misión Europa Clipper
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
 - <a href="https://www.nasa.gov/image-article/great-aurora/" >🔗</a> **[NASA]** Great Aurora
-- <a href="https://www.nasa.gov/general/nasa-invites-social-creators-to-experience-launch-of-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Social Creators to Experience Launch of Europa Clipper Mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T213107">2024-09-03 21:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T220117">2024-09-03 22:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
