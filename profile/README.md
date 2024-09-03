@@ -92,7 +92,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Europa Clipper
-- <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA prepares to launch swan song mission for its Vega rocket
+- <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA scrubs swan song launch of its Vega rocket due to “electrical issues”
 - <a href="https://spacenews.com/telesat-sells-remote-communications-services-business/" >🔗</a> **[SpaceNews]** Telesat sells remote communications services business
 - <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/" >🔗</a> **[NASA]** El X-59 de la NASA avanza en las pruebas de preparación para volar
 - <a href="https://www.teslarati.com/spacex-starlink-faces-sanctions-in-brazil-access/" >🔗</a> **[Teslarati]** SpaceX Starlink faces sanctions in Brazil over Elon Musk’s X access
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T230119">2024-09-03 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T233103">2024-09-03 23:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
