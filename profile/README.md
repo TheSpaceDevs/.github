@@ -93,6 +93,7 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/ESA_for_Vega_the_story" >🔗</a> **[ESA]** ESA for Vega: the story
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Mission_control_GO_for_Sentinel-2C_launch" >🔗</a> **[ESA]** Mission control GO for Sentinel-2C launch
+- <a href="https://europeanspaceflight.com/esa-seeks-novel-propulsion-solutions-for-cubesat-deorbiting/" >🔗</a> **[European Spaceflight]** ESA Seeks Novel Propulsion Solutions for Cubesat Deorbiting
 - <a href="https://spacenews.com/esa-delays-bepicolombo-orbital-insertion-because-of-thruster-problem/" >🔗</a> **[SpaceNews]** ESA delays BepiColombo orbital insertion because of thruster problem
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega set to be retired; Polaris Dawn set for new launch attempt
 - <a href="https://spacenews.com/ohb-secures-final-regulatory-approvals-for-kkr-deal/" >🔗</a> **[SpaceNews]** OHB secures final regulatory approvals for KKR deal
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Exhibitions/Ignite_your_curiosity_for_space_at_ESA_Open_Days_2024" >🔗</a> **[ESA]** Ignite your curiosity for space at ESA Open Days 2024!
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Watch_Sentinel-2C_launch_live_on_the_final_Vega_rocket" >🔗</a> **[ESA]** Watch Sentinel-2C launch live on the final Vega rocket
 - <a href="https://www.esa.int/Space_Safety/Hera/Goodbye_Hera_asteroid_mission_departs_ESA_test_centre" >🔗</a> **[ESA]** Goodbye Hera: asteroid mission departs ESA test centre
-- <a href="https://europeanspaceflight.com/thruster-issues-delay-bepicolombos-mercury-arrival-by-11-months/" >🔗</a> **[European Spaceflight]** Thruster Issues Delay BepiColombo’s Mercury Arrival by 11 Months
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T090120">2024-09-03 09:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T093142">2024-09-03 09:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
