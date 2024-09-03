@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
+- <a href="https://www.nasa.gov/image-article/great-aurora/" >🔗</a> **[NASA]** Great Aurora
+- <a href="https://www.nasa.gov/general/nasa-invites-social-creators-to-experience-launch-of-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Social Creators to Experience Launch of Europa Clipper Mission
+- <a href="https://www.nasa.gov/missions/chandra/new-nasa-sonifications-listen-to-the-universes-past/" >🔗</a> **[NASA]** New NASA Sonifications Listen to the Universe’s Past
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/zachary-morse-hikes-hilltops-caves-lava-tubes-to-ready-moon-missions/" >🔗</a> **[NASA]** Zachary Morse Hikes Hilltops, Caves Lava Tubes to Ready Moon Missions
 - <a href="https://www.nasa.gov/image-article/digital-manager-emily-furfaro/" >🔗</a> **[NASA]** Digital Manager Emily Furfaro
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Juice_s_flight_through_Earth_s_radiation_belts" >🔗</a> **[ESA]** Juice's flight through Earth's radiation belts
 - <a href="https://spacenews.com/space-startups-eye-opportunities-in-the-orbital-surveillance-market/" >🔗</a> **[SpaceNews]** Space startups eye opportunities in the orbital surveillance market
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-september-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: September 2024 Skywatching Tips from NASA
 - <a href="https://science.nasa.gov/burstcube/nasas-mini-burstcube-mission-detects-mega-blast/" >🔗</a> **[NASA]** NASA’s Mini BurstCube Mission Detects Mega Blast
-- <a href="https://spacenews.com/l3harris-rapidly-advances-u-s-hypersonic-missile-tracking-and-defense-capabilities/" >🔗</a> **[SpaceNews]** L3Harris Rapidly Advances U.S. Hypersonic Missile Tracking and Defense Capabilities
-- <a href="https://spacenews.com/nga-to-launch-700-million-program-to-help-ai-make-sense-of-satellite-images/" >🔗</a> **[SpaceNews]** NGA to launch $700 million program to help AI make sense of satellite images
-- <a href="https://www.nasa.gov/organizations/osi/emd/pollinator-initiatives-at-nasa/" >🔗</a> **[NASA]** Pollinator Initiatives at NASA
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-29-2024/" >🔗</a> **[NASA]** Station Science Top News: August 29, 2024
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T190105">2024-09-03 19:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T193107">2024-09-03 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
