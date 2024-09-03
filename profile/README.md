@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/ESA_for_Vega_the_story" >🔗</a> **[ESA]** ESA for Vega: the story
+- <a href="https://spacenews.com/evolution-space-conducts-sea-based-rocket-test-with-the-spaceport-company/" >🔗</a> **[SpaceNews]** Evolution Space tests rocket on Spaceport Company sea-based platform
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/Vega_for_ESA_the_story" >🔗</a> **[ESA]** Vega for ESA: the story
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/ESA_for_Vega_the_story" >🔗</a> **[ESA]** ESA for Vega: the story
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Opportunities_with_ESA_at_Big_Science_Business_Forum_2024" >🔗</a> **[ESA]** Opportunities with ESA at Big Science Business Forum 2024
 - <a href="https://www.esa.int/Enabling_Support/Operations/Sentinel-2C_operators_complete_final_rehearsals" >🔗</a> **[ESA]** Sentinel-2C operators complete final rehearsals
 - <a href="https://spacenews.com/nasa-moving-ahead-with-europa-clipper-launch-in-october/" >🔗</a> **[SpaceNews]** NASA moving ahead with Europa Clipper launch in October
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Mission_control_GO_for_Sentinel-2C_launch" >🔗</a> **[ESA]** Mission control GO for Sentinel-2C launch
 - <a href="https://spacenews.com/china-launches-new-set-of-classified-yaogan-43-satellites/" >🔗</a> **[SpaceNews]** China launches new set of classified Yaogan-43 satellites
 - <a href="https://europeanspaceflight.com/esa-seeks-novel-propulsion-solutions-for-cubesat-deorbiting/" >🔗</a> **[European Spaceflight]** ESA Seeks Novel Propulsion Solutions for Cubesat Deorbiting
 - <a href="https://spacenews.com/esa-delays-bepicolombo-orbital-insertion-because-of-thruster-problem/" >🔗</a> **[SpaceNews]** ESA delays BepiColombo orbital insertion because of thruster problem
-- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega set to be retired; Polaris Dawn set for new launch attempt
-- <a href="https://spacenews.com/ohb-secures-final-regulatory-approvals-for-kkr-deal/" >🔗</a> **[SpaceNews]** OHB secures final regulatory approvals for KKR deal
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T120146">2024-09-03 12:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T124211">2024-09-03 12:42:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
