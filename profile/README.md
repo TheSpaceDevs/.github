@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nga-to-launch-700-million-program-to-help-ai-make-sense-of-satellite-images/" >🔗</a> **[SpaceNews]** NGA to launch $700 million program to help AI make sense of satellite images
 - <a href="https://www.nasa.gov/organizations/osi/emd/pollinator-initiatives-at-nasa/" >🔗</a> **[NASA]** Pollinator Initiatives at NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-august-29-2024/" >🔗</a> **[NASA]** Station Science Top News: August 29, 2024
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/carbon-nanotubes-and-the-search-for-life-on-other-planets/" >🔗</a> **[NASA]** Carbon Nanotubes and the Search for Life on Other Planets
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/08/ESA_for_Vega_the_story" >🔗</a> **[ESA]** ESA for Vega: the story
 - <a href="https://spacenews.com/evolution-space-conducts-sea-based-rocket-test-with-the-spaceport-company/" >🔗</a> **[SpaceNews]** Evolution Space tests rocket on Spaceport Company sea-based platform
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Opportunities_with_ESA_at_Big_Science_Business_Forum_2024" >🔗</a> **[ESA]** Opportunities with ESA at Big Science Business Forum 2024
-- <a href="https://www.esa.int/Enabling_Support/Operations/Sentinel-2C_operators_complete_final_rehearsals" >🔗</a> **[ESA]** Sentinel-2C operators complete final rehearsals
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T160122">2024-09-03 16:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T163528">2024-09-03 16:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
