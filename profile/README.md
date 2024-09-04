@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atlas-sets-course-to-triple-sales-after-raising-15-million/" >🔗</a> **[SpaceNews]** Atlas sets course to triple sales after raising $15 million
 - <a href="https://arstechnica.com/space/2024/09/relativity-space-has-gone-from-printing-money-and-rockets-to-doing-what-exactly/" >🔗</a> **[Arstechnica]** Relativity Space has gone from printing money and rockets to doing what, exactly?
 - <a href="https://spacenews.com/benchmark-wins-4-9-million-award-for-ascent-propulsion-systems/" >🔗</a> **[SpaceNews]** Benchmark wins $4.9 million award for ASCENT propulsion systems
 - <a href="https://spacenews.com/sierra-space-completes-acoustics-tests-of-dream-chaser-cargo-module/" >🔗</a> **[SpaceNews]** Sierra Space completes acoustics tests of Dream Chaser cargo module
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/collimate-offers-tool-to-predict-downlink-success/" >🔗</a> **[SpaceNews]** Collimate offers tool to predict downlink success
 - <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA targets Wednesday night for swan song launch of its Vega rocket
 - <a href="https://spacenews.com/telesat-sells-remote-communications-services-business/" >🔗</a> **[SpaceNews]** Telesat sells remote communications services business
-- <a href="https://www.teslarati.com/spacex-starlink-faces-sanctions-in-brazil-access/" >🔗</a> **[Teslarati]** SpaceX Starlink faces sanctions in Brazil over Elon Musk’s X access
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T120131">2024-09-04 12:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T124227">2024-09-04 12:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
