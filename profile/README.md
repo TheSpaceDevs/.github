@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/maiaspace-prepares-to-start-hot-fire-testing-in-2025/" >🔗</a> **[European Spaceflight]** MaiaSpace Prepares to Start Hot Fire Testing in 2025
 - <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/collimate-offers-tool-to-predict-downlink-success/" >🔗</a> **[SpaceNews]** Collimate offers tool to predict downlink success
 - <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA scrubs swan song launch of its Vega rocket due to “electrical issues”
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-flight-of-space-shuttle-discovery/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Flight of Space Shuttle Discovery
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
 - <a href="https://www.nasa.gov/image-article/great-aurora/" >🔗</a> **[NASA]** Great Aurora
-- <a href="https://www.nasa.gov/general/nasa-invites-social-creators-to-experience-launch-of-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Social Creators to Experience Launch of Europa Clipper Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T080126">2024-09-04 08:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T083344">2024-09-04 08:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
