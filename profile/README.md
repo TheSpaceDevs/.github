@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-don-pettits-science-of-opportunity-on-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit’s Science of Opportunity on Space Station
 - <a href="https://www.nasa.gov/image-article/gateways-propulsion-system-testing-throttles-up/" >🔗</a> **[NASA]** Gateway’s Propulsion System Testing Throttles Up
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techrise-student-challenge-3/" >🔗</a> **[NASA]** NASA TechRise Student Challenge
 - <a href="https://www.nasa.gov/news-release/back-to-school-6-ways-students-can-engage-with-nasa-glenn/" >🔗</a> **[NASA]** 6 Ways Students Can Engage With NASA Glenn
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-distorted-galaxy-forming-cosmic-question-mark/" >🔗</a> **[NASA]** NASA’s Webb Reveals Distorted Galaxy Forming Cosmic Question Mark
 - <a href="https://www.nasa.gov/image-article/space-station-ams-02-instrument-works-on-the-mystery-of-dark-matter/" >🔗</a> **[NASA]** Space Station AMS-02 Instrument Works on the Mystery of Dark Matter
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-september-2024/" >🔗</a> **[NASA]** Lagniappe for September 2024
-- <a href="https://www.nasa.gov/image-article/key-moments-in-joseph-ladner-career/" >🔗</a> **[NASA]** Key Moments Lead to Fulfilling NASA Stennis Career
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T180140">2024-09-04 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T183417">2024-09-04 18:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
