@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spac-class-of-covid-19-where-are-they-now/" >🔗</a> **[SpaceNews]** SPAC class of COVID-19: Where are they now?
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/European_greenhouse_gas_emissions_decline_but_land_stores_weaken" >🔗</a> **[ESA]** European greenhouse gas emissions decline but land stores weaken
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-distorted-galaxy-forming-cosmic-question-mark/" >🔗</a> **[NASA]** NASA’s Webb Reveals Distorted Galaxy Forming Cosmic Question Mark
 - <a href="https://www.nasa.gov/image-article/space-station-ams-02-instrument-works-on-the-mystery-of-dark-matter/" >🔗</a> **[NASA]** Space Station AMS-02 Instrument Works on the Mystery of Dark Matter
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/slow-burn-how-starliners-crewed-test-flight-went-awry/" >🔗</a> **[SpaceNews]** Slow Burn: How Starliner’s crewed test flight went awry
 - <a href="https://spacenews.com/atlas-sets-course-to-triple-sales-after-raising-15-million/" >🔗</a> **[SpaceNews]** Atlas sets course to triple sales after raising $15 million
 - <a href="https://arstechnica.com/space/2024/09/relativity-space-has-gone-from-printing-money-and-rockets-to-doing-what-exactly/" >🔗</a> **[Arstechnica]** Relativity Space has gone from printing money and rockets to doing what, exactly?
-- <a href="https://spacenews.com/benchmark-wins-4-9-million-award-for-ascent-propulsion-systems/" >🔗</a> **[SpaceNews]** Benchmark wins $4.9 million award for ASCENT propulsion systems
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T150130">2024-09-04 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T153206">2024-09-04 15:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
