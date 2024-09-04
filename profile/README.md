@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/09/relativity-space-has-gone-from-printing-money-and-rockets-to-doing-what-exactly/" >🔗</a> **[Arstechnica]** Relativity Space has gone from printing money and rockets to doing what, exactly?
+- <a href="https://spacenews.com/benchmark-wins-4-9-million-award-for-ascent-propulsion-systems/" >🔗</a> **[SpaceNews]** Benchmark wins $4.9 million award for ASCENT propulsion systems
+- <a href="https://spacenews.com/sierra-space-completes-acoustics-tests-of-dream-chaser-cargo-module/" >🔗</a> **[SpaceNews]** Sierra Space completes acoustics tests of Dream Chaser cargo module
 - <a href="https://www.nasa.gov/aeronautics/hybrid-electric-aircrafts-new-colors/" >🔗</a> **[NASA]** Research Plane Dons New Colors for NASA Hybrid Electric Flight Tests
 - <a href="https://europeanspaceflight.com/maiaspace-prepares-to-start-hot-fire-testing-in-2025/" >🔗</a> **[European Spaceflight]** MaiaSpace Prepares to Start Hot Fire Testing in 2025
 - <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/collimate-offers-tool-to-predict-downlink-success/" >🔗</a> **[SpaceNews]** Collimate offers tool to predict downlink success
-- <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA scrubs swan song launch of its Vega rocket due to “electrical issues”
+- <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA targets Wednesday night for swan song launch of its Vega rocket
 - <a href="https://spacenews.com/telesat-sells-remote-communications-services-business/" >🔗</a> **[SpaceNews]** Telesat sells remote communications services business
 - <a href="https://www.teslarati.com/spacex-starlink-faces-sanctions-in-brazil-access/" >🔗</a> **[Teslarati]** SpaceX Starlink faces sanctions in Brazil over Elon Musk’s X access
-- <a href="https://europeanspaceflight.com/frankenvega-confirmed-for-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** FrankenVega Confirmed for Sentinel 2C Launch
-- <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-flight-of-space-shuttle-discovery/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Flight of Space Shuttle Discovery
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T110109">2024-09-04 11:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T113104">2024-09-04 11:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
