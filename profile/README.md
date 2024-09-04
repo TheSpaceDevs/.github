@@ -47,7 +47,7 @@ into *a Sun-Synchronous Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T015027">2024-09-05 01:50:27 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | Sentinel-2C&location=Guiana Space Centre, French Guiana&dates=20240905T015027Z%2F20240905T015027Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | Sentinel-2C** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T123500">2024-09-05 12:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-11&location=Cape Canaveral, FL, USA&dates=20240905T123500Z%2F20240905T163500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-11** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T123500">2024-09-05 12:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-11&location=Cape Canaveral, FL, USA&dates=20240905T123500Z%2F20240905T163100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-11** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T182000">2024-09-05 18:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240905T182000Z%2F20240905T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T011400">2024-09-06 01:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-113&location=Vandenberg SFB, CA, USA&dates=20240906T011400Z%2F20240906T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-113** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T073800">2024-09-06 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240906T073800Z%2F20240906T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/gateways-propulsion-system-testing-throttles-up/" >🔗</a> **[NASA]** Gateway’s Propulsion System Testing Throttles Up
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techrise-student-challenge-3/" >🔗</a> **[NASA]** NASA TechRise Student Challenge
 - <a href="https://www.nasa.gov/news-release/back-to-school-6-ways-students-can-engage-with-nasa-glenn/" >🔗</a> **[NASA]** 6 Ways Students Can Engage With NASA Glenn
 - <a href="https://science.nasa.gov/learning-resources/science-activation/leveraging-teacher-leaders-to-share-the-joy-of-nasa-heliophysics/" >🔗</a> **[NASA]** Leveraging Teacher Leaders to Share the Joy of NASA Heliophysics
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/space-station-ams-02-instrument-works-on-the-mystery-of-dark-matter/" >🔗</a> **[NASA]** Space Station AMS-02 Instrument Works on the Mystery of Dark Matter
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-september-2024/" >🔗</a> **[NASA]** Lagniappe for September 2024
 - <a href="https://www.nasa.gov/image-article/key-moments-in-joseph-ladner-career/" >🔗</a> **[NASA]** Key Moments Lead to Fulfilling NASA Stennis Career
-- <a href="https://spacenews.com/artificial-divide-between-space-and-geospatial-sectors/" >🔗</a> **[SpaceNews]** The artificial divide between the space and geospatial sectors
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T170122">2024-09-04 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T173349">2024-09-04 17:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
