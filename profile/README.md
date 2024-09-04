@@ -27,13 +27,13 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T125900">2024-09-04 12:59:00 UTC</a>.  Until
 then, this pad will have been used for 259
 out of 972 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T125900">2024-09-04 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-11&location=Cape Canaveral, FL, USA&dates=20240904T125900Z%2F20240904T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-11** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T125900">2024-09-04 12:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-11&location=Cape Canaveral, FL, USA&dates=20240904T125900Z%2F20240904T165900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-11** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T015027">2024-09-05 01:50:27 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega | Sentinel-2C&location=Guiana Space Centre, French Guiana&dates=20240905T015027Z%2F20240905T015027Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega | Sentinel-2C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T182000">2024-09-05 18:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240905T182000Z%2F20240905T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T011400">2024-09-06 01:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-113&location=Vandenberg SFB, CA, USA&dates=20240906T011400Z%2F20240906T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-113** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/collimate-offers-tool-to-predict-downlink-success/" >🔗</a> **[SpaceNews]** Collimate offers tool to predict downlink success
 - <a href="https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Europa Clipper
 - <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA scrubs swan song launch of its Vega rocket due to “electrical issues”
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/frankenvega-confirmed-for-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** FrankenVega Confirmed for Sentinel 2C Launch
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-flight-of-space-shuttle-discovery/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Flight of Space Shuttle Discovery
 - <a href="https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a creadores de las redes sociales al lanzamiento de la misión Europa Clipper
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T022332">2024-09-04 02:23:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T024241">2024-09-04 02:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
