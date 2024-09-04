@@ -93,23 +93,24 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/collimate-offers-tool-to-predict-downlink-success/" >🔗</a> **[SpaceNews]** Collimate offers tool to predict downlink success
-- <a href="https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Europa Clipper
 - <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA scrubs swan song launch of its Vega rocket due to “electrical issues”
 - <a href="https://spacenews.com/telesat-sells-remote-communications-services-business/" >🔗</a> **[SpaceNews]** Telesat sells remote communications services business
-- <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/" >🔗</a> **[NASA]** El X-59 de la NASA avanza en las pruebas de preparación para volar
 - <a href="https://www.teslarati.com/spacex-starlink-faces-sanctions-in-brazil-access/" >🔗</a> **[Teslarati]** SpaceX Starlink faces sanctions in Brazil over Elon Musk’s X access
 - <a href="https://europeanspaceflight.com/frankenvega-confirmed-for-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** FrankenVega Confirmed for Sentinel 2C Launch
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-flight-of-space-shuttle-discovery/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Flight of Space Shuttle Discovery
-- <a href="https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a creadores de las redes sociales al lanzamiento de la misión Europa Clipper
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
+- <a href="https://www.nasa.gov/image-article/great-aurora/" >🔗</a> **[NASA]** Great Aurora
+- <a href="https://www.nasa.gov/general/nasa-invites-social-creators-to-experience-launch-of-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Social Creators to Experience Launch of Europa Clipper Mission
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T070117">2024-09-04 07:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T073106">2024-09-04 07:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
