@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-4-2024/" >🔗</a> **[NASA]** The Marshall Star for September 4, 2024
+- <a href="https://spacenews.com/space-force-defends-plan-to-buy-smaller-cheaper-satellites-to-reinforce-gps/" >🔗</a> **[SpaceNews]** Space Force defends plan to buy smaller, cheaper satellites to reinforce GPS
 - <a href="https://www.nasa.gov/earth/nasa-earth-scientists-take-flight-set-sail-to-verify-pace-satellite-data/" >🔗</a> **[NASA]** NASA Earth Scientists Take Flight, Set Sail to Verify PACE Satellite Data
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-don-pettits-science-of-opportunity-on-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit’s Science of Opportunity on Space Station
 - <a href="https://www.nasa.gov/image-article/gateways-propulsion-system-testing-throttles-up/" >🔗</a> **[NASA]** Gateway’s Propulsion System Testing Throttles Up
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/leveraging-teacher-leaders-to-share-the-joy-of-nasa-heliophysics/" >🔗</a> **[NASA]** Leveraging Teacher Leaders to Share the Joy of NASA Heliophysics
 - <a href="https://spacenews.com/spac-class-of-covid-19-where-are-they-now/" >🔗</a> **[SpaceNews]** SPAC class of COVID-19: Where are they now?
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/European_greenhouse_gas_emissions_decline_but_land_stores_weaken" >🔗</a> **[ESA]** European greenhouse gas emissions decline but land stores weaken
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-distorted-galaxy-forming-cosmic-question-mark/" >🔗</a> **[NASA]** NASA’s Webb Reveals Distorted Galaxy Forming Cosmic Question Mark
-- <a href="https://www.nasa.gov/image-article/space-station-ams-02-instrument-works-on-the-mystery-of-dark-matter/" >🔗</a> **[NASA]** Space Station AMS-02 Instrument Works on the Mystery of Dark Matter
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T193107">2024-09-04 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T200129">2024-09-04 20:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
