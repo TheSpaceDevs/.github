@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-prepares-for-starliner-return-from-iss/" >🔗</a> **[SpaceNews]** NASA prepares for Starliner return from ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-4-2024/" >🔗</a> **[NASA]** The Marshall Star for September 4, 2024
 - <a href="https://spacenews.com/space-force-defends-plan-to-buy-smaller-cheaper-satellites-to-reinforce-gps/" >🔗</a> **[SpaceNews]** Space Force defends plan to buy smaller, cheaper satellites to reinforce GPS
 - <a href="https://www.nasa.gov/earth/nasa-earth-scientists-take-flight-set-sail-to-verify-pace-satellite-data/" >🔗</a> **[NASA]** NASA Earth Scientists Take Flight, Set Sail to Verify PACE Satellite Data
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/back-to-school-6-ways-students-can-engage-with-nasa-glenn/" >🔗</a> **[NASA]** 6 Ways Students Can Engage With NASA Glenn
 - <a href="https://science.nasa.gov/learning-resources/science-activation/leveraging-teacher-leaders-to-share-the-joy-of-nasa-heliophysics/" >🔗</a> **[NASA]** Leveraging Teacher Leaders to Share the Joy of NASA Heliophysics
 - <a href="https://spacenews.com/spac-class-of-covid-19-where-are-they-now/" >🔗</a> **[SpaceNews]** SPAC class of COVID-19: Where are they now?
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/European_greenhouse_gas_emissions_decline_but_land_stores_weaken" >🔗</a> **[ESA]** European greenhouse gas emissions decline but land stores weaken
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T213055">2024-09-04 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T220118">2024-09-04 22:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
