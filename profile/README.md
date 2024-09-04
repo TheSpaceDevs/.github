@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/collimate-offers-tool-to-predict-downlink-success/" >🔗</a> **[SpaceNews]** Collimate offers tool to predict downlink success
 - <a href="https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento de Europa Clipper
 - <a href="https://spaceflightnow.com/2024/09/03/esa-prepares-to-launch-swan-song-mission-for-its-vega-rocket/" >🔗</a> **[Spaceflight Now]** ESA scrubs swan song launch of its Vega rocket due to “electrical issues”
 - <a href="https://spacenews.com/telesat-sells-remote-communications-services-business/" >🔗</a> **[SpaceNews]** Telesat sells remote communications services business
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41d-first-flight-of-space-shuttle-discovery/" >🔗</a> **[NASA]** 40 Years Ago: STS-41D – First Flight of Space Shuttle Discovery
 - <a href="https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/" >🔗</a> **[NASA]** La NASA invita a creadores de las redes sociales al lanzamiento de la misión Europa Clipper
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-launch-of-jupiter-moon-mission/" >🔗</a> **[NASA]** NASA Invites Media to View Launch of Jupiter Moon Mission
-- <a href="https://www.nasa.gov/image-article/great-aurora/" >🔗</a> **[NASA]** Great Aurora
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240903T233103">2024-09-03 23:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240904T000352">2024-09-04 00:03:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
