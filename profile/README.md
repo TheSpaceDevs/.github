@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Satellite_navigation/New_Galileo_satellites_operational_after_successful_in-orbit_testing" >🔗</a> **[ESA]** New Galileo satellites operational after successful in-orbit testing
+- <a href="https://spacenews.com/nasa-reaffirms-decision-to-cancel-osam-1/" >🔗</a> **[SpaceNews]** NASA reaffirms decision to cancel OSAM-1
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_best_images_yet_highlight_fourth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's best images yet highlight fourth Mercury flyby
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasas-boeing-starliner-mission-landing-criteria-timeline/" >🔗</a> **[NASA]** NASA’s Boeing Starliner Mission Landing Criteria, Timeline
 - <a href="https://science.nasa.gov/get-involved/citizen-science/join-the-eclipsing-binary-patrol-and-spot-rare-stellar-pairs/" >🔗</a> **[NASA]** Join the Eclipsing Binary Patrol and Spot Rare Stellar Pairs!
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-to-support-darpa-robotic-satellite-servicing-program/" >🔗</a> **[NASA]** NASA to Support DARPA Robotic Satellite Servicing Program
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-maven-help-solve-the-mystery-of-mars-escaping-water/" >🔗</a> **[NASA]** NASA’s Hubble, MAVEN Help Solve the Mystery of Mars’ Escaping Water
 - <a href="https://spacenews.com/china-to-launch-mars-sample-return-mission-in-2028-will-follow-planetary-protection-guidelines/" >🔗</a> **[SpaceNews]** China to launch Mars sample return mission in 2028, will follow planetary protection guidelines
-- <a href="https://www.nasa.gov/learning-resources/eclipses-create-atmospheric-gravity-waves/" >🔗</a> **[NASA]** Eclipses Create Atmospheric Gravity Waves, NASA Student Teams Confirm
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T170105">2024-09-05 17:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T173139">2024-09-05 17:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
