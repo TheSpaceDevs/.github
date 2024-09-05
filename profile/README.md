@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Farewell_to_Vega" >🔗</a> **[ESA]** Farewell to Vega
+- <a href="https://science.nasa.gov/blog/sol-4294-return-to-mcdonald-pass/" >🔗</a> **[NASA]** Sol 4294: Return to McDonald Pass
+- <a href="https://science.nasa.gov/blog/sols-4291-4293-fairview-dome-the-sequel/" >🔗</a> **[NASA]** Sols 4291-4293: Fairview Dome, the Sequel
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_joins_the_Copernicus_family_in_orbit" >🔗</a> **[ESA]** Sentinel-2C joins the Copernicus family in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
 - <a href="https://spacenews.com/final-original-vega-launches-sentinel-2c/" >🔗</a> **[SpaceNews]** Final original Vega launches Sentinel-2C
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
 - <a href="https://spacenews.com/spacex-satellites-with-tesat-terminals-achieve-first-laser-data-exchange-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX satellites with Tesat terminals achieve first laser data exchange for U.S. military
 - <a href="https://arstechnica.com/space/2024/09/after-starliner-nasa-has-another-big-human-spaceflight-decision-to-make/" >🔗</a> **[Arstechnica]** After Starliner, NASA has another big human spaceflight decision to make
-- <a href="https://spacenews.com/nasa-prepares-for-starliner-return-from-iss/" >🔗</a> **[SpaceNews]** NASA prepares for Starliner return from ISS
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-4-2024/" >🔗</a> **[NASA]** The Marshall Star for September 4, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T060126">2024-09-05 06:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T063537">2024-09-05 06:35:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
