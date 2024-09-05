@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T123500">2024-09-05 12:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-11&location=Cape Canaveral, FL, USA&dates=20240905T123500Z%2F20240905T163100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-11** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T182000">2024-09-05 18:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240905T182000Z%2F20240905T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T032000">2024-09-06 03:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-113&location=Vandenberg SFB, CA, USA&dates=20240906T032000Z%2F20240906T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-113** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240907T073800">2024-09-07 07:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Polaris Dawn&location=Kennedy Space Center, FL, USA&dates=20240907T073800Z%2F20240907T110900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Polaris Dawn** from Kennedy Space Center, FL, USA.
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/" >🔗</a> **[NASA]** NASA Tunnel Generates Decades of Icy Aircraft Safety Data
 - <a href="https://spacenews.com/senegal-among-new-members-of-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Senegal among new members of China’s ILRS moon base project
 - <a href="https://www.nasa.gov/missions/artemis/artemis-iv-gateway-gadget-fuels-deep-space-dining/" >🔗</a> **[NASA]** Artemis IV: Gateway Gadget Fuels Deep Space Dining
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_launch_highlights" >🔗</a> **[ESA]** Sentinel-2C launch highlights
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4291-4293-fairview-dome-the-sequel/" >🔗</a> **[NASA]** Sols 4291-4293: Fairview Dome, the Sequel
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_joins_the_Copernicus_family_in_orbit" >🔗</a> **[ESA]** Sentinel-2C joins the Copernicus family in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
-- <a href="https://spacenews.com/final-original-vega-launches-sentinel-2c/" >🔗</a> **[SpaceNews]** Final original Vega launches Sentinel-2C
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T120204">2024-09-05 12:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T124217">2024-09-05 12:42:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
