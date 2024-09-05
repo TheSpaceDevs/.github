@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/artemis-iv-gateway-gadget-fuels-deep-space-dining/" >🔗</a> **[NASA]** Artemis IV: Gateway Gadget Fuels Deep Space Dining
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_launch_highlights" >🔗</a> **[ESA]** Sentinel-2C launch highlights
 - <a href="https://europeanspaceflight.com/first-gen-vega-rocket-retired-after-successful-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** First-Gen Vega Rocket Retired After Successful Sentinel-2C Launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Farewell_to_Vega" >🔗</a> **[ESA]** Farewell to Vega
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
 - <a href="https://spacenews.com/final-original-vega-launches-sentinel-2c/" >🔗</a> **[SpaceNews]** Final original Vega launches Sentinel-2C
 - <a href="https://spacepolicyonline.com/news/starliner-ready-to-come-home/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready to Come Home
-- <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T110105">2024-09-05 11:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T113058">2024-09-05 11:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
