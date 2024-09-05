@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senegal-among-new-members-of-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Senegal among new members of China’s ILRS moon base project
 - <a href="https://www.nasa.gov/missions/artemis/artemis-iv-gateway-gadget-fuels-deep-space-dining/" >🔗</a> **[NASA]** Artemis IV: Gateway Gadget Fuels Deep Space Dining
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_launch_highlights" >🔗</a> **[ESA]** Sentinel-2C launch highlights
 - <a href="https://europeanspaceflight.com/first-gen-vega-rocket-retired-after-successful-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** First-Gen Vega Rocket Retired After Successful Sentinel-2C Launch
@@ -100,18 +101,17 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_joins_the_Copernicus_family_in_orbit" >🔗</a> **[ESA]** Sentinel-2C joins the Copernicus family in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
 - <a href="https://spacenews.com/final-original-vega-launches-sentinel-2c/" >🔗</a> **[SpaceNews]** Final original Vega launches Sentinel-2C
-- <a href="https://spacepolicyonline.com/news/starliner-ready-to-come-home/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready to Come Home
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
-- <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Poor recovery weather causes SpaceX to scrub the launch of 21 Starlink satellites from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/09/04/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to attempt Falcon 9 launch with 21 Starlink satellites following weather-related scrub
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T113058">2024-09-05 11:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T120204">2024-09-05 12:02:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
