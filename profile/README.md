@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/New_Galileo_satellites_operational_after_successful_in-orbit_testing" >🔗</a> **[ESA]** New Galileo satellites operational after successful in-orbit testing
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_best_images_yet_highlight_fourth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's best images yet highlight fourth Mercury flyby
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasas-boeing-starliner-mission-landing-criteria-timeline/" >🔗</a> **[NASA]** NASA’s Boeing Starliner Mission Landing Criteria, Timeline
+- <a href="https://science.nasa.gov/get-involved/citizen-science/join-the-eclipsing-binary-patrol-and-spot-rare-stellar-pairs/" >🔗</a> **[NASA]** Join the Eclipsing Binary Patrol and Spot Rare Stellar Pairs!
+- <a href="https://www.nasa.gov/image-article/ames-wind-tunnel/" >🔗</a> **[NASA]** Ames Wind Tunnel
+- <a href="https://spacenews.com/col-michelle-idle-united-states-space-force-leading-women-in-space/" >🔗</a> **[SpaceNews]** Col. Michelle Idle, United States Space Force – Leading Women in Space
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-to-support-darpa-robotic-satellite-servicing-program/" >🔗</a> **[NASA]** NASA to Support DARPA Robotic Satellite Servicing Program
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-maven-help-solve-the-mystery-of-mars-escaping-water/" >🔗</a> **[NASA]** NASA’s Hubble, MAVEN Help Solve the Mystery of Mars’ Escaping Water
 - <a href="https://spacenews.com/china-to-launch-mars-sample-return-mission-in-2028-will-follow-planetary-protection-guidelines/" >🔗</a> **[SpaceNews]** China to launch Mars sample return mission in 2028, will follow planetary protection guidelines
 - <a href="https://www.nasa.gov/learning-resources/eclipses-create-atmospheric-gravity-waves/" >🔗</a> **[NASA]** Eclipses Create Atmospheric Gravity Waves, NASA Student Teams Confirm
-- <a href="https://spacenews.com/canopy-wins-air-force-contracts-to-develop-thermal-protection-systems/" >🔗</a> **[SpaceNews]** Canopy wins Air Force contracts to develop thermal protection systems
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/" >🔗</a> **[NASA]** NASA Tunnel Generates Decades of Icy Aircraft Safety Data
-- <a href="https://spacenews.com/senegal-among-new-members-of-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Senegal among new members of China’s ILRS moon base project
-- <a href="https://www.nasa.gov/missions/artemis/artemis-iv-gateway-gadget-fuels-deep-space-dining/" >🔗</a> **[NASA]** Artemis IV: Gateway Gadget Fuels Deep Space Dining
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_launch_highlights" >🔗</a> **[ESA]** Sentinel-2C launch highlights
-- <a href="https://europeanspaceflight.com/first-gen-vega-rocket-retired-after-successful-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** First-Gen Vega Rocket Retired After Successful Sentinel-2C Launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T150120">2024-09-05 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T153156">2024-09-05 15:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
