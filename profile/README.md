@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
+- <a href="https://spacenews.com/final-original-vega-launches-sentinel-2c/" >🔗</a> **[SpaceNews]** Final original Vega launches Sentinel-2C
 - <a href="https://spacepolicyonline.com/news/starliner-ready-to-come-home/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready to Come Home
 - <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
 - <a href="https://spacenews.com/spacex-satellites-with-tesat-terminals-achieve-first-laser-data-exchange-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX satellites with Tesat terminals achieve first laser data exchange for U.S. military
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-4-2024/" >🔗</a> **[NASA]** The Marshall Star for September 4, 2024
 - <a href="https://spacenews.com/space-force-defends-plan-to-buy-smaller-cheaper-satellites-to-reinforce-gps/" >🔗</a> **[SpaceNews]** Space Force defends plan to buy smaller, cheaper satellites to reinforce GPS
 - <a href="https://www.nasa.gov/earth/nasa-earth-scientists-take-flight-set-sail-to-verify-pace-satellite-data/" >🔗</a> **[NASA]** NASA Earth Scientists Take Flight, Set Sail to Verify PACE Satellite Data
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-don-pettits-science-of-opportunity-on-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit’s Science of Opportunity on Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T030114">2024-09-05 03:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T033244">2024-09-05 03:32:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
