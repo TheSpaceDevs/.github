@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Farewell_to_Vega" >🔗</a> **[ESA]** Farewell to Vega
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_joins_the_Copernicus_family_in_orbit" >🔗</a> **[ESA]** Sentinel-2C joins the Copernicus family in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
 - <a href="https://spacenews.com/final-original-vega-launches-sentinel-2c/" >🔗</a> **[SpaceNews]** Final original Vega launches Sentinel-2C
 - <a href="https://spacepolicyonline.com/news/starliner-ready-to-come-home/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready to Come Home
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/09/after-starliner-nasa-has-another-big-human-spaceflight-decision-to-make/" >🔗</a> **[Arstechnica]** After Starliner, NASA has another big human spaceflight decision to make
 - <a href="https://spacenews.com/nasa-prepares-for-starliner-return-from-iss/" >🔗</a> **[SpaceNews]** NASA prepares for Starliner return from ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-4-2024/" >🔗</a> **[NASA]** The Marshall Star for September 4, 2024
-- <a href="https://spacenews.com/space-force-defends-plan-to-buy-smaller-cheaper-satellites-to-reinforce-gps/" >🔗</a> **[SpaceNews]** Space Force defends plan to buy smaller, cheaper satellites to reinforce GPS
-- <a href="https://www.nasa.gov/earth/nasa-earth-scientists-take-flight-set-sail-to-verify-pace-satellite-data/" >🔗</a> **[NASA]** NASA Earth Scientists Take Flight, Set Sail to Verify PACE Satellite Data
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T040130">2024-09-05 04:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T043401">2024-09-05 04:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
