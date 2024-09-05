@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_launch_highlights" >🔗</a> **[ESA]** Sentinel-2C launch highlights
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Farewell_to_Vega" >🔗</a> **[ESA]** Farewell to Vega
 - <a href="https://science.nasa.gov/blog/sol-4294-return-to-mcdonald-pass/" >🔗</a> **[NASA]** Sol 4294: Return to McDonald Pass
 - <a href="https://science.nasa.gov/blog/sols-4291-4293-fairview-dome-the-sequel/" >🔗</a> **[NASA]** Sols 4291-4293: Fairview Dome, the Sequel
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/starliner-ready-to-come-home/" >🔗</a> **[SpacePolicyOnline.com]** Starliner Ready to Come Home
 - <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
 - <a href="https://spacenews.com/spacex-satellites-with-tesat-terminals-achieve-first-laser-data-exchange-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX satellites with Tesat terminals achieve first laser data exchange for U.S. military
-- <a href="https://arstechnica.com/space/2024/09/after-starliner-nasa-has-another-big-human-spaceflight-decision-to-make/" >🔗</a> **[Arstechnica]** After Starliner, NASA has another big human spaceflight decision to make
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T070108">2024-09-05 07:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T073100">2024-09-05 07:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
