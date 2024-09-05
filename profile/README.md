@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-launch-mars-sample-return-mission-in-2028-will-follow-planetary-protection-guidelines/" >🔗</a> **[SpaceNews]** China to launch Mars sample return mission in 2028, will follow planetary protection guidelines
+- <a href="https://www.nasa.gov/learning-resources/eclipses-create-atmospheric-gravity-waves/" >🔗</a> **[NASA]** Eclipses Create Atmospheric Gravity Waves, NASA Student Teams Confirm
+- <a href="https://spacenews.com/canopy-wins-air-force-contracts-to-develop-thermal-protection-systems/" >🔗</a> **[SpaceNews]** Canopy wins Air Force contracts to develop thermal protection systems
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/" >🔗</a> **[NASA]** NASA Tunnel Generates Decades of Icy Aircraft Safety Data
 - <a href="https://spacenews.com/senegal-among-new-members-of-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Senegal among new members of China’s ILRS moon base project
 - <a href="https://www.nasa.gov/missions/artemis/artemis-iv-gateway-gadget-fuels-deep-space-dining/" >🔗</a> **[NASA]** Artemis IV: Gateway Gadget Fuels Deep Space Dining
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/first-gen-vega-rocket-retired-after-successful-sentinel-2c-launch/" >🔗</a> **[European Spaceflight]** First-Gen Vega Rocket Retired After Successful Sentinel-2C Launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Farewell_to_Vega" >🔗</a> **[ESA]** Farewell to Vega
 - <a href="https://science.nasa.gov/blog/sol-4294-return-to-mcdonald-pass/" >🔗</a> **[NASA]** Sol 4294: Return to McDonald Pass
-- <a href="https://science.nasa.gov/blog/sols-4291-4293-fairview-dome-the-sequel/" >🔗</a> **[NASA]** Sols 4291-4293: Fairview Dome, the Sequel
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_joins_the_Copernicus_family_in_orbit" >🔗</a> **[ESA]** Sentinel-2C joins the Copernicus family in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Last_Vega_with_Sentinel-2C_on_the_launch_pad" >🔗</a> **[ESA]** Last Vega with Sentinel-2C on the launch pad
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T130451">2024-09-05 13:04:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240905T133308">2024-09-05 13:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
