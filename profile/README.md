@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Europa Clipper Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/" >🔗</a> **[NASA]** NASA Summer Camp Inspires Future Climate Leaders
 - <a href="https://www.cnbc.com/2024/09/06/boeing-starliner-leaves-iss-crew-flight-test.html" >🔗</a> **[CNBC]** Boeing Starliner prepares to leaves space station empty, months later than planned
 - <a href="https://www.nasa.gov/image-article/cubesats-are-pictured-after-being-deployed-into-earth-orbit/" >🔗</a> **[NASA]** CubeSats are pictured after being deployed into Earth orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/osam-1-partnership-opportunity-request-for-information/" >🔗</a> **[NASA]** OSAM-1 Partnership Opportunity: Request for Information
 - <a href="https://spacenews.com/detecting-satellite-orbit-anomalies-requires-human-intelligence/" >🔗</a> **[SpaceNews]** Detecting satellite orbit anomalies requires human intelligence
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
-- <a href="https://arstechnica.com/space/2024/09/rocket-report-new-glenn-gets-rolling-vega-takes-its-final-dance/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 lifts its 7,000th Starlink; ABL cuts deep
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T173059">2024-09-06 17:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T180115">2024-09-06 18:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
