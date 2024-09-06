@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://science.nasa.gov/blog/persevering-through-the-storm/" >🔗</a> **[NASA]** Persevering Through the Storm
 - <a href="https://spacenews.com/blue-origin-racing-to-meet-tight-launch-window-for-first-new-glenn-mission/" >🔗</a> **[SpaceNews]** Blue Origin racing to meet tight launch window for first New Glenn mission
-- <a href="https://spaceflightnow.com/2024/09/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-national-security-mission-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on national security mission for the NRO
+- <a href="https://spaceflightnow.com/2024/09/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-national-security-mission-for-the-nro/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 rocket on national security mission for the NRO
 - <a href="https://spacenews.com/aerospacelab-opens-doors-to-first-us-satellite-manufacturing-facility/" >🔗</a> **[SpaceNews]** Aerospacelab opens doors to first US satellite manufacturing facility
 - <a href="https://spacenews.com/kbrs-latest-acquisition-boosts-its-classified-space-workforce-amid-growing-military-demand/" >🔗</a> **[SpaceNews]** KBR’s latest acquisition boosts its classified space workforce amid growing military demand
 - <a href="https://science.nasa.gov/blog/sols-4295-4296-a-martian-moon-and-planet-earth/" >🔗</a> **[NASA]** Sols 4295-4296: A Martian Moon and Planet Earth
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T040126">2024-09-06 04:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T043340">2024-09-06 04:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
