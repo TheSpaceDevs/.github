@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-delays-escapade-to-2025-blue-origin-moves-new-glenn-blue-ring-mission-up-to-november" >🔗</a> **[The Launch Pad]** NASA Delays ESCAPADE to 2025, Blue Origin Moves New Glenn Blue Ring Mission Up To November
 - <a href="https://www.nasa.gov/news-release/nasa-to-take-part-in-hidden-figures-congressional-gold-medal-ceremony/" >🔗</a> **[NASA]** NASA to Take Part in Hidden Figures Congressional Gold Medal Ceremony
 - <a href="https://www.nasa.gov/image-article/nasa-scientific-balloon-takes-flight-with-student-built-payloads/" >🔗</a> **[NASA]** NASA Scientific Balloon Takes Flight With Student-Built Payloads
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-trio-to-join-expedition-71/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch; Trio to Join Expedition 71
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/09/06/boeing-starliner-leaves-iss-crew-flight-test.html" >🔗</a> **[CNBC]** Boeing Starliner prepares to leaves space station empty, months later than planned
 - <a href="https://www.nasa.gov/image-article/cubesats-are-pictured-after-being-deployed-into-earth-orbit/" >🔗</a> **[NASA]** CubeSats are pictured after being deployed into Earth orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_September_2024" >🔗</a> **[ESA]** Week in images: 02-06 September 2024
-- <a href="https://www.spacescout.info/2024/09/bepicolombo-completes-mercury-flyby-on-new-trajectory/" >🔗</a> **[Space Scout]** BepiColombo Completes Mercury Flyby on New Trajectory
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T193102">2024-09-06 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T200117">2024-09-06 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
