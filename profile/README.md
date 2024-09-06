@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/06/live-coverage-nasa-boeing-prepare-to-undock-starliner-concluding-the-crew-flight-test-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, Boeing prepare to undock Starliner, concluding the Crew Flight Test mission
+- <a href="https://arstechnica.com/space/2024/09/new-glenns-debut-will-slip-into-november-as-nasa-decides-to-not-fuel-escapade/" >🔗</a> **[Arstechnica]** Faced with a tight deadline, NASA and Blue Origin agree to delay New Glenn debut
 - <a href="https://www.nasa.gov/news-release/nasa-selects-companies-for-commercial-smallsat-services-award/" >🔗</a> **[NASA]** NASA Selects Companies for Commercial SmallSat Services Award
 - <a href="https://tlpnetwork.com/news/america/nasa-delays-escapade-to-2025-blue-origin-moves-new-glenn-blue-ring-mission-up-to-november" >🔗</a> **[The Launch Pad]** NASA Delays ESCAPADE to 2025, Blue Origin Moves New Glenn Blue Ring Mission Up To November
 - <a href="https://www.nasa.gov/news-release/nasa-to-take-part-in-hidden-figures-congressional-gold-medal-ceremony/" >🔗</a> **[NASA]** NASA to Take Part in Hidden Figures Congressional Gold Medal Ceremony
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/09/cft-undocking/" >🔗</a> **[NASASpaceflight]** Starliner Calypso set to undock and return to Earth without CFT crew
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Europa Clipper Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/" >🔗</a> **[NASA]** NASA Summer Camp Inspires Future Climate Leaders
-- <a href="https://www.cnbc.com/2024/09/06/boeing-starliner-leaves-iss-crew-flight-test.html" >🔗</a> **[CNBC]** Boeing Starliner prepares to leaves space station empty, months later than planned
-- <a href="https://www.nasa.gov/image-article/cubesats-are-pictured-after-being-deployed-into-earth-orbit/" >🔗</a> **[NASA]** CubeSats are pictured after being deployed into Earth orbit
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T210122">2024-09-06 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T213128">2024-09-06 21:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
