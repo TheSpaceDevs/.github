@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_September_2024" >🔗</a> **[ESA]** Week in images: 02-06 September 2024
+- <a href="https://www.nasa.gov/directorates/stmd/osam-1-partnership-opportunity-request-for-information/" >🔗</a> **[NASA]** OSAM-1 Partnership Opportunity: Request for Information
+- <a href="https://spacenews.com/detecting-satellite-orbit-anomalies-requires-human-intelligence/" >🔗</a> **[SpaceNews]** Detecting satellite orbit anomalies requires human intelligence
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
 - <a href="https://arstechnica.com/space/2024/09/rocket-report-new-glenn-gets-rolling-vega-takes-its-final-dance/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 lifts its 7,000th Starlink; ABL cuts deep
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/" >🔗</a> **[NASA]** Hubble Examines a Busy Galactic Center
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/First_metal_part_3D_printed_in_space" >🔗</a> **[ESA]** First metal part 3D printed in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Sentinel-2_captures_Sentinel-2" >🔗</a> **[ESA]** Earth from Space: Sentinel-2 captures Sentinel-2
 - <a href="https://spacenews.com/spacex-launches-third-batch-of-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches third batch of satellites for NRO’s proliferated constellation
-- <a href="https://spacenews.com/chinas-secretive-reusable-spaceplane-lands-after-267-days-in-orbit/" >🔗</a> **[SpaceNews]** China’s secretive reusable spaceplane lands after 267 days in orbit
-- <a href="https://science.nasa.gov/blog/persevering-through-the-storm/" >🔗</a> **[NASA]** Persevering Through the Storm
-- <a href="https://spacenews.com/blue-origin-racing-to-meet-tight-launch-window-for-first-new-glenn-mission/" >🔗</a> **[SpaceNews]** Blue Origin racing to meet tight launch window for first New Glenn mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T130432">2024-09-06 13:04:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T133333">2024-09-06 13:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
