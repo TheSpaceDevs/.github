@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/" >🔗</a> **[NASA]** NASA Summer Camp Inspires Future Climate Leaders
 - <a href="https://www.cnbc.com/2024/09/06/boeing-starliner-leaves-iss-crew-flight-test.html" >🔗</a> **[CNBC]** Boeing Starliner prepares to leaves space station empty, months later than planned
 - <a href="https://www.nasa.gov/image-article/cubesats-are-pictured-after-being-deployed-into-earth-orbit/" >🔗</a> **[NASA]** CubeSats are pictured after being deployed into Earth orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_September_2024" >🔗</a> **[ESA]** Week in images: 02-06 September 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/detecting-satellite-orbit-anomalies-requires-human-intelligence/" >🔗</a> **[SpaceNews]** Detecting satellite orbit anomalies requires human intelligence
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
 - <a href="https://arstechnica.com/space/2024/09/rocket-report-new-glenn-gets-rolling-vega-takes-its-final-dance/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 lifts its 7,000th Starlink; ABL cuts deep
-- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/" >🔗</a> **[NASA]** Hubble Examines a Busy Galactic Center
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T170106">2024-09-06 17:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T173059">2024-09-06 17:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
