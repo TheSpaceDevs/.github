@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/starliners-crew-flight-test-comes-to-an-end/" >🔗</a> **[SpacePolicyOnline.com]** Starliner’s Crew Flight Test Comes to an End
+- <a href="https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/" >🔗</a> **[SpaceNews]** NASA removes ESCAPADE from inaugural New Glenn launch
 - <a href="https://www.spacescout.info/2024/09/new-glenn-comes-together-but-plans-change/" >🔗</a> **[Space Scout]** New Glenn Comes Together, but Plans Change
 - <a href="https://spaceflightnow.com/2024/09/06/live-coverage-nasa-boeing-prepare-to-undock-starliner-concluding-the-crew-flight-test-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, Boeing prepare to undock Starliner, concluding the Crew Flight Test mission
 - <a href="https://arstechnica.com/space/2024/09/new-glenns-debut-will-slip-into-november-as-nasa-decides-to-not-fuel-escapade/" >🔗</a> **[Arstechnica]** Faced with a tight deadline, NASA and Blue Origin agree to delay New Glenn debut
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-take-part-in-hidden-figures-congressional-gold-medal-ceremony/" >🔗</a> **[NASA]** NASA to Take Part in Hidden Figures Congressional Gold Medal Ceremony
 - <a href="https://www.nasa.gov/image-article/nasa-scientific-balloon-takes-flight-with-student-built-payloads/" >🔗</a> **[NASA]** NASA Scientific Balloon Takes Flight With Student-Built Payloads
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-trio-to-join-expedition-71/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch; Trio to Join Expedition 71
-- <a href="https://www.nasaspaceflight.com/2024/09/cft-undocking/" >🔗</a> **[NASASpaceflight]** Starliner Calypso set to undock and return to Earth without CFT crew
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Europa Clipper Mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T230112">2024-09-06 23:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T233202">2024-09-06 23:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
