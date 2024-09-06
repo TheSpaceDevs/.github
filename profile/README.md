@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
+- <a href="https://arstechnica.com/space/2024/09/rocket-report-new-glenn-gets-rolling-vega-takes-its-final-dance/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 lifts its 7,000th Starlink; ABL cuts deep
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/" >🔗</a> **[NASA]** Hubble Examines a Busy Galactic Center
 - <a href="https://www.esa.int/Space_Safety/Hera/Debris_from_DART_impact_could_reach_Earth" >🔗</a> **[ESA]** Debris from DART impact could reach Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/First_metal_part_3D_printed_in_space" >🔗</a> **[ESA]** First metal part 3D printed in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Sentinel-2_captures_Sentinel-2" >🔗</a> **[ESA]** Earth from Space: Sentinel-2 captures Sentinel-2
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-secretive-reusable-spaceplane-lands-after-267-days-in-orbit/" >🔗</a> **[SpaceNews]** China’s secretive reusable spaceplane lands after 267 days in orbit
 - <a href="https://science.nasa.gov/blog/persevering-through-the-storm/" >🔗</a> **[NASA]** Persevering Through the Storm
 - <a href="https://spacenews.com/blue-origin-racing-to-meet-tight-launch-window-for-first-new-glenn-mission/" >🔗</a> **[SpaceNews]** Blue Origin racing to meet tight launch window for first New Glenn mission
-- <a href="https://spaceflightnow.com/2024/09/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-national-security-mission-for-the-nro/" >🔗</a> **[Spaceflight Now]** SpaceX launches Falcon 9 rocket on national security mission for the NRO
-- <a href="https://spacenews.com/aerospacelab-opens-doors-to-first-us-satellite-manufacturing-facility/" >🔗</a> **[SpaceNews]** Aerospacelab opens doors to first US satellite manufacturing facility
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T110118">2024-09-06 11:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T113101">2024-09-06 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
