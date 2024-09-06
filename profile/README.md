@@ -93,8 +93,8 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
 - <a href="https://arstechnica.com/space/2024/09/rocket-report-new-glenn-gets-rolling-vega-takes-its-final-dance/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 lifts its 7,000th Starlink; ABL cuts deep
-- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/" >🔗</a> **[NASA]** Hubble Examines a Busy Galactic Center
 - <a href="https://www.esa.int/Space_Safety/Hera/Debris_from_DART_impact_could_reach_Earth" >🔗</a> **[ESA]** Debris from DART impact could reach Earth
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/" >🔗</a> **[NASA]** Hubble Examines a Busy Galactic Center
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/First_metal_part_3D_printed_in_space" >🔗</a> **[ESA]** First metal part 3D printed in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Sentinel-2_captures_Sentinel-2" >🔗</a> **[ESA]** Earth from Space: Sentinel-2 captures Sentinel-2
 - <a href="https://spacenews.com/spacex-launches-third-batch-of-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches third batch of satellites for NRO’s proliferated constellation
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T113101">2024-09-06 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T120137">2024-09-06 12:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
