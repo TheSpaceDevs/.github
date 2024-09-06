@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-trio-to-join-expedition-71/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch; Trio to Join Expedition 71
+- <a href="https://www.nasaspaceflight.com/2024/09/cft-undocking/" >🔗</a> **[NASASpaceflight]** Starliner Calypso set to undock and return to Earth without CFT crew
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-europa-clipper-mission/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Europa Clipper Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/" >🔗</a> **[NASA]** NASA Summer Camp Inspires Future Climate Leaders
 - <a href="https://www.cnbc.com/2024/09/06/boeing-starliner-leaves-iss-crew-flight-test.html" >🔗</a> **[CNBC]** Boeing Starliner prepares to leaves space station empty, months later than planned
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/09/bepicolombo-completes-mercury-flyby-on-new-trajectory/" >🔗</a> **[Space Scout]** BepiColombo Completes Mercury Flyby on New Trajectory
 - <a href="https://europeanspaceflight.com/czech-government-signs-agreement-with-axiom-for-astronaut-mission/" >🔗</a> **[European Spaceflight]** Czech Government Signs Agreement with Axiom for Astronaut Mission
 - <a href="https://www.nasa.gov/directorates/stmd/osam-1-partnership-opportunity-request-for-information/" >🔗</a> **[NASA]** OSAM-1 Partnership Opportunity: Request for Information
-- <a href="https://spacenews.com/detecting-satellite-orbit-anomalies-requires-human-intelligence/" >🔗</a> **[SpaceNews]** Detecting satellite orbit anomalies requires human intelligence
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T180115">2024-09-06 18:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T183508">2024-09-06 18:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
