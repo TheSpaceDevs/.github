@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_September_2024" >🔗</a> **[ESA]** Week in images: 02-06 September 2024
+- <a href="https://europeanspaceflight.com/czech-government-signs-agreement-with-axiom-for-astronaut-mission/" >🔗</a> **[European Spaceflight]** Czech Government Signs Agreement with Axiom for Astronaut Mission
 - <a href="https://www.nasa.gov/directorates/stmd/osam-1-partnership-opportunity-request-for-information/" >🔗</a> **[NASA]** OSAM-1 Partnership Opportunity: Request for Information
 - <a href="https://spacenews.com/detecting-satellite-orbit-anomalies-requires-human-intelligence/" >🔗</a> **[SpaceNews]** Detecting satellite orbit anomalies requires human intelligence
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Mars_rover_trials" >🔗</a> **[ESA]** Mars rover trials
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/Debris_from_DART_impact_could_reach_Earth" >🔗</a> **[ESA]** Debris from DART impact could reach Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/First_metal_part_3D_printed_in_space" >🔗</a> **[ESA]** First metal part 3D printed in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Sentinel-2_captures_Sentinel-2" >🔗</a> **[ESA]** Earth from Space: Sentinel-2 captures Sentinel-2
-- <a href="https://spacenews.com/spacex-launches-third-batch-of-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches third batch of satellites for NRO’s proliferated constellation
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T140115">2024-09-06 14:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T143258">2024-09-06 14:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
