@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-national-security-mission-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on national security mission for the NRO
 - <a href="https://spacenews.com/aerospacelab-opens-doors-to-first-us-satellite-manufacturing-facility/" >🔗</a> **[SpaceNews]** Aerospacelab opens doors to first US satellite manufacturing facility
 - <a href="https://spacenews.com/kbrs-latest-acquisition-boosts-its-classified-space-workforce-amid-growing-military-demand/" >🔗</a> **[SpaceNews]** KBR’s latest acquisition boosts its classified space workforce amid growing military demand
 - <a href="https://science.nasa.gov/blog/sols-4295-4296-a-martian-moon-and-planet-earth/" >🔗</a> **[NASA]** Sols 4295-4296: A Martian Moon and Planet Earth
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Satellite_navigation/New_Galileo_satellites_operational_after_successful_in-orbit_testing" >🔗</a> **[ESA]** New Galileo satellites operational after successful in-orbit testing
 - <a href="https://spacenews.com/nasa-reaffirms-decision-to-cancel-osam-1/" >🔗</a> **[SpaceNews]** NASA reaffirms decision to cancel OSAM-1
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_best_images_yet_highlight_fourth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's best images yet highlight fourth Mercury flyby
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasas-boeing-starliner-mission-landing-criteria-timeline/" >🔗</a> **[NASA]** NASA’s Boeing Starliner Mission Landing Criteria, Timeline
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T000346">2024-09-06 00:03:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240906T004518">2024-09-06 00:45:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
