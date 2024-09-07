@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-boeing-welcome-starliner-spacecraft-to-earth-close-mission/" >🔗</a> **[NASA]** NASA, Boeing Welcome Starliner Spacecraft to Earth, Close Mission
 - <a href="https://spacepolicyonline.com/news/starliners-crew-flight-test-comes-to-an-end/" >🔗</a> **[SpacePolicyOnline.com]** Starliner’s Crew Flight Test Comes to an End
 - <a href="https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/" >🔗</a> **[SpaceNews]** NASA removes ESCAPADE from inaugural New Glenn launch
 - <a href="https://www.spacescout.info/2024/09/new-glenn-comes-together-but-plans-change/" >🔗</a> **[Space Scout]** New Glenn Comes Together, but Plans Change
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-delays-escapade-to-2025-blue-origin-moves-new-glenn-blue-ring-mission-up-to-november" >🔗</a> **[The Launch Pad]** NASA Delays ESCAPADE to 2025, Blue Origin Moves New Glenn Blue Ring Mission Up To November
 - <a href="https://www.nasa.gov/news-release/nasa-to-take-part-in-hidden-figures-congressional-gold-medal-ceremony/" >🔗</a> **[NASA]** NASA to Take Part in Hidden Figures Congressional Gold Medal Ceremony
 - <a href="https://www.nasa.gov/image-article/nasa-scientific-balloon-takes-flight-with-student-built-payloads/" >🔗</a> **[NASA]** NASA Scientific Balloon Takes Flight With Student-Built Payloads
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-trio-to-join-expedition-71/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch; Trio to Join Expedition 71
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240907T050115">2024-09-07 05:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240907T053208">2024-09-07 05:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
