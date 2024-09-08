@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 8-14, 2024
 - <a href="https://www.teslarati.com/elon-musk-reveals-spacex-starship-mars-first-time/" >🔗</a> **[Teslarati]** Elon Musk reveals when SpaceX Starship will go to Mars for first time
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Cluster_reentry_explained_world_s_first_targeted_reentry" >🔗</a> **[ESA]** Cluster reentry explained: world's first targeted reentry
 - <a href="https://spacenews.com/in-shadow-war-diplomats-experts-seek-ban-weapons-from-space/" >🔗</a> **[SpaceNews]** In the shadow of war, diplomats and experts seek to ban weapons from space
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/starliners-crew-flight-test-comes-to-an-end/" >🔗</a> **[SpacePolicyOnline.com]** Starliner’s Crew Flight Test Comes to an End
 - <a href="https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/" >🔗</a> **[SpaceNews]** NASA removes ESCAPADE from inaugural New Glenn launch
 - <a href="https://www.spacescout.info/2024/09/new-glenn-comes-together-but-plans-change/" >🔗</a> **[Space Scout]** New Glenn Comes Together, but Plans Change
-- <a href="https://spaceflightnow.com/2024/09/06/live-coverage-nasa-boeing-prepare-to-undock-starliner-concluding-the-crew-flight-test-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, Boeing prepare to undock Starliner, concluding the Crew Flight Test mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240908T203104">2024-09-08 20:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240908T210109">2024-09-08 21:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
