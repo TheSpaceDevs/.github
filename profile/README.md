@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Cluster_reentry_explained_world_s_first_targeted_reentry" >🔗</a> **[ESA]** Cluster reentry explained: world's first targeted reentry
 - <a href="https://spacenews.com/in-shadow-war-diplomats-experts-seek-ban-weapons-from-space/" >🔗</a> **[SpaceNews]** In the shadow of war, diplomats and experts seek to ban weapons from space
 - <a href="https://spacenews.com/starliner-returns-to-earth-uncrewed/" >🔗</a> **[SpaceNews]** Starliner returns to Earth uncrewed
 - <a href="https://spaceflightnow.com/2024/09/07/starliner-lands-safely-in-new-mexico/" >🔗</a> **[Spaceflight Now]** Starliner lands safely in New Mexico
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/09/new-glenn-comes-together-but-plans-change/" >🔗</a> **[Space Scout]** New Glenn Comes Together, but Plans Change
 - <a href="https://spaceflightnow.com/2024/09/06/live-coverage-nasa-boeing-prepare-to-undock-starliner-concluding-the-crew-flight-test-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, Boeing prepare to undock Starliner, concluding the Crew Flight Test mission
 - <a href="https://arstechnica.com/space/2024/09/new-glenns-debut-will-slip-into-november-as-nasa-decides-to-not-fuel-escapade/" >🔗</a> **[Arstechnica]** Faced with a tight deadline, NASA and Blue Origin agree to delay New Glenn debut
-- <a href="https://www.nasa.gov/news-release/nasa-selects-companies-for-commercial-smallsat-services-award/" >🔗</a> **[NASA]** NASA Selects Companies for Commercial SmallSat Services Award
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240908T140122">2024-09-08 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240908T143212">2024-09-08 14:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
