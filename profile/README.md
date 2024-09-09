@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/" >🔗</a> **[SpaceNews]** U.S. GPS modernization faces delays, technical challenges: GAO report
 - <a href="https://www.nasa.gov/image-article/the-dome-shaped-brandburg-massif-near-the-atlantic-coast-of-central-namibia/" >🔗</a> **[NASA]** The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia
 - <a href="https://www.nasa.gov/image-article/public-affairs-manager-gary-jordan/" >🔗</a> **[NASA]** Public Affairs Manager Gary Jordan
 - <a href="https://www.nasa.gov/news-release/celebrate-international-observe-the-moon-night-at-nasa-goddard-3/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night at NASA Goddard
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-for-your-classroom-opportunities-for-educators/" >🔗</a> **[NASA]** NASA Science for Your Classroom: Opportunities for Educators
 - <a href="https://spacenews.com/china-is-taking-a-keen-interest-in-lava-tubes-as-possible-lunar-habitats/" >🔗</a> **[SpaceNews]** China is taking a keen interest in lava tubes as possible lunar habitats
-- <a href="https://spacenews.com/ensuring-military-resilience-spacecraft-must-integrate-alternative-pnt-solutions/" >🔗</a> **[SpaceNews]** Ensuring military resilience: spacecraft must integrate alternative PNT solutions
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T193113">2024-09-09 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T200122">2024-09-09 20:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
