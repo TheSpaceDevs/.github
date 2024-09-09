@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-is-taking-a-keen-interest-in-lava-tubes-as-possible-lunar-habitats/" >🔗</a> **[SpaceNews]** China is taking a keen interest in lava tubes as possible lunar habitats
+- <a href="https://spacenews.com/ensuring-military-resilience-spacecraft-must-integrate-alternative-pnt-solutions/" >🔗</a> **[SpaceNews]** Ensuring military resilience: spacecraft must integrate alternative PNT solutions
+- <a href="https://spacenews.com/nasa-charts-path-toward-commercial-services-for-mars/" >🔗</a> **[SpaceNews]** NASA charts path toward commercial services for Mars
 - <a href="https://spacenews.com/esa-performs-targeted-reentry-of-cluster-satellite/" >🔗</a> **[SpaceNews]** ESA performs targeted reentry of Cluster satellite
 - <a href="https://europeanspaceflight.com/greece-awards-contracts-totalling-e53m-to-iceye-and-ororatech/" >🔗</a> **[European Spaceflight]** Greece Awards Contracts Totalling €53M to ICEYE and OroraTech
 - <a href="https://spaceflightnow.com/2024/09/09/live-coverage-spacex-to-launch-polaris-dawn-astronaut-mission-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX targets Tuesday for next launch attempt of the Polaris Dawn mission
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eartheye-space-raises-1-5-million/" >🔗</a> **[SpaceNews]** Eartheye Space raises $1.5 million
 - <a href="https://spacenews.com/faa-to-complete-orbital-debris-upper-stage-regulations-in-2025/" >🔗</a> **[SpaceNews]** FAA to complete orbital debris upper stage regulations in 2025
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 8-14, 2024
-- <a href="https://www.teslarati.com/elon-musk-reveals-spacex-starship-mars-first-time/" >🔗</a> **[Teslarati]** Elon Musk reveals when SpaceX Starship will go to Mars for first time
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Cluster_reentry_explained_world_s_first_targeted_reentry" >🔗</a> **[ESA]** Cluster reentry explained: world's first targeted reentry
-- <a href="https://spacenews.com/in-shadow-war-diplomats-experts-seek-ban-weapons-from-space/" >🔗</a> **[SpaceNews]** In the shadow of war, diplomats and experts seek to ban weapons from space
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T130514">2024-09-09 13:05:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T133354">2024-09-09 13:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
