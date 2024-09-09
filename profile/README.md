@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/faa-may-just-pushed-back-spacex-polaris-dawn-mission-falcon-9-mishap/" >🔗</a> **[Teslarati]** FAA may have just pushed back SpaceX Polaris Dawn mission after Falcon 9 mishap
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-slips-again-for-a-different-kind-of-weather-problem/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Slips Again For a Different Kind of Weather Problem
 - <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn on hold; SpaceX booster fails on landing
-- <a href="https://www.nasaspaceflight.com/2024/08/polaris-dawn/" >🔗</a> **[NASASpaceflight]** SpaceX waiting to launch historic Polaris Dawn mission
+- <a href="https://www.nasaspaceflight.com/2024/08/polaris-dawn/" >🔗</a> **[NASASpaceflight]** SpaceX watching weather for historic Polaris Dawn mission
 - <a href="https://arstechnica.com/space/2024/08/when-it-comes-to-expanding-human-activity-in-space-polaris-dawn-is-the-real-deal/" >🔗</a> **[Arstechnica]** One of the most adventurous human spaceflights since Apollo may launch tonight
 - <a href="https://spaceflightnow.com/2024/08/26/live-coverage-spacex-to-launch-polaris-dawn-astronauts-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Launch delay: SpaceX pushes Polaris Dawn astronaut launch due to splashdown weather concerns
 - <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire test of its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T190104">2024-09-09 19:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T193113">2024-09-09 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
