@@ -105,6 +105,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/09/09/live-coverage-spacex-to-launch-polaris-dawn-astronaut-mission-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX targets Tuesday for next launch attempt of the Polaris Dawn mission
 - <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega retired after final launch; Polaris Dawn set for new launch attempt
 - <a href="https://www.teslarati.com/faa-may-just-pushed-back-spacex-polaris-dawn-mission-falcon-9-mishap/" >🔗</a> **[Teslarati]** FAA may have just pushed back SpaceX Polaris Dawn mission after Falcon 9 mishap
@@ -114,12 +115,11 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/08/when-it-comes-to-expanding-human-activity-in-space-polaris-dawn-is-the-real-deal/" >🔗</a> **[Arstechnica]** One of the most adventurous human spaceflights since Apollo may launch tonight
 - <a href="https://spaceflightnow.com/2024/08/26/live-coverage-spacex-to-launch-polaris-dawn-astronauts-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Launch delay: SpaceX pushes Polaris Dawn astronaut launch due to splashdown weather concerns
 - <a href="https://spaceflightnow.com/2024/08/25/live-coverage-spacex-to-static-fire-test-its-falcon-9-rocket-in-preparation-for-the-polaris-dawn-astronaut-mission/" >🔗</a> **[Spaceflight Now]** SpaceX completes static fire test of its Falcon 9 rocket in preparation for the Polaris Dawn astronaut mission
-- <a href="https://arstechnica.com/space/2024/08/rocket-report-a-ula-sale-tidbit-polaris-dawn-mission-is-on-deck/" >🔗</a> **[Arstechnica]** Rocket Report: A ULA sale tidbit; Polaris Dawn mission is on deck
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T110110">2024-09-09 11:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T113113">2024-09-09 11:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
