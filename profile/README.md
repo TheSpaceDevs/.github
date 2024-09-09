@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europa-clipper-passes-pre-launch-review/" >🔗</a> **[SpaceNews]** Europa Clipper passes pre-launch review
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-scientists-engineers-collaborate-with-artists-for-exhibition/" >🔗</a> **[NASA]** NASA JPL Scientists, Engineers Collaborate With Artists for Exhibition
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 - <a href="https://spacenews.com/lynk-global-shakes-up-leadership-amid-ongoing-funding-talks/" >🔗</a> **[SpaceNews]** Lynk Global shakes up leadership amid ongoing funding talks
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-discuss-mission-from-space-station/" >🔗</a> **[NASA]** NASA Astronauts to Discuss Mission from Space Station
 - <a href="https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/" >🔗</a> **[SpaceNews]** U.S. GPS modernization faces delays, technical challenges: GAO report
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/public-affairs-manager-gary-jordan/" >🔗</a> **[NASA]** Public Affairs Manager Gary Jordan
 - <a href="https://www.nasa.gov/news-release/celebrate-international-observe-the-moon-night-at-nasa-goddard-3/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night at NASA Goddard
 - <a href="https://www.nasa.gov/general/like-a-diamond-in-the-sky-how-to-spot-nasas-solar-sail-demo-in-orbit/" >🔗</a> **[NASA]** Like a Diamond in the Sky: How to Spot NASA’s Solar Sail Demo in Orbit
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/find-me-on-the-moon-nasa-lunar-navigation-challenge/" >🔗</a> **[NASA]** Find Me on the Moon: NASA Lunar Navigation Challenge
-- <a href="https://spacenews.com/leah-harris-joins-spacenews-as-marketing-advertising-operations-and-audience-development-manager/" >🔗</a> **[SpaceNews]** Leah Harris Joins SpaceNews as Marketing, Advertising Operations, and Audience Development Manager
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T230126">2024-09-09 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T233133">2024-09-09 23:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
