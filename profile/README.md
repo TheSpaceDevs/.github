@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/the-dome-shaped-brandburg-massif-near-the-atlantic-coast-of-central-namibia/" >🔗</a> **[NASA]** The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia
+- <a href="https://www.nasa.gov/image-article/public-affairs-manager-gary-jordan/" >🔗</a> **[NASA]** Public Affairs Manager Gary Jordan
 - <a href="https://www.nasa.gov/news-release/celebrate-international-observe-the-moon-night-at-nasa-goddard-3/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night at NASA Goddard
 - <a href="https://www.nasa.gov/general/like-a-diamond-in-the-sky-how-to-spot-nasas-solar-sail-demo-in-orbit/" >🔗</a> **[NASA]** Like a Diamond in the Sky: How to Spot NASA’s Solar Sail Demo in Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/find-me-on-the-moon-nasa-lunar-navigation-challenge/" >🔗</a> **[NASA]** Find Me on the Moon: NASA Lunar Navigation Challenge
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-for-your-classroom-opportunities-for-educators/" >🔗</a> **[NASA]** NASA Science for Your Classroom: Opportunities for Educators
 - <a href="https://spacenews.com/china-is-taking-a-keen-interest-in-lava-tubes-as-possible-lunar-habitats/" >🔗</a> **[SpaceNews]** China is taking a keen interest in lava tubes as possible lunar habitats
 - <a href="https://spacenews.com/ensuring-military-resilience-spacecraft-must-integrate-alternative-pnt-solutions/" >🔗</a> **[SpaceNews]** Ensuring military resilience: spacecraft must integrate alternative PNT solutions
-- <a href="https://spacenews.com/nasa-charts-path-toward-commercial-services-for-mars/" >🔗</a> **[SpaceNews]** NASA charts path toward commercial services for Mars
-- <a href="https://spacenews.com/esa-performs-targeted-reentry-of-cluster-satellite/" >🔗</a> **[SpaceNews]** ESA performs targeted reentry of Cluster satellite
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T160115">2024-09-09 16:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T163534">2024-09-09 16:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
