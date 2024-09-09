@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lynk-global-shakes-up-leadership-amid-ongoing-funding-talks/" >🔗</a> **[SpaceNews]** Lynk Global shakes up leadership amid ongoing funding talks
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-discuss-mission-from-space-station/" >🔗</a> **[NASA]** NASA Astronauts to Discuss Mission from Space Station
 - <a href="https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/" >🔗</a> **[SpaceNews]** U.S. GPS modernization faces delays, technical challenges: GAO report
 - <a href="https://www.nasa.gov/image-article/the-dome-shaped-brandburg-massif-near-the-atlantic-coast-of-central-namibia/" >🔗</a> **[NASA]** The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/find-me-on-the-moon-nasa-lunar-navigation-challenge/" >🔗</a> **[NASA]** Find Me on the Moon: NASA Lunar Navigation Challenge
 - <a href="https://spacenews.com/leah-harris-joins-spacenews-as-marketing-advertising-operations-and-audience-development-manager/" >🔗</a> **[SpaceNews]** Leah Harris Joins SpaceNews as Marketing, Advertising Operations, and Audience Development Manager
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-for-your-classroom-opportunities-for-educators/" >🔗</a> **[NASA]** NASA Science for Your Classroom: Opportunities for Educators
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T210113">2024-09-09 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T213104">2024-09-09 21:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
