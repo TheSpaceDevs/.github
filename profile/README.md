@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eartheye-space-raises-1-5-million/" >🔗</a> **[SpaceNews]** Eartheye Space raises $1.5 million
+- <a href="https://spacenews.com/faa-to-complete-orbital-debris-upper-stage-regulations-in-2025/" >🔗</a> **[SpaceNews]** FAA to complete orbital debris upper stage regulations in 2025
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 8-14, 2024
 - <a href="https://www.teslarati.com/elon-musk-reveals-spacex-starship-mars-first-time/" >🔗</a> **[Teslarati]** Elon Musk reveals when SpaceX Starship will go to Mars for first time
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Cluster_reentry_explained_world_s_first_targeted_reentry" >🔗</a> **[ESA]** Cluster reentry explained: world's first targeted reentry
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/09/07/starliner-lands-safely-in-new-mexico/" >🔗</a> **[Spaceflight Now]** Starliner lands safely in New Mexico
 - <a href="https://www.nasa.gov/news-release/nasa-boeing-welcome-starliner-spacecraft-to-earth-close-mission/" >🔗</a> **[NASA]** NASA, Boeing Welcome Starliner Spacecraft to Earth, Close Mission
 - <a href="https://spacepolicyonline.com/news/starliners-crew-flight-test-comes-to-an-end/" >🔗</a> **[SpacePolicyOnline.com]** Starliner’s Crew Flight Test Comes to an End
-- <a href="https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/" >🔗</a> **[SpaceNews]** NASA removes ESCAPADE from inaugural New Glenn launch
-- <a href="https://www.spacescout.info/2024/09/new-glenn-comes-together-but-plans-change/" >🔗</a> **[Space Scout]** New Glenn Comes Together, but Plans Change
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T000428">2024-09-09 00:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T004535">2024-09-09 00:45:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
