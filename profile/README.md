@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/09/live-coverage-spacex-to-launch-polaris-dawn-astronaut-mission-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX targets Tuesday for next launch attempt of the Polaris Dawn mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cluster/Goodnight_Cluster_brilliant_end_to_trailblazing_mission" >🔗</a> **[ESA]** Goodnight, Cluster: brilliant end to trailblazing mission
 - <a href="https://spacenews.com/eartheye-space-raises-1-5-million/" >🔗</a> **[SpaceNews]** Eartheye Space raises $1.5 million
 - <a href="https://spacenews.com/faa-to-complete-orbital-debris-upper-stage-regulations-in-2025/" >🔗</a> **[SpaceNews]** FAA to complete orbital debris upper stage regulations in 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/in-shadow-war-diplomats-experts-seek-ban-weapons-from-space/" >🔗</a> **[SpaceNews]** In the shadow of war, diplomats and experts seek to ban weapons from space
 - <a href="https://spacenews.com/starliner-returns-to-earth-uncrewed/" >🔗</a> **[SpaceNews]** Starliner returns to Earth uncrewed
 - <a href="https://spaceflightnow.com/2024/09/07/starliner-lands-safely-in-new-mexico/" >🔗</a> **[Spaceflight Now]** Starliner lands safely in New Mexico
-- <a href="https://www.nasa.gov/news-release/nasa-boeing-welcome-starliner-spacecraft-to-earth-close-mission/" >🔗</a> **[NASA]** NASA, Boeing Welcome Starliner Spacecraft to Earth, Close Mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T090115">2024-09-09 09:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240909T093239">2024-09-09 09:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
