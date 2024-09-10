@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/europa-clipper-go-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Go For Launch
 - <a href="https://spacenews.com/europa-clipper-passes-pre-launch-review/" >🔗</a> **[SpaceNews]** Europa Clipper passes pre-launch review
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-scientists-engineers-collaborate-with-artists-for-exhibition/" >🔗</a> **[NASA]** NASA JPL Scientists, Engineers Collaborate With Artists for Exhibition
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/the-dome-shaped-brandburg-massif-near-the-atlantic-coast-of-central-namibia/" >🔗</a> **[NASA]** The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia
 - <a href="https://www.nasa.gov/image-article/public-affairs-manager-gary-jordan/" >🔗</a> **[NASA]** Public Affairs Manager Gary Jordan
 - <a href="https://www.nasa.gov/news-release/celebrate-international-observe-the-moon-night-at-nasa-goddard-3/" >🔗</a> **[NASA]** Celebrate International Observe the Moon Night at NASA Goddard
-- <a href="https://www.nasa.gov/general/like-a-diamond-in-the-sky-how-to-spot-nasas-solar-sail-demo-in-orbit/" >🔗</a> **[NASA]** Like a Diamond in the Sky: How to Spot NASA’s Solar Sail Demo in Orbit
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T022605">2024-09-10 02:26:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T024413">2024-09-10 02:44:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
