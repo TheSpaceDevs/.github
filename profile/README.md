@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/interlune-reveals-details-of-quest-to-bring-home-lunar-resources/" >🔗</a> **[SpaceNews]** Interlune reveals details of quest to bring home lunar resources
+- <a href="https://spacenews.com/why-space-next-frontier-accelerate-medical-research/" >🔗</a> **[SpaceNews]** Why space is the next frontier to accelerate medical research
+- <a href="https://spacenews.com/u-s-space-force-seeks-industry-input-on-automating-hybrid-satellite-networks/" >🔗</a> **[SpaceNews]** U.S. Space Force seeks industry input on automating hybrid satellite networks
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/A_look_back_at_Sentinel-2C_s_ride_into_space_on_Vega" >🔗</a> **[ESA]** A look back at Sentinel-2C's ride into space on Vega
 - <a href="https://spacenews.com/1000-leo-south-koreas-reusable-rocket-plan-targets-spacex-dominance/" >🔗</a> **[SpaceNews]** $1,000 to LEO: South Korea’s reusable rocket plan targets SpaceX’s dominance
 - <a href="https://spacenews.com/boeing-plots-2026-quantum-networking-satellite-demo/" >🔗</a> **[SpaceNews]** Boeing plots 2026 quantum networking satellite demo
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Space_Team_Europe_for_Vega_final_liftoff" >🔗</a> **[ESA]** Space Team Europe for Vega: final liftoff
 - <a href="https://www.nasa.gov/humans-in-space/nasa-to-test-telemedicine-gather-essential-health-data-with-polaris-dawn-crew/" >🔗</a> **[NASA]** NASA to Test Telemedicine, Gather Essential Health Data with Polaris Dawn Crew
 - <a href="https://spacenews.com/in-slingshot-a-mission-to-titan-goes-off-course/" >🔗</a> **[SpaceNews]** In Slingshot, a mission to Titan goes off course
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_confirms_that_Earth_is_habitable" >🔗</a> **[ESA]** Juice confirms that Earth is habitable
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/The_2024_Global_Methane_Budget_reveals_alarming_trends" >🔗</a> **[ESA]** The 2024 Global Methane Budget reveals alarming trends
-- <a href="https://www.esa.int/Enabling_Support/Operations/A_smooth_start_to_life_in_orbit_for_Sentinel-2C" >🔗</a> **[ESA]** A smooth start to life in orbit for Sentinel-2C
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T160129">2024-09-10 16:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T163531">2024-09-10 16:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
