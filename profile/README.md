@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/A_look_back_at_Sentinel-2C_s_ride_into_space_on_Vega" >🔗</a> **[ESA]** A look back at Sentinel-2C's ride into space on Vega
+- <a href="https://spacenews.com/1000-leo-south-koreas-reusable-rocket-plan-targets-spacex-dominance/" >🔗</a> **[SpaceNews]** $1,000 to LEO: South Korea’s reusable rocket plan targets SpaceX’s dominance
 - <a href="https://spacenews.com/boeing-plots-2026-quantum-networking-satellite-demo/" >🔗</a> **[SpaceNews]** Boeing plots 2026 quantum networking satellite demo
 - <a href="https://europeanspaceflight.com/isar-ceo-tempers-expectations-for-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar CEO Tempers Expectations for Inaugural Spectrum Flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Space_Team_Europe_for_Vega_final_liftoff" >🔗</a> **[ESA]** Space Team Europe for Vega: final liftoff
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_confirms_that_Earth_is_habitable" >🔗</a> **[ESA]** Juice confirms that Earth is habitable
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/The_2024_Global_Methane_Budget_reveals_alarming_trends" >🔗</a> **[ESA]** The 2024 Global Methane Budget reveals alarming trends
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_smooth_start_to_life_in_orbit_for_Sentinel-2C" >🔗</a> **[ESA]** A smooth start to life in orbit for Sentinel-2C
-- <a href="https://spacenews.com/crew-dragon-launches-on-polaris-dawn-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Crew Dragon launches on Polaris Dawn private astronaut mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T150124">2024-09-10 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T153202">2024-09-10 15:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
