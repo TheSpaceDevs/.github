@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/The_2024_Global_Methane_Budget_reveals_alarming_trends" >🔗</a> **[ESA]** The 2024 Global Methane Budget reveals alarming trends
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_smooth_start_to_life_in_orbit_for_Sentinel-2C" >🔗</a> **[ESA]** A smooth start to life in orbit for Sentinel-2C
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_confirms_that_Earth_is_habitable" >🔗</a> **[ESA]** Juice confirms that Earth is habitable
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/The_2024_Global_Methane_Budget_reveals_alarming_trends" >🔗</a> **[ESA]** The 2024 Global Methane Budget reveals alarming trends
+- <a href="https://spacepolicyonline.com/news/polaris-dawn-finally-gets-a-break/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Finally Gets a Break
+- <a href="https://arstechnica.com/space/2024/09/bold-private-spaceflight-begins-early-tuesday-with-a-break-in-the-weather/" >🔗</a> **[Arstechnica]** Polaris Dawn takes to the skies, setting the stage for a daring private spacewalk
+- <a href="https://spacenews.com/change-6-orbiter-turns-up-at-sun-earth-lagrange-point-after-moon-sampling-mission/" >🔗</a> **[SpaceNews]** Chang’e-6 orbiter turns up at Sun-Earth Lagrange point after moon sampling mission
 - <a href="https://www.cnbc.com/2024/09/10/spacex-polaris-dawn-mission-launches-first-civilian-spacewalk.html" >🔗</a> **[CNBC]** SpaceX launches Polaris Dawn mission, which will attempt the first private spacewalk
 - <a href="https://europeanspaceflight.com/airbus-demonstrates-autonomous-sample-collection-for-mars-missions/" >🔗</a> **[European Spaceflight]** Airbus Demonstrates Autonomous Sample Collection for Mars Missions
 - <a href="https://science.nasa.gov/blog/sols-4297-4299-this-way-to-tungsten-hills/" >🔗</a> **[NASA]** Sols 4297-4299: This Way to Tungsten Hills
 - <a href="https://spacepolicyonline.com/news/europa-clipper-go-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Go For Launch
-- <a href="https://spacenews.com/europa-clipper-passes-pre-launch-review/" >🔗</a> **[SpaceNews]** Europa Clipper passes pre-launch review
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-scientists-engineers-collaborate-with-artists-for-exhibition/" >🔗</a> **[NASA]** NASA JPL Scientists, Engineers Collaborate With Artists for Exhibition
-- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
-- <a href="https://spacenews.com/lynk-global-shakes-up-leadership-amid-ongoing-funding-talks/" >🔗</a> **[SpaceNews]** Lynk Global shakes up leadership amid ongoing funding talks
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T100143">2024-09-10 10:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T103425">2024-09-10 10:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
