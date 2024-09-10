@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Polaris Dawn**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T073800">2024-09-10 07:38:00 UTC</a>.  Until
-then, this pad will have been used for 184
-out of 242 launches from this location. The launch status is currently
+**Soyuz 2.1a | Soyuz MS-26**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162320">2024-09-11 16:23:20 UTC</a>.  Until
+then, this pad will have been used for 417
+out of 1550 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  First mission of the privately funded Polaris program. The goal of this mission, lasting up to five days in orbit, is to fly higher than previous Dragon missions, perform the first-ever commercial EVA with SpaceX-designed spacesuits, orbit through portions of the Van Allen radiation belt, conduct medical research, and test laser-based Starlink communications in space.
+  Soyuz MS-26 will carry two cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T230100">2024-09-16 23:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240916T230100Z%2F20240916T230100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T185000">2024-09-24 18:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Cape Canaveral, FL, USA&dates=20240924T185000Z%2F20240924T185000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 5&location=SpaceX Starbase, TX, USA&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 5** from SpaceX Starbase, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/The_2024_Global_Methane_Budget_reveals_alarming_trends" >🔗</a> **[ESA]** The 2024 Global Methane Budget reveals alarming trends
+- <a href="https://www.esa.int/Enabling_Support/Operations/A_smooth_start_to_life_in_orbit_for_Sentinel-2C" >🔗</a> **[ESA]** A smooth start to life in orbit for Sentinel-2C
+- <a href="https://www.cnbc.com/2024/09/10/spacex-polaris-dawn-mission-launches-first-civilian-spacewalk.html" >🔗</a> **[CNBC]** SpaceX launches Polaris Dawn mission, which will attempt the first private spacewalk
 - <a href="https://europeanspaceflight.com/airbus-demonstrates-autonomous-sample-collection-for-mars-missions/" >🔗</a> **[European Spaceflight]** Airbus Demonstrates Autonomous Sample Collection for Mars Missions
 - <a href="https://science.nasa.gov/blog/sols-4297-4299-this-way-to-tungsten-hills/" >🔗</a> **[NASA]** Sols 4297-4299: This Way to Tungsten Hills
 - <a href="https://spacepolicyonline.com/news/europa-clipper-go-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Go For Launch
@@ -97,28 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-scientists-engineers-collaborate-with-artists-for-exhibition/" >🔗</a> **[NASA]** NASA JPL Scientists, Engineers Collaborate With Artists for Exhibition
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 - <a href="https://spacenews.com/lynk-global-shakes-up-leadership-amid-ongoing-funding-talks/" >🔗</a> **[SpaceNews]** Lynk Global shakes up leadership amid ongoing funding talks
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-discuss-mission-from-space-station/" >🔗</a> **[NASA]** NASA Astronauts to Discuss Mission from Space Station
-- <a href="https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/" >🔗</a> **[SpaceNews]** U.S. GPS modernization faces delays, technical challenges: GAO report
-- <a href="https://www.nasa.gov/image-article/the-dome-shaped-brandburg-massif-near-the-atlantic-coast-of-central-namibia/" >🔗</a> **[NASA]** The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
-- <a href="https://spaceflightnow.com/2024/09/09/live-coverage-spacex-to-launch-polaris-dawn-astronaut-mission-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX targets Tuesday for next launch attempt of the Polaris Dawn mission
-- <a href="https://www.teslarati.com/spacex-plans-starlink-polaris-dawn-launches-consecutive-days/" >🔗</a> **[Teslarati]** SpaceX plans Starlink and Polaris Dawn launches in consecutive days
-- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega retired after final launch; Polaris Dawn set for new launch attempt
-- <a href="https://www.teslarati.com/faa-may-just-pushed-back-spacex-polaris-dawn-mission-falcon-9-mishap/" >🔗</a> **[Teslarati]** FAA may have just pushed back SpaceX Polaris Dawn mission after Falcon 9 mishap
-- <a href="https://spacepolicyonline.com/news/polaris-dawn-slips-again-for-a-different-kind-of-weather-problem/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Slips Again For a Different Kind of Weather Problem
-- <a href="https://www.nasaspaceflight.com/2024/08/launch-roundup-082624/" >🔗</a> **[NASASpaceflight]** Polaris Dawn on hold; SpaceX booster fails on landing
-- <a href="https://www.nasaspaceflight.com/2024/08/polaris-dawn/" >🔗</a> **[NASASpaceflight]** SpaceX watching weather for historic Polaris Dawn mission
-- <a href="https://arstechnica.com/space/2024/08/when-it-comes-to-expanding-human-activity-in-space-polaris-dawn-is-the-real-deal/" >🔗</a> **[Arstechnica]** One of the most adventurous human spaceflights since Apollo may launch tonight
-- <a href="https://spaceflightnow.com/2024/08/26/live-coverage-spacex-to-launch-polaris-dawn-astronauts-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Launch delay: SpaceX pushes Polaris Dawn astronaut launch due to splashdown weather concerns
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-trio-to-join-expedition-71/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch; Trio to Join Expedition 71
+- <a href="https://www.nasa.gov/news-release/nasa-hosts-astronaut-don-pettit-prelaunch-interviews/" >🔗</a> **[NASA]** NASA Hosts Astronaut Don Pettit Prelaunch Interviews
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T090124">2024-09-10 09:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T093223">2024-09-10 09:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
