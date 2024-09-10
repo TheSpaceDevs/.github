@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/airbus-demonstrates-autonomous-sample-collection-for-mars-missions/" >🔗</a> **[European Spaceflight]** Airbus Demonstrates Autonomous Sample Collection for Mars Missions
 - <a href="https://science.nasa.gov/blog/sols-4297-4299-this-way-to-tungsten-hills/" >🔗</a> **[NASA]** Sols 4297-4299: This Way to Tungsten Hills
 - <a href="https://spacepolicyonline.com/news/europa-clipper-go-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Go For Launch
 - <a href="https://spacenews.com/europa-clipper-passes-pre-launch-review/" >🔗</a> **[SpaceNews]** Europa Clipper passes pre-launch review
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-discuss-mission-from-space-station/" >🔗</a> **[NASA]** NASA Astronauts to Discuss Mission from Space Station
 - <a href="https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/" >🔗</a> **[SpaceNews]** U.S. GPS modernization faces delays, technical challenges: GAO report
 - <a href="https://www.nasa.gov/image-article/the-dome-shaped-brandburg-massif-near-the-atlantic-coast-of-central-namibia/" >🔗</a> **[NASA]** The dome-shaped Brandburg Massif near the Atlantic coast of central Namibia
-- <a href="https://www.nasa.gov/image-article/public-affairs-manager-gary-jordan/" >🔗</a> **[NASA]** Public Affairs Manager Gary Jordan
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T080125">2024-09-10 08:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T083421">2024-09-10 08:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
