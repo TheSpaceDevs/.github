@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/childhood-snow-days-transformed-linette-boisvert-into-a-sea-ice-scientist/" >🔗</a> **[NASA]** Childhood Snow Days Transformed Linette Boisvert into a Sea Ice Scientist
+- <a href="https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/" >🔗</a> **[NASA]** 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
+- <a href="https://www.teslarati.com/spacex-launches-polaris-dawn-taking-astronauts-to-heights-not-seen-in-decades/" >🔗</a> **[Teslarati]** SpaceX launches Polaris Dawn, taking astronauts to heights not seen in decades
+- <a href="https://science.nasa.gov/blog/sols-4300-4301-rippled-pages/" >🔗</a> **[NASA]** Sols 4300-4301: Rippled Pages
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-64-astronauts-test-a-spacewalk-rescue-aid/" >🔗</a> **[NASA]** 30 Years Ago: STS-64 Astronauts Test a Spacewalk Rescue Aid
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/kyle-helson-finds-excite-ment-in-exoplanet-exploration/" >🔗</a> **[NASA]** Kyle Helson Finds EXCITE-ment in Exoplanet Exploration
 - <a href="https://spacenews.com/interlune-reveals-details-of-quest-to-bring-home-lunar-resources/" >🔗</a> **[SpaceNews]** Interlune reveals details of quest to bring home lunar resources
 - <a href="https://spacenews.com/why-space-next-frontier-accelerate-medical-research/" >🔗</a> **[SpaceNews]** Why space is the next frontier to accelerate medical research
 - <a href="https://spacenews.com/u-s-space-force-seeks-industry-input-on-automating-hybrid-satellite-networks/" >🔗</a> **[SpaceNews]** U.S. Space Force seeks industry input on automating hybrid satellite networks
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/A_look_back_at_Sentinel-2C_s_ride_into_space_on_Vega" >🔗</a> **[ESA]** A look back at Sentinel-2C's ride into space on Vega
-- <a href="https://spacenews.com/1000-leo-south-koreas-reusable-rocket-plan-targets-spacex-dominance/" >🔗</a> **[SpaceNews]** $1,000 to LEO: South Korea’s reusable rocket plan targets SpaceX’s dominance
-- <a href="https://spacenews.com/boeing-plots-2026-quantum-networking-satellite-demo/" >🔗</a> **[SpaceNews]** Boeing plots 2026 quantum networking satellite demo
-- <a href="https://europeanspaceflight.com/isar-ceo-tempers-expectations-for-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar CEO Tempers Expectations for Inaugural Spectrum Flight
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Space_Team_Europe_for_Vega_final_liftoff" >🔗</a> **[ESA]** Space Team Europe for Vega: final liftoff
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T190120">2024-09-10 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T193104">2024-09-10 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
