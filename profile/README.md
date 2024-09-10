@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/astronaut-frank-culbertson-letter-from-september-11-2001/" >🔗</a> **[NASA]** Astronaut Frank Culbertson Letter from September 11, 2001
 - <a href="https://www.teslarati.com/spacex-explains-starship-test-flight-delay-reveals-new-target-date/" >🔗</a> **[Teslarati]** SpaceX explains Starship test flight delay, reveals new target date
 - <a href="https://www.nasa.gov/image-article/starship-super-heavy-breezes-through-wind-tunnel-testing-at-nasa-ames/" >🔗</a> **[NASA]** Starship Super Heavy Breezes Through Wind Tunnel Testing at NASA Ames
 - <a href="https://www.nasa.gov/image-article/a-starry-view/" >🔗</a> **[NASA]** A Starry View
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/" >🔗</a> **[NASA]** 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
 - <a href="https://www.teslarati.com/spacex-launches-polaris-dawn-taking-astronauts-to-heights-not-seen-in-decades/" >🔗</a> **[Teslarati]** SpaceX launches Polaris Dawn, taking astronauts to heights not seen in decades
 - <a href="https://science.nasa.gov/blog/sols-4300-4301-rippled-pages/" >🔗</a> **[NASA]** Sols 4300-4301: Rippled Pages
-- <a href="https://www.nasa.gov/history/30-years-ago-sts-64-astronauts-test-a-spacewalk-rescue-aid/" >🔗</a> **[NASA]** 30 Years Ago: STS-64 Astronauts Test a Spacewalk Rescue Aid
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T213056">2024-09-10 21:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T220119">2024-09-10 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
