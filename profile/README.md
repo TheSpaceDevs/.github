@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/30-years-ago-sts-64-astronauts-test-a-spacewalk-rescue-aid/" >🔗</a> **[NASA]** 30 Years Ago: STS-64 Astronauts Test a Spacewalk Rescue Aid
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/kyle-helson-finds-excite-ment-in-exoplanet-exploration/" >🔗</a> **[NASA]** Kyle Helson Finds EXCITE-ment in Exoplanet Exploration
 - <a href="https://spacenews.com/interlune-reveals-details-of-quest-to-bring-home-lunar-resources/" >🔗</a> **[SpaceNews]** Interlune reveals details of quest to bring home lunar resources
 - <a href="https://spacenews.com/why-space-next-frontier-accelerate-medical-research/" >🔗</a> **[SpaceNews]** Why space is the next frontier to accelerate medical research
 - <a href="https://spacenews.com/u-s-space-force-seeks-industry-input-on-automating-hybrid-satellite-networks/" >🔗</a> **[SpaceNews]** U.S. Space Force seeks industry input on automating hybrid satellite networks
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boeing-plots-2026-quantum-networking-satellite-demo/" >🔗</a> **[SpaceNews]** Boeing plots 2026 quantum networking satellite demo
 - <a href="https://europeanspaceflight.com/isar-ceo-tempers-expectations-for-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar CEO Tempers Expectations for Inaugural Spectrum Flight
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Space_Team_Europe_for_Vega_final_liftoff" >🔗</a> **[ESA]** Space Team Europe for Vega: final liftoff
-- <a href="https://www.nasa.gov/humans-in-space/nasa-to-test-telemedicine-gather-essential-health-data-with-polaris-dawn-crew/" >🔗</a> **[NASA]** NASA to Test Telemedicine, Gather Essential Health Data with Polaris Dawn Crew
-- <a href="https://spacenews.com/in-slingshot-a-mission-to-titan-goes-off-course/" >🔗</a> **[SpaceNews]** In Slingshot, a mission to Titan goes off course
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T170118">2024-09-10 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T173151">2024-09-10 17:31:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
