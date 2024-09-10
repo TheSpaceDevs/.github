@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-investing-in-reentry-vehicles-for-space-to-earth-cargo-delivery/" >🔗</a> **[SpaceNews]** U.S. military investing in reentry vehicles for space-to-Earth cargo delivery
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/childhood-snow-days-transformed-linette-boisvert-into-a-sea-ice-scientist/" >🔗</a> **[NASA]** Childhood Snow Days Transformed Linette Boisvert into a Sea Ice Scientist
 - <a href="https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/" >🔗</a> **[NASA]** 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
 - <a href="https://www.teslarati.com/spacex-launches-polaris-dawn-taking-astronauts-to-heights-not-seen-in-decades/" >🔗</a> **[Teslarati]** SpaceX launches Polaris Dawn, taking astronauts to heights not seen in decades
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/interlune-reveals-details-of-quest-to-bring-home-lunar-resources/" >🔗</a> **[SpaceNews]** Interlune reveals details of quest to bring home lunar resources
 - <a href="https://spacenews.com/why-space-next-frontier-accelerate-medical-research/" >🔗</a> **[SpaceNews]** Why space is the next frontier to accelerate medical research
 - <a href="https://spacenews.com/u-s-space-force-seeks-industry-input-on-automating-hybrid-satellite-networks/" >🔗</a> **[SpaceNews]** U.S. Space Force seeks industry input on automating hybrid satellite networks
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/A_look_back_at_Sentinel-2C_s_ride_into_space_on_Vega" >🔗</a> **[ESA]** A look back at Sentinel-2C's ride into space on Vega
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T193104">2024-09-10 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240910T200148">2024-09-10 20:01:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
