@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162320">2024-09-11 16:23:20 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162312">2024-09-11 16:23:12 UTC</a>.  Until
 then, this pad will have been used for 417
 out of 1550 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162320">2024-09-11 16:23:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-26&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240911T162320Z%2F20240911T162320Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-26** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T162312">2024-09-11 16:23:12 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-26&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20240911T162312Z%2F20240911T162312Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-26** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T024500">2024-09-12 02:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-6&location=Vandenberg SFB, CA, USA&dates=20240912T024500Z%2F20240912T043000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T085200">2024-09-12 08:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | BlueBird Block 1&location=Cape Canaveral, FL, USA&dates=20240912T085200Z%2F20240912T132100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | BlueBird Block 1** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T040000">2024-09-13 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar 8&location=Tanegashima Space Center, Japan&dates=20240913T040000Z%2F20240913T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar 8** from Tanegashima Space Center, Japan.
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T022427">2024-09-11 02:24:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T024250">2024-09-11 02:42:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
