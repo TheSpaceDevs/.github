@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-spacewalk/" >🔗</a> **[NASASpaceflight]** Polaris Dawn crew to make first commercial spacewalk
+- <a href="https://spacenews.com/u-s-space-force-budget-falls-short-officials-warn/" >🔗</a> **[SpaceNews]** U.S. Space Force budget falls short, officials warn
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-11-2024/" >🔗</a> **[NASA]** The Marshall Star for September 11, 2024
 - <a href="https://spacepolicyonline.com/news/nasa-evaluating-11-viper-proposals-as-congress-asks-questions/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating 11 VIPER Proposals as Congress Asks Questions
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Arrive at Space Station
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/" >🔗</a> **[NASA]** NASA Finds Summer 2024 Hottest to Date
 - <a href="https://www.nasa.gov/image-article/chile-flowers-bloom-in-space/" >🔗</a> **[NASA]** Chile Flowers Bloom in Space
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-26-crew-sets-new-record-of-19-people-in-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-26 Crew Sets New Record of 19 People in Orbit
-- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-partial-lunar-eclipse-a-supermoon-the-corn-moon-and-the-harvest-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Partial Lunar Eclipse; a Supermoon; the Corn Moon; and the Harvest Moon
-- <a href="https://www.nasa.gov/general/nasa-remembers-sept-11/" >🔗</a> **[NASA]** NASA Remembers Sept. 11
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T213101">2024-09-11 21:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T220115">2024-09-11 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
