@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-and-clearspace-get-funds-to-advance-double-satellite-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale and ClearSpace get funds to advance double satellite de-orbit mission
 - <a href="https://spacenews.com/report-highlights-severe-infrastructure-challenges-at-nasa/" >🔗</a> **[SpaceNews]** Report highlights severe infrastructure challenges at NASA
 - <a href="https://spacenews.com/landspace-completes-10-kilometer-reusable-rocket-test-eyes-2025-orbital-launch/" >🔗</a> **[SpaceNews]** Landspace completes 10-kilometer reusable rocket test, eyes 2025 orbital launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Episode_2_Below_the_surface" >🔗</a> **[ESA]** Episode 2 – Below the surface
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Below_the_surface_-_ExoMars_Rosalind_Franklin_mission" >🔗</a> **[ESA]** Below the surface - ExoMars Rosalind Franklin mission
 - <a href="https://spacenews.com/congress-industry-criticize-faa-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** Congress, industry criticize FAA launch licensing regulations
 - <a href="https://science.nasa.gov/blog/margin-up-the-crater-rim/" >🔗</a> **[NASA]** Margin’ up the Crater Rim!
 - <a href="https://spacenews.com/oneweb-launches-alternative-navigation-service-amid-gps-vulnerability-concerns/" >🔗</a> **[SpaceNews]** OneWeb launches alternative navigation service amid GPS vulnerability concerns
 - <a href="https://www.nasa.gov/general/astronaut-frank-culbertson-letter-from-september-11-2001/" >🔗</a> **[NASA]** Astronaut Frank Culbertson Letter from September 11, 2001
 - <a href="https://www.teslarati.com/spacex-explains-starship-test-flight-delay-reveals-new-target-date/" >🔗</a> **[Teslarati]** SpaceX explains Starship test flight delay, reveals new target date
-- <a href="https://www.nasa.gov/image-article/starship-super-heavy-breezes-through-wind-tunnel-testing-at-nasa-ames/" >🔗</a> **[NASA]** Starship Super Heavy Breezes Through Wind Tunnel Testing at NASA Ames
-- <a href="https://www.nasa.gov/image-article/a-starry-view/" >🔗</a> **[NASA]** A Starry View
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T113106">2024-09-11 11:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T120129">2024-09-11 12:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
