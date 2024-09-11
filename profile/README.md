@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-11-2024/" >🔗</a> **[NASA]** The Marshall Star for September 11, 2024
+- <a href="https://spacepolicyonline.com/news/nasa-evaluating-11-viper-proposals-as-congress-asks-questions/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating 11 VIPER Proposals as Congress Asks Questions
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Arrive at Space Station
 - <a href="https://www.teslarati.com/fcc-says-economy-doesnt-benefit-from-monopolies-dig-at-spacex-starlink/" >🔗</a> **[Teslarati]** FCC says ‘our economy doesn’t benefit from monopolies’ in dig at SpaceX Starlink
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-europa-clipper-mission-to-jupiter-moon/" >🔗</a> **[NASA]** NASA to Preview Europa Clipper Mission to Jupiter Moon
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-26-crew-sets-new-record-of-19-people-in-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-26 Crew Sets New Record of 19 People in Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-partial-lunar-eclipse-a-supermoon-the-corn-moon-and-the-harvest-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Partial Lunar Eclipse; a Supermoon; the Corn Moon; and the Harvest Moon
 - <a href="https://www.nasa.gov/general/nasa-remembers-sept-11/" >🔗</a> **[NASA]** NASA Remembers Sept. 11
-- <a href="https://science.nasa.gov/solar-system/moon/phenomena-nasa-astronauts-will-encounter-at-moons-south-pole/" >🔗</a> **[NASA]** 9 Phenomena NASA Astronauts Will Encounter at Moon’s South Pole
-- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-scientists-re-create-mars-spiders-in-a-lab-for-first-time/" >🔗</a> **[NASA]** NASA Scientists Re-Create Mars ‘Spiders’ in a Lab for First Time
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T203110">2024-09-11 20:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T210115">2024-09-11 21:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
