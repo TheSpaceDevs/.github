@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-preview-europa-clipper-mission-to-jupiter-moon/" >🔗</a> **[NASA]** NASA to Preview Europa Clipper Mission to Jupiter Moon
+- <a href="https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/" >🔗</a> **[NASA]** NASA Finds Summer 2024 Hottest to Date
+- <a href="https://www.nasa.gov/image-article/chile-flowers-bloom-in-space/" >🔗</a> **[NASA]** Chile Flowers Bloom in Space
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-26-crew-sets-new-record-of-19-people-in-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-26 Crew Sets New Record of 19 People in Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-partial-lunar-eclipse-a-supermoon-the-corn-moon-and-the-harvest-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Partial Lunar Eclipse; a Supermoon; the Corn Moon; and the Harvest Moon
 - <a href="https://www.nasa.gov/general/nasa-remembers-sept-11/" >🔗</a> **[NASA]** NASA Remembers Sept. 11
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-scientists-re-create-mars-spiders-in-a-lab-for-first-time/" >🔗</a> **[NASA]** NASA Scientists Re-Create Mars ‘Spiders’ in a Lab for First Time
 - <a href="https://www.nasa.gov/general/inspiration-among-the-stars-how-johnsons-workforce-found-their-place-in-space/" >🔗</a> **[NASA]** Inspiration Among the Stars: How Johnson’s Workforce Found Their Place in Space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Hera_CubeSats_touchdown" >🔗</a> **[ESA]** Hera CubeSats’ touchdown
-- <a href="https://europeanspaceflight.com/eu-commits-e100m-to-improve-competitiveness-of-european-space-industry/" >🔗</a> **[European Spaceflight]** EU Commits €100M to Improve Competitiveness of European Space Industry
-- <a href="https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/" >🔗</a> **[Arstechnica]** The future of Boeing’s crewed spaceflight program is muddy after Starliner’s return
-- <a href="https://spacenews.com/the-invisible-battle-for-space-dominance/" >🔗</a> **[SpaceNews]** The invisible battle for space dominance
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T190107">2024-09-11 19:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T193112">2024-09-11 19:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
