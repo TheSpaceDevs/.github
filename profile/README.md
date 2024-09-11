@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/landspace-completes-10-kilometer-reusable-rocket-test-eyes-2025-orbital-launch/" >🔗</a> **[SpaceNews]** Landspace completes 10-kilometer reusable rocket test, eyes 2025 orbital launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Episode_2_Below_the_surface" >🔗</a> **[ESA]** Episode 2 – Below the surface
 - <a href="https://spacenews.com/congress-industry-criticize-faa-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** Congress, industry criticize FAA launch licensing regulations
 - <a href="https://science.nasa.gov/blog/margin-up-the-crater-rim/" >🔗</a> **[NASA]** Margin’ up the Crater Rim!
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/starship-super-heavy-breezes-through-wind-tunnel-testing-at-nasa-ames/" >🔗</a> **[NASA]** Starship Super Heavy Breezes Through Wind Tunnel Testing at NASA Ames
 - <a href="https://www.nasa.gov/image-article/a-starry-view/" >🔗</a> **[NASA]** A Starry View
 - <a href="https://spacenews.com/u-s-military-investing-in-reentry-vehicles-for-space-to-earth-cargo-delivery/" >🔗</a> **[SpaceNews]** U.S. military investing in reentry vehicles for space-to-Earth cargo delivery
-- <a href="https://science.nasa.gov/missions/voyager-program/voyager-1/voyager-1-team-accomplishes-tricky-thruster-swap/" >🔗</a> **[NASA]** Voyager 1 Team Accomplishes Tricky Thruster Swap
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T100112">2024-09-11 10:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T103411">2024-09-11 10:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
