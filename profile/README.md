@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Hera_CubeSats_touchdown" >🔗</a> **[ESA]** Hera CubeSats’ touchdown
+- <a href="https://www.nasaspaceflight.com/2024/09/soyuz-ms26/" >🔗</a> **[NASASpaceflight]** Soyuz MS-26 poised to fly NASA and Roscosmos crew to ISS
+- <a href="https://www.nasa.gov/news-release/nasa-stennis-set-to-continue-astra-mission-with-sidus-space/" >🔗</a> **[NASA]** NASA Stennis Set to Continue ASTRA Mission with Sidus Space
 - <a href="https://spacenews.com/us-space-weather-policy-alive-well-but-insufficiently-funded/" >🔗</a> **[SpaceNews]** U.S. space weather policy is alive and well but is insufficiently funded
 - <a href="https://spaceflightnow.com/2024/09/11/nasa-astronaut-don-pettit-to-make-fourth-trip-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA astronaut Don Pettit to make fourth trip to the International Space Station
 - <a href="https://spacenews.com/astroscale-and-clearspace-get-funds-to-advance-double-satellite-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale and ClearSpace get funds to advance double satellite de-orbit mission
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/landspace-completes-10-kilometer-reusable-rocket-test-eyes-2025-orbital-launch/" >🔗</a> **[SpaceNews]** Landspace completes 10-kilometer reusable rocket test, eyes 2025 orbital launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Below_the_surface_-_ExoMars_Rosalind_Franklin_mission" >🔗</a> **[ESA]** Below the surface - ExoMars Rosalind Franklin mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Episode_2_Below_the_surface" >🔗</a> **[ESA]** Episode 2 – Below the surface
-- <a href="https://spacenews.com/congress-industry-criticize-faa-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** Congress, industry criticize FAA launch licensing regulations
-- <a href="https://science.nasa.gov/blog/margin-up-the-crater-rim/" >🔗</a> **[NASA]** Margin’ up the Crater Rim!
-- <a href="https://spacenews.com/oneweb-launches-alternative-navigation-service-amid-gps-vulnerability-concerns/" >🔗</a> **[SpaceNews]** OneWeb launches alternative navigation service amid GPS vulnerability concerns
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T140113">2024-09-11 14:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T143306">2024-09-11 14:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
