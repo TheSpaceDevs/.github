@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Hera_CubeSats_touchdown" >🔗</a> **[ESA]** Hera CubeSats’ touchdown
+- <a href="https://europeanspaceflight.com/eu-commits-e100m-to-improve-competitiveness-of-european-space-industry/" >🔗</a> **[European Spaceflight]** EU Commits €100M to Improve Competitiveness of European Space Industry
+- <a href="https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/" >🔗</a> **[Arstechnica]** The future of Boeing’s crewed spaceflight program is muddy after Starliner’s return
+- <a href="https://spacenews.com/the-invisible-battle-for-space-dominance/" >🔗</a> **[SpaceNews]** The invisible battle for space dominance
 - <a href="https://www.nasaspaceflight.com/2024/09/soyuz-ms26/" >🔗</a> **[NASASpaceflight]** Soyuz MS-26 poised to fly NASA and Roscosmos crew to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-stennis-set-to-continue-astra-mission-with-sidus-space/" >🔗</a> **[NASA]** NASA Stennis Set to Continue ASTRA Mission with Sidus Space
 - <a href="https://spacenews.com/us-space-weather-policy-alive-well-but-insufficiently-funded/" >🔗</a> **[SpaceNews]** U.S. space weather policy is alive and well but is insufficiently funded
 - <a href="https://spaceflightnow.com/2024/09/11/nasa-astronaut-don-pettit-to-make-fourth-trip-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA astronaut Don Pettit to make fourth trip to the International Space Station
 - <a href="https://spacenews.com/astroscale-and-clearspace-get-funds-to-advance-double-satellite-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale and ClearSpace get funds to advance double satellite de-orbit mission
 - <a href="https://spacenews.com/report-highlights-severe-infrastructure-challenges-at-nasa/" >🔗</a> **[SpaceNews]** Report highlights severe infrastructure challenges at NASA
-- <a href="https://spacenews.com/landspace-completes-10-kilometer-reusable-rocket-test-eyes-2025-orbital-launch/" >🔗</a> **[SpaceNews]** Landspace completes 10-kilometer reusable rocket test, eyes 2025 orbital launch
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Below_the_surface_-_ExoMars_Rosalind_Franklin_mission" >🔗</a> **[ESA]** Below the surface - ExoMars Rosalind Franklin mission
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Episode_2_Below_the_surface" >🔗</a> **[ESA]** Episode 2 – Below the surface
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T150125">2024-09-11 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T153319">2024-09-11 15:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
