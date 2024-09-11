@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-highlights-severe-infrastructure-challenges-at-nasa/" >🔗</a> **[SpaceNews]** Report highlights severe infrastructure challenges at NASA
 - <a href="https://spacenews.com/landspace-completes-10-kilometer-reusable-rocket-test-eyes-2025-orbital-launch/" >🔗</a> **[SpaceNews]** Landspace completes 10-kilometer reusable rocket test, eyes 2025 orbital launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Episode_2_Below_the_surface" >🔗</a> **[ESA]** Episode 2 – Below the surface
 - <a href="https://spacenews.com/congress-industry-criticize-faa-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** Congress, industry criticize FAA launch licensing regulations
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-explains-starship-test-flight-delay-reveals-new-target-date/" >🔗</a> **[Teslarati]** SpaceX explains Starship test flight delay, reveals new target date
 - <a href="https://www.nasa.gov/image-article/starship-super-heavy-breezes-through-wind-tunnel-testing-at-nasa-ames/" >🔗</a> **[NASA]** Starship Super Heavy Breezes Through Wind Tunnel Testing at NASA Ames
 - <a href="https://www.nasa.gov/image-article/a-starry-view/" >🔗</a> **[NASA]** A Starry View
-- <a href="https://spacenews.com/u-s-military-investing-in-reentry-vehicles-for-space-to-earth-cargo-delivery/" >🔗</a> **[SpaceNews]** U.S. military investing in reentry vehicles for space-to-Earth cargo delivery
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T110121">2024-09-11 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T113106">2024-09-11 11:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
