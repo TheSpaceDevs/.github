@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/margin-up-the-crater-rim/" >🔗</a> **[NASA]** Margin’ up the Crater Rim!
 - <a href="https://spacenews.com/oneweb-launches-alternative-navigation-service-amid-gps-vulnerability-concerns/" >🔗</a> **[SpaceNews]** OneWeb launches alternative navigation service amid GPS vulnerability concerns
 - <a href="https://www.nasa.gov/general/astronaut-frank-culbertson-letter-from-september-11-2001/" >🔗</a> **[NASA]** Astronaut Frank Culbertson Letter from September 11, 2001
 - <a href="https://www.teslarati.com/spacex-explains-starship-test-flight-delay-reveals-new-target-date/" >🔗</a> **[Teslarati]** SpaceX explains Starship test flight delay, reveals new target date
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/voyager-program/voyager-1/voyager-1-team-accomplishes-tricky-thruster-swap/" >🔗</a> **[NASA]** Voyager 1 Team Accomplishes Tricky Thruster Swap
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/childhood-snow-days-transformed-linette-boisvert-into-a-sea-ice-scientist/" >🔗</a> **[NASA]** Childhood Snow Days Transformed Linette Boisvert into a Sea Ice Scientist
 - <a href="https://www.nasa.gov/history/15-years-ago-japan-launches-htv-1-its-first-resupply-mission-to-the-space-station/" >🔗</a> **[NASA]** 15 Years Ago: Japan launches HTV-1, its First Resupply Mission to the Space Station
-- <a href="https://www.teslarati.com/spacex-launches-polaris-dawn-taking-astronauts-to-heights-not-seen-in-decades/" >🔗</a> **[Teslarati]** SpaceX launches Polaris Dawn, taking astronauts to heights not seen in decades
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T000353">2024-09-11 00:03:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T004517">2024-09-11 00:45:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
