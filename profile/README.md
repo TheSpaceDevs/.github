@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Arrive at Space Station
+- <a href="https://www.teslarati.com/fcc-says-economy-doesnt-benefit-from-monopolies-dig-at-spacex-starlink/" >🔗</a> **[Teslarati]** FCC says ‘our economy doesn’t benefit from monopolies’ in dig at SpaceX Starlink
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-europa-clipper-mission-to-jupiter-moon/" >🔗</a> **[NASA]** NASA to Preview Europa Clipper Mission to Jupiter Moon
 - <a href="https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/" >🔗</a> **[NASA]** NASA Finds Summer 2024 Hottest to Date
 - <a href="https://www.nasa.gov/image-article/chile-flowers-bloom-in-space/" >🔗</a> **[NASA]** Chile Flowers Bloom in Space
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-remembers-sept-11/" >🔗</a> **[NASA]** NASA Remembers Sept. 11
 - <a href="https://science.nasa.gov/solar-system/moon/phenomena-nasa-astronauts-will-encounter-at-moons-south-pole/" >🔗</a> **[NASA]** 9 Phenomena NASA Astronauts Will Encounter at Moon’s South Pole
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-scientists-re-create-mars-spiders-in-a-lab-for-first-time/" >🔗</a> **[NASA]** NASA Scientists Re-Create Mars ‘Spiders’ in a Lab for First Time
-- <a href="https://www.nasa.gov/general/inspiration-among-the-stars-how-johnsons-workforce-found-their-place-in-space/" >🔗</a> **[NASA]** Inspiration Among the Stars: How Johnson’s Workforce Found Their Place in Space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Hera_CubeSats_touchdown" >🔗</a> **[ESA]** Hera CubeSats’ touchdown
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T200108">2024-09-11 20:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T203110">2024-09-11 20:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
