@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/soyuz-ms-26-crew-sets-new-record-of-19-people-in-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-26 Crew Sets New Record of 19 People in Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-partial-lunar-eclipse-a-supermoon-the-corn-moon-and-the-harvest-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Partial Lunar Eclipse; a Supermoon; the Corn Moon; and the Harvest Moon
 - <a href="https://www.nasa.gov/general/nasa-remembers-sept-11/" >🔗</a> **[NASA]** NASA Remembers Sept. 11
 - <a href="https://science.nasa.gov/solar-system/moon/phenomena-nasa-astronauts-will-encounter-at-moons-south-pole/" >🔗</a> **[NASA]** 9 Phenomena NASA Astronauts Will Encounter at Moon’s South Pole
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/eu-commits-e100m-to-improve-competitiveness-of-european-space-industry/" >🔗</a> **[European Spaceflight]** EU Commits €100M to Improve Competitiveness of European Space Industry
 - <a href="https://arstechnica.com/space/2024/09/the-future-of-boeings-crewed-spaceflight-program-is-muddy-after-starliners-return/" >🔗</a> **[Arstechnica]** The future of Boeing’s crewed spaceflight program is muddy after Starliner’s return
 - <a href="https://spacenews.com/the-invisible-battle-for-space-dominance/" >🔗</a> **[SpaceNews]** The invisible battle for space dominance
-- <a href="https://www.nasaspaceflight.com/2024/09/soyuz-ms26/" >🔗</a> **[NASASpaceflight]** Soyuz MS-26 has launched NASA and Roscosmos crew to ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T180122">2024-09-11 18:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240911T183528">2024-09-11 18:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
