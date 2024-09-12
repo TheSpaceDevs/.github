@@ -105,13 +105,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-5-bluebird-satellites-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 5 BlueBird satellites on Falcon 9 flight from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 - <a href="https://spacenews.com/ast-spacemobile-ready-to-ship-first-commercial-satellites-for-spacex-launch/" >🔗</a> **[SpaceNews]** AST SpaceMobile ready to ship first commercial satellites for SpaceX launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T080125">2024-09-12 08:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T083415">2024-09-12 08:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
