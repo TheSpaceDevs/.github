@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Ready_at_Kennedy" >🔗</a> **[ESA]** Ready at Kennedy
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/" >🔗</a> **[NASA]** NASA Moon to Mars Architecture Art Challenge
 - <a href="https://www.nasa.gov/solar-system/moon/nasa-to-develop-lunar-time-standard-for-exploration-initiatives/" >🔗</a> **[NASA]** NASA to Develop Lunar Time Standard for Exploration Initiatives
 - <a href="https://www.cnbc.com/2024/09/12/airbus-ventures-fund-deep-tech-space.html" >🔗</a> **[CNBC]** Airbus Ventures launches $155 million fund focused on deep tech, including space
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/09/two-private-astronauts-took-a-spacewalk-thursday-morning-yes-it-was-historic/" >🔗</a> **[Arstechnica]** Two private astronauts took a spacewalk Thursday morning—yes, it was historic
 - <a href="https://www.cnbc.com/2024/09/12/spacex-performs-historic-first-spacewalk-with-polaris-dawn-crew.html" >🔗</a> **[CNBC]** SpaceX performs historic first spacewalk with Polaris Dawn crew
 - <a href="https://spacenews.com/polaris-dawn-astronauts-perform-spacewalk/" >🔗</a> **[SpaceNews]** Polaris Dawn astronauts perform spacewalk
-- <a href="https://spacenews.com/ast-spacemobile-deploys-first-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile deploys first production direct-to-smartphone satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T160122">2024-09-12 16:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T163540">2024-09-12 16:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
