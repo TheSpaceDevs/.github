@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/" >🔗</a> **[NASA]** NASA Moon to Mars Architecture Art Challenge
+- <a href="https://www.nasa.gov/solar-system/moon/nasa-to-develop-lunar-time-standard-for-exploration-initiatives/" >🔗</a> **[NASA]** NASA to Develop Lunar Time Standard for Exploration Initiatives
 - <a href="https://www.cnbc.com/2024/09/12/airbus-ventures-fund-deep-tech-space.html" >🔗</a> **[CNBC]** Airbus Ventures launches $155 million fund focused on deep tech, including space
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Peers into the Extreme Outer Galaxy
 - <a href="https://spacenews.com/foust-forward-auditing-the-auditors/" >🔗</a> **[SpaceNews]** Foust Forward | Auditing the auditors
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.cnbc.com/2024/09/12/spacex-performs-historic-first-spacewalk-with-polaris-dawn-crew.html" >🔗</a> **[CNBC]** SpaceX performs historic first spacewalk with Polaris Dawn crew
 - <a href="https://spacenews.com/polaris-dawn-astronauts-perform-spacewalk/" >🔗</a> **[SpaceNews]** Polaris Dawn astronauts perform spacewalk
 - <a href="https://spacenews.com/ast-spacemobile-deploys-first-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile deploys first production direct-to-smartphone satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Webb_peers_into_the_Extreme_Outer_Galaxy" >🔗</a> **[ESA]** Webb peers into the Extreme Outer Galaxy
-- <a href="https://spacenews.com/faa-defends-starship-licensing-delays/" >🔗</a> **[SpaceNews]** FAA defends Starship licensing delays
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T150110">2024-09-12 15:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T153222">2024-09-12 15:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
