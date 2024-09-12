@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-ispace-lunar-lander-planned-for-launch-in-december/" >🔗</a> **[SpaceNews]** Second ispace lunar lander planned for launch in December
+- <a href="https://www.nasa.gov/image-article/testing-europa-clippers-solar-arrays/" >🔗</a> **[NASA]** Testing Europa Clipper’s Solar Arrays
 - <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
 - <a href="https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/" >🔗</a> **[SpaceNews]** Ice-hunting Lunar Trailblazer and IM-2 nearly ready for January 2025 launch
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/" >🔗</a> **[NASA]** Printed Engines Propel the Next Industrial Revolution
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/solar-system/moon/nasa-to-develop-lunar-time-standard-for-exploration-initiatives/" >🔗</a> **[NASA]** NASA to Develop Lunar Time Standard for Exploration Initiatives
 - <a href="https://www.cnbc.com/2024/09/12/airbus-ventures-fund-deep-tech-space.html" >🔗</a> **[CNBC]** Airbus Ventures launches $155 million fund focused on deep tech, including space
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Peers into the Extreme Outer Galaxy
-- <a href="https://spacenews.com/foust-forward-auditing-the-auditors/" >🔗</a> **[SpaceNews]** Foust Forward | Auditing the auditors
-- <a href="https://spacenews.com/jacqueline-good-ceo-magnestar-leading-women-in-space/" >🔗</a> **[SpaceNews]** Jacqueline Good, CEO, Magnestar – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T190106">2024-09-12 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T193101">2024-09-12 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
