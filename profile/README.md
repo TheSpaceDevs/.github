@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/12/polaris-dawn-crew-gears-up-for-thursday-spacewalk/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew gears up for Thursday spacewalk
 - <a href="https://spacenews.com/space-industry-execs-urge-dod-to-expand-commercial-funding-in-defense-programs/" >🔗</a> **[SpaceNews]** Space industry execs urge DoD to expand commercial funding in defense programs
 - <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-spacewalk/" >🔗</a> **[NASASpaceflight]** Polaris Dawn crew to make first commercial spacewalk
 - <a href="https://spacenews.com/u-s-space-force-budget-falls-short-officials-warn/" >🔗</a> **[SpaceNews]** U.S. Space Force budget falls short, officials warn
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/fcc-says-economy-doesnt-benefit-from-monopolies-dig-at-spacex-starlink/" >🔗</a> **[Teslarati]** FCC says ‘our economy doesn’t benefit from monopolies’ in dig at SpaceX Starlink
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-europa-clipper-mission-to-jupiter-moon/" >🔗</a> **[NASA]** NASA to Preview Europa Clipper Mission to Jupiter Moon
 - <a href="https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/" >🔗</a> **[NASA]** NASA Finds Summer 2024 Hottest to Date
-- <a href="https://www.nasa.gov/image-article/chile-flowers-bloom-in-space/" >🔗</a> **[NASA]** Chile Flowers Bloom in Space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T004522">2024-09-12 00:45:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T012754">2024-09-12 01:27:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
