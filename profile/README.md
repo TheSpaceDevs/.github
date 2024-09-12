@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/09/12/airbus-ventures-fund-deep-tech-space.html" >🔗</a> **[CNBC]** Airbus Ventures launches $155 million fund focused on deep tech, including space
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Peers into the Extreme Outer Galaxy
 - <a href="https://spacenews.com/foust-forward-auditing-the-auditors/" >🔗</a> **[SpaceNews]** Foust Forward | Auditing the auditors
 - <a href="https://spacenews.com/jacqueline-good-ceo-magnestar-leading-women-in-space/" >🔗</a> **[SpaceNews]** Jacqueline Good, CEO, Magnestar – Leading Women in Space
 - <a href="https://arstechnica.com/space/2024/09/two-private-astronauts-took-a-spacewalk-thursday-morning-yes-it-was-historic/" >🔗</a> **[Arstechnica]** Two private astronauts took a spacewalk Thursday morning—yes, it was historic
 - <a href="https://www.cnbc.com/2024/09/12/spacex-performs-historic-first-spacewalk-with-polaris-dawn-crew.html" >🔗</a> **[CNBC]** SpaceX performs historic first spacewalk with Polaris Dawn crew
 - <a href="https://spacenews.com/polaris-dawn-astronauts-perform-spacewalk/" >🔗</a> **[SpaceNews]** Polaris Dawn astronauts perform spacewalk
 - <a href="https://spacenews.com/ast-spacemobile-deploys-first-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile deploys first production direct-to-smartphone satellites
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Webb_peers_into_the_Extreme_Outer_Galaxy" >🔗</a> **[ESA]** Webb peers into the Extreme Outer Galaxy
 - <a href="https://spacenews.com/faa-defends-starship-licensing-delays/" >🔗</a> **[SpaceNews]** FAA defends Starship licensing delays
-- <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-5-bluebird-satellites-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 5 BlueBird satellites on Falcon 9 flight from Cape Canaveral
-- <a href="https://europeanspaceflight.com/avio-plans-introduction-of-vega-next-rocket-beyond-2032/" >🔗</a> **[European Spaceflight]** Avio Plans Introduction of Vega Next Rocket Beyond 2032
-- <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T140118">2024-09-12 14:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T143411">2024-09-12 14:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
