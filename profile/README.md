@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-plans-introduction-of-vega-next-rocket-beyond-2032/" >🔗</a> **[European Spaceflight]** Avio Plans Introduction of Vega Next Rocket Beyond 2032
 - <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
 - <a href="https://spaceflightnow.com/2024/09/12/polaris-dawn-crew-gears-up-for-thursday-spacewalk/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew gears up for Thursday spacewalk
 - <a href="https://spacenews.com/space-industry-execs-urge-dod-to-expand-commercial-funding-in-defense-programs/" >🔗</a> **[SpaceNews]** Space industry execs urge DoD to expand commercial funding in defense programs
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-evaluating-11-viper-proposals-as-congress-asks-questions/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating 11 VIPER Proposals as Congress Asks Questions
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Arrive at Space Station
 - <a href="https://www.teslarati.com/fcc-says-economy-doesnt-benefit-from-monopolies-dig-at-spacex-starlink/" >🔗</a> **[Teslarati]** FCC says ‘our economy doesn’t benefit from monopolies’ in dig at SpaceX Starlink
-- <a href="https://www.nasa.gov/news-release/nasa-to-preview-europa-clipper-mission-to-jupiter-moon/" >🔗</a> **[NASA]** NASA to Preview Europa Clipper Mission to Jupiter Moon
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T070116">2024-09-12 07:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T073059">2024-09-12 07:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
