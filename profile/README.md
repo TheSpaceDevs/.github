@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
+- <a href="https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/" >🔗</a> **[SpaceNews]** Ice-hunting Lunar Trailblazer and IM-2 nearly ready for January 2025 launch
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/" >🔗</a> **[NASA]** Printed Engines Propel the Next Industrial Revolution
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Ready_at_Kennedy" >🔗</a> **[ESA]** Ready at Kennedy
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/" >🔗</a> **[NASA]** NASA Moon to Mars Architecture Art Challenge
 - <a href="https://www.nasa.gov/solar-system/moon/nasa-to-develop-lunar-time-standard-for-exploration-initiatives/" >🔗</a> **[NASA]** NASA to Develop Lunar Time Standard for Exploration Initiatives
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Peers into the Extreme Outer Galaxy
 - <a href="https://spacenews.com/foust-forward-auditing-the-auditors/" >🔗</a> **[SpaceNews]** Foust Forward | Auditing the auditors
 - <a href="https://spacenews.com/jacqueline-good-ceo-magnestar-leading-women-in-space/" >🔗</a> **[SpaceNews]** Jacqueline Good, CEO, Magnestar – Leading Women in Space
-- <a href="https://arstechnica.com/space/2024/09/two-private-astronauts-took-a-spacewalk-thursday-morning-yes-it-was-historic/" >🔗</a> **[Arstechnica]** Two private astronauts took a spacewalk Thursday morning—yes, it was historic
-- <a href="https://www.cnbc.com/2024/09/12/spacex-performs-historic-first-spacewalk-with-polaris-dawn-crew.html" >🔗</a> **[CNBC]** SpaceX performs historic first spacewalk with Polaris Dawn crew
-- <a href="https://spacenews.com/polaris-dawn-astronauts-perform-spacewalk/" >🔗</a> **[SpaceNews]** Polaris Dawn astronauts perform spacewalk
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T180118">2024-09-12 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T183536">2024-09-12 18:35:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
