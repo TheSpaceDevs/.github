@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | BlueBird Block 1**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 9-6**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T085200">2024-09-12 08:52:00 UTC</a>.  Until
-then, this pad will have been used for 260
-out of 973 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T014500">2024-09-13 01:45:00 UTC</a>.  Until
+then, this pad will have been used for 157
+out of 769 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  First five satellites for SpaceMobile’s cellphone-compatible broadband constellation.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 5&location=SpaceX Starbase, TX, USA&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 5** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC2S | Certification Flight 2&location=Cape Canaveral, FL, USA&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC2S | Certification Flight 2** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 4x Astranis MicroGEO&location=Cape Canaveral, FL, USA&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 4x Astranis MicroGEO** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,14 +105,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-5-bluebird-satellites-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 5 BlueBird satellites on Falcon 9 flight from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
-- <a href="https://spacenews.com/ast-spacemobile-ready-to-ship-first-commercial-satellites-for-spacex-launch/" >🔗</a> **[SpaceNews]** AST SpaceMobile ready to ship first commercial satellites for SpaceX launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T090112">2024-09-12 09:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T093146">2024-09-12 09:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
