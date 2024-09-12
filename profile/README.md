@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
 - <a href="https://spaceflightnow.com/2024/09/12/polaris-dawn-crew-gears-up-for-thursday-spacewalk/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew gears up for Thursday spacewalk
 - <a href="https://spacenews.com/space-industry-execs-urge-dod-to-expand-commercial-funding-in-defense-programs/" >🔗</a> **[SpaceNews]** Space industry execs urge DoD to expand commercial funding in defense programs
 - <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-spacewalk/" >🔗</a> **[NASASpaceflight]** Polaris Dawn crew to make first commercial spacewalk
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Arrive at Space Station
 - <a href="https://www.teslarati.com/fcc-says-economy-doesnt-benefit-from-monopolies-dig-at-spacex-starlink/" >🔗</a> **[Teslarati]** FCC says ‘our economy doesn’t benefit from monopolies’ in dig at SpaceX Starlink
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-europa-clipper-mission-to-jupiter-moon/" >🔗</a> **[NASA]** NASA to Preview Europa Clipper Mission to Jupiter Moon
-- <a href="https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/" >🔗</a> **[NASA]** NASA Finds Summer 2024 Hottest to Date
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T022535">2024-09-12 02:25:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T024323">2024-09-12 02:43:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
