@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/09/firefly-new-launch-pads-virginia-sweden-alpha/" >🔗</a> **[NASASpaceflight]** Firefly preparing new launch pads in Virginia, Sweden for Alpha rocket
+- <a href="https://spaceflightnow.com/2024/09/12/first-non-government-spacewalk-goes-off-without-a-hitch-for-polaris-dawn-crew/" >🔗</a> **[Spaceflight Now]** First non-government spacewalk goes off without a hitch for Polaris Dawn crew
 - <a href="https://www.spacescout.info/2024/09/polaris-program-aims-high-with-first-commercial-spacewalk/" >🔗</a> **[Space Scout]** Polaris Program Aims High with First Commercial Spacewalk
 - <a href="https://spacenews.com/u-s-defense-program-seeks-next-generation-space-monitoring-tools/" >🔗</a> **[SpaceNews]** U.S. defense program seeks next-generation space monitoring tools
 - <a href="https://spacenews.com/second-ispace-lunar-lander-planned-for-launch-in-december/" >🔗</a> **[SpaceNews]** Second ispace lunar lander planned for launch in December
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/" >🔗</a> **[SpaceNews]** Ice-hunting Lunar Trailblazer and IM-2 nearly ready for January 2025 launch
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/" >🔗</a> **[NASA]** Printed Engines Propel the Next Industrial Revolution
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Ready_at_Kennedy" >🔗</a> **[ESA]** Ready at Kennedy
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/" >🔗</a> **[NASA]** NASA Moon to Mars Architecture Art Challenge
-- <a href="https://www.nasa.gov/solar-system/moon/nasa-to-develop-lunar-time-standard-for-exploration-initiatives/" >🔗</a> **[NASA]** NASA to Develop Lunar Time Standard for Exploration Initiatives
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T210110">2024-09-12 21:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T213101">2024-09-12 21:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
