@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/09/12/spacex-performs-historic-first-spacewalk-with-polaris-dawn-crew.html" >🔗</a> **[CNBC]** SpaceX performs historic first spacewalk with Polaris Dawn crew
 - <a href="https://spacenews.com/polaris-dawn-astronauts-perform-spacewalk/" >🔗</a> **[SpaceNews]** Polaris Dawn astronauts perform spacewalk
 - <a href="https://spacenews.com/ast-spacemobile-deploys-first-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile deploys first production direct-to-smartphone satellites
 - <a href="https://spacenews.com/faa-defends-starship-licensing-delays/" >🔗</a> **[SpaceNews]** FAA defends Starship licensing delays
@@ -99,8 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
 - <a href="https://spaceflightnow.com/2024/09/12/polaris-dawn-crew-gears-up-for-thursday-spacewalk/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew gears up for Thursday spacewalk
 - <a href="https://spacenews.com/space-industry-execs-urge-dod-to-expand-commercial-funding-in-defense-programs/" >🔗</a> **[SpaceNews]** Space industry execs urge DoD to expand commercial funding in defense programs
-- <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-spacewalk/" >🔗</a> **[NASASpaceflight]** Polaris Dawn crew to make first commercial spacewalk
-- <a href="https://spacenews.com/u-s-space-force-budget-falls-short-officials-warn/" >🔗</a> **[SpaceNews]** U.S. Space Force budget falls short, officials warn
+- <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-spacewalk/" >🔗</a> **[NASASpaceflight]** Polaris Dawn crew conduct first commercial spacewalk
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T120150">2024-09-12 12:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T124212">2024-09-12 12:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
