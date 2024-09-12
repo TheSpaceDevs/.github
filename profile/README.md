@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-defends-starship-licensing-delays/" >🔗</a> **[SpaceNews]** FAA defends Starship licensing delays
 - <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-5-bluebird-satellites-on-falcon-9-flight-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 5 BlueBird satellites on Falcon 9 flight from Cape Canaveral
 - <a href="https://europeanspaceflight.com/avio-plans-introduction-of-vega-next-rocket-beyond-2032/" >🔗</a> **[European Spaceflight]** Avio Plans Introduction of Vega Next Rocket Beyond 2032
 - <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-force-budget-falls-short-officials-warn/" >🔗</a> **[SpaceNews]** U.S. Space Force budget falls short, officials warn
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-11-2024/" >🔗</a> **[NASA]** The Marshall Star for September 11, 2024
 - <a href="https://spacepolicyonline.com/news/nasa-evaluating-11-viper-proposals-as-congress-asks-questions/" >🔗</a> **[SpacePolicyOnline.com]** NASA Evaluating 11 VIPER Proposals as Congress Asks Questions
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Arrive at Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T100132">2024-09-12 10:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T103441">2024-09-12 10:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
