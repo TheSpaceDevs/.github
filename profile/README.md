@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#S
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T014500">2024-09-13 01:45:00 UTC</a>.  Until
 then, this pad will have been used for 157
 out of 769 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T014500">2024-09-13 01:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-6&location=Vandenberg SFB, CA, USA&dates=20240913T014500Z%2F20240913T054500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-6** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T014500">2024-09-13 01:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-6&location=Vandenberg SFB, CA, USA&dates=20240913T014500Z%2F20240913T044900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240915T224800">2024-09-15 22:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galileo L13 (FOC FM26 &amp; FM32)&location=Cape Canaveral, FL, USA&dates=20240915T224800Z%2F20240915T233900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galileo L13 (FOC FM26 & FM32)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T230200">2024-09-16 23:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240916T230200Z%2F20240916T230200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T182800">2024-09-25 18:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Cape Canaveral, FL, USA&dates=20240925T182800Z%2F20240925T182800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Cape Canaveral, FL, USA.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/09/polaris-program-aims-high-with-first-commercial-spacewalk/" >🔗</a> **[Space Scout]** Polaris Program Aims High with First Commercial Spacewalk
+- <a href="https://spacenews.com/u-s-defense-program-seeks-next-generation-space-monitoring-tools/" >🔗</a> **[SpaceNews]** U.S. defense program seeks next-generation space monitoring tools
 - <a href="https://spacenews.com/second-ispace-lunar-lander-planned-for-launch-in-december/" >🔗</a> **[SpaceNews]** Second ispace lunar lander planned for launch in December
 - <a href="https://www.nasa.gov/image-article/testing-europa-clippers-solar-arrays/" >🔗</a> **[NASA]** Testing Europa Clipper’s Solar Arrays
 - <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Ready_at_Kennedy" >🔗</a> **[ESA]** Ready at Kennedy
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/" >🔗</a> **[NASA]** NASA Moon to Mars Architecture Art Challenge
 - <a href="https://www.nasa.gov/solar-system/moon/nasa-to-develop-lunar-time-standard-for-exploration-initiatives/" >🔗</a> **[NASA]** NASA to Develop Lunar Time Standard for Exploration Initiatives
-- <a href="https://www.cnbc.com/2024/09/12/airbus-ventures-fund-deep-tech-space.html" >🔗</a> **[CNBC]** Airbus Ventures launches $155 million fund focused on deep tech, including space
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-into-the-extreme-outer-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Peers into the Extreme Outer Galaxy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T200124">2024-09-12 20:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T203140">2024-09-12 20:31:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
