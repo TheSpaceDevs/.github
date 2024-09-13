@@ -93,6 +93,9 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Fly_over_Mercury_with_BepiColombo" >🔗</a> **[ESA]** Fly over Mercury with BepiColombo
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/BepiColombo_s_fourth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo’s fourth Mercury flyby: the movie
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/" >🔗</a> **[NASA]** Hubble Examines a Spiral Star Factory
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Adriatic_bloom" >🔗</a> **[ESA]** Earth from Space: Adriatic bloom
 - <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from West Coast
 - <a href="https://spacepolicyonline.com/news/first-commercial-spacewalk-enters-history-books/" >🔗</a> **[SpacePolicyOnline.com]** First Commercial Spacewalk Enters History Books
@@ -100,9 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://spaceflightnow.com/2024/09/12/first-non-government-spacewalk-goes-off-without-a-hitch-for-polaris-dawn-crew/" >🔗</a> **[Spaceflight Now]** First non-government spacewalk goes off without a hitch for Polaris Dawn crew
 - <a href="https://www.spacescout.info/2024/09/polaris-program-aims-high-with-first-commercial-spacewalk/" >🔗</a> **[Space Scout]** Polaris Program Aims High with First Commercial Spacewalk
 - <a href="https://spacenews.com/u-s-defense-program-seeks-next-generation-space-monitoring-tools/" >🔗</a> **[SpaceNews]** U.S. defense program seeks next-generation space monitoring tools
-- <a href="https://spacenews.com/second-ispace-lunar-lander-planned-for-launch-in-december/" >🔗</a> **[SpaceNews]** Second ispace lunar lander planned for launch in December
-- <a href="https://www.nasa.gov/image-article/testing-europa-clippers-solar-arrays/" >🔗</a> **[NASA]** Testing Europa Clipper’s Solar Arrays
-- <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T110115">2024-09-13 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T113058">2024-09-13 11:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
