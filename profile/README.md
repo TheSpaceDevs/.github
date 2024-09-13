@@ -93,6 +93,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Adriatic_bloom" >🔗</a> **[ESA]** Earth from Space: Adriatic bloom
 - <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from West Coast
 - <a href="https://spacepolicyonline.com/news/first-commercial-spacewalk-enters-history-books/" >🔗</a> **[SpacePolicyOnline.com]** First Commercial Spacewalk Enters History Books
 - <a href="https://www.nasaspaceflight.com/2024/09/firefly-new-launch-pads-virginia-sweden-alpha/" >🔗</a> **[NASASpaceflight]** Firefly preparing new launch pads in Virginia, Sweden for Alpha rocket
@@ -102,7 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://spacenews.com/second-ispace-lunar-lander-planned-for-launch-in-december/" >🔗</a> **[SpaceNews]** Second ispace lunar lander planned for launch in December
 - <a href="https://www.nasa.gov/image-article/testing-europa-clippers-solar-arrays/" >🔗</a> **[NASA]** Testing Europa Clipper’s Solar Arrays
 - <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
-- <a href="https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/" >🔗</a> **[SpaceNews]** Ice-hunting Lunar Trailblazer and IM-2 nearly ready for January 2025 launch
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T080139">2024-09-13 08:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T083417">2024-09-13 08:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
