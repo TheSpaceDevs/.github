@@ -93,7 +93,9 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/nasa-taps-finlands-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NASA Taps Finland’s ICEYE to Provide Earth Observation Data
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Fly_over_Mercury_with_BepiColombo" >🔗</a> **[ESA]** Fly over Mercury with BepiColombo
+- <a href="https://www.cnbc.com/2024/09/13/united-airlines-spacex-starlink-internet.html" >🔗</a> **[CNBC]** United Airlines to offer free Wi-Fi using SpaceX’s Starlink
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/BepiColombo_s_fourth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo’s fourth Mercury flyby: the movie
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/" >🔗</a> **[NASA]** Hubble Examines a Spiral Star Factory
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Adriatic_bloom" >🔗</a> **[ESA]** Earth from Space: Adriatic bloom
@@ -101,8 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://spacepolicyonline.com/news/first-commercial-spacewalk-enters-history-books/" >🔗</a> **[SpacePolicyOnline.com]** First Commercial Spacewalk Enters History Books
 - <a href="https://www.nasaspaceflight.com/2024/09/firefly-new-launch-pads-virginia-sweden-alpha/" >🔗</a> **[NASASpaceflight]** Firefly preparing new launch pads in Virginia, Sweden for Alpha rocket
 - <a href="https://spaceflightnow.com/2024/09/12/first-non-government-spacewalk-goes-off-without-a-hitch-for-polaris-dawn-crew/" >🔗</a> **[Spaceflight Now]** First non-government spacewalk goes off without a hitch for Polaris Dawn crew
-- <a href="https://www.spacescout.info/2024/09/polaris-program-aims-high-with-first-commercial-spacewalk/" >🔗</a> **[Space Scout]** Polaris Program Aims High with First Commercial Spacewalk
-- <a href="https://spacenews.com/u-s-defense-program-seeks-next-generation-space-monitoring-tools/" >🔗</a> **[SpaceNews]** U.S. defense program seeks next-generation space monitoring tools
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T120129">2024-09-13 12:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T124210">2024-09-13 12:42:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
