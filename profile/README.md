@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/first-commercial-spacewalk-enters-history-books/" >🔗</a> **[SpacePolicyOnline.com]** First Commercial Spacewalk Enters History Books
 - <a href="https://www.nasaspaceflight.com/2024/09/firefly-new-launch-pads-virginia-sweden-alpha/" >🔗</a> **[NASASpaceflight]** Firefly preparing new launch pads in Virginia, Sweden for Alpha rocket
 - <a href="https://spaceflightnow.com/2024/09/12/first-non-government-spacewalk-goes-off-without-a-hitch-for-polaris-dawn-crew/" >🔗</a> **[Spaceflight Now]** First non-government spacewalk goes off without a hitch for Polaris Dawn crew
 - <a href="https://www.spacescout.info/2024/09/polaris-program-aims-high-with-first-commercial-spacewalk/" >🔗</a> **[Space Scout]** Polaris Program Aims High with First Commercial Spacewalk
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
 - <a href="https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/" >🔗</a> **[SpaceNews]** Ice-hunting Lunar Trailblazer and IM-2 nearly ready for January 2025 launch
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/printed-engines-propel-the-next-industrial-revolution/" >🔗</a> **[NASA]** Printed Engines Propel the Next Industrial Revolution
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Ready_at_Kennedy" >🔗</a> **[ESA]** Ready at Kennedy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240912T233115">2024-09-12 23:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240913T000401">2024-09-13 00:04:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
