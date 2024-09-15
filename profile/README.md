@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/nasa-taps-finlands-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NASA Taps Finland’s ICEYE to Provide Earth Observation Data
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Fly_over_Mercury_with_BepiColombo" >🔗</a> **[ESA]** Fly over Mercury with BepiColombo
-- <a href="https://www.cnbc.com/2024/09/13/united-airlines-spacex-starlink-internet.html" >🔗</a> **[CNBC]** United Airlines to offer free Wi-Fi using SpaceX’s Starlink
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/BepiColombo_s_fourth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo’s fourth Mercury flyby: the movie
-- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-a-spiral-star-factory/" >🔗</a> **[NASA]** Hubble Examines a Spiral Star Factory
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Adriatic_bloom" >🔗</a> **[ESA]** Earth from Space: Adriatic bloom
-- <a href="https://spaceflightnow.com/2024/09/12/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-west-coast/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from West Coast
-- <a href="https://spacepolicyonline.com/news/first-commercial-spacewalk-enters-history-books/" >🔗</a> **[SpacePolicyOnline.com]** First Commercial Spacewalk Enters History Books
-- <a href="https://www.nasaspaceflight.com/2024/09/firefly-new-launch-pads-virginia-sweden-alpha/" >🔗</a> **[NASASpaceflight]** Firefly preparing new launch pads in Virginia, Sweden for Alpha rocket
-- <a href="https://spaceflightnow.com/2024/09/12/first-non-government-spacewalk-goes-off-without-a-hitch-for-polaris-dawn-crew/" >🔗</a> **[Spaceflight Now]** First non-government spacewalk goes off without a hitch for Polaris Dawn crew
+- <a href="https://spacepolicyonline.com/news/polaris-dawn-splashes-down-after-five-busy-days/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Splashes Down After Five Busy Days
+- <a href="https://arstechnica.com/space/2024/09/after-five-demanding-days-in-space-polaris-dawn-splashes-down-safely/" >🔗</a> **[Arstechnica]** So what are we to make of the highly ambitious, private Polaris spaceflight?
+- <a href="https://spacenews.com/crew-dragon-splashes-down-to-conclude-polaris-dawn-mission/" >🔗</a> **[SpaceNews]** Crew Dragon splashes down to conclude Polaris Dawn mission
+- <a href="https://spaceflightnow.com/2024/09/15/polaris-dawn-crew-aims-for-early-sunday-splashdown-in-gulf-of-mexico/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew returns to Earth with splashdown in Gulf of Mexico
+- <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-splashdown/" >🔗</a> **[NASASpaceflight]** Polaris Dawn has returned home after landmark commercial spaceflight
+- <a href="https://europeanspaceflight.com/eu-report-advocates-for-scrapping-esa-geo-return-policy/" >🔗</a> **[European Spaceflight]** EU Report Advocates for Scrapping ESA Geo-Return Policy
+- <a href="https://spacepolicyonline.com/news/butch-and-suni-enjoying-extended-stay-on-iss-suni-to-be-next-iss-commander/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Enjoying Extended Stay on ISS, Suni to be Next ISS Commander
+- <a href="https://spacenews.com/united-airlines-bumps-geo-operators-off-fleet-for-starlink-wi-fi/" >🔗</a> **[SpaceNews]** United Airlines bumps GEO operators off fleet for Starlink Wi-Fi
+- <a href="https://spacenews.com/starliner-astronauts-adjust-to-long-term-iss-stay/" >🔗</a> **[SpaceNews]** Starliner astronauts adjust to long-term ISS stay
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-pad-starbase-flight-5-faa/" >🔗</a> **[NASASpaceflight]** Launch Pad work continues at Starbase as Flight 5 delayed by FAA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240915T100105">2024-09-15 10:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240915T103336">2024-09-15 10:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
