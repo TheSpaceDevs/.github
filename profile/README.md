@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-tests-neuraspace-traffic-management-services/" >🔗</a> **[SpaceNews]** ESA tests Neuraspace traffic management services
 - <a href="https://spacenews.com/imagesat-international-isi-announces-54-5-million-contract-to-provide-space-based-analytics-services/" >🔗</a> **[SpaceNews]** ImageSat International (ISI) Announces $54.5 Million Contract to Provide Space-Based Analytics Services
 - <a href="https://spacenews.com/apex-unveils-larger-satellite-bus/" >🔗</a> **[SpaceNews]** Apex unveils larger satellite bus
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-15-21-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 15-21, 2024
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/crew-dragon-splashes-down-to-conclude-polaris-dawn-mission/" >🔗</a> **[SpaceNews]** Crew Dragon splashes down to conclude Polaris Dawn mission
 - <a href="https://spaceflightnow.com/2024/09/15/polaris-dawn-crew-aims-for-early-sunday-splashdown-in-gulf-of-mexico/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew returns to Earth with splashdown in Gulf of Mexico
 - <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-splashdown/" >🔗</a> **[NASASpaceflight]** Polaris Dawn has returned home after landmark commercial spaceflight
-- <a href="https://europeanspaceflight.com/eu-report-advocates-for-scrapping-esa-geo-return-policy/" >🔗</a> **[European Spaceflight]** EU Report Advocates for Scrapping ESA Geo-Return Policy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T060136">2024-09-16 06:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T063631">2024-09-16 06:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
