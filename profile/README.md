@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apex-unveils-larger-satellite-bus/" >🔗</a> **[SpaceNews]** Apex unveils larger satellite bus
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-15-21-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 15-21, 2024
 - <a href="https://spacenews.com/ngso-revenue-to-overtake-geostationary-market-by-2028/" >🔗</a> **[SpaceNews]** NGSO revenue to overtake geostationary market by 2028
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-splashes-down-after-five-busy-days/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Splashes Down After Five Busy Days
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-splashdown/" >🔗</a> **[NASASpaceflight]** Polaris Dawn has returned home after landmark commercial spaceflight
 - <a href="https://europeanspaceflight.com/eu-report-advocates-for-scrapping-esa-geo-return-policy/" >🔗</a> **[European Spaceflight]** EU Report Advocates for Scrapping ESA Geo-Return Policy
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-enjoying-extended-stay-on-iss-suni-to-be-next-iss-commander/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Enjoying Extended Stay on ISS, Suni to be Next ISS Commander
-- <a href="https://spacenews.com/united-airlines-bumps-geo-operators-off-fleet-for-starlink-wi-fi/" >🔗</a> **[SpaceNews]** United Airlines bumps GEO operators off fleet for Starlink Wi-Fi
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T040117">2024-09-16 04:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T043450">2024-09-16 04:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
