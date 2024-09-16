@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex">Yoshinobu Launch Complex LP-1</a>, Tanegashima Space Center, Japan*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T052420">2024-09-16 05:24:20 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T052420">2024-09-17 05:24:20 UTC</a>.  Until
 then, this pad will have been used for 55
 out of 91 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBC* 🟨 . The mission type is
 *Government/Top Secret* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
@@ -46,9 +46,9 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T052420">2024-09-16 05:24:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar 8&location=Tanegashima Space Center, Japan&dates=20240916T052420Z%2F20240916T052521Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar 8** from Tanegashima Space Center, Japan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T224400">2024-09-16 22:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galileo L13 (FOC FM26 &amp; FM32)&location=Cape Canaveral, FL, USA&dates=20240916T224400Z%2F20240916T232800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galileo L13 (FOC FM26 & FM32)** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T052420">2024-09-17 05:24:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | IGS Radar 8&location=Tanegashima Space Center, Japan&dates=20240917T052420Z%2F20240917T052521Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | IGS Radar 8** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T070000">2024-09-17 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20240917T070000Z%2F20240917T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T224000">2024-09-17 22:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galileo L13 (FOC FM26 &amp; FM32)&location=Cape Canaveral, FL, USA&dates=20240917T224000Z%2F20240917T232400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galileo L13 (FOC FM26 & FM32)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T142000">2024-09-18 14:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-17&location=Vandenberg SFB, CA, USA&dates=20240918T142000Z%2F20240918T162900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230000">2024-09-18 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240918T230000Z%2F20240918T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T182800">2024-09-25 18:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Cape Canaveral, FL, USA&dates=20240925T182800Z%2F20240925T182800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Cape Canaveral, FL, USA.
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-15-21-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 15-21, 2024
 - <a href="https://spacenews.com/ngso-revenue-to-overtake-geostationary-market-by-2028/" >🔗</a> **[SpaceNews]** NGSO revenue to overtake geostationary market by 2028
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-splashes-down-after-five-busy-days/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Splashes Down After Five Busy Days
 - <a href="https://arstechnica.com/space/2024/09/after-five-demanding-days-in-space-polaris-dawn-splashes-down-safely/" >🔗</a> **[Arstechnica]** So what are we to make of the highly ambitious, private Polaris spaceflight?
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/eu-report-advocates-for-scrapping-esa-geo-return-policy/" >🔗</a> **[European Spaceflight]** EU Report Advocates for Scrapping ESA Geo-Return Policy
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-enjoying-extended-stay-on-iss-suni-to-be-next-iss-commander/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni Enjoying Extended Stay on ISS, Suni to be Next ISS Commander
 - <a href="https://spacenews.com/united-airlines-bumps-geo-operators-off-fleet-for-starlink-wi-fi/" >🔗</a> **[SpaceNews]** United Airlines bumps GEO operators off fleet for Starlink Wi-Fi
-- <a href="https://spacenews.com/starliner-astronauts-adjust-to-long-term-iss-stay/" >🔗</a> **[SpaceNews]** Starliner astronauts adjust to long-term ISS stay
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T000426">2024-09-16 00:04:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T004533">2024-09-16 00:45:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
