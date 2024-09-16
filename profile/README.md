@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-satellites-built-by-york-space-demonstrate-optical-communications-in-orbit/" >🔗</a> **[SpaceNews]** U.S. military satellites built by York Space demonstrate optical communications in orbit
 - <a href="https://www.nasa.gov/image-article/engineer-zaida-hernandez/" >🔗</a> **[NASA]** Engineer Zaida Hernandez
 - <a href="https://science.nasa.gov/blog/reaching-new-heights-to-unravel-deep-martian-history/" >🔗</a> **[NASA]** Reaching New Heights to Unravel Deep Martian History!
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/" >🔗</a> **[NASA]** Station Science Top News: September 13, 2024
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/planet-signs-three-year-dlr-contract/" >🔗</a> **[SpaceNews]** Planet signs three-year DLR contract
 - <a href="https://spacenews.com/connecting-the-dots-fcc-space-sustainability-authority-question-need-grows/" >🔗</a> **[SpaceNews]** Connecting the dots | FCC’s space sustainability authority in question as need grows
 - <a href="https://spacenews.com/want-to-challenge-starlink-in-the-satcom-market/" >🔗</a> **[SpaceNews]** Want to challenge Starlink in the satcom market?
-- <a href="https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/" >🔗</a> **[NASA]** NASA Mobilizes Resource for HBCU Scholars, Highlighted at Conference
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T200117">2024-09-16 20:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T203221">2024-09-16 20:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
