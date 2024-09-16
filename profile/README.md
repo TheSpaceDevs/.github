@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/proteus-space-to-launch-ai-designed-espa-satellite/" >🔗</a> **[SpaceNews]** Proteus Space to launch AI-designed ESPA satellite
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_16_September_2024" >🔗</a> **[ESA]** Ariane 6 joint update report, 16 September 2024
 - <a href="https://spacenews.com/chinese-on-orbit-servicing-and-debris-removal-company-secures-early-funding/" >🔗</a> **[SpaceNews]** Chinese on-orbit servicing and debris removal company secures early funding
 - <a href="https://spacenews.com/how-maxar-space-systems-is-leveraging-their-heritage-to-pioneer-tomorrow/" >🔗</a> **[SpaceNews]** How Maxar Space Systems is Leveraging Their Heritage to Pioneer Tomorrow
 - <a href="https://europeanspaceflight.com/competition-might-have-its-limits-says-arianespace-ceo/" >🔗</a> **[European Spaceflight]** “Competition Might Have Its Limits,” Says Arianespace CEO
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-honors-hispanic-heritage-meet-manuel-retana/" >🔗</a> **[NASA]** NASA Johnson Honors Hispanic Heritage: Meet Manuel Retana
 - <a href="https://spacenews.com/anduril-targets-space-domain-with-ai-and-autonomous-systems/" >🔗</a> **[SpaceNews]** Anduril targets space domain with AI and autonomous systems
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-honors-hispanic-heritage-meet-manuel-retana/" >🔗</a> **[NASA]** NASA Johnson Honors Hispanic Heritage: Meet Manuel Retana
 - <a href="https://spacenews.com/esa-tests-neuraspace-traffic-management-services/" >🔗</a> **[SpaceNews]** ESA tests Neuraspace traffic management services
 - <a href="https://spacenews.com/imagesat-international-isi-announces-54-5-million-contract-to-provide-space-based-analytics-services/" >🔗</a> **[SpaceNews]** ImageSat International (ISI) Announces $54.5 Million Contract to Provide Space-Based Analytics Services
 - <a href="https://spacenews.com/apex-unveils-larger-satellite-bus/" >🔗</a> **[SpaceNews]** Apex unveils larger satellite bus
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-15-21-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 15-21, 2024
-- <a href="https://spacenews.com/ngso-revenue-to-overtake-geostationary-market-by-2028/" >🔗</a> **[SpaceNews]** NGSO revenue to overtake geostationary market by 2028
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T120159">2024-09-16 12:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T124236">2024-09-16 12:42:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
