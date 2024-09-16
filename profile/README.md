@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/software-fix-planned-to-correct-ariane-6-upper-stage-issue/" >🔗</a> **[SpaceNews]** Software fix planned to correct Ariane 6 upper stage issue
+- <a href="https://spacenews.com/impulse-signs-geo-rideshare-contract-with-space-network-services/" >🔗</a> **[SpaceNews]** Impulse signs GEO rideshare contract with Space Network Services
+- <a href="https://spacenews.com/securing-our-future-space-workforce-for-tomorrow/" >🔗</a> **[SpaceNews]** Securing our future: Space Workforce for Tomorrow
+- <a href="https://spacenews.com/war-game-chinese-attacks-communications-paralyze-taiwan/" >🔗</a> **[SpaceNews]** War game reveals Chinese attacks on communications could paralyze Taiwan
+- <a href="https://www.nasa.gov/history/55-years-ago-space-task-group-proposes-post-apollo-plan-to-president-nixon/" >🔗</a> **[NASA]** 55 Years Ago: Space Task Group Proposes Post-Apollo Plan to President Nixon
 - <a href="https://spacenews.com/proteus-space-to-launch-ai-designed-espa-satellite/" >🔗</a> **[SpaceNews]** Proteus Space to launch AI-designed ESPA satellite
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_16_September_2024" >🔗</a> **[ESA]** Ariane 6 joint update report, 16 September 2024
 - <a href="https://spacenews.com/chinese-on-orbit-servicing-and-debris-removal-company-secures-early-funding/" >🔗</a> **[SpaceNews]** Chinese on-orbit servicing and debris removal company secures early funding
 - <a href="https://spacenews.com/how-maxar-space-systems-is-leveraging-their-heritage-to-pioneer-tomorrow/" >🔗</a> **[SpaceNews]** How Maxar Space Systems is Leveraging Their Heritage to Pioneer Tomorrow
 - <a href="https://europeanspaceflight.com/competition-might-have-its-limits-says-arianespace-ceo/" >🔗</a> **[European Spaceflight]** “Competition Might Have Its Limits,” Says Arianespace CEO
-- <a href="https://spacenews.com/anduril-targets-space-domain-with-ai-and-autonomous-systems/" >🔗</a> **[SpaceNews]** Anduril targets space domain with AI and autonomous systems
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-honors-hispanic-heritage-meet-manuel-retana/" >🔗</a> **[NASA]** NASA Johnson Honors Hispanic Heritage: Meet Manuel Retana
-- <a href="https://spacenews.com/esa-tests-neuraspace-traffic-management-services/" >🔗</a> **[SpaceNews]** ESA tests Neuraspace traffic management services
-- <a href="https://spacenews.com/imagesat-international-isi-announces-54-5-million-contract-to-provide-space-based-analytics-services/" >🔗</a> **[SpaceNews]** ImageSat International (ISI) Announces $54.5 Million Contract to Provide Space-Based Analytics Services
-- <a href="https://spacenews.com/apex-unveils-larger-satellite-bus/" >🔗</a> **[SpaceNews]** Apex unveils larger satellite bus
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T130601">2024-09-16 13:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T133425">2024-09-16 13:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
