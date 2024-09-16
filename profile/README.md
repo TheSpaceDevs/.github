@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-honors-hispanic-heritage-meet-manuel-retana/" >🔗</a> **[NASA]** NASA Johnson Honors Hispanic Heritage: Meet Manuel Retana
+- <a href="https://spacenews.com/anduril-targets-space-domain-with-ai-and-autonomous-systems/" >🔗</a> **[SpaceNews]** Anduril targets space domain with AI and autonomous systems
 - <a href="https://spacenews.com/esa-tests-neuraspace-traffic-management-services/" >🔗</a> **[SpaceNews]** ESA tests Neuraspace traffic management services
 - <a href="https://spacenews.com/imagesat-international-isi-announces-54-5-million-contract-to-provide-space-based-analytics-services/" >🔗</a> **[SpaceNews]** ImageSat International (ISI) Announces $54.5 Million Contract to Provide Space-Based Analytics Services
 - <a href="https://spacenews.com/apex-unveils-larger-satellite-bus/" >🔗</a> **[SpaceNews]** Apex unveils larger satellite bus
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/polaris-dawn-splashes-down-after-five-busy-days/" >🔗</a> **[SpacePolicyOnline.com]** Polaris Dawn Splashes Down After Five Busy Days
 - <a href="https://arstechnica.com/space/2024/09/after-five-demanding-days-in-space-polaris-dawn-splashes-down-safely/" >🔗</a> **[Arstechnica]** So what are we to make of the highly ambitious, private Polaris spaceflight?
 - <a href="https://spacenews.com/crew-dragon-splashes-down-to-conclude-polaris-dawn-mission/" >🔗</a> **[SpaceNews]** Crew Dragon splashes down to conclude Polaris Dawn mission
-- <a href="https://spaceflightnow.com/2024/09/15/polaris-dawn-crew-aims-for-early-sunday-splashdown-in-gulf-of-mexico/" >🔗</a> **[Spaceflight Now]** Polaris Dawn crew returns to Earth with splashdown in Gulf of Mexico
-- <a href="https://www.nasaspaceflight.com/2024/09/polaris-dawn-splashdown/" >🔗</a> **[NASASpaceflight]** Polaris Dawn has returned home after landmark commercial spaceflight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T100126">2024-09-16 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T103502">2024-09-16 10:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
