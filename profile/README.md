@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/" >🔗</a> **[NASA]** Going Back-to-School with NASA Data
 - <a href="https://science.nasa.gov/science-research/earth-science/aura-at-20-years/" >🔗</a> **[NASA]** Aura at 20 Years
 - <a href="https://spacenews.com/planet-signs-three-year-dlr-contract/" >🔗</a> **[SpaceNews]** Planet signs three-year DLR contract
 - <a href="https://spacenews.com/connecting-the-dots-fcc-space-sustainability-authority-question-need-grows/" >🔗</a> **[SpaceNews]** Connecting the dots | FCC’s space sustainability authority in question as need grows
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/investigation-identifies-cause-of-ariane-6-apu-anomaly/" >🔗</a> **[European Spaceflight]** Investigation Identifies Cause of Ariane 6 APU Anomaly
 - <a href="https://spacenews.com/nasa-veteran-kevin-mccormick-joins-desert-works-propulsion-as-senior-master-technician/" >🔗</a> **[SpaceNews]** NASA Veteran Kevin McCormick Joins Desert Works Propulsion as Senior Master Technician
 - <a href="https://spacenews.com/software-fix-planned-to-correct-ariane-6-upper-stage-issue/" >🔗</a> **[SpaceNews]** Software fix planned to correct Ariane 6 upper stage issue
-- <a href="https://spacenews.com/impulse-signs-geo-rideshare-contract-with-space-network-services/" >🔗</a> **[SpaceNews]** Impulse signs GEO rideshare contract with Space Network Services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T180130">2024-09-16 18:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T183538">2024-09-16 18:35:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
