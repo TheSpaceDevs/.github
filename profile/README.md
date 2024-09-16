@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-wins-54-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $54.7 million contract for military satcom antennas
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
+- <a href="https://spacenews.com/cybersecurity-a-top-priority-for-military-satellites-as-threats-loom/" >🔗</a> **[SpaceNews]** Cybersecurity a top priority for military satellites as threats loom
 - <a href="https://spacenews.com/u-s-military-satellites-built-by-york-space-demonstrate-optical-communications-in-orbit/" >🔗</a> **[SpaceNews]** U.S. military satellites built by York Space demonstrate optical communications in orbit
 - <a href="https://www.nasa.gov/image-article/engineer-zaida-hernandez/" >🔗</a> **[NASA]** Engineer Zaida Hernandez
 - <a href="https://science.nasa.gov/blog/reaching-new-heights-to-unravel-deep-martian-history/" >🔗</a> **[NASA]** Reaching New Heights to Unravel Deep Martian History!
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/ottawas-fall-rhapsody/" >🔗</a> **[NASA]** Ottawa’s Fall Rhapsody
 - <a href="https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/" >🔗</a> **[NASA]** Going Back-to-School with NASA Data
 - <a href="https://science.nasa.gov/science-research/earth-science/aura-at-20-years/" >🔗</a> **[NASA]** Aura at 20 Years
-- <a href="https://spacenews.com/planet-signs-three-year-dlr-contract/" >🔗</a> **[SpaceNews]** Planet signs three-year DLR contract
-- <a href="https://spacenews.com/connecting-the-dots-fcc-space-sustainability-authority-question-need-grows/" >🔗</a> **[SpaceNews]** Connecting the dots | FCC’s space sustainability authority in question as need grows
-- <a href="https://spacenews.com/want-to-challenge-starlink-in-the-satcom-market/" >🔗</a> **[SpaceNews]** Want to challenge Starlink in the satcom market?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T210117">2024-09-16 21:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T220116">2024-09-16 22:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
