@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/aura-at-20-years/" >🔗</a> **[NASA]** Aura at 20 Years
 - <a href="https://spacenews.com/planet-signs-three-year-dlr-contract/" >🔗</a> **[SpaceNews]** Planet signs three-year DLR contract
 - <a href="https://spacenews.com/connecting-the-dots-fcc-space-sustainability-authority-question-need-grows/" >🔗</a> **[SpaceNews]** Connecting the dots | FCC’s space sustainability authority in question as need grows
 - <a href="https://spacenews.com/want-to-challenge-starlink-in-the-satcom-market/" >🔗</a> **[SpaceNews]** Want to challenge Starlink in the satcom market?
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-veteran-kevin-mccormick-joins-desert-works-propulsion-as-senior-master-technician/" >🔗</a> **[SpaceNews]** NASA Veteran Kevin McCormick Joins Desert Works Propulsion as Senior Master Technician
 - <a href="https://spacenews.com/software-fix-planned-to-correct-ariane-6-upper-stage-issue/" >🔗</a> **[SpaceNews]** Software fix planned to correct Ariane 6 upper stage issue
 - <a href="https://spacenews.com/impulse-signs-geo-rideshare-contract-with-space-network-services/" >🔗</a> **[SpaceNews]** Impulse signs GEO rideshare contract with Space Network Services
-- <a href="https://spacenews.com/securing-our-future-space-workforce-for-tomorrow/" >🔗</a> **[SpaceNews]** Securing our future: Space Workforce for Tomorrow
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T170123">2024-09-16 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T173417">2024-09-16 17:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
