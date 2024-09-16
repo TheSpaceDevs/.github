@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-45-million-to-universities-for-propulsion-and-power-research/" >🔗</a> **[SpaceNews]** Space Force awards $45 million to universities for propulsion and power research
+- <a href="https://europeanspaceflight.com/investigation-identifies-cause-of-ariane-6-apu-anomaly/" >🔗</a> **[European Spaceflight]** Investigation Identifies Cause of Ariane 6 APU Anomaly
+- <a href="https://spacenews.com/nasa-veteran-kevin-mccormick-joins-desert-works-propulsion-as-senior-master-technician/" >🔗</a> **[SpaceNews]** NASA Veteran Kevin McCormick Joins Desert Works Propulsion as Senior Master Technician
 - <a href="https://spacenews.com/software-fix-planned-to-correct-ariane-6-upper-stage-issue/" >🔗</a> **[SpaceNews]** Software fix planned to correct Ariane 6 upper stage issue
 - <a href="https://spacenews.com/impulse-signs-geo-rideshare-contract-with-space-network-services/" >🔗</a> **[SpaceNews]** Impulse signs GEO rideshare contract with Space Network Services
 - <a href="https://spacenews.com/securing-our-future-space-workforce-for-tomorrow/" >🔗</a> **[SpaceNews]** Securing our future: Space Workforce for Tomorrow
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/history/55-years-ago-space-task-group-proposes-post-apollo-plan-to-president-nixon/" >🔗</a> **[NASA]** 55 Years Ago: Space Task Group Proposes Post-Apollo Plan to President Nixon
 - <a href="https://spacenews.com/proteus-space-to-launch-ai-designed-espa-satellite/" >🔗</a> **[SpaceNews]** Proteus Space to launch AI-designed ESPA satellite
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_joint_update_report_16_September_2024" >🔗</a> **[ESA]** Ariane 6 joint update report, 16 September 2024
-- <a href="https://spacenews.com/chinese-on-orbit-servicing-and-debris-removal-company-secures-early-funding/" >🔗</a> **[SpaceNews]** Chinese on-orbit servicing and debris removal company secures early funding
-- <a href="https://spacenews.com/how-maxar-space-systems-is-leveraging-their-heritage-to-pioneer-tomorrow/" >🔗</a> **[SpaceNews]** How Maxar Space Systems is Leveraging Their Heritage to Pioneer Tomorrow
-- <a href="https://europeanspaceflight.com/competition-might-have-its-limits-says-arianespace-ceo/" >🔗</a> **[European Spaceflight]** “Competition Might Have Its Limits,” Says Arianespace CEO
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T140123">2024-09-16 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T143409">2024-09-16 14:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
