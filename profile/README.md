@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/engineer-zaida-hernandez/" >🔗</a> **[NASA]** Engineer Zaida Hernandez
+- <a href="https://science.nasa.gov/blog/reaching-new-heights-to-unravel-deep-martian-history/" >🔗</a> **[NASA]** Reaching New Heights to Unravel Deep Martian History!
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/" >🔗</a> **[NASA]** Station Science Top News: September 13, 2024
+- <a href="https://www.nasa.gov/image-article/ottawas-fall-rhapsody/" >🔗</a> **[NASA]** Ottawa’s Fall Rhapsody
 - <a href="https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/" >🔗</a> **[NASA]** Going Back-to-School with NASA Data
 - <a href="https://science.nasa.gov/science-research/earth-science/aura-at-20-years/" >🔗</a> **[NASA]** Aura at 20 Years
 - <a href="https://spacenews.com/planet-signs-three-year-dlr-contract/" >🔗</a> **[SpaceNews]** Planet signs three-year DLR contract
 - <a href="https://spacenews.com/connecting-the-dots-fcc-space-sustainability-authority-question-need-grows/" >🔗</a> **[SpaceNews]** Connecting the dots | FCC’s space sustainability authority in question as need grows
 - <a href="https://spacenews.com/want-to-challenge-starlink-in-the-satcom-market/" >🔗</a> **[SpaceNews]** Want to challenge Starlink in the satcom market?
 - <a href="https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/" >🔗</a> **[NASA]** NASA Mobilizes Resource for HBCU Scholars, Highlighted at Conference
-- <a href="https://spacenews.com/space-force-awards-45-million-to-universities-for-propulsion-and-power-research/" >🔗</a> **[SpaceNews]** Space Force awards $45 million to universities for propulsion and power research
-- <a href="https://europeanspaceflight.com/investigation-identifies-cause-of-ariane-6-apu-anomaly/" >🔗</a> **[European Spaceflight]** Investigation Identifies Cause of Ariane 6 APU Anomaly
-- <a href="https://spacenews.com/nasa-veteran-kevin-mccormick-joins-desert-works-propulsion-as-senior-master-technician/" >🔗</a> **[SpaceNews]** NASA Veteran Kevin McCormick Joins Desert Works Propulsion as Senior Master Technician
-- <a href="https://spacenews.com/software-fix-planned-to-correct-ariane-6-upper-stage-issue/" >🔗</a> **[SpaceNews]** Software fix planned to correct Ariane 6 upper stage issue
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T190112">2024-09-16 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240916T193105">2024-09-16 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
