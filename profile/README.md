@@ -93,16 +93,16 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-ignites-stem-passion-at-houstons-japan-festival/" >🔗</a> **[NASA]** Johnson Space Center Ignites STEM Passion at Houston’s Japan Festival
+- <a href="https://tlpnetwork.com/news/military/northrop-grumman-secures-us-air-force-contract-for-satellite-communications-antennas" >🔗</a> **[The Launch Pad]** Northrop Grumman Secures $54.7 Million US Air Force Contract for Satellite Communications Antennas
+- <a href="https://www.nasa.gov/general/ocean-science-missions-and-projects/" >🔗</a> **[NASA]** Ocean Science Missions and Projects
+- <a href="https://tlpnetwork.com/news/policy-and-finance/ursa-major-secures-military-funding-to-advance-solid-rocket-motor-development" >🔗</a> **[The Launch Pad]** Ursa Major Secures $12.5M in Military Funding to Advance Solid Rocket Motor Development
+- <a href="https://arstechnica.com/space/2024/09/a-key-nasa-commercial-partner-faces-severe-financial-challenges/" >🔗</a> **[Arstechnica]** A key NASA commercial partner faces severe financial challenges
+- <a href="https://tlpnetwork.com/news/europe/france-unveils-leo-space-surveillance-program-at-space-defense-and-security-summit" >🔗</a> **[The Launch Pad]** France Unveils Low-Earth Orbit Space Surveillance Program at Space Defense and Security Summit
+- <a href="https://tlpnetwork.com/news/policy-and-finance/capella-space-secures-us-air-force-contract-to-modernize-sar-sensor-technology" >🔗</a> **[The Launch Pad]** Capella Space Secures $15M US Air Force Contract to Modernize SAR Sensor Technology
 - <a href="https://spaceflightnow.com/2024/09/17/live-coverage-spacex-to-launch-european-commissions-galileo-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch European Commission’s Galileo satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/" >🔗</a> **[NASA]** ICESat-2 Hosts Third Applications Workshop
 - <a href="https://www.nasa.gov/news-release/el-podcast-en-espanol-de-la-nasa-regresa-con-una-nueva-temporada/" >🔗</a> **[NASA]** El pódcast en español de la NASA regresa con una nueva temporada
-- <a href="https://www.nasa.gov/news-release/nasas-spanish-language-podcast-returns-for-new-season/" >🔗</a> **[NASA]** NASA’s Spanish-language Podcast Returns for New Season
-- <a href="https://www.teslarati.com/spacex-could-receive-over-600k-fine-from-faa/" >🔗</a> **[Teslarati]** SpaceX could receive over $600k fine from FAA
-- <a href="https://spacenews.com/uniting-industry-leaders-and-cutting-edge-solutions-to-shape-the-future-of-manufacturing/" >🔗</a> **[SpaceNews]** Uniting Industry Leaders and Cutting-Edge Solutions to Shape the Future of Manufacturing
-- <a href="https://science.nasa.gov/blog/sols-4307-4308-bright-rocks-catch-our-eyes/" >🔗</a> **[NASA]** Sols 4307-4308: Bright Rocks Catch Our Eyes
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_delivers_stunning_first_images" >🔗</a> **[ESA]** Sentinel-2C delivers stunning first images
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_more_black_holes_in_the_early_Universe" >🔗</a> **[ESA]** Hubble finds more black holes in the early Universe
-- <a href="https://www.nasa.gov/image-article/technicians-work-to-prepare-europa-clipper-for-propellant-loading/" >🔗</a> **[NASA]** Technicians Work to Prepare Europa Clipper for Propellant Loading
-- <a href="https://science.nasa.gov/science-research/earth-science/celebrating-the-first-earth-day-event-at-nasa-headquarters/" >🔗</a> **[NASA]** Celebrating the First Earth Day Event at NASA Headquarters
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T190138">2024-09-17 19:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T193059">2024-09-17 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
