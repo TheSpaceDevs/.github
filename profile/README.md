@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T224000">2024-09-17 22:40:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T225000">2024-09-17 22:50:00 UTC</a>.  Until
 then, this pad will have been used for 261
 out of 974 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Navigation* and the payload will be injected
 into *a Medium Earth Orbit
 (MEO)*.
@@ -48,7 +48,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T224000">2024-09-17 22:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galileo L13 (FOC FM26 &amp; FM32)&location=Cape Canaveral, FL, USA&dates=20240917T224000Z%2F20240917T232400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galileo L13 (FOC FM26 & FM32)** from Cape Canaveral, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T225000">2024-09-17 22:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Galileo L13 (FOC FM26 &amp; FM32)&location=Cape Canaveral, FL, USA&dates=20240917T225000Z%2F20240917T225000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Galileo L13 (FOC FM26 & FM32)** from Cape Canaveral, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T142000">2024-09-18 14:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-17&location=Vandenberg SFB, CA, USA&dates=20240918T142000Z%2F20240918T162900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230000">2024-09-18 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240918T230000Z%2F20240918T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T005400">2024-09-19 00:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/YZ-1 | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240919T005400Z%2F20240919T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/YZ-1 | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -95,14 +95,14 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_delivers_stunning_first_images" >🔗</a> **[ESA]** Sentinel-2C delivers stunning first images
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_more_black_holes_in_the_early_Universe" >🔗</a> **[ESA]** Hubble finds more black holes in the early Universe
+- <a href="https://www.nasa.gov/image-article/technicians-work-to-prepare-europa-clipper-for-propellant-loading/" >🔗</a> **[NASA]** Technicians Work to Prepare Europa Clipper for Propellant Loading
+- <a href="https://science.nasa.gov/science-research/earth-science/celebrating-the-first-earth-day-event-at-nasa-headquarters/" >🔗</a> **[NASA]** Celebrating the First Earth Day Event at NASA Headquarters
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/" >🔗</a> **[NASA]** NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/Time_to_be_inspired_by_planet_Earth" >🔗</a> **[ESA]** Time to be inspired by planet Earth
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/rob-garner-editing-goddards-story-to-fit-the-space/" >🔗</a> **[NASA]** Rob Garner: Editing Goddard’s Story to Fit the Space
 - <a href="https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/" >🔗</a> **[NASA]** 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
 - <a href="https://www.cnbc.com/2024/09/17/spacexs-starlink-has-2500-aircraft-under-contract.html" >🔗</a> **[CNBC]** SpaceX Starlink has 2,500 airplanes under contract after United megadeal, director says
 - <a href="https://spacenews.com/capella-space-lands-15-million-u-s-air-force-contract-for-radar-imaging-upgrade/" >🔗</a> **[SpaceNews]** Capella Space lands $15 million U.S. Air Force contract for radar imaging upgrade
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/" >🔗</a> **[NASA]** NASA’s Hubble Finds More Black Holes than Expected in the Early Universe
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/innovative-instrument-reveals-hidden-features-deep-inside-the-van-allen-radiation-belts/" >🔗</a> **[NASA]** Innovative Instrument Reveals Hidden Features Deep Inside the Van Allen Radiation Belts
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T160123">2024-09-17 16:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T163531">2024-09-17 16:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
