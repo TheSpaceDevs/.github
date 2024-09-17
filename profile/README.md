@@ -93,6 +93,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leanspace-secures-e10-5-million-to-champion-next-gen-satellite-constellation-operations/" >🔗</a> **[SpaceNews]** Leanspace secures €10.5 Million to Champion Next-Gen Satellite Constellation Operations
 - <a href="https://spacenews.com/ex-im-banks-space-project-pipeline-doubles-to-9-5-billion-in-one-year/" >🔗</a> **[SpaceNews]** Ex-Im Bank’s space project pipeline doubles to $9.5 billion in one year
 - <a href="https://spacenews.com/northrop-grumman-wins-54-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $54.7 million contract for military satcom antennas
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
@@ -102,11 +103,11 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://science.nasa.gov/blog/reaching-new-heights-to-unravel-deep-martian-history/" >🔗</a> **[NASA]** Reaching New Heights to Unravel Deep Martian History!
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/" >🔗</a> **[NASA]** Station Science Top News: September 13, 2024
 - <a href="https://www.nasa.gov/image-article/ottawas-fall-rhapsody/" >🔗</a> **[NASA]** Ottawa’s Fall Rhapsody
-- <a href="https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/" >🔗</a> **[NASA]** Going Back-to-School with NASA Data
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vega retired after final launch; Polaris Dawn set for new launch attempt
 - <a href="https://arstechnica.com/space/2024/03/its-official-europe-turns-to-the-falcon-9-to-launch-its-navigation-satellites/" >🔗</a> **[Arstechnica]** It’s official: Europe turns to the Falcon 9 to launch its navigation satellites
@@ -115,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T060140">2024-09-17 06:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T063417">2024-09-17 06:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
