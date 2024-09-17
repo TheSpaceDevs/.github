@@ -93,6 +93,8 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-aerospace-corporation-pushes-research-on-hard-to-spot-spacecraft-reentries/" >🔗</a> **[SpaceNews]** The Aerospace Corporation pushes research on hard-to-spot spacecraft reentries
+- <a href="https://www.nasa.gov/news-release/nasa-marshall-to-present-2024-small-business-awards-sept-19/" >🔗</a> **[NASA]** NASA Marshall to Present 2024 Small Business Awards Sept. 19
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-ignites-stem-passion-at-houstons-japan-festival/" >🔗</a> **[NASA]** Johnson Space Center Ignites STEM Passion at Houston’s Japan Festival
 - <a href="https://tlpnetwork.com/news/military/northrop-grumman-secures-us-air-force-contract-for-satellite-communications-antennas" >🔗</a> **[The Launch Pad]** Northrop Grumman Secures $54.7 Million US Air Force Contract for Satellite Communications Antennas
 - <a href="https://www.nasa.gov/general/ocean-science-missions-and-projects/" >🔗</a> **[NASA]** Ocean Science Missions and Projects
@@ -101,8 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://tlpnetwork.com/news/europe/france-unveils-leo-space-surveillance-program-at-space-defense-and-security-summit" >🔗</a> **[The Launch Pad]** France Unveils Low-Earth Orbit Space Surveillance Program at Space Defense and Security Summit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/capella-space-secures-us-air-force-contract-to-modernize-sar-sensor-technology" >🔗</a> **[The Launch Pad]** Capella Space Secures $15M US Air Force Contract to Modernize SAR Sensor Technology
 - <a href="https://spaceflightnow.com/2024/09/17/live-coverage-spacex-to-launch-european-commissions-galileo-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch European Commission’s Galileo satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://science.nasa.gov/science-research/earth-science/icesat-2-hosts-third-applications-workshop/" >🔗</a> **[NASA]** ICESat-2 Hosts Third Applications Workshop
-- <a href="https://www.nasa.gov/news-release/el-podcast-en-espanol-de-la-nasa-regresa-con-una-nueva-temporada/" >🔗</a> **[NASA]** El pódcast en español de la NASA regresa con una nueva temporada
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T193059">2024-09-17 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T200119">2024-09-17 20:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
