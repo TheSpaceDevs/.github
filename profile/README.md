@@ -93,16 +93,16 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/france-kicks-off-space-surveillance-program-for-leo/" >🔗</a> **[SpaceNews]** France kicks off space surveillance program for LEO
+- <a href="https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/" >🔗</a> **[NASA]** NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
+- <a href="https://spacenews.com/launch-companies-focus-on-scaling-up-flight-rates-of-new-vehicles/" >🔗</a> **[SpaceNews]** Launch companies focus on scaling up flight rates of new vehicles
+- <a href="https://spacenews.com/u-s-military-invests-12-5-million-in-ursa-major-for-solid-rocket-development/" >🔗</a> **[SpaceNews]** U.S. military invests $12.5 million in Ursa Major for solid rocket development
 - <a href="https://spacenews.com/leanspace-secures-e10-5-million-to-champion-next-gen-satellite-constellation-operations/" >🔗</a> **[SpaceNews]** Leanspace secures €10.5 Million to Champion Next-Gen Satellite Constellation Operations
 - <a href="https://spacenews.com/ex-im-banks-space-project-pipeline-doubles-to-9-5-billion-in-one-year/" >🔗</a> **[SpaceNews]** Ex-Im Bank’s space project pipeline doubles to $9.5 billion in one year
 - <a href="https://spacenews.com/northrop-grumman-wins-54-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $54.7 million contract for military satcom antennas
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
 - <a href="https://spacenews.com/cybersecurity-a-top-priority-for-military-satellites-as-threats-loom/" >🔗</a> **[SpaceNews]** Cybersecurity a top priority for military satellites as threats loom
 - <a href="https://spacenews.com/u-s-military-satellites-built-by-york-space-demonstrate-optical-communications-in-orbit/" >🔗</a> **[SpaceNews]** U.S. military satellites built by York Space demonstrate optical communications in orbit
-- <a href="https://www.nasa.gov/image-article/engineer-zaida-hernandez/" >🔗</a> **[NASA]** Engineer Zaida Hernandez
-- <a href="https://science.nasa.gov/blog/reaching-new-heights-to-unravel-deep-martian-history/" >🔗</a> **[NASA]** Reaching New Heights to Unravel Deep Martian History!
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/" >🔗</a> **[NASA]** Station Science Top News: September 13, 2024
-- <a href="https://www.nasa.gov/image-article/ottawas-fall-rhapsody/" >🔗</a> **[NASA]** Ottawa’s Fall Rhapsody
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T100119">2024-09-17 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T103424">2024-09-17 10:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
