@@ -93,6 +93,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-chief-urges-readiness-for-new-era-of-competition/" >🔗</a> **[SpaceNews]** Space Force chief urges readiness for new era of competition
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/" >🔗</a> **[NASA]** Measuring Moon Dust to Fight Air Pollution
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lunar-relay-contractor-for-near-space-network-services/" >🔗</a> **[NASA]** NASA Selects Lunar Relay Contractor for Near Space Network Services
 - <a href="https://www.nasa.gov/general/fire-science-internships-at-ames/" >🔗</a> **[NASA]** Fire Science Internships at Ames
@@ -102,7 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-develop-lightning-mapper-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Develop Lightning Mapper for NOAA
 - <a href="https://spacenews.com/the-aerospace-corporation-pushes-research-on-hard-to-spot-spacecraft-reentries/" >🔗</a> **[SpaceNews]** The Aerospace Corporation pushes research on hard-to-spot spacecraft reentries
 - <a href="https://www.nasa.gov/news-release/nasa-marshall-to-present-2024-small-business-awards-sept-19/" >🔗</a> **[NASA]** NASA Marshall to Present 2024 Small Business Awards Sept. 19
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-ignites-stem-passion-at-houstons-japan-festival/" >🔗</a> **[NASA]** Johnson Space Center Ignites STEM Passion at Houston’s Japan Festival
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T213101">2024-09-17 21:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T223253">2024-09-17 22:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
