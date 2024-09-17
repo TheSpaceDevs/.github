@@ -93,16 +93,16 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_delivers_stunning_first_images" >🔗</a> **[ESA]** Sentinel-2C delivers stunning first images
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_more_black_holes_in_the_early_Universe" >🔗</a> **[ESA]** Hubble finds more black holes in the early Universe
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/" >🔗</a> **[NASA]** NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/Time_to_be_inspired_by_planet_Earth" >🔗</a> **[ESA]** Time to be inspired by planet Earth
-- <a href="https://www.cnbc.com/2024/09/17/spacexs-starlink-has-2500-aircraft-under-contract.html" >🔗</a> **[CNBC]** SpaceX Starlink has 2,500 aircraft under contract after United megadeal, director says
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/rob-garner-editing-goddards-story-to-fit-the-space/" >🔗</a> **[NASA]** Rob Garner: Editing Goddard’s Story to Fit the Space
+- <a href="https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/" >🔗</a> **[NASA]** 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
+- <a href="https://www.cnbc.com/2024/09/17/spacexs-starlink-has-2500-aircraft-under-contract.html" >🔗</a> **[CNBC]** SpaceX Starlink has 2,500 airplanes under contract after United megadeal, director says
 - <a href="https://spacenews.com/capella-space-lands-15-million-u-s-air-force-contract-for-radar-imaging-upgrade/" >🔗</a> **[SpaceNews]** Capella Space lands $15 million U.S. Air Force contract for radar imaging upgrade
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-more-black-holes-than-expected-in-the-early-universe/" >🔗</a> **[NASA]** NASA’s Hubble Finds More Black Holes than Expected in the Early Universe
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/innovative-instrument-reveals-hidden-features-deep-inside-the-van-allen-radiation-belts/" >🔗</a> **[NASA]** Innovative Instrument Reveals Hidden Features Deep Inside the Van Allen Radiation Belts
-- <a href="https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/" >🔗</a> **[NASA]** 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane
-- <a href="https://europeanspaceflight.com/cnes-issues-call-to-develop-standardized-launcher-ground-systems/" >🔗</a> **[European Spaceflight]** CNES Issues Call to Develop Standardized Launcher Ground Systems
-- <a href="https://spacenews.com/samara-aerospace-claims-spacewerx-contract/" >🔗</a> **[SpaceNews]** Samara Aerospace claims SpaceWERX contract
-- <a href="https://spacenews.com/france-kicks-off-space-surveillance-program-for-leo/" >🔗</a> **[SpaceNews]** France kicks off space surveillance program for LEO
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T150122">2024-09-17 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T153230">2024-09-17 15:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
