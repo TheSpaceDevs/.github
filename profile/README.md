@@ -93,6 +93,9 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-could-receive-over-600k-fine-from-faa/" >🔗</a> **[Teslarati]** SpaceX could receive over $600k fine from FAA
+- <a href="https://spacenews.com/uniting-industry-leaders-and-cutting-edge-solutions-to-shape-the-future-of-manufacturing/" >🔗</a> **[SpaceNews]** Uniting Industry Leaders and Cutting-Edge Solutions to Shape the Future of Manufacturing
+- <a href="https://science.nasa.gov/blog/sols-4307-4308-bright-rocks-catch-our-eyes/" >🔗</a> **[NASA]** Sols 4307-4308: Bright Rocks Catch Our Eyes
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_delivers_stunning_first_images" >🔗</a> **[ESA]** Sentinel-2C delivers stunning first images
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_finds_more_black_holes_in_the_early_Universe" >🔗</a> **[ESA]** Hubble finds more black holes in the early Universe
 - <a href="https://www.nasa.gov/image-article/technicians-work-to-prepare-europa-clipper-for-propellant-loading/" >🔗</a> **[NASA]** Technicians Work to Prepare Europa Clipper for Propellant Loading
@@ -100,9 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/" >🔗</a> **[NASA]** NASA Completes Spacecraft to Transport, Support Roman Space Telescope
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/Time_to_be_inspired_by_planet_Earth" >🔗</a> **[ESA]** Time to be inspired by planet Earth
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/rob-garner-editing-goddards-story-to-fit-the-space/" >🔗</a> **[NASA]** Rob Garner: Editing Goddard’s Story to Fit the Space
-- <a href="https://www.nasa.gov/missions/europa-clipper/8-things-to-know-about-nasas-mission-to-an-ocean-moon-of-jupiter/" >🔗</a> **[NASA]** 8 Things to Know About NASA’s Mission to an Ocean Moon of Jupiter
-- <a href="https://www.cnbc.com/2024/09/17/spacexs-starlink-has-2500-aircraft-under-contract.html" >🔗</a> **[CNBC]** SpaceX Starlink has 2,500 airplanes under contract after United megadeal, director says
-- <a href="https://spacenews.com/capella-space-lands-15-million-u-s-air-force-contract-for-radar-imaging-upgrade/" >🔗</a> **[SpaceNews]** Capella Space lands $15 million U.S. Air Force contract for radar imaging upgrade
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T170126">2024-09-17 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T173230">2024-09-17 17:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
