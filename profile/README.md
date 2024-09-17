@@ -93,6 +93,8 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/Time_to_be_inspired_by_planet_Earth" >🔗</a> **[ESA]** Time to be inspired by planet Earth
+- <a href="https://www.nasa.gov/history/65-years-ago-first-powered-flight-of-the-x-15-hypersonic-rocket-plane/" >🔗</a> **[NASA]** 65 Years Ago: First Powered Flight of the X-15 Hypersonic Rocket Plane
 - <a href="https://europeanspaceflight.com/cnes-issues-call-to-develop-standardized-launcher-ground-systems/" >🔗</a> **[European Spaceflight]** CNES Issues Call to Develop Standardized Launcher Ground Systems
 - <a href="https://spacenews.com/samara-aerospace-claims-spacewerx-contract/" >🔗</a> **[SpaceNews]** Samara Aerospace claims SpaceWERX contract
 - <a href="https://spacenews.com/france-kicks-off-space-surveillance-program-for-leo/" >🔗</a> **[SpaceNews]** France kicks off space surveillance program for LEO
@@ -101,8 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://spacenews.com/u-s-military-invests-12-5-million-in-ursa-major-for-solid-rocket-development/" >🔗</a> **[SpaceNews]** U.S. military invests $12.5 million in Ursa Major for solid rocket development
 - <a href="https://spacenews.com/leanspace-secures-e10-5-million-to-champion-next-gen-satellite-constellation-operations/" >🔗</a> **[SpaceNews]** Leanspace secures €10.5 Million to Champion Next-Gen Satellite Constellation Operations
 - <a href="https://spacenews.com/ex-im-banks-space-project-pipeline-doubles-to-9-5-billion-in-one-year/" >🔗</a> **[SpaceNews]** Ex-Im Bank’s space project pipeline doubles to $9.5 billion in one year
-- <a href="https://spacenews.com/northrop-grumman-wins-54-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $54.7 million contract for military satcom antennas
-- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T130519">2024-09-17 13:05:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T133339">2024-09-17 13:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
