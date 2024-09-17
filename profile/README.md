@@ -93,6 +93,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/samara-aerospace-claims-spacewerx-contract/" >🔗</a> **[SpaceNews]** Samara Aerospace claims SpaceWERX contract
 - <a href="https://spacenews.com/france-kicks-off-space-surveillance-program-for-leo/" >🔗</a> **[SpaceNews]** France kicks off space surveillance program for LEO
 - <a href="https://www.nasa.gov/aeronautics/nasa-ge-hybrid-electric-research-092024/" >🔗</a> **[NASA]** NASA, GE Aerospace Advancing Hybrid-Electric Airliners with HyTEC
 - <a href="https://spacenews.com/launch-companies-focus-on-scaling-up-flight-rates-of-new-vehicles/" >🔗</a> **[SpaceNews]** Launch companies focus on scaling up flight rates of new vehicles
@@ -102,7 +103,6 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 - <a href="https://spacenews.com/northrop-grumman-wins-54-7-million-contract-for-military-satcom-antennas/" >🔗</a> **[SpaceNews]** Northrop Grumman wins $54.7 million contract for military satcom antennas
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
 - <a href="https://spacenews.com/cybersecurity-a-top-priority-for-military-satellites-as-threats-loom/" >🔗</a> **[SpaceNews]** Cybersecurity a top priority for military satellites as threats loom
-- <a href="https://spacenews.com/u-s-military-satellites-built-by-york-space-demonstrate-optical-communications-in-orbit/" >🔗</a> **[SpaceNews]** U.S. military satellites built by York Space demonstrate optical communications in orbit
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Galileo provides Europe with an alternative to the American GPS and Russian GLON
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T110108">2024-09-17 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240917T113100">2024-09-17 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
