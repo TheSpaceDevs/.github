@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch 2nd mission for Internet of Things company, Kinéis
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-deputy-administrator-talks-future-of-agency-in-silicon-valley/" >🔗</a> **[NASA]** NASA Deputy Administrator Talks Future of Agency in Silicon Valley
 - <a href="https://www.nasa.gov/news-release/nasa-shares-hidden-figures-congressional-gold-medal-remarks/" >🔗</a> **[NASA]** NASA Shares Hidden Figures Congressional Gold Medal Remarks
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/giant-leaps-start-at-johnson-for-nasas-spacex-crew-9-commander-nick-hague/" >🔗</a> **[NASA]** Giant Leaps Start at Johnson for NASA’s SpaceX Crew-9 Commander Nick Hague
 - <a href="https://www.teslarati.com/fcc-commissioner-calls-out-agency-for-hypocritical-take-on-spacex-starlink/" >🔗</a> **[Teslarati]** FCC Commissioner calls out agency for hypocritical take on SpaceX Starlink
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-us-department-of-education-to-launch-stem-project-in-washington/" >🔗</a> **[NASA]** NASA, US Department of Education to Launch STEM Project in Washington
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Webb_s_new_view_of_Arp_107" >🔗</a> **[ESA]** Webb’s new view of Arp 107
 - <a href="https://spacenews.com/35-years-of-spacenews-a-trusted-voice-in-a-transforming-space-industry/" >🔗</a> **[SpaceNews]** 35 years of SpaceNews: A trusted voice in a transforming space industry
-- <a href="https://spacenews.com/spacenews-celebrates-35th-anniversary-as-a-global-media-brand/" >🔗</a> **[SpaceNews]** SpaceNews Celebrates 35th Anniversary as a Global Media Brand
-- <a href="https://spacenews.com/india-approves-moon-sample-return-venus-orbiter-space-station-module-and-reusable-launcher/" >🔗</a> **[SpaceNews]** India approves moon sample return, Venus orbiter, space station module and reusable launcher
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T210121">2024-09-18 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T213108">2024-09-18 21:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
