@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230000">2024-09-18 23:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230200">2024-09-18 23:02:00 UTC</a>.  Until
 then, this pad will have been used for 22
 out of 48 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230000">2024-09-18 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240918T230000Z%2F20240918T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230200">2024-09-18 23:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240918T230200Z%2F20240918T230200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T005400">2024-09-19 00:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/YZ-1 | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240919T005400Z%2F20240919T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/YZ-1 | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T141200">2024-09-19 14:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-17&location=Vandenberg SFB, CA, USA&dates=20240919T141200Z%2F20240919T141800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T040100">2024-09-20 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240920T040100Z%2F20240920T042600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Webb_s_new_view_of_Arp_107" >🔗</a> **[ESA]** Webb’s new view of Arp 107
+- <a href="https://www.nasa.gov/people-of-nasa/rob-gutro-clear-science-in-the-forecast/" >🔗</a> **[NASA]** Rob Gutro: Clear Science in the Forecast
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/" >🔗</a> **[NASA]** NASA’s Webb Provides Another Look Into Galactic Collisions
+- <a href="https://spacenews.com/eutelsat-signs-multi-launch-agreement-for-mhis-h3-rocket/" >🔗</a> **[SpaceNews]** Eutelsat signs multi-launch agreement for MHI’s H3 rocket
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_launch_kit" >🔗</a> **[ESA]** Hera asteroid mission launch kit
+- <a href="https://www.cnbc.com/2024/09/18/intuitive-machines-stock-nasa-moon-satellite-contract.html" >🔗</a> **[CNBC]** Lunar company Intuitive Machines’ stock jumps nearly 60% after NASA moon satellite contract
 - <a href="https://spacenews.com/expanding-opportunity-for-american-and-indian-space-cooperation/" >🔗</a> **[SpaceNews]** The expanding opportunity for American and Indian space cooperation
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 - <a href="https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/" >🔗</a> **[NASA]** Reinventing the Clock: NASA’s New Tech for Space Timekeeping
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_to_Vega_and_orbit_fit-check_to_liftoff_timelapse" >🔗</a> **[ESA]** Sentinel-2C to Vega and orbit – fit-check to liftoff timelapse
-- <a href="https://europeanspaceflight.com/spacex-concludes-esa-contract-with-second-galileo-mission/" >🔗</a> **[European Spaceflight]** SpaceX Concludes ESA Contract With Second Galileo Mission
-- <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-lunar-communications-and-navigation-services/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for lunar communications and navigation services
-- <a href="https://spacenews.com/esa-seeks-better-coordination-of-european-space-spending/" >🔗</a> **[SpaceNews]** ESA seeks better coordination of European space spending
-- <a href="https://spacenews.com/lockheed-martin-wins-contract-to-supply-geostationary-lightning-mappers/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to supply geostationary lightning mappers
-- <a href="https://europeanspaceflight.com/french-rocket-builder-sirius-space-secures-launch-pad-in-australia/" >🔗</a> **[European Spaceflight]** French Rocket Builder Sirius Space Secures Launch Pad in Australia
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T140117">2024-09-18 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T143341">2024-09-18 14:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
