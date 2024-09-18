@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_to_Vega_and_orbit_fit-check_to_liftoff_timelapse" >🔗</a> **[ESA]** Sentinel-2C to Vega and orbit – fit-check to liftoff timelapse
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_launch_kit" >🔗</a> **[ESA]** Hera asteroid mission launch kit
+- <a href="https://spacenews.com/expanding-opportunity-for-american-and-indian-space-cooperation/" >🔗</a> **[SpaceNews]** The expanding opportunity for American and Indian space cooperation
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
 - <a href="https://www.nasa.gov/technology/goddard-tech/reinventing-the-clock-nasas-new-tech-for-space-timekeeping/" >🔗</a> **[NASA]** Reinventing the Clock: NASA’s New Tech for Space Timekeeping
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_to_Vega_and_orbit_fit-check_to_liftoff_timelapse" >🔗</a> **[ESA]** Sentinel-2C to Vega and orbit – fit-check to liftoff timelapse
 - <a href="https://europeanspaceflight.com/spacex-concludes-esa-contract-with-second-galileo-mission/" >🔗</a> **[European Spaceflight]** SpaceX Concludes ESA Contract With Second Galileo Mission
 - <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-lunar-communications-and-navigation-services/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for lunar communications and navigation services
 - <a href="https://spacenews.com/esa-seeks-better-coordination-of-european-space-spending/" >🔗</a> **[SpaceNews]** ESA seeks better coordination of European space spending
 - <a href="https://spacenews.com/lockheed-martin-wins-contract-to-supply-geostationary-lightning-mappers/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to supply geostationary lightning mappers
 - <a href="https://europeanspaceflight.com/french-rocket-builder-sirius-space-secures-launch-pad-in-australia/" >🔗</a> **[European Spaceflight]** French Rocket Builder Sirius Space Secures Launch Pad in Australia
-- <a href="https://spacenews.com/faa-fines-spacex-for-launch-license-violations/" >🔗</a> **[SpaceNews]** FAA fines SpaceX for launch license violations
-- <a href="https://spacenews.com/rivada-says-lockheed-deal-boosts-investor-confidence-in-constellation/" >🔗</a> **[SpaceNews]** Rivada says Lockheed deal boosts investor confidence in constellation
-- <a href="https://spacenews.com/space-force-chief-urges-readiness-for-new-era-of-competition/" >🔗</a> **[SpaceNews]** Space Force chief urges readiness for new era of competition
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T130510">2024-09-18 13:05:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T133355">2024-09-18 13:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
