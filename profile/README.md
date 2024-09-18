@@ -20,35 +20,35 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 9-17**. It is scheduled to be launched by *SpaceX*
+**Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T142000">2024-09-18 14:20:00 UTC</a>.  Until
-then, this pad will have been used for 158
-out of 770 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230000">2024-09-18 23:00:00 UTC</a>.  Until
+then, this pad will have been used for 22
+out of 48 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Second batch of five satellites for the French Kinéis IoT constellation designed to operate with 25 nanosatellites of 30 kg each.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T142000">2024-09-18 14:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-17&location=Vandenberg SFB, CA, USA&dates=20240918T142000Z%2F20240918T162900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T230000">2024-09-18 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20240918T230000Z%2F20240918T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis Killed the RadIoT Star (Kinéis 6-10)** from Onenui Station, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T005400">2024-09-19 00:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/YZ-1 | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240919T005400Z%2F20240919T013000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/YZ-1 | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T141200">2024-09-19 14:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-17&location=Vandenberg SFB, CA, USA&dates=20240919T141200Z%2F20240919T141800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T040100">2024-09-20 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20240920T040100Z%2F20240920T042600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T093300">2024-09-20 09:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20240920T093300Z%2F20240920T095800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240922T235100">2024-09-22 23:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-8&location=Vandenberg SFB, CA, USA&dates=20240922T235100Z%2F20240923T035100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-8** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-wins-contract-to-supply-geostationary-lightning-mappers/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to supply geostationary lightning mappers
 - <a href="https://europeanspaceflight.com/french-rocket-builder-sirius-space-secures-launch-pad-in-australia/" >🔗</a> **[European Spaceflight]** French Rocket Builder Sirius Space Secures Launch Pad in Australia
 - <a href="https://spacenews.com/faa-fines-spacex-for-launch-license-violations/" >🔗</a> **[SpaceNews]** FAA fines SpaceX for launch license violations
 - <a href="https://spacenews.com/rivada-says-lockheed-deal-boosts-investor-confidence-in-constellation/" >🔗</a> **[SpaceNews]** Rivada says Lockheed deal boosts investor confidence in constellation
@@ -100,17 +101,17 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-force-chief-endorses-commercial-satellite-data-program/" >🔗</a> **[SpaceNews]** U.S. Space Force chief endorses commercial satellite data program
 - <a href="https://spacenews.com/french-armament-agency-responds-to-space-threats/" >🔗</a> **[SpaceNews]** French armament agency responds to space threats
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-develop-lightning-mapper-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Develop Lightning Mapper for NOAA
-- <a href="https://spacenews.com/the-aerospace-corporation-pushes-research-on-hard-to-spot-spacecraft-reentries/" >🔗</a> **[SpaceNews]** The Aerospace Corporation pushes research on hard-to-spot spacecraft reentries
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T073100">2024-09-18 07:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T080131">2024-09-18 08:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
