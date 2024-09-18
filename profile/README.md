@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Webb_s_new_view_of_Arp_107" >🔗</a> **[ESA]** Webb’s new view of Arp 107
+- <a href="https://spacenews.com/35-years-of-spacenews-a-trusted-voice-in-a-transforming-space-industry/" >🔗</a> **[SpaceNews]** 35 years of SpaceNews: A trusted voice in a transforming space industry
 - <a href="https://spacenews.com/spacenews-celebrates-35th-anniversary-as-a-global-media-brand/" >🔗</a> **[SpaceNews]** SpaceNews Celebrates 35th Anniversary as a Global Media Brand
 - <a href="https://spacenews.com/india-approves-moon-sample-return-venus-orbiter-space-station-module-and-reusable-launcher/" >🔗</a> **[SpaceNews]** India approves moon sample return, Venus orbiter, space station module and reusable launcher
 - <a href="https://www.nasa.gov/people-of-nasa/rob-gutro-clear-science-in-the-forecast/" >🔗</a> **[NASA]** Rob Gutro: Clear Science in the Forecast
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_launch_kit" >🔗</a> **[ESA]** Hera asteroid mission launch kit
 - <a href="https://www.cnbc.com/2024/09/18/intuitive-machines-stock-nasa-moon-satellite-contract.html" >🔗</a> **[CNBC]** Lunar company Intuitive Machines’ stock jumps nearly 60% after NASA moon satellite contract
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-tracy-c-dyson-scientific-mission-aboard-space-station/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson’s Scientific Mission aboard Space Station
-- <a href="https://spacenews.com/expanding-opportunity-for-american-and-indian-space-cooperation/" >🔗</a> **[SpaceNews]** The expanding opportunity for American and Indian space cooperation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T160124">2024-09-18 16:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T163513">2024-09-18 16:35:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
