@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-to-demonstrate-air-space-sensor-fusion-for-u-s-military-operations/" >🔗</a> **[SpaceNews]** Boeing to demonstrate air-space sensor fusion for U.S. military operations
+- <a href="https://spacenews.com/leo-takes-center-stage-for-communications-at-sea/" >🔗</a> **[SpaceNews]** LEO takes center stage for communications at sea
 - <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch 2nd mission for Internet of Things company, Kinéis
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-deputy-administrator-talks-future-of-agency-in-silicon-valley/" >🔗</a> **[NASA]** NASA Deputy Administrator Talks Future of Agency in Silicon Valley
 - <a href="https://www.nasa.gov/news-release/nasa-shares-hidden-figures-congressional-gold-medal-remarks/" >🔗</a> **[NASA]** NASA Shares Hidden Figures Congressional Gold Medal Remarks
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/united-launch-alliance-prepares-for-crucial-certification-flight-as-u-s-space-force-watches-closely/" >🔗</a> **[SpaceNews]** United Launch Alliance prepares for crucial certification flight as U.S. Space Force watches closely
 - <a href="https://www.teslarati.com/spacex-successfully-launches-eu-navigation-satellite-constellation/" >🔗</a> **[Teslarati]** SpaceX successfully launches EU navigation satellite constellation
 - <a href="https://www.nasa.gov/news-release/nasa-us-department-of-education-to-launch-stem-project-in-washington/" >🔗</a> **[NASA]** NASA, US Department of Education to Launch STEM Project in Washington
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Webb_s_new_view_of_Arp_107" >🔗</a> **[ESA]** Webb’s new view of Arp 107
-- <a href="https://spacenews.com/35-years-of-spacenews-a-trusted-voice-in-a-transforming-space-industry/" >🔗</a> **[SpaceNews]** 35 years of SpaceNews: A trusted voice in a transforming space industry
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T213108">2024-09-18 21:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T220116">2024-09-18 22:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
