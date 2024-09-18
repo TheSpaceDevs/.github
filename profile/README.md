@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-fines-spacex-for-launch-license-violations/" >🔗</a> **[SpaceNews]** FAA fines SpaceX for launch license violations
 - <a href="https://spacenews.com/rivada-says-lockheed-deal-boosts-investor-confidence-in-constellation/" >🔗</a> **[SpaceNews]** Rivada says Lockheed deal boosts investor confidence in constellation
 - <a href="https://spacenews.com/space-force-chief-urges-readiness-for-new-era-of-competition/" >🔗</a> **[SpaceNews]** Space Force chief urges readiness for new era of competition
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/" >🔗</a> **[NASA]** Measuring Moon Dust to Fight Air Pollution
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-force-chief-endorses-commercial-satellite-data-program/" >🔗</a> **[SpaceNews]** U.S. Space Force chief endorses commercial satellite data program
 - <a href="https://spacenews.com/french-armament-agency-responds-to-space-threats/" >🔗</a> **[SpaceNews]** French armament agency responds to space threats
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-develop-lightning-mapper-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Develop Lightning Mapper for NOAA
-- <a href="https://spacenews.com/the-aerospace-corporation-pushes-research-on-hard-to-spot-spacecraft-reentries/" >🔗</a> **[SpaceNews]** The Aerospace Corporation pushes research on hard-to-spot spacecraft reentries
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T030215">2024-09-18 03:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T033309">2024-09-18 03:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
