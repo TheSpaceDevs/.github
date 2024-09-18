@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-seeks-better-coordination-of-european-space-spending/" >🔗</a> **[SpaceNews]** ESA seeks better coordination of European space spending
 - <a href="https://spacenews.com/lockheed-martin-wins-contract-to-supply-geostationary-lightning-mappers/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to supply geostationary lightning mappers
 - <a href="https://europeanspaceflight.com/french-rocket-builder-sirius-space-secures-launch-pad-in-australia/" >🔗</a> **[European Spaceflight]** French Rocket Builder Sirius Space Secures Launch Pad in Australia
 - <a href="https://spacenews.com/faa-fines-spacex-for-launch-license-violations/" >🔗</a> **[SpaceNews]** FAA fines SpaceX for launch license violations
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lunar-relay-contractor-for-near-space-network-services/" >🔗</a> **[NASA]** NASA Selects Lunar Relay Contractor for Near Space Network Services
 - <a href="https://spacenews.com/u-s-space-force-chief-endorses-commercial-satellite-data-program/" >🔗</a> **[SpaceNews]** U.S. Space Force chief endorses commercial satellite data program
 - <a href="https://spacenews.com/french-armament-agency-responds-to-space-threats/" >🔗</a> **[SpaceNews]** French armament agency responds to space threats
-- <a href="https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-develop-lightning-mapper-for-noaa/" >🔗</a> **[NASA]** NASA Selects Lockheed Martin to Develop Lightning Mapper for NOAA
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T100127">2024-09-18 10:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T103436">2024-09-18 10:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
