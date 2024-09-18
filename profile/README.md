@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Sentinel-2C_to_Vega_and_orbit_fit-check_to_liftoff_timelapse" >🔗</a> **[ESA]** Sentinel-2C to Vega and orbit – fit-check to liftoff timelapse
+- <a href="https://spacenews.com/nasa-selects-intuitive-machines-for-lunar-communications-and-navigation-services/" >🔗</a> **[SpaceNews]** NASA selects Intuitive Machines for lunar communications and navigation services
 - <a href="https://spacenews.com/esa-seeks-better-coordination-of-european-space-spending/" >🔗</a> **[SpaceNews]** ESA seeks better coordination of European space spending
 - <a href="https://spacenews.com/lockheed-martin-wins-contract-to-supply-geostationary-lightning-mappers/" >🔗</a> **[SpaceNews]** Lockheed Martin wins contract to supply geostationary lightning mappers
 - <a href="https://europeanspaceflight.com/french-rocket-builder-sirius-space-secures-launch-pad-in-australia/" >🔗</a> **[European Spaceflight]** French Rocket Builder Sirius Space Secures Launch Pad in Australia
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-chief-urges-readiness-for-new-era-of-competition/" >🔗</a> **[SpaceNews]** Space Force chief urges readiness for new era of competition
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/measuring-moon-dust-to-fight-air-pollution-2/" >🔗</a> **[NASA]** Measuring Moon Dust to Fight Air Pollution
 - <a href="https://www.nasa.gov/news-release/nasa-selects-lunar-relay-contractor-for-near-space-network-services/" >🔗</a> **[NASA]** NASA Selects Lunar Relay Contractor for Near Space Network Services
-- <a href="https://spacenews.com/u-s-space-force-chief-endorses-commercial-satellite-data-program/" >🔗</a> **[SpaceNews]** U.S. Space Force chief endorses commercial satellite data program
-- <a href="https://spacenews.com/french-armament-agency-responds-to-space-threats/" >🔗</a> **[SpaceNews]** French armament agency responds to space threats
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T110112">2024-09-18 11:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T113056">2024-09-18 11:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
