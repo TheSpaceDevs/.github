@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-shares-hidden-figures-congressional-gold-medal-remarks/" >🔗</a> **[NASA]** NASA Shares Hidden Figures Congressional Gold Medal Remarks
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/giant-leaps-start-at-johnson-for-nasas-spacex-crew-9-commander-nick-hague/" >🔗</a> **[NASA]** Giant Leaps Start at Johnson for NASA’s SpaceX Crew-9 Commander Nick Hague
+- <a href="https://www.teslarati.com/fcc-commissioner-calls-out-agency-for-hypocritical-take-on-spacex-starlink/" >🔗</a> **[Teslarati]** FCC Commissioner calls out agency for hypocritical take on SpaceX Starlink
 - <a href="https://spacenews.com/united-launch-alliance-prepares-for-crucial-certification-flight-as-u-s-space-force-watches-closely/" >🔗</a> **[SpaceNews]** United Launch Alliance prepares for crucial certification flight as U.S. Space Force watches closely
 - <a href="https://www.teslarati.com/spacex-successfully-launches-eu-navigation-satellite-constellation/" >🔗</a> **[Teslarati]** SpaceX successfully launches EU navigation satellite constellation
 - <a href="https://www.nasa.gov/news-release/nasa-us-department-of-education-to-launch-stem-project-in-washington/" >🔗</a> **[NASA]** NASA, US Department of Education to Launch STEM Project in Washington
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/35-years-of-spacenews-a-trusted-voice-in-a-transforming-space-industry/" >🔗</a> **[SpaceNews]** 35 years of SpaceNews: A trusted voice in a transforming space industry
 - <a href="https://spacenews.com/spacenews-celebrates-35th-anniversary-as-a-global-media-brand/" >🔗</a> **[SpaceNews]** SpaceNews Celebrates 35th Anniversary as a Global Media Brand
 - <a href="https://spacenews.com/india-approves-moon-sample-return-venus-orbiter-space-station-module-and-reusable-launcher/" >🔗</a> **[SpaceNews]** India approves moon sample return, Venus orbiter, space station module and reusable launcher
-- <a href="https://www.nasa.gov/people-of-nasa/rob-gutro-clear-science-in-the-forecast/" >🔗</a> **[NASA]** Rob Gutro: Clear Science in the Forecast
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-provides-another-look-into-galactic-collisions/" >🔗</a> **[NASA]** NASA’s Webb Provides Another Look Into Galactic Collisions
-- <a href="https://spacenews.com/eutelsat-signs-multi-launch-agreement-for-mhis-h3-rocket/" >🔗</a> **[SpaceNews]** Eutelsat signs multi-launch agreement for MHI’s H3 rocket
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T193108">2024-09-18 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T200120">2024-09-18 20:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
