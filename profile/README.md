@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-grants-to-strengthen-diversity-in-engineering-stem-fields/" >🔗</a> **[NASA]** NASA Grants to Strengthen Diversity in Engineering, STEM Fields
+- <a href="https://www.teslarati.com/elon-musk-roasts-faa-revealing-spacex-starship-static-fire-success/" >🔗</a> **[Teslarati]** Elon Musk roasts FAA while revealing SpaceX Starship static fire success
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-galaxy-cluster-that-crosses-the-streams/" >🔗</a> **[NASA]** NASA’s Chandra Finds Galaxy Cluster That Crosses the Streams
 - <a href="https://spacenews.com/astranis-secures-13-2-million-u-s-military-contract-for-satellite-upgrades/" >🔗</a> **[SpaceNews]** Astranis secures $13.2 million U.S. military contract for satellite upgrades
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-chris-pereira/" >🔗</a> **[NASA]** I am Artemis: Chris Pereira
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/get-involved/citizen-science/when-will-that-star-dim-amateur-planet-chasers-got-you/" >🔗</a> **[NASA]** When Will That Star Dim? Amateur Planet-Chasers Got You!
 - <a href="https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/" >🔗</a> **[NASA]** NASA Develops Process to Create Very Accurate Eclipse Maps
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-9 Mission
-- <a href="https://spacenews.com/navigating-space-space-force-explores-nontraditional-solutions-to-increase-surveillance/" >🔗</a> **[SpaceNews]** Navigating space: Space Force explores nontraditional solutions to increase surveillance
-- <a href="https://europeanspaceflight.com/esa-taps-pangea-aerospace-to-design-very-high-thrust-engine/" >🔗</a> **[European Spaceflight]** ESA Taps Pangea Aerospace to Design Very High Thrust Engine
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T200110">2024-09-19 20:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T203142">2024-09-19 20:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
