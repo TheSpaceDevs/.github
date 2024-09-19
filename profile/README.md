@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/smallsat-manufacturers-weigh-megafactories-versus-microfactories/" >🔗</a> **[SpaceNews]** Smallsat manufacturers weigh megafactories versus microfactories
 - <a href="https://europeanspaceflight.com/space-applications-introduces-puppeteer-astronaut-training-system/" >🔗</a> **[European Spaceflight]** Space Applications Introduces PUPPETEER Astronaut Training System
 - <a href="https://spacenews.com/blacksky-wins-contract-to-gather-imagery-of-space-objects/" >🔗</a> **[SpaceNews]** Blacksky wins contract to gather imagery of space objects
 - <a href="https://spacenews.com/belgian-spacetech-gem-veoware-secures-e25-million-euro-to-empower-spacecrafts-with-next-generation-agility/" >🔗</a> **[SpaceNews]** Belgian spacetech gem VEOWARE secures €2,5 million euro to empower spacecrafts with next-generation agility
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Electron rocket experiences abort as its Rutherford engines began firing, prior to liftoff
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-deputy-administrator-talks-future-of-agency-in-silicon-valley/" >🔗</a> **[NASA]** NASA Deputy Administrator Talks Future of Agency in Silicon Valley
 - <a href="https://www.nasa.gov/news-release/nasa-shares-hidden-figures-congressional-gold-medal-remarks/" >🔗</a> **[NASA]** NASA Shares Hidden Figures Congressional Gold Medal Remarks
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/giant-leaps-start-at-johnson-for-nasas-spacex-crew-9-commander-nick-hague/" >🔗</a> **[NASA]** Giant Leaps Start at Johnson for NASA’s SpaceX Crew-9 Commander Nick Hague
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T100119">2024-09-19 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T103434">2024-09-19 10:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
