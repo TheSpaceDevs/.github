@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-taps-pangea-aerospace-to-design-very-high-thrust-engine/" >🔗</a> **[European Spaceflight]** ESA Taps Pangea Aerospace to Design Very High Thrust Engine
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_s_first_images_capture_Storm_Boris" >🔗</a> **[ESA]** Arctic Weather Satellite’s first images capture Storm Boris
-- <a href="https://spacenews.com/ronda-schrenk-ceo-usgif-leading-women-in-space/" >🔗</a> **[SpaceNews]** Ronda Schrenk, CEO, USGIF – Leading Women in Space
+- <a href="https://spacenews.com/ronda-schrenk-ceo-usgif-leading-women-in-space/" >🔗</a> **[SpaceNews]** Ronda Schrenk, USGIF CEO – Leading Women in Space
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/" >🔗</a> **[NASA]** Students Soar at NASA Glenn’s Aviation Day
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/ohio-state-fairgoers-learn-about-nasa-technologies/" >🔗</a> **[NASA]** Ohio State Fairgoers Learn About NASA Technologies
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-kenyon-makes-calls-on-and-off-the-field/" >🔗</a> **[NASA]** Dr. Kenyon Makes Calls, On and Off the Field
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/small-launch-vehicles-press-ahead-despite-market-setbacks/" >🔗</a> **[SpaceNews]** Small launch vehicles press ahead despite market setbacks
 - <a href="https://spacenews.com/china-launches-final-pair-of-backup-beidou-satellites/" >🔗</a> **[SpaceNews]** China launches final pair of backup Beidou satellites
 - <a href="https://spacenews.com/smallsat-manufacturers-weigh-megafactories-versus-microfactories/" >🔗</a> **[SpaceNews]** Smallsat manufacturers weigh megafactories versus microfactories
-- <a href="https://europeanspaceflight.com/space-applications-introduces-puppeteer-astronaut-training-system/" >🔗</a> **[European Spaceflight]** Space Applications Introduces PUPPETEER Astronaut Training System
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T140108">2024-09-19 14:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T143345">2024-09-19 14:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
