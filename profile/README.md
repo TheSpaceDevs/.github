@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-galaxy-cluster-that-crosses-the-streams/" >🔗</a> **[NASA]** NASA’s Chandra Finds Galaxy Cluster That Crosses the Streams
 - <a href="https://spacenews.com/astranis-secures-13-2-million-u-s-military-contract-for-satellite-upgrades/" >🔗</a> **[SpaceNews]** Astranis secures $13.2 million U.S. military contract for satellite upgrades
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-chris-pereira/" >🔗</a> **[NASA]** I am Artemis: Chris Pereira
 - <a href="https://science.nasa.gov/blog/sols-4309-4310-leaning-back-driving-back/" >🔗</a> **[NASA]** Sols 4309–4310: Leaning Back, Driving Back
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-9 Mission
 - <a href="https://spacenews.com/navigating-space-space-force-explores-nontraditional-solutions-to-increase-surveillance/" >🔗</a> **[SpaceNews]** Navigating space: Space Force explores nontraditional solutions to increase surveillance
 - <a href="https://europeanspaceflight.com/esa-taps-pangea-aerospace-to-design-very-high-thrust-engine/" >🔗</a> **[European Spaceflight]** ESA Taps Pangea Aerospace to Design Very High Thrust Engine
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_s_first_images_capture_Storm_Boris" >🔗</a> **[ESA]** Arctic Weather Satellite’s first images capture Storm Boris
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T190118">2024-09-19 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T193113">2024-09-19 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
