@@ -94,7 +94,7 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-18-2024/" >🔗</a> **[NASA]** The Marshall Star for September 18, 2024
 - <a href="https://spacenews.com/boeing-to-demonstrate-air-space-sensor-fusion-for-u-s-military-operations/" >🔗</a> **[SpaceNews]** Boeing to demonstrate air-space sensor fusion for U.S. military operations
 - <a href="https://spacenews.com/leo-takes-center-stage-for-communications-at-sea/" >🔗</a> **[SpaceNews]** LEO takes center stage for communications at sea
-- <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch 2nd mission for Internet of Things company, Kinéis
+- <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Electron rocket experiences abort as its Rutherford engines began firing, prior to liftoff
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-deputy-administrator-talks-future-of-agency-in-silicon-valley/" >🔗</a> **[NASA]** NASA Deputy Administrator Talks Future of Agency in Silicon Valley
 - <a href="https://www.nasa.gov/news-release/nasa-shares-hidden-figures-congressional-gold-medal-remarks/" >🔗</a> **[NASA]** NASA Shares Hidden Figures Congressional Gold Medal Remarks
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/giant-leaps-start-at-johnson-for-nasas-spacex-crew-9-commander-nick-hague/" >🔗</a> **[NASA]** Giant Leaps Start at Johnson for NASA’s SpaceX Crew-9 Commander Nick Hague
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240918T233055">2024-09-18 23:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T000400">2024-09-19 00:04:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
