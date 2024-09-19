@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astranis-secures-13-2-million-u-s-military-contract-for-satellite-upgrades/" >🔗</a> **[SpaceNews]** Astranis secures $13.2 million U.S. military contract for satellite upgrades
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-chris-pereira/" >🔗</a> **[NASA]** I am Artemis: Chris Pereira
+- <a href="https://science.nasa.gov/blog/sols-4309-4310-leaning-back-driving-back/" >🔗</a> **[NASA]** Sols 4309–4310: Leaning Back, Driving Back
 - <a href="https://www.teslarati.com/spacex-hits-back-faa-scathing-new-letter-claiming-fines-were-retaliation/" >🔗</a> **[Teslarati]** SpaceX hits back at FAA in scathing new letter, claiming fines were retaliation
 - <a href="https://science.nasa.gov/get-involved/citizen-science/when-will-that-star-dim-amateur-planet-chasers-got-you/" >🔗</a> **[NASA]** When Will That Star Dim? Amateur Planet-Chasers Got You!
 - <a href="https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/" >🔗</a> **[NASA]** NASA Develops Process to Create Very Accurate Eclipse Maps
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/navigating-space-space-force-explores-nontraditional-solutions-to-increase-surveillance/" >🔗</a> **[SpaceNews]** Navigating space: Space Force explores nontraditional solutions to increase surveillance
 - <a href="https://europeanspaceflight.com/esa-taps-pangea-aerospace-to-design-very-high-thrust-engine/" >🔗</a> **[European Spaceflight]** ESA Taps Pangea Aerospace to Design Very High Thrust Engine
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_s_first_images_capture_Storm_Boris" >🔗</a> **[ESA]** Arctic Weather Satellite’s first images capture Storm Boris
-- <a href="https://spacenews.com/ronda-schrenk-ceo-usgif-leading-women-in-space/" >🔗</a> **[SpaceNews]** Ronda Schrenk, USGIF CEO – Leading Women in Space
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/" >🔗</a> **[NASA]** Students Soar at NASA Glenn’s Aviation Day
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/ohio-state-fairgoers-learn-about-nasa-technologies/" >🔗</a> **[NASA]** Ohio State Fairgoers Learn About NASA Technologies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T180118">2024-09-19 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T183522">2024-09-19 18:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
