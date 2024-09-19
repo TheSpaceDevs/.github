@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-hits-back-faa-scathing-new-letter-claiming-fines-were-retaliation/" >🔗</a> **[Teslarati]** SpaceX hits back at FAA in scathing new letter, claiming fines were retaliation
+- <a href="https://science.nasa.gov/get-involved/citizen-science/when-will-that-star-dim-amateur-planet-chasers-got-you/" >🔗</a> **[NASA]** When Will That Star Dim? Amateur Planet-Chasers Got You!
 - <a href="https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/" >🔗</a> **[NASA]** NASA Develops Process to Create Very Accurate Eclipse Maps
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-9 Mission
 - <a href="https://spacenews.com/navigating-space-space-force-explores-nontraditional-solutions-to-increase-surveillance/" >🔗</a> **[SpaceNews]** Navigating space: Space Force explores nontraditional solutions to increase surveillance
@@ -99,19 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ronda-schrenk-ceo-usgif-leading-women-in-space/" >🔗</a> **[SpaceNews]** Ronda Schrenk, USGIF CEO – Leading Women in Space
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/" >🔗</a> **[NASA]** Students Soar at NASA Glenn’s Aviation Day
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/ohio-state-fairgoers-learn-about-nasa-technologies/" >🔗</a> **[NASA]** Ohio State Fairgoers Learn About NASA Technologies
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-kenyon-makes-calls-on-and-off-the-field/" >🔗</a> **[NASA]** Dr. Kenyon Makes Calls, On and Off the Field
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-attends-air-shows-in-cleveland-and-michigan/" >🔗</a> **[NASA]** NASA Glenn Attends Air Shows in Cleveland and Michigan
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Electron rocket experiences abort as its Rutherford engines began firing, prior to liftoff
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T160128">2024-09-19 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T163525">2024-09-19 16:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
