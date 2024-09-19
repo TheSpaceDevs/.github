@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-hidden-figures-honored-with-congressional-gold-medals/" >🔗</a> **[NASA]** NASA’s Hidden Figures Honored with Congressional Gold Medals
+- <a href="https://spacenews.com/infosys-invests-in-indian-earth-observation-startup-galaxeye/" >🔗</a> **[SpaceNews]** Infosys invests in Indian Earth-observation startup GalaxEye
+- <a href="https://spacepolicyonline.com/news/europa-clipper-launch-window-extended/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Launch Window Extended
 - <a href="https://www.nasa.gov/news-release/nasa-grants-to-strengthen-diversity-in-engineering-stem-fields/" >🔗</a> **[NASA]** NASA Grants to Strengthen Diversity in Engineering, STEM Fields
 - <a href="https://www.teslarati.com/elon-musk-roasts-faa-revealing-spacex-starship-static-fire-success/" >🔗</a> **[Teslarati]** Elon Musk roasts FAA while revealing SpaceX Starship static fire success
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-galaxy-cluster-that-crosses-the-streams/" >🔗</a> **[NASA]** NASA’s Chandra Finds Galaxy Cluster That Crosses the Streams
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-chris-pereira/" >🔗</a> **[NASA]** I am Artemis: Chris Pereira
 - <a href="https://science.nasa.gov/blog/sols-4309-4310-leaning-back-driving-back/" >🔗</a> **[NASA]** Sols 4309–4310: Leaning Back, Driving Back
 - <a href="https://www.teslarati.com/spacex-hits-back-faa-scathing-new-letter-claiming-fines-were-retaliation/" >🔗</a> **[Teslarati]** SpaceX hits back at FAA in scathing new letter, claiming fines were retaliation
-- <a href="https://science.nasa.gov/get-involved/citizen-science/when-will-that-star-dim-amateur-planet-chasers-got-you/" >🔗</a> **[NASA]** When Will That Star Dim? Amateur Planet-Chasers Got You!
-- <a href="https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/" >🔗</a> **[NASA]** NASA Develops Process to Create Very Accurate Eclipse Maps
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-9 Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T210112">2024-09-19 21:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T213100">2024-09-19 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
