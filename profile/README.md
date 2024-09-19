@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/belgian-spacetech-gem-veoware-secures-e25-million-euro-to-empower-spacecrafts-with-next-generation-agility/" >🔗</a> **[SpaceNews]** Belgian spacetech gem VEOWARE secures €2,5 million euro to empower spacecrafts with next-generation agility
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-18-2024/" >🔗</a> **[NASA]** The Marshall Star for September 18, 2024
 - <a href="https://spacenews.com/boeing-to-demonstrate-air-space-sensor-fusion-for-u-s-military-operations/" >🔗</a> **[SpaceNews]** Boeing to demonstrate air-space sensor fusion for U.S. military operations
 - <a href="https://spacenews.com/leo-takes-center-stage-for-communications-at-sea/" >🔗</a> **[SpaceNews]** LEO takes center stage for communications at sea
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/giant-leaps-start-at-johnson-for-nasas-spacex-crew-9-commander-nick-hague/" >🔗</a> **[NASA]** Giant Leaps Start at Johnson for NASA’s SpaceX Crew-9 Commander Nick Hague
 - <a href="https://www.teslarati.com/fcc-commissioner-calls-out-agency-for-hypocritical-take-on-spacex-starlink/" >🔗</a> **[Teslarati]** FCC Commissioner calls out agency for hypocritical take on SpaceX Starlink
 - <a href="https://spacenews.com/united-launch-alliance-prepares-for-crucial-certification-flight-as-u-s-space-force-watches-closely/" >🔗</a> **[SpaceNews]** United Launch Alliance prepares for crucial certification flight as U.S. Space Force watches closely
-- <a href="https://www.teslarati.com/spacex-successfully-launches-eu-navigation-satellite-constellation/" >🔗</a> **[Teslarati]** SpaceX successfully launches EU navigation satellite constellation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T050113">2024-09-19 05:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T053309">2024-09-19 05:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
