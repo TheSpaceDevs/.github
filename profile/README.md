@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/55-years-ago-celebrations-for-apollo-11-continue-as-apollo-12-prepares-to-revisit-the-moon/" >🔗</a> **[NASA]** 55 Years Ago: Celebrations for Apollo 11 Continue as Apollo 12 Prepares to Revisit the Moon
+- <a href="https://spacenews.com/earth-observation-companies-wary-of-starshield/" >🔗</a> **[SpaceNews]** Earth observation companies wary of Starshield
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-hidden-figures-honored-with-congressional-gold-medals/" >🔗</a> **[NASA]** NASA’s Hidden Figures Honored with Congressional Gold Medals
 - <a href="https://spacenews.com/infosys-invests-in-indian-earth-observation-startup-galaxeye/" >🔗</a> **[SpaceNews]** Infosys invests in Indian Earth-observation startup GalaxEye
 - <a href="https://spacepolicyonline.com/news/europa-clipper-launch-window-extended/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Launch Window Extended
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-galaxy-cluster-that-crosses-the-streams/" >🔗</a> **[NASA]** NASA’s Chandra Finds Galaxy Cluster That Crosses the Streams
 - <a href="https://spacenews.com/astranis-secures-13-2-million-u-s-military-contract-for-satellite-upgrades/" >🔗</a> **[SpaceNews]** Astranis secures $13.2 million U.S. military contract for satellite upgrades
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-chris-pereira/" >🔗</a> **[NASA]** I am Artemis: Chris Pereira
-- <a href="https://science.nasa.gov/blog/sols-4309-4310-leaning-back-driving-back/" >🔗</a> **[NASA]** Sols 4309–4310: Leaning Back, Driving Back
-- <a href="https://www.teslarati.com/spacex-hits-back-faa-scathing-new-letter-claiming-fines-were-retaliation/" >🔗</a> **[Teslarati]** SpaceX hits back at FAA in scathing new letter, claiming fines were retaliation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T213100">2024-09-19 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T220126">2024-09-19 22:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
