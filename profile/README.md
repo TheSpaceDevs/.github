@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/nasa-develops-process-to-create-very-accurate-eclipse-maps/" >🔗</a> **[NASA]** NASA Develops Process to Create Very Accurate Eclipse Maps
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-9 Mission
+- <a href="https://spacenews.com/navigating-space-space-force-explores-nontraditional-solutions-to-increase-surveillance/" >🔗</a> **[SpaceNews]** Navigating space: Space Force explores nontraditional solutions to increase surveillance
 - <a href="https://europeanspaceflight.com/esa-taps-pangea-aerospace-to-design-very-high-thrust-engine/" >🔗</a> **[European Spaceflight]** ESA Taps Pangea Aerospace to Design Very High Thrust Engine
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_s_first_images_capture_Storm_Boris" >🔗</a> **[ESA]** Arctic Weather Satellite’s first images capture Storm Boris
 - <a href="https://spacenews.com/ronda-schrenk-ceo-usgif-leading-women-in-space/" >🔗</a> **[SpaceNews]** Ronda Schrenk, USGIF CEO – Leading Women in Space
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/ohio-state-fairgoers-learn-about-nasa-technologies/" >🔗</a> **[NASA]** Ohio State Fairgoers Learn About NASA Technologies
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-kenyon-makes-calls-on-and-off-the-field/" >🔗</a> **[NASA]** Dr. Kenyon Makes Calls, On and Off the Field
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-attends-air-shows-in-cleveland-and-michigan/" >🔗</a> **[NASA]** NASA Glenn Attends Air Shows in Cleveland and Michigan
-- <a href="https://spacenews.com/small-launch-vehicles-press-ahead-despite-market-setbacks/" >🔗</a> **[SpaceNews]** Small launch vehicles press ahead despite market setbacks
-- <a href="https://spacenews.com/china-launches-final-pair-of-backup-beidou-satellites/" >🔗</a> **[SpaceNews]** China launches final pair of backup Beidou satellites
-- <a href="https://spacenews.com/smallsat-manufacturers-weigh-megafactories-versus-microfactories/" >🔗</a> **[SpaceNews]** Smallsat manufacturers weigh megafactories versus microfactories
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T150121">2024-09-19 15:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240919T153243">2024-09-19 15:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
