@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/sasc-tees-up-extension-of-faa-learning-period-and-third-party-indemnification/" >🔗</a> **[SpacePolicyOnline.com]** SASC Tees Up Extension of FAA Learning Period and Third Party Indemnification
 - <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plots space industry transformation
 - <a href="https://www.nasa.gov/general/nasa-naacp-partner-to-advance-diversity-inclusion-in-stem-fields/" >🔗</a> **[NASA]** NASA, NAACP Partner to Advance Diversity, Inclusion in STEM Fields
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-tracy-c-dyson-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Tracy C. Dyson, Crewmates Return
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/infosys-invests-in-indian-earth-observation-startup-galaxeye/" >🔗</a> **[SpaceNews]** Infosys invests in Indian Earth-observation startup GalaxEye
 - <a href="https://spacepolicyonline.com/news/europa-clipper-launch-window-extended/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Launch Window Extended
 - <a href="https://www.nasa.gov/news-release/nasa-grants-to-strengthen-diversity-in-engineering-stem-fields/" >🔗</a> **[NASA]** NASA Grants to Strengthen Diversity in Engineering, STEM Fields
-- <a href="https://www.teslarati.com/elon-musk-roasts-faa-revealing-spacex-starship-static-fire-success/" >🔗</a> **[Teslarati]** Elon Musk roasts FAA while revealing SpaceX Starship static fire success
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T030311">2024-09-20 03:03:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T033357">2024-09-20 03:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
