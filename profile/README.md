@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Highlights_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Highlights of ESA’s Industry Space Days 2024
 - <a href="https://europeanspaceflight.com/nasa-greenlights-next-phase-of-italian-lunar-habitat-project/" >🔗</a> **[European Spaceflight]** NASA Greenlights Next Phase of Italian Lunar Habitat Project
-- <a href="https://spaceflightnow.com/2024/09/20/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
+- <a href="https://spaceflightnow.com/2024/09/20/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** SpaceX launches 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://arstechnica.com/space/2024/09/rocket-report-a-quick-fix-for-ariane-second-stage-issue-musk-escalates-faa-feud/" >🔗</a> **[Arstechnica]** Rocket Report: Eutelsat’s surprising decision; Europe complains about SpaceX again
 - <a href="https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/" >🔗</a> **[NASA]** Hubble Lights the Way with New Multiwavelength Galaxy View
 - <a href="https://spacenews.com/china-set-to-unveil-long-term-vision-for-space-science/" >🔗</a> **[SpaceNews]** China set to unveil long-term vision for space science
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T150113">2024-09-20 15:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T153233">2024-09-20 15:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
