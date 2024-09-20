@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-letter-criticizes-faa-for-systemic-challenges-in-launch-licensing/" >🔗</a> **[SpaceNews]** SpaceX letter criticizes FAA for “systemic challenges” in launch licensing
 - <a href="https://spacepolicyonline.com/news/sasc-tees-up-extension-of-faa-learning-period-and-third-party-indemnification/" >🔗</a> **[SpacePolicyOnline.com]** SASC Tees Up Extension of FAA Learning Period and Third Party Indemnification
 - <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plots space industry transformation
 - <a href="https://www.nasa.gov/general/nasa-naacp-partner-to-advance-diversity-inclusion-in-stem-fields/" >🔗</a> **[NASA]** NASA, NAACP Partner to Advance Diversity, Inclusion in STEM Fields
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-hidden-figures-honored-with-congressional-gold-medals/" >🔗</a> **[NASA]** NASA’s Hidden Figures Honored with Congressional Gold Medals
 - <a href="https://spacenews.com/infosys-invests-in-indian-earth-observation-startup-galaxeye/" >🔗</a> **[SpaceNews]** Infosys invests in Indian Earth-observation startup GalaxEye
 - <a href="https://spacepolicyonline.com/news/europa-clipper-launch-window-extended/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper Launch Window Extended
-- <a href="https://www.nasa.gov/news-release/nasa-grants-to-strengthen-diversity-in-engineering-stem-fields/" >🔗</a> **[NASA]** NASA Grants to Strengthen Diversity in Engineering, STEM Fields
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T050108">2024-09-20 05:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T053323">2024-09-20 05:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
