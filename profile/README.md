@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/dlr-begins-testing-fairing-for-callisto-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Begins Testing Fairing for Callisto Reusable Booster Demonstrator
 - <a href="https://spacenews.com/spacex-letter-criticizes-faa-for-systemic-challenges-in-launch-licensing/" >🔗</a> **[SpaceNews]** SpaceX letter criticizes FAA for “systemic challenges” in launch licensing
 - <a href="https://spacepolicyonline.com/news/sasc-tees-up-extension-of-faa-learning-period-and-third-party-indemnification/" >🔗</a> **[SpacePolicyOnline.com]** SASC Tees Up Extension of FAA Learning Period and Third Party Indemnification
-- <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plots space industry transformation
+- <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plans space industry transformation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T113100">2024-09-20 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T120135">2024-09-20 12:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
