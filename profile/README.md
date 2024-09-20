@@ -105,14 +105,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab’s Electron rocket experiences abort as its Rutherford engines began firing, prior to liftoff
+- <a href="https://spaceflightnow.com/2024/09/18/rocket-lab-to-launch-2nd-mission-for-internet-of-things-company-kineis/" >🔗</a> **[Spaceflight Now]** Rocket Lab set to launch 5 Internet of Things satellites following mid-week scrub
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-091624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 and Electron to extend satellite constellations
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T220115">2024-09-20 22:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T223410">2024-09-20 22:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
