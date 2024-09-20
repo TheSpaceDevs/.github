@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/demand-outstrips-radar-satellite-supply/" >🔗</a> **[SpaceNews]** Demand outstrips radar satellite supply
+- <a href="https://www.nasa.gov/image-article/honoring-hidden-figures/" >🔗</a> **[NASA]** Honoring Hidden Figures
+- <a href="https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/" >🔗</a> **[NASA]** NASA Data Helps Protect US Embassy Staff from Polluted Air
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Highlights_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Highlights of ESA’s Industry Space Days 2024
 - <a href="https://europeanspaceflight.com/nasa-greenlights-next-phase-of-italian-lunar-habitat-project/" >🔗</a> **[European Spaceflight]** NASA Greenlights Next Phase of Italian Lunar Habitat Project
 - <a href="https://spaceflightnow.com/2024/09/20/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** SpaceX launches 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/" >🔗</a> **[NASA]** Hubble Lights the Way with New Multiwavelength Galaxy View
 - <a href="https://spacenews.com/china-set-to-unveil-long-term-vision-for-space-science/" >🔗</a> **[SpaceNews]** China set to unveil long-term vision for space science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Burning_Man_festival" >🔗</a> **[ESA]** Earth from Space: Burning Man festival
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_unveils_black_hole_and_supernova_remnant_surroundings" >🔗</a> **[ESA]** XRISM unveils black hole and supernova remnant surroundings
-- <a href="https://europeanspaceflight.com/dlr-begins-testing-fairing-for-callisto-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Begins Testing Fairing for Callisto Reusable Booster Demonstrator
-- <a href="https://spacenews.com/spacex-letter-criticizes-faa-for-systemic-challenges-in-launch-licensing/" >🔗</a> **[SpaceNews]** SpaceX letter criticizes FAA for “systemic challenges” in launch licensing
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T160116">2024-09-20 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T163534">2024-09-20 16:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
