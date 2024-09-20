@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Highlights_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Highlights of ESA’s Industry Space Days 2024
+- <a href="https://europeanspaceflight.com/nasa-greenlights-next-phase-of-italian-lunar-habitat-project/" >🔗</a> **[European Spaceflight]** NASA Greenlights Next Phase of Italian Lunar Habitat Project
 - <a href="https://spaceflightnow.com/2024/09/20/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://arstechnica.com/space/2024/09/rocket-report-a-quick-fix-for-ariane-second-stage-issue-musk-escalates-faa-feud/" >🔗</a> **[Arstechnica]** Rocket Report: Eutelsat’s surprising decision; Europe complains about SpaceX again
 - <a href="https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/" >🔗</a> **[NASA]** Hubble Lights the Way with New Multiwavelength Galaxy View
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_unveils_black_hole_and_supernova_remnant_surroundings" >🔗</a> **[ESA]** XRISM unveils black hole and supernova remnant surroundings
 - <a href="https://europeanspaceflight.com/dlr-begins-testing-fairing-for-callisto-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Begins Testing Fairing for Callisto Reusable Booster Demonstrator
 - <a href="https://spacenews.com/spacex-letter-criticizes-faa-for-systemic-challenges-in-launch-licensing/" >🔗</a> **[SpaceNews]** SpaceX letter criticizes FAA for “systemic challenges” in launch licensing
-- <a href="https://spacepolicyonline.com/news/sasc-tees-up-extension-of-faa-learning-period-and-third-party-indemnification/" >🔗</a> **[SpacePolicyOnline.com]** SASC Tees Up Extension of FAA Learning Period and Third Party Indemnification
-- <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plans space industry transformation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T130459">2024-09-20 13:04:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T133320">2024-09-20 13:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
