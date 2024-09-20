@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Burning_Man_festival" >🔗</a> **[ESA]** Earth from Space: Burning Man festival
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_unveils_black_hole_and_supernova_remnant_surroundings" >🔗</a> **[ESA]** XRISM unveils black hole and supernova remnant surroundings
 - <a href="https://europeanspaceflight.com/dlr-begins-testing-fairing-for-callisto-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Begins Testing Fairing for Callisto Reusable Booster Demonstrator
 - <a href="https://spacenews.com/spacex-letter-criticizes-faa-for-systemic-challenges-in-launch-licensing/" >🔗</a> **[SpaceNews]** SpaceX letter criticizes FAA for “systemic challenges” in launch licensing
 - <a href="https://spacepolicyonline.com/news/sasc-tees-up-extension-of-faa-learning-period-and-third-party-indemnification/" >🔗</a> **[SpacePolicyOnline.com]** SASC Tees Up Extension of FAA Learning Period and Third Party Indemnification
 - <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plots space industry transformation
 - <a href="https://www.nasa.gov/general/nasa-naacp-partner-to-advance-diversity-inclusion-in-stem-fields/" >🔗</a> **[NASA]** NASA, NAACP Partner to Advance Diversity, Inclusion in STEM Fields
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/A_geological_puzzle" >🔗</a> **[ESA]** A geological puzzle
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-tracy-c-dyson-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Tracy C. Dyson, Crewmates Return
 - <a href="https://www.nasa.gov/history/55-years-ago-celebrations-for-apollo-11-continue-as-apollo-12-prepares-to-revisit-the-moon/" >🔗</a> **[NASA]** 55 Years Ago: Celebrations for Apollo 11 Continue as Apollo 12 Prepares to Revisit the Moon
-- <a href="https://spacenews.com/earth-observation-companies-wary-of-starshield/" >🔗</a> **[SpaceNews]** Earth observation companies wary of Starshield
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-hidden-figures-honored-with-congressional-gold-medals/" >🔗</a> **[NASA]** NASA’s Hidden Figures Honored with Congressional Gold Medals
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T080132">2024-09-20 08:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T083428">2024-09-20 08:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
