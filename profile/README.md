@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/20/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
+- <a href="https://arstechnica.com/space/2024/09/rocket-report-a-quick-fix-for-ariane-second-stage-issue-musk-escalates-faa-feud/" >🔗</a> **[Arstechnica]** Rocket Report: Eutelsat’s surprising decision; Europe complains about SpaceX again
+- <a href="https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/" >🔗</a> **[NASA]** Hubble Lights the Way with New Multiwavelength Galaxy View
+- <a href="https://spacenews.com/china-set-to-unveil-long-term-vision-for-space-science/" >🔗</a> **[SpaceNews]** China set to unveil long-term vision for space science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Burning_Man_festival" >🔗</a> **[ESA]** Earth from Space: Burning Man festival
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_unveils_black_hole_and_supernova_remnant_surroundings" >🔗</a> **[ESA]** XRISM unveils black hole and supernova remnant surroundings
 - <a href="https://europeanspaceflight.com/dlr-begins-testing-fairing-for-callisto-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Begins Testing Fairing for Callisto Reusable Booster Demonstrator
 - <a href="https://spacenews.com/spacex-letter-criticizes-faa-for-systemic-challenges-in-launch-licensing/" >🔗</a> **[SpaceNews]** SpaceX letter criticizes FAA for “systemic challenges” in launch licensing
 - <a href="https://spacepolicyonline.com/news/sasc-tees-up-extension-of-faa-learning-period-and-third-party-indemnification/" >🔗</a> **[SpacePolicyOnline.com]** SASC Tees Up Extension of FAA Learning Period and Third Party Indemnification
 - <a href="https://spacenews.com/saudi-arabia-plots-space-industry-transformation/" >🔗</a> **[SpaceNews]** Saudi Arabia plots space industry transformation
-- <a href="https://www.nasa.gov/general/nasa-naacp-partner-to-advance-diversity-inclusion-in-stem-fields/" >🔗</a> **[NASA]** NASA, NAACP Partner to Advance Diversity, Inclusion in STEM Fields
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/A_geological_puzzle" >🔗</a> **[ESA]** A geological puzzle
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-tracy-c-dyson-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Tracy C. Dyson, Crewmates Return
-- <a href="https://www.nasa.gov/history/55-years-ago-celebrations-for-apollo-11-continue-as-apollo-12-prepares-to-revisit-the-moon/" >🔗</a> **[NASA]** 55 Years Ago: Celebrations for Apollo 11 Continue as Apollo 12 Prepares to Revisit the Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T110113">2024-09-20 11:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T113100">2024-09-20 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
