@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-sends-20-more-starlink-satellites-to-orbit-in-successful-launch/" >🔗</a> **[Teslarati]** SpaceX sends 20 more Starlink satellites to orbit in successful launch
+- <a href="https://arstechnica.com/space/2024/09/nasa-takes-a-giant-leap-toward-streaming-4k-video-back-from-the-moon/" >🔗</a> **[Arstechnica]** One company appears to be thriving as part of NASA’s return to the Moon
 - <a href="https://www.nasa.gov/news-release/nasa-awards-1-5-million-at-watts-on-the-moon-challenge-finale/" >🔗</a> **[NASA]** NASA Awards $1.5 Million at Watts on the Moon Challenge Finale
 - <a href="https://spacenews.com/demand-outstrips-radar-satellite-supply/" >🔗</a> **[SpaceNews]** Demand outstrips radar satellite supply
 - <a href="https://www.nasa.gov/image-article/honoring-hidden-figures/" >🔗</a> **[NASA]** Honoring Hidden Figures
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/nasa-greenlights-next-phase-of-italian-lunar-habitat-project/" >🔗</a> **[European Spaceflight]** NASA Greenlights Next Phase of Italian Lunar Habitat Project
 - <a href="https://spaceflightnow.com/2024/09/20/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-2/" >🔗</a> **[Spaceflight Now]** SpaceX launches 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://arstechnica.com/space/2024/09/rocket-report-a-quick-fix-for-ariane-second-stage-issue-musk-escalates-faa-feud/" >🔗</a> **[Arstechnica]** Rocket Report: Eutelsat’s surprising decision; Europe complains about SpaceX again
-- <a href="https://science.nasa.gov/missions/hubble/hubble-lights-the-way-with-new-multiwavelength-galaxy-view/" >🔗</a> **[NASA]** Hubble Lights the Way with New Multiwavelength Galaxy View
-- <a href="https://spacenews.com/china-set-to-unveil-long-term-vision-for-space-science/" >🔗</a> **[SpaceNews]** China set to unveil long-term vision for space science
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T190106">2024-09-20 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240920T193102">2024-09-20 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
