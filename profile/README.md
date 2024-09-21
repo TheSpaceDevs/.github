@@ -96,11 +96,11 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/electron-launches-second-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Electron launches second set of Kinéis satellites
 - <a href="https://spacenews.com/evolving-artificial-intelligence-capabilities-in-space/" >🔗</a> **[SpaceNews]** Evolving artificial intelligence capabilities in space
 - <a href="https://www.teslarati.com/spacex-sends-20-more-starlink-satellites-to-orbit-in-successful-launch/" >🔗</a> **[Teslarati]** SpaceX sends 20 more Starlink satellites to orbit in successful launch
+- <a href="https://www.nasa.gov/aeronautics/armd-solicitations/" >🔗</a> **[NASA]** ARMD Solicitations
 - <a href="https://arstechnica.com/space/2024/09/nasa-takes-a-giant-leap-toward-streaming-4k-video-back-from-the-moon/" >🔗</a> **[Arstechnica]** One company appears to be thriving as part of NASA’s return to the Moon
 - <a href="https://www.nasa.gov/news-release/nasa-awards-1-5-million-at-watts-on-the-moon-challenge-finale/" >🔗</a> **[NASA]** NASA Awards $1.5 Million at Watts on the Moon Challenge Finale
 - <a href="https://spacenews.com/demand-outstrips-radar-satellite-supply/" >🔗</a> **[SpaceNews]** Demand outstrips radar satellite supply
 - <a href="https://www.nasa.gov/image-article/honoring-hidden-figures/" >🔗</a> **[NASA]** Honoring Hidden Figures
-- <a href="https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/" >🔗</a> **[NASA]** NASA Data Helps Protect US Embassy Staff from Polluted Air
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240921T230108">2024-09-21 23:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240921T233056">2024-09-21 23:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
