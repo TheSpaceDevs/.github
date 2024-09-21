@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-to-take-up-2024-nasa-authorizaton-bill-next-week/" >🔗</a> **[SpacePolicyOnline.com]** House to Take Up 2024 NASA Authorization Bill Next Week
+- <a href="https://spacenews.com/nasa-creates-space-sustainability-division-to-consolidate-orbital-debris-activities/" >🔗</a> **[SpaceNews]** NASA creates space sustainability division to consolidate orbital debris activities
 - <a href="https://spacenews.com/electron-launches-second-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Electron launches second set of Kinéis satellites
 - <a href="https://spacenews.com/evolving-artificial-intelligence-capabilities-in-space/" >🔗</a> **[SpaceNews]** Evolving artificial intelligence capabilities in space
 - <a href="https://www.teslarati.com/spacex-sends-20-more-starlink-satellites-to-orbit-in-successful-launch/" >🔗</a> **[Teslarati]** SpaceX sends 20 more Starlink satellites to orbit in successful launch
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/demand-outstrips-radar-satellite-supply/" >🔗</a> **[SpaceNews]** Demand outstrips radar satellite supply
 - <a href="https://www.nasa.gov/image-article/honoring-hidden-figures/" >🔗</a> **[NASA]** Honoring Hidden Figures
 - <a href="https://science.nasa.gov/earth/nasa-data-helps-protect-us-embassy-staff-from-polluted-air/" >🔗</a> **[NASA]** NASA Data Helps Protect US Embassy Staff from Polluted Air
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Highlights_of_ESA_s_Industry_Space_Days_2024" >🔗</a> **[ESA]** Highlights of ESA’s Industry Space Days 2024
-- <a href="https://europeanspaceflight.com/nasa-greenlights-next-phase-of-italian-lunar-habitat-project/" >🔗</a> **[European Spaceflight]** NASA Greenlights Next Phase of Italian Lunar Habitat Project
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240921T220106">2024-09-21 22:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240921T223231">2024-09-21 22:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
