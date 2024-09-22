@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-commands-commercial-operations-group-gets-expanded-role/" >🔗</a> **[SpaceNews]** U.S. Space Command’s commercial operations group gets expanded role
 - <a href="https://spacepolicyonline.com/news/house-to-take-up-2024-nasa-authorizaton-bill-next-week/" >🔗</a> **[SpacePolicyOnline.com]** House to Take Up 2024 NASA Authorization Bill Next Week
 - <a href="https://spacenews.com/nasa-creates-space-sustainability-division-to-consolidate-orbital-debris-activities/" >🔗</a> **[SpaceNews]** NASA creates space sustainability division to consolidate orbital debris activities
 - <a href="https://spacenews.com/electron-launches-second-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Electron launches second set of Kinéis satellites
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/09/nasa-takes-a-giant-leap-toward-streaming-4k-video-back-from-the-moon/" >🔗</a> **[Arstechnica]** One company appears to be thriving as part of NASA’s return to the Moon
 - <a href="https://www.nasa.gov/news-release/nasa-awards-1-5-million-at-watts-on-the-moon-challenge-finale/" >🔗</a> **[NASA]** NASA Awards $1.5 Million at Watts on the Moon Challenge Finale
 - <a href="https://spacenews.com/demand-outstrips-radar-satellite-supply/" >🔗</a> **[SpaceNews]** Demand outstrips radar satellite supply
-- <a href="https://www.nasa.gov/image-article/honoring-hidden-figures/" >🔗</a> **[NASA]** Honoring Hidden Figures
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240922T110101">2024-09-22 11:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240922T113059">2024-09-22 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
