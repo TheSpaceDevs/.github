@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Hera_planetary_defence_mission_solving_asteroid_mysteries" >🔗</a> **[ESA]** Hera planetary defence mission: solving asteroid mysteries
+- <a href="https://spacenews.com/deep-blue-aerospace-hop-test-suffers-anomaly-moments-before-landing/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace hop test suffers anomaly moments before landing
+- <a href="https://spacenews.com/office-of-space-commerce-ready-to-turn-on-initial-version-of-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Office of Space Commerce ready to turn on initial version of space traffic coordination system
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1B_journeys_back_to_Earth" >🔗</a> **[ESA]** Sentinel-1B journeys back to Earth
 - <a href="https://europeanspaceflight.com/isar-confirms-hot-fire-testing-has-commenced-at-andoya/" >🔗</a> **[European Spaceflight]** Isar Confirms Hot Fire Testing Has Commenced at Andøya
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-22-28-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 22-28, 2024
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/house-to-take-up-2024-nasa-authorizaton-bill-next-week/" >🔗</a> **[SpacePolicyOnline.com]** House to Take Up 2024 NASA Authorization Bill Next Week
 - <a href="https://spacenews.com/nasa-creates-space-sustainability-division-to-consolidate-orbital-debris-activities/" >🔗</a> **[SpaceNews]** NASA creates space sustainability division to consolidate orbital debris activities
 - <a href="https://spacenews.com/electron-launches-second-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Electron launches second set of Kinéis satellites
-- <a href="https://spacenews.com/evolving-artificial-intelligence-capabilities-in-space/" >🔗</a> **[SpaceNews]** Evolving artificial intelligence capabilities in space
-- <a href="https://www.teslarati.com/spacex-sends-20-more-starlink-satellites-to-orbit-in-successful-launch/" >🔗</a> **[Teslarati]** SpaceX sends 20 more Starlink satellites to orbit in successful launch
-- <a href="https://www.nasa.gov/aeronautics/armd-solicitations/" >🔗</a> **[NASA]** ARMD Solicitations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T110121">2024-09-23 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T113102">2024-09-23 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
