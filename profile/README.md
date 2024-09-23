@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/" >🔗</a> **[NASA]** Celebrating 10 Years at Mars with NASA’s MAVEN Mission
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-092324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA Crew-9 to fly half-empty, Starlink and Chinese launches continue
+- <a href="https://spaceflightnow.com/2024/09/23/two-member-spacex-crew-9-prepares-for-late-week-dragon-launch/" >🔗</a> **[Spaceflight Now]** Two-member SpaceX Crew-9 prepares for late week Dragon launch
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-program-wins-prestigious-award/" >🔗</a> **[NASA]** NASA Science Activation Program Wins Prestigious Award
 - <a href="https://www.teslarati.com/elon-musk-reveals-ambitious-spacex-starship-plans-mars-mission/" >🔗</a> **[Teslarati]** Elon Musk reveals ambitious SpaceX Starship plans for Mars missions
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2024
 - <a href="https://www.spacescout.info/2024/09/spacex-makes-adjustments-for-crew-dragons-future/" >🔗</a> **[Space Scout]** SpaceX Makes Adjustments For Crew Dragon’s Future
 - <a href="https://science.nasa.gov/blog/a-striped-surprise/" >🔗</a> **[NASA]** A Striped Surprise
 - <a href="https://science.nasa.gov/blog/sols-4311-4313-a-weekend-of-engineering-curiosity/" >🔗</a> **[NASA]** Sols 4311–4313: A Weekend of Engineering Curiosity
 - <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-expands-small-business-industry-engagement-resources/" >🔗</a> **[NASA]** NASA Expands Small Business, Industry Engagement Resources
-- <a href="https://spacenews.com/nasas-cancellation-viper-cedes-leadership-lunar-exploration/" >🔗</a> **[SpaceNews]** NASA’s cancellation of VIPER cedes leadership in lunar exploration
-- <a href="https://spaceflightnow.com/2024/09/23/soyuz-brings-two-cosmonauts-nasa-astronaut-back-to-earth-after-record-setting-mission/" >🔗</a> **[Spaceflight Now]** Soyuz brings two cosmonauts, NASA astronaut back to Earth after record-setting mission
-- <a href="https://spacenews.com/u-s-eyes-geostationary-orbit-for-next-gen-gps/" >🔗</a> **[SpaceNews]** U.S. eyes geostationary orbit for next-gen GPS
-- <a href="https://science.nasa.gov/get-involved/citizen-science/find-exoasteroids-and-peek-into-the-future/" >🔗</a> **[NASA]** Find Exoasteroids and Peek into the Future
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T180121">2024-09-23 18:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T183543">2024-09-23 18:35:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
