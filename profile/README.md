@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/expedition-71-soyuz-landing/" >🔗</a> **[NASA]** Expedition 71 Soyuz Landing
+- <a href="https://www.nasa.gov/news-release/us-republic-of-korea-sign-statement-to-advance-aerospace-cooperation/" >🔗</a> **[NASA]** US, Republic of Korea Sign Statement to Advance Aerospace Cooperation
+- <a href="https://spacenews.com/nasa-spar-lab-shares-ai-tool-for-spacecraft/" >🔗</a> **[SpaceNews]** NASA SPAR Lab shares AI tool for spacecraft
 - <a href="https://www.nasa.gov/news-release/nasa-selects-launch-provider-for-new-noaa-environmental-satellite/" >🔗</a> **[NASA]** NASA Selects Launch Provider for New NOAA Environmental Satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-20-2024/" >🔗</a> **[NASA]** Station Science Top News: September 20, 2024
 - <a href="https://spacepolicyonline.com/news/two-cosmonauts-set-new-iss-duration-record/" >🔗</a> **[SpacePolicyOnline.com]** Two Cosmonauts Set New ISS Duration Record
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/" >🔗</a> **[NASA]** Celebrating 10 Years at Mars with NASA’s MAVEN Mission
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-092324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA Crew-9 to fly half-empty, Starlink and Chinese launches continue
 - <a href="https://spaceflightnow.com/2024/09/23/two-member-spacex-crew-9-prepares-for-late-week-dragon-launch/" >🔗</a> **[Spaceflight Now]** Two-member SpaceX Crew-9 prepares for late week Dragon launch
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-program-wins-prestigious-award/" >🔗</a> **[NASA]** NASA Science Activation Program Wins Prestigious Award
-- <a href="https://www.teslarati.com/elon-musk-reveals-ambitious-spacex-starship-plans-mars-mission/" >🔗</a> **[Teslarati]** Elon Musk reveals ambitious SpaceX Starship plans for Mars missions
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T210108">2024-09-23 21:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T213101">2024-09-23 21:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
