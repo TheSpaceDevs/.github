@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-taps-four-companies-to-design-resilient-gps-satellites/" >🔗</a> **[SpaceNews]** Space Force taps four companies to design ‘Resilient GPS’ satellites
 - <a href="https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/" >🔗</a> **[NASA]** New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 - <a href="https://www.nasa.gov/image-article/expedition-71-soyuz-landing/" >🔗</a> **[NASA]** Expedition 71 Soyuz Landing
 - <a href="https://www.nasa.gov/news-release/us-republic-of-korea-sign-statement-to-advance-aerospace-cooperation/" >🔗</a> **[NASA]** US, Republic of Korea Sign Statement to Advance Aerospace Cooperation
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/two-cosmonauts-set-new-iss-duration-record/" >🔗</a> **[SpacePolicyOnline.com]** Two Cosmonauts Set New ISS Duration Record
 - <a href="https://science.nasa.gov/get-involved/citizen-science/women-in-astronomy-citizen-science-webinar-this-thursday/" >🔗</a> **[NASA]** Women in Astronomy Citizen Science Webinar This Thursday
 - <a href="https://science.nasa.gov/missions/maven/celebrating-10-years-at-mars-with-nasas-maven-mission/" >🔗</a> **[NASA]** Celebrating 10 Years at Mars with NASA’s MAVEN Mission
-- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-092324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA Crew-9 to fly half-empty, Starlink and Chinese launches continue
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T220117">2024-09-23 22:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T223354">2024-09-23 22:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
