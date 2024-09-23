@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/elon-musk-reveals-ambitious-spacex-starship-plans-mars-mission/" >🔗</a> **[Teslarati]** Elon Musk reveals ambitious SpaceX Starship plans for Mars missions
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2024
+- <a href="https://www.spacescout.info/2024/09/spacex-makes-adjustments-for-crew-dragons-future/" >🔗</a> **[Space Scout]** SpaceX Makes Adjustments For Crew Dragon’s Future
+- <a href="https://science.nasa.gov/blog/a-striped-surprise/" >🔗</a> **[NASA]** A Striped Surprise
+- <a href="https://science.nasa.gov/blog/sols-4311-4313-a-weekend-of-engineering-curiosity/" >🔗</a> **[NASA]** Sols 4311–4313: A Weekend of Engineering Curiosity
 - <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-expands-small-business-industry-engagement-resources/" >🔗</a> **[NASA]** NASA Expands Small Business, Industry Engagement Resources
 - <a href="https://spacenews.com/nasas-cancellation-viper-cedes-leadership-lunar-exploration/" >🔗</a> **[SpaceNews]** NASA’s cancellation of VIPER cedes leadership in lunar exploration
 - <a href="https://spaceflightnow.com/2024/09/23/soyuz-brings-two-cosmonauts-nasa-astronaut-back-to-earth-after-record-setting-mission/" >🔗</a> **[Spaceflight Now]** Soyuz brings two cosmonauts, NASA astronaut back to Earth after record-setting mission
 - <a href="https://spacenews.com/u-s-eyes-geostationary-orbit-for-next-gen-gps/" >🔗</a> **[SpaceNews]** U.S. eyes geostationary orbit for next-gen GPS
 - <a href="https://science.nasa.gov/get-involved/citizen-science/find-exoasteroids-and-peek-into-the-future/" >🔗</a> **[NASA]** Find Exoasteroids and Peek into the Future
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-crewmates-return-from-space-station/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson, Crewmates Return from Space Station
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Hera_planetary_defence_mission_solving_asteroid_mysteries" >🔗</a> **[ESA]** Hera planetary defence mission: solving asteroid mysteries
-- <a href="https://arstechnica.com/space/2024/09/a-chinese-rocket-narrowly-missed-a-landing-on-sunday-the-video-is-amazing/" >🔗</a> **[Arstechnica]** A Chinese rocket narrowly missed a landing on Sunday—the video is amazing
-- <a href="https://spacenews.com/what-every-entrepreneur-can-should-learn-early-space-exploration/" >🔗</a> **[SpaceNews]** What every entrepreneur can (and should) learn from early space exploration
-- <a href="https://spacenews.com/deep-blue-aerospace-hop-test-suffers-anomaly-moments-before-landing/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace hop test suffers anomaly moments before landing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T170126">2024-09-23 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T173257">2024-09-23 17:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
