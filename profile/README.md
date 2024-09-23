@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-launch-provider-for-new-noaa-environmental-satellite/" >🔗</a> **[NASA]** NASA Selects Launch Provider for New NOAA Environmental Satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-20-2024/" >🔗</a> **[NASA]** Station Science Top News: September 20, 2024
 - <a href="https://spacepolicyonline.com/news/two-cosmonauts-set-new-iss-duration-record/" >🔗</a> **[SpacePolicyOnline.com]** Two Cosmonauts Set New ISS Duration Record
 - <a href="https://science.nasa.gov/get-involved/citizen-science/women-in-astronomy-citizen-science-webinar-this-thursday/" >🔗</a> **[NASA]** Women in Astronomy Citizen Science Webinar This Thursday
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-program-wins-prestigious-award/" >🔗</a> **[NASA]** NASA Science Activation Program Wins Prestigious Award
 - <a href="https://www.teslarati.com/elon-musk-reveals-ambitious-spacex-starship-plans-mars-mission/" >🔗</a> **[Teslarati]** Elon Musk reveals ambitious SpaceX Starship plans for Mars missions
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: September 2024
-- <a href="https://www.spacescout.info/2024/09/spacex-makes-adjustments-for-crew-dragons-future/" >🔗</a> **[Space Scout]** SpaceX Makes Adjustments For Crew Dragon’s Future
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T200116">2024-09-23 20:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T203303">2024-09-23 20:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
