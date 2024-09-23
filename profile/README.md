@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1B_journeys_back_to_Earth" >🔗</a> **[ESA]** Sentinel-1B journeys back to Earth
 - <a href="https://europeanspaceflight.com/isar-confirms-hot-fire-testing-has-commenced-at-andoya/" >🔗</a> **[European Spaceflight]** Isar Confirms Hot Fire Testing Has Commenced at Andøya
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-22-28-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 22-28, 2024
 - <a href="https://spacenews.com/u-s-space-commands-commercial-operations-group-gets-expanded-role/" >🔗</a> **[SpaceNews]** U.S. Space Command’s commercial operations group gets expanded role
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/evolving-artificial-intelligence-capabilities-in-space/" >🔗</a> **[SpaceNews]** Evolving artificial intelligence capabilities in space
 - <a href="https://www.teslarati.com/spacex-sends-20-more-starlink-satellites-to-orbit-in-successful-launch/" >🔗</a> **[Teslarati]** SpaceX sends 20 more Starlink satellites to orbit in successful launch
 - <a href="https://www.nasa.gov/aeronautics/armd-solicitations/" >🔗</a> **[NASA]** ARMD Solicitations
-- <a href="https://arstechnica.com/space/2024/09/nasa-takes-a-giant-leap-toward-streaming-4k-video-back-from-the-moon/" >🔗</a> **[Arstechnica]** One company appears to be thriving as part of NASA’s return to the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T070117">2024-09-23 07:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240923T073058">2024-09-23 07:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
