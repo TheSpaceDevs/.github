@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/julie-rivera-perez-bridges-business-stem-to-make-the-magic-happen/" >🔗</a> **[NASA]** Julie Rivera Pérez Bridges Business, STEM to ‘Make the Magic Happen’
 - <a href="https://spaceflightnow.com/2024/09/24/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://www.nasa.gov/image-article/nasa-ames-welcomes-latvian-president-talks-aeronautics-research/" >🔗</a> **[NASA]** NASA Ames Welcomes Latvian President, Talks Aeronautics Research
 - <a href="https://arstechnica.com/features/2024/09/in-the-room-where-it-happened-when-nasa-nearly-gave-boeing-all-the-crew-funding/" >🔗</a> **[Arstechnica]** In the room where it happened: When NASA nearly gave Boeing all the crew funding
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/" >🔗</a> **[NASA]** Educational Activities in Space
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/" >🔗</a> **[NASA]** NASA Helps Build New Federal Sea Level Rise Website
 - <a href="https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/" >🔗</a> **[NASA]** Girls in STEM Inspired to Fly High at NASA Kennedy
-- <a href="https://www.spacescout.info/2024/09/crew-9-set-to-launch-with-two-astronauts/" >🔗</a> **[Space Scout]** Crew-9 Set to Launch with Two Astronauts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T190125">2024-09-24 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T193116">2024-09-24 19:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
