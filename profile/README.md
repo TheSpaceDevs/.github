@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-aerospace-wins-contract-to-launch-noaa-quicksounder/" >🔗</a> **[SpaceNews]** Firefly Aerospace wins contract to launch NOAA QuickSounder
 - <a href="https://www.nasa.gov/news-release/nasa-us-department-of-education-bring-stem-to-after-school-programs/" >🔗</a> **[NASA]** NASA, US Department of Education Bring STEM to After-School Programs
 - <a href="https://europeanspaceflight.com/ariane-6-upper-stage-test-article-makes-way-for-phoebus/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Test Article Makes Way for Phoebus
 - <a href="https://spacenews.com/space-force-taps-four-companies-to-design-resilient-gps-satellites/" >🔗</a> **[SpaceNews]** Space Force taps four companies to design ‘Resilient GPS’ satellites
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-spar-lab-shares-ai-tool-for-spacecraft/" >🔗</a> **[SpaceNews]** NASA SPAR Lab shares AI tool for spacecraft
 - <a href="https://www.nasa.gov/news-release/nasa-selects-launch-provider-for-new-noaa-environmental-satellite/" >🔗</a> **[NASA]** NASA Selects Launch Provider for New NOAA Environmental Satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-20-2024/" >🔗</a> **[NASA]** Station Science Top News: September 20, 2024
-- <a href="https://spacepolicyonline.com/news/two-cosmonauts-set-new-iss-duration-record/" >🔗</a> **[SpacePolicyOnline.com]** Two Cosmonauts Set New ISS Duration Record
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T000402">2024-09-24 00:04:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T004535">2024-09-24 00:45:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
