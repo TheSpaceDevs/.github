@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/09/starship-5-full-stack/" >🔗</a> **[NASASpaceflight]** Starship Flight Five Full-Stack Leads to Wet Dress Rehearsal
+- <a href="https://www.nasa.gov/earth/arctic-sea-ice-near-historic-low-antarctic-ice-continues-decline/" >🔗</a> **[NASA]** Arctic Sea Ice Near Historic Low; Antarctic Ice Continues Decline
+- <a href="https://www.nasa.gov/missions/station/iss-research/educational-activities-in-space/" >🔗</a> **[NASA]** Educational Activities in Space
+- <a href="https://www.nasa.gov/earth/climate-change/nasa-helps-build-new-federal-sea-level-rise-website/" >🔗</a> **[NASA]** NASA Helps Build New Federal Sea Level Rise Website
 - <a href="https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/" >🔗</a> **[NASA]** Girls in STEM Inspired to Fly High at NASA Kennedy
 - <a href="https://www.spacescout.info/2024/09/crew-9-set-to-launch-with-two-astronauts/" >🔗</a> **[Space Scout]** Crew-9 Set to Launch with Two Astronauts
 - <a href="https://www.nasa.gov/image-article/lead-astromaterial-curation-engineer-salvador-martinez-iii/" >🔗</a> **[NASA]** Lead Astromaterial Curation Engineer Salvador Martinez III
 - <a href="https://www.esa.int/Space_Safety/Draco_mission_made_for_destruction" >🔗</a> **[ESA]** Draco mission made for destruction
 - <a href="https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/" >🔗</a> **[Arstechnica]** For the first time, Blue Origin has ignited an orbital rocket stage
 - <a href="https://spacenews.com/planet-unveils-forest-carbon-monitoring-dataset/" >🔗</a> **[SpaceNews]** Planet unveils Forest Carbon Monitoring dataset
-- <a href="https://spacenews.com/maxar-intelligence-opens-international-headquarters-in-london/" >🔗</a> **[SpaceNews]** Maxar Intelligence opens international headquarters in London
-- <a href="https://spacenews.com/viasat-wins-33-million-u-s-air-force-contract-for-satellite-communications-antennas/" >🔗</a> **[SpaceNews]** Viasat wins $33 million U.S. Air Force contract for satellite communications antennas
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/LUNA_infographics" >🔗</a> **[ESA]** LUNA infographics
-- <a href="https://spacenews.com/house-passes-nasa-authorization-bill-3/" >🔗</a> **[SpaceNews]** House passes NASA authorization bill
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T170115">2024-09-24 17:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T173339">2024-09-24 17:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
