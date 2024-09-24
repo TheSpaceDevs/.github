@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/LUNA_infographics" >🔗</a> **[ESA]** LUNA infographics
+- <a href="https://spacenews.com/house-passes-nasa-authorization-bill-3/" >🔗</a> **[SpaceNews]** House passes NASA authorization bill
 - <a href="https://spacenews.com/jielong-3-sea-launch-sends-8-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Jielong-3 sea launch sends 8 satellites into orbit
 - <a href="https://spacepolicyonline.com/news/house-passes-2024-nasa-authorization-and-ascend-acts/" >🔗</a> **[SpacePolicyOnline.com]** House Passes 2024 NASA Authorization and ASCEND Acts
 - <a href="https://spacenews.com/firefly-aerospace-wins-contract-to-launch-noaa-quicksounder/" >🔗</a> **[SpaceNews]** Firefly Aerospace wins contract to launch NOAA QuickSounder
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-taps-four-companies-to-design-resilient-gps-satellites/" >🔗</a> **[SpaceNews]** Space Force taps four companies to design ‘Resilient GPS’ satellites
 - <a href="https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/" >🔗</a> **[NASA]** New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
 - <a href="https://www.nasa.gov/image-article/expedition-71-soyuz-landing/" >🔗</a> **[NASA]** Expedition 71 Soyuz Landing
-- <a href="https://www.nasa.gov/news-release/us-republic-of-korea-sign-statement-to-advance-aerospace-cooperation/" >🔗</a> **[NASA]** US, Republic of Korea Sign Statement to Advance Aerospace Cooperation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T110111">2024-09-24 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T113107">2024-09-24 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
