@@ -105,11 +105,12 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-092324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA Crew-9 to fly half-empty, Starlink and Chinese launches continue
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T070115">2024-09-24 07:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T073059">2024-09-24 07:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
