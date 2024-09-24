@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
 - <a href="https://spacenews.com/free-starlink-wi-fi-now-on-most-hawaiian-airlines-transpacific-fleet/" >🔗</a> **[SpaceNews]** Free Starlink Wi-Fi now on most Hawaiian Airlines transpacific fleet
 - <a href="https://www.nasa.gov/image-article/astronaut-jose-hernandez-boards-discovery/" >🔗</a> **[NASA]** Astronaut José Hernández Boards Discovery
 - <a href="https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/" >🔗</a> **[NASA]** NASA Relaunches Art Program with Space-Themed Murals
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-ames-welcomes-latvian-president-talks-aeronautics-research/" >🔗</a> **[NASA]** NASA Ames Welcomes Latvian President, Talks Aeronautics Research
 - <a href="https://arstechnica.com/features/2024/09/in-the-room-where-it-happened-when-nasa-nearly-gave-boeing-all-the-crew-funding/" >🔗</a> **[Arstechnica]** In the room where it happened: When NASA nearly gave Boeing all the crew funding
 - <a href="https://spacenews.com/militarys-weather-satellite-program-in-flux-as-space-force-evaluates-options/" >🔗</a> **[SpaceNews]** Military’s weather satellite program in flux as Space Force evaluates options
-- <a href="https://www.nasaspaceflight.com/2024/09/starship-5-full-stack/" >🔗</a> **[NASASpaceflight]** Starship Flight Five conducts Full-Stack Testing ahead of Launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T220115">2024-09-24 22:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T223335">2024-09-24 22:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
