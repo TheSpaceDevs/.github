@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/LUNA_infographics" >🔗</a> **[ESA]** LUNA infographics
 - <a href="https://spacepolicyonline.com/news/house-passes-2024-nasa-authorization-and-ascend-acts/" >🔗</a> **[SpacePolicyOnline.com]** House Passes 2024 NASA Authorization and ASCEND Acts
 - <a href="https://spacenews.com/firefly-aerospace-wins-contract-to-launch-noaa-quicksounder/" >🔗</a> **[SpaceNews]** Firefly Aerospace wins contract to launch NOAA QuickSounder
 - <a href="https://www.nasa.gov/news-release/nasa-us-department-of-education-bring-stem-to-after-school-programs/" >🔗</a> **[NASA]** NASA, US Department of Education Bring STEM to After-School Programs
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/expedition-71-soyuz-landing/" >🔗</a> **[NASA]** Expedition 71 Soyuz Landing
 - <a href="https://www.nasa.gov/news-release/us-republic-of-korea-sign-statement-to-advance-aerospace-cooperation/" >🔗</a> **[NASA]** US, Republic of Korea Sign Statement to Advance Aerospace Cooperation
 - <a href="https://spacenews.com/nasa-spar-lab-shares-ai-tool-for-spacecraft/" >🔗</a> **[SpaceNews]** NASA SPAR Lab shares AI tool for spacecraft
-- <a href="https://www.nasa.gov/news-release/nasa-selects-launch-provider-for-new-noaa-environmental-satellite/" >🔗</a> **[NASA]** NASA Selects Launch Provider for New NOAA Environmental Satellite
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T090114">2024-09-24 09:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T093243">2024-09-24 09:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
