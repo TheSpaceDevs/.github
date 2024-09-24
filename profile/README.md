@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-intelligence-opens-international-headquarters-in-london/" >🔗</a> **[SpaceNews]** Maxar Intelligence opens international headquarters in London
+- <a href="https://spacenews.com/viasat-wins-33-million-u-s-air-force-contract-for-satellite-communications-antennas/" >🔗</a> **[SpaceNews]** Viasat wins $33 million U.S. Air Force contract for satellite communications antennas
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/LUNA_infographics" >🔗</a> **[ESA]** LUNA infographics
 - <a href="https://spacenews.com/house-passes-nasa-authorization-bill-3/" >🔗</a> **[SpaceNews]** House passes NASA authorization bill
 - <a href="https://spacenews.com/jielong-3-sea-launch-sends-8-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Jielong-3 sea launch sends 8 satellites into orbit
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-us-department-of-education-bring-stem-to-after-school-programs/" >🔗</a> **[NASA]** NASA, US Department of Education Bring STEM to After-School Programs
 - <a href="https://europeanspaceflight.com/ariane-6-upper-stage-test-article-makes-way-for-phoebus/" >🔗</a> **[European Spaceflight]** Ariane 6 Upper Stage Test Article Makes Way for Phoebus
 - <a href="https://spacenews.com/space-force-taps-four-companies-to-design-resilient-gps-satellites/" >🔗</a> **[SpaceNews]** Space Force taps four companies to design ‘Resilient GPS’ satellites
-- <a href="https://www.nasa.gov/missions/europa-clipper/new-video-series-spotlights-engineers-on-nasas-europa-clipper-mission/" >🔗</a> **[NASA]** New Video Series Spotlights Engineers on NASA’s Europa Clipper Mission
-- <a href="https://www.nasa.gov/image-article/expedition-71-soyuz-landing/" >🔗</a> **[NASA]** Expedition 71 Soyuz Landing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T120133">2024-09-24 12:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T124237">2024-09-24 12:42:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
