@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/lead-astromaterial-curation-engineer-salvador-martinez-iii/" >🔗</a> **[NASA]** Lead Astromaterial Curation Engineer Salvador Martinez III
 - <a href="https://www.esa.int/Space_Safety/Draco_mission_made_for_destruction" >🔗</a> **[ESA]** Draco mission made for destruction
 - <a href="https://arstechnica.com/space/2024/09/blue-origin-completes-second-stage-hot-fire-test-of-large-new-rocket/" >🔗</a> **[Arstechnica]** For the first time, Blue Origin has ignited an orbital rocket stage
 - <a href="https://spacenews.com/planet-unveils-forest-carbon-monitoring-dataset/" >🔗</a> **[SpaceNews]** Planet unveils Forest Carbon Monitoring dataset
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/house-passes-nasa-authorization-bill-3/" >🔗</a> **[SpaceNews]** House passes NASA authorization bill
 - <a href="https://spacenews.com/jielong-3-sea-launch-sends-8-satellites-into-orbit/" >🔗</a> **[SpaceNews]** Jielong-3 sea launch sends 8 satellites into orbit
 - <a href="https://spacepolicyonline.com/news/house-passes-2024-nasa-authorization-and-ascend-acts/" >🔗</a> **[SpacePolicyOnline.com]** House Passes 2024 NASA Authorization and ASCEND Acts
-- <a href="https://spacenews.com/firefly-aerospace-wins-contract-to-launch-noaa-quicksounder/" >🔗</a> **[SpaceNews]** Firefly Aerospace wins contract to launch NOAA QuickSounder
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T150126">2024-09-24 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240924T153259">2024-09-24 15:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
