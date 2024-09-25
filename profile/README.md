@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-9-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-9 Launch, Docking
 - <a href="https://spacenews.com/space-force-awards-25-million-contract-for-satellite-data-integration/" >🔗</a> **[SpaceNews]** Space Force awards $25 million contract for satellite data integration
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-2/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch
 - <a href="https://spacenews.com/space-force-eyes-commercial-antennas-to-boost-satellite-control-capacity/" >🔗</a> **[SpaceNews]** Space Force eyes commercial antennas to boost satellite control capacity
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/" >🔗</a> **[NASA]** NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
 - <a href="https://spacenews.com/all-the-stars-align-for-a-record-breaking-breaking-75th-international-astronautical-congress/" >🔗</a> **[SpaceNews]** All The Stars Align for a Record-Breaking Breaking 75th IAC
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
-- <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/" >🔗</a> **[NASA]** NASA’s Record-Breaking Laser Demo Completes Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T200130">2024-09-25 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T203203">2024-09-25 20:32:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
