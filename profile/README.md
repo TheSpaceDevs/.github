@@ -92,15 +92,15 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
+- <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/" >🔗</a> **[NASA]** NASA’s Record-Breaking Laser Demo Completes Mission
+- <a href="https://www.nasa.gov/missions/analog-field-testing/hera-human-exploration-research-analog/crew-returns-from-simulated-trip-to-mars-take-a-peek-inside-their-journey/" >🔗</a> **[NASA]** Crew Returns from Simulated Trip to Mars—Take a Peek Inside their Journey
+- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/launching-into-action-white-sands-firefighters-on-the-frontlines-of-new-mexicos-wildfire-crisis/" >🔗</a> **[NASA]** Launching Into Action: White Sands Firefighters on the Frontlines of New Mexico’s Wildfire Crisis
+- <a href="https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/" >🔗</a> **[NASA]** NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/robotic-moving-crew-preps-for-work-on-moon/" >🔗</a> **[NASA]** ­­Robotic Moving ‘Crew’ Preps for Work on Moon
 - <a href="https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/" >🔗</a> **[NASA]** In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
 - <a href="https://europeanspaceflight.com/esa-awards-contract-for-capsule-designed-for-destruction/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Capsule Designed for Destruction
 - <a href="https://spacenews.com/space-innovation-is-falling-behind/" >🔗</a> **[SpaceNews]** Space innovation is falling behind
 - <a href="https://www.nasa.gov/organizations/ocio/dt/september-2024-transformer-of-the-month-lori-arnett/" >🔗</a> **[NASA]** September 2024 Transformer of the Month: Lori Arnett
-- <a href="https://spacenews.com/radian-aerospace-begins-tests-of-spaceplane-prototype/" >🔗</a> **[SpaceNews]** Radian Aerospace begins tests of spaceplane prototype
-- <a href="https://spacenews.com/faa-administrator-defends-spacex-licensing-actions-on-safety-grounds/" >🔗</a> **[SpaceNews]** FAA administrator defends SpaceX licensing actions on safety grounds
-- <a href="https://spacenews.com/china-to-launch-near-earth-asteroid-sample-return-mission-in-2025/" >🔗</a> **[SpaceNews]** China to launch near-Earth asteroid sample return mission in 2025
-- <a href="https://europeanspaceflight.com/italian-court-greenlights-construction-of-first-esa-flyeye-observatory/" >🔗</a> **[European Spaceflight]** Italian Court Greenlights Construction of First ESA FlyEye Observatory
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T160128">2024-09-25 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T163742">2024-09-25 16:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
