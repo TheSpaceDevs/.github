@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italian-court-greenlights-construction-of-first-esa-flyeye-observatory/" >🔗</a> **[European Spaceflight]** Italian Court Greenlights Construction of First ESA FlyEye Observatory
 - <a href="https://www.nasaspaceflight.com/2024/09/new-glenn-hot-fire-09-23-24/" >🔗</a> **[NASASpaceflight]** New Glenn second stage completes hot fire test
 - <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
 - <a href="https://spacenews.com/free-starlink-wi-fi-now-on-most-hawaiian-airlines-transpacific-fleet/" >🔗</a> **[SpaceNews]** Free Starlink Wi-Fi now on most Hawaiian Airlines transpacific fleet
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/julie-rivera-perez-bridges-business-stem-to-make-the-magic-happen/" >🔗</a> **[NASA]** Julie Rivera Pérez Bridges Business, STEM to ‘Make the Magic Happen’
 - <a href="https://spaceflightnow.com/2024/09/24/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://www.nasa.gov/image-article/nasa-ames-welcomes-latvian-president-talks-aeronautics-research/" >🔗</a> **[NASA]** NASA Ames Welcomes Latvian President, Talks Aeronautics Research
-- <a href="https://arstechnica.com/features/2024/09/in-the-room-where-it-happened-when-nasa-nearly-gave-boeing-all-the-crew-funding/" >🔗</a> **[Arstechnica]** In the room where it happened: When NASA nearly gave Boeing all the crew funding
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T080125">2024-09-25 08:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T083558">2024-09-25 08:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
