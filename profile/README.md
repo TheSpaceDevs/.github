@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-art-program-is-back/" >🔗</a> **[NASA]** NASA’s Art Program is Back
+- <a href="https://www.teslarati.com/spacex-calls-out-faa-deeply-concerning-statements-in-front-of-congress/" >🔗</a> **[Teslarati]** SpaceX calls out FAA’s ‘deeply concerning’ statements in front of Congress
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-hector-chavez-leading-johnsons-giant-leap-into-low-earth-orbit/" >🔗</a> **[NASA]** Meet Hector Chavez: Leading Johnson’s Giant Leap into Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/" >🔗</a> **[NASA]** NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
 - <a href="https://spacenews.com/all-the-stars-align-for-a-record-breaking-breaking-75th-international-astronautical-congress/" >🔗</a> **[SpaceNews]** All The Stars Align for a Record-Breaking Breaking 75th IAC
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/missions/analog-field-testing/hera-human-exploration-research-analog/crew-returns-from-simulated-trip-to-mars-take-a-peek-inside-their-journey/" >🔗</a> **[NASA]** Crew Returns from Simulated Trip to Mars—Take a Peek Inside their Journey
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/launching-into-action-white-sands-firefighters-on-the-frontlines-of-new-mexicos-wildfire-crisis/" >🔗</a> **[NASA]** Launching Into Action: White Sands Firefighters on the Frontlines of New Mexico’s Wildfire Crisis
 - <a href="https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/" >🔗</a> **[NASA]** NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/robotic-moving-crew-preps-for-work-on-moon/" >🔗</a> **[NASA]** ­­Robotic Moving ‘Crew’ Preps for Work on Moon
-- <a href="https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/" >🔗</a> **[NASA]** In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
-- <a href="https://europeanspaceflight.com/esa-awards-contract-for-capsule-designed-for-destruction/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Capsule Designed for Destruction
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T180128">2024-09-25 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T183600">2024-09-25 18:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
