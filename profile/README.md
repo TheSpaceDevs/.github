@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/sarp-west-2024-oceans-group/" >🔗</a> **[NASA]** SARP West 2024 Oceans Group
+- <a href="https://www.nasa.gov/general/sarp-west-2024-whole-air-sampling-was-group/" >🔗</a> **[NASA]** SARP West 2024 Whole Air Sampling (WAS) Group
+- <a href="https://www.nasa.gov/general/sarp-west-2024-terrestrial-ecology-group/" >🔗</a> **[NASA]** SARP West 2024 Terrestrial Ecology Group
+- <a href="https://www.nasa.gov/general/2024-sarp-west-atmospheric-aerosols-group/" >🔗</a> **[NASA]** 2024 SARP West Atmospheric Aerosols Group
+- <a href="https://www.nasa.gov/general/2024-sarp-west-closeout/" >🔗</a> **[NASA]** 2024 SARP West Closeout
+- <a href="https://spacenews.com/iridium-approved-to-work-on-leo-compatibility-for-upcoming-smartphones/" >🔗</a> **[SpaceNews]** Iridium approved to work on LEO compatibility for upcoming smartphones
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/" >🔗</a> **[NASA]** Getting SSPICY: NASA Funds Orbital Debris Inspection Mission
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-25-2024/" >🔗</a> **[NASA]** The Marshall Star for September 25, 2024
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-9-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-9 Launch, Docking
 - <a href="https://spacenews.com/space-force-awards-25-million-contract-for-satellite-data-integration/" >🔗</a> **[SpaceNews]** Space Force awards $25 million contract for satellite data integration
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-2/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch
-- <a href="https://spacenews.com/space-force-eyes-commercial-antennas-to-boost-satellite-control-capacity/" >🔗</a> **[SpaceNews]** Space Force eyes commercial antennas to boost satellite control capacity
-- <a href="https://www.nasa.gov/image-article/nasas-art-program-is-back/" >🔗</a> **[NASA]** NASA’s Art Program is Back
-- <a href="https://www.teslarati.com/spacex-calls-out-faa-deeply-concerning-statements-in-front-of-congress/" >🔗</a> **[Teslarati]** SpaceX calls out FAA’s ‘deeply concerning’ statements in front of Congress
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-hector-chavez-leading-johnsons-giant-leap-into-low-earth-orbit/" >🔗</a> **[NASA]** Meet Hector Chavez: Leading Johnson’s Giant Leap into Low Earth Orbit
-- <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-michoud-continues-work-on-evolved-stage-of-sls-rocket-for-future-artemis-missions/" >🔗</a> **[NASA]** NASA Michoud Continues Work on Evolved Stage of SLS Rocket for Future Artemis Missions
-- <a href="https://spacenews.com/all-the-stars-align-for-a-record-breaking-breaking-75th-international-astronautical-congress/" >🔗</a> **[SpaceNews]** All The Stars Align for a Record-Breaking Breaking 75th IAC
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T210129">2024-09-25 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T213115">2024-09-25 21:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
