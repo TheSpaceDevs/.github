@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-administrator-defends-spacex-licensing-actions-on-safety-grounds/" >🔗</a> **[SpaceNews]** FAA administrator defends SpaceX licensing actions on safety grounds
+- <a href="https://spacenews.com/china-to-launch-near-earth-asteroid-sample-return-mission-in-2025/" >🔗</a> **[SpaceNews]** China to launch near-Earth asteroid sample return mission in 2025
 - <a href="https://europeanspaceflight.com/italian-court-greenlights-construction-of-first-esa-flyeye-observatory/" >🔗</a> **[European Spaceflight]** Italian Court Greenlights Construction of First ESA FlyEye Observatory
 - <a href="https://www.nasaspaceflight.com/2024/09/new-glenn-hot-fire-09-23-24/" >🔗</a> **[NASASpaceflight]** New Glenn second stage completes hot fire test
 - <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/" >🔗</a> **[NASA]** NASA Relaunches Art Program with Space-Themed Murals
 - <a href="https://www.teslarati.com/spacex-starlink-hawaiian-airlines-airbus-boeing/" >🔗</a> **[Teslarati]** SpaceX Starlink makes major announcement with Hawaiian Airlines
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/julie-rivera-perez-bridges-business-stem-to-make-the-magic-happen/" >🔗</a> **[NASA]** Julie Rivera Pérez Bridges Business, STEM to ‘Make the Magic Happen’
-- <a href="https://spaceflightnow.com/2024/09/24/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
-- <a href="https://www.nasa.gov/image-article/nasa-ames-welcomes-latvian-president-talks-aeronautics-research/" >🔗</a> **[NASA]** NASA Ames Welcomes Latvian President, Talks Aeronautics Research
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T110126">2024-09-25 11:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T113059">2024-09-25 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
