@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/robotic-moving-crew-preps-for-work-on-moon/" >🔗</a> **[NASA]** ­­Robotic Moving ‘Crew’ Preps for Work on Moon
+- <a href="https://science.nasa.gov/missions/webb/in-odd-galaxy-nasas-webb-finds-potential-missing-link-to-first-stars/" >🔗</a> **[NASA]** In Odd Galaxy, NASA’s Webb Finds Potential Missing Link to First Stars
+- <a href="https://europeanspaceflight.com/esa-awards-contract-for-capsule-designed-for-destruction/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Capsule Designed for Destruction
 - <a href="https://spacenews.com/space-innovation-is-falling-behind/" >🔗</a> **[SpaceNews]** Space innovation is falling behind
 - <a href="https://www.nasa.gov/organizations/ocio/dt/september-2024-transformer-of-the-month-lori-arnett/" >🔗</a> **[NASA]** September 2024 Transformer of the Month: Lori Arnett
 - <a href="https://spacenews.com/radian-aerospace-begins-tests-of-spaceplane-prototype/" >🔗</a> **[SpaceNews]** Radian Aerospace begins tests of spaceplane prototype
 - <a href="https://spacenews.com/faa-administrator-defends-spacex-licensing-actions-on-safety-grounds/" >🔗</a> **[SpaceNews]** FAA administrator defends SpaceX licensing actions on safety grounds
 - <a href="https://spacenews.com/china-to-launch-near-earth-asteroid-sample-return-mission-in-2025/" >🔗</a> **[SpaceNews]** China to launch near-Earth asteroid sample return mission in 2025
 - <a href="https://europeanspaceflight.com/italian-court-greenlights-construction-of-first-esa-flyeye-observatory/" >🔗</a> **[European Spaceflight]** Italian Court Greenlights Construction of First ESA FlyEye Observatory
-- <a href="https://www.nasaspaceflight.com/2024/09/new-glenn-hot-fire-09-23-24/" >🔗</a> **[NASASpaceflight]** New Glenn second stage completes hot fire test
-- <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
-- <a href="https://spacenews.com/free-starlink-wi-fi-now-on-most-hawaiian-airlines-transpacific-fleet/" >🔗</a> **[SpaceNews]** Free Starlink Wi-Fi now on most Hawaiian Airlines transpacific fleet
-- <a href="https://www.nasa.gov/image-article/astronaut-jose-hernandez-boards-discovery/" >🔗</a> **[NASA]** Astronaut José Hernández Boards Discovery
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T140120">2024-09-25 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T143420">2024-09-25 14:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
