@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-innovation-is-falling-behind/" >🔗</a> **[SpaceNews]** Space innovation is falling behind
 - <a href="https://www.nasa.gov/organizations/ocio/dt/september-2024-transformer-of-the-month-lori-arnett/" >🔗</a> **[NASA]** September 2024 Transformer of the Month: Lori Arnett
 - <a href="https://spacenews.com/radian-aerospace-begins-tests-of-spaceplane-prototype/" >🔗</a> **[SpaceNews]** Radian Aerospace begins tests of spaceplane prototype
 - <a href="https://spacenews.com/faa-administrator-defends-spacex-licensing-actions-on-safety-grounds/" >🔗</a> **[SpaceNews]** FAA administrator defends SpaceX licensing actions on safety grounds
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
 - <a href="https://spacenews.com/free-starlink-wi-fi-now-on-most-hawaiian-airlines-transpacific-fleet/" >🔗</a> **[SpaceNews]** Free Starlink Wi-Fi now on most Hawaiian Airlines transpacific fleet
 - <a href="https://www.nasa.gov/image-article/astronaut-jose-hernandez-boards-discovery/" >🔗</a> **[NASA]** Astronaut José Hernández Boards Discovery
-- <a href="https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/" >🔗</a> **[NASA]** NASA Relaunches Art Program with Space-Themed Murals
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T130623">2024-09-25 13:06:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T133449">2024-09-25 13:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
