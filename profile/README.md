@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-2/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch
+- <a href="https://spacenews.com/space-force-eyes-commercial-antennas-to-boost-satellite-control-capacity/" >🔗</a> **[SpaceNews]** Space Force eyes commercial antennas to boost satellite control capacity
 - <a href="https://www.nasa.gov/image-article/nasas-art-program-is-back/" >🔗</a> **[NASA]** NASA’s Art Program is Back
 - <a href="https://www.teslarati.com/spacex-calls-out-faa-deeply-concerning-statements-in-front-of-congress/" >🔗</a> **[Teslarati]** SpaceX calls out FAA’s ‘deeply concerning’ statements in front of Congress
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-hector-chavez-leading-johnsons-giant-leap-into-low-earth-orbit/" >🔗</a> **[NASA]** Meet Hector Chavez: Leading Johnson’s Giant Leap into Low Earth Orbit
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/" >🔗</a> **[NASA]** NASA’s Record-Breaking Laser Demo Completes Mission
 - <a href="https://www.nasa.gov/missions/analog-field-testing/hera-human-exploration-research-analog/crew-returns-from-simulated-trip-to-mars-take-a-peek-inside-their-journey/" >🔗</a> **[NASA]** Crew Returns from Simulated Trip to Mars—Take a Peek Inside their Journey
-- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/launching-into-action-white-sands-firefighters-on-the-frontlines-of-new-mexicos-wildfire-crisis/" >🔗</a> **[NASA]** Launching Into Action: White Sands Firefighters on the Frontlines of New Mexico’s Wildfire Crisis
-- <a href="https://www.nasa.gov/earth/climate-change/nasa-analysis-shows-irreversible-sea-level-rise-for-pacific-islands/" >🔗</a> **[NASA]** NASA Analysis Shows Irreversible Sea Level Rise for Pacific Islands
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T190108">2024-09-25 19:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T193058">2024-09-25 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
