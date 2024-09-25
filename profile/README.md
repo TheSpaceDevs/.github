@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasaspaceflight.com/2024/09/new-glenn-hot-fire-09-23-24/" >🔗</a> **[NASASpaceflight]** New Glenn second stage completes hot fire test
-- <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
+- <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
 - <a href="https://spacenews.com/free-starlink-wi-fi-now-on-most-hawaiian-airlines-transpacific-fleet/" >🔗</a> **[SpaceNews]** Free Starlink Wi-Fi now on most Hawaiian Airlines transpacific fleet
 - <a href="https://www.nasa.gov/image-article/astronaut-jose-hernandez-boards-discovery/" >🔗</a> **[NASA]** Astronaut José Hernández Boards Discovery
 - <a href="https://www.nasa.gov/general/nasa-relaunches-art-program-with-space-themed-murals/" >🔗</a> **[NASA]** NASA Relaunches Art Program with Space-Themed Murals
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T030705">2024-09-25 03:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T033601">2024-09-25 03:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
