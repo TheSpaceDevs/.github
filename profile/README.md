@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-25-million-contract-for-satellite-data-integration/" >🔗</a> **[SpaceNews]** Space Force awards $25 million contract for satellite data integration
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-sounding-rocket-launch-2/" >🔗</a> **[NASA]** NASA Wallops to Support Sounding Rocket Launch
 - <a href="https://spacenews.com/space-force-eyes-commercial-antennas-to-boost-satellite-control-capacity/" >🔗</a> **[SpaceNews]** Space Force eyes commercial antennas to boost satellite control capacity
 - <a href="https://www.nasa.gov/image-article/nasas-art-program-is-back/" >🔗</a> **[NASA]** NASA’s Art Program is Back
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/all-the-stars-align-for-a-record-breaking-breaking-75th-international-astronautical-congress/" >🔗</a> **[SpaceNews]** All The Stars Align for a Record-Breaking Breaking 75th IAC
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_potential_missing_link_to_first_stars" >🔗</a> **[ESA]** Webb finds potential missing link to first stars
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasas-record-breaking-laser-demo-completes-mission/" >🔗</a> **[NASA]** NASA’s Record-Breaking Laser Demo Completes Mission
-- <a href="https://www.nasa.gov/missions/analog-field-testing/hera-human-exploration-research-analog/crew-returns-from-simulated-trip-to-mars-take-a-peek-inside-their-journey/" >🔗</a> **[NASA]** Crew Returns from Simulated Trip to Mars—Take a Peek Inside their Journey
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T193058">2024-09-25 19:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T200130">2024-09-25 20:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
