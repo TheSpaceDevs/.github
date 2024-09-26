@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/" >🔗</a> **[NASA]** NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_black_hole_beam_boosting_stellar_eruptions" >🔗</a> **[ESA]** Hubble sees black hole beam boosting stellar eruptions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Sentinel-2C_captures_stunning_glimpse_of_the_Moon" >🔗</a> **[ESA]** Sentinel-2C captures stunning glimpse of the Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Turbulence_in_the_Sun_s_corona" >🔗</a> **[ESA]** Turbulence in the Sun’s corona
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/" >🔗</a> **[NASA]** NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/let-it-go-after-latching/" >🔗</a> **[NASA]** Let It Go: (After Latching) Challenge
 - <a href="https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/" >🔗</a> **[NASA]** NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
-- <a href="https://spacepolicyonline.com/news/congress-clears-cr-heads-home-with-to-do-list-largely-untouched/" >🔗</a> **[SpacePolicyOnline.com]** Congress Clears CR, Heads Home with To-Do List Largely Untouched
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T170120">2024-09-26 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T173403">2024-09-26 17:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
