@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-kicks-off-1-billion-cloud-based-satellite-operations-program/" >🔗</a> **[SpaceNews]** Space Force kicks off $1 billion cloud-based satellite operations program
 - <a href="https://spacenews.com/space-force-hails-progress-in-missile-warning-satellite-program/" >🔗</a> **[SpaceNews]** Space Force hails progress in missile-warning satellite program
 - <a href="https://spacenews.com/air-france-plans-to-connect-entire-fleet-to-starlink-wi-fi/" >🔗</a> **[SpaceNews]** Air France plans to connect entire fleet to Starlink Wi-Fi
 - <a href="https://www.teslarati.com/air-france-makes-huge-starlink-commitment/" >🔗</a> **[Teslarati]** Air France makes huge Starlink commitment
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Turbulence_in_the_Sun_s_corona" >🔗</a> **[ESA]** Turbulence in the Sun’s corona
 - <a href="https://science.nasa.gov/open-science/space-biology-reyes-wang/" >🔗</a> **[NASA]** Pioneer of Change: America Reyes Wang Makes NASA Space Biology More Open
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-completes-key-test-complex-water-system-upgrade/" >🔗</a> **[NASA]** NASA Stennis Completes Key Test Complex Water System Upgrade
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Look_inside_ESA_s_Hera_asteroid_mission" >🔗</a> **[ESA]** Look inside ESA’s Hera asteroid mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T200121">2024-09-26 20:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T203210">2024-09-26 20:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
