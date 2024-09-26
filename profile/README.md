@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Juice_spacecraft_forming_wake_in_solar_wind" >🔗</a> **[ESA]** Juice spacecraft forming wake in solar wind
 - <a href="https://europeanspaceflight.com/gmv-awarded-e107m-contract-to-develop-eu-govsatcom-hub/" >🔗</a> **[European Spaceflight]** GMV Awarded €107M Contract to Develop EU GOVSATCOM Hub
 - <a href="https://spacenews.com/leidos-replaces-lockheed-martin-on-artemis-rover-team/" >🔗</a> **[SpaceNews]** Leidos replaces Lockheed Martin on Artemis rover team
 - <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/2024-sarp-west-atmospheric-aerosols-group/" >🔗</a> **[NASA]** 2024 SARP West Atmospheric Aerosols Group
 - <a href="https://www.nasa.gov/general/2024-sarp-west-closeout/" >🔗</a> **[NASA]** 2024 SARP West Closeout
 - <a href="https://spacenews.com/iridium-approved-to-work-on-leo-compatibility-for-upcoming-smartphones/" >🔗</a> **[SpaceNews]** Iridium approved to work on LEO compatibility for upcoming smartphones
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/" >🔗</a> **[NASA]** Getting SSPICY: NASA Funds Orbital Debris Inspection Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T090116">2024-09-26 09:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T093305">2024-09-26 09:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
