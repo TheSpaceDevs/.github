@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/09/iss-roundup-092624/" >🔗</a> **[NASASpaceflight]** ISS finishes out eventful third quarter of 2024 with Expedition 71 giving way to Expedition 72
+- <a href="https://spacenews.com/fcc-releases-more-radio-waves-for-ngso-broadband/" >🔗</a> **[SpaceNews]** FCC releases more radio waves for NGSO broadband
 - <a href="https://spacenews.com/space-force-kicks-off-1-billion-cloud-based-satellite-operations-program/" >🔗</a> **[SpaceNews]** Space Force kicks off $1 billion cloud-based satellite operations program
 - <a href="https://spacenews.com/space-force-hails-progress-in-missile-warning-satellite-program/" >🔗</a> **[SpaceNews]** Space Force hails progress in missile-warning satellite program
 - <a href="https://spacenews.com/air-france-plans-to-connect-entire-fleet-to-starlink-wi-fi/" >🔗</a> **[SpaceNews]** Air France plans to connect entire fleet to Starlink Wi-Fi
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_black_hole_beam_boosting_stellar_eruptions" >🔗</a> **[ESA]** Hubble sees black hole beam boosting stellar eruptions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Sentinel-2C_captures_stunning_glimpse_of_the_Moon" >🔗</a> **[ESA]** Sentinel-2C captures stunning glimpse of the Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Turbulence_in_the_Sun_s_corona" >🔗</a> **[ESA]** Turbulence in the Sun’s corona
-- <a href="https://science.nasa.gov/open-science/space-biology-reyes-wang/" >🔗</a> **[NASA]** Pioneer of Change: America Reyes Wang Makes NASA Space Biology More Open
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-completes-key-test-complex-water-system-upgrade/" >🔗</a> **[NASA]** NASA Stennis Completes Key Test Complex Water System Upgrade
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T210107">2024-09-26 21:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T213121">2024-09-26 21:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
