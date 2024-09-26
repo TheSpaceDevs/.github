@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_black_hole_beam_boosting_stellar_eruptions" >🔗</a> **[ESA]** Hubble sees black hole beam boosting stellar eruptions
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Turbulence_in_the_Sun_s_corona" >🔗</a> **[ESA]** Turbulence in the Sun’s corona
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Look_inside_ESA_s_Hera_asteroid_mission" >🔗</a> **[ESA]** Look inside ESA’s Hera asteroid mission
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/" >🔗</a> **[NASA]** NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/let-it-go-after-latching/" >🔗</a> **[NASA]** Let It Go: (After Latching) Challenge
+- <a href="https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/" >🔗</a> **[NASA]** NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 - <a href="https://spacepolicyonline.com/news/congress-clears-cr-heads-home-with-to-do-list-largely-untouched/" >🔗</a> **[SpacePolicyOnline.com]** Congress Clears CR, Heads Home with To-Do List Largely Untouched
 - <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/" >🔗</a> **[NASA]** NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch
 - <a href="https://spacenews.com/hydrosat-extends-reach-in-latin-america/" >🔗</a> **[SpaceNews]** Hydrosat extends reach in Latin America
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Juice_spacecraft_forming_wake_in_solar_wind" >🔗</a> **[ESA]** Juice spacecraft forming wake in solar wind
-- <a href="https://spacenews.com/katie-wall-true-anomaly-leading-women-in-space/" >🔗</a> **[SpaceNews]** Katie Wall, True Anomaly – Leading Women in Space
-- <a href="https://spacenews.com/blue-origin-tests-new-glenn-upper-stage/" >🔗</a> **[SpaceNews]** Blue Origin tests New Glenn upper stage
-- <a href="https://spacenews.com/japan-launches-igs-radar-8-reconnaissance-satellite-with-penultimate-h-2a-rocket/" >🔗</a> **[SpaceNews]** Japan launches IGS Radar 8 reconnaissance satellite with penultimate H-2A rocket
-- <a href="https://europeanspaceflight.com/gmv-awarded-e107m-contract-to-develop-eu-govsatcom-hub/" >🔗</a> **[European Spaceflight]** GMV Awarded €107M Contract to Develop EU GOVSATCOM Hub
-- <a href="https://spacenews.com/leidos-replaces-lockheed-martin-on-artemis-rover-team/" >🔗</a> **[SpaceNews]** Leidos replaces Lockheed Martin on Artemis rover team
-- <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T140122">2024-09-26 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T143432">2024-09-26 14:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
