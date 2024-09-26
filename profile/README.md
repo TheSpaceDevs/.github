@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/congress-clears-cr-heads-home-with-to-do-list-largely-untouched/" >🔗</a> **[SpacePolicyOnline.com]** Congress Clears CR, Heads Home with To-Do List Largely Untouched
+- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/" >🔗</a> **[NASA]** NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch
 - <a href="https://spacenews.com/hydrosat-extends-reach-in-latin-america/" >🔗</a> **[SpaceNews]** Hydrosat extends reach in Latin America
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Juice_spacecraft_forming_wake_in_solar_wind" >🔗</a> **[ESA]** Juice spacecraft forming wake in solar wind
 - <a href="https://spacenews.com/katie-wall-true-anomaly-leading-women-in-space/" >🔗</a> **[SpaceNews]** Katie Wall, True Anomaly – Leading Women in Space
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/gmv-awarded-e107m-contract-to-develop-eu-govsatcom-hub/" >🔗</a> **[European Spaceflight]** GMV Awarded €107M Contract to Develop EU GOVSATCOM Hub
 - <a href="https://spacenews.com/leidos-replaces-lockheed-martin-on-artemis-rover-team/" >🔗</a> **[SpaceNews]** Leidos replaces Lockheed Martin on Artemis rover team
 - <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
-- <a href="https://www.nasa.gov/general/sarp-west-2024-oceans-group/" >🔗</a> **[NASA]** SARP West 2024 Oceans Group
-- <a href="https://www.nasa.gov/general/sarp-west-2024-whole-air-sampling-was-group/" >🔗</a> **[NASA]** SARP West 2024 Whole Air Sampling (WAS) Group
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T130622">2024-09-26 13:06:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T133441">2024-09-26 13:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
