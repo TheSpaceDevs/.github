@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hydrosat-extends-reach-in-latin-america/" >🔗</a> **[SpaceNews]** Hydrosat extends reach in Latin America
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Juice_spacecraft_forming_wake_in_solar_wind" >🔗</a> **[ESA]** Juice spacecraft forming wake in solar wind
 - <a href="https://spacenews.com/katie-wall-true-anomaly-leading-women-in-space/" >🔗</a> **[SpaceNews]** Katie Wall, True Anomaly – Leading Women in Space
 - <a href="https://spacenews.com/blue-origin-tests-new-glenn-upper-stage/" >🔗</a> **[SpaceNews]** Blue Origin tests New Glenn upper stage
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
 - <a href="https://www.nasa.gov/general/sarp-west-2024-oceans-group/" >🔗</a> **[NASA]** SARP West 2024 Oceans Group
 - <a href="https://www.nasa.gov/general/sarp-west-2024-whole-air-sampling-was-group/" >🔗</a> **[NASA]** SARP West 2024 Whole Air Sampling (WAS) Group
-- <a href="https://www.nasa.gov/general/sarp-west-2024-terrestrial-ecology-group/" >🔗</a> **[NASA]** SARP West 2024 Terrestrial Ecology Group
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T120201">2024-09-26 12:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T124238">2024-09-26 12:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
