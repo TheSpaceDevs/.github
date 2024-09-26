@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Juice_spacecraft_forming_wake_in_solar_wind" >🔗</a> **[ESA]** Juice spacecraft forming wake in solar wind
+- <a href="https://spacenews.com/katie-wall-true-anomaly-leading-women-in-space/" >🔗</a> **[SpaceNews]** Katie Wall, True Anomaly – Leading Women in Space
+- <a href="https://spacenews.com/blue-origin-tests-new-glenn-upper-stage/" >🔗</a> **[SpaceNews]** Blue Origin tests New Glenn upper stage
+- <a href="https://spacenews.com/japan-launches-igs-radar-8-reconnaissance-satellite-with-penultimate-h-2a-rocket/" >🔗</a> **[SpaceNews]** Japan launches IGS Radar 8 reconnaissance satellite with penultimate H-2A rocket
 - <a href="https://europeanspaceflight.com/gmv-awarded-e107m-contract-to-develop-eu-govsatcom-hub/" >🔗</a> **[European Spaceflight]** GMV Awarded €107M Contract to Develop EU GOVSATCOM Hub
 - <a href="https://spacenews.com/leidos-replaces-lockheed-martin-on-artemis-rover-team/" >🔗</a> **[SpaceNews]** Leidos replaces Lockheed Martin on Artemis rover team
 - <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
 - <a href="https://www.nasa.gov/general/sarp-west-2024-oceans-group/" >🔗</a> **[NASA]** SARP West 2024 Oceans Group
 - <a href="https://www.nasa.gov/general/sarp-west-2024-whole-air-sampling-was-group/" >🔗</a> **[NASA]** SARP West 2024 Whole Air Sampling (WAS) Group
 - <a href="https://www.nasa.gov/general/sarp-west-2024-terrestrial-ecology-group/" >🔗</a> **[NASA]** SARP West 2024 Terrestrial Ecology Group
-- <a href="https://www.nasa.gov/general/2024-sarp-west-atmospheric-aerosols-group/" >🔗</a> **[NASA]** 2024 SARP West Atmospheric Aerosols Group
-- <a href="https://www.nasa.gov/general/2024-sarp-west-closeout/" >🔗</a> **[NASA]** 2024 SARP West Closeout
-- <a href="https://spacenews.com/iridium-approved-to-work-on-leo-compatibility-for-upcoming-smartphones/" >🔗</a> **[SpaceNews]** Iridium approved to work on LEO compatibility for upcoming smartphones
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T100124">2024-09-26 10:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T103450">2024-09-26 10:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
