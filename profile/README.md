@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_black_hole_beam_boosting_stellar_eruptions" >🔗</a> **[ESA]** Hubble sees black hole beam boosting stellar eruptions
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Sentinel-2C_captures_stunning_glimpse_of_the_Moon" >🔗</a> **[ESA]** Sentinel-2C captures stunning glimpse of the Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Turbulence_in_the_Sun_s_corona" >🔗</a> **[ESA]** Turbulence in the Sun’s corona
+- <a href="https://science.nasa.gov/open-science/space-biology-reyes-wang/" >🔗</a> **[NASA]** Pioneer of Change: America Reyes Wang Makes NASA Space Biology More Open
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-completes-key-test-complex-water-system-upgrade/" >🔗</a> **[NASA]** NASA Stennis Completes Key Test Complex Water System Upgrade
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Look_inside_ESA_s_Hera_asteroid_mission" >🔗</a> **[ESA]** Look inside ESA’s Hera asteroid mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-that-a-black-hole-beam-promotes-stellar-eruptions/" >🔗</a> **[NASA]** NASA’s Hubble Finds that a Black Hole Beam Promotes Stellar Eruptions
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/let-it-go-after-latching/" >🔗</a> **[NASA]** Let It Go: (After Latching) Challenge
 - <a href="https://science.nasa.gov/solar-system/nasas-artemis-science-instrument-gets-tested-in-moon-like-sandbox/" >🔗</a> **[NASA]** NASA’s Artemis Science Instrument Gets Tested in Moon-Like Sandbox
 - <a href="https://spacepolicyonline.com/news/congress-clears-cr-heads-home-with-to-do-list-largely-untouched/" >🔗</a> **[SpacePolicyOnline.com]** Congress Clears CR, Heads Home with To-Do List Largely Untouched
-- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/" >🔗</a> **[NASA]** NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch
-- <a href="https://spacenews.com/hydrosat-extends-reach-in-latin-america/" >🔗</a> **[SpaceNews]** Hydrosat extends reach in Latin America
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Juice_spacecraft_forming_wake_in_solar_wind" >🔗</a> **[ESA]** Juice spacecraft forming wake in solar wind
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T150123">2024-09-26 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T160119">2024-09-26 16:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
