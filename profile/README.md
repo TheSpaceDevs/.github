@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leidos-replaces-lockheed-martin-on-artemis-rover-team/" >🔗</a> **[SpaceNews]** Leidos replaces Lockheed Martin on Artemis rover team
 - <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
 - <a href="https://www.nasa.gov/general/sarp-west-2024-oceans-group/" >🔗</a> **[NASA]** SARP West 2024 Oceans Group
 - <a href="https://www.nasa.gov/general/sarp-west-2024-whole-air-sampling-was-group/" >🔗</a> **[NASA]** SARP West 2024 Whole Air Sampling (WAS) Group
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/iridium-approved-to-work-on-leo-compatibility-for-upcoming-smartphones/" >🔗</a> **[SpaceNews]** Iridium approved to work on LEO compatibility for upcoming smartphones
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/getting-sspicy-nasa-funds-orbital-debris-inspection-mission/" >🔗</a> **[NASA]** Getting SSPICY: NASA Funds Orbital Debris Inspection Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-september-25-2024/" >🔗</a> **[NASA]** The Marshall Star for September 25, 2024
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-9-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-9 Launch, Docking
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240925T233102">2024-09-25 23:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240926T000352">2024-09-26 00:03:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
