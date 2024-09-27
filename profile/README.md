@@ -46,7 +46,6 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T102200">2024-09-27 10:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240927T102200Z%2F20240927T110200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T171720">2024-09-28 17:17:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Cape Canaveral SFS, FL, USA&dates=20240928T171720Z%2F20240928T171720Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T064900">2024-09-30 06:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20240930T064900Z%2F20240930T072800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
@@ -91,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-funds-starfish-space-debris-inspection-mission/" >🔗</a> **[SpaceNews]** NASA funds Starfish Space debris inspection mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Northern_Territory_Australia" >🔗</a> **[ESA]** Earth from Space: Northern Territory, Australia
 - <a href="https://spacenews.com/d-orbit-raises-150-million-euros-in-two-part-series-c-round/" >🔗</a> **[SpaceNews]** D-Orbit raises 150 million euros in two-part Series C round
 - <a href="https://europeanspaceflight.com/maiaspace-tapped-to-take-over-soyuz-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** MaiaSpace Tapped to Take Over Soyuz Site in French Guiana
@@ -100,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-kicks-off-1-billion-cloud-based-satellite-operations-program/" >🔗</a> **[SpaceNews]** Space Force kicks off $1 billion cloud-based satellite operations program
 - <a href="https://spacenews.com/space-force-hails-progress-in-missile-warning-satellite-program/" >🔗</a> **[SpaceNews]** Space Force hails progress in missile-warning satellite program
 - <a href="https://spacenews.com/air-france-plans-to-connect-entire-fleet-to-starlink-wi-fi/" >🔗</a> **[SpaceNews]** Air France plans to connect entire fleet to Starlink Wi-Fi
-- <a href="https://www.teslarati.com/air-france-makes-huge-starlink-commitment/" >🔗</a> **[Teslarati]** Air France makes huge Starlink commitment
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T100133">2024-09-27 10:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T103456">2024-09-27 10:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
