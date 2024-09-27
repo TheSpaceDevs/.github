@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T102200">2024-09-27 10:22:00 UTC</a>.  Until
-then, this pad will have been used for 114
-out of 230 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Crew-9**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T171720">2024-09-28 17:17:20 UTC</a>.  Until
+then, this pad will have been used for 262
+out of 975 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Human Exploration* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  SpaceX Crew-9 is the ninth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maiaspace-to-use-former-soyuz-launch-pad-in-french-guiana/" >🔗</a> **[SpaceNews]** MaiaSpace to use former Soyuz launch pad in French Guiana
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-steller-nurseries-in-a-majestic-spiral/" >🔗</a> **[NASA]** Hubble Captures Steller Nurseries in a Majestic Spiral
 - <a href="https://spacenews.com/nasa-funds-starfish-space-debris-inspection-mission/" >🔗</a> **[SpaceNews]** NASA funds Starfish Space debris inspection mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Northern_Territory_Australia" >🔗</a> **[ESA]** Earth from Space: Northern Territory, Australia
 - <a href="https://spacenews.com/d-orbit-raises-150-million-euros-in-two-part-series-c-round/" >🔗</a> **[SpaceNews]** D-Orbit raises 150 million euros in two-part Series C round
@@ -98,18 +100,25 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2024/09/iss-roundup-092624/" >🔗</a> **[NASASpaceflight]** ISS finishes out eventful third quarter of 2024 with Expedition 71 giving way to Expedition 72
 - <a href="https://spacenews.com/fcc-releases-more-radio-waves-for-ngso-broadband/" >🔗</a> **[SpaceNews]** FCC releases more radio waves for NGSO broadband
 - <a href="https://spacenews.com/space-force-kicks-off-1-billion-cloud-based-satellite-operations-program/" >🔗</a> **[SpaceNews]** Space Force kicks off $1 billion cloud-based satellite operations program
-- <a href="https://spacenews.com/space-force-hails-progress-in-missile-warning-satellite-program/" >🔗</a> **[SpaceNews]** Space Force hails progress in missile-warning satellite program
-- <a href="https://spacenews.com/air-france-plans-to-connect-entire-fleet-to-starlink-wi-fi/" >🔗</a> **[SpaceNews]** Air France plans to connect entire fleet to Starlink Wi-Fi
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-join-as-virtual-guests-for-spacex-crew-9-launch/" >🔗</a> **[NASA]** NASA Invites Public to Join as Virtual Guests for SpaceX Crew-9 Launch
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-9-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-9 Launch, Docking
+- <a href="https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission
+- <a href="https://www.spacescout.info/2024/09/crew-9-set-to-launch-with-two-astronauts/" >🔗</a> **[Space Scout]** Crew-9 Set to Launch with Two Astronauts
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-092324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: NASA Crew-9 to fly half-empty, Starlink and Chinese launches continue
+- <a href="https://spaceflightnow.com/2024/09/23/two-member-spacex-crew-9-prepares-for-late-week-dragon-launch/" >🔗</a> **[Spaceflight Now]** Two-member SpaceX Crew-9 prepares for late week Dragon launch
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-9-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-9 Mission
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/giant-leaps-start-at-johnson-for-nasas-spacex-crew-9-commander-nick-hague/" >🔗</a> **[NASA]** Giant Leaps Start at Johnson for NASA’s SpaceX Crew-9 Commander Nick Hague
+- <a href="https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Conduct Space Station Research
+- <a href="https://spacepolicyonline.com/news/hague-gorbunov-get-to-stay-on-crew-9/" >🔗</a> **[SpacePolicyOnline.com]** Hague, Gorbunov Get To Stay on Crew-9
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T110112">2024-09-27 11:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T113105">2024-09-27 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
