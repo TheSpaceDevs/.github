@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_September_2024" >🔗</a> **[ESA]** Week in images: 23-27 September 2024
+- <a href="https://www.nasa.gov/image-article/chief-engineer-dr-donald-mendoza/" >🔗</a> **[NASA]** Chief Engineer Dr. Donald Mendoza
+- <a href="https://science.nasa.gov/missions/roman-space-telescope/launch-your-creativity-with-these-space-crafts/" >🔗</a> **[NASA]** Launch Your Creativity with These Space Crafts!
+- <a href="https://science.nasa.gov/blog/sols-4316-4317-hunting-for-sulfur/" >🔗</a> **[NASA]** Sols 4316-4317: Hunting for Sulfur
+- <a href="https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/" >🔗</a> **[Arstechnica]** NASA confirms space station cracking a “highest” risk and consequence problem
 - <a href="https://europeanspaceflight.com/d-orbit-extends-series-c-funding-round-raising-e150m/" >🔗</a> **[European Spaceflight]** D-Orbit Extends Series C Funding Round, Raising €150M
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/View_from_Hera_s_Asteroid_Deck" >🔗</a> **[ESA]** View from Hera’s Asteroid Deck
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/The_journey_of_Juice_episode_1" >🔗</a> **[ESA]** The journey of Juice – episode 1
 - <a href="https://spacenews.com/university-researchers-flag-cislunar-space-debris-concerns/" >🔗</a> **[SpaceNews]** University researchers flag cislunar space debris concerns
 - <a href="https://spacenews.com/maiaspace-to-use-former-soyuz-launch-pad-in-french-guiana/" >🔗</a> **[SpaceNews]** MaiaSpace to use former Soyuz launch pad in French Guiana
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-steller-nurseries-in-a-majestic-spiral/" >🔗</a> **[NASA]** Hubble Captures Steller Nurseries in a Majestic Spiral
-- <a href="https://spacenews.com/nasa-funds-starfish-space-debris-inspection-mission/" >🔗</a> **[SpaceNews]** NASA funds Starfish Space debris inspection mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Northern_Territory_Australia" >🔗</a> **[ESA]** Earth from Space: Northern Territory, Australia
-- <a href="https://spacenews.com/d-orbit-raises-150-million-euros-in-two-part-series-c-round/" >🔗</a> **[SpaceNews]** D-Orbit raises 150 million euros in two-part Series C round
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T150112">2024-09-27 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T153243">2024-09-27 15:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
