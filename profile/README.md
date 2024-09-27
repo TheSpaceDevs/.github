@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/View_from_Hera_s_Asteroid_Deck" >🔗</a> **[ESA]** View from Hera’s Asteroid Deck
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/The_journey_of_Juice_episode_1" >🔗</a> **[ESA]** The journey of Juice – episode 1
 - <a href="https://spacenews.com/maiaspace-to-use-former-soyuz-launch-pad-in-french-guiana/" >🔗</a> **[SpaceNews]** MaiaSpace to use former Soyuz launch pad in French Guiana
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-steller-nurseries-in-a-majestic-spiral/" >🔗</a> **[NASA]** Hubble Captures Steller Nurseries in a Majestic Spiral
 - <a href="https://spacenews.com/nasa-funds-starfish-space-debris-inspection-mission/" >🔗</a> **[SpaceNews]** NASA funds Starfish Space debris inspection mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/maiaspace-tapped-to-take-over-soyuz-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** MaiaSpace Tapped to Take Over Soyuz Site in French Guiana
 - <a href="https://www.nasa.gov/image-article/nasa-hosts-two-workshops-for-consultation-on-leo-microgravity-strategy/" >🔗</a> **[NASA]** NASA Hosts Two Workshops for Consultation on LEO Microgravity Strategy
 - <a href="https://www.nasaspaceflight.com/2024/09/iss-roundup-092624/" >🔗</a> **[NASASpaceflight]** ISS finishes out eventful third quarter of 2024 with Expedition 71 giving way to Expedition 72
-- <a href="https://spacenews.com/fcc-releases-more-radio-waves-for-ngso-broadband/" >🔗</a> **[SpaceNews]** FCC releases more radio waves for NGSO broadband
-- <a href="https://spacenews.com/space-force-kicks-off-1-billion-cloud-based-satellite-operations-program/" >🔗</a> **[SpaceNews]** Space Force kicks off $1 billion cloud-based satellite operations program
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T113105">2024-09-27 11:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T120139">2024-09-27 12:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
