@@ -47,7 +47,6 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T171720">2024-09-28 17:17:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-9&location=Cape Canaveral SFS, FL, USA&dates=20240928T171720Z%2F20240928T171720Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-9** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T000000">2024-09-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20240930T000000Z%2F20240930T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T064900">2024-09-30 06:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20240930T064900Z%2F20240930T072800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T085000">2024-10-02 08:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-10&location=Cape Canaveral SFS, FL, USA&dates=20241002T085000Z%2F20241002T125000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T100000">2024-10-04 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC2S | Certification Flight 2&location=Cape Canaveral SFS, FL, USA&dates=20241004T100000Z%2F20241004T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC2S | Certification Flight 2** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/the-stanley-cup-comes-to-kennedy/" >🔗</a> **[NASA]** The Stanley Cup Comes to Kennedy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_September_2024" >🔗</a> **[ESA]** Week in images: 23-27 September 2024
 - <a href="https://www.nasa.gov/image-article/chief-engineer-dr-donald-mendoza/" >🔗</a> **[NASA]** Chief Engineer Dr. Donald Mendoza
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/launch-your-creativity-with-these-space-crafts/" >🔗</a> **[NASA]** Launch Your Creativity with These Space Crafts!
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/View_from_Hera_s_Asteroid_Deck" >🔗</a> **[ESA]** View from Hera’s Asteroid Deck
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/The_journey_of_Juice_episode_1" >🔗</a> **[ESA]** The journey of Juice – episode 1
 - <a href="https://spacenews.com/university-researchers-flag-cislunar-space-debris-concerns/" >🔗</a> **[SpaceNews]** University researchers flag cislunar space debris concerns
-- <a href="https://spacenews.com/maiaspace-to-use-former-soyuz-launch-pad-in-french-guiana/" >🔗</a> **[SpaceNews]** MaiaSpace to use former Soyuz launch pad in French Guiana
 
 
 ### Launch-related News 🚀
@@ -118,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T170118">2024-09-27 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T173243">2024-09-27 17:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
