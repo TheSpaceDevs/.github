@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/09/27/two-man-crew-bound-for-space-station-will-give-starliner-astronauts-a-ride-home-in-february/" >🔗</a> **[Spaceflight Now]** Two-man crew bound for space station will give Starliner astronauts a ride home in February
 - <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/" >🔗</a> **[NASA]** The Science of the Perfect Cup for Coffee
 - <a href="https://www.nasaspaceflight.com/2024/09/firefly-mlv-testing/" >🔗</a> **[NASASpaceflight]** Firefly offers insight on MLV testing, reusability plans
 - <a href="https://www.nasa.gov/image-article/the-stanley-cup-comes-to-kennedy/" >🔗</a> **[NASA]** The Stanley Cup Comes to Kennedy
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4316-4317-hunting-for-sulfur/" >🔗</a> **[NASA]** Sols 4316-4317: Hunting for Sulfur
 - <a href="https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/" >🔗</a> **[Arstechnica]** NASA confirms space station cracking a “highest” risk and consequence problem
 - <a href="https://europeanspaceflight.com/d-orbit-extends-series-c-funding-round-raising-e150m/" >🔗</a> **[European Spaceflight]** D-Orbit Extends Series C Funding Round, Raising €150M
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/View_from_Hera_s_Asteroid_Deck" >🔗</a> **[ESA]** View from Hera’s Asteroid Deck
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T230109">2024-09-27 23:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T233108">2024-09-27 23:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
