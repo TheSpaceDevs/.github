@@ -55,7 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T065200">2024-10-05 06:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-61&location=Cape Canaveral SFS, FL, USA&dates=20241005T065200Z%2F20241005T112300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-61** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T145200">2024-10-07 14:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hera&location=Cape Canaveral SFS, FL, USA&dates=20241007T145200Z%2F20241007T145200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hera** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T163100">2024-10-10 16:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Europa Clipper&location=Kennedy Space Center, FL, USA&dates=20241010T163100Z%2F20241010T163100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Europa Clipper** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T064200">2024-10-20 06:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241020T064200Z%2F20241020T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T064400">2024-10-26 06:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241026T064400Z%2F20241026T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Earth_from_Space_Northern_Territory_Australia" >🔗</a> **[ESA]** Earth from Space: Northern Territory, Australia
+- <a href="https://spacenews.com/d-orbit-raises-150-million-euros-in-two-part-series-c-round/" >🔗</a> **[SpaceNews]** D-Orbit raises 150 million euros in two-part Series C round
 - <a href="https://europeanspaceflight.com/maiaspace-tapped-to-take-over-soyuz-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** MaiaSpace Tapped to Take Over Soyuz Site in French Guiana
 - <a href="https://www.nasa.gov/image-article/nasa-hosts-two-workshops-for-consultation-on-leo-microgravity-strategy/" >🔗</a> **[NASA]** NASA Hosts Two Workshops for Consultation on LEO Microgravity Strategy
 - <a href="https://www.nasaspaceflight.com/2024/09/iss-roundup-092624/" >🔗</a> **[NASASpaceflight]** ISS finishes out eventful third quarter of 2024 with Expedition 71 giving way to Expedition 72
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-hails-progress-in-missile-warning-satellite-program/" >🔗</a> **[SpaceNews]** Space Force hails progress in missile-warning satellite program
 - <a href="https://spacenews.com/air-france-plans-to-connect-entire-fleet-to-starlink-wi-fi/" >🔗</a> **[SpaceNews]** Air France plans to connect entire fleet to Starlink Wi-Fi
 - <a href="https://www.teslarati.com/air-france-makes-huge-starlink-commitment/" >🔗</a> **[Teslarati]** Air France makes huge Starlink commitment
-- <a href="https://www.nasa.gov/general/nasas-biosentinel-studies-solar-radiation-as-earth-watches-aurora/" >🔗</a> **[NASA]** NASA’s BioSentinel Studies Solar Radiation as Earth Watches Aurora
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_black_hole_beam_boosting_stellar_eruptions" >🔗</a> **[ESA]** Hubble sees black hole beam boosting stellar eruptions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T080141">2024-09-27 08:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240927T083458">2024-09-27 08:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
