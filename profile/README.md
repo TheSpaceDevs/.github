@@ -88,8 +88,9 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-sends-new-crew-to-iss-on-first-crewed-launch-from-slc-40/" >🔗</a> **[SpaceNews]** Falcon 9 sends new crew to ISS on first crewed launch from SLC-40
 - <a href="https://spacepolicyonline.com/news/nasa-ig-worries-about-lack-of-redundancy-for-iss-operations-longer-term-issues/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Worries About Lack of Redundancy for ISS Operations, Longer Term Issues
-- <a href="https://www.nasaspaceflight.com/2024/09/crew-9-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA to launch Crew-9 with two people
+- <a href="https://www.nasaspaceflight.com/2024/09/crew-9-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA launches Crew-9 with two people
 - <a href="https://spacenews.com/anduril-lands-25-million-contract-to-upgrade-aging-space-surveillance-network/" >🔗</a> **[SpaceNews]** Anduril lands $25 million contract to upgrade aging space surveillance network
 - <a href="https://spacenews.com/blacksky-to-equip-its-future-satellites-with-military-compatible-laser-terminals/" >🔗</a> **[SpaceNews]** BlackSky to equip its future satellites with military-compatible laser terminals
 - <a href="https://spaceflightnow.com/2024/09/27/two-man-crew-bound-for-space-station-will-give-starliner-astronauts-a-ride-home-in-february/" >🔗</a> **[Spaceflight Now]** Two-man crew bound for space station will give Starliner astronauts a ride home in February
@@ -97,7 +98,6 @@ into *a Polar Orbit
 - <a href="https://www.nasaspaceflight.com/2024/09/firefly-mlv-testing/" >🔗</a> **[NASASpaceflight]** Firefly offers insight on MLV testing, reusability plans
 - <a href="https://www.nasa.gov/image-article/the-stanley-cup-comes-to-kennedy/" >🔗</a> **[NASA]** The Stanley Cup Comes to Kennedy
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_September_2024" >🔗</a> **[ESA]** Week in images: 23-27 September 2024
-- <a href="https://www.nasa.gov/image-article/chief-engineer-dr-donald-mendoza/" >🔗</a> **[NASA]** Chief Engineer Dr. Donald Mendoza
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T173107">2024-09-28 17:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T180114">2024-09-28 18:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
