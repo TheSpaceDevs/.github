@@ -88,6 +88,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/two-person-crew-9-enroute-to-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Two-Person Crew-9 Enroute to the ISS
 - <a href="https://www.spacescout.info/2024/09/artemis-makes-strides-forward-in-lunar-communications/" >🔗</a> **[Space Scout]** Artemis Makes Strides Forward in Lunar Communications
 - <a href="https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Boosts Human Health Research in Space
 - <a href="https://spacenews.com/xona-scales-up-leo-navigation-constellation-plans-in-canada/" >🔗</a> **[SpaceNews]** Xona scales up LEO navigation constellation plans in Canada
@@ -97,7 +98,6 @@ into *a Polar Orbit
 - <a href="https://www.nasaspaceflight.com/2024/09/crew-9-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA launches Crew-9 with two people
 - <a href="https://spacenews.com/anduril-lands-25-million-contract-to-upgrade-aging-space-surveillance-network/" >🔗</a> **[SpaceNews]** Anduril lands $25 million contract to upgrade aging space surveillance network
 - <a href="https://spacenews.com/blacksky-to-equip-its-future-satellites-with-military-compatible-laser-terminals/" >🔗</a> **[SpaceNews]** BlackSky to equip its future satellites with military-compatible laser terminals
-- <a href="https://spaceflightnow.com/2024/09/27/two-man-crew-bound-for-space-station-will-give-starliner-astronauts-a-ride-home-in-february/" >🔗</a> **[Spaceflight Now]** Two-man crew bound for space station will give Starliner astronauts a ride home in February
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T210104">2024-09-28 21:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T213056">2024-09-28 21:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
