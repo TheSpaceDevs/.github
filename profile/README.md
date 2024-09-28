@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/anduril-lands-25-million-contract-to-upgrade-aging-space-surveillance-network/" >🔗</a> **[SpaceNews]** Anduril lands $25 million contract to upgrade aging space surveillance network
 - <a href="https://spacenews.com/blacksky-to-equip-its-future-satellites-with-military-compatible-laser-terminals/" >🔗</a> **[SpaceNews]** BlackSky to equip its future satellites with military-compatible laser terminals
 - <a href="https://spaceflightnow.com/2024/09/27/two-man-crew-bound-for-space-station-will-give-starliner-astronauts-a-ride-home-in-february/" >🔗</a> **[Spaceflight Now]** Two-man crew bound for space station will give Starliner astronauts a ride home in February
 - <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/" >🔗</a> **[NASA]** The Science of the Perfect Cup for Coffee
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/chief-engineer-dr-donald-mendoza/" >🔗</a> **[NASA]** Chief Engineer Dr. Donald Mendoza
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/launch-your-creativity-with-these-space-crafts/" >🔗</a> **[NASA]** Launch Your Creativity with These Space Crafts!
 - <a href="https://science.nasa.gov/blog/sols-4316-4317-hunting-for-sulfur/" >🔗</a> **[NASA]** Sols 4316-4317: Hunting for Sulfur
-- <a href="https://arstechnica.com/space/2024/09/nasa-confirms-space-station-cracking-a-highest-risk-and-consequence-problem/" >🔗</a> **[Arstechnica]** NASA confirms space station cracking a “highest” risk and consequence problem
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T110123">2024-09-28 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T113056">2024-09-28 11:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
