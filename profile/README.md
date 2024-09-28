@@ -88,6 +88,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/09/artemis-makes-strides-forward-in-lunar-communications/" >🔗</a> **[Space Scout]** Artemis Makes Strides Forward in Lunar Communications
+- <a href="https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Boosts Human Health Research in Space
 - <a href="https://spacenews.com/xona-scales-up-leo-navigation-constellation-plans-in-canada/" >🔗</a> **[SpaceNews]** Xona scales up LEO navigation constellation plans in Canada
 - <a href="https://www.nasa.gov/news-release/liftoff-nasas-spacex-crew-9-launches-to-international-space-station/" >🔗</a> **[NASA]** Liftoff! NASA’s SpaceX Crew-9 Launches to International Space Station
 - <a href="https://spacenews.com/falcon-9-sends-new-crew-to-iss-on-first-crewed-launch-from-slc-40/" >🔗</a> **[SpaceNews]** Falcon 9 sends new crew to ISS on first crewed launch from SLC-40
@@ -96,8 +98,6 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/anduril-lands-25-million-contract-to-upgrade-aging-space-surveillance-network/" >🔗</a> **[SpaceNews]** Anduril lands $25 million contract to upgrade aging space surveillance network
 - <a href="https://spacenews.com/blacksky-to-equip-its-future-satellites-with-military-compatible-laser-terminals/" >🔗</a> **[SpaceNews]** BlackSky to equip its future satellites with military-compatible laser terminals
 - <a href="https://spaceflightnow.com/2024/09/27/two-man-crew-bound-for-space-station-will-give-starliner-astronauts-a-ride-home-in-february/" >🔗</a> **[Spaceflight Now]** Two-man crew bound for space station will give Starliner astronauts a ride home in February
-- <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/" >🔗</a> **[NASA]** The Science of the Perfect Cup for Coffee
-- <a href="https://www.nasaspaceflight.com/2024/09/firefly-mlv-testing/" >🔗</a> **[NASASpaceflight]** Firefly offers insight on MLV testing, reusability plans
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T200126">2024-09-28 20:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240928T203128">2024-09-28 20:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
