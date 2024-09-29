@@ -86,6 +86,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-29-october-5-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 29-October 5, 2024
+- <a href="https://spaceflightnow.com/2024/09/29/spacex-grounds-its-falcon-rocket-fleet-after-upper-stage-misfire/" >🔗</a> **[Spaceflight Now]** SpaceX grounds its Falcon rocket fleet after upper stage misfire
 - <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-deorbit-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage deorbit anomaly
 - <a href="https://spacepolicyonline.com/news/two-person-crew-9-enroute-to-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Two-Person Crew-9 Enroute to the ISS
 - <a href="https://www.spacescout.info/2024/09/artemis-makes-strides-forward-in-lunar-communications/" >🔗</a> **[Space Scout]** Artemis Makes Strides Forward in Lunar Communications
@@ -94,8 +96,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/news-release/liftoff-nasas-spacex-crew-9-launches-to-international-space-station/" >🔗</a> **[NASA]** Liftoff! NASA’s SpaceX Crew-9 Launches to International Space Station
 - <a href="https://spacenews.com/falcon-9-sends-new-crew-to-iss-on-first-crewed-launch-from-slc-40/" >🔗</a> **[SpaceNews]** Falcon 9 sends new crew to ISS on first crewed launch from SLC-40
 - <a href="https://spacepolicyonline.com/news/nasa-ig-worries-about-lack-of-redundancy-for-iss-operations-longer-term-issues/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Worries About Lack of Redundancy for ISS Operations, Longer Term Issues
-- <a href="https://www.nasaspaceflight.com/2024/09/crew-9-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA launches Crew-9 with two people
-- <a href="https://spacenews.com/anduril-lands-25-million-contract-to-upgrade-aging-space-surveillance-network/" >🔗</a> **[SpaceNews]** Anduril lands $25 million contract to upgrade aging space surveillance network
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240929T180109">2024-09-29 18:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240929T183447">2024-09-29 18:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
