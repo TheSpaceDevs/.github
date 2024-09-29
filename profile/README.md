@@ -86,6 +86,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-unveils-lunar-spacesuit-for-crewed-moon-mission/" >🔗</a> **[SpaceNews]** China unveils lunar spacesuit for crewed moon mission
 - <a href="https://www.nasaspaceflight.com/2024/09/xrism-n132d-ngc4151/" >🔗</a> **[NASASpaceflight]** One year into mission, XRISM reveals movements of cosmic material around supernova remnant and black hole
 - <a href="https://www.spacescout.info/2024/09/crew-9-launches-two-astronauts-to-iss/" >🔗</a> **[Space Scout]** Crew-9 Launches Two Astronauts to ISS
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-29-october-5-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 29-October 5, 2024
@@ -95,7 +96,6 @@ into *a Polar Orbit
 - <a href="https://www.spacescout.info/2024/09/artemis-makes-strides-forward-in-lunar-communications/" >🔗</a> **[Space Scout]** Artemis Makes Strides Forward in Lunar Communications
 - <a href="https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Boosts Human Health Research in Space
 - <a href="https://spacenews.com/xona-scales-up-leo-navigation-constellation-plans-in-canada/" >🔗</a> **[SpaceNews]** Xona scales up LEO navigation constellation plans in Canada
-- <a href="https://www.nasa.gov/news-release/liftoff-nasas-spacex-crew-9-launches-to-international-space-station/" >🔗</a> **[NASA]** Liftoff! NASA’s SpaceX Crew-9 Launches to International Space Station
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240929T210109">2024-09-29 21:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240929T220114">2024-09-29 22:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
