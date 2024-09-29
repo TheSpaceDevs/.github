@@ -86,6 +86,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-deorbit-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage deorbit anomaly
 - <a href="https://spacepolicyonline.com/news/two-person-crew-9-enroute-to-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Two-Person Crew-9 Enroute to the ISS
 - <a href="https://www.spacescout.info/2024/09/artemis-makes-strides-forward-in-lunar-communications/" >🔗</a> **[Space Scout]** Artemis Makes Strides Forward in Lunar Communications
 - <a href="https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Boosts Human Health Research in Space
@@ -95,7 +96,6 @@ into *a Polar Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-ig-worries-about-lack-of-redundancy-for-iss-operations-longer-term-issues/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Worries About Lack of Redundancy for ISS Operations, Longer Term Issues
 - <a href="https://www.nasaspaceflight.com/2024/09/crew-9-launch/" >🔗</a> **[NASASpaceflight]** SpaceX, NASA launches Crew-9 with two people
 - <a href="https://spacenews.com/anduril-lands-25-million-contract-to-upgrade-aging-space-surveillance-network/" >🔗</a> **[SpaceNews]** Anduril lands $25 million contract to upgrade aging space surveillance network
-- <a href="https://spacenews.com/blacksky-to-equip-its-future-satellites-with-military-compatible-laser-terminals/" >🔗</a> **[SpaceNews]** BlackSky to equip its future satellites with military-compatible laser terminals
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240929T150110">2024-09-29 15:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240929T153201">2024-09-29 15:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
