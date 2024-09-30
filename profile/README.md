@@ -87,6 +87,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-reusable-shijian-19-satellite-for-space-breeding-and-technology-tests/" >🔗</a> **[SpaceNews]** China launches reusable Shijian-19 satellite for space breeding and technology tests
+- <a href="https://spacenews.com/nasa-cites-progress-in-reducing-iss-air-leak/" >🔗</a> **[SpaceNews]** NASA cites progress in reducing ISS air leak
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Nearing_Hera_era_in_space" >🔗</a> **[ESA]** Nearing Hera era in space
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q3" >🔗</a> **[ESA]** The latest edition of ESA Impact is here
 - <a href="https://europeanspaceflight.com/spaceport-startup-demonstrates-launch-capability-in-portugal/" >🔗</a> **[European Spaceflight]** Spaceport Startup Demonstrates Launch Capability in Portugal
@@ -95,8 +97,6 @@ into *a Polar Orbit
 - <a href="https://www.nasaspaceflight.com/2024/09/xrism-n132d-ngc4151/" >🔗</a> **[NASASpaceflight]** One year into mission, XRISM reveals movements of cosmic material around supernova remnant and black hole
 - <a href="https://www.spacescout.info/2024/09/crew-9-launches-two-astronauts-to-iss/" >🔗</a> **[Space Scout]** Crew-9 Launches Two Astronauts to ISS
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-29-october-5-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 29-October 5, 2024
-- <a href="https://spaceflightnow.com/2024/09/29/spacex-grounds-its-falcon-rocket-fleet-after-upper-stage-misfire/" >🔗</a> **[Spaceflight Now]** SpaceX grounds its Falcon rocket fleet after upper stage misfire
-- <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-deorbit-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage deorbit anomaly
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T110116">2024-09-30 11:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T113105">2024-09-30 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
