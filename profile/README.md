@@ -87,21 +87,21 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-to-discuss-science-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson to Discuss Science, Station Mission
+- <a href="https://www.teslarati.com/spacex-arrives-to-save-astronauts-stranded-by-boeing-on-iss/" >🔗</a> **[Teslarati]** SpaceX arrives to save astronauts stranded by Boeing on ISS
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mariachi-and-moonshots-melissa-moreno-orchestrates-gateway-communications/" >🔗</a> **[NASA]** Mariachi and Moonshots: Melissa Moreno Orchestrates Gateway Communications
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/" >🔗</a> **[NASA]** Station Science Top News: Sept. 27, 2024
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/aerospace-medicine-clerkship/" >🔗</a> **[NASA]** Aerospace Medicine Clerkship
 - <a href="https://www.esa.int/Space_Safety/Hera" >🔗</a> **[ESA]** Hera asteroid mission
 - <a href="https://arstechnica.com/science/2024/09/were-only-beginning-to-understand-the-historic-nature-of-helenes-flooding/" >🔗</a> **[Arstechnica]** We’re only beginning to understand the historic nature of Helene’s flooding
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-swot-applications-workshop/" >🔗</a> **[NASA]** Summary of the 10th SWOT Applications Workshop
 - <a href="https://spacenews.com/the-government-should-investigate-supply-chains-in-the-space-economy/" >🔗</a> **[SpaceNews]** The government should investigate supply chains in the space economy
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-68-the-second-space-radar-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-68 The Second Space Radar Lab Mission
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_releases_new_strategy_for_Earth_observation" >🔗</a> **[ESA]** ESA releases new strategy for Earth observation
-- <a href="https://spacenews.com/commerce-begins-beta-tests-of-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Commerce begins beta tests of space traffic coordination system
-- <a href="https://spacenews.com/commercial-spaces-critical-role-race-outpace-adversaries/" >🔗</a> **[SpaceNews]** Commercial space’s critical role in the race to outpace adversaries
-- <a href="https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/" >🔗</a> **[Spaceflight Now]** ULA to roll its Vulcan rocket to the launch pad ahead of second test flight
-- <a href="https://spacenews.com/china-launches-reusable-shijian-19-satellite-for-space-breeding-and-technology-tests/" >🔗</a> **[SpaceNews]** China launches reusable Shijian-19 satellite for space breeding and technology tests
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/" >🔗</a> **[Spaceflight Now]** ULA to roll its Vulcan rocket to the launch pad ahead of second test flight
+- <a href="https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/" >🔗</a> **[Spaceflight Now]** ULA rolls its Vulcan rocket to the launch pad ahead of second test flight
 - <a href="https://spacenews.com/united-launch-alliance-prepares-for-crucial-certification-flight-as-u-s-space-force-watches-closely/" >🔗</a> **[SpaceNews]** United Launch Alliance prepares for crucial certification flight as U.S. Space Force watches closely
 - <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
 - <a href="https://tlpnetwork.com/news/america/vulcan-centaur-cert-2-mission-to-launch-inert-payload-sierra-space-dream-chaser-demo-delayed" >🔗</a> **[The Launch Pad]** Vulcan Centaur’s Cert-2 Mission to Launch Inert Payload, Sierra Space Dream Chaser Demo Delayed
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T170119">2024-09-30 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T180124">2024-09-30 18:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
