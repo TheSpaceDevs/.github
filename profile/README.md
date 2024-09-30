@@ -87,6 +87,8 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q3" >🔗</a> **[ESA]** The latest edition of ESA Impact is here
+- <a href="https://europeanspaceflight.com/spaceport-startup-demonstrates-launch-capability-in-portugal/" >🔗</a> **[European Spaceflight]** Spaceport Startup Demonstrates Launch Capability in Portugal
 - <a href="https://science.nasa.gov/blog/sols-4318-4320-one-last-weekend-in-the-channel/" >🔗</a> **[NASA]** Sols 4318-4320: One Last Weekend in the Channel
 - <a href="https://spacenews.com/china-unveils-lunar-spacesuit-for-crewed-moon-mission/" >🔗</a> **[SpaceNews]** China unveils lunar spacesuit for crewed moon mission
 - <a href="https://www.nasaspaceflight.com/2024/09/xrism-n132d-ngc4151/" >🔗</a> **[NASASpaceflight]** One year into mission, XRISM reveals movements of cosmic material around supernova remnant and black hole
@@ -95,8 +97,6 @@ into *a Polar Orbit
 - <a href="https://spaceflightnow.com/2024/09/29/spacex-grounds-its-falcon-rocket-fleet-after-upper-stage-misfire/" >🔗</a> **[Spaceflight Now]** SpaceX grounds its Falcon rocket fleet after upper stage misfire
 - <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-deorbit-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage deorbit anomaly
 - <a href="https://spacepolicyonline.com/news/two-person-crew-9-enroute-to-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Two-Person Crew-9 Enroute to the ISS
-- <a href="https://www.spacescout.info/2024/09/artemis-makes-strides-forward-in-lunar-communications/" >🔗</a> **[Space Scout]** Artemis Makes Strides Forward in Lunar Communications
-- <a href="https://www.nasa.gov/humans-in-space/nasa-astronaut-nick-hague-boosts-human-health-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Boosts Human Health Research in Space
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T070116">2024-09-30 07:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T073059">2024-09-30 07:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
