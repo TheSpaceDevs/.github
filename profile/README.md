@@ -87,7 +87,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera" >🔗</a> **[ESA]** Hera asteroid mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_releases_new_strategy_for_Earth_observation" >🔗</a> **[ESA]** ESA releases new strategy for Earth observation
+- <a href="https://spacenews.com/commerce-begins-beta-tests-of-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Commerce begins beta tests of space traffic coordination system
 - <a href="https://spacenews.com/commercial-spaces-critical-role-race-outpace-adversaries/" >🔗</a> **[SpaceNews]** Commercial space’s critical role in the race to outpace adversaries
 - <a href="https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/" >🔗</a> **[Spaceflight Now]** ULA to roll its Vulcan rocket to the launch pad ahead of second test flight
 - <a href="https://spacenews.com/china-launches-reusable-shijian-19-satellite-for-space-breeding-and-technology-tests/" >🔗</a> **[SpaceNews]** China launches reusable Shijian-19 satellite for space breeding and technology tests
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Nearing_Hera_era_in_space" >🔗</a> **[ESA]** Nearing Hera era in space
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q3" >🔗</a> **[ESA]** The latest edition of ESA Impact is here
 - <a href="https://europeanspaceflight.com/spaceport-startup-demonstrates-launch-capability-in-portugal/" >🔗</a> **[European Spaceflight]** Spaceport Startup Demonstrates Launch Capability in Portugal
-- <a href="https://science.nasa.gov/blog/sols-4318-4320-one-last-weekend-in-the-channel/" >🔗</a> **[NASA]** Sols 4318-4320: One Last Weekend in the Channel
-- <a href="https://spacenews.com/china-unveils-lunar-spacesuit-for-crewed-moon-mission/" >🔗</a> **[SpaceNews]** China unveils lunar spacesuit for crewed moon mission
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T140122">2024-09-30 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T143448">2024-09-30 14:34:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
