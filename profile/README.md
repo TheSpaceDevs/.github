@@ -87,6 +87,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_releases_new_strategy_for_Earth_observation" >🔗</a> **[ESA]** ESA releases new strategy for Earth observation
+- <a href="https://spacenews.com/commercial-spaces-critical-role-race-outpace-adversaries/" >🔗</a> **[SpaceNews]** Commercial space’s critical role in the race to outpace adversaries
 - <a href="https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/" >🔗</a> **[Spaceflight Now]** ULA to roll its Vulcan rocket to the launch pad ahead of second test flight
 - <a href="https://spacenews.com/china-launches-reusable-shijian-19-satellite-for-space-breeding-and-technology-tests/" >🔗</a> **[SpaceNews]** China launches reusable Shijian-19 satellite for space breeding and technology tests
 - <a href="https://spacenews.com/nasa-cites-progress-in-reducing-iss-air-leak/" >🔗</a> **[SpaceNews]** NASA cites progress in reducing ISS air leak
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/spaceport-startup-demonstrates-launch-capability-in-portugal/" >🔗</a> **[European Spaceflight]** Spaceport Startup Demonstrates Launch Capability in Portugal
 - <a href="https://science.nasa.gov/blog/sols-4318-4320-one-last-weekend-in-the-channel/" >🔗</a> **[NASA]** Sols 4318-4320: One Last Weekend in the Channel
 - <a href="https://spacenews.com/china-unveils-lunar-spacesuit-for-crewed-moon-mission/" >🔗</a> **[SpaceNews]** China unveils lunar spacesuit for crewed moon mission
-- <a href="https://www.nasaspaceflight.com/2024/09/xrism-n132d-ngc4151/" >🔗</a> **[NASASpaceflight]** One year into mission, XRISM reveals movements of cosmic material around supernova remnant and black hole
-- <a href="https://www.spacescout.info/2024/09/crew-9-launches-two-astronauts-to-iss/" >🔗</a> **[Space Scout]** Crew-9 Launches Two Astronauts to ISS
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T130643">2024-09-30 13:06:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T133526">2024-09-30 13:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
