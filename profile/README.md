@@ -88,6 +88,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_Safety/Hera" >🔗</a> **[ESA]** Hera asteroid mission
+- <a href="https://spacenews.com/the-government-should-investigate-supply-chains-in-the-space-economy/" >🔗</a> **[SpaceNews]** The government should investigate supply chains in the space economy
+- <a href="https://www.nasa.gov/history/30-years-ago-sts-68-the-second-space-radar-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-68 The Second Space Radar Lab Mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_releases_new_strategy_for_Earth_observation" >🔗</a> **[ESA]** ESA releases new strategy for Earth observation
 - <a href="https://spacenews.com/commerce-begins-beta-tests-of-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Commerce begins beta tests of space traffic coordination system
 - <a href="https://spacenews.com/commercial-spaces-critical-role-race-outpace-adversaries/" >🔗</a> **[SpaceNews]** Commercial space’s critical role in the race to outpace adversaries
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-reusable-shijian-19-satellite-for-space-breeding-and-technology-tests/" >🔗</a> **[SpaceNews]** China launches reusable Shijian-19 satellite for space breeding and technology tests
 - <a href="https://spacenews.com/nasa-cites-progress-in-reducing-iss-air-leak/" >🔗</a> **[SpaceNews]** NASA cites progress in reducing ISS air leak
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Nearing_Hera_era_in_space" >🔗</a> **[ESA]** Nearing Hera era in space
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q3" >🔗</a> **[ESA]** The latest edition of ESA Impact is here
-- <a href="https://europeanspaceflight.com/spaceport-startup-demonstrates-launch-capability-in-portugal/" >🔗</a> **[European Spaceflight]** Spaceport Startup Demonstrates Launch Capability in Portugal
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T150139">2024-09-30 15:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T153336">2024-09-30 15:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
