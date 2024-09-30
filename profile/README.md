@@ -87,6 +87,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Nearing_Hera_era_in_space" >🔗</a> **[ESA]** Nearing Hera era in space
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q3" >🔗</a> **[ESA]** The latest edition of ESA Impact is here
 - <a href="https://europeanspaceflight.com/spaceport-startup-demonstrates-launch-capability-in-portugal/" >🔗</a> **[European Spaceflight]** Spaceport Startup Demonstrates Launch Capability in Portugal
 - <a href="https://science.nasa.gov/blog/sols-4318-4320-one-last-weekend-in-the-channel/" >🔗</a> **[NASA]** Sols 4318-4320: One Last Weekend in the Channel
@@ -96,7 +97,6 @@ into *a Polar Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-29-october-5-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 29-October 5, 2024
 - <a href="https://spaceflightnow.com/2024/09/29/spacex-grounds-its-falcon-rocket-fleet-after-upper-stage-misfire/" >🔗</a> **[Spaceflight Now]** SpaceX grounds its Falcon rocket fleet after upper stage misfire
 - <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-deorbit-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage deorbit anomaly
-- <a href="https://spacepolicyonline.com/news/two-person-crew-9-enroute-to-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Two-Person Crew-9 Enroute to the ISS
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T090122">2024-09-30 09:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T093333">2024-09-30 09:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
