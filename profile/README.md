@@ -87,6 +87,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan ready for second flight; Hera mission set to study asteroid
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-preview-its-museum-earth-information-center/" >🔗</a> **[NASA]** NASA Invites Media to Preview its Museum Earth Information Center
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-innovators-for-lunar-waste-competition/" >🔗</a> **[NASA]** NASA Seeks Innovators for Lunar Waste Competition
 - <a href="https://www.teslarati.com/donald-trump-works-with-elon-musk-starlink-to-hurricane-victims/" >🔗</a> **[Teslarati]** Donald Trump works with Elon Musk to bring Starlink to hurricane victims
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-to-discuss-science-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson to Discuss Science, Station Mission
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/" >🔗</a> **[NASA]** Station Science Top News: Sept. 27, 2024
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/aerospace-medicine-clerkship/" >🔗</a> **[NASA]** Aerospace Medicine Clerkship
 - <a href="https://www.esa.int/Space_Safety/Hera" >🔗</a> **[ESA]** Hera asteroid mission
-- <a href="https://arstechnica.com/science/2024/09/were-only-beginning-to-understand-the-historic-nature-of-helenes-flooding/" >🔗</a> **[Arstechnica]** We’re only beginning to understand the historic nature of Helene’s flooding
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-swot-applications-workshop/" >🔗</a> **[NASA]** Summary of the 10th SWOT Applications Workshop
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T210112">2024-09-30 21:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T213202">2024-09-30 21:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
