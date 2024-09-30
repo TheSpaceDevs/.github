@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-continues-advancing-stem-for-students-through-new-partnership/" >🔗</a> **[NASA]** NASA Continues Advancing STEM for Students Through New Partnership
 - <a href="https://spacenews.com/gogo-buys-rival-to-tackle-starlink-aviation-expansion/" >🔗</a> **[SpaceNews]** Gogo buys rival to tackle Starlink aviation expansion
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan ready for second flight; Hera mission set to study asteroid
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-preview-its-museum-earth-information-center/" >🔗</a> **[NASA]** NASA Invites Media to Preview its Museum Earth Information Center
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-arrives-to-save-astronauts-stranded-by-boeing-on-iss/" >🔗</a> **[Teslarati]** SpaceX arrives to save astronauts stranded by Boeing on ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mariachi-and-moonshots-melissa-moreno-orchestrates-gateway-communications/" >🔗</a> **[NASA]** Mariachi and Moonshots: Melissa Moreno Orchestrates Gateway Communications
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/" >🔗</a> **[NASA]** Station Science Top News: Sept. 27, 2024
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/aerospace-medicine-clerkship/" >🔗</a> **[NASA]** Aerospace Medicine Clerkship
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T220126">2024-09-30 22:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T223330">2024-09-30 22:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
