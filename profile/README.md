@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/donald-trump-works-with-elon-musk-starlink-to-hurricane-victims/" >🔗</a> **[Teslarati]** Donald Trump works with Elon Musk to bring Starlink to hurricane victims
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-to-discuss-science-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson to Discuss Science, Station Mission
 - <a href="https://www.teslarati.com/spacex-arrives-to-save-astronauts-stranded-by-boeing-on-iss/" >🔗</a> **[Teslarati]** SpaceX arrives to save astronauts stranded by Boeing on ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mariachi-and-moonshots-melissa-moreno-orchestrates-gateway-communications/" >🔗</a> **[NASA]** Mariachi and Moonshots: Melissa Moreno Orchestrates Gateway Communications
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2024/09/were-only-beginning-to-understand-the-historic-nature-of-helenes-flooding/" >🔗</a> **[Arstechnica]** We’re only beginning to understand the historic nature of Helene’s flooding
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-swot-applications-workshop/" >🔗</a> **[NASA]** Summary of the 10th SWOT Applications Workshop
 - <a href="https://spacenews.com/the-government-should-investigate-supply-chains-in-the-space-economy/" >🔗</a> **[SpaceNews]** The government should investigate supply chains in the space economy
-- <a href="https://www.nasa.gov/history/30-years-ago-sts-68-the-second-space-radar-lab-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-68 The Second Space Radar Lab Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T190115">2024-09-30 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240930T193118">2024-09-30 19:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
