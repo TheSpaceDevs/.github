@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Dust_sparked_biggest_phytoplankton_bloom_in_decades" >🔗</a> **[ESA]** Dust sparked biggest phytoplankton bloom in decades
+- <a href="https://www.cnbc.com/2024/10/01/impulse-spacecraft-delivery-startup-raises-150-million-led-by-founders-fund.html" >🔗</a> **[CNBC]** Spacecraft delivery startup founded by former SpaceX rocket guru raises $150 million, led by Founders Fund
 - <a href="https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/" >🔗</a> **[NASA]** NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 - <a href="https://spacenews.com/ground-game-raytheons-mission-operations-centers-improve-forecasting-for-civilian-space-missions/" >🔗</a> **[SpaceNews]** Ground Game: Raytheon’s Mission Operations Centers Improve Forecasting for Civilian Space Missions
 - <a href="https://spacenews.com/nasa-removes-technical-details-from-janus-rfi/" >🔗</a> **[SpaceNews]** NASA removes technical details from Janus RFI
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-to-build-exercise-machine-for-gateway-space-station/" >🔗</a> **[European Spaceflight]** ESA to Build Exercise Machine for Gateway Space Station
 - <a href="https://spacenews.com/anduril-apex/" >🔗</a> **[SpaceNews]** Apex to provide satellite buses for Anduril’s defense-oriented space missions
 - <a href="https://spacepolicyonline.com/news/noaa-kicks-off-tracss-space-situational-awareness-system/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Kicks Off TraCSS Space Situational Awareness System
-- <a href="https://www.nasa.gov/general/nasa-continues-advancing-stem-for-students-through-new-partnership/" >🔗</a> **[NASA]** NASA Continues Advancing STEM for Students Through New Partnership
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T140116">2024-10-01 14:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T143414">2024-10-01 14:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
