@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/noaa-kicks-off-tracss-space-situational-awareness-system/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Kicks Off TraCSS Space Situational Awareness System
 - <a href="https://www.nasa.gov/general/nasa-continues-advancing-stem-for-students-through-new-partnership/" >🔗</a> **[NASA]** NASA Continues Advancing STEM for Students Through New Partnership
 - <a href="https://spacenews.com/gogo-buys-rival-to-tackle-starlink-aviation-expansion/" >🔗</a> **[SpaceNews]** Gogo buys rival to tackle Starlink aviation expansion
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan ready for second flight; Hera mission set to study asteroid
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-to-discuss-science-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson to Discuss Science, Station Mission
 - <a href="https://www.teslarati.com/spacex-arrives-to-save-astronauts-stranded-by-boeing-on-iss/" >🔗</a> **[Teslarati]** SpaceX arrives to save astronauts stranded by Boeing on ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mariachi-and-moonshots-melissa-moreno-orchestrates-gateway-communications/" >🔗</a> **[NASA]** Mariachi and Moonshots: Melissa Moreno Orchestrates Gateway Communications
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-sept-27-2024/" >🔗</a> **[NASA]** Station Science Top News: Sept. 27, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T033823">2024-10-01 03:38:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T040121">2024-10-01 04:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
