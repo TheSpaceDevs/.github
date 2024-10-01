@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/yahsat-and-bayanat-forge-ai-powered-space-technology-champion/" >🔗</a> **[SpaceNews]** Yahsat and Bayanat forge AI-powered space technology champion
 - <a href="https://spacenews.com/dod-seeks-innovations-in-small-satellite-propulsion/" >🔗</a> **[SpaceNews]** DoD seeks innovations in small-satellite propulsion
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/astrophysicist-gioia-rau-explores-cosmic-time-machines/" >🔗</a> **[NASA]** Astrophysicist Gioia Rau Explores Cosmic ‘Time Machines’
 - <a href="https://spacenews.com/echostar-plots-direct-to-device-satellite-push-after-shedding-dish-and-debt/" >🔗</a> **[SpaceNews]** EchoStar plots direct-to-device satellite push after shedding Dish and debt
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Boosting_SpaceForest_sounding_rocket" >🔗</a> **[ESA]** Boosting SpaceForest sounding rocket
 - <a href="https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Dust_sparked_biggest_phytoplankton_bloom_in_decades" >🔗</a> **[ESA]** Dust sparked biggest phytoplankton bloom in decades
-- <a href="https://www.cnbc.com/2024/10/01/impulse-spacecraft-delivery-startup-raises-150-million-led-by-founders-fund.html" >🔗</a> **[CNBC]** Spacecraft delivery startup founded by former SpaceX rocket guru raises $150 million, led by Founders Fund
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T220122">2024-10-01 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T223346">2024-10-01 22:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
