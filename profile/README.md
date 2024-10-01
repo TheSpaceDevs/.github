@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dod-seeks-innovations-in-small-satellite-propulsion/" >🔗</a> **[SpaceNews]** DoD seeks innovations in small-satellite propulsion
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/astrophysicist-gioia-rau-explores-cosmic-time-machines/" >🔗</a> **[NASA]** Astrophysicist Gioia Rau Explores Cosmic ‘Time Machines’
+- <a href="https://spacenews.com/echostar-plots-direct-to-device-satellite-push-after-shedding-dish-and-debt/" >🔗</a> **[SpaceNews]** EchoStar plots direct-to-device satellite push after shedding Dish and debt
 - <a href="https://spacenews.com/u-s-faces-stiff-competition-from-china-in-satellite-remote-sensing/" >🔗</a> **[SpaceNews]** U.S. faces stiff competition from China in satellite remote sensing
 - <a href="https://spacenews.com/impulse-space-raises-150-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $150 million
 - <a href="https://www.nasa.gov/news-release/three-time-spacewalker-josh-cassada-to-retire-from-nasa/" >🔗</a> **[NASA]** Three-time Spacewalker Josh Cassada to Retire from NASA
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Dust_sparked_biggest_phytoplankton_bloom_in_decades" >🔗</a> **[ESA]** Dust sparked biggest phytoplankton bloom in decades
 - <a href="https://www.cnbc.com/2024/10/01/impulse-spacecraft-delivery-startup-raises-150-million-led-by-founders-fund.html" >🔗</a> **[CNBC]** Spacecraft delivery startup founded by former SpaceX rocket guru raises $150 million, led by Founders Fund
-- <a href="https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/" >🔗</a> **[NASA]** NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
-- <a href="https://spacenews.com/ground-game-raytheons-mission-operations-centers-improve-forecasting-for-civilian-space-missions/" >🔗</a> **[SpaceNews]** Ground Game: Raytheon’s Mission Operations Centers Improve Forecasting for Civilian Space Missions
-- <a href="https://spacenews.com/nasa-removes-technical-details-from-janus-rfi/" >🔗</a> **[SpaceNews]** NASA removes technical details from Janus RFI
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T190114">2024-10-01 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T193135">2024-10-01 19:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
