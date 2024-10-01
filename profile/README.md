@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-removes-technical-details-from-janus-rfi/" >🔗</a> **[SpaceNews]** NASA removes technical details from Janus RFI
+- <a href="https://arstechnica.com/space/2024/10/heres-how-to-revive-nasas-artemis-moon-program-with-three-simple-tricks/" >🔗</a> **[Arstechnica]** The politically incorrect guide to saving NASA’s floundering Artemis Program
 - <a href="https://spacenews.com/momentus-facing-nasdaq-delisting/" >🔗</a> **[SpaceNews]** Momentus facing Nasdaq delisting
 - <a href="https://europeanspaceflight.com/esa-to-build-exercise-machine-for-gateway-space-station/" >🔗</a> **[European Spaceflight]** ESA to Build Exercise Machine for Gateway Space Station
 - <a href="https://spacenews.com/anduril-apex/" >🔗</a> **[SpaceNews]** Apex to provide satellite buses for Anduril’s defense-oriented space missions
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/gogo-buys-rival-to-tackle-starlink-aviation-expansion/" >🔗</a> **[SpaceNews]** Gogo buys rival to tackle Starlink aviation expansion
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan ready for second flight; Hera mission set to study asteroid
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-preview-its-museum-earth-information-center/" >🔗</a> **[NASA]** NASA Invites Media to Preview its Museum Earth Information Center
-- <a href="https://www.nasa.gov/news-release/nasa-seeks-innovators-for-lunar-waste-competition/" >🔗</a> **[NASA]** NASA Seeks Innovators for Lunar Waste Competition
-- <a href="https://www.teslarati.com/donald-trump-works-with-elon-musk-starlink-to-hurricane-victims/" >🔗</a> **[Teslarati]** Donald Trump works with Elon Musk to bring Starlink to hurricane victims
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T110107">2024-10-01 11:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T113059">2024-10-01 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
