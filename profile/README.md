@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-raises-150-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $150 million
 - <a href="https://www.nasa.gov/news-release/three-time-spacewalker-josh-cassada-to-retire-from-nasa/" >🔗</a> **[NASA]** Three-time Spacewalker Josh Cassada to Retire from NASA
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Boosting_SpaceForest_sounding_rocket" >🔗</a> **[ESA]** Boosting SpaceForest sounding rocket
 - <a href="https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ground-game-raytheons-mission-operations-centers-improve-forecasting-for-civilian-space-missions/" >🔗</a> **[SpaceNews]** Ground Game: Raytheon’s Mission Operations Centers Improve Forecasting for Civilian Space Missions
 - <a href="https://spacenews.com/nasa-removes-technical-details-from-janus-rfi/" >🔗</a> **[SpaceNews]** NASA removes technical details from Janus RFI
 - <a href="https://arstechnica.com/space/2024/10/heres-how-to-revive-nasas-artemis-moon-program-with-three-simple-tricks/" >🔗</a> **[Arstechnica]** The politically incorrect guide to saving NASA’s floundering Artemis Program
-- <a href="https://spacenews.com/momentus-facing-nasdaq-delisting/" >🔗</a> **[SpaceNews]** Momentus facing Nasdaq delisting
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T170107">2024-10-01 17:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T173300">2024-10-01 17:33:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
