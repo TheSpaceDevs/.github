@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/momentus-facing-nasdaq-delisting/" >🔗</a> **[SpaceNews]** Momentus facing Nasdaq delisting
 - <a href="https://europeanspaceflight.com/esa-to-build-exercise-machine-for-gateway-space-station/" >🔗</a> **[European Spaceflight]** ESA to Build Exercise Machine for Gateway Space Station
 - <a href="https://spacenews.com/anduril-apex/" >🔗</a> **[SpaceNews]** Apex to provide satellite buses for Anduril’s defense-oriented space missions
 - <a href="https://spacepolicyonline.com/news/noaa-kicks-off-tracss-space-situational-awareness-system/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Kicks Off TraCSS Space Situational Awareness System
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-preview-its-museum-earth-information-center/" >🔗</a> **[NASA]** NASA Invites Media to Preview its Museum Earth Information Center
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-innovators-for-lunar-waste-competition/" >🔗</a> **[NASA]** NASA Seeks Innovators for Lunar Waste Competition
 - <a href="https://www.teslarati.com/donald-trump-works-with-elon-musk-starlink-to-hurricane-victims/" >🔗</a> **[Teslarati]** Donald Trump works with Elon Musk to bring Starlink to hurricane victims
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-to-discuss-science-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson to Discuss Science, Station Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T100131">2024-10-01 10:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T103537">2024-10-01 10:35:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
