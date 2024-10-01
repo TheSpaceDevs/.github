@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-to-build-exercise-machine-for-gateway-space-station/" >🔗</a> **[European Spaceflight]** ESA to Build Exercise Machine for Gateway Space Station
+- <a href="https://spacenews.com/anduril-apex/" >🔗</a> **[SpaceNews]** Apex to provide satellite buses for Anduril’s defense-oriented space missions
 - <a href="https://spacepolicyonline.com/news/noaa-kicks-off-tracss-space-situational-awareness-system/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Kicks Off TraCSS Space Situational Awareness System
 - <a href="https://www.nasa.gov/general/nasa-continues-advancing-stem-for-students-through-new-partnership/" >🔗</a> **[NASA]** NASA Continues Advancing STEM for Students Through New Partnership
 - <a href="https://spacenews.com/gogo-buys-rival-to-tackle-starlink-aviation-expansion/" >🔗</a> **[SpaceNews]** Gogo buys rival to tackle Starlink aviation expansion
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-seeks-innovators-for-lunar-waste-competition/" >🔗</a> **[NASA]** NASA Seeks Innovators for Lunar Waste Competition
 - <a href="https://www.teslarati.com/donald-trump-works-with-elon-musk-starlink-to-hurricane-victims/" >🔗</a> **[Teslarati]** Donald Trump works with Elon Musk to bring Starlink to hurricane victims
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-to-discuss-science-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Tracy C. Dyson to Discuss Science, Station Mission
-- <a href="https://www.teslarati.com/spacex-arrives-to-save-astronauts-stranded-by-boeing-on-iss/" >🔗</a> **[Teslarati]** SpaceX arrives to save astronauts stranded by Boeing on ISS
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mariachi-and-moonshots-melissa-moreno-orchestrates-gateway-communications/" >🔗</a> **[NASA]** Mariachi and Moonshots: Melissa Moreno Orchestrates Gateway Communications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T070122">2024-10-01 07:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T073116">2024-10-01 07:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
