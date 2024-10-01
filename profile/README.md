@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ground-game-raytheons-mission-operations-centers-improve-forecasting-for-civilian-space-missions/" >🔗</a> **[SpaceNews]** Ground Game: Raytheon’s Mission Operations Centers Improve Forecasting for Civilian Space Missions
 - <a href="https://spacenews.com/nasa-removes-technical-details-from-janus-rfi/" >🔗</a> **[SpaceNews]** NASA removes technical details from Janus RFI
 - <a href="https://arstechnica.com/space/2024/10/heres-how-to-revive-nasas-artemis-moon-program-with-three-simple-tricks/" >🔗</a> **[Arstechnica]** The politically incorrect guide to saving NASA’s floundering Artemis Program
 - <a href="https://spacenews.com/momentus-facing-nasdaq-delisting/" >🔗</a> **[SpaceNews]** Momentus facing Nasdaq delisting
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-advancing-stem-for-students-through-new-partnership/" >🔗</a> **[NASA]** NASA Continues Advancing STEM for Students Through New Partnership
 - <a href="https://spacenews.com/gogo-buys-rival-to-tackle-starlink-aviation-expansion/" >🔗</a> **[SpaceNews]** Gogo buys rival to tackle Starlink aviation expansion
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan ready for second flight; Hera mission set to study asteroid
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-preview-its-museum-earth-information-center/" >🔗</a> **[NASA]** NASA Invites Media to Preview its Museum Earth Information Center
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T120245">2024-10-01 12:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241001T124237">2024-10-01 12:42:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
