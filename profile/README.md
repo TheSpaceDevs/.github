@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-set-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA set for second Vulcan launch
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-2-2024/" >🔗</a> **[NASA]** The Marshall Star for October 2, 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-eclips-value-bundles-for-learners-with-varied-needs/" >🔗</a> **[NASA]** New NASA eClips VALUE Bundles for Learners with Varied Needs
 - <a href="https://www.teslarati.com/spacex-pauses-falcon-9-launches-internal-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX pauses Falcon 9 launches for internal and FAA investigations
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-continues-hera-launch-preparations-amid-falcon-9-grounding/" >🔗</a> **[SpaceNews]** ESA continues Hera launch preparations amid Falcon 9 grounding
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: October 2024 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/" >🔗</a> **[NASA]** NASA’s TESS Spots Record-Breaking Stellar Triplets
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/" >🔗</a> **[NASA]** NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T210124">2024-10-02 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T213225">2024-10-02 21:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
