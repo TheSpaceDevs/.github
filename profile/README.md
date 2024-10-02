@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-pauses-falcon-9-launches-internal-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX pauses Falcon 9 launches for internal and FAA investigations
 - <a href="https://spaceflightnow.com/2024/10/02/esas-hera-mission-progresses-towards-launch-pending-falcon-9-readiness/" >🔗</a> **[Spaceflight Now]** ESA’s Hera mission progresses towards launch pending Falcon 9 readiness
 - <a href="https://www.nasa.gov/learning-resources/unique-nasa-partnerships-spark-stem-learning-on-global-scale/" >🔗</a> **[NASA]** Unique NASA Partnerships Spark STEM Learning on Global Scale
 - <a href="https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/" >🔗</a> **[NASA]** NASA Prepares for Lunar Terrain Vehicle Testing
 - <a href="https://spacenews.com/esa-continues-hera-launch-preparations-amid-falcon-9-grounding/" >🔗</a> **[SpaceNews]** ESA continues Hera launch preparations amid Falcon 9 grounding
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: October 2024 Skywatching Tips from NASA
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/" >🔗</a> **[NASA]** NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
 - <a href="https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/" >🔗</a> **[NASA]** NASA’s TESS Spots Record-Breaking Stellar Triplets
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/" >🔗</a> **[NASA]** NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
 - <a href="https://spacenews.com/no-borders-in-the-final-frontier/" >🔗</a> **[SpaceNews]** No borders in the final frontier
 - <a href="https://spacenews.com/companies-seek-more-opportunities-to-send-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** Companies seek more opportunities to send private astronaut missions to ISS
-- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Uplifting_news!_ESA_crowns_new_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** Uplifting news! ESA crowns new deep space antenna in Australia
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T170117">2024-10-02 17:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T183627">2024-10-02 18:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
