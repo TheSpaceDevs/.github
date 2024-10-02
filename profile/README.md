@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Uplifting_news!_ESA_crowns_new_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** Uplifting news! ESA crowns new deep space antenna in Australia
+- <a href="https://europeanspaceflight.com/2-4m-euros-in-esa-funding-to-boost-spaceforest-rocket-development/" >🔗</a> **[European Spaceflight]** €2.4M in ESA Funding to Boost SpaceForest Rocket Development
 - <a href="https://spacenews.com/yahsat-and-bayanat-forge-ai-powered-space-technology-champion/" >🔗</a> **[SpaceNews]** Yahsat and Bayanat forge AI-powered space technology champion
 - <a href="https://spacenews.com/dod-seeks-innovations-in-small-satellite-propulsion/" >🔗</a> **[SpaceNews]** DoD seeks innovations in small-satellite propulsion
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/astrophysicist-gioia-rau-explores-cosmic-time-machines/" >🔗</a> **[NASA]** Astrophysicist Gioia Rau Explores Cosmic ‘Time Machines’
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/impulse-space-raises-150-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $150 million
 - <a href="https://www.nasa.gov/news-release/three-time-spacewalker-josh-cassada-to-retire-from-nasa/" >🔗</a> **[NASA]** Three-time Spacewalker Josh Cassada to Retire from NASA
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Boosting_SpaceForest_sounding_rocket" >🔗</a> **[ESA]** Boosting SpaceForest sounding rocket
-- <a href="https://www.nasa.gov/missions/station/iss-research/crew-8-concludes-space-station-scientific-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-8 Concludes Space Station Scientific Mission
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T100121">2024-10-02 10:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T103452">2024-10-02 10:34:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
