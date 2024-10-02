@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-unusual-jets-of-volatile-gas-from-icy-centaur-29p/" >🔗</a> **[NASA]** NASA’s Webb Reveals Unusual Jets of Volatile Gas from Icy Centaur 29P
+- <a href="https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/" >🔗</a> **[NASA]** NASA’s TESS Spots Record-Breaking Stellar Triplets
 - <a href="https://spacenews.com/no-borders-in-the-final-frontier/" >🔗</a> **[SpaceNews]** No borders in the final frontier
 - <a href="https://spacenews.com/companies-seek-more-opportunities-to-send-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** Companies seek more opportunities to send private astronaut missions to ISS
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Uplifting_news!_ESA_crowns_new_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** Uplifting news! ESA crowns new deep space antenna in Australia
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/dod-seeks-innovations-in-small-satellite-propulsion/" >🔗</a> **[SpaceNews]** DoD seeks innovations in small-satellite propulsion
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/astrophysicist-gioia-rau-explores-cosmic-time-machines/" >🔗</a> **[NASA]** Astrophysicist Gioia Rau Explores Cosmic ‘Time Machines’
 - <a href="https://spacenews.com/echostar-plots-direct-to-device-satellite-push-after-shedding-dish-and-debt/" >🔗</a> **[SpaceNews]** EchoStar plots direct-to-device satellite push after shedding Dish and debt
-- <a href="https://spacenews.com/u-s-faces-stiff-competition-from-china-in-satellite-remote-sensing/" >🔗</a> **[SpaceNews]** U.S. faces stiff competition from China in satellite remote sensing
-- <a href="https://spacenews.com/impulse-space-raises-150-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $150 million
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T140122">2024-10-02 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T143331">2024-10-02 14:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
