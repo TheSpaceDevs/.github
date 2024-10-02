@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/radar-imaging/" >🔗</a> **[SpaceNews]** Radar satellite companies sharpen focus on military market
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/facility-managers-assemble-protecting-johnson-space-centers-people-and-places/" >🔗</a> **[NASA]** Facility Managers, Assemble: Protecting Johnson Space Center’s People and Places
 - <a href="https://spacenews.com/ula-set-for-second-vulcan-launch/" >🔗</a> **[SpaceNews]** ULA set for second Vulcan launch
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-2-2024/" >🔗</a> **[NASA]** The Marshall Star for October 2, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/unique-nasa-partnerships-spark-stem-learning-on-global-scale/" >🔗</a> **[NASA]** Unique NASA Partnerships Spark STEM Learning on Global Scale
 - <a href="https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/" >🔗</a> **[NASA]** NASA Prepares for Lunar Terrain Vehicle Testing
 - <a href="https://spacenews.com/esa-continues-hera-launch-preparations-amid-falcon-9-grounding/" >🔗</a> **[SpaceNews]** ESA continues Hera launch preparations amid Falcon 9 grounding
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: October 2024 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T230109">2024-10-02 23:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T233119">2024-10-02 23:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
