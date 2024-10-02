@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/no-borders-in-the-final-frontier/" >🔗</a> **[SpaceNews]** No borders in the final frontier
 - <a href="https://spacenews.com/companies-seek-more-opportunities-to-send-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** Companies seek more opportunities to send private astronaut missions to ISS
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Uplifting_news!_ESA_crowns_new_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** Uplifting news! ESA crowns new deep space antenna in Australia
 - <a href="https://europeanspaceflight.com/2-4m-euros-in-esa-funding-to-boost-spaceforest-rocket-development/" >🔗</a> **[European Spaceflight]** €2.4M in ESA Funding to Boost SpaceForest Rocket Development
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/echostar-plots-direct-to-device-satellite-push-after-shedding-dish-and-debt/" >🔗</a> **[SpaceNews]** EchoStar plots direct-to-device satellite push after shedding Dish and debt
 - <a href="https://spacenews.com/u-s-faces-stiff-competition-from-china-in-satellite-remote-sensing/" >🔗</a> **[SpaceNews]** U.S. faces stiff competition from China in satellite remote sensing
 - <a href="https://spacenews.com/impulse-space-raises-150-million/" >🔗</a> **[SpaceNews]** Impulse Space raises $150 million
-- <a href="https://www.nasa.gov/news-release/three-time-spacewalker-josh-cassada-to-retire-from-nasa/" >🔗</a> **[NASA]** Three-time Spacewalker Josh Cassada to Retire from NASA
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T130600">2024-10-02 13:06:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241002T133414">2024-10-02 13:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
