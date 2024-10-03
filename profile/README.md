@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-establishes-new-class-of-astrophysics-missions-selects-studies/" >🔗</a> **[NASA]** NASA Establishes New Class of Astrophysics Missions, Selects Studies
+- <a href="https://spacenews.com/all-space-gets-44-million-to-debut-multi-orbit-terminal/" >🔗</a> **[SpaceNews]** All.Space gets $44 million to debut multi-orbit terminal
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/" >🔗</a> **[NASA]** Meghan Daley: Shaping the Future of NASA’s Robotic Simulations
 - <a href="https://www.nasa.gov/image-article/astronauts-rubio-and-berrios-speak-during-hispanic-heritage-month/" >🔗</a> **[NASA]** Astronauts Rubio and Berrios Speak During Hispanic Heritage Month
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-october-2024/" >🔗</a> **[NASA]** Lagniappe for October 2024
 - <a href="https://www.nasa.gov/image-article/bridget-moody-inspired-by-future/" >🔗</a> **[NASA]** Focusing on the Future Inspires NASA Stennis Employee Today
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** 2 NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
 - <a href="https://www.nasa.gov/general/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** Two NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** 2 NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
 - <a href="https://tlpnetwork.com/news/america/ula-vulcan-centaur-cert-2-mission-go-for-launch-friday" >🔗</a> **[The Launch Pad]** ULA Vulcan Centaur Cert-2 Mission "GO" For Launch Friday
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-31st-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 31st Resupply Launch to Space Station
-- <a href="https://www.spacescout.info/2024/10/ula-readies-vulcan-for-cert-2/" >🔗</a> **[Space Scout]** ULA Readies Vulcan for Cert-2
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Last_rocket_motor_firing_clears_path_for_Vega-C_launch" >🔗</a> **[ESA]** Last rocket motor firing clears path for Vega-C launch
-- <a href="https://www.nasa.gov/news-release/cobertura-de-la-nasa-del-lanzamiento-de-europa-clipper-a-una-luna-de-jupiter/" >🔗</a> **[NASA]** Cobertura de la NASA del lanzamiento de Europa Clipper a una luna de Júpiter
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T200115">2024-10-03 20:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T203223">2024-10-03 20:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
