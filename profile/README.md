@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-31st-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 31st Resupply Launch to Space Station
 - <a href="https://www.spacescout.info/2024/10/ula-readies-vulcan-for-cert-2/" >🔗</a> **[Space Scout]** ULA Readies Vulcan for Cert-2
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Last_rocket_motor_firing_clears_path_for_Vega-C_launch" >🔗</a> **[ESA]** Last rocket motor firing clears path for Vega-C launch
 - <a href="https://www.nasa.gov/news-release/cobertura-de-la-nasa-del-lanzamiento-de-europa-clipper-a-una-luna-de-jupiter/" >🔗</a> **[NASA]** Cobertura de la NASA del lanzamiento de Europa Clipper a una luna de Júpiter
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-laser-comms-demo-makes-deep-space-record-completes-first-phase/" >🔗</a> **[NASA]** NASA’s Laser Comms Demo Makes Deep Space Record, Completes First Phase
 - <a href="https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/" >🔗</a> **[NASA]** How NASA Astronauts Vote from Space Aboard International Space Station
 - <a href="https://science.nasa.gov/science-research/earth-science/gpm-celebrates-ten-years-of-observing-precipitation-for-science-and-society/" >🔗</a> **[NASA]** GPM Celebrates Ten Years of Observing Precipitation for Science and Society
-- <a href="https://spacenews.com/theresa-condor-coo-spire-global-leading-women-in-space/" >🔗</a> **[SpaceNews]** Theresa Condor, COO, Spire Global – Leading Women in Space
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T170112">2024-10-03 17:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T173309">2024-10-03 17:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
