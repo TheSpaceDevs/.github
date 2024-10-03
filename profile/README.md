@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-october-2024/" >🔗</a> **[NASA]** Lagniappe for October 2024
+- <a href="https://www.nasa.gov/image-article/bridget-moody-inspired-by-future/" >🔗</a> **[NASA]** Focusing on the Future Inspires NASA Stennis Employee Today
+- <a href="https://www.nasa.gov/general/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** Two NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
+- <a href="https://tlpnetwork.com/news/america/ula-vulcan-centaur-cert-2-mission-go-for-launch-friday" >🔗</a> **[The Launch Pad]** ULA Vulcan Centaur Cert-2 Mission "GO" For Launch Friday
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-31st-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 31st Resupply Launch to Space Station
 - <a href="https://www.spacescout.info/2024/10/ula-readies-vulcan-for-cert-2/" >🔗</a> **[Space Scout]** ULA Readies Vulcan for Cert-2
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Last_rocket_motor_firing_clears_path_for_Vega-C_launch" >🔗</a> **[ESA]** Last rocket motor firing clears path for Vega-C launch
 - <a href="https://www.nasa.gov/news-release/cobertura-de-la-nasa-del-lanzamiento-de-europa-clipper-a-una-luna-de-jupiter/" >🔗</a> **[NASA]** Cobertura de la NASA del lanzamiento de Europa Clipper a una luna de Júpiter
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-europa-clipper-launch-to-jupiter-moon/" >🔗</a> **[NASA]** NASA Sets Coverage for Europa Clipper Launch to Jupiter Moon
 - <a href="https://spacenews.com/mpower-technology-wins-airbus-contract-for-solar-power-modules/" >🔗</a> **[SpaceNews]** mPower wins Airbus contract for solar power modules
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Service_Module_assemble" >🔗</a> **[ESA]** Service Module, assemble!
-- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-laser-comms-demo-makes-deep-space-record-completes-first-phase/" >🔗</a> **[NASA]** NASA’s Laser Comms Demo Makes Deep Space Record, Completes First Phase
-- <a href="https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/" >🔗</a> **[NASA]** How NASA Astronauts Vote from Space Aboard International Space Station
-- <a href="https://science.nasa.gov/science-research/earth-science/gpm-celebrates-ten-years-of-observing-precipitation-for-science-and-society/" >🔗</a> **[NASA]** GPM Celebrates Ten Years of Observing Precipitation for Science and Society
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T180127">2024-10-03 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T183555">2024-10-03 18:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
