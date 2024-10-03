@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-air-force-is-exploring-the-potential-of-space-vehicles-to-rapidly-transport-critical-supplies-from-orbital-warehouses-back-to-earth/" >🔗</a> **[SpaceNews]** U.S. Air Force to study use of Sierra Space ‘Ghost’ spacecraft to deliver cargo from orbit
 - <a href="https://spacenews.com/director-chris-scolese-said-the-nro-and-dod-are-resolving-data-integration-issues-as-more-satellites-are-deployed/" >🔗</a> **[SpaceNews]** NRO expanding satellite network designed to support military operations
 - <a href="https://spaceflightnow.com/2024/10/03/live-coverage-ula-to-launch-second-test-flight-of-its-vulcan-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch second test flight of its Vulcan rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-establishes-new-class-of-astrophysics-missions-selects-studies/" >🔗</a> **[NASA]** NASA Establishes New Class of Astrophysics Missions, Selects Studies
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-october-2024/" >🔗</a> **[NASA]** Lagniappe for October 2024
 - <a href="https://www.nasa.gov/image-article/bridget-moody-inspired-by-future/" >🔗</a> **[NASA]** Focusing on the Future Inspires NASA Stennis Employee Today
 - <a href="https://www.nasa.gov/general/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** Two NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** 2 NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T230123">2024-10-03 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T233118">2024-10-03 23:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
