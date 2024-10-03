@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Mercury_s_magnetic_landscape_mapped_in_30_minutes" >🔗</a> **[ESA]** Mercury’s magnetic landscape mapped in 30 minutes
 - <a href="https://spacenews.com/in-orbit-explores-hypersonics-under-afwerx-contract/" >🔗</a> **[SpaceNews]** In-Orbit Aerospace explores hypersonics under AFWERX contract
 - <a href="https://spacenews.com/radar-imaging/" >🔗</a> **[SpaceNews]** Radar satellite companies sharpen focus on military market
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/facility-managers-assemble-protecting-johnson-space-centers-people-and-places/" >🔗</a> **[NASA]** Facility Managers, Assemble: Protecting Johnson Space Center’s People and Places
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-pauses-falcon-9-launches-internal-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX pauses Falcon 9 launches for internal and FAA investigations
 - <a href="https://spaceflightnow.com/2024/10/02/esas-hera-mission-progresses-towards-launch-pending-falcon-9-readiness/" >🔗</a> **[Spaceflight Now]** ESA’s Hera mission progresses towards launch pending Falcon 9 readiness
 - <a href="https://www.nasa.gov/learning-resources/unique-nasa-partnerships-spark-stem-learning-on-global-scale/" >🔗</a> **[NASA]** Unique NASA Partnerships Spark STEM Learning on Global Scale
-- <a href="https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/" >🔗</a> **[NASA]** NASA Prepares for Lunar Terrain Vehicle Testing
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T090113">2024-10-03 09:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T093240">2024-10-03 09:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
