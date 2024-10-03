@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Last_rocket_motor_firing_clears_path_for_Vega-C_launch" >🔗</a> **[ESA]** Last rocket motor firing clears path for Vega-C launch
+- <a href="https://www.nasa.gov/news-release/cobertura-de-la-nasa-del-lanzamiento-de-europa-clipper-a-una-luna-de-jupiter/" >🔗</a> **[NASA]** Cobertura de la NASA del lanzamiento de Europa Clipper a una luna de Júpiter
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-europa-clipper-launch-to-jupiter-moon/" >🔗</a> **[NASA]** NASA Sets Coverage for Europa Clipper Launch to Jupiter Moon
+- <a href="https://spacenews.com/mpower-technology-wins-airbus-contract-for-solar-power-modules/" >🔗</a> **[SpaceNews]** mPower wins Airbus contract for solar power modules
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Service_Module_assemble" >🔗</a> **[ESA]** Service Module, assemble!
+- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-laser-comms-demo-makes-deep-space-record-completes-first-phase/" >🔗</a> **[NASA]** NASA’s Laser Comms Demo Makes Deep Space Record, Completes First Phase
+- <a href="https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/" >🔗</a> **[NASA]** How NASA Astronauts Vote from Space Aboard International Space Station
+- <a href="https://science.nasa.gov/science-research/earth-science/gpm-celebrates-ten-years-of-observing-precipitation-for-science-and-society/" >🔗</a> **[NASA]** GPM Celebrates Ten Years of Observing Precipitation for Science and Society
 - <a href="https://spacenews.com/theresa-condor-coo-spire-global-leading-women-in-space/" >🔗</a> **[SpaceNews]** Theresa Condor, COO, Spire Global – Leading Women in Space
 - <a href="https://europeanspaceflight.com/avio-completes-second-vega-c-zefiro-40-stage-recertification-test-firing/" >🔗</a> **[European Spaceflight]** Avio Completes Second Vega C Zefiro 40 Stage Recertification Test Firing
-- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/" >🔗</a> **[NASA]** Gateway Stands Tall for Stress Test
-- <a href="https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/" >🔗</a> **[NASA]** NASA’s LRO: Lunar Ice Deposits are Widespread
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-hits-e7-1m-in-total-funding/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Hits €7.1M in Total Funding
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_unveils_the_seasonal_rhythm_of_intertidal_seagrass" >🔗</a> **[ESA]** Sentinel-2 unveils the seasonal rhythm of intertidal seagrass
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Mercury_s_magnetic_landscape_mapped_in_30_minutes" >🔗</a> **[ESA]** Mercury’s magnetic landscape mapped in 30 minutes
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/No_place_too_remote_Enabling_satellite_connectivity_from_Pole_to_Pole" >🔗</a> **[ESA]** No place too remote: Enabling satellite connectivity from Pole to Pole
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T150112">2024-10-03 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T153318">2024-10-03 15:33:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
