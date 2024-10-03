@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/director-chris-scolese-said-the-nro-and-dod-are-resolving-data-integration-issues-as-more-satellites-are-deployed/" >🔗</a> **[SpaceNews]** NRO expanding satellite network designed to support military operations
+- <a href="https://spaceflightnow.com/2024/10/03/live-coverage-ula-to-launch-second-test-flight-of-its-vulcan-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch second test flight of its Vulcan rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-establishes-new-class-of-astrophysics-missions-selects-studies/" >🔗</a> **[NASA]** NASA Establishes New Class of Astrophysics Missions, Selects Studies
 - <a href="https://spacenews.com/all-space-gets-44-million-to-debut-multi-orbit-terminal/" >🔗</a> **[SpaceNews]** All.Space gets $44 million to debut multi-orbit terminal
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/" >🔗</a> **[NASA]** Meghan Daley: Shaping the Future of NASA’s Robotic Simulations
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/bridget-moody-inspired-by-future/" >🔗</a> **[NASA]** Focusing on the Future Inspires NASA Stennis Employee Today
 - <a href="https://www.nasa.gov/general/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** Two NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/two-nasa-employees-awarded-space-and-satellite-professionals-20-under-35-of-2024/" >🔗</a> **[NASA]** 2 NASA Employees Awarded Space and Satellite Professionals 20 under 35 of 2024
-- <a href="https://tlpnetwork.com/news/america/ula-vulcan-centaur-cert-2-mission-go-for-launch-friday" >🔗</a> **[The Launch Pad]** ULA Vulcan Centaur Cert-2 Mission "GO" For Launch Friday
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-31st-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 31st Resupply Launch to Space Station
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T210118">2024-10-03 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T213111">2024-10-03 21:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
