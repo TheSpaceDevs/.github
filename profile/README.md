@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_unveils_the_seasonal_rhythm_of_intertidal_seagrass" >🔗</a> **[ESA]** Sentinel-2 unveils the seasonal rhythm of intertidal seagrass
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Mercury_s_magnetic_landscape_mapped_in_30_minutes" >🔗</a> **[ESA]** Mercury’s magnetic landscape mapped in 30 minutes
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/No_place_too_remote_Enabling_satellite_connectivity_from_Pole_to_Pole" >🔗</a> **[ESA]** No place too remote: Enabling satellite connectivity from Pole to Pole
 - <a href="https://spacenews.com/in-orbit-explores-hypersonics-under-afwerx-contract/" >🔗</a> **[SpaceNews]** In-Orbit Aerospace explores hypersonics under AFWERX contract
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-2-2024/" >🔗</a> **[NASA]** The Marshall Star for October 2, 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-eclips-value-bundles-for-learners-with-varied-needs/" >🔗</a> **[NASA]** New NASA eClips VALUE Bundles for Learners with Varied Needs
 - <a href="https://www.teslarati.com/spacex-pauses-falcon-9-launches-internal-faa-investigation/" >🔗</a> **[Teslarati]** SpaceX pauses Falcon 9 launches for internal and FAA investigations
-- <a href="https://spaceflightnow.com/2024/10/02/esas-hera-mission-progresses-towards-launch-pending-falcon-9-readiness/" >🔗</a> **[Spaceflight Now]** ESA’s Hera mission progresses towards launch pending Falcon 9 readiness
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T113056">2024-10-03 11:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241003T120136">2024-10-03 12:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
