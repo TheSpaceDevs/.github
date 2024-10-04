@@ -92,15 +92,15 @@ into *an Asteroid
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_launch_how_to_watch" >🔗</a> **[ESA]** Hera launch: how to watch
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_after_operations_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch after operations test
+- <a href="https://spacenews.com/vulcan-competes-second-flight-despite-srb-anomaly/" >🔗</a> **[SpaceNews]** Vulcan competes second flight despite SRB anomaly
+- <a href="https://spacepolicyonline.com/news/ulas-vulcan-rocket-lifts-off-on-second-certification-flight/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Rocket Lifts Off on Second Certification Flight
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_following_last_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch following last test
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_after_operations_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch after operations test
 - <a href="https://spacenews.com/vega-c-ready-for-return-to-flight-after-second-motor-test/" >🔗</a> **[SpaceNews]** Vega C ready for return to flight after second motor test
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Kunshan_China" >🔗</a> **[ESA]** Earth from Space: Kunshan, China
 - <a href="https://spacenews.com/nasa-selects-x-ray-and-far-infrared-space-telescope-concepts-for-study/" >🔗</a> **[SpaceNews]** NASA selects X-ray and far-infrared space telescope concepts for study
 - <a href="https://science.nasa.gov/blog/sols-4323-4324-surfin-our-way-out-of-the-channel/" >🔗</a> **[NASA]** Sols 4323-4324: Surfin’ Our Way out of the Channel
 - <a href="https://spacepolicyonline.com/news/esas-hera-ready-to-go-when-spacexs-falcon-9-resumes-flight/" >🔗</a> **[SpacePolicyOnline.com]** ESA’s Hera Ready to Go When SpaceX’s Falcon 9 Resumes Flight
-- <a href="https://www.nasaspaceflight.com/2024/10/vulcan-cert2-launch/" >🔗</a> **[NASASpaceflight]** LIVE: ULA’s Vulcan set to launch on second certification flight
-- <a href="https://spacenews.com/charter-begins-beta-testing-software-platform/" >🔗</a> **[SpaceNews]** Charter begins beta testing software platform
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Asteroid
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T120200">2024-10-04 12:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T124226">2024-10-04 12:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
