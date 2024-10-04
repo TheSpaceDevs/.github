@@ -47,6 +47,7 @@ into *an Asteroid
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T144700">2024-10-07 14:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Hera&location=Cape Canaveral SFS, FL, USA&dates=20241007T144700Z%2F20241007T152700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Hera** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T150000">2024-10-07 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241007T150000Z%2F20241007T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T060300">2024-10-09 06:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241009T060300Z%2F20241009T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T163100">2024-10-10 16:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Europa Clipper&location=Kennedy Space Center, FL, USA&dates=20241010T163100Z%2F20241010T163100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Europa Clipper** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T064400">2024-10-26 06:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241026T064400Z%2F20241026T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
@@ -55,7 +56,6 @@ into *an Asteroid
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Koreasat 6A&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Koreasat 6A** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-10&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-10** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,6 +92,8 @@ into *an Asteroid
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_September_-_04_October_2024" >🔗</a> **[ESA]** Week in images: 30 September - 04 October 2024
+- <a href="https://europeanspaceflight.com/final-frontier-to-raise-e150m-to-invest-in-european-space-startups/" >🔗</a> **[European Spaceflight]** Final Frontier to Raise €150M to Invest in European Space Startups
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-to-compete-in-international-rover-challenge/" >🔗</a> **[NASA]** NASA Announces Teams to Compete in International Rover Challenge
 - <a href="https://spaceflightnow.com/2024/10/04/ula-launches-second-vulcan-flight-encounters-strap-on-booster-anomaly/" >🔗</a> **[Spaceflight Now]** ULA launches second Vulcan flight, encounters strap-on booster anomaly
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_launch_how_to_watch" >🔗</a> **[ESA]** Hera launch: how to watch
 - <a href="https://spacenews.com/vulcan-competes-second-flight-despite-srb-anomaly/" >🔗</a> **[SpaceNews]** Vulcan competes second flight despite SRB anomaly
@@ -99,8 +101,6 @@ into *an Asteroid
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-rocket-lifts-off-on-second-certification-flight/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Rocket Lifts Off on Second Certification Flight
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_following_last_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch following last test
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_after_operations_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch after operations test
-- <a href="https://spacenews.com/vega-c-ready-for-return-to-flight-after-second-motor-test/" >🔗</a> **[SpaceNews]** Vega C ready for return to flight after second motor test
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Kunshan_China" >🔗</a> **[ESA]** Earth from Space: Kunshan, China
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Asteroid
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T140124">2024-10-04 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T143326">2024-10-04 14:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
