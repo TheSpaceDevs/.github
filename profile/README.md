@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T100000">2024-10-04 10:00:00 UTC</a>.  Until
 then, this pad will have been used for 113
 out of 976 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_after_operations_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch after operations test
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_following_last_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch following last test
+- <a href="https://spacenews.com/vega-c-ready-for-return-to-flight-after-second-motor-test/" >🔗</a> **[SpaceNews]** Vega C ready for return to flight after second motor test
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Kunshan_China" >🔗</a> **[ESA]** Earth from Space: Kunshan, China
 - <a href="https://spacenews.com/nasa-selects-x-ray-and-far-infrared-space-telescope-concepts-for-study/" >🔗</a> **[SpaceNews]** NASA selects X-ray and far-infrared space telescope concepts for study
 - <a href="https://science.nasa.gov/blog/sols-4323-4324-surfin-our-way-out-of-the-channel/" >🔗</a> **[NASA]** Sols 4323-4324: Surfin’ Our Way out of the Channel
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/10/vulcan-cert2-launch/" >🔗</a> **[NASASpaceflight]** LIVE: ULA’s Vulcan set to launch on second certification flight
 - <a href="https://spacenews.com/charter-begins-beta-testing-software-platform/" >🔗</a> **[SpaceNews]** Charter begins beta testing software platform
 - <a href="https://spacenews.com/the-air-force-is-exploring-the-potential-of-space-vehicles-to-rapidly-transport-critical-supplies-from-orbital-warehouses-back-to-earth/" >🔗</a> **[SpaceNews]** U.S. Air Force to study use of Sierra Space ‘Ghost’ spacecraft to deliver cargo from orbit
-- <a href="https://spacenews.com/director-chris-scolese-said-the-nro-and-dod-are-resolving-data-integration-issues-as-more-satellites-are-deployed/" >🔗</a> **[SpaceNews]** NRO expanding satellite network designed to support military operations
-- <a href="https://spaceflightnow.com/2024/10/03/live-coverage-ula-to-launch-second-test-flight-of-its-vulcan-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch second test flight of its Vulcan rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/news-release/nasa-establishes-new-class-of-astrophysics-missions-selects-studies/" >🔗</a> **[NASA]** NASA Establishes New Class of Astrophysics Missions, Selects Studies
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T100125">2024-10-04 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T103518">2024-10-04 10:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
