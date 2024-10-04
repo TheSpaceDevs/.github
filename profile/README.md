@@ -91,16 +91,16 @@ into *an Asteroid
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-wins-34-5-million-contract-for-u-s-space-force-missions/" >🔗</a> **[SpaceNews]** Impulse Space wins $34.5 million contract for U.S. Space Force missions
+- <a href="https://tlpnetwork.com/news/america/ula-vulcan-centaur-completes-cert-2-mission-despite-srb-explosion" >🔗</a> **[The Launch Pad]** ULA Vulcan Centaur Completes Cert-2 Mission Despite SRB Explosion
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_September_-_04_October_2024" >🔗</a> **[ESA]** Week in images: 30 September - 04 October 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-for-2025-student-launch-challenge/" >🔗</a> **[NASA]** NASA Announces Teams for 2025 Student Launch Challenge
 - <a href="https://europeanspaceflight.com/final-frontier-to-raise-e150m-to-invest-in-european-space-startups/" >🔗</a> **[European Spaceflight]** Final Frontier to Raise €150M to Invest in European Space Startups
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-to-compete-in-international-rover-challenge/" >🔗</a> **[NASA]** NASA Announces Teams to Compete in International Rover Challenge
+- <a href="https://spacenews.com/commercial-space-transformers/" >🔗</a> **[SpaceNews]** Commercial Space Transformers
 - <a href="https://spaceflightnow.com/2024/10/04/ula-launches-second-vulcan-flight-encounters-strap-on-booster-anomaly/" >🔗</a> **[Spaceflight Now]** ULA launches second Vulcan flight, encounters strap-on booster anomaly
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_launch_how_to_watch" >🔗</a> **[ESA]** Hera launch: how to watch
 - <a href="https://spacenews.com/vulcan-competes-second-flight-despite-srb-anomaly/" >🔗</a> **[SpaceNews]** Vulcan competes second flight despite SRB anomaly
-- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/" >🔗</a> **[NASA]** Hubble Observes a Peculiar Galaxy Shape
-- <a href="https://spacepolicyonline.com/news/ulas-vulcan-rocket-lifts-off-on-second-certification-flight/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Rocket Lifts Off on Second Certification Flight
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_following_last_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch following last test
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Asteroid
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T160114">2024-10-04 16:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T163604">2024-10-04 16:36:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
