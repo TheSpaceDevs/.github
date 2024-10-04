@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4323-4324-surfin-our-way-out-of-the-channel/" >🔗</a> **[NASA]** Sols 4323-4324: Surfin’ Our Way out of the Channel
 - <a href="https://spacepolicyonline.com/news/esas-hera-ready-to-go-when-spacexs-falcon-9-resumes-flight/" >🔗</a> **[SpacePolicyOnline.com]** ESA’s Hera Ready to Go When SpaceX’s Falcon 9 Resumes Flight
 - <a href="https://www.nasaspaceflight.com/2024/10/vulcan-cert2-launch/" >🔗</a> **[NASASpaceflight]** ULA’s Vulcan set to launch on second certification flight
 - <a href="https://spacenews.com/charter-begins-beta-testing-software-platform/" >🔗</a> **[SpaceNews]** Charter begins beta testing software platform
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-establishes-new-class-of-astrophysics-missions-selects-studies/" >🔗</a> **[NASA]** NASA Establishes New Class of Astrophysics Missions, Selects Studies
 - <a href="https://spacenews.com/all-space-gets-44-million-to-debut-multi-orbit-terminal/" >🔗</a> **[SpaceNews]** All.Space gets $44 million to debut multi-orbit terminal
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/" >🔗</a> **[NASA]** Meghan Daley: Shaping the Future of NASA’s Robotic Simulations
-- <a href="https://www.nasa.gov/image-article/astronauts-rubio-and-berrios-speak-during-hispanic-heritage-month/" >🔗</a> **[NASA]** Astronauts Rubio and Berrios Speak During Hispanic Heritage Month
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T004533">2024-10-04 00:45:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T012817">2024-10-04 01:28:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
