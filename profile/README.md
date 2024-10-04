@@ -100,7 +100,7 @@ into *an Asteroid
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-for-2025-student-launch-challenge/" >🔗</a> **[NASA]** NASA Announces Teams for 2025 Student Launch Challenge
 - <a href="https://europeanspaceflight.com/final-frontier-to-raise-e150m-to-invest-in-european-space-startups/" >🔗</a> **[European Spaceflight]** Final Frontier to Raise €150M to Invest in European Space Startups
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-to-compete-in-international-rover-challenge/" >🔗</a> **[NASA]** NASA Announces Teams to Compete in International Rover Challenge
-- <a href="https://spacenews.com/commercial-space-transformers/" >🔗</a> **[SpaceNews]** Commercial Space Transformers
+- <a href="https://spaceflightnow.com/2024/10/04/ula-launches-second-vulcan-flight-encounters-strap-on-booster-anomaly/" >🔗</a> **[Spaceflight Now]** ULA launches second Vulcan flight, encounters strap-on booster anomaly
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Asteroid
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T190111">2024-10-04 19:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T193108">2024-10-04 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
