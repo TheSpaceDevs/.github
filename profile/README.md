@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Vulcan VC2S | Certification Flight 2**. It is scheduled to be launched by *United Launch Alliance*
+**Falcon 9 Block 5 | Hera**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T100000">2024-10-04 10:00:00 UTC</a>.  Until
-then, this pad will have been used for 113
-out of 976 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T144700">2024-10-07 14:47:00 UTC</a>.  Until
+then, this pad will have been used for 263
+out of 977 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Robotic Exploration* and the payload will be injected
+into *an Asteroid
+(Asteroid)*.
 <br>
 <blockquote>
-  Replacement Vulcan test launch with inert payload, experiments, and demonstrations for certification with the USSF after delays caused by payload testing of the Sierra Space Dreamchaser CRS SNC-1 mission, the original planned payload.
+  Hera is a space mission in development at the European Space Agency in its Space Safety program. Its primary objective is to study the Didymos binary asteroid system that was impacted by DART and contribute to validation of the kinetic impact method to deviate a near-Earth asteroid in a colliding trajectory with Earth. It will measure the size and the morphology of the crater created by and momentum transferred by an artificial projectile impacting an asteroid, which will allow measuring the efficiency of the deflection produced by the impact. It will also analyze the expanding debris cloud caused by the impact.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Vulcan_Centaur" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Koreasat 6A&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Koreasat 6A** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-10&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-10** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,17 +106,20 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan ready for second flight; Hera mission set to study asteroid
-- <a href="https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/" >🔗</a> **[Spaceflight Now]** ULA rolls its Vulcan rocket to the launch pad ahead of second test flight
-- <a href="https://spacenews.com/united-launch-alliance-prepares-for-crucial-certification-flight-as-u-s-space-force-watches-closely/" >🔗</a> **[SpaceNews]** United Launch Alliance prepares for crucial certification flight as U.S. Space Force watches closely
-- <a href="https://arstechnica.com/space/2024/07/rocket-report-abl-loses-its-second-booster-falcon-9-cleared-for-return-to-flight/" >🔗</a> **[Arstechnica]** Rocket Report: ABL loses its second booster; Falcon 9 cleared for return to flight
-- <a href="https://tlpnetwork.com/news/america/vulcan-centaur-cert-2-mission-to-launch-inert-payload-sierra-space-dream-chaser-demo-delayed" >🔗</a> **[The Launch Pad]** Vulcan Centaur’s Cert-2 Mission to Launch Inert Payload, Sierra Space Dream Chaser Demo Delayed
-- <a href="https://www.spacescout.info/2024/06/ula-provides-update-on-cert-2-mission/" >🔗</a> **[Space Scout]** ULA Provides Update on Cert-2 Mission
-- <a href="https://www.cnbc.com/2024/06/27/investing-in-space-ula-needs-to-launch-second-vulcan-rocket.html" >🔗</a> **[CNBC]** Investing in Space: Why ULA needs to launch its second Vulcan rocket as soon as possible
+- <a href="https://www.esa.int/Space_Safety/Hera" >🔗</a> **[ESA]** Hera asteroid mission
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Nearing_Hera_era_in_space" >🔗</a> **[ESA]** Nearing Hera era in space
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/View_from_Hera_s_Asteroid_Deck" >🔗</a> **[ESA]** View from Hera’s Asteroid Deck
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Look_inside_ESA_s_Hera_asteroid_mission" >🔗</a> **[ESA]** Look inside ESA’s Hera asteroid mission
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/09/Hera_planetary_defence_mission_solving_asteroid_mysteries" >🔗</a> **[ESA]** Hera planetary defence mission: solving asteroid mysteries
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_launch_kit" >🔗</a> **[ESA]** Hera asteroid mission launch kit
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/09/Hera_CubeSats_touchdown" >🔗</a> **[ESA]** Hera CubeSats’ touchdown
+- <a href="https://www.esa.int/Space_Safety/Hera/Goodbye_Hera_asteroid_mission_departs_ESA_test_centre" >🔗</a> **[ESA]** Goodbye Hera: asteroid mission departs ESA test centre
+- <a href="https://www.esa.int/Space_Safety/Hera/Glimpses_of_Hera_s_target_asteroids_inspire_new_science" >🔗</a> **[ESA]** Glimpses of Hera’s target asteroids inspire new science
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T110133">2024-10-04 11:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241004T113104">2024-10-04 11:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
