@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/policy-and-finance/momentus-space-faces-imminent-nasdaq-delisting-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Momentus Space Faces Imminent Nasdaq Delisting Amid Financial Struggles
+- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-posts-revised-janus-asteroid-mission-rfi" >🔗</a> **[The Launch Pad]** NASA Posts Revised Janus Asteroid Mission RFI
 - <a href="https://spacenews.com/brightness-of-first-chinese-broadband-constellation-satellites-alarms-astronomers/" >🔗</a> **[SpaceNews]** Brightness of first Chinese broadband constellation satellites alarms astronomers
 - <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
 - <a href="https://www.cnbc.com/2024/10/05/blue-origin-ceo-dave-limp-brings-urgency-to-jeff-bezos-space-company.html" >🔗</a> **[CNBC]** A new Blue Origin: CEO Dave Limp is bringing urgency and ‘decisiveness’ to Jeff Bezos’ space company
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/general/job-opportunities-nasa-office-of-the-general-counsel/" >🔗</a> **[NASA]** JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL
 - <a href="https://www.spacescout.info/2024/10/vulcan-centaur-completes-second-flight-despite-anomaly/" >🔗</a> **[Space Scout]** Vulcan Centaur Completes Second Flight Despite Anomaly
 - <a href="https://www.nasa.gov/image-article/sunglint-on-the-alabama-river/" >🔗</a> **[NASA]** Sunglint on the Alabama River
-- <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/" >🔗</a> **[NASA]** Science Activation’s PLACES Team Facilitates Third Professional Learning Institute
-- <a href="https://spacenews.com/impulse-space-wins-34-5-million-contract-for-u-s-space-force-missions/" >🔗</a> **[SpaceNews]** Impulse Space wins $34.5 million contract for U.S. Space Force missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T220128">2024-10-05 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T223321">2024-10-05 22:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
