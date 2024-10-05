@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/brightness-of-first-chinese-broadband-constellation-satellites-alarms-astronomers/" >🔗</a> **[SpaceNews]** Brightness of first Chinese broadband constellation satellites alarms astronomers
+- <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
 - <a href="https://www.cnbc.com/2024/10/05/blue-origin-ceo-dave-limp-brings-urgency-to-jeff-bezos-space-company.html" >🔗</a> **[CNBC]** A new Blue Origin: CEO Dave Limp is bringing urgency and ‘decisiveness’ to Jeff Bezos’ space company
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-receives-approval-for-rocket-powered-flights/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Receives Approval for Rocket-Powered Flights
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Hera_encapsulated_within_its_launcher_fairing" >🔗</a> **[ESA]** Hera encapsulated within its launcher fairing
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/sunglint-on-the-alabama-river/" >🔗</a> **[NASA]** Sunglint on the Alabama River
 - <a href="https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/" >🔗</a> **[NASA]** Science Activation’s PLACES Team Facilitates Third Professional Learning Institute
 - <a href="https://spacenews.com/impulse-space-wins-34-5-million-contract-for-u-s-space-force-missions/" >🔗</a> **[SpaceNews]** Impulse Space wins $34.5 million contract for U.S. Space Force missions
-- <a href="https://tlpnetwork.com/news/america/ula-vulcan-centaur-completes-cert-2-mission-despite-srb-explosion" >🔗</a> **[The Launch Pad]** ULA Vulcan Centaur Completes Cert-2 Mission Despite SRB Explosion
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_September_-_04_October_2024" >🔗</a> **[ESA]** Week in images: 30 September - 04 October 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T210108">2024-10-05 21:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T213159">2024-10-05 21:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
