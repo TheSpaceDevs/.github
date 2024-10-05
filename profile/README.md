@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/10/05/blue-origin-ceo-dave-limp-brings-urgency-to-jeff-bezos-space-company.html" >🔗</a> **[CNBC]** A new Blue Origin: CEO Dave Limp is bringing urgency and ‘decisiveness’ to Jeff Bezos’ space company
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-receives-approval-for-rocket-powered-flights/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Receives Approval for Rocket-Powered Flights
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Hera_encapsulated_within_its_launcher_fairing" >🔗</a> **[ESA]** Hera encapsulated within its launcher fairing
 - <a href="https://www.nasa.gov/general/job-opportunities-nasa-office-of-the-general-counsel/" >🔗</a> **[NASA]** JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/impulse-space-wins-34-5-million-contract-for-u-s-space-force-missions/" >🔗</a> **[SpaceNews]** Impulse Space wins $34.5 million contract for U.S. Space Force missions
 - <a href="https://tlpnetwork.com/news/america/ula-vulcan-centaur-completes-cert-2-mission-despite-srb-explosion" >🔗</a> **[The Launch Pad]** ULA Vulcan Centaur Completes Cert-2 Mission Despite SRB Explosion
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_September_-_04_October_2024" >🔗</a> **[ESA]** Week in images: 30 September - 04 October 2024
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-teams-for-2025-student-launch-challenge/" >🔗</a> **[NASA]** NASA Announces Teams for 2025 Student Launch Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T120130">2024-10-05 12:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241005T124158">2024-10-05 12:41:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
