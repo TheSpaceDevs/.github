@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/10/bepicolombo-magnetosphere/" >🔗</a> **[NASASpaceflight]** Scientists use data from BepiColombo flyby to discover features within Mercury’s magnetosphere
 - <a href="https://spacenews.com/faa-clears-falcon-9-launch-of-hera-mission/" >🔗</a> **[SpaceNews]** FAA clears Falcon 9 launch of Hera mission
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-6-12-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 6-12, 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Mission_control_GO_for_Hera_launch" >🔗</a> **[ESA]** Mission control GO for Hera launch
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-posts-revised-janus-asteroid-mission-rfi" >🔗</a> **[The Launch Pad]** NASA Posts Revised Janus Asteroid Mission RFI
 - <a href="https://spacenews.com/brightness-of-first-chinese-broadband-constellation-satellites-alarms-astronomers/" >🔗</a> **[SpaceNews]** Brightness of first Chinese broadband constellation satellites alarms astronomers
 - <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
-- <a href="https://www.cnbc.com/2024/10/05/blue-origin-ceo-dave-limp-brings-urgency-to-jeff-bezos-space-company.html" >🔗</a> **[CNBC]** A new Blue Origin: CEO Dave Limp is bringing urgency and ‘decisiveness’ to Jeff Bezos’ space company
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241006T203113">2024-10-06 20:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241006T210118">2024-10-06 21:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
