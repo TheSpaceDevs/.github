@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/leidos-joins-nasa-lunar-terrain-vehicle-team-as-lockheed-martin-departs" >🔗</a> **[The Launch Pad]** Leidos Joins NASA’s Lunar Terrain Vehicle Team As Lockheed Martin Departs
+- <a href="https://tlpnetwork.com/news/technology/radian-aerospace-begins-flight-tests-of-orbital-spaceplane-prototype" >🔗</a> **[The Launch Pad]** Radian Aerospace Begins Flight Tests of Orbital Spaceplane Prototype
 - <a href="https://tlpnetwork.com/news/policy-and-finance/momentus-space-faces-imminent-nasdaq-delisting-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Momentus Space Faces Imminent Nasdaq Delisting Amid Financial Struggles
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-posts-revised-janus-asteroid-mission-rfi" >🔗</a> **[The Launch Pad]** NASA Posts Revised Janus Asteroid Mission RFI
 - <a href="https://spacenews.com/brightness-of-first-chinese-broadband-constellation-satellites-alarms-astronomers/" >🔗</a> **[SpaceNews]** Brightness of first Chinese broadband constellation satellites alarms astronomers
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-receives-approval-for-rocket-powered-flights/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Receives Approval for Rocket-Powered Flights
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Hera_encapsulated_within_its_launcher_fairing" >🔗</a> **[ESA]** Hera encapsulated within its launcher fairing
 - <a href="https://www.nasa.gov/general/job-opportunities-nasa-office-of-the-general-counsel/" >🔗</a> **[NASA]** JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL
-- <a href="https://www.spacescout.info/2024/10/vulcan-centaur-completes-second-flight-despite-anomaly/" >🔗</a> **[Space Scout]** Vulcan Centaur Completes Second Flight Despite Anomaly
-- <a href="https://www.nasa.gov/image-article/sunglint-on-the-alabama-river/" >🔗</a> **[NASA]** Sunglint on the Alabama River
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241006T004541">2024-10-06 00:45:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241006T012836">2024-10-06 01:28:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
