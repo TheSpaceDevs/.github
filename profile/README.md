@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-6-12-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 6-12, 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Mission_control_GO_for_Hera_launch" >🔗</a> **[ESA]** Mission control GO for Hera launch
 - <a href="https://tlpnetwork.com/news/america/leidos-joins-nasa-lunar-terrain-vehicle-team-as-lockheed-martin-departs" >🔗</a> **[The Launch Pad]** Leidos Joins NASA’s Lunar Terrain Vehicle Team As Lockheed Martin Departs
 - <a href="https://tlpnetwork.com/news/technology/radian-aerospace-begins-flight-tests-of-orbital-spaceplane-prototype" >🔗</a> **[The Launch Pad]** Radian Aerospace Begins Flight Tests of Orbital Spaceplane Prototype
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
 - <a href="https://www.cnbc.com/2024/10/05/blue-origin-ceo-dave-limp-brings-urgency-to-jeff-bezos-space-company.html" >🔗</a> **[CNBC]** A new Blue Origin: CEO Dave Limp is bringing urgency and ‘decisiveness’ to Jeff Bezos’ space company
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-receives-approval-for-rocket-powered-flights/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Receives Approval for Rocket-Powered Flights
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Hera_encapsulated_within_its_launcher_fairing" >🔗</a> **[ESA]** Hera encapsulated within its launcher fairing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241006T160112">2024-10-06 16:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241006T163438">2024-10-06 16:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
