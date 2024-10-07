@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/" >🔗</a> **[NASA]** 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
+- <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/" >🔗</a> **[NASA]** NASA: New Insights into How Mars Became Uninhabitable
+- <a href="https://www.nasa.gov/image-article/instructions-for-aliens/" >🔗</a> **[NASA]** Instructions for Aliens
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/" >🔗</a> **[NASA]** GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 - <a href="https://spacenews.com/announcing-dsis-11th-annual-space-resiliency-summit/" >🔗</a> **[SpaceNews]** Announcing DSI’s 11th Annual Space Resiliency Summit
 - <a href="https://www.nasa.gov/news-release/nasa-smithsonian-open-new-exhibit-to-showcase-our-dynamic-earth/" >🔗</a> **[NASA]** NASA, Smithsonian Open New Exhibit to Showcase Our Dynamic Earth
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/falcon-9-launches-esas-hera-asteroid-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s Hera asteroid mission
 - <a href="https://science.nasa.gov/blog/perseverance-matters/" >🔗</a> **[NASA]** Perseverance Matters
 - <a href="https://europeanspaceflight.com/pld-space-unveils-three-new-rockets-and-a-crew-capsule/" >🔗</a> **[European Spaceflight]** PLD Space Unveils Three New Rockets and a Crew Capsule
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_are_we_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why are we going back to this asteroid?
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_we_are_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why we are going back to this asteroid?
-- <a href="https://spacenews.com/looking-next-four-years-strengthening-americas-space-leadership/" >🔗</a> **[SpaceNews]** Looking to the next four years: strengthening America’s space leadership
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T190104">2024-10-07 19:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T193101">2024-10-07 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
