@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-project-manager-honors-mothers-impact/" >🔗</a> **[NASA]** NASA Project Manager Honors Mother’s Impact
+- <a href="https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/" >🔗</a> **[NASA]** Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-dominican-republic-as-44th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Dominican Republic as 44th Artemis Accords Signatory
 - <a href="https://spacepolicyonline.com/news/against-the-odds-hera-lifts-off-on-its-planetary-defense-mission/" >🔗</a> **[SpacePolicyOnline.com]** Against the Odds, Hera Lifts Off on Its Planetary Defense Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Hera_asteroid_mission_-_launch_highlights" >🔗</a> **[ESA]** Hera asteroid mission - launch highlights
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/" >🔗</a> **[NASA]** Tech Today: Spraying for Food Safety
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/" >🔗</a> **[NASA]** 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
 - <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/" >🔗</a> **[NASA]** NASA: New Insights into How Mars Became Uninhabitable
-- <a href="https://www.nasa.gov/image-article/instructions-for-aliens/" >🔗</a> **[NASA]** Instructions for Aliens
-- <a href="https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/" >🔗</a> **[NASA]** GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T230112">2024-10-07 23:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T233107">2024-10-07 23:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
