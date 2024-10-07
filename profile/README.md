@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital L
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T130000">2024-10-07 13:00:00 UTC</a>.  Until
 then, this pad will have been used for 26
 out of 26 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Suborbital* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Hera_asteroid_mission_liftoff" >🔗</a> **[ESA]** Hera asteroid mission liftoff
+- <a href="https://science.nasa.gov/blog/perseverance-matters/" >🔗</a> **[NASA]** Perseverance Matters
 - <a href="https://europeanspaceflight.com/pld-space-unveils-three-new-rockets-and-a-crew-capsule/" >🔗</a> **[European Spaceflight]** PLD Space Unveils Three New Rockets and a Crew Capsule
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_are_we_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why are we going back to this asteroid?
-- <a href="https://spacenews.com/looking-next-four-years-strengthening-americas-space-leadership/" >🔗</a> **[SpaceNews]** Looking to the next four years: strengthening America’s space leadership
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_we_are_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why we are going back to this asteroid?
+- <a href="https://spacenews.com/looking-next-four-years-strengthening-americas-space-leadership/" >🔗</a> **[SpaceNews]** Looking to the next four years: strengthening America’s space leadership
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/" >🔗</a> **[NASA]** Mark Sonoda: Leading NASA’s Path to the Commercialization of Space
 - <a href="https://www.nasaspaceflight.com/2024/10/hera-launch/" >🔗</a> **[NASASpaceflight]** ESA’s Hera mission has launched to asteroid binary as Falcon 9 returns to flight
 - <a href="https://europeanspaceflight.com/the-spanish-space-agency-unveils-its-new-logo/" >🔗</a> **[European Spaceflight]** The Spanish Space Agency Unveils Its New Logo
-- <a href="https://spaceflightnow.com/2024/10/07/live-coverage-esas-hera-mission-to-launch-on-spacex-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ESA’s Hera spacecraft aims to launch on SpaceX’s Falcon 9 rocket as Hurricane Milton takes aim at Florida
-- <a href="https://tlpnetwork.com/news/america/faa-grants-single-launch-approval-for-falcon-9-hera-mission" >🔗</a> **[The Launch Pad]** FAA Grants Single Launch Approval for Falcon 9 Hera Mission
-- <a href="https://tlpnetwork.com/news/america/nasa-and-spacex-secure-falcon-heavy-and-europa-clipper-ahead-of-hurricane-milton" >🔗</a> **[The Launch Pad]** NASA and SpaceX Secure Falcon Heavy and Europa Clipper Ahead Of Hurricane Milton
+- <a href="https://spaceflightnow.com/2024/10/07/live-coverage-esas-hera-mission-to-launch-on-spacex-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** ESA’s Hera spacecraft launches on SpaceX’s Falcon 9 rocket as Hurricane Milton takes aim at Florida
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T160115">2024-10-07 16:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T163539">2024-10-07 16:35:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
