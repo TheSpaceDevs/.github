@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_we_are_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why we are going back to this asteroid?
 - <a href="https://europeanspaceflight.com/the-spanish-space-agency-unveils-its-new-logo/" >🔗</a> **[European Spaceflight]** The Spanish Space Agency Unveils Its New Logo
 - <a href="https://spaceflightnow.com/2024/10/07/live-coverage-esas-hera-mission-to-launch-on-spacex-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ESA’s Hera spacecraft aims to launch on SpaceX’s Falcon 9 rocket as Hurricane Milton takes aim at Florida
 - <a href="https://tlpnetwork.com/news/america/faa-grants-single-launch-approval-for-falcon-9-hera-mission" >🔗</a> **[The Launch Pad]** FAA Grants Single Launch Approval for Falcon 9 Hera Mission
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-6-12-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 6-12, 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Mission_control_GO_for_Hera_launch" >🔗</a> **[ESA]** Mission control GO for Hera launch
 - <a href="https://tlpnetwork.com/news/america/leidos-joins-nasa-lunar-terrain-vehicle-team-as-lockheed-martin-departs" >🔗</a> **[The Launch Pad]** Leidos Joins NASA’s Lunar Terrain Vehicle Team As Lockheed Martin Departs
-- <a href="https://tlpnetwork.com/news/technology/radian-aerospace-begins-flight-tests-of-orbital-spaceplane-prototype" >🔗</a> **[The Launch Pad]** Radian Aerospace Begins Flight Tests of Orbital Spaceplane Prototype
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T110124">2024-10-07 11:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T113102">2024-10-07 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
