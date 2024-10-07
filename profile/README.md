@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-dominican-republic-as-44th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Dominican Republic as 44th Artemis Accords Signatory
+- <a href="https://spacepolicyonline.com/news/against-the-odds-hera-lifts-off-on-its-planetary-defense-mission/" >🔗</a> **[SpacePolicyOnline.com]** Against the Odds, Hera Lifts Off on Its Planetary Defense Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Hera_asteroid_mission_-_launch_highlights" >🔗</a> **[ESA]** Hera asteroid mission - launch highlights
 - <a href="https://spacenews.com/seraphim-chooses-11-startups-for-14th-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim chooses 11 startups for 14th space accelerator
 - <a href="https://science.nasa.gov/blog/sols-4325-4326-not-quite-dipping-our-toes-in-the-sand/" >🔗</a> **[NASA]** Sols 4325-4326: (Not Quite) Dipping Our Toes in the Sand
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/" >🔗</a> **[NASA]** NASA: New Insights into How Mars Became Uninhabitable
 - <a href="https://www.nasa.gov/image-article/instructions-for-aliens/" >🔗</a> **[NASA]** Instructions for Aliens
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/" >🔗</a> **[NASA]** GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
-- <a href="https://spacenews.com/announcing-dsis-11th-annual-space-resiliency-summit/" >🔗</a> **[SpaceNews]** Announcing DSI’s 11th Annual Space Resiliency Summit
-- <a href="https://www.nasa.gov/news-release/nasa-smithsonian-open-new-exhibit-to-showcase-our-dynamic-earth/" >🔗</a> **[NASA]** NASA, Smithsonian Open New Exhibit to Showcase Our Dynamic Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T220125">2024-10-07 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T223404">2024-10-07 22:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
