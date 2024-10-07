@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/" >🔗</a> **[NASA]** Tech Today: Spraying for Food Safety
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/" >🔗</a> **[NASA]** 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
 - <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/" >🔗</a> **[NASA]** NASA: New Insights into How Mars Became Uninhabitable
 - <a href="https://www.nasa.gov/image-article/instructions-for-aliens/" >🔗</a> **[NASA]** Instructions for Aliens
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Hera_asteroid_mission_liftoff" >🔗</a> **[ESA]** Hera asteroid mission liftoff
 - <a href="https://spacenews.com/falcon-9-launches-esas-hera-asteroid-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s Hera asteroid mission
 - <a href="https://science.nasa.gov/blog/perseverance-matters/" >🔗</a> **[NASA]** Perseverance Matters
-- <a href="https://europeanspaceflight.com/pld-space-unveils-three-new-rockets-and-a-crew-capsule/" >🔗</a> **[European Spaceflight]** PLD Space Unveils Three New Rockets and a Crew Capsule
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T193101">2024-10-07 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T200119">2024-10-07 20:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
