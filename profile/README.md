@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/" >🔗</a> **[NASA]** GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
+- <a href="https://spacenews.com/announcing-dsis-11th-annual-space-resiliency-summit/" >🔗</a> **[SpaceNews]** Announcing DSI’s 11th Annual Space Resiliency Summit
+- <a href="https://www.nasa.gov/news-release/nasa-smithsonian-open-new-exhibit-to-showcase-our-dynamic-earth/" >🔗</a> **[NASA]** NASA, Smithsonian Open New Exhibit to Showcase Our Dynamic Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Hera_asteroid_mission_liftoff" >🔗</a> **[ESA]** Hera asteroid mission liftoff
 - <a href="https://spacenews.com/falcon-9-launches-esas-hera-asteroid-mission/" >🔗</a> **[SpaceNews]** Falcon 9 launches ESA’s Hera asteroid mission
 - <a href="https://science.nasa.gov/blog/perseverance-matters/" >🔗</a> **[NASA]** Perseverance Matters
 - <a href="https://europeanspaceflight.com/pld-space-unveils-three-new-rockets-and-a-crew-capsule/" >🔗</a> **[European Spaceflight]** PLD Space Unveils Three New Rockets and a Crew Capsule
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_are_we_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why are we going back to this asteroid?
-- <a href="https://spacenews.com/looking-next-four-years-strengthening-americas-space-leadership/" >🔗</a> **[SpaceNews]** Looking to the next four years: strengthening America’s space leadership
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Why_we_are_going_back_to_this_asteroid" >🔗</a> **[ESA]** Why we are going back to this asteroid?
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/" >🔗</a> **[NASA]** Mark Sonoda: Leading NASA’s Path to the Commercialization of Space
-- <a href="https://www.nasaspaceflight.com/2024/10/hera-launch/" >🔗</a> **[NASASpaceflight]** ESA’s Hera mission has launched to asteroid binary as Falcon 9 returns to flight
-- <a href="https://europeanspaceflight.com/the-spanish-space-agency-unveils-its-new-logo/" >🔗</a> **[European Spaceflight]** The Spanish Space Agency Unveils Its New Logo
+- <a href="https://spacenews.com/looking-next-four-years-strengthening-americas-space-leadership/" >🔗</a> **[SpaceNews]** Looking to the next four years: strengthening America’s space leadership
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T180121">2024-10-07 18:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T183616">2024-10-07 18:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
