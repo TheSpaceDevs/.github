@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/10/07/live-coverage-esas-hera-mission-to-launch-on-spacex-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ESA’s Hera spacecraft aims to launch on SpaceX’s Falcon 9 rocket as Hurricane Milton takes aim at Florida
 - <a href="https://tlpnetwork.com/news/america/faa-grants-single-launch-approval-for-falcon-9-hera-mission" >🔗</a> **[The Launch Pad]** FAA Grants Single Launch Approval for Falcon 9 Hera Mission
 - <a href="https://tlpnetwork.com/news/america/nasa-and-spacex-secure-falcon-heavy-and-europa-clipper-ahead-of-hurricane-milton" >🔗</a> **[The Launch Pad]** NASA and SpaceX Secure Falcon Heavy and Europa Clipper Ahead Of Hurricane Milton
 - <a href="https://www.nasaspaceflight.com/2024/10/bepicolombo-magnetosphere/" >🔗</a> **[NASASpaceflight]** Scientists use data from BepiColombo flyby to discover features within Mercury’s magnetosphere
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/america/leidos-joins-nasa-lunar-terrain-vehicle-team-as-lockheed-martin-departs" >🔗</a> **[The Launch Pad]** Leidos Joins NASA’s Lunar Terrain Vehicle Team As Lockheed Martin Departs
 - <a href="https://tlpnetwork.com/news/technology/radian-aerospace-begins-flight-tests-of-orbital-spaceplane-prototype" >🔗</a> **[The Launch Pad]** Radian Aerospace Begins Flight Tests of Orbital Spaceplane Prototype
 - <a href="https://tlpnetwork.com/news/policy-and-finance/momentus-space-faces-imminent-nasdaq-delisting-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Momentus Space Faces Imminent Nasdaq Delisting Amid Financial Struggles
-- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-posts-revised-janus-asteroid-mission-rfi" >🔗</a> **[The Launch Pad]** NASA Posts Revised Janus Asteroid Mission RFI
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T090122">2024-10-07 09:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241007T093317">2024-10-07 09:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
