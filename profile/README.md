@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/10/faa-waives-hera-launch-falcon-9-remains-grounded/" >🔗</a> **[Space Scout]** FAA Waives Hera Launch – Falcon 9 Remains Grounded
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 - <a href="https://spacenews.com/china-to-launch-new-quantum-communications-satellites-in-2025/" >🔗</a> **[SpaceNews]** China to launch new quantum communications satellites in 2025
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon_vision" >🔗</a> **[ESA]** Moon vision
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/spacex-confirms-next-starship-test-will-try-to-catch-the-booster/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Confirms Next Starship Test Will Try to Catch the Booster
 - <a href="https://spacenews.com/smallsats-offer-lessons-for-big-science-missions/" >🔗</a> **[SpaceNews]** Smallsats offer lessons for big science missions
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-october-13-for-starship-5th-flight-test-and-historic-booster-catch-attempt" >🔗</a> **[The Launch Pad]** SpaceX Targets October 13 for Starship 5th Flight Test & Historic Booster Catch Attempt
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-project-manager-honors-mothers-impact/" >🔗</a> **[NASA]** NASA Project Manager Honors Mother’s Impact
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T150117">2024-10-08 15:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T153317">2024-10-08 15:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
