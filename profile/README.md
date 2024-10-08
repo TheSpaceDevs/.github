@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/backing-the-backups-ensuring-satellites-are-ready-to-restore-communications-when-ground-systems-fail/" >🔗</a> **[SpaceNews]** Backing the Backups: Ensuring satellites are ready to restore communications when ground systems fail
 - <a href="https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/" >🔗</a> **[NASA]** NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
 - <a href="https://www.nasa.gov/general/journey-through-stars-with-nasa-in-new-minecraft-game/" >🔗</a> **[NASA]** Journey Through Stars with NASA in New Minecraft Game
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-provide-update-on-progress-of-solar-cycle/" >🔗</a> **[NASA]** NASA, NOAA to Provide Update on Progress of Solar Cycle
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/china-to-launch-new-quantum-communications-satellites-in-2025/" >🔗</a> **[SpaceNews]** China to launch new quantum communications satellites in 2025
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon_vision" >🔗</a> **[ESA]** Moon vision
 - <a href="https://spacenews.com/dominican-republic-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Dominican Republic signs Artemis Accords
-- <a href="https://spacenews.com/pld-space-unveils-plans-for-larger-launch-vehicles-and-crewed-spacecraft/" >🔗</a> **[SpaceNews]** PLD Space unveils plans for larger launch vehicles and crewed spacecraft
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T170116">2024-10-08 17:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T173233">2024-10-08 17:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
