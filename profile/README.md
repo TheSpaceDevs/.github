@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/10/hera-beats-the-weather-sets-sights-on-dual-asteroid/" >🔗</a> **[Space Scout]** Hera Beats the Weather – Sets Sights on Dual Asteroid
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-4-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 4, 2024
 - <a href="https://www.nasa.gov/image-article/nasas-earth-information-center-at-the-smithsonian/" >🔗</a> **[NASA]** NASA’s Earth Information Center at the Smithsonian
 - <a href="https://spacenews.com/space-development-agency-unveils-plans-for-next-200-satellite-procurement/" >🔗</a> **[SpaceNews]** Space Development Agency unveils plans for next 200-satellite procurement
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/backing-the-backups-ensuring-satellites-are-ready-to-restore-communications-when-ground-systems-fail/" >🔗</a> **[SpaceNews]** Backing the Backups: Ensuring satellites are ready to restore communications when ground systems fail
 - <a href="https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/" >🔗</a> **[NASA]** NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
 - <a href="https://www.nasa.gov/general/journey-through-stars-with-nasa-in-new-minecraft-game/" >🔗</a> **[NASA]** Journey Through Stars with NASA in New Minecraft Game
-- <a href="https://www.nasa.gov/news-release/nasa-noaa-to-provide-update-on-progress-of-solar-cycle/" >🔗</a> **[NASA]** NASA, NOAA to Provide Update on Progress of Solar Cycle
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T203109">2024-10-08 20:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T210120">2024-10-08 21:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
