@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/" >🔗</a> **[NASA]** NASA, Collaborators Announce a New Student Lunar Autonomy Challenge!
 - <a href="https://www.nasa.gov/image-article/tissue-chips-accurately-model-organs-in-space/" >🔗</a> **[NASA]** Tissue Chips Accurately Model Organs in Space
 - <a href="https://www.spacescout.info/2024/10/hera-beats-the-weather-sets-sights-on-dual-asteroid/" >🔗</a> **[Space Scout]** Hera Beats the Weather – Sets Sights on Dual Asteroid
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-4-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 4, 2024
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Learning and Growing Together
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/systems-engineer-noosha-haghani-prepped-pace-for-space/" >🔗</a> **[NASA]** Systems Engineer Noosha Haghani Prepped PACE for Space
 - <a href="https://spacenews.com/backing-the-backups-ensuring-satellites-are-ready-to-restore-communications-when-ground-systems-fail/" >🔗</a> **[SpaceNews]** Backing the Backups: Ensuring satellites are ready to restore communications when ground systems fail
-- <a href="https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/" >🔗</a> **[NASA]** NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T220110">2024-10-08 22:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T223344">2024-10-08 22:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
