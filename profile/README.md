@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-awards-rocket-lab-study-contract-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA awards Rocket Lab study contract for Mars Sample Return
+- <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
 - <a href="https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/" >🔗</a> **[NASA]** NASA, Collaborators Announce a New Student Lunar Autonomy Challenge!
 - <a href="https://www.nasa.gov/image-article/tissue-chips-accurately-model-organs-in-space/" >🔗</a> **[NASA]** Tissue Chips Accurately Model Organs in Space
 - <a href="https://www.spacescout.info/2024/10/hera-beats-the-weather-sets-sights-on-dual-asteroid/" >🔗</a> **[Space Scout]** Hera Beats the Weather – Sets Sights on Dual Asteroid
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/space-development-agency-unveils-plans-for-next-200-satellite-procurement/" >🔗</a> **[SpaceNews]** Space Development Agency unveils plans for next 200-satellite procurement
 - <a href="https://www.teslarati.com/spacex-starship-potential-test-flight-5-launch-date/" >🔗</a> **[Teslarati]** SpaceX gives new potential Starship IFT-5 launch date, and it’s sooner than you’d think
 - <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Learning and Growing Together
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/systems-engineer-noosha-haghani-prepped-pace-for-space/" >🔗</a> **[NASA]** Systems Engineer Noosha Haghani Prepped PACE for Space
-- <a href="https://spacenews.com/backing-the-backups-ensuring-satellites-are-ready-to-restore-communications-when-ground-systems-fail/" >🔗</a> **[SpaceNews]** Backing the Backups: Ensuring satellites are ready to restore communications when ground systems fail
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T230116">2024-10-08 23:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T233135">2024-10-08 23:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
