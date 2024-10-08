@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/smallsats-offer-lessons-for-big-science-missions/" >🔗</a> **[SpaceNews]** Smallsats offer lessons for big science missions
+- <a href="https://tlpnetwork.com/news/america/spacex-targets-october-13-for-starship-5th-flight-test-and-historic-booster-catch-attempt" >🔗</a> **[The Launch Pad]** SpaceX Targets October 13 for Starship 5th Flight Test & Historic Booster Catch Attempt
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-project-manager-honors-mothers-impact/" >🔗</a> **[NASA]** NASA Project Manager Honors Mother’s Impact
 - <a href="https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/" >🔗</a> **[NASA]** Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-dominican-republic-as-44th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Dominican Republic as 44th Artemis Accords Signatory
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/seraphim-chooses-11-startups-for-14th-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim chooses 11 startups for 14th space accelerator
 - <a href="https://science.nasa.gov/blog/sols-4325-4326-not-quite-dipping-our-toes-in-the-sand/" >🔗</a> **[NASA]** Sols 4325-4326: (Not Quite) Dipping Our Toes in the Sand
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/" >🔗</a> **[NASA]** Tech Today: Spraying for Food Safety
-- <a href="https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/" >🔗</a> **[NASA]** 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T030728">2024-10-08 03:07:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T033606">2024-10-08 03:36:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
