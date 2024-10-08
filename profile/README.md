@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T130000">2024-10-08 13:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T130000">2024-10-09 13:00:00 UTC</a>.  Until
 then, this pad will have been used for 26
 out of 26 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
+*TBC* 🟨 . The mission type is
 *Suborbital* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -46,7 +46,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T130000">2024-10-08 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241008T130000Z%2F20241008T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T130000">2024-10-09 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241009T130000Z%2F20241009T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T134000">2024-10-10 13:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20241010T134000Z%2F20241010T141200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T161900">2024-10-12 16:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Europa Clipper&location=Kennedy Space Center, FL, USA&dates=20241012T161900Z%2F20241012T161900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Europa Clipper** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T120000">2024-10-13 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 5&location=SpaceX Starbase, TX, USA&dates=20241013T120000Z%2F20241013T131000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 5** from SpaceX Starbase, TX, USA.
@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/smallsats-offer-lessons-for-big-science-missions/" >🔗</a> **[SpaceNews]** Smallsats offer lessons for big science missions
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-project-manager-honors-mothers-impact/" >🔗</a> **[NASA]** NASA Project Manager Honors Mother’s Impact
 - <a href="https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/" >🔗</a> **[NASA]** Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-dominican-republic-as-44th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Dominican Republic as 44th Artemis Accords Signatory
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/blog/sols-4325-4326-not-quite-dipping-our-toes-in-the-sand/" >🔗</a> **[NASA]** Sols 4325-4326: (Not Quite) Dipping Our Toes in the Sand
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/" >🔗</a> **[NASA]** Tech Today: Spraying for Food Safety
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/" >🔗</a> **[NASA]** 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
-- <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/" >🔗</a> **[NASA]** NASA: New Insights into How Mars Became Uninhabitable
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T012816">2024-10-08 01:28:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T020248">2024-10-08 02:02:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
