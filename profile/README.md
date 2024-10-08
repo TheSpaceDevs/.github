@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/" >🔗</a> **[NASA]** NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
+- <a href="https://www.nasa.gov/general/journey-through-stars-with-nasa-in-new-minecraft-game/" >🔗</a> **[NASA]** Journey Through Stars with NASA in New Minecraft Game
+- <a href="https://www.nasa.gov/news-release/nasa-noaa-to-provide-update-on-progress-of-solar-cycle/" >🔗</a> **[NASA]** NASA, NOAA to Provide Update on Progress of Solar Cycle
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/" >🔗</a> **[NASA]** Public Participation in Machine Learning Bolsters Extraterrestrial Research
 - <a href="https://www.spacescout.info/2024/10/faa-waives-hera-launch-falcon-9-remains-grounded/" >🔗</a> **[Space Scout]** FAA Waives Hera Launch – Falcon 9 Remains Grounded
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 - <a href="https://spacenews.com/china-to-launch-new-quantum-communications-satellites-in-2025/" >🔗</a> **[SpaceNews]** China to launch new quantum communications satellites in 2025
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon_vision" >🔗</a> **[ESA]** Moon vision
 - <a href="https://spacenews.com/dominican-republic-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Dominican Republic signs Artemis Accords
 - <a href="https://spacenews.com/pld-space-unveils-plans-for-larger-launch-vehicles-and-crewed-spacecraft/" >🔗</a> **[SpaceNews]** PLD Space unveils plans for larger launch vehicles and crewed spacecraft
-- <a href="https://europeanspaceflight.com/esas-hera-planetary-defence-probe-launched-on-spacex-falcon-9/" >🔗</a> **[European Spaceflight]** ESA’s Hera Planetary Defence Probe Launched on SpaceX Falcon 9
-- <a href="https://spacepolicyonline.com/news/spacex-confirms-next-starship-test-will-try-to-catch-the-booster/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Confirms Next Starship Test Will Try to Catch the Booster
-- <a href="https://spacenews.com/smallsats-offer-lessons-for-big-science-missions/" >🔗</a> **[SpaceNews]** Smallsats offer lessons for big science missions
-- <a href="https://tlpnetwork.com/news/america/spacex-targets-october-13-for-starship-5th-flight-test-and-historic-booster-catch-attempt" >🔗</a> **[The Launch Pad]** SpaceX Targets October 13 for Starship 5th Flight Test & Historic Booster Catch Attempt
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T160123">2024-10-08 16:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T163602">2024-10-08 16:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
