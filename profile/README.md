@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agency-unveils-plans-for-next-200-satellite-procurement/" >🔗</a> **[SpaceNews]** Space Development Agency unveils plans for next 200-satellite procurement
+- <a href="https://www.teslarati.com/spacex-starship-potential-test-flight-5-launch-date/" >🔗</a> **[Teslarati]** SpaceX gives new potential Starship IFT-5 launch date, and it’s sooner than you’d think
+- <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Learning and Growing Together
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/systems-engineer-noosha-haghani-prepped-pace-for-space/" >🔗</a> **[NASA]** Systems Engineer Noosha Haghani Prepped PACE for Space
 - <a href="https://spacenews.com/backing-the-backups-ensuring-satellites-are-ready-to-restore-communications-when-ground-systems-fail/" >🔗</a> **[SpaceNews]** Backing the Backups: Ensuring satellites are ready to restore communications when ground systems fail
 - <a href="https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/" >🔗</a> **[NASA]** NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
 - <a href="https://www.nasa.gov/general/journey-through-stars-with-nasa-in-new-minecraft-game/" >🔗</a> **[NASA]** Journey Through Stars with NASA in New Minecraft Game
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-provide-update-on-progress-of-solar-cycle/" >🔗</a> **[NASA]** NASA, NOAA to Provide Update on Progress of Solar Cycle
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/" >🔗</a> **[NASA]** Public Participation in Machine Learning Bolsters Extraterrestrial Research
 - <a href="https://www.spacescout.info/2024/10/faa-waives-hera-launch-falcon-9-remains-grounded/" >🔗</a> **[Space Scout]** FAA Waives Hera Launch – Falcon 9 Remains Grounded
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
-- <a href="https://spacenews.com/china-to-launch-new-quantum-communications-satellites-in-2025/" >🔗</a> **[SpaceNews]** China to launch new quantum communications satellites in 2025
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon_vision" >🔗</a> **[ESA]** Moon vision
-- <a href="https://spacenews.com/dominican-republic-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Dominican Republic signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T180120">2024-10-08 18:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T183552">2024-10-08 18:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
