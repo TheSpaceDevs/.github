@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-earth-information-center-at-the-smithsonian/" >🔗</a> **[NASA]** NASA’s Earth Information Center at the Smithsonian
 - <a href="https://spacenews.com/space-development-agency-unveils-plans-for-next-200-satellite-procurement/" >🔗</a> **[SpaceNews]** Space Development Agency unveils plans for next 200-satellite procurement
 - <a href="https://www.teslarati.com/spacex-starship-potential-test-flight-5-launch-date/" >🔗</a> **[Teslarati]** SpaceX gives new potential Starship IFT-5 launch date, and it’s sooner than you’d think
 - <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Learning and Growing Together
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/general/journey-through-stars-with-nasa-in-new-minecraft-game/" >🔗</a> **[NASA]** Journey Through Stars with NASA in New Minecraft Game
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-provide-update-on-progress-of-solar-cycle/" >🔗</a> **[NASA]** NASA, NOAA to Provide Update on Progress of Solar Cycle
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/" >🔗</a> **[NASA]** Public Participation in Machine Learning Bolsters Extraterrestrial Research
-- <a href="https://www.spacescout.info/2024/10/faa-waives-hera-launch-falcon-9-remains-grounded/" >🔗</a> **[Space Scout]** FAA Waives Hera Launch – Falcon 9 Remains Grounded
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T190119">2024-10-08 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T193059">2024-10-08 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
