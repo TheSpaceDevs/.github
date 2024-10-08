@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon_vision" >🔗</a> **[ESA]** Moon vision
+- <a href="https://spacenews.com/pld-space-unveils-plans-for-larger-launch-vehicles-and-crewed-spacecraft/" >🔗</a> **[SpaceNews]** PLD Space unveils plans for larger launch vehicles and crewed spacecraft
 - <a href="https://europeanspaceflight.com/esas-hera-planetary-defence-probe-launched-on-spacex-falcon-9/" >🔗</a> **[European Spaceflight]** ESA’s Hera Planetary Defence Probe Launched on SpaceX Falcon 9
 - <a href="https://spacepolicyonline.com/news/spacex-confirms-next-starship-test-will-try-to-catch-the-booster/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Confirms Next Starship Test Will Try to Catch the Booster
 - <a href="https://spacenews.com/smallsats-offer-lessons-for-big-science-missions/" >🔗</a> **[SpaceNews]** Smallsats offer lessons for big science missions
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/" >🔗</a> **[NASA]** Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-dominican-republic-as-44th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Dominican Republic as 44th Artemis Accords Signatory
 - <a href="https://spacepolicyonline.com/news/against-the-odds-hera-lifts-off-on-its-planetary-defense-mission/" >🔗</a> **[SpacePolicyOnline.com]** Against the Odds, Hera Lifts Off on Its Planetary Defense Mission
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Hera_asteroid_mission_-_launch_highlights" >🔗</a> **[ESA]** Hera asteroid mission - launch highlights
-- <a href="https://spacenews.com/seraphim-chooses-11-startups-for-14th-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim chooses 11 startups for 14th space accelerator
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T100126">2024-10-08 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T103503">2024-10-08 10:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
