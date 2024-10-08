@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-launch-new-quantum-communications-satellites-in-2025/" >🔗</a> **[SpaceNews]** China to launch new quantum communications satellites in 2025
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Moon_vision" >🔗</a> **[ESA]** Moon vision
 - <a href="https://spacenews.com/dominican-republic-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Dominican Republic signs Artemis Accords
 - <a href="https://spacenews.com/pld-space-unveils-plans-for-larger-launch-vehicles-and-crewed-spacecraft/" >🔗</a> **[SpaceNews]** PLD Space unveils plans for larger launch vehicles and crewed spacecraft
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-october-13-for-starship-5th-flight-test-and-historic-booster-catch-attempt" >🔗</a> **[The Launch Pad]** SpaceX Targets October 13 for Starship 5th Flight Test & Historic Booster Catch Attempt
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-project-manager-honors-mothers-impact/" >🔗</a> **[NASA]** NASA Project Manager Honors Mother’s Impact
 - <a href="https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/" >🔗</a> **[NASA]** Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-dominican-republic-as-44th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Dominican Republic as 44th Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T120139">2024-10-08 12:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241008T124227">2024-10-08 12:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
