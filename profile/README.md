@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-9-2024/" >🔗</a> **[NASA]** The Marshall Star for October 9, 2024
 - <a href="https://spacenews.com/debate-over-space-guard-rekindles-amid-growing-reliance-on-satellites-for-disaster-relief/" >🔗</a> **[SpaceNews]** Debate over Space Guard rekindles amid growing reliance on satellites for disaster relief
 - <a href="https://spacenews.com/starlink-activates-emergency-phone-connectivity-for-hurricane-milton/" >🔗</a> **[SpaceNews]** Starlink activates emergency phone connectivity for Hurricane Milton
 - <a href="https://science.nasa.gov/blog/sols-4327-4328-on-the-road-again/" >🔗</a> **[NASA]** Sols 4327-4328: On the Road Again
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/" >🔗</a> **[NASA]** NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
 - <a href="https://spacenews.com/ocean-experts-raise-concerns-over-deorbiting-the-international-space-station/" >🔗</a> **[SpaceNews]** Ocean experts raise concerns over deorbiting the International Space Station
 - <a href="https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/" >🔗</a> **[NASA]** Artemis I Radiation Measurements Validate Orion Safety for Astronauts
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/" >🔗</a> **[NASA]** NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T220113">2024-10-09 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T223328">2024-10-09 22:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
