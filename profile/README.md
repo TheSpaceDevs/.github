@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/" >🔗</a> **[NASA]** 420 Years Ago: Astronomer Johannes Kepler Observes a Supernova
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/" >🔗</a> **[NASA]** NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
 - <a href="https://spacenews.com/ocean-experts-raise-concerns-over-deorbiting-the-international-space-station/" >🔗</a> **[SpaceNews]** Ocean experts raise concerns over deorbiting the International Space Station
 - <a href="https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/" >🔗</a> **[NASA]** Artemis I Radiation Measurements Validate Orion Safety for Astronauts
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/" >🔗</a> **[NASA]** NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
 - <a href="https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/" >🔗</a> **[NASA]** NASA Terminal Transmits First Laser Communications Uplink to Space
 - <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-preps/" >🔗</a> **[NASASpaceflight]** Starship readying for Flight 5 amid future preparations
 - <a href="https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/" >🔗</a> **[NASA]** How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips
 - <a href="https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/" >🔗</a> **[NASA]** NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
 - <a href="https://www.nasa.gov/image-article/black-hole-destroys-star-goes-after-another-nasa-missions-find/" >🔗</a> **[NASA]** Black Hole Destroys Star, Goes After Another, NASA Missions Find
-- <a href="https://www.cnbc.com/2024/10/09/bridgit-mendlers-northwood-passes-first-satellite-antenna-test.html" >🔗</a> **[CNBC]** Bridgit Mendler’s startup Northwood passes first test, linking prototype antenna to Planet satellites
-- <a href="https://spacenews.com/startup-takes-new-approach-to-space-based-solar-power/" >🔗</a> **[SpaceNews]** Startup takes new approach to space-based solar power
-- <a href="https://spacenews.com/space-policy-new-president-whoever-might-be/" >🔗</a> **[SpaceNews]** Space policy for the new President — whoever it might be
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T190118">2024-10-09 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T193113">2024-10-09 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
