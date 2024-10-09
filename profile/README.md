@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cryptic_Mars_a_land_shaped_by_ice" >🔗</a> **[ESA]** Cryptic Mars, a land shaped by ice
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-1C arrives in French Guiana
+- <a href="https://europeanspaceflight.com/thales-complete-key-testing-milestone-for-lunar-space-station-module/" >🔗</a> **[European Spaceflight]** Thales Complete Key Testing Milestone for Lunar Space Station Module
 - <a href="https://spacenews.com/nasa-awards-rocket-lab-study-contract-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA awards Rocket Lab study contract for Mars Sample Return
 - <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
 - <a href="https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/" >🔗</a> **[NASA]** NASA, Collaborators Announce a New Student Lunar Autonomy Challenge!
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://www.spacescout.info/2024/10/hera-beats-the-weather-sets-sights-on-dual-asteroid/" >🔗</a> **[Space Scout]** Hera Beats the Weather – Sets Sights on Dual Asteroid
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-4-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 4, 2024
 - <a href="https://www.nasa.gov/image-article/nasas-earth-information-center-at-the-smithsonian/" >🔗</a> **[NASA]** NASA’s Earth Information Center at the Smithsonian
-- <a href="https://spacenews.com/space-development-agency-unveils-plans-for-next-200-satellite-procurement/" >🔗</a> **[SpaceNews]** Space Development Agency unveils plans for next 200-satellite procurement
-- <a href="https://www.teslarati.com/spacex-starship-potential-test-flight-5-launch-date/" >🔗</a> **[Teslarati]** SpaceX gives new potential Starship IFT-5 launch date, and it’s sooner than you’d think
-- <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Learning and Growing Together
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T090132">2024-10-09 09:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T093257">2024-10-09 09:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
