@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starlink-activates-emergency-phone-connectivity-for-hurricane-milton/" >🔗</a> **[SpaceNews]** Starlink activates emergency phone connectivity for Hurricane Milton
+- <a href="https://science.nasa.gov/blog/sols-4327-4328-on-the-road-again/" >🔗</a> **[NASA]** Sols 4327-4328: On the Road Again
 - <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/" >🔗</a> **[NASA]** NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/project-engineer-miranda-peters-flips-the-script-on-neurological-differences/" >🔗</a> **[NASA]** Project Engineer Miranda Peters Flips the Script on Neurological Differences
 - <a href="https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/" >🔗</a> **[NASA]** 420 Years Ago: Astronomer Johannes Kepler Observes a Supernova
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/" >🔗</a> **[NASA]** Artemis I Radiation Measurements Validate Orion Safety for Astronauts
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/" >🔗</a> **[NASA]** NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
 - <a href="https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/" >🔗</a> **[NASA]** NASA Terminal Transmits First Laser Communications Uplink to Space
-- <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-preps/" >🔗</a> **[NASASpaceflight]** Starship readying for Flight 5 amid future preparations
-- <a href="https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/" >🔗</a> **[NASA]** How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T210113">2024-10-09 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T213100">2024-10-09 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
