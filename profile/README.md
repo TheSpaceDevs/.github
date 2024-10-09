@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.cnbc.com/2024/10/09/bridgit-mendlers-northwood-passes-first-satellite-antenna-test.html" >🔗</a> **[CNBC]** Bridgit Mendler’s startup Northwood passes first test, connecting prototype antenna to Planet satellites
 - <a href="https://spacenews.com/startup-takes-new-approach-to-space-based-solar-power/" >🔗</a> **[SpaceNews]** Startup takes new approach to space-based solar power
 - <a href="https://spacenews.com/space-policy-new-president-whoever-might-be/" >🔗</a> **[SpaceNews]** Space policy for the new President — whoever it might be
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cryptic_Mars_a_land_shaped_by_ice" >🔗</a> **[ESA]** Cryptic Mars, a land shaped by ice
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/thales-complete-key-testing-milestone-for-lunar-space-station-module/" >🔗</a> **[European Spaceflight]** Thales Complete Key Testing Milestone for Lunar Space Station Module
 - <a href="https://spacenews.com/nasa-awards-rocket-lab-study-contract-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA awards Rocket Lab study contract for Mars Sample Return
 - <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
-- <a href="https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/" >🔗</a> **[NASA]** NASA, Collaborators Announce a New Student Lunar Autonomy Challenge!
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T140131">2024-10-09 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T143357">2024-10-09 14:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
