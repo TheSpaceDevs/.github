@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/project-engineer-miranda-peters-flips-the-script-on-neurological-differences/" >🔗</a> **[NASA]** Project Engineer Miranda Peters Flips the Script on Neurological Differences
 - <a href="https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/" >🔗</a> **[NASA]** 420 Years Ago: Astronomer Johannes Kepler Observes a Supernova
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/" >🔗</a> **[NASA]** NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
 - <a href="https://spacenews.com/ocean-experts-raise-concerns-over-deorbiting-the-international-space-station/" >🔗</a> **[SpaceNews]** Ocean experts raise concerns over deorbiting the International Space Station
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-preps/" >🔗</a> **[NASASpaceflight]** Starship readying for Flight 5 amid future preparations
 - <a href="https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/" >🔗</a> **[NASA]** How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips
 - <a href="https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/" >🔗</a> **[NASA]** NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
-- <a href="https://www.nasa.gov/image-article/black-hole-destroys-star-goes-after-another-nasa-missions-find/" >🔗</a> **[NASA]** Black Hole Destroys Star, Goes After Another, NASA Missions Find
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T193113">2024-10-09 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T200124">2024-10-09 20:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
