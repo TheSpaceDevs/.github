@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/" >🔗</a> **[NASA]** NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
 - <a href="https://www.nasa.gov/image-article/black-hole-destroys-star-goes-after-another-nasa-missions-find/" >🔗</a> **[NASA]** Black Hole Destroys Star, Goes After Another, NASA Missions Find
 - <a href="https://www.cnbc.com/2024/10/09/bridgit-mendlers-northwood-passes-first-satellite-antenna-test.html" >🔗</a> **[CNBC]** Bridgit Mendler’s startup Northwood passes first test, linking prototype antenna to Planet satellites
 - <a href="https://spacenews.com/startup-takes-new-approach-to-space-based-solar-power/" >🔗</a> **[SpaceNews]** Startup takes new approach to space-based solar power
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Five_reasons_to_join_the_European_Space_Agency" >🔗</a> **[ESA]** Five reasons to join the European Space Agency!
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/European_settings_for_a_Moon_camera" >🔗</a> **[ESA]** European settings for a Moon camera
 - <a href="https://europeanspaceflight.com/thales-complete-key-testing-milestone-for-lunar-space-station-module/" >🔗</a> **[European Spaceflight]** Thales Complete Key Testing Milestone for Lunar Space Station Module
-- <a href="https://spacenews.com/nasa-awards-rocket-lab-study-contract-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA awards Rocket Lab study contract for Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T160133">2024-10-09 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T163520">2024-10-09 16:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
