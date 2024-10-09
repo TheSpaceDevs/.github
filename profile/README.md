@@ -93,14 +93,14 @@ into *a Suborbital
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cryptic_Mars_a_land_shaped_by_ice" >🔗</a> **[ESA]** Cryptic Mars, a land shaped by ice
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-1C arrives in French Guiana
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Five_reasons_to_join_the_European_Space_Agency" >🔗</a> **[ESA]** Five reasons to join the European Space Agency!
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/European_settings_for_a_Moon_camera" >🔗</a> **[ESA]** European settings for a Moon camera
 - <a href="https://europeanspaceflight.com/thales-complete-key-testing-milestone-for-lunar-space-station-module/" >🔗</a> **[European Spaceflight]** Thales Complete Key Testing Milestone for Lunar Space Station Module
 - <a href="https://spacenews.com/nasa-awards-rocket-lab-study-contract-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA awards Rocket Lab study contract for Mars Sample Return
 - <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
 - <a href="https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/" >🔗</a> **[NASA]** NASA, Collaborators Announce a New Student Lunar Autonomy Challenge!
 - <a href="https://www.nasa.gov/image-article/tissue-chips-accurately-model-organs-in-space/" >🔗</a> **[NASA]** Tissue Chips Accurately Model Organs in Space
 - <a href="https://www.spacescout.info/2024/10/hera-beats-the-weather-sets-sights-on-dual-asteroid/" >🔗</a> **[Space Scout]** Hera Beats the Weather – Sets Sights on Dual Asteroid
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-4-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 4, 2024
-- <a href="https://www.nasa.gov/image-article/nasas-earth-information-center-at-the-smithsonian/" >🔗</a> **[NASA]** NASA’s Earth Information Center at the Smithsonian
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T120207">2024-10-09 12:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T124233">2024-10-09 12:42:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
