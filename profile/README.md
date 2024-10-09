@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startup-takes-new-approach-to-space-based-solar-power/" >🔗</a> **[SpaceNews]** Startup takes new approach to space-based solar power
+- <a href="https://spacenews.com/space-policy-new-president-whoever-might-be/" >🔗</a> **[SpaceNews]** Space policy for the new President — whoever it might be
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Cryptic_Mars_a_land_shaped_by_ice" >🔗</a> **[ESA]** Cryptic Mars, a land shaped by ice
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_arrives_in_French_Guiana" >🔗</a> **[ESA]** Sentinel-1C arrives in French Guiana
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Five_reasons_to_join_the_European_Space_Agency" >🔗</a> **[ESA]** Five reasons to join the European Space Agency!
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/nasa-awards-rocket-lab-study-contract-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA awards Rocket Lab study contract for Mars Sample Return
 - <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
 - <a href="https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/" >🔗</a> **[NASA]** NASA, Collaborators Announce a New Student Lunar Autonomy Challenge!
-- <a href="https://www.nasa.gov/image-article/tissue-chips-accurately-model-organs-in-space/" >🔗</a> **[NASA]** Tissue Chips Accurately Model Organs in Space
-- <a href="https://www.spacescout.info/2024/10/hera-beats-the-weather-sets-sights-on-dual-asteroid/" >🔗</a> **[Space Scout]** Hera Beats the Weather – Sets Sights on Dual Asteroid
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T130559">2024-10-09 13:05:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T133449">2024-10-09 13:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
