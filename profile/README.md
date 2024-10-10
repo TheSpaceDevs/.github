@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-third-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches third high orbit internet satellite
+- <a href="https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/" >🔗</a> **[NASA]** Kathryn Sullivan: The First American Woman to Walk in Space
+- <a href="https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/" >🔗</a> **[NASA]** Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Space-made_weld_scrutinised_in_ESA_lab" >🔗</a> **[ESA]** Space-made weld scrutinised in ESA lab
 - <a href="https://europeanspaceflight.com/first-stage-for-vega-c-return-to-flight-arrives-at-launch-pad/" >🔗</a> **[European Spaceflight]** First Stage for Vega C Return to Flight Arrives at Launch Pad
 - <a href="https://spacenews.com/negar-feher-ceo-orbital-outpost-x-leading-women-in-space/" >🔗</a> **[SpaceNews]** Negar Feher, CEO, Orbital Outpost X – Leading Women in Space
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/viasat-3-satellite-begins-service-for-u-s-marine-corps/" >🔗</a> **[SpaceNews]** ViaSat-3 satellite begins service for U.S. Marine Corps
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Sound_of_Earth_s_magnetic_flip_41_000_years_ago" >🔗</a> **[ESA]** Sound of Earth’s magnetic flip 41 000 years ago
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/First_all-new_MetOp_complete_and_sibling_in_testing" >🔗</a> **[ESA]** First all-new MetOp complete and sibling in testing
-- <a href="https://europeanspaceflight.com/space-operations-automation-startup-aiko-secures-3-5m-euros-in-funding/" >🔗</a> **[European Spaceflight]** Space Operations Automation Startup AIKO Secures €3.5M in Funding
-- <a href="https://spacenews.com/nasa-really-looking-forward-to-next-starship-test-flight/" >🔗</a> **[SpaceNews]** NASA “really looking forward” to next Starship test flight
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-9-2024/" >🔗</a> **[NASA]** The Marshall Star for October 9, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T160119">2024-10-10 16:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T163532">2024-10-10 16:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
