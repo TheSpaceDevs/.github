@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aetherflux-joins-commercial-spaceflight-federation-csf/" >🔗</a> **[SpaceNews]** Aetherflux joins Commercial Spaceflight Federation (CSF)
+- <a href="https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/" >🔗</a> **[NASA]** Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson
 - <a href="https://www.nasa.gov/news-release/nasa-awards-aerospace-research-technology-and-simulations-contract/" >🔗</a> **[NASA]** NASA Awards Aerospace Research, Technology, and Simulations Contract
 - <a href="https://www.nasa.gov/news-release/nasa-highlights-low-earth-orbit-sustainability-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Low Earth Orbit, Sustainability at Space Conference
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_takes_flight_Didymos_here_we_come" >🔗</a> **[ESA]** Hera takes flight: Didymos, here we come
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/u-s-military-spaceplane-to-perform-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane to perform orbital maneuvers
 - <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-for-hurricane-helene-disaster-relief/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites for Hurricane Helene disaster relief
 - <a href="https://www.nasa.gov/organizations/otps/lunar-autonomy-mobility-pathfinder-workshop-a-nasa-chief-technologist-sponsored-workshop/" >🔗</a> **[NASA]** Lunar Autonomy Mobility Pathfinder Workshop: A NASA Chief Technologist Sponsored Workshop
-- <a href="https://spacenews.com/china-launches-third-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches third high orbit internet satellite
-- <a href="https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/" >🔗</a> **[NASA]** Kathryn Sullivan: The First American Woman to Walk in Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T210122">2024-10-10 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T213119">2024-10-10 21:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
