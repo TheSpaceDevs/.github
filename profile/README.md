@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_takes_flight_Didymos_here_we_come" >🔗</a> **[ESA]** Hera takes flight: Didymos, here we come
+- <a href="https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/" >🔗</a> **[NASA]** First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 - <a href="https://www.nasa.gov/image-article/ring-around-the-mountain/" >🔗</a> **[NASA]** Ring Around the Mountain
 - <a href="https://spacenews.com/u-s-military-spaceplane-to-perform-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane to perform orbital maneuvers
 - <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-for-hurricane-helene-disaster-relief/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites for Hurricane Helene disaster relief
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/" >🔗</a> **[NASA]** Kathryn Sullivan: The First American Woman to Walk in Space
 - <a href="https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/" >🔗</a> **[NASA]** Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Space-made_weld_scrutinised_in_ESA_lab" >🔗</a> **[ESA]** Space-made weld scrutinised in ESA lab
-- <a href="https://europeanspaceflight.com/first-stage-for-vega-c-return-to-flight-arrives-at-launch-pad/" >🔗</a> **[European Spaceflight]** First Stage for Vega C Return to Flight Arrives at Launch Pad
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T190122">2024-10-10 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T193113">2024-10-10 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
