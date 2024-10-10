@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-highlights-low-earth-orbit-sustainability-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Low Earth Orbit, Sustainability at Space Conference
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_takes_flight_Didymos_here_we_come" >🔗</a> **[ESA]** Hera takes flight: Didymos, here we come
 - <a href="https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/" >🔗</a> **[NASA]** First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 - <a href="https://www.nasa.gov/image-article/ring-around-the-mountain/" >🔗</a> **[NASA]** Ring Around the Mountain
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/china-launches-third-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches third high orbit internet satellite
 - <a href="https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/" >🔗</a> **[NASA]** Kathryn Sullivan: The First American Woman to Walk in Space
 - <a href="https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/" >🔗</a> **[NASA]** Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Space-made_weld_scrutinised_in_ESA_lab" >🔗</a> **[ESA]** Space-made weld scrutinised in ESA lab
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T193113">2024-10-10 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T200128">2024-10-10 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
