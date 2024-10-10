@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 3B/E | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 2 (LC-2)</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T134000">2024-10-10 13:40:00 UTC</a>.  Until
-then, this pad will have been used for 112
-out of 212 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**New Shepard | NS-27**. It is scheduled to be launched by *Blue Origin*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T130000">2024-10-11 13:00:00 UTC</a>.  Until
+then, this pad will have been used for 26
+out of 26 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Suborbital* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Details TBD.
+  Twenty-seventh flight of New Shepard,flying unmanned as a test for the newest booster.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.245564,102.026751" >
+  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T233100">2024-10-15 23:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241015T233100Z%2F20241015T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T064400">2024-10-26 06:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241026T064400Z%2F20241026T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T044900">2024-10-30 04:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-31&location=Kennedy Space Center, FL, USA&dates=20241030T044900Z%2F20241030T044900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-31** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Space-made_weld_scrutinised_in_ESA_lab" >🔗</a> **[ESA]** Space-made weld scrutinised in ESA lab
+- <a href="https://europeanspaceflight.com/first-stage-for-vega-c-return-to-flight-arrives-at-launch-pad/" >🔗</a> **[European Spaceflight]** First Stage for Vega C Return to Flight Arrives at Launch Pad
 - <a href="https://spacenews.com/negar-feher-ceo-orbital-outpost-x-leading-women-in-space/" >🔗</a> **[SpaceNews]** Negar Feher, CEO, Orbital Outpost X – Leading Women in Space
 - <a href="https://spacenews.com/volta-space-technologies-unveils-plans-for-lunar-power-satellite-network/" >🔗</a> **[SpaceNews]** Volta Space Technologies unveils plans for lunar power satellite network
 - <a href="https://spacenews.com/viasat-3-satellite-begins-service-for-u-s-marine-corps/" >🔗</a> **[SpaceNews]** ViaSat-3 satellite begins service for U.S. Marine Corps
@@ -98,17 +101,16 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/space-operations-automation-startup-aiko-secures-3-5m-euros-in-funding/" >🔗</a> **[European Spaceflight]** Space Operations Automation Startup AIKO Secures €3.5M in Funding
 - <a href="https://spacenews.com/nasa-really-looking-forward-to-next-starship-test-flight/" >🔗</a> **[SpaceNews]** NASA “really looking forward” to next Starship test flight
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-9-2024/" >🔗</a> **[NASA]** The Marshall Star for October 9, 2024
-- <a href="https://spacenews.com/debate-over-space-guard-rekindles-amid-growing-reliance-on-satellites-for-disaster-relief/" >🔗</a> **[SpaceNews]** Debate over Space Guard rekindles amid growing reliance on satellites for disaster relief
-- <a href="https://spacenews.com/starlink-activates-emergency-phone-connectivity-for-hurricane-milton/" >🔗</a> **[SpaceNews]** Starlink activates emergency phone connectivity for Hurricane Milton
 
 
 ### Launch-related News 🚀
 
+- <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T140127">2024-10-10 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T143348">2024-10-10 14:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
