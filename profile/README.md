@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Sound_of_Earth_s_magnetic_flip_41_000_years_ago" >🔗</a> **[ESA]** Sound of Earth’s magnetic flip 41 000 years ago
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/First_all-new_MetOp_complete_and_sibling_in_testing" >🔗</a> **[ESA]** First all-new MetOp complete and sibling in testing
 - <a href="https://europeanspaceflight.com/space-operations-automation-startup-aiko-secures-3-5m-euros-in-funding/" >🔗</a> **[European Spaceflight]** Space Operations Automation Startup AIKO Secures €3.5M in Funding
 - <a href="https://spacenews.com/nasa-really-looking-forward-to-next-starship-test-flight/" >🔗</a> **[SpaceNews]** NASA “really looking forward” to next Starship test flight
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/sols-4327-4328-on-the-road-again/" >🔗</a> **[NASA]** Sols 4327-4328: On the Road Again
 - <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/" >🔗</a> **[NASA]** NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/project-engineer-miranda-peters-flips-the-script-on-neurological-differences/" >🔗</a> **[NASA]** Project Engineer Miranda Peters Flips the Script on Neurological Differences
-- <a href="https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/" >🔗</a> **[NASA]** 420 Years Ago: Astronomer Johannes Kepler Observes a Supernova
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T080126">2024-10-10 08:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T083505">2024-10-10 08:35:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
