@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-really-looking-forward-to-next-starship-test-flight/" >🔗</a> **[SpaceNews]** NASA “really looking forward” to next Starship test flight
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-9-2024/" >🔗</a> **[NASA]** The Marshall Star for October 9, 2024
 - <a href="https://spacenews.com/debate-over-space-guard-rekindles-amid-growing-reliance-on-satellites-for-disaster-relief/" >🔗</a> **[SpaceNews]** Debate over Space Guard rekindles amid growing reliance on satellites for disaster relief
 - <a href="https://spacenews.com/starlink-activates-emergency-phone-connectivity-for-hurricane-milton/" >🔗</a> **[SpaceNews]** Starlink activates emergency phone connectivity for Hurricane Milton
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/" >🔗</a> **[NASA]** 420 Years Ago: Astronomer Johannes Kepler Observes a Supernova
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/" >🔗</a> **[NASA]** NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
 - <a href="https://spacenews.com/ocean-experts-raise-concerns-over-deorbiting-the-international-space-station/" >🔗</a> **[SpaceNews]** Ocean experts raise concerns over deorbiting the International Space Station
-- <a href="https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/" >🔗</a> **[NASA]** Artemis I Radiation Measurements Validate Orion Safety for Astronauts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241009T233141">2024-10-09 23:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T000421">2024-10-10 00:04:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
