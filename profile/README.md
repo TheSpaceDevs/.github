@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/negar-feher-ceo-orbital-outpost-x-leading-women-in-space/" >🔗</a> **[SpaceNews]** Negar Feher, CEO, Orbital Outpost X – Leading Women in Space
+- <a href="https://spacenews.com/volta-space-technologies-unveils-plans-for-lunar-power-satellite-network/" >🔗</a> **[SpaceNews]** Volta Space Technologies unveils plans for lunar power satellite network
 - <a href="https://spacenews.com/viasat-3-satellite-begins-service-for-u-s-marine-corps/" >🔗</a> **[SpaceNews]** ViaSat-3 satellite begins service for U.S. Marine Corps
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Sound_of_Earth_s_magnetic_flip_41_000_years_ago" >🔗</a> **[ESA]** Sound of Earth’s magnetic flip 41 000 years ago
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/First_all-new_MetOp_complete_and_sibling_in_testing" >🔗</a> **[ESA]** First all-new MetOp complete and sibling in testing
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-9-2024/" >🔗</a> **[NASA]** The Marshall Star for October 9, 2024
 - <a href="https://spacenews.com/debate-over-space-guard-rekindles-amid-growing-reliance-on-satellites-for-disaster-relief/" >🔗</a> **[SpaceNews]** Debate over Space Guard rekindles amid growing reliance on satellites for disaster relief
 - <a href="https://spacenews.com/starlink-activates-emergency-phone-connectivity-for-hurricane-milton/" >🔗</a> **[SpaceNews]** Starlink activates emergency phone connectivity for Hurricane Milton
-- <a href="https://science.nasa.gov/blog/sols-4327-4328-on-the-road-again/" >🔗</a> **[NASA]** Sols 4327-4328: On the Road Again
-- <a href="https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/" >🔗</a> **[NASA]** NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T130555">2024-10-10 13:05:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T133430">2024-10-10 13:34:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
