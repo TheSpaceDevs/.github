@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_takes_flight_Didymos_here_we_come" >🔗</a> **[ESA]** Hera takes flight: Didymos, here we come
+- <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-for-hurricane-helene-disaster-relief/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites for Hurricane Helene disaster relief
+- <a href="https://www.nasa.gov/organizations/otps/lunar-autonomy-mobility-pathfinder-workshop-a-nasa-chief-technologist-sponsored-workshop/" >🔗</a> **[NASA]** Lunar Autonomy Mobility Pathfinder Workshop: A NASA Chief Technologist Sponsored Workshop
 - <a href="https://spacenews.com/china-launches-third-high-orbit-internet-satellite/" >🔗</a> **[SpaceNews]** China launches third high orbit internet satellite
 - <a href="https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/" >🔗</a> **[NASA]** Kathryn Sullivan: The First American Woman to Walk in Space
 - <a href="https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/" >🔗</a> **[NASA]** Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/first-stage-for-vega-c-return-to-flight-arrives-at-launch-pad/" >🔗</a> **[European Spaceflight]** First Stage for Vega C Return to Flight Arrives at Launch Pad
 - <a href="https://spacenews.com/negar-feher-ceo-orbital-outpost-x-leading-women-in-space/" >🔗</a> **[SpaceNews]** Negar Feher, CEO, Orbital Outpost X – Leading Women in Space
 - <a href="https://spacenews.com/volta-space-technologies-unveils-plans-for-lunar-power-satellite-network/" >🔗</a> **[SpaceNews]** Volta Space Technologies unveils plans for lunar power satellite network
-- <a href="https://spacenews.com/viasat-3-satellite-begins-service-for-u-s-marine-corps/" >🔗</a> **[SpaceNews]** ViaSat-3 satellite begins service for U.S. Marine Corps
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Sound_of_Earth_s_magnetic_flip_41_000_years_ago" >🔗</a> **[ESA]** Sound of Earth’s magnetic flip 41 000 years ago
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/First_all-new_MetOp_complete_and_sibling_in_testing" >🔗</a> **[ESA]** First all-new MetOp complete and sibling in testing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T170127">2024-10-10 17:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T173307">2024-10-10 17:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
