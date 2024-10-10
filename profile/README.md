@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/First_all-new_MetOp_complete_and_sibling_in_testing" >🔗</a> **[ESA]** First all-new MetOp complete and sibling in testing
 - <a href="https://spacenews.com/nasa-really-looking-forward-to-next-starship-test-flight/" >🔗</a> **[SpaceNews]** NASA “really looking forward” to next Starship test flight
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-9-2024/" >🔗</a> **[NASA]** The Marshall Star for October 9, 2024
 - <a href="https://spacenews.com/debate-over-space-guard-rekindles-amid-growing-reliance-on-satellites-for-disaster-relief/" >🔗</a> **[SpaceNews]** Debate over Space Guard rekindles amid growing reliance on satellites for disaster relief
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/project-engineer-miranda-peters-flips-the-script-on-neurological-differences/" >🔗</a> **[NASA]** Project Engineer Miranda Peters Flips the Script on Neurological Differences
 - <a href="https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/" >🔗</a> **[NASA]** 420 Years Ago: Astronomer Johannes Kepler Observes a Supernova
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/" >🔗</a> **[NASA]** NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
-- <a href="https://spacenews.com/ocean-experts-raise-concerns-over-deorbiting-the-international-space-station/" >🔗</a> **[SpaceNews]** Ocean experts raise concerns over deorbiting the International Space Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T070112">2024-10-10 07:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T073104">2024-10-10 07:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
