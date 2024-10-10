@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japans-h3-to-launch-emirati-asteroid-mission/" >🔗</a> **[SpaceNews]** Japan’s H3 to launch Emirati asteroid mission
 - <a href="https://spacenews.com/aetherflux-joins-commercial-spaceflight-federation-csf/" >🔗</a> **[SpaceNews]** Aetherflux joins Commercial Spaceflight Federation (CSF)
 - <a href="https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/" >🔗</a> **[NASA]** Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson
 - <a href="https://www.nasa.gov/news-release/nasa-awards-aerospace-research-technology-and-simulations-contract/" >🔗</a> **[NASA]** NASA Awards Aerospace Research, Technology, and Simulations Contract
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/ring-around-the-mountain/" >🔗</a> **[NASA]** Ring Around the Mountain
 - <a href="https://spacenews.com/u-s-military-spaceplane-to-perform-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane to perform orbital maneuvers
 - <a href="https://spacenews.com/u-s-space-force-taps-commercial-satellites-for-hurricane-helene-disaster-relief/" >🔗</a> **[SpaceNews]** U.S. Space Force taps commercial satellites for Hurricane Helene disaster relief
-- <a href="https://www.nasa.gov/organizations/otps/lunar-autonomy-mobility-pathfinder-workshop-a-nasa-chief-technologist-sponsored-workshop/" >🔗</a> **[NASA]** Lunar Autonomy Mobility Pathfinder Workshop: A NASA Chief Technologist Sponsored Workshop
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T213119">2024-10-10 21:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241010T220127">2024-10-10 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
