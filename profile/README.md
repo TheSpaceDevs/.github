@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/" >🔗</a> **[NASA]** Hubble Spots a Grand Spiral of Starbursts
+- <a href="https://spacenews.com/shijian-19-reusable-satellite-lands-after-2-weeks-in-space/" >🔗</a> **[SpaceNews]** Shijian-19 reusable satellite lands after 2 weeks in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Hardap_Dam_Namibia" >🔗</a> **[ESA]** Earth from Space: Hardap Dam, Namibia
 - <a href="https://spacepolicyonline.com/news/dods-x-37b-to-test-aerobraking/" >🔗</a> **[SpacePolicyOnline.com]** DOD’s X-37B to Test Aerobraking
 - <a href="https://www.nasaspaceflight.com/2024/10/dragon-propulsive-landing/" >🔗</a> **[NASASpaceflight]** Dragon receives long-planned propulsive landing upgrade after years of development
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/" >🔗</a> **[NASA]** Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson
 - <a href="https://www.nasa.gov/news-release/nasa-awards-aerospace-research-technology-and-simulations-contract/" >🔗</a> **[NASA]** NASA Awards Aerospace Research, Technology, and Simulations Contract
 - <a href="https://www.nasa.gov/news-release/nasa-highlights-low-earth-orbit-sustainability-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Low Earth Orbit, Sustainability at Space Conference
-- <a href="https://www.esa.int/Space_Safety/Hera/Hera_takes_flight_Didymos_here_we_come" >🔗</a> **[ESA]** Hera takes flight: Didymos, here we come
-- <a href="https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/" >🔗</a> **[NASA]** First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T110125">2024-10-11 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T113119">2024-10-11 11:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
