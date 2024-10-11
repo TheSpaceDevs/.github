@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-allows-falcon-9-launches-to-resume/" >🔗</a> **[SpaceNews]** FAA allows Falcon 9 launches to resume
+- <a href="https://science.nasa.gov/blog/sols-4329-4330-continuing-downhill/" >🔗</a> **[NASA]** Sols 4329-4330: Continuing Downhill
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Supermoon, and the Hunter’s Moon
 - <a href="https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/" >🔗</a> **[NASA]** NASA Celebrates Hispanic Heritage Month 2024
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-8-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-8 Return, Splashdown
 - <a href="https://www.nasa.gov/image-article/ancient-comet-makes-appearance/" >🔗</a> **[NASA]** Ancient Comet Makes Appearance
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/" >🔗</a> **[NASA]** Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/" >🔗</a> **[NASA]** Controlled Propulsion for Gentle Landings
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_October_2024" >🔗</a> **[ESA]** Week in images: 07-11 October 2024
-- <a href="https://www.nasa.gov/image-article/program-executive-dr-yaitza-luna-cruz/" >🔗</a> **[NASA]** Program Executive Dr. Yaítza Luna-Cruz
-- <a href="https://www.spacescout.info/2024/10/europa-clipper-set-to-revolutionize-jovian-science/" >🔗</a> **[Space Scout]** Europa Clipper Set to Revolutionize Jovian Science
-- <a href="https://europeanspaceflight.com/nammo-uk-submits-bid-for-argonaut-lunar-lander-main-engine/" >🔗</a> **[European Spaceflight]** Nammo UK Submits Bid for Argonaut Lunar Lander Main Engine
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T230110">2024-10-11 23:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T233111">2024-10-11 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
