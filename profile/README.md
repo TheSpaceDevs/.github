@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_October_2024" >🔗</a> **[ESA]** Week in images: 07-11 October 2024
 - <a href="https://spacenews.com/planning-our-lunar-return-get-telescope/" >🔗</a> **[SpaceNews]** Planning our lunar return? Get a telescope
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/" >🔗</a> **[NASA]** Hubble Spots a Grand Spiral of Starbursts
 - <a href="https://spacenews.com/shijian-19-reusable-satellite-lands-after-2-weeks-in-space/" >🔗</a> **[SpaceNews]** Shijian-19 reusable satellite lands after 2 weeks in space
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/japans-h3-to-launch-emirati-asteroid-mission/" >🔗</a> **[SpaceNews]** Japan’s H3 to launch Emirati asteroid mission
 - <a href="https://spacenews.com/aetherflux-joins-commercial-spaceflight-federation-csf/" >🔗</a> **[SpaceNews]** Aetherflux joins Commercial Spaceflight Federation (CSF)
 - <a href="https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/" >🔗</a> **[NASA]** Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson
-- <a href="https://www.nasa.gov/news-release/nasa-awards-aerospace-research-technology-and-simulations-contract/" >🔗</a> **[NASA]** NASA Awards Aerospace Research, Technology, and Simulations Contract
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T130532">2024-10-11 13:05:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T133348">2024-10-11 13:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
