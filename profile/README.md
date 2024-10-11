@@ -105,6 +105,8 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/nasa-really-looking-forward-to-next-starship-test-flight/" >🔗</a> **[SpaceNews]** NASA “really looking forward” to next Starship test flight
+- <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-preps/" >🔗</a> **[NASASpaceflight]** Starship readying for Flight 5 amid future preparations
 - <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
 - <a href="https://www.teslarati.com/spacex-starship-potential-test-flight-5-launch-date/" >🔗</a> **[Teslarati]** SpaceX gives new potential Starship IFT-5 launch date, and it’s sooner than you’d think
 - <a href="https://spacepolicyonline.com/news/spacex-confirms-next-starship-test-will-try-to-catch-the-booster/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Confirms Next Starship Test Will Try to Catch the Booster
@@ -113,13 +115,11 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2024/09/starship-5-full-stack/" >🔗</a> **[NASASpaceflight]** Starship Flight Five conducts Full-Stack Testing ahead of Launch
 - <a href="https://www.teslarati.com/elon-musk-roasts-faa-revealing-spacex-starship-static-fire-success/" >🔗</a> **[Teslarati]** Elon Musk roasts FAA while revealing SpaceX Starship static fire success
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-pad-starbase-flight-5-faa/" >🔗</a> **[NASASpaceflight]** Launch Pad work continues at Starbase as Flight 5 delayed by FAA
-- <a href="https://spacenews.com/faa-defends-starship-licensing-delays/" >🔗</a> **[SpaceNews]** FAA defends Starship licensing delays
-- <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T060131">2024-10-11 06:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T063638">2024-10-11 06:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
