@@ -20,34 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-27**. It is scheduled to be launched by *Blue Origin*
+**Starship | Integrated Flight Test 5**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_South_Texas_Launch_Site">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T130000">2024-10-11 13:00:00 UTC</a>.  Until
-then, this pad will have been used for 26
-out of 26 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T120000">2024-10-13 12:00:00 UTC</a>.  Until
+then, this pad will have been used for 4
+out of 13 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
-*Suborbital* and the payload will be injected
+*Test Flight* and the payload will be injected
 into *a Suborbital
 (Sub)*.
 <br>
 <blockquote>
-  Twenty-seventh flight of New Shepard,flying unmanned as a test for the newest booster.
+  Fifth test flight of the two-stage Starship launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="https://www.google.com/maps?q=25.997116,-97.15503099856647" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T130000">2024-10-11 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241011T130000Z%2F20241011T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T120000">2024-10-13 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 5&location=SpaceX Starbase, TX, USA&dates=20241013T120000Z%2F20241013T131000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 5** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T130000">2024-10-13 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241013T130000Z%2F20241013T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T161200">2024-10-13 16:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Europa Clipper&location=Kennedy Space Center, FL, USA&dates=20241013T161200Z%2F20241013T161200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Europa Clipper** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241014T054800">2024-10-14 05:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-10&location=Cape Canaveral SFS, FL, USA&dates=20241014T054800Z%2F20241014T094800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T080300">2024-10-15 08:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-7&location=Vandenberg SFB, CA, USA&dates=20241015T080300Z%2F20241015T120300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-7** from Vandenberg SFB, CA, USA.
@@ -105,12 +105,21 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
-- <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
+- <a href="https://www.cnbc.com/2024/10/08/spacex-starship-faa-license-sunday-launch.html" >🔗</a> **[CNBC]** SpaceX may receive FAA license for next Starship launch in time for Sunday attempt
+- <a href="https://www.teslarati.com/spacex-starship-potential-test-flight-5-launch-date/" >🔗</a> **[Teslarati]** SpaceX gives new potential Starship IFT-5 launch date, and it’s sooner than you’d think
+- <a href="https://spacepolicyonline.com/news/spacex-confirms-next-starship-test-will-try-to-catch-the-booster/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Confirms Next Starship Test Will Try to Catch the Booster
+- <a href="https://tlpnetwork.com/news/america/spacex-targets-october-13-for-starship-5th-flight-test-and-historic-booster-catch-attempt" >🔗</a> **[The Launch Pad]** SpaceX Targets October 13 for Starship 5th Flight Test & Historic Booster Catch Attempt
+- <a href="https://spacepolicyonline.com/news/faa-spacex-spar-over-fines-starship-ift-5-delay/" >🔗</a> **[SpacePolicyOnline.com]** FAA, SpaceX Spar Over Fines, Starship IFT-5 Delay
+- <a href="https://www.nasaspaceflight.com/2024/09/starship-5-full-stack/" >🔗</a> **[NASASpaceflight]** Starship Flight Five conducts Full-Stack Testing ahead of Launch
+- <a href="https://www.teslarati.com/elon-musk-roasts-faa-revealing-spacex-starship-static-fire-success/" >🔗</a> **[Teslarati]** Elon Musk roasts FAA while revealing SpaceX Starship static fire success
+- <a href="https://www.nasaspaceflight.com/2024/09/launch-pad-starbase-flight-5-faa/" >🔗</a> **[NASASpaceflight]** Launch Pad work continues at Starbase as Flight 5 delayed by FAA
+- <a href="https://spacenews.com/faa-defends-starship-licensing-delays/" >🔗</a> **[SpaceNews]** FAA defends Starship licensing delays
+- <a href="https://spacepolicyonline.com/news/spacex-complains-of-starship-licensing-delay-as-house-committee-questions-faa-regs/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Complains of Starship Licensing Delay As House Committee Questions FAA Regs
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T000422">2024-10-11 00:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T004531">2024-10-11 00:45:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
