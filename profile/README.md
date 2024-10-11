@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_October_2024" >🔗</a> **[ESA]** Week in images: 07-11 October 2024
+- <a href="https://www.nasa.gov/image-article/program-executive-dr-yaitza-luna-cruz/" >🔗</a> **[NASA]** Program Executive Dr. Yaítza Luna-Cruz
 - <a href="https://www.spacescout.info/2024/10/europa-clipper-set-to-revolutionize-jovian-science/" >🔗</a> **[Space Scout]** Europa Clipper Set to Revolutionize Jovian Science
 - <a href="https://europeanspaceflight.com/nammo-uk-submits-bid-for-argonaut-lunar-lander-main-engine/" >🔗</a> **[European Spaceflight]** Nammo UK Submits Bid for Argonaut Lunar Lander Main Engine
 - <a href="https://spacenews.com/planning-our-lunar-return-get-telescope/" >🔗</a> **[SpaceNews]** Planning our lunar return? Get a telescope
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Hardap_Dam_Namibia" >🔗</a> **[ESA]** Earth from Space: Hardap Dam, Namibia
 - <a href="https://spacepolicyonline.com/news/dods-x-37b-to-test-aerobraking/" >🔗</a> **[SpacePolicyOnline.com]** DOD’s X-37B to Test Aerobraking
 - <a href="https://www.nasaspaceflight.com/2024/10/dragon-propulsive-landing/" >🔗</a> **[NASASpaceflight]** Dragon receives long-planned propulsive landing upgrade after years of development
-- <a href="https://spacenews.com/japans-h3-to-launch-emirati-asteroid-mission/" >🔗</a> **[SpaceNews]** Japan’s H3 to launch Emirati asteroid mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T150119">2024-10-11 15:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T153235">2024-10-11 15:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
