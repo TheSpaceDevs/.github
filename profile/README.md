@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/" >🔗</a> **[NASA]** Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/" >🔗</a> **[NASA]** Controlled Propulsion for Gentle Landings
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_October_2024" >🔗</a> **[ESA]** Week in images: 07-11 October 2024
 - <a href="https://www.nasa.gov/image-article/program-executive-dr-yaitza-luna-cruz/" >🔗</a> **[NASA]** Program Executive Dr. Yaítza Luna-Cruz
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/" >🔗</a> **[NASA]** Hubble Spots a Grand Spiral of Starbursts
 - <a href="https://spacenews.com/shijian-19-reusable-satellite-lands-after-2-weeks-in-space/" >🔗</a> **[SpaceNews]** Shijian-19 reusable satellite lands after 2 weeks in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Hardap_Dam_Namibia" >🔗</a> **[ESA]** Earth from Space: Hardap Dam, Namibia
-- <a href="https://spacepolicyonline.com/news/dods-x-37b-to-test-aerobraking/" >🔗</a> **[SpacePolicyOnline.com]** DOD’s X-37B to Test Aerobraking
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T180134">2024-10-11 18:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T183557">2024-10-11 18:35:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
