@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/dods-x-37b-to-test-aerobraking/" >🔗</a> **[SpacePolicyOnline.com]** DOD’s X-37B to Test Aerobraking
 - <a href="https://www.nasaspaceflight.com/2024/10/dragon-propulsive-landing/" >🔗</a> **[NASASpaceflight]** Dragon receives long-planned propulsive landing upgrade after years of development
 - <a href="https://spacenews.com/japans-h3-to-launch-emirati-asteroid-mission/" >🔗</a> **[SpaceNews]** Japan’s H3 to launch Emirati asteroid mission
 - <a href="https://spacenews.com/aetherflux-joins-commercial-spaceflight-federation-csf/" >🔗</a> **[SpaceNews]** Aetherflux joins Commercial Spaceflight Federation (CSF)
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_takes_flight_Didymos_here_we_come" >🔗</a> **[ESA]** Hera takes flight: Didymos, here we come
 - <a href="https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/" >🔗</a> **[NASA]** First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 - <a href="https://www.nasa.gov/image-article/ring-around-the-mountain/" >🔗</a> **[NASA]** Ring Around the Mountain
-- <a href="https://spacenews.com/u-s-military-spaceplane-to-perform-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane to perform orbital maneuvers
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T004531">2024-10-11 00:45:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T012813">2024-10-11 01:28:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
