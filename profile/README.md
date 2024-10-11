@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/ancient-comet-makes-appearance/" >🔗</a> **[NASA]** Ancient Comet Makes Appearance
+- <a href="https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/" >🔗</a> **[NASA]** ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/" >🔗</a> **[NASA]** Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/" >🔗</a> **[NASA]** Controlled Propulsion for Gentle Landings
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_October_2024" >🔗</a> **[ESA]** Week in images: 07-11 October 2024
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/nammo-uk-submits-bid-for-argonaut-lunar-lander-main-engine/" >🔗</a> **[European Spaceflight]** Nammo UK Submits Bid for Argonaut Lunar Lander Main Engine
 - <a href="https://spacenews.com/planning-our-lunar-return-get-telescope/" >🔗</a> **[SpaceNews]** Planning our lunar return? Get a telescope
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/" >🔗</a> **[NASA]** Hubble Spots a Grand Spiral of Starbursts
-- <a href="https://spacenews.com/shijian-19-reusable-satellite-lands-after-2-weeks-in-space/" >🔗</a> **[SpaceNews]** Shijian-19 reusable satellite lands after 2 weeks in space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Hardap_Dam_Namibia" >🔗</a> **[ESA]** Earth from Space: Hardap Dam, Namibia
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T190114">2024-10-11 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T193108">2024-10-11 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
