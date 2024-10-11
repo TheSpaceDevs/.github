@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-8-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-8 Return, Splashdown
 - <a href="https://www.nasa.gov/image-article/ancient-comet-makes-appearance/" >🔗</a> **[NASA]** Ancient Comet Makes Appearance
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/" >🔗</a> **[NASA]** ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/" >🔗</a> **[NASA]** Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.spacescout.info/2024/10/europa-clipper-set-to-revolutionize-jovian-science/" >🔗</a> **[Space Scout]** Europa Clipper Set to Revolutionize Jovian Science
 - <a href="https://europeanspaceflight.com/nammo-uk-submits-bid-for-argonaut-lunar-lander-main-engine/" >🔗</a> **[European Spaceflight]** Nammo UK Submits Bid for Argonaut Lunar Lander Main Engine
 - <a href="https://spacenews.com/planning-our-lunar-return-get-telescope/" >🔗</a> **[SpaceNews]** Planning our lunar return? Get a telescope
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/" >🔗</a> **[NASA]** Hubble Spots a Grand Spiral of Starbursts
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T200128">2024-10-11 20:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241011T203335">2024-10-11 20:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
