@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/anduril-and-impulse-space-to-collaborate-on-ai-driven-satellite-mobility/" >🔗</a> **[SpaceNews]** Anduril and Impulse Space to collaborate on AI-driven satellite mobility
 - <a href="https://spacenews.com/boeing-plans-more-commercial-crew-charges/" >🔗</a> **[SpaceNews]** Boeing plans more commercial crew charges
 - <a href="https://spacepolicyonline.com/news/faa-approves-falcon-9-return-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Falcon 9 Return to Flight
 - <a href="https://spacenews.com/faa-allows-falcon-9-launches-to-resume/" >🔗</a> **[SpaceNews]** FAA allows Falcon 9 launches to resume
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-8-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-8 Return, Splashdown
 - <a href="https://www.nasa.gov/image-article/ancient-comet-makes-appearance/" >🔗</a> **[NASA]** Ancient Comet Makes Appearance
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/" >🔗</a> **[NASA]** ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/" >🔗</a> **[NASA]** Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T100132">2024-10-12 10:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T103342">2024-10-12 10:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
