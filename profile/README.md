@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-plans-more-commercial-crew-charges/" >🔗</a> **[SpaceNews]** Boeing plans more commercial crew charges
 - <a href="https://spacepolicyonline.com/news/faa-approves-falcon-9-return-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Falcon 9 Return to Flight
 - <a href="https://spacenews.com/faa-allows-falcon-9-launches-to-resume/" >🔗</a> **[SpaceNews]** FAA allows Falcon 9 launches to resume
 - <a href="https://science.nasa.gov/blog/sols-4329-4330-continuing-downhill/" >🔗</a> **[NASA]** Sols 4329-4330: Continuing Downhill
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/ancient-comet-makes-appearance/" >🔗</a> **[NASA]** Ancient Comet Makes Appearance
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/" >🔗</a> **[NASA]** ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/" >🔗</a> **[NASA]** Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/" >🔗</a> **[NASA]** Controlled Propulsion for Gentle Landings
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T070112">2024-10-12 07:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T073111">2024-10-12 07:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
