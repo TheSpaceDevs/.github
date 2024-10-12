@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/space-trifecta-on-tap-tomorrow-morning/" >🔗</a> **[SpacePolicyOnline.com]** Space Trifecta on Tap Tomorrow Morning
 - <a href="https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/" >🔗</a> **[NASA]** NASA Activates Resources to Help Assess Impacts from Hurricane Milton
 - <a href="https://spacepolicyonline.com/news/faa-approves-starship-ift-5-test-flight-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Starship IFT-5 Test Flight Tomorrow
 - <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-catch/" >🔗</a> **[NASASpaceflight]** Starship Flight 5 The Catch
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/faa-allows-falcon-9-launches-to-resume/" >🔗</a> **[SpaceNews]** FAA allows Falcon 9 launches to resume
 - <a href="https://science.nasa.gov/blog/sols-4329-4330-continuing-downhill/" >🔗</a> **[NASA]** Sols 4329-4330: Continuing Downhill
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/" >🔗</a> **[NASA]** The Next Full Moon is a Supermoon, and the Hunter’s Moon
-- <a href="https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/" >🔗</a> **[NASA]** NASA Celebrates Hispanic Heritage Month 2024
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T230118">2024-10-12 23:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241012T233122">2024-10-12 23:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
