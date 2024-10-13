@@ -91,6 +91,7 @@ into *a Heliocentric N/A
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-estonia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Estonia as Newest Artemis Accords Signatory
 - <a href="https://spacenews.com/spacex-launches-fifth-starship-catches-super-heavy-booster/" >🔗</a> **[SpaceNews]** SpaceX launches fifth Starship, catches Super Heavy booster
 - <a href="https://www.teslarati.com/spacex-aces-fifth-starship-test-flight-successful-super-heavy-booster-catch/" >🔗</a> **[Teslarati]** SpaceX aces fifth Starship test flight with successful Super Heavy booster catch
 - <a href="https://spacepolicyonline.com/news/spacex-catches-a-booster-a-big-one/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Booster — a Big One
@@ -100,7 +101,6 @@ into *a Heliocentric N/A
 - <a href="https://spaceflightnow.com/2024/10/13/live-coverage-spacex-to-launch-5th-flight-test-of-starship-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to attempt first booster catch during the Starship Flight 5 mission
 - <a href="https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/" >🔗</a> **[NASA]** Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 - <a href="https://spacepolicyonline.com/news/space-trifecta-on-tap-tomorrow-morning/" >🔗</a> **[SpacePolicyOnline.com]** Space Trifecta on Tap Tomorrow Morning
-- <a href="https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/" >🔗</a> **[NASA]** NASA Activates Resources to Help Assess Impacts from Hurricane Milton
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Heliocentric N/A
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T160127">2024-10-13 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T163450">2024-10-13 16:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
