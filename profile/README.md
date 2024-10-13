@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T123000">2024-10-13 12:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241014T123000">2024-10-14 12:30:00 UTC</a>.  Until
 then, this pad will have been used for 26
 out of 26 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+*TBC* 🟨 . The mission type is
 *Suborbital* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -46,6 +46,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241014T123000">2024-10-14 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241014T123000Z%2F20241014T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241014T160600">2024-10-14 16:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | Europa Clipper&location=Kennedy Space Center, FL, USA&dates=20241014T160600Z%2F20241014T160600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | Europa Clipper** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T052600">2024-10-15 05:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-10&location=Cape Canaveral SFS, FL, USA&dates=20241015T052600Z%2F20241015T092600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T080300">2024-10-15 08:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-7&location=Vandenberg SFB, CA, USA&dates=20241015T080300Z%2F20241015T120300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-7** from Vandenberg SFB, CA, USA.
@@ -93,7 +94,7 @@ into *a Suborbital
 - <a href="https://spacenews.com/spacex-launches-fifth-starship-catches-super-heavy-booster/" >🔗</a> **[SpaceNews]** SpaceX launches fifth Starship, catches Super Heavy booster
 - <a href="https://www.teslarati.com/spacex-aces-fifth-starship-test-flight-successful-super-heavy-booster-catch/" >🔗</a> **[Teslarati]** SpaceX aces fifth Starship test flight with successful Super Heavy booster catch
 - <a href="https://spacepolicyonline.com/news/spacex-catches-a-booster-a-big-one/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Booster — a Big One
-- <a href="https://www.cnbc.com/2024/10/13/spacex-starship-rocket-launch-flight-5-booster-catch-attempt.html" >🔗</a> **[CNBC]** SpaceX catches Starship rocket booster in dramatic landing during fifth flight test
+- <a href="https://www.cnbc.com/2024/10/13/spacex-starship-rocket-launch-flight-5-booster-catch-attempt.html" >🔗</a> **[CNBC]** SpaceX’s Starship rocket completes fifth test flight, lands booster in dramatic catch
 - <a href="https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/" >🔗</a> **[NASA]** A Serendipitous NASA Family Reunion
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/" >🔗</a> **[NASA]** Una reunión familiar de la NASA por casualidad
 - <a href="https://spaceflightnow.com/2024/10/13/live-coverage-spacex-to-launch-5th-flight-test-of-starship-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to attempt first booster catch during the Starship Flight 5 mission
@@ -109,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T140115">2024-10-13 14:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T143210">2024-10-13 14:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
