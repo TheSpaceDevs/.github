@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/" >🔗</a> **[NASA]** A Serendipitous NASA Family Reunion
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/" >🔗</a> **[NASA]** Una reunión familiar de la NASA por casualidad
 - <a href="https://spaceflightnow.com/2024/10/13/live-coverage-spacex-to-launch-5th-flight-test-of-starship-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to attempt first booster catch during the Starship Flight 5 mission
 - <a href="https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/" >🔗</a> **[NASA]** Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 - <a href="https://spacepolicyonline.com/news/space-trifecta-on-tap-tomorrow-morning/" >🔗</a> **[SpacePolicyOnline.com]** Space Trifecta on Tap Tomorrow Morning
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-catch/" >🔗</a> **[NASASpaceflight]** Starship Flight 5 The Catch
 - <a href="https://spacenews.com/anduril-and-impulse-space-to-collaborate-on-ai-driven-satellite-mobility/" >🔗</a> **[SpaceNews]** Anduril and Impulse Space to collaborate on AI-driven satellite mobility
 - <a href="https://spacenews.com/boeing-plans-more-commercial-crew-charges/" >🔗</a> **[SpaceNews]** Boeing plans more commercial crew charges
-- <a href="https://spacepolicyonline.com/news/faa-approves-falcon-9-return-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Falcon 9 Return to Flight
-- <a href="https://spacenews.com/faa-allows-falcon-9-launches-to-resume/" >🔗</a> **[SpaceNews]** FAA allows Falcon 9 launches to resume
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T100116">2024-10-13 10:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T103344">2024-10-13 10:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
