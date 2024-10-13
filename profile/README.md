@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/10/13/live-coverage-spacex-to-launch-5th-flight-test-of-starship-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to attempt first booster catch during the Starship Flight 5 mission
 - <a href="https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/" >🔗</a> **[NASA]** Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 - <a href="https://spacepolicyonline.com/news/space-trifecta-on-tap-tomorrow-morning/" >🔗</a> **[SpacePolicyOnline.com]** Space Trifecta on Tap Tomorrow Morning
 - <a href="https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/" >🔗</a> **[NASA]** NASA Activates Resources to Help Assess Impacts from Hurricane Milton
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/boeing-plans-more-commercial-crew-charges/" >🔗</a> **[SpaceNews]** Boeing plans more commercial crew charges
 - <a href="https://spacepolicyonline.com/news/faa-approves-falcon-9-return-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Falcon 9 Return to Flight
 - <a href="https://spacenews.com/faa-allows-falcon-9-launches-to-resume/" >🔗</a> **[SpaceNews]** FAA allows Falcon 9 launches to resume
-- <a href="https://science.nasa.gov/blog/sols-4329-4330-continuing-downhill/" >🔗</a> **[NASA]** Sols 4329-4330: Continuing Downhill
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T040126">2024-10-13 04:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T043523">2024-10-13 04:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
