@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital L
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T123000">2024-10-13 12:30:00 UTC</a>.  Until
 then, this pad will have been used for 26
 out of 26 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Suborbital* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -90,6 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-fifth-starship-catches-super-heavy-booster/" >🔗</a> **[SpaceNews]** SpaceX launches fifth Starship, catches Super Heavy booster
+- <a href="https://www.teslarati.com/spacex-aces-fifth-starship-test-flight-successful-super-heavy-booster-catch/" >🔗</a> **[Teslarati]** SpaceX aces fifth Starship test flight with successful Super Heavy booster catch
+- <a href="https://spacepolicyonline.com/news/spacex-catches-a-booster-a-big-one/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Booster — a Big One
 - <a href="https://www.cnbc.com/2024/10/13/spacex-starship-rocket-launch-flight-5-booster-catch-attempt.html" >🔗</a> **[CNBC]** SpaceX catches Starship rocket booster in dramatic landing during fifth flight test
 - <a href="https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/" >🔗</a> **[NASA]** A Serendipitous NASA Family Reunion
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/" >🔗</a> **[NASA]** Una reunión familiar de la NASA por casualidad
@@ -97,9 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/" >🔗</a> **[NASA]** Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 - <a href="https://spacepolicyonline.com/news/space-trifecta-on-tap-tomorrow-morning/" >🔗</a> **[SpacePolicyOnline.com]** Space Trifecta on Tap Tomorrow Morning
 - <a href="https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/" >🔗</a> **[NASA]** NASA Activates Resources to Help Assess Impacts from Hurricane Milton
-- <a href="https://spacepolicyonline.com/news/faa-approves-starship-ift-5-test-flight-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** FAA Approves Starship IFT-5 Test Flight Tomorrow
-- <a href="https://www.nasaspaceflight.com/2024/10/starship-flight-5-catch/" >🔗</a> **[NASASpaceflight]** Starship Flight 5 The Catch
-- <a href="https://spacenews.com/anduril-and-impulse-space-to-collaborate-on-ai-driven-satellite-mobility/" >🔗</a> **[SpaceNews]** Anduril and Impulse Space to collaborate on AI-driven satellite mobility
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T130507">2024-10-13 13:05:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241013T133237">2024-10-13 13:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
