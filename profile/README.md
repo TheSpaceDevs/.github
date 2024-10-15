@@ -93,14 +93,14 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Lunar_Pathfinder_for_lunar_connection" >🔗</a> **[ESA]** Lunar Pathfinder for lunar connection
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_2" >🔗</a> **[ESA]** IAC 2024 - Day 2
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/" >🔗</a> **[NASA]** Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
+- <a href="https://spacenews.com/how-countries-can-increase-their-participation-in-the-global-space-economy/" >🔗</a> **[SpaceNews]** How countries can increase their participation in the global space economy
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Ciseres_AI-powered_satellites_for_rapid_disaster_response" >🔗</a> **[ESA]** Ciseres: AI-powered satellites for rapid disaster response
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration" >🔗</a> **[ESA]** ESA's Moonlight programme: Pioneering the path for lunar exploration
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Revolutionising_crisis_response_in_Europe_with_Safeplace" >🔗</a> **[ESA]** Revolutionising crisis response in Europe with Safeplace
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Contract_secures_build_for_ESA_s_Harmony_mission" >🔗</a> **[ESA]** Contract secures build for ESA’s Harmony mission
 - <a href="https://spacenews.com/earthdaily-buys-analytics-specialist-amid-imagery-constellation-deployment-delay/" >🔗</a> **[SpaceNews]** EarthDaily buys analytics specialist amid imagery constellation deployment delay
 - <a href="https://spacenews.com/ororatech-raises-25-million-euros-for-satellite-wildfire-detection-system/" >🔗</a> **[SpaceNews]** OroraTech raises 25 million euros for satellite wildfire detection system
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Comet_C_2023_A3_brightens_SOHO_s_week" >🔗</a> **[ESA]** Comet C/2023 A3 brightens SOHO’s week
-- <a href="https://spacenews.com/vulcan-srb-anomaly-still-under-investigation/" >🔗</a> **[SpaceNews]** Vulcan SRB anomaly still under investigation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T140116">2024-10-15 14:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T143415">2024-10-15 14:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
