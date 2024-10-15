@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 4C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T105800">2024-10-15 10:58:00 UTC</a>.  Until
-then, this pad will have been used for 8
-out of 132 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T233100">2024-10-15 23:31:00 UTC</a>.  Until
+then, this pad will have been used for 115
+out of 231 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown
 (N/A)*.
 <br>
 <blockquote>
-  Probable launch of group of G60 constellation Low Earth Orbit communication satellites; details TBD.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_4C" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
+  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Ciseres_AI-powered_satellites_for_rapid_disaster_response" >🔗</a> **[ESA]** Ciseres: AI-powered satellites for rapid disaster response
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Revolutionising_crisis_response_in_Europe_with_Safeplace" >🔗</a> **[ESA]** Revolutionising crisis response in Europe with Safeplace
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Contract_secures_build_for_ESA_s_Harmony_mission" >🔗</a> **[ESA]** Contract secures build for ESA’s Harmony mission
+- <a href="https://spacenews.com/earthdaily-buys-analytics-specialist-amid-imagery-constellation-deployment-delay/" >🔗</a> **[SpaceNews]** EarthDaily buys analytics specialist amid imagery constellation deployment delay
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration" >🔗</a> **[ESA]** ESA's Moonlight programme: Pioneering the path for lunar exploration
 - <a href="https://spacenews.com/ororatech-raises-25-million-euros-for-satellite-wildfire-detection-system/" >🔗</a> **[SpaceNews]** OroraTech raises 25 million euros for satellite wildfire detection system
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Comet_C_2023_A3_brightens_SOHO_s_week" >🔗</a> **[ESA]** Comet C/2023 A3 brightens SOHO’s week
 - <a href="https://spacenews.com/vulcan-srb-anomaly-still-under-investigation/" >🔗</a> **[SpaceNews]** Vulcan SRB anomaly still under investigation
 - <a href="https://europeanspaceflight.com/thales-to-supersize-europes-gateway-contribution-with-e164m-contract/" >🔗</a> **[European Spaceflight]** Thales to Supersize Europe’s Gateway Contribution with €164M Contract
 - <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX to launches 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX notches 100th launch of 2024 with Starlink mission on Falcon 9 rocket
-- <a href="https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/" >🔗</a> **[NASA]** OpenET: Balancing Water Supply and Demand in the West
-- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-101424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Europa Clipper launches, Starlink launches return, China launches new missions
-- <a href="https://spacenews.com/u-s-army-wraps-up-commercial-satcom-pilot-program/" >🔗</a> **[SpaceNews]** U.S. Army wraps up commercial satcom pilot program
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T110114">2024-10-15 11:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T113117">2024-10-15 11:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
