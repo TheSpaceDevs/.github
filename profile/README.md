@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Zoom_into_the_first_page_of_ESA_Euclid_s_great_cosmic_atlas" >🔗</a> **[ESA]** Zoom into the first page of ESA Euclid’s great cosmic atlas
+- <a href="https://www.nasa.gov/image-article/europa-clipper-begins-journey-to-jupiters-icy-moon/" >🔗</a> **[NASA]** Europa Clipper Begins Journey to Jupiter’s Icy Moon
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/cassini-mission-5-things-to-know-about-nasa-lewis-last-launch/" >🔗</a> **[NASA]** Cassini Mission: 5 Things to Know About NASA Lewis’ Last Launch
+- <a href="https://spacenews.com/to-attract-new-investors-stop-talking-about-space/" >🔗</a> **[SpaceNews]** To attract new investors, stop talking about space
 - <a href="https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/" >🔗</a> **[NASA]** Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-to-visit-engage-officials-in-romania-bulgaria/" >🔗</a> **[NASA]** NASA Administrator to Visit, Engage Officials in Romania, Bulgaria
 - <a href="https://www.spacescout.info/2024/10/starship-ift-5-launches-with-a-catch/" >🔗</a> **[Space Scout]** Starship IFT-5 Launches With a Catch
 - <a href="https://europeanspaceflight.com/ororatech-secures-e25m-series-b-to-expand-wildfire-monitoring-service/" >🔗</a> **[European Spaceflight]** OroraTech Secures €25M Series B to Expand Wildfire Monitoring Service
 - <a href="https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/" >🔗</a> **[NASA]** Eclipse Megamovie Coding Competition
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Lunar_Pathfinder_for_lunar_connection" >🔗</a> **[ESA]** Lunar Pathfinder for lunar connection
-- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_2" >🔗</a> **[ESA]** IAC 2024 - Day 2
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/" >🔗</a> **[NASA]** Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
-- <a href="https://spacenews.com/how-countries-can-increase-their-participation-in-the-global-space-economy/" >🔗</a> **[SpaceNews]** How countries can increase their participation in the global space economy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T170133">2024-10-15 17:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T173349">2024-10-15 17:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
