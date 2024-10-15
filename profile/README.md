@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/" >🔗</a> **[NASA]** Spooky on the Space Station
+- <a href="https://www.teslarati.com/spacex-just-completed-its-100th-launch-of-2024/" >🔗</a> **[Teslarati]** SpaceX just completed its 100th launch of 2024
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Zoom_into_the_first_page_of_ESA_Euclid_s_great_cosmic_atlas" >🔗</a> **[ESA]** Zoom into the first page of ESA Euclid’s great cosmic atlas
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/" >🔗</a> **[NASA]** NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle
 - <a href="https://spacenews.com/kirk-konert-ae-industrial-partners-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Kirk Konert, AE Industrial Partners – Commercial Space Transformers
 - <a href="https://www.nasa.gov/image-article/europa-clipper-begins-journey-to-jupiters-icy-moon/" >🔗</a> **[NASA]** Europa Clipper Begins Journey to Jupiter’s Icy Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/cassini-mission-5-things-to-know-about-nasa-lewis-last-launch/" >🔗</a> **[NASA]** Cassini Mission: 5 Things to Know About NASA Lewis’ Last Launch
 - <a href="https://spacenews.com/to-attract-new-investors-stop-talking-about-space/" >🔗</a> **[SpaceNews]** To attract new investors, stop talking about space
 - <a href="https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/" >🔗</a> **[NASA]** Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-to-visit-engage-officials-in-romania-bulgaria/" >🔗</a> **[NASA]** NASA Administrator to Visit, Engage Officials in Romania, Bulgaria
-- <a href="https://www.spacescout.info/2024/10/starship-ift-5-launches-with-a-catch/" >🔗</a> **[Space Scout]** Starship IFT-5 Launches With a Catch
-- <a href="https://europeanspaceflight.com/ororatech-secures-e25m-series-b-to-expand-wildfire-monitoring-service/" >🔗</a> **[European Spaceflight]** OroraTech Secures €25M Series B to Expand Wildfire Monitoring Service
-- <a href="https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/" >🔗</a> **[NASA]** Eclipse Megamovie Coding Competition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T190130">2024-10-15 19:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T193108">2024-10-15 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
