@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-10**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 9-7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T053400">2024-10-15 05:34:00 UTC</a>.  Until
-then, this pad will have been used for 264
-out of 978 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T080700">2024-10-15 08:07:00 UTC</a>.  Until
+then, this pad will have been used for 160
+out of 772 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 20 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T044900">2024-10-30 04:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-31&location=Kennedy Space Center, FL, USA&dates=20241030T044900Z%2F20241030T044900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-31** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,26 +91,25 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-estonia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Estonia as Newest Artemis Accords Signatory
-- <a href="https://spacenews.com/spacex-launches-fifth-starship-catches-super-heavy-booster/" >🔗</a> **[SpaceNews]** SpaceX launches fifth Starship, catches Super Heavy booster
-- <a href="https://www.teslarati.com/spacex-aces-fifth-starship-test-flight-successful-super-heavy-booster-catch/" >🔗</a> **[Teslarati]** SpaceX aces fifth Starship test flight with successful Super Heavy booster catch
-- <a href="https://spacepolicyonline.com/news/spacex-catches-a-booster-a-big-one/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches a Booster — a Big One
-- <a href="https://www.cnbc.com/2024/10/13/spacex-starship-rocket-launch-flight-5-booster-catch-attempt.html" >🔗</a> **[CNBC]** SpaceX’s Starship rocket completes fifth test flight, lands booster in dramatic catch
-- <a href="https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/" >🔗</a> **[NASA]** A Serendipitous NASA Family Reunion
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/" >🔗</a> **[NASA]** Una reunión familiar de la NASA por casualidad
-- <a href="https://spaceflightnow.com/2024/10/13/live-coverage-spacex-to-launch-5th-flight-test-of-starship-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to attempt first booster catch during the Starship Flight 5 mission
-- <a href="https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/" >🔗</a> **[NASA]** Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
-- <a href="https://spacepolicyonline.com/news/space-trifecta-on-tap-tomorrow-morning/" >🔗</a> **[SpacePolicyOnline.com]** Space Trifecta on Tap Tomorrow Morning
+- <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX prepares for 100th launch of 2024 with Starlink mission on Falcon 9 rocket
+- <a href="https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/" >🔗</a> **[NASA]** OpenET: Balancing Water Supply and Demand in the West
+- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-101424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Europa Clipper launches, Starlink launches return, China launches new missions
+- <a href="https://spacenews.com/u-s-army-wraps-up-commercial-satcom-pilot-program/" >🔗</a> **[SpaceNews]** U.S. Army wraps up commercial satcom pilot program
+- <a href="https://spacepolicyonline.com/news/europa-clipper-on-its-way/" >🔗</a> **[SpacePolicyOnline.com]** Europa Clipper On its Way
+- <a href="https://spacenews.com/falcon-heavy-launches-nasas-europa-clipper-mission/" >🔗</a> **[SpaceNews]** Falcon Heavy launches NASA’s Europa Clipper mission
+- <a href="https://spacenews.com/whos-in-charge-of-preventing-and-responding-to-cyberattacks/" >🔗</a> **[SpaceNews]** Who’s in charge of preventing and responding to  cyberattacks?
+- <a href="https://www.nasa.gov/news-release/liftoff-nasas-europa-clipper-sails-toward-ocean-moon-of-jupiter/" >🔗</a> **[NASA]** Liftoff! NASA’s Europa Clipper Sails Toward Ocean Moon of Jupiter
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Gateway_refuelling_module_gets_a_boost" >🔗</a> **[ESA]** Gateway refuelling module gets a boost
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-093024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan takes second flight; Hera mission set to study asteroid
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T060131">2024-10-15 06:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T063638">2024-10-15 06:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
