@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Lunar_Pathfinder_for_lunar_connection" >🔗</a> **[ESA]** Lunar Pathfinder for lunar connection
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_2" >🔗</a> **[ESA]** IAC 2024 - Day 2
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Ciseres_AI-powered_satellites_for_rapid_disaster_response" >🔗</a> **[ESA]** Ciseres: AI-powered satellites for rapid disaster response
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration" >🔗</a> **[ESA]** ESA's Moonlight programme: Pioneering the path for lunar exploration
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Revolutionising_crisis_response_in_Europe_with_Safeplace" >🔗</a> **[ESA]** Revolutionising crisis response in Europe with Safeplace
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ororatech-raises-25-million-euros-for-satellite-wildfire-detection-system/" >🔗</a> **[SpaceNews]** OroraTech raises 25 million euros for satellite wildfire detection system
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Comet_C_2023_A3_brightens_SOHO_s_week" >🔗</a> **[ESA]** Comet C/2023 A3 brightens SOHO’s week
 - <a href="https://spacenews.com/vulcan-srb-anomaly-still-under-investigation/" >🔗</a> **[SpaceNews]** Vulcan SRB anomaly still under investigation
-- <a href="https://europeanspaceflight.com/thales-to-supersize-europes-gateway-contribution-with-e164m-contract/" >🔗</a> **[European Spaceflight]** Thales to Supersize Europe’s Gateway Contribution with €164M Contract
-- <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX to launches 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T130627">2024-10-15 13:06:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T133447">2024-10-15 13:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
