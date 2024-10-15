@@ -92,10 +92,10 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Ciseres_AI-powered_satellites_for_rapid_disaster_response" >🔗</a> **[ESA]** Ciseres: AI-powered satellites for rapid disaster response
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration" >🔗</a> **[ESA]** ESA's Moonlight programme: Pioneering the path for lunar exploration
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Revolutionising_crisis_response_in_Europe_with_Safeplace" >🔗</a> **[ESA]** Revolutionising crisis response in Europe with Safeplace
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Contract_secures_build_for_ESA_s_Harmony_mission" >🔗</a> **[ESA]** Contract secures build for ESA’s Harmony mission
 - <a href="https://spacenews.com/earthdaily-buys-analytics-specialist-amid-imagery-constellation-deployment-delay/" >🔗</a> **[SpaceNews]** EarthDaily buys analytics specialist amid imagery constellation deployment delay
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration" >🔗</a> **[ESA]** ESA's Moonlight programme: Pioneering the path for lunar exploration
 - <a href="https://spacenews.com/ororatech-raises-25-million-euros-for-satellite-wildfire-detection-system/" >🔗</a> **[SpaceNews]** OroraTech raises 25 million euros for satellite wildfire detection system
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Comet_C_2023_A3_brightens_SOHO_s_week" >🔗</a> **[ESA]** Comet C/2023 A3 brightens SOHO’s week
 - <a href="https://spacenews.com/vulcan-srb-anomaly-still-under-investigation/" >🔗</a> **[SpaceNews]** Vulcan SRB anomaly still under investigation
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T113117">2024-10-15 11:31:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T120142">2024-10-15 12:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
