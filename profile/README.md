@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Zoom_into_the_first_page_of_ESA_Euclid_s_great_cosmic_atlas" >🔗</a> **[ESA]** Zoom into the first page of ESA Euclid’s great cosmic atlas
+- <a href="https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/" >🔗</a> **[NASA]** Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
+- <a href="https://www.nasa.gov/news-release/nasa-administrator-to-visit-engage-officials-in-romania-bulgaria/" >🔗</a> **[NASA]** NASA Administrator to Visit, Engage Officials in Romania, Bulgaria
+- <a href="https://www.spacescout.info/2024/10/starship-ift-5-launches-with-a-catch/" >🔗</a> **[Space Scout]** Starship IFT-5 Launches With a Catch
 - <a href="https://europeanspaceflight.com/ororatech-secures-e25m-series-b-to-expand-wildfire-monitoring-service/" >🔗</a> **[European Spaceflight]** OroraTech Secures €25M Series B to Expand Wildfire Monitoring Service
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Lunar_Pathfinder_for_lunar_connection" >🔗</a> **[ESA]** Lunar Pathfinder for lunar connection
 - <a href="https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/" >🔗</a> **[NASA]** Eclipse Megamovie Coding Competition
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Lunar_Pathfinder_for_lunar_connection" >🔗</a> **[ESA]** Lunar Pathfinder for lunar connection
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_2" >🔗</a> **[ESA]** IAC 2024 - Day 2
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/" >🔗</a> **[NASA]** Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
 - <a href="https://spacenews.com/how-countries-can-increase-their-participation-in-the-global-space-economy/" >🔗</a> **[SpaceNews]** How countries can increase their participation in the global space economy
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Ciseres_AI-powered_satellites_for_rapid_disaster_response" >🔗</a> **[ESA]** Ciseres: AI-powered satellites for rapid disaster response
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration" >🔗</a> **[ESA]** ESA's Moonlight programme: Pioneering the path for lunar exploration
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Revolutionising_crisis_response_in_Europe_with_Safeplace" >🔗</a> **[ESA]** Revolutionising crisis response in Europe with Safeplace
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Contract_secures_build_for_ESA_s_Harmony_mission" >🔗</a> **[ESA]** Contract secures build for ESA’s Harmony mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T160153">2024-10-15 16:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T163556">2024-10-15 16:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
