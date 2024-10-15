@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-to-supersize-europes-gateway-contribution-with-e164m-contract/" >🔗</a> **[European Spaceflight]** Thales to Supersize Europe’s Gateway Contribution with €164M Contract
 - <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX prepares for 100th launch of 2024 with Starlink mission on Falcon 9 rocket
+- <a href="https://spaceflightnow.com/2024/10/15/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX notches 100th launch of 2024 with Starlink mission on Falcon 9 rocket
 - <a href="https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/" >🔗</a> **[NASA]** OpenET: Balancing Water Supply and Demand in the West
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-101424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Europa Clipper launches, Starlink launches return, China launches new missions
 - <a href="https://spacenews.com/u-s-army-wraps-up-commercial-satcom-pilot-program/" >🔗</a> **[SpaceNews]** U.S. Army wraps up commercial satcom pilot program
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/falcon-heavy-launches-nasas-europa-clipper-mission/" >🔗</a> **[SpaceNews]** Falcon Heavy launches NASA’s Europa Clipper mission
 - <a href="https://spacenews.com/whos-in-charge-of-preventing-and-responding-to-cyberattacks/" >🔗</a> **[SpaceNews]** Who’s in charge of preventing and responding to  cyberattacks?
 - <a href="https://www.nasa.gov/news-release/liftoff-nasas-europa-clipper-sails-toward-ocean-moon-of-jupiter/" >🔗</a> **[NASA]** Liftoff! NASA’s Europa Clipper Sails Toward Ocean Moon of Jupiter
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Gateway_refuelling_module_gets_a_boost" >🔗</a> **[ESA]** Gateway refuelling module gets a boost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T070123">2024-10-15 07:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T073235">2024-10-15 07:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
