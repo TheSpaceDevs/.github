@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-second-batch-of-18-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches second batch of 18 satellites for Thousand Sails megaconstellation
+- <a href="https://spacenews.com/armys-space-tech-roadmap-emphasizes-secure-navigation-satcom-intelligence/" >🔗</a> **[SpaceNews]** Army’s space tech roadmap emphasizes secure navigation, satcom, intelligence
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-rickey-shyne-named-crains-notable-black-leader/" >🔗</a> **[NASA]** Dr. Rickey Shyne Named Crain’s Notable Black Leader
 - <a href="https://www.nasa.gov/general/1-5-million-awarded-at-watts-on-the-moon-finals/" >🔗</a> **[NASA]** $1.5 Million Awarded at Watts on the Moon Finals
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/ohio-state-marching-band-performs-tribute-to-nasa/" >🔗</a> **[NASA]** Ohio State Marching Band Performs Tribute to NASA
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-photographers-capture-harvest-moon/" >🔗</a> **[NASA]** NASA Glenn’s Photographers Capture Harvest Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/artemis-ii-crew-visits-nasa-glenn/" >🔗</a> **[NASA]** Artemis II Crew Visits NASA Glenn
 - <a href="https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/" >🔗</a> **[NASA]** Spooky on the Space Station
-- <a href="https://www.teslarati.com/spacex-just-completed-its-100th-launch-of-2024/" >🔗</a> **[Teslarati]** SpaceX just completed its 100th launch of 2024
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Zoom_into_the_first_page_of_ESA_Euclid_s_great_cosmic_atlas" >🔗</a> **[ESA]** Zoom into the first page of ESA Euclid’s great cosmic atlas
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T210123">2024-10-15 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241015T213117">2024-10-15 21:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
