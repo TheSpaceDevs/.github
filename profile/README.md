@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/10/china-roundup-202410/" >🔗</a> **[NASASpaceflight]** China Roundup: reusable satellites, lunar EVA suits, and expanding spaceports
+- <a href="https://www.teslarati.com/spacex-has-officially-sued-california-panel-for-political-bias/" >🔗</a> **[Teslarati]** SpaceX has officially sued California Coastal Commission for political bias
 - <a href="https://www.teslarati.com/spacex-will-take-starship-catch-one-step-further-very-soon-elon-musk-confirms/" >🔗</a> **[Teslarati]** SpaceX will take Starship catch one step further very soon, Elon Musk confirms
 - <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-innovative-ideas-with-revamped-procurement-framework/" >🔗</a> **[NASA]** NASA Seeks Innovative Ideas with Revamped Procurement Framework
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_captures_intricacies_of_R_Aquarii" >🔗</a> **[ESA]** Hubble captures intricacies of R Aquarii
@@ -98,9 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/" >🔗</a> **[NASA]** NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet
 - <a href="https://spacenews.com/quantum-key-distribution-and-laser-communication-heres-what-you-need-to-know/" >🔗</a> **[SpaceNews]** Quantum Key Distribution and laser communication: Here’s what you need to know
 - <a href="https://science.nasa.gov/blog/sols-4334-4335-planning-with-popsicles-a-clipper-celebration/" >🔗</a> **[NASA]** Sols 4334-4335: Planning with Popsicles — A Clipper Celebration!
-- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_3" >🔗</a> **[ESA]** IAC 2024 - Day 3
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_Day_3" >🔗</a> **[ESA]** IAC 2024 – Day 3
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/" >🔗</a> **[NASA]** NASA’s Hubble Sees a Stellar Volcano
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T180128">2024-10-16 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T183601">2024-10-16 18:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
