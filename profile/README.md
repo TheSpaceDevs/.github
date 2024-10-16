@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/" >🔗</a> **[NASA]** NASA Pilots Add Perspective to Research
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/" >🔗</a> **[NASA]** Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/" >🔗</a> **[NASA]** The View from Space Keeps Getting Better
 - <a href="https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/" >🔗</a> **[NASA]** New Team to Assess NASA’s Mars Sample Return Architecture Proposals
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-16-2024/" >🔗</a> **[NASA]** The Marshall Star for October 16, 2024
 - <a href="https://www.nasaspaceflight.com/2024/10/china-roundup-202410/" >🔗</a> **[NASASpaceflight]** China Roundup: reusable satellites, lunar EVA suits, and expanding spaceports
 - <a href="https://www.teslarati.com/spacex-has-officially-sued-california-panel-for-political-bias/" >🔗</a> **[Teslarati]** SpaceX has officially sued California Coastal Commission for political bias
-- <a href="https://www.teslarati.com/spacex-will-take-starship-catch-one-step-further-very-soon-elon-musk-confirms/" >🔗</a> **[Teslarati]** SpaceX will take Starship catch one step further very soon, Elon Musk confirms
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T220114">2024-10-16 22:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T223330">2024-10-16 22:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
