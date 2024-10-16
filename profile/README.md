@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_captures_intricacies_of_R_Aquarii" >🔗</a> **[ESA]** Hubble captures intricacies of R Aquarii
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/" >🔗</a> **[NASA]** NASA’s Hubble Sees a Stellar Volcano
 - <a href="https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/" >🔗</a> **[NASA]** Christine Knudson Uses Earthly Experience to Study Martian Geology
 - <a href="https://europeanspaceflight.com/avio-to-continue-mr10-rocket-engine-testing-this-month/" >🔗</a> **[European Spaceflight]** Avio to Continue MR10 Rocket Engine Testing This Month
 - <a href="https://spacenews.com/zeroing-in-on-the-icons-the-2024-spacenews-shortlist/" >🔗</a> **[SpaceNews]** Zeroing in on the Icons: The 2024 SpaceNews Shortlist
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/insuring-commercial-suborbital-flights-could-be-tricky-at-least-initially/" >🔗</a> **[SpaceNews]** Insuring commercial suborbital flights could be tricky, at least initially
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/HydRON_Optical_laser-based_satellites_for_faster_data_sharing_in_space" >🔗</a> **[ESA]** HydRON: Optical (laser-based) satellites for faster data sharing in space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_synergy_reveals_power_of_clouds_and_aerosols" >🔗</a> **[ESA]** EarthCARE synergy reveals power of clouds and aerosols
-- <a href="https://spacenews.com/esa-picks-kepler-led-group-to-develop-leo-optical-data-relay-network/" >🔗</a> **[SpaceNews]** ESA picks Kepler-led group to develop LEO optical data relay network
-- <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T140118">2024-10-16 14:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T143405">2024-10-16 14:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
