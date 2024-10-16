@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/insuring-commercial-suborbital-flights-could-be-tricky-at-least-initially/" >🔗</a> **[SpaceNews]** Insuring commercial suborbital flights could be tricky, at least initially
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_synergy_reveals_power_of_clouds_and_aerosols" >🔗</a> **[ESA]** EarthCARE synergy reveals power of clouds and aerosols
 - <a href="https://spacenews.com/esa-picks-kepler-led-group-to-develop-leo-optical-data-relay-network/" >🔗</a> **[SpaceNews]** ESA picks Kepler-led group to develop LEO optical data relay network
 - <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 11, 2024
 - <a href="https://spacenews.com/china-launches-second-batch-of-18-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches second batch of 18 satellites for Thousand Sails megaconstellation
 - <a href="https://spacenews.com/armys-space-tech-roadmap-emphasizes-secure-navigation-satcom-intelligence/" >🔗</a> **[SpaceNews]** Army’s space tech roadmap emphasizes secure navigation, satcom, intelligence
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-rickey-shyne-named-crains-notable-black-leader/" >🔗</a> **[NASA]** Dr. Rickey Shyne Named Crain’s Notable Black Leader
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T100123">2024-10-16 10:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T103454">2024-10-16 10:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
