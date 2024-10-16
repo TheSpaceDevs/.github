@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_synergy_reveals_power_of_clouds_and_aerosols" >🔗</a> **[ESA]** EarthCARE synergy reveals power of clouds and aerosols
 - <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
 - <a href="https://spacenews.com/astrolab-unveils-smaller-lunar-rover/" >🔗</a> **[SpaceNews]** Astrolab unveils smaller lunar rover
 - <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/armys-space-tech-roadmap-emphasizes-secure-navigation-satcom-intelligence/" >🔗</a> **[SpaceNews]** Army’s space tech roadmap emphasizes secure navigation, satcom, intelligence
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-rickey-shyne-named-crains-notable-black-leader/" >🔗</a> **[NASA]** Dr. Rickey Shyne Named Crain’s Notable Black Leader
 - <a href="https://www.nasa.gov/general/1-5-million-awarded-at-watts-on-the-moon-finals/" >🔗</a> **[NASA]** $1.5 Million Awarded at Watts on the Moon Finals
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/ohio-state-marching-band-performs-tribute-to-nasa/" >🔗</a> **[NASA]** Ohio State Marching Band Performs Tribute to NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T080135">2024-10-16 08:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T083529">2024-10-16 08:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
