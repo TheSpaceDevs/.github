@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-to-cut-up-to-2500-jobs-amid-space-segment-losses/" >🔗</a> **[SpaceNews]** Airbus to cut up to 2,500 jobs amid space segment losses
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrifice-and-success-nasa-engineer-honors-family-roots/" >🔗</a> **[NASA]** Sacrifice and Success: NASA Engineer Honors Family Roots
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/" >🔗</a> **[NASA]** Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-16-2024/" >🔗</a> **[NASA]** The Marshall Star for October 16, 2024
 - <a href="https://www.nasaspaceflight.com/2024/10/china-roundup-202410/" >🔗</a> **[NASASpaceflight]** China Roundup: reusable satellites, lunar EVA suits, and expanding spaceports
 - <a href="https://www.teslarati.com/spacex-has-officially-sued-california-panel-for-political-bias/" >🔗</a> **[Teslarati]** SpaceX has officially sued California Coastal Commission for political bias
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-innovative-ideas-with-revamped-procurement-framework/" >🔗</a> **[NASA]** NASA Seeks Innovative Ideas with Revamped Procurement Framework
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_captures_intricacies_of_R_Aquarii" >🔗</a> **[ESA]** Hubble captures intricacies of R Aquarii
 - <a href="https://www.spacescout.info/2024/10/uae-taps-japans-mhi-for-asteroid-mission/" >🔗</a> **[Space Scout]** UAE taps Japan’s MHI for Asteroid Mission
-- <a href="https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/" >🔗</a> **[NASA]** NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet
-- <a href="https://spacenews.com/quantum-key-distribution-and-laser-communication-heres-what-you-need-to-know/" >🔗</a> **[SpaceNews]** Quantum Key Distribution and laser communication: Here’s what you need to know
-- <a href="https://science.nasa.gov/blog/sols-4334-4335-planning-with-popsicles-a-clipper-celebration/" >🔗</a> **[NASA]** Sols 4334-4335: Planning with Popsicles — A Clipper Celebration!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T200121">2024-10-16 20:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T203237">2024-10-16 20:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
