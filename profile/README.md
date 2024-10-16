@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/zeroing-in-on-the-icons-the-2024-spacenews-shortlist/" >🔗</a> **[SpaceNews]** Zeroing in on the Icons: The 2024 SpaceNews Shortlist
 - <a href="https://spacenews.com/china-launches-new-gaofen-12-remote-sensing-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-12 remote sensing satellite
 - <a href="https://spacenews.com/axiom-and-prada-unveil-design-of-artemis-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada unveil design of Artemis spacesuit
 - <a href="https://spacenews.com/insuring-commercial-suborbital-flights-could-be-tricky-at-least-initially/" >🔗</a> **[SpaceNews]** Insuring commercial suborbital flights could be tricky, at least initially
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
 - <a href="https://spacenews.com/astrolab-unveils-smaller-lunar-rover/" >🔗</a> **[SpaceNews]** Astrolab unveils smaller lunar rover
 - <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
-- <a href="https://www.nasa.gov/general/what-is-a-coral-reef/" >🔗</a> **[NASA]** What is a Coral Reef?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T120148">2024-10-16 12:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T124235">2024-10-16 12:42:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
