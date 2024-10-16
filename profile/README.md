@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/" >🔗</a> **[NASA]** Christine Knudson Uses Earthly Experience to Study Martian Geology
+- <a href="https://europeanspaceflight.com/avio-to-continue-mr10-rocket-engine-testing-this-month/" >🔗</a> **[European Spaceflight]** Avio to Continue MR10 Rocket Engine Testing This Month
 - <a href="https://spacenews.com/zeroing-in-on-the-icons-the-2024-spacenews-shortlist/" >🔗</a> **[SpaceNews]** Zeroing in on the Icons: The 2024 SpaceNews Shortlist
 - <a href="https://spacenews.com/china-launches-new-gaofen-12-remote-sensing-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-12 remote sensing satellite
 - <a href="https://spacenews.com/axiom-and-prada-unveil-design-of-artemis-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada unveil design of Artemis spacesuit
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_synergy_reveals_power_of_clouds_and_aerosols" >🔗</a> **[ESA]** EarthCARE synergy reveals power of clouds and aerosols
 - <a href="https://spacenews.com/esa-picks-kepler-led-group-to-develop-leo-optical-data-relay-network/" >🔗</a> **[SpaceNews]** ESA picks Kepler-led group to develop LEO optical data relay network
 - <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
-- <a href="https://spacenews.com/astrolab-unveils-smaller-lunar-rover/" >🔗</a> **[SpaceNews]** Astrolab unveils smaller lunar rover
-- <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T130608">2024-10-16 13:06:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T133438">2024-10-16 13:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
