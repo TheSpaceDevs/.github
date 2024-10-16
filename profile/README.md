@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astrolab-unveils-smaller-lunar-rover/" >🔗</a> **[SpaceNews]** Astrolab unveils smaller lunar rover
 - <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
 - <a href="https://www.nasa.gov/general/what-is-a-coral-reef/" >🔗</a> **[NASA]** What is a Coral Reef?
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 11, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/1-5-million-awarded-at-watts-on-the-moon-finals/" >🔗</a> **[NASA]** $1.5 Million Awarded at Watts on the Moon Finals
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/ohio-state-marching-band-performs-tribute-to-nasa/" >🔗</a> **[NASA]** Ohio State Marching Band Performs Tribute to NASA
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-connects-with-morehead-state-university/" >🔗</a> **[NASA]** NASA Glenn Connects with Morehead State University
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/visitors-explore-nasa-at-ingenuity-fest/" >🔗</a> **[NASA]** Visitors Explore NASA at Ingenuity Fest
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T030728">2024-10-16 03:07:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T033630">2024-10-16 03:36:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
