@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/what-is-a-coral-reef/" >🔗</a> **[NASA]** What is a Coral Reef?
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 11, 2024
 - <a href="https://spacenews.com/china-launches-second-batch-of-18-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches second batch of 18 satellites for Thousand Sails megaconstellation
 - <a href="https://spacenews.com/armys-space-tech-roadmap-emphasizes-secure-navigation-satcom-intelligence/" >🔗</a> **[SpaceNews]** Army’s space tech roadmap emphasizes secure navigation, satcom, intelligence
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-connects-with-morehead-state-university/" >🔗</a> **[NASA]** NASA Glenn Connects with Morehead State University
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/visitors-explore-nasa-at-ingenuity-fest/" >🔗</a> **[NASA]** Visitors Explore NASA at Ingenuity Fest
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-photographers-capture-harvest-moon/" >🔗</a> **[NASA]** NASA Glenn’s Photographers Capture Harvest Moon
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/artemis-ii-crew-visits-nasa-glenn/" >🔗</a> **[NASA]** Artemis II Crew Visits NASA Glenn
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T000423">2024-10-16 00:04:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T004537">2024-10-16 00:45:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
