@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-gaofen-12-remote-sensing-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-12 remote sensing satellite
 - <a href="https://spacenews.com/axiom-and-prada-unveil-design-of-artemis-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada unveil design of Artemis spacesuit
 - <a href="https://spacenews.com/insuring-commercial-suborbital-flights-could-be-tricky-at-least-initially/" >🔗</a> **[SpaceNews]** Insuring commercial suborbital flights could be tricky, at least initially
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/HydRON_Optical_laser-based_satellites_for_faster_data_sharing_in_space" >🔗</a> **[ESA]** HydRON: Optical (laser-based) satellites for faster data sharing in space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_synergy_reveals_power_of_clouds_and_aerosols" >🔗</a> **[ESA]** EarthCARE synergy reveals power of clouds and aerosols
 - <a href="https://spacenews.com/esa-picks-kepler-led-group-to-develop-leo-optical-data-relay-network/" >🔗</a> **[SpaceNews]** ESA picks Kepler-led group to develop LEO optical data relay network
 - <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
 - <a href="https://spacenews.com/astrolab-unveils-smaller-lunar-rover/" >🔗</a> **[SpaceNews]** Astrolab unveils smaller lunar rover
 - <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
 - <a href="https://www.nasa.gov/general/what-is-a-coral-reef/" >🔗</a> **[NASA]** What is a Coral Reef?
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 11, 2024
-- <a href="https://spacenews.com/china-launches-second-batch-of-18-satellites-for-thousand-sails-megaconstellation/" >🔗</a> **[SpaceNews]** China launches second batch of 18 satellites for Thousand Sails megaconstellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T113112">2024-10-16 11:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T120148">2024-10-16 12:01:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
