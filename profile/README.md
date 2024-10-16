@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_captures_intricacies_of_R_Aquarii" >🔗</a> **[ESA]** Hubble captures intricacies of R Aquarii
+- <a href="https://www.spacescout.info/2024/10/uae-taps-japans-mhi-for-asteroid-mission/" >🔗</a> **[Space Scout]** UAE taps Japan’s MHI for Asteroid Mission
+- <a href="https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/" >🔗</a> **[NASA]** NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet
+- <a href="https://spacenews.com/quantum-key-distribution-and-laser-communication-heres-what-you-need-to-know/" >🔗</a> **[SpaceNews]** Quantum Key Distribution and laser communication: Here’s what you need to know
+- <a href="https://science.nasa.gov/blog/sols-4334-4335-planning-with-popsicles-a-clipper-celebration/" >🔗</a> **[NASA]** Sols 4334-4335: Planning with Popsicles — A Clipper Celebration!
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_Day_3" >🔗</a> **[ESA]** IAC 2024 – Day 3
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_3" >🔗</a> **[ESA]** IAC 2024 - Day 3
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/" >🔗</a> **[NASA]** NASA’s Hubble Sees a Stellar Volcano
 - <a href="https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/" >🔗</a> **[NASA]** Christine Knudson Uses Earthly Experience to Study Martian Geology
 - <a href="https://europeanspaceflight.com/avio-to-continue-mr10-rocket-engine-testing-this-month/" >🔗</a> **[European Spaceflight]** Avio to Continue MR10 Rocket Engine Testing This Month
-- <a href="https://spacenews.com/zeroing-in-on-the-icons-the-2024-spacenews-shortlist/" >🔗</a> **[SpaceNews]** Zeroing in on the Icons: The 2024 SpaceNews Shortlist
-- <a href="https://spacenews.com/china-launches-new-gaofen-12-remote-sensing-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-12 remote sensing satellite
-- <a href="https://spacenews.com/axiom-and-prada-unveil-design-of-artemis-spacesuit/" >🔗</a> **[SpaceNews]** Axiom and Prada unveil design of Artemis spacesuit
-- <a href="https://spacenews.com/insuring-commercial-suborbital-flights-could-be-tricky-at-least-initially/" >🔗</a> **[SpaceNews]** Insuring commercial suborbital flights could be tricky, at least initially
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/HydRON_Optical_laser-based_satellites_for_faster_data_sharing_in_space" >🔗</a> **[ESA]** HydRON: Optical (laser-based) satellites for faster data sharing in space
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_synergy_reveals_power_of_clouds_and_aerosols" >🔗</a> **[ESA]** EarthCARE synergy reveals power of clouds and aerosols
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T150127">2024-10-16 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T153326">2024-10-16 15:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
