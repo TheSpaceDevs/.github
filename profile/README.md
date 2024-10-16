@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/no-simple-answers-for-debris-mitigation/" >🔗</a> **[SpaceNews]** No simple answers for debris mitigation
 - <a href="https://spacenews.com/astrolab-unveils-smaller-lunar-rover/" >🔗</a> **[SpaceNews]** Astrolab unveils smaller lunar rover
 - <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
 - <a href="https://www.nasa.gov/general/what-is-a-coral-reef/" >🔗</a> **[NASA]** What is a Coral Reef?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/dr-rickey-shyne-named-crains-notable-black-leader/" >🔗</a> **[NASA]** Dr. Rickey Shyne Named Crain’s Notable Black Leader
 - <a href="https://www.nasa.gov/general/1-5-million-awarded-at-watts-on-the-moon-finals/" >🔗</a> **[NASA]** $1.5 Million Awarded at Watts on the Moon Finals
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/ohio-state-marching-band-performs-tribute-to-nasa/" >🔗</a> **[NASA]** Ohio State Marching Band Performs Tribute to NASA
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-connects-with-morehead-state-university/" >🔗</a> **[NASA]** NASA Glenn Connects with Morehead State University
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T070130">2024-10-16 07:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T073157">2024-10-16 07:31:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
