@@ -47,6 +47,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T195500">2024-10-17 19:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-19&location=Cape Canaveral SFS, FL, USA&dates=20241017T195500Z%2F20241017T235500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-19** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T103000">2024-10-19 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Changes In Latitudes, Changes In Attitudes&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241019T103000Z%2F20241019T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Changes In Latitudes, Changes In Attitudes** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T050900">2024-10-20 05:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241020T050900Z%2F20241020T054800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T230600">2024-10-20 23:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-61&location=Cape Canaveral SFS, FL, USA&dates=20241020T230600Z%2F20241021T030600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-61** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T064400">2024-10-26 06:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241026T064400Z%2F20241026T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
@@ -55,7 +56,6 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 19&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 19** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/" >🔗</a> **[NASA]** Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/" >🔗</a> **[NASA]** The View from Space Keeps Getting Better
+- <a href="https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/" >🔗</a> **[NASA]** New Team to Assess NASA’s Mars Sample Return Architecture Proposals
 - <a href="https://spacenews.com/airbus-to-cut-up-to-2500-jobs-amid-space-segment-losses/" >🔗</a> **[SpaceNews]** Airbus to cut up to 2,500 jobs amid space segment losses
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrifice-and-success-nasa-engineer-honors-family-roots/" >🔗</a> **[NASA]** Sacrifice and Success: NASA Engineer Honors Family Roots
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/" >🔗</a> **[NASA]** Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/10/china-roundup-202410/" >🔗</a> **[NASASpaceflight]** China Roundup: reusable satellites, lunar EVA suits, and expanding spaceports
 - <a href="https://www.teslarati.com/spacex-has-officially-sued-california-panel-for-political-bias/" >🔗</a> **[Teslarati]** SpaceX has officially sued California Coastal Commission for political bias
 - <a href="https://www.teslarati.com/spacex-will-take-starship-catch-one-step-further-very-soon-elon-musk-confirms/" >🔗</a> **[Teslarati]** SpaceX will take Starship catch one step further very soon, Elon Musk confirms
-- <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-innovative-ideas-with-revamped-procurement-framework/" >🔗</a> **[NASA]** NASA Seeks Innovative Ideas with Revamped Procurement Framework
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_captures_intricacies_of_R_Aquarii" >🔗</a> **[ESA]** Hubble captures intricacies of R Aquarii
-- <a href="https://www.spacescout.info/2024/10/uae-taps-japans-mhi-for-asteroid-mission/" >🔗</a> **[Space Scout]** UAE taps Japan’s MHI for Asteroid Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T210113">2024-10-16 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241016T213127">2024-10-16 21:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
