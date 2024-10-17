@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/airbus-defense-and-space-to-cut-2500-jobs-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Airbus Defense and Space To Cut 2,500 Jobs Amid Financial Struggles
 - <a href="https://spacenews.com/nasa-weighing-options-for-continuous-human-presence-in-leo-after-iss/" >🔗</a> **[SpaceNews]** NASA weighing options for continuous human presence in LEO after ISS
 - <a href="https://tlpnetwork.com/news/europe/pld-space-unveils-lince-crew-capsule-and-miura-next-miura-heavy-and-miura-super-heavy-plans" >🔗</a> **[The Launch Pad]** PLD Space Unveils Lince Crew Capsule and Miura Next, Mirua Heavy, and Miura Super Heavy Plans
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/" >🔗</a> **[NASA]** NASA Pilots Add Perspective to Research
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/airbus-to-cut-up-to-2500-jobs-amid-space-segment-losses/" >🔗</a> **[SpaceNews]** Airbus to cut up to 2,500 jobs amid space segment losses
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrifice-and-success-nasa-engineer-honors-family-roots/" >🔗</a> **[NASA]** Sacrifice and Success: NASA Engineer Honors Family Roots
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/" >🔗</a> **[NASA]** Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-16-2024/" >🔗</a> **[NASA]** The Marshall Star for October 16, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T030545">2024-10-17 03:05:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T033518">2024-10-17 03:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
