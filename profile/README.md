@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T195500">2024-10-17 19:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 8-19&location=Cape Canaveral SFS, FL, USA&dates=20241017T195500Z%2F20241017T235500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 8-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T103000">2024-10-19 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Changes In Latitudes, Changes In Attitudes&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241019T103000Z%2F20241019T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Changes In Latitudes, Changes In Attitudes** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T050900">2024-10-20 05:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241020T050900Z%2F20241020T054800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T224000">2024-10-21 22:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-61&location=Cape Canaveral SFS, FL, USA&dates=20241021T224000Z%2F20241022T024000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-61** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/bridenstine-to-lead-nasa-mars-sample-return-strategy-review/" >🔗</a> **[SpacePolicyOnline.com]** Bridenstine to Lead NASA Mars Sample Return Strategy Review
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-sarah-ryan/" >🔗</a> **[NASA]** I Am Artemis: Sarah Ryan
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-hosts-former-vp-al-gore-to-mark-10-years-of-dscovr-mission/" >🔗</a> **[NASA]** NASA Goddard Hosts Former VP Al Gore to Mark 10 Years of DSCOVR Mission
 - <a href="https://www.nasa.gov/image-article/nasas-c-130-aircraft-en-route-to-india-in-support-of-nisar-mission/" >🔗</a> **[NASA]** NASA’s C-130 Aircraft En Route to India in Support of NISAR Mission
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/" >🔗</a> **[NASA]** NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 - <a href="https://spaceflightnow.com/2024/10/17/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -98,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/" >🔗</a> **[NASA]** Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 - <a href="https://www.nasa.gov/image-article/imagining-the-future/" >🔗</a> **[NASA]** Imagining the Future
 - <a href="https://spacenews.com/skynopy-lays-foundation-for-proprietary-ground-stations/" >🔗</a> **[SpaceNews]** Skynopy lays foundation for proprietary ground station expansion
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_moves_forward_with_Apophis_mission_preparations" >🔗</a> **[ESA]** ESA moves forward with Apophis mission preparations
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherlands" >🔗</a> **[ESA]** ESA's Open Day in the Netherlands
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherland" >🔗</a> **[ESA]** ESA's Open Day in the Netherland
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T193108">2024-10-17 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T200117">2024-10-17 20:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
