@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-the-rise-of-intuitive-machines/" >🔗</a> **[SpaceNews]** Webinar – The Rise of Intuitive Machines
 - <a href="https://spacenews.com/nro-pushes-back-on-criticism-of-satellite-intelligence-delays/" >🔗</a> **[SpaceNews]** NRO pushes back on criticism of satellite intelligence delays
 - <a href="https://tlpnetwork.com/news/america/boeing-starliner-delayed-again-nasa-confirms-both-2025-iss-missions-on-spacex-crew-dragon" >🔗</a> **[The Launch Pad]** Boeing’s Starliner Delayed Again; NASA Confirms Both 2025 ISS Missions On SpaceX Crew Dragon
 - <a href="https://spacepolicyonline.com/news/bridenstine-to-lead-nasa-mars-sample-return-strategy-review/" >🔗</a> **[SpacePolicyOnline.com]** Bridenstine to Lead NASA Mars Sample Return Strategy Review
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/" >🔗</a> **[NASA]** NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 - <a href="https://spaceflightnow.com/2024/10/17/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/blog/just-keep-roving/" >🔗</a> **[NASA]** Just Keep Roving
-- <a href="https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/" >🔗</a> **[NASA]** Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T220125">2024-10-17 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T223348">2024-10-17 22:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
