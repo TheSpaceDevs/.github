@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Future_of_Copernicus_Expansion_Missions_secured" >🔗</a> **[ESA]** Future of Copernicus Expansion Missions secured
+- <a href="https://spacenews.com/nasa-further-delays-first-operational-starliner-flight/" >🔗</a> **[SpaceNews]** NASA further delays first operational Starliner flight
 - <a href="https://spacenews.com/canadas-mission-control-to-demonstrate-ai-on-spire-cubesat/" >🔗</a> **[SpaceNews]** Canada’s Mission Control to demonstrate AI on Spire cubesat
 - <a href="https://tlpnetwork.com/news/america/axiom-space-and-prada-unveil-artemis-3-spacesuit-at-iac-2024-in-milan" >🔗</a> **[The Launch Pad]** Axiom Space and Prada Unveil Artemis III Spacesuit at IAC2024 in Milan
 - <a href="https://tlpnetwork.com/news/america/airbus-defense-and-space-to-cut-2500-jobs-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Airbus Defense and Space To Cut 2,500 Jobs Amid Financial Struggles
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/" >🔗</a> **[NASA]** NASA Pilots Add Perspective to Research
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/" >🔗</a> **[NASA]** Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/" >🔗</a> **[NASA]** The View from Space Keeps Getting Better
-- <a href="https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/" >🔗</a> **[NASA]** New Team to Assess NASA’s Mars Sample Return Architecture Proposals
-- <a href="https://spacenews.com/airbus-to-cut-up-to-2500-jobs-amid-space-segment-losses/" >🔗</a> **[SpaceNews]** Airbus to cut up to 2,500 jobs amid space segment losses
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T080132">2024-10-17 08:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T083507">2024-10-17 08:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
