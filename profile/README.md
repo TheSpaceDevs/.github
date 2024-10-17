@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-c-130-aircraft-en-route-to-india-in-support-of-nisar-mission/" >🔗</a> **[NASA]** NASA’s C-130 Aircraft En Route to India in Support of NISAR Mission
+- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/" >🔗</a> **[NASA]** NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
+- <a href="https://spaceflightnow.com/2024/10/17/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://science.nasa.gov/blog/just-keep-roving/" >🔗</a> **[NASA]** Just Keep Roving
 - <a href="https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/" >🔗</a> **[NASA]** Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 - <a href="https://www.nasa.gov/image-article/imagining-the-future/" >🔗</a> **[NASA]** Imagining the Future
 - <a href="https://spacenews.com/skynopy-lays-foundation-for-proprietary-ground-stations/" >🔗</a> **[SpaceNews]** Skynopy lays foundation for proprietary ground station expansion
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_moves_forward_with_Apophis_mission_preparations" >🔗</a> **[ESA]** ESA moves forward with Apophis mission preparations
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherlands" >🔗</a> **[ESA]** ESA's Open Day in the Netherlands
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherland" >🔗</a> **[ESA]** ESA's Open Day in the Netherland
-- <a href="https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/" >🔗</a> **[NASA]** Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
-- <a href="https://www.nasa.gov/general/scientist-profile-jacquelyn-shuman-blazes-new-trails-in-fire-science/" >🔗</a> **[NASA]** Scientist Profile: Jacquelyn Shuman Blazes New Trails in Fire Science
-- <a href="https://www.nasa.gov/news-release/iowa-students-to-connect-with-nasa-astronaut-aboard-space-station/" >🔗</a> **[NASA]** Iowa Students to Connect with NASA Astronaut Aboard Space Station
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-31st-resupply-mission-to-launch-experiments-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 31st Resupply Mission to Launch Experiments to Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T190119">2024-10-17 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T193108">2024-10-17 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
