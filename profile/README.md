@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/axiom-space-and-prada-unveil-artemis-3-spacesuit-at-iac-2024-in-milan" >🔗</a> **[The Launch Pad]** Axiom Space and Prada Unveil Artemis III Spacesuit at IAC2024 in Milan
 - <a href="https://tlpnetwork.com/news/america/airbus-defense-and-space-to-cut-2500-jobs-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Airbus Defense and Space To Cut 2,500 Jobs Amid Financial Struggles
 - <a href="https://spacenews.com/nasa-weighing-options-for-continuous-human-presence-in-leo-after-iss/" >🔗</a> **[SpaceNews]** NASA weighing options for continuous human presence in LEO after ISS
 - <a href="https://tlpnetwork.com/news/europe/pld-space-unveils-lince-crew-capsule-and-miura-next-miura-heavy-and-miura-super-heavy-plans" >🔗</a> **[The Launch Pad]** PLD Space Unveils Lince Crew Capsule and Miura Next, Mirua Heavy, and Miura Super Heavy Plans
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/" >🔗</a> **[NASA]** New Team to Assess NASA’s Mars Sample Return Architecture Proposals
 - <a href="https://spacenews.com/airbus-to-cut-up-to-2500-jobs-amid-space-segment-losses/" >🔗</a> **[SpaceNews]** Airbus to cut up to 2,500 jobs amid space segment losses
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrifice-and-success-nasa-engineer-honors-family-roots/" >🔗</a> **[NASA]** Sacrifice and Success: NASA Engineer Honors Family Roots
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/" >🔗</a> **[NASA]** Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T040120">2024-10-17 04:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T043448">2024-10-17 04:34:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
