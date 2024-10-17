@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherland" >🔗</a> **[ESA]** ESA's Open Day in the Netherland
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-31st-resupply-mission-to-launch-experiments-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 31st Resupply Mission to Launch Experiments to Station
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_4" >🔗</a> **[ESA]** IAC 2024 - Day 4
 - <a href="https://spacenews.com/firefly-to-launch-true-anomalys-jackal-vehicle-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Firefly to launch True Anomaly’s Jackal vehicle for U.S. Space Force mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/VAST_focus_of_future_space_frequencies" >🔗</a> **[ESA]** VAST focus of future space frequencies
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nations-pursue-sovereign-space-capabilities-fortified-by-commercial-services/" >🔗</a> **[SpaceNews]** Nations pursue sovereign space capabilities fortified by commercial services
 - <a href="https://spacenews.com/glasgows-craft-prospect-selected-as-european-space-agencys-rising-star/" >🔗</a> **[SpaceNews]** Glasgow’s Craft Prospect selected as European Space Agency’s Rising Star
 - <a href="https://spacenews.com/artemis-accords-signatories-look-to-recruit-new-members/" >🔗</a> **[SpaceNews]** Artemis Accords signatories look to recruit new members
-- <a href="https://europeanspaceflight.com/sirius-space-completes-star-1-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Sirius Space Completes STAR-1 Hot Fire Test Campaign
-- <a href="https://spacenews.com/big-data-advanced-algorithms-and-new-approaches-for-space-missions/" >🔗</a> **[SpaceNews]** Big data, advanced algorithms and  new approaches for space missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T140111">2024-10-17 14:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T143350">2024-10-17 14:33:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
