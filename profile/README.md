@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/VAST_focus_of_future_space_frequencies" >🔗</a> **[ESA]** VAST focus of future space frequencies
+- <a href="https://spacenews.com/arkedge-space-wins-jaxa-position-navigation-and-timing-contract/" >🔗</a> **[SpaceNews]** ArkEdge Space wins JAXA position, navigation and timing contract
+- <a href="https://spacenews.com/spideroak-announces-open-source-initiative-for-zero-trust-cybersecurity/" >🔗</a> **[SpaceNews]** SpiderOak announces open-source initiative for zero-trust cybersecurity
+- <a href="https://spacenews.com/nations-pursue-sovereign-space-capabilities-fortified-by-commercial-services/" >🔗</a> **[SpaceNews]** Nations pursue sovereign space capabilities fortified by commercial services
+- <a href="https://spacenews.com/glasgows-craft-prospect-selected-as-european-space-agencys-rising-star/" >🔗</a> **[SpaceNews]** Glasgow’s Craft Prospect selected as European Space Agency’s Rising Star
+- <a href="https://spacenews.com/artemis-accords-signatories-look-to-recruit-new-members/" >🔗</a> **[SpaceNews]** Artemis Accords signatories look to recruit new members
 - <a href="https://europeanspaceflight.com/sirius-space-completes-star-1-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Sirius Space Completes STAR-1 Hot Fire Test Campaign
 - <a href="https://spacenews.com/big-data-advanced-algorithms-and-new-approaches-for-space-missions/" >🔗</a> **[SpaceNews]** Big data, advanced algorithms and  new approaches for space missions
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Future_of_Copernicus_Expansion_Missions_secured" >🔗</a> **[ESA]** Future of Copernicus Expansion Missions secured
 - <a href="https://spacenews.com/thales-alenia-space-and-argotec-win-iride-contracts/" >🔗</a> **[SpaceNews]** Thales Alenia Space and Argotec win IRIDE contracts
-- <a href="https://spacenews.com/nasa-further-delays-first-operational-starliner-flight/" >🔗</a> **[SpaceNews]** NASA further delays first operational Starliner flight
-- <a href="https://spacenews.com/canadas-mission-control-to-demonstrate-ai-on-spire-cubesat/" >🔗</a> **[SpaceNews]** Canada’s Mission Control to demonstrate AI on Spire cubesat
-- <a href="https://tlpnetwork.com/news/america/axiom-space-and-prada-unveil-artemis-3-spacesuit-at-iac-2024-in-milan" >🔗</a> **[The Launch Pad]** Axiom Space and Prada Unveil Artemis III Spacesuit at IAC2024 in Milan
-- <a href="https://tlpnetwork.com/news/america/airbus-defense-and-space-to-cut-2500-jobs-amid-financial-struggles" >🔗</a> **[The Launch Pad]** Airbus Defense and Space To Cut 2,500 Jobs Amid Financial Struggles
-- <a href="https://spacenews.com/nasa-weighing-options-for-continuous-human-presence-in-leo-after-iss/" >🔗</a> **[SpaceNews]** NASA weighing options for continuous human presence in LEO after ISS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T120200">2024-10-17 12:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T124233">2024-10-17 12:42:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
