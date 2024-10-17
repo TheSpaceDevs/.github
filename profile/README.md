@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Future_of_Copernicus_Expansion_Missions_secured" >🔗</a> **[ESA]** Future of Copernicus Expansion Missions secured
+- <a href="https://spacenews.com/thales-alenia-space-and-argotec-win-iride-contracts/" >🔗</a> **[SpaceNews]** Thales Alenia Space and Argotec win IRIDE contracts
 - <a href="https://spacenews.com/nasa-further-delays-first-operational-starliner-flight/" >🔗</a> **[SpaceNews]** NASA further delays first operational Starliner flight
 - <a href="https://spacenews.com/canadas-mission-control-to-demonstrate-ai-on-spire-cubesat/" >🔗</a> **[SpaceNews]** Canada’s Mission Control to demonstrate AI on Spire cubesat
 - <a href="https://tlpnetwork.com/news/america/axiom-space-and-prada-unveil-artemis-3-spacesuit-at-iac-2024-in-milan" >🔗</a> **[The Launch Pad]** Axiom Space and Prada Unveil Artemis III Spacesuit at IAC2024 in Milan
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/pld-space-unveils-lince-crew-capsule-and-miura-next-miura-heavy-and-miura-super-heavy-plans" >🔗</a> **[The Launch Pad]** PLD Space Unveils Lince Crew Capsule and Miura Next, Mirua Heavy, and Miura Super Heavy Plans
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/" >🔗</a> **[NASA]** NASA Pilots Add Perspective to Research
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/" >🔗</a> **[NASA]** Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/" >🔗</a> **[NASA]** The View from Space Keeps Getting Better
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T090112">2024-10-17 09:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T093239">2024-10-17 09:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
