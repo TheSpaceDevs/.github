@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_moves_forward_with_Apophis_mission_preparations" >🔗</a> **[ESA]** ESA moves forward with Apophis mission preparations
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherland" >🔗</a> **[ESA]** ESA's Open Day in the Netherland
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/ESA_s_Open_Day_in_the_Netherlands" >🔗</a> **[ESA]** ESA's Open Day in the Netherlands
+- <a href="https://www.nasa.gov/general/scientist-profile-jacquelyn-shuman-blazes-new-trails-in-fire-science/" >🔗</a> **[NASA]** Scientist Profile: Jacquelyn Shuman Blazes New Trails in Fire Science
+- <a href="https://www.nasa.gov/news-release/iowa-students-to-connect-with-nasa-astronaut-aboard-space-station/" >🔗</a> **[NASA]** Iowa Students to Connect with NASA Astronaut Aboard Space Station
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-31st-resupply-mission-to-launch-experiments-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 31st Resupply Mission to Launch Experiments to Station
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_4" >🔗</a> **[ESA]** IAC 2024 - Day 4
 - <a href="https://spacenews.com/firefly-to-launch-true-anomalys-jackal-vehicle-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Firefly to launch True Anomaly’s Jackal vehicle for U.S. Space Force mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/VAST_focus_of_future_space_frequencies" >🔗</a> **[ESA]** VAST focus of future space frequencies
 - <a href="https://spacenews.com/arkedge-space-wins-jaxa-position-navigation-and-timing-contract/" >🔗</a> **[SpaceNews]** ArkEdge Space wins JAXA position, navigation and timing contract
-- <a href="https://spacenews.com/spideroak-announces-open-source-initiative-for-zero-trust-cybersecurity/" >🔗</a> **[SpaceNews]** SpiderOak announces open-source initiative for zero-trust cybersecurity
-- <a href="https://spacenews.com/nations-pursue-sovereign-space-capabilities-fortified-by-commercial-services/" >🔗</a> **[SpaceNews]** Nations pursue sovereign space capabilities fortified by commercial services
-- <a href="https://spacenews.com/glasgows-craft-prospect-selected-as-european-space-agencys-rising-star/" >🔗</a> **[SpaceNews]** Glasgow’s Craft Prospect selected as European Space Agency’s Rising Star
-- <a href="https://spacenews.com/artemis-accords-signatories-look-to-recruit-new-members/" >🔗</a> **[SpaceNews]** Artemis Accords signatories look to recruit new members
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T150108">2024-10-17 15:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T153348">2024-10-17 15:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
