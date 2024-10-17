@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-weighing-options-for-continuous-human-presence-in-leo-after-iss/" >🔗</a> **[SpaceNews]** NASA weighing options for continuous human presence in LEO after ISS
 - <a href="https://tlpnetwork.com/news/europe/pld-space-unveils-lince-crew-capsule-and-miura-next-miura-heavy-and-miura-super-heavy-plans" >🔗</a> **[The Launch Pad]** PLD Space Unveils Lince Crew Capsule and Miura Next, Mirua Heavy, and Miura Super Heavy Plans
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/" >🔗</a> **[NASA]** NASA Pilots Add Perspective to Research
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/" >🔗</a> **[NASA]** Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrifice-and-success-nasa-engineer-honors-family-roots/" >🔗</a> **[NASA]** Sacrifice and Success: NASA Engineer Honors Family Roots
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/" >🔗</a> **[NASA]** Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-16-2024/" >🔗</a> **[NASA]** The Marshall Star for October 16, 2024
-- <a href="https://www.nasaspaceflight.com/2024/10/china-roundup-202410/" >🔗</a> **[NASASpaceflight]** China Roundup: reusable satellites, lunar EVA suits, and expanding spaceports
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T020243">2024-10-17 02:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T024451">2024-10-17 02:44:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
