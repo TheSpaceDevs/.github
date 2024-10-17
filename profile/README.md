@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_-_Day_4" >🔗</a> **[ESA]** IAC 2024 - Day 4
+- <a href="https://spacenews.com/firefly-to-launch-true-anomalys-jackal-vehicle-for-u-s-space-force-mission/" >🔗</a> **[SpaceNews]** Firefly to launch True Anomaly’s Jackal vehicle for U.S. Space Force mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/VAST_focus_of_future_space_frequencies" >🔗</a> **[ESA]** VAST focus of future space frequencies
 - <a href="https://spacenews.com/arkedge-space-wins-jaxa-position-navigation-and-timing-contract/" >🔗</a> **[SpaceNews]** ArkEdge Space wins JAXA position, navigation and timing contract
 - <a href="https://spacenews.com/spideroak-announces-open-source-initiative-for-zero-trust-cybersecurity/" >🔗</a> **[SpaceNews]** SpiderOak announces open-source initiative for zero-trust cybersecurity
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/artemis-accords-signatories-look-to-recruit-new-members/" >🔗</a> **[SpaceNews]** Artemis Accords signatories look to recruit new members
 - <a href="https://europeanspaceflight.com/sirius-space-completes-star-1-hot-fire-test-campaign/" >🔗</a> **[European Spaceflight]** Sirius Space Completes STAR-1 Hot Fire Test Campaign
 - <a href="https://spacenews.com/big-data-advanced-algorithms-and-new-approaches-for-space-missions/" >🔗</a> **[SpaceNews]** Big data, advanced algorithms and  new approaches for space missions
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Future_of_Copernicus_Expansion_Missions_secured" >🔗</a> **[ESA]** Future of Copernicus Expansion Missions secured
-- <a href="https://spacenews.com/thales-alenia-space-and-argotec-win-iride-contracts/" >🔗</a> **[SpaceNews]** Thales Alenia Space and Argotec win IRIDE contracts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T130601">2024-10-17 13:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T133452">2024-10-17 13:34:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
