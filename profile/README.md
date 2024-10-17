@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/boeing-starliner-delayed-again-nasa-confirms-both-2025-iss-missions-on-spacex-crew-dragon" >🔗</a> **[The Launch Pad]** Boeing’s Starliner Delayed Again; NASA Confirms Both 2025 ISS Missions On SpaceX Crew Dragon
 - <a href="https://spacepolicyonline.com/news/bridenstine-to-lead-nasa-mars-sample-return-strategy-review/" >🔗</a> **[SpacePolicyOnline.com]** Bridenstine to Lead NASA Mars Sample Return Strategy Review
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-sarah-ryan/" >🔗</a> **[NASA]** I Am Artemis: Sarah Ryan
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-hosts-former-vp-al-gore-to-mark-10-years-of-dscovr-mission/" >🔗</a> **[NASA]** NASA Goddard Hosts Former VP Al Gore to Mark 10 Years of DSCOVR Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/just-keep-roving/" >🔗</a> **[NASA]** Just Keep Roving
 - <a href="https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/" >🔗</a> **[NASA]** Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 - <a href="https://www.nasa.gov/image-article/imagining-the-future/" >🔗</a> **[NASA]** Imagining the Future
-- <a href="https://spacenews.com/skynopy-lays-foundation-for-proprietary-ground-stations/" >🔗</a> **[SpaceNews]** Skynopy lays foundation for proprietary ground station expansion
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T200117">2024-10-17 20:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241017T203228">2024-10-17 20:32:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
