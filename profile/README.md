@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
+- <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyora eyes spring 2025 launch amid UK regulatory hangups
+- <a href="https://europeanspaceflight.com/esa-publishes-call-for-telescope-on-the-far-side-of-the-moon/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Telescope on the Far Side of the Moon
+- <a href="https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/" >🔗</a> **[NASA]** NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
+- <a href="https://www.nasa.gov/news-release/nasa-artemis-accords-signatories-progress-on-sustainable-exploration/" >🔗</a> **[NASA]** NASA, Artemis Accords Signatories Progress on Sustainable Exploration
 - <a href="https://spacenews.com/invest-now-in-vital-space-systems-for-safety-security-and-economic-resiliency/" >🔗</a> **[SpaceNews]** Invest now in vital space systems for safety, security and economic resiliency
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_Public_day" >🔗</a> **[ESA]** IAC 2024 – Public day
 - <a href="https://spacenews.com/connecting-the-dots-the-next-connectivity-frontier-a-universal-5g-broadband-terminal/" >🔗</a> **[SpaceNews]** Connecting the Dots | The next connectivity frontier: A universal 5G broadband terminal
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/" >🔗</a> **[NASA]** Hubble Captures a New View of Galaxy M90
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Riyadh_Saudi_Arabia" >🔗</a> **[ESA]** Earth from Space: Riyadh, Saudi Arabia
-- <a href="https://europeanspaceflight.com/esa-awards-ohb-a-63m-euro-contract-for-ramses-planetary-defence-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €63M Contract for Ramses Planetary Defence Mission
-- <a href="https://www.nasa.gov/general/what-is-air-quality/" >🔗</a> **[NASA]** What is Air Quality?
-- <a href="https://science.nasa.gov/blog/sols-4336-4337-where-the-streets-have-no-name/" >🔗</a> **[NASA]** Sols 4336-4337: Where the Streets Have No Name
-- <a href="https://spacepolicyonline.com/news/gao-lack-of-ground-system-schedule-margin-adds-to-likelihood-of-artemis-ii-delay/" >🔗</a> **[SpacePolicyOnline.com]** GAO: Lack of Ground System Schedule Margin Adds to Likelihood of Artemis II Delay
-- <a href="https://spacenews.com/international-spaceports-seek-to-collaborate/" >🔗</a> **[SpaceNews]** International spaceports seek to collaborate
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T150137">2024-10-18 15:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T153241">2024-10-18 15:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
