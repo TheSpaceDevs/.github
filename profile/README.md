@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/invest-now-in-vital-space-systems-for-safety-security-and-economic-resiliency/" >🔗</a> **[SpaceNews]** Invest now in vital space systems for safety, security and economic resiliency
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_Public_day" >🔗</a> **[ESA]** IAC 2024 – Public day
 - <a href="https://spacenews.com/connecting-the-dots-the-next-connectivity-frontier-a-universal-5g-broadband-terminal/" >🔗</a> **[SpaceNews]** Connecting the Dots | The next connectivity frontier: A universal 5G broadband terminal
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/" >🔗</a> **[NASA]** Hubble Captures a New View of Galaxy M90
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4336-4337-where-the-streets-have-no-name/" >🔗</a> **[NASA]** Sols 4336-4337: Where the Streets Have No Name
 - <a href="https://spacepolicyonline.com/news/gao-lack-of-ground-system-schedule-margin-adds-to-likelihood-of-artemis-ii-delay/" >🔗</a> **[SpacePolicyOnline.com]** GAO: Lack of Ground System Schedule Margin Adds to Likelihood of Artemis II Delay
 - <a href="https://spacenews.com/international-spaceports-seek-to-collaborate/" >🔗</a> **[SpaceNews]** International spaceports seek to collaborate
-- <a href="https://spacenews.com/esa-awards-contract-to-begin-work-on-ramses-asteroid-mission/" >🔗</a> **[SpaceNews]** ESA awards contract to begin work on Ramses asteroid mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T140113">2024-10-18 14:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T143342">2024-10-18 14:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
