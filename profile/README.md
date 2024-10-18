@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 8-19**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | OneWeb 20**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T193100">2024-10-18 19:31:00 UTC</a>.  Until
-then, this pad will have been used for 265
-out of 979 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T050900">2024-10-20 05:09:00 UTC</a>.  Until
+then, this pad will have been used for 161
+out of 773 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  A batch of 20 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 20 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Changes In Latitudes, Changes In Attitudes&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Changes In Latitudes, Changes In Attitudes** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Cape Canaveral SFS, FL, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -96,8 +97,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/further-delays-and-hurdles-for-eu-space-law/" >🔗</a> **[SpaceNews]** Further delays and hurdles for EU Space Law
 - <a href="https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/" >🔗</a> **[NASA]** NASA and Partners Scaling to New Heights
 - <a href="https://spacenews.com/astroport-and-orbit-fab-join-forces-for-lunar-exploration-breakthrough/" >🔗</a> **[SpaceNews]** Astroport and Orbit Fab Join Forces for Lunar Exploration Breakthrough
-- <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
 - <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyrora eyes spring 2025 launch amid UK regulatory hangups
+- <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-telescope-on-the-far-side-of-the-moon/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Telescope on the Far Side of the Moon
 - <a href="https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/" >🔗</a> **[NASA]** NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T230110">2024-10-18 23:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T233113">2024-10-18 23:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
