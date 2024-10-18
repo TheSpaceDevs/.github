@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_Public_day" >🔗</a> **[ESA]** IAC 2024 – Public day
+- <a href="https://spacenews.com/connecting-the-dots-the-next-connectivity-frontier-a-universal-5g-broadband-terminal/" >🔗</a> **[SpaceNews]** Connecting the Dots | The next connectivity frontier: A universal 5G broadband terminal
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/" >🔗</a> **[NASA]** Hubble Captures a New View of Galaxy M90
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Riyadh_Saudi_Arabia" >🔗</a> **[ESA]** Earth from Space: Riyadh, Saudi Arabia
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-a-63m-euro-contract-for-ramses-planetary-defence-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €63M Contract for Ramses Planetary Defence Mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/gao-lack-of-ground-system-schedule-margin-adds-to-likelihood-of-artemis-ii-delay/" >🔗</a> **[SpacePolicyOnline.com]** GAO: Lack of Ground System Schedule Margin Adds to Likelihood of Artemis II Delay
 - <a href="https://spacenews.com/international-spaceports-seek-to-collaborate/" >🔗</a> **[SpaceNews]** International spaceports seek to collaborate
 - <a href="https://spacenews.com/esa-awards-contract-to-begin-work-on-ramses-asteroid-mission/" >🔗</a> **[SpaceNews]** ESA awards contract to begin work on Ramses asteroid mission
-- <a href="https://spacenews.com/u-s-government-eases-export-controls-on-space-technologies/" >🔗</a> **[SpaceNews]** U.S. government eases export controls on space technologies
-- <a href="https://spacenews.com/webinar-the-rise-of-intuitive-machines/" >🔗</a> **[SpaceNews]** Webinar – The Rise of Intuitive Machines
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T120134">2024-10-18 12:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T124227">2024-10-18 12:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
