@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/gao-lack-of-ground-system-schedule-margin-adds-to-likelihood-of-artemis-ii-delay/" >🔗</a> **[SpacePolicyOnline.com]** GAO: Lack of Ground System Schedule Margin Adds to Likelihood of Artemis II Delay
+- <a href="https://spacenews.com/international-spaceports-seek-to-collaborate/" >🔗</a> **[SpaceNews]** International spaceports seek to collaborate
 - <a href="https://spacenews.com/esa-awards-contract-to-begin-work-on-ramses-asteroid-mission/" >🔗</a> **[SpaceNews]** ESA awards contract to begin work on Ramses asteroid mission
 - <a href="https://spacenews.com/u-s-government-eases-export-controls-on-space-technologies/" >🔗</a> **[SpaceNews]** U.S. government eases export controls on space technologies
 - <a href="https://spacenews.com/webinar-the-rise-of-intuitive-machines/" >🔗</a> **[SpaceNews]** Webinar – The Rise of Intuitive Machines
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/bridenstine-to-lead-nasa-mars-sample-return-strategy-review/" >🔗</a> **[SpacePolicyOnline.com]** Bridenstine to Lead NASA Mars Sample Return Strategy Review
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-sarah-ryan/" >🔗</a> **[NASA]** I Am Artemis: Sarah Ryan
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-hosts-former-vp-al-gore-to-mark-10-years-of-dscovr-mission/" >🔗</a> **[NASA]** NASA Goddard Hosts Former VP Al Gore to Mark 10 Years of DSCOVR Mission
-- <a href="https://www.nasa.gov/image-article/nasas-c-130-aircraft-en-route-to-india-in-support-of-nisar-mission/" >🔗</a> **[NASA]** NASA’s C-130 Aircraft En Route to India in Support of NISAR Mission
-- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/" >🔗</a> **[NASA]** NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T030621">2024-10-18 03:06:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T033610">2024-10-18 03:36:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
