@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Riyadh_Saudi_Arabia" >🔗</a> **[ESA]** Earth from Space: Riyadh, Saudi Arabia
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-a-63m-euro-contract-for-ramses-planetary-defence-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €63M Contract for Ramses Planetary Defence Mission
 - <a href="https://www.nasa.gov/general/what-is-air-quality/" >🔗</a> **[NASA]** What is Air Quality?
 - <a href="https://science.nasa.gov/blog/sols-4336-4337-where-the-streets-have-no-name/" >🔗</a> **[NASA]** Sols 4336-4337: Where the Streets Have No Name
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-government-eases-export-controls-on-space-technologies/" >🔗</a> **[SpaceNews]** U.S. government eases export controls on space technologies
 - <a href="https://spacenews.com/webinar-the-rise-of-intuitive-machines/" >🔗</a> **[SpaceNews]** Webinar – The Rise of Intuitive Machines
 - <a href="https://spacenews.com/nro-pushes-back-on-criticism-of-satellite-intelligence-delays/" >🔗</a> **[SpaceNews]** NRO pushes back on criticism of satellite intelligence delays
-- <a href="https://tlpnetwork.com/news/america/boeing-starliner-delayed-again-nasa-confirms-both-2025-iss-missions-on-spacex-crew-dragon" >🔗</a> **[The Launch Pad]** Boeing’s Starliner Delayed Again; NASA Confirms Both 2025 ISS Missions On SpaceX Crew Dragon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T080122">2024-10-18 08:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T083508">2024-10-18 08:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
