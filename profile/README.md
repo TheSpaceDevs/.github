@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4336-4337-where-the-streets-have-no-name/" >🔗</a> **[NASA]** Sols 4336-4337: Where the Streets Have No Name
 - <a href="https://spacepolicyonline.com/news/gao-lack-of-ground-system-schedule-margin-adds-to-likelihood-of-artemis-ii-delay/" >🔗</a> **[SpacePolicyOnline.com]** GAO: Lack of Ground System Schedule Margin Adds to Likelihood of Artemis II Delay
 - <a href="https://spacenews.com/international-spaceports-seek-to-collaborate/" >🔗</a> **[SpaceNews]** International spaceports seek to collaborate
 - <a href="https://spacenews.com/esa-awards-contract-to-begin-work-on-ramses-asteroid-mission/" >🔗</a> **[SpaceNews]** ESA awards contract to begin work on Ramses asteroid mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/boeing-starliner-delayed-again-nasa-confirms-both-2025-iss-missions-on-spacex-crew-dragon" >🔗</a> **[The Launch Pad]** Boeing’s Starliner Delayed Again; NASA Confirms Both 2025 ISS Missions On SpaceX Crew Dragon
 - <a href="https://spacepolicyonline.com/news/bridenstine-to-lead-nasa-mars-sample-return-strategy-review/" >🔗</a> **[SpacePolicyOnline.com]** Bridenstine to Lead NASA Mars Sample Return Strategy Review
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-sarah-ryan/" >🔗</a> **[NASA]** I Am Artemis: Sarah Ryan
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-hosts-former-vp-al-gore-to-mark-10-years-of-dscovr-mission/" >🔗</a> **[NASA]** NASA Goddard Hosts Former VP Al Gore to Mark 10 Years of DSCOVR Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T050126">2024-10-18 05:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T053352">2024-10-18 05:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
