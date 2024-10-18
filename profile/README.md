@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-ohb-a-63m-euro-contract-for-ramses-planetary-defence-mission/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €63M Contract for Ramses Planetary Defence Mission
+- <a href="https://www.nasa.gov/general/what-is-air-quality/" >🔗</a> **[NASA]** What is Air Quality?
 - <a href="https://science.nasa.gov/blog/sols-4336-4337-where-the-streets-have-no-name/" >🔗</a> **[NASA]** Sols 4336-4337: Where the Streets Have No Name
 - <a href="https://spacepolicyonline.com/news/gao-lack-of-ground-system-schedule-margin-adds-to-likelihood-of-artemis-ii-delay/" >🔗</a> **[SpacePolicyOnline.com]** GAO: Lack of Ground System Schedule Margin Adds to Likelihood of Artemis II Delay
 - <a href="https://spacenews.com/international-spaceports-seek-to-collaborate/" >🔗</a> **[SpaceNews]** International spaceports seek to collaborate
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/webinar-the-rise-of-intuitive-machines/" >🔗</a> **[SpaceNews]** Webinar – The Rise of Intuitive Machines
 - <a href="https://spacenews.com/nro-pushes-back-on-criticism-of-satellite-intelligence-delays/" >🔗</a> **[SpaceNews]** NRO pushes back on criticism of satellite intelligence delays
 - <a href="https://tlpnetwork.com/news/america/boeing-starliner-delayed-again-nasa-confirms-both-2025-iss-missions-on-spacex-crew-dragon" >🔗</a> **[The Launch Pad]** Boeing’s Starliner Delayed Again; NASA Confirms Both 2025 ISS Missions On SpaceX Crew Dragon
-- <a href="https://spacepolicyonline.com/news/bridenstine-to-lead-nasa-mars-sample-return-strategy-review/" >🔗</a> **[SpacePolicyOnline.com]** Bridenstine to Lead NASA Mars Sample Return Strategy Review
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-sarah-ryan/" >🔗</a> **[NASA]** I Am Artemis: Sarah Ryan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T070124">2024-10-18 07:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T073141">2024-10-18 07:31:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
