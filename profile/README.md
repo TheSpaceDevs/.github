@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/further-delays-and-hurdles-for-eu-space-law/" >🔗</a> **[SpaceNews]** Further delays and hurdles for EU Space Law
 - <a href="https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/" >🔗</a> **[NASA]** NASA and Partners Scaling to New Heights
 - <a href="https://spacenews.com/astroport-and-orbit-fab-join-forces-for-lunar-exploration-breakthrough/" >🔗</a> **[SpaceNews]** Astroport and Orbit Fab Join Forces for Lunar Exploration Breakthrough
-- <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyora eyes spring 2025 launch amid UK regulatory hangups
 - <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
+- <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyora eyes spring 2025 launch amid UK regulatory hangups
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-telescope-on-the-far-side-of-the-moon/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Telescope on the Far Side of the Moon
 - <a href="https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/" >🔗</a> **[NASA]** NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 - <a href="https://www.nasa.gov/news-release/nasa-artemis-accords-signatories-progress-on-sustainable-exploration/" >🔗</a> **[NASA]** NASA, Artemis Accords Signatories Progress on Sustainable Exploration
 - <a href="https://spacenews.com/invest-now-in-vital-space-systems-for-safety-security-and-economic-resiliency/" >🔗</a> **[SpaceNews]** Invest now in vital space systems for safety, security and economic resiliency
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_international_events_and_airshows/IAC_2024_Public_day" >🔗</a> **[ESA]** IAC 2024 – Public day
-- <a href="https://spacenews.com/connecting-the-dots-the-next-connectivity-frontier-a-universal-5g-broadband-terminal/" >🔗</a> **[SpaceNews]** Connecting the Dots | The next connectivity frontier: A universal 5G broadband terminal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T170117">2024-10-18 17:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241018T173245">2024-10-18 17:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
