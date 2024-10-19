@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#S
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T050900">2024-10-20 05:09:00 UTC</a>.  Until
 then, this pad will have been used for 161
 out of 773 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Polar Orbit
 (PO)*.
@@ -46,7 +46,7 @@ into *a Polar Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T050900">2024-10-20 05:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241020T050900Z%2F20241020T054800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T050900">2024-10-20 05:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OneWeb 20&location=Vandenberg SFB, CA, USA&dates=20241020T050900Z%2F20241020T054800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OneWeb 20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T224000">2024-10-21 22:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-61&location=Cape Canaveral SFS, FL, USA&dates=20241021T224000Z%2F20241022T024000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-61** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T000300">2024-10-22 00:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20241022T000300Z%2F20241022T003600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T005900">2024-10-23 00:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20241023T005900Z%2F20241023T011600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -97,8 +97,8 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/further-delays-and-hurdles-for-eu-space-law/" >🔗</a> **[SpaceNews]** Further delays and hurdles for EU Space Law
 - <a href="https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/" >🔗</a> **[NASA]** NASA and Partners Scaling to New Heights
 - <a href="https://spacenews.com/astroport-and-orbit-fab-join-forces-for-lunar-exploration-breakthrough/" >🔗</a> **[SpaceNews]** Astroport and Orbit Fab Join Forces for Lunar Exploration Breakthrough
-- <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
 - <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyrora eyes spring 2025 launch amid UK regulatory hangups
+- <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-telescope-on-the-far-side-of-the-moon/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Telescope on the Far Side of the Moon
 - <a href="https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/" >🔗</a> **[NASA]** NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T020153">2024-10-19 02:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T024411">2024-10-19 02:44:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
