@@ -91,6 +91,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/latest-starship-flight-prompts-praise-and-worries-at-iac/" >🔗</a> **[SpaceNews]** Latest Starship flight prompts praise and worries at IAC
 - <a href="https://spaceflightnow.com/2024/10/19/live-coverage-spacex-to-launch-final-batch-of-gen-1-oneweb-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final batch of Gen. 1 OneWeb satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/ground-systems-could-delay-artemis-2-launch/" >🔗</a> **[SpaceNews]** Ground systems could delay Artemis 2 launch
 - <a href="https://spacenews.com/spacex-secures-new-contracts-worth-733-5-million-for-national-security-space-missions/" >🔗</a> **[SpaceNews]** SpaceX secures new contracts worth $733.5 million for national security space missions
@@ -100,7 +101,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/" >🔗</a> **[NASA]** NASA and Partners Scaling to New Heights
 - <a href="https://spacenews.com/astroport-and-orbit-fab-join-forces-for-lunar-exploration-breakthrough/" >🔗</a> **[SpaceNews]** Astroport and Orbit Fab Join Forces for Lunar Exploration Breakthrough
 - <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyrora eyes spring 2025 launch amid UK regulatory hangups
-- <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T220119">2024-10-19 22:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T223428">2024-10-19 22:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
