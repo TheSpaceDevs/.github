@@ -98,8 +98,8 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/further-delays-and-hurdles-for-eu-space-law/" >🔗</a> **[SpaceNews]** Further delays and hurdles for EU Space Law
 - <a href="https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/" >🔗</a> **[NASA]** NASA and Partners Scaling to New Heights
 - <a href="https://spacenews.com/astroport-and-orbit-fab-join-forces-for-lunar-exploration-breakthrough/" >🔗</a> **[SpaceNews]** Astroport and Orbit Fab Join Forces for Lunar Exploration Breakthrough
-- <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyrora eyes spring 2025 launch amid UK regulatory hangups
 - <a href="https://www.nasa.gov/history/five-years-ago-first-all-woman-spacewalk/" >🔗</a> **[NASA]** Five Years Ago: First All Woman Spacewalk
+- <a href="https://spacenews.com/skyora-eyes-spring-2025-launch-amid-uk-regulatory-hangups/" >🔗</a> **[SpaceNews]** Skyrora eyes spring 2025 launch amid UK regulatory hangups
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-telescope-on-the-far-side-of-the-moon/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Telescope on the Far Side of the Moon
 
 
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T180118">2024-10-19 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241019T183447">2024-10-19 18:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
