@@ -93,7 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Intelsat 33e loses power in geostationary orbit
 - <a href="https://spacenews.com/latest-starship-flight-prompts-praise-and-worries-at-iac/" >🔗</a> **[SpaceNews]** Latest Starship flight prompts praise and worries at IAC
-- <a href="https://spaceflightnow.com/2024/10/19/live-coverage-spacex-to-launch-final-batch-of-gen-1-oneweb-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final batch of Gen. 1 OneWeb satellites on Falcon 9 rocket from Vandenberg
+- <a href="https://spaceflightnow.com/2024/10/19/live-coverage-spacex-to-launch-final-batch-of-gen-1-oneweb-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Gen. 1 OneWeb satellites on 100th orbital flight of 2024
 - <a href="https://spacenews.com/ground-systems-could-delay-artemis-2-launch/" >🔗</a> **[SpaceNews]** Ground systems could delay Artemis 2 launch
 - <a href="https://spacenews.com/spacex-secures-new-contracts-worth-733-5-million-for-national-security-space-missions/" >🔗</a> **[SpaceNews]** SpaceX secures new contracts worth $733.5 million for national security space missions
 - <a href="https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/" >🔗</a> **[NASA]** S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T070111">2024-10-20 07:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T073137">2024-10-20 07:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
