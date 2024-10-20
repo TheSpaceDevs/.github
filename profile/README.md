@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-20-26-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 20-26, 2024
 - <a href="https://spacenews.com/spacex-launches-20-spare-satellites-for-rival-oneweb-leo-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches 20 spare satellites for rival OneWeb LEO constellation
 - <a href="https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Intelsat 33e loses power in geostationary orbit
 - <a href="https://spacenews.com/latest-starship-flight-prompts-praise-and-worries-at-iac/" >🔗</a> **[SpaceNews]** Latest Starship flight prompts praise and worries at IAC
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/" >🔗</a> **[NASA]** S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
 - <a href="https://www.nasa.gov/image-article/nasa-michoud-gets-a-rare-visitor/" >🔗</a> **[NASA]** NASA Michoud Gets a Rare Visitor
 - <a href="https://spacenews.com/further-delays-and-hurdles-for-eu-space-law/" >🔗</a> **[SpaceNews]** Further delays and hurdles for EU Space Law
-- <a href="https://www.nasa.gov/aeronautics/nasa-and-partners-scaling-to-new-heights/" >🔗</a> **[NASA]** NASA and Partners Scaling to New Heights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T193101">2024-10-20 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241020T200116">2024-10-20 20:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
