@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/10/21/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 68th Starlink mission of 2024 as it seeks permission to operate nearly 30,000 Gen2 satellites
+- <a href="https://spacenews.com/luxembourg-joins-oq-technologys-30-million-euro-investment-plan/" >🔗</a> **[SpaceNews]** Luxembourg joins OQ Technology’s 30 million euro investment plan
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-chile-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Chile Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/image-article/on-the-road-again/" >🔗</a> **[NASA]** On the Road Again…
 - <a href="https://www.nasa.gov/image-article/team-ii-test/" >🔗</a> **[NASA]** TEAM II Test
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 18, 2024
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Emilia-Romagna_hit_by_severe_flooding" >🔗</a> **[ESA]** Emilia-Romagna hit by severe flooding
 - <a href="https://europeanspaceflight.com/cnes-to-test-upgraded-frog-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** CNES to Test Upgraded FROG Reusable Rocket Demonstrator in 2025
 - <a href="https://spacenews.com/northrop-grumman-unveils-flying-data-center-for-military-intelligence/" >🔗</a> **[SpaceNews]** Northrop Grumman unveils flying data center for military intelligence
-- <a href="https://spacenews.com/argotec-inaugurates-new-satellite-factory/" >🔗</a> **[SpaceNews]** Argotec inaugurates new satellite factory
-- <a href="https://spacenews.com/on-national-security-the-space-forces-evolution-in-an-increasingly-commercial-space-age/" >🔗</a> **[SpaceNews]** The evolution of the Space Force in an increasingly commercial space age
-- <a href="https://europeanspaceflight.com/student-led-group-performs-europes-first-reusable-rocket-hop/" >🔗</a> **[European Spaceflight]** Student-led Group Performs Europe’s First Reusable Rocket Hop
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T200133">2024-10-21 20:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T203211">2024-10-21 20:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
