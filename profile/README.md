@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/argotec-inaugurates-new-satellite-factory/" >🔗</a> **[SpaceNews]** Argotec inaugurates new satellite factory
 - <a href="https://spacenews.com/on-national-security-the-space-forces-evolution-in-an-increasingly-commercial-space-age/" >🔗</a> **[SpaceNews]** The evolution of the Space Force in an increasingly commercial space age
 - <a href="https://europeanspaceflight.com/student-led-group-performs-europes-first-reusable-rocket-hop/" >🔗</a> **[European Spaceflight]** Student-led Group Performs Europe’s First Reusable Rocket Hop
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-20-26-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 20-26, 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/10/19/live-coverage-spacex-to-launch-final-batch-of-gen-1-oneweb-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Gen. 1 OneWeb satellites on 100th orbital flight of 2024
 - <a href="https://spacenews.com/ground-systems-could-delay-artemis-2-launch/" >🔗</a> **[SpaceNews]** Ground systems could delay Artemis 2 launch
 - <a href="https://spacenews.com/spacex-secures-new-contracts-worth-733-5-million-for-national-security-space-missions/" >🔗</a> **[SpaceNews]** SpaceX secures new contracts worth $733.5 million for national security space missions
-- <a href="https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/" >🔗</a> **[NASA]** S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T130616">2024-10-21 13:06:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T133514">2024-10-21 13:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
