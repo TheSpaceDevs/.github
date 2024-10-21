@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-to-test-upgraded-frog-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** CNES to Test Upgraded FROG Reusable Rocket Demonstrator in 2025
+- <a href="https://spacenews.com/northrop-grumman-unveils-flying-data-center-for-military-intelligence/" >🔗</a> **[SpaceNews]** Northrop Grumman unveils flying data center for military intelligence
 - <a href="https://spacenews.com/argotec-inaugurates-new-satellite-factory/" >🔗</a> **[SpaceNews]** Argotec inaugurates new satellite factory
 - <a href="https://spacenews.com/on-national-security-the-space-forces-evolution-in-an-increasingly-commercial-space-age/" >🔗</a> **[SpaceNews]** The evolution of the Space Force in an increasingly commercial space age
 - <a href="https://europeanspaceflight.com/student-led-group-performs-europes-first-reusable-rocket-hop/" >🔗</a> **[European Spaceflight]** Student-led Group Performs Europe’s First Reusable Rocket Hop
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-20-26-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 20-26, 2024
 - <a href="https://spacenews.com/spacex-launches-20-spare-satellites-for-rival-oneweb-leo-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches 20 spare satellites for rival OneWeb LEO constellation
-- <a href="https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Intelsat 33e loses power in geostationary orbit
+- <a href="https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Intelsat 33e breaks up in geostationary orbit
 - <a href="https://spacenews.com/latest-starship-flight-prompts-praise-and-worries-at-iac/" >🔗</a> **[SpaceNews]** Latest Starship flight prompts praise and worries at IAC
 - <a href="https://spaceflightnow.com/2024/10/19/live-coverage-spacex-to-launch-final-batch-of-gen-1-oneweb-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Gen. 1 OneWeb satellites on 100th orbital flight of 2024
-- <a href="https://spacenews.com/ground-systems-could-delay-artemis-2-launch/" >🔗</a> **[SpaceNews]** Ground systems could delay Artemis 2 launch
-- <a href="https://spacenews.com/spacex-secures-new-contracts-worth-733-5-million-for-national-security-space-missions/" >🔗</a> **[SpaceNews]** SpaceX secures new contracts worth $733.5 million for national security space missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T140117">2024-10-21 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T143418">2024-10-21 14:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
