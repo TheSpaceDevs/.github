@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/" >🔗</a> **[NASA]** 35 Years Ago: STS-34 Sends Galileo on its Way to Jupiter
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Emilia-Romagna_hit_by_severe_flooding" >🔗</a> **[ESA]** Emilia-Romagna hit by severe flooding
 - <a href="https://europeanspaceflight.com/cnes-to-test-upgraded-frog-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** CNES to Test Upgraded FROG Reusable Rocket Demonstrator in 2025
 - <a href="https://spacenews.com/northrop-grumman-unveils-flying-data-center-for-military-intelligence/" >🔗</a> **[SpaceNews]** Northrop Grumman unveils flying data center for military intelligence
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-20-26-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 20-26, 2024
 - <a href="https://spacenews.com/spacex-launches-20-spare-satellites-for-rival-oneweb-leo-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches 20 spare satellites for rival OneWeb LEO constellation
 - <a href="https://spacenews.com/intelsat-33e-loses-power-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Intelsat 33e breaks up in geostationary orbit
-- <a href="https://spacenews.com/latest-starship-flight-prompts-praise-and-worries-at-iac/" >🔗</a> **[SpaceNews]** Latest Starship flight prompts praise and worries at IAC
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T170123">2024-10-21 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T173256">2024-10-21 17:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
