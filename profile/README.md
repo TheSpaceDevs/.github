@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/on-national-security-the-space-forces-evolution-in-an-increasingly-commercial-space-age/" >🔗</a> **[SpaceNews]** The evolution of the Space Force in an increasingly commercial space age
 - <a href="https://europeanspaceflight.com/student-led-group-performs-europes-first-reusable-rocket-hop/" >🔗</a> **[European Spaceflight]** Student-led Group Performs Europe’s First Reusable Rocket Hop
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-20-26-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 20-26, 2024
 - <a href="https://spacenews.com/spacex-launches-20-spare-satellites-for-rival-oneweb-leo-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches 20 spare satellites for rival OneWeb LEO constellation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ground-systems-could-delay-artemis-2-launch/" >🔗</a> **[SpaceNews]** Ground systems could delay Artemis 2 launch
 - <a href="https://spacenews.com/spacex-secures-new-contracts-worth-733-5-million-for-national-security-space-missions/" >🔗</a> **[SpaceNews]** SpaceX secures new contracts worth $733.5 million for national security space missions
 - <a href="https://www.nasa.gov/general/s-mode-asia-aq-and-the-role-of-espo-in-complex-airborne-campaigns/" >🔗</a> **[NASA]** S-MODE, ASIA-AQ, and the Role of ESPO in Complex Airborne Campaigns
-- <a href="https://www.nasa.gov/image-article/nasa-michoud-gets-a-rare-visitor/" >🔗</a> **[NASA]** NASA Michoud Gets a Rare Visitor
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T120200">2024-10-21 12:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241021T124236">2024-10-21 12:42:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
