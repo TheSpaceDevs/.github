@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T221400">2024-10-22 22:14:00 UTC</a>.  Until
 then, this pad will have been used for 266
 out of 980 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T221400">2024-10-22 22:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-61&location=Cape Canaveral SFS, FL, USA&dates=20241022T221400Z%2F20241023T021400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-61** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T221400">2024-10-22 22:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-61&location=Cape Canaveral SFS, FL, USA&dates=20241022T221400Z%2F20241023T021400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-61** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T005900">2024-10-23 00:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20241023T005900Z%2F20241023T011600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T150000">2024-10-23 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-27&location=Corn Ranch, Van Horn, TX, USA&dates=20241023T150000Z%2F20241023T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-27** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T171300">2024-10-24 17:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-167&location=Vandenberg SFB, CA, USA&dates=20241024T171300Z%2F20241024T211300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-167** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-dazzling-supernova/" >🔗</a> **[NASA]** A Dazzling Supernova
 - <a href="https://spacenews.com/access-to-capital-remains-tough-for-space-companies/" >🔗</a> **[SpaceNews]** Access to capital remains tough for space companies
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-october-sounding-rocket-launch/" >🔗</a> **[NASA]** NASA Wallops to Support October Sounding Rocket Launch
 - <a href="https://www.nasa.gov/learning-resources/read-with-nasa/" >🔗</a> **[NASA]** Read With NASA: Books, More to Inspire Young Explorers
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-casey-wolfe/" >🔗</a> **[NASA]** I Am Artemis: Casey Wolfe
 - <a href="https://tlpnetwork.com/news/policy-and-finance/spacex-secures-7335-million-us-national-security-launch-contracts" >🔗</a> **[The Launch Pad]** SpaceX Secures $733.5 Million US National Security Launch Contracts
 - <a href="https://tlpnetwork.com/news/asia/china-unveils-venus-atmosphere-sample-mission-as-part-of-long-term-space-science-roadmap" >🔗</a> **[The Launch Pad]** China Unveils Venus Atmosphere Sample Mission As Part Of Long Term Space Science Roadmap
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/meloe-kacenelenbogen-eyes-the-future-of-air-quality-climate-research/" >🔗</a> **[NASA]** Meloë Kacenelenbogen Eyes the Future of Air Quality, Climate Research
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T193058">2024-10-22 19:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T200133">2024-10-22 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
