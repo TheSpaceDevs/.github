@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-to-flight-test-early-prototype-of-a-european-spacesuit/" >🔗</a> **[European Spaceflight]** CNES to Flight Test Early Prototype of a European Spacesuit
+- <a href="https://spacenews.com/china-launches-3-tianping-3-radar-calibration-satellites/" >🔗</a> **[SpaceNews]** China launches 3 Tianping-3 radar calibration satellites
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX approaches 400th orbital flight; Blue Origin, China, Japan launch missions
 - <a href="https://spaceflightnow.com/2024/10/21/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 68th Starlink mission of 2024 as it seeks permission to operate nearly 30,000 Gen2 satellites
 - <a href="https://spacenews.com/luxembourg-joins-oq-technologys-30-million-euro-investment-plan/" >🔗</a> **[SpaceNews]** Luxembourg joins OQ Technology’s 30 million euro investment plan
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/team-ii-test/" >🔗</a> **[NASA]** TEAM II Test
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 18, 2024
 - <a href="https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/" >🔗</a> **[NASA]** 35 Years Ago: STS-34 Sends Galileo on its Way to Jupiter
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Emilia-Romagna_hit_by_severe_flooding" >🔗</a> **[ESA]** Emilia-Romagna hit by severe flooding
-- <a href="https://europeanspaceflight.com/cnes-to-test-upgraded-frog-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** CNES to Test Upgraded FROG Reusable Rocket Demonstrator in 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T090117">2024-10-22 09:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T093239">2024-10-22 09:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
