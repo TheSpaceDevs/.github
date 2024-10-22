@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-economic-case-for-a-space-critical-infrastructure-model/" >🔗</a> **[SpaceNews]** The Economic case for a Space Critical Infrastructure model
+- <a href="https://spacenews.com/chris-moran-lockheed-martin-ventures-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Chris Moran, Lockheed Martin Ventures – Commercial Space Transformers
+- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/" >🔗</a> **[NASA]** Gateway: Life in a Lunar Module
 - <a href="https://spacenews.com/space-force-refining-commercial-backup-plan-for-military-satellites/" >🔗</a> **[SpaceNews]** Space Force refining commercial backup plan for military satellites
 - <a href="https://spacenews.com/foust-forward-elon-musk-spacex-and-the-perils-of-social-media-distractions/" >🔗</a> **[SpaceNews]** Foust Forward | Elon Musk, SpaceX and the perils of social media distractions
 - <a href="https://spacenews.com/venus-atmosphere-sample-return-noted-in-chinas-long-term-space-science-roadmap/" >🔗</a> **[SpaceNews]** Venus atmosphere sample return noted in China’s long-term space science roadmap
 - <a href="https://spacenews.com/nasa-on-track-to-decide-new-approach-for-msr-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA on track to decide new approach for MSR by end of year
 - <a href="https://spacenews.com/space-force-to-increase-spending-on-low-earth-orbit-satellite-services/" >🔗</a> **[SpaceNews]** Space Force to increase spending on low Earth orbit satellite services
+- <a href="https://spacenews.com/proteus-and-saic-form-strategic-partnership/" >🔗</a> **[SpaceNews]** Proteus and SAIC form strategic partnership
 - <a href="https://europeanspaceflight.com/cnes-to-flight-test-early-prototype-of-a-european-spacesuit/" >🔗</a> **[European Spaceflight]** CNES to Flight Test Early Prototype of a European Spacesuit
-- <a href="https://spacenews.com/china-launches-3-tianping-3-radar-calibration-satellites/" >🔗</a> **[SpaceNews]** China launches 3 Tianping-3 radar calibration satellites
-- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX approaches 400th orbital flight; Blue Origin, China, Japan launch missions
-- <a href="https://spaceflightnow.com/2024/10/21/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 68th Starlink mission of 2024 as it seeks permission to operate nearly 30,000 Gen2 satellites
-- <a href="https://spacenews.com/luxembourg-joins-oq-technologys-30-million-euro-investment-plan/" >🔗</a> **[SpaceNews]** Luxembourg joins OQ Technology’s 30 million euro investment plan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T140120">2024-10-22 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T143409">2024-10-22 14:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
