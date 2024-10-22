@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-on-track-to-decide-new-approach-for-msr-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA on track to decide new approach for MSR by end of year
+- <a href="https://spacenews.com/space-force-to-increase-spending-on-low-earth-orbit-satellite-services/" >🔗</a> **[SpaceNews]** Space Force to increase spending on low Earth orbit satellite services
 - <a href="https://europeanspaceflight.com/cnes-to-flight-test-early-prototype-of-a-european-spacesuit/" >🔗</a> **[European Spaceflight]** CNES to Flight Test Early Prototype of a European Spacesuit
 - <a href="https://spacenews.com/china-launches-3-tianping-3-radar-calibration-satellites/" >🔗</a> **[SpaceNews]** China launches 3 Tianping-3 radar calibration satellites
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX approaches 400th orbital flight; Blue Origin, China, Japan launch missions
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-chile-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Chile Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/image-article/on-the-road-again/" >🔗</a> **[NASA]** On the Road Again…
 - <a href="https://www.nasa.gov/image-article/team-ii-test/" >🔗</a> **[NASA]** TEAM II Test
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 18, 2024
-- <a href="https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/" >🔗</a> **[NASA]** 35 Years Ago: STS-34 Sends Galileo on its Way to Jupiter
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T110107">2024-10-22 11:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T113100">2024-10-22 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
