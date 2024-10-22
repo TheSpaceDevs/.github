@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-launches-non-starlink-internet-satellites-eutelsat-oneweb/" >🔗</a> **[Teslarati]** SpaceX launches non-Starlink internet satellites, but don’t be confused
 - <a href="https://spacenews.com/proteus-space-secures-major-investment-and-partnership-with-saic/" >🔗</a> **[SpaceNews]** Proteus Space Secures Major Investment and Partnership with SAIC
 - <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-refuse-collection-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Refuse Collection Contract
 - <a href="https://spacenews.com/space-development-agency-taps-umbra-for-satellite-integration-study/" >🔗</a> **[SpaceNews]** Space Development Agency taps Umbra for satellite integration study
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/read-with-nasa/" >🔗</a> **[NASA]** Read With NASA: Books, More to Inspire Young Explorers
 - <a href="https://spacenews.com/aptos-orbital-unveils-device-for-onboard-processing-communications-and-cloud-services/" >🔗</a> **[SpaceNews]** Aptos Orbital unveils device for onboard processing, communications and cloud services
 - <a href="https://spacenews.com/u-s-space-force-faces-growing-demands-in-indo-pacific-amid-calls-for-expansion/" >🔗</a> **[SpaceNews]** U.S. Space Force faces growing demands in Indo-Pacific amid calls for expansion
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_October_2024_Council_Edition" >🔗</a> **[ESA]** ESA Impact Council Edition: Your update on space achievements
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T213112">2024-10-22 21:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T220115">2024-10-22 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
