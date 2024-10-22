@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_October_2024_Council_Edition" >🔗</a> **[ESA]** ESA Impact Council Edition: Your update on space achievements
+- <a href="https://tlpnetwork.com/news/asia/china-unveils-venus-atmosphere-sample-mission-as-part-of-long-term-space-science-roadmap" >🔗</a> **[The Launch Pad]** China Unveils Venus Atmosphere Sample Mission As Part Of Long Term Space Science Roadmap
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/meloe-kacenelenbogen-eyes-the-future-of-air-quality-climate-research/" >🔗</a> **[NASA]** Meloë Kacenelenbogen Eyes the Future of Air Quality, Climate Research
 - <a href="https://science.nasa.gov/blog/sols-4338-4340-decisions-decisions/" >🔗</a> **[NASA]** Sols 4338-4340: Decisions, Decisions
 - <a href="https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/" >🔗</a> **[NASA]** NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 - <a href="https://spacenews.com/the-economic-case-for-a-space-critical-infrastructure-model/" >🔗</a> **[SpaceNews]** The economic case for a Space Critical Infrastructure model
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/" >🔗</a> **[NASA]** Gateway: Life in a Lunar Module
 - <a href="https://spacenews.com/space-force-refining-commercial-backup-plan-for-military-satellites/" >🔗</a> **[SpaceNews]** Space Force refining commercial backup plan for military satellites
 - <a href="https://spacenews.com/foust-forward-elon-musk-spacex-and-the-perils-of-social-media-distractions/" >🔗</a> **[SpaceNews]** Foust Forward | Elon Musk, SpaceX and the perils of social media distractions
-- <a href="https://spacenews.com/venus-atmosphere-sample-return-noted-in-chinas-long-term-space-science-roadmap/" >🔗</a> **[SpaceNews]** Venus atmosphere sample return noted in China’s long-term space science roadmap
-- <a href="https://spacenews.com/nasa-on-track-to-decide-new-approach-for-msr-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA on track to decide new approach for MSR by end of year
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T170112">2024-10-22 17:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T173242">2024-10-22 17:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
