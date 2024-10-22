@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/the-economic-case-for-a-space-critical-infrastructure-model/" >🔗</a> **[SpaceNews]** The Economic case for a Space Critical Infrastructure model
+- <a href="https://spacenews.com/the-economic-case-for-a-space-critical-infrastructure-model/" >🔗</a> **[SpaceNews]** The economic case for a Space Critical Infrastructure model
 - <a href="https://spacenews.com/chris-moran-lockheed-martin-ventures-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Chris Moran, Lockheed Martin Ventures – Commercial Space Transformers
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/" >🔗</a> **[NASA]** Gateway: Life in a Lunar Module
 - <a href="https://spacenews.com/space-force-refining-commercial-backup-plan-for-military-satellites/" >🔗</a> **[SpaceNews]** Space Force refining commercial backup plan for military satellites
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T150123">2024-10-22 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T153309">2024-10-22 15:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
