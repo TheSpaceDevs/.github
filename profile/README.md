@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-faces-growing-demands-in-indo-pacific-amid-calls-for-expansion/" >🔗</a> **[SpaceNews]** U.S. Space Force faces growing demands in Indo-Pacific amid calls for expansion
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_October_2024_Council_Edition" >🔗</a> **[ESA]** ESA Impact Council Edition: Your update on space achievements
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-casey-wolfe/" >🔗</a> **[NASA]** I Am Artemis: Casey Wolfe
+- <a href="https://tlpnetwork.com/news/policy-and-finance/spacex-secures-7335-million-us-national-security-launch-contracts" >🔗</a> **[The Launch Pad]** SpaceX Secures $733.5 Million US National Security Launch Contracts
 - <a href="https://tlpnetwork.com/news/asia/china-unveils-venus-atmosphere-sample-mission-as-part-of-long-term-space-science-roadmap" >🔗</a> **[The Launch Pad]** China Unveils Venus Atmosphere Sample Mission As Part Of Long Term Space Science Roadmap
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/meloe-kacenelenbogen-eyes-the-future-of-air-quality-climate-research/" >🔗</a> **[NASA]** Meloë Kacenelenbogen Eyes the Future of Air Quality, Climate Research
 - <a href="https://science.nasa.gov/blog/sols-4338-4340-decisions-decisions/" >🔗</a> **[NASA]** Sols 4338-4340: Decisions, Decisions
 - <a href="https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/" >🔗</a> **[NASA]** NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 - <a href="https://spacenews.com/the-economic-case-for-a-space-critical-infrastructure-model/" >🔗</a> **[SpaceNews]** The economic case for a Space Critical Infrastructure model
 - <a href="https://spacenews.com/chris-moran-lockheed-martin-ventures-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Chris Moran, Lockheed Martin Ventures – Commercial Space Transformers
-- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/" >🔗</a> **[NASA]** Gateway: Life in a Lunar Module
-- <a href="https://spacenews.com/space-force-refining-commercial-backup-plan-for-military-satellites/" >🔗</a> **[SpaceNews]** Space Force refining commercial backup plan for military satellites
-- <a href="https://spacenews.com/foust-forward-elon-musk-spacex-and-the-perils-of-social-media-distractions/" >🔗</a> **[SpaceNews]** Foust Forward | Elon Musk, SpaceX and the perils of social media distractions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T180127">2024-10-22 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T183551">2024-10-22 18:35:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
