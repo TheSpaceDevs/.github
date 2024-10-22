@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/venus-atmosphere-sample-return-noted-in-chinas-long-term-space-science-roadmap/" >🔗</a> **[SpaceNews]** Venus atmosphere sample return noted in China’s long-term space science roadmap
 - <a href="https://spacenews.com/nasa-on-track-to-decide-new-approach-for-msr-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA on track to decide new approach for MSR by end of year
 - <a href="https://spacenews.com/space-force-to-increase-spending-on-low-earth-orbit-satellite-services/" >🔗</a> **[SpaceNews]** Space Force to increase spending on low Earth orbit satellite services
 - <a href="https://europeanspaceflight.com/cnes-to-flight-test-early-prototype-of-a-european-spacesuit/" >🔗</a> **[European Spaceflight]** CNES to Flight Test Early Prototype of a European Spacesuit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/luxembourg-joins-oq-technologys-30-million-euro-investment-plan/" >🔗</a> **[SpaceNews]** Luxembourg joins OQ Technology’s 30 million euro investment plan
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-chile-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Chile Artemis Accords Signing Ceremony
 - <a href="https://www.nasa.gov/image-article/on-the-road-again/" >🔗</a> **[NASA]** On the Road Again…
-- <a href="https://www.nasa.gov/image-article/team-ii-test/" >🔗</a> **[NASA]** TEAM II Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T113100">2024-10-22 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T120137">2024-10-22 12:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
