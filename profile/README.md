@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_October_2024_Council_Edition" >🔗</a> **[ESA]** ESA Impact Council Edition: Your update on space achievements
+- <a href="https://science.nasa.gov/blog/sols-4338-4340-decisions-decisions/" >🔗</a> **[NASA]** Sols 4338-4340: Decisions, Decisions
+- <a href="https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/" >🔗</a> **[NASA]** NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 - <a href="https://spacenews.com/the-economic-case-for-a-space-critical-infrastructure-model/" >🔗</a> **[SpaceNews]** The economic case for a Space Critical Infrastructure model
 - <a href="https://spacenews.com/chris-moran-lockheed-martin-ventures-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Chris Moran, Lockheed Martin Ventures – Commercial Space Transformers
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/" >🔗</a> **[NASA]** Gateway: Life in a Lunar Module
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/foust-forward-elon-musk-spacex-and-the-perils-of-social-media-distractions/" >🔗</a> **[SpaceNews]** Foust Forward | Elon Musk, SpaceX and the perils of social media distractions
 - <a href="https://spacenews.com/venus-atmosphere-sample-return-noted-in-chinas-long-term-space-science-roadmap/" >🔗</a> **[SpaceNews]** Venus atmosphere sample return noted in China’s long-term space science roadmap
 - <a href="https://spacenews.com/nasa-on-track-to-decide-new-approach-for-msr-by-end-of-year/" >🔗</a> **[SpaceNews]** NASA on track to decide new approach for MSR by end of year
-- <a href="https://spacenews.com/space-force-to-increase-spending-on-low-earth-orbit-satellite-services/" >🔗</a> **[SpaceNews]** Space Force to increase spending on low Earth orbit satellite services
-- <a href="https://spacenews.com/proteus-and-saic-form-strategic-partnership/" >🔗</a> **[SpaceNews]** Proteus and SAIC form strategic partnership
-- <a href="https://europeanspaceflight.com/cnes-to-flight-test-early-prototype-of-a-european-spacesuit/" >🔗</a> **[European Spaceflight]** CNES to Flight Test Early Prototype of a European Spacesuit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T160122">2024-10-22 16:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T163559">2024-10-22 16:35:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
