@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/proteus-space-secures-major-investment-and-partnership-with-saic/" >🔗</a> **[SpaceNews]** Proteus Space Secures Major Investment and Partnership with SAIC
+- <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-refuse-collection-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Refuse Collection Contract
+- <a href="https://spacenews.com/space-development-agency-taps-umbra-for-satellite-integration-study/" >🔗</a> **[SpaceNews]** Space Development Agency taps Umbra for satellite integration study
 - <a href="https://www.nasa.gov/image-article/a-dazzling-supernova/" >🔗</a> **[NASA]** A Dazzling Supernova
 - <a href="https://spacenews.com/access-to-capital-remains-tough-for-space-companies/" >🔗</a> **[SpaceNews]** Access to capital remains tough for space companies
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-october-sounding-rocket-launch/" >🔗</a> **[NASA]** NASA Wallops to Support October Sounding Rocket Launch
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aptos-orbital-unveils-device-for-onboard-processing-communications-and-cloud-services/" >🔗</a> **[SpaceNews]** Aptos Orbital unveils device for onboard processing, communications and cloud services
 - <a href="https://spacenews.com/u-s-space-force-faces-growing-demands-in-indo-pacific-amid-calls-for-expansion/" >🔗</a> **[SpaceNews]** U.S. Space Force faces growing demands in Indo-Pacific amid calls for expansion
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_October_2024_Council_Edition" >🔗</a> **[ESA]** ESA Impact Council Edition: Your update on space achievements
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-casey-wolfe/" >🔗</a> **[NASA]** I Am Artemis: Casey Wolfe
-- <a href="https://tlpnetwork.com/news/policy-and-finance/spacex-secures-7335-million-us-national-security-launch-contracts" >🔗</a> **[The Launch Pad]** SpaceX Secures $733.5 Million US National Security Launch Contracts
-- <a href="https://tlpnetwork.com/news/asia/china-unveils-venus-atmosphere-sample-mission-as-part-of-long-term-space-science-roadmap" >🔗</a> **[The Launch Pad]** China Unveils Venus Atmosphere Sample Mission As Part Of Long Term Space Science Roadmap
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T210121">2024-10-22 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241022T213112">2024-10-22 21:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
