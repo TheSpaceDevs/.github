@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-quiet-space-fan-research-to-benefit-commercial-space-stations/" >🔗</a> **[NASA]** NASA Quiet Space Fan Research to Benefit Commercial Space Stations
+- <a href="https://spacenews.com/winning-hearts-and-minds-to-further-the-global-space-economy/" >🔗</a> **[SpaceNews]** Winning hearts and minds to further the global space economy
 - <a href="https://spacenews.com/telesat-contracts-intellian-for-lightspeed-leo-gateways/" >🔗</a> **[SpaceNews]** Telesat contracts Intellian for Lightspeed LEO gateways
 - <a href="https://spacenews.com/launch-companies-need-to-diversify-to-survive-say-industry-executives/" >🔗</a> **[SpaceNews]** Launch companies need to diversify to survive, say industry executives
 - <a href="https://europeanspaceflight.com/mt-aerospace-upper-stage-tank-demonstrator-passes-key-milestone/" >🔗</a> **[European Spaceflight]** MT Aerospace Upper Stage Tank Demonstrator Passes Key Milestone
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.teslarati.com/spacex-launches-non-starlink-internet-satellites-eutelsat-oneweb/" >🔗</a> **[Teslarati]** SpaceX launches non-Starlink internet satellites, but don’t be confused
 - <a href="https://spacenews.com/proteus-space-secures-major-investment-and-partnership-with-saic/" >🔗</a> **[SpaceNews]** Proteus Space Secures Major Investment and Partnership with SAIC
 - <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-refuse-collection-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Refuse Collection Contract
-- <a href="https://spacenews.com/space-development-agency-taps-umbra-for-satellite-integration-study/" >🔗</a> **[SpaceNews]** Space Development Agency taps Umbra for satellite integration study
-- <a href="https://www.nasa.gov/image-article/a-dazzling-supernova/" >🔗</a> **[NASA]** A Dazzling Supernova
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T130608">2024-10-23 13:06:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T133427">2024-10-23 13:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
