@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-23-2024/" >🔗</a> **[NASA]** The Marshall Star for October 23, 2024
+- <a href="https://spacenews.com/millennium-space-secures-386-million-contract-for-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Millennium Space secures $386 million contract for missile-defense satellites
+- <a href="https://spacepolicyonline.com/news/boeing-takes-another-250-million-charge-for-starliner/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Takes Another $250 Million Charge for Starliner
 - <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-put-orions-side-hatch-to-the-test/" >🔗</a> **[NASA]** Artemis II Astronauts Put Orion’s Side Hatch to the Test
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-october-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: October 2024
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-republic-of-cyprus-as-46th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Republic of Cyprus as 46th Artemis Accords Signatory
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/" >🔗</a> **[NASA]** After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/submit-your-2025-event-proposal-to-nasa/" >🔗</a> **[NASA]** Submit Your 2025 Event Proposal to NASA
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/First_young_brown_dwarfs_found_outside_the_Milky_Way" >🔗</a> **[ESA]** First young brown dwarfs found outside the Milky Way?
-- <a href="https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/" >🔗</a> **[NASA]** Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
-- <a href="https://www.nasa.gov/general/nasa-begins-new-deployable-solar-array-tech-demo-on-pathfinder-spacecraft/" >🔗</a> **[NASA]** NASA Begins New Deployable Solar Array Tech Demo on Pathfinder Spacecraft
-- <a href="https://spacenews.com/is-spacex-poised-to-shake-up-optical-terminal-sales/" >🔗</a> **[SpaceNews]** Is SpaceX poised to shake up optical terminal sales?
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T193108">2024-10-23 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T200127">2024-10-23 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
