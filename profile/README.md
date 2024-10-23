@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/First_young_brown_dwarfs_found_outside_the_Milky_Way" >🔗</a> **[ESA]** First young brown dwarfs found outside the Milky Way?
+- <a href="https://www.nasa.gov/general/nasa-begins-new-deployable-solar-array-tech-demo-on-pathfinder-spacecraft/" >🔗</a> **[NASA]** NASA Begins New Deployable Solar Array Tech Demo on Pathfinder Spacecraft
 - <a href="https://spacenews.com/is-spacex-poised-to-shake-up-optical-terminal-sales/" >🔗</a> **[SpaceNews]** Is SpaceX poised to shake up optical terminal sales?
 - <a href="https://spacenews.com/india-to-target-moons-south-pole-with-sample-return-mission/" >🔗</a> **[SpaceNews]** India to target moon’s south pole with sample return mission
 - <a href="https://spacenews.com/u-s-eases-export-rules-for-space-tech-but-high-resolution-radar-satellites-remain-under-tight-control/" >🔗</a> **[SpaceNews]** U.S. eases export rules for space tech, but high-resolution radar satellites remain under tight control
 - <a href="https://www.nasa.gov/news-release/stennis-expanding-range-operations/" >🔗</a> **[NASA]** NASA Stennis Takes Key Step in Expanding its Range Operations Work
-- <a href="https://spacenews.com/winning-hearts-and-minds-to-further-the-global-space-economy/" >🔗</a> **[SpaceNews]** Winning hearts and minds to further the global space economy
 - <a href="https://www.nasa.gov/general/nasa-quiet-space-fan-research-to-benefit-commercial-space-stations/" >🔗</a> **[NASA]** NASA Quiet Space Fan Research to Benefit Commercial Space Stations
+- <a href="https://spacenews.com/winning-hearts-and-minds-to-further-the-global-space-economy/" >🔗</a> **[SpaceNews]** Winning hearts and minds to further the global space economy
 - <a href="https://spacenews.com/telesat-contracts-intellian-for-lightspeed-leo-gateways/" >🔗</a> **[SpaceNews]** Telesat contracts Intellian for Lightspeed LEO gateways
 - <a href="https://spacenews.com/launch-companies-need-to-diversify-to-survive-say-industry-executives/" >🔗</a> **[SpaceNews]** Launch companies need to diversify to survive, say industry executives
-- <a href="https://europeanspaceflight.com/mt-aerospace-upper-stage-tank-demonstrator-passes-key-milestone/" >🔗</a> **[European Spaceflight]** MT Aerospace Upper Stage Tank Demonstrator Passes Key Milestone
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T160116">2024-10-23 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T163654">2024-10-23 16:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
