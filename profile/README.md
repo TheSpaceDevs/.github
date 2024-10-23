@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/mt-aerospace-upper-stage-tank-demonstrator-passes-key-milestone/" >🔗</a> **[European Spaceflight]** MT Aerospace Upper Stage Tank Demonstrator Passes Key Milestone
 - <a href="https://spacenews.com/applying-ai-to-satellite-manufacturing/" >🔗</a> **[SpaceNews]** Applying AI to satellite manufacturing
 - <a href="https://spaceflightnow.com/2024/10/23/ula-begins-stacking-vulcan-rocket-in-anticipation-of-first-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking Vulcan rocket in anticipation of first national security mission
 - <a href="https://www.teslarati.com/spacex-launches-non-starlink-internet-satellites-eutelsat-oneweb/" >🔗</a> **[Teslarati]** SpaceX launches non-Starlink internet satellites, but don’t be confused
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/a-dazzling-supernova/" >🔗</a> **[NASA]** A Dazzling Supernova
 - <a href="https://spacenews.com/access-to-capital-remains-tough-for-space-companies/" >🔗</a> **[SpaceNews]** Access to capital remains tough for space companies
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-october-sounding-rocket-launch/" >🔗</a> **[NASA]** NASA Wallops to Support October Sounding Rocket Launch
-- <a href="https://www.nasa.gov/learning-resources/read-with-nasa/" >🔗</a> **[NASA]** Read With NASA: Books, More to Inspire Young Explorers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T100121">2024-10-23 10:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T103444">2024-10-23 10:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
