@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-27**. It is scheduled to be launched by *Blue Origin*
+**Falcon 9 Block 5 | Starlink Group 6-61**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T150000">2024-10-23 15:00:00 UTC</a>.  Until
-then, this pad will have been used for 26
-out of 26 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T214700">2024-10-23 21:47:00 UTC</a>.  Until
+then, this pad will have been used for 266
+out of 980 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Suborbital* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Twenty-seventh flight of New Shepard,flying unmanned as a test for the newest booster.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T000000">2024-10-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 19&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241031T000000Z%2F20241031T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 19** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241102T034000">2024-11-02 03:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-31&location=Kennedy Space Center, FL, USA&dates=20241102T034000Z%2F20241102T034000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-31** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T231840">2024-11-04 23:18:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Ionosfera-M 1 &amp; 2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241104T231840Z%2F20241104T231840Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2** from Vostochny Cosmodrome, Siberia, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/First_young_brown_dwarfs_found_outside_the_Milky_Way" >🔗</a> **[ESA]** First young brown dwarfs found outside the Milky Way?
 - <a href="https://spacenews.com/is-spacex-poised-to-shake-up-optical-terminal-sales/" >🔗</a> **[SpaceNews]** Is SpaceX poised to shake up optical terminal sales?
 - <a href="https://spacenews.com/india-to-target-moons-south-pole-with-sample-return-mission/" >🔗</a> **[SpaceNews]** India to target moon’s south pole with sample return mission
 - <a href="https://spacenews.com/u-s-eases-export-rules-for-space-tech-but-high-resolution-radar-satellites-remain-under-tight-control/" >🔗</a> **[SpaceNews]** U.S. eases export rules for space tech, but high-resolution radar satellites remain under tight control
@@ -99,18 +101,18 @@ into *a Suborbital
 - <a href="https://spacenews.com/telesat-contracts-intellian-for-lightspeed-leo-gateways/" >🔗</a> **[SpaceNews]** Telesat contracts Intellian for Lightspeed LEO gateways
 - <a href="https://spacenews.com/launch-companies-need-to-diversify-to-survive-say-industry-executives/" >🔗</a> **[SpaceNews]** Launch companies need to diversify to survive, say industry executives
 - <a href="https://europeanspaceflight.com/mt-aerospace-upper-stage-tank-demonstrator-passes-key-milestone/" >🔗</a> **[European Spaceflight]** MT Aerospace Upper Stage Tank Demonstrator Passes Key Milestone
-- <a href="https://spacenews.com/applying-ai-to-satellite-manufacturing/" >🔗</a> **[SpaceNews]** Applying AI to satellite manufacturing
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX approaches 400th orbital flight; Blue Origin, China, Japan launch missions
-- <a href="https://tlpnetwork.com/news/america/blue-origin-set-to-debut-second-human-rated-new-shepard-rocket-monday" >🔗</a> **[The Launch Pad]** Blue Origin Set To Debut Second Human-Rated New Shepard Rocket Monday
+- <a href="https://spaceflightnow.com/2024/10/21/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Starlink mission due to poor booster recovery weather, pivots to Wednesday launch attempt
+- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-101424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Europa Clipper launches, Starlink launches return, China launches new missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T150112">2024-10-23 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T153319">2024-10-23 15:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
