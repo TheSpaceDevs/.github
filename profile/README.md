@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-october-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: October 2024
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-republic-of-cyprus-as-46th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Republic of Cyprus as 46th Artemis Accords Signatory
+- <a href="https://www.nasa.gov/image-article/melbourne-city-lights/" >🔗</a> **[NASA]** Melbourne City Lights
+- <a href="https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/" >🔗</a> **[NASA]** After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/submit-your-2025-event-proposal-to-nasa/" >🔗</a> **[NASA]** Submit Your 2025 Event Proposal to NASA
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/First_young_brown_dwarfs_found_outside_the_Milky_Way" >🔗</a> **[ESA]** First young brown dwarfs found outside the Milky Way?
 - <a href="https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/" >🔗</a> **[NASA]** Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
 - <a href="https://www.nasa.gov/general/nasa-begins-new-deployable-solar-array-tech-demo-on-pathfinder-spacecraft/" >🔗</a> **[NASA]** NASA Begins New Deployable Solar Array Tech Demo on Pathfinder Spacecraft
 - <a href="https://spacenews.com/is-spacex-poised-to-shake-up-optical-terminal-sales/" >🔗</a> **[SpaceNews]** Is SpaceX poised to shake up optical terminal sales?
 - <a href="https://spacenews.com/india-to-target-moons-south-pole-with-sample-return-mission/" >🔗</a> **[SpaceNews]** India to target moon’s south pole with sample return mission
-- <a href="https://spacenews.com/u-s-eases-export-rules-for-space-tech-but-high-resolution-radar-satellites-remain-under-tight-control/" >🔗</a> **[SpaceNews]** U.S. eases export rules for space tech, but high-resolution radar satellites remain under tight control
-- <a href="https://www.nasa.gov/news-release/stennis-expanding-range-operations/" >🔗</a> **[NASA]** NASA Stennis Takes Key Step in Expanding its Range Operations Work
-- <a href="https://spacenews.com/winning-hearts-and-minds-to-further-the-global-space-economy/" >🔗</a> **[SpaceNews]** Winning hearts and minds to further the global space economy
-- <a href="https://www.nasa.gov/general/nasa-quiet-space-fan-research-to-benefit-commercial-space-stations/" >🔗</a> **[NASA]** NASA Quiet Space Fan Research to Benefit Commercial Space Stations
-- <a href="https://spacenews.com/telesat-contracts-intellian-for-lightspeed-leo-gateways/" >🔗</a> **[SpaceNews]** Telesat contracts Intellian for Lightspeed LEO gateways
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T180118">2024-10-23 18:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T183556">2024-10-23 18:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
