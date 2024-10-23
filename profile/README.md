@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-put-orions-side-hatch-to-the-test/" >🔗</a> **[NASA]** Artemis II Astronauts Put Orion’s Side Hatch to the Test
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-october-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: October 2024
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-republic-of-cyprus-as-46th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Republic of Cyprus as 46th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/melbourne-city-lights/" >🔗</a> **[NASA]** Melbourne City Lights
@@ -100,19 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/" >🔗</a> **[NASA]** Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
 - <a href="https://www.nasa.gov/general/nasa-begins-new-deployable-solar-array-tech-demo-on-pathfinder-spacecraft/" >🔗</a> **[NASA]** NASA Begins New Deployable Solar Array Tech Demo on Pathfinder Spacecraft
 - <a href="https://spacenews.com/is-spacex-poised-to-shake-up-optical-terminal-sales/" >🔗</a> **[SpaceNews]** Is SpaceX poised to shake up optical terminal sales?
-- <a href="https://spacenews.com/india-to-target-moons-south-pole-with-sample-return-mission/" >🔗</a> **[SpaceNews]** India to target moon’s south pole with sample return mission
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX approaches 400th orbital flight; Blue Origin, China, Japan launch missions
-- <a href="https://spaceflightnow.com/2024/10/21/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Starlink mission due to poor booster recovery weather, pivots to Wednesday launch attempt
+- <a href="https://spaceflightnow.com/2024/10/21/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink mission following scrub due to poor booster recovery weather
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-101424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Europa Clipper launches, Starlink launches return, China launches new missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T190116">2024-10-23 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T193108">2024-10-23 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
