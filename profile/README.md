@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/october-transformer-of-the-month-nipa-phojanamongkolkij/" >🔗</a> **[NASA]** October Transformer of the Month: Nipa Phojanamongkolkij
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-2024-von-braun-space-exploration-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 2024 von Braun Space Exploration Symposium
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-23-2024/" >🔗</a> **[NASA]** The Marshall Star for October 23, 2024
 - <a href="https://spacenews.com/millennium-space-secures-386-million-contract-for-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Millennium Space secures $386 million contract for missile-defense satellites
 - <a href="https://spacepolicyonline.com/news/boeing-takes-another-250-million-charge-for-starliner/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Takes Another $250 Million Charge for Starliner
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-republic-of-cyprus-as-46th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Republic of Cyprus as 46th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/melbourne-city-lights/" >🔗</a> **[NASA]** Melbourne City Lights
 - <a href="https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/" >🔗</a> **[NASA]** After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/submit-your-2025-event-proposal-to-nasa/" >🔗</a> **[NASA]** Submit Your 2025 Event Proposal to NASA
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/First_young_brown_dwarfs_found_outside_the_Milky_Way" >🔗</a> **[ESA]** First young brown dwarfs found outside the Milky Way?
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T210124">2024-10-23 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241023T213103">2024-10-23 21:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
