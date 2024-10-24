@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/an-orange-blue-moon/" >🔗</a> **[NASA]** An Orange Blue Moon
+- <a href="https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/" >🔗</a> **[NASA]** NASA Chief AI Officer on the Federal Executive Forum: How Agencies Are Strategizing About AI
 - <a href="https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/" >🔗</a> **[NASA]** Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
 - <a href="https://tlpnetwork.com/news/in-space/boeing-built-intelsat-33e-satellite-breaks-apart-in-orbit" >🔗</a> **[The Launch Pad]** Boeing Built Intelsat 33e Satellite Breaks Apart in GEO
 - <a href="https://tlpnetwork.com/news/america/nasa-set-to-make-mars-sample-return-mission-decision-by-end-of-year" >🔗</a> **[The Launch Pad]** NASA Set To Make Mars Sample Return Mission Decision By End-of-Year
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/asia/india-targets-lunar-south-pole-for-chandrayaan-4-lunar-sample-return-mission" >🔗</a> **[The Launch Pad]** India’s Targets Lunar South Pole For Chandrayaan-4 Lunar Sample Return Mission
 - <a href="https://spaceflightnow.com/2024/10/24/live-coverage-spacex-to-launch-multiple-satellites-for-the-national-reconnaissance-office-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX launches 4th batch of Starshield satellites for the NRO on its 100th Falcon 9 rocket of 2024
 - <a href="https://tlpnetwork.com/news/asia/chinas-deep-blue-aerospace-targets-2027-for-first-suborbital-tourism-flights" >🔗</a> **[The Launch Pad]** China's Deep Blue Aerospace Targets 2027 For First Suborbital Tourism Flights
-- <a href="https://spacepolicyonline.com/news/aerospace-corporation-lays-out-key-space-issues-for-next-administration/" >🔗</a> **[SpacePolicyOnline.com]** Aerospace Corporation Lays Out Key Space Issues for Next Administration
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Proba-1_s_T-plus_23_years_in_orbit" >🔗</a> **[ESA]** Proba-1’s T-plus 23 years in orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T190126">2024-10-24 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T193057">2024-10-24 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
