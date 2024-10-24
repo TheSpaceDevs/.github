@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Proba-1_s_T-plus_23_years_in_orbit" >🔗</a> **[ESA]** Proba-1’s T-plus 23 years in orbit
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/329th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 329th ESA Council: Media information session
+- <a href="https://www.nasa.gov/news-release/new-report-shows-nasas-75-6-billion-boost-to-us-economy/" >🔗</a> **[NASA]** New Report Shows NASA’s $75.6 Billion Boost to US Economy
 - <a href="https://spacenews.com/america-risk-high-impact-gps-jamming-spoofing-from-space/" >🔗</a> **[SpaceNews]** America is at risk of high impact GPS jamming and spoofing from space
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Environmentally_sustainable_space_transport" >🔗</a> **[ESA]** Environmentally sustainable space transport
 - <a href="https://europeanspaceflight.com/suas-partners-with-t-minus-for-irelands-first-commercial-rocket-launch/" >🔗</a> **[European Spaceflight]** SUAS Partners with T-Minus for Ireland’s First Commercial Rocket Launch
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/aerospace-report-recommends-greater-dod-support-of-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Aerospace report recommends greater DOD support of commercial space capabilities
 - <a href="https://spacenews.com/chinas-deep-blue-aerospace-reveals-suborbital-tourism-plans/" >🔗</a> **[SpaceNews]** China’s Deep Blue Aerospace reveals suborbital tourism plans
 - <a href="https://spacenews.com/blue-origin-conducts-first-flight-of-second-human-rated-new-shepard/" >🔗</a> **[SpaceNews]** Blue Origin conducts first flight of second human-rated New Shepard
-- <a href="https://spacepolicyonline.com/news/crew-8-on-the-way-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 on the Way Home at Last
-- <a href="https://spacenews.com/boeing-losses-on-starliner-increase-by-250-million/" >🔗</a> **[SpaceNews]** Boeing losses on Starliner increase by $250 million
-- <a href="https://spacenews.com/ses-intelsat-combinations-far-reaching-impact-on-deal-making/" >🔗</a> **[SpaceNews]** SES-Intelsat combination’s far-reaching impact on deal-making
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T140127">2024-10-24 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T143414">2024-10-24 14:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
