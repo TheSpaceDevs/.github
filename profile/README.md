@@ -91,26 +91,26 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/" >🔗</a> **[NASA]** Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
 - <a href="https://tlpnetwork.com/news/in-space/boeing-built-intelsat-33e-satellite-breaks-apart-in-orbit" >🔗</a> **[The Launch Pad]** Boeing Built Intelsat 33e Satellite Breaks Apart in GEO
 - <a href="https://tlpnetwork.com/news/america/nasa-set-to-make-mars-sample-return-mission-decision-by-end-of-year" >🔗</a> **[The Launch Pad]** NASA Set To Make Mars Sample Return Mission Decision By End-of-Year
 - <a href="https://www.nasa.gov/news-release/nasa-funds-open-source-software-underpinning-scientific-innovation/" >🔗</a> **[NASA]** NASA Funds Open-Source Software Underpinning Scientific Innovation
 - <a href="https://www.nasa.gov/news-release/nasa-releases-economic-impact-report-for-fiscal-year-2023/" >🔗</a> **[NASA]** NASA Releases Economic Impact Report for Fiscal Year 2023
 - <a href="https://tlpnetwork.com/news/asia/india-targets-lunar-south-pole-for-chandrayaan-4-lunar-sample-return-mission" >🔗</a> **[The Launch Pad]** India’s Targets Lunar South Pole For Chandrayaan-4 Lunar Sample Return Mission
-- <a href="https://spaceflightnow.com/2024/10/24/live-coverage-spacex-to-launch-multiple-satellites-for-the-national-reconnaissance-office-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security satellites on 100th Falcon 9 rocket of 2024
+- <a href="https://spaceflightnow.com/2024/10/24/live-coverage-spacex-to-launch-multiple-satellites-for-the-national-reconnaissance-office-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX launches 4th batch of Starshield satellites for the NRO on its 100th Falcon 9 rocket of 2024
 - <a href="https://tlpnetwork.com/news/asia/chinas-deep-blue-aerospace-targets-2027-for-first-suborbital-tourism-flights" >🔗</a> **[The Launch Pad]** China's Deep Blue Aerospace Targets 2027 For First Suborbital Tourism Flights
 - <a href="https://spacepolicyonline.com/news/aerospace-corporation-lays-out-key-space-issues-for-next-administration/" >🔗</a> **[SpacePolicyOnline.com]** Aerospace Corporation Lays Out Key Space Issues for Next Administration
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Proba-1_s_T-plus_23_years_in_orbit" >🔗</a> **[ESA]** Proba-1’s T-plus 23 years in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/329th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 329th ESA Council: Media information session
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX approaches 400th orbital flight; Blue Origin, China, Japan launch missions
+- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches 400th orbital flight; Blue Origin, China, Japan launch missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T180127">2024-10-24 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T183552">2024-10-24 18:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
