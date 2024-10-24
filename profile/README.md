@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-set-to-make-mars-sample-return-mission-decision-by-end-of-year" >🔗</a> **[The Launch Pad]** NASA Set To Make Mars Sample Return Mission Decision By End-of-Year
+- <a href="https://www.nasa.gov/news-release/nasa-funds-open-source-software-underpinning-scientific-innovation/" >🔗</a> **[NASA]** NASA Funds Open-Source Software Underpinning Scientific Innovation
+- <a href="https://www.nasa.gov/news-release/nasa-releases-economic-impact-report-for-fiscal-year-2023/" >🔗</a> **[NASA]** NASA Releases Economic Impact Report for Fiscal Year 2023
+- <a href="https://tlpnetwork.com/news/asia/india-targets-lunar-south-pole-for-chandrayaan-4-lunar-sample-return-mission" >🔗</a> **[The Launch Pad]** India’s Targets Lunar South Pole For Chandrayaan-4 Lunar Sample Return Mission
+- <a href="https://spaceflightnow.com/2024/10/24/live-coverage-spacex-to-launch-multiple-satellites-for-the-national-reconnaissance-office-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch multiple satellites for the National Reconnaissance Office on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://tlpnetwork.com/news/asia/chinas-deep-blue-aerospace-targets-2027-for-first-suborbital-tourism-flights" >🔗</a> **[The Launch Pad]** China's Deep Blue Aerospace Targets 2027 For First Suborbital Tourism Flights
+- <a href="https://spacepolicyonline.com/news/aerospace-corporation-lays-out-key-space-issues-for-next-administration/" >🔗</a> **[SpacePolicyOnline.com]** Aerospace Corporation Lays Out Key Space Issues for Next Administration
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Proba-1_s_T-plus_23_years_in_orbit" >🔗</a> **[ESA]** Proba-1’s T-plus 23 years in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/329th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 329th ESA Council: Media information session
 - <a href="https://www.nasa.gov/news-release/statement-from-nasas-janet-petro-on-fy23-economic-impact-report/" >🔗</a> **[NASA]** Statement from NASA’s Janet Petro on FY23 Economic Impact Report
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/" >🔗</a> **[NASA]** NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
-- <a href="https://www.nasa.gov/news-release/new-report-shows-nasas-75-6-billion-boost-to-us-economy/" >🔗</a> **[NASA]** New Report Shows NASA’s $75.6 Billion Boost to US Economy
-- <a href="https://spacenews.com/america-risk-high-impact-gps-jamming-spoofing-from-space/" >🔗</a> **[SpaceNews]** America is at risk of high impact GPS jamming and spoofing from space
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Environmentally_sustainable_space_transport" >🔗</a> **[ESA]** Environmentally sustainable space transport
-- <a href="https://europeanspaceflight.com/suas-partners-with-t-minus-for-irelands-first-commercial-rocket-launch/" >🔗</a> **[European Spaceflight]** SUAS Partners with T-Minus for Ireland’s First Commercial Rocket Launch
-- <a href="https://spacenews.com/introducing-new-mexicos-space-valley/" >🔗</a> **[SpaceNews]** Introducing New Mexico’s Space Valley
-- <a href="https://spacenews.com/aerospace-report-recommends-greater-dod-support-of-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Aerospace report recommends greater DOD support of commercial space capabilities
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T160120">2024-10-24 16:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T163554">2024-10-24 16:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
