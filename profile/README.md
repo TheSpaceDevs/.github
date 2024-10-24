@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/university-of-new-hampshire-to-build-noaa-solar-wind-sensors/" >🔗</a> **[SpaceNews]** University of New Hampshire to build NOAA solar wind sensors
 - <a href="https://spacenews.com/spacex-launches-more-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches more satellites for NRO’s proliferated constellation
 - <a href="https://spacenews.com/challenges-facing-space-force-and-commercial-industry-gen-guetleins-candid-take/" >🔗</a> **[SpaceNews]** Challenges facing Space Force and commercial industry: Gen. Guetlein’s candid take
 - <a href="https://spacenews.com/nro-readies-open-call-for-satellite-remote-sensing/" >🔗</a> **[SpaceNews]** NRO readies open call for satellite remote sensing
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/" >🔗</a> **[NASA]** Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
 - <a href="https://tlpnetwork.com/news/in-space/boeing-built-intelsat-33e-satellite-breaks-apart-in-orbit" >🔗</a> **[The Launch Pad]** Boeing Built Intelsat 33e Satellite Breaks Apart in GEO
 - <a href="https://tlpnetwork.com/news/america/nasa-set-to-make-mars-sample-return-mission-decision-by-end-of-year" >🔗</a> **[The Launch Pad]** NASA Set To Make Mars Sample Return Mission Decision By End-of-Year
-- <a href="https://www.nasa.gov/news-release/nasa-funds-open-source-software-underpinning-scientific-innovation/" >🔗</a> **[NASA]** NASA Funds Open-Source Software Underpinning Scientific Innovation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T220124">2024-10-24 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T223329">2024-10-24 22:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
