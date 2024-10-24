@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/america-risk-high-impact-gps-jamming-spoofing-from-space/" >🔗</a> **[SpaceNews]** America is at risk of high impact GPS jamming and spoofing from space
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Environmentally_sustainable_space_transport" >🔗</a> **[ESA]** Environmentally sustainable space transport
 - <a href="https://europeanspaceflight.com/suas-partners-with-t-minus-for-irelands-first-commercial-rocket-launch/" >🔗</a> **[European Spaceflight]** SUAS Partners with T-Minus for Ireland’s First Commercial Rocket Launch
 - <a href="https://spacenews.com/introducing-new-mexicos-space-valley/" >🔗</a> **[SpaceNews]** Introducing New Mexico’s Space Valley
 - <a href="https://spacenews.com/aerospace-report-recommends-greater-dod-support-of-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Aerospace report recommends greater DOD support of commercial space capabilities
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/crew-8-on-the-way-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 on the Way Home at Last
 - <a href="https://spacenews.com/boeing-losses-on-starliner-increase-by-250-million/" >🔗</a> **[SpaceNews]** Boeing losses on Starliner increase by $250 million
 - <a href="https://spacenews.com/ses-intelsat-combinations-far-reaching-impact-on-deal-making/" >🔗</a> **[SpaceNews]** SES-Intelsat combination’s far-reaching impact on deal-making
-- <a href="https://spacepolicyonline.com/news/johns-hopkins-applied-physics-lab-seeking-new-director/" >🔗</a> **[SpacePolicyOnline.com]** Johns Hopkins Applied Physics Lab Seeking New Director
-- <a href="https://spacenews.com/space-force-awards-northrop-grumman-1-8-billion-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Space Force awards Northrop Grumman $1.8 billion contract extension for missile warning satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T130628">2024-10-24 13:06:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T133427">2024-10-24 13:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
