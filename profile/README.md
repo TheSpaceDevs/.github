@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-8-on-the-way-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 on the Way Home at Last
 - <a href="https://spacenews.com/boeing-losses-on-starliner-increase-by-250-million/" >🔗</a> **[SpaceNews]** Boeing losses on Starliner increase by $250 million
 - <a href="https://spacenews.com/ses-intelsat-combinations-far-reaching-impact-on-deal-making/" >🔗</a> **[SpaceNews]** SES-Intelsat combination’s far-reaching impact on deal-making
 - <a href="https://spacepolicyonline.com/news/johns-hopkins-applied-physics-lab-seeking-new-director/" >🔗</a> **[SpacePolicyOnline.com]** Johns Hopkins Applied Physics Lab Seeking New Director
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/october-transformer-of-the-month-nipa-phojanamongkolkij/" >🔗</a> **[NASA]** October Transformer of the Month: Nipa Phojanamongkolkij
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-2024-von-braun-space-exploration-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 2024 von Braun Space Exploration Symposium
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-23-2024/" >🔗</a> **[NASA]** The Marshall Star for October 23, 2024
-- <a href="https://spacenews.com/millennium-space-secures-386-million-contract-for-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Millennium Space secures $386 million contract for missile-defense satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T040132">2024-10-24 04:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T043449">2024-10-24 04:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
