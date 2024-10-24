@@ -93,14 +93,14 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Proba-1_s_T-plus_23_years_in_orbit" >🔗</a> **[ESA]** Proba-1’s T-plus 23 years in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/329th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 329th ESA Council: Media information session
+- <a href="https://www.nasa.gov/news-release/statement-from-nasas-janet-petro-on-fy23-economic-impact-report/" >🔗</a> **[NASA]** Statement from NASA’s Janet Petro on FY23 Economic Impact Report
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/" >🔗</a> **[NASA]** NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
 - <a href="https://www.nasa.gov/news-release/new-report-shows-nasas-75-6-billion-boost-to-us-economy/" >🔗</a> **[NASA]** New Report Shows NASA’s $75.6 Billion Boost to US Economy
 - <a href="https://spacenews.com/america-risk-high-impact-gps-jamming-spoofing-from-space/" >🔗</a> **[SpaceNews]** America is at risk of high impact GPS jamming and spoofing from space
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Environmentally_sustainable_space_transport" >🔗</a> **[ESA]** Environmentally sustainable space transport
 - <a href="https://europeanspaceflight.com/suas-partners-with-t-minus-for-irelands-first-commercial-rocket-launch/" >🔗</a> **[European Spaceflight]** SUAS Partners with T-Minus for Ireland’s First Commercial Rocket Launch
 - <a href="https://spacenews.com/introducing-new-mexicos-space-valley/" >🔗</a> **[SpaceNews]** Introducing New Mexico’s Space Valley
 - <a href="https://spacenews.com/aerospace-report-recommends-greater-dod-support-of-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Aerospace report recommends greater DOD support of commercial space capabilities
-- <a href="https://spacenews.com/chinas-deep-blue-aerospace-reveals-suborbital-tourism-plans/" >🔗</a> **[SpaceNews]** China’s Deep Blue Aerospace reveals suborbital tourism plans
-- <a href="https://spacenews.com/blue-origin-conducts-first-flight-of-second-human-rated-new-shepard/" >🔗</a> **[SpaceNews]** Blue Origin conducts first flight of second human-rated New Shepard
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T150117">2024-10-24 15:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T153326">2024-10-24 15:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
