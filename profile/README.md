@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-more-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches more satellites for NRO’s proliferated constellation
+- <a href="https://spacenews.com/challenges-facing-space-force-and-commercial-industry-gen-guetleins-candid-take/" >🔗</a> **[SpaceNews]** Challenges facing Space Force and commercial industry: Gen. Guetlein’s candid take
+- <a href="https://spacenews.com/nro-readies-open-call-for-satellite-remote-sensing/" >🔗</a> **[SpaceNews]** NRO readies open call for satellite remote sensing
+- <a href="https://spacenews.com/nasa-delays-decision-on-chandra-and-hubble-cuts/" >🔗</a> **[SpaceNews]** NASA delays decision on Chandra and Hubble cuts
 - <a href="https://www.nasa.gov/image-article/an-orange-blue-moon/" >🔗</a> **[NASA]** An Orange Blue Moon
 - <a href="https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/" >🔗</a> **[NASA]** NASA Chief AI Officer on the Federal Executive Forum: How Agencies Are Strategizing About AI
 - <a href="https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/" >🔗</a> **[NASA]** Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
 - <a href="https://tlpnetwork.com/news/in-space/boeing-built-intelsat-33e-satellite-breaks-apart-in-orbit" >🔗</a> **[The Launch Pad]** Boeing Built Intelsat 33e Satellite Breaks Apart in GEO
 - <a href="https://tlpnetwork.com/news/america/nasa-set-to-make-mars-sample-return-mission-decision-by-end-of-year" >🔗</a> **[The Launch Pad]** NASA Set To Make Mars Sample Return Mission Decision By End-of-Year
 - <a href="https://www.nasa.gov/news-release/nasa-funds-open-source-software-underpinning-scientific-innovation/" >🔗</a> **[NASA]** NASA Funds Open-Source Software Underpinning Scientific Innovation
-- <a href="https://www.nasa.gov/news-release/nasa-releases-economic-impact-report-for-fiscal-year-2023/" >🔗</a> **[NASA]** NASA Releases Economic Impact Report for Fiscal Year 2023
-- <a href="https://tlpnetwork.com/news/asia/india-targets-lunar-south-pole-for-chandrayaan-4-lunar-sample-return-mission" >🔗</a> **[The Launch Pad]** India’s Targets Lunar South Pole For Chandrayaan-4 Lunar Sample Return Mission
-- <a href="https://spaceflightnow.com/2024/10/24/live-coverage-spacex-to-launch-multiple-satellites-for-the-national-reconnaissance-office-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** SpaceX launches 4th batch of Starshield satellites for the NRO on its 100th Falcon 9 rocket of 2024
-- <a href="https://tlpnetwork.com/news/asia/chinas-deep-blue-aerospace-targets-2027-for-first-suborbital-tourism-flights" >🔗</a> **[The Launch Pad]** China's Deep Blue Aerospace Targets 2027 For First Suborbital Tourism Flights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T210111">2024-10-24 21:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T213148">2024-10-24 21:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
