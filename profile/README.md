@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/suas-partners-with-t-minus-for-irelands-first-commercial-rocket-launch/" >🔗</a> **[European Spaceflight]** SUAS Partners with T-Minus for Ireland’s First Commercial Rocket Launch
+- <a href="https://spacenews.com/introducing-new-mexicos-space-valley/" >🔗</a> **[SpaceNews]** Introducing New Mexico’s Space Valley
 - <a href="https://spacenews.com/aerospace-report-recommends-greater-dod-support-of-commercial-space-capabilities/" >🔗</a> **[SpaceNews]** Aerospace report recommends greater DOD support of commercial space capabilities
 - <a href="https://spacenews.com/chinas-deep-blue-aerospace-reveals-suborbital-tourism-plans/" >🔗</a> **[SpaceNews]** China’s Deep Blue Aerospace reveals suborbital tourism plans
 - <a href="https://spacenews.com/blue-origin-conducts-first-flight-of-second-human-rated-new-shepard/" >🔗</a> **[SpaceNews]** Blue Origin conducts first flight of second human-rated New Shepard
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ses-intelsat-combinations-far-reaching-impact-on-deal-making/" >🔗</a> **[SpaceNews]** SES-Intelsat combination’s far-reaching impact on deal-making
 - <a href="https://spacepolicyonline.com/news/johns-hopkins-applied-physics-lab-seeking-new-director/" >🔗</a> **[SpacePolicyOnline.com]** Johns Hopkins Applied Physics Lab Seeking New Director
 - <a href="https://spacenews.com/space-force-awards-northrop-grumman-1-8-billion-contract-extension-for-missile-warning-satellites/" >🔗</a> **[SpaceNews]** Space Force awards Northrop Grumman $1.8 billion contract extension for missile warning satellites
-- <a href="https://spacenews.com/space-development-agency-selects-19-companies-for-low-earth-orbit-demonstration-program/" >🔗</a> **[SpaceNews]** Space Development Agency selects 19 companies for low-Earth orbit demonstration program
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-adaptation-to-spaceflight-the-role-of-food-and-nutrition/" >🔗</a> **[NASA]** Human Adaptation to Spaceflight: The Role of Food and Nutrition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T120159">2024-10-24 12:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241024T124236">2024-10-24 12:42:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
