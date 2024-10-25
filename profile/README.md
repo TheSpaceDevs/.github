@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/10/spacex-aces-flight-5-flight-6/" >🔗</a> **[NASASpaceflight]** SpaceX success with Flight 5, Flight 6 already tested
+- <a href="https://science.nasa.gov/blog/sols-4343-4344-late-slide-late-changes/" >🔗</a> **[NASA]** Sols 4343-4344: Late Slide, Late Changes
+- <a href="https://spacenews.com/nelson-says-reports-of-musk-putin-conversations-concerning/" >🔗</a> **[SpaceNews]** Nelson says reports of Musk-Putin conversations “concerning”
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Chile as Newest Artemis Accords Signatory
 - <a href="https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/" >🔗</a> **[NASA]** Red Rocks with Green Spots at ‘Serpentine Rapids’
 - <a href="https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/" >🔗</a> **[NASA]** Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-astronaut-hospitalized-after-crew-8-return/" >🔗</a> **[SpaceNews]** NASA astronaut hospitalized after Crew-8 return
 - <a href="https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/" >🔗</a> **[NASA]** Autumn Leaves – Call for Volunteers
 - <a href="https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/" >🔗</a> **[NASA]** Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/" >🔗</a> **[NASA]** High-Altitude ER-2 Flights Get Down-to-Earth Data
-- <a href="https://tlpnetwork.com/news/america/nasa-crew-8-astronauts-taken-to-hospital-for-additional-evaluation" >🔗</a> **[The Launch Pad]** DEVELOPING! NASA’s Crew-8 Astronauts Taken to Hospital for 'Additional Evaluation'
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Setting_the_course_in_space_highlights_from_IAC_2024" >🔗</a> **[ESA]** Setting the course in space: highlights from IAC 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T220106">2024-10-25 22:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T223325">2024-10-25 22:33:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
