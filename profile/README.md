@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/" >🔗</a> **[NASA]** Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
+- <a href="https://spacenews.com/ast-spacemobile-unfolds-debut-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile unfolds debut production direct-to-smartphone satellites
 - <a href="https://spacenews.com/nasa-astronaut-hospitalized-after-crew-8-return/" >🔗</a> **[SpaceNews]** NASA astronaut hospitalized after Crew-8 return
 - <a href="https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/" >🔗</a> **[NASA]** Autumn Leaves – Call for Volunteers
 - <a href="https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/" >🔗</a> **[NASA]** Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Setting_the_course_in_space_highlights_from_IAC_2024" >🔗</a> **[ESA]** Setting the course in space: highlights from IAC 2024
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_October_2024" >🔗</a> **[ESA]** Week in images: 21-25 October 2024
 - <a href="https://www.nasa.gov/general/event-details/" >🔗</a> **[NASA]** Event Details
-- <a href="https://spaceflightnow.com/2024/10/25/returning-astronauts-taken-to-local-medical-facility-after-initial-checks-aboard-recovery-ship/" >🔗</a> **[Spaceflight Now]** Returning astronauts taken to “local medical facility” after initial checks aboard recovery ship
-- <a href="https://www.nasa.gov/news-release/stennis-achieves-milestone-preparing-for-future-artemis-testing/" >🔗</a> **[NASA]** NASA Stennis Achieves Milestone in Preparation for Future Artemis Testing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T190106">2024-10-25 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T193104">2024-10-25 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
