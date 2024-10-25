@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Thin_cool_surface_skin_boosts_ocean_s_carbon_uptake" >🔗</a> **[ESA]** Thin cool surface skin boosts ocean’s carbon uptake
+- <a href="https://www.esa.int/Applications/Satellite_navigation/NAVISP/Seven_ways_navigation_tech_contributes_to_sustainability" >🔗</a> **[ESA]** Seven ways navigation tech contributes to sustainability
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Northern_Ohio" >🔗</a> **[ESA]** Earth from Space: Northern Ohio
+- <a href="https://spacenews.com/astra-wins-diu-contract-to-support-rocket-4-development/" >🔗</a> **[SpaceNews]** Astra wins DIU contract to support Rocket 4 development
+- <a href="https://www.nasa.gov/news-release/back-on-earth-nasas-spacex-crew-8-mission-splashes-down-off-florida/" >🔗</a> **[NASA]** Back on Earth: NASA’s SpaceX Crew-8 Mission Splashes Down Off Florida
+- <a href="https://europeanspaceflight.com/discussions-underway-to-relax-geo-return-for-european-launcher-challenge/" >🔗</a> **[European Spaceflight]** Discussions Underway to Relax Geo-Return for European Launcher Challenge
 - <a href="https://science.nasa.gov/solar-system/sinister-solar-system/" >🔗</a> **[NASA]** Sinister Solar System
 - <a href="https://science.nasa.gov/blog/sols-4341-4342-a-bumpy-road/" >🔗</a> **[NASA]** Sols 4341-4342: A Bumpy Road
 - <a href="https://spacenews.com/university-of-new-hampshire-to-build-noaa-solar-wind-sensors/" >🔗</a> **[SpaceNews]** University of New Hampshire to build NOAA solar wind sensors
 - <a href="https://spacenews.com/spacex-launches-more-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches more satellites for NRO’s proliferated constellation
-- <a href="https://spacenews.com/challenges-facing-space-force-and-commercial-industry-gen-guetleins-candid-take/" >🔗</a> **[SpaceNews]** Challenges facing Space Force and commercial industry: Gen. Guetlein’s candid take
-- <a href="https://spacenews.com/nro-readies-open-call-for-satellite-remote-sensing/" >🔗</a> **[SpaceNews]** NRO readies open call for satellite remote sensing
-- <a href="https://spacenews.com/nasa-delays-decision-on-chandra-and-hubble-cuts/" >🔗</a> **[SpaceNews]** NASA delays decision on Chandra and Hubble cuts
-- <a href="https://www.nasa.gov/image-article/an-orange-blue-moon/" >🔗</a> **[NASA]** An Orange Blue Moon
-- <a href="https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/" >🔗</a> **[NASA]** NASA Chief AI Officer on the Federal Executive Forum: How Agencies Are Strategizing About AI
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T090126">2024-10-25 09:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T093235">2024-10-25 09:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
