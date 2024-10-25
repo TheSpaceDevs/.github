@@ -27,13 +27,13 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T214700">2024-10-26 21:47:00 UTC</a>.  Until
 then, this pad will have been used for 267
 out of 981 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 22 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T214700">2024-10-26 21:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-8&location=Cape Canaveral SFS, FL, USA&dates=20241026T214700Z%2F20241027T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-8** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T214700">2024-10-26 21:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-8&location=Cape Canaveral SFS, FL, USA&dates=20241026T214700Z%2F20241027T014700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-8** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T113000">2024-10-29 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-9&location=Vandenberg SFB, CA, USA&dates=20241029T113000Z%2F20241029T133100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T201700">2024-10-29 20:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 19&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241029T201700Z%2F20241029T205700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 19** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T064600">2024-10-30 06:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241030T064600Z%2F20241030T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Chile as Newest Artemis Accords Signatory
+- <a href="https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/" >🔗</a> **[NASA]** Red Rocks with Green Spots at ‘Serpentine Rapids’
 - <a href="https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/" >🔗</a> **[NASA]** Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 - <a href="https://spacenews.com/ast-spacemobile-unfolds-debut-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile unfolds debut production direct-to-smartphone satellites
 - <a href="https://spacenews.com/nasa-astronaut-hospitalized-after-crew-8-return/" >🔗</a> **[SpaceNews]** NASA astronaut hospitalized after Crew-8 return
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/" >🔗</a> **[NASA]** High-Altitude ER-2 Flights Get Down-to-Earth Data
 - <a href="https://tlpnetwork.com/news/america/nasa-crew-8-astronauts-taken-to-hospital-for-additional-evaluation" >🔗</a> **[The Launch Pad]** DEVELOPING! NASA’s Crew-8 Astronauts Taken to Hospital for 'Additional Evaluation'
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Setting_the_course_in_space_highlights_from_IAC_2024" >🔗</a> **[ESA]** Setting the course in space: highlights from IAC 2024
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_October_2024" >🔗</a> **[ESA]** Week in images: 21-25 October 2024
-- <a href="https://www.nasa.gov/general/event-details/" >🔗</a> **[NASA]** Event Details
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T210125">2024-10-25 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T213229">2024-10-25 21:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
