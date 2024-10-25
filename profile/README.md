@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Northern_Ohio" >🔗</a> **[ESA]** Earth from Space: Northern Ohio
 - <a href="https://science.nasa.gov/solar-system/sinister-solar-system/" >🔗</a> **[NASA]** Sinister Solar System
 - <a href="https://science.nasa.gov/blog/sols-4341-4342-a-bumpy-road/" >🔗</a> **[NASA]** Sols 4341-4342: A Bumpy Road
 - <a href="https://spacenews.com/university-of-new-hampshire-to-build-noaa-solar-wind-sensors/" >🔗</a> **[SpaceNews]** University of New Hampshire to build NOAA solar wind sensors
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-delays-decision-on-chandra-and-hubble-cuts/" >🔗</a> **[SpaceNews]** NASA delays decision on Chandra and Hubble cuts
 - <a href="https://www.nasa.gov/image-article/an-orange-blue-moon/" >🔗</a> **[NASA]** An Orange Blue Moon
 - <a href="https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/" >🔗</a> **[NASA]** NASA Chief AI Officer on the Federal Executive Forum: How Agencies Are Strategizing About AI
-- <a href="https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/" >🔗</a> **[NASA]** Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T080136">2024-10-25 08:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T083507">2024-10-25 08:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
