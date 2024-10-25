@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-astronaut-hospitalized-after-crew-8-return/" >🔗</a> **[SpaceNews]** NASA astronaut hospitalized after Crew-8 return
+- <a href="https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/" >🔗</a> **[NASA]** Autumn Leaves – Call for Volunteers
+- <a href="https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/" >🔗</a> **[NASA]** Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/" >🔗</a> **[NASA]** High-Altitude ER-2 Flights Get Down-to-Earth Data
 - <a href="https://tlpnetwork.com/news/america/nasa-crew-8-astronauts-taken-to-hospital-for-additional-evaluation" >🔗</a> **[The Launch Pad]** DEVELOPING! NASA’s Crew-8 Astronauts Taken to Hospital for 'Additional Evaluation'
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Setting_the_course_in_space_highlights_from_IAC_2024" >🔗</a> **[ESA]** Setting the course in space: highlights from IAC 2024
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/event-details/" >🔗</a> **[NASA]** Event Details
 - <a href="https://spaceflightnow.com/2024/10/25/returning-astronauts-taken-to-local-medical-facility-after-initial-checks-aboard-recovery-ship/" >🔗</a> **[Spaceflight Now]** Returning astronauts taken to “local medical facility” after initial checks aboard recovery ship
 - <a href="https://www.nasa.gov/news-release/stennis-achieves-milestone-preparing-for-future-artemis-testing/" >🔗</a> **[NASA]** NASA Stennis Achieves Milestone in Preparation for Future Artemis Testing
-- <a href="https://spacenews.com/crew-8-returns-to-earth/" >🔗</a> **[SpaceNews]** Crew-8 returns to Earth
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Thin_cool_surface_skin_boosts_ocean_s_carbon_uptake" >🔗</a> **[ESA]** Thin cool surface skin boosts ocean’s carbon uptake
-- <a href="https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/" >🔗</a> **[NASA]** Hubble Sees a Celestial Cannonball
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T180135">2024-10-25 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T183548">2024-10-25 18:35:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
