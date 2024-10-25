@@ -93,6 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Setting_the_course_in_space_highlights_from_IAC_2024" >🔗</a> **[ESA]** Setting the course in space: highlights from IAC 2024
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_October_2024" >🔗</a> **[ESA]** Week in images: 21-25 October 2024
+- <a href="https://www.nasa.gov/general/event-details/" >🔗</a> **[NASA]** Event Details
 - <a href="https://spaceflightnow.com/2024/10/25/returning-astronauts-taken-to-local-medical-facility-after-initial-checks-aboard-recovery-ship/" >🔗</a> **[Spaceflight Now]** Returning astronauts taken to “local medical facility” after initial checks aboard recovery ship
 - <a href="https://www.nasa.gov/news-release/stennis-achieves-milestone-preparing-for-future-artemis-testing/" >🔗</a> **[NASA]** NASA Stennis Achieves Milestone in Preparation for Future Artemis Testing
 - <a href="https://spacenews.com/crew-8-returns-to-earth/" >🔗</a> **[SpaceNews]** Crew-8 returns to Earth
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/" >🔗</a> **[NASA]** Hubble Sees a Celestial Cannonball
 - <a href="https://www.esa.int/Applications/Satellite_navigation/NAVISP/Seven_ways_navigation_tech_contributes_to_sustainability" >🔗</a> **[ESA]** Seven ways navigation tech contributes to sustainability
 - <a href="https://spacepolicyonline.com/news/crew-8-home-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Home At Last
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Earth_from_Space_Northern_Ohio" >🔗</a> **[ESA]** Earth from Space: Northern Ohio
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T150110">2024-10-25 15:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T153237">2024-10-25 15:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
