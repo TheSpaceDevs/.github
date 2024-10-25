@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/sinister-solar-system/" >🔗</a> **[NASA]** Sinister Solar System
 - <a href="https://science.nasa.gov/blog/sols-4341-4342-a-bumpy-road/" >🔗</a> **[NASA]** Sols 4341-4342: A Bumpy Road
 - <a href="https://spacenews.com/university-of-new-hampshire-to-build-noaa-solar-wind-sensors/" >🔗</a> **[SpaceNews]** University of New Hampshire to build NOAA solar wind sensors
 - <a href="https://spacenews.com/spacex-launches-more-satellites-for-nros-proliferated-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches more satellites for NRO’s proliferated constellation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/an-orange-blue-moon/" >🔗</a> **[NASA]** An Orange Blue Moon
 - <a href="https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/" >🔗</a> **[NASA]** NASA Chief AI Officer on the Federal Executive Forum: How Agencies Are Strategizing About AI
 - <a href="https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/" >🔗</a> **[NASA]** Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
-- <a href="https://tlpnetwork.com/news/in-space/boeing-built-intelsat-33e-satellite-breaks-apart-in-orbit" >🔗</a> **[The Launch Pad]** Boeing Built Intelsat 33e Satellite Breaks Apart in GEO
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T000423">2024-10-25 00:04:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T004532">2024-10-25 00:45:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
