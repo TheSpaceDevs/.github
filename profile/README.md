@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chile-and-cyprus-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Chile and Cyprus sign the Artemis Accords
 - <a href="https://spaceflightnow.com/2024/10/26/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/starship-super-heavy-booster-came-within-one-second-of-aborting-first-catch-landing/" >🔗</a> **[SpaceNews]** Starship Super Heavy booster came within one second of aborting first “catch” landing
 - <a href="https://www.nasaspaceflight.com/2024/10/spacex-aces-flight-5-flight-6/" >🔗</a> **[NASASpaceflight]** SpaceX success with Flight 5, Flight 6 already tested
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/" >🔗</a> **[NASA]** Red Rocks with Green Spots at ‘Serpentine Rapids’
 - <a href="https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/" >🔗</a> **[NASA]** Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 - <a href="https://spacenews.com/ast-spacemobile-unfolds-debut-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile unfolds debut production direct-to-smartphone satellites
-- <a href="https://spacenews.com/nasa-astronaut-hospitalized-after-crew-8-return/" >🔗</a> **[SpaceNews]** NASA astronaut hospitalized after Crew-8 return
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T150120">2024-10-26 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T153153">2024-10-26 15:31:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
