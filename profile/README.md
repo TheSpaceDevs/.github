@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/10/sls-update/" >🔗</a> **[NASASpaceflight]** SLS preparations underway for Artemis II and future missions
 - <a href="https://spacenews.com/crew-8-astronaut-released-from-hospital/" >🔗</a> **[SpaceNews]** Crew-8 astronaut released from hospital
 - <a href="https://spacenews.com/chile-and-cyprus-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Chile and Cyprus sign the Artemis Accords
 - <a href="https://spaceflightnow.com/2024/10/26/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nelson-says-reports-of-musk-putin-conversations-concerning/" >🔗</a> **[SpaceNews]** Nelson says reports of Musk-Putin conversations “concerning”
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Chile as Newest Artemis Accords Signatory
 - <a href="https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/" >🔗</a> **[NASA]** Red Rocks with Green Spots at ‘Serpentine Rapids’
-- <a href="https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/" >🔗</a> **[NASA]** Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T190118">2024-10-26 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T193103">2024-10-26 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
