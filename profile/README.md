@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starship-super-heavy-booster-came-within-one-second-of-aborting-first-catch-landing/" >🔗</a> **[SpaceNews]** Starship Super Heavy booster came within one second of aborting first “catch” landing
 - <a href="https://www.nasaspaceflight.com/2024/10/spacex-aces-flight-5-flight-6/" >🔗</a> **[NASASpaceflight]** SpaceX success with Flight 5, Flight 6 already tested
 - <a href="https://science.nasa.gov/blog/sols-4343-4344-late-slide-late-changes/" >🔗</a> **[NASA]** Sols 4343-4344: Late Slide, Late Changes
 - <a href="https://spacenews.com/nelson-says-reports-of-musk-putin-conversations-concerning/" >🔗</a> **[SpaceNews]** Nelson says reports of Musk-Putin conversations “concerning”
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ast-spacemobile-unfolds-debut-production-direct-to-smartphone-satellites/" >🔗</a> **[SpaceNews]** AST SpaceMobile unfolds debut production direct-to-smartphone satellites
 - <a href="https://spacenews.com/nasa-astronaut-hospitalized-after-crew-8-return/" >🔗</a> **[SpaceNews]** NASA astronaut hospitalized after Crew-8 return
 - <a href="https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/" >🔗</a> **[NASA]** Autumn Leaves – Call for Volunteers
-- <a href="https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/" >🔗</a> **[NASA]** Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241025T233120">2024-10-25 23:31:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T000432">2024-10-26 00:04:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
