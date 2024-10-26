@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-8-astronaut-released-from-hospital-back-in-houston/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Astronaut Released from Hospital, Back in Houston
 - <a href="https://www.nasaspaceflight.com/2024/10/sls-update/" >🔗</a> **[NASASpaceflight]** SLS preparations underway for Artemis II and future missions
 - <a href="https://spacenews.com/crew-8-astronaut-released-from-hospital/" >🔗</a> **[SpaceNews]** Crew-8 astronaut released from hospital
 - <a href="https://spacenews.com/chile-and-cyprus-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Chile and Cyprus sign the Artemis Accords
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4343-4344-late-slide-late-changes/" >🔗</a> **[NASA]** Sols 4343-4344: Late Slide, Late Changes
 - <a href="https://spacenews.com/nelson-says-reports-of-musk-putin-conversations-concerning/" >🔗</a> **[SpaceNews]** Nelson says reports of Musk-Putin conversations “concerning”
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Chile as Newest Artemis Accords Signatory
-- <a href="https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/" >🔗</a> **[NASA]** Red Rocks with Green Spots at ‘Serpentine Rapids’
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T200109">2024-10-26 20:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T203120">2024-10-26 20:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
