@@ -95,7 +95,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/10/sls-update/" >🔗</a> **[NASASpaceflight]** SLS preparations underway for Artemis II and future missions
 - <a href="https://spacenews.com/crew-8-astronaut-released-from-hospital/" >🔗</a> **[SpaceNews]** Crew-8 astronaut released from hospital
 - <a href="https://spacenews.com/chile-and-cyprus-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Chile and Cyprus sign the Artemis Accords
-- <a href="https://spaceflightnow.com/2024/10/26/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** SpaceX to launched Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/10/26/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** SpaceX launches Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/starship-super-heavy-booster-came-within-one-second-of-aborting-first-catch-landing/" >🔗</a> **[SpaceNews]** Starship Super Heavy booster came within one second of aborting first “catch” landing
 - <a href="https://www.nasaspaceflight.com/2024/10/spacex-aces-flight-5-flight-6/" >🔗</a> **[NASASpaceflight]** SpaceX success with Flight 5, Flight 6 already tested
 - <a href="https://science.nasa.gov/blog/sols-4343-4344-late-slide-late-changes/" >🔗</a> **[NASA]** Sols 4343-4344: Late Slide, Late Changes
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241026T233107">2024-10-26 23:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241027T000428">2024-10-27 00:04:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
