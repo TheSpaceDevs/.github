@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/planets-beware-nasa-unburies-danger-zones-of-star-cluster/" >🔗</a> **[NASA]** Planets Beware: NASA Unburies Danger Zones of Star Cluster
+- <a href="https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/" >🔗</a> **[NASA]** Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
+- <a href="https://www.nasa.gov/image-article/an-opportunity-to-study-water/" >🔗</a> **[NASA]** An Opportunity to Study Water
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 - <a href="https://spacepolicyonline.com/news/nasa-identifies-root-cause-of-orion-heat-shield-char-loss/" >🔗</a> **[SpacePolicyOnline.com]** NASA Identifies Root Cause of Orion Heat Shield Char Loss
 - <a href="https://www.nasa.gov/news-release/nasa-announces-stem-engagement-lead-chief-economist-retirements/" >🔗</a> **[NASA]** NASA Announces STEM Engagement Lead, Chief Economist Retirements
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-coronagraph-for-roman-space-telescope/" >🔗</a> **[NASA]** NASA Successfully Integrates Coronagraph for Roman Space Telescope
 - <a href="https://europeanspaceflight.com/esa-selects-four-companies-to-develop-reusable-rocket-technology/" >🔗</a> **[European Spaceflight]** ESA Selects Four Companies to Develop Reusable Rocket Technology
 - <a href="https://tlpnetwork.com/news/america/nasa-announces-nine-landing-sites-for-artemis-3-mission" >🔗</a> **[The Launch Pad]** NASA Announces Nine Landing Sites for Artemis III Mission
-- <a href="https://www.nasa.gov/news-release/nasa-provides-update-on-artemis-iii-moon-landing-regions/" >🔗</a> **[NASA]** NASA Provides Update on Artemis III Moon Landing Regions
-- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_s_CubeSat_passengers_signal_home" >🔗</a> **[ESA]** Hera asteroid mission’s CubeSat passengers signal home
-- <a href="https://spacenews.com/esa-plans-measures-to-help-european-space-industry/" >🔗</a> **[SpaceNews]** ESA plans measures to help European space industry
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241028T180124">2024-10-28 18:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241028T183617">2024-10-28 18:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
