@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_s_CubeSat_passengers_signal_home" >🔗</a> **[ESA]** Hera asteroid mission’s CubeSat passengers signal home
+- <a href="https://spacenews.com/esa-plans-measures-to-help-european-space-industry/" >🔗</a> **[SpaceNews]** ESA plans measures to help European space industry
 - <a href="https://europeanspaceflight.com/arianespace-envisions-post-2030-ariane-6-upgrades/" >🔗</a> **[European Spaceflight]** Arianespace Envisions Post-2030 Ariane 6 Upgrades
 - <a href="https://www.nasaspaceflight.com/2024/10/martian-subsurface-pools/" >🔗</a> **[NASASpaceflight]** New study reveals potential existence of life in subsurface water pools on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-27-november-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 27-November 3, 2024
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/crew-8-astronaut-released-from-hospital/" >🔗</a> **[SpaceNews]** Crew-8 astronaut released from hospital
 - <a href="https://spacenews.com/chile-and-cyprus-sign-the-artemis-accords/" >🔗</a> **[SpaceNews]** Chile and Cyprus sign the Artemis Accords
 - <a href="https://spaceflightnow.com/2024/10/26/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** SpaceX launches Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/starship-super-heavy-booster-came-within-one-second-of-aborting-first-catch-landing/" >🔗</a> **[SpaceNews]** Starship Super Heavy booster came within one second of aborting first “catch” landing
-- <a href="https://www.nasaspaceflight.com/2024/10/spacex-aces-flight-5-flight-6/" >🔗</a> **[NASASpaceflight]** SpaceX success with Flight 5, Flight 6 already tested
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241028T110115">2024-10-28 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241028T120154">2024-10-28 12:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
