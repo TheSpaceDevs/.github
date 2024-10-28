@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-coronagraph-for-roman-space-telescope/" >🔗</a> **[NASA]** NASA Successfully Integrates Coronagraph for Roman Space Telescope
 - <a href="https://europeanspaceflight.com/esa-selects-four-companies-to-develop-reusable-rocket-technology/" >🔗</a> **[European Spaceflight]** ESA Selects Four Companies to Develop Reusable Rocket Technology
 - <a href="https://tlpnetwork.com/news/america/nasa-announces-nine-landing-sites-for-artemis-3-mission" >🔗</a> **[The Launch Pad]** NASA Announces Nine Landing Sites for Artemis III Mission
 - <a href="https://www.nasa.gov/news-release/nasa-provides-update-on-artemis-iii-moon-landing-regions/" >🔗</a> **[NASA]** NASA Provides Update on Artemis III Moon Landing Regions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/10/martian-subsurface-pools/" >🔗</a> **[NASASpaceflight]** New study reveals potential existence of life in subsurface water pools on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-27-november-3-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 27-November 3, 2024
 - <a href="https://spacepolicyonline.com/news/crew-8-astronaut-released-from-hospital-back-in-houston/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Astronaut Released from Hospital, Back in Houston
-- <a href="https://www.nasaspaceflight.com/2024/10/sls-update/" >🔗</a> **[NASASpaceflight]** SLS preparations underway for Artemis II and future missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241028T150129">2024-10-28 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241028T153328">2024-10-28 15:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
