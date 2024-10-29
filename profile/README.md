@@ -20,34 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 9-9**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T114400">2024-10-29 11:44:00 UTC</a>.  Until
-then, this pad will have been used for 163
-out of 775 launches from this location. The launch status is currently
+**Long March 2F/G | Shenzhou 19**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T201700">2024-10-29 20:17:00 UTC</a>.  Until
+then, this pad will have been used for 23
+out of 232 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 20 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Eighth crewed flight to the Chinese space station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T114400">2024-10-29 11:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-9&location=Vandenberg SFB, CA, USA&dates=20241029T114400Z%2F20241029T124000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T201700">2024-10-29 20:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 19&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241029T201700Z%2F20241029T205700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 19** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T110700">2024-10-30 11:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-9&location=Vandenberg SFB, CA, USA&dates=20241030T110700Z%2F20241030T112100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T211000">2024-10-30 21:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-13&location=Cape Canaveral SFS, FL, USA&dates=20241030T211000Z%2F20241031T010800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-13** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T070000">2024-10-31 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20241031T070000Z%2F20241031T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241102T085600">2024-11-02 08:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-10&location=Vandenberg SFB, CA, USA&dates=20241102T085600Z%2F20241102T125600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-10** from Vandenberg SFB, CA, USA.
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-finds-but-does-not-disclose-root-cause-of-orion-heat-shield-erosion/" >🔗</a> **[SpaceNews]** NASA finds, but does not disclose, root cause of Orion heat shield erosion
+- <a href="https://www.cnbc.com/2024/10/29/firefly-aerospace-ceo-jason-kim-rockets-spacecraft-moon-missions.html" >🔗</a> **[CNBC]** Rocket builder Firefly’s new CEO is working ‘maniacally’ to scale launches, spacecraft and moon missions
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Ariel_takes_shape_and_first_shake" >🔗</a> **[ESA]** Ariel takes shape and first shake
+- <a href="https://spacenews.com/austrias-isee-sets-up-u-s-subsidiary/" >🔗</a> **[SpaceNews]** Austria’s iSEE sets up U.S. subsidiary
+- <a href="https://science.nasa.gov/blog/sols-4345-4347-contact-science-is-back-on-the-table/" >🔗</a> **[NASA]** Sols 4345-4347: Contact Science is Back on the Table
+- <a href="https://spaceflightnow.com/2024/10/28/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://spacenews.com/exoanalytic-observes-500-pieces-of-debris-from-intelsat-33e-breakup/" >🔗</a> **[SpaceNews]** ExoAnalytic observes 500 pieces of debris from Intelsat 33e breakup
+- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong Space Station, Russia to launch military payload
 - <a href="https://www.nasa.gov/image-article/planets-beware-nasa-unburies-danger-zones-of-star-cluster/" >🔗</a> **[NASA]** Planets Beware: NASA Unburies Danger Zones of Star Cluster
 - <a href="https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/" >🔗</a> **[NASA]** Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
-- <a href="https://www.nasa.gov/image-article/an-opportunity-to-study-water/" >🔗</a> **[NASA]** An Opportunity to Study Water
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
-- <a href="https://spacepolicyonline.com/news/nasa-identifies-root-cause-of-orion-heat-shield-char-loss/" >🔗</a> **[SpacePolicyOnline.com]** NASA Identifies Root Cause of Orion Heat Shield Char Loss
-- <a href="https://www.nasa.gov/news-release/nasa-announces-stem-engagement-lead-chief-economist-retirements/" >🔗</a> **[NASA]** NASA Announces STEM Engagement Lead, Chief Economist Retirements
-- <a href="https://spacenews.com/satellite-servicing-industry-faces-uncertain-military-demand/" >🔗</a> **[SpaceNews]** Satellite servicing industry faces uncertain military demand
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-coronagraph-for-roman-space-telescope/" >🔗</a> **[NASA]** NASA Successfully Integrates Coronagraph for Roman Space Telescope
-- <a href="https://europeanspaceflight.com/esa-selects-four-companies-to-develop-reusable-rocket-technology/" >🔗</a> **[European Spaceflight]** ESA Selects Four Companies to Develop Reusable Rocket Technology
-- <a href="https://tlpnetwork.com/news/america/nasa-announces-nine-landing-sites-for-artemis-3-mission" >🔗</a> **[The Launch Pad]** NASA Announces Nine Landing Sites for Artemis III Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T110108">2024-10-29 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T113109">2024-10-29 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
