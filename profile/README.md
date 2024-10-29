@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 - <a href="https://www.nasa.gov/image-article/memorable-moment-2024/" >🔗</a> **[NASA]** Memorable Moment 2024
 - <a href="https://spacenews.com/pentagons-commercial-satellite-internet-services-program-soars-to-13-billion/" >🔗</a> **[SpaceNews]** Pentagon’s commercial satellite internet services program soars to $13 billion
 - <a href="https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/" >🔗</a> **[NASA]** NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/phillip-ingle-morgan-stanley-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Phillip Ingle, Morgan Stanley – Commercial Space Transformers
 - <a href="https://spacenews.com/korean-sar-satellite-firm-lumir-goes-public-shares-slide-after-initial-rally/" >🔗</a> **[SpaceNews]** Korean SAR satellite firm Lumir goes public; Shares slide after initial rally
 - <a href="https://europeanspaceflight.com/esa-selects-companies-to-develop-in-orbit-fuel-storage-and-refilling-tech/" >🔗</a> **[European Spaceflight]** ESA Selects Companies to Develop in-Orbit Fuel Storage and Refilling Tech
-- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/" >🔗</a> **[NASA]** Gateway: Centering Science
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T160130">2024-10-29 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T163621">2024-10-29 16:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
