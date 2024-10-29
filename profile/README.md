@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/memorable-moment-2024/" >🔗</a> **[NASA]** Memorable Moment 2024
+- <a href="https://spacenews.com/pentagons-commercial-satellite-internet-services-program-soars-to-13-billion/" >🔗</a> **[SpaceNews]** Pentagon’s commercial satellite internet services program soars to $13 billion
+- <a href="https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/" >🔗</a> **[NASA]** NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
+- <a href="https://www.nasa.gov/general/nasa-group-amplifies-voices-of-employees-with-disabilities/" >🔗</a> **[NASA]** NASA Group Amplifies Voices of Employees with Disabilities
+- <a href="https://www.nasa.gov/organizations/osbp/nasa-relaunches-mentor-protege-program-to-fill-supply-chain-gaps/" >🔗</a> **[NASA]** NASA Relaunches Mentor-Protégé Program to Fill Supply Chain Gaps
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/new-nasa-instrument-for-studying-snowpack-completes-airborne-testing/" >🔗</a> **[NASA]** New NASA Instrument for Studying Snowpack Completes Airborne Testing
 - <a href="https://spacenews.com/phillip-ingle-morgan-stanley-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Phillip Ingle, Morgan Stanley – Commercial Space Transformers
 - <a href="https://spacenews.com/korean-sar-satellite-firm-lumir-goes-public-shares-slide-after-initial-rally/" >🔗</a> **[SpaceNews]** Korean SAR satellite firm Lumir goes public; Shares slide after initial rally
 - <a href="https://europeanspaceflight.com/esa-selects-companies-to-develop-in-orbit-fuel-storage-and-refilling-tech/" >🔗</a> **[European Spaceflight]** ESA Selects Companies to Develop in-Orbit Fuel Storage and Refilling Tech
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/" >🔗</a> **[NASA]** Gateway: Centering Science
-- <a href="https://spacenews.com/china-selects-2-proposals-for-crewed-moon-rover/" >🔗</a> **[SpaceNews]** China selects 2 proposals for crewed moon rover
-- <a href="https://spacenews.com/nasa-finds-but-does-not-disclose-root-cause-of-orion-heat-shield-erosion/" >🔗</a> **[SpaceNews]** NASA finds, but does not disclose, root cause of Orion heat shield erosion
-- <a href="https://www.cnbc.com/2024/10/29/firefly-aerospace-ceo-jason-kim-rockets-spacecraft-moon-missions.html" >🔗</a> **[CNBC]** Rocket builder Firefly’s new CEO is working ‘maniacally’ to scale launches, spacecraft and moon missions
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Ariel_takes_shape_and_first_shake" >🔗</a> **[ESA]** Ariel takes shape and first shake
-- <a href="https://spacenews.com/austrias-isee-sets-up-u-s-subsidiary/" >🔗</a> **[SpaceNews]** Austria’s iSEE sets up U.S. subsidiary
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T150118">2024-10-29 15:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T153328">2024-10-29 15:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
