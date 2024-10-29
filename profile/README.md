@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-chooses-2-teams-to-develop-low-cost-space-station-cargo-spacecraft/" >🔗</a> **[SpaceNews]** China chooses 2 teams to develop low-cost space station cargo spacecraft
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/ken-iliff-engineering-40-years-of-success/" >🔗</a> **[NASA]** Ken Iliff: Engineering 40 Years of Success
 - <a href="https://spacenews.com/dod-industrial-base-plan-targets-weak-links-in-supply-chains/" >🔗</a> **[SpaceNews]** DoD industrial base plan targets weak links in supply chains
 - <a href="https://www.nasa.gov/image-article/a-particular-lenticular-cloud/" >🔗</a> **[NASA]** A Particular Lenticular Cloud
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/10/29/live-coverage-china-to-launch-3-taikonauts-to-the-tiangong-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: China to launch 3 taikonauts to the Tiangong space station
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-its-spacex-crew-9-dragon-station-relocation/" >🔗</a> **[NASA]** NASA Sets Coverage for its SpaceX Crew-9 Dragon Station Relocation
 - <a href="https://www.nasa.gov/image-article/team-ii-test-page/" >🔗</a> **[NASA]** Team II Test Page
-- <a href="https://spacenews.com/avio-picks-developer-for-first-us-rocket-motor-production-facility/" >🔗</a> **[SpaceNews]** Avio picks developer for first US rocket motor production facility
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T210120">2024-10-29 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T213113">2024-10-29 21:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
