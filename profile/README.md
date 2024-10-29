@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-selects-companies-to-develop-in-orbit-fuel-storage-and-refilling-tech/" >🔗</a> **[European Spaceflight]** ESA Selects Companies to Develop in-Orbit Fuel Storage and Refilling Tech
+- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/" >🔗</a> **[NASA]** Gateway: Centering Science
 - <a href="https://spacenews.com/china-selects-2-proposals-for-crewed-moon-rover/" >🔗</a> **[SpaceNews]** China selects 2 proposals for crewed moon rover
 - <a href="https://spacenews.com/nasa-finds-but-does-not-disclose-root-cause-of-orion-heat-shield-erosion/" >🔗</a> **[SpaceNews]** NASA finds, but does not disclose, root cause of Orion heat shield erosion
 - <a href="https://www.cnbc.com/2024/10/29/firefly-aerospace-ceo-jason-kim-rockets-spacecraft-moon-missions.html" >🔗</a> **[CNBC]** Rocket builder Firefly’s new CEO is working ‘maniacally’ to scale launches, spacecraft and moon missions
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4345-4347-contact-science-is-back-on-the-table/" >🔗</a> **[NASA]** Sols 4345-4347: Contact Science is Back on the Table
 - <a href="https://spaceflightnow.com/2024/10/28/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/exoanalytic-observes-500-pieces-of-debris-from-intelsat-33e-breakup/" >🔗</a> **[SpaceNews]** ExoAnalytic observes 500 pieces of debris from Intelsat 33e breakup
-- <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong Space Station, Russia to launch military payload
-- <a href="https://www.nasa.gov/image-article/planets-beware-nasa-unburies-danger-zones-of-star-cluster/" >🔗</a> **[NASA]** Planets Beware: NASA Unburies Danger Zones of Star Cluster
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T130633">2024-10-29 13:06:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T133458">2024-10-29 13:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
