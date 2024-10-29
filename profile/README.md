@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/carissa-arillo-testing-spacecraft-penning-the-owners-manuals/" >🔗</a> **[NASA]** Carissa Arillo: Testing Spacecraft, Penning the Owner’s Manuals
+- <a href="https://spaceflightnow.com/2024/10/29/live-coverage-china-to-launch-3-taikonauts-to-the-tiangong-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: China to launch 3 taikonauts to the Tiangong space station
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-its-spacex-crew-9-dragon-station-relocation/" >🔗</a> **[NASA]** NASA Sets Coverage for its SpaceX Crew-9 Dragon Station Relocation
 - <a href="https://www.nasa.gov/image-article/team-ii-test-page/" >🔗</a> **[NASA]** Team II Test Page
 - <a href="https://spacenews.com/avio-picks-developer-for-first-us-rocket-motor-production-facility/" >🔗</a> **[SpaceNews]** Avio picks developer for first US rocket motor production facility
 - <a href="https://www.teslarati.com/spacex-almost-ditched-insane-starship-booster-catch-last-second/" >🔗</a> **[Teslarati]** SpaceX almost ditched the insane Starship booster catch at the last second
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 - <a href="https://www.nasa.gov/image-article/memorable-moment-2024/" >🔗</a> **[NASA]** Memorable Moment 2024
 - <a href="https://spacenews.com/pentagons-commercial-satellite-internet-services-program-soars-to-13-billion/" >🔗</a> **[SpaceNews]** Pentagon’s commercial satellite internet services program soars to $13 billion
-- <a href="https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/" >🔗</a> **[NASA]** NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
-- <a href="https://www.nasa.gov/general/nasa-group-amplifies-voices-of-employees-with-disabilities/" >🔗</a> **[NASA]** NASA Group Amplifies Voices of Employees with Disabilities
-- <a href="https://www.nasa.gov/organizations/osbp/nasa-relaunches-mentor-protege-program-to-fill-supply-chain-gaps/" >🔗</a> **[NASA]** NASA Relaunches Mentor-Protégé Program to Fill Supply Chain Gaps
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T180128">2024-10-29 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T183624">2024-10-29 18:36:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
