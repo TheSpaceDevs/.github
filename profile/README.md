@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-selects-2-proposals-for-crewed-moon-rover/" >🔗</a> **[SpaceNews]** China selects 2 proposals for crewed moon rover
 - <a href="https://spacenews.com/nasa-finds-but-does-not-disclose-root-cause-of-orion-heat-shield-erosion/" >🔗</a> **[SpaceNews]** NASA finds, but does not disclose, root cause of Orion heat shield erosion
 - <a href="https://www.cnbc.com/2024/10/29/firefly-aerospace-ceo-jason-kim-rockets-spacecraft-moon-missions.html" >🔗</a> **[CNBC]** Rocket builder Firefly’s new CEO is working ‘maniacally’ to scale launches, spacecraft and moon missions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Ariel_takes_shape_and_first_shake" >🔗</a> **[ESA]** Ariel takes shape and first shake
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/exoanalytic-observes-500-pieces-of-debris-from-intelsat-33e-breakup/" >🔗</a> **[SpaceNews]** ExoAnalytic observes 500 pieces of debris from Intelsat 33e breakup
 - <a href="https://www.nasaspaceflight.com/2024/10/launch-roundup-102824/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong Space Station, Russia to launch military payload
 - <a href="https://www.nasa.gov/image-article/planets-beware-nasa-unburies-danger-zones-of-star-cluster/" >🔗</a> **[NASA]** Planets Beware: NASA Unburies Danger Zones of Star Cluster
-- <a href="https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/" >🔗</a> **[NASA]** Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T120157">2024-10-29 12:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241029T124238">2024-10-29 12:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
