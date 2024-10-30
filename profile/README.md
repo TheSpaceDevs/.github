@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/" >🔗</a> **[NASA]** NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
+- <a href="https://spacenews.com/nro-announces-space-tech-agreements-with-three-commercial-companies/" >🔗</a> **[SpaceNews]** NRO announces space tech agreements with three commercial companies
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-brings-drone-and-space-rover-to-air-show/" >🔗</a> **[NASA]** NASA Brings Drone and Space Rover to Air Show
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/" >🔗</a> **[NASA]** La NASA lleva un dron y un rover espacial a un espectáculo aéreo
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-31st-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 31st Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/" >🔗</a> **[NASA]** NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
 - <a href="https://spacenews.com/earth-observation-startup-emerges-from-stealth-with-12-million/" >🔗</a> **[SpaceNews]** Earth-observation startup emerges from stealth with $12 million
 - <a href="https://spaceflightnow.com/2024/10/30/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/history/60-years-ago-the-first-flight-of-the-lunar-landing-research-vehicle/" >🔗</a> **[NASA]** 60 Years Ago: The First Flight of the Lunar Landing Research Vehicle
 - <a href="https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/" >🔗</a> **[NASA]** NASA Technologies Named Among TIME Inventions of 2024
-- <a href="https://science.nasa.gov/blog/a-spooky-soliday-haunting-whispers-from-the-martian-landscape/" >🔗</a> **[NASA]** A Spooky Soliday: Haunting Whispers from the Martian Landscape
-- <a href="https://spacenews.com/lockheed-martin-completes-acquisition-of-smallsat-manufacturer-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed Martin completes acquisition of smallsat manufacturer Terran Orbital
-- <a href="https://www.spacescout.info/2024/10/intelsat-33e-breakup-sends-shockwaves/" >🔗</a> **[Space Scout]** Intelsat 33e Breakup Sends Shockwaves
-- <a href="https://spacenews.com/tamarack-global-seeking-space-investments-for-72-million-fund/" >🔗</a> **[SpaceNews]** Tamarack Global seeking space investments for $72 million fund
-- <a href="https://spacenews.com/defining-dynamic-space-ops-how-data-intelligence-creates-flexibility-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defining dynamic space ops: How data intelligence creates flexibility for orbital warfare
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T170114">2024-10-30 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T173258">2024-10-30 17:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
