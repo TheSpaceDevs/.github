@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T110700">2024-10-30 11:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-9&location=Vandenberg SFB, CA, USA&dates=20241030T110700Z%2F20241030T112100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-9** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T110700">2024-10-30 11:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-9&location=Vandenberg SFB, CA, USA&dates=20241030T110700Z%2F20241030T120900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T211000">2024-10-30 21:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-13&location=Cape Canaveral SFS, FL, USA&dates=20241030T211000Z%2F20241031T010800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-13** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T070000">2024-10-31 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20241031T070000Z%2F20241031T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241102T064600">2024-11-02 06:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | DSN 3 (Kirameki 3)&location=Tanegashima Space Center, Japan&dates=20241102T064600Z%2F20241102T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | DSN 3 (Kirameki 3)** from Tanegashima Space Center, Japan.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-19-spacecraft-arrives-at-tiangong-for-crew-rotation/" >🔗</a> **[SpaceNews]** Shenzhou-19 spacecraft arrives at Tiangong for crew rotation
+- <a href="https://europeanspaceflight.com/jaxa-confirms-inaugural-callisto-flight-test-has-slipped-to-2026/" >🔗</a> **[European Spaceflight]** JAXA Confirms Inaugural Callisto Flight Test Has Slipped to 2026
 - <a href="https://spacepolicyonline.com/news/viper-passes-all-its-tests-but-future-still-uncertain/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Passes All Its Tests, But Future Still Uncertain
 - <a href="https://spacenews.com/solstar-poised-for-key-narrowband-communications-test/" >🔗</a> **[SpaceNews]** Solstar poised for key narrowband- communications test
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-on-its-way/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew On Its Way
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/dod-industrial-base-plan-targets-weak-links-in-supply-chains/" >🔗</a> **[SpaceNews]** DoD industrial base plan targets weak links in supply chains
 - <a href="https://www.nasa.gov/image-article/a-particular-lenticular-cloud/" >🔗</a> **[NASA]** A Particular Lenticular Cloud
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/" >🔗</a> **[NASA]** Station Science Top News: Oct. 25, 2024
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/carissa-arillo-testing-spacecraft-penning-the-owners-manuals/" >🔗</a> **[NASA]** Carissa Arillo: Testing Spacecraft, Penning the Owner’s Manuals
-- <a href="https://europeanspaceflight.com/avio-to-build-first-us-based-solid-rocket-motor-production-facility/" >🔗</a> **[European Spaceflight]** Avio to Build First US-Based Solid Rocket Motor Production Facility
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T100124">2024-10-30 10:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T103523">2024-10-30 10:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
