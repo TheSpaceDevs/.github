@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 9-9**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 10-13**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T110700">2024-10-30 11:07:00 UTC</a>.  Until
-then, this pad will have been used for 163
-out of 775 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T211000">2024-10-30 21:10:00 UTC</a>.  Until
+then, this pad will have been used for 268
+out of 982 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 20 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T231840">2024-11-04 23:18:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Ionosfera-M 1 &amp; 2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241104T231840Z%2F20241104T231840Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T022900">2024-11-05 02:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-31&location=Kennedy Space Center, FL, USA&dates=20241105T022900Z%2F20241105T022900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-31** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122200">2024-11-21 12:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122200Z%2F20241121T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T000000">2024-11-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Proba-3&location=Satish Dhawan Space Centre, India&dates=20241129T000000Z%2F20241129T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Proba-3** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,12 +105,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/10/28/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T120204">2024-10-30 12:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T124241">2024-10-30 12:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
