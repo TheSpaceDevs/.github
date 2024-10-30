@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tamarack-global-seeking-space-investments-for-72-million-fund/" >🔗</a> **[SpaceNews]** Tamarack Global seeking space investments for $72 million fund
+- <a href="https://spacenews.com/defining-dynamic-space-ops-how-data-intelligence-creates-flexibility-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defining dynamic space ops: How data intelligence creates flexibility for orbital warfare
 - <a href="https://spacenews.com/nro-shows-continued-interest-in-orbital-transfer-vehicles-and-spacecraft-multimanifesting/" >🔗</a> **[SpaceNews]** NRO shows continued interest in orbital transfer vehicles and spacecraft multimanifesting
 - <a href="https://spacenews.com/shenzhou-19-spacecraft-arrives-at-tiangong-for-crew-rotation/" >🔗</a> **[SpaceNews]** Shenzhou-19 spacecraft arrives at Tiangong for crew rotation
 - <a href="https://europeanspaceflight.com/jaxa-confirms-inaugural-callisto-flight-test-has-slipped-to-2026/" >🔗</a> **[European Spaceflight]** JAXA Confirms Inaugural Callisto Flight Test Has Slipped to 2026
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-on-its-way/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew On Its Way
 - <a href="https://spacenews.com/china-chooses-2-teams-to-develop-low-cost-space-station-cargo-spacecraft/" >🔗</a> **[SpaceNews]** China chooses 2 teams to develop low-cost space station cargo spacecraft
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/ken-iliff-engineering-40-years-of-success/" >🔗</a> **[NASA]** Ken Iliff: Engineering 40 Years of Success
-- <a href="https://spacenews.com/dod-industrial-base-plan-targets-weak-links-in-supply-chains/" >🔗</a> **[SpaceNews]** DoD industrial base plan targets weak links in supply chains
-- <a href="https://www.nasa.gov/image-article/a-particular-lenticular-cloud/" >🔗</a> **[NASA]** A Particular Lenticular Cloud
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T130620">2024-10-30 13:06:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T133438">2024-10-30 13:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
