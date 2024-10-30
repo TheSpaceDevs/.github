@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hello-earth-space-calling/" >🔗</a> **[NASA]** Hello Earth? Space Calling
+- <a href="https://www.nasaspaceflight.com/2024/10/blue-first-stage-testing/" >🔗</a> **[NASASpaceflight]** Blue Origin rolls out New Glenn’s first stage for testing
 - <a href="https://www.teslarati.com/elon-musk-explains-why-trump-white-house-would-benefit-spacex-starship/" >🔗</a> **[Teslarati]** Elon Musk explains why Trump White House would benefit SpaceX Starship
 - <a href="https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/" >🔗</a> **[NASA]** The Marshall Star for October 30, 2024
 - <a href="https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/" >🔗</a> **[NASA]** Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/" >🔗</a> **[NASA]** NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/" >🔗</a> **[NASA]** NASA to Launch Innovative Solar Coronagraph to Space Station
 - <a href="https://spacenews.com/nro-announces-space-tech-agreements-with-three-commercial-companies/" >🔗</a> **[SpaceNews]** NRO announces space tech agreements with three commercial companies
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-brings-drone-and-space-rover-to-air-show/" >🔗</a> **[NASA]** NASA Brings Drone and Space Rover to Air Show
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/" >🔗</a> **[NASA]** La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T193102">2024-10-30 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T200121">2024-10-30 20:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
