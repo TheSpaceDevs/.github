@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/elon-musk-explains-why-trump-white-house-would-benefit-spacex-starship/" >🔗</a> **[Teslarati]** Elon Musk explains why Trump White House would benefit SpaceX Starship
+- <a href="https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/" >🔗</a> **[NASA]** The Marshall Star for October 30, 2024
+- <a href="https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/" >🔗</a> **[NASA]** Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
 - <a href="https://www.nasa.gov/organizations/osbp/a-small-business-success-story-mentor-protege-agreements-drive-growth-in-aerospace-sector/" >🔗</a> **[NASA]** A Small Business Success Story: Mentor-Protégé Agreements Drive Growth in Aerospace Sector
 - <a href="https://www.nasa.gov/image-article/60-years-ago-lunar-landing-research-vehicle-takes-flight/" >🔗</a> **[NASA]** 60 Years Ago: Lunar Landing Research Vehicle Takes Flight
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/" >🔗</a> **[NASA]** NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nro-announces-space-tech-agreements-with-three-commercial-companies/" >🔗</a> **[SpaceNews]** NRO announces space tech agreements with three commercial companies
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-brings-drone-and-space-rover-to-air-show/" >🔗</a> **[NASA]** NASA Brings Drone and Space Rover to Air Show
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/" >🔗</a> **[NASA]** La NASA lleva un dron y un rover espacial a un espectáculo aéreo
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-31st-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 31st Station Resupply Launch, Arrival
-- <a href="https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/" >🔗</a> **[NASA]** NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
-- <a href="https://spacenews.com/earth-observation-startup-emerges-from-stealth-with-12-million/" >🔗</a> **[SpaceNews]** Earth-observation startup emerges from stealth with $12 million
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T190109">2024-10-30 19:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T193102">2024-10-30 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
