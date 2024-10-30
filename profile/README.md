@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/" >🔗</a> **[NASA]** NASA Technologies Named Among TIME Inventions of 2024
+- <a href="https://science.nasa.gov/blog/a-spooky-soliday-haunting-whispers-from-the-martian-landscape/" >🔗</a> **[NASA]** A Spooky Soliday: Haunting Whispers from the Martian Landscape
+- <a href="https://spacenews.com/lockheed-martin-completes-acquisition-of-smallsat-manufacturer-terran-orbital/" >🔗</a> **[SpaceNews]** Lockheed Martin completes acquisition of smallsat manufacturer Terran Orbital
+- <a href="https://www.spacescout.info/2024/10/intelsat-33e-breakup-sends-shockwaves/" >🔗</a> **[Space Scout]** Intelsat 33e Breakup Sends Shockwaves
 - <a href="https://spacenews.com/tamarack-global-seeking-space-investments-for-72-million-fund/" >🔗</a> **[SpaceNews]** Tamarack Global seeking space investments for $72 million fund
 - <a href="https://spacenews.com/defining-dynamic-space-ops-how-data-intelligence-creates-flexibility-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defining dynamic space ops: How data intelligence creates flexibility for orbital warfare
 - <a href="https://spacenews.com/nro-shows-continued-interest-in-orbital-transfer-vehicles-and-spacecraft-multimanifesting/" >🔗</a> **[SpaceNews]** NRO shows continued interest in orbital transfer vehicles and spacecraft multimanifesting
 - <a href="https://spacenews.com/shenzhou-19-spacecraft-arrives-at-tiangong-for-crew-rotation/" >🔗</a> **[SpaceNews]** Shenzhou-19 spacecraft arrives at Tiangong for crew rotation
 - <a href="https://europeanspaceflight.com/jaxa-confirms-inaugural-callisto-flight-test-has-slipped-to-2026/" >🔗</a> **[European Spaceflight]** JAXA Confirms Inaugural Callisto Flight Test Has Slipped to 2026
 - <a href="https://spacepolicyonline.com/news/viper-passes-all-its-tests-but-future-still-uncertain/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Passes All Its Tests, But Future Still Uncertain
-- <a href="https://spacenews.com/solstar-poised-for-key-narrowband-communications-test/" >🔗</a> **[SpaceNews]** Solstar poised for key narrowband- communications test
-- <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-on-its-way/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew On Its Way
-- <a href="https://spacenews.com/china-chooses-2-teams-to-develop-low-cost-space-station-cargo-spacecraft/" >🔗</a> **[SpaceNews]** China chooses 2 teams to develop low-cost space station cargo spacecraft
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/ken-iliff-engineering-40-years-of-success/" >🔗</a> **[NASA]** Ken Iliff: Engineering 40 Years of Success
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T150116">2024-10-30 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241030T153317">2024-10-30 15:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
