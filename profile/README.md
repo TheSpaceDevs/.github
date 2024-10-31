@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-updates-list-of-artemis-3-landing-sites/" >🔗</a> **[SpaceNews]** NASA updates list of Artemis 3 landing sites
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Happy_Heraween" >🔗</a> **[ESA]** Happy Heraween!
 - <a href="https://spacenews.com/viridian-develops-on-air-breathing-electric-propulsion/" >🔗</a> **[SpaceNews]** Viridian develops on air-breathing electric propulsion
 - <a href="https://science.nasa.gov/blog/sols-4348-4349-smoke-on-the-water/" >🔗</a> **[NASA]** Sols 4348-4349: Smoke on the Water
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/10/blue-first-stage-testing/" >🔗</a> **[NASASpaceflight]** Blue Origin rolls out New Glenn’s first stage for testing
 - <a href="https://www.teslarati.com/elon-musk-explains-why-trump-white-house-would-benefit-spacex-starship/" >🔗</a> **[Teslarati]** Elon Musk explains why Trump White House would benefit SpaceX Starship
 - <a href="https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/" >🔗</a> **[NASA]** The Marshall Star for October 30, 2024
-- <a href="https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/" >🔗</a> **[NASA]** Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T110119">2024-10-31 11:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T113100">2024-10-31 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
