@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Happy_Heraween" >🔗</a> **[ESA]** Happy Heraween!
 - <a href="https://spacenews.com/viridian-develops-on-air-breathing-electric-propulsion/" >🔗</a> **[SpaceNews]** Viridian develops on air-breathing electric propulsion
 - <a href="https://science.nasa.gov/blog/sols-4348-4349-smoke-on-the-water/" >🔗</a> **[NASA]** Sols 4348-4349: Smoke on the Water
 - <a href="https://spacenews.com/webinar-redesigning-space-the-power-of-collaboration/" >🔗</a> **[SpaceNews]** Protected: Webinar – Redesigning Space: The Power of Collaboration
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/elon-musk-explains-why-trump-white-house-would-benefit-spacex-starship/" >🔗</a> **[Teslarati]** Elon Musk explains why Trump White House would benefit SpaceX Starship
 - <a href="https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/" >🔗</a> **[NASA]** The Marshall Star for October 30, 2024
 - <a href="https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/" >🔗</a> **[NASA]** Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
-- <a href="https://www.nasa.gov/organizations/osbp/a-small-business-success-story-mentor-protege-agreements-drive-growth-in-aerospace-sector/" >🔗</a> **[NASA]** A Small Business Success Story: Mentor-Protégé Agreements Drive Growth in Aerospace Sector
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T100116">2024-10-31 10:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T103502">2024-10-31 10:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
