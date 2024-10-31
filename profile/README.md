@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viridian-develops-on-air-breathing-electric-propulsion/" >🔗</a> **[SpaceNews]** Viridian develops on air-breathing electric propulsion
 - <a href="https://science.nasa.gov/blog/sols-4348-4349-smoke-on-the-water/" >🔗</a> **[NASA]** Sols 4348-4349: Smoke on the Water
 - <a href="https://spacenews.com/webinar-redesigning-space-the-power-of-collaboration/" >🔗</a> **[SpaceNews]** Protected: Webinar – Redesigning Space: The Power of Collaboration
 - <a href="https://spacenews.com/space-force-opens-national-security-launch-contracts-to-new-players/" >🔗</a> **[SpaceNews]** Space Force opens national security launch contracts to new players
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/" >🔗</a> **[NASA]** The Marshall Star for October 30, 2024
 - <a href="https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/" >🔗</a> **[NASA]** Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
 - <a href="https://www.nasa.gov/organizations/osbp/a-small-business-success-story-mentor-protege-agreements-drive-growth-in-aerospace-sector/" >🔗</a> **[NASA]** A Small Business Success Story: Mentor-Protégé Agreements Drive Growth in Aerospace Sector
-- <a href="https://www.nasa.gov/image-article/60-years-ago-lunar-landing-research-vehicle-takes-flight/" >🔗</a> **[NASA]** 60 Years Ago: Lunar Landing Research Vehicle Takes Flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T050110">2024-10-31 05:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T053400">2024-10-31 05:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
