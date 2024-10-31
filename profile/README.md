@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb_and_Hubble_examine_spooky_galaxy_pair" >🔗</a> **[ESA]** Webb and Hubble examine spooky galaxy pair
+- <a href="https://www.nasa.gov/history/halloween-on-the-international-space-station-2024/" >🔗</a> **[NASA]** Halloween on the International Space Station
+- <a href="https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/" >🔗</a> **[NASA]** Artemis I Moon Tree Stewards
+- <a href="https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/" >🔗</a> **[NASA]** Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
 - <a href="https://spacenews.com/cas-space-of-china-aims-to-go-international/" >🔗</a> **[SpaceNews]** CAS Space of China aims to go international
 - <a href="https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/" >🔗</a> **[NASA]** ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Spooky_Earths_seen_by_Hera_s_HyperScout" >🔗</a> **[ESA]** Spooky Earths seen by Hera’s HyperScout
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Europe_says_farewell_to_eclipse-making_Proba-3" >🔗</a> **[ESA]** Europe says farewell to eclipse-making Proba-3
 - <a href="https://europeanspaceflight.com/cnes-to-develop-medical-imaging-tech-for-crewed-moon-and-mars-missions/" >🔗</a> **[European Spaceflight]** CNES to Develop Medical Imaging Tech for Crewed Moon and Mars Missions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster" >🔗</a> **[ESA]** Valencia flood disaster
-- <a href="https://spacenews.com/nasa-updates-list-of-artemis-3-landing-sites/" >🔗</a> **[SpaceNews]** NASA updates list of Artemis 3 landing sites
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Happy_Heraween" >🔗</a> **[ESA]** Happy Heraween!
-- <a href="https://spacenews.com/viridian-develops-on-air-breathing-electric-propulsion/" >🔗</a> **[SpaceNews]** Viridian develops on air-breathing electric propulsion
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T150112">2024-10-31 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T153311">2024-10-31 15:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
