@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/10/new-glenn-on-the-roll/" >🔗</a> **[Space Scout]** New Glenn on the Roll
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb_and_Hubble_examine_spooky_galaxy_pair" >🔗</a> **[ESA]** Webb and Hubble examine spooky galaxy pair
 - <a href="https://www.nasa.gov/history/halloween-on-the-international-space-station-2024/" >🔗</a> **[NASA]** Halloween on the International Space Station
 - <a href="https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/" >🔗</a> **[NASA]** Artemis I Moon Tree Stewards
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Spooky_Earths_seen_by_Hera_s_HyperScout" >🔗</a> **[ESA]** Spooky Earths seen by Hera’s HyperScout
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Europe_says_farewell_to_eclipse-making_Proba-3" >🔗</a> **[ESA]** Europe says farewell to eclipse-making Proba-3
 - <a href="https://europeanspaceflight.com/cnes-to-develop-medical-imaging-tech-for-crewed-moon-and-mars-missions/" >🔗</a> **[European Spaceflight]** CNES to Develop Medical Imaging Tech for Crewed Moon and Mars Missions
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster" >🔗</a> **[ESA]** Valencia flood disaster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T160126">2024-10-31 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T163550">2024-10-31 16:35:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
