@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Spooky_Earths_seen_by_Hera_s_HyperScout" >🔗</a> **[ESA]** Spooky Earths seen by Hera’s HyperScout
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Europe_says_farewell_to_eclipse-making_Proba-3" >🔗</a> **[ESA]** Europe says farewell to eclipse-making Proba-3
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster" >🔗</a> **[ESA]** Valencia flood disaster
 - <a href="https://spacenews.com/nasa-updates-list-of-artemis-3-landing-sites/" >🔗</a> **[SpaceNews]** NASA updates list of Artemis 3 landing sites
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/10/Happy_Heraween" >🔗</a> **[ESA]** Happy Heraween!
 - <a href="https://spacenews.com/viridian-develops-on-air-breathing-electric-propulsion/" >🔗</a> **[SpaceNews]** Viridian develops on air-breathing electric propulsion
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/webinar-redesigning-space-the-power-of-collaboration/" >🔗</a> **[SpaceNews]** Protected: Webinar – Redesigning Space: The Power of Collaboration
 - <a href="https://spacenews.com/space-force-opens-national-security-launch-contracts-to-new-players/" >🔗</a> **[SpaceNews]** Space Force opens national security launch contracts to new players
 - <a href="https://www.nasa.gov/image-article/hello-earth-space-calling/" >🔗</a> **[NASA]** Hello Earth? Space Calling
-- <a href="https://www.nasaspaceflight.com/2024/10/blue-first-stage-testing/" >🔗</a> **[NASASpaceflight]** Blue Origin rolls out New Glenn’s first stage for testing
-- <a href="https://www.teslarati.com/elon-musk-explains-why-trump-white-house-would-benefit-spacex-starship/" >🔗</a> **[Teslarati]** Elon Musk explains why Trump White House would benefit SpaceX Starship
-- <a href="https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/" >🔗</a> **[NASA]** The Marshall Star for October 30, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T120150">2024-10-31 12:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241031T124230">2024-10-31 12:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
