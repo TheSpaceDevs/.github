@@ -52,10 +52,10 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T231840">2024-11-04 23:18:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Ionosfera-M 1 &amp; 2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241104T231840Z%2F20241104T231840Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T022900">2024-11-05 02:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-31&location=Kennedy Space Center, FL, USA&dates=20241105T022900Z%2F20241105T022900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-31** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T074600">2024-11-05 07:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-10&location=Vandenberg SFB, CA, USA&dates=20241105T074600Z%2F20241105T114600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-10** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T225300">2024-11-07 22:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-69&location=Cape Canaveral SFS, FL, USA&dates=20241107T225300Z%2F20241108T025300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-69** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122200">2024-11-21 12:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122200Z%2F20241121T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T000000">2024-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kondor-FKA No.2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241130T000000Z%2F20241130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kondor-FKA No.2** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T000000">2024-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241130T000000Z%2F20241130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T000000">2024-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | BlackSky Gen-3 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241130T000000Z%2F20241130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | BlackSky Gen-3 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Join_the_Space_Resources_Challenge" >🔗</a> **[ESA]** Join the Space Resources Challenge
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Ross_Island_Antarctica" >🔗</a> **[ESA]** Earth from Space: Ross Island, Antarctica
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Space_is_closer_than_you_think_apply_now_to_the_ESA_Student_Internship_Programme" >🔗</a> **[ESA]** Space is closer than you think: apply now to the ESA Student Internship Programme
 - <a href="https://europeanspaceflight.com/european-commission-accepts-best-and-final-offer-for-iris2-constellation/" >🔗</a> **[European Spaceflight]** European Commission Accepts ‘Best-and-Final Offer’ for IRIS2 Constellation
 - <a href="https://science.nasa.gov/blog/sols-4350-4351-a-whole-team-effort/" >🔗</a> **[NASA]** Sols 4350-4351: A Whole Team Effort
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-praises-nasas-response-to-starliner-cft-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Praises NASA’s Response To Starliner CFT Anomalies
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europe-advances-delayed-sovereign-broadband-constellation-plan/" >🔗</a> **[SpaceNews]** Europe advances delayed sovereign broadband constellation plan
 - <a href="https://www.nasaspaceflight.com/2024/10/atlas-v-history/" >🔗</a> **[NASASpaceflight]** Atlas V set for final missions ahead of retirement
 - <a href="https://spacenews.com/voyager-space-taps-defense-industry-veteran-to-lead-national-security-business/" >🔗</a> **[SpaceNews]** Voyager Space taps defense industry veteran to lead national security business
-- <a href="https://www.nasa.gov/image-article/witch-nebula-casts-starry-spell/" >🔗</a> **[NASA]** Witch Nebula Casts Starry Spell
-- <a href="https://spacenews.com/members-of-congress-seek-details-on-chandra-funding-and-operations/" >🔗</a> **[SpaceNews]** Members of Congress seek details on Chandra funding and operations
-- <a href="https://www.spacescout.info/2024/10/new-glenn-on-the-roll/" >🔗</a> **[Space Scout]** New Glenn on the Roll
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T090109">2024-11-01 09:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T093216">2024-11-01 09:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
