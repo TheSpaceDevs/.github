@@ -93,14 +93,14 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Join_the_Space_Resources_Challenge" >🔗</a> **[ESA]** Join the Space Resources Challenge
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Ross_Island_Antarctica" >🔗</a> **[ESA]** Earth from Space: Ross Island, Antarctica
+- <a href="https://spacenews.com/chinese-launch-startup-cosmoleap-secures-funding-for-rocket-featuring-chopstick-recovery-system/" >🔗</a> **[SpaceNews]** Chinese launch startup Cosmoleap secures funding for rocket featuring chopstick recovery system
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Space_is_closer_than_you_think_apply_now_to_the_ESA_Student_Internship_Programme" >🔗</a> **[ESA]** Space is closer than you think: apply now to the ESA Student Internship Programme
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Advanced_space_tech_for_disaster_response_with_Smart-Connect" >🔗</a> **[ESA]** Advanced space tech for disaster response with Smart-Connect
 - <a href="https://europeanspaceflight.com/european-commission-accepts-best-and-final-offer-for-iris2-constellation/" >🔗</a> **[European Spaceflight]** European Commission Accepts ‘Best-and-Final Offer’ for IRIS2 Constellation
 - <a href="https://science.nasa.gov/blog/sols-4350-4351-a-whole-team-effort/" >🔗</a> **[NASA]** Sols 4350-4351: A Whole Team Effort
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-praises-nasas-response-to-starliner-cft-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Praises NASA’s Response To Starliner CFT Anomalies
 - <a href="https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/" >🔗</a> **[NASA]** International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 - <a href="https://spacenews.com/europe-advances-delayed-sovereign-broadband-constellation-plan/" >🔗</a> **[SpaceNews]** Europe advances delayed sovereign broadband constellation plan
-- <a href="https://www.nasaspaceflight.com/2024/10/atlas-v-history/" >🔗</a> **[NASASpaceflight]** Atlas V set for final missions ahead of retirement
-- <a href="https://spacenews.com/voyager-space-taps-defense-industry-veteran-to-lead-national-security-business/" >🔗</a> **[SpaceNews]** Voyager Space taps defense industry veteran to lead national security business
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T100121">2024-11-01 10:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T103520">2024-11-01 10:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
