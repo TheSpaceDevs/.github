@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4350-4351-a-whole-team-effort/" >🔗</a> **[NASA]** Sols 4350-4351: A Whole Team Effort
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-praises-nasas-response-to-starliner-cft-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Praises NASA’s Response To Starliner CFT Anomalies
 - <a href="https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/" >🔗</a> **[NASA]** International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 - <a href="https://spacenews.com/europe-advances-delayed-sovereign-broadband-constellation-plan/" >🔗</a> **[SpaceNews]** Europe advances delayed sovereign broadband constellation plan
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/members-of-congress-seek-details-on-chandra-funding-and-operations/" >🔗</a> **[SpaceNews]** Members of Congress seek details on Chandra funding and operations
 - <a href="https://www.spacescout.info/2024/10/new-glenn-on-the-roll/" >🔗</a> **[Space Scout]** New Glenn on the Roll
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb_and_Hubble_examine_spooky_galaxy_pair" >🔗</a> **[ESA]** Webb and Hubble examine spooky galaxy pair
-- <a href="https://www.nasa.gov/history/halloween-on-the-international-space-station-2024/" >🔗</a> **[NASA]** Halloween on the International Space Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T050109">2024-11-01 05:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T053336">2024-11-01 05:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
