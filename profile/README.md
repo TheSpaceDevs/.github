@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astranis-partners-with-xona-space-for-u-s-military-gps-backup-program/" >🔗</a> **[SpaceNews]** Astranis partners with Xona Space for U.S. military GPS backup program
+- <a href="https://www.nasa.gov/general/nasa-awards-contract-for-refuse-and-recycling-services/" >🔗</a> **[NASA]** NASA Awards Contract for Refuse and Recycling Services
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/" >🔗</a> **[NASA]** NASA’s New Edition of Graphic Novel Features Europa Clipper
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/" >🔗</a> **[NASA]** From Mars Rovers to Factory Assembly Lines
 - <a href="https://www.nasaspaceflight.com/2024/11/roberts-road-10-31-24/" >🔗</a> **[NASASpaceflight]** Starship preparations to return to the Roberts Road facility
 - <a href="https://www.cnbc.com/2024/11/01/space-force-alternative-gps-network-astranis.html" >🔗</a> **[CNBC]** Losing GPS could cost billions, so the Space Force is having companies like Astranis build a backup network
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-carlos-fontanot-the-imagery-manager-leaving-a-legacy-of-visual-storytelling/" >🔗</a> **[NASA]** Station Nation: Meet Carlos Fontanot, the Imagery Manager Leaving a Legacy of Visual Storytelling
 - <a href="https://www.nasa.gov/image-article/nasa-ames-recognizes-representative-eshoo-for-her-32-years-of-service/" >🔗</a> **[NASA]** NASA Ames Recognizes Representative Eshoo for Her 32 Years of Service
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-lane-polak/" >🔗</a> **[NASA]** I am Artemis: Lane Polak
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-november-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2024 Skywatching Tips from NASA
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_October_-_01_November_2024" >🔗</a> **[ESA]** Week in images: 28 October - 01 November 2024
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-8-astronauts-to-discuss-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-8 Astronauts to Discuss Science Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T200111">2024-11-01 20:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T203226">2024-11-01 20:32:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
