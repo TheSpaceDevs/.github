@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/globalstar-soars-on-apples-1-5-billion-satellite-investment/" >🔗</a> **[SpaceNews]** Globalstar soars on Apple’s $1.5 billion satellite investment
 - <a href="https://spacenews.com/astranis-partners-with-xona-space-for-u-s-military-gps-backup-program/" >🔗</a> **[SpaceNews]** Astranis partners with Xona Space for U.S. military GPS backup program
 - <a href="https://www.nasa.gov/general/nasa-awards-contract-for-refuse-and-recycling-services/" >🔗</a> **[NASA]** NASA Awards Contract for Refuse and Recycling Services
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/" >🔗</a> **[NASA]** NASA’s New Edition of Graphic Novel Features Europa Clipper
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/" >🔗</a> **[NASA]** 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-carlos-fontanot-the-imagery-manager-leaving-a-legacy-of-visual-storytelling/" >🔗</a> **[NASA]** Station Nation: Meet Carlos Fontanot, the Imagery Manager Leaving a Legacy of Visual Storytelling
 - <a href="https://www.nasa.gov/image-article/nasa-ames-recognizes-representative-eshoo-for-her-32-years-of-service/" >🔗</a> **[NASA]** NASA Ames Recognizes Representative Eshoo for Her 32 Years of Service
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-lane-polak/" >🔗</a> **[NASA]** I am Artemis: Lane Polak
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T210110">2024-11-01 21:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T213058">2024-11-01 21:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
