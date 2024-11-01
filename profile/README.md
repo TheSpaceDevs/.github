@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Join_the_Space_Resources_Challenge" >🔗</a> **[ESA]** Join the Space Resources Challenge
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Ross_Island_Antarctica" >🔗</a> **[ESA]** Earth from Space: Ross Island, Antarctica
-- <a href="https://spacenews.com/chinese-launch-startup-cosmoleap-secures-funding-for-rocket-featuring-chopstick-recovery-system/" >🔗</a> **[SpaceNews]** Chinese launch startup Cosmoleap secures funding for rocket featuring chopstick recovery system
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Space_is_closer_than_you_think_apply_now_to_the_ESA_Student_Internship_Programme" >🔗</a> **[ESA]** Space is closer than you think: apply now to the ESA Student Internship Programme
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Advanced_space_tech_for_disaster_response_with_Smart-Connect" >🔗</a> **[ESA]** Advanced space tech for disaster response with Smart-Connect
-- <a href="https://europeanspaceflight.com/european-commission-accepts-best-and-final-offer-for-iris2-constellation/" >🔗</a> **[European Spaceflight]** European Commission Accepts ‘Best-and-Final Offer’ for IRIS2 Constellation
-- <a href="https://science.nasa.gov/blog/sols-4350-4351-a-whole-team-effort/" >🔗</a> **[NASA]** Sols 4350-4351: A Whole Team Effort
-- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-praises-nasas-response-to-starliner-cft-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Praises NASA’s Response To Starliner CFT Anomalies
-- <a href="https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/" >🔗</a> **[NASA]** International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
-- <a href="https://spacenews.com/europe-advances-delayed-sovereign-broadband-constellation-plan/" >🔗</a> **[SpaceNews]** Europe advances delayed sovereign broadband constellation plan
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/" >🔗</a> **[NASA]** From Mars Rovers to Factory Assembly Lines
+- <a href="https://www.nasaspaceflight.com/2024/11/roberts-road-10-31-24/" >🔗</a> **[NASASpaceflight]** Starship preparations to return to the Roberts Road facility
+- <a href="https://www.cnbc.com/2024/11/01/space-force-alternative-gps-network-astranis.html" >🔗</a> **[CNBC]** Losing GPS could cost billions, so the Space Force is having companies like Astranis build a backup network
+- <a href="https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/" >🔗</a> **[NASA]** 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-carlos-fontanot-the-imagery-manager-leaving-a-legacy-of-visual-storytelling/" >🔗</a> **[NASA]** Station Nation: Meet Carlos Fontanot, the Imagery Manager Leaving a Legacy of Visual Storytelling
+- <a href="https://www.nasa.gov/image-article/nasa-ames-recognizes-representative-eshoo-for-her-32-years-of-service/" >🔗</a> **[NASA]** NASA Ames Recognizes Representative Eshoo for Her 32 Years of Service
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-lane-polak/" >🔗</a> **[NASA]** I am Artemis: Lane Polak
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-november-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2024 Skywatching Tips from NASA
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_October_-_01_November_2024" >🔗</a> **[ESA]** Week in images: 28 October - 01 November 2024
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-8-astronauts-to-discuss-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-8 Astronauts to Discuss Science Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T190121">2024-11-01 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T193110">2024-11-01 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
