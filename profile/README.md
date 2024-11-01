@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-praises-nasas-response-to-starliner-cft-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Praises NASA’s Response To Starliner CFT Anomalies
 - <a href="https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/" >🔗</a> **[NASA]** International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 - <a href="https://spacenews.com/europe-advances-delayed-sovereign-broadband-constellation-plan/" >🔗</a> **[SpaceNews]** Europe advances delayed sovereign broadband constellation plan
 - <a href="https://www.nasaspaceflight.com/2024/10/atlas-v-history/" >🔗</a> **[NASASpaceflight]** Atlas V set for final missions ahead of retirement
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2024/10/new-glenn-on-the-roll/" >🔗</a> **[Space Scout]** New Glenn on the Roll
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb_and_Hubble_examine_spooky_galaxy_pair" >🔗</a> **[ESA]** Webb and Hubble examine spooky galaxy pair
 - <a href="https://www.nasa.gov/history/halloween-on-the-international-space-station-2024/" >🔗</a> **[NASA]** Halloween on the International Space Station
-- <a href="https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/" >🔗</a> **[NASA]** Artemis I Moon Tree Stewards
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T040120">2024-11-01 04:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241101T043451">2024-11-01 04:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
