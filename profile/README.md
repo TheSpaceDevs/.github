@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/03/ulas-vulcan-rocket-in-final-phase-of-certification-awaiting-first-national-security-launch-date/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket in “final phase” of certification, awaiting first national security launch date
 - <a href="https://europeanspaceflight.com/launch-of-dlr-reusable-flight-experiment-pushed-to-late-2026/" >🔗</a> **[European Spaceflight]** Launch of DLR Reusable Flight Experiment Pushed to Late 2026
 - <a href="https://spaceflightnow.com/2024/11/01/starship-booster-catch-brings-nasa-spacex-closer-to-artemis-3-moon-landing/" >🔗</a> **[Spaceflight Now]** Starship booster catch brings NASA, SpaceX closer to Artemis 3 Moon landing
 - <a href="https://spacenews.com/globalstar-soars-on-apples-1-5-billion-satellite-investment/" >🔗</a> **[SpaceNews]** Globalstar soars on Apple’s $1.5 billion satellite investment
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/" >🔗</a> **[NASA]** From Mars Rovers to Factory Assembly Lines
 - <a href="https://www.nasaspaceflight.com/2024/11/roberts-road-10-31-24/" >🔗</a> **[NASASpaceflight]** Starship preparations to return to the Roberts Road facility
 - <a href="https://www.cnbc.com/2024/11/01/space-force-alternative-gps-network-astranis.html" >🔗</a> **[CNBC]** Losing GPS could cost billions, so the Space Force is having companies like Astranis build a backup network
-- <a href="https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/" >🔗</a> **[NASA]** 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241103T120144">2024-11-03 12:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241103T124134">2024-11-03 12:41:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
