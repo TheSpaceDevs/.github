@@ -68,8 +68,8 @@ The following science instruments are carried on the satellites:
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T070000">2024-11-07 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-10&location=Vandenberg SFB, CA, USA&dates=20241107T070000Z%2F20241107T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T224600">2024-11-07 22:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-69&location=Cape Canaveral SFS, FL, USA&dates=20241107T224600Z%2F20241108T024600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-69** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T032900">2024-11-09 03:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241109T032900Z%2F20241109T035300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T223400">2024-11-13 22:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20241113T223400Z%2F20241113T230700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122200">2024-11-21 12:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122200Z%2F20241121T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T000000">2024-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kondor-FKA No.2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241130T000000Z%2F20241130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kondor-FKA No.2** from Vostochny Cosmodrome, Siberia, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,6 +105,8 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-flight-tests-of-mira-ii-demonstrator/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Flight Tests of MIRA II Demonstrator
+- <a href="https://spacenews.com/japan-launches-kirameki-3-military-communications-satellite-with-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Kirameki 3 military communications satellite with H3 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-3-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 3-9, 2024
 - <a href="https://spacenews.com/airbus-keeps-options-open-for-european-industry-consolidation/" >🔗</a> **[SpaceNews]** Airbus keeps options open for European industry consolidation
 - <a href="https://spacepolicyonline.com/news/shenzhou-18-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-18 Crew Back on Earth
@@ -113,8 +115,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://europeanspaceflight.com/launch-of-dlr-reusable-flight-experiment-pushed-to-late-2026/" >🔗</a> **[European Spaceflight]** Launch of DLR Reusable Flight Experiment Pushed to Late 2026
 - <a href="https://spaceflightnow.com/2024/11/01/starship-booster-catch-brings-nasa-spacex-closer-to-artemis-3-moon-landing/" >🔗</a> **[Spaceflight Now]** Starship booster catch brings NASA, SpaceX closer to Artemis 3 Moon landing
 - <a href="https://spacenews.com/globalstar-soars-on-apples-1-5-billion-satellite-investment/" >🔗</a> **[SpaceNews]** Globalstar soars on Apple’s $1.5 billion satellite investment
-- <a href="https://spacenews.com/astranis-partners-with-xona-space-for-u-s-military-gps-backup-program/" >🔗</a> **[SpaceNews]** Astranis partners with Xona Space for U.S. military GPS backup program
-- <a href="https://www.nasa.gov/general/nasa-awards-contract-for-refuse-and-recycling-services/" >🔗</a> **[NASA]** NASA Awards Contract for Refuse and Recycling Services
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T090126">2024-11-04 09:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T093323">2024-11-04 09:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
