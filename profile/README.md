@@ -105,16 +105,16 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eoi-space-achieves-milestone-with-successful-testing-of-flight-propulsion-system/" >🔗</a> **[SpaceNews]** EOI Space Achieves Milestone with Successful Testing of Flight Propulsion System
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-november-2024/" >🔗</a> **[NASA]** Lagniappe for November 2024
+- <a href="https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/" >🔗</a> **[NASA]** From Logistics to Legacy: NASA Employee is a Part of Something Great
+- <a href="https://www.nasa.gov/image-article/stennis-plants-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Stennis Plants Artemis Moon Tree
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-1-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 1, 2024
+- <a href="https://spaceflightnow.com/2024/11/04/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-on-cargo-resupply-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket on cargo resupply mission to the International Space Station
+- <a href="https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/" >🔗</a> **[NASA]** Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
+- <a href="https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/" >🔗</a> **[NASA]** NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 - <a href="https://www.nasa.gov/image-article/atlantis-begins-13th-space-trip/" >🔗</a> **[NASA]** Atlantis Begins 13th Space Trip
 - <a href="https://www.nasa.gov/missions/station/como-se-investiga-en-gravedad-cero-preguntamos-a-una-cientifica-de-la-nasa/" >🔗</a> **[NASA]** ¿Cómo se investiga en gravedad cero? Preguntamos a una científica de la NASA
-- <a href="https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/" >🔗</a> **[NASA]** Professional Learning: Using Children’s Books to Build STEM Habits of Mind
-- <a href="https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/" >🔗</a> **[NASA]** NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
-- <a href="https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/" >🔗</a> **[NASA]** Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
-- <a href="https://science.nasa.gov/get-involved/citizen-science/sadie-coffin-named-association-for-advancing-participatory-sciences-nasa-citizen-science-leaders-series-fellow/" >🔗</a> **[NASA]** Sadie Coffin Named Association for Advancing Participatory Sciences/NASA Citizen Science Leaders Series Fellow
-- <a href="https://www.spacescout.info/2024/11/op-ed-contracts-are-tools-not-one-size-fits-all/" >🔗</a> **[Space Scout]** Op-Ed: Contracts are Tools; Not One Size Fits All
-- <a href="https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/" >🔗</a> **[Arstechnica]** China reveals a new heavy lift rocket that is a clone of SpaceX’s Starship
-- <a href="https://spacenews.com/rocket-lab-confirms-plan-to-bid-for-pentagon-launch-contracts-with-new-medium-rocket/" >🔗</a> **[SpaceNews]** Rocket Lab confirms plan to bid for Pentagon launch contracts with new medium rocket
-- <a href="https://spacenews.com/antaris-and-seakr-engineering-llc-collaborate-to-drive-speed-and-efficiency-in-satellite-development/" >🔗</a> **[SpaceNews]** Antaris™ and SEAKR Engineering LLC Collaborate to Drive Speed and Efficiency in Satellite Development
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T210114">2024-11-04 21:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T213113">2024-11-04 21:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
