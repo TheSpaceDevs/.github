@@ -105,6 +105,7 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/atlantis-begins-13th-space-trip/" >🔗</a> **[NASA]** Atlantis Begins 13th Space Trip
 - <a href="https://www.nasa.gov/missions/station/como-se-investiga-en-gravedad-cero-preguntamos-a-una-cientifica-de-la-nasa/" >🔗</a> **[NASA]** ¿Cómo se investiga en gravedad cero? Preguntamos a una científica de la NASA
 - <a href="https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/" >🔗</a> **[NASA]** Professional Learning: Using Children’s Books to Build STEM Habits of Mind
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/" >🔗</a> **[NASA]** NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
@@ -114,7 +115,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/" >🔗</a> **[Arstechnica]** China reveals a new heavy lift rocket that is a clone of SpaceX’s Starship
 - <a href="https://spacenews.com/rocket-lab-confirms-plan-to-bid-for-pentagon-launch-contracts-with-new-medium-rocket/" >🔗</a> **[SpaceNews]** Rocket Lab confirms plan to bid for Pentagon launch contracts with new medium rocket
 - <a href="https://spacenews.com/antaris-and-seakr-engineering-llc-collaborate-to-drive-speed-and-efficiency-in-satellite-development/" >🔗</a> **[SpaceNews]** Antaris™ and SEAKR Engineering LLC Collaborate to Drive Speed and Efficiency in Satellite Development
-- <a href="https://spacenews.com/australia-abandons-7-billion-geostationary-satellite-program-to-explore-multi-orbit-options/" >🔗</a> **[SpaceNews]** Australia abandons $5 billion geostationary satellite program to explore ‘multi-orbit’ options
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T190118">2024-11-04 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T193055">2024-11-04 19:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
