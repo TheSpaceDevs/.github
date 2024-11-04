@@ -105,6 +105,7 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/antaris-and-seakr-engineering-llc-collaborate-to-drive-speed-and-efficiency-in-satellite-development/" >🔗</a> **[SpaceNews]** Antaris™ and SEAKR Engineering LLC Collaborate to Drive Speed and Efficiency in Satellite Development
 - <a href="https://spacenews.com/australia-abandons-7-billion-geostationary-satellite-program-to-explore-multi-orbit-options/" >🔗</a> **[SpaceNews]** Australia abandons $7 billion geostationary satellite program to explore ‘multi-orbit’ options
 - <a href="https://spacenews.com/five-years-of-the-space-forces-strategic-progress/" >🔗</a> **[SpaceNews]** Five years of the Space Force’s strategic progress
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-66-the-atlas-3-mission-to-study-the-earths-atmosphere/" >🔗</a> **[NASA]** 30 Years Ago: STS-66, the ATLAS-3 Mission to Study the Earth’s Atmosphere
@@ -114,7 +115,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-3-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 3-9, 2024
 - <a href="https://spacenews.com/airbus-keeps-options-open-for-european-industry-consolidation/" >🔗</a> **[SpaceNews]** Airbus keeps options open for European industry consolidation
 - <a href="https://spacepolicyonline.com/news/shenzhou-18-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-18 Crew Back on Earth
-- <a href="https://spaceflightnow.com/2024/11/03/live-coverage-spacex-to-launch-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Helium issue on Falcon 9 booster scrubs Starlink 6-77 mission at Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T150124">2024-11-04 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T153331">2024-11-04 15:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
