@@ -105,16 +105,16 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/" >🔗</a> **[NASA]** Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
+- <a href="https://science.nasa.gov/get-involved/citizen-science/sadie-coffin-named-association-for-advancing-participatory-sciences-nasa-citizen-science-leaders-series-fellow/" >🔗</a> **[NASA]** Sadie Coffin Named Association for Advancing Participatory Sciences/NASA Citizen Science Leaders Series Fellow
+- <a href="https://www.spacescout.info/2024/11/op-ed-contracts-are-tools-not-one-size-fits-all/" >🔗</a> **[Space Scout]** Op-Ed: Contracts are Tools; Not One Size Fits All
+- <a href="https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/" >🔗</a> **[Arstechnica]** China reveals a new heavy lift rocket that is a clone of SpaceX’s Starship
 - <a href="https://spacenews.com/rocket-lab-confirms-plan-to-bid-for-pentagon-launch-contracts-with-new-medium-rocket/" >🔗</a> **[SpaceNews]** Rocket Lab confirms plan to bid for Pentagon launch contracts with new medium rocket
 - <a href="https://spacenews.com/antaris-and-seakr-engineering-llc-collaborate-to-drive-speed-and-efficiency-in-satellite-development/" >🔗</a> **[SpaceNews]** Antaris™ and SEAKR Engineering LLC Collaborate to Drive Speed and Efficiency in Satellite Development
 - <a href="https://spacenews.com/australia-abandons-7-billion-geostationary-satellite-program-to-explore-multi-orbit-options/" >🔗</a> **[SpaceNews]** Australia abandons $5 billion geostationary satellite program to explore ‘multi-orbit’ options
 - <a href="https://spacenews.com/five-years-of-the-space-forces-strategic-progress/" >🔗</a> **[SpaceNews]** Five years of the Space Force’s strategic progress
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-66-the-atlas-3-mission-to-study-the-earths-atmosphere/" >🔗</a> **[NASA]** 30 Years Ago: STS-66, the ATLAS-3 Mission to Study the Earth’s Atmosphere
 - <a href="https://spacenews.com/nasa-seeks-continuity-in-human-spaceflight-programs-in-next-administration/" >🔗</a> **[SpaceNews]** NASA seeks continuity in human spaceflight programs in next administration
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-flight-tests-of-mira-ii-demonstrator/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Flight Tests of MIRA II Demonstrator
-- <a href="https://spacenews.com/japan-launches-kirameki-3-military-communications-satellite-with-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Kirameki 3 military communications satellite with H3 rocket
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-3-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 3-9, 2024
-- <a href="https://spacenews.com/airbus-keeps-options-open-for-european-industry-consolidation/" >🔗</a> **[SpaceNews]** Airbus keeps options open for European industry consolidation
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T170114">2024-11-04 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T173228">2024-11-04 17:32:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
