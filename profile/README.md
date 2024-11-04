@@ -105,6 +105,7 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-seeks-continuity-in-human-spaceflight-programs-in-next-administration/" >🔗</a> **[SpaceNews]** NASA seeks continuity in human spaceflight programs in next administration
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-flight-tests-of-mira-ii-demonstrator/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Flight Tests of MIRA II Demonstrator
 - <a href="https://spacenews.com/japan-launches-kirameki-3-military-communications-satellite-with-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Kirameki 3 military communications satellite with H3 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-3-9-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 3-9, 2024
@@ -114,7 +115,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://spaceflightnow.com/2024/11/03/ulas-vulcan-rocket-in-final-phase-of-certification-awaiting-first-national-security-launch-date/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket in “final phase” of certification, awaiting first national security launch date
 - <a href="https://europeanspaceflight.com/launch-of-dlr-reusable-flight-experiment-pushed-to-late-2026/" >🔗</a> **[European Spaceflight]** Launch of DLR Reusable Flight Experiment Pushed to Late 2026
 - <a href="https://spaceflightnow.com/2024/11/01/starship-booster-catch-brings-nasa-spacex-closer-to-artemis-3-moon-landing/" >🔗</a> **[Spaceflight Now]** Starship booster catch brings NASA, SpaceX closer to Artemis 3 Moon landing
-- <a href="https://spacenews.com/globalstar-soars-on-apples-1-5-billion-satellite-investment/" >🔗</a> **[SpaceNews]** Globalstar soars on Apple’s $1.5 billion satellite investment
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T120156">2024-11-04 12:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T124241">2024-11-04 12:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
