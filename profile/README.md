@@ -105,6 +105,9 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/australia-abandons-7-billion-geostationary-satellite-program-to-explore-multi-orbit-options/" >🔗</a> **[SpaceNews]** Australia abandons $7 billion geostationary satellite program to explore ‘multi-orbit’ options
+- <a href="https://spacenews.com/five-years-of-the-space-forces-strategic-progress/" >🔗</a> **[SpaceNews]** Five years of the Space Force’s strategic progress
+- <a href="https://www.nasa.gov/history/30-years-ago-sts-66-the-atlas-3-mission-to-study-the-earths-atmosphere/" >🔗</a> **[NASA]** 30 Years Ago: STS-66, the ATLAS-3 Mission to Study the Earth’s Atmosphere
 - <a href="https://spacenews.com/nasa-seeks-continuity-in-human-spaceflight-programs-in-next-administration/" >🔗</a> **[SpaceNews]** NASA seeks continuity in human spaceflight programs in next administration
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-begins-flight-tests-of-mira-ii-demonstrator/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Begins Flight Tests of MIRA II Demonstrator
 - <a href="https://spacenews.com/japan-launches-kirameki-3-military-communications-satellite-with-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Kirameki 3 military communications satellite with H3 rocket
@@ -112,9 +115,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://spacenews.com/airbus-keeps-options-open-for-european-industry-consolidation/" >🔗</a> **[SpaceNews]** Airbus keeps options open for European industry consolidation
 - <a href="https://spacepolicyonline.com/news/shenzhou-18-crew-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-18 Crew Back on Earth
 - <a href="https://spaceflightnow.com/2024/11/03/live-coverage-spacex-to-launch-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Helium issue on Falcon 9 booster scrubs Starlink 6-77 mission at Cape Canaveral
-- <a href="https://spaceflightnow.com/2024/11/03/ulas-vulcan-rocket-in-final-phase-of-certification-awaiting-first-national-security-launch-date/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket in “final phase” of certification, awaiting first national security launch date
-- <a href="https://europeanspaceflight.com/launch-of-dlr-reusable-flight-experiment-pushed-to-late-2026/" >🔗</a> **[European Spaceflight]** Launch of DLR Reusable Flight Experiment Pushed to Late 2026
-- <a href="https://spaceflightnow.com/2024/11/01/starship-booster-catch-brings-nasa-spacex-closer-to-artemis-3-moon-landing/" >🔗</a> **[Spaceflight Now]** Starship booster catch brings NASA, SpaceX closer to Artemis 3 Moon landing
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T140118">2024-11-04 14:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241104T143430">2024-11-04 14:34:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
