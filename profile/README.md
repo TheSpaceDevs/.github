@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmore Space secures license for first orbital launch
+- <a href="https://spacepolicyonline.com/news/engineers-ignored-warning-signs-in-arecibo-telescope-collapse/" >🔗</a> **[SpacePolicyOnline.com]** Engineers Ignored Warning Signs in Arecibo Telescope Collapse
+- <a href="https://spacenews.com/anuvu-looks-to-heo-to-upgrade-inflight-wi-fi/" >🔗</a> **[SpaceNews]** Anuvu looks to HEO to upgrade inflight Wi-Fi
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/beyond-the-console-kenneth-attocknies-mission-to-bridge-cultures-at-nasa/" >🔗</a> **[NASA]** Beyond the Console: Kenneth Attocknie’s Mission to Bridge Cultures at NASA
 - <a href="https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/" >🔗</a> **[NASA]** Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/us-navy-fleet-training-launch-to-be-conducted-at-nasa-wallops/" >🔗</a> **[NASA]** U.S. Navy Fleet Training Launch to be Conducted at NASA Wallops
-- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
+- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
 - <a href="https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/" >🔗</a> **[Arstechnica]** After 31 cargo missions, NASA finds Dragon still has some new tricks
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites" >🔗</a> **[ESA]** Devastating floods in Spain witnessed by satellites
-- <a href="https://spacenews.com/latitude-hires-new-ceo/" >🔗</a> **[SpaceNews]** Latitude hires new CEO
-- <a href="https://spacenews.com/adel-al-saleh-ses-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Adel Al-Saleh, SES – Commercial Space Transformers
-- <a href="https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/" >🔗</a> **[NASA]** From Campus to Cosmos: NASA Grants Boost Student, University Innovation
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/Contract_signed_for_new_Arctic_Ocean_Surveillance_Precursor_mission" >🔗</a> **[ESA]** Contract signed for new Arctic Ocean Surveillance Precursor mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T220118">2024-11-05 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T223335">2024-11-05 22:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
