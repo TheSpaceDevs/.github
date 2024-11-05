@@ -92,6 +92,7 @@ Launch contract was signed less than 2 months before launch.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moon_waves_goodbye_to_Hera" >🔗</a> **[ESA]** Moon waves goodbye to Hera
 - <a href="https://spacepolicyonline.com/news/spacex-cargo-dragon-to-demonstrate-iss-reboost/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cargo Dragon To Demonstrate ISS Reboost
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-31st-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 31st SpaceX Resupply Mission to Station
 - <a href="https://spacenews.com/nasa-evaluating-next-steps-for-viper-lunar-rover-mission/" >🔗</a> **[SpaceNews]** NASA evaluating “next steps” for VIPER lunar rover mission
@@ -101,7 +102,6 @@ Launch contract was signed less than 2 months before launch.
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-november-2024/" >🔗</a> **[NASA]** Lagniappe for November 2024
 - <a href="https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/" >🔗</a> **[NASA]** From Logistics to Legacy: NASA Employee is a Part of Something Great
 - <a href="https://www.nasa.gov/image-article/stennis-plants-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Stennis Plants Artemis Moon Tree
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-1-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 1, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Launch contract was signed less than 2 months before launch.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T070113">2024-11-05 07:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T073116">2024-11-05 07:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
