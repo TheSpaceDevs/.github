@@ -92,6 +92,7 @@ Launch contract was signed less than 2 months before launch.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-cargo-dragon-to-demonstrate-iss-reboost/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cargo Dragon To Demonstrate ISS Reboost
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-31st-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 31st SpaceX Resupply Mission to Station
 - <a href="https://spacenews.com/nasa-evaluating-next-steps-for-viper-lunar-rover-mission/" >🔗</a> **[SpaceNews]** NASA evaluating “next steps” for VIPER lunar rover mission
 - <a href="https://science.nasa.gov/blog/sols-4352-4354-halloween-fright-night-on-mars/" >🔗</a> **[NASA]** Sols 4352-4354: Halloween Fright Night on Mars
@@ -101,7 +102,6 @@ Launch contract was signed less than 2 months before launch.
 - <a href="https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/" >🔗</a> **[NASA]** From Logistics to Legacy: NASA Employee is a Part of Something Great
 - <a href="https://www.nasa.gov/image-article/stennis-plants-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Stennis Plants Artemis Moon Tree
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-1-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 1, 2024
-- <a href="https://spaceflightnow.com/2024/11/04/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-on-cargo-resupply-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches 31st cargo resupply mission to the space station for NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Launch contract was signed less than 2 months before launch.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T050121">2024-11-05 05:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T053316">2024-11-05 05:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
