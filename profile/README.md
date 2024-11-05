@@ -93,6 +93,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4352-4354-halloween-fright-night-on-mars/" >🔗</a> **[NASA]** Sols 4352-4354: Halloween Fright Night on Mars
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-110424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches cargo resupply mission to ISS, Roscosmos and Rocket Lab set for launches
 - <a href="https://spacenews.com/eoi-space-achieves-milestone-with-successful-testing-of-flight-propulsion-system/" >🔗</a> **[SpaceNews]** EOI Space Achieves Milestone with Successful Testing of Flight Propulsion System
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-november-2024/" >🔗</a> **[NASA]** Lagniappe for November 2024
@@ -102,7 +103,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://spaceflightnow.com/2024/11/04/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-on-cargo-resupply-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket on cargo resupply mission to the International Space Station
 - <a href="https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/" >🔗</a> **[NASA]** Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
 - <a href="https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/" >🔗</a> **[NASA]** NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
-- <a href="https://www.nasa.gov/image-article/atlantis-begins-13th-space-trip/" >🔗</a> **[NASA]** Atlantis Begins 13th Space Trip
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T004529">2024-11-05 00:45:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T012810">2024-11-05 01:28:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
