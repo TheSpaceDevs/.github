@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/" >🔗</a> **[NASA]** Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/us-navy-fleet-training-launch-to-be-conducted-at-nasa-wallops/" >🔗</a> **[NASA]** U.S. Navy Fleet Training Launch to be Conducted at NASA Wallops
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/adel-al-saleh-ses-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Adel Al-Saleh, SES – Commercial Space Transformers
 - <a href="https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/" >🔗</a> **[NASA]** From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/Contract_signed_for_new_Arctic_Ocean_Surveillance_Precursor_mission" >🔗</a> **[ESA]** Contract signed for new Arctic Ocean Surveillance Precursor mission
-- <a href="https://spacenews.com/rocket-lab-launches-undisclosed-commercial-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches undisclosed commercial payload
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T210113">2024-11-05 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T213129">2024-11-05 21:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
