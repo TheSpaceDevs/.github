@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/wallops/us-navy-fleet-training-launch-to-be-conducted-at-nasa-wallops/" >🔗</a> **[NASA]** U.S. Navy Fleet Training Launch to be Conducted at NASA Wallops
+- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
 - <a href="https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/" >🔗</a> **[Arstechnica]** After 31 cargo missions, NASA finds Dragon still has some new tricks
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites" >🔗</a> **[ESA]** Devastating floods in Spain witnessed by satellites
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/" >🔗</a> **[NASA]** From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/Contract_signed_for_new_Arctic_Ocean_Surveillance_Precursor_mission" >🔗</a> **[ESA]** Contract signed for new Arctic Ocean Surveillance Precursor mission
 - <a href="https://spacenews.com/rocket-lab-launches-undisclosed-commercial-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches undisclosed commercial payload
-- <a href="https://europeanspaceflight.com/uk-ministry-of-defence-entrusts-sstl-with-40m-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Ministry of Defence Entrusts SSTL with £40M Spy Satellite
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moon_waves_goodbye_to_Hera" >🔗</a> **[ESA]** Moon waves goodbye to Hera
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T200120">2024-11-05 20:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T203213">2024-11-05 20:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
