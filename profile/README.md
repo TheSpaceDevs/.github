@@ -20,35 +20,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Dragon CRS-2 SpX-31**. It is scheduled to be launched by *SpaceX*
+**Electron | Changes In Latitudes, Changes In Attitudes**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T022931">2024-11-05 02:29:31 UTC</a>.  Until
-then, this pad will have been used for 186
-out of 244 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T104200">2024-11-05 10:42:00 UTC</a>.  Until
+then, this pad will have been used for 22
+out of 49 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Resupply* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Communications* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  31st commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
-
-Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.
+  Launch of a yet to identified satellite to SSO for an undisclosed customer. The customer is suspected to be Low Earth Orbit communication satellite constellation operator E-Space.
+Launch contract was signed less than 2 months before launch.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T022931">2024-11-05 02:29:31 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-31&location=Kennedy Space Center, FL, USA&dates=20241105T022931Z%2F20241105T022931Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-31** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T104200">2024-11-05 10:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Changes In Latitudes, Changes In Attitudes&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241105T104200Z%2F20241105T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Changes In Latitudes, Changes In Attitudes** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T212700">2024-11-05 21:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-77&location=Cape Canaveral SFS, FL, USA&dates=20241105T212700Z%2F20241106T010500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-77** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T035400">2024-11-07 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241107T035400Z%2F20241107T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -58,6 +56,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T115200">2024-11-11 11:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-68&location=Cape Canaveral SFS, FL, USA&dates=20241111T115200Z%2F20241111T155200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-68** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T170700">2024-11-11 17:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Koreasat 6A&location=Kennedy Space Center, FL, USA&dates=20241111T170700Z%2F20241111T170700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Koreasat 6A** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T223400">2024-11-13 22:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20241113T223400Z%2F20241113T230700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122200">2024-11-21 12:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122200Z%2F20241121T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -93,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-evaluating-next-steps-for-viper-lunar-rover-mission/" >🔗</a> **[SpaceNews]** NASA evaluating “next steps” for VIPER lunar rover mission
 - <a href="https://science.nasa.gov/blog/sols-4352-4354-halloween-fright-night-on-mars/" >🔗</a> **[NASA]** Sols 4352-4354: Halloween Fright Night on Mars
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-110424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches cargo resupply mission to ISS, Roscosmos and Rocket Lab set for launches
 - <a href="https://spacenews.com/eoi-space-achieves-milestone-with-successful-testing-of-flight-propulsion-system/" >🔗</a> **[SpaceNews]** EOI Space Achieves Milestone with Successful Testing of Flight Propulsion System
@@ -102,21 +102,15 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-1-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 1, 2024
 - <a href="https://spaceflightnow.com/2024/11/04/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-on-cargo-resupply-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket on cargo resupply mission to the International Space Station
 - <a href="https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/" >🔗</a> **[NASA]** Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
-- <a href="https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/" >🔗</a> **[NASA]** NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 
 
 ### Launch-related News 🚀
 
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/" >🔗</a> **[NASA]** NASA to Launch Innovative Solar Coronagraph to Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-31st-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 31st Station Resupply Launch, Arrival
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/" >🔗</a> **[NASA]** NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-31st-resupply-mission-to-launch-experiments-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 31st Resupply Mission to Launch Experiments to Station
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-31st-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 31st Resupply Launch to Space Station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T020138">2024-11-05 02:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T030344">2024-11-05 03:03:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
