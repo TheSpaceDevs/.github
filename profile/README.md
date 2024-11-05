@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
 - <a href="https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/" >🔗</a> **[Arstechnica]** After 31 cargo missions, NASA finds Dragon still has some new tricks
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites" >🔗</a> **[ESA]** Devastating floods in Spain witnessed by satellites
 - <a href="https://spacenews.com/latitude-hires-new-ceo/" >🔗</a> **[SpaceNews]** Latitude hires new CEO
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-undisclosed-commercial-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches undisclosed commercial payload
 - <a href="https://europeanspaceflight.com/uk-ministry-of-defence-entrusts-sstl-with-40m-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Ministry of Defence Entrusts SSTL with £40M Spy Satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moon_waves_goodbye_to_Hera" >🔗</a> **[ESA]** Moon waves goodbye to Hera
-- <a href="https://spacepolicyonline.com/news/spacex-cargo-dragon-to-demonstrate-iss-reboost/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cargo Dragon To Demonstrate ISS Reboost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T193056">2024-11-05 19:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T200120">2024-11-05 20:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
