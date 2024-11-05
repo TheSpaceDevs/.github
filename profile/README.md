@@ -101,7 +101,7 @@ Launch contract was signed less than 2 months before launch.
 - <a href="https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/" >🔗</a> **[NASA]** From Logistics to Legacy: NASA Employee is a Part of Something Great
 - <a href="https://www.nasa.gov/image-article/stennis-plants-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Stennis Plants Artemis Moon Tree
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-1-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 1, 2024
-- <a href="https://spaceflightnow.com/2024/11/04/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-on-cargo-resupply-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket on cargo resupply mission to the International Space Station
+- <a href="https://spaceflightnow.com/2024/11/04/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-on-cargo-resupply-mission-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX launches 31st cargo resupply mission to the space station for NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Launch contract was signed less than 2 months before launch.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T040122">2024-11-05 04:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T043407">2024-11-05 04:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
