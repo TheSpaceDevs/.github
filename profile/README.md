@@ -91,7 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/" >🔗</a> **[Arstechnica]** For the first time, a Dragon spacecraft will be used to move the space station
+- <a href="https://arstechnica.com/space/2024/11/for-the-first-time-a-dragon-spacecraft-will-be-used-to-move-the-space-station/" >🔗</a> **[Arstechnica]** After 31 cargo missions, NASA finds Dragon still has some new tricks
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites" >🔗</a> **[ESA]** Devastating floods in Spain witnessed by satellites
 - <a href="https://spacenews.com/latitude-hires-new-ceo/" >🔗</a> **[SpaceNews]** Latitude hires new CEO
 - <a href="https://spacenews.com/adel-al-saleh-ses-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Adel Al-Saleh, SES – Commercial Space Transformers
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T180124">2024-11-05 18:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T183535">2024-11-05 18:35:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
