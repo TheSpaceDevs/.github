@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/latitude-hires-new-ceo/" >🔗</a> **[SpaceNews]** Latitude hires new CEO
+- <a href="https://spacenews.com/adel-al-saleh-ses-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Adel Al-Saleh, SES – Commercial Space Transformers
 - <a href="https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/" >🔗</a> **[NASA]** From Campus to Cosmos: NASA Grants Boost Student, University Innovation
 - <a href="https://spacenews.com/rocket-lab-launches-undisclosed-commercial-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches undisclosed commercial payload
 - <a href="https://europeanspaceflight.com/uk-ministry-of-defence-entrusts-sstl-with-40m-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Ministry of Defence Entrusts SSTL with £40M Spy Satellite
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-31st-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 31st SpaceX Resupply Mission to Station
 - <a href="https://spacenews.com/nasa-evaluating-next-steps-for-viper-lunar-rover-mission/" >🔗</a> **[SpaceNews]** NASA evaluating “next steps” for VIPER lunar rover mission
 - <a href="https://science.nasa.gov/blog/sols-4352-4354-halloween-fright-night-on-mars/" >🔗</a> **[NASA]** Sols 4352-4354: Halloween Fright Night on Mars
-- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-110424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches cargo resupply mission to ISS, Roscosmos and Rocket Lab set for launches
-- <a href="https://spacenews.com/eoi-space-achieves-milestone-with-successful-testing-of-flight-propulsion-system/" >🔗</a> **[SpaceNews]** EOI Space Achieves Milestone with Successful Testing of Flight Propulsion System
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T150125">2024-11-05 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T153247">2024-11-05 15:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
