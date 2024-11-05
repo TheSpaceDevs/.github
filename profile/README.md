@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T104200">2024-11-05 10:42:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T105400">2024-11-05 10:54:00 UTC</a>.  Until
 then, this pad will have been used for 22
 out of 49 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -47,7 +47,7 @@ Launch contract was signed less than 2 months before launch.
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T104200">2024-11-05 10:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Changes In Latitudes, Changes In Attitudes&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241105T104200Z%2F20241105T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Changes In Latitudes, Changes In Attitudes** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T105400">2024-11-05 10:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Changes In Latitudes, Changes In Attitudes&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241105T105400Z%2F20241105T105400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Changes In Latitudes, Changes In Attitudes** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T203900">2024-11-06 20:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-77&location=Cape Canaveral SFS, FL, USA&dates=20241106T203900Z%2F20241107T003900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-77** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T035400">2024-11-07 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241107T035400Z%2F20241107T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T070000">2024-11-07 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-10&location=Vandenberg SFB, CA, USA&dates=20241107T070000Z%2F20241107T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-10** from Vandenberg SFB, CA, USA.
@@ -92,6 +92,7 @@ Launch contract was signed less than 2 months before launch.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-ministry-of-defence-entrusts-sstl-with-40m-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Ministry of Defence Entrusts SSTL with £40M Spy Satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moon_waves_goodbye_to_Hera" >🔗</a> **[ESA]** Moon waves goodbye to Hera
 - <a href="https://spacepolicyonline.com/news/spacex-cargo-dragon-to-demonstrate-iss-reboost/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cargo Dragon To Demonstrate ISS Reboost
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-31st-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 31st SpaceX Resupply Mission to Station
@@ -101,7 +102,6 @@ Launch contract was signed less than 2 months before launch.
 - <a href="https://spacenews.com/eoi-space-achieves-milestone-with-successful-testing-of-flight-propulsion-system/" >🔗</a> **[SpaceNews]** EOI Space Achieves Milestone with Successful Testing of Flight Propulsion System
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-november-2024/" >🔗</a> **[NASA]** Lagniappe for November 2024
 - <a href="https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/" >🔗</a> **[NASA]** From Logistics to Legacy: NASA Employee is a Part of Something Great
-- <a href="https://www.nasa.gov/image-article/stennis-plants-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Stennis Plants Artemis Moon Tree
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Launch contract was signed less than 2 months before launch.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T090120">2024-11-05 09:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T093204">2024-11-05 09:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
