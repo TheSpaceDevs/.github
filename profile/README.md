@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/" >🔗</a> **[NASA]** From Campus to Cosmos: NASA Grants Boost Student, University Innovation
+- <a href="https://spacenews.com/rocket-lab-launches-undisclosed-commercial-payload/" >🔗</a> **[SpaceNews]** Rocket Lab launches undisclosed commercial payload
 - <a href="https://europeanspaceflight.com/uk-ministry-of-defence-entrusts-sstl-with-40m-spy-satellite/" >🔗</a> **[European Spaceflight]** UK Ministry of Defence Entrusts SSTL with £40M Spy Satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moon_waves_goodbye_to_Hera" >🔗</a> **[ESA]** Moon waves goodbye to Hera
 - <a href="https://spacepolicyonline.com/news/spacex-cargo-dragon-to-demonstrate-iss-reboost/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Cargo Dragon To Demonstrate ISS Reboost
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4352-4354-halloween-fright-night-on-mars/" >🔗</a> **[NASA]** Sols 4352-4354: Halloween Fright Night on Mars
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-110424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches cargo resupply mission to ISS, Roscosmos and Rocket Lab set for launches
 - <a href="https://spacenews.com/eoi-space-achieves-milestone-with-successful-testing-of-flight-propulsion-system/" >🔗</a> **[SpaceNews]** EOI Space Achieves Milestone with Successful Testing of Flight Propulsion System
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-november-2024/" >🔗</a> **[NASA]** Lagniappe for November 2024
-- <a href="https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/" >🔗</a> **[NASA]** From Logistics to Legacy: NASA Employee is a Part of Something Great
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T130457">2024-11-05 13:04:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241105T133319">2024-11-05 13:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
