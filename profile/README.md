@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/" >🔗</a> **[NASA]** X-59’s Engine Started for Testing
 - <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/" >🔗</a> **[NASA]** El X-59 enciende su motor por primera vez rumbo al despegue
 - <a href="https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/" >🔗</a> **[NASA]** X-59 Fires Up its Engine for First Time on Its Way to Takeoff
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-new-rocket-for-crew-and-moon-to-launch-in-2026/" >🔗</a> **[SpaceNews]** China’s new rocket for crew and moon to launch in 2026
 - <a href="https://europeanspaceflight.com/latitude-names-new-ceo-ahead-of-zephyr-rockets-inaugural-flight/" >🔗</a> **[European Spaceflight]** Latitude Names New CEO Ahead of Zephyr Rocket’s Inaugural Flight
 - <a href="https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/" >🔗</a> **[NASA]** Sols 4355-4356: Weekend Success Brings Monday Best
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/3D-printed_rovers_play_spot_the_ball" >🔗</a> **[ESA]** 3D-printed rovers play spot the ball
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T193108">2024-11-06 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T200123">2024-11-06 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
