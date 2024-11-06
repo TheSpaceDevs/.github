@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/" >🔗</a> **[NASA]** X-59 Fires Up its Engine for First Time on Its Way to Takeoff
+- <a href="https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/" >🔗</a> **[NASA]** NASA Knows – How Can I Get Involved With NASA Research?
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-complete-mira-ii-rocket-powered-roll-test/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Completes MIRA II Rocket-Powered Roll Test
 - <a href="https://spacenews.com/restoring-nasas-original-mission/" >🔗</a> **[SpaceNews]** Restoring NASA’s original mission
 - <a href="https://spacenews.com/chinas-new-rocket-for-crew-and-moon-to-launch-in-2026/" >🔗</a> **[SpaceNews]** China’s new rocket for crew and moon to launch in 2026
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/3D-printed_rovers_play_spot_the_ball" >🔗</a> **[ESA]** 3D-printed rovers play spot the ball
 - <a href="https://spacenews.com/japan-poland-to-join-u-s-military-satellite-network/" >🔗</a> **[SpaceNews]** Japan, Poland to join U.S. military satellite network
 - <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmour Space secures license for first orbital launch
-- <a href="https://spacepolicyonline.com/news/engineers-ignored-warning-signs-in-arecibo-telescope-collapse/" >🔗</a> **[SpacePolicyOnline.com]** Engineers Ignored Warning Signs in Arecibo Telescope Collapse
-- <a href="https://spacenews.com/anuvu-looks-to-heo-to-upgrade-inflight-wi-fi/" >🔗</a> **[SpaceNews]** Anuvu looks to HEO to upgrade inflight Wi-Fi
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T170126">2024-11-06 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T173257">2024-11-06 17:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
