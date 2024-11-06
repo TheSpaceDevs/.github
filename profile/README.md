@@ -55,7 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T170700">2024-11-11 17:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Koreasat 6A&location=Kennedy Space Center, FL, USA&dates=20241111T170700Z%2F20241111T210700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Koreasat 6A** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T050700">2024-11-12 05:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-11&location=Vandenberg SFB, CA, USA&dates=20241112T050700Z%2F20241112T090700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-11** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T223400">2024-11-13 22:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20241113T223400Z%2F20241113T230700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122200">2024-11-21 12:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122200Z%2F20241121T122200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T220000">2024-11-18 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 6&location=SpaceX Starbase, TX, USA&dates=20241118T220000Z%2F20241118T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 6** from SpaceX Starbase, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/" >🔗</a> **[NASA]** El X-59 enciende su motor por primera vez rumbo al despegue
 - <a href="https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/" >🔗</a> **[NASA]** X-59 Fires Up its Engine for First Time on Its Way to Takeoff
 - <a href="https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/" >🔗</a> **[NASA]** NASA Knows – How Can I Get Involved With NASA Research?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/latitude-names-new-ceo-ahead-of-zephyr-rockets-inaugural-flight/" >🔗</a> **[European Spaceflight]** Latitude Names New CEO Ahead of Zephyr Rocket’s Inaugural Flight
 - <a href="https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/" >🔗</a> **[NASA]** Sols 4355-4356: Weekend Success Brings Monday Best
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/3D-printed_rovers_play_spot_the_ball" >🔗</a> **[ESA]** 3D-printed rovers play spot the ball
-- <a href="https://spacenews.com/japan-poland-to-join-u-s-military-satellite-network/" >🔗</a> **[SpaceNews]** Japan, Poland to join U.S. military satellite network
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T190114">2024-11-06 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T193108">2024-11-06 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
