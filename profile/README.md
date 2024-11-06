@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/" >🔗</a> **[NASA]** Integrating Relevant Science Investigations into Migrant Children Education
+- <a href="https://spacenews.com/u-s-space-command-expands-intelligence-sharing-program-with-commercial-firms/" >🔗</a> **[SpaceNews]** U.S. Space Command expands intelligence-sharing program with commercial firms
 - <a href="https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/" >🔗</a> **[Arstechnica]** The next Starship launch may occur in less than two weeks
 - <a href="https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/" >🔗</a> **[NASA]** Mars 2020 Perseverance Joins NASA’s Here to Observe Program
 - <a href="https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/" >🔗</a> **[NASA]** X-59’s Engine Started for Testing
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/" >🔗</a> **[NASA]** X-59 Fires Up its Engine for First Time on Its Way to Takeoff
 - <a href="https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/" >🔗</a> **[NASA]** NASA Knows – How Can I Get Involved With NASA Research?
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-complete-mira-ii-rocket-powered-roll-test/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Completes MIRA II Rocket-Powered Roll Test
-- <a href="https://spacenews.com/restoring-nasas-original-mission/" >🔗</a> **[SpaceNews]** Restoring NASA’s original mission
-- <a href="https://spacenews.com/chinas-new-rocket-for-crew-and-moon-to-launch-in-2026/" >🔗</a> **[SpaceNews]** China’s new rocket for crew and moon to launch in 2026
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T210119">2024-11-06 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T213111">2024-11-06 21:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
