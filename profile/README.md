@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/" >🔗</a> **[NASA]** El X-59 enciende su motor por primera vez rumbo al despegue
 - <a href="https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/" >🔗</a> **[NASA]** X-59 Fires Up its Engine for First Time on Its Way to Takeoff
 - <a href="https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/" >🔗</a> **[NASA]** NASA Knows – How Can I Get Involved With NASA Research?
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-complete-mira-ii-rocket-powered-roll-test/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Completes MIRA II Rocket-Powered Roll Test
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/" >🔗</a> **[NASA]** Sols 4355-4356: Weekend Success Brings Monday Best
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/3D-printed_rovers_play_spot_the_ball" >🔗</a> **[ESA]** 3D-printed rovers play spot the ball
 - <a href="https://spacenews.com/japan-poland-to-join-u-s-military-satellite-network/" >🔗</a> **[SpaceNews]** Japan, Poland to join U.S. military satellite network
-- <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmour Space secures license for first orbital launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T180122">2024-11-06 18:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T183537">2024-11-06 18:35:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
