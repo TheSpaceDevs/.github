@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/" >🔗</a> **[Arstechnica]** The next Starship launch may occur in less than two weeks
+- <a href="https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/" >🔗</a> **[NASA]** Mars 2020 Perseverance Joins NASA’s Here to Observe Program
 - <a href="https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/" >🔗</a> **[NASA]** X-59’s Engine Started for Testing
 - <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/" >🔗</a> **[NASA]** El X-59 enciende su motor por primera vez rumbo al despegue
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-complete-mira-ii-rocket-powered-roll-test/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Completes MIRA II Rocket-Powered Roll Test
 - <a href="https://spacenews.com/restoring-nasas-original-mission/" >🔗</a> **[SpaceNews]** Restoring NASA’s original mission
 - <a href="https://spacenews.com/chinas-new-rocket-for-crew-and-moon-to-launch-in-2026/" >🔗</a> **[SpaceNews]** China’s new rocket for crew and moon to launch in 2026
-- <a href="https://europeanspaceflight.com/latitude-names-new-ceo-ahead-of-zephyr-rockets-inaugural-flight/" >🔗</a> **[European Spaceflight]** Latitude Names New CEO Ahead of Zephyr Rocket’s Inaugural Flight
-- <a href="https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/" >🔗</a> **[NASA]** Sols 4355-4356: Weekend Success Brings Monday Best
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T200123">2024-11-06 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T203208">2024-11-06 20:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
