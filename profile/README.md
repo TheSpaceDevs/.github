@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/latitude-names-new-ceo-ahead-of-zephyr-rockets-inaugural-flight/" >🔗</a> **[European Spaceflight]** Latitude Names New CEO Ahead of Zephyr Rocket’s Inaugural Flight
 - <a href="https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/" >🔗</a> **[NASA]** Sols 4355-4356: Weekend Success Brings Monday Best
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/3D-printed_rovers_play_spot_the_ball" >🔗</a> **[ESA]** 3D-printed rovers play spot the ball
 - <a href="https://spacenews.com/japan-poland-to-join-u-s-military-satellite-network/" >🔗</a> **[SpaceNews]** Japan, Poland to join U.S. military satellite network
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/beyond-the-console-kenneth-attocknies-mission-to-bridge-cultures-at-nasa/" >🔗</a> **[NASA]** Beyond the Console: Kenneth Attocknie’s Mission to Bridge Cultures at NASA
 - <a href="https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/" >🔗</a> **[NASA]** Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/us-navy-fleet-training-launch-to-be-conducted-at-nasa-wallops/" >🔗</a> **[NASA]** U.S. Navy Fleet Training Launch to be Conducted at NASA Wallops
-- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T100126">2024-11-06 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T103455">2024-11-06 10:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
