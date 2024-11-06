@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-new-rocket-for-crew-and-moon-to-launch-in-2026/" >🔗</a> **[SpaceNews]** China’s new rocket for crew and moon to launch in 2026
 - <a href="https://europeanspaceflight.com/latitude-names-new-ceo-ahead-of-zephyr-rockets-inaugural-flight/" >🔗</a> **[European Spaceflight]** Latitude Names New CEO Ahead of Zephyr Rocket’s Inaugural Flight
 - <a href="https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/" >🔗</a> **[NASA]** Sols 4355-4356: Weekend Success Brings Monday Best
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/3D-printed_rovers_play_spot_the_ball" >🔗</a> **[ESA]** 3D-printed rovers play spot the ball
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/anuvu-looks-to-heo-to-upgrade-inflight-wi-fi/" >🔗</a> **[SpaceNews]** Anuvu looks to HEO to upgrade inflight Wi-Fi
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/beyond-the-console-kenneth-attocknies-mission-to-bridge-cultures-at-nasa/" >🔗</a> **[NASA]** Beyond the Console: Kenneth Attocknie’s Mission to Bridge Cultures at NASA
 - <a href="https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/" >🔗</a> **[NASA]** Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/us-navy-fleet-training-launch-to-be-conducted-at-nasa-wallops/" >🔗</a> **[NASA]** U.S. Navy Fleet Training Launch to be Conducted at NASA Wallops
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T120155">2024-11-06 12:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T124236">2024-11-06 12:42:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
