@@ -92,7 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/japan-poland-to-join-u-s-military-satellite-network/" >🔗</a> **[SpaceNews]** Japan, Poland to join U.S. military satellite network
-- <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmore Space secures license for first orbital launch
+- <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmour Space secures license for first orbital launch
 - <a href="https://spacepolicyonline.com/news/engineers-ignored-warning-signs-in-arecibo-telescope-collapse/" >🔗</a> **[SpacePolicyOnline.com]** Engineers Ignored Warning Signs in Arecibo Telescope Collapse
 - <a href="https://spacenews.com/anuvu-looks-to-heo-to-upgrade-inflight-wi-fi/" >🔗</a> **[SpaceNews]** Anuvu looks to HEO to upgrade inflight Wi-Fi
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/beyond-the-console-kenneth-attocknies-mission-to-bridge-cultures-at-nasa/" >🔗</a> **[NASA]** Beyond the Console: Kenneth Attocknie’s Mission to Bridge Cultures at NASA
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T004529">2024-11-06 00:45:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241106T012810">2024-11-06 01:28:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
