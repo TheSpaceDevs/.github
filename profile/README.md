@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-shares-rare-update-on-themis-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Shares Rare Update on Themis Reusable Booster Demonstrator
 - <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
 - <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX California launch slips two days
 - <a href="https://spacepolicyonline.com/news/what-will-a-second-trump-term-mean-for-space-policy/" >🔗</a> **[SpacePolicyOnline.com]** What Will A Second Trump Term Mean for Space Policy?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/" >🔗</a> **[Arstechnica]** The next Starship launch may occur in less than two weeks
 - <a href="https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/" >🔗</a> **[NASA]** Mars 2020 Perseverance Joins NASA’s Here to Observe Program
 - <a href="https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/" >🔗</a> **[NASA]** X-59’s Engine Started for Testing
-- <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Starlink 6-77 mission launch for a second time
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T090113">2024-11-07 09:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T093159">2024-11-07 09:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
