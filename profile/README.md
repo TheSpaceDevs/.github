@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
 - <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/what-will-a-second-trump-term-mean-for-space-policy/" >🔗</a> **[SpacePolicyOnline.com]** What Will A Second Trump Term Mean for Space Policy?
 - <a href="https://spacenews.com/spacex-plans-next-starship-flight-for-mid-november/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship flight for mid-November
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/" >🔗</a> **[NASA]** Mars 2020 Perseverance Joins NASA’s Here to Observe Program
 - <a href="https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/" >🔗</a> **[NASA]** X-59’s Engine Started for Testing
 - <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Starlink 6-77 mission launch for a second time
-- <a href="https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/" >🔗</a> **[NASA]** El X-59 enciende su motor por primera vez rumbo al despegue
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T012810">2024-11-07 01:28:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T020119">2024-11-07 02:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
