@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/earth-below/" >🔗</a> **[NASA]** Earth Below
 - <a href="https://www.nasa.gov/general/nasa-to-transform-in-space-manufacturing-with-laser-beam-welding-collaboration/" >🔗</a> **[NASA]** NASA to Transform In-Space Manufacturing with Laser Beam Welding Collaboration
 - <a href="https://www.nasa.gov/learning-resources/student-built-capsules/" >🔗</a> **[NASA]** Student-Built Capsules Endure Heat of Re-entry for NASA Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Snow_returns_to_Mount_Fuji" >🔗</a> **[ESA]** Snow returns to Mount Fuji
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/attention-students-nasa-launches-power-systems-student-essay-contest/" >🔗</a> **[NASA]** Attention Students: NASA Launches Power Systems Student Essay Contest
 - <a href="https://spacenews.com/bind-russia-new-arms-control-treaty-ban-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Bind Russia to a new arms control treaty to ban nuclear weapons in space
 - <a href="https://spacenews.com/nasa-msr-review-continues-despite-committee-leadership-change/" >🔗</a> **[SpaceNews]** NASA MSR review continues despite committee leadership change
-- <a href="https://spacenews.com/former-intelsat-executive-joins-lynk-global-as-ceo/" >🔗</a> **[SpaceNews]** Former Intelsat executive joins Lynk Global as CEO
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T180128">2024-11-07 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T183530">2024-11-07 18:35:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
