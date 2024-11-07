@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-msr-review-continues-despite-committee-leadership-change/" >🔗</a> **[SpaceNews]** NASA MSR review continues despite committee leadership change
 - <a href="https://spacenews.com/former-intelsat-executive-joins-lynk-global-as-ceo/" >🔗</a> **[SpaceNews]** Former Intelsat executive joins Lynk Global as CEO
 - <a href="https://europeanspaceflight.com/esa-shares-rare-update-on-themis-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Shares Rare Update on Themis Reusable Booster Demonstrator
 - <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/" >🔗</a> **[NASA]** Integrating Relevant Science Investigations into Migrant Children Education
 - <a href="https://spacenews.com/u-s-space-command-expands-intelligence-sharing-program-with-commercial-firms/" >🔗</a> **[SpaceNews]** U.S. Space Command expands intelligence-sharing program with commercial firms
 - <a href="https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/" >🔗</a> **[Arstechnica]** The next Starship launch may occur in less than two weeks
-- <a href="https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/" >🔗</a> **[NASA]** Mars 2020 Perseverance Joins NASA’s Here to Observe Program
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T120146">2024-11-07 12:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T124217">2024-11-07 12:42:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
