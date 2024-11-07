@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/former-intelsat-executive-joins-lynk-global-as-ceo/" >🔗</a> **[SpaceNews]** Former Intelsat executive joins Lynk Global as CEO
 - <a href="https://europeanspaceflight.com/esa-shares-rare-update-on-themis-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Shares Rare Update on Themis Reusable Booster Demonstrator
 - <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
 - <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX California launch slips two days
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-command-expands-intelligence-sharing-program-with-commercial-firms/" >🔗</a> **[SpaceNews]** U.S. Space Command expands intelligence-sharing program with commercial firms
 - <a href="https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/" >🔗</a> **[Arstechnica]** The next Starship launch may occur in less than two weeks
 - <a href="https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/" >🔗</a> **[NASA]** Mars 2020 Perseverance Joins NASA’s Here to Observe Program
-- <a href="https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/" >🔗</a> **[NASA]** X-59’s Engine Started for Testing
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T110124">2024-11-07 11:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T113059">2024-11-07 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
