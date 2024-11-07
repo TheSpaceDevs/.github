@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-to-transform-in-space-manufacturing-with-laser-beam-welding-collaboration/" >🔗</a> **[NASA]** NASA to Transform In-Space Manufacturing with Laser Beam Welding Collaboration
+- <a href="https://www.nasa.gov/learning-resources/student-built-capsules/" >🔗</a> **[NASA]** Student-Built Capsules Endure Heat of Re-entry for NASA Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Snow_returns_to_Mount_Fuji" >🔗</a> **[ESA]** Snow returns to Mount Fuji
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/studying-how-tides-affect-the-interiors-of-planets-and-moons/" >🔗</a> **[NASA]** NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Meet_ESA_s_SME_Office_at_Space_Tech_Expo_2024" >🔗</a> **[ESA]** Meet ESA’s SME Office at Space Tech Expo 2024
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_will_constantly_measure_Sun_s_energy_output" >🔗</a> **[ESA]** Proba-3 will constantly measure Sun’s energy output
 - <a href="https://www.nasa.gov/news-release/attention-students-nasa-launches-power-systems-student-essay-contest/" >🔗</a> **[NASA]** Attention Students: NASA Launches Power Systems Student Essay Contest
 - <a href="https://spacenews.com/bind-russia-new-arms-control-treaty-ban-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Bind Russia to a new arms control treaty to ban nuclear weapons in space
 - <a href="https://spacenews.com/nasa-msr-review-continues-despite-committee-leadership-change/" >🔗</a> **[SpaceNews]** NASA MSR review continues despite committee leadership change
 - <a href="https://spacenews.com/former-intelsat-executive-joins-lynk-global-as-ceo/" >🔗</a> **[SpaceNews]** Former Intelsat executive joins Lynk Global as CEO
-- <a href="https://europeanspaceflight.com/esa-shares-rare-update-on-themis-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Shares Rare Update on Themis Reusable Booster Demonstrator
-- <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
-- <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX California launch slips two days
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T170120">2024-11-07 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T173152">2024-11-07 17:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
