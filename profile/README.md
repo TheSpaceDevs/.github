@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_will_constantly_measure_Sun_s_energy_output" >🔗</a> **[ESA]** Proba-3 will constantly measure Sun’s energy output
+- <a href="https://www.nasa.gov/news-release/attention-students-nasa-launches-power-systems-student-essay-contest/" >🔗</a> **[NASA]** Attention Students: NASA Launches Power Systems Student Essay Contest
+- <a href="https://spacenews.com/bind-russia-new-arms-control-treaty-ban-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Bind Russia to a new arms control treaty to ban nuclear weapons in space
 - <a href="https://spacenews.com/nasa-msr-review-continues-despite-committee-leadership-change/" >🔗</a> **[SpaceNews]** NASA MSR review continues despite committee leadership change
 - <a href="https://spacenews.com/former-intelsat-executive-joins-lynk-global-as-ceo/" >🔗</a> **[SpaceNews]** Former Intelsat executive joins Lynk Global as CEO
 - <a href="https://europeanspaceflight.com/esa-shares-rare-update-on-themis-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Shares Rare Update on Themis Reusable Booster Demonstrator
 - <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
-- <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX California launch slips two days
+- <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX California launch slips two days
 - <a href="https://spacepolicyonline.com/news/what-will-a-second-trump-term-mean-for-space-policy/" >🔗</a> **[SpacePolicyOnline.com]** What Will A Second Trump Term Mean for Space Policy?
 - <a href="https://spacenews.com/spacex-plans-next-starship-flight-for-mid-november/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship flight for mid-November
-- <a href="https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/" >🔗</a> **[NASA]** Integrating Relevant Science Investigations into Migrant Children Education
-- <a href="https://spacenews.com/u-s-space-command-expands-intelligence-sharing-program-with-commercial-firms/" >🔗</a> **[SpaceNews]** U.S. Space Command expands intelligence-sharing program with commercial firms
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T140126">2024-11-07 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T143240">2024-11-07 14:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
