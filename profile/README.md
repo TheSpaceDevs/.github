@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_will_constantly_measure_Sun_s_energy_output" >🔗</a> **[ESA]** Proba-3 will constantly measure Sun’s energy output
 - <a href="https://spacenews.com/nasa-msr-review-continues-despite-committee-leadership-change/" >🔗</a> **[SpaceNews]** NASA MSR review continues despite committee leadership change
 - <a href="https://spacenews.com/former-intelsat-executive-joins-lynk-global-as-ceo/" >🔗</a> **[SpaceNews]** Former Intelsat executive joins Lynk Global as CEO
 - <a href="https://europeanspaceflight.com/esa-shares-rare-update-on-themis-reusable-booster-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Shares Rare Update on Themis Reusable Booster Demonstrator
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-plans-next-starship-flight-for-mid-november/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship flight for mid-November
 - <a href="https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/" >🔗</a> **[NASA]** Integrating Relevant Science Investigations into Migrant Children Education
 - <a href="https://spacenews.com/u-s-space-command-expands-intelligence-sharing-program-with-commercial-firms/" >🔗</a> **[SpaceNews]** U.S. Space Command expands intelligence-sharing program with commercial firms
-- <a href="https://arstechnica.com/space/2024/11/the-next-starship-launch-may-occur-in-less-than-two-weeks/" >🔗</a> **[Arstechnica]** The next Starship launch may occur in less than two weeks
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T130455">2024-11-07 13:04:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T133307">2024-11-07 13:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
