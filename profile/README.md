@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/oral-history-with-stephen-g-jurczyk-1962-2023/" >🔗</a> **[NASA]** Oral History with Stephen G. Jurczyk, 1962 – 2023
+- <a href="https://spacenews.com/viasat-seeking-telesat-leo-capacity-as-starlink-competition-mounts/" >🔗</a> **[SpaceNews]** Viasat seeking Telesat LEO capacity as Starlink competition mounts
+- <a href="https://www.nasa.gov/general/oral-history-with-mary-l-cleave-1947-2023/" >🔗</a> **[NASA]** Oral History with Mary L. Cleave, 1947 – 2023
 - <a href="https://www.nasa.gov/image-article/the-cast-and-crew-of-aint-too-proud-visit-nasa-langley/" >🔗</a> **[NASA]** The Cast and Crew of “Ain’t Too Proud” Visit NASA Langley
 - <a href="https://www.nasa.gov/humans-in-space/nasa-shares-space-food-insight-with-commercial-food-industry/" >🔗</a> **[NASA]** NASA Shares Space Food Insight with Commercial Food Industry
 - <a href="https://www.nasa.gov/general/oral-history-with-jon-a-mcbride-1943-2024/" >🔗</a> **[NASA]** Oral History with Jon A. McBride, 1943 – 2024
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-export-reforms-to-march-forward-amid-transition-to-new-administration/" >🔗</a> **[SpaceNews]** Space export reforms to march forward amid transition to new administration
 - <a href="https://www.nasaspaceflight.com/2024/11/core-stage-facility-expansion/" >🔗</a> **[NASASpaceflight]** Boeing finishing expansion of NASA SLS Core Stage production facilities at KSC
 - <a href="https://www.nasa.gov/image-article/earth-below/" >🔗</a> **[NASA]** Earth Below
-- <a href="https://www.nasa.gov/general/nasa-to-transform-in-space-manufacturing-with-laser-beam-welding-collaboration/" >🔗</a> **[NASA]** NASA to Transform In-Space Manufacturing with Laser Beam Welding Collaboration
-- <a href="https://www.nasa.gov/learning-resources/student-built-capsules/" >🔗</a> **[NASA]** Student-Built Capsules Endure Heat of Re-entry for NASA Science
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Snow_returns_to_Mount_Fuji" >🔗</a> **[ESA]** Snow returns to Mount Fuji
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T230111">2024-11-07 23:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T233137">2024-11-07 23:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
