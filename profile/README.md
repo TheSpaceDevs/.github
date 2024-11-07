@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Meet_ESA_s_SME_Office_at_Space_Tech_Expo_2024" >🔗</a> **[ESA]** Meet ESA’s SME Office at Space Tech Expo 2024
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_will_constantly_measure_Sun_s_energy_output" >🔗</a> **[ESA]** Proba-3 will constantly measure Sun’s energy output
 - <a href="https://www.nasa.gov/news-release/attention-students-nasa-launches-power-systems-student-essay-contest/" >🔗</a> **[NASA]** Attention Students: NASA Launches Power Systems Student Essay Contest
 - <a href="https://spacenews.com/bind-russia-new-arms-control-treaty-ban-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Bind Russia to a new arms control treaty to ban nuclear weapons in space
@@ -100,19 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/virgin-galactic-seeks-to-raise-money-to-accelerate-growth-of-spaceplane-fleet/" >🔗</a> **[SpaceNews]** Virgin Galactic seeks to raise money to accelerate growth of spaceplane fleet
 - <a href="https://spaceflightnow.com/2024/11/07/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX California launch slips two days
 - <a href="https://spacepolicyonline.com/news/what-will-a-second-trump-term-mean-for-space-policy/" >🔗</a> **[SpacePolicyOnline.com]** What Will A Second Trump Term Mean for Space Policy?
-- <a href="https://spacenews.com/spacex-plans-next-starship-flight-for-mid-november/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship flight for mid-November
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs Starlink 6-77 mission launch for a second time
+- <a href="https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX prepares for third attempt to launch the Starlink 6-77 mission from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-110424/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX launches cargo resupply mission to ISS, Roscosmos and Rocket Lab also launch
 - <a href="https://spaceflightnow.com/2024/11/03/live-coverage-spacex-to-launch-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Helium issue on Falcon 9 booster scrubs Starlink 6-77 mission at Cape Canaveral
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T150131">2024-11-07 15:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T153236">2024-11-07 15:32:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
