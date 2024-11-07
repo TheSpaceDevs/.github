@@ -48,7 +48,7 @@ into *an Unknown
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T032900">2024-11-09 03:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241109T032900Z%2F20241109T035300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T061400">2024-11-09 06:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-10&location=Vandenberg SFB, CA, USA&dates=20241109T061400Z%2F20241109T092600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-10** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T215400">2024-11-09 21:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-69&location=Cape Canaveral SFS, FL, USA&dates=20241109T215400Z%2F20241110T015400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-69** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T212800">2024-11-10 21:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-69&location=Cape Canaveral SFS, FL, USA&dates=20241110T212800Z%2F20241111T015900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-69** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T170700">2024-11-11 17:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Koreasat 6A&location=Kennedy Space Center, FL, USA&dates=20241111T170700Z%2F20241111T210700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Koreasat 6A** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T050700">2024-11-12 05:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-11&location=Vandenberg SFB, CA, USA&dates=20241112T050700Z%2F20241112T090700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-11** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T112600">2024-11-12 11:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-68&location=Cape Canaveral SFS, FL, USA&dates=20241112T112600Z%2F20241112T152600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-68** from Cape Canaveral SFS, FL, USA.
@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/the-cast-and-crew-of-aint-too-proud-visit-nasa-langley/" >🔗</a> **[NASA]** The Cast and Crew of “Ain’t Too Proud” Visit NASA Langley
+- <a href="https://www.nasa.gov/humans-in-space/nasa-shares-space-food-insight-with-commercial-food-industry/" >🔗</a> **[NASA]** NASA Shares Space Food Insight with Commercial Food Industry
+- <a href="https://www.nasa.gov/general/oral-history-with-jon-a-mcbride-1943-2024/" >🔗</a> **[NASA]** Oral History with Jon A. McBride, 1943 – 2024
+- <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Webinar – Transforming Geospatial Intelligence: Data Labeling for AI
+- <a href="https://spacenews.com/space-export-reforms-to-march-forward-amid-transition-to-new-administration/" >🔗</a> **[SpaceNews]** Space export reforms to march forward amid transition to new administration
 - <a href="https://www.nasaspaceflight.com/2024/11/core-stage-facility-expansion/" >🔗</a> **[NASASpaceflight]** Boeing finishing expansion of NASA SLS Core Stage production facilities at KSC
 - <a href="https://www.nasa.gov/image-article/earth-below/" >🔗</a> **[NASA]** Earth Below
 - <a href="https://www.nasa.gov/general/nasa-to-transform-in-space-manufacturing-with-laser-beam-welding-collaboration/" >🔗</a> **[NASA]** NASA to Transform In-Space Manufacturing with Laser Beam Welding Collaboration
 - <a href="https://www.nasa.gov/learning-resources/student-built-capsules/" >🔗</a> **[NASA]** Student-Built Capsules Endure Heat of Re-entry for NASA Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Snow_returns_to_Mount_Fuji" >🔗</a> **[ESA]** Snow returns to Mount Fuji
-- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/studying-how-tides-affect-the-interiors-of-planets-and-moons/" >🔗</a> **[NASA]** NASA-Funded Study Examines Tidal Effects on Planet and Moon Interiors
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Meet_ESA_s_SME_Office_at_Space_Tech_Expo_2024" >🔗</a> **[ESA]** Meet ESA’s SME Office at Space Tech Expo 2024
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_will_constantly_measure_Sun_s_energy_output" >🔗</a> **[ESA]** Proba-3 will constantly measure Sun’s energy output
-- <a href="https://www.nasa.gov/news-release/attention-students-nasa-launches-power-systems-student-essay-contest/" >🔗</a> **[NASA]** Attention Students: NASA Launches Power Systems Student Essay Contest
-- <a href="https://spacenews.com/bind-russia-new-arms-control-treaty-ban-nuclear-weapons-in-space/" >🔗</a> **[SpaceNews]** Bind Russia to a new arms control treaty to ban nuclear weapons in space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T210114">2024-11-07 21:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241107T213100">2024-11-07 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
