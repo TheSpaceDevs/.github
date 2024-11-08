@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-defends-selection-of-astrophysics-probe-mission-proposals/" >🔗</a> **[SpaceNews]** NASA defends selection of astrophysics probe mission proposals
+- <a href="https://spaceflightnow.com/2024/11/08/spacex-targets-starship-flight-6-launch-on-november-18/" >🔗</a> **[Spaceflight Now]** SpaceX targets Starship Flight 6 launch on November 18
 - <a href="https://www.nasa.gov/general/oral-history-with-stephen-g-jurczyk-1962-2023/" >🔗</a> **[NASA]** Oral History with Stephen G. Jurczyk, 1962 – 2023
 - <a href="https://spacenews.com/viasat-seeking-telesat-leo-capacity-as-starlink-competition-mounts/" >🔗</a> **[SpaceNews]** Viasat seeking Telesat LEO capacity as Starlink competition mounts
 - <a href="https://www.nasa.gov/general/oral-history-with-mary-l-cleave-1947-2023/" >🔗</a> **[NASA]** Oral History with Mary L. Cleave, 1947 – 2023
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/oral-history-with-jon-a-mcbride-1943-2024/" >🔗</a> **[NASA]** Oral History with Jon A. McBride, 1943 – 2024
 - <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Webinar – Transforming Geospatial Intelligence: Data Labeling for AI
 - <a href="https://spacenews.com/space-export-reforms-to-march-forward-amid-transition-to-new-administration/" >🔗</a> **[SpaceNews]** Space export reforms to march forward amid transition to new administration
-- <a href="https://www.nasaspaceflight.com/2024/11/core-stage-facility-expansion/" >🔗</a> **[NASASpaceflight]** Boeing finishing expansion of NASA SLS Core Stage production facilities at KSC
-- <a href="https://www.nasa.gov/image-article/earth-below/" >🔗</a> **[NASA]** Earth Below
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T004531">2024-11-08 00:45:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T012808">2024-11-08 01:28:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
