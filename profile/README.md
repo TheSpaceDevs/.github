@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-8-will-reveal-hospitalization-details-in-fullness-of-time/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Will Reveal Hospitalization Details “In Fullness of Time”
+- <a href="https://science.nasa.gov/blog/sols-4357-4358-turning-west/" >🔗</a> **[NASA]** Sols 4357–4358: Turning West
+- <a href="https://spacenews.com/ex-google-exec-attracts-financial-backers-for-leo-megaconstellation/" >🔗</a> **[SpaceNews]** Ex-Google exec attracts financial backers for LEO megaconstellation
 - <a href="https://www.nasa.gov/general/nasa-ames-astrogram-september-october-2024/" >🔗</a> **[NASA]** NASA Ames Astrogram – September/October 2024
 - <a href="https://spacenews.com/next-ariane-6-launch-slips-to-early-2025/" >🔗</a> **[SpaceNews]** Next Ariane 6 launch slips to early 2025
 - <a href="https://www.nasaspaceflight.com/2024/11/pld-space-miura-lince/" >🔗</a> **[NASASpaceflight]** PLD Space unveils ambitious plan for the next decade
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/" >🔗</a> **[NASA]** NASA Named one of America’s Best Employers for Veterans
 - <a href="https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/" >🔗</a> **[Arstechnica]** Space policy is about to get pretty wild, y’all
 - <a href="https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/" >🔗</a> **[NASA]** Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-joe-vermette/" >🔗</a> **[NASA]** I Am Artemis: Joe Vermette
-- <a href="https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/" >🔗</a> **[NASA]** Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/ksc-sustainability/nasa-kennedys-applied-chemistry-lab-achieves-agency-first/" >🔗</a> **[NASA]** NASA Kennedy’s Applied Chemistry Lab Achieves Agency First
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T230123">2024-11-08 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T233058">2024-11-08 23:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
