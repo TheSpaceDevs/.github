@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/" >🔗</a> **[NASA]** Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/ksc-sustainability/nasa-kennedys-applied-chemistry-lab-achieves-agency-first/" >🔗</a> **[NASA]** NASA Kennedy’s Applied Chemistry Lab Achieves Agency First
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_November_2024" >🔗</a> **[ESA]** Week in images: 04-08 November 2024
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/" >🔗</a> **[NASA]** 40 Years Ago: STS-51A – “The Ace Repo Company”
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/" >🔗</a> **[NASA]** Hubble Captures a Galaxy with Many Lights
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/blacksky-buys-thales-alenias-stake-in-leostella-joint-venture/" >🔗</a> **[SpaceNews]** BlackSky buys Thales Alenia’s stake in LeoStella joint venture
 - <a href="https://europeanspaceflight.com/czechia-partners-with-vast-for-possible-private-astronaut-mission/" >🔗</a> **[European Spaceflight]** Czechia Partners With VAST for Possible Private Astronaut Mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Earth_from_Space_Autumn_foliage_across_Europe" >🔗</a> **[ESA]** Earth from Space: Autumn foliage across Europe
-- <a href="https://www.esa.int/Enabling_Support/Operations/Hera_burns_towards_Mars" >🔗</a> **[ESA]** Hera burns towards Mars
-- <a href="https://spacenews.com/nasa-defends-selection-of-astrophysics-probe-mission-proposals/" >🔗</a> **[SpaceNews]** NASA defends selection of astrophysics probe mission proposals
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T160130">2024-11-08 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T163544">2024-11-08 16:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
