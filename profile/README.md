@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-intelligence-divests-sensor-technology-business-to-arka-group/" >🔗</a> **[SpaceNews]** Maxar Intelligence divests sensor technology business to ARKA Group
+- <a href="https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/" >🔗</a> **[NASA]** NASA Named one of America’s Best Employers for Veterans
+- <a href="https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/" >🔗</a> **[Arstechnica]** Space policy is about to get pretty wild, y’all
 - <a href="https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/" >🔗</a> **[NASA]** Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-joe-vermette/" >🔗</a> **[NASA]** I Am Artemis: Joe Vermette
 - <a href="https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/" >🔗</a> **[NASA]** Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_November_2024" >🔗</a> **[ESA]** Week in images: 04-08 November 2024
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/" >🔗</a> **[NASA]** 40 Years Ago: STS-51A – “The Ace Repo Company”
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/" >🔗</a> **[NASA]** Hubble Captures a Galaxy with Many Lights
-- <a href="https://spacenews.com/vast-signs-agreement-with-czech-government/" >🔗</a> **[SpaceNews]** Vast signs agreement with Czech government
-- <a href="https://spacenews.com/sierra-space-expands-spaceplane-fleet-with-in-house-mission-control/" >🔗</a> **[SpaceNews]** Sierra Space expands spaceplane fleet with in-house mission control
-- <a href="https://spacenews.com/blacksky-buys-thales-alenias-stake-in-leostella-joint-venture/" >🔗</a> **[SpaceNews]** BlackSky buys Thales Alenia’s stake in LeoStella joint venture
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T190108">2024-11-08 19:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T193107">2024-11-08 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
