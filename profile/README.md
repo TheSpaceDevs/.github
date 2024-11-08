@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/next-ariane-6-launch-slips-to-early-2025/" >🔗</a> **[SpaceNews]** Next Ariane 6 launch slips to early 2025
 - <a href="https://www.nasaspaceflight.com/2024/11/pld-space-miura-lince/" >🔗</a> **[NASASpaceflight]** PLD Space unveils ambitious plan for the next decade
 - <a href="https://spacenews.com/maxar-intelligence-divests-sensor-technology-business-to-arka-group/" >🔗</a> **[SpaceNews]** Maxar Intelligence divests sensor technology business to ARKA Group
 - <a href="https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/" >🔗</a> **[NASA]** NASA Named one of America’s Best Employers for Veterans
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/" >🔗</a> **[NASA]** Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/ksc-sustainability/nasa-kennedys-applied-chemistry-lab-achieves-agency-first/" >🔗</a> **[NASA]** NASA Kennedy’s Applied Chemistry Lab Achieves Agency First
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_November_2024" >🔗</a> **[ESA]** Week in images: 04-08 November 2024
-- <a href="https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/" >🔗</a> **[NASA]** 40 Years Ago: STS-51A – “The Ace Repo Company”
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T213059">2024-11-08 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T220113">2024-11-08 22:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
