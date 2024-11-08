@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_November_2024" >🔗</a> **[ESA]** Week in images: 04-08 November 2024
+- <a href="https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/" >🔗</a> **[NASA]** 40 Years Ago: STS-51A – “The Ace Repo Company”
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/" >🔗</a> **[NASA]** Hubble Captures a Galaxy with Many Lights
 - <a href="https://spacenews.com/vast-signs-agreement-with-czech-government/" >🔗</a> **[SpaceNews]** Vast signs agreement with Czech government
 - <a href="https://spacenews.com/sierra-space-expands-spaceplane-fleet-with-in-house-mission-control/" >🔗</a> **[SpaceNews]** Sierra Space expands spaceplane fleet with in-house mission control
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Earth_from_Space_Autumn_foliage_across_Europe" >🔗</a> **[ESA]** Earth from Space: Autumn foliage across Europe
 - <a href="https://www.esa.int/Enabling_Support/Operations/Hera_burns_towards_Mars" >🔗</a> **[ESA]** Hera burns towards Mars
 - <a href="https://spacenews.com/nasa-defends-selection-of-astrophysics-probe-mission-proposals/" >🔗</a> **[SpaceNews]** NASA defends selection of astrophysics probe mission proposals
-- <a href="https://spaceflightnow.com/2024/11/08/spacex-targets-starship-flight-6-launch-on-november-18/" >🔗</a> **[Spaceflight Now]** SpaceX targets Starship Flight 6 launch on November 18
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T150125">2024-11-08 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T153235">2024-11-08 15:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
