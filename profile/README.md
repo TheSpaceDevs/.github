@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/Hera_burns_towards_Mars" >🔗</a> **[ESA]** Hera burns towards Mars
 - <a href="https://spacenews.com/nasa-defends-selection-of-astrophysics-probe-mission-proposals/" >🔗</a> **[SpaceNews]** NASA defends selection of astrophysics probe mission proposals
 - <a href="https://spaceflightnow.com/2024/11/08/spacex-targets-starship-flight-6-launch-on-november-18/" >🔗</a> **[Spaceflight Now]** SpaceX targets Starship Flight 6 launch on November 18
 - <a href="https://www.nasa.gov/general/oral-history-with-stephen-g-jurczyk-1962-2023/" >🔗</a> **[NASA]** Oral History with Stephen G. Jurczyk, 1962 – 2023
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/humans-in-space/nasa-shares-space-food-insight-with-commercial-food-industry/" >🔗</a> **[NASA]** NASA Shares Space Food Insight with Commercial Food Industry
 - <a href="https://www.nasa.gov/general/oral-history-with-jon-a-mcbride-1943-2024/" >🔗</a> **[NASA]** Oral History with Jon A. McBride, 1943 – 2024
 - <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Webinar – Transforming Geospatial Intelligence: Data Labeling for AI
-- <a href="https://spacenews.com/space-export-reforms-to-march-forward-amid-transition-to-new-administration/" >🔗</a> **[SpaceNews]** Space export reforms to march forward amid transition to new administration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T073105">2024-11-08 07:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T080126">2024-11-08 08:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
