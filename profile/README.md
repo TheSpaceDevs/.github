@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/czechia-partners-with-vast-for-possible-private-astronaut-mission/" >🔗</a> **[European Spaceflight]** Czechia Partners With VAST for Possible Private Astronaut Mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Earth_from_Space_Autumn_foliage_across_Europe" >🔗</a> **[ESA]** Earth from Space: Autumn foliage across Europe
 - <a href="https://www.esa.int/Enabling_Support/Operations/Hera_burns_towards_Mars" >🔗</a> **[ESA]** Hera burns towards Mars
 - <a href="https://spacenews.com/nasa-defends-selection-of-astrophysics-probe-mission-proposals/" >🔗</a> **[SpaceNews]** NASA defends selection of astrophysics probe mission proposals
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/oral-history-with-mary-l-cleave-1947-2023/" >🔗</a> **[NASA]** Oral History with Mary L. Cleave, 1947 – 2023
 - <a href="https://www.nasa.gov/image-article/the-cast-and-crew-of-aint-too-proud-visit-nasa-langley/" >🔗</a> **[NASA]** The Cast and Crew of “Ain’t Too Proud” Visit NASA Langley
 - <a href="https://www.nasa.gov/humans-in-space/nasa-shares-space-food-insight-with-commercial-food-industry/" >🔗</a> **[NASA]** NASA Shares Space Food Insight with Commercial Food Industry
-- <a href="https://www.nasa.gov/general/oral-history-with-jon-a-mcbride-1943-2024/" >🔗</a> **[NASA]** Oral History with Jon A. McBride, 1943 – 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T113111">2024-11-08 11:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T120132">2024-11-08 12:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
