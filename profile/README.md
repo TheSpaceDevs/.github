@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/" >🔗</a> **[NASA]** Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-joe-vermette/" >🔗</a> **[NASA]** I Am Artemis: Joe Vermette
 - <a href="https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/" >🔗</a> **[NASA]** Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/ksc-sustainability/nasa-kennedys-applied-chemistry-lab-achieves-agency-first/" >🔗</a> **[NASA]** NASA Kennedy’s Applied Chemistry Lab Achieves Agency First
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_November_2024" >🔗</a> **[ESA]** Week in images: 04-08 November 2024
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/vast-signs-agreement-with-czech-government/" >🔗</a> **[SpaceNews]** Vast signs agreement with Czech government
 - <a href="https://spacenews.com/sierra-space-expands-spaceplane-fleet-with-in-house-mission-control/" >🔗</a> **[SpaceNews]** Sierra Space expands spaceplane fleet with in-house mission control
 - <a href="https://spacenews.com/blacksky-buys-thales-alenias-stake-in-leostella-joint-venture/" >🔗</a> **[SpaceNews]** BlackSky buys Thales Alenia’s stake in LeoStella joint venture
-- <a href="https://europeanspaceflight.com/czechia-partners-with-vast-for-possible-private-astronaut-mission/" >🔗</a> **[European Spaceflight]** Czechia Partners With VAST for Possible Private Astronaut Mission
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Earth_from_Space_Autumn_foliage_across_Europe" >🔗</a> **[ESA]** Earth from Space: Autumn foliage across Europe
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T170110">2024-11-08 17:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T173159">2024-11-08 17:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
