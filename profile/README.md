@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-signs-agreement-with-czech-government/" >🔗</a> **[SpaceNews]** Vast signs agreement with Czech government
+- <a href="https://spacenews.com/sierra-space-expands-spaceplane-fleet-with-in-house-mission-control/" >🔗</a> **[SpaceNews]** Sierra Space expands spaceplane fleet with in-house mission control
 - <a href="https://spacenews.com/blacksky-buys-thales-alenias-stake-in-leostella-joint-venture/" >🔗</a> **[SpaceNews]** BlackSky buys Thales Alenia’s stake in LeoStella joint venture
 - <a href="https://europeanspaceflight.com/czechia-partners-with-vast-for-possible-private-astronaut-mission/" >🔗</a> **[European Spaceflight]** Czechia Partners With VAST for Possible Private Astronaut Mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Earth_from_Space_Autumn_foliage_across_Europe" >🔗</a> **[ESA]** Earth from Space: Autumn foliage across Europe
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/11/08/spacex-targets-starship-flight-6-launch-on-november-18/" >🔗</a> **[Spaceflight Now]** SpaceX targets Starship Flight 6 launch on November 18
 - <a href="https://www.nasa.gov/general/oral-history-with-stephen-g-jurczyk-1962-2023/" >🔗</a> **[NASA]** Oral History with Stephen G. Jurczyk, 1962 – 2023
 - <a href="https://spacenews.com/viasat-seeking-telesat-leo-capacity-as-starlink-competition-mounts/" >🔗</a> **[SpaceNews]** Viasat seeking Telesat LEO capacity as Starlink competition mounts
-- <a href="https://www.nasa.gov/general/oral-history-with-mary-l-cleave-1947-2023/" >🔗</a> **[NASA]** Oral History with Mary L. Cleave, 1947 – 2023
-- <a href="https://www.nasa.gov/image-article/the-cast-and-crew-of-aint-too-proud-visit-nasa-langley/" >🔗</a> **[NASA]** The Cast and Crew of “Ain’t Too Proud” Visit NASA Langley
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T130455">2024-11-08 13:04:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241108T133300">2024-11-08 13:33:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
