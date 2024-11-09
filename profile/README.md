@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/11/esa-arianespace-crossroads/" >🔗</a> **[NASASpaceflight]** European Space Agency and Arianespace at a crossroads
 - <a href="https://tlpnetwork.com/news/technology/gilmour-space-secures-australias-first-orbital-launch-permit-maiden-flight-just-weeks-away" >🔗</a> **[The Launch Pad]** Gilmour Space Secures Australia’s First Orbital Launch Permit; Maiden Flight Just Weeks Away
 - <a href="https://tlpnetwork.com/news/asia/china-eyes-2026-for-long-march-10a-moon-rocket-debut-flight" >🔗</a> **[The Launch Pad]** China’s Eyes 2026 For Long March 10A Moon Rocket Debut Flight
 - <a href="https://tlpnetwork.com/news/europe/ariane-6-second-flight-and-first-commercial-mission-delayed-february-2025" >🔗</a> **[The Launch Pad]** Ariane 6 Second Flight & First Commercial Mission Delayed February 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/santa-maria-to-be-landing-site-of-inaugural-space-rider-flight/" >🔗</a> **[European Spaceflight]** Santa Maria to be Landing Site of Inaugural Space Rider Flight
 - <a href="https://spacepolicyonline.com/news/crew-8-will-reveal-hospitalization-details-in-fullness-of-time/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Will Reveal Hospitalization Details “In Fullness of Time”
 - <a href="https://science.nasa.gov/blog/sols-4357-4358-turning-west/" >🔗</a> **[NASA]** Sols 4357–4358: Turning West
-- <a href="https://spacenews.com/ex-google-exec-attracts-financial-backers-for-leo-megaconstellation/" >🔗</a> **[SpaceNews]** Ex-Google exec attracts financial backers for LEO megaconstellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T203057">2024-11-09 20:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T210123">2024-11-09 21:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
