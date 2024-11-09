@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/spacex-working-on-marslink-to-offer-full-mars-surface-real-time-connectivity" >🔗</a> **[The Launch Pad]** SpaceX Working On 'Marslink' To Offer Full Mars Surface Real Time Connectivity
+- <a href="https://spacenews.com/crew-8-astronauts-remain-mum-about-post-splashdown-medical-issue/" >🔗</a> **[SpaceNews]** Crew-8 astronauts remain mum about post-splashdown medical issue
+- <a href="https://tlpnetwork.com/news/in-space/spacex-dragon-completes-first-iss-reboost-demonstrating-spacex-expanding-capabilities" >🔗</a> **[The Launch Pad]** SpaceX's Dragon Completes First ISS Reboost, Demonstrating SpaceX’s Expanding Capabilities
 - <a href="https://europeanspaceflight.com/santa-maria-to-be-landing-site-of-inaugural-space-rider-flight/" >🔗</a> **[European Spaceflight]** Santa Maria to be Landing Site of Inaugural Space Rider Flight
 - <a href="https://spacepolicyonline.com/news/crew-8-will-reveal-hospitalization-details-in-fullness-of-time/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Will Reveal Hospitalization Details “In Fullness of Time”
 - <a href="https://science.nasa.gov/blog/sols-4357-4358-turning-west/" >🔗</a> **[NASA]** Sols 4357–4358: Turning West
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-ames-astrogram-september-october-2024/" >🔗</a> **[NASA]** NASA Ames Astrogram – September/October 2024
 - <a href="https://spacenews.com/next-ariane-6-launch-slips-to-early-2025/" >🔗</a> **[SpaceNews]** Next Ariane 6 launch slips to early 2025
 - <a href="https://www.nasaspaceflight.com/2024/11/pld-space-miura-lince/" >🔗</a> **[NASASpaceflight]** PLD Space unveils ambitious plan for the next decade
-- <a href="https://spacenews.com/maxar-intelligence-divests-sensor-technology-business-to-arka-group/" >🔗</a> **[SpaceNews]** Maxar Intelligence divests sensor technology business to ARKA Group
-- <a href="https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/" >🔗</a> **[NASA]** NASA Named one of America’s Best Employers for Veterans
-- <a href="https://arstechnica.com/space/2024/11/space-policy-is-about-to-get-pretty-wild-yall/" >🔗</a> **[Arstechnica]** Space policy is about to get pretty wild, y’all
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T170108">2024-11-09 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T173103">2024-11-09 17:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
