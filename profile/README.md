@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-extends-iss-cargo-contracts-through-2030/" >🔗</a> **[SpaceNews]** NASA extends ISS cargo contracts through 2030
 - <a href="https://spacenews.com/long-march-2c-launches-4-piesat-2-commercial-radar-satellites/" >🔗</a> **[SpaceNews]** Long March 2C launches 4 PIESAT-2 commercial radar satellites
 - <a href="https://www.nasaspaceflight.com/2024/11/esa-arianespace-crossroads/" >🔗</a> **[NASASpaceflight]** European Space Agency and Arianespace at a crossroads
 - <a href="https://tlpnetwork.com/news/technology/gilmour-space-secures-australias-first-orbital-launch-permit-maiden-flight-just-weeks-away" >🔗</a> **[The Launch Pad]** Gilmour Space Secures Australia’s First Orbital Launch Permit; Maiden Flight Just Weeks Away
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/crew-8-astronauts-remain-mum-about-post-splashdown-medical-issue/" >🔗</a> **[SpaceNews]** Crew-8 astronauts remain mum about post-splashdown medical issue
 - <a href="https://tlpnetwork.com/news/in-space/spacex-dragon-completes-first-iss-reboost-demonstrating-spacex-expanding-capabilities" >🔗</a> **[The Launch Pad]** SpaceX's Dragon Completes First ISS Reboost, Demonstrating SpaceX’s Expanding Capabilities
 - <a href="https://europeanspaceflight.com/santa-maria-to-be-landing-site-of-inaugural-space-rider-flight/" >🔗</a> **[European Spaceflight]** Santa Maria to be Landing Site of Inaugural Space Rider Flight
-- <a href="https://spacepolicyonline.com/news/crew-8-will-reveal-hospitalization-details-in-fullness-of-time/" >🔗</a> **[SpacePolicyOnline.com]** Crew-8 Will Reveal Hospitalization Details “In Fullness of Time”
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241109T233102">2024-11-09 23:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T000432">2024-11-10 00:04:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
