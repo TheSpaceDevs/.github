@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T214600">2024-11-10 21:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-69&location=Cape Canaveral SFS, FL, USA&dates=20241110T214600Z%2F20241111T012200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-69** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T035100">2024-11-11 03:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241111T035100Z%2F20241111T042200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T170700">2024-11-11 17:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Koreasat 6A&location=Kennedy Space Center, FL, USA&dates=20241111T170700Z%2F20241111T210700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Koreasat 6A** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T110000">2024-11-13 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-68&location=Cape Canaveral SFS, FL, USA&dates=20241113T110000Z%2F20241113T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-68** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/11/perseverance-climbing-challenges/" >🔗</a> **[NASASpaceflight]** Perseverance faces challenges climbing to crater rim as sample tube supply dwindles
 - <a href="https://spacepolicyonline.com/news/congress-returns-to-changed-political-landscape-but-same-to-do-list/" >🔗</a> **[SpacePolicyOnline.com]** Congress Returns to Changed Political Landscape, But Same To-Do List
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-seeks-to-raise-300m-to-accelerate-spaceplane-and-mothership-production" >🔗</a> **[The Launch Pad]** Virgin Galactic Seeks To Raise $300M to Accelerate Spaceplane and Mothership Production
 - <a href="https://tlpnetwork.com/news/europe/vast-space-and-czech-republic-sign-agreement-to-explore-astronaut-flight-opportunities" >🔗</a> **[The Launch Pad]** Vast Space and Czech Republic Sign Agreement to Explore Astronaut Flight Opportunities
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/11/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-extends-iss-cargo-contracts-through-2030/" >🔗</a> **[SpaceNews]** NASA extends ISS cargo contracts through 2030
 - <a href="https://spacenews.com/long-march-2c-launches-4-piesat-2-commercial-radar-satellites/" >🔗</a> **[SpaceNews]** Long March 2C launches 4 PIESAT-2 commercial radar satellites
-- <a href="https://www.nasaspaceflight.com/2024/11/esa-arianespace-crossroads/" >🔗</a> **[NASASpaceflight]** European Space Agency and Arianespace at a crossroads
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T213107">2024-11-10 21:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T220131">2024-11-10 22:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
