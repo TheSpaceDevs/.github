@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-extends-iss-cargo-resupply-contracts-through-2030" >🔗</a> **[The Launch Pad]** NASA Extends ISS Cargo Resupply Contracts Through 2030
 - <a href="https://spaceflightnow.com/2024/11/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-extends-iss-cargo-contracts-through-2030/" >🔗</a> **[SpaceNews]** NASA extends ISS cargo contracts through 2030
 - <a href="https://spacenews.com/long-march-2c-launches-4-piesat-2-commercial-radar-satellites/" >🔗</a> **[SpaceNews]** Long March 2C launches 4 PIESAT-2 commercial radar satellites
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/ariane-6-second-flight-and-first-commercial-mission-delayed-february-2025" >🔗</a> **[The Launch Pad]** Ariane 6 Second Flight & First Commercial Mission Delayed February 2025
 - <a href="https://tlpnetwork.com/news/america/spacex-working-on-marslink-to-offer-full-mars-surface-real-time-connectivity" >🔗</a> **[The Launch Pad]** SpaceX Working On 'Marslink' To Offer Full Mars Surface Real Time Connectivity
 - <a href="https://spacenews.com/crew-8-astronauts-remain-mum-about-post-splashdown-medical-issue/" >🔗</a> **[SpaceNews]** Crew-8 astronauts remain mum about post-splashdown medical issue
-- <a href="https://tlpnetwork.com/news/in-space/spacex-dragon-completes-first-iss-reboost-demonstrating-spacex-expanding-capabilities" >🔗</a> **[The Launch Pad]** SpaceX's Dragon Completes First ISS Reboost, Demonstrating SpaceX’s Expanding Capabilities
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T160128">2024-11-10 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T163357">2024-11-10 16:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
