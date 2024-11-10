@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 10-16, 2024
 - <a href="https://www.nasaspaceflight.com/2024/11/perseverance-climbing-challenges/" >🔗</a> **[NASASpaceflight]** Perseverance faces challenges climbing to crater rim as sample tube supply dwindles
 - <a href="https://spacepolicyonline.com/news/congress-returns-to-changed-political-landscape-but-same-to-do-list/" >🔗</a> **[SpacePolicyOnline.com]** Congress Returns to Changed Political Landscape, But Same To-Do List
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-seeks-to-raise-300m-to-accelerate-spaceplane-and-mothership-production" >🔗</a> **[The Launch Pad]** Virgin Galactic Seeks To Raise $300M to Accelerate Spaceplane and Mothership Production
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-extends-iss-cargo-resupply-contracts-through-2030" >🔗</a> **[The Launch Pad]** NASA Extends ISS Cargo Resupply Contracts Through 2030
 - <a href="https://spaceflightnow.com/2024/11/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-extends-iss-cargo-contracts-through-2030/" >🔗</a> **[SpaceNews]** NASA extends ISS cargo contracts through 2030
-- <a href="https://spacenews.com/long-march-2c-launches-4-piesat-2-commercial-radar-satellites/" >🔗</a> **[SpaceNews]** Long March 2C launches 4 PIESAT-2 commercial radar satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T230111">2024-11-10 23:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T233059">2024-11-10 23:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
