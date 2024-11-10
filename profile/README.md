@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/virgin-galactic-seeks-to-raise-300m-to-accelerate-spaceplane-and-mothership-production" >🔗</a> **[The Launch Pad]** Virgin Galactic Seeks To Raise $300M to Accelerate Spaceplane and Mothership Production
+- <a href="https://tlpnetwork.com/news/europe/vast-space-and-czech-republic-sign-agreement-to-explore-astronaut-flight-opportunities" >🔗</a> **[The Launch Pad]** Vast Space and Czech Republic Sign Agreement to Explore Astronaut Flight Opportunities
+- <a href="https://tlpnetwork.com/news/asia/cosmoleap-raises-14-million-for-reusable-rocket-with-spacex-inspired-landing-system" >🔗</a> **[The Launch Pad]** Cosmoleap Raises $14M for Reusable Rocket with SpaceX-Inspired Landing System
 - <a href="https://tlpnetwork.com/news/military/australia-cancels-5-billion-jp9102-military-satellite-program" >🔗</a> **[The Launch Pad]** Australia Cancels $5 Billion JP9102 Military Satellite Program
 - <a href="https://tlpnetwork.com/news/america/nasa-extends-iss-cargo-resupply-contracts-through-2030" >🔗</a> **[The Launch Pad]** NASA Extends ISS Cargo Resupply Contracts Through 2030
 - <a href="https://spaceflightnow.com/2024/11/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/long-march-2c-launches-4-piesat-2-commercial-radar-satellites/" >🔗</a> **[SpaceNews]** Long March 2C launches 4 PIESAT-2 commercial radar satellites
 - <a href="https://www.nasaspaceflight.com/2024/11/esa-arianespace-crossroads/" >🔗</a> **[NASASpaceflight]** European Space Agency and Arianespace at a crossroads
 - <a href="https://tlpnetwork.com/news/technology/gilmour-space-secures-australias-first-orbital-launch-permit-maiden-flight-just-weeks-away" >🔗</a> **[The Launch Pad]** Gilmour Space Secures Australia’s First Orbital Launch Permit; Maiden Flight Just Weeks Away
-- <a href="https://tlpnetwork.com/news/asia/china-eyes-2026-for-long-march-10a-moon-rocket-debut-flight" >🔗</a> **[The Launch Pad]** China’s Eyes 2026 For Long March 10A Moon Rocket Debut Flight
-- <a href="https://tlpnetwork.com/news/europe/ariane-6-second-flight-and-first-commercial-mission-delayed-february-2025" >🔗</a> **[The Launch Pad]** Ariane 6 Second Flight & First Commercial Mission Delayed February 2025
-- <a href="https://tlpnetwork.com/news/america/spacex-working-on-marslink-to-offer-full-mars-surface-real-time-connectivity" >🔗</a> **[The Launch Pad]** SpaceX Working On 'Marslink' To Offer Full Mars Surface Real Time Connectivity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T173102">2024-11-10 17:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T180124">2024-11-10 18:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
