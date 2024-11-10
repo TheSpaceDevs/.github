@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/congress-returns-to-changed-political-landscape-but-same-to-do-list/" >🔗</a> **[SpacePolicyOnline.com]** Congress Returns to Changed Political Landscape, But Same To-Do List
 - <a href="https://tlpnetwork.com/news/america/virgin-galactic-seeks-to-raise-300m-to-accelerate-spaceplane-and-mothership-production" >🔗</a> **[The Launch Pad]** Virgin Galactic Seeks To Raise $300M to Accelerate Spaceplane and Mothership Production
 - <a href="https://tlpnetwork.com/news/europe/vast-space-and-czech-republic-sign-agreement-to-explore-astronaut-flight-opportunities" >🔗</a> **[The Launch Pad]** Vast Space and Czech Republic Sign Agreement to Explore Astronaut Flight Opportunities
 - <a href="https://tlpnetwork.com/news/asia/cosmoleap-raises-14-million-for-reusable-rocket-with-spacex-inspired-landing-system" >🔗</a> **[The Launch Pad]** Cosmoleap Raises $14M for Reusable Rocket with SpaceX-Inspired Landing System
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-extends-iss-cargo-contracts-through-2030/" >🔗</a> **[SpaceNews]** NASA extends ISS cargo contracts through 2030
 - <a href="https://spacenews.com/long-march-2c-launches-4-piesat-2-commercial-radar-satellites/" >🔗</a> **[SpaceNews]** Long March 2C launches 4 PIESAT-2 commercial radar satellites
 - <a href="https://www.nasaspaceflight.com/2024/11/esa-arianespace-crossroads/" >🔗</a> **[NASASpaceflight]** European Space Agency and Arianespace at a crossroads
-- <a href="https://tlpnetwork.com/news/technology/gilmour-space-secures-australias-first-orbital-launch-permit-maiden-flight-just-weeks-away" >🔗</a> **[The Launch Pad]** Gilmour Space Secures Australia’s First Orbital Launch Permit; Maiden Flight Just Weeks Away
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T203105">2024-11-10 20:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241110T210113">2024-11-10 21:01:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
