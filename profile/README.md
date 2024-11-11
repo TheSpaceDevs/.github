@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/11/live-coverage-spacex-to-launch-koreasat-6a-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Koreasat-6A on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/spaceplane-developer-reaction-engines-goes-bankrupt/" >🔗</a> **[SpaceNews]** Spaceplane developer Reaction Engines goes bankrupt
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 10-16, 2024
 - <a href="https://www.nasaspaceflight.com/2024/11/perseverance-climbing-challenges/" >🔗</a> **[NASASpaceflight]** Perseverance faces challenges climbing to crater rim as sample tube supply dwindles
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/asia/cosmoleap-raises-14-million-for-reusable-rocket-with-spacex-inspired-landing-system" >🔗</a> **[The Launch Pad]** Cosmoleap Raises $14M for Reusable Rocket with SpaceX-Inspired Landing System
 - <a href="https://tlpnetwork.com/news/military/australia-cancels-5-billion-jp9102-military-satellite-program" >🔗</a> **[The Launch Pad]** Australia Cancels $5 Billion JP9102 Military Satellite Program
 - <a href="https://tlpnetwork.com/news/america/nasa-extends-iss-cargo-resupply-contracts-through-2030" >🔗</a> **[The Launch Pad]** NASA Extends ISS Cargo Resupply Contracts Through 2030
-- <a href="https://spaceflightnow.com/2024/11/10/live-coverage-spacex-to-launch-24-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX scrubs launch of 24 Starlink satellites on a Falcon 9 flight from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T004533">2024-11-11 00:45:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T012810">2024-11-11 01:28:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
