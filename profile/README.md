@@ -93,16 +93,16 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
+- <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
+- <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Samuel Suleiman
+- <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-roy-armstrong/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Roy Armstrong
+- <a href="https://www.nasa.gov/general/interview-with-oceanos-pi-juan-torres-perez/" >🔗</a> **[NASA]** Interview with OCEANOS PI Juan Torres-Pérez
 - <a href="https://spaceflightnow.com/2024/11/11/live-coverage-spacex-to-launch-koreasat-6a-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Koreasat-6A on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/spaceplane-developer-reaction-engines-goes-bankrupt/" >🔗</a> **[SpaceNews]** Spaceplane developer Reaction Engines goes bankrupt
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 10-16, 2024
 - <a href="https://www.nasaspaceflight.com/2024/11/perseverance-climbing-challenges/" >🔗</a> **[NASASpaceflight]** Perseverance faces challenges climbing to crater rim as sample tube supply dwindles
 - <a href="https://spacepolicyonline.com/news/congress-returns-to-changed-political-landscape-but-same-to-do-list/" >🔗</a> **[SpacePolicyOnline.com]** Congress Returns to Changed Political Landscape, But Same To-Do List
-- <a href="https://tlpnetwork.com/news/america/virgin-galactic-seeks-to-raise-300m-to-accelerate-spaceplane-and-mothership-production" >🔗</a> **[The Launch Pad]** Virgin Galactic Seeks To Raise $300M to Accelerate Spaceplane and Mothership Production
-- <a href="https://tlpnetwork.com/news/europe/vast-space-and-czech-republic-sign-agreement-to-explore-astronaut-flight-opportunities" >🔗</a> **[The Launch Pad]** Vast Space and Czech Republic Sign Agreement to Explore Astronaut Flight Opportunities
-- <a href="https://tlpnetwork.com/news/asia/cosmoleap-raises-14-million-for-reusable-rocket-with-spacex-inspired-landing-system" >🔗</a> **[The Launch Pad]** Cosmoleap Raises $14M for Reusable Rocket with SpaceX-Inspired Landing System
-- <a href="https://tlpnetwork.com/news/military/australia-cancels-5-billion-jp9102-military-satellite-program" >🔗</a> **[The Launch Pad]** Australia Cancels $5 Billion JP9102 Military Satellite Program
-- <a href="https://tlpnetwork.com/news/america/nasa-extends-iss-cargo-resupply-contracts-through-2030" >🔗</a> **[The Launch Pad]** NASA Extends ISS Cargo Resupply Contracts Through 2030
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T100123">2024-11-11 10:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T103455">2024-11-11 10:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
