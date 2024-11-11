@@ -93,6 +93,7 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-commercial-lijian-1-rocket-launches-15-satellites/" >🔗</a> **[SpaceNews]** Chinese commercial Lijian-1 rocket launches 15 satellites
 - <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Samuel Suleiman
@@ -102,7 +103,6 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 - <a href="https://spacenews.com/spaceplane-developer-reaction-engines-goes-bankrupt/" >🔗</a> **[SpaceNews]** Spaceplane developer Reaction Engines goes bankrupt
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 10-16, 2024
 - <a href="https://www.nasaspaceflight.com/2024/11/perseverance-climbing-challenges/" >🔗</a> **[NASASpaceflight]** Perseverance faces challenges climbing to crater rim as sample tube supply dwindles
-- <a href="https://spacepolicyonline.com/news/congress-returns-to-changed-political-landscape-but-same-to-do-list/" >🔗</a> **[SpacePolicyOnline.com]** Congress Returns to Changed Political Landscape, But Same To-Do List
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T120145">2024-11-11 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T124234">2024-11-11 12:42:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
