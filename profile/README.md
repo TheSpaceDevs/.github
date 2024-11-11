@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Samuel Suleiman
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-roy-armstrong/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Roy Armstrong
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-pi-juan-torres-perez/" >🔗</a> **[NASA]** Interview with OCEANOS PI Juan Torres-Pérez
-- <a href="https://spaceflightnow.com/2024/11/11/live-coverage-spacex-to-launch-koreasat-6a-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Koreasat-6A on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://spaceflightnow.com/2024/11/11/live-coverage-spacex-to-launch-koreasat-6a-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX lands Falcon 9 booster for a record 23rd time amid Koreasat-6A mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T180126">2024-11-11 18:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T183512">2024-11-11 18:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
