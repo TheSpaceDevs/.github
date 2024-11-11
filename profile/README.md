@@ -92,6 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars" >🔗</a> **[ESA]** Happy New Year on Mars
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
+- <a href="https://science.nasa.gov/blog/sols-4359-4361-the-perfect-road-trip-destination-for-any-rover/" >🔗</a> **[NASA]** Sols 4359-4361: The Perfect Road Trip Destination For Any Rover!
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 8, 2024
 - <a href="https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/" >🔗</a> **[NASA]** Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 - <a href="https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/" >🔗</a> **[Arstechnica]** Russia: Fine, I guess we should have a Grasshopper rocket project, too
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/chinese-commercial-lijian-1-rocket-launches-15-satellites/" >🔗</a> **[SpaceNews]** Chinese commercial Lijian-1 rocket launches 15 satellites
 - <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
-- <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Samuel Suleiman
-- <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-roy-armstrong/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Roy Armstrong
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T230113">2024-11-11 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T233059">2024-11-11 23:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
