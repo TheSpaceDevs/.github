@@ -93,6 +93,7 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/expending-expendables-more-launch-companies-betting-their-future-reusability/" >🔗</a> **[SpaceNews]** Expending the Expendables: More launch companies are betting their future on reusability
 - <a href="https://spacenews.com/chinese-commercial-lijian-1-rocket-launches-15-satellites/" >🔗</a> **[SpaceNews]** Chinese commercial Lijian-1 rocket launches 15 satellites
 - <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
@@ -102,7 +103,6 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 - <a href="https://spaceflightnow.com/2024/11/11/live-coverage-spacex-to-launch-koreasat-6a-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Koreasat-6A on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/spaceplane-developer-reaction-engines-goes-bankrupt/" >🔗</a> **[SpaceNews]** Spaceplane developer Reaction Engines goes bankrupt
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-10-16-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 10-16, 2024
-- <a href="https://www.nasaspaceflight.com/2024/11/perseverance-climbing-challenges/" >🔗</a> **[NASASpaceflight]** Perseverance faces challenges climbing to crater rim as sample tube supply dwindles
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Koreasat 6A will be based on the manufacturer’s Spacebus 4000B2 platform and i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T130537">2024-11-11 13:05:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T133328">2024-11-11 13:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
