@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars" >🔗</a> **[ESA]** Happy New Year on Mars
 - <a href="https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/" >🔗</a> **[NASA]** Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 - <a href="https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/" >🔗</a> **[Arstechnica]** Russia: Fine, I guess we should have a Grasshopper rocket project, too
 - <a href="https://spacenews.com/expending-expendables-more-launch-companies-betting-their-future-reusability/" >🔗</a> **[SpaceNews]** Expending the Expendables: More launch companies are betting their future on reusability
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-samuel-suleiman/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Samuel Suleiman
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-roy-armstrong/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor Roy Armstrong
 - <a href="https://www.nasa.gov/general/interview-with-oceanos-pi-juan-torres-perez/" >🔗</a> **[NASA]** Interview with OCEANOS PI Juan Torres-Pérez
-- <a href="https://spaceflightnow.com/2024/11/11/live-coverage-spacex-to-launch-koreasat-6a-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX lands Falcon 9 booster for a record 23rd time amid Koreasat-6A mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T190106">2024-11-11 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241111T193100">2024-11-11 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
