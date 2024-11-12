@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/How_we_made_history_by_landing_on_a_comet" >🔗</a> **[ESA]** How we made history by landing on a comet
+- <a href="https://spacenews.com/roman-space-telescope-reaches-assembly-milestone/" >🔗</a> **[SpaceNews]** Roman Space Telescope reaches assembly milestone
 - <a href="https://spacenews.com/chinas-space-agency-to-boost-support-for-commercial-space-sector/" >🔗</a> **[SpaceNews]** China’s space agency to boost support for commercial space sector
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_upper_stage_visits_ESA_s_temple_of_boom" >🔗</a> **[ESA]** Ariane 6 upper stage visits ESA’s temple of boom
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived" >🔗</a> **[ESA]** Philae’s extraordinary comet landing relived
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/commitment-to-service-continues-at-johnson-for-military-retirees/" >🔗</a> **[NASA]** Commitment to Service Continues at Johnson for Military Retirees
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
 - <a href="https://science.nasa.gov/blog/sols-4359-4361-the-perfect-road-trip-destination-for-any-rover/" >🔗</a> **[NASA]** Sols 4359-4361: The Perfect Road Trip Destination For Any Rover!
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 8, 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T110127">2024-11-12 11:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T113056">2024-11-12 11:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
