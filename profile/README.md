@@ -55,7 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T220000">2024-11-18 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 6&location=SpaceX Starbase, TX, USA&dates=20241118T220000Z%2F20241118T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 6** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T183000">2024-11-19 18:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GSAT-20&location=Cape Canaveral SFS, FL, USA&dates=20241119T183000Z%2F20241119T183000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GSAT-20** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122223">2024-11-21 12:22:23 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122223Z%2F20241121T122223Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T000000">2024-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kondor-FKA No.2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241130T000000Z%2F20241130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kondor-FKA No.2** from Vostochny Cosmodrome, Siberia, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T000000">2024-11-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ice AIS Baby (Kinéis 11-15)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241123T000000Z%2F20241123T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ice AIS Baby (Kinéis 11-15)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/colorado-students-to-connect-with-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** Colorado Students to Connect with NASA Astronauts Aboard Space Station
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/kibo-robot-programming-challenge-breaks-new-ground-in-robotics/" >🔗</a> **[NASA]** Kibo Robot Programming Challenge Breaks New Ground in Robotics
+- <a href="https://arstechnica.com/space/2024/11/for-the-second-time-this-year-nasas-jpl-center-cuts-its-workforce/" >🔗</a> **[Arstechnica]** For the second time this year, NASA’s JPL center cuts its workforce
 - <a href="https://www.nasa.gov/image-article/native-american-seeds-flown-aboard-space-station/" >🔗</a> **[NASA]** Native American Seeds Flown Aboard Space Station
 - <a href="https://spacenews.com/sony-orders-two-satellites-to-test-laser-communications/" >🔗</a> **[SpaceNews]** Sony orders two satellites to test laser communications
 - <a href="https://www.teslarati.com/spacex-sends-24-more-starlink-satellites-into-orbit/" >🔗</a> **[Teslarati]** SpaceX sends 24 more Starlink satellites into orbit
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/" >🔗</a> **[NASA]** NASA Funds New Studies Looking at Future of Sustainable Aircraft
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-11-24/" >🔗</a> **[NASASpaceflight]** Starship preparations as rollouts begin ahead of full stack testing
 - <a href="https://www.nasa.gov/news-release/nasa-johnson-director-to-speak-at-space-institute-groundbreaking/" >🔗</a> **[NASA]** NASA Johnson Director to Speak at Space Institute Groundbreaking
-- <a href="https://spacenews.com/space-and-defense-sectors-brace-for-potential-trump-policy-shifts/" >🔗</a> **[SpaceNews]** Space and defense sectors brace for potential Trump policy shifts
-- <a href="https://spacenews.com/a-step-forward-in-space-export-control-reform/" >🔗</a> **[SpaceNews]** A step forward in space export control reform
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/matthew-kowalewski-aerospace-engineer-and-curious-about-everything/" >🔗</a> **[NASA]** Matthew Kowalewski: Aerospace Engineer and Curious About Everything
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T210124">2024-11-12 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T213102">2024-11-12 21:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
