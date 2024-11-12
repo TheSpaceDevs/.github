@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" >🔗</a> **[NASA]** JPL Workforce Update
 - <a href="https://spacenews.com/sierra-space-clears-design-review-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Sierra Space clears design review in military satellite program
 - <a href="https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/" >🔗</a> **[NASA]** Oral History with R. Walter Cunningham
 - <a href="https://www.cnbc.com/2024/11/12/rocket-lab-rklb-q3-strong-revenue-growth-first-neutron-deal.html" >🔗</a> **[CNBC]** Rocket Lab stock pops 25% after company reports strong revenue growth, first Neutron deal
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2024/11/for-the-second-time-this-year-nasas-jpl-center-cuts-its-workforce/" >🔗</a> **[Arstechnica]** For the second time this year, NASA’s JPL center cuts its workforce
 - <a href="https://www.nasa.gov/image-article/native-american-seeds-flown-aboard-space-station/" >🔗</a> **[NASA]** Native American Seeds Flown Aboard Space Station
 - <a href="https://spacenews.com/sony-orders-two-satellites-to-test-laser-communications/" >🔗</a> **[SpaceNews]** Sony orders two satellites to test laser communications
-- <a href="https://www.teslarati.com/spacex-sends-24-more-starlink-satellites-into-orbit/" >🔗</a> **[Teslarati]** SpaceX sends 24 more Starlink satellites into orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T230119">2024-11-12 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T233112">2024-11-12 23:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
