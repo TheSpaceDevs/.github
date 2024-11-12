@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sierra-space-clears-design-review-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Sierra Space clears design review in military satellite program
+- <a href="https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/" >🔗</a> **[NASA]** Oral History with R. Walter Cunningham
+- <a href="https://www.cnbc.com/2024/11/12/rocket-lab-rklb-q3-strong-revenue-growth-first-neutron-deal.html" >🔗</a> **[CNBC]** Rocket Lab stock pops 25% after company reports strong revenue growth, first Neutron deal
 - <a href="https://www.nasa.gov/general/oral-history-with-karol-j-bobko/" >🔗</a> **[NASA]** Oral History with Karol J. Bobko
 - <a href="https://www.nasa.gov/news-release/colorado-students-to-connect-with-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** Colorado Students to Connect with NASA Astronauts Aboard Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/kibo-robot-programming-challenge-breaks-new-ground-in-robotics/" >🔗</a> **[NASA]** Kibo Robot Programming Challenge Breaks New Ground in Robotics
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/native-american-seeds-flown-aboard-space-station/" >🔗</a> **[NASA]** Native American Seeds Flown Aboard Space Station
 - <a href="https://spacenews.com/sony-orders-two-satellites-to-test-laser-communications/" >🔗</a> **[SpaceNews]** Sony orders two satellites to test laser communications
 - <a href="https://www.teslarati.com/spacex-sends-24-more-starlink-satellites-into-orbit/" >🔗</a> **[Teslarati]** SpaceX sends 24 more Starlink satellites into orbit
-- <a href="https://www.nasa.gov/image-article/nasa-armstrong-builds-sensor-pod-for-autonomous-flight/" >🔗</a> **[NASA]** NASA Armstrong Builds Sensor Pod for Autonomous Flight
-- <a href="https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/" >🔗</a> **[NASA]** NASA Funds New Studies Looking at Future of Sustainable Aircraft
-- <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-11-24/" >🔗</a> **[NASASpaceflight]** Starship preparations as rollouts begin ahead of full stack testing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T220125">2024-11-12 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T223314">2024-11-12 22:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
