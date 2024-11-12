@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-11-24/" >🔗</a> **[NASASpaceflight]** Starship preparations as rollouts begin ahead of full stack testing
+- <a href="https://www.nasa.gov/news-release/nasa-johnson-director-to-speak-at-space-institute-groundbreaking/" >🔗</a> **[NASA]** NASA Johnson Director to Speak at Space Institute Groundbreaking
+- <a href="https://spacenews.com/space-and-defense-sectors-brace-for-potential-trump-policy-shifts/" >🔗</a> **[SpaceNews]** Space and defense sectors brace for potential Trump policy shifts
+- <a href="https://spacenews.com/a-step-forward-in-space-export-control-reform/" >🔗</a> **[SpaceNews]** A step forward in space export control reform
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/matthew-kowalewski-aerospace-engineer-and-curious-about-everything/" >🔗</a> **[NASA]** Matthew Kowalewski: Aerospace Engineer and Curious About Everything
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto-ramos-from-the-mountains-of-puerto-rico-to-mountains-of-nasa-earth-data/" >🔗</a> **[NASA]** Inia Soto Ramos, From the Mountains of Puerto Rico to Mountains of NASA Earth Data
 - <a href="https://science.nasa.gov/blog/peculiar-pale-pebbles/" >🔗</a> **[NASA]** Peculiar Pale Pebbles
 - <a href="https://science.nasa.gov/science-research/earth-science/nasas-blueflux-campaign-supports-blue-carbon-management-in-south-florida/" >🔗</a> **[NASA]** NASA’s BlueFlux Campaign Supports Blue Carbon Management in South Florida
 - <a href="https://spacenews.com/firefly-aerospace-raises-175-million/" >🔗</a> **[SpaceNews]** Firefly Aerospace raises $175 million
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/" >🔗</a> **[NASA]** NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-second-omi-tropomi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the Second OMI–TROPOMI Science Team Meeting
-- <a href="https://spacenews.com/shonnel-malani-advent-international-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Shonnel Malani, Advent International – Commercial Space Transformers
-- <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-undergoes-testing/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Undergoes Testing
-- <a href="https://spacenews.com/millennium-space-delivers-two-spacecraft-for-upcoming-nasa-mission/" >🔗</a> **[SpaceNews]** Millennium Space delivers two spacecraft for upcoming NASA mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T190103">2024-11-12 19:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T193057">2024-11-12 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
