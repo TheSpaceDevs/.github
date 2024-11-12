@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-aerospace-raises-175-million/" >🔗</a> **[SpaceNews]** Firefly Aerospace raises $175 million
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/" >🔗</a> **[NASA]** NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-second-omi-tropomi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the Second OMI–TROPOMI Science Team Meeting
 - <a href="https://spacenews.com/shonnel-malani-advent-international-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Shonnel Malani, Advent International – Commercial Space Transformers
 - <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-undergoes-testing/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Undergoes Testing
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spherex-remains-on-track-after-reaction-wheel-issue/" >🔗</a> **[SpaceNews]** SPHEREx remains on track after reaction wheel issue
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/How_we_made_history_by_landing_on_a_comet" >🔗</a> **[ESA]** How we made history by landing on a comet
 - <a href="https://spacenews.com/roman-space-telescope-reaches-assembly-milestone/" >🔗</a> **[SpaceNews]** Roman Space Telescope reaches assembly milestone
-- <a href="https://spacenews.com/chinas-space-agency-to-boost-support-for-commercial-space-sector/" >🔗</a> **[SpaceNews]** China’s space agency to boost support for commercial space sector
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_upper_stage_visits_ESA_s_temple_of_boom" >🔗</a> **[ESA]** Ariane 6 upper stage visits ESA’s temple of boom
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T160125">2024-11-12 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T163553">2024-11-12 16:35:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
