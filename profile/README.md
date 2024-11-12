@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars" >🔗</a> **[ESA]** Happy New Year on Mars
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/commitment-to-service-continues-at-johnson-for-military-retirees/" >🔗</a> **[NASA]** Commitment to Service Continues at Johnson for Military Retirees
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
 - <a href="https://science.nasa.gov/blog/sols-4359-4361-the-perfect-road-trip-destination-for-any-rover/" >🔗</a> **[NASA]** Sols 4359-4361: The Perfect Road Trip Destination For Any Rover!
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 8, 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/expending-expendables-more-launch-companies-betting-their-future-reusability/" >🔗</a> **[SpaceNews]** Expending the Expendables: More launch companies are betting their future on reusability
 - <a href="https://spacenews.com/chinese-commercial-lijian-1-rocket-launches-15-satellites/" >🔗</a> **[SpaceNews]** Chinese commercial Lijian-1 rocket launches 15 satellites
 - <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
-- <a href="https://www.nasa.gov/general/interview-with-oceanos-instructor-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Interview with OCEANOS Instructor María Fernanda Barbarena-Arias
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T004529">2024-11-12 00:45:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T012806">2024-11-12 01:28:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
