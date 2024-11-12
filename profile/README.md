@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spherex-remains-on-track-after-reaction-wheel-issue/" >🔗</a> **[SpaceNews]** SPHEREx remains on track after reaction wheel issue
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/How_we_made_history_by_landing_on_a_comet" >🔗</a> **[ESA]** How we made history by landing on a comet
 - <a href="https://spacenews.com/roman-space-telescope-reaches-assembly-milestone/" >🔗</a> **[SpaceNews]** Roman Space Telescope reaches assembly milestone
 - <a href="https://spacenews.com/chinas-space-agency-to-boost-support-for-commercial-space-sector/" >🔗</a> **[SpaceNews]** China’s space agency to boost support for commercial space sector
@@ -100,16 +101,16 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars" >🔗</a> **[ESA]** Happy New Year on Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/commitment-to-service-continues-at-johnson-for-military-retirees/" >🔗</a> **[NASA]** Commitment to Service Continues at Johnson for Military Retirees
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
-- <a href="https://science.nasa.gov/blog/sols-4359-4361-the-perfect-road-trip-destination-for-any-rover/" >🔗</a> **[NASA]** Sols 4359-4361: The Perfect Road Trip Destination For Any Rover!
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T120157">2024-11-12 12:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T124232">2024-11-12 12:42:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
