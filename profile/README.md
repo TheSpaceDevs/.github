@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-second-omi-tropomi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the Second OMI–TROPOMI Science Team Meeting
 - <a href="https://spacenews.com/shonnel-malani-advent-international-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Shonnel Malani, Advent International – Commercial Space Transformers
 - <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-undergoes-testing/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Undergoes Testing
 - <a href="https://spacenews.com/millennium-space-delivers-two-spacecraft-for-upcoming-nasa-mission/" >🔗</a> **[SpaceNews]** Millennium Space delivers two spacecraft for upcoming NASA mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/roman-space-telescope-reaches-assembly-milestone/" >🔗</a> **[SpaceNews]** Roman Space Telescope reaches assembly milestone
 - <a href="https://spacenews.com/chinas-space-agency-to-boost-support-for-commercial-space-sector/" >🔗</a> **[SpaceNews]** China’s space agency to boost support for commercial space sector
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_upper_stage_visits_ESA_s_temple_of_boom" >🔗</a> **[ESA]** Ariane 6 upper stage visits ESA’s temple of boom
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived" >🔗</a> **[ESA]** Philae’s extraordinary comet landing relived
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T150116">2024-11-12 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T153218">2024-11-12 15:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
