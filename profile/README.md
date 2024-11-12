@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/native-american-seeds-flown-aboard-space-station/" >🔗</a> **[NASA]** Native American Seeds Flown Aboard Space Station
+- <a href="https://spacenews.com/sony-orders-two-satellites-to-test-laser-communications/" >🔗</a> **[SpaceNews]** Sony orders two satellites to test laser communications
 - <a href="https://www.teslarati.com/spacex-sends-24-more-starlink-satellites-into-orbit/" >🔗</a> **[Teslarati]** SpaceX sends 24 more Starlink satellites into orbit
 - <a href="https://www.nasa.gov/image-article/nasa-armstrong-builds-sensor-pod-for-autonomous-flight/" >🔗</a> **[NASA]** NASA Armstrong Builds Sensor Pod for Autonomous Flight
 - <a href="https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/" >🔗</a> **[NASA]** NASA Funds New Studies Looking at Future of Sustainable Aircraft
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-and-defense-sectors-brace-for-potential-trump-policy-shifts/" >🔗</a> **[SpaceNews]** Space and defense sectors brace for potential Trump policy shifts
 - <a href="https://spacenews.com/a-step-forward-in-space-export-control-reform/" >🔗</a> **[SpaceNews]** A step forward in space export control reform
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/matthew-kowalewski-aerospace-engineer-and-curious-about-everything/" >🔗</a> **[NASA]** Matthew Kowalewski: Aerospace Engineer and Curious About Everything
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto-ramos-from-the-mountains-of-puerto-rico-to-mountains-of-nasa-earth-data/" >🔗</a> **[NASA]** Inia Soto Ramos, From the Mountains of Puerto Rico to Mountains of NASA Earth Data
-- <a href="https://science.nasa.gov/blog/peculiar-pale-pebbles/" >🔗</a> **[NASA]** Peculiar Pale Pebbles
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T200123">2024-11-12 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241112T203207">2024-11-12 20:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
