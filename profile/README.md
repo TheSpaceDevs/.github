@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_Not_because_it_is_easy" >🔗</a> **[ESA]** Proba-3: Not because it is easy…
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-denmark-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Denmark as Newest Artemis Accords Signatory
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Introducing_the_Smile_mission_Let_s_Smile_episode_1" >🔗</a> **[ESA]** Introducing the Smile mission – Let’s Smile (episode 1)
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Getting_Proba-3_fit_for_flight" >🔗</a> **[ESA]** Getting Proba-3 fit for flight
-- <a href="https://spacenews.com/gitai-gets-funds-to-develop-in-orbit-robotic-servicer/" >🔗</a> **[SpaceNews]** GITAI gets funds to develop in-orbit robotic servicer
-- <a href="https://spacenews.com/the-future-with-hypersonics/" >🔗</a> **[SpaceNews]** The future with hypersonics
-- <a href="https://spacenews.com/cleaner-future-for-leo/" >🔗</a> **[SpaceNews]** A cleaner future for LEO
-- <a href="https://spacenews.com/nasa-faces-disruptive-presidential-transition/" >🔗</a> **[SpaceNews]** NASA faces disruptive presidential transition
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Expanding_satellite_broadband_access_to_underserved_areas_across_Europe" >🔗</a> **[ESA]** Expanding satellite broadband access to underserved areas across Europe
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Extreme_heat_weakens_land_s_power_to_absorb_carbon" >🔗</a> **[ESA]** Extreme heat weakens land’s power to absorb carbon
-- <a href="https://europeanspaceflight.com/arianegroup-qualifies-ariane-6-upper-stage-for-four-booster-launches/" >🔗</a> **[European Spaceflight]** ArianeGroup Qualifies Ariane 6 Upper Stage for Four-Booster Launches
-- <a href="https://spacenews.com/jpl-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** JPL announces new round of layoffs
+- <a href="https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/" >🔗</a> **[NASA]** Wearable Tech for Space Station Research
+- <a href="https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/" >🔗</a> **[NASA]** NASA’s Swift Studies Gas-Churning Monster Black Holes
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/an-ideal-place-for-commercial-companies/" >🔗</a> **[NASA]** NASA Stennis – An Ideal Place for Commercial Companies
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-propulsion-testing-contributes-to-artemis-missions/" >🔗</a> **[NASA]** NASA Stennis Propulsion Testing Contributes to Artemis Missions
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-test-team-supports-space-dreams-with-proven-expertise/" >🔗</a> **[NASA]** NASA Stennis Test Team Supports Space Dreams with Proven Expertise
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-powers-nations-space-dreams/" >🔗</a> **[NASA]** NASA Stennis Adapts with Purpose to Power Nation’s Space Dreams
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-powers-nations-space-efforts-past-present-future/" >🔗</a> **[NASA]** NASA Stennis Powers Nation’s Space Efforts – Past, Present, Future
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T150114">2024-11-13 15:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T153306">2024-11-13 15:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
