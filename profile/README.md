@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/a-second-round-of-layoffs-at-jpl/" >🔗</a> **[SpacePolicyOnline.com]** A Second Round of Layoffs at JPL
 - <a href="https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Roy Armstrong
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-juan-torres-perez/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Juan Torres-Pérez
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/sierra-space-clears-design-review-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Sierra Space clears design review in military satellite program
 - <a href="https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/" >🔗</a> **[NASA]** Oral History with R. Walter Cunningham
 - <a href="https://www.cnbc.com/2024/11/12/rocket-lab-rklb-q3-strong-revenue-growth-first-neutron-deal.html" >🔗</a> **[CNBC]** Rocket Lab stock pops 25% after company reports strong revenue growth, first Neutron deal
-- <a href="https://www.nasa.gov/general/oral-history-with-karol-j-bobko/" >🔗</a> **[NASA]** Oral History with Karol J. Bobko
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T040122">2024-11-13 04:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T043420">2024-11-13 04:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
