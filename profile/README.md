@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kratos-to-develop-ground-system-for-u-s-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Kratos to develop ground system for U.S. missile defense satellites
 - <a href="https://spacepolicyonline.com/news/u-s-russia-disagree-on-causes-risks-of-leaks-on-iss/" >🔗</a> **[SpacePolicyOnline.com]** U.S., Russia Disagree on Causes, Risks of Leaks on ISS
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-samuel-suleiman/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Samuel Suleiman
 - <a href="https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/" >🔗</a> **[NASA]** Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_Not_because_it_is_easy" >🔗</a> **[ESA]** Proba-3: Not because it is easy…
 - <a href="https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/" >🔗</a> **[NASA]** NASA Data Helps International Community Prepare for Sea Level Rise
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-denmark-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Denmark as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/" >🔗</a> **[NASA]** Wearable Tech for Space Station Research
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T193101">2024-11-13 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T200123">2024-11-13 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
