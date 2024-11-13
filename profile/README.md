@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
+- <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Roy Armstrong
+- <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-juan-torres-perez/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Juan Torres-Pérez
+- <a href="https://spaceflightnow.com/2024/11/13/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/rocket-lab-wins-8-million-u-s-air-force-contract-for-engine-development/" >🔗</a> **[SpaceNews]** Rocket Lab wins $8 million U.S. Air Force contract for engine development
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" >🔗</a> **[NASA]** JPL Workforce Update
 - <a href="https://spacenews.com/sierra-space-clears-design-review-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Sierra Space clears design review in military satellite program
 - <a href="https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/" >🔗</a> **[NASA]** Oral History with R. Walter Cunningham
 - <a href="https://www.cnbc.com/2024/11/12/rocket-lab-rklb-q3-strong-revenue-growth-first-neutron-deal.html" >🔗</a> **[CNBC]** Rocket Lab stock pops 25% after company reports strong revenue growth, first Neutron deal
 - <a href="https://www.nasa.gov/general/oral-history-with-karol-j-bobko/" >🔗</a> **[NASA]** Oral History with Karol J. Bobko
-- <a href="https://www.nasa.gov/news-release/colorado-students-to-connect-with-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** Colorado Students to Connect with NASA Astronauts Aboard Space Station
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/kibo-robot-programming-challenge-breaks-new-ground-in-robotics/" >🔗</a> **[NASA]** Kibo Robot Programming Challenge Breaks New Ground in Robotics
-- <a href="https://arstechnica.com/space/2024/11/for-the-second-time-this-year-nasas-jpl-center-cuts-its-workforce/" >🔗</a> **[Arstechnica]** For the second time this year, NASA’s JPL center cuts its workforce
-- <a href="https://www.nasa.gov/image-article/native-american-seeds-flown-aboard-space-station/" >🔗</a> **[NASA]** Native American Seeds Flown Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T020205">2024-11-13 02:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T024419">2024-11-13 02:44:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
