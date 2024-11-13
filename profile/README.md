@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Getting_Proba-3_fit_for_flight" >🔗</a> **[ESA]** Getting Proba-3 fit for flight
+- <a href="https://spacenews.com/cleaner-future-for-leo/" >🔗</a> **[SpaceNews]** A cleaner future for LEO
 - <a href="https://spacenews.com/nasa-faces-disruptive-presidential-transition/" >🔗</a> **[SpaceNews]** NASA faces disruptive presidential transition
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Expanding_satellite_broadband_access_to_underserved_areas_across_Europe" >🔗</a> **[ESA]** Expanding satellite broadband access to underserved areas across Europe
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Extreme_heat_weakens_land_s_power_to_absorb_carbon" >🔗</a> **[ESA]** Extreme heat weakens land’s power to absorb carbon
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/sols-4362-4363-plates-and-polygons/" >🔗</a> **[NASA]** Sols 4362-4363: Plates and Polygons
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-will-be-the-last-of-four-consecutive-supermoons/" >🔗</a> **[NASA]** The Next Full Moon Will Be the Last of Four Consecutive Supermoons
 - <a href="https://spacepolicyonline.com/news/a-second-round-of-layoffs-at-jpl/" >🔗</a> **[SpacePolicyOnline.com]** A Second Round of Layoffs at JPL
-- <a href="https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
-- <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Roy Armstrong
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T130536">2024-11-13 13:05:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T133350">2024-11-13 13:33:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
