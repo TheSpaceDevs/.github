@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/booz-allen-ventures-invests-in-satellite-servicing-startup-starfish-space/" >🔗</a> **[SpaceNews]** Booz Allen Ventures invests in satellite servicing startup Starfish Space
+- <a href="https://spacenews.com/trumps-second-term-could-push-space-force-to-take-bolder-stance/" >🔗</a> **[SpaceNews]** Trump’s second term could push Space Force to take bolder stance
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-to-visit-sign-agreement-with-perus-space-agency/" >🔗</a> **[NASA]** NASA Administrator to Visit, Sign Agreement with Peru’s Space Agency
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/space-waste-revolution-challenge/" >🔗</a> **[NASA]** Space Waste Revolution Challenge
 - <a href="https://www.nasa.gov/image-article/a-caribbean-spacewalk/" >🔗</a> **[NASA]** A Caribbean Spacewalk
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-samuel-suleiman/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Samuel Suleiman
 - <a href="https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/" >🔗</a> **[NASA]** Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-chief-counsel-named-to-csu-law-hall-of-fame/" >🔗</a> **[NASA]** NASA Glenn Chief Counsel Named to CSU Law Hall of Fame
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-encourages-careers-in-stem-during-event/" >🔗</a> **[NASA]** NASA Encourages Careers in STEM During Event
-- <a href="https://www.nasa.gov/general/nasa-glenn-employees-named-aiaa-associate-fellows/" >🔗</a> **[NASA]** NASA Glenn Employees Named AIAA Associate Fellows
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T220117">2024-11-13 22:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T223337">2024-11-13 22:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
