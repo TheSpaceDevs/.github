@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jpl-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** JPL announces new round of layoffs
+- <a href="https://science.nasa.gov/blog/sols-4362-4363-plates-and-polygons/" >🔗</a> **[NASA]** Sols 4362-4363: Plates and Polygons
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-will-be-the-last-of-four-consecutive-supermoons/" >🔗</a> **[NASA]** The Next Full Moon Will Be the Last of Four Consecutive Supermoons
 - <a href="https://spacepolicyonline.com/news/a-second-round-of-layoffs-at-jpl/" >🔗</a> **[SpacePolicyOnline.com]** A Second Round of Layoffs at JPL
 - <a href="https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/11/13/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/rocket-lab-wins-8-million-u-s-air-force-contract-for-engine-development/" >🔗</a> **[SpaceNews]** Rocket Lab wins $8 million U.S. Air Force contract for engine development
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" >🔗</a> **[NASA]** JPL Workforce Update
-- <a href="https://spacenews.com/sierra-space-clears-design-review-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Sierra Space clears design review in military satellite program
-- <a href="https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/" >🔗</a> **[NASA]** Oral History with R. Walter Cunningham
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T080132">2024-11-13 08:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T083512">2024-11-13 08:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
