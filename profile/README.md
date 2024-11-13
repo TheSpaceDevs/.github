@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Extreme_heat_weakens_land_s_power_to_absorb_carbon" >🔗</a> **[ESA]** Extreme heat weakens land’s power to absorb carbon
+- <a href="https://europeanspaceflight.com/arianegroup-qualifies-ariane-6-upper-stage-for-four-booster-launches/" >🔗</a> **[European Spaceflight]** ArianeGroup Qualifies Ariane 6 Upper Stage for Four-Booster Launches
 - <a href="https://spacenews.com/jpl-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** JPL announces new round of layoffs
 - <a href="https://science.nasa.gov/blog/sols-4362-4363-plates-and-polygons/" >🔗</a> **[NASA]** Sols 4362-4363: Plates and Polygons
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-will-be-the-last-of-four-consecutive-supermoons/" >🔗</a> **[NASA]** The Next Full Moon Will Be the Last of Four Consecutive Supermoons
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Roy Armstrong
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-juan-torres-perez/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Juan Torres-Pérez
 - <a href="https://spaceflightnow.com/2024/11/13/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://spacenews.com/rocket-lab-wins-8-million-u-s-air-force-contract-for-engine-development/" >🔗</a> **[SpaceNews]** Rocket Lab wins $8 million U.S. Air Force contract for engine development
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" >🔗</a> **[NASA]** JPL Workforce Update
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T090119">2024-11-13 09:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T093231">2024-11-13 09:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
