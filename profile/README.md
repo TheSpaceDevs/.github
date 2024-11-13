@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-faces-disruptive-presidential-transition/" >🔗</a> **[SpaceNews]** NASA faces disruptive presidential transition
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Expanding_satellite_broadband_access_to_underserved_areas_across_Europe" >🔗</a> **[ESA]** Expanding satellite broadband access to underserved areas across Europe
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Extreme_heat_weakens_land_s_power_to_absorb_carbon" >🔗</a> **[ESA]** Extreme heat weakens land’s power to absorb carbon
 - <a href="https://europeanspaceflight.com/arianegroup-qualifies-ariane-6-upper-stage-for-four-booster-launches/" >🔗</a> **[European Spaceflight]** ArianeGroup Qualifies Ariane 6 Upper Stage for Four-Booster Launches
 - <a href="https://spacenews.com/jpl-announces-new-round-of-layoffs/" >🔗</a> **[SpaceNews]** JPL announces new round of layoffs
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/a-second-round-of-layoffs-at-jpl/" >🔗</a> **[SpacePolicyOnline.com]** A Second Round of Layoffs at JPL
 - <a href="https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Roy Armstrong
-- <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-juan-torres-perez/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Juan Torres-Pérez
-- <a href="https://spaceflightnow.com/2024/11/13/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T100119">2024-11-13 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T103458">2024-11-13 10:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
