@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-samuel-suleiman/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Samuel Suleiman
 - <a href="https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/" >🔗</a> **[NASA]** Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-chief-counsel-named-to-csu-law-hall-of-fame/" >🔗</a> **[NASA]** NASA Glenn Chief Counsel Named to CSU Law Hall of Fame
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-encourages-careers-in-stem-during-event/" >🔗</a> **[NASA]** NASA Encourages Careers in STEM During Event
@@ -98,9 +99,8 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_Not_because_it_is_easy" >🔗</a> **[ESA]** Proba-3: Not because it is easy…
 - <a href="https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/" >🔗</a> **[NASA]** NASA Data Helps International Community Prepare for Sea Level Rise
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-denmark-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Denmark as Newest Artemis Accords Signatory
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Introducing_the_Smile_mission_Let_s_Smile_episode_1" >🔗</a> **[ESA]** Introducing the Smile mission – Let’s Smile (episode 1)
 - <a href="https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/" >🔗</a> **[NASA]** Wearable Tech for Space Station Research
-- <a href="https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/" >🔗</a> **[NASA]** NASA’s Swift Studies Gas-Churning Monster Black Holes
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Introducing_the_Smile_mission_Let_s_Smile_episode_1" >🔗</a> **[ESA]** Introducing the Smile mission – Let’s Smile (episode 1)
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T180131">2024-11-13 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T183539">2024-11-13 18:35:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
