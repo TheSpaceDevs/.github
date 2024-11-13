@@ -55,7 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T220000">2024-11-18 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Integrated Flight Test 6&location=SpaceX Starbase, TX, USA&dates=20241118T220000Z%2F20241118T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Integrated Flight Test 6** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122223">2024-11-21 12:22:23 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122223Z%2F20241121T122223Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T155300">2024-11-21 15:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-66&location=Cape Canaveral SFS, FL, USA&dates=20241121T155300Z%2F20241121T195300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-66** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T000000">2024-11-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ice AIS Baby (Kinéis 11-15)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241123T000000Z%2F20241123T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ice AIS Baby (Kinéis 11-15)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T024900">2024-11-23 02:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ice AIS Baby (Kinéis 11-15)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241123T024900Z%2F20241123T024900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ice AIS Baby (Kinéis 11-15)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-will-be-the-last-of-four-consecutive-supermoons/" >🔗</a> **[NASA]** The Next Full Moon Will Be the Last of Four Consecutive Supermoons
 - <a href="https://spacepolicyonline.com/news/a-second-round-of-layoffs-at-jpl/" >🔗</a> **[SpacePolicyOnline.com]** A Second Round of Layoffs at JPL
 - <a href="https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/" >🔗</a> **[NASA]** Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Roy Armstrong
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" >🔗</a> **[NASA]** JPL Workforce Update
 - <a href="https://spacenews.com/sierra-space-clears-design-review-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Sierra Space clears design review in military satellite program
 - <a href="https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/" >🔗</a> **[NASA]** Oral History with R. Walter Cunningham
-- <a href="https://www.cnbc.com/2024/11/12/rocket-lab-rklb-q3-strong-revenue-growth-first-neutron-deal.html" >🔗</a> **[CNBC]** Rocket Lab stock pops 25% after company reports strong revenue growth, first Neutron deal
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T070111">2024-11-13 07:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241113T073116">2024-11-13 07:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
