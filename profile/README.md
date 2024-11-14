@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Space Weather Program
+- <a href="https://www.nasa.gov/news-release/nasa-johnson-invites-proposals-to-lease-vibration-test-facility/" >🔗</a> **[NASA]** NASA Johnson Invites Proposals to Lease Vibration Test Facility
+- <a href="https://www.nasa.gov/news-release/nasa-peru-agree-to-study-potential-sounding-rocket-campaign/" >🔗</a> **[NASA]** NASA, Peru Agree to Study Potential Sounding Rocket Campaign
+- <a href="https://spacenews.com/china-unveils-fully-reusable-starship-like-rocket-concept/" >🔗</a> **[SpaceNews]** China unveils fully reusable Starship-like rocket concept
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/south-pole-safety-designing-the-nasa-lunar-rescue-system/" >🔗</a> **[NASA]** South Pole Safety: Designing the NASA Lunar Rescue System
 - <a href="https://www.nasa.gov/image-article/nasa-leadership-hosts-future-focused-dialogues-with-kennedy-employees/" >🔗</a> **[NASA]** NASA Leadership Hosts Future-Focused Dialogues with Kennedy Employees
 - <a href="https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/" >🔗</a> **[NASA]** Precision Pointing Goes the Distance on NASA Experiment
 - <a href="https://www.nasa.gov/image-article/55-years-ago-apollo-12-launches/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 12 Launches
 - <a href="https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 12 Makes a Pinpoint Landing on the Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-and-forest-service-use-balloon-to-help-firefighters-communicate/" >🔗</a> **[NASA]** NASA and Forest Service Use Balloon to Help Firefighters Communicate
-- <a href="https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/" >🔗</a> **[NASA]** NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
-- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-fall-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Fall 2024
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-aura-20th-anniversary-event/" >🔗</a> **[NASA]** Summary of Aura 20th Anniversary Event
-- <a href="https://science.nasa.gov/science-research/earth-science/updates-on-nasa-field-campaigns/" >🔗</a> **[NASA]** Updates on NASA Field Campaigns
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T210122">2024-11-14 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T213124">2024-11-14 21:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
