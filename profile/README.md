@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-and-forest-service-use-balloon-to-help-firefighters-communicate/" >🔗</a> **[NASA]** NASA and Forest Service Use Balloon to Help Firefighters Communicate
+- <a href="https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/" >🔗</a> **[NASA]** NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
+- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-fall-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Fall 2024
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-aura-20th-anniversary-event/" >🔗</a> **[NASA]** Summary of Aura 20th Anniversary Event
+- <a href="https://science.nasa.gov/science-research/earth-science/updates-on-nasa-field-campaigns/" >🔗</a> **[NASA]** Updates on NASA Field Campaigns
 - <a href="https://www.nasa.gov/news-release/stennis-secures-grant-for-clean-energy-project/" >🔗</a> **[NASA]** NASA Stennis Secures Grant for Clean Energy Project
 - <a href="https://www.teslarati.com/spacex-readies-sixth-starship-test-launch-date/" >🔗</a> **[Teslarati]** SpaceX readies for sixth Starship test launch: here’s when it could happen
 - <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/" >🔗</a> **[NASA]** NASA Seeks Options for Future Headquarters Building
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/" >🔗</a> **[NASA]** NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 - <a href="https://spacenews.com/ai-takes-aim-at-tedious-tasks-in-government-contracting/" >🔗</a> **[SpaceNews]** AI takes aim at tedious tasks in government contracting
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/" >🔗</a> **[NASA]** Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
-- <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-thermal-protection-system/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Thermal Protection System
-- <a href="https://spacenews.com/china-launches-first-haiyang-4-oceanography-satellite/" >🔗</a> **[SpaceNews]** China launches first Haiyang-4 oceanography satellite
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_signs_contracts_advancing_Greece_s_Earth_observation_capabilities" >🔗</a> **[ESA]** ESA signs contracts advancing Greece’s Earth observation capabilities
-- <a href="https://spacenews.com/denmark-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Denmark signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T180122">2024-11-14 18:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T183624">2024-11-14 18:36:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
