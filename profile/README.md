@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/denmark-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Denmark signs Artemis Accords
 - <a href="https://spacenews.com/rocket-lab-signs-first-neutron-launch-customer/" >🔗</a> **[SpaceNews]** Rocket Lab signs first Neutron launch customer
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Space_for_Inspiration_shaping_new_markets_beyond_Earth" >🔗</a> **[ESA]** Space for Inspiration: shaping new markets beyond Earth
 - <a href="https://spaceflightnow.com/2024/11/14/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,17 +100,17 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/trumps-second-term-could-push-space-force-to-take-bolder-stance/" >🔗</a> **[SpaceNews]** Trump’s second term could push Space Force to take bolder stance
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-to-visit-sign-agreement-with-perus-space-agency/" >🔗</a> **[NASA]** NASA Administrator to Visit, Sign Agreement with Peru’s Space Agency
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/space-waste-revolution-challenge/" >🔗</a> **[NASA]** Space Waste Revolution Challenge
-- <a href="https://www.nasa.gov/image-article/a-caribbean-spacewalk/" >🔗</a> **[NASA]** A Caribbean Spacewalk
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/11/14/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T120157">2024-11-14 12:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T124239">2024-11-14 12:42:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
