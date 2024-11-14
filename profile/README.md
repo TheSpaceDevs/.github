@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trumps-america-first-policy-faces-test-in-space/" >🔗</a> **[SpaceNews]** Trump’s ‘America First’ policy faces test in space
 - <a href="https://spacenews.com/northrop-grumman-eyes-2026-launch-of-robot-armed-satellite-servicer/" >🔗</a> **[SpaceNews]** Northrop Grumman eyes 2026 launch of robot-armed satellite servicer
 - <a href="https://spacenews.com/southwest-research-institute-to-supply-noaa-coronagraphs/" >🔗</a> **[SpaceNews]** Southwest Research Institute to supply NOAA coronagraphs
 - <a href="https://www.nasa.gov/news-release/la-nasa-y-peru-acuerdan-estudiar-una-posible-campana-de-lanzamiento-de-cohetes-sonda/" >🔗</a> **[NASA]** La NASA y Perú acuerdan estudiar una posible campaña de lanzamiento de cohetes sonda
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-johnson-invites-proposals-to-lease-vibration-test-facility/" >🔗</a> **[NASA]** NASA Johnson Invites Proposals to Lease Vibration Test Facility
 - <a href="https://www.nasa.gov/news-release/nasa-peru-agree-to-study-potential-sounding-rocket-campaign/" >🔗</a> **[NASA]** NASA, Peru Agree to Study Potential Sounding Rocket Campaign
 - <a href="https://spacenews.com/china-unveils-fully-reusable-starship-like-rocket-concept/" >🔗</a> **[SpaceNews]** China unveils fully reusable Starship-like rocket concept
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/south-pole-safety-designing-the-nasa-lunar-rescue-system/" >🔗</a> **[NASA]** South Pole Safety: Designing the NASA Lunar Rescue System
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T230126">2024-11-14 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T233142">2024-11-14 23:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
