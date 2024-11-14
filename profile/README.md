@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/" >🔗</a> **[NASA]** Precision Pointing Goes the Distance on NASA Experiment
+- <a href="https://www.nasa.gov/image-article/55-years-ago-apollo-12-launches/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 12 Launches
+- <a href="https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 12 Makes a Pinpoint Landing on the Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-and-forest-service-use-balloon-to-help-firefighters-communicate/" >🔗</a> **[NASA]** NASA and Forest Service Use Balloon to Help Firefighters Communicate
 - <a href="https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/" >🔗</a> **[NASA]** NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-fall-2024/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: Fall 2024
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/updates-on-nasa-field-campaigns/" >🔗</a> **[NASA]** Updates on NASA Field Campaigns
 - <a href="https://www.nasa.gov/news-release/stennis-secures-grant-for-clean-energy-project/" >🔗</a> **[NASA]** NASA Stennis Secures Grant for Clean Energy Project
 - <a href="https://www.teslarati.com/spacex-readies-sixth-starship-test-launch-date/" >🔗</a> **[Teslarati]** SpaceX readies for sixth Starship test launch: here’s when it could happen
-- <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/" >🔗</a> **[NASA]** NASA Seeks Options for Future Headquarters Building
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/" >🔗</a> **[NASA]** NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
-- <a href="https://spacenews.com/ai-takes-aim-at-tedious-tasks-in-government-contracting/" >🔗</a> **[SpaceNews]** AI takes aim at tedious tasks in government contracting
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T190116">2024-11-14 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T193104">2024-11-14 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
