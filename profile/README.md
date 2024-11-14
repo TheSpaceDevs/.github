@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-roscosmos-disagree-on-cause-and-severity-of-iss-air-leak/" >🔗</a> **[SpaceNews]** NASA and Roscosmos disagree on cause and severity of ISS air leak
 - <a href="https://spacenews.com/spire-global-offloads-commercial-maritime-business-for-241-million/" >🔗</a> **[SpaceNews]** Spire Global offloads commercial maritime business for $241 million
 - <a href="https://spacenews.com/booz-allen-ventures-invests-in-satellite-servicing-startup-starfish-space/" >🔗</a> **[SpaceNews]** Satellite-servicing startup Starfish Space raises $29 million
 - <a href="https://spacenews.com/trumps-second-term-could-push-space-force-to-take-bolder-stance/" >🔗</a> **[SpaceNews]** Trump’s second term could push Space Force to take bolder stance
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/kratos-to-develop-ground-system-for-u-s-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Kratos to develop ground system for U.S. missile defense satellites
 - <a href="https://spacepolicyonline.com/news/u-s-russia-disagree-on-causes-risks-of-leaks-on-iss/" >🔗</a> **[SpacePolicyOnline.com]** U.S., Russia Disagree on Causes, Risks of Leaks on ISS
 - <a href="https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-samuel-suleiman/" >🔗</a> **[NASA]** Entrevista con Instructor de OCEANOS Samuel Suleiman
-- <a href="https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/" >🔗</a> **[NASA]** Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T000412">2024-11-14 00:04:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T004534">2024-11-14 00:45:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
