@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Space_for_Inspiration_shaping_new_markets_beyond_Earth" >🔗</a> **[ESA]** Space for Inspiration: shaping new markets beyond Earth
 - <a href="https://spaceflightnow.com/2024/11/14/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-and-roscosmos-disagree-on-cause-and-severity-of-iss-air-leak/" >🔗</a> **[SpaceNews]** NASA and Roscosmos disagree on cause and severity of ISS air leak
 - <a href="https://spacenews.com/spire-global-offloads-commercial-maritime-business-for-241-million/" >🔗</a> **[SpaceNews]** Spire Global offloads commercial maritime business for $241 million
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/space-waste-revolution-challenge/" >🔗</a> **[NASA]** Space Waste Revolution Challenge
 - <a href="https://www.nasa.gov/image-article/a-caribbean-spacewalk/" >🔗</a> **[NASA]** A Caribbean Spacewalk
 - <a href="https://spacenews.com/kratos-to-develop-ground-system-for-u-s-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Kratos to develop ground system for U.S. missile defense satellites
-- <a href="https://spacepolicyonline.com/news/u-s-russia-disagree-on-causes-risks-of-leaks-on-iss/" >🔗</a> **[SpacePolicyOnline.com]** U.S., Russia Disagree on Causes, Risks of Leaks on ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T090121">2024-11-14 09:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T093235">2024-11-14 09:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
