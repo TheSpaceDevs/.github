@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/" >🔗</a> **[NASA]** NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/" >🔗</a> **[NASA]** Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
+- <a href="https://spacenews.com/ai-takes-aim-at-tedious-tasks-in-government-contracting/" >🔗</a> **[SpaceNews]** AI takes aim at tedious tasks in government contracting
+- <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-thermal-protection-system/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Thermal Protection System
 - <a href="https://spacenews.com/china-launches-first-haiyang-4-oceanography-satellite/" >🔗</a> **[SpaceNews]** China launches first Haiyang-4 oceanography satellite
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_signs_contracts_advancing_Greece_s_Earth_observation_capabilities" >🔗</a> **[ESA]** ESA signs contracts advancing Greece’s Earth observation capabilities
 - <a href="https://spacenews.com/denmark-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Denmark signs Artemis Accords
 - <a href="https://spacenews.com/rocket-lab-signs-first-neutron-launch-customer/" >🔗</a> **[SpaceNews]** Rocket Lab signs first Neutron launch customer
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Space_for_Inspiration_shaping_new_markets_beyond_Earth" >🔗</a> **[ESA]** Space for Inspiration: shaping new markets beyond Earth
 - <a href="https://spaceflightnow.com/2024/11/14/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/nasa-and-roscosmos-disagree-on-cause-and-severity-of-iss-air-leak/" >🔗</a> **[SpaceNews]** NASA and Roscosmos disagree on cause and severity of ISS air leak
-- <a href="https://spacenews.com/spire-global-offloads-commercial-maritime-business-for-241-million/" >🔗</a> **[SpaceNews]** Spire Global offloads commercial maritime business for $241 million
-- <a href="https://spacenews.com/booz-allen-ventures-invests-in-satellite-servicing-startup-starfish-space/" >🔗</a> **[SpaceNews]** Satellite-servicing startup Starfish Space raises $29 million
-- <a href="https://spacenews.com/trumps-second-term-could-push-space-force-to-take-bolder-stance/" >🔗</a> **[SpaceNews]** Trump’s second term could push Space Force to take bolder stance
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T150123">2024-11-14 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T153323">2024-11-14 15:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
