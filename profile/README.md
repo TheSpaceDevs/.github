@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/stennis-secures-grant-for-clean-energy-project/" >🔗</a> **[NASA]** NASA Stennis Secures Grant for Clean Energy Project
+- <a href="https://www.teslarati.com/spacex-readies-sixth-starship-test-launch-date/" >🔗</a> **[Teslarati]** SpaceX readies for sixth Starship test launch: here’s when it could happen
+- <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/" >🔗</a> **[NASA]** NASA Seeks Options for Future Headquarters Building
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/" >🔗</a> **[NASA]** NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/" >🔗</a> **[NASA]** Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
 - <a href="https://spacenews.com/ai-takes-aim-at-tedious-tasks-in-government-contracting/" >🔗</a> **[SpaceNews]** AI takes aim at tedious tasks in government contracting
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/" >🔗</a> **[NASA]** Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-thermal-protection-system/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Thermal Protection System
 - <a href="https://spacenews.com/china-launches-first-haiyang-4-oceanography-satellite/" >🔗</a> **[SpaceNews]** China launches first Haiyang-4 oceanography satellite
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/ESA_signs_contracts_advancing_Greece_s_Earth_observation_capabilities" >🔗</a> **[ESA]** ESA signs contracts advancing Greece’s Earth observation capabilities
 - <a href="https://spacenews.com/denmark-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Denmark signs Artemis Accords
-- <a href="https://spacenews.com/rocket-lab-signs-first-neutron-launch-customer/" >🔗</a> **[SpaceNews]** Rocket Lab signs first Neutron launch customer
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Space_for_Inspiration_shaping_new_markets_beyond_Earth" >🔗</a> **[ESA]** Space for Inspiration: shaping new markets beyond Earth
-- <a href="https://spaceflightnow.com/2024/11/14/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T160133">2024-11-14 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241114T163619">2024-11-14 16:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
