@@ -91,6 +91,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-receives-14th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 14th Consecutive ‘Clean’ Financial Audit Opinion
+- <a href="https://spacenews.com/faa-moves-forward-with-committee-to-review-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** FAA moves forward with committee to review launch licensing regulations
+- <a href="https://www.cnbc.com/2024/11/15/space-stocks-rally-trump-elon-trade.html" >🔗</a> **[CNBC]** Space stocks saw big gains this week in part due to ‘Trump-Elon trade’ rally, analysts say
 - <a href="https://spacenews.com/tianzhou-8-spacecraft-delivers-supplies-key-experiments-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-8 spacecraft delivers supplies, key experiments to Tiangong space station
 - <a href="https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/" >🔗</a> **[NASA]** NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
 - <a href="https://spacenews.com/shotwell-predicts-starship-to-be-most-valuable-part-of-spacex/" >🔗</a> **[SpaceNews]** Shotwell predicts Starship to be most valuable part of SpaceX
@@ -98,9 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.cnbc.com/2024/11/15/spacex-gwynne-shotwell-starlink-competition.html" >🔗</a> **[CNBC]** SpaceX president: ‘There is plenty of room for competition,’ as Starlink nears 5 million customers
 - <a href="https://www.nasa.gov/image-article/two-years-ago-artemis-i-liftoff/" >🔗</a> **[NASA]** Two Years Ago: Artemis I Liftoff
 - <a href="https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/" >🔗</a> **[NASA]** NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
-- <a href="https://arstechnica.com/space/2024/11/citing-decreasing-launch-opportunities-abl-space-will-pivot-to-missile-defense/" >🔗</a> **[Arstechnica]** As ABL Space departs launch, the 1-ton rocket wars have a clear winner
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_November_2024" >🔗</a> **[ESA]** Week in images: 11-15 November 2024
-- <a href="https://spacenews.com/abl-space-exits-commercial-launch-market-shifts-focus-to-missile-defense/" >🔗</a> **[SpaceNews]** ABL Space exits commercial launch market, shifts focus to missile defense
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T220122">2024-11-15 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T223506">2024-11-15 22:35:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
