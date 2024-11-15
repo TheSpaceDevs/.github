@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/11/citing-decreasing-launch-opportunities-abl-space-will-pivot-to-missile-defense/" >🔗</a> **[Arstechnica]** As ABL Space departs launch, the 1-ton rocket wars have a clear winner
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_November_2024" >🔗</a> **[ESA]** Week in images: 11-15 November 2024
 - <a href="https://spacenews.com/abl-space-exits-commercial-launch-market-shifts-focus-to-missile-defense/" >🔗</a> **[SpaceNews]** ABL Space exits commercial launch market, shifts focus to missile defense
 - <a href="https://spacenews.com/to-lead-the-next-wave-of-space-based-radar-u-s-must-learn-from-gps-success/" >🔗</a> **[SpaceNews]** To lead the next wave of space-based radar, U.S. must learn from GPS success
@@ -100,17 +101,16 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Clouds_or_snow" >🔗</a> **[ESA]** Earth from Space: Clouds or snow?
 - <a href="https://europeanspaceflight.com/esa-releases-findings-of-super-heavy-lift-rocket-studies/" >🔗</a> **[European Spaceflight]** ESA Releases Findings of Super Heavy-Lift Rocket Studies
 - <a href="https://spacenews.com/ast-spacemobile-leans-on-blue-origin-to-ramp-up-satellite-launches/" >🔗</a> **[SpaceNews]** AST SpaceMobile leans on Blue Origin to ramp up satellite launches
-- <a href="https://www.nasa.gov/general/aging-and-fragility-biomarkers-are-altered-by-spaceflight/" >🔗</a> **[NASA]** Aging and Fragility Biomarkers are Altered by Spaceflight
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China to fly resupply mission to Tiangong
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China fly resupply mission to Tiangong
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T160134">2024-11-15 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T163637">2024-11-15 16:36:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
