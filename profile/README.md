@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tianzhou-8-spacecraft-delivers-supplies-key-experiments-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-8 spacecraft delivers supplies, key experiments to Tiangong space station
 - <a href="https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/" >🔗</a> **[NASA]** NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
 - <a href="https://spacenews.com/shotwell-predicts-starship-to-be-most-valuable-part-of-spacex/" >🔗</a> **[SpaceNews]** Shotwell predicts Starship to be most valuable part of SpaceX
 - <a href="https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/" >🔗</a> **[NASA]** Six Ways Supercomputing Advances Our Understanding of the Universe
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2024/11/citing-decreasing-launch-opportunities-abl-space-will-pivot-to-missile-defense/" >🔗</a> **[Arstechnica]** As ABL Space departs launch, the 1-ton rocket wars have a clear winner
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_November_2024" >🔗</a> **[ESA]** Week in images: 11-15 November 2024
 - <a href="https://spacenews.com/abl-space-exits-commercial-launch-market-shifts-focus-to-missile-defense/" >🔗</a> **[SpaceNews]** ABL Space exits commercial launch market, shifts focus to missile defense
-- <a href="https://spacenews.com/to-lead-the-next-wave-of-space-based-radar-u-s-must-learn-from-gps-success/" >🔗</a> **[SpaceNews]** To lead the next wave of space-based radar, U.S. must learn from GPS success
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T200123">2024-11-15 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T203254">2024-11-15 20:32:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
