@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/" >🔗</a> **[NASA]** Six Ways Supercomputing Advances Our Understanding of the Universe
 - <a href="https://www.cnbc.com/2024/11/15/spacex-gwynne-shotwell-starlink-competition.html" >🔗</a> **[CNBC]** SpaceX president: ‘There is plenty of room for competition,’ as Starlink nears 5 million customers
 - <a href="https://www.nasa.gov/image-article/two-years-ago-artemis-i-liftoff/" >🔗</a> **[NASA]** Two Years Ago: Artemis I Liftoff
 - <a href="https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/" >🔗</a> **[NASA]** NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/to-lead-the-next-wave-of-space-based-radar-u-s-must-learn-from-gps-success/" >🔗</a> **[SpaceNews]** To lead the next wave of space-based radar, U.S. must learn from GPS success
 - <a href="https://spacenews.com/foust-forward-is-there-a-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** Foust Forward | Is there a business case for the moon?
 - <a href="https://spacenews.com/impulse-space-buys-three-falcon-9-launches/" >🔗</a> **[SpaceNews]** Impulse Space buys three Falcon 9 launches
-- <a href="https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/" >🔗</a> **[NASA]** Hubble Takes a Look at Tangled Galaxies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T180129">2024-11-15 18:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T183626">2024-11-15 18:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
