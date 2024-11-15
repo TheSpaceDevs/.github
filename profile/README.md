@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-leans-on-blue-origin-to-ramp-up-satellite-launches/" >🔗</a> **[SpaceNews]** AST SpaceMobile leans on Blue Origin to ramp up satellite launches
 - <a href="https://www.nasa.gov/general/aging-and-fragility-biomarkers-are-altered-by-spaceflight/" >🔗</a> **[NASA]** Aging and Fragility Biomarkers are Altered by Spaceflight
 - <a href="https://spacenews.com/intuitive-machines-calls-for-infrastructure-first-focus-for-artemis/" >🔗</a> **[SpaceNews]** Intuitive Machines calls for “infrastructure-first” focus for Artemis
 - <a href="https://spacenews.com/trumps-america-first-policy-faces-test-in-space/" >🔗</a> **[SpaceNews]** Trump’s ‘America First’ policy faces test in space
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-official-endorses-cooperation-with-the-u-s-on-space-exploration/" >🔗</a> **[SpaceNews]** Chinese official endorses cooperation with the U.S. on space exploration
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-diana-oglesby/" >🔗</a> **[NASA]** Meet the Space Ops Team: Diana Oglesby
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Space Weather Program
-- <a href="https://www.nasa.gov/news-release/nasa-johnson-invites-proposals-to-lease-vibration-test-facility/" >🔗</a> **[NASA]** NASA Johnson Invites Proposals to Lease Vibration Test Facility
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T004542">2024-11-15 00:45:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T012829">2024-11-15 01:28:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
