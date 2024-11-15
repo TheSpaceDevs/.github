@@ -97,10 +97,10 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/trumps-america-first-policy-faces-test-in-space/" >🔗</a> **[SpaceNews]** Trump’s ‘America First’ policy faces test in space
 - <a href="https://spacenews.com/northrop-grumman-eyes-2026-launch-of-robot-armed-satellite-servicer/" >🔗</a> **[SpaceNews]** Northrop Grumman eyes 2026 launch of robot-armed satellite servicer
 - <a href="https://spacenews.com/southwest-research-institute-to-supply-noaa-coronagraphs/" >🔗</a> **[SpaceNews]** Southwest Research Institute to supply NOAA coronagraphs
-- <a href="https://www.nasa.gov/news-release/la-nasa-y-peru-acuerdan-estudiar-una-posible-campana-de-lanzamiento-de-cohetes-sonda/" >🔗</a> **[NASA]** La NASA y Perú acuerdan estudiar una posible campaña de lanzamiento de cohetes sonda
 - <a href="https://spacenews.com/chinese-official-endorses-cooperation-with-the-u-s-on-space-exploration/" >🔗</a> **[SpaceNews]** Chinese official endorses cooperation with the U.S. on space exploration
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-diana-oglesby/" >🔗</a> **[NASA]** Meet the Space Ops Team: Diana Oglesby
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Space Weather Program
+- <a href="https://www.nasa.gov/news-release/nasa-johnson-invites-proposals-to-lease-vibration-test-facility/" >🔗</a> **[NASA]** NASA Johnson Invites Proposals to Lease Vibration Test Facility
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T070130">2024-11-15 07:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T073204">2024-11-15 07:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
