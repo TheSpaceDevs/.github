@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/" >🔗</a> **[NASA]** NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
+- <a href="https://spacenews.com/shotwell-predicts-starship-to-be-most-valuable-part-of-spacex/" >🔗</a> **[SpaceNews]** Shotwell predicts Starship to be most valuable part of SpaceX
 - <a href="https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/" >🔗</a> **[NASA]** Six Ways Supercomputing Advances Our Understanding of the Universe
 - <a href="https://www.cnbc.com/2024/11/15/spacex-gwynne-shotwell-starlink-competition.html" >🔗</a> **[CNBC]** SpaceX president: ‘There is plenty of room for competition,’ as Starlink nears 5 million customers
 - <a href="https://www.nasa.gov/image-article/two-years-ago-artemis-i-liftoff/" >🔗</a> **[NASA]** Two Years Ago: Artemis I Liftoff
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_November_2024" >🔗</a> **[ESA]** Week in images: 11-15 November 2024
 - <a href="https://spacenews.com/abl-space-exits-commercial-launch-market-shifts-focus-to-missile-defense/" >🔗</a> **[SpaceNews]** ABL Space exits commercial launch market, shifts focus to missile defense
 - <a href="https://spacenews.com/to-lead-the-next-wave-of-space-based-radar-u-s-must-learn-from-gps-success/" >🔗</a> **[SpaceNews]** To lead the next wave of space-based radar, U.S. must learn from GPS success
-- <a href="https://spacenews.com/foust-forward-is-there-a-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** Foust Forward | Is there a business case for the moon?
-- <a href="https://spacenews.com/impulse-space-buys-three-falcon-9-launches/" >🔗</a> **[SpaceNews]** Impulse Space buys three Falcon 9 launches
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T190108">2024-11-15 19:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T193104">2024-11-15 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
