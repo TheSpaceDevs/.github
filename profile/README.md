@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/foust-forward-is-there-a-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** Foust Forward | Is there a business case for the moon?
 - <a href="https://spacenews.com/impulse-space-buys-three-falcon-9-launches/" >🔗</a> **[SpaceNews]** Impulse Space buys three Falcon 9 launches
 - <a href="https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/" >🔗</a> **[NASA]** Hubble Takes a Look at Tangled Galaxies
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Clouds_or_snow" >🔗</a> **[ESA]** Earth from Space: Clouds or snow?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/intuitive-machines-calls-for-infrastructure-first-focus-for-artemis/" >🔗</a> **[SpaceNews]** Intuitive Machines calls for “infrastructure-first” focus for Artemis
 - <a href="https://spacenews.com/trumps-america-first-policy-faces-test-in-space/" >🔗</a> **[SpaceNews]** Trump’s ‘America First’ policy faces test in space
 - <a href="https://spacenews.com/northrop-grumman-eyes-2026-launch-of-robot-armed-satellite-servicer/" >🔗</a> **[SpaceNews]** Northrop Grumman eyes 2026 launch of robot-armed satellite servicer
-- <a href="https://spacenews.com/southwest-research-institute-to-supply-noaa-coronagraphs/" >🔗</a> **[SpaceNews]** Southwest Research Institute to supply NOAA coronagraphs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T130632">2024-11-15 13:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T133440">2024-11-15 13:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
