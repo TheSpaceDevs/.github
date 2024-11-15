@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-buys-three-falcon-9-launches/" >🔗</a> **[SpaceNews]** Impulse Space buys three Falcon 9 launches
+- <a href="https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/" >🔗</a> **[NASA]** Hubble Takes a Look at Tangled Galaxies
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Clouds_or_snow" >🔗</a> **[ESA]** Earth from Space: Clouds or snow?
 - <a href="https://europeanspaceflight.com/esa-releases-findings-of-super-heavy-lift-rocket-studies/" >🔗</a> **[European Spaceflight]** ESA Releases Findings of Super Heavy-Lift Rocket Studies
 - <a href="https://spacenews.com/ast-spacemobile-leans-on-blue-origin-to-ramp-up-satellite-launches/" >🔗</a> **[SpaceNews]** AST SpaceMobile leans on Blue Origin to ramp up satellite launches
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/trumps-america-first-policy-faces-test-in-space/" >🔗</a> **[SpaceNews]** Trump’s ‘America First’ policy faces test in space
 - <a href="https://spacenews.com/northrop-grumman-eyes-2026-launch-of-robot-armed-satellite-servicer/" >🔗</a> **[SpaceNews]** Northrop Grumman eyes 2026 launch of robot-armed satellite servicer
 - <a href="https://spacenews.com/southwest-research-institute-to-supply-noaa-coronagraphs/" >🔗</a> **[SpaceNews]** Southwest Research Institute to supply NOAA coronagraphs
-- <a href="https://spacenews.com/chinese-official-endorses-cooperation-with-the-u-s-on-space-exploration/" >🔗</a> **[SpaceNews]** Chinese official endorses cooperation with the U.S. on space exploration
-- <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-diana-oglesby/" >🔗</a> **[NASA]** Meet the Space Ops Team: Diana Oglesby
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T120139">2024-11-15 12:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241115T124241">2024-11-15 12:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
