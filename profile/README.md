@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/two-senate-space-leaders-call-for-investigation-into-musk-putin-relationshp/" >🔗</a> **[SpacePolicyOnline.com]** Two Senate Space Leaders Call for Investigation into Musk-Putin Relationshp
+- <a href="https://spacepolicyonline.com/news/two-senate-space-leaders-call-for-investigation-into-musk-putin-relationship/" >🔗</a> **[SpacePolicyOnline.com]** Two Senate Space Leaders Call for Investigation into Musk-Putin Relationship
 - <a href="https://www.nasa.gov/news-release/nasa-receives-14th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 14th Consecutive ‘Clean’ Financial Audit Opinion
 - <a href="https://spacenews.com/faa-moves-forward-with-committee-to-review-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** FAA moves forward with committee to review launch licensing regulations
 - <a href="https://www.cnbc.com/2024/11/15/space-stocks-rally-trump-elon-trade.html" >🔗</a> **[CNBC]** Space stocks saw big gains this week in part due to ‘Trump-Elon trade’ rally, analysts say
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/shotwell-predicts-starship-to-be-most-valuable-part-of-spacex/" >🔗</a> **[SpaceNews]** Shotwell predicts Starship to be most valuable part of SpaceX
 - <a href="https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/" >🔗</a> **[NASA]** Six Ways Supercomputing Advances Our Understanding of the Universe
 - <a href="https://www.cnbc.com/2024/11/15/spacex-gwynne-shotwell-starlink-competition.html" >🔗</a> **[CNBC]** SpaceX president: ‘There is plenty of room for competition,’ as Starlink nears 5 million customers
-- <a href="https://www.nasa.gov/image-article/two-years-ago-artemis-i-liftoff/" >🔗</a> **[NASA]** Two Years Ago: Artemis I Liftoff
-- <a href="https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/" >🔗</a> **[NASA]** NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241116T050129">2024-11-16 05:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241116T053333">2024-11-16 05:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
