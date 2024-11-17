@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
 - <a href="https://spacenews.com/space-force-taps-optech-for-4-5-million-optical-sensor-payload/" >🔗</a> **[SpaceNews]** Space Force taps OpTech for $4.5 million optical sensor payload
 - <a href="https://spacepolicyonline.com/news/two-senate-space-leaders-call-for-investigation-into-musk-putin-relationship/" >🔗</a> **[SpacePolicyOnline.com]** Two Senate Space Leaders Call for Investigation into Musk-Putin Relationship
 - <a href="https://www.nasa.gov/news-release/nasa-receives-14th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 14th Consecutive ‘Clean’ Financial Audit Opinion
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/" >🔗</a> **[NASA]** NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
 - <a href="https://spacenews.com/shotwell-predicts-starship-to-be-most-valuable-part-of-spacex/" >🔗</a> **[SpaceNews]** Shotwell predicts Starship to be most valuable part of SpaceX
 - <a href="https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/" >🔗</a> **[NASA]** Six Ways Supercomputing Advances Our Understanding of the Universe
-- <a href="https://www.cnbc.com/2024/11/15/spacex-gwynne-shotwell-starlink-competition.html" >🔗</a> **[CNBC]** SpaceX president: ‘There is plenty of room for competition,’ as Starlink nears 5 million customers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241117T140114">2024-11-17 14:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241117T143256">2024-11-17 14:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
