@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 15, 2024
 - <a href="https://www.nasa.gov/general/november-transformer-of-the-month-ariel-vargas/" >🔗</a> **[NASA]** November Transformer of the Month: Ariel Vargas
 - <a href="https://www.nasa.gov/image-article/first-nations-launch-winners-watch-crew-7-launch/" >🔗</a> **[NASA]** First Nations Launch Winners Watch Crew-7 Launch
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/" >🔗</a> **[NASA]** Hollywood Techniques Help NASA Visualize Supercomputing Data
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-flight-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX prepare for Starship Flight 6, another Booster catch and a daylight Ship splashdown
 - <a href="https://www.nasa.gov/general/nasa-program-aids-pediatric-patients-facing-medical-treatments/" >🔗</a> **[NASA]** NASA Program Aids Pediatric Patients Facing Medical Treatments
-- <a href="https://spaceflightnow.com/2024/11/18/live-coverage-spacex-to-launch-indias-gsat-n2-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launches India’s GSAT-N2 satellite on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T200132">2024-11-18 20:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T203308">2024-11-18 20:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
