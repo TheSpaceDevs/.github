@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/november-transformer-of-the-month-ariel-vargas/" >🔗</a> **[NASA]** November Transformer of the Month: Ariel Vargas
+- <a href="https://www.nasa.gov/image-article/first-nations-launch-winners-watch-crew-7-launch/" >🔗</a> **[NASA]** First Nations Launch Winners Watch Crew-7 Launch
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/" >🔗</a> **[NASA]** 15 Years Ago: STS-129 Delivers Cargo on the Third Utilization and Logistics Flight
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 - <a href="https://www.nasa.gov/news-release/nasa-selects-new-leader-of-space-technology/" >🔗</a> **[NASA]** NASA Selects New Leader of Space Technology
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/" >🔗</a> **[NASA]** Hollywood Techniques Help NASA Visualize Supercomputing Data
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-flight-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX prepare for Starship Flight 6, another Booster catch and a daylight Ship splashdown
 - <a href="https://www.nasa.gov/general/nasa-program-aids-pediatric-patients-facing-medical-treatments/" >🔗</a> **[NASA]** NASA Program Aids Pediatric Patients Facing Medical Treatments
-- <a href="https://spaceflightnow.com/2024/11/18/live-coverage-spacex-to-launch-indias-gsat-n2-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch India’s GSAT-N2 satellite on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spaceflightnow.com/2024/11/18/live-coverage-spacex-to-launch-indias-gsat-n2-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** SpaceX launch India’s GSAT-N2 satellite on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2024/11/spacex-president-predicts-rapid-increase-in-starship-launch-rate/" >🔗</a> **[Arstechnica]** SpaceX president predicts rapid increase in Starship launch rate
-- <a href="https://europeanspaceflight.com/esa-study-outlines-2035-launch-of-nuclear-propulsion-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Study Outlines 2035 Launch of Nuclear Propulsion Demonstrator
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Sustainability_digitalisation_and_extraordinary_maintenance_contracts_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Sustainability, digitalisation and extraordinary maintenance contracts at Europe’s Spaceport
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T190121">2024-11-18 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T193100">2024-11-18 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
