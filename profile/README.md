@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-security-monitor-space-isac-expands-footprint-with-australian-center/" >🔗</a> **[SpaceNews]** Satellite security monitor Space ISAC expands footprint with Australian center
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/" >🔗</a> **[NASA]** Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 15, 2024
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 - <a href="https://www.nasa.gov/news-release/nasa-selects-new-leader-of-space-technology/" >🔗</a> **[NASA]** NASA Selects New Leader of Space Technology
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/" >🔗</a> **[NASA]** Hollywood Techniques Help NASA Visualize Supercomputing Data
-- <a href="https://www.nasaspaceflight.com/2024/11/starship-flight-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX prepare for Starship Flight 6, another Booster catch and a daylight Ship splashdown
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T220120">2024-11-18 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T223415">2024-11-18 22:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
