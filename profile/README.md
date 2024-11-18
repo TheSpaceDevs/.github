@@ -95,6 +95,7 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-study-outlines-2035-launch-of-nuclear-propulsion-demonstrator/" >🔗</a> **[European Spaceflight]** ESA Study Outlines 2035 Launch of Nuclear Propulsion Demonstrator
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Sustainability_digitalisation_and_extraordinary_maintenance_contracts_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Sustainability, digitalisation and extraordinary maintenance contracts at Europe’s Spaceport
 - <a href="https://spacenews.com/the-california-coastal-commissions-ruling-to-limit-spacex-launches-threatens-national-defense/" >🔗</a> **[SpaceNews]** The California Coastal Commission’s ruling to limit SpaceX launches threatens national defense
 - <a href="https://spacenews.com/on-national-security-pentagon-sends-mixed-signals-on-space-innovation/" >🔗</a> **[SpaceNews]** Pentagon sends mixed signals on space innovation
@@ -104,7 +105,6 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 - <a href="https://www.nasaspaceflight.com/2024/11/starships-sound-study1/" >🔗</a> **[NASASpaceflight]** New study reveals Starship’s true sound levels; shows differences between SLS and Falcon 9
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-17-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 17-24, 2024
 - <a href="https://europeanspaceflight.com/the-exploration-company-raises-160m-in-new-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $160M in New Funding
-- <a href="https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T150121">2024-11-18 15:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T153346">2024-11-18 15:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
