@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/" >🔗</a> **[NASA]** Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 15, 2024
 - <a href="https://www.nasa.gov/general/november-transformer-of-the-month-ariel-vargas/" >🔗</a> **[NASA]** November Transformer of the Month: Ariel Vargas
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-selects-new-leader-of-space-technology/" >🔗</a> **[NASA]** NASA Selects New Leader of Space Technology
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/" >🔗</a> **[NASA]** Hollywood Techniques Help NASA Visualize Supercomputing Data
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-flight-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX prepare for Starship Flight 6, another Booster catch and a daylight Ship splashdown
-- <a href="https://www.nasa.gov/general/nasa-program-aids-pediatric-patients-facing-medical-treatments/" >🔗</a> **[NASA]** NASA Program Aids Pediatric Patients Facing Medical Treatments
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T210116">2024-11-18 21:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T213152">2024-11-18 21:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
