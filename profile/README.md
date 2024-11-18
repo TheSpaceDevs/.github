@@ -95,6 +95,8 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Sustainability_digitalisation_and_extraordinary_maintenance_contracts_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Sustainability, digitalisation and extraordinary maintenance contracts at Europe’s Spaceport
+- <a href="https://spacenews.com/on-national-security-pentagon-sends-mixed-signals-on-space-innovation/" >🔗</a> **[SpaceNews]** Pentagon sends mixed signals on space innovation
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_fuelled_ahead_of_liftoff" >🔗</a> **[ESA]** Sentinel-1C fuelled ahead of liftoff
 - <a href="https://spacenews.com/the-exploration-company-raises-160-million-for-nyx-cargo-vehicle/" >🔗</a> **[SpaceNews]** The Exploration Company raises $160 million for Nyx cargo vehicle
 - <a href="https://spaceflightnow.com/2024/11/18/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
@@ -103,8 +105,6 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 - <a href="https://europeanspaceflight.com/the-exploration-company-raises-160m-in-new-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $160M in New Funding
 - <a href="https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
-- <a href="https://spacenews.com/space-force-taps-optech-for-4-5-million-optical-sensor-payload/" >🔗</a> **[SpaceNews]** Space Force taps OpTech for $4.5 million optical sensor payload
-- <a href="https://spacepolicyonline.com/news/two-senate-space-leaders-call-for-investigation-into-musk-putin-relationship/" >🔗</a> **[SpacePolicyOnline.com]** Two Senate Space Leaders Call for Investigation into Musk-Putin Relationship
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T130746">2024-11-18 13:07:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T133625">2024-11-18 13:36:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
