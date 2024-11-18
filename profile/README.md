@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/11/starship-noise-study/" >🔗</a> **[NASASpaceflight]** New study reveals Starship’s true sound levels; shows differences between SLS and Falcon 9
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-17-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 17-24, 2024
 - <a href="https://europeanspaceflight.com/the-exploration-company-raises-160m-in-new-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $160M in New Funding
-- <a href="https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
 - <a href="https://spacenews.com/space-force-taps-optech-for-4-5-million-optical-sensor-payload/" >🔗</a> **[SpaceNews]** Space Force taps OpTech for $4.5 million optical sensor payload
 - <a href="https://spacepolicyonline.com/news/two-senate-space-leaders-call-for-investigation-into-musk-putin-relationship/" >🔗</a> **[SpacePolicyOnline.com]** Two Senate Space Leaders Call for Investigation into Musk-Putin Relationship
 - <a href="https://www.nasa.gov/news-release/nasa-receives-14th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 14th Consecutive ‘Clean’ Financial Audit Opinion
 - <a href="https://spacenews.com/faa-moves-forward-with-committee-to-review-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** FAA moves forward with committee to review launch licensing regulations
 - <a href="https://www.cnbc.com/2024/11/15/space-stocks-rally-trump-elon-trade.html" >🔗</a> **[CNBC]** Space stocks saw big gains this week in part due to ‘Trump-Elon trade’ rally, analysts say
-- <a href="https://spacenews.com/tianzhou-8-spacecraft-delivers-supplies-key-experiments-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-8 spacecraft delivers supplies, key experiments to Tiangong space station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241117T233129">2024-11-17 23:31:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T000448">2024-11-18 00:04:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
