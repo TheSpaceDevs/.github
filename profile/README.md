@@ -95,6 +95,8 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_fuelled_ahead_of_liftoff" >🔗</a> **[ESA]** Sentinel-1C fuelled ahead of liftoff
+- <a href="https://spacenews.com/the-exploration-company-raises-160-million-for-nyx-cargo-vehicle/" >🔗</a> **[SpaceNews]** The Exploration Company raises $160 million for Nyx cargo vehicle
 - <a href="https://spaceflightnow.com/2024/11/18/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://www.nasaspaceflight.com/2024/11/starships-sound-study1/" >🔗</a> **[NASASpaceflight]** New study reveals Starship’s true sound levels; shows differences between SLS and Falcon 9
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-17-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 17-24, 2024
@@ -103,8 +105,6 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 - <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
 - <a href="https://spacenews.com/space-force-taps-optech-for-4-5-million-optical-sensor-payload/" >🔗</a> **[SpaceNews]** Space Force taps OpTech for $4.5 million optical sensor payload
 - <a href="https://spacepolicyonline.com/news/two-senate-space-leaders-call-for-investigation-into-musk-putin-relationship/" >🔗</a> **[SpacePolicyOnline.com]** Two Senate Space Leaders Call for Investigation into Musk-Putin Relationship
-- <a href="https://www.nasa.gov/news-release/nasa-receives-14th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 14th Consecutive ‘Clean’ Financial Audit Opinion
-- <a href="https://spacenews.com/faa-moves-forward-with-committee-to-review-launch-licensing-regulations/" >🔗</a> **[SpaceNews]** FAA moves forward with committee to review launch licensing regulations
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T090135">2024-11-18 09:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T093413">2024-11-18 09:34:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
