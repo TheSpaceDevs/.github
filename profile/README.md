@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4366-4367-one-of-those-days-on-mars-sulfate-bearing-unit-to-the-west-of-upper-gediz-vallis/" >🔗</a> **[NASA]** Sols 4366–4367: One of Those Days on Mars (Sulfate-Bearing Unit to the West of Upper Gediz Vallis)
 - <a href="https://spacenews.com/satellite-security-monitor-space-isac-expands-footprint-with-australian-center/" >🔗</a> **[SpaceNews]** Satellite security monitor Space ISAC expands footprint with Australian center
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/" >🔗</a> **[NASA]** Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/" >🔗</a> **[NASA]** 15 Years Ago: STS-129 Delivers Cargo on the Third Utilization and Logistics Flight
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 - <a href="https://www.nasa.gov/news-release/nasa-selects-new-leader-of-space-technology/" >🔗</a> **[NASA]** NASA Selects New Leader of Space Technology
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/" >🔗</a> **[NASA]** Hollywood Techniques Help NASA Visualize Supercomputing Data
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T230125">2024-11-18 23:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T233136">2024-11-18 23:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
