@@ -96,7 +96,7 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2024/11/18/live-coverage-spacex-to-launch-20-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 20 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://www.nasaspaceflight.com/2024/11/starship-noise-study/" >🔗</a> **[NASASpaceflight]** New study reveals Starship’s true sound levels; shows differences between SLS and Falcon 9
+- <a href="https://www.nasaspaceflight.com/2024/11/starships-sound-study1/" >🔗</a> **[NASASpaceflight]** New study reveals Starship’s true sound levels; shows differences between SLS and Falcon 9
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-17-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 17-24, 2024
 - <a href="https://europeanspaceflight.com/the-exploration-company-raises-160m-in-new-funding/" >🔗</a> **[European Spaceflight]** The Exploration Company Raises $160M in New Funding
 - <a href="https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** SpaceX launches mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center
@@ -114,7 +114,7 @@ It will be the first fully Electric Propulsion/EP enabled satellite which can be
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T080140">2024-11-18 08:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241118T083612">2024-11-18 08:36:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
