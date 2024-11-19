@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-constellation-advances-despite-supply-chain-hurdles/" >🔗</a> **[SpaceNews]** U.S. military constellation advances despite supply chain hurdles
+- <a href="https://spacenews.com/europes-iris%c2%b2-constellation-faces-challenges-of-timing-scaling-and-competition/" >🔗</a> **[SpaceNews]** Europe’s IRIS² constellation faces challenges of timing, scaling and competition
 - <a href="https://www.teslarati.com/spacex-successfully-launches-sixth-starship-test-flight-no-catch/" >🔗</a> **[Teslarati]** SpaceX successfully launches sixth Starship test flight with no catch
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-houston-to-the-moon-johnsons-thermal-vacuum-chamber-tests-lunar-solar-technology/" >🔗</a> **[NASA]** From Houston to the Moon: Johnson’s Thermal Vacuum Chamber Tests Lunar Solar Technology
-- <a href="https://www.cnbc.com/2024/11/19/watch-spacex-launch-starship-sixth-test-flight.html" >🔗</a> **[CNBC]** SpaceX launches Starship’s fourth flight of the year, splashes down booster instead of catching it
+- <a href="https://www.cnbc.com/2024/11/19/watch-spacex-launch-starship-sixth-test-flight.html" >🔗</a> **[CNBC]** SpaceX completes sixth Starship flight, splashes down both booster and spacecraft
 - <a href="https://www.nasa.gov/image-article/on-this-day-apollo-12-lands-on-the-moon/" >🔗</a> **[NASA]** On This Day: Apollo 12 Lands on the Moon
 - <a href="https://www.nasa.gov/news-release/nasa-plans-to-assign-missions-for-two-future-artemis-cargo-landers/" >🔗</a> **[NASA]** NASA Plans to Assign Missions for Two Future Artemis Cargo Landers
 - <a href="https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/" >🔗</a> **[NASA]** Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/" >🔗</a> **[NASA]** Super Insulation Requires Super Materials
 - <a href="https://spacenews.com/panel-report-on-chinas-tech-developments-calls-for-u-s-action-on-space-and-ai/" >🔗</a> **[SpaceNews]** Panel report on China’s tech developments calls for U.S. action on space and AI
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bob-swap-builds-bridges-with-science-diplomacy/" >🔗</a> **[NASA]** Bob Swap Builds Bridges With ‘Science Diplomacy’
-- <a href="https://spacenews.com/aerovironment-to-acquire-bluehalo-in-4-1-billion-deal/" >🔗</a> **[SpaceNews]** AeroVironment to acquire BlueHalo in $4.1 billion deal
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T230123">2024-11-19 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T233213">2024-11-19 23:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
