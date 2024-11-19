@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/on-this-day-apollo-12-lands-on-the-moon/" >🔗</a> **[NASA]** On This Day: Apollo 12 Lands on the Moon
+- <a href="https://www.nasa.gov/news-release/nasa-plans-to-assign-missions-for-two-future-artemis-cargo-landers/" >🔗</a> **[NASA]** NASA Plans to Assign Missions for Two Future Artemis Cargo Landers
 - <a href="https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/" >🔗</a> **[NASA]** Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/" >🔗</a> **[NASA]** Super Insulation Requires Super Materials
 - <a href="https://spacenews.com/panel-report-on-chinas-tech-developments-calls-for-u-s-action-on-space-and-ai/" >🔗</a> **[SpaceNews]** Panel report on China’s tech developments calls for U.S. action on space and AI
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.teslarati.com/elon-musk-four-objectives-spacex-starship-sixth-test-flight/" >🔗</a> **[Teslarati]** Elon Musk sets four expectations for SpaceX Starship’s sixth test flight
 - <a href="https://spacenews.com/farnborough-international-space-show-a-nexus-for-global-space-innovation/" >🔗</a> **[SpaceNews]** Farnborough International Space Show: A nexus for global space innovation
 - <a href="https://spacenews.com/exotrails-geostationary-spacevan-to-launch-on-ariane-6-in-2026/" >🔗</a> **[SpaceNews]** Exotrail’s geostationary spacevan to launch on Ariane 6 in 2026
-- <a href="https://spaceflightnow.com/2024/11/19/live-coverage-spacex-to-launch-starship-flight-6-test-mission-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 6 test mission from Starbase in southern Texas
-- <a href="https://spacenews.com/dont-let-trump-and-musk-gut-nasa/" >🔗</a> **[SpaceNews]** Don’t let Trump and Musk gut NASA
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T210114">2024-11-19 21:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T213144">2024-11-19 21:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
