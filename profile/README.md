@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/atmos-selects-latitude-to-launch-phoenix-re-entry-vehicles/" >🔗</a> **[European Spaceflight]** ATMOS Selects Latitude to Launch Phoenix Re-Entry Vehicles
 - <a href="https://science.nasa.gov/blog/sols-4366-4367-one-of-those-days-on-mars-sulfate-bearing-unit-to-the-west-of-upper-gediz-vallis/" >🔗</a> **[NASA]** Sols 4366–4367: One of Those Days on Mars (Sulfate-Bearing Unit to the West of Upper Gediz Vallis)
 - <a href="https://spacenews.com/satellite-security-monitor-space-isac-expands-footprint-with-australian-center/" >🔗</a> **[SpaceNews]** Satellite security monitor Space ISAC expands footprint with Australian center
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/" >🔗</a> **[NASA]** Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
@@ -100,11 +101,11 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/first-nations-launch-winners-watch-crew-7-launch/" >🔗</a> **[NASA]** First Nations Launch Winners Watch Crew-7 Launch
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/" >🔗</a> **[NASA]** 15 Years Ago: STS-129 Delivers Cargo on the Third Utilization and Logistics Flight
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
-- <a href="https://www.nasa.gov/news-release/nasa-selects-new-leader-of-space-technology/" >🔗</a> **[NASA]** NASA Selects New Leader of Space Technology
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/11/starship-flight-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX prepare for Starship Flight 6, another Booster catch and a daylight Ship splashdown
 - <a href="https://www.teslarati.com/spacex-readies-sixth-starship-test-launch-date/" >🔗</a> **[Teslarati]** SpaceX readies for sixth Starship test launch: here’s when it could happen
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-11-24/" >🔗</a> **[NASASpaceflight]** Starship preparations as rollouts begin ahead of full stack testing
 - <a href="https://spaceflightnow.com/2024/11/08/spacex-targets-starship-flight-6-launch-on-november-18/" >🔗</a> **[Spaceflight Now]** SpaceX targets Starship Flight 6 launch on November 18
@@ -116,7 +117,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T080129">2024-11-19 08:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T083556">2024-11-19 08:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
