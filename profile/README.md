@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-awards-funding-to-four-european-launch-startups/" >🔗</a> **[SpaceNews]** ESA awards funding to four European launch startups
 - <a href="https://europeanspaceflight.com/esa-awards-e44-2m-in-funding-to-four-european-rocket-builders/" >🔗</a> **[European Spaceflight]** ESA Awards €44.2M in Funding to Four European Rocket Builders
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_s_journey_to_see_the_Sun_s_corona" >🔗</a> **[ESA]** Proba-3’s journey to see the Sun’s corona
 - <a href="https://spacenews.com/senators-ask-pentagon-and-doj-to-investigate-putin-musk-calls/" >🔗</a> **[SpaceNews]** Senators ask Pentagon and DOJ to investigate Putin-Musk calls
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/" >🔗</a> **[NASA]** Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 15, 2024
-- <a href="https://www.nasa.gov/general/november-transformer-of-the-month-ariel-vargas/" >🔗</a> **[NASA]** November Transformer of the Month: Ariel Vargas
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T110117">2024-11-19 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T113114">2024-11-19 11:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
