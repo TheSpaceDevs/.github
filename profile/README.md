@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_s_journey_to_see_the_Sun_s_corona" >🔗</a> **[ESA]** Proba-3’s journey to see the Sun’s corona
+- <a href="https://spacenews.com/senators-ask-pentagon-and-doj-to-investigate-putin-musk-calls/" >🔗</a> **[SpaceNews]** Senators ask Pentagon and DOJ to investigate Putin-Musk calls
 - <a href="https://europeanspaceflight.com/atmos-selects-latitude-to-launch-phoenix-re-entry-vehicles/" >🔗</a> **[European Spaceflight]** ATMOS Selects Latitude to Launch Phoenix Re-Entry Vehicles
 - <a href="https://science.nasa.gov/blog/sols-4366-4367-one-of-those-days-on-mars-sulfate-bearing-unit-to-the-west-of-upper-gediz-vallis/" >🔗</a> **[NASA]** Sols 4366–4367: One of Those Days on Mars (Sulfate-Bearing Unit to the West of Upper Gediz Vallis)
 - <a href="https://spacenews.com/satellite-security-monitor-space-isac-expands-footprint-with-australian-center/" >🔗</a> **[SpaceNews]** Satellite security monitor Space ISAC expands footprint with Australian center
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 15, 2024
 - <a href="https://www.nasa.gov/general/november-transformer-of-the-month-ariel-vargas/" >🔗</a> **[NASA]** November Transformer of the Month: Ariel Vargas
 - <a href="https://www.nasa.gov/image-article/first-nations-launch-winners-watch-crew-7-launch/" >🔗</a> **[NASA]** First Nations Launch Winners Watch Crew-7 Launch
-- <a href="https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/" >🔗</a> **[NASA]** 15 Years Ago: STS-129 Delivers Cargo on the Third Utilization and Logistics Flight
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T090122">2024-11-19 09:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T093320">2024-11-19 09:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
