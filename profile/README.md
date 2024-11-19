@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/farnborough-international-space-show-a-nexus-for-global-space-innovation/" >🔗</a> **[SpaceNews]** Farnborough International Space Show: A nexus for global space innovation
+- <a href="https://spacenews.com/exotrails-geostationary-spacevan-to-launch-on-ariane-6-in-2026/" >🔗</a> **[SpaceNews]** Exotrail’s geostationary spacevan to launch on Ariane 6 in 2026
+- <a href="https://spaceflightnow.com/2024/11/19/live-coverage-spacex-to-launch-starship-flight-6-test-mission-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 6 test mission from Starbase in southern Texas
 - <a href="https://spacenews.com/dont-let-trump-and-musk-gut-nasa/" >🔗</a> **[SpaceNews]** Don’t let Trump and Musk gut NASA
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Space_for_Shore_Sentinel-1_reveals_Arctic_glacier_retreat" >🔗</a> **[ESA]** Space for Shore: Sentinel-1 reveals Arctic glacier retreat
 - <a href="https://spacenews.com/mike-greenley-mda-space-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Mike Greenley, MDA Space – Commercial Space Transformers
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/" >🔗</a> **[NASA]** NASA Engineer Carries Indigenous Roots into New Aviation Era
 - <a href="https://spacenews.com/connecting-the-dots-more-data-storage-more-space-ai/" >🔗</a> **[SpaceNews]** Connecting the Dots | More data storage, more space AI
 - <a href="https://spacenews.com/esa-awards-funding-to-four-european-launch-startups/" >🔗</a> **[SpaceNews]** ESA awards funding to four European launch startups
-- <a href="https://europeanspaceflight.com/esa-awards-e44-2m-in-funding-to-four-european-rocket-builders/" >🔗</a> **[European Spaceflight]** ESA Awards €44.2M in Funding to Four European Rocket Builders
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_s_journey_to_see_the_Sun_s_corona" >🔗</a> **[ESA]** Proba-3’s journey to see the Sun’s corona
-- <a href="https://spacenews.com/senators-ask-pentagon-and-doj-to-investigate-putin-musk-calls/" >🔗</a> **[SpaceNews]** Senators ask Pentagon and DOJ to investigate Putin-Musk calls
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T150119">2024-11-19 15:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T153358">2024-11-19 15:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
