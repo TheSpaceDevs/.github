@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/" >🔗</a> **[NASA]** NASA Engineer Carries Indigenous Roots into New Aviation Era
+- <a href="https://spacenews.com/connecting-the-dots-more-data-storage-more-space-ai/" >🔗</a> **[SpaceNews]** Connecting the Dots | More data storage, more space AI
 - <a href="https://spacenews.com/esa-awards-funding-to-four-european-launch-startups/" >🔗</a> **[SpaceNews]** ESA awards funding to four European launch startups
 - <a href="https://europeanspaceflight.com/esa-awards-e44-2m-in-funding-to-four-european-rocket-builders/" >🔗</a> **[European Spaceflight]** ESA Awards €44.2M in Funding to Four European Rocket Builders
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_s_journey_to_see_the_Sun_s_corona" >🔗</a> **[ESA]** Proba-3’s journey to see the Sun’s corona
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/blog/sols-4366-4367-one-of-those-days-on-mars-sulfate-bearing-unit-to-the-west-of-upper-gediz-vallis/" >🔗</a> **[NASA]** Sols 4366–4367: One of Those Days on Mars (Sulfate-Bearing Unit to the West of Upper Gediz Vallis)
 - <a href="https://spacenews.com/satellite-security-monitor-space-isac-expands-footprint-with-australian-center/" >🔗</a> **[SpaceNews]** Satellite security monitor Space ISAC expands footprint with Australian center
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/" >🔗</a> **[NASA]** Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 15, 2024
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T130714">2024-11-19 13:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T133556">2024-11-19 13:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
