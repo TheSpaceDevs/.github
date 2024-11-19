@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/" >🔗</a> **[NASA]** Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/" >🔗</a> **[NASA]** Super Insulation Requires Super Materials
 - <a href="https://spacenews.com/panel-report-on-chinas-tech-developments-calls-for-u-s-action-on-space-and-ai/" >🔗</a> **[SpaceNews]** Panel report on China’s tech developments calls for U.S. action on space and AI
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bob-swap-builds-bridges-with-science-diplomacy/" >🔗</a> **[NASA]** Bob Swap Builds Bridges With ‘Science Diplomacy’
 - <a href="https://spacenews.com/aerovironment-to-acquire-bluehalo-in-4-1-billion-deal/" >🔗</a> **[SpaceNews]** AeroVironment to acquire BlueHalo in $4.1 billion deal
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/exotrails-geostationary-spacevan-to-launch-on-ariane-6-in-2026/" >🔗</a> **[SpaceNews]** Exotrail’s geostationary spacevan to launch on Ariane 6 in 2026
 - <a href="https://spaceflightnow.com/2024/11/19/live-coverage-spacex-to-launch-starship-flight-6-test-mission-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 6 test mission from Starbase in southern Texas
 - <a href="https://spacenews.com/dont-let-trump-and-musk-gut-nasa/" >🔗</a> **[SpaceNews]** Don’t let Trump and Musk gut NASA
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Space_for_Shore_Sentinel-1_reveals_Arctic_glacier_retreat" >🔗</a> **[ESA]** Space for Shore: Sentinel-1 reveals Arctic glacier retreat
-- <a href="https://spacenews.com/mike-greenley-mda-space-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Mike Greenley, MDA Space – Commercial Space Transformers
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T190116">2024-11-19 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T193108">2024-11-19 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
