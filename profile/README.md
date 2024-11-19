@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/panel-report-on-chinas-tech-developments-calls-for-u-s-action-on-space-and-ai/" >🔗</a> **[SpaceNews]** Panel report on China’s tech developments calls for U.S. action on space and AI
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/bob-swap-builds-bridges-with-science-diplomacy/" >🔗</a> **[NASA]** Bob Swap Builds Bridges With ‘Science Diplomacy’
 - <a href="https://spacenews.com/aerovironment-to-acquire-bluehalo-in-4-1-billion-deal/" >🔗</a> **[SpaceNews]** AeroVironment to acquire BlueHalo in $4.1 billion deal
 - <a href="https://www.teslarati.com/elon-musk-four-objectives-spacex-starship-sixth-test-flight/" >🔗</a> **[Teslarati]** Elon Musk sets four expectations for SpaceX Starship’s sixth test flight
 - <a href="https://spacenews.com/farnborough-international-space-show-a-nexus-for-global-space-innovation/" >🔗</a> **[SpaceNews]** Farnborough International Space Show: A nexus for global space innovation
@@ -99,12 +101,12 @@ into *a Suborbital
 - <a href="https://spacenews.com/dont-let-trump-and-musk-gut-nasa/" >🔗</a> **[SpaceNews]** Don’t let Trump and Musk gut NASA
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Space_for_Shore_Sentinel-1_reveals_Arctic_glacier_retreat" >🔗</a> **[ESA]** Space for Shore: Sentinel-1 reveals Arctic glacier retreat
 - <a href="https://spacenews.com/mike-greenley-mda-space-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Mike Greenley, MDA Space – Commercial Space Transformers
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3" >🔗</a> **[ESA]** Proba-3 website
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/" >🔗</a> **[NASA]** NASA Engineer Carries Indigenous Roots into New Aviation Era
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/elon-musk-four-objectives-spacex-starship-sixth-test-flight/" >🔗</a> **[Teslarati]** Elon Musk sets four expectations for SpaceX Starship’s sixth test flight
+- <a href="https://spaceflightnow.com/2024/11/19/live-coverage-spacex-to-launch-starship-flight-6-test-mission-from-starbase-in-southern-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 6 test mission from Starbase in southern Texas
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-flight-6-launch/" >🔗</a> **[NASASpaceflight]** SpaceX prepare for Starship Flight 6, another Booster catch and a daylight Ship splashdown
 - <a href="https://www.teslarati.com/spacex-readies-sixth-starship-test-launch-date/" >🔗</a> **[Teslarati]** SpaceX readies for sixth Starship test launch: here’s when it could happen
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-11-24/" >🔗</a> **[NASASpaceflight]** Starship preparations as rollouts begin ahead of full stack testing
@@ -117,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T170116">2024-11-19 17:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T173337">2024-11-19 17:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
