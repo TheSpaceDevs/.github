@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/shooting-for-the-stars-nasa-lights-up-the-court-at-toyota-center/" >🔗</a> **[NASA]** Shooting for the Stars: NASA Lights Up the Court at Toyota Center
+- <a href="https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/" >🔗</a> **[NASA]** NASA Ocean World Explorers Have to Swim Before They Can Fly
 - <a href="https://www.nasa.gov/solar-system/planets/mars/making-mars-moons-supercomputers-offer-disruptive-new-explanation-2/" >🔗</a> **[NASA]** Making Mars’ Moons: Supercomputers Offer ‘Disruptive’ New Explanation
 - <a href="https://science.nasa.gov/missions/swift/nasas-swift-reaches-20th-anniversary-in-improved-pointing-mode/" >🔗</a> **[NASA]** NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode
 - <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-tops-off/" >🔗</a> **[NASA]** Gateway Tops Off
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/exolaunch-to-deploy-satellites-with-new-universal-adapter-in-2026/" >🔗</a> **[SpaceNews]** Exolaunch to deploy satellites with new universal adapter in 2026
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-reusable-rocket-with-60-tonne-payload-capacity/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Reusable Rocket with 60-Tonne Payload Capacity
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/New_full_Sun_views_show_sunspots_fields_and_restless_plasma" >🔗</a> **[ESA]** New full Sun views show sunspots, fields and restless plasma
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/ESA_s_Space_Systems_for_Safety_and_Security_4S_programme" >🔗</a> **[ESA]** ESA’s Space Systems for Safety and Security (4S) programme
-- <a href="https://spacenews.com/latitude-signs-multi-launch-contract-with-atmos-space-cargo/" >🔗</a> **[SpaceNews]** Latitude signs multi-launch contract with Atmos Space Cargo
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T170112">2024-11-20 17:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T173323">2024-11-20 17:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
