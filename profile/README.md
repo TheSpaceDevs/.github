@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/starship-completes-sixth-flight-test-marks-progress-toward-full-reusability" >🔗</a> **[The Launch Pad]** Starship Completes Sixth Flight Test, Marks Progress Toward Full Reusability
 - <a href="https://spacepolicyonline.com/news/no-catch-this-time-but-ift-6-advances-starship-development/" >🔗</a> **[SpacePolicyOnline.com]** No Catch This Time, But IFT-6 Advances Starship Development
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches continue, Rocket Lab to launch two Electrons, Russia to fly to ISS
 - <a href="https://spaceflightnow.com/2024/11/20/super-heavy-starship-launches-on-sixth-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship launches on sixth test flight, skips tower catch
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europes-iris%c2%b2-constellation-faces-challenges-of-timing-scaling-and-competition/" >🔗</a> **[SpaceNews]** Europe’s IRIS² constellation faces challenges of timing, scaling and competition
 - <a href="https://www.teslarati.com/spacex-successfully-launches-sixth-starship-test-flight-no-catch/" >🔗</a> **[Teslarati]** SpaceX successfully launches sixth Starship test flight with no catch
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-houston-to-the-moon-johnsons-thermal-vacuum-chamber-tests-lunar-solar-technology/" >🔗</a> **[NASA]** From Houston to the Moon: Johnson’s Thermal Vacuum Chamber Tests Lunar Solar Technology
-- <a href="https://www.cnbc.com/2024/11/19/watch-spacex-launch-starship-sixth-test-flight.html" >🔗</a> **[CNBC]** SpaceX completes sixth Starship flight, splashes down both booster and spacecraft
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T040125">2024-11-20 04:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T043506">2024-11-20 04:35:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
