@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-sixth-starship-but-aborts-booster-landing/" >🔗</a> **[SpaceNews]** SpaceX launches sixth Starship but aborts booster landing
+- <a href="https://spacenews.com/kepler-goes-all-in-on-optical-communications/" >🔗</a> **[SpaceNews]** Kepler goes all in on optical communications
 - <a href="https://spacenews.com/u-s-military-constellation-advances-despite-supply-chain-hurdles/" >🔗</a> **[SpaceNews]** U.S. military constellation advances despite supply chain hurdles
 - <a href="https://spacenews.com/europes-iris%c2%b2-constellation-faces-challenges-of-timing-scaling-and-competition/" >🔗</a> **[SpaceNews]** Europe’s IRIS² constellation faces challenges of timing, scaling and competition
 - <a href="https://www.teslarati.com/spacex-successfully-launches-sixth-starship-test-flight-no-catch/" >🔗</a> **[Teslarati]** SpaceX successfully launches sixth Starship test flight with no catch
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/on-this-day-apollo-12-lands-on-the-moon/" >🔗</a> **[NASA]** On This Day: Apollo 12 Lands on the Moon
 - <a href="https://www.nasa.gov/news-release/nasa-plans-to-assign-missions-for-two-future-artemis-cargo-landers/" >🔗</a> **[NASA]** NASA Plans to Assign Missions for Two Future Artemis Cargo Landers
 - <a href="https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/" >🔗</a> **[NASA]** Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/" >🔗</a> **[NASA]** Super Insulation Requires Super Materials
-- <a href="https://spacenews.com/panel-report-on-chinas-tech-developments-calls-for-u-s-action-on-space-and-ai/" >🔗</a> **[SpaceNews]** Panel report on China’s tech developments calls for U.S. action on space and AI
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241119T233213">2024-11-19 23:32:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T000419">2024-11-20 00:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
