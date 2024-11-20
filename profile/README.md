@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/sts-129-crew-aboard-the-space-station/" >🔗</a> **[NASA]** STS-129 Crew Aboard the Space Station
+- <a href="https://spacenews.com/lockheed-martins-new-mid-size-satellite-platform-closer-to-launch/" >🔗</a> **[SpaceNews]** Lockheed Martin’s new mid-size satellite platform closer to launch
 - <a href="https://www.teslarati.com/spacex-provides-more-insight-on-why-it-canceled-starship-catch-attempt/" >🔗</a> **[Teslarati]** SpaceX provides more insight on why it canceled Starship catch attempt
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/" >🔗</a> **[NASA]** NASA’s Chandra, Hubble Tune Into ‘Flame-Throwing’ Guitar Nebula
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-rare-glimpse-of-a-newborn-planet/" >🔗</a> **[NASA]** Discovery Alert: A Rare Glimpse of a Newborn Planet
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-performs-fairing-separation-test-for-crewed-moon-mission-rocket/" >🔗</a> **[SpaceNews]** China performs fairing separation test for crewed moon mission rocket
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/shooting-for-the-stars-nasa-lights-up-the-court-at-toyota-center/" >🔗</a> **[NASA]** Shooting for the Stars: NASA Lights Up the Court at Toyota Center
 - <a href="https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/" >🔗</a> **[NASA]** NASA Ocean World Explorers Have to Swim Before They Can Fly
-- <a href="https://www.nasa.gov/solar-system/planets/mars/making-mars-moons-supercomputers-offer-disruptive-new-explanation-2/" >🔗</a> **[NASA]** Making Mars’ Moons: Supercomputers Offer ‘Disruptive’ New Explanation
-- <a href="https://science.nasa.gov/missions/swift/nasas-swift-reaches-20th-anniversary-in-improved-pointing-mode/" >🔗</a> **[NASA]** NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T210128">2024-11-20 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T213148">2024-11-20 21:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
