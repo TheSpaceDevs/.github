@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/New_full_Sun_views_show_sunspots_fields_and_restless_plasma" >🔗</a> **[ESA]** New full Sun views show sunspots, fields and restless plasma
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/ESA_s_Space_Systems_for_Safety_and_Security_4S_programme" >🔗</a> **[ESA]** ESA’s Space Systems for Safety and Security (4S) programme
 - <a href="https://spacenews.com/latitude-signs-multi-launch-contract-with-atmos-space-cargo/" >🔗</a> **[SpaceNews]** Latitude signs multi-launch contract with Atmos Space Cargo
 - <a href="https://spacenews.com/seops-buys-falcon-9-launch-for-gto-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS buys Falcon 9 launch for GTO rideshare mission
 - <a href="https://tlpnetwork.com/news/america/starship-completes-sixth-flight-test-marks-progress-toward-full-reusability" >🔗</a> **[The Launch Pad]** Starship Completes Sixth Flight Test, Marks Progress Toward Full Reusability
@@ -100,17 +101,17 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/11/20/super-heavy-starship-launches-on-sixth-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship launches on sixth test flight, skips tower catch
 - <a href="https://spacenews.com/spacex-launches-sixth-starship-but-aborts-booster-landing/" >🔗</a> **[SpaceNews]** SpaceX launches sixth Starship but aborts booster landing
 - <a href="https://spacenews.com/kepler-goes-all-in-on-optical-communications/" >🔗</a> **[SpaceNews]** Kepler goes all in on optical communications
-- <a href="https://spacenews.com/u-s-military-constellation-advances-despite-supply-chain-hurdles/" >🔗</a> **[SpaceNews]** U.S. military constellation advances despite supply chain hurdles
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches continue, Rocket Lab to launch two Electrons, Russia to fly to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T110113">2024-11-20 11:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T113059">2024-11-20 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
