@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Fly_around_Ares_Vallis_on_Mars" >🔗</a> **[ESA]** Fly around Ares Vallis on Mars
+- <a href="https://spacenews.com/exolaunch-to-deploy-satellites-with-new-universal-adapter-in-2026/" >🔗</a> **[SpaceNews]** Exolaunch to deploy satellites with new universal adapter in 2026
+- <a href="https://europeanspaceflight.com/esa-publishes-call-for-reusable-rocket-with-60-tonne-payload-capacity/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Reusable Rocket with 60-Tonne Payload Capacity
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/New_full_Sun_views_show_sunspots_fields_and_restless_plasma" >🔗</a> **[ESA]** New full Sun views show sunspots, fields and restless plasma
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/ESA_s_Space_Systems_for_Safety_and_Security_4S_programme" >🔗</a> **[ESA]** ESA’s Space Systems for Safety and Security (4S) programme
 - <a href="https://spacenews.com/latitude-signs-multi-launch-contract-with-atmos-space-cargo/" >🔗</a> **[SpaceNews]** Latitude signs multi-launch contract with Atmos Space Cargo
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/starship-completes-sixth-flight-test-marks-progress-toward-full-reusability" >🔗</a> **[The Launch Pad]** Starship Completes Sixth Flight Test, Marks Progress Toward Full Reusability
 - <a href="https://spacepolicyonline.com/news/no-catch-this-time-but-ift-6-advances-starship-development/" >🔗</a> **[SpacePolicyOnline.com]** No Catch This Time, But IFT-6 Advances Starship Development
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches continue, Rocket Lab to launch two Electrons, Russia to fly to ISS
-- <a href="https://spaceflightnow.com/2024/11/20/super-heavy-starship-launches-on-sixth-test-flight/" >🔗</a> **[Spaceflight Now]** Super Heavy-Starship launches on sixth test flight, skips tower catch
-- <a href="https://spacenews.com/spacex-launches-sixth-starship-but-aborts-booster-landing/" >🔗</a> **[SpaceNews]** SpaceX launches sixth Starship but aborts booster landing
-- <a href="https://spacenews.com/kepler-goes-all-in-on-optical-communications/" >🔗</a> **[SpaceNews]** Kepler goes all in on optical communications
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T130653">2024-11-20 13:06:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T133525">2024-11-20 13:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
