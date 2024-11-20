@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-provides-more-insight-on-why-it-canceled-starship-catch-attempt/" >🔗</a> **[Teslarati]** SpaceX provides more insight on why it canceled Starship catch attempt
+- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/" >🔗</a> **[NASA]** NASA’s Chandra, Hubble Tune Into ‘Flame-Throwing’ Guitar Nebula
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-rare-glimpse-of-a-newborn-planet/" >🔗</a> **[NASA]** Discovery Alert: A Rare Glimpse of a Newborn Planet
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/" >🔗</a> **[NASA]** What is BioSentinel?
 - <a href="https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/" >🔗</a> **[Arstechnica]** SpaceX just got exactly what it wanted from the FAA for Texas Starship launches
 - <a href="https://spacenews.com/china-performs-fairing-separation-test-for-crewed-moon-mission-rocket/" >🔗</a> **[SpaceNews]** China performs fairing separation test for crewed moon mission rocket
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/" >🔗</a> **[NASA]** NASA Ocean World Explorers Have to Swim Before They Can Fly
 - <a href="https://www.nasa.gov/solar-system/planets/mars/making-mars-moons-supercomputers-offer-disruptive-new-explanation-2/" >🔗</a> **[NASA]** Making Mars’ Moons: Supercomputers Offer ‘Disruptive’ New Explanation
 - <a href="https://science.nasa.gov/missions/swift/nasas-swift-reaches-20th-anniversary-in-improved-pointing-mode/" >🔗</a> **[NASA]** NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode
-- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-tops-off/" >🔗</a> **[NASA]** Gateway Tops Off
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Fly_around_Ares_Vallis_on_Mars" >🔗</a> **[ESA]** Fly around Ares Vallis on Mars
-- <a href="https://spacenews.com/continuous-human-presence-in-leo-a-true-commitment-not-a-temporary-excursion/" >🔗</a> **[SpaceNews]** The case for a continuous human presence in space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T190113">2024-11-20 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T193055">2024-11-20 19:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
