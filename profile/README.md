@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/continuous-human-presence-in-leo-a-true-commitment-not-a-temporary-excursion/" >🔗</a> **[SpaceNews]** The case for a continuous human presence in space
+- <a href="https://science.nasa.gov/missions/swift/nasas-swift-reaches-20th-anniversary-in-improved-pointing-mode/" >🔗</a> **[NASA]** NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode
+- <a href="https://www.nasa.gov/missions/artemis/gateway/gateway-tops-off/" >🔗</a> **[NASA]** Gateway Tops Off
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Fly_around_Ares_Vallis_on_Mars" >🔗</a> **[ESA]** Fly around Ares Vallis on Mars
+- <a href="https://spacenews.com/continuous-human-presence-in-leo-a-true-commitment-not-a-temporary-excursion/" >🔗</a> **[SpaceNews]** The case for a continuous human presence in space
 - <a href="https://spacenews.com/exolaunch-to-deploy-satellites-with-new-universal-adapter-in-2026/" >🔗</a> **[SpaceNews]** Exolaunch to deploy satellites with new universal adapter in 2026
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-reusable-rocket-with-60-tonne-payload-capacity/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Reusable Rocket with 60-Tonne Payload Capacity
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/New_full_Sun_views_show_sunspots_fields_and_restless_plasma" >🔗</a> **[ESA]** New full Sun views show sunspots, fields and restless plasma
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/ESA_s_Space_Systems_for_Safety_and_Security_4S_programme" >🔗</a> **[ESA]** ESA’s Space Systems for Safety and Security (4S) programme
 - <a href="https://spacenews.com/latitude-signs-multi-launch-contract-with-atmos-space-cargo/" >🔗</a> **[SpaceNews]** Latitude signs multi-launch contract with Atmos Space Cargo
-- <a href="https://spacenews.com/seops-buys-falcon-9-launch-for-gto-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS buys Falcon 9 launch for GTO rideshare mission
-- <a href="https://tlpnetwork.com/news/america/starship-completes-sixth-flight-test-marks-progress-toward-full-reusability" >🔗</a> **[The Launch Pad]** Starship Completes Sixth Flight Test, Marks Progress Toward Full Reusability
-- <a href="https://spacepolicyonline.com/news/no-catch-this-time-but-ift-6-advances-starship-development/" >🔗</a> **[SpacePolicyOnline.com]** No Catch This Time, But IFT-6 Advances Starship Development
+- <a href="https://www.nasa.gov/general/about-the-ocko/" >🔗</a> **[NASA]** About the Office of the Chief Knowledge Officer (OCKO)
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T150130">2024-11-20 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T153345">2024-11-20 15:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
