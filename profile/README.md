@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seops-buys-falcon-9-launch-for-gto-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS buys Falcon 9 launch for GTO rideshare mission
 - <a href="https://tlpnetwork.com/news/america/starship-completes-sixth-flight-test-marks-progress-toward-full-reusability" >🔗</a> **[The Launch Pad]** Starship Completes Sixth Flight Test, Marks Progress Toward Full Reusability
 - <a href="https://spacepolicyonline.com/news/no-catch-this-time-but-ift-6-advances-starship-development/" >🔗</a> **[SpacePolicyOnline.com]** No Catch This Time, But IFT-6 Advances Starship Development
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches continue, Rocket Lab to launch two Electrons, Russia to fly to ISS
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-military-constellation-advances-despite-supply-chain-hurdles/" >🔗</a> **[SpaceNews]** U.S. military constellation advances despite supply chain hurdles
 - <a href="https://spacenews.com/europes-iris%c2%b2-constellation-faces-challenges-of-timing-scaling-and-competition/" >🔗</a> **[SpaceNews]** Europe’s IRIS² constellation faces challenges of timing, scaling and competition
 - <a href="https://www.teslarati.com/spacex-successfully-launches-sixth-starship-test-flight-no-catch/" >🔗</a> **[Teslarati]** SpaceX successfully launches sixth Starship test flight with no catch
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/from-houston-to-the-moon-johnsons-thermal-vacuum-chamber-tests-lunar-solar-technology/" >🔗</a> **[NASA]** From Houston to the Moon: Johnson’s Thermal Vacuum Chamber Tests Lunar Solar Technology
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T080129">2024-11-20 08:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T083600">2024-11-20 08:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
