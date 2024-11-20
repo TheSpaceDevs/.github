@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/teledyne-space-imaging-partners-with-satlantis-on-very-high-resolution-sensor/" >🔗</a> **[SpaceNews]** Teledyne Space Imaging partners with Satlantis on very high-resolution sensor
+- <a href="https://spacenews.com/lockheed-martin-teams-with-iceye-to-advance-ai-enabled-targeting/" >🔗</a> **[SpaceNews]** Lockheed Martin teams with Iceye to advance AI-enabled targeting
+- <a href="https://spacenews.com/inversion-space-raises-44-million/" >🔗</a> **[SpaceNews]** Inversion Space raises $44 million
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-illustrate-key-moments-of-artemis-lunar-lander-mission/" >🔗</a> **[NASA]** NASA, SpaceX Illustrate Key Moments of Artemis Lunar Lander Mission
 - <a href="https://www.nasa.gov/image-article/sts-129-crew-aboard-the-space-station/" >🔗</a> **[NASA]** STS-129 Crew Aboard the Space Station
 - <a href="https://spacenews.com/lockheed-martins-new-mid-size-satellite-platform-closer-to-launch/" >🔗</a> **[SpaceNews]** Lockheed Martin’s new mid-size satellite platform closer to launch
 - <a href="https://www.teslarati.com/spacex-provides-more-insight-on-why-it-canceled-starship-catch-attempt/" >🔗</a> **[Teslarati]** SpaceX provides more insight on why it canceled Starship catch attempt
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/" >🔗</a> **[NASA]** NASA’s Chandra, Hubble Tune Into ‘Flame-Throwing’ Guitar Nebula
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-rare-glimpse-of-a-newborn-planet/" >🔗</a> **[NASA]** Discovery Alert: A Rare Glimpse of a Newborn Planet
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/" >🔗</a> **[NASA]** What is BioSentinel?
-- <a href="https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/" >🔗</a> **[Arstechnica]** SpaceX just got exactly what it wanted from the FAA for Texas Starship launches
-- <a href="https://spacenews.com/china-performs-fairing-separation-test-for-crewed-moon-mission-rocket/" >🔗</a> **[SpaceNews]** China performs fairing separation test for crewed moon mission rocket
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/shooting-for-the-stars-nasa-lights-up-the-court-at-toyota-center/" >🔗</a> **[NASA]** Shooting for the Stars: NASA Lights Up the Court at Toyota Center
-- <a href="https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/" >🔗</a> **[NASA]** NASA Ocean World Explorers Have to Swim Before They Can Fly
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T220113">2024-11-20 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T223418">2024-11-20 22:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
