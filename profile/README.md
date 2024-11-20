@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/New_full_Sun_views_show_sunspots_fields_and_restless_plasma" >🔗</a> **[ESA]** New full Sun views show sunspots, fields and restless plasma
+- <a href="https://spacenews.com/latitude-signs-multi-launch-contract-with-atmos-space-cargo/" >🔗</a> **[SpaceNews]** Latitude signs multi-launch contract with Atmos Space Cargo
 - <a href="https://spacenews.com/seops-buys-falcon-9-launch-for-gto-rideshare-mission/" >🔗</a> **[SpaceNews]** SEOPS buys Falcon 9 launch for GTO rideshare mission
 - <a href="https://tlpnetwork.com/news/america/starship-completes-sixth-flight-test-marks-progress-toward-full-reusability" >🔗</a> **[The Launch Pad]** Starship Completes Sixth Flight Test, Marks Progress Toward Full Reusability
 - <a href="https://spacepolicyonline.com/news/no-catch-this-time-but-ift-6-advances-starship-development/" >🔗</a> **[SpacePolicyOnline.com]** No Catch This Time, But IFT-6 Advances Starship Development
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-sixth-starship-but-aborts-booster-landing/" >🔗</a> **[SpaceNews]** SpaceX launches sixth Starship but aborts booster landing
 - <a href="https://spacenews.com/kepler-goes-all-in-on-optical-communications/" >🔗</a> **[SpaceNews]** Kepler goes all in on optical communications
 - <a href="https://spacenews.com/u-s-military-constellation-advances-despite-supply-chain-hurdles/" >🔗</a> **[SpaceNews]** U.S. military constellation advances despite supply chain hurdles
-- <a href="https://spacenews.com/europes-iris%c2%b2-constellation-faces-challenges-of-timing-scaling-and-competition/" >🔗</a> **[SpaceNews]** Europe’s IRIS² constellation faces challenges of timing, scaling and competition
-- <a href="https://www.teslarati.com/spacex-successfully-launches-sixth-starship-test-flight-no-catch/" >🔗</a> **[Teslarati]** SpaceX successfully launches sixth Starship test flight with no catch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T100119">2024-11-20 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241120T103538">2024-11-20 10:35:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
