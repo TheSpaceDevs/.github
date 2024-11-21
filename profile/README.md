@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
+- <a href="https://spacenews.com/space-transportation-of-china-aims-to-test-prototype-spaceplane-in-2025/" >🔗</a> **[SpaceNews]** Space Transportation of China aims to test prototype spaceplane in 2025
 - <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
 - <a href="https://www.nasa.gov/image-article/ring-around-tabbys-star/" >🔗</a> **[NASA]** Ring Around Tabby’s Star
 - <a href="https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/" >🔗</a> **[NASA]** Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/anduril-secures-99-7-million-contract-for-space-force-network-upgrade/" >🔗</a> **[SpaceNews]** Anduril secures $99.7 million contract for Space Force network upgrade
 - <a href="https://www.teslarati.com/tesla-ceo-elon-musk-makes-shock-claim-about-jeff-bezos-reigniting-rivalry/" >🔗</a> **[Teslarati]** Tesla CEO Elon Musk makes shock claim about Jeff Bezos, reigniting rivalry
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Copernicus_Sentinel-1_radar_vision_for_Copernicus" >🔗</a> **[ESA]** Copernicus Sentinel-1: radar vision for Copernicus
-- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-stage-innovations-esi-2024/" >🔗</a> **[NASA]** Early Stage Innovations (ESI) 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T193110">2024-11-21 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T200123">2024-11-21 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
