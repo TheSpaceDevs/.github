@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4368-4369-the-colors-of-fall-and-mars/" >🔗</a> **[NASA]** Sols 4368-4369: The Colors of Fall – and Mars
 - <a href="https://spacenews.com/investors-betting-on-space-growth-under-trump-administration/" >🔗</a> **[SpaceNews]** Investors betting on space growth under Trump administration
 - <a href="https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-chief-observes-starship-test-launch-signaling-military-interest/" >🔗</a> **[SpaceNews]** Space Force chief observes Starship test launch, signaling military interest
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/inversion-space-raises-44-million/" >🔗</a> **[SpaceNews]** Inversion Space raises $44 million
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-illustrate-key-moments-of-artemis-lunar-lander-mission/" >🔗</a> **[NASA]** NASA, SpaceX Illustrate Key Moments of Artemis Lunar Lander Mission
 - <a href="https://www.nasa.gov/image-article/sts-129-crew-aboard-the-space-station/" >🔗</a> **[NASA]** STS-129 Crew Aboard the Space Station
-- <a href="https://spacenews.com/lockheed-martins-new-mid-size-satellite-platform-closer-to-launch/" >🔗</a> **[SpaceNews]** Lockheed Martin’s new mid-size satellite platform closer to launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T030951">2024-11-21 03:09:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T033819">2024-11-21 03:38:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
