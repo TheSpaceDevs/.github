@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
+- <a href="https://spacenews.com/anduril-secures-99-7-million-contract-for-space-force-network-upgrade/" >🔗</a> **[SpaceNews]** Anduril secures $99.7 million contract for Space Force network upgrade
 - <a href="https://www.teslarati.com/tesla-ceo-elon-musk-makes-shock-claim-about-jeff-bezos-reigniting-rivalry/" >🔗</a> **[Teslarati]** Tesla CEO Elon Musk makes shock claim about Jeff Bezos, reigniting rivalry
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Copernicus_Sentinel-1_radar_vision_for_Copernicus" >🔗</a> **[ESA]** Copernicus Sentinel-1: radar vision for Copernicus
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-stage-innovations-esi-2024/" >🔗</a> **[NASA]** Early Stage Innovations (ESI) 2024
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/lunar-outpost-selects-starship-to-deliver-rover-to-the-moon/" >🔗</a> **[SpaceNews]** Lunar Outpost selects Starship to deliver rover to the moon
 - <a href="https://spacenews.com/spacenews-appoints-mike-gruss-as-chief-content-and-strategy-officer-to-lead-transformative-growth/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Mike Gruss as Chief Content and Strategy Officer to Lead Transformative Growth
 - <a href="https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/" >🔗</a> **[Arstechnica]** As NASA increasingly relies on commercial space, there are some troubling signs
-- <a href="https://europeanspaceflight.com/esa-award-another-e230m-to-arianegroup-for-themis-demonstrator/" >🔗</a> **[Virgin Galactic]** ESA Award Another €230M to ArianeGroup for Themis Demonstrator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T170124">2024-11-21 17:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T173320">2024-11-21 17:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
