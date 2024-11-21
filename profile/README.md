@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Copernicus_Sentinel-1_radar_vision_for_Copernicus" >🔗</a> **[ESA]** Copernicus Sentinel-1: radar vision for Copernicus
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-stage-innovations-esi-2024/" >🔗</a> **[NASA]** Early Stage Innovations (ESI) 2024
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/esi/early-stage-innovations-esi-2024/" >🔗</a> **[NASA]** Early Stage Innovations (ESI) 2024
+- <a href="https://www.nasa.gov/general/weld-assist-weldability-assessment-for-in-space-conditions-using-a-digital-twin/" >🔗</a> **[NASA]** Weld-ASSIST: Weldability Assessment for In-Space Conditions using a Digital Twin
 - <a href="https://spacenews.com/lunar-outpost-selects-starship-to-deliver-rover-to-the-moon/" >🔗</a> **[SpaceNews]** Lunar Outpost selects Starship to deliver rover to the moon
 - <a href="https://spacenews.com/spacenews-appoints-mike-gruss-as-chief-content-and-strategy-officer-to-lead-transformative-growth/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Mike Gruss as Chief Content and Strategy Officer to Lead Transformative Growth
 - <a href="https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/" >🔗</a> **[Arstechnica]** As NASA increasingly relies on commercial space, there are some troubling signs
 - <a href="https://europeanspaceflight.com/esa-award-another-e230m-to-arianegroup-for-themis-demonstrator/" >🔗</a> **[Virgin Galactic]** ESA Award Another €230M to ArianeGroup for Themis Demonstrator
 - <a href="https://spacenews.com/european-space-companies-seek-more-competitive-government-contracts/" >🔗</a> **[SpaceNews]** European space companies seek more competitive government contracts
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Signing_secures_next_steps_for_reusable_rocket_demonstrations" >🔗</a> **[ESA]** Signing secures next steps for reusable rocket demonstrations
-- <a href="https://spacepolicyonline.com/news/faa-reschedules-public-hearings-on-spacexs-plans-for-more-launches-from-boca-chica/" >🔗</a> **[SpacePolicyOnline.com]** FAA Reschedules Public Hearings on SpaceX’s Plans for More Launches from Boca Chica
-- <a href="https://science.nasa.gov/blog/sols-4368-4369-the-colors-of-fall-and-mars/" >🔗</a> **[NASA]** Sols 4368-4369: The Colors of Fall – and Mars
-- <a href="https://spacenews.com/investors-betting-on-space-growth-under-trump-administration/" >🔗</a> **[SpaceNews]** Investors betting on space growth under Trump administration
-- <a href="https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T140127">2024-11-21 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T143444">2024-11-21 14:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
