@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-award-another-e230m-to-arianegroup-for-themis-demonstrator/" >🔗</a> **[Virgin Galactic]** ESA Award Another €230M to ArianeGroup for Themis Demonstrator
 - <a href="https://spacenews.com/european-space-companies-seek-more-competitive-government-contracts/" >🔗</a> **[SpaceNews]** European space companies seek more competitive government contracts
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Signing_secures_next_steps_for_reusable_rocket_demonstrations" >🔗</a> **[ESA]** Signing secures next steps for reusable rocket demonstrations
 - <a href="https://spacepolicyonline.com/news/faa-reschedules-public-hearings-on-spacexs-plans-for-more-launches-from-boca-chica/" >🔗</a> **[SpacePolicyOnline.com]** FAA Reschedules Public Hearings on SpaceX’s Plans for More Launches from Boca Chica
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-chief-observes-starship-test-launch-signaling-military-interest/" >🔗</a> **[SpaceNews]** Space Force chief observes Starship test launch, signaling military interest
 - <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Transforming Geospatial Intelligence: Data Labeling for AI – Webinar Replay
 - <a href="https://spacenews.com/teledyne-space-imaging-partners-with-satlantis-on-very-high-resolution-sensor/" >🔗</a> **[SpaceNews]** Teledyne Space Imaging partners with Satlantis on very high-resolution sensor
-- <a href="https://spacenews.com/lockheed-martin-teams-with-iceye-to-advance-ai-enabled-targeting/" >🔗</a> **[SpaceNews]** Lockheed Martin teams with Iceye to advance AI-enabled targeting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T113106">2024-11-21 11:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T120149">2024-11-21 12:01:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
