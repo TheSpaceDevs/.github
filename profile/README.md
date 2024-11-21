@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1a | Progress MS-29 (90P)**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122224">2024-11-21 12:22:24 UTC</a>.  Until
-then, this pad will have been used for 418
-out of 1551 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 6-66**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T160750">2024-11-21 16:07:50 UTC</a>.  Until
+then, this pad will have been used for 273
+out of 987 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Resupply* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Progress resupply mission to the International Space Station.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T122224">2024-11-21 12:22:24 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-29 (90P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241121T122224Z%2F20241121T122224Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-29 (90P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T160750">2024-11-21 16:07:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-66&location=Cape Canaveral SFS, FL, USA&dates=20241121T160750Z%2F20241121T194900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-66** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T004500">2024-11-22 00:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Leidos-2&location=Wallops Flight Facility, Virginia, USA&dates=20241122T004500Z%2F20241122T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Leidos-2** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T153000">2024-11-22 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-28&location=Corn Ranch, Van Horn, TX, USA&dates=20241122T153000Z%2F20241122T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-28** from Corn Ranch, Van Horn, TX, USA.
@@ -56,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T093200">2024-11-25 09:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-1&location=Cape Canaveral SFS, FL, USA&dates=20241125T093200Z%2F20241125T133200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-1** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T033100">2024-11-26 03:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-76&location=Kennedy Space Center, FL, USA&dates=20241126T033100Z%2F20241126T073100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-76** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T190000">2024-11-27 19:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20241127T190000Z%2F20241127T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T000000">2024-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kondor-FKA No.2&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20241130T000000Z%2F20241130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kondor-FKA No.2** from Vostochny Cosmodrome, Siberia, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/" >🔗</a> **[Arstechnica]** As NASA increasingly relies on commercial space, there are some troubling signs
 - <a href="https://europeanspaceflight.com/esa-award-another-e230m-to-arianegroup-for-themis-demonstrator/" >🔗</a> **[Virgin Galactic]** ESA Award Another €230M to ArianeGroup for Themis Demonstrator
 - <a href="https://spacenews.com/european-space-companies-seek-more-competitive-government-contracts/" >🔗</a> **[SpaceNews]** European space companies seek more competitive government contracts
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Signing_secures_next_steps_for_reusable_rocket_demonstrations" >🔗</a> **[ESA]** Signing secures next steps for reusable rocket demonstrations
@@ -100,18 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-chief-observes-starship-test-launch-signaling-military-interest/" >🔗</a> **[SpaceNews]** Space Force chief observes Starship test launch, signaling military interest
 - <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Transforming Geospatial Intelligence: Data Labeling for AI – Webinar Replay
-- <a href="https://spacenews.com/teledyne-space-imaging-partners-with-satlantis-on-very-high-resolution-sensor/" >🔗</a> **[SpaceNews]** Teledyne Space Imaging partners with Satlantis on very high-resolution sensor
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches continue, Rocket Lab to launch two Electrons, Russia to fly to ISS
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-111124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches customer payloads, China fly resupply mission to Tiangong
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T120149">2024-11-21 12:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T124254">2024-11-21 12:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
