@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lunar-outpost-selects-starship-to-deliver-rover-to-the-moon/" >🔗</a> **[SpaceNews]** Lunar Outpost selects Starship to deliver rover to the moon
+- <a href="https://spacenews.com/spacenews-appoints-mike-gruss-as-chief-content-and-strategy-officer-to-lead-transformative-growth/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Mike Gruss as Chief Content and Strategy Officer to Lead Transformative Growth
 - <a href="https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/" >🔗</a> **[Arstechnica]** As NASA increasingly relies on commercial space, there are some troubling signs
 - <a href="https://europeanspaceflight.com/esa-award-another-e230m-to-arianegroup-for-themis-demonstrator/" >🔗</a> **[Virgin Galactic]** ESA Award Another €230M to ArianeGroup for Themis Demonstrator
 - <a href="https://spacenews.com/european-space-companies-seek-more-competitive-government-contracts/" >🔗</a> **[SpaceNews]** European space companies seek more competitive government contracts
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4368-4369-the-colors-of-fall-and-mars/" >🔗</a> **[NASA]** Sols 4368-4369: The Colors of Fall – and Mars
 - <a href="https://spacenews.com/investors-betting-on-space-growth-under-trump-administration/" >🔗</a> **[SpaceNews]** Investors betting on space growth under Trump administration
 - <a href="https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/space-force-chief-observes-starship-test-launch-signaling-military-interest/" >🔗</a> **[SpaceNews]** Space Force chief observes Starship test launch, signaling military interest
-- <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Transforming Geospatial Intelligence: Data Labeling for AI – Webinar Replay
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T130708">2024-11-21 13:07:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T133555">2024-11-21 13:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
