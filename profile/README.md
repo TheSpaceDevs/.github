@@ -92,6 +92,8 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
+- <a href="https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/" >🔗</a> **[NASA]** Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
+- <a href="https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/" >🔗</a> **[NASA]** FAQ: The Real Story About Astronaut Health Care in Space
 - <a href="https://spacenews.com/space-transportation-of-china-aims-to-test-prototype-spaceplane-in-2025/" >🔗</a> **[SpaceNews]** Space Transportation of China aims to test prototype spaceplane in 2025
 - <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
 - <a href="https://www.nasa.gov/image-article/ring-around-tabbys-star/" >🔗</a> **[NASA]** Ring Around Tabby’s Star
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/" >🔗</a> **[NASA]** NASA: Mystery of Life’s Handedness Deepens
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/" >🔗</a> **[NASA]** NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis
 - <a href="https://spacenews.com/anduril-secures-99-7-million-contract-for-space-force-network-upgrade/" >🔗</a> **[SpaceNews]** Anduril secures $99.7 million contract for Space Force network upgrade
-- <a href="https://www.teslarati.com/tesla-ceo-elon-musk-makes-shock-claim-about-jeff-bezos-reigniting-rivalry/" >🔗</a> **[Teslarati]** Tesla CEO Elon Musk makes shock claim about Jeff Bezos, reigniting rivalry
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Copernicus_Sentinel-1_radar_vision_for_Copernicus" >🔗</a> **[ESA]** Copernicus Sentinel-1: radar vision for Copernicus
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T200123">2024-11-21 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T203317">2024-11-21 20:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
