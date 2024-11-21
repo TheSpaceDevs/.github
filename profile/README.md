@@ -92,6 +92,8 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
+- <a href="https://spacenews.com/esa-and-jaxa-sign-statement-on-expanding-deep-space-cooperation/" >🔗</a> **[SpaceNews]** ESA and JAXA sign statement on expanding deep space cooperation
+- <a href="https://www.nasa.gov/image-article/nasa-langley-employees-earn-silver-snoopy-awards/" >🔗</a> **[NASA]** NASA Langley Employees Earn Silver Snoopy Awards
 - <a href="https://www.nasa.gov/news-release/nasa-awards-test-operations-contract/" >🔗</a> **[NASA]** NASA Awards Test Operations Contract
 - <a href="https://spacenews.com/maxar-prepares-for-final-worldview-legion-launch-to-complete-advanced-imaging-constellation/" >🔗</a> **[SpaceNews]** Maxar prepares for final WorldView Legion launch to complete advanced imaging constellation
 - <a href="https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/" >🔗</a> **[NASA]** Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/space-transportation-of-china-aims-to-test-prototype-spaceplane-in-2025/" >🔗</a> **[SpaceNews]** Space Transportation of China aims to test prototype spaceplane in 2025
 - <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
 - <a href="https://www.nasa.gov/image-article/ring-around-tabbys-star/" >🔗</a> **[NASA]** Ring Around Tabby’s Star
-- <a href="https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/" >🔗</a> **[NASA]** Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
-- <a href="https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/" >🔗</a> **[NASA]** NASA: Mystery of Life’s Handedness Deepens
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T230112">2024-11-21 23:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T233150">2024-11-21 23:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
