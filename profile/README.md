@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-chief-observes-starship-test-launch-signaling-military-interest/" >🔗</a> **[SpaceNews]** Space Force chief observes Starship test launch, signaling military interest
+- <a href="https://spacenews.com/webinar-transforming-geospatial-intelligence-data-labeling-for-ai/" >🔗</a> **[SpaceNews]** Transforming Geospatial Intelligence: Data Labeling for AI – Webinar Replay
 - <a href="https://spacenews.com/teledyne-space-imaging-partners-with-satlantis-on-very-high-resolution-sensor/" >🔗</a> **[SpaceNews]** Teledyne Space Imaging partners with Satlantis on very high-resolution sensor
 - <a href="https://spacenews.com/lockheed-martin-teams-with-iceye-to-advance-ai-enabled-targeting/" >🔗</a> **[SpaceNews]** Lockheed Martin teams with Iceye to advance AI-enabled targeting
 - <a href="https://spacenews.com/inversion-space-raises-44-million/" >🔗</a> **[SpaceNews]** Inversion Space raises $44 million
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lockheed-martins-new-mid-size-satellite-platform-closer-to-launch/" >🔗</a> **[SpaceNews]** Lockheed Martin’s new mid-size satellite platform closer to launch
 - <a href="https://www.teslarati.com/spacex-provides-more-insight-on-why-it-canceled-starship-catch-attempt/" >🔗</a> **[Teslarati]** SpaceX provides more insight on why it canceled Starship catch attempt
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/" >🔗</a> **[NASA]** NASA’s Chandra, Hubble Tune Into ‘Flame-Throwing’ Guitar Nebula
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-rare-glimpse-of-a-newborn-planet/" >🔗</a> **[NASA]** Discovery Alert: A Rare Glimpse of a Newborn Planet
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/" >🔗</a> **[NASA]** What is BioSentinel?
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T000415">2024-11-21 00:04:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T004537">2024-11-21 00:45:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
