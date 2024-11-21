@@ -92,6 +92,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
+- <a href="https://spacenews.com/maxar-prepares-for-final-worldview-legion-launch-to-complete-advanced-imaging-constellation/" >🔗</a> **[SpaceNews]** Maxar prepares for final WorldView Legion launch to complete advanced imaging constellation
 - <a href="https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/" >🔗</a> **[NASA]** Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 - <a href="https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/" >🔗</a> **[NASA]** FAQ: The Real Story About Astronaut Health Care in Space
 - <a href="https://spacenews.com/space-transportation-of-china-aims-to-test-prototype-spaceplane-in-2025/" >🔗</a> **[SpaceNews]** Space Transportation of China aims to test prototype spaceplane in 2025
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/" >🔗</a> **[NASA]** Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
 - <a href="https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/" >🔗</a> **[NASA]** NASA: Mystery of Life’s Handedness Deepens
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/" >🔗</a> **[NASA]** NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis
-- <a href="https://spacenews.com/anduril-secures-99-7-million-contract-for-space-force-network-upgrade/" >🔗</a> **[SpaceNews]** Anduril secures $99.7 million contract for Space Force network upgrade
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T210125">2024-11-21 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241121T213143">2024-11-21 21:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
