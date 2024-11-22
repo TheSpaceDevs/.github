@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/11/how-real-is-this-european-space-startup-that-aims-to-launch-astronauts/" >🔗</a> **[Arstechnica]** How real is this European space startup that aims to launch astronauts?
 - <a href="https://spacenews.com/blue-origin-launches-ninth-crewed-new-shepard-suborbital-mission/" >🔗</a> **[SpaceNews]** Blue Origin launches ninth crewed New Shepard suborbital mission
 - <a href="https://spacenews.com/directv-calls-time-on-plans-to-merge-with-dish/" >🔗</a> **[SpaceNews]** DirecTV calls time on plans to merge with Dish
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/texas-am-breaks-ground-at-nasa-johnson-for-giant-leap-in-space-innovation/" >🔗</a> **[NASA]** Texas A&M Breaks Ground at NASA Johnson for Giant Leap in Space Innovation
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 - <a href="https://spacenews.com/europe-weighs-impact-of-trump-administration-on-space-cooperation/" >🔗</a> **[SpaceNews]** Europe weighs impact of Trump administration on space cooperation
-- <a href="https://spacenews.com/china-quietly-tested-its-first-inflatable-space-module-in-orbit/" >🔗</a> **[SpaceNews]** China quietly tested its first inflatable space module in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T180216">2024-11-22 18:02:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T183641">2024-11-22 18:36:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
