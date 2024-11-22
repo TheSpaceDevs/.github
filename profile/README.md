@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/11/flyover/" >🔗</a> **[NASASpaceflight]** Relativity, Amazon, and NASA continue work on Cape infrastructure
 - <a href="https://www.nasa.gov/learning-resources/launch-your-career/" >🔗</a> **[NASA]** Why NASA Is a Great Place to Launch Your Career
 - <a href="https://arstechnica.com/space/2024/11/how-real-is-this-european-space-startup-that-aims-to-launch-astronauts/" >🔗</a> **[Arstechnica]** How real is this European space startup that aims to launch astronauts?
 - <a href="https://spacenews.com/blue-origin-launches-ninth-crewed-new-shepard-suborbital-mission/" >🔗</a> **[SpaceNews]** Blue Origin launches ninth crewed New Shepard suborbital mission
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Sentinel-1C_pre-launch_media_briefings" >🔗</a> **[ESA]** Media invitation: Sentinel-1C pre-launch media briefings
 - <a href="https://europeanspaceflight.com/esa-awards-hemeria-9-8m-euro-contract-for-space-weather-nanosatellite/" >🔗</a> **[European Spaceflight]** ESA Awards Hemeria €9.8M Contract for Space Weather Nanosatellite
 - <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T220116">2024-11-22 22:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T223403">2024-11-22 22:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
