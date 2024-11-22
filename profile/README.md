@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_November_2024" >🔗</a> **[ESA]** Week in images: 18-22 November 2024
+- <a href="https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Sentinel-1C_pre-launch_media_briefings" >🔗</a> **[ESA]** Media invitation: Sentinel-1C pre-launch media briefings
+- <a href="https://europeanspaceflight.com/esa-awards-hemeria-9-8m-euro-contract-for-space-weather-nanosatellite/" >🔗</a> **[European Spaceflight]** ESA Awards Hemeria €9.8M Contract for Space Weather Nanosatellite
 - <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 - <a href="https://spacenews.com/europe-weighs-impact-of-trump-administration-on-space-cooperation/" >🔗</a> **[SpaceNews]** Europe weighs impact of Trump administration on space cooperation
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moving_Sentinel-1C_to_Vega-C_s_Vampire_payload_adapter" >🔗</a> **[ESA]** Moving Sentinel-1C to Vega-C's Vampire payload adapter
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Angry_husband_eruption" >🔗</a> **[ESA]** Earth from Space: ‘Angry husband’ eruption
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/MapGuard_Advancing_emergency_evacuation_capabilities_in_the_Baltics" >🔗</a> **[ESA]** MapGuard: Advancing emergency evacuation capabilities in the Baltics
-- <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Proba-3_Firing_laser" >🔗</a> **[ESA]** Proba-3: Firing laser!
-- <a href="https://spacenews.com/space-station-developers-weigh-in-on-nasas-continuous-presence-rethink/" >🔗</a> **[SpaceNews]** Space station developers weigh in on NASA’s continuous presence rethink
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T140120">2024-11-22 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T143401">2024-11-22 14:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
