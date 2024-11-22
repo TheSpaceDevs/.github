@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 - <a href="https://spacenews.com/europe-weighs-impact-of-trump-administration-on-space-cooperation/" >🔗</a> **[SpaceNews]** Europe weighs impact of Trump administration on space cooperation
 - <a href="https://spacenews.com/china-quietly-tested-its-first-inflatable-space-module-in-orbit/" >🔗</a> **[SpaceNews]** China quietly tested its first inflatable space module in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moving_Sentinel-1C_to_Vega-C_s_Vampire_payload_adapter" >🔗</a> **[ESA]** Moving Sentinel-1C to Vega-C's Vampire payload adapter
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Proba-3_Firing_laser" >🔗</a> **[ESA]** Proba-3: Firing laser!
 - <a href="https://spacenews.com/space-station-developers-weigh-in-on-nasas-continuous-presence-rethink/" >🔗</a> **[SpaceNews]** Space station developers weigh in on NASA’s continuous presence rethink
-- <a href="https://spacenews.com/esa-and-jaxa-sign-statement-on-expanding-deep-space-cooperation/" >🔗</a> **[SpaceNews]** ESA and JAXA sign statement on expanding deep space cooperation
-- <a href="https://www.nasa.gov/image-article/nasa-langley-employees-earn-silver-snoopy-awards/" >🔗</a> **[NASA]** NASA Langley Employees Earn Silver Snoopy Awards
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T120210">2024-11-22 12:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T124330">2024-11-22 12:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
