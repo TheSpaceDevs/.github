@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-quietly-tested-its-first-inflatable-space-module-in-orbit/" >🔗</a> **[SpaceNews]** China quietly tested its first inflatable space module in orbit
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moving_Sentinel-1C_to_Vega-C_s_Vampire_payload_adapter" >🔗</a> **[ESA]** Moving Sentinel-1C to Vega-C's Vampire payload adapter
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Angry_husband_eruption" >🔗</a> **[ESA]** Earth from Space: ‘Angry husband’ eruption
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/MapGuard_Advancing_emergency_evacuation_capabilities_in_the_Baltics" >🔗</a> **[ESA]** MapGuard: Advancing emergency evacuation capabilities in the Baltics
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/esa-and-jaxa-sign-statement-on-expanding-deep-space-cooperation/" >🔗</a> **[SpaceNews]** ESA and JAXA sign statement on expanding deep space cooperation
 - <a href="https://www.nasa.gov/image-article/nasa-langley-employees-earn-silver-snoopy-awards/" >🔗</a> **[NASA]** NASA Langley Employees Earn Silver Snoopy Awards
 - <a href="https://www.nasa.gov/news-release/nasa-awards-test-operations-contract/" >🔗</a> **[NASA]** NASA Awards Test Operations Contract
-- <a href="https://spacenews.com/maxar-prepares-for-final-worldview-legion-launch-to-complete-advanced-imaging-constellation/" >🔗</a> **[SpaceNews]** Maxar prepares for final WorldView Legion launch to complete advanced imaging constellation
-- <a href="https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/" >🔗</a> **[NASA]** Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T100128">2024-11-22 10:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T103540">2024-11-22 10:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
