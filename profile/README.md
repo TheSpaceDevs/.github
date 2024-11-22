@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/extreme-weather-revolutionizing-weather-preparedness-with-space-technology/" >🔗</a> **[SpaceNews]** Extreme Weather: Revolutionizing Weather Preparedness with Space Technology
 - <a href="https://www.nasaspaceflight.com/2024/11/flyover/" >🔗</a> **[NASASpaceflight]** Relativity, Amazon, and NASA continue work on Cape infrastructure
 - <a href="https://www.nasa.gov/learning-resources/launch-your-career/" >🔗</a> **[NASA]** Why NASA Is a Great Place to Launch Your Career
 - <a href="https://arstechnica.com/space/2024/11/how-real-is-this-european-space-startup-that-aims-to-launch-astronauts/" >🔗</a> **[Arstechnica]** How real is this European space startup that aims to launch astronauts?
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_November_2024" >🔗</a> **[ESA]** Week in images: 18-22 November 2024
 - <a href="https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Sentinel-1C_pre-launch_media_briefings" >🔗</a> **[ESA]** Media invitation: Sentinel-1C pre-launch media briefings
 - <a href="https://europeanspaceflight.com/esa-awards-hemeria-9-8m-euro-contract-for-space-weather-nanosatellite/" >🔗</a> **[European Spaceflight]** ESA Awards Hemeria €9.8M Contract for Space Weather Nanosatellite
-- <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T230125">2024-11-22 23:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T233257">2024-11-22 23:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
