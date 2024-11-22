@@ -92,6 +92,8 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Operations/Open-to-use_SMILE_antenna_wins_hertz_and_minds" >🔗</a> **[ESA]** Open-to-use SMILE antenna wins hertz and minds
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Proba-3_Firing_laser" >🔗</a> **[ESA]** Proba-3: Firing laser!
+- <a href="https://spacenews.com/space-station-developers-weigh-in-on-nasas-continuous-presence-rethink/" >🔗</a> **[SpaceNews]** Space station developers weigh in on NASA’s continuous presence rethink
 - <a href="https://spacenews.com/esa-and-jaxa-sign-statement-on-expanding-deep-space-cooperation/" >🔗</a> **[SpaceNews]** ESA and JAXA sign statement on expanding deep space cooperation
 - <a href="https://www.nasa.gov/image-article/nasa-langley-employees-earn-silver-snoopy-awards/" >🔗</a> **[NASA]** NASA Langley Employees Earn Silver Snoopy Awards
 - <a href="https://www.nasa.gov/news-release/nasa-awards-test-operations-contract/" >🔗</a> **[NASA]** NASA Awards Test Operations Contract
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/" >🔗</a> **[NASA]** Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 - <a href="https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/" >🔗</a> **[NASA]** FAQ: The Real Story About Astronaut Health Care in Space
 - <a href="https://spacenews.com/space-transportation-of-china-aims-to-test-prototype-spaceplane-in-2025/" >🔗</a> **[SpaceNews]** Space Transportation of China aims to test prototype spaceplane in 2025
-- <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
-- <a href="https://www.nasa.gov/image-article/ring-around-tabbys-star/" >🔗</a> **[NASA]** Ring Around Tabby’s Star
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T070127">2024-11-22 07:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T073216">2024-11-22 07:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
