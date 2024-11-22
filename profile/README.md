@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europe-weighs-impact-of-trump-administration-on-space-cooperation/" >🔗</a> **[SpaceNews]** Europe weighs impact of Trump administration on space cooperation
 - <a href="https://spacenews.com/china-quietly-tested-its-first-inflatable-space-module-in-orbit/" >🔗</a> **[SpaceNews]** China quietly tested its first inflatable space module in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moving_Sentinel-1C_to_Vega-C_s_Vampire_payload_adapter" >🔗</a> **[ESA]** Moving Sentinel-1C to Vega-C's Vampire payload adapter
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Angry_husband_eruption" >🔗</a> **[ESA]** Earth from Space: ‘Angry husband’ eruption
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/space-station-developers-weigh-in-on-nasas-continuous-presence-rethink/" >🔗</a> **[SpaceNews]** Space station developers weigh in on NASA’s continuous presence rethink
 - <a href="https://spacenews.com/esa-and-jaxa-sign-statement-on-expanding-deep-space-cooperation/" >🔗</a> **[SpaceNews]** ESA and JAXA sign statement on expanding deep space cooperation
 - <a href="https://www.nasa.gov/image-article/nasa-langley-employees-earn-silver-snoopy-awards/" >🔗</a> **[NASA]** NASA Langley Employees Earn Silver Snoopy Awards
-- <a href="https://www.nasa.gov/news-release/nasa-awards-test-operations-contract/" >🔗</a> **[NASA]** NASA Awards Test Operations Contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T110121">2024-11-22 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T113105">2024-11-22 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
