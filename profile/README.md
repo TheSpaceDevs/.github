@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T004500">2024-11-23 00:45:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T030000">2024-11-24 03:00:00 UTC</a>.  Until
 then, this pad will have been used for 4
 out of 78 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -46,7 +46,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T004500">2024-11-23 00:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Leidos-2&location=Wallops Flight Facility, Virginia, USA&dates=20241123T004500Z%2F20241123T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Leidos-2** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T030000">2024-11-24 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Leidos-2&location=Wallops Flight Facility, Virginia, USA&dates=20241124T030000Z%2F20241124T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Leidos-2** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T032600">2024-11-24 03:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-13&location=Vandenberg SFB, CA, USA&dates=20241124T032600Z%2F20241124T072600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-13** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T035500">2024-11-24 03:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ice AIS Baby (Kinéis 11-15)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241124T035500Z%2F20241124T035500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ice AIS Baby (Kinéis 11-15)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T232600">2024-11-24 23:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241124T232600Z%2F20241124T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-launches-ninth-crewed-new-shepard-suborbital-mission/" >🔗</a> **[SpaceNews]** Blue Origin launches ninth crewed New Shepard suborbital mission
+- <a href="https://spacenews.com/directv-calls-time-on-plans-to-merge-with-dish/" >🔗</a> **[SpaceNews]** DirecTV calls time on plans to merge with Dish
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/texas-am-breaks-ground-at-nasa-johnson-for-giant-leap-in-space-innovation/" >🔗</a> **[NASA]** Texas A&M Breaks Ground at NASA Johnson for Giant Leap in Space Innovation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_November_2024" >🔗</a> **[ESA]** Week in images: 18-22 November 2024
 - <a href="https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Sentinel-1C_pre-launch_media_briefings" >🔗</a> **[ESA]** Media invitation: Sentinel-1C pre-launch media briefings
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 - <a href="https://spacenews.com/europe-weighs-impact-of-trump-administration-on-space-cooperation/" >🔗</a> **[SpaceNews]** Europe weighs impact of Trump administration on space cooperation
 - <a href="https://spacenews.com/china-quietly-tested-its-first-inflatable-space-module-in-orbit/" >🔗</a> **[SpaceNews]** China quietly tested its first inflatable space module in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moving_Sentinel-1C_to_Vega-C_s_Vampire_payload_adapter" >🔗</a> **[ESA]** Moving Sentinel-1C to Vega-C's Vampire payload adapter
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Angry_husband_eruption" >🔗</a> **[ESA]** Earth from Space: ‘Angry husband’ eruption
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T160213">2024-11-22 16:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241122T163712">2024-11-22 16:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
