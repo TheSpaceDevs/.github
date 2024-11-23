@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/the-exploration-company-secures-160-million-for-nyx-spacecraft-development" >🔗</a> **[The Launch Pad]** The Exploration Company Secures $160 Million for Nyx Spacecraft Development
+- <a href="https://tlpnetwork.com/news/america/abl-space-systems-exits-commercial-launch-market-shifts-to-missile-defense" >🔗</a> **[The Launch Pad]** ABL Space Systems Exits Commercial Launch Market, Shifts to Missile Defense
+- <a href="https://tlpnetwork.com/news/america/impulse-space-contracts-three-spacex-falcon-9-launches-for-helios-transfer-vehicle" >🔗</a> **[The Launch Pad]** Impulse Space Contracts Three SpaceX Falcon 9 Launches for Helios Transfer Vehicle
 - <a href="https://europeanspaceflight.com/first-and-second-stages-for-next-ariane-6-flight-en-route/" >🔗</a> **[European Spaceflight]** First and Second Stages for Next Ariane 6 Flight En Route
 - <a href="https://spacepolicyonline.com/news/artemis-and-the-new-administration/" >🔗</a> **[SpacePolicyOnline.com]** Artemis and the New Administration
 - <a href="https://spaceflightnow.com/2024/11/23/blue-origin-raises-its-first-flight-worthy-new-glenn-into-launch-position-ahead-of-final-testing/" >🔗</a> **[Spaceflight Now]** Blue Origin raises its first flight worthy New Glenn into launch position ahead of final testing
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-signs-first-customer-for-neutron-targets-mid-2025-launch" >🔗</a> **[The Launch Pad]** Rocket Lab Signs First Customer for Neutron, Targets Mid-2025 Launch
 - <a href="https://spacenews.com/extreme-weather-revolutionizing-weather-preparedness-with-space-technology/" >🔗</a> **[SpaceNews]** Extreme Weather: Revolutionizing Weather Preparedness with Space Technology
 - <a href="https://www.nasaspaceflight.com/2024/11/flyover/" >🔗</a> **[NASASpaceflight]** Relativity, Amazon, and NASA continue work on Cape infrastructure
-- <a href="https://www.nasa.gov/learning-resources/launch-your-career/" >🔗</a> **[NASA]** Why NASA Is a Great Place to Launch Your Career
-- <a href="https://arstechnica.com/space/2024/11/how-real-is-this-european-space-startup-that-aims-to-launch-astronauts/" >🔗</a> **[Arstechnica]** How real is this European space startup that aims to launch astronauts?
-- <a href="https://spacenews.com/blue-origin-launches-ninth-crewed-new-shepard-suborbital-mission/" >🔗</a> **[SpaceNews]** Blue Origin launches ninth crewed New Shepard suborbital mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T150118">2024-11-23 15:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T153140">2024-11-23 15:31:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
