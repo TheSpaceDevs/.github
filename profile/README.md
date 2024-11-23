@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/23/blue-origin-raises-its-first-flight-worthy-new-glenn-into-launch-position-ahead-of-final-testing/" >🔗</a> **[Spaceflight Now]** Blue Origin raises its first flight worthy New Glenn into launch position ahead of final testing
 - <a href="https://tlpnetwork.com/news/policy-and-finance/denmark-the-48th-nation-to-sign-artemis-accords" >🔗</a> **[The Launch Pad]** Denmark The 48th Nation to Sign Artemis Accords
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-signs-first-customer-for-neutron-targets-mid-2025-launch" >🔗</a> **[The Launch Pad]** Rocket Lab Signs First Customer for Neutron, Targets Mid-2025 Launch
 - <a href="https://spacenews.com/extreme-weather-revolutionizing-weather-preparedness-with-space-technology/" >🔗</a> **[SpaceNews]** Extreme Weather: Revolutionizing Weather Preparedness with Space Technology
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/blue-origin-launches-ninth-crewed-new-shepard-suborbital-mission/" >🔗</a> **[SpaceNews]** Blue Origin launches ninth crewed New Shepard suborbital mission
 - <a href="https://spacenews.com/directv-calls-time-on-plans-to-merge-with-dish/" >🔗</a> **[SpaceNews]** DirecTV calls time on plans to merge with Dish
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/texas-am-breaks-ground-at-nasa-johnson-for-giant-leap-in-space-innovation/" >🔗</a> **[NASA]** Texas A&M Breaks Ground at NASA Johnson for Giant Leap in Space Innovation
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_November_2024" >🔗</a> **[ESA]** Week in images: 18-22 November 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T012816">2024-11-23 01:28:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T020429">2024-11-23 02:04:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
