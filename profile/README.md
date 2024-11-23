@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/esa-expands-support-for-emerging-european-launch-providers-with-additional-4422-million" >🔗</a> **[The Launch Pad]** ESA Expands Support for Emerging European Launch Providers with Additional €44.22 Million
 - <a href="https://tlpnetwork.com/news/europe/the-exploration-company-secures-160-million-for-nyx-spacecraft-development" >🔗</a> **[The Launch Pad]** The Exploration Company Secures $160 Million for Nyx Spacecraft Development
 - <a href="https://tlpnetwork.com/news/america/abl-space-systems-exits-commercial-launch-market-shifts-to-missile-defense" >🔗</a> **[The Launch Pad]** ABL Space Systems Exits Commercial Launch Market, Shifts to Missile Defense
 - <a href="https://tlpnetwork.com/news/america/impulse-space-contracts-three-spacex-falcon-9-launches-for-helios-transfer-vehicle" >🔗</a> **[The Launch Pad]** Impulse Space Contracts Three SpaceX Falcon 9 Launches for Helios Transfer Vehicle
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://tlpnetwork.com/news/policy-and-finance/denmark-the-48th-nation-to-sign-artemis-accords" >🔗</a> **[The Launch Pad]** Denmark The 48th Nation to Sign Artemis Accords
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-signs-first-customer-for-neutron-targets-mid-2025-launch" >🔗</a> **[The Launch Pad]** Rocket Lab Signs First Customer for Neutron, Targets Mid-2025 Launch
 - <a href="https://spacenews.com/extreme-weather-revolutionizing-weather-preparedness-with-space-technology/" >🔗</a> **[SpaceNews]** Extreme Weather: Revolutionizing Weather Preparedness with Space Technology
-- <a href="https://www.nasaspaceflight.com/2024/11/flyover/" >🔗</a> **[NASASpaceflight]** Relativity, Amazon, and NASA continue work on Cape infrastructure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T153140">2024-11-23 15:31:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241123T160210">2024-11-23 16:02:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
