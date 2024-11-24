@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-to-make-lunar-cargo-delivery-awards-to-blue-origin-and-spacex/" >🔗</a> **[SpaceNews]** NASA to make lunar cargo delivery awards to Blue Origin and SpaceX
+- <a href="https://www.nasaspaceflight.com/2024/11/phobos-deimos-origins-models/" >🔗</a> **[NASASpaceflight]** New study provides explanation behind origins of Martian moons Phobos and Deimos
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-24-december-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 24-December 7, 2024
 - <a href="https://spacenews.com/faa-updates-environmental-review-for-increased-starship-launches/" >🔗</a> **[SpaceNews]** FAA updates environmental review for increased Starship launches
 - <a href="https://spaceflightnow.com/2024/11/24/spacex-to-launch-20-starlink-satellites-on-the-400th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 20 Starlink satellites on the 400th Falcon 9 rocket
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/abl-space-systems-exits-commercial-launch-market-shifts-to-missile-defense" >🔗</a> **[The Launch Pad]** ABL Space Systems Exits Commercial Launch Market, Shifts to Missile Defense
 - <a href="https://tlpnetwork.com/news/america/impulse-space-contracts-three-spacex-falcon-9-launches-for-helios-transfer-vehicle" >🔗</a> **[The Launch Pad]** Impulse Space Contracts Three SpaceX Falcon 9 Launches for Helios Transfer Vehicle
 - <a href="https://europeanspaceflight.com/first-and-second-stages-for-next-ariane-6-flight-en-route/" >🔗</a> **[European Spaceflight]** First and Second Stages for Next Ariane 6 Flight En Route
-- <a href="https://spacepolicyonline.com/news/artemis-and-the-new-administration/" >🔗</a> **[SpacePolicyOnline.com]** Artemis and the New Administration
-- <a href="https://spaceflightnow.com/2024/11/23/blue-origin-raises-its-first-flight-worthy-new-glenn-into-launch-position-ahead-of-final-testing/" >🔗</a> **[Spaceflight Now]** Blue Origin raises its first flight worthy New Glenn into launch position ahead of final testing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T200117">2024-11-24 20:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T203205">2024-11-24 20:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
