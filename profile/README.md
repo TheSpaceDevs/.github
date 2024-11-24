@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/24/spacex-to-launch-20-starlink-satellites-on-the-400th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 20 Starlink satellites on the 400th Falcon 9 rocket
 - <a href="https://tlpnetwork.com/news/europe/esa-expands-support-for-emerging-european-launch-providers-with-additional-4422-million" >🔗</a> **[The Launch Pad]** ESA Expands Support for Emerging European Launch Providers with Additional €44.22 Million
 - <a href="https://tlpnetwork.com/news/europe/the-exploration-company-secures-160-million-for-nyx-spacecraft-development" >🔗</a> **[The Launch Pad]** The Exploration Company Secures $160 Million for Nyx Spacecraft Development
 - <a href="https://tlpnetwork.com/news/america/abl-space-systems-exits-commercial-launch-market-shifts-to-missile-defense" >🔗</a> **[The Launch Pad]** ABL Space Systems Exits Commercial Launch Market, Shifts to Missile Defense
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2024/11/23/blue-origin-raises-its-first-flight-worthy-new-glenn-into-launch-position-ahead-of-final-testing/" >🔗</a> **[Spaceflight Now]** Blue Origin raises its first flight worthy New Glenn into launch position ahead of final testing
 - <a href="https://tlpnetwork.com/news/policy-and-finance/denmark-the-48th-nation-to-sign-artemis-accords" >🔗</a> **[The Launch Pad]** Denmark The 48th Nation to Sign Artemis Accords
 - <a href="https://tlpnetwork.com/news/america/rocket-lab-signs-first-customer-for-neutron-targets-mid-2025-launch" >🔗</a> **[The Launch Pad]** Rocket Lab Signs First Customer for Neutron, Targets Mid-2025 Launch
-- <a href="https://spacenews.com/extreme-weather-revolutionizing-weather-preparedness-with-space-technology/" >🔗</a> **[SpaceNews]** Extreme Weather: Revolutionizing Weather Preparedness with Space Technology
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T000452">2024-11-24 00:04:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T004635">2024-11-24 00:46:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
