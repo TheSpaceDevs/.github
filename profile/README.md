@@ -46,7 +46,6 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T232600">2024-11-24 23:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20241124T232600Z%2F20241124T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T035500">2024-11-25 03:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Ice AIS Baby (Kinéis 11-15)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241125T035500Z%2F20241125T035500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Ice AIS Baby (Kinéis 11-15)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T093200">2024-11-25 09:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-1&location=Cape Canaveral SFS, FL, USA&dates=20241125T093200Z%2F20241125T133200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-1** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T033100">2024-11-26 03:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-76&location=Kennedy Space Center, FL, USA&dates=20241126T033100Z%2F20241126T073100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-76** from Kennedy Space Center, FL, USA.
@@ -91,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/toxic-smell-from-progress-ms-29-triggers-decontamination-procedures/" >🔗</a> **[SpacePolicyOnline.com]** Toxic Smell from Progress MS-29 Triggers Decontamination Procedures
+- <a href="https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/" >🔗</a> **[Arstechnica]** After Russian ship docks to space station, astronauts report a foul smell
+- <a href="https://spacenews.com/better-data-innovation-and-regulation-needed-to-tackle-growing-space-debris-threat/" >🔗</a> **[SpaceNews]** Better data, innovation and regulation needed to tackle growing space debris threat
+- <a href="https://spaceflightnow.com/2024/11/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-to-make-lunar-cargo-delivery-awards-to-blue-origin-and-spacex/" >🔗</a> **[SpaceNews]** NASA to make lunar cargo delivery awards to Blue Origin and SpaceX
 - <a href="https://www.nasaspaceflight.com/2024/11/phobos-deimos-origins-models/" >🔗</a> **[NASASpaceflight]** New study provides explanation behind origins of Martian moons Phobos and Deimos
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-24-december-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 24-December 7, 2024
 - <a href="https://spacenews.com/faa-updates-environmental-review-for-increased-starship-launches/" >🔗</a> **[SpaceNews]** FAA updates environmental review for increased Starship launches
 - <a href="https://spaceflightnow.com/2024/11/24/spacex-to-launch-20-starlink-satellites-on-the-400th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 20 Starlink satellites on the 400th Falcon 9 rocket
 - <a href="https://tlpnetwork.com/news/europe/esa-expands-support-for-emerging-european-launch-providers-with-additional-4422-million" >🔗</a> **[The Launch Pad]** ESA Expands Support for Emerging European Launch Providers with Additional €44.22 Million
-- <a href="https://tlpnetwork.com/news/europe/the-exploration-company-secures-160-million-for-nyx-spacecraft-development" >🔗</a> **[The Launch Pad]** The Exploration Company Secures $160 Million for Nyx Spacecraft Development
-- <a href="https://tlpnetwork.com/news/america/abl-space-systems-exits-commercial-launch-market-shifts-to-missile-defense" >🔗</a> **[The Launch Pad]** ABL Space Systems Exits Commercial Launch Market, Shifts to Missile Defense
-- <a href="https://tlpnetwork.com/news/america/impulse-space-contracts-three-spacex-falcon-9-launches-for-helios-transfer-vehicle" >🔗</a> **[The Launch Pad]** Impulse Space Contracts Three SpaceX Falcon 9 Launches for Helios Transfer Vehicle
-- <a href="https://europeanspaceflight.com/first-and-second-stages-for-next-ariane-6-flight-en-route/" >🔗</a> **[European Spaceflight]** First and Second Stages for Next Ariane 6 Flight En Route
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T230119">2024-11-24 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241124T233148">2024-11-24 23:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
