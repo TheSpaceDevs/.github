@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/spacex-targets-jan-11-2025-for-starship-flight-test-7-nasa-high-tech-gulfstream-to-capture-re-entry" >🔗</a> **[The Launch Pad]** SpaceX Targets Jan 11 2025 For Starship Flight Test 7; NASA High-Tech Gulfstream To Capture Re-Entry
 - <a href="https://spacepolicyonline.com/news/toxic-smell-from-progress-ms-29-triggers-decontamination-procedures/" >🔗</a> **[SpacePolicyOnline.com]** Toxic Smell from Progress MS-29 Triggers Decontamination Procedures
 - <a href="https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/" >🔗</a> **[Arstechnica]** After Russian ship docks to space station, astronauts report a foul smell
 - <a href="https://spacenews.com/better-data-innovation-and-regulation-needed-to-tackle-growing-space-debris-threat/" >🔗</a> **[SpaceNews]** Better data, innovation and regulation needed to tackle growing space debris threat
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-24-december-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 24-December 7, 2024
 - <a href="https://spacenews.com/faa-updates-environmental-review-for-increased-starship-launches/" >🔗</a> **[SpaceNews]** FAA updates environmental review for increased Starship launches
 - <a href="https://spaceflightnow.com/2024/11/24/spacex-to-launch-20-starlink-satellites-on-the-400th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 20 Starlink satellites on the 400th Falcon 9 rocket
-- <a href="https://tlpnetwork.com/news/europe/esa-expands-support-for-emerging-european-launch-providers-with-additional-4422-million" >🔗</a> **[The Launch Pad]** ESA Expands Support for Emerging European Launch Providers with Additional €44.22 Million
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T012835">2024-11-25 01:28:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T020813">2024-11-25 02:08:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
