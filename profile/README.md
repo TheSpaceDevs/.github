@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/" >🔗</a> **[NASA]** Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Sombrero_Galaxy_dazzles_in_new_Webb_image" >🔗</a> **[ESA]** Sombrero Galaxy dazzles in new Webb image
 - <a href="https://spacenews.com/space-firms-see-government-contracting-shakeup-in-second-trump-term/" >🔗</a> **[SpaceNews]** Space firms see government contracting shakeup in second Trump term
 - <a href="https://europeanspaceflight.com/italy-to-reopen-kenya-based-offshore-launch-facility/" >🔗</a> **[European Spaceflight]** Italy to Reopen Kenya-Based Offshore Launch Facility
 - <a href="https://spacenews.com/iss-crew-reports-unexpected-odor-from-russian-progress-cargo-spacecraft/" >🔗</a> **[SpaceNews]** ISS crew reports “unexpected odor” from Russian Progress cargo spacecraft
 - <a href="https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/china-launches-pair-of-superview-neo-2-radar-satellites/" >🔗</a> **[SpaceNews]** China launches pair of SuperView Neo-2 radar satellites
 - <a href="https://spacenews.com/rocket-lab-launches-two-electrons-within-24-hours/" >🔗</a> **[SpaceNews]** Rocket Lab launches two Electrons within 24 hours
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_to_apply_to_the_ESA_Student_Internship_Programme" >🔗</a> **[ESA]** Final call to apply to the ESA Student Internship Programme
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-jan-11-2025-for-starship-flight-test-7-nasa-high-tech-gulfstream-to-capture-re-entry" >🔗</a> **[The Launch Pad]** SpaceX Targets Jan 11 2025 For Starship Flight Test 7; NASA High-Tech Gulfstream To Capture Re-Entry
-- <a href="https://spacepolicyonline.com/news/toxic-smell-from-progress-ms-29-triggers-decontamination-procedures/" >🔗</a> **[SpacePolicyOnline.com]** Toxic Smell from Progress MS-29 Triggers Decontamination Procedures
-- <a href="https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/" >🔗</a> **[Arstechnica]** After Russian ship docks to space station, astronauts report a foul smell
-- <a href="https://spacenews.com/better-data-innovation-and-regulation-needed-to-tackle-growing-space-debris-threat/" >🔗</a> **[SpaceNews]** Better data, innovation and regulation needed to tackle growing space debris threat
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T150129">2024-11-25 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T153412">2024-11-25 15:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
