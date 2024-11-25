@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/station-science-top-news-nov-22-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 22, 2024
+- <a href="https://spacenews.com/pentagon-underestimated-supply-chain-fragility-now-racing-to-fix-gaps/" >🔗</a> **[SpaceNews]** Pentagon underestimated supply chain fragility, now racing to fix gaps
 - <a href="https://spacenews.com/endurosat-orders-100-enpulsion-propulsion-systems/" >🔗</a> **[SpaceNews]** EnduroSat orders 100 Enpulsion propulsion systems
 - <a href="https://spacenews.com/optimax-names-new-ceo-and-president/" >🔗</a> **[SpaceNews]** Optimax names new CEO and president
 - <a href="https://www.spacescout.info/2024/11/starship-completes-flight-6-aborts-tower-catch/" >🔗</a> **[Space Scout]** Starship Completes Flight 6, Aborts Tower Catch
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-november-18-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** Weekly Roundup for SpacePolicyOnline.com: November 18-24, 2024
 - <a href="https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/" >🔗</a> **[NASA]** NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-firefly-blue-ghost-mission-1-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Firefly Blue Ghost Mission 1 Launch to Moon
-- <a href="https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/" >🔗</a> **[NASA]** Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Sombrero_Galaxy_dazzles_in_new_Webb_image" >🔗</a> **[ESA]** Sombrero Galaxy dazzles in new Webb image
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T190124">2024-11-25 19:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T193054">2024-11-25 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
