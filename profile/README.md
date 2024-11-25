@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/" >🔗</a> **[NASA]** NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-dragonfly-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Dragonfly Mission
+- <a href="https://www.teslarati.com/spacex-eyes-25-annual-starship-launches-starting-next-year/" >🔗</a> **[Teslarati]** SpaceX eyes 25 annual Starship launches starting next year
 - <a href="https://www.nasa.gov/image-article/mini-nasa-robot-takes-a-swim/" >🔗</a> **[NASA]** Mini NASA Robot Takes a SWIM
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2024
 - <a href="https://www.nasa.gov/general/station-science-top-news-nov-22-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 22, 2024
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/endurosat-orders-100-enpulsion-propulsion-systems/" >🔗</a> **[SpaceNews]** EnduroSat orders 100 Enpulsion propulsion systems
 - <a href="https://spacenews.com/optimax-names-new-ceo-and-president/" >🔗</a> **[SpaceNews]** Optimax names new CEO and president
 - <a href="https://www.spacescout.info/2024/11/starship-completes-flight-6-aborts-tower-catch/" >🔗</a> **[Space Scout]** Starship Completes Flight 6, Aborts Tower Catch
-- <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/" >🔗</a> **[NASA]** NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
-- <a href="https://www.jpl.nasa.gov/news/nasas-europa-clipper-millions-of-miles-down-instruments-deploying" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
-- <a href="https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-november-18-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** Weekly Roundup for SpacePolicyOnline.com: November 18-24, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T210114">2024-11-25 21:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T213206">2024-11-25 21:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
