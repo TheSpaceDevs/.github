@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/11/starship-completes-flight-6-aborts-tower-catch/" >🔗</a> **[Space Scout]** Starship Completes Flight 6, Aborts Tower Catch
+- <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/" >🔗</a> **[NASA]** NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
+- <a href="https://www.jpl.nasa.gov/news/nasas-europa-clipper-millions-of-miles-down-instruments-deploying" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
 - <a href="https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-november-18-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** Weekly Roundup for SpacePolicyOnline.com: November 18-24, 2024
 - <a href="https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/" >🔗</a> **[NASA]** NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-firefly-blue-ghost-mission-1-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Firefly Blue Ghost Mission 1 Launch to Moon
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Sombrero_Galaxy_dazzles_in_new_Webb_image" >🔗</a> **[ESA]** Sombrero Galaxy dazzles in new Webb image
 - <a href="https://spacenews.com/space-firms-see-government-contracting-shakeup-in-second-trump-term/" >🔗</a> **[SpaceNews]** Space firms see government contracting shakeup in second Trump term
 - <a href="https://europeanspaceflight.com/italy-to-reopen-kenya-based-offshore-launch-facility/" >🔗</a> **[European Spaceflight]** Italy to Reopen Kenya-Based Offshore Launch Facility
-- <a href="https://spacenews.com/iss-crew-reports-unexpected-odor-from-russian-progress-cargo-spacecraft/" >🔗</a> **[SpaceNews]** ISS crew reports “unexpected odor” from Russian Progress cargo spacecraft
-- <a href="https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spacenews.com/china-launches-pair-of-superview-neo-2-radar-satellites/" >🔗</a> **[SpaceNews]** China launches pair of SuperView Neo-2 radar satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T170122">2024-11-25 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T173343">2024-11-25 17:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
