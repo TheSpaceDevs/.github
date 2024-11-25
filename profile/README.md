@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://spacenews.com/china-launches-pair-of-superview-neo-2-radar-satellites/" >🔗</a> **[SpaceNews]** China launches pair of SuperView Neo-2 radar satellites
 - <a href="https://spacenews.com/rocket-lab-launches-two-electrons-within-24-hours/" >🔗</a> **[SpaceNews]** Rocket Lab launches two Electrons within 24 hours
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-jan-11-2025-for-starship-flight-test-7-nasa-high-tech-gulfstream-to-capture-re-entry" >🔗</a> **[The Launch Pad]** SpaceX Targets Jan 11 2025 For Starship Flight Test 7; NASA High-Tech Gulfstream To Capture Re-Entry
 - <a href="https://spacepolicyonline.com/news/toxic-smell-from-progress-ms-29-triggers-decontamination-procedures/" >🔗</a> **[SpacePolicyOnline.com]** Toxic Smell from Progress MS-29 Triggers Decontamination Procedures
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/11/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-to-make-lunar-cargo-delivery-awards-to-blue-origin-and-spacex/" >🔗</a> **[SpaceNews]** NASA to make lunar cargo delivery awards to Blue Origin and SpaceX
 - <a href="https://www.nasaspaceflight.com/2024/11/phobos-deimos-origins-models/" >🔗</a> **[NASASpaceflight]** New study provides explanation behind origins of Martian moons Phobos and Deimos
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-24-december-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 24-December 7, 2024
-- <a href="https://spacenews.com/faa-updates-environmental-review-for-increased-starship-launches/" >🔗</a> **[SpaceNews]** FAA updates environmental review for increased Starship launches
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T113105">2024-11-25 11:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T120146">2024-11-25 12:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
