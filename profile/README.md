@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly sets January launch date for first lunar lander mission
 - <a href="https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/" >🔗</a> **[NASA]** NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-dragonfly-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Dragonfly Mission
 - <a href="https://www.teslarati.com/spacex-eyes-25-annual-starship-launches-starting-next-year/" >🔗</a> **[Teslarati]** SpaceX eyes 25 annual Starship launches starting next year
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagon-underestimated-supply-chain-fragility-now-racing-to-fix-gaps/" >🔗</a> **[SpaceNews]** Pentagon underestimated supply chain fragility, now racing to fix gaps
 - <a href="https://spacenews.com/endurosat-orders-100-enpulsion-propulsion-systems/" >🔗</a> **[SpaceNews]** EnduroSat orders 100 Enpulsion propulsion systems
 - <a href="https://spacenews.com/optimax-names-new-ceo-and-president/" >🔗</a> **[SpaceNews]** Optimax names new CEO and president
-- <a href="https://www.spacescout.info/2024/11/starship-completes-flight-6-aborts-tower-catch/" >🔗</a> **[Space Scout]** Starship Completes Flight 6, Aborts Tower Catch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T220124">2024-11-25 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T223335">2024-11-25 22:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
