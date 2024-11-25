@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/mini-nasa-robot-takes-a-swim/" >🔗</a> **[NASA]** Mini NASA Robot Takes a SWIM
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2024/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: November 2024
 - <a href="https://www.nasa.gov/general/station-science-top-news-nov-22-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 22, 2024
 - <a href="https://spacenews.com/pentagon-underestimated-supply-chain-fragility-now-racing-to-fix-gaps/" >🔗</a> **[SpaceNews]** Pentagon underestimated supply chain fragility, now racing to fix gaps
 - <a href="https://spacenews.com/endurosat-orders-100-enpulsion-propulsion-systems/" >🔗</a> **[SpaceNews]** EnduroSat orders 100 Enpulsion propulsion systems
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/" >🔗</a> **[NASA]** NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
 - <a href="https://www.jpl.nasa.gov/news/nasas-europa-clipper-millions-of-miles-down-instruments-deploying" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
 - <a href="https://spacepolicyonline.com/news/weekly-roundup-for-spacepolicyonline-com-november-18-24-2024/" >🔗</a> **[SpacePolicyOnline.com]** Weekly Roundup for SpacePolicyOnline.com: November 18-24, 2024
-- <a href="https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/" >🔗</a> **[NASA]** NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-firefly-blue-ghost-mission-1-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Firefly Blue Ghost Mission 1 Launch to Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T193054">2024-11-25 19:30:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T200127">2024-11-25 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
