@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
 - <a href="https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly sets January launch date for first lunar lander mission
 - <a href="https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/" >🔗</a> **[NASA]** NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-dragonfly-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Dragonfly Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/station-science-top-news-nov-22-2024/" >🔗</a> **[NASA]** Station Science Top News: Nov. 22, 2024
 - <a href="https://spacenews.com/pentagon-underestimated-supply-chain-fragility-now-racing-to-fix-gaps/" >🔗</a> **[SpaceNews]** Pentagon underestimated supply chain fragility, now racing to fix gaps
 - <a href="https://spacenews.com/endurosat-orders-100-enpulsion-propulsion-systems/" >🔗</a> **[SpaceNews]** EnduroSat orders 100 Enpulsion propulsion systems
-- <a href="https://spacenews.com/optimax-names-new-ceo-and-president/" >🔗</a> **[SpaceNews]** Optimax names new CEO and president
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T230117">2024-11-25 23:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241125T233159">2024-11-25 23:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
