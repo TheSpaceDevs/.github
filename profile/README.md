@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pawel-skonieczka-deutsche-bank-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Pawel Skonieczka, Deutsche Bank – Commercial Space Transformers
 - <a href="https://spacenews.com/overregulation-is-stifling-the-commercial-space-industry-the-launch-communications-act-is-a-good-start/" >🔗</a> **[SpaceNews]** Overregulation is stifling the commercial space industry. The Launch Communications Act is a good start.
 - <a href="https://spacenews.com/spectrum-amt-to-produce-d-orbit-usa-satellites/" >🔗</a> **[SpaceNews]** Spectrum AMT to produce D-Orbit USA satellites
 - <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-dragonfly-mission/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Dragonfly mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly sets January launch date for first lunar lander mission
 - <a href="https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/" >🔗</a> **[NASA]** NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-dragonfly-mission/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for Dragonfly Mission
-- <a href="https://www.teslarati.com/spacex-eyes-25-annual-starship-launches-starting-next-year/" >🔗</a> **[Teslarati]** SpaceX eyes 25 annual Starship launches starting next year
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T140129">2024-11-26 14:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T143512">2024-11-26 14:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
