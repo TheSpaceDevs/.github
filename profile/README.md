@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/" >🔗</a> **[NASA]** NASA Data Reveals Role of Green Spaces in Cooling Cities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/art-meets-exploration-cosmic-connections-in-galveston/" >🔗</a> **[NASA]** Art Meets Exploration: Cosmic Connections in Galveston
 - <a href="https://www.nasa.gov/image-article/space-station-seaque-self-healing-quantum-technology/" >🔗</a> **[NASA]** Space Station Research Tests Performance of Self-Healing Quantum Technology
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Eclipse-maker_How_Proba-3_subtracts_the_Sun" >🔗</a> **[ESA]** Eclipse-maker: How Proba-3 subtracts the Sun
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-dragonfly-mission/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Dragonfly mission
 - <a href="https://europeanspaceflight.com/cnes-to-once-again-launch-sounding-rockets-from-french-guiana/" >🔗</a> **[European Spaceflight]** CNES to Once Again Launch Sounding Rockets from French Guiana
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/emerging-engineering-leader-basil-baldauff-emphasizes-osage-values/" >🔗</a> **[NASA]** Emerging Engineering Leader Basil Baldauff Emphasizes Osage Values
-- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T170122">2024-11-26 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T173340">2024-11-26 17:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
