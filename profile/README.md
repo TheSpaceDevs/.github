@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/alfonso-delgado-bonal-has-his-head-in-the-clouds-for-research/" >🔗</a> **[NASA]** Alfonso Delgado Bonal Has His Head in the Clouds — for Research
+- <a href="https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/" >🔗</a> **[NASA]** This Thanksgiving, We’re Grateful for NASA’s Amateur Scientists!
 - <a href="https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/" >🔗</a> **[NASA]** NASA Data Reveals Role of Green Spaces in Cooling Cities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/art-meets-exploration-cosmic-connections-in-galveston/" >🔗</a> **[NASA]** Art Meets Exploration: Cosmic Connections in Galveston
 - <a href="https://www.nasa.gov/image-article/space-station-seaque-self-healing-quantum-technology/" >🔗</a> **[NASA]** Space Station Research Tests Performance of Self-Healing Quantum Technology
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/overregulation-is-stifling-the-commercial-space-industry-the-launch-communications-act-is-a-good-start/" >🔗</a> **[SpaceNews]** Overregulation is stifling the commercial space industry. The Launch Communications Act is a good start.
 - <a href="https://spacenews.com/spectrum-amt-to-produce-d-orbit-usa-satellites/" >🔗</a> **[SpaceNews]** Spectrum AMT to produce D-Orbit USA satellites
 - <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-dragonfly-mission/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Dragonfly mission
-- <a href="https://europeanspaceflight.com/cnes-to-once-again-launch-sounding-rockets-from-french-guiana/" >🔗</a> **[European Spaceflight]** CNES to Once Again Launch Sounding Rockets from French Guiana
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/emerging-engineering-leader-basil-baldauff-emphasizes-osage-values/" >🔗</a> **[NASA]** Emerging Engineering Leader Basil Baldauff Emphasizes Osage Values
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T180134">2024-11-26 18:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T183657">2024-11-26 18:36:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
