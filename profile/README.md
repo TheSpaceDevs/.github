@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/art-meets-exploration-cosmic-connections-in-galveston/" >🔗</a> **[NASA]** Art Meets Exploration: Cosmic Connections in Galveston
+- <a href="https://www.nasa.gov/image-article/space-station-seaque-self-healing-quantum-technology/" >🔗</a> **[NASA]** Space Station Research Tests Performance of Self-Healing Quantum Technology
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Eclipse-maker_How_Proba-3_subtracts_the_Sun" >🔗</a> **[ESA]** Eclipse-maker: How Proba-3 subtracts the Sun
 - <a href="https://spacenews.com/pawel-skonieczka-deutsche-bank-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Pawel Skonieczka, Deutsche Bank – Commercial Space Transformers
 - <a href="https://spacenews.com/overregulation-is-stifling-the-commercial-space-industry-the-launch-communications-act-is-a-good-start/" >🔗</a> **[SpaceNews]** Overregulation is stifling the commercial space industry. The Launch Communications Act is a good start.
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/cnes-to-once-again-launch-sounding-rockets-from-french-guiana/" >🔗</a> **[European Spaceflight]** CNES to Once Again Launch Sounding Rockets from French Guiana
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/emerging-engineering-leader-basil-baldauff-emphasizes-osage-values/" >🔗</a> **[NASA]** Emerging Engineering Leader Basil Baldauff Emphasizes Osage Values
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
-- <a href="https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly sets January launch date for first lunar lander mission
-- <a href="https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/" >🔗</a> **[NASA]** NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T160133">2024-11-26 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T163727">2024-11-26 16:37:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
