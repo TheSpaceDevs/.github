@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-sensors/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next-Generation Space Weather Sensors
+- <a href="https://www.nasa.gov/news-release/nasa-usaid-invite-media-to-launch-of-new-servir-central-america-hub/" >🔗</a> **[NASA]** NASA, USAID Invite Media to Launch of New SERVIR Central America Hub
 - <a href="https://www.nasa.gov/image-article/selfie-time-with-astronaut-victor-glover/" >🔗</a> **[NASA]** Selfie Time with Astronaut Victor Glover
 - <a href="https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/" >🔗</a> **[NASA]** NASA AI, Open Science Advance Natural Disaster Research and Recovery
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/" >🔗</a> **[NASA]** Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/" >🔗</a> **[NASA]** This Thanksgiving, We’re Grateful for NASA’s Amateur Scientists!
 - <a href="https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/" >🔗</a> **[NASA]** NASA Data Reveals Role of Green Spaces in Cooling Cities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/art-meets-exploration-cosmic-connections-in-galveston/" >🔗</a> **[NASA]** Art Meets Exploration: Cosmic Connections in Galveston
-- <a href="https://www.nasa.gov/image-article/space-station-seaque-self-healing-quantum-technology/" >🔗</a> **[NASA]** Space Station Research Tests Performance of Self-Healing Quantum Technology
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Eclipse-maker_How_Proba-3_subtracts_the_Sun" >🔗</a> **[ESA]** Eclipse-maker: How Proba-3 subtracts the Sun
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T210114">2024-11-26 21:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241126T213205">2024-11-26 21:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
