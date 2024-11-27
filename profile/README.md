@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/manager-and-program-analyst-tami-wisniewski/" >🔗</a> **[NASA]** Manager and Program Analyst Tami Wisniewski
+- <a href="https://spacenews.com/the-urgent-need-for-a-national-gps-jamming-detection-system/" >🔗</a> **[SpaceNews]** The urgent need for a national GPS jamming detection system
 - <a href="https://spacenews.com/veritas-venus-mission-seeks-to-avoid-further-delays/" >🔗</a> **[SpaceNews]** VERITAS Venus mission seeks to avoid further delays
 - <a href="https://spacenews.com/landspace-puts-2-satellites-in-orbit-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace puts 2 satellites in orbit with enhanced Zhuque-2 rocket
 - <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" >🔗</a> **[ESA]** Watch live: Sentinel-1C pre-launch media briefing
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Webb_traces_swirling_spiral_arms_in_infrared" >🔗</a> **[ESA]** Webb traces swirling spiral arms in infrared
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/10_ways_Sentinel-1_data_lets_us_see_our_world" >🔗</a> **[ESA]** 10 ways Sentinel-1 data lets us ‘see’ our world
 - <a href="https://spacepolicyonline.com/news/japans-epsilon-s-rocket-suffers-another-setback/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s Epsilon S Rocket Suffers Another Setback
-- <a href="https://spacenews.com/nasa-outlines-impacts-of-viper-on-clps-lunar-lander-program/" >🔗</a> **[SpaceNews]** NASA outlines impacts of VIPER on CLPS lunar lander program
-- <a href="https://spacenews.com/spacex-gets-conditional-approval-for-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** SpaceX gets conditional approval for direct-to-smartphone service
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T140115">2024-11-27 14:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T143455">2024-11-27 14:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
