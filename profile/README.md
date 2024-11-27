@@ -93,6 +93,8 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-award-open-cosmos-a-e34-6m-for-nanomagsat-mission/" >🔗</a> **[European Spaceflight]** ESA Award Open Cosmos a €34.6M for NanoMagSat Mission
+- <a href="https://spacenews.com/vega-c-return-to-flight-slips-a-day/" >🔗</a> **[SpaceNews]** Vega C return to flight slips a day
 - <a href="https://www.nasa.gov/image-article/john-herrington-performs-a-spacewalk/" >🔗</a> **[NASA]** John Herrington Performs a Spacewalk
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Droplets_face_to_face_in_space" >🔗</a> **[ESA]** Droplets face to face in space
 - <a href="https://www.nasa.gov/general/nasa-plane-supported-innovative-microgravity-research-in-90s/" >🔗</a> **[NASA]** NASA Plane Supported Innovative Microgravity Research in ‘90s
@@ -101,8 +103,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Sentinel-1C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1C pre-launch media briefing
 - <a href="https://www.nasa.gov/image-article/manager-and-program-analyst-tami-wisniewski/" >🔗</a> **[NASA]** Manager and Program Analyst Tami Wisniewski
 - <a href="https://spacenews.com/the-urgent-need-for-a-national-gps-jamming-detection-system/" >🔗</a> **[SpaceNews]** The urgent need for a national GPS jamming detection system
-- <a href="https://spacenews.com/veritas-venus-mission-seeks-to-avoid-further-delays/" >🔗</a> **[SpaceNews]** VERITAS Venus mission seeks to avoid further delays
-- <a href="https://spacenews.com/landspace-puts-2-satellites-in-orbit-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace puts 2 satellites in orbit with enhanced Zhuque-2 rocket
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T210124">2024-11-27 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T213200">2024-11-27 21:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
