@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/veritas-venus-mission-seeks-to-avoid-further-delays/" >🔗</a> **[SpaceNews]** VERITAS Venus mission seeks to avoid further delays
+- <a href="https://spacenews.com/landspace-puts-2-satellites-in-orbit-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace puts 2 satellites in orbit with enhanced Zhuque-2 rocket
 - <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" >🔗</a> **[ESA]** Watch live: Sentinel-1C pre-launch media briefing
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_awards_development_contract_for_NanoMagSat" >🔗</a> **[ESA]** ESA awards development contract for NanoMagSat
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_science_takes_express_ride_into_space" >🔗</a> **[ESA]** European science takes express ride into space
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/japans-epsilon-s-rocket-suffers-another-setback/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s Epsilon S Rocket Suffers Another Setback
 - <a href="https://spacenews.com/nasa-outlines-impacts-of-viper-on-clps-lunar-lander-program/" >🔗</a> **[SpaceNews]** NASA outlines impacts of VIPER on CLPS lunar lander program
 - <a href="https://spacenews.com/spacex-gets-conditional-approval-for-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** SpaceX gets conditional approval for direct-to-smartphone service
-- <a href="https://spacenews.com/slingshot-selected-to-design-user-experience-for-u-s-space-traffic-system/" >🔗</a> **[SpaceNews]** Slingshot selected to design user experience for U.S. space traffic system
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-sensors/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next-Generation Space Weather Sensors
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T120142">2024-11-27 12:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T124257">2024-11-27 12:42:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
