@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/" >🔗</a> **[NASA]** An Electronic Traffic Monitor for Airports
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Sentinel-1C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1C pre-launch media briefing
 - <a href="https://www.nasa.gov/image-article/manager-and-program-analyst-tami-wisniewski/" >🔗</a> **[NASA]** Manager and Program Analyst Tami Wisniewski
 - <a href="https://spacenews.com/the-urgent-need-for-a-national-gps-jamming-detection-system/" >🔗</a> **[SpaceNews]** The urgent need for a national GPS jamming detection system
 - <a href="https://spacenews.com/veritas-venus-mission-seeks-to-avoid-further-delays/" >🔗</a> **[SpaceNews]** VERITAS Venus mission seeks to avoid further delays
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_awards_development_contract_for_NanoMagSat" >🔗</a> **[ESA]** ESA awards development contract for NanoMagSat
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_science_takes_express_ride_into_space" >🔗</a> **[ESA]** European science takes express ride into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Webb_traces_swirling_spiral_arms_in_infrared" >🔗</a> **[ESA]** Webb traces swirling spiral arms in infrared
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/10_ways_Sentinel-1_data_lets_us_see_our_world" >🔗</a> **[ESA]** 10 ways Sentinel-1 data lets us ‘see’ our world
-- <a href="https://spacepolicyonline.com/news/japans-epsilon-s-rocket-suffers-another-setback/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s Epsilon S Rocket Suffers Another Setback
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T160127">2024-11-27 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T163746">2024-11-27 16:37:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
