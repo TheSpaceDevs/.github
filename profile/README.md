@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Droplets_face_to_face_in_space" >🔗</a> **[ESA]** Droplets face to face in space
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-plane-supported-innovative-microgravity-research-in-90s/" >🔗</a> **[NASA]** NASA Plane Supported Innovative Microgravity Research in ‘90s
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/" >🔗</a> **[NASA]** An Electronic Traffic Monitor for Airports
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Sentinel-1C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1C pre-launch media briefing
 - <a href="https://www.nasa.gov/image-article/manager-and-program-analyst-tami-wisniewski/" >🔗</a> **[NASA]** Manager and Program Analyst Tami Wisniewski
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/landspace-puts-2-satellites-in-orbit-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace puts 2 satellites in orbit with enhanced Zhuque-2 rocket
 - <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" >🔗</a> **[ESA]** Watch live: Sentinel-1C pre-launch media briefing
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_awards_development_contract_for_NanoMagSat" >🔗</a> **[ESA]** ESA awards development contract for NanoMagSat
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_science_takes_express_ride_into_space" >🔗</a> **[ESA]** European science takes express ride into space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Webb_traces_swirling_spiral_arms_in_infrared" >🔗</a> **[ESA]** Webb traces swirling spiral arms in infrared
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T170123">2024-11-27 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T173328">2024-11-27 17:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
