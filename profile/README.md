@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-76**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T030500">2024-11-27 03:05:00 UTC</a>.  Until
-then, this pad will have been used for 189
-out of 247 launches from this location. The launch status is currently
+**Soyuz 2.1b | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Russian Space Forces*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T190000">2024-11-27 19:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 1670 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Russian military satellite(s) of unknown variant.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T212000">2024-12-03 21:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Sentinel-1C&location=Guiana Space Centre, French Guiana&dates=20241203T212000Z%2F20241203T212000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Sentinel-1C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T002900">2024-12-04 00:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-14&location=Vandenberg SFB, CA, USA&dates=20241204T002900Z%2F20241204T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T082900">2024-12-04 08:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-70&location=Cape Canaveral SFS, FL, USA&dates=20241204T082900Z%2F20241204T122900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-70** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T103000">2024-12-04 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Proba-3&location=Satish Dhawan Space Centre, India&dates=20241204T103000Z%2F20241204T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Proba-3** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/japans-epsilon-s-rocket-suffers-another-setback/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s Epsilon S Rocket Suffers Another Setback
 - <a href="https://spacenews.com/nasa-outlines-impacts-of-viper-on-clps-lunar-lander-program/" >🔗</a> **[SpaceNews]** NASA outlines impacts of VIPER on CLPS lunar lander program
 - <a href="https://spacenews.com/spacex-gets-conditional-approval-for-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** SpaceX gets conditional approval for direct-to-smartphone service
 - <a href="https://spacenews.com/slingshot-selected-to-design-user-experience-for-u-s-space-traffic-system/" >🔗</a> **[SpaceNews]** Slingshot selected to design user experience for U.S. space traffic system
@@ -99,18 +101,16 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/" >🔗</a> **[NASA]** NASA AI, Open Science Advance Natural Disaster Research and Recovery
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/" >🔗</a> **[NASA]** Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
 - <a href="https://science.nasa.gov/uncategorized/discovery-alert-a-hot-neptune-in-a-tight-orbit/" >🔗</a> **[NASA]** Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/alfonso-delgado-bonal-has-his-head-in-the-clouds-for-research/" >🔗</a> **[NASA]** Alfonso Delgado Bonal Has His Head in the Clouds — for Research
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
-- <a href="https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T050114">2024-11-27 05:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T053414">2024-11-27 05:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
