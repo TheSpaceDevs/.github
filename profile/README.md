@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_awards_development_contract_for_NanoMagSat" >🔗</a> **[ESA]** ESA awards development contract for NanoMagSat
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_science_takes_express_ride_into_space" >🔗</a> **[ESA]** European science takes express ride into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Webb_traces_swirling_spiral_arms_in_infrared" >🔗</a> **[ESA]** Webb traces swirling spiral arms in infrared
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/10_ways_Sentinel-1_data_lets_us_see_our_world" >🔗</a> **[ESA]** 10 ways Sentinel-1 data lets us ‘see’ our world
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/slingshot-selected-to-design-user-experience-for-u-s-space-traffic-system/" >🔗</a> **[SpaceNews]** Slingshot selected to design user experience for U.S. space traffic system
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-sensors/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next-Generation Space Weather Sensors
 - <a href="https://www.nasa.gov/news-release/nasa-usaid-invite-media-to-launch-of-new-servir-central-america-hub/" >🔗</a> **[NASA]** NASA, USAID Invite Media to Launch of New SERVIR Central America Hub
-- <a href="https://www.nasa.gov/image-article/selfie-time-with-astronaut-victor-glover/" >🔗</a> **[NASA]** Selfie Time with Astronaut Victor Glover
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T110114">2024-11-27 11:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T113114">2024-11-27 11:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
