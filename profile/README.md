@@ -52,10 +52,10 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T080800">2024-11-30 08:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-126&location=Vandenberg SFB, CA, USA&dates=20241130T080800Z%2F20241130T120800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-126** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T133000">2024-11-30 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Maiden Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20241130T133000Z%2F20241130T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Maiden Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T044500">2024-12-02 04:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20241202T044500Z%2F20241202T050600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T212000">2024-12-03 21:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Sentinel-1C&location=Guiana Space Centre, French Guiana&dates=20241203T212000Z%2F20241203T212000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Sentinel-1C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T002900">2024-12-04 00:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-14&location=Vandenberg SFB, CA, USA&dates=20241204T002900Z%2F20241204T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T082900">2024-12-04 08:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-70&location=Cape Canaveral SFS, FL, USA&dates=20241204T082900Z%2F20241204T122900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-70** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T103000">2024-12-04 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Proba-3&location=Satish Dhawan Space Centre, India&dates=20241204T103000Z%2F20241204T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Proba-3** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T160000">2024-12-05 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Kennedy Space Center, FL, USA&dates=20241205T160000Z%2F20241205T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" >🔗</a> **[ESA]** Watch live: Sentinel-1C pre-launch media briefing
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_awards_development_contract_for_NanoMagSat" >🔗</a> **[ESA]** ESA awards development contract for NanoMagSat
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_science_takes_express_ride_into_space" >🔗</a> **[ESA]** European science takes express ride into space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Webb_traces_swirling_spiral_arms_in_infrared" >🔗</a> **[ESA]** Webb traces swirling spiral arms in infrared
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacex-gets-conditional-approval-for-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** SpaceX gets conditional approval for direct-to-smartphone service
 - <a href="https://spacenews.com/slingshot-selected-to-design-user-experience-for-u-s-space-traffic-system/" >🔗</a> **[SpaceNews]** Slingshot selected to design user experience for U.S. space traffic system
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-sensors/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next-Generation Space Weather Sensors
-- <a href="https://www.nasa.gov/news-release/nasa-usaid-invite-media-to-launch-of-new-servir-central-america-hub/" >🔗</a> **[NASA]** NASA, USAID Invite Media to Launch of New SERVIR Central America Hub
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T113114">2024-11-27 11:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241127T120142">2024-11-27 12:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
