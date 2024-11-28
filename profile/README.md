@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Watch_eclipse-making_Proba-3_launch" >🔗</a> **[ESA]** Watch eclipse-making Proba-3 launch
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-27-24/" >🔗</a> **[NASASpaceflight]** Starbase continues its rapid pace of advancement after Starship Flight 6
 - <a href="https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/" >🔗</a> **[NASA]** Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/thanksgiving-celebrations-in-space-3/" >🔗</a> **[NASA]** Thanksgiving Celebrations in Space
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Droplets_face_to_face_in_space" >🔗</a> **[ESA]** Droplets face to face in space
 - <a href="https://www.nasa.gov/general/nasa-plane-supported-innovative-microgravity-research-in-90s/" >🔗</a> **[NASA]** NASA Plane Supported Innovative Microgravity Research in ‘90s
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-plane-supported-innovative-microgravity-research-in-90s/" >🔗</a> **[NASA]** NASA Plane Supported Innovative Microgravity Research in ‘90s
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/" >🔗</a> **[NASA]** An Electronic Traffic Monitor for Airports
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241128T070126">2024-11-28 07:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241128T073242">2024-11-28 07:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
