@@ -93,6 +93,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-awards-raytheon-196-7-million-for-additional-work-on-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Space Force awards Raytheon $196.7 million for additional work on GPS ground control system
 - <a href="https://spacenews.com/esa-opencosmos-sign-contract-for-nanomagsat-mission/" >🔗</a> **[SpaceNews]** ESA, OpenCosmos sign contract for NanoMagSat mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/BepiColombo_s_fifth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's fifth Mercury flyby
@@ -102,7 +103,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 - <a href="https://spacenews.com/astroscale-approaches-critical-design-review-for-oneweb-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale approaches critical design review for OneWeb de-orbit mission
 - <a href="https://europeanspaceflight.com/esa-to-award-avio-new-vega-e-contract-before-the-end-of-2024/" >🔗</a> **[European Spaceflight]** ESA to Award Avio New Vega E Contract Before the End of 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Agricultural_patchwork_Romania" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork, Romania
-- <a href="https://europeanspaceflight.com/satvu-secures-10m-in-funding-for-its-thermal-imaging-service/" >🔗</a> **[European Spaceflight]** SatVu Secures £10M in Funding for its Thermal Imaging Service
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T170129">2024-11-29 17:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T173307">2024-11-29 17:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
