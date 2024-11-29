@@ -93,16 +93,16 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-raytheon-196-7-million-for-additional-work-on-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Space Force awards Raytheon $196.7 million for additional work on GPS ground control system
+- <a href="https://spacenews.com/esa-opencosmos-sign-contract-for-nanomagsat-mission/" >🔗</a> **[SpaceNews]** ESA, OpenCosmos sign contract for NanoMagSat mission
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/BepiColombo_s_fifth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's fifth Mercury flyby
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Vega-C_to_launch_Sentinel-1C" >🔗</a> **[ESA]** Watch live: Vega-C to launch Sentinel-1C
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_November_2024" >🔗</a> **[ESA]** Week in images: 25-29 November 2024
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/" >🔗</a> **[NASA]** December’s Night Sky Notes: Spot the King of Planets
 - <a href="https://spacenews.com/astroscale-approaches-critical-design-review-for-oneweb-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale approaches critical design review for OneWeb de-orbit mission
 - <a href="https://europeanspaceflight.com/esa-to-award-avio-new-vega-e-contract-before-the-end-of-2024/" >🔗</a> **[European Spaceflight]** ESA to Award Avio New Vega E Contract Before the End of 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Agricultural_patchwork_Romania" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork, Romania
 - <a href="https://europeanspaceflight.com/satvu-secures-10m-in-funding-for-its-thermal-imaging-service/" >🔗</a> **[European Spaceflight]** SatVu Secures £10M in Funding for its Thermal Imaging Service
-- <a href="https://spaceflightnow.com/2024/11/28/vega-c-return-to-flight-launch-slips-a-day-to-allow-for-further-precautionary-checks/" >🔗</a> **[Spaceflight Now]** Vega-C return to flight launch slips a day to allow for ‘further precautionary checks’
-- <a href="https://spacenews.com/china-to-launch-next-generation-beidou-satellites-in-2027/" >🔗</a> **[SpaceNews]** China to launch next-generation Beidou satellites in 2027
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Watch_eclipse-making_Proba-3_launch" >🔗</a> **[ESA]** Watch eclipse-making Proba-3 launch
-- <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-27-24/" >🔗</a> **[NASASpaceflight]** Starbase continues its rapid pace of advancement after Starship Flight 6
-- <a href="https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/" >🔗</a> **[NASA]** Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/thanksgiving-celebrations-in-space-3/" >🔗</a> **[NASA]** Thanksgiving Celebrations in Space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T150123">2024-11-29 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T153332">2024-11-29 15:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
