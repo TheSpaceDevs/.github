@@ -93,6 +93,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-approaches-critical-design-review-for-oneweb-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale approaches critical design review for OneWeb de-orbit mission
 - <a href="https://europeanspaceflight.com/esa-to-award-avio-new-vega-e-contract-before-the-end-of-2024/" >🔗</a> **[European Spaceflight]** ESA to Award Avio New Vega E Contract Before the End of 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Earth_from_Space_Agricultural_patchwork_Romania" >🔗</a> **[ESA]** Earth from Space: Agricultural patchwork, Romania
 - <a href="https://europeanspaceflight.com/satvu-secures-10m-in-funding-for-its-thermal-imaging-service/" >🔗</a> **[European Spaceflight]** SatVu Secures £10M in Funding for its Thermal Imaging Service
@@ -102,7 +103,6 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 - <a href="https://www.nasaspaceflight.com/2024/11/starship-roundup-11-27-24/" >🔗</a> **[NASASpaceflight]** Starbase continues its rapid pace of advancement after Starship Flight 6
 - <a href="https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/" >🔗</a> **[NASA]** Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/thanksgiving-celebrations-in-space-3/" >🔗</a> **[NASA]** Thanksgiving Celebrations in Space
-- <a href="https://europeanspaceflight.com/esa-award-open-cosmos-a-e34-6m-for-nanomagsat-mission/" >🔗</a> **[European Spaceflight]** ESA Award Open Cosmos a €34.6M for NanoMagSat Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T100119">2024-11-29 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T103556">2024-11-29 10:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
