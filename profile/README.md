@@ -20,29 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1a/Fregat-M | Kondor-FKA No.2**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vostochny_Cosmodrome">Cosmodrome Site 1S</a>, Vostochny Cosmodrome, Siberia, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T215025">2024-11-29 21:50:25 UTC</a>.  Until
-then, this pad will have been used for 17
-out of 18 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 6-65**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T050000">2024-11-30 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 275
+out of 989 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  The Kondor-FKA is a small civilian radar Earth observation satellite designed by NPO Mashinostroyeniya as a civilian counterpart to the Kondor-E satellite.
-
-The Kondor satellite features a S-band synthetic aperture radar (SAR), which can conduct both continous swath surweys or detailed spot surveys. The swath width is 10 km. Ground resolution is 1 to 2 m in spotlight mode, 1 to 3 m in stripmap mode and 5 to 30 m in ScanSAR mode.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=51.884395,128.333932" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -57,6 +55,7 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T002900">2024-12-04 00:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 9-14&location=Vandenberg SFB, CA, USA&dates=20241204T002900Z%2F20241204T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 9-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T043600">2024-12-04 04:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20241204T043600Z%2F20241204T052100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T082900">2024-12-04 08:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-70&location=Cape Canaveral SFS, FL, USA&dates=20241204T082900Z%2F20241204T122900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-70** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T103800">2024-12-04 10:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Proba-3&location=Satish Dhawan Space Centre, India&dates=20241204T103800Z%2F20241204T103800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Proba-3** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -106,11 +105,12 @@ The Kondor satellite features a S-band synthetic aperture radar (SAR), which can
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T220113">2024-11-29 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241129T223419">2024-11-29 22:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
