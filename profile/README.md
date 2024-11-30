@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-first-long-march-12-from-new-commercial-spaceport-in-boost-for-countrys-lunar-plans/" >🔗</a> **[SpaceNews]** China launches first Long March 12 from new commercial spaceport in boost for country’s lunar plans
 - <a href="https://spacenews.com/lockheed-martin-unveils-solar-power-array-for-artemis-program/" >🔗</a> **[SpaceNews]** Lockheed Martin unveils solar power array for Artemis program
 - <a href="https://europeanspaceflight.com/scotland-breaks-ground-on-third-rocket-launch-site/" >🔗</a> **[European Spaceflight]** Scotland Breaks Ground on Third Rocket Launch Site
 - <a href="https://spacepolicyonline.com/news/nasa-provides-more-details-to-congress-about-viper-decision/" >🔗</a> **[SpacePolicyOnline.com]** NASA Provides More Details to Congress about VIPER Decision
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/esa-opencosmos-sign-contract-for-nanomagsat-mission/" >🔗</a> **[SpaceNews]** ESA, OpenCosmos sign contract for NanoMagSat mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/BepiColombo_s_fifth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's fifth Mercury flyby
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Vega-C_to_launch_Sentinel-1C" >🔗</a> **[ESA]** Watch live: Vega-C to launch Sentinel-1C
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_November_2024" >🔗</a> **[ESA]** Week in images: 25-29 November 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T160116">2024-11-30 16:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T163524">2024-11-30 16:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
