@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/scotland-breaks-ground-on-third-rocket-launch-site/" >🔗</a> **[European Spaceflight]** Scotland Breaks Ground on Third Rocket Launch Site
 - <a href="https://spacepolicyonline.com/news/nasa-provides-more-details-to-congress-about-viper-decision/" >🔗</a> **[SpacePolicyOnline.com]** NASA Provides More Details to Congress about VIPER Decision
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-5th-batch-of-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  5th batch of Starshield satellites for the NRO on Falcon 9 rocket from California
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink mission on Falcon 9 rocket from Cape Canaveral
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Vega-C_to_launch_Sentinel-1C" >🔗</a> **[ESA]** Watch live: Vega-C to launch Sentinel-1C
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_November_2024" >🔗</a> **[ESA]** Week in images: 25-29 November 2024
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/" >🔗</a> **[NASA]** December’s Night Sky Notes: Spot the King of Planets
-- <a href="https://spacenews.com/astroscale-approaches-critical-design-review-for-oneweb-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale approaches critical design review for OneWeb de-orbit mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T060124">2024-11-30 06:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T063614">2024-11-30 06:36:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
