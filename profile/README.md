@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-fifth-mission-for-nros-proliferated-architecture/" >🔗</a> **[SpaceNews]** SpaceX launches fifth mission for NRO’s proliferated architecture
 - <a href="https://www.spacescout.info/2024/11/nasa-set-to-update-moon-to-mars-architecture-with-acr24/" >🔗</a> **[Space Scout]** NASA Set to Update Moon to Mars Architecture with ACR24
 - <a href="https://spacenews.com/china-launches-first-long-march-12-from-new-commercial-spaceport-in-boost-for-countrys-lunar-plans/" >🔗</a> **[SpaceNews]** China launches first Long March 12 from new commercial spaceport in boost for country’s lunar plans
 - <a href="https://spacenews.com/lockheed-martin-unveils-solar-power-array-for-artemis-program/" >🔗</a> **[SpaceNews]** Lockheed Martin unveils solar power array for Artemis program
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-awards-raytheon-196-7-million-for-additional-work-on-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Space Force awards Raytheon $196.7 million for additional work on GPS ground control system
 - <a href="https://spacenews.com/esa-opencosmos-sign-contract-for-nanomagsat-mission/" >🔗</a> **[SpaceNews]** ESA, OpenCosmos sign contract for NanoMagSat mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/BepiColombo_s_fifth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's fifth Mercury flyby
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T210115">2024-11-30 21:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T213112">2024-11-30 21:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
