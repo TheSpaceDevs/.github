@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-65**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | NROL-126**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T050000">2024-11-30 05:00:00 UTC</a>.  Until
-then, this pad will have been used for 275
-out of 989 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T080800">2024-11-30 08:08:00 UTC</a>.  Until
+then, this pad will have been used for 168
+out of 780 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Fifth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T043600">2024-12-04 04:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20241204T043600Z%2F20241204T052100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T082900">2024-12-04 08:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-70&location=Cape Canaveral SFS, FL, USA&dates=20241204T082900Z%2F20241204T122900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-70** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T103800">2024-12-04 10:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Proba-3&location=Satish Dhawan Space Centre, India&dates=20241204T103800Z%2F20241204T103800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Proba-3** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T212033">2024-12-04 21:20:33 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Sentinel-1C&location=Guiana Space Centre, French Guiana&dates=20241204T212033Z%2F20241204T212033Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Sentinel-1C** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-provides-more-details-to-congress-about-viper-decision/" >🔗</a> **[SpacePolicyOnline.com]** NASA Provides More Details to Congress about VIPER Decision
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-5th-batch-of-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  5th batch of Starshield satellites for the NRO on Falcon 9 rocket from California
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/space-force-awards-raytheon-196-7-million-for-additional-work-on-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Space Force awards Raytheon $196.7 million for additional work on GPS ground control system
@@ -99,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_November_2024" >🔗</a> **[ESA]** Week in images: 25-29 November 2024
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/" >🔗</a> **[NASA]** December’s Night Sky Notes: Spot the King of Planets
 - <a href="https://spacenews.com/astroscale-approaches-critical-design-review-for-oneweb-de-orbit-mission/" >🔗</a> **[SpaceNews]** Astroscale approaches critical design review for OneWeb de-orbit mission
-- <a href="https://europeanspaceflight.com/esa-to-award-avio-new-vega-e-contract-before-the-end-of-2024/" >🔗</a> **[European Spaceflight]** ESA to Award Avio New Vega E Contract Before the End of 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T050117">2024-11-30 05:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T053325">2024-11-30 05:33:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
