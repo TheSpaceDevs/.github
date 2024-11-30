@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/11/nasa-set-to-update-moon-to-mars-architecture-with-acr24/" >🔗</a> **[Space Scout]** NASA Set to Update Moon to Mars Architecture with ACR24
 - <a href="https://spacenews.com/china-launches-first-long-march-12-from-new-commercial-spaceport-in-boost-for-countrys-lunar-plans/" >🔗</a> **[SpaceNews]** China launches first Long March 12 from new commercial spaceport in boost for country’s lunar plans
 - <a href="https://spacenews.com/lockheed-martin-unveils-solar-power-array-for-artemis-program/" >🔗</a> **[SpaceNews]** Lockheed Martin unveils solar power array for Artemis program
 - <a href="https://europeanspaceflight.com/scotland-breaks-ground-on-third-rocket-launch-site/" >🔗</a> **[European Spaceflight]** Scotland Breaks Ground on Third Rocket Launch Site
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-awards-raytheon-196-7-million-for-additional-work-on-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Space Force awards Raytheon $196.7 million for additional work on GPS ground control system
 - <a href="https://spacenews.com/esa-opencosmos-sign-contract-for-nanomagsat-mission/" >🔗</a> **[SpaceNews]** ESA, OpenCosmos sign contract for NanoMagSat mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/BepiColombo_s_fifth_Mercury_flyby" >🔗</a> **[ESA]** BepiColombo's fifth Mercury flyby
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Vega-C_to_launch_Sentinel-1C" >🔗</a> **[ESA]** Watch live: Vega-C to launch Sentinel-1C
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T180125">2024-11-30 18:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241130T183540">2024-11-30 18:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
