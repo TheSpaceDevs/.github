@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 1-7, 2024
 - <a href="https://spacenews.com/new-eu-space-commissioner-outlines-priorities/" >🔗</a> **[SpaceNews]** New EU space commissioner outlines priorities
 - <a href="https://spacenews.com/spacex-launches-fifth-mission-for-nros-proliferated-architecture/" >🔗</a> **[SpaceNews]** SpaceX launches fifth mission for NRO’s proliferated architecture
 - <a href="https://www.spacescout.info/2024/11/nasa-set-to-update-moon-to-mars-architecture-with-acr24/" >🔗</a> **[Space Scout]** NASA Set to Update Moon to Mars Architecture with ACR24
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/nasa-provides-more-details-to-congress-about-viper-decision/" >🔗</a> **[SpacePolicyOnline.com]** NASA Provides More Details to Congress about VIPER Decision
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-5th-batch-of-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  5th batch of Starshield satellites for the NRO on Falcon 9 rocket from California
 - <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink mission on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/space-force-awards-raytheon-196-7-million-for-additional-work-on-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Space Force awards Raytheon $196.7 million for additional work on GPS ground control system
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241201T213114">2024-12-01 21:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241201T220119">2024-12-01 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
