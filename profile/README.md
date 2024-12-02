@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/" >🔗</a> **[NASA]** NASA Experts Share Inspiring Stories of Perseverance to Students
+- <a href="https://science.nasa.gov/blog/sols-4732-4735-ill-zap-you-my-pretty-and-your-pebble-too/" >🔗</a> **[NASA]** Sols 4732-4735: I’ll Zap You, My Pretty, and Your Pebble Too
 - <a href="https://www.nasa.gov/general/a-mission-at-home-and-at-work-caregivers-at-johnson-navigate-dual-role-with-community-supports/" >🔗</a> **[NASA]** A Mission at Home and at Work: Caregivers at Johnson Navigate Dual Role With Community Supports
 - <a href="https://spacenews.com/u-s-air-force-awards-varda-48-million-to-test-payloads-on-reentry-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force awards Varda $48 million to test payloads on reentry capsules
 - <a href="https://www.nasa.gov/image-article/technicians-install-gateways-fuel-tanks/" >🔗</a> **[NASA]** Technicians Install Gateway’s Fuel Tanks
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/quantum-tech-firm-wins-pentagon-contract-for-gps-alternative/" >🔗</a> **[SpaceNews]** Quantum tech firm wins Pentagon contract for GPS alternative
 - <a href="https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/" >🔗</a> **[NASA]** You Are Now Arriving at ‘Pico Turquino’
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: December 2024 Skywatching Tips from NASA
-- <a href="https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/" >🔗</a> **[Arstechnica]** SpaceX has set all kinds of records with its Falcon 9 rocket this year
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover its 31st SpaceX Resupply Mission Station Departure
-- <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-10 Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T230203">2024-12-02 23:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T233255">2024-12-02 23:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
