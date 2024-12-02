@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover its 31st SpaceX Resupply Mission Station Departure
 - <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-10 Mission
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
 - <a href="https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/" >🔗</a> **[NASA]** New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 - <a href="https://europeanspaceflight.com/pld-space-secures-e11m-loan-for-miura-5-launch-complex/" >🔗</a> **[European Spaceflight]** PLD Space Secures €11M Loan for Miura 5 Launch Complex
-- <a href="https://spacenews.com/maintaining-american-leadership-space-force-funding-and-legislative-autonomy/" >🔗</a> **[SpaceNews]** Maintaining American leadership: Space Force funding and legislative autonomy
 - <a href="https://spacenews.com/a-vision-of-a-developing-lunar-frontier/" >🔗</a> **[SpaceNews]** A Vision of a Developing Lunar Frontier
+- <a href="https://spacenews.com/maintaining-american-leadership-space-force-funding-and-legislative-autonomy/" >🔗</a> **[SpaceNews]** Maintaining American leadership: Space Force funding and legislative autonomy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Bepi_Mio_and_MTM_greet_Mercury_for_the_fifth_time" >🔗</a> **[ESA]** Bepi, Mio and MTM greet Mercury for the fifth time
 - <a href="https://spacenews.com/foust-forward-who-gets-the-final-word-on-mars-sample-return/" >🔗</a> **[SpaceNews]** Foust Forward | Who gets the final word on Mars Sample Return?
 - <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Ignis_mission_name_and_patch_explained" >🔗</a> **[ESA]** Ignis mission name and patch explained
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T160130">2024-12-02 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T163717">2024-12-02 16:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
