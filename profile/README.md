@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/quantum-tech-firm-wins-pentagon-contract-for-gps-alternative/" >🔗</a> **[SpaceNews]** Quantum tech firm wins Pentagon contract for GPS alternative
+- <a href="https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/" >🔗</a> **[NASA]** You Are Now Arriving at ‘Pico Turquino’
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: December 2024 Skywatching Tips from NASA
 - <a href="https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/" >🔗</a> **[Arstechnica]** SpaceX has set all kinds of records with its Falcon 9 rocket this year
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover its 31st SpaceX Resupply Mission Station Departure
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/" >🔗</a> **[NASA]** New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 - <a href="https://europeanspaceflight.com/pld-space-secures-e11m-loan-for-miura-5-launch-complex/" >🔗</a> **[European Spaceflight]** PLD Space Secures €11M Loan for Miura 5 Launch Complex
 - <a href="https://spacenews.com/a-vision-of-a-developing-lunar-frontier/" >🔗</a> **[SpaceNews]** A Vision of a Developing Lunar Frontier
-- <a href="https://spacenews.com/maintaining-american-leadership-space-force-funding-and-legislative-autonomy/" >🔗</a> **[SpaceNews]** Maintaining American leadership: Space Force funding and legislative autonomy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T190110">2024-12-02 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T193106">2024-12-02 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
