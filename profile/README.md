@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/expedition-71-astronauts-to-discuss-mission-in-nasa-welcome-home-event/" >🔗</a> **[NASA]** Expedition 71 Astronauts to Discuss Mission in NASA Welcome Home Event
 - <a href="https://spacenews.com/quantum-tech-firm-wins-pentagon-contract-for-gps-alternative/" >🔗</a> **[SpaceNews]** Quantum tech firm wins Pentagon contract for GPS alternative
 - <a href="https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/" >🔗</a> **[NASA]** You Are Now Arriving at ‘Pico Turquino’
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: December 2024 Skywatching Tips from NASA
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
 - <a href="https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/" >🔗</a> **[NASA]** New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 - <a href="https://europeanspaceflight.com/pld-space-secures-e11m-loan-for-miura-5-launch-complex/" >🔗</a> **[European Spaceflight]** PLD Space Secures €11M Loan for Miura 5 Launch Complex
-- <a href="https://spacenews.com/a-vision-of-a-developing-lunar-frontier/" >🔗</a> **[SpaceNews]** A Vision of a Developing Lunar Frontier
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T193106">2024-12-02 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T200131">2024-12-02 20:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
