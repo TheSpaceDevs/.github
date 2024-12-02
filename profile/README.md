@@ -93,6 +93,7 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
 - <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Ignis_mission_name_and_patch_explained" >🔗</a> **[ESA]** Ignis mission name and patch explained
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Proba-3_encapsulated" >🔗</a> **[ESA]** Proba-3 encapsulated
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_Flying_two_spacecraft_is_harder_than_one" >🔗</a> **[ESA]** Proba-3: Flying two spacecraft is harder than one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 1-7, 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/new-eu-space-commissioner-outlines-priorities/" >🔗</a> **[SpaceNews]** New EU space commissioner outlines priorities
 - <a href="https://spacenews.com/spacex-launches-fifth-mission-for-nros-proliferated-architecture/" >🔗</a> **[SpaceNews]** SpaceX launches fifth mission for NRO’s proliferated architecture
 - <a href="https://www.spacescout.info/2024/11/nasa-set-to-update-moon-to-mars-architecture-with-acr24/" >🔗</a> **[Space Scout]** NASA Set to Update Moon to Mars Architecture with ACR24
-- <a href="https://spacenews.com/china-launches-first-long-march-12-from-new-commercial-spaceport-in-boost-for-countrys-lunar-plans/" >🔗</a> **[SpaceNews]** China launches first Long March 12 from new commercial spaceport in boost for country’s lunar plans
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T120143">2024-12-02 12:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T124300">2024-12-02 12:43:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
