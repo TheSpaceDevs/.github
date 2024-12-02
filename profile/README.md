@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/" >🔗</a> **[Arstechnica]** SpaceX has set all kinds of records with its Falcon 9 rocket this year
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover its 31st SpaceX Resupply Mission Station Departure
 - <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-10 Mission
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/maintaining-american-leadership-space-force-funding-and-legislative-autonomy/" >🔗</a> **[SpaceNews]** Maintaining American leadership: Space Force funding and legislative autonomy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Bepi_Mio_and_MTM_greet_Mercury_for_the_fifth_time" >🔗</a> **[ESA]** Bepi, Mio and MTM greet Mercury for the fifth time
 - <a href="https://spacenews.com/foust-forward-who-gets-the-final-word-on-mars-sample-return/" >🔗</a> **[SpaceNews]** Foust Forward | Who gets the final word on Mars Sample Return?
-- <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T170117">2024-12-02 17:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T173329">2024-12-02 17:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
