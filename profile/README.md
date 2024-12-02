@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_Flying_two_spacecraft_is_harder_than_one" >🔗</a> **[ESA]** Proba-3: Flying two spacecraft is harder than one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 1-7, 2024
 - <a href="https://www.nasaspaceflight.com/2024/12/europa-clipper-update/" >🔗</a> **[NASASpaceflight]** Over a month into mission, Europa Clipper continues deploying instruments
 - <a href="https://spacenews.com/new-eu-space-commissioner-outlines-priorities/" >🔗</a> **[SpaceNews]** New EU space commissioner outlines priorities
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-launches-first-long-march-12-from-new-commercial-spaceport-in-boost-for-countrys-lunar-plans/" >🔗</a> **[SpaceNews]** China launches first Long March 12 from new commercial spaceport in boost for country’s lunar plans
 - <a href="https://spacenews.com/lockheed-martin-unveils-solar-power-array-for-artemis-program/" >🔗</a> **[SpaceNews]** Lockheed Martin unveils solar power array for Artemis program
 - <a href="https://europeanspaceflight.com/scotland-breaks-ground-on-third-rocket-launch-site/" >🔗</a> **[European Spaceflight]** Scotland Breaks Ground on Third Rocket Launch Site
-- <a href="https://spacepolicyonline.com/news/nasa-provides-more-details-to-congress-about-viper-decision/" >🔗</a> **[SpacePolicyOnline.com]** NASA Provides More Details to Congress about VIPER Decision
-- <a href="https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-5th-batch-of-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch  5th batch of Starshield satellites for the NRO on Falcon 9 rocket from California
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T080137">2024-12-02 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T083649">2024-12-02 08:36:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
