@@ -92,6 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
+- <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Proba-3_encapsulated" >🔗</a> **[ESA]** Proba-3 encapsulated
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_Flying_two_spacecraft_is_harder_than_one" >🔗</a> **[ESA]** Proba-3: Flying two spacecraft is harder than one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 1-7, 2024
 - <a href="https://www.nasaspaceflight.com/2024/12/europa-clipper-update/" >🔗</a> **[NASASpaceflight]** Over a month into mission, Europa Clipper continues deploying instruments
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacex-launches-fifth-mission-for-nros-proliferated-architecture/" >🔗</a> **[SpaceNews]** SpaceX launches fifth mission for NRO’s proliferated architecture
 - <a href="https://www.spacescout.info/2024/11/nasa-set-to-update-moon-to-mars-architecture-with-acr24/" >🔗</a> **[Space Scout]** NASA Set to Update Moon to Mars Architecture with ACR24
 - <a href="https://spacenews.com/china-launches-first-long-march-12-from-new-commercial-spaceport-in-boost-for-countrys-lunar-plans/" >🔗</a> **[SpaceNews]** China launches first Long March 12 from new commercial spaceport in boost for country’s lunar plans
-- <a href="https://spacenews.com/lockheed-martin-unveils-solar-power-array-for-artemis-program/" >🔗</a> **[SpaceNews]** Lockheed Martin unveils solar power array for Artemis program
-- <a href="https://europeanspaceflight.com/scotland-breaks-ground-on-third-rocket-launch-site/" >🔗</a> **[European Spaceflight]** Scotland Breaks Ground on Third Rocket Launch Site
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T110115">2024-12-02 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T113101">2024-12-02 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
