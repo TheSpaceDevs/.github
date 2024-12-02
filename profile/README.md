@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
+- <a href="https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/" >🔗</a> **[NASA]** New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
+- <a href="https://europeanspaceflight.com/pld-space-secures-e11m-loan-for-miura-5-launch-complex/" >🔗</a> **[European Spaceflight]** PLD Space Secures €11M Loan for Miura 5 Launch Complex
+- <a href="https://spacenews.com/maintaining-american-leadership-space-force-funding-and-legislative-autonomy/" >🔗</a> **[SpaceNews]** Maintaining American leadership: Space Force funding and legislative autonomy
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Bepi_Mio_and_MTM_greet_Mercury_for_the_fifth_time" >🔗</a> **[ESA]** Bepi, Mio and MTM greet Mercury for the fifth time
+- <a href="https://spacenews.com/a-vision-of-a-developing-lunar-frontier/" >🔗</a> **[SpaceNews]** A Vision of a Developing Lunar Frontier
+- <a href="https://spacenews.com/foust-forward-who-gets-the-final-word-on-mars-sample-return/" >🔗</a> **[SpaceNews]** Foust Forward | Who gets the final word on Mars Sample Return?
 - <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Ignis_mission_name_and_patch_explained" >🔗</a> **[ESA]** Ignis mission name and patch explained
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Proba-3_encapsulated" >🔗</a> **[ESA]** Proba-3 encapsulated
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_Flying_two_spacecraft_is_harder_than_one" >🔗</a> **[ESA]** Proba-3: Flying two spacecraft is harder than one
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-1-7-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 1-7, 2024
-- <a href="https://www.nasaspaceflight.com/2024/12/europa-clipper-update/" >🔗</a> **[NASASpaceflight]** Over a month into mission, Europa Clipper continues deploying instruments
-- <a href="https://spacenews.com/new-eu-space-commissioner-outlines-priorities/" >🔗</a> **[SpaceNews]** New EU space commissioner outlines priorities
-- <a href="https://spacenews.com/spacex-launches-fifth-mission-for-nros-proliferated-architecture/" >🔗</a> **[SpaceNews]** SpaceX launches fifth mission for NRO’s proliferated architecture
-- <a href="https://www.spacescout.info/2024/11/nasa-set-to-update-moon-to-mars-architecture-with-acr24/" >🔗</a> **[Space Scout]** NASA Set to Update Moon to Mars Architecture with ACR24
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T140117">2024-12-02 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T143511">2024-12-02 14:35:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
