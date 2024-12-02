@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-air-force-awards-varda-48-million-to-test-payloads-on-reentry-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force awards Varda $48 million to test payloads on reentry capsules
+- <a href="https://www.nasa.gov/image-article/technicians-install-gateways-fuel-tanks/" >🔗</a> **[NASA]** Technicians Install Gateway’s Fuel Tanks
 - <a href="https://www.nasa.gov/news-release/expedition-71-astronauts-to-discuss-mission-in-nasa-welcome-home-event/" >🔗</a> **[NASA]** Expedition 71 Astronauts to Discuss Mission in NASA Welcome Home Event
 - <a href="https://spacenews.com/quantum-tech-firm-wins-pentagon-contract-for-gps-alternative/" >🔗</a> **[SpaceNews]** Quantum tech firm wins Pentagon contract for GPS alternative
 - <a href="https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/" >🔗</a> **[NASA]** You Are Now Arriving at ‘Pico Turquino’
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover its 31st SpaceX Resupply Mission Station Departure
 - <a href="https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-10 Mission
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_teams_up_with_Massive_Attack_to_boost_climate_action" >🔗</a> **[ESA]** ESA teams up with Massive Attack to boost climate action
-- <a href="https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/" >🔗</a> **[NASA]** New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
-- <a href="https://europeanspaceflight.com/pld-space-secures-e11m-loan-for-miura-5-launch-complex/" >🔗</a> **[European Spaceflight]** PLD Space Secures €11M Loan for Miura 5 Launch Complex
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T200131">2024-12-02 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241202T203322">2024-12-02 20:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
