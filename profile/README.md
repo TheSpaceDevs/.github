@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/blog/sols-4382-4383-team-work-dream-work/" >🔗</a> **[NASA]** Sols 4382-4383: Team Work, Dream Work
-- <a href="https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/image-article/building-bridges-at-bayou-classic/" >🔗</a> **[NASA]** NASA Builds Bridges at Bayou Classic
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/" >🔗</a> **[NASA]** Towards Autonomous Surface Missions on Ocean Worlds
-- <a href="https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/" >🔗</a> **[NASA]** NASA-Led Team Links Comet Water to Earth’s Oceans
-- <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/planetary-defenders/" >🔗</a> **[NASA]** Coming Spring 2025: Planetary Defenders Documentary
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/edward-gonzales-fosters-a-culturally-safe-workplace-for-current-future-employees/" >🔗</a> **[NASA]** Edward Gonzales Fosters a Culturally Safe Workplace for Current, Future Employees
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Creating_artificial_eclipses_to_study_the_Sun_Proba-3_explained" >🔗</a> **[ESA]** Creating artificial eclipses to study the Sun | Proba-3 explained
-- <a href="https://spacenews.com/commercial-space-federation-csf-launches-rebrand-reorg-and-integrate-compete-and-unleash-plan/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Launches Rebrand, Reorg and Integrate, Compete, and Unleash Plan
-- <a href="https://spacenews.com/lockheed-martin-challenges-narrative-on-gps-vulnerability/" >🔗</a> **[SpaceNews]** Lockheed Martin challenges narrative on GPS vulnerability
+- <a href="https://spacenews.com/starship-cleared-for-nov-17-launch/" >🔗</a> **[SpaceNews]** Starship cleared for Nov. 18 launch
+- <a href="https://www.blueorigin.com/news/coming-to-the-space-coast" >🔗</a> **[Blue Origin]** Coming to the Space Coast
+- <a href="https://www.space.com/42197-bepicolombo-mercury-mission-in-pictures.html" >🔗</a> **[Space.com]** BepiColombo in Pictures: A Mercury Mission by Europe and Japan
+- <a href="https://www.teslarati.com/spacex-first-starlink-gen2-satellite-launch-2022/" >🔗</a> **[Teslarati]** SpaceX might launch first Starlink Gen2 satellites next week
+- <a href="https://spacenews.com/ai-startup-synthetaic-raises-15-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** AI startup Synthetaic raises $15 million in Series B funding
+- <a href="https://www.blueorigin.com/news/pushing-the-envelope" >🔗</a> **[Blue Origin]** Pushing the Envelope
+- <a href="https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Space Force establishes permanent presence in Indo-Pacific region
+- <a href="https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/" >🔗</a> **[SpaceNews]** Slingshot’s space-tracking network to extend coverage of low Earth orbit
+- <a href="https://spacenews.com/china-researching-challenges-of-kilometer-scale-ultra-large-spacecraft/" >🔗</a> **[SpaceNews]** China researching challenges of kilometer-scale ultra-large spacecraft
+- <a href="https://spacenews.com/stanford-center-focuses-on-spacecraft-autonomy/" >🔗</a> **[SpaceNews]** Stanford center focuses on spacecraft autonomy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T193106">2024-12-03 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T200133">2024-12-03 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
