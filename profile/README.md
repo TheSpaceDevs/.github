@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commercial-space-federation-csf-launches-rebrand-reorg-and-integrate-compete-and-unleash-plan/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Launches Rebrand, Reorg and Integrate, Compete, and Unleash Plan
 - <a href="https://spacenews.com/lockheed-martin-challenges-narrative-on-gps-vulnerability/" >🔗</a> **[SpaceNews]** Lockheed Martin challenges narrative on GPS vulnerability
 - <a href="https://spacenews.com/peter-connito-redwire-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Peter Connito, Redwire – Commercial Space Transformers
-- <a href="https://spacenews.com/connecting-the-dots-iris%c2%b2-anchors-ses-and-eutelsat-next-steps/" >🔗</a> **[SpaceNews]** Connecting The Dots | IRIS² anchors SES and Eutelsat next steps
 - <a href="https://spacenews.com/name-change-reflects-expanded-focus-for-commercial-space-federation/" >🔗</a> **[SpaceNews]** Name change reflects expanded focus for Commercial Space Federation
+- <a href="https://spacenews.com/connecting-the-dots-iris%c2%b2-anchors-ses-and-eutelsat-next-steps/" >🔗</a> **[SpaceNews]** Connecting The Dots | IRIS² anchors SES and Eutelsat next steps
 - <a href="https://europeanspaceflight.com/esa-publishes-updated-call-for-reusable-super-heavy-lift-rocket-initiative/" >🔗</a> **[European Spaceflight]** ESA Publishes Updated Call for Reusable Super Heavy-Lift Rocket Initiative
 - <a href="https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/" >🔗</a> **[Arstechnica]** A crypto firm apparently bought the Enron name to sell an “energy” coin
 - <a href="https://spacenews.com/china-launches-clandestine-tjs-13-satellite-rocket-reaches-milestone/" >🔗</a> **[SpaceNews]** China launches clandestine TJS-13 satellite, rocket reaches milestone
 - <a href="https://spacenews.com/pld-space-secures-loan-for-miura-5-launch-facility/" >🔗</a> **[SpaceNews]** PLD Space secures loan for Miura 5 launch facility
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Five_space_mysteries_Proba-3_will_help_solve" >🔗</a> **[ESA]** Five space mysteries Proba-3 will help solve
-- <a href="https://www.nasa.gov/general/interview-with-luke-sollitt/" >🔗</a> **[NASA]** Interview with Luke Sollitt
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T150126">2024-12-03 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T153409">2024-12-03 15:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
