@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/" >🔗</a> **[Arstechnica]** A crypto firm apparently bought the Enron name to sell an “energy” coin
 - <a href="https://spacenews.com/china-launches-clandestine-tjs-13-satellite-rocket-reaches-milestone/" >🔗</a> **[SpaceNews]** China launches clandestine TJS-13 satellite, rocket reaches milestone
 - <a href="https://spacenews.com/pld-space-secures-loan-for-miura-5-launch-facility/" >🔗</a> **[SpaceNews]** PLD Space secures loan for Miura 5 launch facility
 - <a href="https://www.nasa.gov/general/interview-with-luke-sollitt/" >🔗</a> **[NASA]** Interview with Luke Sollitt
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/sols-4732-4735-ill-zap-you-my-pretty-and-your-pebble-too/" >🔗</a> **[NASA]** Sols 4732-4735: I’ll Zap You, My Pretty, and Your Pebble Too
 - <a href="https://www.nasa.gov/general/a-mission-at-home-and-at-work-caregivers-at-johnson-navigate-dual-role-with-community-supports/" >🔗</a> **[NASA]** A Mission at Home and at Work: Caregivers at Johnson Navigate Dual Role With Community Supports
 - <a href="https://spacenews.com/u-s-air-force-awards-varda-48-million-to-test-payloads-on-reentry-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force awards Varda $48 million to test payloads on reentry capsules
-- <a href="https://www.nasa.gov/image-article/technicians-install-gateways-fuel-tanks/" >🔗</a> **[NASA]** Technicians Install Gateway’s Fuel Tanks
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T120141">2024-12-03 12:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T124247">2024-12-03 12:42:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
