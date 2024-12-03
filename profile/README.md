@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pld-space-secures-loan-for-miura-5-launch-facility/" >🔗</a> **[SpaceNews]** PLD Space secures loan for Miura 5 launch facility
 - <a href="https://www.nasa.gov/general/interview-with-luke-sollitt/" >🔗</a> **[NASA]** Interview with Luke Sollitt
 - <a href="https://science.nasa.gov/blog/4375-4381-a-stuffed-holiday-plan/" >🔗</a> **[NASA]** 4375-4381: A Stuffed Holiday Plan
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/u-s-air-force-awards-varda-48-million-to-test-payloads-on-reentry-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force awards Varda $48 million to test payloads on reentry capsules
 - <a href="https://www.nasa.gov/image-article/technicians-install-gateways-fuel-tanks/" >🔗</a> **[NASA]** Technicians Install Gateway’s Fuel Tanks
 - <a href="https://www.nasa.gov/news-release/expedition-71-astronauts-to-discuss-mission-in-nasa-welcome-home-event/" >🔗</a> **[NASA]** Expedition 71 Astronauts to Discuss Mission in NASA Welcome Home Event
-- <a href="https://spacenews.com/quantum-tech-firm-wins-pentagon-contract-for-gps-alternative/" >🔗</a> **[SpaceNews]** Quantum tech firm wins Pentagon contract for GPS alternative
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T110117">2024-12-03 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T113111">2024-12-03 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
