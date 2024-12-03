@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/4375-4381-a-stuffed-holiday-plan/" >🔗</a> **[NASA]** 4375-4381: A Stuffed Holiday Plan
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/" >🔗</a> **[NASA]** NASA Experts Share Inspiring Stories of Perseverance to Students
 - <a href="https://science.nasa.gov/blog/sols-4732-4735-ill-zap-you-my-pretty-and-your-pebble-too/" >🔗</a> **[NASA]** Sols 4732-4735: I’ll Zap You, My Pretty, and Your Pebble Too
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/expedition-71-astronauts-to-discuss-mission-in-nasa-welcome-home-event/" >🔗</a> **[NASA]** Expedition 71 Astronauts to Discuss Mission in NASA Welcome Home Event
 - <a href="https://spacenews.com/quantum-tech-firm-wins-pentagon-contract-for-gps-alternative/" >🔗</a> **[SpaceNews]** Quantum tech firm wins Pentagon contract for GPS alternative
 - <a href="https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/" >🔗</a> **[NASA]** You Are Now Arriving at ‘Pico Turquino’
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: December 2024 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T000446">2024-12-03 00:04:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T004547">2024-12-03 00:45:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
