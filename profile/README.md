@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/name-change-reflects-expanded-focus-for-commercial-space-federation/" >🔗</a> **[SpaceNews]** Name change reflects expanded focus for Commercial Space Federation
+- <a href="https://spacenews.com/connecting-the-dots-iris%c2%b2-anchors-ses-and-eutelsat-next-steps/" >🔗</a> **[SpaceNews]** Connecting The Dots | IRIS² anchors SES and Eutelsat next steps
+- <a href="https://europeanspaceflight.com/esa-publishes-updated-call-for-reusable-super-heavy-lift-rocket-initiative/" >🔗</a> **[European Spaceflight]** ESA Publishes Updated Call for Reusable Super Heavy-Lift Rocket Initiative
 - <a href="https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/" >🔗</a> **[Arstechnica]** A crypto firm apparently bought the Enron name to sell an “energy” coin
 - <a href="https://spacenews.com/china-launches-clandestine-tjs-13-satellite-rocket-reaches-milestone/" >🔗</a> **[SpaceNews]** China launches clandestine TJS-13 satellite, rocket reaches milestone
 - <a href="https://spacenews.com/pld-space-secures-loan-for-miura-5-launch-facility/" >🔗</a> **[SpaceNews]** PLD Space secures loan for Miura 5 launch facility
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Five_space_mysteries_Proba-3_will_help_solve" >🔗</a> **[ESA]** Five space mysteries Proba-3 will help solve
 - <a href="https://www.nasa.gov/general/interview-with-luke-sollitt/" >🔗</a> **[NASA]** Interview with Luke Sollitt
 - <a href="https://science.nasa.gov/blog/4375-4381-a-stuffed-holiday-plan/" >🔗</a> **[NASA]** 4375-4381: A Stuffed Holiday Plan
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/" >🔗</a> **[NASA]** NASA Experts Share Inspiring Stories of Perseverance to Students
-- <a href="https://science.nasa.gov/blog/sols-4732-4735-ill-zap-you-my-pretty-and-your-pebble-too/" >🔗</a> **[NASA]** Sols 4732-4735: I’ll Zap You, My Pretty, and Your Pebble Too
-- <a href="https://www.nasa.gov/general/a-mission-at-home-and-at-work-caregivers-at-johnson-navigate-dual-role-with-community-supports/" >🔗</a> **[NASA]** A Mission at Home and at Work: Caregivers at Johnson Navigate Dual Role With Community Supports
-- <a href="https://spacenews.com/u-s-air-force-awards-varda-48-million-to-test-payloads-on-reentry-capsules/" >🔗</a> **[SpaceNews]** U.S. Air Force awards Varda $48 million to test payloads on reentry capsules
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T130756">2024-12-03 13:07:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T133705">2024-12-03 13:37:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
