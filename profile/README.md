@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/image-article/building-bridges-at-bayou-classic/" >🔗</a> **[NASA]** NASA Builds Bridges at Bayou Classic
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/" >🔗</a> **[NASA]** Towards Autonomous Surface Missions on Ocean Worlds
+- <a href="https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/" >🔗</a> **[NASA]** NASA-Led Team Links Comet Water to Earth’s Oceans
+- <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/planetary-defenders/" >🔗</a> **[NASA]** Coming Spring 2025: Planetary Defenders Documentary
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/edward-gonzales-fosters-a-culturally-safe-workplace-for-current-future-employees/" >🔗</a> **[NASA]** Edward Gonzales Fosters a Culturally Safe Workplace for Current, Future Employees
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Creating_artificial_eclipses_to_study_the_Sun_Proba-3_explained" >🔗</a> **[ESA]** Creating artificial eclipses to study the Sun | Proba-3 explained
 - <a href="https://spacenews.com/commercial-space-federation-csf-launches-rebrand-reorg-and-integrate-compete-and-unleash-plan/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Launches Rebrand, Reorg and Integrate, Compete, and Unleash Plan
 - <a href="https://spacenews.com/lockheed-martin-challenges-narrative-on-gps-vulnerability/" >🔗</a> **[SpaceNews]** Lockheed Martin challenges narrative on GPS vulnerability
 - <a href="https://spacenews.com/peter-connito-redwire-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Peter Connito, Redwire – Commercial Space Transformers
-- <a href="https://spacenews.com/name-change-reflects-expanded-focus-for-commercial-space-federation/" >🔗</a> **[SpaceNews]** Name change reflects expanded focus for Commercial Space Federation
-- <a href="https://spacenews.com/connecting-the-dots-iris%c2%b2-anchors-ses-and-eutelsat-next-steps/" >🔗</a> **[SpaceNews]** Connecting The Dots | IRIS² anchors SES and Eutelsat next steps
-- <a href="https://europeanspaceflight.com/esa-publishes-updated-call-for-reusable-super-heavy-lift-rocket-initiative/" >🔗</a> **[European Spaceflight]** ESA Publishes Updated Call for Reusable Super Heavy-Lift Rocket Initiative
-- <a href="https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/" >🔗</a> **[Arstechnica]** A crypto firm apparently bought the Enron name to sell an “energy” coin
-- <a href="https://spacenews.com/china-launches-clandestine-tjs-13-satellite-rocket-reaches-milestone/" >🔗</a> **[SpaceNews]** China launches clandestine TJS-13 satellite, rocket reaches milestone
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T180128">2024-12-03 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T183640">2024-12-03 18:36:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
