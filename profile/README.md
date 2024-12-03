@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4382-4383-team-work-dream-work/" >🔗</a> **[NASA]** Sols 4382-4383: Team Work, Dream Work
 - <a href="https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/building-bridges-at-bayou-classic/" >🔗</a> **[NASA]** NASA Builds Bridges at Bayou Classic
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/" >🔗</a> **[NASA]** Towards Autonomous Surface Missions on Ocean Worlds
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Creating_artificial_eclipses_to_study_the_Sun_Proba-3_explained" >🔗</a> **[ESA]** Creating artificial eclipses to study the Sun | Proba-3 explained
 - <a href="https://spacenews.com/commercial-space-federation-csf-launches-rebrand-reorg-and-integrate-compete-and-unleash-plan/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Launches Rebrand, Reorg and Integrate, Compete, and Unleash Plan
 - <a href="https://spacenews.com/lockheed-martin-challenges-narrative-on-gps-vulnerability/" >🔗</a> **[SpaceNews]** Lockheed Martin challenges narrative on GPS vulnerability
-- <a href="https://spacenews.com/peter-connito-redwire-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Peter Connito, Redwire – Commercial Space Transformers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T190122">2024-12-03 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241203T193106">2024-12-03 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
