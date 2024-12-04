@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Russian Space Forces*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T160000">2024-12-04 16:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 1670 launches from this location. The launch status is currently
+**Vega-C | Sentinel-1C**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1 (ELV)</a>, Guiana Space Centre, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T212033">2024-12-04 21:20:33 UTC</a>.  Until
+then, this pad will have been used for 50
+out of 322 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Russian military satellite(s) of unknown variant.
+  Sentinel-1C carries an advanced radar technology to provide an all-weather, day-and-night supply of imagery of Earth’s surface. It is a replacement satellite to complete the Sentinel-1 duo after Sentinel-1B suffered a technical anomaly.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
+  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
+  <a href="https://www.google.com/maps?q=5.236,-52.775" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T051000">2024-12-08 05:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-5&location=Cape Canaveral SFS, FL, USA&dates=20241208T051000Z%2F20241208T091000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-5** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T020000">2024-12-14 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 2&location=Spaceport Kii, Japan&dates=20241214T020000Z%2F20241214T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 2** from Spaceport Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T000000">2024-12-20 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV | SPADEX (Space Docking Experiment)&location=Satish Dhawan Space Centre, India&dates=20241220T000000Z%2F20241220T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV | SPADEX (Space Docking Experiment)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T000000">2024-12-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)&location=Vandenberg SFB, CA, USA&dates=20241229T000000Z%2F20241229T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,13 +105,21 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
-- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
+- <a href="https://spacenews.com/vega-c-to-launch-sentinel-1c-in-2023/" >🔗</a> **[SpaceNews]** Vega C to launch Sentinel-1C in 2023
+- <a href="https://spacenews.com/vega-c-suffers-setback-in-return-to-flight-effort/" >🔗</a> **[SpaceNews]** Vega C suffers setback in return to flight effort
+- <a href="https://europeanspaceflight.com/vega-c-return-to-flight-delayed-after-z40-test-failure/" >🔗</a> **[European Spaceflight]** Vega C Return to Flight Delayed After Z40 Test Failure
+- <a href="https://tlpnetwork.com/news/2023/07/vega-c-return-delayed-following-static-fire-anomaly" >🔗</a> **[The Launch Pad]** Vega C Return Delayed Following Static Fire Anomaly
+- <a href="https://spacenews.com/esa-delays-vega-c-return-to-flight-to-late-2024/" >🔗</a> **[SpaceNews]** ESA delays Vega C return to flight to late 2024
+- <a href="https://europeanspaceflight.com/esa-targets-15-november-for-vega-c-return-to-flight-mission/" >🔗</a> **[European Spaceflight]** ESA Targets 15 November for Vega C Return to Flight Mission
+- <a href="https://spacenews.com/europe-considers-launching-copernicus-satellite-on-falcon-9/" >🔗</a> **[SpaceNews]** Europe considers launching Copernicus satellite on Falcon 9
+- <a href="https://www.spacescout.info/2024/01/esa-shuffles-copernicus-sats/" >🔗</a> **[Space Scout]** ESA Shuffles Copernicus Sats Amidst Launcher Uncertainty
+- <a href="https://tlpnetwork.com/news/europe/esa-and-avio-successfully-test-redesigned-vega-c-motor" >🔗</a> **[The Launch Pad]** ESA & Avio Successfully Test Redesigned Vega C Motor, Eye Year-End Return to Flight
+- <a href="https://spacenews.com/vega-c-ready-for-return-to-flight-after-second-motor-test/" >🔗</a> **[SpaceNews]** Vega C ready for return to flight after second motor test
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T180128">2024-12-04 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241204T183809">2024-12-04 18:38:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
