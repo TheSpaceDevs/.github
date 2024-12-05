@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/" >🔗</a> **[NASA]** Fresh Eyes on Ice Project Wins Award
 - <a href="https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/" >🔗</a> **[NASA]** Matt Dominick’s X Account: A Visual Journey from Space
 - <a href="https://www.nasa.gov/missions/station/nasa-astronauts-compete-in-iss-olympics/" >🔗</a> **[NASA]** NASA Astronauts Compete in ISS “Olympics”
 - <a href="https://europeanspaceflight.com/avio-receives-150m-euros-contract-to-supply-rocket-motors-for-camm-er-missiles/" >🔗</a> **[European Spaceflight]** Avio Receives €150M Contract to Supply Rocket Motors for CAMM-ER Missiles
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/The_power_of_two_Proba-3" >🔗</a> **[ESA]** The power of two: Proba-3
 - <a href="https://spacenews.com/orbex-halts-work-on-own-spaceport-shifts-launches-to-saxavord/" >🔗</a> **[SpaceNews]** Orbex halts work on own spaceport, shifts launches to SaxaVord
 - <a href="https://spacenews.com/pslv-rocket-launches-europes-proba-3-mission-to-mimic-solar-eclipses/" >🔗</a> **[SpaceNews]** PSLV rocket launches Europe’s Proba-3 mission to mimic solar eclipses
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Proba-3_lift-off_replay" >🔗</a> **[ESA]** Proba-3 lift-off replay
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T170120">2024-12-05 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T173354">2024-12-05 17:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
