@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Sirius SXM-9**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T161000">2024-12-05 16:10:00 UTC</a>.  Until
-then, this pad will have been used for 190
-out of 248 launches from this location. The launch status is currently
+**Vega-C | Sentinel-1C**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1 (ELV)</a>, Guiana Space Centre, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T212033">2024-12-05 21:20:33 UTC</a>.  Until
+then, this pad will have been used for 50
+out of 322 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  SXM-9 is the 10th high-powered, digital, audio radio satellite built by Maxar (SSL) for SiriusXM. The SXM-9 satellite will be based on Maxar’s proven 1300-class platform and built at the company’s manufacturing facility in Palo Alto, California. It is expected that SXM-9 will launch in 2024.  SXM-9 has a large, mesh, unfurlable reflector almost 10 meters in diameter that allows SiriusXM programming to reach its radios, including those in moving vehicles.
+  Sentinel-1C carries an advanced radar technology to provide an all-weather, day-and-night supply of imagery of Earth’s surface. It is a replacement satellite to complete the Sentinel-1 duo after Sentinel-1B suffered a technical anomaly.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=5.236,-52.775" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T161000">2024-12-05 16:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Kennedy Space Center, FL, USA&dates=20241205T161000Z%2F20241205T174000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T212033">2024-12-05 21:20:33 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Sentinel-1C&location=Guiana Space Centre, French Guiana&dates=20241205T212033Z%2F20241205T212033Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Sentinel-1C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T051000">2024-12-08 05:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-5&location=Cape Canaveral SFS, FL, USA&dates=20241208T051000Z%2F20241208T091000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-5** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T193300">2024-12-12 19:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241212T193300Z%2F20241212T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
@@ -56,6 +55,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 16-20&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 16-20** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 4x Astranis MicroGEO&location=Cape Canaveral SFS, FL, USA&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 4x Astranis MicroGEO** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV10&location=Cape Canaveral SFS, FL, USA&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV10** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,27 +91,35 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/starship-cleared-for-nov-17-launch/" >🔗</a> **[SpaceNews]** Starship cleared for Nov. 18 launch
-- <a href="https://www.blueorigin.com/news/coming-to-the-space-coast" >🔗</a> **[Blue Origin]** Coming to the Space Coast
-- <a href="https://www.space.com/42197-bepicolombo-mercury-mission-in-pictures.html" >🔗</a> **[Space.com]** BepiColombo in Pictures: A Mercury Mission by Europe and Japan
-- <a href="https://www.teslarati.com/spacex-first-starlink-gen2-satellite-launch-2022/" >🔗</a> **[Teslarati]** SpaceX might launch first Starlink Gen2 satellites next week
-- <a href="https://spacenews.com/ai-startup-synthetaic-raises-15-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** AI startup Synthetaic raises $15 million in Series B funding
-- <a href="https://www.blueorigin.com/news/pushing-the-envelope" >🔗</a> **[Blue Origin]** Pushing the Envelope
-- <a href="https://spacenews.com/space-force-establishes-permanent-presence-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** Space Force establishes permanent presence in Indo-Pacific region
-- <a href="https://spacenews.com/slingshots-space-tracking-network-to-extend-coverage-of-low-earth-orbit/" >🔗</a> **[SpaceNews]** Slingshot’s space-tracking network to extend coverage of low Earth orbit
-- <a href="https://spacenews.com/china-researching-challenges-of-kilometer-scale-ultra-large-spacecraft/" >🔗</a> **[SpaceNews]** China researching challenges of kilometer-scale ultra-large spacecraft
-- <a href="https://spacenews.com/stanford-center-focuses-on-spacecraft-autonomy/" >🔗</a> **[SpaceNews]** Stanford center focuses on spacecraft autonomy
+- <a href="https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/" >🔗</a> **[NASA]** Matt Dominick’s X Account: A Visual Journey from Space
+- <a href="https://www.nasa.gov/missions/station/nasa-astronauts-compete-in-iss-olympics/" >🔗</a> **[NASA]** NASA Astronauts Compete in ISS “Olympics”
+- <a href="https://europeanspaceflight.com/avio-receives-150m-euros-contract-to-supply-rocket-motors-for-camm-er-missiles/" >🔗</a> **[European Spaceflight]** Avio Receives €150M Contract to Supply Rocket Motors for CAMM-ER Missiles
+- <a href="https://spacenews.com/muon-space-climate-monitoring-satellites-eyed-for-military-applications/" >🔗</a> **[SpaceNews]** Muon Space climate-monitoring satellites eyed for military applications
+- <a href="https://spaceflightnow.com/2024/12/05/live-coverage-spacex-to-launch-latest-broadcast-satellite-for-siriusxm-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch latest broadcast satellite for SiriusXM on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://spacenews.com/starships-space-policy-and-power-plays/" >🔗</a> **[SpaceNews]** Starships, Space Policy and Power Plays
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/The_power_of_two_Proba-3" >🔗</a> **[ESA]** The power of two: Proba-3
+- <a href="https://spacenews.com/orbex-halts-work-on-own-spaceport-shifts-launches-to-saxavord/" >🔗</a> **[SpaceNews]** Orbex halts work on own spaceport, shifts launches to SaxaVord
+- <a href="https://spacenews.com/pslv-rocket-launches-europes-proba-3-mission-to-mimic-solar-eclipses/" >🔗</a> **[SpaceNews]** PSLV rocket launches Europe’s Proba-3 mission to mimic solar eclipses
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Proba-3_lift-off_replay" >🔗</a> **[ESA]** Proba-3 lift-off replay
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
+- <a href="https://www.nasaspaceflight.com/2024/12/vega-sentinel-1c/" >🔗</a> **[NASASpaceflight]** Europe’s Vega-C to return to flight with Sentinel-1C mission
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega-C_complete_for_return_to_flight" >🔗</a> **[ESA]** Vega-C complete for return to flight
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Vega-C_to_launch_Sentinel-1C" >🔗</a> **[ESA]** Watch live: Vega-C to launch Sentinel-1C
+- <a href="https://spaceflightnow.com/2024/11/28/vega-c-return-to-flight-launch-slips-a-day-to-allow-for-further-precautionary-checks/" >🔗</a> **[Spaceflight Now]** Vega-C return to flight launch slips a day to allow for ‘further precautionary checks’
+- <a href="https://spacenews.com/vega-c-return-to-flight-slips-a-day/" >🔗</a> **[SpaceNews]** Vega C return to flight slips a day
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Sentinel-1C_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1C pre-launch media briefing
+- <a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" >🔗</a> **[ESA]** Watch live: Sentinel-1C pre-launch media briefing
+- <a href="https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Sentinel-1C_pre-launch_media_briefings" >🔗</a> **[ESA]** Media invitation: Sentinel-1C pre-launch media briefings
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Moving_Sentinel-1C_to_Vega-C_s_Vampire_payload_adapter" >🔗</a> **[ESA]** Moving Sentinel-1C to Vega-C's Vampire payload adapter
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T160132">2024-12-05 16:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T163732">2024-12-05 16:37:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
