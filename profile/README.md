@@ -20,35 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**PSLV-XL | Proba-3**. It is scheduled to be launched by *Indian Space Research Organization*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Satish Dhawan Space Centre, India*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T103400">2024-12-05 10:34:00 UTC</a>.  Until
-then, this pad will have been used for 59
-out of 95 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Sirius SXM-9**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T161000">2024-12-05 16:10:00 UTC</a>.  Until
+then, this pad will have been used for 190
+out of 248 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Technology* and the payload will be injected
-into *an Elliptical Orbit
-(Elliptical)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  Proba-3 (Project for On-Board Autonomy 3) is the first close formation flying mission for the European Space Agency (ESA). It consists of two independent, three-axis stabilised spacecraft flying 150 meters from one another with the ability to accurately control the attitude and separation of the two craft. Such formation flying will be maintained for 6 hours, creating ″artificial solar eclipse″ for the satellite below. 
-
-The spacecraft pair will fly a highly elliptical orbit divided between periods of accurate formation flying around apogee, when payload operations will be possible, and periods of free flight.
+  SXM-9 is the 10th high-powered, digital, audio radio satellite built by Maxar (SSL) for SiriusXM. The SXM-9 satellite will be based on Maxar’s proven 1300-class platform and built at the company’s manufacturing facility in Palo Alto, California. It is expected that SXM-9 will launch in 2024.  SXM-9 has a large, mesh, unfurlable reflector almost 10 meters in diameter that allows SiriusXM programming to reach its radios, including those in moving vehicles.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.733,80.235" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T103400">2024-12-05 10:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | Proba-3&location=Satish Dhawan Space Centre, India&dates=20241205T103400Z%2F20241205T103400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | Proba-3** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T161000">2024-12-05 16:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-9&location=Kennedy Space Center, FL, USA&dates=20241205T161000Z%2F20241205T174000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-9** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T212033">2024-12-05 21:20:33 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Sentinel-1C&location=Guiana Space Centre, French Guiana&dates=20241205T212033Z%2F20241205T212033Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Sentinel-1C** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T051000">2024-12-08 05:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-5&location=Cape Canaveral SFS, FL, USA&dates=20241208T051000Z%2F20241208T091000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-5** from Cape Canaveral SFS, FL, USA.
@@ -58,6 +55,7 @@ The spacecraft pair will fly a highly elliptical orbit divided between periods o
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T000000">2024-12-29 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)&location=Vandenberg SFB, CA, USA&dates=20241229T000000Z%2F20241229T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 16-20&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 16-20** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 4x Astranis MicroGEO&location=Cape Canaveral SFS, FL, USA&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 4x Astranis MicroGEO** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -107,21 +105,13 @@ The spacecraft pair will fly a highly elliptical orbit divided between periods o
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_tries_formation_flying_on_the_ground" >🔗</a> **[ESA]** Proba-3 tries formation flying on the ground
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/07/Proba-3_s_new_view_on_space_weather" >🔗</a> **[ESA]** Video: Proba-3's new view on space weather
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_double_satellites_set_for_launch_following_last_test" >🔗</a> **[ESA]** Proba-3 double satellites set for launch following last test
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Europe_says_farewell_to_eclipse-making_Proba-3" >🔗</a> **[ESA]** Europe says farewell to eclipse-making Proba-3
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/Proba-3_will_constantly_measure_Sun_s_energy_output" >🔗</a> **[ESA]** Proba-3 will constantly measure Sun’s energy output
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_Not_because_it_is_easy" >🔗</a> **[ESA]** Proba-3: Not because it is easy…
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba_Missions/High-flying_Proba-3_will_survey_Earth_s_radiation_belts" >🔗</a> **[ESA]** High-flying Proba-3 will survey Earth’s radiation belts
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3" >🔗</a> **[ESA]** Proba-3 website
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Proba-3_s_journey_to_see_the_Sun_s_corona" >🔗</a> **[ESA]** Proba-3’s journey to see the Sun’s corona
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/11/Proba-3_Firing_laser" >🔗</a> **[ESA]** Proba-3: Firing laser!
+- <a href="https://www.nasaspaceflight.com/2024/11/launch-roundup-112524/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ZhuQue-2E set for first flight; SpaceX, Russia to launch classified missions
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120224/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Sentinel 1C and PROBA 3 among ten planned launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T100122">2024-12-05 10:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T103617">2024-12-05 10:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
