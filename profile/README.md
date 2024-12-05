@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/" >🔗</a> **[Arstechnica]** How did the CEO of an online payments firm become the nominee to lead NASA?
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/2024-nesc-technical-update/" >🔗</a> **[NASA]** 2024 NESC Technical Update
+- <a href="https://www.nasa.gov/news-release/la-nasa-comparte-resultados-del-escudo-termico-de-orion-actualiza-las-misiones-artemis/" >🔗</a> **[NASA]** La NASA comparte resultados del escudo térmico de Orion, actualiza las misiones Artemis
+- <a href="https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/" >🔗</a> **[NASA]** NASA Flights Map Critical Minerals from Skies Above Western US
 - <a href="https://www.nasa.gov/general/faq-nasas-artemis-campaign-and-recent-updates/" >🔗</a> **[NASA]** FAQ: NASA’s Artemis Campaign and Recent Updates
 - <a href="https://www.nasa.gov/news-release/nasa-shares-orion-heat-shield-findings-updates-artemis-moon-missions/" >🔗</a> **[NASA]** NASA Shares Orion Heat Shield Findings, Updates Artemis Moon Missions
 - <a href="https://www.nasa.gov/missions/artemis/nasa-identifies-cause-of-artemis-i-orion-heat-shield-char-loss/" >🔗</a> **[NASA]** NASA Identifies Cause of Artemis I Orion Heat Shield Char Loss
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/" >🔗</a> **[NASA]** NASA’s Hubble Takes the Closest-Ever Look at a Quasar
 - <a href="https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/" >🔗</a> **[NASA]** Fresh Eyes on Ice Project Wins Award
 - <a href="https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/" >🔗</a> **[NASA]** Matt Dominick’s X Account: A Visual Journey from Space
-- <a href="https://www.nasa.gov/missions/station/nasa-astronauts-compete-in-iss-olympics/" >🔗</a> **[NASA]** NASA Astronauts Compete in ISS “Olympics”
-- <a href="https://europeanspaceflight.com/avio-receives-150m-euros-contract-to-supply-rocket-motors-for-camm-er-missiles/" >🔗</a> **[European Spaceflight]** Avio Receives €150M Contract to Supply Rocket Motors for CAMM-ER Missiles
-- <a href="https://spacenews.com/muon-space-climate-monitoring-satellites-eyed-for-military-applications/" >🔗</a> **[SpaceNews]** Muon Space climate-monitoring satellites eyed for military applications
-- <a href="https://spaceflightnow.com/2024/12/05/live-coverage-spacex-to-launch-latest-broadcast-satellite-for-siriusxm-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch latest broadcast satellite for SiriusXM on Falcon 9 rocket from the Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T190113">2024-12-05 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241205T193104">2024-12-05 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
