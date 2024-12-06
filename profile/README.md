@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/" >🔗</a> **[NASA]** NASA JPL Unveils the Dr. Edward Stone Exploration Trail
+- <a href="https://www.nasaspaceflight.com/2024/12/iss-update-december-2024/" >🔗</a> **[NASASpaceflight]** ISS and Expedition 72 crew stay busy with experiments, cargo arrivals, and spacecraft movements
+- <a href="https://spacenews.com/spacenews-announces-winners-of-the-7th-annual-icon-awards/" >🔗</a> **[SpaceNews]** SpaceNews Announces Winners of the 7th Annual Icon Awards
 - <a href="https://www.nasa.gov/image-article/orange-lava-blue-lagoon/" >🔗</a> **[NASA]** Orange Lava, Blue Lagoon
 - <a href="https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/" >🔗</a> **[NASA]** La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/" >🔗</a> **[NASA]** NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_December_2024" >🔗</a> **[ESA]** Week in images: 02-06 December 2024
 - <a href="https://science.nasa.gov/solar-system/annual-science-conference-to-highlight-nasa-research/" >🔗</a> **[NASA]** Annual Science Conference to Highlight NASA Research
 - <a href="https://spacenews.com/the-2024-spacenews-icon-awards-celebrating-excellence-in-space/" >🔗</a> **[SpaceNews]** The 2024 SpaceNews Icon Awards: Celebrating excellence in space
-- <a href="https://spacenews.com/integrating-commercial-space-into-national-security-opportunities-and-challenges/" >🔗</a> **[SpaceNews]** Integrating Commercial Space into National Security: Opportunities and Challenges
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/astro-camp-impact-continues-to-grow-fy2024/" >🔗</a> **[NASA]** NASA’s ASTRO CAMP – and its Impact – Continues to Grow in FY2024
-- <a href="https://spacenews.com/its-time-to-make-space-exploration-a-shared-frontier-for-all/" >🔗</a> **[SpaceNews]** It’s time to make space exploration a shared frontier for all
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T200121">2024-12-06 20:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T203333">2024-12-06 20:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
