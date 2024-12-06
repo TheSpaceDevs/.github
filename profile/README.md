@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/orange-lava-blue-lagoon/" >🔗</a> **[NASA]** Orange Lava, Blue Lagoon
 - <a href="https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/" >🔗</a> **[NASA]** La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/" >🔗</a> **[NASA]** NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
 - <a href="https://www.nasa.gov/missions/servir/nasa-usaid-launch-servir-central-american-hub/" >🔗</a> **[NASA]** NASA, USAID Launch SERVIR Central American Hub
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/integrating-commercial-space-into-national-security-opportunities-and-challenges/" >🔗</a> **[SpaceNews]** Integrating Commercial Space into National Security: Opportunities and Challenges
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/astro-camp-impact-continues-to-grow-fy2024/" >🔗</a> **[NASA]** NASA’s ASTRO CAMP – and its Impact – Continues to Grow in FY2024
 - <a href="https://spacenews.com/its-time-to-make-space-exploration-a-shared-frontier-for-all/" >🔗</a> **[SpaceNews]** It’s time to make space exploration a shared frontier for all
-- <a href="https://arstechnica.com/space/2024/12/rocket-report-nasa-delays-artemis-again-spinlaunch-spins-a-little-cash/" >🔗</a> **[Arstechnica]** Rocket Report: NASA delays Artemis again; SpinLaunch spins a little cash
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T193059">2024-12-06 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T200121">2024-12-06 20:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
