@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_December_2024" >🔗</a> **[ESA]** Week in images: 02-06 December 2024
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/astro-camp-impact-continues-to-grow-fy2024/" >🔗</a> **[NASA]** NASA’s ASTRO CAMP – and its Impact – Continues to Grow in FY2024
 - <a href="https://spacenews.com/its-time-to-make-space-exploration-a-shared-frontier-for-all/" >🔗</a> **[SpaceNews]** It’s time to make space exploration a shared frontier for all
 - <a href="https://arstechnica.com/space/2024/12/rocket-report-nasa-delays-artemis-again-spinlaunch-spins-a-little-cash/" >🔗</a> **[Arstechnica]** Rocket Report: NASA delays Artemis again; SpinLaunch spins a little cash
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/" >🔗</a> **[NASA]** Hubble Spots a Spiral in the Celestial River
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Vega-C_and_Sentinel-1C_launch_highlights" >🔗</a> **[ESA]** Vega-C and Sentinel-1C launch highlights
 - <a href="https://europeanspaceflight.com/vega-c-returns-to-flight-deploying-sentinel-1c/" >🔗</a> **[European Spaceflight]** Vega C Returns to Flight Deploying Sentinel-1C
 - <a href="https://spacepolicyonline.com/news/esas-vega-c-returns-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** ESA’s Vega-C Returns to Flight
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Double_win_for_Europe_Sentinel-1C_and_Vega-C_take_to_the_skies" >🔗</a> **[ESA]** Double win for Europe: Sentinel-1C and Vega-C take to the skies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T150126">2024-12-06 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T153346">2024-12-06 15:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
