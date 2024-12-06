@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_December_2024" >🔗</a> **[ESA]** Week in images: 02-06 December 2024
+- <a href="https://spacenews.com/its-time-to-make-space-exploration-a-shared-frontier-for-all/" >🔗</a> **[SpaceNews]** It’s time to make space exploration a shared frontier for all
 - <a href="https://arstechnica.com/space/2024/12/rocket-report-nasa-delays-artemis-again-spinlaunch-spins-a-little-cash/" >🔗</a> **[Arstechnica]** Rocket Report: NASA delays Artemis again; SpinLaunch spins a little cash
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/" >🔗</a> **[NASA]** Hubble Spots a Spiral in the Celestial River
 - <a href="https://spacenews.com/vega-c-successfully-returns-to-flight/" >🔗</a> **[SpaceNews]** Vega C successfully returns to flight
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/vega-c-returns-to-flight-deploying-sentinel-1c/" >🔗</a> **[European Spaceflight]** Vega C Returns to Flight Deploying Sentinel-1C
 - <a href="https://spacepolicyonline.com/news/esas-vega-c-returns-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** ESA’s Vega-C Returns to Flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Double_win_for_Europe_Sentinel-1C_and_Vega-C_take_to_the_skies" >🔗</a> **[ESA]** Double win for Europe: Sentinel-1C and Vega-C take to the skies
-- <a href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" >🔗</a> **[NASA]** NASA to Test Technology for X-59’s Unique Shock Wave Measurements
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-administrator-flight-in-electra-hybrid-electric-aircraft/" >🔗</a> **[NASA]** NASA Invites Media to Administrator Flight in Electra Hybrid-Electric Aircraft
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T140120">2024-12-06 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T143453">2024-12-06 14:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
