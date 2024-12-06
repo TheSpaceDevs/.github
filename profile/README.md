@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/esas-vega-c-returns-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** ESA’s Vega-C Returns to Flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Double_win_for_Europe_Sentinel-1C_and_Vega-C_take_to_the_skies" >🔗</a> **[ESA]** Double win for Europe: Sentinel-1C and Vega-C take to the skies
 - <a href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" >🔗</a> **[NASA]** NASA to Test Technology for X-59’s Unique Shock Wave Measurements
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-administrator-flight-in-electra-hybrid-electric-aircraft/" >🔗</a> **[NASA]** NASA Invites Media to Administrator Flight in Electra Hybrid-Electric Aircraft
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/more-delays-for-artemis-artemis-ii-slips-to-april-2026-artemis-iii-to-mid-2027/" >🔗</a> **[SpacePolicyOnline.com]** More Delays: Artemis II Slips to April 2026, Artemis III to Mid-2027
 - <a href="https://www.jpl.nasa.gov/news/nasa-flights-map-critical-minerals-from-skies-above-western-us" >🔗</a> **[Jet Propulsion Laboratory]** NASA Flights Map Critical Minerals From Skies Above Western US
 - <a href="https://spacenews.com/nasa-further-delays-next-artemis-missions/" >🔗</a> **[SpaceNews]** NASA further delays next Artemis missions
-- <a href="https://www.nasa.gov/general/space-station-trajectory-data/" >🔗</a> **[NASA]** Space Station Trajectory Data
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T040130">2024-12-06 04:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T043555">2024-12-06 04:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
