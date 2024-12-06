@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vega-c-successfully-returns-to-flight/" >🔗</a> **[SpaceNews]** Vega C successfully returns to flight
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_First_seasonal_snow" >🔗</a> **[ESA]** Earth from Space: First seasonal snow
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Vega-C_and_Sentinel-1C_launch_highlights" >🔗</a> **[ESA]** Vega-C and Sentinel-1C launch highlights
 - <a href="https://europeanspaceflight.com/vega-c-returns-to-flight-deploying-sentinel-1c/" >🔗</a> **[European Spaceflight]** Vega C Returns to Flight Deploying Sentinel-1C
 - <a href="https://spacepolicyonline.com/news/esas-vega-c-returns-to-flight/" >🔗</a> **[SpacePolicyOnline.com]** ESA’s Vega-C Returns to Flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Double_win_for_Europe_Sentinel-1C_and_Vega-C_take_to_the_skies" >🔗</a> **[ESA]** Double win for Europe: Sentinel-1C and Vega-C take to the skies
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-administrator-flight-in-electra-hybrid-electric-aircraft/" >🔗</a> **[NASA]** NASA Invites Media to Administrator Flight in Electra Hybrid-Electric Aircraft
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/10-years-ago-orion-flies-its-first-mission/" >🔗</a> **[NASA]** 10 Years Ago: Orion Flies its First Mission
 - <a href="https://www.nasaspaceflight.com/2024/12/artemis-ii-update-2/" >🔗</a> **[NASASpaceflight]** Artemis II rescheduled for spring of 2026 as program decides on path forward
-- <a href="https://spacepolicyonline.com/news/more-delays-for-artemis-artemis-ii-slips-to-april-2026-artemis-iii-to-mid-2027/" >🔗</a> **[SpacePolicyOnline.com]** More Delays: Artemis II Slips to April 2026, Artemis III to Mid-2027
-- <a href="https://www.jpl.nasa.gov/news/nasa-flights-map-critical-minerals-from-skies-above-western-us" >🔗</a> **[Jet Propulsion Laboratory]** NASA Flights Map Critical Minerals From Skies Above Western US
-- <a href="https://spacenews.com/nasa-further-delays-next-artemis-missions/" >🔗</a> **[SpaceNews]** NASA further delays next Artemis missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T090121">2024-12-06 09:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T093335">2024-12-06 09:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
