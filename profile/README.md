@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-operations-services-maintenance-and-infrastructure-contract/" >🔗</a> **[NASA]** NASA Awards Operations, Services, Maintenance, and Infrastructure Contract
+- <a href="https://www.nasa.gov/directorates/stmd/lunar-autonomy-challenge-selected-teams/" >🔗</a> **[NASA]** Lunar Autonomy Challenge: Selected Teams
 - <a href="https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/" >🔗</a> **[NASA]** NASA JPL Unveils the Dr. Edward Stone Exploration Trail
 - <a href="https://www.nasaspaceflight.com/2024/12/iss-update-december-2024/" >🔗</a> **[NASASpaceflight]** ISS and Expedition 72 crew stay busy with experiments, cargo arrivals, and spacecraft movements
 - <a href="https://spacenews.com/spacenews-announces-winners-of-the-7th-annual-icon-awards/" >🔗</a> **[SpaceNews]** SpaceNews Announces Winners of the 7th Annual Icon Awards
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/" >🔗</a> **[NASA]** NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
 - <a href="https://www.nasa.gov/missions/servir/nasa-usaid-launch-servir-central-american-hub/" >🔗</a> **[NASA]** NASA, USAID Launch SERVIR Central American Hub
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_December_2024" >🔗</a> **[ESA]** Week in images: 02-06 December 2024
-- <a href="https://science.nasa.gov/solar-system/annual-science-conference-to-highlight-nasa-research/" >🔗</a> **[NASA]** Annual Science Conference to Highlight NASA Research
-- <a href="https://spacenews.com/the-2024-spacenews-icon-awards-celebrating-excellence-in-space/" >🔗</a> **[SpaceNews]** The 2024 SpaceNews Icon Awards: Celebrating excellence in space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T210124">2024-12-06 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T213208">2024-12-06 21:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
