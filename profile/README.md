@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/" >🔗</a> **[NASA]** La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
+- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/" >🔗</a> **[NASA]** NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
+- <a href="https://www.nasa.gov/missions/servir/nasa-usaid-launch-servir-central-american-hub/" >🔗</a> **[NASA]** NASA, USAID Launch SERVIR Central American Hub
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_December_2024" >🔗</a> **[ESA]** Week in images: 02-06 December 2024
+- <a href="https://science.nasa.gov/solar-system/annual-science-conference-to-highlight-nasa-research/" >🔗</a> **[NASA]** Annual Science Conference to Highlight NASA Research
 - <a href="https://spacenews.com/the-2024-spacenews-icon-awards-celebrating-excellence-in-space/" >🔗</a> **[SpaceNews]** The 2024 SpaceNews Icon Awards: Celebrating excellence in space
 - <a href="https://spacenews.com/integrating-commercial-space-into-national-security-opportunities-and-challenges/" >🔗</a> **[SpaceNews]** Integrating Commercial Space into National Security: Opportunities and Challenges
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/astro-camp-impact-continues-to-grow-fy2024/" >🔗</a> **[NASA]** NASA’s ASTRO CAMP – and its Impact – Continues to Grow in FY2024
 - <a href="https://spacenews.com/its-time-to-make-space-exploration-a-shared-frontier-for-all/" >🔗</a> **[SpaceNews]** It’s time to make space exploration a shared frontier for all
 - <a href="https://arstechnica.com/space/2024/12/rocket-report-nasa-delays-artemis-again-spinlaunch-spins-a-little-cash/" >🔗</a> **[Arstechnica]** Rocket Report: NASA delays Artemis again; SpinLaunch spins a little cash
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/" >🔗</a> **[NASA]** Hubble Spots a Spiral in the Celestial River
-- <a href="https://spacenews.com/vega-c-successfully-returns-to-flight/" >🔗</a> **[SpaceNews]** Vega C successfully returns to flight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_First_seasonal_snow" >🔗</a> **[ESA]** Earth from Space: First seasonal snow
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Vega-C_and_Sentinel-1C_launch_highlights" >🔗</a> **[ESA]** Vega-C and Sentinel-1C launch highlights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T190120">2024-12-06 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T193059">2024-12-06 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
