@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/rocket-report-nasa-delays-artemis-again-spinlaunch-spins-a-little-cash/" >🔗</a> **[Arstechnica]** Rocket Report: NASA delays Artemis again; SpinLaunch spins a little cash
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/" >🔗</a> **[NASA]** Hubble Spots a Spiral in the Celestial River
 - <a href="https://spacenews.com/vega-c-successfully-returns-to-flight/" >🔗</a> **[SpaceNews]** Vega C successfully returns to flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_First_seasonal_snow" >🔗</a> **[ESA]** Earth from Space: First seasonal snow
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Vega-C_and_Sentinel-1C_launch_highlights" >🔗</a> **[ESA]** Vega-C and Sentinel-1C launch highlights
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Double_win_for_Europe_Sentinel-1C_and_Vega-C_take_to_the_skies" >🔗</a> **[ESA]** Double win for Europe: Sentinel-1C and Vega-C take to the skies
 - <a href="https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/" >🔗</a> **[NASA]** NASA to Test Technology for X-59’s Unique Shock Wave Measurements
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-administrator-flight-in-electra-hybrid-electric-aircraft/" >🔗</a> **[NASA]** NASA Invites Media to Administrator Flight in Electra Hybrid-Electric Aircraft
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/10-years-ago-orion-flies-its-first-mission/" >🔗</a> **[NASA]** 10 Years Ago: Orion Flies its First Mission
-- <a href="https://www.nasaspaceflight.com/2024/12/artemis-ii-update-2/" >🔗</a> **[NASASpaceflight]** Artemis II rescheduled for spring of 2026 as program decides on path forward
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T120153">2024-12-06 12:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T124249">2024-12-06 12:42:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
