@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_December_2024" >🔗</a> **[ESA]** Week in images: 02-06 December 2024
+- <a href="https://spacenews.com/the-2024-spacenews-icon-awards-celebrating-excellence-in-space/" >🔗</a> **[SpaceNews]** The 2024 SpaceNews Icon Awards: Celebrating excellence in space
 - <a href="https://spacenews.com/integrating-commercial-space-into-national-security-opportunities-and-challenges/" >🔗</a> **[SpaceNews]** Integrating Commercial Space into National Security: Opportunities and Challenges
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/astro-camp-impact-continues-to-grow-fy2024/" >🔗</a> **[NASA]** NASA’s ASTRO CAMP – and its Impact – Continues to Grow in FY2024
 - <a href="https://spacenews.com/its-time-to-make-space-exploration-a-shared-frontier-for-all/" >🔗</a> **[SpaceNews]** It’s time to make space exploration a shared frontier for all
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/vega-c-successfully-returns-to-flight/" >🔗</a> **[SpaceNews]** Vega C successfully returns to flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_First_seasonal_snow" >🔗</a> **[ESA]** Earth from Space: First seasonal snow
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Vega-C_and_Sentinel-1C_launch_highlights" >🔗</a> **[ESA]** Vega-C and Sentinel-1C launch highlights
-- <a href="https://europeanspaceflight.com/vega-c-returns-to-flight-deploying-sentinel-1c/" >🔗</a> **[European Spaceflight]** Vega C Returns to Flight Deploying Sentinel-1C
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T180125">2024-12-06 18:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T183724">2024-12-06 18:37:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
