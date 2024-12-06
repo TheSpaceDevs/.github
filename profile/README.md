@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/" >🔗</a> **[Arstechnica]** Former flight director who reviewed Orion heat shield data says there was no dissent
+- <a href="https://science.nasa.gov/blog/sols-4384-4385-leaving-the-bishop-quad/" >🔗</a> **[NASA]** Sols 4384-4385: Leaving the Bishop Quad
 - <a href="https://www.nasa.gov/news-release/nasa-accelerates-space-exploration-earth-science-for-all-in-2024/" >🔗</a> **[NASA]** NASA Accelerates Space Exploration, Earth Science for All in 2024
 - <a href="https://www.nasa.gov/news-release/nasa-awards-operations-services-maintenance-and-infrastructure-contract/" >🔗</a> **[NASA]** NASA Awards Operations, Services, Maintenance, and Infrastructure Contract
 - <a href="https://www.nasa.gov/directorates/stmd/lunar-autonomy-challenge-selected-teams/" >🔗</a> **[NASA]** Lunar Autonomy Challenge: Selected Teams
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacenews-announces-winners-of-the-7th-annual-icon-awards/" >🔗</a> **[SpaceNews]** SpaceNews Announces Winners of the 7th Annual Icon Awards
 - <a href="https://www.nasa.gov/image-article/orange-lava-blue-lagoon/" >🔗</a> **[NASA]** Orange Lava, Blue Lagoon
 - <a href="https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/" >🔗</a> **[NASA]** La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
-- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/" >🔗</a> **[NASA]** NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
-- <a href="https://www.nasa.gov/missions/servir/nasa-usaid-launch-servir-central-american-hub/" >🔗</a> **[NASA]** NASA, USAID Launch SERVIR Central American Hub
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T230114">2024-12-06 23:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241206T233201">2024-12-06 23:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
