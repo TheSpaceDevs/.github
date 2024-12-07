@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/globalstar-and-parsons-unveil-satellite-service-for-defense-market/" >🔗</a> **[SpaceNews]** Globalstar and Parsons unveil satellite service for defense market
 - <a href="https://spacenews.com/heliophysics-decadal-survey-recommends-two-flagship-missions-for-nasa/" >🔗</a> **[SpaceNews]** Heliophysics decadal survey recommends two flagship missions for NASA
 - <a href="https://europeanspaceflight.com/italy-begins-development-of-nuclear-reactor-for-lunar-settlements/" >🔗</a> **[European Spaceflight]** Italy Begins Development of Nuclear Reactor for Lunar Settlements
 - <a href="https://spacenews.com/space-foundation-launches-space-path-program-to-help-companies-navigate-the-space-industry/" >🔗</a> **[SpaceNews]** Space Foundation Launches Space Path Program to Help Companies Navigate the Space Industry
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/" >🔗</a> **[Arstechnica]** Former flight director who reviewed Orion heat shield data says there was no dissent
 - <a href="https://science.nasa.gov/blog/sols-4384-4385-leaving-the-bishop-quad/" >🔗</a> **[NASA]** Sols 4384-4385: Leaving the Bishop Quad
 - <a href="https://www.nasa.gov/news-release/nasa-accelerates-space-exploration-earth-science-for-all-in-2024/" >🔗</a> **[NASA]** NASA Accelerates Space Exploration, Earth Science for All in 2024
-- <a href="https://www.nasa.gov/news-release/nasa-awards-operations-services-maintenance-and-infrastructure-contract/" >🔗</a> **[NASA]** NASA Awards Operations, Services, Maintenance, and Infrastructure Contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241207T193104">2024-12-07 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241207T200126">2024-12-07 20:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
