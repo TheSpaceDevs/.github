@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/" >🔗</a> **[NASA]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
+- <a href="https://www.jpl.nasa.gov/news/students-aim-high-at-nasa-jpl-candy-toss-competition" >🔗</a> **[Jet Propulsion Laboratory]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
 - <a href="https://spacenews.com/neuraspace-installs-second-telescope-to-enhance-space-traffic-monitoring/" >🔗</a> **[SpaceNews]** Neuraspace installs second telescope to enhance space traffic monitoring
 - <a href="https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/" >🔗</a> **[Arstechnica]** Former flight director who reviewed Orion heat shield data says there was no dissent
 - <a href="https://science.nasa.gov/blog/sols-4384-4385-leaving-the-bishop-quad/" >🔗</a> **[NASA]** Sols 4384-4385: Leaving the Bishop Quad
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/lunar-autonomy-challenge-selected-teams/" >🔗</a> **[NASA]** Lunar Autonomy Challenge: Selected Teams
 - <a href="https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/" >🔗</a> **[NASA]** NASA JPL Unveils the Dr. Edward Stone Exploration Trail
 - <a href="https://www.nasaspaceflight.com/2024/12/iss-update-december-2024/" >🔗</a> **[NASASpaceflight]** ISS and Expedition 72 crew stay busy with experiments, cargo arrivals, and spacecraft movements
-- <a href="https://spacenews.com/spacenews-announces-winners-of-the-7th-annual-icon-awards/" >🔗</a> **[SpaceNews]** SpaceNews Announces Winners of the 7th Annual Icon Awards
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241207T012830">2024-12-07 01:28:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241207T020815">2024-12-07 02:08:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
