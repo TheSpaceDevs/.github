@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italy-begins-development-of-nuclear-reactor-for-lunar-settlements/" >🔗</a> **[European Spaceflight]** Italy Begins Development of Nuclear Reactor for Lunar Settlements
 - <a href="https://spacenews.com/space-foundation-launches-space-path-program-to-help-companies-navigate-the-space-industry/" >🔗</a> **[SpaceNews]** Space Foundation Launches Space Path Program to Help Companies Navigate the Space Industry
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/" >🔗</a> **[NASA]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
 - <a href="https://www.jpl.nasa.gov/news/students-aim-high-at-nasa-jpl-candy-toss-competition" >🔗</a> **[Jet Propulsion Laboratory]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-accelerates-space-exploration-earth-science-for-all-in-2024/" >🔗</a> **[NASA]** NASA Accelerates Space Exploration, Earth Science for All in 2024
 - <a href="https://www.nasa.gov/news-release/nasa-awards-operations-services-maintenance-and-infrastructure-contract/" >🔗</a> **[NASA]** NASA Awards Operations, Services, Maintenance, and Infrastructure Contract
 - <a href="https://www.nasa.gov/directorates/stmd/lunar-autonomy-challenge-selected-teams/" >🔗</a> **[NASA]** Lunar Autonomy Challenge: Selected Teams
-- <a href="https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/" >🔗</a> **[NASA]** NASA JPL Unveils the Dr. Edward Stone Exploration Trail
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241207T140122">2024-12-07 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241207T143317">2024-12-07 14:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
