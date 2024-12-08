@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-official-warns-of-rising-chinese-threats/" >🔗</a> **[SpaceNews]** U.S. Space Force official warns of rising Chinese threats
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 8-14, 2024
 - <a href="https://spacenews.com/nelson-basically-optimistic-about-nasas-future-in-the-next-administration/" >🔗</a> **[SpaceNews]** Nelson “basically optimistic” about NASA’s future in the next administration
 - <a href="https://spacenews.com/ndaa-extends-commercial-spaceflight-learning-period-and-launch-indemnification/" >🔗</a> **[SpaceNews]** NDAA extends commercial spaceflight learning period and launch indemnification
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-foundation-launches-space-path-program-to-help-companies-navigate-the-space-industry/" >🔗</a> **[SpaceNews]** Space Foundation Launches Space Path Program to Help Companies Navigate the Space Industry
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/" >🔗</a> **[NASA]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
 - <a href="https://www.jpl.nasa.gov/news/students-aim-high-at-nasa-jpl-candy-toss-competition" >🔗</a> **[Jet Propulsion Laboratory]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
-- <a href="https://spacenews.com/neuraspace-installs-second-telescope-to-enhance-space-traffic-monitoring/" >🔗</a> **[SpaceNews]** Neuraspace installs second telescope to enhance space traffic monitoring
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T210118">2024-12-08 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T213106">2024-12-08 21:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
