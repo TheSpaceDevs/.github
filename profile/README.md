@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 8-14, 2024
 - <a href="https://spacenews.com/nelson-basically-optimistic-about-nasas-future-in-the-next-administration/" >🔗</a> **[SpaceNews]** Nelson “basically optimistic” about NASA’s future in the next administration
 - <a href="https://spacenews.com/ndaa-extends-commercial-spaceflight-learning-period-and-launch-indemnification/" >🔗</a> **[SpaceNews]** NDAA extends commercial spaceflight learning period and launch indemnification
 - <a href="https://spacenews.com/globalstar-and-parsons-unveil-satellite-service-for-defense-market/" >🔗</a> **[SpaceNews]** Globalstar and Parsons unveil satellite service for defense market
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/" >🔗</a> **[NASA]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
 - <a href="https://www.jpl.nasa.gov/news/students-aim-high-at-nasa-jpl-candy-toss-competition" >🔗</a> **[Jet Propulsion Laboratory]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
 - <a href="https://spacenews.com/neuraspace-installs-second-telescope-to-enhance-space-traffic-monitoring/" >🔗</a> **[SpaceNews]** Neuraspace installs second telescope to enhance space traffic monitoring
-- <a href="https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/" >🔗</a> **[Arstechnica]** Former flight director who reviewed Orion heat shield data says there was no dissent
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T140121">2024-12-08 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241208T143316">2024-12-08 14:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
