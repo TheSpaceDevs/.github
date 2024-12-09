@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-6-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 6, 2024
 - <a href="https://www.nasa.gov/image-article/mary-w-jackson-portrait-revealed/" >🔗</a> **[NASA]** Mary W. Jackson Portrait Revealed
 - <a href="https://spacenews.com/shattered-genesis-spacecraft-yields-scientific-discoveries-20-years-after-crash-landing/" >🔗</a> **[SpaceNews]** Shattered Genesis spacecraft yields scientific discoveries 20 years after crash landing
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates Decade of Tracking Outer Planets
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-panama-austria-artemis-accords-signings/" >🔗</a> **[NASA]** NASA Invites Media to Panama, Austria Artemis Accords Signings
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-us-students-abroad/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from US Students Abroad
 - <a href="https://www.nasa.gov/centers-and-facilities/grants-2/" >🔗</a> **[NASA]** Grants
-- <a href="https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/" >🔗</a> **[NASA]** 2024 Be An Astronaut Campaign
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T200134">2024-12-09 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T203402">2024-12-09 20:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
