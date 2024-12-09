@@ -91,7 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shattered-genesis-spacecraft-yields-scientific-discoveries-20-years-after-crash-landing/" >🔗</a> **[SpaceNews]** Shattered Genesis spacecraft yields scientific discoveries 20 years after crash landing
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates Decade of Tracking Outer Planets
+- <a href="https://www.jpl.nasa.gov/news/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award" >🔗</a> **[Jet Propulsion Laboratory]** Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
 - <a href="https://www.nasa.gov/missions/veritas/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award/" >🔗</a> **[NASA]** Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
 - <a href="https://www.nasa.gov/news-release/nasa-invita-a-los-medios-a-firma-de-acuerdos-de-artemis-con-panama-y-austria/" >🔗</a> **[NASA]** NASA invita a los medios a firma de Acuerdos de Artemis con Panamá y Austria
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-panama-austria-artemis-accords-signings/" >🔗</a> **[NASA]** NASA Invites Media to Panama, Austria Artemis Accords Signings
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/grants-2/" >🔗</a> **[NASA]** Grants
 - <a href="https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/" >🔗</a> **[NASA]** 2024 Be An Astronaut Campaign
 - <a href="https://spacenews.com/congressmen-push-faa-to-accelerate-licensing-process/" >🔗</a> **[SpaceNews]** Congressmen push FAA to accelerate licensing process
-- <a href="https://spacenews.com/america-must-win-the-race-for-space-solar-power-or-buy-it-from-china/" >🔗</a> **[SpaceNews]** America must win the race for space solar power — or buy it from China
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_reveals_Mercury_in_a_new_light" >🔗</a> **[ESA]** BepiColombo reveals Mercury in a new light
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T190115">2024-12-09 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T193107">2024-12-09 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
