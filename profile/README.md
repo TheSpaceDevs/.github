@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dlr-awards-multiyear-contract-to-constellr/" >🔗</a> **[SpaceNews]** DLR awards multiyear contract to constellr
+- <a href="https://spacenews.com/ast-spacemobile-locks-in-10-year-vodafone-commercial-agreement/" >🔗</a> **[SpaceNews]** AST SpaceMobile locks in 10-year Vodafone commercial agreement
+- <a href="https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/" >🔗</a> **[NASA]** 30 Years Ago: NASA Selects its 15th Group of Astronauts
 - <a href="https://spacenews.com/china-is-building-on-orbit-space-situational-awareness-capabilities-to-navigate-crowded-orbits/" >🔗</a> **[SpaceNews]** China is building on-orbit space situational awareness capabilities to navigate crowded orbits
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Cold Moon
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kairos set for second launch attempt, Falcon 9 to launch 03b and GPS missions
 - <a href="https://www.nasa.gov/general/uncrewed-aircraft-systems-traffic-management-beyond-visual-line-of-sight-utm-bvlos/" >🔗</a> **[NASA]** Uncrewed Aircraft Systems Traffic Management Beyond Visual Line of Sight (UTM BVLOS)
 - <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next Generation Space Weather Program
 - <a href="https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/" >🔗</a> **[NASA]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 - <a href="https://www.jpl.nasa.gov/news/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
-- <a href="https://www.nasa.gov/solar-system/comets/nasa-researchers-discover-more-dark-comets/" >🔗</a> **[NASA]** NASA Researchers Discover More Dark Comets
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-6-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 6, 2024
-- <a href="https://www.nasa.gov/image-article/mary-w-jackson-portrait-revealed/" >🔗</a> **[NASA]** Mary W. Jackson Portrait Revealed
-- <a href="https://www.jpl.nasa.gov/news/nasa-researchers-discover-more-dark-comets" >🔗</a> **[Jet Propulsion Laboratory]** NASA Researchers Discover More Dark Comets
-- <a href="https://spacenews.com/shattered-genesis-spacecraft-yields-scientific-discoveries-20-years-after-crash-landing/" >🔗</a> **[SpaceNews]** Shattered Genesis spacecraft yields scientific discoveries 20 years after crash landing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T230126">2024-12-09 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T233225">2024-12-09 23:32:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
