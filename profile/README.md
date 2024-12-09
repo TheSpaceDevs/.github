@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/" >🔗</a> **[NASA]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
+- <a href="https://www.jpl.nasa.gov/news/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
+- <a href="https://www.nasa.gov/solar-system/comets/nasa-researchers-discover-more-dark-comets/" >🔗</a> **[NASA]** NASA Researchers Discover More Dark Comets
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-6-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 6, 2024
 - <a href="https://www.nasa.gov/image-article/mary-w-jackson-portrait-revealed/" >🔗</a> **[NASA]** Mary W. Jackson Portrait Revealed
+- <a href="https://www.jpl.nasa.gov/news/nasa-researchers-discover-more-dark-comets" >🔗</a> **[Jet Propulsion Laboratory]** NASA Researchers Discover More Dark Comets
 - <a href="https://spacenews.com/shattered-genesis-spacecraft-yields-scientific-discoveries-20-years-after-crash-landing/" >🔗</a> **[SpaceNews]** Shattered Genesis spacecraft yields scientific discoveries 20 years after crash landing
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 - <a href="https://www.jpl.nasa.gov/news/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award" >🔗</a> **[Jet Propulsion Laboratory]** Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
 - <a href="https://www.nasa.gov/missions/veritas/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award/" >🔗</a> **[NASA]** Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
-- <a href="https://www.nasa.gov/news-release/nasa-invita-a-los-medios-a-firma-de-acuerdos-de-artemis-con-panama-y-austria/" >🔗</a> **[NASA]** NASA invita a los medios a firma de Acuerdos de Artemis con Panamá y Austria
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-panama-austria-artemis-accords-signings/" >🔗</a> **[NASA]** NASA Invites Media to Panama, Austria Artemis Accords Signings
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-us-students-abroad/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from US Students Abroad
-- <a href="https://www.nasa.gov/centers-and-facilities/grants-2/" >🔗</a> **[NASA]** Grants
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T210126">2024-12-09 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T213233">2024-12-09 21:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
