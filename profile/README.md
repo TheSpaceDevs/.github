@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-us-students-abroad/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from US Students Abroad
+- <a href="https://www.nasa.gov/centers-and-facilities/grants-2/" >🔗</a> **[NASA]** Grants
 - <a href="https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/" >🔗</a> **[NASA]** 2024 Be An Astronaut Campaign
 - <a href="https://spacenews.com/congressmen-push-faa-to-accelerate-licensing-process/" >🔗</a> **[SpaceNews]** Congressmen push FAA to accelerate licensing process
 - <a href="https://spacenews.com/america-must-win-the-race-for-space-solar-power-or-buy-it-from-china/" >🔗</a> **[SpaceNews]** America must win the race for space solar power — or buy it from China
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/supply-chain-woes-in-the-defense-industry-lets-not-fool-ourselves/" >🔗</a> **[SpaceNews]** Supply chain woes in the defense industry: ‘Let’s not fool ourselves’
 - <a href="https://europeanspaceflight.com/maiaspace-ceo-suggests-partnership-with-avio-could-benefit-europe/" >🔗</a> **[European Spaceflight]** MaiaSpace CEO Suggests Partnership with Avio Could Benefit Europe
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/UK_methane_leak_spotted_using_satellites2" >🔗</a> **[ESA]** UK methane leak spotted using satellites
-- <a href="https://spacenews.com/u-s-space-force-official-warns-of-rising-chinese-threats/" >🔗</a> **[SpaceNews]** U.S. Space Force official warns of rising Chinese threats
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 8-14, 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T170127">2024-12-09 17:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T173402">2024-12-09 17:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
