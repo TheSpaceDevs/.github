@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/america-must-win-the-race-for-space-solar-power-or-buy-it-from-china/" >🔗</a> **[SpaceNews]** America must win the race for space solar power — or buy it from China
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_reveals_Mercury_in_a_new_light" >🔗</a> **[ESA]** BepiColombo reveals Mercury in a new light
 - <a href="https://spacenews.com/genai-operators-and-nerds-the-triad-behind-groundbreaking-space-domain-awareness/" >🔗</a> **[SpaceNews]** “GenAI, Operators, and Nerds”: The Triad Behind Groundbreaking Space Domain Awareness
 - <a href="https://spacenews.com/supply-chain-woes-in-the-defense-industry-lets-not-fool-ourselves/" >🔗</a> **[SpaceNews]** Supply chain woes in the defense industry: ‘Let’s not fool ourselves’
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 8-14, 2024
 - <a href="https://spacenews.com/nelson-basically-optimistic-about-nasas-future-in-the-next-administration/" >🔗</a> **[SpaceNews]** Nelson “basically optimistic” about NASA’s future in the next administration
 - <a href="https://spacenews.com/ndaa-extends-commercial-spaceflight-learning-period-and-launch-indemnification/" >🔗</a> **[SpaceNews]** NDAA extends commercial spaceflight learning period and launch indemnification
-- <a href="https://spacenews.com/globalstar-and-parsons-unveil-satellite-service-for-defense-market/" >🔗</a> **[SpaceNews]** Globalstar and Parsons unveil satellite service for defense market
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T140122">2024-12-09 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T143523">2024-12-09 14:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
