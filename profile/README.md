@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/maiaspace-ceo-suggests-partnership-with-avio-could-benefit-europe/" >🔗</a> **[European Spaceflight]** MaiaSpace CEO Suggests Partnership with Avio Could Benefit Europe
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/UK_methane_leak_spotted_using_satellites2" >🔗</a> **[ESA]** UK methane leak spotted using satellites
 - <a href="https://spacenews.com/u-s-space-force-official-warns-of-rising-chinese-threats/" >🔗</a> **[SpaceNews]** U.S. Space Force official warns of rising Chinese threats
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 8-14, 2024
 - <a href="https://spacenews.com/nelson-basically-optimistic-about-nasas-future-in-the-next-administration/" >🔗</a> **[SpaceNews]** Nelson “basically optimistic” about NASA’s future in the next administration
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/heliophysics-decadal-survey-recommends-two-flagship-missions-for-nasa/" >🔗</a> **[SpaceNews]** Heliophysics decadal survey recommends two flagship missions for NASA
 - <a href="https://europeanspaceflight.com/italy-begins-development-of-nuclear-reactor-for-lunar-settlements/" >🔗</a> **[European Spaceflight]** Italy Begins Development of Nuclear Reactor for Lunar Settlements
 - <a href="https://spacenews.com/space-foundation-launches-space-path-program-to-help-companies-navigate-the-space-industry/" >🔗</a> **[SpaceNews]** Space Foundation Launches Space Path Program to Help Companies Navigate the Space Industry
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-aim-high-at-nasa-jpl-candy-toss-competition/" >🔗</a> **[NASA]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
-- <a href="https://www.jpl.nasa.gov/news/students-aim-high-at-nasa-jpl-candy-toss-competition" >🔗</a> **[Jet Propulsion Laboratory]** Students Aim High at NASA JPL ‘Candy Toss’ Competition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T090127">2024-12-09 09:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T093423">2024-12-09 09:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
