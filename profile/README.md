@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-is-building-on-orbit-space-situational-awareness-capabilities-to-navigate-crowded-orbits/" >🔗</a> **[SpaceNews]** China is building on-orbit space situational awareness capabilities to navigate crowded orbits
+- <a href="https://www.nasa.gov/general/uncrewed-aircraft-systems-traffic-management-beyond-visual-line-of-sight-utm-bvlos/" >🔗</a> **[NASA]** Uncrewed Aircraft Systems Traffic Management Beyond Visual Line of Sight (UTM BVLOS)
+- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next Generation Space Weather Program
 - <a href="https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/" >🔗</a> **[NASA]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 - <a href="https://www.jpl.nasa.gov/news/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 - <a href="https://www.nasa.gov/solar-system/comets/nasa-researchers-discover-more-dark-comets/" >🔗</a> **[NASA]** NASA Researchers Discover More Dark Comets
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/mary-w-jackson-portrait-revealed/" >🔗</a> **[NASA]** Mary W. Jackson Portrait Revealed
 - <a href="https://www.jpl.nasa.gov/news/nasa-researchers-discover-more-dark-comets" >🔗</a> **[Jet Propulsion Laboratory]** NASA Researchers Discover More Dark Comets
 - <a href="https://spacenews.com/shattered-genesis-spacecraft-yields-scientific-discoveries-20-years-after-crash-landing/" >🔗</a> **[SpaceNews]** Shattered Genesis spacecraft yields scientific discoveries 20 years after crash landing
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/" >🔗</a> **[NASA]** NASA’s Hubble Celebrates Decade of Tracking Outer Planets
-- <a href="https://www.jpl.nasa.gov/news/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award" >🔗</a> **[Jet Propulsion Laboratory]** Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
-- <a href="https://www.nasa.gov/missions/veritas/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award/" >🔗</a> **[NASA]** Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T220133">2024-12-09 22:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T223504">2024-12-09 22:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
