@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/" >🔗</a> **[NASA]** 2024 Be An Astronaut Campaign
+- <a href="https://spacenews.com/congressmen-push-faa-to-accelerate-licensing-process/" >🔗</a> **[SpaceNews]** Congressmen push FAA to accelerate licensing process
 - <a href="https://spacenews.com/america-must-win-the-race-for-space-solar-power-or-buy-it-from-china/" >🔗</a> **[SpaceNews]** America must win the race for space solar power — or buy it from China
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_reveals_Mercury_in_a_new_light" >🔗</a> **[ESA]** BepiColombo reveals Mercury in a new light
 - <a href="https://spacenews.com/genai-operators-and-nerds-the-triad-behind-groundbreaking-space-domain-awareness/" >🔗</a> **[SpaceNews]** “GenAI, Operators, and Nerds”: The Triad Behind Groundbreaking Space Domain Awareness
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/UK_methane_leak_spotted_using_satellites2" >🔗</a> **[ESA]** UK methane leak spotted using satellites
 - <a href="https://spacenews.com/u-s-space-force-official-warns-of-rising-chinese-threats/" >🔗</a> **[SpaceNews]** U.S. Space Force official warns of rising Chinese threats
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-8-14-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 8-14, 2024
-- <a href="https://spacenews.com/nelson-basically-optimistic-about-nasas-future-in-the-next-administration/" >🔗</a> **[SpaceNews]** Nelson “basically optimistic” about NASA’s future in the next administration
-- <a href="https://spacenews.com/ndaa-extends-commercial-spaceflight-learning-period-and-launch-indemnification/" >🔗</a> **[SpaceNews]** NDAA extends commercial spaceflight learning period and launch indemnification
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T160143">2024-12-09 16:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241209T163732">2024-12-09 16:37:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
