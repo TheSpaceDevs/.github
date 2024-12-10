@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/3d-printable-bioreactor-for-deep-space-food-production/" >🔗</a> **[NASA]** 3D Printable Bioreactor for Deep Space Food Production
+- <a href="https://europeanspaceflight.com/french-propulsion-startup-ion-x-secures-e13m-in-new-funding/" >🔗</a> **[European Spaceflight]** French Propulsion Startup ION-X Secures €13M in New Funding
+- <a href="https://spacenews.com/leolabs-expands-space-monitoring-network-with-radar-site-in-arizona/" >🔗</a> **[SpaceNews]** LeoLabs expands space-monitoring network with radar site in Arizona
+- <a href="https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/" >🔗</a> **[Arstechnica]** Intrigue swirls as Blue Origin races toward year-end deadline for New Glenn
+- <a href="https://spacenews.com/vaya-space-announces-multi-launch-contract-for-space-telecommunications-inc-s-satellite-constellation/" >🔗</a> **[SpaceNews]** Vaya Space Announces Multi-Launch Contract for Space Telecommunications, Inc.’s Satellite Constellation
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Swarm_vs._space_radiation_the_first_10_years" >🔗</a> **[ESA]** Swarm vs. space radiation – the first 10 years
 - <a href="https://spacenews.com/desert-works-propulsion-announces-operational-launch-of-dw-1-a-rocket-engine-test-facility/" >🔗</a> **[SpaceNews]** Desert Works Propulsion Announces Operational Launch of DW-1, a Rocket Engine Test Facility
 - <a href="https://spacenews.com/blue-origin-says-first-new-glenn-launch-still-scheduled-for-2024/" >🔗</a> **[SpaceNews]** Blue Origin says first New Glenn launch still scheduled for 2024
 - <a href="https://spacenews.com/atmos-space-cargo-appoints-garver-as-strategic-adviser/" >🔗</a> **[SpaceNews]** Atmos Space Cargo appoints Garver as strategic adviser
 - <a href="https://europeanspaceflight.com/former-nasa-deputy-administrator-lori-garver-joins-atmos/" >🔗</a> **[European Spaceflight]** Former NASA Deputy Administrator Lori Garver Joins ATMOS
-- <a href="https://science.nasa.gov/blog/sols-4386-4388-powers-of-ten/" >🔗</a> **[NASA]** Sols 4386-4388: Powers of Ten
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_captures_first_radar_images" >🔗</a> **[ESA]** Sentinel-1C captures first radar images
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_celebrates_25_years_of_breakthroughs" >🔗</a> **[ESA]** XMM-Newton celebrates 25 years of breakthroughs
-- <a href="https://spacenews.com/lockheed-martin-to-launch-5g-demonstration-on-firefly-rocket/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch 5G demonstration on Firefly rocket
-- <a href="https://www.jpl.nasa.gov/news/nasa-eyes-launching-spherex-sky-mapping-mission-in-early-2025" >🔗</a> **[Jet Propulsion Laboratory]** NASA Eyes Launching SPHEREx Sky-Mapping Mission in Early 2025
-- <a href="https://spacenews.com/swri-to-build-magnetometers-for-noaa-weather-satellites/" >🔗</a> **[SpaceNews]** SwRI to build magnetometers for NOAA weather satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T140133">2024-12-10 14:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T143533">2024-12-10 14:35:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
