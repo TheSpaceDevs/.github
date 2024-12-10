@@ -105,12 +105,13 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kairos set for second launch attempt, Falcon 9 to launch 03b and GPS missions
 - <a href="https://www.nasaspaceflight.com/2024/09/launch-roundup-090924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Polaris Dawn, ISS crewed launch headline busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T080142">2024-12-10 08:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T083642">2024-12-10 08:36:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
