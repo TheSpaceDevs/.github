@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/" >🔗</a> **[NASA]** NASA Moves Drone Package Delivery Industry Closer to Reality
+- <a href="https://spacenews.com/domino-e-whitepaper-new-business-opportunities-in-airbus-new-constellation-for-earth-observation/" >🔗</a> **[SpaceNews]** DOMINO-E Whitepaper: New Business Opportunities in Airbus’ New Constellation for Earth Observation
+- <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloon-flights-to-lift-off-from-antarctica/" >🔗</a> **[NASA]** NASA Scientific Balloon Flights to Lift Off From Antarctica
+- <a href="https://spacenews.com/at-five-years-space-force-reflects-on-growth-challenges-and-the-road-ahead/" >🔗</a> **[SpaceNews]** At five years, Space Force reflects on growth, challenges and the road ahead
 - <a href="https://www.nasa.gov/news-release/nasa-to-discuss-fireflys-first-robotic-artemis-moon-flight/" >🔗</a> **[NASA]** NASA to Discuss Firefly’s First Robotic Artemis Moon Flight
 - <a href="https://www.nasa.gov/image-article/vacuum-testing-complete-on-artemis-ii-orion-spacecraft/" >🔗</a> **[NASA]** Vacuum Testing Complete on Artemis II Orion Spacecraft
 - <a href="https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/" >🔗</a> **[NASA]** NASA Invites Social Creators for Launch of Two NASA Astrophysical Missions
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/" >🔗</a> **[NASA]** Discovery Alert: A Planet with a ‘Tail’
 - <a href="https://spacenews.com/don-claussen-st-engineering-idirect-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Don Claussen, ST Engineering iDirect – Commercial Space Transformers
 - <a href="https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/" >🔗</a> **[NASA]** Scientists Share Early Results from NASA’s Solar Eclipse Experiments
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-space-technology-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Space Technology Payload Challenge
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/3d-printable-bioreactor-for-deep-space-food-production/" >🔗</a> **[NASA]** 3D Printable Bioreactor for Deep Space Food Production
-- <a href="https://europeanspaceflight.com/french-propulsion-startup-ion-x-secures-e13m-in-new-funding/" >🔗</a> **[European Spaceflight]** French Propulsion Startup ION-X Secures €13M in New Funding
-- <a href="https://spacenews.com/leolabs-expands-space-monitoring-network-with-radar-site-in-arizona/" >🔗</a> **[SpaceNews]** LeoLabs expands space-monitoring network with radar site in Arizona
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T190121">2024-12-10 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T193111">2024-12-10 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
