@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atmos-space-cargo-appoints-garver-as-strategic-adviser/" >🔗</a> **[SpaceNews]** Atmos Space Cargo appoints Garver as strategic adviser
 - <a href="https://europeanspaceflight.com/former-nasa-deputy-administrator-lori-garver-joins-atmos/" >🔗</a> **[European Spaceflight]** Former NASA Deputy Administrator Lori Garver Joins ATMOS
 - <a href="https://science.nasa.gov/blog/sols-4386-4388-powers-of-ten/" >🔗</a> **[NASA]** Sols 4386-4388: Powers of Ten
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_celebrates_25_years_of_breakthroughs" >🔗</a> **[ESA]** XMM-Newton celebrates 25 years of breakthroughs
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/dlr-awards-multiyear-contract-to-constellr/" >🔗</a> **[SpaceNews]** DLR awards multiyear contract to constellr
 - <a href="https://spacenews.com/ast-spacemobile-locks-in-10-year-vodafone-commercial-agreement/" >🔗</a> **[SpaceNews]** AST SpaceMobile locks in 10-year Vodafone commercial agreement
 - <a href="https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/" >🔗</a> **[NASA]** 30 Years Ago: NASA Selects its 15th Group of Astronauts
-- <a href="https://spacenews.com/china-is-building-on-orbit-space-situational-awareness-capabilities-to-navigate-crowded-orbits/" >🔗</a> **[SpaceNews]** China is building on-orbit space situational awareness capabilities to navigate crowded orbits
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T113125">2024-12-10 11:31:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T120144">2024-12-10 12:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
