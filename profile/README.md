@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-to-launch-5g-demonstration-on-firefly-rocket/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch 5G demonstration on Firefly rocket
+- <a href="https://www.jpl.nasa.gov/news/nasa-eyes-launching-spherex-sky-mapping-mission-in-early-2025" >🔗</a> **[Jet Propulsion Laboratory]** NASA Eyes Launching SPHEREx Sky-Mapping Mission in Early 2025
 - <a href="https://spacenews.com/swri-to-build-magnetometers-for-noaa-weather-satellites/" >🔗</a> **[SpaceNews]** SwRI to build magnetometers for NOAA weather satellites
 - <a href="https://spacenews.com/dlr-awards-multiyear-contract-to-constellr/" >🔗</a> **[SpaceNews]** DLR awards multiyear contract to constellr
 - <a href="https://spacenews.com/ast-spacemobile-locks-in-10-year-vodafone-commercial-agreement/" >🔗</a> **[SpaceNews]** AST SpaceMobile locks in 10-year Vodafone commercial agreement
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Cold Moon
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kairos set for second launch attempt, Falcon 9 to launch 03b and GPS missions
 - <a href="https://www.nasa.gov/general/uncrewed-aircraft-systems-traffic-management-beyond-visual-line-of-sight-utm-bvlos/" >🔗</a> **[NASA]** Uncrewed Aircraft Systems Traffic Management Beyond Visual Line of Sight (UTM BVLOS)
-- <a href="https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-next-generation-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Contract for NOAA’s Next Generation Space Weather Program
-- <a href="https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/" >🔗</a> **[NASA]** NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T000444">2024-12-10 00:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T004554">2024-12-10 00:45:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
