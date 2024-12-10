@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/former-nasa-deputy-administrator-lori-garver-joins-atmos/" >🔗</a> **[European Spaceflight]** Former NASA Deputy Administrator Lori Garver Joins ATMOS
+- <a href="https://science.nasa.gov/blog/sols-4386-4388-powers-of-ten/" >🔗</a> **[NASA]** Sols 4386-4388: Powers of Ten
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_celebrates_25_years_of_breakthroughs" >🔗</a> **[ESA]** XMM-Newton celebrates 25 years of breakthroughs
 - <a href="https://spacenews.com/lockheed-martin-to-launch-5g-demonstration-on-firefly-rocket/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch 5G demonstration on Firefly rocket
 - <a href="https://www.jpl.nasa.gov/news/nasa-eyes-launching-spherex-sky-mapping-mission-in-early-2025" >🔗</a> **[Jet Propulsion Laboratory]** NASA Eyes Launching SPHEREx Sky-Mapping Mission in Early 2025
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ast-spacemobile-locks-in-10-year-vodafone-commercial-agreement/" >🔗</a> **[SpaceNews]** AST SpaceMobile locks in 10-year Vodafone commercial agreement
 - <a href="https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/" >🔗</a> **[NASA]** 30 Years Ago: NASA Selects its 15th Group of Astronauts
 - <a href="https://spacenews.com/china-is-building-on-orbit-space-situational-awareness-capabilities-to-navigate-crowded-orbits/" >🔗</a> **[SpaceNews]** China is building on-orbit space situational awareness capabilities to navigate crowded orbits
-- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Cold Moon
-- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kairos set for second launch attempt, Falcon 9 to launch 03b and GPS missions
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T110123">2024-12-10 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T113125">2024-12-10 11:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
