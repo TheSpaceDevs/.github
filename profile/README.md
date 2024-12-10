@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelsat-33e-demise-exposes-vulnerabilities-in-the-space-domain/" >🔗</a> **[SpaceNews]** Intelsat 33e demise exposes vulnerabilities in the space domain
 - <a href="https://www.nasa.gov/news-release/space-meets-sound-nasa-lands-in-2024-spotify-wrapped/" >🔗</a> **[NASA]** Space Meets Sound: NASA Lands in 2024 Spotify Wrapped
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-ohara-and-moghbeli-explore-earth-data/" >🔗</a> **[NASA]** NASA Astronauts O’Hara and Moghbeli Explore Earth Data
 - <a href="https://spacenews.com/spacecom-column-the-promise-and-peril-of-jared-isaacman/" >🔗</a> **[SpaceNews]** SpaceCom Column: The Promise and Peril of Jared Isaacman
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/black-hole-jet-stumbles-into-something-in-the-dark/" >🔗</a> **[NASA]** Black Hole Jet Stumbles Into Something in the Dark
 - <a href="https://www.nasa.gov/missions/helios-1/50-years-ago-launch-of-helios-1-to-explore-the-sun/" >🔗</a> **[NASA]** 50 Years Ago: Launch of Helios 1 to Explore the Sun
 - <a href="https://spacenews.com/ion-x-raises-13-million-euros-to-produce-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Ion-X raises 13 million euros to produce electrospray thrusters
-- <a href="https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/" >🔗</a> **[NASA]** NASA Moves Drone Package Delivery Industry Closer to Reality
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T220129">2024-12-10 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T223446">2024-12-10 22:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
