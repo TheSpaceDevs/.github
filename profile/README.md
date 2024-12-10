@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_celebrates_25_years_of_breakthroughs" >🔗</a> **[ESA]** XMM-Newton celebrates 25 years of breakthroughs
 - <a href="https://spacenews.com/lockheed-martin-to-launch-5g-demonstration-on-firefly-rocket/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch 5G demonstration on Firefly rocket
 - <a href="https://www.jpl.nasa.gov/news/nasa-eyes-launching-spherex-sky-mapping-mission-in-early-2025" >🔗</a> **[Jet Propulsion Laboratory]** NASA Eyes Launching SPHEREx Sky-Mapping Mission in Early 2025
 - <a href="https://spacenews.com/swri-to-build-magnetometers-for-noaa-weather-satellites/" >🔗</a> **[SpaceNews]** SwRI to build magnetometers for NOAA weather satellites
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-is-building-on-orbit-space-situational-awareness-capabilities-to-navigate-crowded-orbits/" >🔗</a> **[SpaceNews]** China is building on-orbit space situational awareness capabilities to navigate crowded orbits
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Cold Moon
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kairos set for second launch attempt, Falcon 9 to launch 03b and GPS missions
-- <a href="https://www.nasa.gov/general/uncrewed-aircraft-systems-traffic-management-beyond-visual-line-of-sight-utm-bvlos/" >🔗</a> **[NASA]** Uncrewed Aircraft Systems Traffic Management Beyond Visual Line of Sight (UTM BVLOS)
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T090131">2024-12-10 09:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T093412">2024-12-10 09:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
