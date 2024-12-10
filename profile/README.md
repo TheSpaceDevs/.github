@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-discuss-fireflys-first-robotic-artemis-moon-flight/" >🔗</a> **[NASA]** NASA to Discuss Firefly’s First Robotic Artemis Moon Flight
+- <a href="https://www.nasa.gov/image-article/vacuum-testing-complete-on-artemis-ii-orion-spacecraft/" >🔗</a> **[NASA]** Vacuum Testing Complete on Artemis II Orion Spacecraft
+- <a href="https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/" >🔗</a> **[NASA]** NASA Invites Social Creators for Launch of Two NASA Astrophysical Missions
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/" >🔗</a> **[NASA]** Discovery Alert: A Planet with a ‘Tail’
 - <a href="https://spacenews.com/don-claussen-st-engineering-idirect-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Don Claussen, ST Engineering iDirect – Commercial Space Transformers
 - <a href="https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/" >🔗</a> **[NASA]** Scientists Share Early Results from NASA’s Solar Eclipse Experiments
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-space-technology-payload-challenge/" >🔗</a> **[NASA]** NASA TechLeap Prize: Space Technology Payload Challenge
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/3d-printable-bioreactor-for-deep-space-food-production/" >🔗</a> **[NASA]** 3D Printable Bioreactor for Deep Space Food Production
 - <a href="https://europeanspaceflight.com/french-propulsion-startup-ion-x-secures-e13m-in-new-funding/" >🔗</a> **[European Spaceflight]** French Propulsion Startup ION-X Secures €13M in New Funding
 - <a href="https://spacenews.com/leolabs-expands-space-monitoring-network-with-radar-site-in-arizona/" >🔗</a> **[SpaceNews]** LeoLabs expands space-monitoring network with radar site in Arizona
-- <a href="https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/" >🔗</a> **[Arstechnica]** Intrigue swirls as Blue Origin races toward year-end deadline for New Glenn
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Vega-C_liftoff_and_return-to-flight" >🔗</a> **[ESA]** Vega-C liftoff and return-to-flight
-- <a href="https://spacenews.com/vaya-space-announces-multi-launch-contract-for-space-telecommunications-inc-s-satellite-constellation/" >🔗</a> **[SpaceNews]** Vaya Space Announces Multi-Launch Contract for Space Telecommunications, Inc.’s Satellite Constellation
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Swarm_vs._space_radiation_the_first_10_years" >🔗</a> **[ESA]** Swarm vs. space radiation – the first 10 years
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T180145">2024-12-10 18:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T183800">2024-12-10 18:38:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
