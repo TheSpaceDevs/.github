@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/desert-works-propulsion-announces-operational-launch-of-dw-1-a-rocket-engine-test-facility/" >🔗</a> **[SpaceNews]** Desert Works Propulsion Announces Operational Launch of DW-1, a Rocket Engine Test Facility
 - <a href="https://spacenews.com/blue-origin-says-first-new-glenn-launch-still-scheduled-for-2024/" >🔗</a> **[SpaceNews]** Blue Origin says first New Glenn launch still scheduled for 2024
 - <a href="https://spacenews.com/atmos-space-cargo-appoints-garver-as-strategic-adviser/" >🔗</a> **[SpaceNews]** Atmos Space Cargo appoints Garver as strategic adviser
 - <a href="https://europeanspaceflight.com/former-nasa-deputy-administrator-lori-garver-joins-atmos/" >🔗</a> **[European Spaceflight]** Former NASA Deputy Administrator Lori Garver Joins ATMOS
 - <a href="https://science.nasa.gov/blog/sols-4386-4388-powers-of-ten/" >🔗</a> **[NASA]** Sols 4386-4388: Powers of Ten
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_captures_first_radar_images" >🔗</a> **[ESA]** Sentinel-1C captures first radar images
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_celebrates_25_years_of_breakthroughs" >🔗</a> **[ESA]** XMM-Newton celebrates 25 years of breakthroughs
 - <a href="https://spacenews.com/lockheed-martin-to-launch-5g-demonstration-on-firefly-rocket/" >🔗</a> **[SpaceNews]** Lockheed Martin to launch 5G demonstration on Firefly rocket
 - <a href="https://www.jpl.nasa.gov/news/nasa-eyes-launching-spherex-sky-mapping-mission-in-early-2025" >🔗</a> **[Jet Propulsion Laboratory]** NASA Eyes Launching SPHEREx Sky-Mapping Mission in Early 2025
 - <a href="https://spacenews.com/swri-to-build-magnetometers-for-noaa-weather-satellites/" >🔗</a> **[SpaceNews]** SwRI to build magnetometers for NOAA weather satellites
-- <a href="https://spacenews.com/dlr-awards-multiyear-contract-to-constellr/" >🔗</a> **[SpaceNews]** DLR awards multiyear contract to constellr
-- <a href="https://spacenews.com/ast-spacemobile-locks-in-10-year-vodafone-commercial-agreement/" >🔗</a> **[SpaceNews]** AST SpaceMobile locks in 10-year Vodafone commercial agreement
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T130850">2024-12-10 13:08:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T133722">2024-12-10 13:37:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
