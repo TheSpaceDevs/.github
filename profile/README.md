@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/black-hole-jet-stumbles-into-something-in-the-dark/" >🔗</a> **[NASA]** Black Hole Jet Stumbles Into Something in the Dark
+- <a href="https://www.nasa.gov/missions/helios-1/50-years-ago-launch-of-helios-1-to-explore-the-sun/" >🔗</a> **[NASA]** 50 Years Ago: Launch of Helios 1 to Explore the Sun
 - <a href="https://spacenews.com/ion-x-raises-13-million-euros-to-produce-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Ion-X raises 13 million euros to produce electrospray thrusters
 - <a href="https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/" >🔗</a> **[NASA]** NASA Moves Drone Package Delivery Industry Closer to Reality
 - <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloon-flights-to-lift-off-from-antarctica/" >🔗</a> **[NASA]** NASA Scientific Balloon Flights to Lift Off From Antarctica
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-to-discuss-fireflys-first-robotic-artemis-moon-flight/" >🔗</a> **[NASA]** NASA to Discuss Firefly’s First Robotic Artemis Moon Flight
 - <a href="https://www.nasa.gov/image-article/vacuum-testing-complete-on-artemis-ii-orion-spacecraft/" >🔗</a> **[NASA]** Vacuum Testing Complete on Artemis II Orion Spacecraft
 - <a href="https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/" >🔗</a> **[NASA]** NASA Invites Social Creators for Launch of Two NASA Astrophysical Missions
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/" >🔗</a> **[NASA]** Discovery Alert: A Planet with a ‘Tail’
-- <a href="https://spacenews.com/don-claussen-st-engineering-idirect-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Don Claussen, ST Engineering iDirect – Commercial Space Transformers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T200140">2024-12-10 20:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T203355">2024-12-10 20:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
