@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.nasa.gov/news-release/acuerdos-de-artemis-alcanzan-50-signatarios-con-la-firma-de-panama-y-austria/" >🔗</a> **[NASA]** Acuerdos de Artemis alcanzan 50 signatarios con la firma de Panamá y Austria
+- <a href="https://www.nasa.gov/image-article/ames-engineers-recognized-as-technology-rising-stars-at-women-of-color-stem-conference/" >🔗</a> **[NASA]** Ames Engineers Recognized as Technology Rising Stars at Women of Color STEM Conference
+- <a href="https://www.nasa.gov/organizations/otps/artemis-in-motion-listening-sessions/" >🔗</a> **[NASA]** Artemis in Motion Listening Sessions
+- <a href="https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/" >🔗</a> **[NASA]** Artemis Accords Reach 50 Signatories as NASA Welcomes Panama, Austria
 - <a href="https://spacenews.com/fleet-space-raises-100-million-to-advance-mineral-exploration-on-earth-and-beyond/" >🔗</a> **[SpaceNews]** Fleet Space raises $100 million to advance mineral exploration on Earth and beyond
 - <a href="https://spacenews.com/orbite-to-expand-luxury-space-training-with-series-a-funding/" >🔗</a> **[SpaceNews]** Orbite to expand luxury space training with Series A funding
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-goes-vertical/" >🔗</a> **[NASA]** Artemis II Core Stage Goes Vertical
 - <a href="https://spacenews.com/omani-space-company-signs-up-to-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Omani space company signs up to China’s ILRS moon base project
 - <a href="https://www.nasaspaceflight.com/2024/12/new-glenn-hot-fire/" >🔗</a> **[NASASpaceflight]** New Glenn approaches hot fire ahead of debut launch
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/" >🔗</a> **[NASA]** Atmospheric Probe Shows Promise in Test Flight
-- <a href="https://spacenews.com/u-s-space-force-unit-in-europe-navigates-critical-satellite-operations/" >🔗</a> **[SpaceNews]** U.S. Space Force unit in Europe navigates critical satellite operations
-- <a href="https://www.jpl.nasa.gov/news/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100" >🔗</a> **[Jet Propulsion Laboratory]** NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
-- <a href="https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/" >🔗</a> **[Arstechnica]** NASA believes it understands why Ingenuity crashed on Mars
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T220126">2024-12-11 22:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T223516">2024-12-11 22:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
