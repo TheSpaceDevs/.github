@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/ranking-the-25-coolest-things-in-space-so-far-during-the-21st-century/" >🔗</a> **[Arstechnica]** Ranking the 25 coolest things in space so far during the 21st century
 - <a href="https://spacenews.com/china-set-to-launch-first-guowang-megaconstellation-satellites-on-long-march-5b/" >🔗</a> **[SpaceNews]** China set to launch first Guowang megaconstellation satellites on Long March 5B
 - <a href="https://spacenews.com/nasa-sees-progress-in-funding-key-heliophysics-mission/" >🔗</a> **[SpaceNews]** NASA sees progress in funding key heliophysics mission
 - <a href="https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/" >🔗</a> **[SpaceNews]** Geomagnetic storms cause “mass migrations” of satellites
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/intelsat-33e-demise-exposes-vulnerabilities-in-the-space-domain/" >🔗</a> **[SpaceNews]** Intelsat 33e demise exposes vulnerabilities in the space domain
 - <a href="https://www.nasa.gov/news-release/space-meets-sound-nasa-lands-in-2024-spotify-wrapped/" >🔗</a> **[NASA]** Space Meets Sound: NASA Lands in 2024 Spotify Wrapped
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-ohara-and-moghbeli-explore-earth-data/" >🔗</a> **[NASA]** NASA Astronauts O’Hara and Moghbeli Explore Earth Data
-- <a href="https://spacenews.com/spacecom-column-the-promise-and-peril-of-jared-isaacman/" >🔗</a> **[SpaceNews]** SpaceCom Column: The Promise and Peril of Jared Isaacman
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T120142">2024-12-11 12:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T124304">2024-12-11 12:43:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
