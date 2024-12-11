@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-sees-progress-in-funding-key-heliophysics-mission/" >🔗</a> **[SpaceNews]** NASA sees progress in funding key heliophysics mission
 - <a href="https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/" >🔗</a> **[SpaceNews]** Geomagnetic storms cause “mass migrations” of satellites
 - <a href="https://europeanspaceflight.com/cnes-extends-mission-to-identifying-interfering-terrestrial-transmitters/" >🔗</a> **[European Spaceflight]** CNES Extends Mission to Identifying Interfering Terrestrial Transmitters
 - <a href="https://spacenews.com/u-s-and-japan-forge-stronger-space-alliance-to-counter-china/" >🔗</a> **[SpaceNews]** U.S. and Japan forge stronger space alliance to counter China
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-ohara-and-moghbeli-explore-earth-data/" >🔗</a> **[NASA]** NASA Astronauts O’Hara and Moghbeli Explore Earth Data
 - <a href="https://spacenews.com/spacecom-column-the-promise-and-peril-of-jared-isaacman/" >🔗</a> **[SpaceNews]** SpaceCom Column: The Promise and Peril of Jared Isaacman
 - <a href="https://science.nasa.gov/blog/looking-out-for-lookout-hill/" >🔗</a> **[NASA]** Looking Out for ‘Lookout Hill’
-- <a href="https://www.nasa.gov/organizations/ocio/dt/december-2024-transformer-of-the-month-jill-marlowe/" >🔗</a> **[NASA]** December 2024 Transformer of the Month: Jill Marlowe
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T100134">2024-12-11 10:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T103620">2024-12-11 10:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
