@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-completes-key-testing-milestone-for-mission-possible/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Key Testing Milestone for Mission Possible
+- <a href="https://spacenews.com/space-data-centers-will-connect-us-faster-and-more-sustainably-than-ever-before/" >🔗</a> **[SpaceNews]** Space data centers will connect us faster and more sustainably than ever before
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/AI-powered_satellite_data_reveals_clouds_in_3D" >🔗</a> **[ESA]** AI-powered satellite data reveals clouds in 3D
 - <a href="https://spacenews.com/maxar-partners-with-satellogic-to-enhance-monitoring-for-defense-agencies/" >🔗</a> **[SpaceNews]** Maxar partners with Satellogic to enhance monitoring for defense agencies
 - <a href="https://spacenews.com/executives-urge-closer-integration-of-commercial-and-military-tech/" >🔗</a> **[SpaceNews]** Executives urge closer integration of commercial and military tech
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Space_elf_on_the_shelf" >🔗</a> **[ESA]** Space elf on the shelf
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-set-to-launch-first-guowang-megaconstellation-satellites-on-long-march-5b/" >🔗</a> **[SpaceNews]** China set to launch first Guowang megaconstellation satellites on Long March 5B
 - <a href="https://spacenews.com/nasa-sees-progress-in-funding-key-heliophysics-mission/" >🔗</a> **[SpaceNews]** NASA sees progress in funding key heliophysics mission
 - <a href="https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/" >🔗</a> **[SpaceNews]** Geomagnetic storms cause “mass migrations” of satellites
-- <a href="https://europeanspaceflight.com/cnes-extends-mission-to-identifying-interfering-terrestrial-transmitters/" >🔗</a> **[European Spaceflight]** CNES Extends Mission to Identifying Interfering Terrestrial Transmitters
-- <a href="https://spacenews.com/u-s-and-japan-forge-stronger-space-alliance-to-counter-china/" >🔗</a> **[SpaceNews]** U.S. and Japan forge stronger space alliance to counter China
-- <a href="https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 33 prepares for engine testing, Booster 14 Completes Static Fire
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T140132">2024-12-11 14:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T143517">2024-12-11 14:35:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
