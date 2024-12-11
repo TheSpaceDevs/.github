@@ -92,6 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-goes-vertical/" >🔗</a> **[NASA]** Artemis II Core Stage Goes Vertical
+- <a href="https://spacenews.com/omani-space-company-signs-up-to-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Omani space company signs up to China’s ILRS moon base project
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/" >🔗</a> **[NASA]** Atmospheric Probe Shows Promise in Test Flight
 - <a href="https://spacenews.com/u-s-space-force-unit-in-europe-navigates-critical-satellite-operations/" >🔗</a> **[SpaceNews]** U.S. Space Force unit in Europe navigates critical satellite operations
 - <a href="https://www.jpl.nasa.gov/news/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100" >🔗</a> **[Jet Propulsion Laboratory]** NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/" >🔗</a> **[NASA]** NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 - <a href="https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/" >🔗</a> **[NASA]** NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 - <a href="https://science.nasa.gov/earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/" >🔗</a> **[NASA]** NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
-- <a href="https://www.nasa.gov/image-article/science-photo-album-showcases-space-station-research-in-2024/" >🔗</a> **[NASA]** Science Photo Album Showcases Space Station Research in 2024
-- <a href="https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/" >🔗</a> **[NASA]** They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T193106">2024-12-11 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T200139">2024-12-11 20:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
