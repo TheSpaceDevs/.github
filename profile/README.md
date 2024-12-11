@@ -92,6 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.nasa.gov/image-article/science-photo-album-showcases-space-station-research-in-2024/" >🔗</a> **[NASA]** Science Photo Album Showcases Space Station Research in 2024
+- <a href="https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/" >🔗</a> **[NASA]** They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 - <a href="https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/" >🔗</a> **[NASA]** Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Paxi_explores_ice" >🔗</a> **[ESA]** Paxi explores ice
 - <a href="https://www.nasa.gov/general/gsfc-data-science-group-releases-innovative-foundation-model-satvision-top-of-atmosphere-toa/" >🔗</a> **[NASA]** GSFC Data Science Group Releases Innovative Foundation Model: SatVision Top-Of-Atmosphere (TOA)
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/" >🔗</a> **[NASA]** NASA Performs First Aircraft Accident Investigation on Another World
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-key-testing-milestone-for-mission-possible/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Key Testing Milestone for Mission Possible
 - <a href="https://spacenews.com/space-data-centers-will-connect-us-faster-and-more-sustainably-than-ever-before/" >🔗</a> **[SpaceNews]** Space data centers will connect us faster and more sustainably than ever before
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/AI-powered_satellite_data_reveals_clouds_in_3D" >🔗</a> **[ESA]** AI-powered satellite data reveals clouds in 3D
-- <a href="https://spacenews.com/maxar-partners-with-satellogic-to-enhance-monitoring-for-defense-agencies/" >🔗</a> **[SpaceNews]** Maxar partners with Satellogic to enhance monitoring for defense agencies
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T170120">2024-12-11 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T173358">2024-12-11 17:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
