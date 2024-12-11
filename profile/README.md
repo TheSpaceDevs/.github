@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://spacepolicyonline.com/news/artemis-accords-reach-50-with-panama-and-austria/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach 50 with Panama and Austria
+- <a href="https://science.nasa.gov/blog/sols-4389-4390-a-wealth-of-ripples-nodules-and-veins/" >🔗</a> **[NASA]** Sols 4389-4390: A Wealth of Ripples, Nodules and Veins
+- <a href="https://spacenews.com/jared-isaacman-on-u-s-space-competitiveness-we-cant-be-second/" >🔗</a> **[SpaceNews]** Jared Isaacman on U.S. space competitiveness: ‘We can’t be second’
 - <a href="https://www.nasa.gov/news-release/acuerdos-de-artemis-alcanzan-50-signatarios-con-la-firma-de-panama-y-austria/" >🔗</a> **[NASA]** Acuerdos de Artemis alcanzan 50 signatarios con la firma de Panamá y Austria
 - <a href="https://www.nasa.gov/image-article/ames-engineers-recognized-as-technology-rising-stars-at-women-of-color-stem-conference/" >🔗</a> **[NASA]** Ames Engineers Recognized as Technology Rising Stars at Women of Color STEM Conference
 - <a href="https://www.nasa.gov/organizations/otps/artemis-in-motion-listening-sessions/" >🔗</a> **[NASA]** Artemis in Motion Listening Sessions
 - <a href="https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/" >🔗</a> **[NASA]** Artemis Accords Reach 50 Signatories as NASA Welcomes Panama, Austria
 - <a href="https://spacenews.com/fleet-space-raises-100-million-to-advance-mineral-exploration-on-earth-and-beyond/" >🔗</a> **[SpaceNews]** Fleet Space raises $100 million to advance mineral exploration on Earth and beyond
 - <a href="https://spacenews.com/orbite-to-expand-luxury-space-training-with-series-a-funding/" >🔗</a> **[SpaceNews]** Orbite to expand luxury space training with Series A funding
-- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-goes-vertical/" >🔗</a> **[NASA]** Artemis II Core Stage Goes Vertical
-- <a href="https://spacenews.com/omani-space-company-signs-up-to-chinas-ilrs-moon-base-project/" >🔗</a> **[SpaceNews]** Omani space company signs up to China’s ILRS moon base project
-- <a href="https://www.nasaspaceflight.com/2024/12/new-glenn-hot-fire/" >🔗</a> **[NASASpaceflight]** New Glenn approaches hot fire ahead of debut launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T230120">2024-12-11 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T233202">2024-12-11 23:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
