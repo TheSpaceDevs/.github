@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geomagnetic-storms-cause-mass-migrations-of-satellites/" >🔗</a> **[SpaceNews]** Geomagnetic storms cause “mass migrations” of satellites
+- <a href="https://europeanspaceflight.com/cnes-extends-mission-to-identifying-interfering-terrestrial-transmitters/" >🔗</a> **[European Spaceflight]** CNES Extends Mission to Identifying Interfering Terrestrial Transmitters
 - <a href="https://spacenews.com/u-s-and-japan-forge-stronger-space-alliance-to-counter-china/" >🔗</a> **[SpaceNews]** U.S. and Japan forge stronger space alliance to counter China
 - <a href="https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 33 prepares for engine testing, Booster 14 Completes Static Fire
 - <a href="https://spacenews.com/intelsat-33e-demise-exposes-vulnerabilities-in-the-space-domain/" >🔗</a> **[SpaceNews]** Intelsat 33e demise exposes vulnerabilities in the space domain
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacecom-column-the-promise-and-peril-of-jared-isaacman/" >🔗</a> **[SpaceNews]** SpaceCom Column: The Promise and Peril of Jared Isaacman
 - <a href="https://science.nasa.gov/blog/looking-out-for-lookout-hill/" >🔗</a> **[NASA]** Looking Out for ‘Lookout Hill’
 - <a href="https://www.nasa.gov/organizations/ocio/dt/december-2024-transformer-of-the-month-jill-marlowe/" >🔗</a> **[NASA]** December 2024 Transformer of the Month: Jill Marlowe
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sarah-peacock-surveys-stellar-radiation-to-hunt-for-habitable-worlds/" >🔗</a> **[NASA]** Sarah Peacock Surveys Stellar Radiation to Hunt for Habitable Worlds
-- <a href="https://www.nasa.gov/image-article/black-hole-jet-stumbles-into-something-in-the-dark/" >🔗</a> **[NASA]** Black Hole Jet Stumbles Into Something in the Dark
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T090128">2024-12-11 09:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T093355">2024-12-11 09:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
