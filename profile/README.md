@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-and-japan-forge-stronger-space-alliance-to-counter-china/" >🔗</a> **[SpaceNews]** U.S. and Japan forge stronger space alliance to counter China
+- <a href="https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 33 prepares for engine testing, Booster 14 Completes Static Fire
 - <a href="https://spacenews.com/intelsat-33e-demise-exposes-vulnerabilities-in-the-space-domain/" >🔗</a> **[SpaceNews]** Intelsat 33e demise exposes vulnerabilities in the space domain
 - <a href="https://www.nasa.gov/news-release/space-meets-sound-nasa-lands-in-2024-spotify-wrapped/" >🔗</a> **[NASA]** Space Meets Sound: NASA Lands in 2024 Spotify Wrapped
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-ohara-and-moghbeli-explore-earth-data/" >🔗</a> **[NASA]** NASA Astronauts O’Hara and Moghbeli Explore Earth Data
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/ocio/dt/december-2024-transformer-of-the-month-jill-marlowe/" >🔗</a> **[NASA]** December 2024 Transformer of the Month: Jill Marlowe
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sarah-peacock-surveys-stellar-radiation-to-hunt-for-habitable-worlds/" >🔗</a> **[NASA]** Sarah Peacock Surveys Stellar Radiation to Hunt for Habitable Worlds
 - <a href="https://www.nasa.gov/image-article/black-hole-jet-stumbles-into-something-in-the-dark/" >🔗</a> **[NASA]** Black Hole Jet Stumbles Into Something in the Dark
-- <a href="https://www.nasa.gov/missions/helios-1/50-years-ago-launch-of-helios-1-to-explore-the-sun/" >🔗</a> **[NASA]** 50 Years Ago: Launch of Helios 1 to Explore the Sun
-- <a href="https://spacenews.com/ion-x-raises-13-million-euros-to-produce-electrospray-thrusters/" >🔗</a> **[SpaceNews]** Ion-X raises 13 million euros to produce electrospray thrusters
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241210T233206">2024-12-10 23:32:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T000432">2024-12-11 00:04:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
