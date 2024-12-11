@@ -92,15 +92,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/" >🔗</a> **[NASA]** Atmospheric Probe Shows Promise in Test Flight
+- <a href="https://spacenews.com/u-s-space-force-unit-in-europe-navigates-critical-satellite-operations/" >🔗</a> **[SpaceNews]** U.S. Space Force unit in Europe navigates critical satellite operations
 - <a href="https://www.jpl.nasa.gov/news/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100" >🔗</a> **[Jet Propulsion Laboratory]** NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 - <a href="https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/" >🔗</a> **[Arstechnica]** NASA believes it understands why Ingenuity crashed on Mars
 - <a href="https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/" >🔗</a> **[NASA]** NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
+- <a href="https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/" >🔗</a> **[NASA]** NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 - <a href="https://science.nasa.gov/earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/" >🔗</a> **[NASA]** NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 - <a href="https://www.nasa.gov/image-article/science-photo-album-showcases-space-station-research-in-2024/" >🔗</a> **[NASA]** Science Photo Album Showcases Space Station Research in 2024
 - <a href="https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/" >🔗</a> **[NASA]** They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
-- <a href="https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/" >🔗</a> **[NASA]** Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Paxi_explores_ice" >🔗</a> **[ESA]** Paxi explores ice
-- <a href="https://www.nasa.gov/general/gsfc-data-science-group-releases-innovative-foundation-model-satvision-top-of-atmosphere-toa/" >🔗</a> **[NASA]** GSFC Data Science Group Releases Innovative Foundation Model: SatVision Top-Of-Atmosphere (TOA)
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T190119">2024-12-11 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241211T193106">2024-12-11 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
