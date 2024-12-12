@@ -92,12 +92,12 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_to_support_Indian_human_spaceflight_missions" >🔗</a> **[ESA]** ESA to support Indian human spaceflight missions
 - <a href="https://europeanspaceflight.com/third-times-the-charm-esa-once-again-publishes-60t-rocket-study-call/" >🔗</a> **[European Spaceflight]** Third Time’s the Charm? ESA Once Again Publishes 60T Rocket Study Call
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2025 NDAA
 - <a href="https://spacepolicyonline.com/news/artemis-accords-reach-50-with-panama-and-austria/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach 50 with Panama and Austria
 - <a href="https://science.nasa.gov/blog/sols-4389-4390-a-wealth-of-ripples-nodules-and-veins/" >🔗</a> **[NASA]** Sols 4389-4390: A Wealth of Ripples, Nodules and Veins
 - <a href="https://spacenews.com/jared-isaacman-on-u-s-space-competitiveness-we-cant-be-second/" >🔗</a> **[SpaceNews]** Jared Isaacman on U.S. space competitiveness: ‘We can’t be second’
-- <a href="https://www.nasa.gov/news-release/acuerdos-de-artemis-alcanzan-50-signatarios-con-la-firma-de-panama-y-austria/" >🔗</a> **[NASA]** Acuerdos de Artemis alcanzan 50 signatarios con la firma de Panamá y Austria
 - <a href="https://www.nasa.gov/image-article/ames-engineers-recognized-as-technology-rising-stars-at-women-of-color-stem-conference/" >🔗</a> **[NASA]** Ames Engineers Recognized as Technology Rising Stars at Women of Color STEM Conference
 - <a href="https://www.nasa.gov/organizations/otps/artemis-in-motion-listening-sessions/" >🔗</a> **[NASA]** Artemis in Motion Listening Sessions
 - <a href="https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/" >🔗</a> **[NASA]** Artemis Accords Reach 50 Signatories as NASA Welcomes Panama, Austria
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T080137">2024-12-12 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T083627">2024-12-12 08:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
