@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://spacenews.com/cofactr-raises-money-to-enhance-supply-chain-and-logistics-platform/" >🔗</a> **[SpaceNews]** Cofactr raises money to enhance supply chain and logistics platform
 - <a href="https://spacenews.com/companies-seek-more-support-for-space-forces-commercial-reserve-initiative/" >🔗</a> **[SpaceNews]** Companies seek more support for Space Force’s commercial reserve initiative
 - <a href="https://spaceflightnow.com/2024/12/12/jared-isaacman-makes-first-public-remarks-since-nomination-for-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes first public remarks since nomination for NASA Administrator
 - <a href="https://spacenews.com/jpl-completes-investigation-of-ingenuitys-final-flight/" >🔗</a> **[SpaceNews]** JPL completes investigation of Ingenuity’s final flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_to_support_Indian_human_spaceflight_missions" >🔗</a> **[ESA]** ESA to support Indian human spaceflight missions
 - <a href="https://europeanspaceflight.com/third-times-the-charm-esa-once-again-publishes-60t-rocket-study-call/" >🔗</a> **[European Spaceflight]** Third Time’s the Charm? ESA Once Again Publishes 60T Rocket Study Call
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2025 NDAA
-- <a href="https://spacepolicyonline.com/news/artemis-accords-reach-50-with-panama-and-austria/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach 50 with Panama and Austria
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T130825">2024-12-12 13:08:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T133657">2024-12-12 13:36:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
