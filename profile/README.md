@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-increases-reliance-on-commercial-industry-for-space-intelligence/" >🔗</a> **[SpaceNews]** U.S. military increases reliance on commercial industry for space intelligence
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/" >🔗</a> **[NASA]** NASA Gives The World a Brake
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/key-considerations-when-developing-avionics-for-safety-critical-systems/" >🔗</a> **[NASA]** Key Considerations When Developing Avionics for Safety-Critical Systems
-- <a href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/" >🔗</a> **[NASA]** 6DOF Check Cases
 - <a href="https://science.nasa.gov/blog/sols-4391-4392-rounding-the-bend/" >🔗</a> **[NASA]** Sols 4391-4392: Rounding the Bend
 - <a href="https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/" >🔗</a> **[NASA]** Helium Conservation by Diffusion Limited Purging of Liquid Hydrogen Tanks
 - <a href="https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/" >🔗</a> **[Arstechnica]** Belarus claims to have developed a Starlink analog for its troops
-- <a href="https://www.nasa.gov/general/considerations-for-using-autonomous-flight-termination-softwarein-crewed-launch-vehicles/" >🔗</a> **[NASA]** Considerations for Using Autonomous Flight Termination Softwarein Crewed Launch Vehicles
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T170126">2024-12-12 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T173406">2024-12-12 17:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
