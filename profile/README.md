@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T193300">2024-12-12 19:33:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T191000">2024-12-13 19:10:00 UTC</a>.  Until
 then, this pad will have been used for 170
 out of 782 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T193300">2024-12-12 19:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241212T193300Z%2F20241212T233300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T191000">2024-12-13 19:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241213T191000Z%2F20241213T231000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T004500">2024-12-14 00:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Stonehenge&location=Wallops Flight Facility, Virginia, USA&dates=20241214T004500Z%2F20241214T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Stonehenge** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T010400">2024-12-14 01:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV10&location=Cape Canaveral SFS, FL, USA&dates=20241214T010400Z%2F20241214T010400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T020000">2024-12-14 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 2&location=Spaceport Kii, Japan&dates=20241214T020000Z%2F20241214T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 2** from Spaceport Kii, Japan.
@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/" >🔗</a> **[NASA]** NASA Successfully Integrates Roman Mission’s Telescope, Instruments
+- <a href="https://spacenews.com/l3harris-ramps-up-satellite-production-in-response-to-military-demand/" >🔗</a> **[SpaceNews]** L3Harris ramps up satellite production in response to military demand
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Smile_s_other_half_arrives_Let_s_Smile_action_snippet" >🔗</a> **[ESA]** Smile's other half arrives | Let’s Smile (action snippet)
 - <a href="https://spacenews.com/cofactr-raises-money-to-enhance-supply-chain-and-logistics-platform/" >🔗</a> **[SpaceNews]** Cofactr raises money to enhance supply chain and logistics platform
 - <a href="https://spacenews.com/companies-seek-more-support-for-space-forces-commercial-reserve-initiative/" >🔗</a> **[SpaceNews]** Companies seek more support for Space Force’s commercial reserve initiative
 - <a href="https://spaceflightnow.com/2024/12/12/jared-isaacman-makes-first-public-remarks-since-nomination-for-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes first public remarks since nomination for NASA Administrator
 - <a href="https://spacenews.com/jpl-completes-investigation-of-ingenuitys-final-flight/" >🔗</a> **[SpaceNews]** JPL completes investigation of Ingenuity’s final flight
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Pathfinder_activity_to_pave_the_way_for_European_very_heavy_reusable_rocket" >🔗</a> **[ESA]** Pathfinder activity to pave the way for European very heavy reusable rocket
 - <a href="https://spacenews.com/artemis-accords-reach-50-signatories-with-panama-and-austria/" >🔗</a> **[SpaceNews]** Artemis Accords reach 50 signatories with Panama and Austria
-- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_to_support_Indian_human_spaceflight_missions" >🔗</a> **[ESA]** ESA to support Indian human spaceflight missions
-- <a href="https://europeanspaceflight.com/third-times-the-charm-esa-once-again-publishes-60t-rocket-study-call/" >🔗</a> **[European Spaceflight]** Third Time’s the Charm? ESA Once Again Publishes 60T Rocket Study Call
-- <a href="https://spacepolicyonline.com/news/house-passes-final-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2025 NDAA
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T150126">2024-12-12 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T153425">2024-12-12 15:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
