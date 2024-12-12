@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/" >🔗</a> **[NASA]** NASA Kennedy Top 24 Stories of 2024
 - <a href="https://spacenews.com/locus-lock-to-expand-gnss-receiver-production-with-new-funding/" >🔗</a> **[SpaceNews]** Locus Lock to expand GNSS receiver production with new funding
 - <a href="https://spacenews.com/u-s-military-increases-reliance-on-commercial-industry-for-space-intelligence/" >🔗</a> **[SpaceNews]** U.S. military increases reliance on commercial industry for space intelligence
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
 - <a href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/" >🔗</a> **[NASA]** 6DOF Check Cases
-- <a href="https://science.nasa.gov/blog/sols-4391-4392-rounding-the-bend/" >🔗</a> **[NASA]** Sols 4391-4392: Rounding the Bend
-- <a href="https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/" >🔗</a> **[NASA]** Helium Conservation by Diffusion Limited Purging of Liquid Hydrogen Tanks
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T190117">2024-12-12 19:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T193103">2024-12-12 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
