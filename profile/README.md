@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://spacenews.com/companies-seek-more-support-for-space-forces-commercial-reserve-initiative/" >🔗</a> **[SpaceNews]** Companies seek more support for Space Force’s commercial reserve initiative
 - <a href="https://spaceflightnow.com/2024/12/12/jared-isaacman-makes-first-public-remarks-since-nomination-for-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes first public remarks since nomination for NASA Administrator
 - <a href="https://spacenews.com/jpl-completes-investigation-of-ingenuitys-final-flight/" >🔗</a> **[SpaceNews]** JPL completes investigation of Ingenuity’s final flight
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Pathfinder_activity_to_pave_the_way_for_European_very_heavy_reusable_rocket" >🔗</a> **[ESA]** Pathfinder activity to pave the way for European very heavy reusable rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/third-times-the-charm-esa-once-again-publishes-60t-rocket-study-call/" >🔗</a> **[European Spaceflight]** Third Time’s the Charm? ESA Once Again Publishes 60T Rocket Study Call
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2025 NDAA
 - <a href="https://spacepolicyonline.com/news/artemis-accords-reach-50-with-panama-and-austria/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach 50 with Panama and Austria
-- <a href="https://science.nasa.gov/blog/sols-4389-4390-a-wealth-of-ripples-nodules-and-veins/" >🔗</a> **[NASA]** Sols 4389-4390: A Wealth of Ripples, Nodules and Veins
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T120151">2024-12-12 12:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T124312">2024-12-12 12:43:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
