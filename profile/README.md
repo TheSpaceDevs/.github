@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
+- <a href="https://spacepolicyonline.com/news/house-passes-final-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2025 NDAA
 - <a href="https://spacepolicyonline.com/news/artemis-accords-reach-50-with-panama-and-austria/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach 50 with Panama and Austria
 - <a href="https://science.nasa.gov/blog/sols-4389-4390-a-wealth-of-ripples-nodules-and-veins/" >🔗</a> **[NASA]** Sols 4389-4390: A Wealth of Ripples, Nodules and Veins
 - <a href="https://spacenews.com/jared-isaacman-on-u-s-space-competitiveness-we-cant-be-second/" >🔗</a> **[SpaceNews]** Jared Isaacman on U.S. space competitiveness: ‘We can’t be second’
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/otps/artemis-in-motion-listening-sessions/" >🔗</a> **[NASA]** Artemis in Motion Listening Sessions
 - <a href="https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/" >🔗</a> **[NASA]** Artemis Accords Reach 50 Signatories as NASA Welcomes Panama, Austria
 - <a href="https://spacenews.com/fleet-space-raises-100-million-to-advance-mineral-exploration-on-earth-and-beyond/" >🔗</a> **[SpaceNews]** Fleet Space raises $100 million to advance mineral exploration on Earth and beyond
-- <a href="https://spacenews.com/orbite-to-expand-luxury-space-training-with-series-a-funding/" >🔗</a> **[SpaceNews]** Orbite to expand luxury space training with Series A funding
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T050136">2024-12-12 05:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T053438">2024-12-12 05:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
