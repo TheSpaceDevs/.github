@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/12/cape-flyover-2/" >🔗</a> **[NASASpaceflight]** Starship and other launch site preparations in Florida moving into a higher gear
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/" >🔗</a> **[NASA]** NASA Kennedy Top 24 Stories of 2024
 - <a href="https://spacenews.com/locus-lock-to-expand-gnss-receiver-production-with-new-funding/" >🔗</a> **[SpaceNews]** Locus Lock to expand GNSS receiver production with new funding
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/key-considerations-when-developing-avionics-for-safety-critical-systems/" >🔗</a> **[NASA]** Key Considerations When Developing Avionics for Safety-Critical Systems
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
 - <a href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/" >🔗</a> **[NASA]** 6DOF Check Cases
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T193103">2024-12-12 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T200134">2024-12-12 20:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
