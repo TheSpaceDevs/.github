@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/locus-lock-to-expand-gnss-receiver-production-with-new-funding/" >🔗</a> **[SpaceNews]** Locus Lock to expand GNSS receiver production with new funding
 - <a href="https://spacenews.com/u-s-military-increases-reliance-on-commercial-industry-for-space-intelligence/" >🔗</a> **[SpaceNews]** U.S. military increases reliance on commercial industry for space intelligence
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/" >🔗</a> **[NASA]** NASA Gives The World a Brake
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/" >🔗</a> **[NASA]** 6DOF Check Cases
 - <a href="https://science.nasa.gov/blog/sols-4391-4392-rounding-the-bend/" >🔗</a> **[NASA]** Sols 4391-4392: Rounding the Bend
 - <a href="https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/" >🔗</a> **[NASA]** Helium Conservation by Diffusion Limited Purging of Liquid Hydrogen Tanks
-- <a href="https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/" >🔗</a> **[Arstechnica]** Belarus claims to have developed a Starlink analog for its troops
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T180129">2024-12-12 18:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T183754">2024-12-12 18:37:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
