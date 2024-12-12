@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/" >🔗</a> **[NASA]** NASA Gives The World a Brake
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/key-considerations-when-developing-avionics-for-safety-critical-systems/" >🔗</a> **[NASA]** Key Considerations When Developing Avionics for Safety-Critical Systems
+- <a href="https://www.jpl.nasa.gov/news/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim" >🔗</a> **[Jet Propulsion Laboratory]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_primeval_star-forming_galaxy_that_is_lightweight" >🔗</a> **[ESA]** Webb finds primeval star-forming galaxy that is lightweight
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/" >🔗</a> **[NASA]** NASA Successfully Integrates Roman Mission’s Telescope, Instruments
-- <a href="https://spacenews.com/l3harris-ramps-up-satellite-production-in-response-to-military-demand/" >🔗</a> **[SpaceNews]** L3Harris ramps up satellite production in response to military demand
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Smile_s_other_half_arrives_Let_s_Smile_action_snippet" >🔗</a> **[ESA]** Smile's other half arrives | Let’s Smile (action snippet)
-- <a href="https://spacenews.com/cofactr-raises-money-to-enhance-supply-chain-and-logistics-platform/" >🔗</a> **[SpaceNews]** Cofactr raises money to enhance supply chain and logistics platform
-- <a href="https://spacenews.com/companies-seek-more-support-for-space-forces-commercial-reserve-initiative/" >🔗</a> **[SpaceNews]** Companies seek more support for Space Force’s commercial reserve initiative
-- <a href="https://spaceflightnow.com/2024/12/12/jared-isaacman-makes-first-public-remarks-since-nomination-for-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes first public remarks since nomination for NASA Administrator
-- <a href="https://spacenews.com/jpl-completes-investigation-of-ingenuitys-final-flight/" >🔗</a> **[SpaceNews]** JPL completes investigation of Ingenuity’s final flight
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Pathfinder_activity_to_pave_the_way_for_European_very_heavy_reusable_rocket" >🔗</a> **[ESA]** Pathfinder activity to pave the way for European very heavy reusable rocket
-- <a href="https://spacenews.com/artemis-accords-reach-50-signatories-with-panama-and-austria/" >🔗</a> **[SpaceNews]** Artemis Accords reach 50 signatories with Panama and Austria
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/" >🔗</a> **[NASA]** 6DOF Check Cases
+- <a href="https://science.nasa.gov/blog/sols-4391-4392-rounding-the-bend/" >🔗</a> **[NASA]** Sols 4391-4392: Rounding the Bend
+- <a href="https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/" >🔗</a> **[NASA]** Helium Conservation by Diffusion Limited Purging of Liquid Hydrogen Tanks
+- <a href="https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/" >🔗</a> **[Arstechnica]** Belarus claims to have developed a Starlink analog for its troops
+- <a href="https://www.nasa.gov/general/considerations-for-using-autonomous-flight-termination-softwarein-crewed-launch-vehicles/" >🔗</a> **[NASA]** Considerations for Using Autonomous Flight Termination Softwarein Crewed Launch Vehicles
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T160134">2024-12-12 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241212T163735">2024-12-12 16:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
