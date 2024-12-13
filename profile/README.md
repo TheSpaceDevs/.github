@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-test-modular-satellite-technology-in-upcoming-mission/" >🔗</a> **[SpaceNews]** Space Force to test modular satellite technology in upcoming mission
 - <a href="https://spaceflightnow.com/2024/12/12/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/major-paradigm-shifts-needed-for-nasas-future-mars-exploration-science-program/" >🔗</a> **[SpacePolicyOnline.com]** Major Paradigm Shifts Needed for NASA’s Future Mars Exploration Science Program
 - <a href="https://www.nasaspaceflight.com/2024/12/cape-flyover-2/" >🔗</a> **[NASASpaceflight]** Starship and other launch site preparations in Florida moving into a higher gear
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-military-increases-reliance-on-commercial-industry-for-space-intelligence/" >🔗</a> **[SpaceNews]** U.S. military increases reliance on commercial industry for space intelligence
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/" >🔗</a> **[NASA]** NASA Gives The World a Brake
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/key-considerations-when-developing-avionics-for-safety-critical-systems/" >🔗</a> **[NASA]** Key Considerations When Developing Avionics for Safety-Critical Systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T004550">2024-12-13 00:45:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T012845">2024-12-13 01:28:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
