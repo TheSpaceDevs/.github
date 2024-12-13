@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/atmospheric-probe-takes-flight/" >🔗</a> **[NASA]** Atmospheric Probe Takes Flight
+- <a href="https://www.nasa.gov/image-article/la-nasa-probara-tecnologia-para-medir-las-singulares-ondas-de-choque-del-x-59/" >🔗</a> **[NASA]** La NASA probará tecnología para medir las singulares ondas de choque del X-59
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/" >🔗</a> **[NASA]** NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
 - <a href="https://spacenews.com/mars-next-and-all-of-the-above/" >🔗</a> **[SpaceNews]** Mars Next and “All of the Above”
 - <a href="https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/" >🔗</a> **[NASA]** NASA Outlines Latest Moon to Mars Plans in 2024 Architecture Update
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/" >🔗</a> **[NASA]** Hubble Images a Grand Spiral
 - <a href="https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/" >🔗</a> **[Arstechnica]** Rocket Report: Ukrainian launch firm finds Maine home, Long March-8A debut near
 - <a href="https://spacenews.com/virgin-galactic-signs-agreement-to-study-suborbital-spaceflights-from-italian-spaceport/" >🔗</a> **[SpaceNews]** Virgin Galactic signs agreement to study suborbital spaceflights from Italian spaceport
-- <a href="https://europeanspaceflight.com/hyprspace-achieves-key-milestone-in-baguette-one-rocket-development/" >🔗</a> **[European Spaceflight]** HyPrSpace Achieves Key Milestone in Baguette One Rocket Development
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Jakobshavn_Glacier_Greenland" >🔗</a> **[ESA]** Earth from Space: Jakobshavn Glacier, Greenland
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T193104">2024-12-13 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T200133">2024-12-13 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
