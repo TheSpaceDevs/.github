@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/" >🔗</a> **[Arstechnica]** Rocket Report: Ukrainian launch firm finds Maine home, Long March-8A debut near
 - <a href="https://spacenews.com/virgin-galactic-signs-agreement-to-study-suborbital-spaceflights-from-italian-spaceport/" >🔗</a> **[SpaceNews]** Virgin Galactic signs agreement to study suborbital spaceflights from Italian spaceport
 - <a href="https://europeanspaceflight.com/hyprspace-achieves-key-milestone-in-baguette-one-rocket-development/" >🔗</a> **[European Spaceflight]** HyPrSpace Achieves Key Milestone in Baguette One Rocket Development
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Jakobshavn_Glacier_Greenland" >🔗</a> **[ESA]** Earth from Space: Jakobshavn Glacier, Greenland
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/major-paradigm-shifts-needed-for-nasas-future-mars-exploration-science-program/" >🔗</a> **[SpacePolicyOnline.com]** Major Paradigm Shifts Needed for NASA’s Future Mars Exploration Science Program
 - <a href="https://www.nasaspaceflight.com/2024/12/cape-flyover-2/" >🔗</a> **[NASASpaceflight]** Starship and other launch site preparations in Florida moving into a higher gear
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/" >🔗</a> **[NASA]** NASA Kennedy Top 24 Stories of 2024
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T113101">2024-12-13 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T120156">2024-12-13 12:01:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
