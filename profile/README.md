@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mars-next-and-all-of-the-above/" >🔗</a> **[SpaceNews]** Mars Next and “All of the Above”
+- <a href="https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/" >🔗</a> **[NASA]** NASA Outlines Latest Moon to Mars Plans in 2024 Architecture Update
 - <a href="https://spacenews.com/trumps-second-term-can-achieve-the-bipartisan-goal-of-resilient-satellites/" >🔗</a> **[SpaceNews]** Trump’s second term can achieve the bipartisan goal of resilient satellites
 - <a href="https://spacenews.com/escapade-looking-at-2025-and-2026-launch-options/" >🔗</a> **[SpaceNews]** ESCAPADE looking at 2025 and 2026 launch options
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/" >🔗</a> **[NASA]** Hubble Images a Grand Spiral
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/hyprspace-achieves-key-milestone-in-baguette-one-rocket-development/" >🔗</a> **[European Spaceflight]** HyPrSpace Achieves Key Milestone in Baguette One Rocket Development
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Jakobshavn_Glacier_Greenland" >🔗</a> **[ESA]** Earth from Space: Jakobshavn Glacier, Greenland
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Growing_a_business_from_apps_to_software_for_space_on_Proba-3" >🔗</a> **[ESA]** Growing a business: from apps to software for space on Proba-3
-- <a href="https://spacenews.com/space-force-to-test-modular-satellite-technology-in-upcoming-mission/" >🔗</a> **[SpaceNews]** Space Force to test modular satellite technology in upcoming mission
-- <a href="https://spaceflightnow.com/2024/12/12/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T160136">2024-12-13 16:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T163650">2024-12-13 16:36:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
