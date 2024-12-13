@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/escapade-looking-at-2025-and-2026-launch-options/" >🔗</a> **[SpaceNews]** ESCAPADE looking at 2025 and 2026 launch options
+- <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/" >🔗</a> **[NASA]** Hubble Images a Grand Spiral
 - <a href="https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/" >🔗</a> **[Arstechnica]** Rocket Report: Ukrainian launch firm finds Maine home, Long March-8A debut near
 - <a href="https://spacenews.com/virgin-galactic-signs-agreement-to-study-suborbital-spaceflights-from-italian-spaceport/" >🔗</a> **[SpaceNews]** Virgin Galactic signs agreement to study suborbital spaceflights from Italian spaceport
 - <a href="https://europeanspaceflight.com/hyprspace-achieves-key-milestone-in-baguette-one-rocket-development/" >🔗</a> **[European Spaceflight]** HyPrSpace Achieves Key Milestone in Baguette One Rocket Development
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-to-test-modular-satellite-technology-in-upcoming-mission/" >🔗</a> **[SpaceNews]** Space Force to test modular satellite technology in upcoming mission
 - <a href="https://spaceflightnow.com/2024/12/12/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/major-paradigm-shifts-needed-for-nasas-future-mars-exploration-science-program/" >🔗</a> **[SpacePolicyOnline.com]** Major Paradigm Shifts Needed for NASA’s Future Mars Exploration Science Program
-- <a href="https://www.nasaspaceflight.com/2024/12/cape-flyover-2/" >🔗</a> **[NASASpaceflight]** Starship and other launch site preparations in Florida moving into a higher gear
-- <a href="https://www.nasa.gov/image-article/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T120156">2024-12-13 12:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T124253">2024-12-13 12:42:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
