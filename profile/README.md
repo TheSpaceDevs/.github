@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T192830">2024-12-13 19:28:30 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T192940">2024-12-13 19:29:40 UTC</a>.  Until
 then, this pad will have been used for 170
 out of 782 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T192830">2024-12-13 19:28:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241213T192830Z%2F20241213T230450Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T192940">2024-12-13 19:29:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-2&location=Vandenberg SFB, CA, USA&dates=20241213T192940Z%2F20241213T230420Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T004500">2024-12-14 00:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Stonehenge&location=Wallops Flight Facility, Virginia, USA&dates=20241214T004500Z%2F20241214T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Stonehenge** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T010400">2024-12-14 01:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV10&location=Cape Canaveral SFS, FL, USA&dates=20241214T010400Z%2F20241214T010400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T020000">2024-12-14 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 2&location=Spaceport Kii, Japan&dates=20241214T020000Z%2F20241214T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 2** from Spaceport Kii, Japan.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trumps-second-term-can-achieve-the-bipartisan-goal-of-resilient-satellites/" >🔗</a> **[SpaceNews]** Trump’s second term can achieve the bipartisan goal of resilient satellites
 - <a href="https://spacenews.com/escapade-looking-at-2025-and-2026-launch-options/" >🔗</a> **[SpaceNews]** ESCAPADE looking at 2025 and 2026 launch options
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/" >🔗</a> **[NASA]** Hubble Images a Grand Spiral
 - <a href="https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/" >🔗</a> **[Arstechnica]** Rocket Report: Ukrainian launch firm finds Maine home, Long March-8A debut near
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Growing_a_business_from_apps_to_software_for_space_on_Proba-3" >🔗</a> **[ESA]** Growing a business: from apps to software for space on Proba-3
 - <a href="https://spacenews.com/space-force-to-test-modular-satellite-technology-in-upcoming-mission/" >🔗</a> **[SpaceNews]** Space Force to test modular satellite technology in upcoming mission
 - <a href="https://spaceflightnow.com/2024/12/12/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://spacepolicyonline.com/news/major-paradigm-shifts-needed-for-nasas-future-mars-exploration-science-program/" >🔗</a> **[SpacePolicyOnline.com]** Major Paradigm Shifts Needed for NASA’s Future Mars Exploration Science Program
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T150132">2024-12-13 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T153349">2024-12-13 15:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
