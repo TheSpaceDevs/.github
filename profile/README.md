@@ -47,7 +47,7 @@ into *a Suborbital
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T004500">2024-12-14 00:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | Stonehenge&location=Wallops Flight Facility, Virginia, USA&dates=20241214T004500Z%2F20241214T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | Stonehenge** from Wallops Flight Facility, Virginia, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T010400">2024-12-14 01:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV10&location=Cape Canaveral SFS, FL, USA&dates=20241214T010400Z%2F20241214T010400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV10** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T010500">2024-12-14 01:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV10&location=Cape Canaveral SFS, FL, USA&dates=20241214T010500Z%2F20241214T010500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T020000">2024-12-14 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 2&location=Spaceport Kii, Japan&dates=20241214T020000Z%2F20241214T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 2** from Spaceport Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T175200">2024-12-14 17:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20241214T175200Z%2F20241214T191000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T100000">2024-12-16 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B/YZ-2 | SatNet LEO Group 01&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20241216T100000Z%2F20241216T121400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5B/YZ-2 | SatNet LEO Group 01** from Wenchang Space Launch Site, People's Republic of China.
@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rivada-brushes-off-regulatory-setback-for-proposed-broadband-constellation/" >🔗</a> **[SpaceNews]** Rivada brushes off regulatory setback for proposed broadband constellation
 - <a href="https://www.nasa.gov/news-release/nasa-awards-multi-center-administrative-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Multi-Center Administrative Support Services Contract
 - <a href="https://spacenews.com/china-launches-laser-diamond-constellation-test-satellites/" >🔗</a> **[SpaceNews]** China launches “laser diamond constellation test” satellites
 - <a href="https://www.nasa.gov/image-article/atmospheric-probe-takes-flight/" >🔗</a> **[NASA]** Atmospheric Probe Takes Flight
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/" >🔗</a> **[NASA]** NASA Outlines Latest Moon to Mars Plans in 2024 Architecture Update
 - <a href="https://spacenews.com/trumps-second-term-can-achieve-the-bipartisan-goal-of-resilient-satellites/" >🔗</a> **[SpaceNews]** Trump’s second term can achieve the bipartisan goal of resilient satellites
 - <a href="https://spacenews.com/escapade-looking-at-2025-and-2026-launch-options/" >🔗</a> **[SpaceNews]** ESCAPADE looking at 2025 and 2026 launch options
-- <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/" >🔗</a> **[NASA]** Hubble Images a Grand Spiral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T230126">2024-12-13 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T233154">2024-12-13 23:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
