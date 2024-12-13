@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Jakobshavn_Glacier_Greenland" >🔗</a> **[ESA]** Earth from Space: Jakobshavn Glacier, Greenland
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Growing_a_business_from_apps_to_software_for_space_on_Proba-3" >🔗</a> **[ESA]** Growing a business: from apps to software for space on Proba-3
 - <a href="https://spacenews.com/space-force-to-test-modular-satellite-technology-in-upcoming-mission/" >🔗</a> **[SpaceNews]** Space Force to test modular satellite technology in upcoming mission
 - <a href="https://spaceflightnow.com/2024/12/12/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/major-paradigm-shifts-needed-for-nasas-future-mars-exploration-science-program/" >🔗</a> **[SpacePolicyOnline.com]** Major Paradigm Shifts Needed for NASA’s Future Mars Exploration Science Program
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/" >🔗</a> **[NASA]** NASA Kennedy Top 24 Stories of 2024
 - <a href="https://spacenews.com/locus-lock-to-expand-gnss-receiver-production-with-new-funding/" >🔗</a> **[SpaceNews]** Locus Lock to expand GNSS receiver production with new funding
 - <a href="https://spacenews.com/u-s-military-increases-reliance-on-commercial-industry-for-space-intelligence/" >🔗</a> **[SpaceNews]** U.S. military increases reliance on commercial industry for space intelligence
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/" >🔗</a> **[NASA]** NASA Gives The World a Brake
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T090134">2024-12-13 09:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T093329">2024-12-13 09:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
