@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-signs-agreement-to-study-suborbital-spaceflights-from-italian-spaceport/" >🔗</a> **[SpaceNews]** Virgin Galactic signs agreement to study suborbital spaceflights from Italian spaceport
+- <a href="https://europeanspaceflight.com/hyprspace-achieves-key-milestone-in-baguette-one-rocket-development/" >🔗</a> **[European Spaceflight]** HyPrSpace Achieves Key Milestone in Baguette One Rocket Development
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Jakobshavn_Glacier_Greenland" >🔗</a> **[ESA]** Earth from Space: Jakobshavn Glacier, Greenland
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Growing_a_business_from_apps_to_software_for_space_on_Proba-3" >🔗</a> **[ESA]** Growing a business: from apps to software for space on Proba-3
 - <a href="https://spacenews.com/space-force-to-test-modular-satellite-technology-in-upcoming-mission/" >🔗</a> **[SpaceNews]** Space Force to test modular satellite technology in upcoming mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/12/cape-flyover-2/" >🔗</a> **[NASASpaceflight]** Starship and other launch site preparations in Florida moving into a higher gear
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-edge-on-spiral-with-curve-appeal/" >🔗</a> **[NASA]** Hubble Captures an Edge-On Spiral with Curve Appeal
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/" >🔗</a> **[NASA]** NASA Kennedy Top 24 Stories of 2024
-- <a href="https://spacenews.com/locus-lock-to-expand-gnss-receiver-production-with-new-funding/" >🔗</a> **[SpaceNews]** Locus Lock to expand GNSS receiver production with new funding
-- <a href="https://spacenews.com/u-s-military-increases-reliance-on-commercial-industry-for-space-intelligence/" >🔗</a> **[SpaceNews]** U.S. military increases reliance on commercial industry for space intelligence
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T100138">2024-12-13 10:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T103603">2024-12-13 10:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
