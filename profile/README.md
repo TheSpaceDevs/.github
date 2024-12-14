@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nisar-planned-to-launch-in-march-2025-after-antenna-repairs/" >🔗</a> **[SpaceNews]** NISAR planned to launch in March 2025 after antenna repairs
 - <a href="https://europeanspaceflight.com/thales-completes-key-element-of-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Completes Key Element of Mars Sample Return Mission
 - <a href="https://spaceflightnow.com/2024/12/13/live-coverage-spacex-to-launch-rrt-1-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch RRT-1 on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/rivada-brushes-off-regulatory-setback-for-proposed-broadband-constellation/" >🔗</a> **[SpaceNews]** Rivada brushes off regulatory setback for proposed broadband constellation
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/la-nasa-probara-tecnologia-para-medir-las-singulares-ondas-de-choque-del-x-59/" >🔗</a> **[NASA]** La NASA probará tecnología para medir las singulares ondas de choque del X-59
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/" >🔗</a> **[NASA]** NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
 - <a href="https://spacenews.com/mars-next-and-all-of-the-above/" >🔗</a> **[SpaceNews]** Mars Next and “All of the Above”
-- <a href="https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/" >🔗</a> **[NASA]** NASA Outlines Latest Moon to Mars Plans in 2024 Architecture Update
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T210125">2024-12-14 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T213109">2024-12-14 21:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
