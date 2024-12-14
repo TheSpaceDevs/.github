@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/13/live-coverage-spacex-to-launch-rrt-1-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch RRT-1 on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/rivada-brushes-off-regulatory-setback-for-proposed-broadband-constellation/" >🔗</a> **[SpaceNews]** Rivada brushes off regulatory setback for proposed broadband constellation
 - <a href="https://www.nasa.gov/news-release/nasa-awards-multi-center-administrative-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Multi-Center Administrative Support Services Contract
 - <a href="https://spacenews.com/china-launches-laser-diamond-constellation-test-satellites/" >🔗</a> **[SpaceNews]** China launches “laser diamond constellation test” satellites
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/mars-next-and-all-of-the-above/" >🔗</a> **[SpaceNews]** Mars Next and “All of the Above”
 - <a href="https://www.nasa.gov/news-release/nasa-outlines-latest-moon-to-mars-plans-in-2024-architecture-update/" >🔗</a> **[NASA]** NASA Outlines Latest Moon to Mars Plans in 2024 Architecture Update
 - <a href="https://spacenews.com/trumps-second-term-can-achieve-the-bipartisan-goal-of-resilient-satellites/" >🔗</a> **[SpaceNews]** Trump’s second term can achieve the bipartisan goal of resilient satellites
-- <a href="https://spacenews.com/escapade-looking-at-2025-and-2026-launch-options/" >🔗</a> **[SpaceNews]** ESCAPADE looking at 2025 and 2026 launch options
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241213T233154">2024-12-13 23:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241214T000424">2024-12-14 00:04:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
