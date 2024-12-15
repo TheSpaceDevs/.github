@@ -93,6 +93,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-takes-step-to-streamline-launch-licensing-process/" >🔗</a> **[SpaceNews]** FAA takes step to streamline launch licensing process
 - <a href="https://spacenews.com/nisar-planned-to-launch-in-march-2025-after-antenna-repairs/" >🔗</a> **[SpaceNews]** NISAR planned to launch in March 2025 after antenna repairs
 - <a href="https://europeanspaceflight.com/thales-completes-key-element-of-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Completes Key Element of Mars Sample Return Mission
 - <a href="https://spaceflightnow.com/2024/12/13/live-coverage-spacex-to-launch-rrt-1-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch RRT-1 on Falcon 9 rocket from Cape Canaveral
@@ -102,7 +103,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://www.nasa.gov/image-article/atmospheric-probe-takes-flight/" >🔗</a> **[NASA]** Atmospheric Probe Takes Flight
 - <a href="https://www.nasa.gov/image-article/la-nasa-probara-tecnologia-para-medir-las-singulares-ondas-de-choque-del-x-59/" >🔗</a> **[NASA]** La NASA probará tecnología para medir las singulares ondas de choque del X-59
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/" >🔗</a> **[NASA]** NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
-- <a href="https://spacenews.com/mars-next-and-all-of-the-above/" >🔗</a> **[SpaceNews]** Mars Next and “All of the Above”
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241215T170114">2024-12-15 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241215T173211">2024-12-15 17:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
