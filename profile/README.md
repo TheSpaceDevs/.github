@@ -93,6 +93,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/12/bepicolombo-fifth-mercury-flyby/" >🔗</a> **[NASASpaceflight]** BepiColombo’s fifth flyby of Mercury reveals planet’s surface in mid-infrared light
 - <a href="https://spacenews.com/ula-pitches-space-interceptor-role-for-vulcan-rockets-upper-stage/" >🔗</a> **[SpaceNews]** ULA pitches ‘space interceptor’ role for Vulcan rocket’s upper stage
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-15-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 15-31, 2024
 - <a href="https://spacenews.com/faa-takes-step-to-streamline-launch-licensing-process/" >🔗</a> **[SpaceNews]** FAA takes step to streamline launch licensing process
@@ -102,7 +103,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://spacenews.com/rivada-brushes-off-regulatory-setback-for-proposed-broadband-constellation/" >🔗</a> **[SpaceNews]** Rivada brushes off regulatory setback for proposed broadband constellation
 - <a href="https://www.nasa.gov/news-release/nasa-awards-multi-center-administrative-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Multi-Center Administrative Support Services Contract
 - <a href="https://spacenews.com/china-launches-laser-diamond-constellation-test-satellites/" >🔗</a> **[SpaceNews]** China launches “laser diamond constellation test” satellites
-- <a href="https://www.nasa.gov/image-article/atmospheric-probe-takes-flight/" >🔗</a> **[NASA]** Atmospheric Probe Takes Flight
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241215T220122">2024-12-15 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241215T223411">2024-12-15 22:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
