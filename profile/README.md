@@ -93,6 +93,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-15-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 15-31, 2024
 - <a href="https://spacenews.com/faa-takes-step-to-streamline-launch-licensing-process/" >🔗</a> **[SpaceNews]** FAA takes step to streamline launch licensing process
 - <a href="https://spacenews.com/nisar-planned-to-launch-in-march-2025-after-antenna-repairs/" >🔗</a> **[SpaceNews]** NISAR planned to launch in March 2025 after antenna repairs
 - <a href="https://europeanspaceflight.com/thales-completes-key-element-of-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Completes Key Element of Mars Sample Return Mission
@@ -102,7 +103,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://spacenews.com/china-launches-laser-diamond-constellation-test-satellites/" >🔗</a> **[SpaceNews]** China launches “laser diamond constellation test” satellites
 - <a href="https://www.nasa.gov/image-article/atmospheric-probe-takes-flight/" >🔗</a> **[NASA]** Atmospheric Probe Takes Flight
 - <a href="https://www.nasa.gov/image-article/la-nasa-probara-tecnologia-para-medir-las-singulares-ondas-de-choque-del-x-59/" >🔗</a> **[NASA]** La NASA probará tecnología para medir las singulares ondas de choque del X-59
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/" >🔗</a> **[NASA]** NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241215T180122">2024-12-15 18:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241215T183556">2024-12-15 18:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
