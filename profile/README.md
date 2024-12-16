@@ -20,29 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 5B/YZ-2 | SatNet LEO Group 01**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">101</a>, Wenchang Space Launch Site, People's Republic of China*
+from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T100000">2024-12-16 10:00:00 UTC</a>.  Until
-then, this pad will have been used for 12
-out of 33 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T184200">2024-12-16 18:42:00 UTC</a>.  Until
+then, this pad will have been used for 75
+out of 136 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.
-
-The constellation will eventually consists of 13000 satellites.
+  Possibly CZ-2D launch with PIESAT-2 05-08; details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_5" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.614334,110.951011" >
+  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -57,6 +55,7 @@ The constellation will eventually consists of 13000 satellites.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T033800">2024-12-18 03:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 4x Astranis MicroGEO&location=Cape Canaveral SFS, FL, USA&dates=20241218T033800Z%2F20241218T075700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 4x Astranis MicroGEO** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T100700">2024-12-19 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20241219T100700Z%2F20241219T103600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T115300">2024-12-20 11:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)&location=Vandenberg SFB, CA, USA&dates=20241220T115300Z%2F20241220T123300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T012600">2024-12-21 01:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20241221T012600Z%2F20241221T055300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -106,12 +105,11 @@ The constellation will eventually consists of 13000 satellites.
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/china-set-to-launch-first-guowang-megaconstellation-satellites-on-long-march-5b/" >🔗</a> **[SpaceNews]** China set to launch first Guowang megaconstellation satellites on Long March 5B
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T100138">2024-12-16 10:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T103638">2024-12-16 10:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
