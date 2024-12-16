@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-kicks-off-guowang-megaconstellation-with-long-march-5b-launch/" >🔗</a> **[SpaceNews]** China kicks off Guowang megaconstellation with Long March 5B launch
+- <a href="https://spacenews.com/europe-signs-contracts-for-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe signs contracts for IRIS² constellation
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_to_support_the_development_of_EU_s_secure_communication_satellites_system" >🔗</a> **[ESA]** ESA to support the development of EU’s secure communication satellites system
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Highlights" >🔗</a> **[ESA]** Relive Europe’s greatest space achievements of the year
 - <a href="https://www.nasaspaceflight.com/2024/12/bepicolombo-fifth-mercury-flyby/" >🔗</a> **[NASASpaceflight]** BepiColombo’s fifth flyby of Mercury reveals planet’s surface in mid-infrared light
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/faa-takes-step-to-streamline-launch-licensing-process/" >🔗</a> **[SpaceNews]** FAA takes step to streamline launch licensing process
 - <a href="https://spacenews.com/nisar-planned-to-launch-in-march-2025-after-antenna-repairs/" >🔗</a> **[SpaceNews]** NISAR planned to launch in March 2025 after antenna repairs
 - <a href="https://europeanspaceflight.com/thales-completes-key-element-of-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Completes Key Element of Mars Sample Return Mission
-- <a href="https://spaceflightnow.com/2024/12/13/live-coverage-spacex-to-launch-rrt-1-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch RRT-1 on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/rivada-brushes-off-regulatory-setback-for-proposed-broadband-constellation/" >🔗</a> **[SpaceNews]** Rivada brushes off regulatory setback for proposed broadband constellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T120144">2024-12-16 12:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T124308">2024-12-16 12:43:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
