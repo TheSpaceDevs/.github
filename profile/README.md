@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-the-earth-observation-business-model-is-flawed-and-what-must-change/" >🔗</a> **[SpaceNews]** Why the Earth observation business model is flawed – and what must change
 - <a href="https://spacenews.com/china-kicks-off-guowang-megaconstellation-with-long-march-5b-launch/" >🔗</a> **[SpaceNews]** China kicks off Guowang megaconstellation with Long March 5B launch
 - <a href="https://spacenews.com/europe-signs-contracts-for-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe signs contracts for IRIS² constellation
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_to_support_the_development_of_EU_s_secure_communication_satellites_system" >🔗</a> **[ESA]** ESA to support the development of EU’s secure communication satellites system
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-15-31-2024/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 15-31, 2024
 - <a href="https://spacenews.com/faa-takes-step-to-streamline-launch-licensing-process/" >🔗</a> **[SpaceNews]** FAA takes step to streamline launch licensing process
 - <a href="https://spacenews.com/nisar-planned-to-launch-in-march-2025-after-antenna-repairs/" >🔗</a> **[SpaceNews]** NISAR planned to launch in March 2025 after antenna repairs
-- <a href="https://europeanspaceflight.com/thales-completes-key-element-of-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Completes Key Element of Mars Sample Return Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T140126">2024-12-16 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T143512">2024-12-16 14:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
