@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-thailand-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Thailand as Newest Artemis Accords Signatory
+- <a href="https://www.nasa.gov/news-release/nasa-names-new-leader-of-stem-engagement/" >🔗</a> **[NASA]** NASA Names New Leader of STEM Engagement
 - <a href="https://www.jpl.nasa.gov/news/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement" >🔗</a> **[Jet Propulsion Laboratory]** NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 - <a href="https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/" >🔗</a> **[NASA]** NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 - <a href="https://spacenews.com/growing-risks-in-low-earth-orbit-demand-more-responsible-space-behavior/" >🔗</a> **[SpaceNews]** Growing risks in low Earth orbit demand more responsible space behavior
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/uncategorized/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 - <a href="https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 - <a href="https://spacenews.com/why-the-earth-observation-business-model-is-flawed-and-what-must-change/" >🔗</a> **[SpaceNews]** Why the Earth observation business model is flawed – and what must change
-- <a href="https://spacenews.com/china-kicks-off-guowang-megaconstellation-with-long-march-5b-launch/" >🔗</a> **[SpaceNews]** China kicks off Guowang megaconstellation with Long March 5B launch
-- <a href="https://spacenews.com/europe-signs-contracts-for-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe signs contracts for IRIS² constellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T180135">2024-12-16 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T183745">2024-12-16 18:37:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
