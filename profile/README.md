@@ -91,16 +91,16 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 13, 2024
+- <a href="https://www.nasa.gov/general/nasa-sees-progress-on-starlab-commercial-space-station-development/" >🔗</a> **[NASA]** NASA Sees Progress on Starlab Commercial Space Station Development
+- <a href="https://www.nasa.gov/news-release/nasa-finalizes-strategy-for-sustaining-human-presence-in-low-earth-orbit/" >🔗</a> **[NASA]** NASA Finalizes Strategy for Sustaining Human Presence in Low Earth Orbit
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celebrating-20-years-night-sky-network/" >🔗</a> **[NASA]** Celebrating 20 Years: Night Sky Network
 - <a href="https://science.nasa.gov/blog/sols-4393-4395-weekend-work-at-the-base-of-texoli-butte/" >🔗</a> **[NASA]** Sols 4393-4395: Weekend Work at the Base of Texoli Butte
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-thailand-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Thailand as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-names-new-leader-of-stem-engagement/" >🔗</a> **[NASA]** NASA Names New Leader of STEM Engagement
 - <a href="https://www.jpl.nasa.gov/news/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement" >🔗</a> **[Jet Propulsion Laboratory]** NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 - <a href="https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/" >🔗</a> **[NASA]** NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
-- <a href="https://spacenews.com/growing-risks-in-low-earth-orbit-demand-more-responsible-space-behavior/" >🔗</a> **[SpaceNews]** Growing risks in low Earth orbit demand more responsible space behavior
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/" >🔗</a> **[NASA]** NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Planet-forming_discs_lived_longer_in_early_Universe" >🔗</a> **[ESA]** Planet-forming discs lived longer in early Universe
-- <a href="https://science.nasa.gov/uncategorized/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T210122">2024-12-16 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T213210">2024-12-16 21:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
