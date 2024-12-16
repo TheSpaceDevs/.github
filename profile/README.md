@@ -91,6 +91,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/t-mobile-opens-beta-for-starlink-smartphone-connectivity/" >🔗</a> **[SpaceNews]** T-Mobile opens beta for Starlink smartphone connectivity
+- <a href="https://spacenews.com/nasa-releases-long-term-strategy-for-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases long-term strategy for robotic Mars exploration
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-moves-to-high-bay-2/" >🔗</a> **[NASA]** Artemis II Core Stage Moves to High Bay 2
 - <a href="https://spacenews.com/starlink-set-to-hit-11-8-billion-revenue-in-2025-boosted-by-military-contracts/" >🔗</a> **[SpaceNews]** Starlink set to hit $11.8 billion revenue in 2025, boosted by military contracts
 - <a href="https://europeanspaceflight.com/europe-allocates-e10-6b-to-build-and-launch-iris2-constellation/" >🔗</a> **[European Spaceflight]** Europe Allocates €10.6B to Build and Launch IRIS2 Constellation
@@ -99,8 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-finalizes-strategy-for-sustaining-human-presence-in-low-earth-orbit/" >🔗</a> **[NASA]** NASA Finalizes Strategy for Sustaining Human Presence in Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celebrating-20-years-night-sky-network/" >🔗</a> **[NASA]** Celebrating 20 Years: Night Sky Network
-- <a href="https://science.nasa.gov/blog/sols-4393-4395-weekend-work-at-the-base-of-texoli-butte/" >🔗</a> **[NASA]** Sols 4393-4395: Weekend Work at the Base of Texoli Butte
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-thailand-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Thailand as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T230124">2024-12-16 23:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T233213">2024-12-16 23:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
