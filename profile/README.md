@@ -91,6 +91,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celebrating-20-years-night-sky-network/" >🔗</a> **[NASA]** Celebrating 20 Years: Night Sky Network
 - <a href="https://science.nasa.gov/blog/sols-4393-4395-weekend-work-at-the-base-of-texoli-butte/" >🔗</a> **[NASA]** Sols 4393-4395: Weekend Work at the Base of Texoli Butte
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-thailand-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Thailand as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-names-new-leader-of-stem-engagement/" >🔗</a> **[NASA]** NASA Names New Leader of STEM Engagement
@@ -100,7 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/" >🔗</a> **[NASA]** NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Planet-forming_discs_lived_longer_in_early_Universe" >🔗</a> **[ESA]** Planet-forming discs lived longer in early Universe
 - <a href="https://science.nasa.gov/uncategorized/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
-- <a href="https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T200130">2024-12-16 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T203352">2024-12-16 20:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
