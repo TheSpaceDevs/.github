@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.jpl.nasa.gov/news/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement" >🔗</a> **[Jet Propulsion Laboratory]** NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
+- <a href="https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/" >🔗</a> **[NASA]** NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 - <a href="https://spacenews.com/growing-risks-in-low-earth-orbit-demand-more-responsible-space-behavior/" >🔗</a> **[SpaceNews]** Growing risks in low Earth orbit demand more responsible space behavior
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Planet-forming_discs_lived_longer_in_early_Universe" >🔗</a> **[ESA]** Planet-forming discs lived longer in early Universe
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/" >🔗</a> **[NASA]** NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Planet-forming_discs_lived_longer_in_early_Universe" >🔗</a> **[ESA]** Planet-forming discs lived longer in early Universe
 - <a href="https://science.nasa.gov/uncategorized/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
+- <a href="https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/" >🔗</a> **[NASA]** NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 - <a href="https://spacenews.com/why-the-earth-observation-business-model-is-flawed-and-what-must-change/" >🔗</a> **[SpaceNews]** Why the Earth observation business model is flawed – and what must change
 - <a href="https://spacenews.com/china-kicks-off-guowang-megaconstellation-with-long-march-5b-launch/" >🔗</a> **[SpaceNews]** China kicks off Guowang megaconstellation with Long March 5B launch
 - <a href="https://spacenews.com/europe-signs-contracts-for-iris%c2%b2-constellation/" >🔗</a> **[SpaceNews]** Europe signs contracts for IRIS² constellation
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_to_support_the_development_of_EU_s_secure_communication_satellites_system" >🔗</a> **[ESA]** ESA to support the development of EU’s secure communication satellites system
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Highlights" >🔗</a> **[ESA]** Relive Europe’s greatest space achievements of the year
-- <a href="https://www.nasaspaceflight.com/2024/12/bepicolombo-fifth-mercury-flyby/" >🔗</a> **[NASASpaceflight]** BepiColombo’s fifth flyby of Mercury reveals planet’s surface in mid-infrared light
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T170126">2024-12-16 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241216T173302">2024-12-16 17:33:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
