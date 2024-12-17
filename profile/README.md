@@ -91,6 +91,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/media-invited-to-speak-to-nasa-ames-experts-celebrating-85-years/" >🔗</a> **[NASA]** Media Invited to Speak to NASA Ames Experts – Celebrating 85 Years
 - <a href="https://spacenews.com/eutelsat-orders-100-leo-satellites-to-replenish-oneweb-constellation/" >🔗</a> **[SpaceNews]** Eutelsat orders 100 LEO satellites to replenish OneWeb constellation
 - <a href="https://www.nasa.gov/image-article/nasa-missions-spot-cosmic-wreath-displaying-stellar-circle-of-life/" >🔗</a> **[NASA]** NASA Missions Spot Cosmic ‘Wreath’ Displaying Stellar Circle of Life
 - <a href="https://spacenews.com/nro-hits-milestone-with-more-than-100-satellites-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** NRO hits milestone with more than 100 satellites in low Earth orbit
@@ -100,7 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-celebrates-key-milestones-in-2024/" >🔗</a> **[NASA]** NASA Stennis Celebrates Key Testing, Operations Milestones in 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/" >🔗</a> **[NASA]** Orion Spacecraft Tested in Ohio After Artemis I Mission
 - <a href="https://europeanspaceflight.com/themis-reusable-rocket-takes-shape-as-arianegroup-completes-fit-check/" >🔗</a> **[European Spaceflight]** Themis Reusable Rocket Takes Shape as ArianeGroup Completes Fit Check
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2024_Highlights_flight_of_the_Ariane_6" >🔗</a> **[ESA]** ESA 2024 Highlights: flight of the Ariane 6
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T190126">2024-12-17 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T193110">2024-12-17 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
