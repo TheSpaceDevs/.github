@@ -20,27 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | O3b mPower 7 & 8**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T205900">2024-12-17 20:59:00 UTC</a>.  Until
-then, this pad will have been used for 191
-out of 249 launches from this location. The launch status is currently
+**KAIROS | Flight 2**. It is scheduled to be launched by *Space One*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+from *<a href="None">Space One Launch Pad</a>, Spaceport Kii, Japan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T020000">2024-12-18 02:00:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 1 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Seventh and eighth of a constellation of eleven high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES.
+  Second flight of the KAIROS launch vehicle. 
+
+5 satellites for testing various technologies will be on board:
+
+* TATARA-1
+* PARUS-T1A
+* SC-Sat1
+* ISHIKI
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +62,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T042800">2024-12-21 04:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-2&location=Kennedy Space Center, FL, USA&dates=20241221T042800Z%2F20241221T085900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T010000">2024-12-23 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20241223T010000Z%2F20241223T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241225T074500">2024-12-25 07:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241225T074500Z%2F20241225T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T050000">2024-12-27 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20241227T050000Z%2F20241227T065300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +98,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-19-astronauts-complete-record-breaking-9-hour-spacewalk/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete record-breaking 9-hour spacewalk
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/2024-in-review-highlights-from-nasa-in-silicon-valley/" >🔗</a> **[NASA]** 2024 in Review: Highlights from NASA in Silicon Valley
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/" >🔗</a> **[NASA]** NASA Participates in Microgravity Science Summit
 - <a href="https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/" >🔗</a> **[NASA]** Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
@@ -99,7 +108,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/media-invited-to-speak-to-nasa-ames-experts-celebrating-85-years/" >🔗</a> **[NASA]** Media Invited to Speak to NASA Ames Experts – Celebrating 85 Years
 - <a href="https://spacenews.com/eutelsat-orders-100-leo-satellites-to-replenish-oneweb-constellation/" >🔗</a> **[SpaceNews]** Eutelsat orders 100 LEO satellites to replenish OneWeb constellation
 - <a href="https://www.nasa.gov/image-article/nasa-missions-spot-cosmic-wreath-displaying-stellar-circle-of-life/" >🔗</a> **[NASA]** NASA Missions Spot Cosmic ‘Wreath’ Displaying Stellar Circle of Life
-- <a href="https://spacenews.com/nro-hits-milestone-with-more-than-100-satellites-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** NRO hits milestone with more than 100 satellites in low Earth orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +118,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T220129">2024-12-17 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T223611">2024-12-17 22:36:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
