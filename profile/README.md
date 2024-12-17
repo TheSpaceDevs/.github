@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thailand-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Thailand signs Artemis Accords
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Fit_for_service_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit for service: Themis reusable rocket stage demonstrator
 - <a href="https://spacepolicyonline.com/news/continuous-heartbeat-wins-the-day-in-nasas-leo-microgravity-strategy/" >🔗</a> **[SpacePolicyOnline.com]** “Continuous Heartbeat” Wins the Day in NASA’s LEO Microgravity Strategy
 - <a href="https://spacenews.com/spacex-launches-u-s-space-force-rapid-response-gps-mission/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force ‘rapid response’ GPS mission
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Submarines_for_space_exploration" >🔗</a> **[ESA]** Submarines for space exploration
 - <a href="https://spacenews.com/t-mobile-opens-beta-for-starlink-smartphone-connectivity/" >🔗</a> **[SpaceNews]** T-Mobile opens beta for Starlink smartphone connectivity
 - <a href="https://spacenews.com/nasa-releases-long-term-strategy-for-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases long-term strategy for robotic Mars exploration
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-moves-to-high-bay-2/" >🔗</a> **[NASA]** Artemis II Core Stage Moves to High Bay 2
 - <a href="https://spacenews.com/starlink-set-to-hit-11-8-billion-revenue-in-2025-boosted-by-military-contracts/" >🔗</a> **[SpaceNews]** Starlink set to hit $11.8 billion revenue in 2025, boosted by military contracts
 - <a href="https://europeanspaceflight.com/europe-allocates-e10-6b-to-build-and-launch-iris2-constellation/" >🔗</a> **[European Spaceflight]** Europe Allocates €10.6B to Build and Launch IRIS2 Constellation
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 13, 2024
-- <a href="https://www.nasa.gov/general/nasa-sees-progress-on-starlab-commercial-space-station-development/" >🔗</a> **[NASA]** NASA Sees Progress on Starlab Commercial Space Station Development
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T100129">2024-12-17 10:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T103616">2024-12-17 10:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
