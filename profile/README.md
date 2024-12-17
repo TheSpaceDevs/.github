@@ -95,22 +95,23 @@ into *an Unknown
 - <a href="https://spacenews.com/thailand-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Thailand signs Artemis Accords
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Fit_for_service_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit for service: Themis reusable rocket stage demonstrator
 - <a href="https://spacepolicyonline.com/news/continuous-heartbeat-wins-the-day-in-nasas-leo-microgravity-strategy/" >🔗</a> **[SpacePolicyOnline.com]** “Continuous Heartbeat” Wins the Day in NASA’s LEO Microgravity Strategy
+- <a href="https://spaceflightnow.com/2024/12/17/u-s-space-force-launches-expedited-gps-mission-using-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** U.S. Space Force launches expedited GPS mission using Falcon 9 rocket
+- <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-starshield-satellites-on-falcon-9-rocket-from-california-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites on Falcon 9 rocket from California for the NRO
 - <a href="https://spacenews.com/spacex-launches-u-s-space-force-rapid-response-gps-mission/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force ‘rapid response’ GPS mission
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Submarines_for_space_exploration" >🔗</a> **[ESA]** Submarines for space exploration
 - <a href="https://spacenews.com/t-mobile-opens-beta-for-starlink-smartphone-connectivity/" >🔗</a> **[SpaceNews]** T-Mobile opens beta for Starlink smartphone connectivity
 - <a href="https://spacenews.com/nasa-releases-long-term-strategy-for-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases long-term strategy for robotic Mars exploration
-- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-moves-to-high-bay-2/" >🔗</a> **[NASA]** Artemis II Core Stage Moves to High Bay 2
-- <a href="https://spacenews.com/starlink-set-to-hit-11-8-billion-revenue-in-2025-boosted-by-military-contracts/" >🔗</a> **[SpaceNews]** Starlink set to hit $11.8 billion revenue in 2025, boosted by military contracts
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-starshield-satellites-on-falcon-9-rocket-from-california-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites on Falcon 9 rocket from California for the NRO
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T120145">2024-12-17 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T124304">2024-12-17 12:43:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
