@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | NROL-149**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | O3b mPower 7 & 8**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T131900">2024-12-17 13:19:00 UTC</a>.  Until
-then, this pad will have been used for 171
-out of 783 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T205900">2024-12-17 20:59:00 UTC</a>.  Until
+then, this pad will have been used for 191
+out of 249 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Medium Earth Orbit
+(MEO)*.
 <br>
 <blockquote>
-  Sixth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.
+  Seventh and eighth of a constellation of eleven high-throughput communications satellites in Medium Earth Orbit (MEO) built by Boeing and operated by SES.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T131900">2024-12-17 13:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-149&location=Vandenberg SFB, CA, USA&dates=20241217T131900Z%2F20241217T131900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-149** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T205900">2024-12-17 20:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | O3b mPower 7 &amp; 8&location=Kennedy Space Center, FL, USA&dates=20241217T205900Z%2F20241217T222600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | O3b mPower 7 & 8** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T020000">2024-12-18 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 2&location=Spaceport Kii, Japan&dates=20241218T020000Z%2F20241218T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 2** from Spaceport Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T100700">2024-12-19 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20241219T100700Z%2F20241219T103600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
@@ -56,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T033900">2024-12-21 03:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 4x Astranis MicroGEO&location=Cape Canaveral SFS, FL, USA&dates=20241221T033900Z%2F20241221T075800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 4x Astranis MicroGEO** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T042800">2024-12-21 04:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-2&location=Kennedy Space Center, FL, USA&dates=20241221T042800Z%2F20241221T085900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T010000">2024-12-23 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20241223T010000Z%2F20241223T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T012600">2024-12-23 01:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20241223T012600Z%2F20241223T055300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/themis-reusable-rocket-takes-shape-as-arianegroup-completes-fit-check/" >🔗</a> **[European Spaceflight]** Themis Reusable Rocket Takes Shape as ArianeGroup Completes Fit Check
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2024_Highlights_flight_of_the_Ariane_6" >🔗</a> **[ESA]** ESA 2024 Highlights: flight of the Ariane 6
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Fit-check_timelapse_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit-check timelapse: Themis reusable rocket stage demonstrator
 - <a href="https://spacenews.com/nasa-endorses-continuous-heartbeat-approach-to-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA endorses “continuous heartbeat” approach to human presence in LEO
 - <a href="https://spacenews.com/thailand-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Thailand signs Artemis Accords
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Fit_for_service_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit for service: Themis reusable rocket stage demonstrator
@@ -98,20 +101,17 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2024/12/17/u-s-space-force-launches-expedited-gps-mission-using-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** U.S. Space Force launches expedited GPS mission using Falcon 9 rocket
 - <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-starshield-satellites-on-falcon-9-rocket-from-california-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites on Falcon 9 rocket from California for the NRO
 - <a href="https://spacenews.com/spacex-launches-u-s-space-force-rapid-response-gps-mission/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force ‘rapid response’ GPS mission
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Submarines_for_space_exploration" >🔗</a> **[ESA]** Submarines for space exploration
-- <a href="https://spacenews.com/t-mobile-opens-beta-for-starlink-smartphone-connectivity/" >🔗</a> **[SpaceNews]** T-Mobile opens beta for Starlink smartphone connectivity
-- <a href="https://spacenews.com/nasa-releases-long-term-strategy-for-robotic-mars-exploration/" >🔗</a> **[SpaceNews]** NASA releases long-term strategy for robotic Mars exploration
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-starshield-satellites-on-falcon-9-rocket-from-california-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites on Falcon 9 rocket from California for the NRO
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-120924/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kairos set for second launch attempt, Falcon 9 to launch 03b and GPS missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T130830">2024-12-17 13:08:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T133654">2024-12-17 13:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
