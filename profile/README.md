@@ -91,6 +91,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/" >🔗</a> **[NASA]** Orion Spacecraft Tested in Ohio After Artemis I Mission
 - <a href="https://europeanspaceflight.com/themis-reusable-rocket-takes-shape-as-arianegroup-completes-fit-check/" >🔗</a> **[European Spaceflight]** Themis Reusable Rocket Takes Shape as ArianeGroup Completes Fit Check
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2024_Highlights_flight_of_the_Ariane_6" >🔗</a> **[ESA]** ESA 2024 Highlights: flight of the Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Fit-check_timelapse_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit-check timelapse: Themis reusable rocket stage demonstrator
@@ -100,7 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/continuous-heartbeat-wins-the-day-in-nasas-leo-microgravity-strategy/" >🔗</a> **[SpacePolicyOnline.com]** “Continuous Heartbeat” Wins the Day in NASA’s LEO Microgravity Strategy
 - <a href="https://spaceflightnow.com/2024/12/17/u-s-space-force-launches-expedited-gps-mission-using-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** U.S. Space Force launches expedited GPS mission using Falcon 9 rocket
 - <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-starshield-satellites-on-falcon-9-rocket-from-california-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites on Falcon 9 rocket from California for the NRO
-- <a href="https://spacenews.com/spacex-launches-u-s-space-force-rapid-response-gps-mission/" >🔗</a> **[SpaceNews]** SpaceX launches U.S. Space Force ‘rapid response’ GPS mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T140149">2024-12-17 14:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T143520">2024-12-17 14:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
