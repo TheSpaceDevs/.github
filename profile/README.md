@@ -55,7 +55,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T033900">2024-12-21 03:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | 4x Astranis MicroGEO&location=Cape Canaveral SFS, FL, USA&dates=20241221T033900Z%2F20241221T075800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | 4x Astranis MicroGEO** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T042800">2024-12-21 04:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-2&location=Kennedy Space Center, FL, USA&dates=20241221T042800Z%2F20241221T085900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T010000">2024-12-23 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20241223T010000Z%2F20241223T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T012600">2024-12-23 01:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20241223T012600Z%2F20241223T055300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241225T074500">2024-12-25 07:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241225T074500Z%2F20241225T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,9 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-missions-spot-cosmic-wreath-displaying-stellar-circle-of-life/" >🔗</a> **[NASA]** NASA Missions Spot Cosmic ‘Wreath’ Displaying Stellar Circle of Life
+- <a href="https://spacenews.com/nro-hits-milestone-with-more-than-100-satellites-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** NRO hits milestone with more than 100 satellites in low Earth orbit
+- <a href="https://science.nasa.gov/get-involved/citizen-science/jovian-vortex-hunters-spun-up-over-new-paper/" >🔗</a> **[NASA]** Jovian Vortex Hunters Spun Up Over New Paper
 - <a href="https://spacenews.com/james-parker-leonid-capital-partners-commercial-space-transformers/" >🔗</a> **[SpaceNews]** James Parker, Leonid Capital Partners – Commercial Space Transformers
 - <a href="https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/" >🔗</a> **[NASA]** Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-celebrates-key-milestones-in-2024/" >🔗</a> **[NASA]** NASA Stennis Celebrates Key Testing, Operations Milestones in 2024
@@ -98,9 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://europeanspaceflight.com/themis-reusable-rocket-takes-shape-as-arianegroup-completes-fit-check/" >🔗</a> **[European Spaceflight]** Themis Reusable Rocket Takes Shape as ArianeGroup Completes Fit Check
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2024_Highlights_flight_of_the_Ariane_6" >🔗</a> **[ESA]** ESA 2024 Highlights: flight of the Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Fit-check_timelapse_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit-check timelapse: Themis reusable rocket stage demonstrator
-- <a href="https://spacenews.com/nasa-endorses-continuous-heartbeat-approach-to-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA endorses “continuous heartbeat” approach to human presence in LEO
-- <a href="https://spacenews.com/thailand-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Thailand signs Artemis Accords
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Fit_for_service_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit for service: Themis reusable rocket stage demonstrator
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T160131">2024-12-17 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T163735">2024-12-17 16:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
