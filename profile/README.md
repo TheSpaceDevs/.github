@@ -91,6 +91,9 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/james-parker-leonid-capital-partners-commercial-space-transformers/" >🔗</a> **[SpaceNews]** James Parker, Leonid Capital Partners – Commercial Space Transformers
+- <a href="https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/" >🔗</a> **[NASA]** Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-celebrates-key-milestones-in-2024/" >🔗</a> **[NASA]** NASA Stennis Celebrates Key Testing, Operations Milestones in 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/" >🔗</a> **[NASA]** Orion Spacecraft Tested in Ohio After Artemis I Mission
 - <a href="https://europeanspaceflight.com/themis-reusable-rocket-takes-shape-as-arianegroup-completes-fit-check/" >🔗</a> **[European Spaceflight]** Themis Reusable Rocket Takes Shape as ArianeGroup Completes Fit Check
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2024_Highlights_flight_of_the_Ariane_6" >🔗</a> **[ESA]** ESA 2024 Highlights: flight of the Ariane 6
@@ -98,9 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/nasa-endorses-continuous-heartbeat-approach-to-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA endorses “continuous heartbeat” approach to human presence in LEO
 - <a href="https://spacenews.com/thailand-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Thailand signs Artemis Accords
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Fit_for_service_Themis_reusable_rocket_stage_demonstrator" >🔗</a> **[ESA]** Fit for service: Themis reusable rocket stage demonstrator
-- <a href="https://spacepolicyonline.com/news/continuous-heartbeat-wins-the-day-in-nasas-leo-microgravity-strategy/" >🔗</a> **[SpacePolicyOnline.com]** “Continuous Heartbeat” Wins the Day in NASA’s LEO Microgravity Strategy
-- <a href="https://spaceflightnow.com/2024/12/17/u-s-space-force-launches-expedited-gps-mission-using-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** U.S. Space Force launches expedited GPS mission using Falcon 9 rocket
-- <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-starshield-satellites-on-falcon-9-rocket-from-california-for-the-nro/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites on Falcon 9 rocket from California for the NRO
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T150133">2024-12-17 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T153412">2024-12-17 15:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
