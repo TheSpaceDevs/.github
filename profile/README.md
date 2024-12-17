@@ -91,6 +91,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-o3b-mpower-satellites-for-ses-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch O3b mPOWER satellites for SES on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-63-outside-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk 63 Outside Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/media-invited-to-speak-to-nasa-ames-experts-celebrating-85-years/" >🔗</a> **[NASA]** Media Invited to Speak to NASA Ames Experts – Celebrating 85 Years
 - <a href="https://spacenews.com/eutelsat-orders-100-leo-satellites-to-replenish-oneweb-constellation/" >🔗</a> **[SpaceNews]** Eutelsat orders 100 LEO satellites to replenish OneWeb constellation
 - <a href="https://www.nasa.gov/image-article/nasa-missions-spot-cosmic-wreath-displaying-stellar-circle-of-life/" >🔗</a> **[NASA]** NASA Missions Spot Cosmic ‘Wreath’ Displaying Stellar Circle of Life
@@ -99,8 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/james-parker-leonid-capital-partners-commercial-space-transformers/" >🔗</a> **[SpaceNews]** James Parker, Leonid Capital Partners – Commercial Space Transformers
 - <a href="https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/" >🔗</a> **[NASA]** Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-celebrates-key-milestones-in-2024/" >🔗</a> **[NASA]** NASA Stennis Celebrates Key Testing, Operations Milestones in 2024
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/" >🔗</a> **[NASA]** Orion Spacecraft Tested in Ohio After Artemis I Mission
-- <a href="https://europeanspaceflight.com/themis-reusable-rocket-takes-shape-as-arianegroup-completes-fit-check/" >🔗</a> **[European Spaceflight]** Themis Reusable Rocket Takes Shape as ArianeGroup Completes Fit Check
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T193110">2024-12-17 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T200132">2024-12-17 20:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
