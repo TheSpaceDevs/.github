@@ -91,6 +91,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/" >🔗</a> **[NASA]** Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
+- <a href="https://www.nasa.gov/general/airspace-operations-and-safety-program-aosp/" >🔗</a> **[NASA]** Airspace Operations and Safety Program (AOSP)
 - <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-o3b-mpower-satellites-for-ses-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch O3b mPOWER satellites for SES on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-63-outside-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk 63 Outside Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/media-invited-to-speak-to-nasa-ames-experts-celebrating-85-years/" >🔗</a> **[NASA]** Media Invited to Speak to NASA Ames Experts – Celebrating 85 Years
@@ -99,8 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/nro-hits-milestone-with-more-than-100-satellites-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** NRO hits milestone with more than 100 satellites in low Earth orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/jovian-vortex-hunters-spun-up-over-new-paper/" >🔗</a> **[NASA]** Jovian Vortex Hunters Spun Up Over New Paper
 - <a href="https://spacenews.com/james-parker-leonid-capital-partners-commercial-space-transformers/" >🔗</a> **[SpaceNews]** James Parker, Leonid Capital Partners – Commercial Space Transformers
-- <a href="https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/" >🔗</a> **[NASA]** Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-celebrates-key-milestones-in-2024/" >🔗</a> **[NASA]** NASA Stennis Celebrates Key Testing, Operations Milestones in 2024
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T200132">2024-12-17 20:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241217T203255">2024-12-17 20:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
