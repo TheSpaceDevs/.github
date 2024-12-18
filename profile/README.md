@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-zealand-first-to-offer-nationwide-direct-to-smartphone-starlink-service/" >🔗</a> **[SpaceNews]** New Zealand first to provide nationwide direct-to-smartphone Starlink service
 - <a href="https://www.nasa.gov/general/nasas-spot-the-station-app-developed-by-and-for-the-people/" >🔗</a> **[NASA]** NASA’s Spot the Station App Developed by and for the People
 - <a href="https://spacenews.com/pentagon-report-highlights-chinas-space-advancements-and-ai-driven-precision-warfare/" >🔗</a> **[SpaceNews]** Pentagon report highlights China’s space advancements and AI-driven ‘precision warfare’
 - <a href="https://www.nasa.gov/image-article/chandra-and-webb-spy-a-cosmic-wreath/" >🔗</a> **[NASA]** Chandra and Webb Spy a Cosmic Wreath
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/" >🔗</a> **[NASA]** NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega_contracts_for_future_operations_and_development" >🔗</a> **[ESA]** Vega contracts for future operations and development
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/" >🔗</a> **[NASA]** NASA’s Kennedy Space Center Looks to Thrive in 2025
-- <a href="https://science.nasa.gov/open-science/astronomy-data-sonification/" >🔗</a> **[NASA]** NASA Open Science Reveals Sounds of Space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T200130">2024-12-18 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T203315">2024-12-18 20:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
