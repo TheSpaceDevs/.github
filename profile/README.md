@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasas-spot-the-station-app-developed-by-and-for-the-people/" >🔗</a> **[NASA]** NASA’s Spot the Station App Developed by and for the People
+- <a href="https://spacenews.com/pentagon-report-highlights-chinas-space-advancements-and-ai-driven-precision-warfare/" >🔗</a> **[SpaceNews]** Pentagon report highlights China’s space advancements and AI-driven ‘precision warfare’
 - <a href="https://www.nasa.gov/image-article/chandra-and-webb-spy-a-cosmic-wreath/" >🔗</a> **[NASA]** Chandra and Webb Spy a Cosmic Wreath
 - <a href="https://spacenews.com/starris-optimax-space-systems-and-llnl-announce-commercialization-partnership-for-monolithic-telescope-technology-to-support-tactically-responsive-space-missions/" >🔗</a> **[SpaceNews]** Starris: Optimax Space Systems and LLNL announce commercialization partnership for monolithic telescope technology to support tactically responsive space missions
 - <a href="https://spacenews.com/u-s-space-force-to-test-laser-communications-on-a-gps-satellite/" >🔗</a> **[SpaceNews]** U.S. Space Force to test laser communications on a GPS satellite
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega_contracts_for_future_operations_and_development" >🔗</a> **[ESA]** Vega contracts for future operations and development
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/" >🔗</a> **[NASA]** NASA’s Kennedy Space Center Looks to Thrive in 2025
 - <a href="https://science.nasa.gov/open-science/astronomy-data-sonification/" >🔗</a> **[NASA]** NASA Open Science Reveals Sounds of Space
-- <a href="https://spacenews.com/ostp-releases-cislunar-science-and-technology-plans/" >🔗</a> **[SpaceNews]** OSTP releases cislunar science and technology plans
-- <a href="https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/" >🔗</a> **[NASA]** New Commercial Artemis Moon Rovers Undergo Testing at NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T193106">2024-12-18 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T200130">2024-12-18 20:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
