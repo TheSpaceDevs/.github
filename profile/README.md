@@ -99,6 +99,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-force-plans-new-futures-command-amid-pressure-to-speed-up-modernization/" >🔗</a> **[SpaceNews]** Space Force plans new ‘Futures Command’ amid pressure to speed up modernization
+- <a href="https://science.nasa.gov/blog/sols-4396-4397-roving-in-a-martian-wonderland/" >🔗</a> **[NASA]** Sols 4396-4397: Roving in a Martian Wonderland
 - <a href="https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/" >🔗</a> **[Arstechnica]** Report: Elon Musk failed to report movement required by security clearance
 - <a href="https://spacenews.com/shenzhou-19-astronauts-complete-record-breaking-9-hour-spacewalk/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete record-breaking 9-hour spacewalk
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/2024-in-review-highlights-from-nasa-in-silicon-valley/" >🔗</a> **[NASA]** 2024 in Review: Highlights from NASA in Silicon Valley
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/airspace-operations-and-safety-program-aosp/" >🔗</a> **[NASA]** Airspace Operations and Safety Program (AOSP)
 - <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-o3b-mpower-satellites-for-ses-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch O3b mPOWER satellites for SES on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-63-outside-space-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Roscosmos Spacewalk 63 Outside Space Station
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/media-invited-to-speak-to-nasa-ames-experts-celebrating-85-years/" >🔗</a> **[NASA]** Media Invited to Speak to NASA Ames Experts – Celebrating 85 Years
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T000430">2024-12-18 00:04:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T004544">2024-12-18 00:45:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
