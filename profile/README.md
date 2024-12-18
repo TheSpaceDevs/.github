@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/clps/nasa-payload-aims-to-probe-moons-depths-to-study-heat-flow/" >🔗</a> **[NASA]** NASA Payload Aims to Probe Moon’s Depths to Study Heat Flow
+- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/how-does-the-sun-behave-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: How Does the Sun Behave? (Grades 5-8)
+- <a href="https://www.nasa.gov/image-article/nasa-cu-enact-collaborative-space-act-agreement/" >🔗</a> **[NASA]** NASA, CU Enact Collaborative Space Act Agreement
+- <a href="https://spaceflightnow.com/2024/12/18/space-force-says-first-national-security-vulcan-launch-now-anticipated-in-spring-2025/" >🔗</a> **[Spaceflight Now]** Space Force says first national security Vulcan launch now anticipated in spring 2025
+- <a href="https://www.nasa.gov/organizations/otps/otps-releases-its-2024-annual-report/" >🔗</a> **[NASA]** OTPS Releases its 2024 Annual Report
+- <a href="https://www.nasa.gov/organizations/otps/nasas-agency-chief-technologist-presents-their-annual-year-in-review-for-2024/" >🔗</a> **[NASA]** A Year in Review 2024 from NASA’s Agency Chief Technologist
 - <a href="https://spacenews.com/new-zealand-first-to-offer-nationwide-direct-to-smartphone-starlink-service/" >🔗</a> **[SpaceNews]** New Zealand first to provide nationwide direct-to-smartphone Starlink service
 - <a href="https://www.nasa.gov/general/nasas-spot-the-station-app-developed-by-and-for-the-people/" >🔗</a> **[NASA]** NASA’s Spot the Station App Developed by and for the People
 - <a href="https://spacenews.com/pentagon-report-highlights-chinas-space-advancements-and-ai-driven-precision-warfare/" >🔗</a> **[SpaceNews]** Pentagon report highlights China’s space advancements and AI-driven ‘precision warfare’
 - <a href="https://www.nasa.gov/image-article/chandra-and-webb-spy-a-cosmic-wreath/" >🔗</a> **[NASA]** Chandra and Webb Spy a Cosmic Wreath
-- <a href="https://spacenews.com/starris-optimax-space-systems-and-llnl-announce-commercialization-partnership-for-monolithic-telescope-technology-to-support-tactically-responsive-space-missions/" >🔗</a> **[SpaceNews]** Starris: Optimax Space Systems and LLNL announce commercialization partnership for monolithic telescope technology to support tactically responsive space missions
-- <a href="https://spacenews.com/u-s-space-force-to-test-laser-communications-on-a-gps-satellite/" >🔗</a> **[SpaceNews]** U.S. Space Force to test laser communications on a GPS satellite
-- <a href="https://www.nasa.gov/missions/station/iss-research/space-gardens/" >🔗</a> **[NASA]** Space Gardens
-- <a href="https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/" >🔗</a> **[NASA]** NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega_contracts_for_future_operations_and_development" >🔗</a> **[ESA]** Vega contracts for future operations and development
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/" >🔗</a> **[NASA]** NASA’s Kennedy Space Center Looks to Thrive in 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T210122">2024-12-18 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T213111">2024-12-18 21:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
