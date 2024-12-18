@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-redesigned-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches redesigned O3b mPower satellites
 - <a href="https://spacenews.com/second-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Second Kairos launch fails
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_fall_of_CubeSats" >🔗</a> **[ESA]** A fall of CubeSats
 - <a href="https://spacenews.com/raytheon-tests-ursa-majors-rocket-motor-in-u-s-army-missile-flight/" >🔗</a> **[SpaceNews]** Raytheon tests Ursa Major’s rocket motor in U.S. Army missile flight
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-plans-new-futures-command-amid-pressure-to-speed-up-modernization/" >🔗</a> **[SpaceNews]** Space Force plans new ‘Futures Command’ amid pressure to speed up modernization
 - <a href="https://science.nasa.gov/blog/sols-4396-4397-roving-in-a-martian-wonderland/" >🔗</a> **[NASA]** Sols 4396-4397: Roving in a Martian Wonderland
 - <a href="https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/" >🔗</a> **[Arstechnica]** Report: Elon Musk failed to report movement required by security clearance
-- <a href="https://spacenews.com/shenzhou-19-astronauts-complete-record-breaking-9-hour-spacewalk/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete record-breaking 9-hour spacewalk
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T120144">2024-12-18 12:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T124252">2024-12-18 12:42:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
