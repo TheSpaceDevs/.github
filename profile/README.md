@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/new-cr-finally-introduced-as-clock-ticks-down-to-friday/" >🔗</a> **[SpacePolicyOnline.com]** New CR Finally Introduced as Clock Ticks Down to Friday
 - <a href="https://spacepolicyonline.com/news/delay-in-new-spacex-crew-dragon-means-another-extension-for-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** Delay in New SpaceX Crew Dragon Means Another Extension for Butch and Suni
 - <a href="https://spacenews.com/frontgrade-gaisler-leads-european-initiative-for-ultra-deep-sub-micron-semiconductor-technology-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Leads European Initiative for Ultra Deep Sub-Micron Semiconductor Technology for Space Applications
 - <a href="https://spacenews.com/space-force-plans-new-futures-command-amid-pressure-to-speed-up-modernization/" >🔗</a> **[SpaceNews]** Space Force plans new ‘Futures Command’ amid pressure to speed up modernization
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/2024-in-review-highlights-from-nasa-in-silicon-valley/" >🔗</a> **[NASA]** 2024 in Review: Highlights from NASA in Silicon Valley
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/" >🔗</a> **[NASA]** NASA Participates in Microgravity Science Summit
 - <a href="https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/" >🔗</a> **[NASA]** Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
-- <a href="https://www.nasa.gov/general/airspace-operations-and-safety-program-aosp/" >🔗</a> **[NASA]** Airspace Operations and Safety Program (AOSP)
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T050119">2024-12-18 05:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T053339">2024-12-18 05:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
