@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-january-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: January 2025
+- <a href="https://www.nasaspaceflight.com/2024/12/china-roundup-121824/" >🔗</a> **[NASASpaceflight]** Chang Zheng 12, ZhuQue-2E fly maiden missions; Hainan spaceport and mega constellations expand
 - <a href="https://www.nasa.gov/news-release/more-nasa-science-tech-will-fly-to-moon-aboard-future-firefly-flight/" >🔗</a> **[NASA]** More NASA Science, Tech will Fly to Moon Aboard Future Firefly Flight
 - <a href="https://www.nasa.gov/missions/artemis/clps/nasa-payload-aims-to-probe-moons-depths-to-study-heat-flow/" >🔗</a> **[NASA]** NASA Payload Aims to Probe Moon’s Depths to Study Heat Flow
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/how-does-the-sun-behave-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: How Does the Sun Behave? (Grades 5-8)
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/otps/otps-releases-its-2024-annual-report/" >🔗</a> **[NASA]** OTPS Releases its 2024 Annual Report
 - <a href="https://www.nasa.gov/organizations/otps/nasas-agency-chief-technologist-presents-their-annual-year-in-review-for-2024/" >🔗</a> **[NASA]** A Year in Review 2024 from NASA’s Agency Chief Technologist
 - <a href="https://spacenews.com/new-zealand-first-to-offer-nationwide-direct-to-smartphone-starlink-service/" >🔗</a> **[SpaceNews]** New Zealand first to provide nationwide direct-to-smartphone Starlink service
-- <a href="https://www.nasa.gov/general/nasas-spot-the-station-app-developed-by-and-for-the-people/" >🔗</a> **[NASA]** NASA’s Spot the Station App Developed by and for the People
-- <a href="https://spacenews.com/pentagon-report-highlights-chinas-space-advancements-and-ai-driven-precision-warfare/" >🔗</a> **[SpaceNews]** Pentagon report highlights China’s space advancements and AI-driven ‘precision warfare’
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T230121">2024-12-18 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T233119">2024-12-18 23:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
